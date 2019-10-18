@@ -1,0 +1,57 @@
+RSS Indoor Localization and Tracking with INS Assistance 
+ 
+In recent years various indoor localization and tracking systems have received 
+great attention with the increasing demand of location-aware applications in 
+indoor environments. Wireless localization technologies such as received signal 
+strength (RSS) based localization system is widely used due to its low 
+implementation cost. However it suffers poor localization accuracy due to 
+multipath and non-line-of-sight (NLOS) propagation. Unlike wireless 
+localization system, inertial navigation system (INS) doesn’t suffer from 
+multipath and NLOS propagation issue. But INS accuracy degrades as time 
+elapses due to accumulated noise in accelerometers and gyroscopes. Furthermore, 
+inaccurate estimation of inertial measurement unit (IMU) orientation leads to 
+wrong projection of gravitational acceleration into accelerometers, which will 
+cause large localization error. Several fusion systems such as INS with RSS, INS 
+with map etc. have been extensively explored to mitigate above mentioned issues. 
+The existing INS based technique uses INS zero velocity update (ZUPT) with 
+extended Kalman filter (EKF) to mitigate the orientation and localization error. 
+ZUPT requires user to tie IMU on foot to leverage zero velocity measurement to 
+calibrate IMU continuously. To further improve localization accuracy, particle 
+filter (PF) is proposed to model the nonlinear system and maps are used to confine 
+particles movement. The placement of IMU to utilize ZUPT, the computation 
+complexity of PF and the availability of accurate maps make the fusion system 
+challenging for implementation. 
+ 
+This thesis focuses on novel weighted RSS indoor localization and tracking 
+scheme using INS projection. Our proposed scheme does not require IMU to be 
+placed on foot and map information is not needed either. It also reduces 
+computation time compared to PF.  
+
+-----
+This thesis derived a closed form equation to analyze the noise of acceleration 
+along navigation frame, which leads to the error growth of stand-alone INS 
+positioning estimation. The results will be used to calculate weight for proposed 
+scheme in later chapters. With perfect knowledge of IMU orientation with respect 
+to the navigation frame coordinates, this thesis proposes a novel weighted 
+nonlinear RSS localization and tracking scheme fused with INS positioning 
+estimation projection. Due to the accumulating impact of the noise on gyroscope, 
+INS based localization performance deteriorates rapidly even with the known 
+initial orientation assumption. Thus, a novel algorithm is proposed to 
+continuously mitigate the impact of noise on gyroscopes. Simulation results 
+obtained from three different scenarios show the proposed RSS localization 
+scheme fused with INS projection outperforms conventional fusion scheme using 
+EKF by up to 56%. 
+ 
+To develop a more practical scheme without perfect knowledge of IMU 
+orientation with respect to the navigation frame coordinates, a novel algorithm 
+has been proposed to estimate the initial orientation during the calibration stage. 
+To further mitigate the noise from IMU, another algorithm is proposed to 
+continuously mitigate the effect of noise on accelerometers. With all the proposed 
+noise mitigation algorithms and initial calibration, simulation results obtained 
+from three different scenarios show the proposed RSS localization scheme fused 
+with INS projection significantly outperforms conventional fusion scheme using 
+EKF by up to 65%. 
+ 
+ 
+
+-----

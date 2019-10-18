@@ -1,0 +1,449 @@
+Mario Berges (Associate Professor) 
+Address 
+Civil & Environmental Engineering 
+Carnegie Mellon University 
+Pittsburgh, PA 15213‐3890, USA. 
+Email: marioberges@cmu.edu 
+Tel: +1 412‐268‐4572 
+Fax: +1 412‐268‐7813 
+Biography 
+Mario Berges is an associate professor in the Department of Civil and Environmental Engineering 
+at Carnegie Mellon University. He is interested in making our built environment more 
+operationally efficient and robust through the use of information and communication 
+technologies, so that it can better deal with future resource constraints and a changing 
+environment.  
+Berges is the faculty co‐director of the IBM Smart Infrastructure Analytics Laboratory at CMU, as 
+well as the director of the Intelligent Infrastructure Research Lab (INFERLab). Among recent 
+awards, he received the Outstanding Early Career Researcher award from FIATECH in 2010, and 
+the Dean’s Early Career Fellowship from CMU in 2015. 
+Education 
+ PhD 2010 ‐ Carnegie Mellon University. 
+ MS 2007 ‐ Carnegie Mellon University. 
+ Certificate 2005 ‐ Instituto Tecnológico de Santo Domingo (Dominican Republic). 
+ BS 2004 ‐ Instituto Tecnológico de Santo Domingo (Dominican Republic). 
+Research 
+Research Group: AIS‐ Advanced Infrastructure Systems. 
+Research Centers: SII‐ Smart Infrastructure Institute. 
+Areas of Interest 
+ Infrastructure monitoring 
+ Building energy management 
+ Smart grid 
+ Machine learning for signal processing 
+ Sensor networks 
+ 
+ 
+
+-----
+Citation counts: 
+ Web of Science: unavailable. 
+ Google scholar: 1498. 
+ Scopus: 618 total citations by 490 documents. 
+ 
+Publications 
+Articles appearing in journals 
+1. Suman Giri and Mario Bergés. An error correction framework for sequences resulting from 
+known state‐transition models in non‐intrusive load monitoring. Advanced Engineering 
+Informatics, 32:152‐‐162, April 2017.  
+2. Matineh Eybpoosh, Mario Bergés, and Hae Young Noh. Sparse representation of ultrasonic 
+guided‐waves for robust damage detection in pipelines under varying environmental and 
+operational conditions. Structural Control and Health Monitoring, 23(2):369‐‐391, February 
+2016.  
+3. Matineh Eybpoosh, Mario Bergés, and Hae Young Noh. An energy‐based sparse 
+representation of ultrasonic guided‐waves for online damage detection of pipelines under 
+varying environmental and operational conditions. Mechanical Systems and Signal Processing, 
+82:260‐‐278, 2016.  
+4. In‐Soo Jung, Mario Bergés, James H. Garrett Jr., and Barnabas Poczos. Exploration and 
+evaluation of AR, MPCA and KL anomaly detection techniques to embankment dam 
+piezometer data. Advanced Engineering Informatics, 29(4):902‐‐917, October 2015.  
+5. Chang Liu, Joel B. Harley, Mario Bergés, David W. Greve, and Irving J. Oppenheim. Robust 
+ultrasonic damage detection under complex environmental conditions using singular value 
+decomposition. Ultrasonics, 58:75‐‐86, April 2015.  
+6. Emre Can Kara, Mario Bergés, and Gabriela Hug. Impact of Disturbances on Modeling of 
+Thermostatically Controlled Loads for Demand Response. IEEE Transactions on Smart Grid, 
+PP(99):1‐‐1, 2015.  
+7. Emre C. Kara, Jason S. Macdonald, Douglas Black, Mario Bergés, Gabriela Hug, and Sila 
+Kiliccote. Estimating the benefits of electric vehicle smart charging at non‐residential 
+locations: A data‐driven approach. Applied Energy, 155(0):515 ‐‐ 525, 2015.  
+8. Suman Giri and Mario Bergés. An energy estimation framework for event‐based methods in 
+non‐intrusive load monitoring. Energy Conversion and Management, 90:488‐‐498, 2015.  
+9. Farrokh Jazizadeh, Burcin Becerik‐Gerber, Mario Bergés, and Lucio Soibelman. An 
+unsupervised hierarchical clustering based heuristic algorithm for facilitated training of 
+electricity consumption disaggregation systems. Advanced Engineering Informatics, 
+28(4):311‐‐326, 2014.  
+10. 
+Nipun Batra, Oliver Parson, Mario Bergés, Amarjeet Singh, and Alex Rogers. A comparison 
+of non‐intrusive load monitoring methods for commercial and residential buildings. arXiv 
+preprint arXiv:1408.6595, 2014.  
+11. 
+Suman Giri, Mario Bergés, and Anthony Rowe. Towards automated appliance recognition 
+using an EMF sensor in NILM platforms. Advanced Engineering Informatics, 27(4):477‐‐485, 
+October 2013.  
+
+-----
+12. 
+Derrick Carlson, H. Scott Matthews, and Mario Bergés. One size does not fit all: Averaged 
+data on household electricity is inadequate for residential energy policy and decisions. Energy 
+and Buildings, 64:132‐‐144, September 2013.  
+13. 
+Xuesong Liu, Burcu Akinci, Mario Bergés, and James H. Garrett. Domain‐specific querying 
+formalisms for retrieving information of HVAC systems. Journal of Computing in Civil 
+Engineering, February 2013.  
+14. 
+Xuesong Liu, Burcu Akinci, Mario Bergés, and James H. Garrett Jr. Extending the 
+information delivery manual approach to identify information requirements for performance 
+analysis of HVAC systems. Advanced Engineering Informatics, 2013.  
+15. 
+Anthony Rowe, Mario Bergés, Gaurav Bhatia, Ethan Goldman, Raj Rajkumar, James H. 
+Garrett, José M. F. Moura, and Lucio Soibelman. Sensor andrew: Large‐scale campus‐wide 
+sensing and actuation. IBM Journal of Research and Development, 55(1.2):6:1 ‐‐ 6:14, January 
+2011.  
+16. 
+Mario Bergés, Ethan Goldman, Lucio Soibelman, H. Scott Matthews, and Kyle Anderson. 
+User‐centered Non‐Intrusive electricity load monitoring for residential buildings. Journal of 
+Computing in Civil Engineering, 25(1), 2011.  
+17. 
+S. Taneja, B. Akinci, J. H Garrett, L. Soibelman, Mario Bergés, G. Atasoy, X. Liu, S. M. 
+Shahandashti, E. B. Anil, E. Ergen, A. Pradhan, and P. Tang. CEC: sensing and field data capture 
+for construction and facility operations. Journal of Construction Engineering and 
+Management, 137(10):870‐‐881, 2011.  
+18. 
+S. M. Shahandashti, Saiedeh N. Razavi, Lucio Soibelman, Mario Bergés, Carlos H. Caldas, 
+Ioannis Brilakis, Jochen Teizer, Patricio Vela, Carl Haas, James H. Garrett, Burcu Akinci, and 
+Zhenhua Zhu. CEC: data fusion approaches and applications for construction engineering. 
+Journal of Construction Engineering and Management, 137(10):863‐‐869, 2011.  
+19. 
+Mario Bergés, Ethan Goldman, H. Scott Matthews, and Lucio Soibelman. Enhancing 
+electricity audits in residential buildings with nonintrusive load monitoring. Journal of 
+Industrial Ecology, 14(5):844‐‐858, October 2010.  
+20. 
+Mario Bergés, Ethan Goldman, H. Scott Matthews, and Lucio Soibelman. Training load 
+monitoring algorithms on highly Sub‐Metered home electricity consumption data. Tsinghua 
+Science & Technology, 13:406–411, 2008.  
+Articles appearing in conference proceedings 
+1. Minkyung Kang, Mario Bergés, and Burcu Akinci. Forecasting airport building electricity 
+demand based on flight schedule information for demand response applications. In 
+Transportation Research Board 96th Annual Meeting Compendium of Papers, 2017.  
+2. Minkyung Kang, Mario Bergés, and Burcu Akinci. Electric load prediction baseline for airport 
+buildings: A case study. In Proceedings of the 2016 Construction Research Congress, San Juan, 
+Puerto Rico, June 2016.  
+3. Henning Lange and Mario Bergés. The Nerual Energy Decoder: Energy Disaggregation by 
+Combining Binary Subcomponents. In 3rd International Workshop on Non‐Intrusive Load 
+Monitoring, Vancouver, Canada, May 2016.  
+4. Henning Lange and Mario Bergés. Efficient Inference in Dual‐emission FHMM for Energy 
+Disaggregation. In Workshops at the Thirtieth AAAI Conference on Artificial Intelligence, 
+Phoenix, Arizona, USA, February 2016.  
+
+-----
+5. Bharathan Balaji, Arka Bhattacharya, Gabriel Fierro, Jingkun Gao, Joshua Gluck, Dezhi Hong, 
+Aslak Johansen, Jason Koh, Joern Ploennigs, Yuvraj Agarwal, Mario Berges, David Culler, Rajesh 
+Gupta, Mikkel Baun Kjærgaard, Mani Srivastava, and Kamin Whitehouse. Portable queries 
+using the brick schema for building applications: Demo abstract. In Proceedings of the 3rd 
+ACM International Conference on Systems for Energy‐Efficient Built Environments, BuildSys 
+'16, pages 219‐‐220, New York, NY, USA, 2016. ACM.  
+6. Bharathan Balaji, Arka Bhattacharya, Gabriel Fierro, Jingkun Gao, Joshua Gluck, Dezhi Hong, 
+Aslak Johansen, Jason Koh, Joern Ploennigs, Yuvraj Agarwal, Mario Berges, David Culler, Rajesh 
+Gupta, Mikkel Baun Kjærgaard, Mani Srivastava, and Kamin Whitehouse. Brick: Towards a 
+unified metadata schema for buildings. In Proceedings of the 3rd ACM International 
+Conference on Systems for Energy‐Efficient Built Environments, BuildSys '16, New York, NY, 
+USA, 2016. ACM.  
+7. Henning Lange and Mario Bergés. Bolt: Energy disaggregation by online binary matrix 
+factorization of current waveforms. In Proceedings of the 3rd ACM International Conference 
+on Systems for Energy‐Efficient Built Environments, BuildSys '16, pages 11‐‐20, New York, NY, 
+USA, 2016. ACM.  
+8. Peng Gong, Joel B. Harley, Mario Bergés, Warren R. Junker, David W. Greve, and Irving J. 
+Oppenheim. Ultrasonic guided wave detection of scatterers on large clad steel plates. volume 
+9803, pages 98033O‐‐98033O‐‐9, 2016.  
+9. Kyle Anderson, Mario Bergés, and José M. F. Moura. Non‐Intrusive Load Monitoring: A Power 
+Consumption Based Relaxation. Orlando, Florida, USA, December 2015. IEEE.  
+10. 
+Suman Giri and Mario Bergés. Virtual metering of electrical appliances through analysis 
+of data from contactless sensing. Orlando, Florida, USA, December 2015. IEEE.  
+11. 
+Jingkun Gao, Emre Can Kara, Suman Giri, and Mario Bergés. A feasibility study of 
+automated plug‐load identification from high‐frequency measurements. Orlando, Florida, 
+USA, December 2015. IEEE.  
+12. 
+Xuechen Lei, Minkyung Kang, Mario Bergés, and Burcu Akinci. Assessment of Industry 
+Foundation Classes (IFC) in Supporting Building Energy Benchmarking. In Proceedings of the 
+32nd CIB W78 Conference 2015, Eindhoven, The Netherlands, October 2015.  
+13. 
+Jingkun Gao, Joern Ploennigs, and Mario Bergés. A Data‐driven Meta‐data Inference 
+Framework for Building Automation Systems. In Proceedings of the 2Nd ACM International 
+Conference on Embedded Systems for Energy‐Efficient Built Environments, BuildSys '15, pages 
+23‐‐32, New York, NY, USA, 2015. ACM.  
+14. 
+Matineh Eybpoosh, Mario Bergés, and Hae Young Noh. Effects of damage location and 
+size on sparse representation of guided‐waves for damage diagnosis of pipelines under varying 
+temperature. volume 9437, pages 94371X‐‐94371X‐‐9, 2015.  
+15. 
+Matineh Eybpoosh, Mario Bergés, and Hae Young Noh. Nonlinear feature extraction 
+methods for removing temperature effects in multi‐mode guided‐waves in pipes. volume 
+9437, pages 94371W‐‐94371W‐‐16, 2015.  
+16. 
+Matineh Eybpoosh, Mario Bergés, and Hae Young Noh. Temperature variation effects on 
+sparse representation of guided‐waves for damage diagnosis in pipelines. volume 9437, pages 
+94371N‐‐94371N‐‐11, 2015.  
+17. 
+In‐Soo Jung, Mario Bergés, and James H. Garrett Jr. Anomaly detection on piezometer 
+data collected from embankment dams using physical model‐based simulation. In Proceedings 
+
+-----
+of the 2014 International Conference on Computing in Civil and Building Engineering (ICCCBE), 
+pages 1771‐‐1778, Orlando, Florida, USA, June 2014. ASCE.  
+18. 
+Alejando Gomez Rivera, Sergio Guindon, Timothy Pianka, Neil Patel, Varun Kasireddy, 
+Enze Li, Jungcheng Li, Semiha Ergan, and Mario Bergés. Lessons learned from monitoring 
+electricity consumption in a research lab through a capstone project course. In Proceedings of 
+the 2014 International Conference on Computing in Civil and Building Engineering (ICCCBE), 
+Orlando, Florida, USA, June 2014. ASCE.  
+19. 
+Matineh Eybpoosh, Mario Bergés, and Hae Young Noh. Investigation on the effects of 
+environmental and operational conditions (eoc) on diffuse‐field ultrasonic guided‐waves in 
+pipes. In Proceedings of the 2014 International Conference on Computing in Civil and Building 
+Engineering (ICCCBE), Orlando, Florida, USA, June 2014.  
+20. 
+Alejando Gomez, Mario Bergés, and Burcu Akinci. Exploratory study towards streamlining 
+the identification of sensor locations within a facility. In Proceedings of the 2014 International 
+Conference on Computing in Civil and Building Engineering (ICCCBE), pages 1820‐‐1827, 
+Orlando, Florida, USA, June 2014. ASCE.  
+21. 
+Farrokh Jazizadeh, Burcin Becerik‐Gerber, Mario Bergés, and Lucio Soibelman. 
+Unsupervised clustering of residential electricity consumption measurements for facilitated 
+user‐centric non‐intrusive load monitoring. In Proceedings of the 2014 International 
+Conference on Computing in Civil and Building Engineering (ICCCBE), pages 1869‐‐1876, 
+Orlando, Florida, USA, June 2014.  
+22. 
+Emre Can Kara, Mario Bergés, and Gabriela Hug. Modeling thermostatically controlled 
+loads to engage households in the smart grid: Lessons learned from residential refrigeration 
+units. In Proceedings of the 2014 International Conference on Computing in Civil and Building 
+Engineering (ICCCBE), pages 2032‐‐2039, Orlando, Florida, USA, June 2014. ASCE.  
+23. 
+Miguel Mora, Burcu Akinci, and Mario Bergés. Information exchange requirements to 
+support commissioning of HVAC and building envelope components during an energy retrofit 
+project ‐ a comparative case study. In Proceedings of the 2014 International Conference on 
+Computing in Civil and Building Engineering (ICCCBE), pages 1481‐‐1488, Orlando, Florida, 
+USA, June 2014. ASCE.  
+24. 
+Jingkun Gao, Suman Giri, Emre Can Kara, and Mario Bergés. Plaid: a public dataset of high‐
+resoultion electrical appliance measurements for load identification research: demo abstract. 
+In Proceedings of the 1st ACM Conference on Embedded Systems for Energy‐Efficient 
+Buildings, pages 198‐‐199. ACM, 2014.  
+25. 
+Merthan Koc, Burcu Akinci, and Mario Bergés. Comparison of linear correlation and a 
+statistical dependency measure for inferring spatial relation of temperature sensors in 
+buildings. In Proceedings of the 1st ACM Conference on Embedded Systems for Energy‐
+Efficient Buildings, pages 152‐‐155. ACM, 2014.  
+26. 
+Christopher Palmer, Patrick Lazik, Maxim Buevich, Jingkun Gao, Mario Bergés, Anthony 
+Rowe, Ricardo Lopes Pereira, and Christopher Martin. Mortar.io: a concrete building 
+automation system: demo abstract. In Proceedings of the 1st ACM Conference on Embedded 
+Systems for Energy‐Efficient Buildings, pages 204‐‐205. ACM, 2014.  
+27. 
+Emre Can Kara, Zico Kolter, Mario Bergés, Bruce Krogh, Gabriela Hug, and T. Yuksel. A 
+moving horizon state estimator in the control of thermostatically controlled loads for demand 
+
+-----
+response. In Proceedings of the 4th International Conference on Smart Grid Communications 
+(SmartGridComm). IEEE, September 2013.  
+28. 
+Chang Liu, Joel B. Harley, David Greve, Mario Bergés, and Irving Oppenheim. Identifying 
+pipe degradation in a highly dynamic environment using singular value decomposition. In 
+Proceedings of the Ninth International Workshop on Structural Health Monitoring, volume 1, 
+pages 815‐‐822, Palo Alto, California, September 2013.  
+29. 
+Suman Giri, Po‐Hsian Lai, and Mario Bergés. Novel techniques for ON and OFF states 
+detection of appliances for power estimation in non‐intrusive load monitoring. In Proceedings 
+of the The 30th International Symposium on Automation and Robotics in Construction and 
+Mining (ISARC), Montreal, Canada, August 2013.  
+30. 
+In‐Soo Jung, Jennifer Fraizer, Burcu Akinci, Mario Bergés, Semiha Ergan, James H. Garrett, 
+and Christopher Kelly. Towards dam information modeling: Best practices learned from the 
+AEC/FM domain. In Proceedings of the 2013 International Commission on Large Dams (ICOLD), 
+Seattle, WA, August 2013.  
+31. 
+Suman Giri and Mario Bergés. Towards automatic classification of appliances: Tackling 
+cross talk in EMF sensors using blind source separation techniques. In Proceedings of the 2013 
+International EG‐ICE Workshop on Intelligent Computing, Vienna, Austria, July 2013.  
+32. 
+Farrokh Jazizadeh, Burcin Becerik‐Gerber, Lucio Soibelman, and Mario Bergés. Towards 
+passive training for non‐intrusive load monitoring. In Proceedings of the 2013 International 
+EG‐ICE Workshop on Intelligent Computing, Vienna, Austria, July 2013.  
+33. 
+In‐Soo Jung, Mario Bergés, James H. Garrett, and Christopher Kelly. Interpreting the 
+dynamics of embankment dams through a time‐series analysis of multiple piezometer data 
+using a non‐parametric spectral estimation method. In Proceedings of the 2013 ASCE 
+International Workshop on Computing in Civil Engineering, Los Angeles, California USA, June 
+2013. ASCE.  
+34. 
+Emre Can Kara and Mario Bergés. Demand response in buildings: Engaging 
+thermostatically controlled loads in the power grid. In Proceedings of the 2013 ASCE 
+International Workshop on Computing in Civil Engineering, Los Angeles, California USA, June 
+2013. ASCE.  
+35. 
+Chang Liu, Joel B. Harley, Yujie Ying, Martin H. Altschul, Mario Bergés, David Greve, José 
+M. F. Moura, Irving Oppenheim, and Lucio Soibelman. Ultrasonic monitoring of a pressurized 
+pipe in operation. In Proceedings of the 2013 ASCE Structures Congress, Pittsburgh, PA, April 
+2013. ASCE.  
+36. 
+Niranjini Rajagopal, Anthony Rowe, Suman Giri, and Mario Bergés. Demo abstract: A 
+magnetic field‐based appliance metering system. In Proceedings of the 12th ACM/IEEE 
+International Conference on Information Processing in Sensor Networks, Philadelphia, PA, 
+April 2013. ACM/IEEE.  
+37. 
+Niranjini Rajagopal, Suman Giri, Anthony Rowe, and Mario Bergés. A magnetic field‐based 
+appliance metering system. In ACM/IEEE Third International Conference on Cyber‐Physical 
+Systems, Philadelphia, PA, April 2013.  
+38. 
+Chang Liu, Joel B. Harley, Yujie Ying, Mario Bergés, James H. Garrett, David Greve, and 
+Irving Oppenheim. Singular value decomposition for novelty detection in ultrasonic pipe 
+monitoring. In Proceedings of the 2013 SPIE Smart Structures/NDE Conference, volume 8692‐
+58, San Diego, California, United States, February 2013.  
+
+-----
+39. 
+Leneve Ong, Mario Bergés, and Hae Young Noh. Exploring sequential and association rule 
+mining for pattern‐based energy demand characterization. In Proceedings of the 5th ACM 
+Workshop on Embedded Systems For Energy‐Efficient Buildings, BuildSys'13, pages 25:1‐‐25:2, 
+New York, NY, USA, 2013. ACM.  
+40. 
+Kyle Anderson, Mario Bergés, Adrian Ocneanu, Diego Benitez, and José M. F. Moura. 
+Event detection for non intrusive load monitoring. In Proceedings of the 38th Annual 
+Conference on IEEE Industrial Electronics Society (IECON), Montreal, Canada, November 2012. 
+IEEE.  
+41. 
+Emre Can Kara, Mario Bergés, Bruce H. Krogh, and Soummya Kar. Using smart devices for 
+system‐level management and control in the smart grid: A reinforcement learning framework. 
+In Proceedings of the 3rd International Conference on Smart Grid Communications 
+(SmartGridComm), Tainan City, Taiwan, November 2012. IEEE.  
+42. 
+Kyle Anderson, Adrian Ocneanu, Diego Benitez, Derrick Carlson, Anthony Rowe, and 
+Mario Bergés. BLUED: a fully labeled public dataset for Event‐Based Non‐Intrusive load 
+monitoring research. In Proceedings of the 2nd KDD Workshop on Data Mining Applications 
+in Sustainability (SustKDD), Beijing, China, August 2012.  
+43. 
+Chang Liu, Joel B. Harley, Nicholas O’Donoughue, Yujie Ying, Mario Bergés, Martin H. 
+Altschul, James H. Garrett, David Greve, José M. F. Moura, Irving Oppenheim, and Lucio 
+Soibelman. Ultrasonic scatterer detetion in a pipe under operating conditions using singular 
+value decomposition. In 39th Annual Review of Progress in Quantitative Nondestructive 
+Evaluation, Denver, CO, USA, July 2012.  
+44. 
+Suman Giri and Mario Bergés. A study on the feasibility of automated data labeling and 
+training using an EMF sensor in NILM platforms. In Proceedings of the 2012 International EG‐
+ICE Workshop on Intelligent Computing, Herrsching, Germany, July 2012.  
+45. 
+Xuesong Liu, Burcu Akinci, James H. Garrett, and Mario Bergés. Requirements for a formal 
+approach to represent information exchange requirements of a self‐managing framework for 
+HVAC systems. In Proceedings of the 2012 International Conference on Computing in Civil and 
+Building Engineering, Moscow, Russia, July 2012.  
+46. 
+Lucas Pereira, Filipe Quintal, Nuno J. Nunes, and Mario Bergés. The design of a hardware‐
+software platform for long‐term energy eco‐feedback research. In Proceedings of the 4th ACM 
+SIGCHI Symposium on Engineering Interactive Computing Systems (EICS), Copenhagen, 
+Denmark, June 2012. ACM.  
+47. 
+Xuesong Liu, Burcu Akinci, Mario Bergés, and James H. Garrett. An integrated 
+performance analysis framework for HVAC systems using heterogeneous data models and 
+building automation systems. In Proceedings of the 4th ACM Workshop on Embedded Systems 
+for Energy‐Efficiency in Building, BuildSys '12, pages 145‐‐152, Toronto, Canada, 2012. ACM.  
+48. 
+Derrick R. Carlson, Mario Bergés, and H. Scott Matthews. How many appliances does it 
+take to…? In 1st International Workshop on Non‐Intrusive Load Monitoring, 2012.  
+49. 
+Matineh Eybpoosh, Burcu Akinci, and Mario Bergés. A taxonomy for depicting geospatial 
+deviations of facilities extracted through comparisons between point clouds and building 
+information models. In ASCE International Workshop on Computing in Civil Engineering, 
+Clearwater Beach, FL, 2012. ASCE.  
+50. 
+Xuesong Liu, Burcu Akinci, Mario Bergés, and James H. Garrett Jr. Exploration and 
+comparison of approaches for integrating heterogeneous information sources to support 
+
+-----
+performance analysis of HVAC systems. In ASCE International Workshop on Computing in Civil 
+Engineering, Clearwater Beach, FL, 2012. ASCE.  
+51. 
+Matineh Eybpoosh, Burcu Akinci, and Mario Bergés. Effects of planning and data 
+collection approaches on the quality of processed laser scanned data: Lessons learned. In 
+Construction Research Congress, West Lafayette, IN, 2012.  
+52. 
+Hugo Goncalves, Adrian Ocneanu, and Mario Bergés. Unsupervised disaggregation of 
+appliances using aggregated consumption data. In 1st KDD Workshop on Data Mining 
+Applications in Sustainability (SustKDD), August 2011.  
+53. 
+Mario Bergés, Emre Can Kara, Ethan Goldman, and Anthony Rowe. Towards automated 
+detection and state tracking of artificial light sources from sequential pictures inside buildings. 
+In International Workshop on Intelligent Computing in Engineering, Enschede, The 
+Netherlands, July 2011.  
+54. 
+N.J. Nunes, L. Pereira, F. Quintal, and Mario Bergés. Deploying and evaluating the 
+effectiveness of energy eco‐feedback through a low‐cost NILM solution. In Proceedings of the 
+6th International Conference on Persuasive Technology, Colombus, OH, June 2011.  
+55. 
+Yuanwei Jin, Eniye Tebekaemi, Mario Bergés, and Lucio Soibelman. Robust adaptive event 
+detection in non‐intrusive load monitoring for energy aware smart facilities. In Proceedings of 
+the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pages 
+4340 ‐‐4343, May 2011.  
+56. 
+Xuesong Liu, Burcu Akinci, James H. Garrett Jr, and Mario Bergés. Requirements and 
+development of a computerized approach for analyzing functional relationships among HVAC 
+components using building information models. In CIB W078 ‐ W102, France, 2011.  
+57. 
+Mario Bergés and Anthony Rowe. Poster abstract: Appliance classification and energy 
+management using Multi‐Modal sensing. In Proceedings of the 3rd ACM Workshop on 
+Embedded Sensing Systems for Energy‐Efficiency in Building, BuildSys '11, Seattle, WA, 2011. 
+ACM.  
+58. 
+Yuanwei Jin, Eniye Tebekaemi, Mario Bergés, and Lucio Soibelman. A time‐frequency 
+approach for event detection in non‐intrusive load monitoring. In Proceedings of the Signal 
+Processing, Sensor Fusion, and Target Recognition XX, pages 80501U‐‐80501U‐‐13, Orlando, 
+Florida, USA, 2011.  
+59. 
+X. Liu, B. Akinci, J.H. Garrett Jr, and Mario Bergés. Requirements for an integrated 
+framework of Self‐Managing HVAC systems. In ASCE International Workshop on Computing in 
+Civil Engineering, Miami, FL, 2011. ASCE.  
+60. 
+Mario Bergés, Lucio Soibelman, and H. Scott Matthews. Building commissioning as an 
+opportunity for training Non‐Intrusive load monitoring algorithms. In Proceedings of the 6th 
+International Conference on Innovation in Architecture, Engineering and Construction (AEC), 
+State College, PA, July 2010.  
+61. 
+Mario Bergés, Lucio Soibelman, and H. Scott Matthews. Leveraging data from 
+environmental sensors to enhance electrical load disaggregation algorithms. In Proceedings 
+of the 13th International Conference on Computing in Civil and Building Engineering, 
+Nottingham, UK, June 2010.  
+62. 
+Anthony Rowe, Mario Bergés, and Raj Rajkumar. Contactless sensing of appliance state 
+transitions through variations in electromagnetic fields. In Proceedings of the 2nd ACM 
+
+-----
+Workshop on Embedded Sensing Systems for Energy‐Efficiency in Building, BuildSys '10, page 
+19–24, New York, NY, USA, 2010. ACM. ACM ID: 1878437.  
+63. 
+Filipe Quintal, Nuno J Nunes, Adrian Ocneanu, and Mario Bergés. SINAIS: home 
+consumption package: a low‐cost eco‐feedback energy‐monitoring research platform. In 
+Proceedings of the 8th ACM Conference on Designing Interactive Systems, DIS '10, page 419–
+421, New York, NY, USA, 2010. ACM. ACM ID: 1858252.  
+64. 
+Mario Bergés, H. Scott Matthews, and Lucio Soibelman. A system for disaggregating 
+residential electricity consumption by appliance. In Sustainable Systems and Technology 
+(ISSST), 2010 IEEE International Symposium on, page 1, 2010. 
+65. 
+Mario Bergés, Lucio Soibelman, H. Scott Matthews, and Ethan Goldman. Evaluating the 
+electric consumption of residential buildings: Current practices and future prospects. In 
+Proceedings of the 2010 Construction Research Congress, pages 8‐‐8, Banff, Alberta, Canada, 
+2010.  
+66. 
+Anthony Rowe, Mario Bergés, Gaurav Bhatia, Ethan Goldman, R. Rajkumar, and L. 
+Soibelman. Demo abstract: The sensor andrew infrastructure for large‐scale campus‐wide 
+sensing and actuation. In Information Processing in Sensor Networks, 2009. IPSN 2009. 
+International Conference on, pages 415 ‐‐416, April 2009.  
+67. 
+Mario Bergés, Ethan Goldman, H. Scott Matthews, and Lucio Soibelman. Learning systems 
+for electric consumption of buildings. In ASCE International Workshop on Computing in Civil 
+Engineering, Austin, Texas, USA, 2009. ASCE.  
+68. 
+H. Scott Matthews, Lucio Soibelman, Mario Bergés, and Ethan Goldman. Automatically 
+disaggregating the total electrical load in residential buildings: a profile of the required 
+solution. In International Workshop on Intelligent Computing in Engineering, page 381–389, 
+2008. 
+
+-----

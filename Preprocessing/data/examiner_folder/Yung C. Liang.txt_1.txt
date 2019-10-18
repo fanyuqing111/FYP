@@ -1,0 +1,948 @@
+Yung C. Liang, Ph.D., P.Eng
+Associate Professor, Power Electronics Laboratory 
+Department of Electrical and Computer Engineering
+National University of Singapore, Singapore 119260
+Research Interest and Grants
+MOS-bipolar Semiconductor Devices and Smart Power IC’s; Wide Bandgap Devices, Micro-actuator and 
+Sensors; RF Power Semiconductor Devices and Integration; RF MEMS; Micro Fuel Cell; Ferroelectric 
+Photovoltaic Thin Film; On-Chip Power Source and Management; Smart Dust Sensor Network
+
+Neural network tooled power electronic design automation
+January 1992 – December 1993 
+S$72,000 (Academic Research Fund), Principal Investigator
+
+Fabrication and characterisation of semiconductor-type gas sensor
+January 1997 – January 1999
+S$69,800 (Academic Research Fund), Collaborator
+
+Design of lateral IGBT devices with integrated current sensor
+September 1996 – July 1999
+S$150,048 (Academic Research Fund), Principal Investigator
+
+Design and development of a kinetic battery for notebook computers
+April 1997 – April 1998
+S$273,960 (Funded by Serial Systems Pte Ltd), Principal Investigator
+
+Advanced MIL standard DC/DC converter
+May 1998 – May 1999
+S$81,000 (Funded by the Defense Science Organisation), Collaborator
+
+Design of synchronous rectifier for ultra high-density power conversion
+October 1998 – July 2001
+S$228,272 (Academic Research Fund), Principal Investigator
+
+Design of low-rate MEMS microgyroscope
+October 1998 – October 2001
+S$1,500,000 (DSO-IMRE Research Grant), Collaborator
+
+Development of high-power RF MEMS system-on-chip technology for mobile applications
+November 1999 – December 2001
+S$563,000 (NSTB Research Fund), Principal Investigator
+
+Integrated Microelectromechanical Systems on Chip
+May 2000 – November 2002
+S$170,000 (Academic Research Fund), Collaborator
+Page 1 of 17
+Resume: Yung C. Liang
+8/21/2018
+https://www.ece.nus.edu.sg/stfpage/elelyc/
+
+-----
+
+Development of Superjunction technology for Smart Power Integration
+July 2001 – June 2003
+S$200,000 (Ontario-Singapore Research Programme), Principal Investigator
+
+Multiple-gate Lateral Superjunction MOSFET Device Technology
+June 2004 – May 2007
+S$294,642 (Academic Research Fund & IME Collaboration), Principal Investigator
+
+Functionality Enhancement of Electrical Capacitance Tomography System for Advanced 
+Multiphase System Research
+December 2006 – November 2009
+S$168,646 (Academic Research Fund), Collaborator
+
+Ferroelectric Direct-Optical Capturing Device for Wearable Applications
+      January 2010 – June 2012
+      S$292,110 (Keio-NUS CUTE Centre), Principal Investigator
+
+GaN Power Device Technology (MOS-HEMT) on GaN-on-Si for High Voltage (kV) High 
+Power (kW) Applications
+      April 2011 – March 2014
+      S$1,500,461 (A*STAR), Principal Investigator
+
+Power Semiconductor Device Technology for Traction Applications
+      January 2012 – December 2013
+      US$100,000 (NUSRI), Principal Investigator
+
+Grid/Building cooperation through a Building Operating System
+      August 2012 – July 2015
+      S$2,684,000 (SinBerBest*), Co-Principal Investigator
+      *: Singapore Berkeley Building Efficiency and Sustainability in the Tropics
+Patent
+• Oxide-bypassed MOSFET (OBMOS) (US Provisional Patent 60/295,581)
+• Process for device using partial SOI (US Patent Number 6,551,937B2) 
+• Power MOSFET having enhanced breakdown voltage (US Patent Number 6,853,033 B2)
+Professional Society Membership
+Senior Member, Institute of Electrical & Electronics Engineers, USA
+Member, Association of Professional Engineers, Scientists and Managers, Australia
+Member, Phi Tau Phi Scholastic Honourary Society, Taiwan
+Member, Association of Professional Engineers, Taiwan
+Fellow, Society of Industry Technology, Singapore
+Professional Activities 
+
+Founding Chairman, IEEE Industry Applications Chapter, Singapore Section, 1993 – 1995
+
+Member, Power Electronic Devices and Components Committee (IEEE IA Society), 1997 – 1999
+
+Chairman, Computer and Workstation Sub-committee (Green label, Ministry of Environment, 
+Singapore), 1997 – 1999 
+
+Vice Chairman, IEEE Singapore Section, 1997 – 1998
+
+Chairman, IEEE Singapore Section, 1998 – 1999
+
+President, Society of Industry Technology, Singapore, 1999-2000
+
+Member, Mediation Committee, Consumers Association of Singapore, 1999 – 2002 
+Page 2 of 17
+Resume: Yung C. Liang
+8/21/2018
+https://www.ece.nus.edu.sg/stfpage/elelyc/
+
+-----
+Conference Activities
+
+Programme Committee, IEEE ISEDEM Conference, Singapore 1993
+
+Technical Programme Chairman, IEEE International Conference on Power Electronics and Drive 
+Systems, Singapore, 1995
+
+Programme Committee, IEEE EMPD Conference, Singapore 1995
+
+Organising Chairman, IEEE International Conference on Power Electronics and Drive System, 
+Singapore, 1997
+
+Programme Committee, Globaltronics and Enex Asia Conference, Singapore, 1998
+
+The 28th IEEE Power Electronics Specialist Conference, Japan, 1998
+
+International Conference on Power Electronics, Drives and Energy Systems, Australia, 1998
+
+International Conference on Applications of Computers, Electronics & Electrical Engineering in 
+Petroleum & Chemical Industry, India, 1998
+
+IEEE Asia-Pacific Conference on ASIC’s, Korea 1999
+
+IEEE Region 10 Conference, Korea, 1999
+
+Third IASTED International Conference on Power and Energy Systems, USA, 1999
+
+Third IEEE International Conference on Power Electronics and Drive Systems, Hong Kong, 1999
+
+Management Committee, The Third IEEE International Conference on Power Electronics and 
+Drive Systems, Hong Kong, 1999
+
+Committee Member, IEEE Power Engineering Society Winter Meeting, Singapore, 2000
+
+Programme Committee, Symposium on Design, Test, Integration and Packaging of 
+MEMS/MOEMS, France, 2000
+
+Programme Committee, Globaltronics Conference, Singapore 2000
+
+IEEE Region 10 Conference, Malaysia 2000
+
+IEEE Asia-Pacific Conference on ASIC’s, Korea 2000
+
+Fourth IASTED International Conference on Power and Energy Systems, Spain, 2000
+
+Fifth IASTED International Conference on Power and Energy Systems, USA, 2001
+
+The 32nd IEEE Power Electronics Specialist Conference, Canada, 2001
+
+Organising Chairman, IEEE Region 10 International Conference on Electrical and Electronics 
+Technology, Singapore-Thailand, 2001
+
+Programme Committee, Symposium on Design, Test, Integration and Packaging of 
+MEMS/MOEMS, France, 2001
+
+Management Committee, The Fourth IEEE International Conference on Power Electronics and 
+Drive Systems, Indonesia, 2001
+
+Programme Committee, Symposium on Design, Test, Integration and Packaging of 
+MEMS/MOEMS, France, 2002
+
+Sixth IASTED International Conference on Power and Energy Systems, USA, 2002
+
+First International Conference on Information Technology & Applications, Australia, 2002
+
+Conference Co-chairman, The Fifth IEEE International Conference on Power Electronics and 
+Drive Systems, Singapore 2003
+
+Programme Committee, Symposium on Design, Test, Integration and Packaging of 
+MEMS/MOEMS, France, 2003 
+
+Programme Committee, Symposium on Design, Test, Integration and Packaging of 
+MEMS/MOEMS, Switzerland, 2004
+
+Second International Conference on Information Technology & Applications, China, 2004
+
+Programme Committee, 7th IASTED International Conference on Power and Energy Systems, 
+Florida, USA, 2004
+
+Technical programme Committee, IASTED International Conference on Energy and Power 
+Systems, Marina del Rey, USA, 2005
+
+Programme Committee, Symposium on Design, Test, Integration and Packaging of 
+MEMS/MOEMS, Switzerland, 2005
+
+Third International Conference on Information Technology & Applications, Sydney, Australia, 
+2005
+
+The Sixth International Conference on Power Electronics and Drive Systems, Malaysia, 2005
+
+International Scientific Committee, International MEMS Conference, Singapore, 2006
+Page 3 of 17
+Resume: Yung C. Liang
+8/21/2018
+https://www.ece.nus.edu.sg/stfpage/elelyc/
+
+-----
+
+Programme Committee, Symposium on Design, Test, Integration and Packaging of 
+MEMS/MOEMS, Italy, 2006
+
+Programme Committee, Symposium on Design, Test, Integration and Packaging of 
+MEMS/MOEMS, Italy, 2007
+
+The Seventh International Conference on Power Electronics and Drive Systems, Thailand, 2007
+
+Conference Co-Chairman, IEEE International Conference on Sustainable Energy Technologies, 
+Singapore, 2008
+
+Programme Committee, Symposium on Design, Test, Integration and Packaging of 
+MEMS/MOEMS, France, 2008
+
+Publication Chairman, 5th International Conference on Information Technology and Applications, 
+Australia, 2008
+
+Programme Committee, Symposium on Design, Test, Integration and Packaging of 
+MEMS/MOEMS, Italy, 2009
+
+Technical Programme Coordinator, 6th International Conference on Information Technology and 
+Applications, Vietnam, 2009
+
+Management Committee, The 8th International Conference on Power Electronics and Drive 
+Systems, Taiwan, 2009
+
+Programme Committee, Symposium on Design, Test, Integration and Packaging of 
+MEMS/MOEMS, Spain, 2010
+
+Technical Programme Chair, 2nd IEEE International Conference on Sustainable Energy 
+Technologies, Sri Lanka, 2010
+
+Management Committee, The 9th International Conference on Power Electronics and Drive 
+Systems, Singapore, 2011
+
+International Programme Committee, The 10th IASTED European Conference on Power and 
+Energy Systems, Greece, 2011
+
+Programme Committee, Symposium on Design, Test, Integration and Packaging of 
+MEMS/MOEMS, France, April, 2012
+
+Management Committee, 3nd IEEE International Conference on Sustainable Energy Technologies, 
+Nepal, 2012
+
+Management Committee, The 10th International Conference on Power Electronics and Drive 
+Systems, Japan, 201
+Editorial Service and Reviewer
+IEEE Transactions on Power Electronics (Associate Editor, 2002 – present)
+Recent Patents on Electrical Engineering (Editorial Board, 2007 – 2011)
+International Journal of Power Electronics (Associate Editor, 2008 – present)
+International Journal of Electronics (Guest Editor on power electronics)
+Reviewer:          IEEE Transactions on Power Electronics
+                        IEEE Transactions on Industrial Electronics
+                        IEEE Electron Device Letters
+                        Electronic Journal, Institute of Physics Publishing
+                        Mechatronics Journal
+                        International Journal of Power and Energy Systems
+                        IEEE Transactions on Electron Devices
+                        Microelectronics Journal: Circuits and Systems
+                        Journal of Physics D: Applied Physics
+                        Analog Integrated Circuits and Signal Processing
+                        Semiconductor Science and Technology
+                        IEEE Sensor Journal
+Accreditation Assessor/Academic Examiner
+• External Examiner, University of Wales, UK (B.Sc.(Honour) Computer Science and Information 
+Technology Programme at Informatics College), 1998 – 2002 
+Page 4 of 17
+Resume: Yung C. Liang
+8/21/2018
+https://www.ece.nus.edu.sg/stfpage/elelyc/
+
+-----
+• Assessor, Singapore Laboratory Accreditation Council, Singapore, 1994 – 1999
+• Assessor, TEKES Telectronics Programme, Finland, 2001
+• Research grant reviewer, University of California, Microelectronics Innovation and Computer Research 
+Opportunities, 2006
+Technical and Service Award
+The Second Prize, Inter-universities/colleges hardware design award, Taiwan (1982)
+Motorola Microcontroller University Design Award (Asia Pacific Region) (1993)
+IEEE Third Millennium Medal, 2000
+IEEE Transactions Paper Prize Award, 2000 (Power Electronics Society)
+University Services
+ECE Department:                     IEE Accreditation Committee, 1994 – 1996
+                                               Social Committee, 1992 – 1997
+Computer Advisory Committee, 1996 – 1998
+                                               Web Committee, 1994 – 1999
+                                               Computer Engineering Programme Workgroup, 1995
+                                               Supervisor, Power Electronic Laboratory, 2004 – present
+                                               ECE Research Task Force, 2008-2010
+                                               A*STAR Thematic Programme Coordinator, 2011 – present
+                                               Research Student Admission Committee, 2012 – present
+                                               PhD Examination Committee, 2012 - present                                               
+Faculty of Engineering:            Industrial Attachment Committee, 1996-2004
+                                               Intranet Committee, 1998-1999
+                                               Professional Activities Committee, 1998 – 2000
+                                               Research Publication Committee, 2003 – 2004
+                                               Assistant Dean (Undergraduate Programme), 2004 – 2008
+                                               DCC Programme Coordinator, 2009 - 2011
+Teaching Experience
+Analogue Electronics; Power Semiconductor Devices and ICs; Power Electronics; Electrical Machines; 
+Digital Electronics; Mechatronics;  Microprocessors and Microcontrollers; Logic Designs; Power 
+Systems; Transmission and Distribution; Protection and Switchgear; Software Programming.
+Device/System Prototypes Developed
+PWM Modem for LAN communication (1980)
+Computerised 3-axis CNC Controller (1979-80)
+Maximum Power Point Tracker for Solar Panel (1982)
+High-voltage PWM Inverter (1985)
+High-voltage Insulated Gate Bipolar Transistor (1992)
+Integrated Lateral Current Sensor in IGBT Structure (1995)
+Bi-direction IGBT Power Devices (1998)
+MOS-Bipolar HF Synchronous Rectifier (1999-2000)
+Smart Power Integration for IGBT over-current protection (2000)
+Partial SOI LDMOS with Cylindrical Drain Trench (2000) 
+Silicon Bulk Micromached Microgyroscope (2000)
+Silicon Surface Micromachined Microgyroscope (2000)
+ASIC for driving/detection circuits for Silicon Microgyroscope (2000)  
+2 GHz RF Power LDMOS (1999-2001)
+2D/3D Micro-inductor on Silicon wafer (2000-2001)
+Poly-franked High-voltage Superjunction VDMOS Devices (2000)
+Page 5 of 17
+Resume: Yung C. Liang
+8/21/2018
+https://www.ece.nus.edu.sg/stfpage/elelyc/
+
+-----
+Novel Superjunction Diode with better Reverse Recovery (2001)
+Superjunction IGBT devices (2001)
+Long Range Micro-actuators/Optical Switches (2001)
+MEMS Pressure Sensors (2001)
+Power OBUMOS Breaking Silicon Limit (2001)
+2GHz RFIC Power Amplifier System on Chip (2001)
+Tunable HF OBUMOS (2002)
+Buried-Channel Lateral Superjunction MOSFET (2003)
+Partial-SOI Lateral Superjunction MOSFET (2004-7)
+Passive Delivery System for DM Fuel Cell System (2005-6) 
+On-Chip DMFC integration (2007)
+PLZT Ferroelectric Thin Film Device (2007-9)
+Micro Fuel Cell System (2008)
+Smart Power Synchronous Rectifiers (2010)
+Ferroelectric Optical sensor (2010 – 11)
+GaN based power HEMT devices (2012)
+Academic Visit and Seminars
+Japan Advanced Institute of Science and Technology, Kanazawa, September 1997
+National Chung Cheng University, Taiwan, November 2000
+University of California, Berkeley, USA, December 2001 – September 2002
+University of Toronto, Canada, October 2002
+Tsing Hua University, China, March 2003
+Institute of Microelectronics, Shanghai Jiao Tung University, China, April 2005 and 2008
+Charles Sturt University, Australia, November 2005
+National Cheng Kung University, Taiwan, December 2005
+National Tsing Hua University, Taiwan, 2006
+Heilongjiang University, China, January 2007
+I-Shou University, Taiwan, December 2007
+National Taiwan University of Science and Technology, 2008
+National Tsing Hua University, Taiwan, March, 2011
+PUBLICATION: JOURNAL ARTICLES 
+1.
+Y C Liang and V J Gosbell, “A versatile switch model for power electronics SPICE2 simulations”, 
+IEEE Transactions on Industrial Electronics, 36, no.1, pp. 86 – 88, 1989 (United States).
+2.
+Y C Liang and V J Gosbell, “DC machine model for SPICE2 simulation”, IEEE Transactions on 
+Power Electronics, 4, no.1, pp. 16 – 20, 1990 (United States).
+3.
+Y C Liang and V J Gosbell, “Diode forward and reverse recovery model for power electronics SPICE 
+simulations”, IEEE Transactions on Power Electronics, 5, no.3, pp. 346 – 356, 1990 (United States).
+4.
+Y C Liang and V J Gosbell, “A transient model for gate turn-off thyristor in power electronic 
+simulations”, International Journal of Electronics, 70, no.1, pp. 85 – 99, 1991 (United Kingdom).
+5.
+Y C. Liang and V J Gosbell, “A concise SPICE transient model for bipolar power transistor quasi-
+saturation simulation”, International Journal of Electronics, 70, no.5, pp. 901 – 915, 1991 (United 
+Kingdom).
+6.
+C S Chang and Y C Liang, “Fuzzy logic control of static var systems for transient stability 
+enhancement of longitudinal power systems”, International Journal of Engineering Intelligent Systems 
+for Electrical Engineering and Communications, 1, no.1, pp. 49 – 56, 1993 (United Kingdom).
+7.
+Y C Liang and T K Ng, “Design of battery charging system with fuzzy logic controller”, International 
+Journal of Electronics, 75, no.1, pp. 75 – 86, 1993 (United Kingdom)
+Page 6 of 17
+Resume: Yung C. Liang
+8/21/2018
+https://www.ece.nus.edu.sg/stfpage/elelyc/
+
+-----
+8.
+Y C Liang and T K Kee, “Failure mechanism of GTO devices and optimisation for minimum current 
+crowding during turn-off”, International Journal of Electronics, 77, no.6, pp. 869 – 886, 1994 (United 
+Kingdom).
+9.
+Y C Liang, R Oruganti and T B Oh, “Design optimisation of power MOSFET for high frequency 
+synchronous rectification”, IEEE Transactions on Power Electronics, 10, no. 3, pp. 388 – 395, 1995 
+(United States).
+10. C E Seah, R Oruganti and Y C Liang, “An automated algorithm for small signal analysis of DC-DC 
+converters”, IEEE Transactions on Power Electronics, 11, no. 1, pp. 45 – 52, 1996 (United States).
+11. S K Panda and Y C Liang, “A review of power electronic technology in electric vehicles”, Journal of 
+Institute of Engineers, Singapore, 36, no. 5, pp. 32 – 39, 1996 (Singapore).
+12. Y C Liang and K K Koh, “Concise anti-swing approach for fuzzy crane control”, Electronics Letters, 
+33, No. 2, pp. 167 – 168, 1997 (United Kingdom).
+13. C S Chang, Y C Liang and B H Lim, “Development of fuzzy controller through hybrid simulation for 
+power system stability enhancement: A showcase”, Journal of Institute of Engineers, Singapore, 37, 
+No. 1, pp. 56 – 64, 1997 (Singapore).
+14. W Shi, R Cheng and Y C Liang, “A ZVT quasi-resonant PWM converter for unity power factor 
+application”, International Journal of Electronics, 84, No. 4, pp. 421 – 428, 1998 (United 
+Kingdom).        
+15. Y C Liang, G S Samudra and S Hor, “Design of Integrated Current Sensor for Lateral IGBT Power 
+Devices”, IEEE Transactions on Electron Devices, 45, No. 7, pp. 1614 – 1616, 1998 (United States).
+16. H Pan, Y C Liang and R Oruganti, “Design of smart power synchronous rectifier”, IEEE Transactions 
+on Power Electronics, 14, No. 2, pp. 308 – 315, 1999 (United States). 
+17. E H Tay, Y C Liang and VJ Logeeswaran, “Design and Fabrication of Micromachined Resonant 
+Gyroscope”, International Journal of Electronics, 86, No. 10, pp. 1179 – 1191, 1999 (United 
+Kingdom).
+18. E H Tay, Y C Liang, V J Logeeswaran, J Xu, Y F Yao, K Sooriakumar and Y H Loh, “The effects of 
+non-parallel plates in a differential capacitive microaccelerometer”, Journal of Micromechanics & 
+Microengineering, 9, No. 4, pp. 283 – 293, 1999 (United Kingdom).
+19. J Luo, Y C Liang and B J Cho, “Design of LIGBT protection circuit for smart power integration”, 
+IEEE Transactions on Industrial Electronics, 47, No. 4, pp. 744 – 750, 2000 (United States). 
+20. S Xu, K P Gan, G S Samudra, Y C Liang and J K O Sin, “120V interdigitated drain LDMOS 
+(IDLDMOS) on SOI substrate breaking power LDMOS limit”, IEEE Transactions on Electron 
+Devices, 47, No. 10, pp. 1980 – 1985, 2000 (United States).
+21. B Y Yeh, Y C Liang and F E H Tay, “Mathematical modeling on the quadrature error of low-rate 
+microgyroscope for aerospace applications”, Analog Integrated Circuits and Signal Processing, Vol. 
+29, No. 1/2, pp. 85 – 94, 2001  (The Netherlands)
+22. E H Tay, A Ongkodjojo, and Y C Liang, “Backpropagation approximation approach for the generation 
+of macromodels”, Journal of Modeling and Simulation of Microsystems, Vol. 2, No. 1, pp. 57 - 70, 
+2001.(United States)
+23. S Xu, C H Ren, Y C Liang, P-D Foo and J K O Sin, “Theoretical analysis and experimental 
+characterisation of the dummy gated VDMOSFET”, IEEE Transactions on Electron Devices, Vol.48, 
+No.9, pp.2168 – 2176, 2001 (United States)
+Page 7 of 17
+Resume: Yung C. Liang
+8/21/2018
+https://www.ece.nus.edu.sg/stfpage/elelyc/
+
+-----
+24. Y C Liang, K P Gan and G S Samudra, “Oxide-bypassed VDMOS (OBVDMOS): an alternative to 
+superjunction high voltage MOS power devices”, IEEE Electron Device Letters, Vol.22, No.8, pp. 407 
+– 409, 2001 (United States)
+25. Y Zhu, Y C Liang, S Xu, P-D Foo and J.K.O. Sin, “Folded gate LDMOS transistor with low on-
+resistance and high transconductance”, IEEE Transactions on Electron Devices, Vol.48, No. 12, pp. 
+2917 – 2928, 2001 (United States)
+26. E H Tay, A Ongkodjojo and Y C Liang, “Backpropagation approximation approach based generations 
+of macromodels for static and dynamic simulations”, Microsystem Technologies, Vol. 7, pp. 120 – 136, 
+2001 (United States)
+27. K P Gan, X Yang, Y C Liang, G S Samudra and Y Liu, “A simple technology for superjunction device 
+fabrication: poly flanked VDMOSFET”, IEEE Electron Device Letters, Vol. 23, No. 10, pp. 627 – 629, 
+2002 (United States) 
+28. Y C Liang, W Zeng, P H Ong, Z Gao, J Cai and N Balasubramanian, “A concise process technology 
+for 3-D suspended radio frequency micro-inductors on silicon substrate”, IEEE Electron Device 
+Letters, Vol. 23, No.12, pp. 700 – 703, 2002 (United States)
+29. C Ren, J Cai, Y C Liang, P H Ong, N Balasubramanian and J K O Sin, “The partial silicon-on-
+insulator technology for RF power LDMOSFET devices and on-chip micro-inductors”, IEEE 
+Transactions on Electron Devices, Vol. 49, No. 12, pp. 2271 – 2278, 2002 (United States)
+30. V J Logeeswaran, E H F Tay, M L Chan, F S Chau and Y C Liang, “Second harmonic (2f) 
+characterization of resonant frequency and Q-factor of micromechanical transducers”, Analog 
+Integrated Circuits and  Signal Processing, Vol. 37, No. 10, pp. 17-33, 2003 (The Netherlands)
+31.  T Zhao and Y C Liang, “New actuation method for push-pull electrostatic MEMS comb drive”, IEEE 
+Transactions on Industrial Electronics, 2003 (in press) (United States)
+32. Y C Liang, G S Samudra, A J D Lim and P H Ong, “Accurate current sensor for lateral IGBT smart 
+power integration”, IEEE Transactions on Power Electronics, Vol. 18, No. 5, 2003, pp. 1238 – 1243  
+(United States)
+33.
+X Yang, Y C Liang, G S Samudra and Y Liu, “Tunable oxide-bypassed trench gate MOSFET: 
+breaking the ideal superjunction MOSFET performance line at equal column width”, IEEE Electron 
+Device Letters, Vol.24, No.11, 2003, pp. 704 – 706 (United States)
+34.
+H Zhong, Y C Liang, G S Samudra and X Yang, “Practical superjunction MOSFET device 
+performance under given process thermal cycles”, Semiconductor Science and Technology, Vol. 19, 
+2004, pp. 987 – 996 (United Kingdom)
+35. E Liao, S Ang, A T A Ong, Y C Liang and A Y U Jin, “Surface micromachined pressure sensing 
+structures with biocompatible interface”, Sensors and Materials, Vol.16, No.1, 2004, pp. 159 – 169 
+(Japan)
+36. T. Zhao and Y C Liang, “A new actuation scheme to enhance the linear momentum of MEMS inertia 
+sensors”, Sensors and Actuators, Part A: Physical, Vol 119, No. 2, 2005, pp. 390 – 397 (The 
+Netherlands)
+37. Y Chen, Y C. Liang and G S. Samudra, “Theoretical analyses on oxide-bypassed superjunction power 
+MOSFET devices”, Japanese Applied Physics Journal, Vol. 44, No. 2, 2005, pp. 847-856 (Japan)
+38. J. Yao, Y Zhang, C H Wang and Y C Liang, “On the electrostatic equilibrium of granular flow in 
+pneumatic conveying systems”, AIChE Journal, Vol.52, No.11, 2006.  pp. 3775 – 3793 (United 
+States)
+Page 8 of 17
+Resume: Yung C. Liang
+8/21/2018
+https://www.ece.nus.edu.sg/stfpage/elelyc/
+
+-----
+39. M Qin, K Yao and Y C Liang, “Photo induced current in (Pb0.97La0.03) (Zr0.52Ti0.48)O3 thin films of 
+different thicknesses”, Integrated Ferroelectrics, Vo.88, No.1, 2006, pp. 58 – 67 (United Kingdom)
+40.
+M Qin, K Yao, Y C Liang and S Shannigrahi, “Thicknesseffects on photoinduced current in 
+ferroelectric (Pb0.97La0.03)(Zr0.52Ti0.48)O3 thin films”, Journal of Applied Physics, Vol. 101, 2007, pp. 
+014104-1 – 014104-8 (United States)
+41.
+Y Chen, Y C Liang and G S Samudra, “Design of gradient oxide-bypassed superjunction power 
+MOSFET devices”, IEEE Transactions on Power Electronics, Vol. 22, No.4, 2007, pp. 1303 – 1310 
+(United States)
+42.
+M Qin, K Yao and Y C Liang, “Stability of photovoltage and trap of light induced charges in 
+ferroelectric WO3-doped (Pb0.97La0.03)(Zr0.52Ti0.48)O3 thin films”, Applied Physics Letters, Vol. 91, 
+2007, pp. 092904-1-3 (United States)
+43. M Qin, K Yao, Y C Liang and B K Gan, “Stability and magnitude of photovoltage in ferroelectric 
+(Pb0.97La0.03)(Zr0.52Ti0.48)O3 thin films in multi-cycle UV light illumination”, Integrated 
+Ferroelectrics, Vol. 95, No.1, 2007, pp. 105–116 (United Kingdom)
+44. Y Chen, Y C Liang, G S Samudra, X Yang, K D Buddharaju and H Feng, “Progressive development 
+of superjunction power MOSFET devices”, IEEE Transactions on Electron Devices, 2008 (United 
+States)
+45. Y Zhang, Y C Liang and C-H Wang, “Hazard of electrostatic generation in a pneumatic conveying 
+system: electrostatic effects on the accuracy of electrical capacitance tomography measurements and 
+generation of spark”, Measurement Science and Technology, Vol. 19, 2008 (United States)
+46. M Qin, K Yao and Y C Liang, “High efficient photovoltaics in nanoscaled ferroelectric thin films”, 
+Applied Physics Letters, Vol. 93, No. 12, 122904-1-3, 2008 (United States)
+47.
+M Qin, K Yao and Y C Liang, “Photovoltaic characteristics in polycrystalline and epitaxial 
+(Pb0.97La0.03)(Zr0.52Ti0.48)O3 ferroelectric thin films sandwiched between different top and bottom 
+electrodes”, Journal of Applied Physics, Vol. 105, No. 6, 2009, pp. 061624-061624-7 (United States)
+48.
+Y Yang and Y C Liang, “Modelling and analysis of a direct methanol fuel cell with under-rib mass 
+transport and two-phase flow at the anode”, Journal of Power Sources, Vol. 194, No. 2, 2009, pp. 712 
+– 729 (United States)
+49.
+M Qin, K Yao, and Y C. Liang, “Photovoltaic mechanisms in ferroelectric thin films with the effects 
+of the electrodes and interfaces”, Applied Physics Letters, Vol. 95, No. 2, 2009, 022912/1-022912/3 
+(United States)
+50.
+W Ji, K Yao, Y C Liang, “Bulk photovoltaic effect at visible wavelength in epitaxial ferroelectric 
+BiFeO3 thin films”, Advanced Materials, Vol. 22, No. 15, April, 2010, pp. 1763-1766 (Germany)
+51.
+Y W Shwe and Y C Liang, “Smart dust sensor network with piezoelectric energy harvesting”, 
+International Journal of Intelligent Systems Technologies and Applications, Vol. 9, Nos. 3/4, 2010, 
+pp. 253 – 261 (United Kingdom)
+52.
+Y Chen, Y C Liang and G S Samudra, “Partial SOI superjunction power LDMOS for power IC 
+applications”, International Journal of Power Electronics, Vol. 2, No. 4, 2010, pp. 363 – 373 (United 
+Kingdom)
+53.
+C Y Lim, Y C Liang, G S Samudra and N Balasubramanian, “A smart-power synchronous rectifier by 
+CMOS process”, IEEE Transactions on Power Electronics, Vol. 25, No. 9, 2010, pp. 2469 – 2477 
+(United States)
+Page 9 of 17
+Resume: Yung C. Liang
+8/21/2018
+https://www.ece.nus.edu.sg/stfpage/elelyc/
+
+-----
+54.
+Y M Yang, Y C Liang and K Yao, “Low-power fuel delivery with programmable concentration 
+control for micro direct methanol fuel cells”, IEEE Transactions on Industry Applications, Vol. 47, 
+No. 3, May/June 2011, pp. 1470 – 1479 (United States)
+55.
+W Ji, K Yao and Y C Liang, “Evidence of bulk photovoltaic effect and large tensor coefficient in 
+ferroelectric BiFeO3 thin films”, Physical Review B, Vol.84, No.9, 094115, pp. 1 – 5, 2011 (United 
+States)
+56.
+A Rezvanpour, C-H Wang, Y C Liang and W Yang, “Investigation of droplet distribution in 
+electrohydrodynamic atomization (EHDA) using an ac-based electrical capacitance tomography 
+(ECT) system with an internal–external electrode sensor”, Measurement Science and Technology, 
+Vol. 23, No.1, 2012, pp. 015301 – 015310 (United States)
+57.
+G Wei, Y C Liang and G S Samudra, “Realistic simulations on reverse junction characteristics of SiC 
+and GaN power semiconductor devices”, Journal of Power Electronics, Vol. 12, No. 1, January 2012, 
+pp. 19 – 23 (Korea)
+PUBLICATION: CONFERENCE PAPERS         
+1.
+Y C Liang, C T Pan and S L Chen, “Simulations of TRV of circuit breaker under symmetrical and 
+asymmetrical fault current interruptions”, Proceedings of the 5th Symposium on Electrical Power 
+Engineering, Taiwan, pp. 512 – 540, 1984
+2.
+Y C Liang and S L Chen, “Hybrid simulation of voltage-fed PWM inverter induction/permanent 
+magnet motor drives”, Proceedings of the 6th Symposium on Electrical Power Engineering, Taiwan, 
+1985  
+3.
+Y C Liang, V J Gosbell and D Tien, “Expert system aided diagnosis by using fuzzy feedback”, Annual 
+Conference of the Engineering and the Physical Science in Medicine, New Zealand, pp. 45 – 47, 1987 
+4.
+D Tien, P Nickllos, W Liew, A Yeung, Y C Liang and J Tucker, ”Performance comparison of 
+extracted features in classification of cervical cells”, Annual Conference of the Engineering and the 
+Physical Science in Medicine, New Zealand,  pp. 62 – 63, 1987.         
+5.
+Y C Liang and S L Chen, “A hybrid test system for microprocessor controlled PWM inverter motor 
+drives”, Electric Energy Conference 87 IE Australia, Australia, pp. 661 – 667, 1987.
+6.
+D Tien, P M Nickllos, W Liew, A Yeung, Y C Liang and J Tucker, ”Cervical smear feature extraction 
+and evaluation”, Six Southern Biomedical Engineering Conference, United States, pp. 650-652, 1987.
+7.
+D Tien , P M Nickllos, W Liew, A Yeung, Y C Liang and J Tucker, “Automated cervical smear 
+classification”, IEEE EMBS 87 Conference, United States, pp. 1457 – 1458, 1987.
+8.
+Y C Liang and V J Gosbell, “Realistic computer models of DC machine for CADA topology on 
+SPICE2”, IEEE Power Electronics Specialists Conference, Japan, pp. 765 – 771, 1988.
+9.
+Y C Liang and V J Gosbell, “Device model enhancement for power electronic circuit simulation”, SSA 
+IMACS Conference on Modelling and Simulation, Australia, pp. 503 – 508,  1989.
+10. V J Gosbell, Y C Liang and J D Scott, “Device modelling for power electronic circuit simulation”, 6th 
+Conference on Power Electronics and Motion Control, Hungary, pp. 1025 – 1030, 1990.
+11. Y C Liang, H Yee and V J Gosbell, “Neural networks and fuzzy database for power electronic design 
+automation”, IEEE Industrial Electronics Society Annual Conference, United States, pp. 1112 – 1117, 
+1990.
+12. T K Ng, Y C Liang and K S Lock, “Design and implementation of fuzzy logic controller for high 
+performance battery charging systems”, Second International Conference on Automation, Robotics and 
+Computer Vision, Singapore, pp. co-7.6.1-co-7.6.5, 1992.
+Page 10 of 17
+Resume: Yung C. Liang
+8/21/2018
+https://www.ece.nus.edu.sg/stfpage/elelyc/
+
+-----
+13. Y C Liang and C S Chang, “Fuzzy logic control of static var sources for enhancing transient stability 
+of interconnected power system”, Fourth International Conference on Expert System Application to 
+Power Systems, Australia, pp. 399 – 405, 1993.
+14. Y C Liang, R Oruganti and S S Goh, “Neural network tooled power electronic design automation”, 
+Third International Symposium on Electricity Distribution and Energy Management, Singapore, pp. 
+300 – 306, 1993.
+15. L J Cao and Y C Liang, “Analysis of dissolved gas of power transformers using a neural expert 
+system”, Third International Symposium on Electricity Distribution and Energy Management, 
+Singapore, pp. 307 – 310, 1993.
+16. Y C Liang, C S Chang and A Y Tay, “Design of a fuzzy logic controller for transient stability 
+enhancement of interconnected micro-alternator”, Third International Symposium on Electricity  
+Distribution and Energy Management, Singapore, pp. 257 – 263, 1993.
+17. C S Chang and Y C Liang, “Adaptive fuzzy logic control of static var sources for enhancing transient 
+stability of longitudinal interconnected power system”, Third international symposium on electricity 
+distribution and energy management, Singapore, pp. 270 – 276, 1993.
+18. Y C Liang, T B Oh and R Oruganti, “Design optimisation of power MOSFET for high frequency 
+synchronous rectification”, IEEE Industrial Electronics Conference, United States, pp. 767 – 772, 
+1993.
+19. T K Lee and Y C Liang, “Minimisation of current crowding during turn-off of power GTO devices”, 
+IEEE Power Electronics Specialists Conference, Taiwan, pp. 442 – 449, 1994.
+20. Y C Liang and P Tan, “Analysis of MOS-Controlled bipolar power devices”, Australasian Universities 
+Power Engineering Conference, Australia, Vol.1, pp. 173 – 181, 1994.
+21. P Tan and Y C Liang, “Performance analysis of MOS-controlled bipolar power devices”, International 
+Conference on Power Electronics and Drive Systems, Singapore, pp. 87 – 92, 1995.
+22. Y C Liang and V Hor, “Design of lateral IGBT devices with current sensor”, IEEE Industry 
+Applications Society Annual Meeting,  United States, pp. 1010 – 1018, 1995.
+23. H Yang, S K Panda and Y C Liang, “Performance comparison of PI control with sliding mode control 
+for four-quadrant operation of switched reluctance motors”, IEEE International Conference on Power 
+Electronics, Drives and Energy Systems for Industrial Growth, India, Vol.1, pp. 381 – 387, 1996. 
+24. H Yang, S K Panda and Y C Liang, “Performance comparison of PI control with feedback linearisation 
+control for four-quadrant operation of switched reluctance motors”, IEEE Applied Power Electronics 
+Conference, United States, Vol.2, pp. 956 – 962, 1996.
+25. S K Panda and Y C Liang, “A review of power electronic technology in electric vehicles”, IES-CTR 
+Symposium on Advanced Technologies in Transportation, Singapore, pp. 1 – 16, 1996.
+26. H Yang, S K Panda and Y C Liang, “Experimental investigation of feedback linearisation controller 
+for switched reluctance motor”, IEEE Power Electronics Specialists Conference, Italy, Vol.2, pp. 1804 
+– 1810, 1996.
+27. H Yang, S K Panda and Y C Liang, “Sliding mode control for switched reluctance motors”, IEEE 
+International Conference on Industrial Electronics, Control and Instrumentation, Taiwan, Vol.1, pp. 
+96 – 101, 1996.
+28. C H Yang and Y C Liang, “Investigation on parallel operations of IGBT'S”, IEEE International 
+Conference on industrial Electronics, Control and Instrumentation, Taiwan, pp. 1110 – 1117, 1996.
+Page 11 of 17
+Resume: Yung C. Liang
+8/21/2018
+https://www.ece.nus.edu.sg/stfpage/elelyc/
+
+-----
+29. Z H Liang, S K Panda, D Zhang and Y C Liang, “Switched reluctance motor control”,  2nd IEEE 
+International Conference on Power Electronics Drives and Energy Systems for Industrial Growth, 
+Australia , pp.294 – 299, 1998
+30. E H Tay, Y C Liang, V J Logeeswaran, J Xu, B L Chua and Y Yao, “MEMS sensor design”, 
+Proceedings of the Musculoskeletal Bioengineering Symposium, Singapore 1998
+31. J Luo, Y C Liang and B J Cho, “Design of IGBT gate drive with SOA consideration”, 2nd IEEE 
+International Conference on Power Electronics, Drives and Energy Systems for Industrial Growth, 
+Australia, pp. 307 – 311, 1998.
+32. E H Tay, J Xu, Y Yao, V J Logeeswaran, Y C Liang and J S Bergstrom, “The study of parallel and 
+oblique plates in a differential capacitive microaccelerometer”, The 5th International Conference on 
+Control, Automation, Robotics and Vision, Singapore, pp. 1612 – 1616, 1998.
+33. V J Logeeswaran, E H Tay, J S Bergstrom, Y C Liang, K Sooriakumar and L C Chim, “Design and 
+fabrication of a lateral microgyroscope”, The 5th International Conference on Control, Automation, 
+Robotics and vision, Singapore, pp.1608 – 1611, 1998.
+34. E H Tay, A. Ongkodjojo, Y C Liang, “Analysis approaches for the dynamics of micro-electro-
+mechanical lateral resonant pressure sensor”, Fourth Asia-Pacific Conference on Computational 
+Mechanics, Singapore, pp. 1289 – 1294, 1999
+35. B L Chua, E H Tay and Y C Liang, “Analytical Design of Lateral Resonant Pressure Sensor”, Defense 
+Materials and Mechanics Seminar, Singapore, pp. 18-22, 1999.
+36. D Tien, Y C Liang and S K Panda, “Hardware implementation of parallel processors in fuzzy 
+processing control”, IEEE Region 10 Conference, Korea, pp.411 – 414, 1999
+37. J Luo, Y C Liang and B J Cho, “Design of lateral IGBT protection circuit for smart power integration”, 
+The Third IEEE International Conference on Power Electronics and Drive Systems, Hong Kong, 
+pp.253 – 257, 1999
+38. Y C Liang, S Xu, C Ren and J Luo, “New SOI structure for LIGBT with improved thermal and latch-
+up characteristics”, The Third IEEE International Conference on Power Electronics and Drive 
+Systems, Hong Kong, pp.258 – 261, 1999
+39. W Yu, Y C Lim, F E H Tay and Y C Liang, “A CMOS low noise capacitance measurement circuit for 
+micromachined gyroscope”, International Symposium on Microelectronics and Micro-Electro-
+Mechanical Systems MICRO/MEMS, Australia, (In Proceedings of SPIE) vol.3891, pp.296 – 303, 1999
+40. S Xu, Y Zhu, Y C Liang, P-D Foo and J.K.O. Sin, “Folded gate LDMOS with low on-resistance and 
+high transconductance”, IEEE International Symposium on Power Semiconductor Devices and ICs, 
+France, pp. 55 – 58, 2000
+41. B Y Yeh, Y C Liang and F E Tay, “Mathematical modelling on the quadrature error of low-rate 
+microgyroscope for aerospace applications”, Symposium on Design, Test, Integration and Packaging of 
+MEMS/MOEMS, France, (In Proceedings of SPIE), Vol.4019, pp.134 – 144, 2000
+42. F H Tay, V J Logeeswaran and Y C Liang, “SCREAM micromachined high-aspect-ratio low-g 
+microaccelerometer”, Symposium on Design, Test, Integration and Packaging of MEMS/MOEMS, 
+France, (In Proceedings of SPIE), vol. 4019, pp.344 – 353, 2000
+43. Y C Liang, L L Tai and D Tien, “Design of MOS-controlled smart power synchronous rectifier”, IEEE 
+TENCON2000, Malaysia, pp. I: 449 – 451, 2000
+44. C Ren, Y C Liang and S Xu, “New RF LDMOS structure with improved power added efficiency for 2 
+GHz power amplifier”, IEEE TENCON2000, Malaysia, pp. III: 29-34, 2000
+Page 12 of 17
+Resume: Yung C. Liang
+8/21/2018
+https://www.ece.nus.edu.sg/stfpage/elelyc/
+
+-----
+45. S Xu, Y C Liang, C.Y. Lim and D. Tien, “Ultra-low voltage normally-off lateral SIT device for RF 
+mobile application”, IEEE IECON2000, pp. 996 – 1000, Japan, 2000
+46. Y C Liang, C Ren and S Xu, “New partial SOI LDMOS device for high power-added efficiency in 2 
+GHz RF amplifier applications”, JSPS Seminar on Engineering Advances at the Dawn of the 21st
+Century, Singapore, pp. 302-307, December 2000.
+47. Y C Liang, S Xu, C Ren, P-D Foo, “New partial SOI LDMOS device for high power-added efficiency 
+in 2 GHz RF power amplifier applications”, IEEE IECON 2000, pp. 1001 – 1006, Japan, 2000
+48. K P Gan, Y C Liang, G S Samudra and Y Liu, “Poly Flanked VDMOS (PFVDMOS): A superior 
+technology for superjunction devices”, IEEE PESC 2001, Canada, pp. 2156 – 2159, 2001 
+49. Y C Liang, Y P Xu, T Zhao, “A low-voltage vibratory microgyroscope with ASIC control”, 
+Symposium on Design, test, Integration and Packaging Proceedings (In Proceedings of SPIE), Vol. 
+4408, France, pp.40 – 49, 2001
+50. F E H Tay, A O Ong and Y C Liang, “Backproparation based generation of macromodels for transient 
+MEMS devices analysis”, International MEMS Symposium, Singapore, pp. 493 – 502, 2001 
+51. Y C Liang, C Y Lim and G S Samudra, “MOS-controlled smart power synchronous rectifier”, IEEE 
+Region 10 Conference, Singapore, pp. 480 – 482, 2001.
+52. Y C Liang, T Zhao, Y P Xu and S S Boh, “A CMOS fully-integrated low-voltage vibratory 
+microgyroscope”, IEEE Region 10 Conference, Singapore, pp. 825 – 828, 2001.
+53. B Y Yeh and Y C Liang, “Modelling and compensation of quadrature error for silicon MEMS 
+microgyroscope”, IEEE Power Electronics and Drive Systems Conference, Indonesia, pp. 871 – 876, 
+2001
+54. J Cai, C Ren, Y C Liang, B Narayanan and J K O Sin, “A partial SOI technology for single-chip RF 
+power amplifiers”, IEEE International Electron Devices Meeting,  USA, pp. 891 – 894, 2001 
+55. V J Logeeswaran, E H F Tay, ML Chan, F S Chau and Y C Liang, “2f method for the measurement of 
+resonant frequency and Q-factor of micromechanical transducers”, Symposium on Design, Test, 
+Integration and Packaging of MEMS/MOEMS, France, SPIE Proc. Vol. 4755, pp. 584 – 593, 2002 
+56. Y C Liang, X Yang, G S Samudra, K P Gan and Y Liu, “Tunable oxide-bypassed VDMOS 
+(OBVDMOS): Breaking the silicon limit  for the second generation”, IEEE International Symposium 
+on Power Semiconductor Devices and ICs, USA, pp. 201 – 204, June, 2002 
+57. X Yang, Y C Liang, G S Samudra, and Y Liu, “Tunable oxide-bypassed superjunction structure: 
+breaking the silicon performance limit”, IEEE International Conference on Power Electronics and 
+Drive Systems, Singapore, pp. 66 – 70, November, 2003
+58. H P Xu, V.W.Y, Ma, I.S.M. Sun, W.T. Ng and Y C Liang, “Superjunction LDMOS with drift region 
+charge-balanced by distributed hexagon p-islands”, IEEE Conference on Electron Devices and Solid-
+State Circuits, Hong Kong, pp. 313 – 316, December, 2003
+59.
+Y C Liang, “Partial SOI LDMOS technology for system-on-chip applications”, ASEAN 
+Microelectronics and IC Design Seminar, Philippines, August, 2003
+60. X Yang, Y C Liang, G S Samudra and Y Liu, “Tunable trench gate power MOSFET: A feasible 
+superjunction device and process technology”, IEEE IECON 2004, Korea, November 2004
+61. R P Singh, A M Khambadkone, G S Samudra and Y C Liang, “Optimal power converter topology for 
+powering future microprocessor demands”, IEEE IECON 2004, Korea, pp. 530 – 535, November 2004
+Page 13 of 17
+Resume: Yung C. Liang
+8/21/2018
+https://www.ece.nus.edu.sg/stfpage/elelyc/
+
+-----
+62. Y Yang and Y C Liang, “A concise two-phase flow model for direct methanol fuel cell performance 
+modelling”, IEEE International Conference on Power Electronics and Drive Systems, Malaysia, pp. 
+256 – 261, November, 2005
+63. R P Singh, A M Khambadkone, G S Samudra and Y C Liang, “Modelling, analysis and design of 
+cascaded forward and interleaved converter for powering future microprocessors”, IEEE International 
+Conference on Power Electronics and Drive Systems, Malaysia, pp. 430 – 435, November, 2005
+64. Y Chen, Y C. Liang and G S Samudra, “Design of superjunction power MOSFET devices using the 
+gradient oxide-bypassed structure”, IEEE International Conference on Power Electronics and Drive 
+Systems, Malaysia, pp. 676 – 680, November, 2005
+65. Y Yang and Y C Liang, “A self-contained direct methanol fuel cell with surface tension fuel delivery”, 
+IEEE TENCON 2005, Australia, November 2005
+66. J Yao, Y Zhang, C H Wang and Y C Liang, “On the electrostatic field within space of pipe induced by 
+granular flow in a pneumatic conveying system”, AIChE Annual Meeting, Cincinnati, Ohio, USA, 
+November 2005.
+67. M Qin, K Yao and Y C Liang, “Thickness dependence of photo induced current in (PbLa)(ZrTi)O3 thin 
+films”, International Symposium on Integrated Ferroelectrics, U.S.A., April, 2006
+68. R P Singh, A.M. Khambadkone, G S. Samudra and Y C Liang, “An FPGA based digital control design 
+for high-frequency DC-DC converters”, IEEE Power Electronics Specialists Conference, Korea, June, 
+2006, pp. 2416 – 2422
+69. C Y Lim, Y C Liang, G S Samudra and N. Balasubramanian, “A CMOS Compatible Smart Power 
+Synchronous Rectifier”, IEEE Power Electronics Specialists Conference, Korea, June, 2006, pp. 2646 
+– 2650
+70. Y Yang and Y C Liang, “Passive fuel delivery in direct methanol fuel cell by surface tension driving 
+effect”, IEEE IECON, France, November 2006, pp. 4325 – 4330
+71. Y Chen, Y C Liang and G S Samudra, “Slanted oxide-bypassed superjunction power MOSFETs”, 
+IEEE IECON, France, November 2006, pp. 2746 – 2750
+72. Y Chen, Y C. Liang and G S Samudra, “Design and Fabrication of Superjunction Power 
+Semiconductor MOSFET devices”, 27th Power Engineering Symposium, Taiwan, December 2006, pp. 
+OE3.1.1 - 3.1.5
+73. Y Yang and Y C Liang, “Passive direct methanol fuel cell system with adaptive fuel concentration 
+control based on liquid surface tension”, International Conference on Power Engineering, Energy and 
+Electrical Drives, Portugal, April 2007, pp. 365 – 370
+74. G Wei, Y C Liang and G S Samudra, “Realistic simulation of reverse characteristics of 4H-SiC power 
+diode”, International Conference on Power Engineering, Energy and Electrical Drives, Portugal, April 
+2007, pp. 508 – 513
+75. Y Chen, K D Buddharaju, Y C. Liang, G S Samudra and H H Feng, “Superjunction power LDMOS on 
+partial SOI platform”, IEEE International Symposium on Power Semiconductor Devices and ICs, 
+Korea, May 2007, pp. 177 – 180
+76. M Qin, K Yao, Y C Liang,  B K Gan, “Stability and magnitude of photovoltage in ferroelectric 
+(Pb0.97La0.03)(Zr0.52Ti0.48)O3 thin films in multi-cycle UV light illumination”, International Symposium 
+on Integrated Ferroelectrics, France, May 2007
+77. Y Zhang , Y C Liang  and C-H Wang, “Hazard of electrostatic generation in pneumatic conveying 
+system: electrostatic effects on the accuracy of electrical capacitance tomography measurements”,  5th 
+World Congress on Industrial Process Tomography, Bergen, Norway, September 2007
+Page 14 of 17
+Resume: Yung C. Liang
+8/21/2018
+https://www.ece.nus.edu.sg/stfpage/elelyc/
+
+-----
+78. Y Chen, Y C Liang, G S Samudra and H Feng, “Progression of superjunction power MOSFET 
+devices”, The 33rd Annual Conference of the IEEE Industrial Electronics Society, Taiwan, November 
+2007, pp. 1380 – 1385
+79. M Qin, K Yao and Y C Liang, “Epitaxial (Pb0.97La0.03)(Zr0.52Ti0.48)O3 Ferroelectric Thin Films 
+Derived from Chemical Solution Deposition”, The 20th International Symposium on Integrated 
+Ferroelectrics  (ISIF 2008), Singapore, June 2008
+80. M Qin, K Yao and Y C Liang, “Photovoltaic Responses in Polycrystalline and Epitaxial 
+(Pb0.97La0.03)(Zr0.52Ti0.48)O3 Ferroelectric Thin Films”, The 20th International Symposium on 
+Integrated Ferroelectrics  (ISIF 2008), Singapore, June 2008
+81. Y Chen, Y C. Liang, G S. Samudra, K D Buddharaju and H Feng, “An enabling device technology for 
+future superjunction power integrated circuits”, The 39th IEEE Power Electronics Specialists 
+Conference, Greece, June, 2008, pp. 3713 – 3716
+82. Y Yang, Y C Liang and K Yao, “Low power fuel delivery with programmable concentration control 
+for micro direct methanol fuel cells”, IEEE International Conference on Sustainable Energy 
+Technologies (ICSET 2008), Singapore, November 2008, pp. 274 – 278
+83. W Ji, K Yao and Y C Liang, “Photovoltaic properties of epitaxial ferroelectric BiFeO3 thin film”, 12th
+International Meeting on Ferroelectricity (IMF-12) and 18th IEEE International Symposium on the 
+Applications of Ferroelectronics (ISAF-18), China, August 23-27, 2009
+84. Y W Shwe and Y C Liang, “Smart dust sensor network with piezoelectric energy harvesting”, The 6th 
+International Conference on Information Technology and Applications, Hanoi, Vietnam, 9 - 12 
+November, 2009, pp.184 – 187
+85. Y Chen, Y C Liang, G S. Samudra, K D Buddharaju and H Feng, “Partial SOI superjunction power 
+LDMOS for PIC application”,  The 8th International Conference on Power Electronics and Drive 
+Systems, 2 – 5 November 2009, Taipei, Taiwan, pp. 1041 – 1046
+86. M Qin, K Yao and Y C Liang, “Development of low cost ferroelectric PLZT devices for photovoltaic 
+power generation”, The 2nd IEEE International Conference on Sustainable Energy Technologies, 6 – 9 
+December 2010, Sri Lanka, pp. 1 - 4
+87. W Ji, K Yao and Y C Liang, “Photovoltaic properties in ferroelectric BiFeO3 thin films”, Molecular 
+Materials Meeting (M3): International Conference on Big Ideas in Molecular Materials, 10 – 11 
+January 2011, Singapore
+88. G Wei, Y C Liang and G S Samudra, “Realistic simulation on reverse characteristics of SiC/GaN p-n 
+junctions for high power semiconductor devices”, 8th International Conference on Power Electronics - 
+ECCE Asia, Jeju, Korea, 30 May – 3 June, 2011, pp. 1464 – 1468
+89. S Tan, Y C Liang, D Tien and C-H Wang, “Development of a portable electrical capacitance 
+tomography system”, 37th Annual Conference of the IEEE Industrial Electronics Society, Melbourne, 
+Australia, 7 – 10 November, 2011, pp. 2557 – 2561 
+90. I Y W Chung and Y C Liang, “A low-cost photovoltaic energy harvesting circuit for portable devices”, 
+The 9th International Conference on Power Electronics and Drive Systems, Singapore, 5 – 8 
+December, 2011, pp. 334 – 339
+91. K Yao, W Ji, M Qin, B K Gan, S C Lai, Y Chen, P C Goh and Y C. Liang, “Opportunities and 
+challenges for photovoltaics involving ferroelectric materials”, invited plenary paper, International 
+Symposium on Integrated Ferroelectrics (ISIF 2012), Hong Kong, 18 – 21 June 2012
+Page 15 of 17
+Resume: Yung C. Liang
+8/21/2018
+https://www.ece.nus.edu.sg/stfpage/elelyc/
+
+-----
+92. K Yao, C Y Tan, L Zhang, S S Y Oh, T C Wong, I C K Tan, W Ji and Y C Liang, “Piezoelectric and 
+photovoltaic effects in ferroelectrics for energy harvesting”, invited paper, International Symposium on 
+Applications of Ferroelectrics (ISAF) and European Conference on the Applications of Polar 
+Dielectrics (ECAPD), Aveiro, , Portugal, 9 – 13 July 2012
+93. H Huang, Y C Liang, G S Samudra, Y Li and Y-C Yeo, “Modelling and simulations on current 
+collapse in AlGaN/GaN power HEMTs”, The International Conference on Simulation of 
+Semiconductor Processes and Devices (SISPAD), Denver, United States, 5 – 7 September 2012, pp. 23 
+– 26 
+94. L K Chong and Yung C. Liang, “Development of photovoltaic system planning software”, 3rd IEEE 
+International Conference on Sustainable Energy Technologies (ICSET’12), Kathmandu, Nepal, 24 – 27 
+September 2012
+95. H Huang, Y C Liang and G S Samudra, “Theoretical calculation and efficient simulations of power 
+semiconductor AlGaN/GaN HEMTs”, 2012 IEEE International Conference on Electron Devices and 
+Solid State Circuits, Bangkok, Thailand, 3 – 5 December 2012
+BOOK/CONFERENCE PROCEEDINGS/SPECIAL JOURNAL ISSUES
+1 Y C Liang, ed, Proceedings of 1995 International Conference on Power Electronics and Drive Systems, 
+Institute of Electrical & Electronics Engineers (USA), 1995.
+2 Y C Liang, International Journal of Electronics (Guest Editor on Power Electronics Technology),  
+(UK), November 1999 
+3
+D Tien and Y C Liang, Proceedings of 2001 IEEE Region 10 International Conference on Electrical 
+and Electronic Technology, Institute of Electrical & Electronics Engineers (USA), 2001
+4
+Guest Editor, International Journal of Computer Applications in Technology (IJCAT), Inderscience 
+Publishers (UK), 2009
+5
+Guest Editor, International Journal of Information Technology and Management (IJITM), Inderscience 
+Publishers (UK), 2009
+6
+Power Microelectronics: Device and Process Technologies, World Scientific Publishing (Singapore), 
+ISBN 9-789812-791009, May 2009
+FIELD TECHNICAL REPORT
+E Arnold, T Luukkonen, L Joerg, J Oksanen, B Thuriaux, S Whitehouse, G Crean, D Hogrefe, Y C Liang, 
+R Steel, Evaluation of Finnish R&D Programmes in the Field of Electronics and Telecommunications 
+(ETX, TLX and Telectronics I), February 2002
+MAGAZINE ARTICLES
+1.
+Interview with Asia-Pacific Development Magazine (Australia) on Future development in electro-
+technology, November 2000, pp.8 – 9.
+2.
+Power Semiconductor Technology for Energy Conversion: from microchips to megawatts, Asia 
+Pacific Development Magazine (Australia), June 2001, pp. 69 – 72.
+CURRENT TEACHING
+Page 16 of 17
+Resume: Yung C. Liang
+8/21/2018
+https://www.ece.nus.edu.sg/stfpage/elelyc/
+
+-----
+EE4505: Power semiconductor devices and ICs
+EE4509: Silicon Microsystems
+EE4510: Solar Photovoltaic Energy Syetems
+RESEARCH STUDENTS
+Li Yuling: Normally-off GaN Power HEMT Devices
+Wang Yun-Hsiang: Vertical power GaN Devices
+Aloysius Wishnu Aryaputera: GaN Power Integrated Circuits
+Radha Sree: Solid-state Energy Internet
+Laboratory Alumni (2000-2012)
+Ji Wei (2012): Ferroelectric photovoltaic devices
+Qin Meng (2010): Ferroelectric photovoltaic devices
+Yang Yuming (2009): Micro fuel cells
+Chen Yu(2009): Superjunction power MOSFET
+Wei Guannan (2007): SiC power devices
+Zhong Han Mei (2005): Lateral superjunction power MOSFET
+Boh Siau Shuan (2005): Silicon micro-dust system
+Zhao Tao (2004): Modelling on MEMS microgyroscope
+Yang Xin (2004):Poly-flanked superjunction power devices
+Lim Chow Yee (2004): CMOS synchronous Rectifier fabrication
+Gan Kian Paau (2003): Superjunction power MOSFET
+Ren Changhong (2001): RF power MOSFET devices
+Zhu Yuan Zheng (2001): Folded-gate power MOSFET devices
+Yeh Bao Yao (2001): Modelling on microgyroscope quadrature error
+Luo Jun Yang (2000): Lateral IGBT protection integration
+USEFUL LINKS
+Power Electronics Laboratory
+National University of Singapore
+MEMS and Nanotechnology Clearinghouse
+Berkeley Sensor and Actuator Center
+Caltech Micromachining Laboratory
+MEMS in Japan
+MCNC
+Last updated on 7 November 2012
+Page 17 of 17
+Resume: Yung C. Liang
+8/21/2018
+https://www.ece.nus.edu.sg/stfpage/elelyc/
+
+-----

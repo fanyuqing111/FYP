@@ -1,0 +1,27 @@
+ 
+ 
+ABSTRACT 
+ 
+A dual-path wide-power-range rectifier for RF energy harvesting is presented in 
+this thesis. The proposed idea focuses on maximizing efficiency in harvesting 
+energy from both ambient source and dedicated source to support extensive 
+applications in wireless charging for low power devices. The harvester consists of 
+a low power rectifier, a high power rectifier and a voltage-aware block. In the low 
+power rectifier, novel DC-boosted gate bias technique is proposed to enhance 
+power conversion efficiency (PCE) by improving forward peak current, reducing 
+diode forward voltage drop and suppressing reverse leakage current. A novel 
+internal body-biasing technique is proposed in the high power rectifier to regulate 
+the transistors’ threshold voltage (Vth) for optimal efficiency. A voltage-aware 
+block, which consists of a voltage detector, a switch and an adjustable-offset 
+comparator, has been incorporated into the high-power rectification path to 
+minimize overall power consumption.  
+ 
+The proposed circuit is fabricated in 65 nm 6M/1P standard CMOS technology. 
+Peak PCE of 70.4% with DC output voltage of 1.72 V is measured on the low 
+power rectifier with input power of -5.5 dBm at 2.45 GHz when driving a 15 kΩ 
+load. For high power rectifier, maximum PCE of 56.6% with DC output voltage 
+of 3.37 V is measured with input power of 1.3 dBm at 2.45 GHz when driving a 
+15 kΩ load. The chip is able to achieve PCE greater than 20% over an extended 
+input power range of 19.8 dB from -13.5 dBm to 6.3 dBm. 
+
+-----

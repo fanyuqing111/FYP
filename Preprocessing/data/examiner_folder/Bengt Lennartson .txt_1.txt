@@ -1,0 +1,188 @@
+7/4/2018
+Bengt Lennartson | Chalmers
+https://www.chalmers.se/en/staff/Pages/bengt-lennartson.aspx
+1/6
+Bengt Lennartson
+Professor, Head of Division, Systems and Control, Electrical Engineering
+Bengt Lennartson is heading the Division of Systems and Control, and he is a Professor of Automation since
+1999. He is IEEE Fellow for his contributions to hybrid and discrete event systems for automation and sustainable
+production. He is (co)author of 280+ peer reviewed international papers. Currently, much intention is focused on
+sustainability, including energy minimization of robot cells. Collaboration with industry involves Volvo, Daimler,
+Kuka, and TetraPak.
+Teaching
+Publications
+Collaboration and projects
+Google Scholar
+Latest publications
+2018
+ bengt.lennartson@chalmers.se
+ +46 31 772 37 22
+ Find me
+
+-----
+7/4/2018
+Bengt Lennartson | Chalmers
+https://www.chalmers.se/en/staff/Pages/bengt-lennartson.aspx
+2/6
+2017
+Multi-criteria Optimization of PD Controllers for Plants including Integral Action
+Author: Bengt Lennartson
+Published: 2018
+Published in: IFAC-PapersOnLine
+Publication type: Journal article
+Productivity/energy optimisation of trajectories and coordination for cyclic multi-
+robot systems
+Author: E. Glorieux; Sarmad Riazi; Bengt Lennartson
+Published: 2018
+Published in: Robotics and Computer-Integrated Manufacturing
+Publication type: Journal article
+Con�ict between Energy, Stability and Robustness in Production Schedules
+Author: Nina Sundström; Oskar Wigström; Bengt Lennartson
+Published: 2017
+Published in:
+Publication type: Paper in proceedings
+Energy and Peak-power Optimization of Time-bounded Robot Trajectories
+Author: Sarmad Riazi; Oskar Wigström; Kristofer Bengtsson; Bengt Lennartson
+Published: 2017
+Published in:
+Publication type: Paper in proceedings
+Decomposition and distributed algorithms for home healthcare routing and
+scheduling problem
+Author: Sarmad Riazi; Oskar Wigström; Kristofer Bengtsson; Bengt Lennartson
+Published: 2017
+Published in:
+Publication type: Paper in proceedings
+
+-----
+7/4/2018
+Bengt Lennartson | Chalmers
+https://www.chalmers.se/en/staff/Pages/bengt-lennartson.aspx
+3/6
+Computationally e�cient energy optimization of multiple robots
+Author: Oskar Wigström; Nikolce Murgovski; Sarmad Riazi; Bengt Lennartson
+Published: 2017
+Published in:
+Publication type: Paper in proceedings
+From trapezoid to polynomial: Next-generation energy-e�cient robot trajectories
+Author: Sarmad Riazi; Kristofer Bengtsson; Bengt Lennartson
+Published: 2017
+Published in:
+Publication type: Paper in proceedings
+A supervisory control algorithm based on property-directed reachability
+Author: Koen Lindström Claessen; Jonatan Kilhamn; Laura Kovacs; Bengt Lennartson
+Published: 2017
+Published in: Lecture Notes in Computer Science
+Publication type: Paper in proceedings
+Constructive cooperative coevolution for large-scale global optimisation
+Author: E. Glorieux; B. Svensson; F. Danielsson; Bengt Lennartson
+Published: 2017
+Published in: Journal of Heuristics
+Publication type: Journal article
+Multi-objective constructive cooperative coevolutionary optimization of robotic
+press-line tending
+Author: E. Glorieux; B. Svensson; F. Danielsson; Bengt Lennartson
+Published: 2017
+Published in: Engineering Optimization
+Publication type: Journal article
+An event-driven manufacturing information system architecture for Industry 4.0
+Author: A. Theorin; Kristofer Bengtsson; Julien Provost; M. Lieder; C. Johnsson; Lundholm Thomas; Bengt
+Lennartson
+Published: 2017
+Published in: International Journal of Production Research
+Publication type: Journal article
+
+-----
+7/4/2018
+Bengt Lennartson | Chalmers
+https://www.chalmers.se/en/staff/Pages/bengt-lennartson.aspx
+4/6
+2016
+Control protocol synthesis for multi-agent systems with similar actions
+instantiated from agent and requirement templates
+Author: R. Su; Bengt Lennartson
+Published: 2017
+Published in: Automatica
+Publication type: Journal article
+Con�ict Between Energy, Stability, and Robustness in Production Schedules
+Author: Nina Sundström; Oskar Wigström; Bengt Lennartson
+Published: 2017
+Published in: IEEE Transactions on Automation Science and Engineering
+Publication type: Journal article
+Energy and Peak Power Optimization of Time-Bounded Robot Trajectories
+Author: Sarmad Riazi; Oskar Wigström; Kristofer Bengtsson; Bengt Lennartson
+Published: 2017
+Published in: IEEE Transactions on Automation Science and Engineering
+Publication type: Journal article
+Guest Editorial Special Section on the 2015 International Conference on
+Automation Science and Engineering
+Author: Martin Fabian; Bengt Lennartson; Knut Åkesson
+Published: 2017
+Published in: IEEE Transactions on Automation Science and Engineering
+Publication type: Magazine article
+Energy and peak-power optimization of existing time-optimal robot trajectories
+Author: Sarmad Riazi; Kristofer Bengtsson; R. Bischo�; A. Aurnhammer; Oskar Wigström; Bengt Lennartson
+Published: 2016
+Published in:
+Publication type: Paper in proceedings
+
+-----
+7/4/2018
+Bengt Lennartson | Chalmers
+https://www.chalmers.se/en/staff/Pages/bengt-lennartson.aspx
+5/6
+Rescheduling A�ected Operations - a Purely Predictive Approach
+Author: Nina Sundström; Bengt Lennartson
+Published: 2016
+Published in:
+Publication type: Paper in proceedings
+Diagnosability Veri�cation Using Compositional Branching Bisimulation
+Author: Mona Noori-Hosseini; Bengt Lennartson
+Published: 2016
+Published in:
+Publication type: Paper in proceedings
+Towards Energy Optimization using Trajectory Smoothing and Automatic Code
+Generation for Robotic Assembly
+Author: Daniel Gleeson; Sta�an C Björkenstam; R. Bohlin; Johan Carlson; Bengt Lennartson
+Published: 2016
+Published in: Procedia CIRP
+Publication type: Paper in proceedings
+Enhancing digital human motion planning of assembly tasks through dynamics
+and optimal control
+Author: Sta�an C Björkenstam; N. Delfs; Johan Carlson; R. Bohlin; Bengt Lennartson
+Published: 2016
+Published in: Procedia CIRP
+Publication type: Paper in proceedings
+Symbolic On-the-Fly Synthesis in Supervisory Control Theory
+Author: Sajed Miremadi; Bengt Lennartson
+Published: 2016
+Published in: IEEE Transactions on Control Systems Technology
+Publication type: Journal article
+Modeling and Optimization of Hybrid Systems for the Tweeting Factory
+Author: Bengt Lennartson; Kristofer Bengtsson; Oskar Wigström; Sarmad Riazi
+Published: 2016
+Published in: IEEE Transactions on Automation Science and Engineering
+Publication type: Journal article
+
+-----
+7/4/2018
+Bengt Lennartson | Chalmers
+https://www.chalmers.se/en/staff/Pages/bengt-lennartson.aspx
+6/6
+Go to Chalmers publication library
+Comparing MILP, CP, and A* for Multiple Stacker Crane Scheduling
+Author: Fredrik Hagebring; Oskar Wigström; Bengt Lennartson; S. I. Ware; R. Su
+Published: 2016
+Published in:
+Publication type: Paper in proceedings
+Energy reduction in paint shops through energy-sensitive on-o� control
+Author: Constantin Christian Justin Cronrath; Bengt Lennartson; M. Lemessi
+Published: 2016
+Published in:
+Publication type: Paper in proceedings
+Diagnosability Veri�cation Using Compositional Branching Bisimulation
+Author: Mona Noori-Hosseini; Bengt Lennartson
+Published: 2016
+Published in:
+Publication type: Report
+
+-----

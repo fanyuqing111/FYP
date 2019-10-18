@@ -1,0 +1,118 @@
+1 
+ 
+Ph.D. Candidate: 
+ZHOU Yu 
+ 
+Affiliation:  
+School 
+of 
+Electrical 
+and 
+Electronic 
+Engineering, 
+Nanyang 
+Technological University, Singapore 
+ 
+Tentative Thesis Title: 
+Characterization of Nanoscale Conducting Filament in High-k Oxides 
+by Scanning Tunneling Microscopy and Conductive Atomic Force 
+Microscopy 
+ 
+ 
+ 
+ 
+
+-----
+2 
+ 
+Tentative Thesis Abstract 
+ 
+By virtue of its simple structure, high operating speed and scalability, the resistive 
+memory or RRAM is deemed a promising alternative to the charge-based memory, 
+which is now facing severe scaling challenges. Of particular interest is the HfO2 
+RRAM due to its immediate compatibility with mainstream integrated-circuit 
+technology. A major problem is, however, the relatively high switching current. 
+Currents on the order of 10-3 A are typically observed in large-area cells (~10-8 cm2). 
+In a recent work, a substantial reduction of the switching current to ~10-5 A was 
+achieved by scaling the cell area down to 100 nm2.  
+Since one of the main strengths of RRAM is scalability, a further reduction of the 
+switching current is deemed necessary in order to make ultra-high density memory 
+application viable. At present, it is unclear to what extent could the switching current 
+be reduced with cell area scaling. To address this question, resistance switching in 
+HfO2 is examined using a conductive atomic force microscope (C-AFM) and 
+scanning tunneling microscope (STM) in this thesis. The excellent spatial resolution 
+of C-AFM and STM enables the electrical properties of a thin dielectric to be probed 
+over an extremely localized region. Through the C-AFM/STM technique, in this 
+thesis, we examined resistance switching in a 4-nm thick HfO2, within a region of ~2 
+nm in diameter and achieved an ultra-low current switching capability.  
+Furthermore, the unique abrupt reset behavior is observed in nanoscale RRAM 
+with nanometer-level conducting filament (CF), on the contrary, the gradual current 
+
+-----
+3 
+ 
+reduction trend is typically observed during the reset process in relatively large area 
+RRAM device. We addressed the origin of the gradual resistance reset behavior by 
+studying, via STM/C-AFM, the reset characteristic of the nanoscale CFs and its 
+relation with the macroscopic gradual electrical reset behavior in device level. The 
+statistical result shows that the nanoscale CFs tend to exhibit abrupt resistance reset 
+behavior with significant variations in the reset voltage and current. It is shown that 
+this wide variation of reset voltage and current contributes to the gradual resistance 
+reset behavior observed in large area RRAM device with multiple nanoscale CFs 
+formed beneath the top electrode. 
+The memory device seldom works individually. The crossbar memory array is the 
+most commonly used architecture. However, the fundamental problem of a crossbar 
+memory array is the sneak-path current, which can severely compromise the integrity 
+of data readout. To overcome the problem, a typical approach would be to connect a 
+selection device, e.g. diode or transistor in series with each memory element, at the 
+expense of a lower integration density and greater processing complexity. In this 
+thesis, we show, via STM/C-AFM study, that the filamentary path in the HfOx 
+dielectric could exhibit a highly asymmetrical conduction property when the forming 
+hardness is appropriately controlled. The finding suggests possible exploitation for 
+extremely compact cross-point bipolar resistive memory with built-in rectification. 
+With the further scaling of the RRAM/MOSFET devices, electrical-stress-induced 
+breakdown of the scaled thin gate oxide is a serious reliability issue that has received 
+widespread attention for many years. Studies have shown that gate-oxide breakdown 
+
+-----
+4 
+ 
+can be broadly classified as soft or hard. Ultra-thin gate oxides (< 5 nm) typically 
+exhibit the former. As soft breakdown (SBD) typically does not lead to a total loss of 
+transistor functionality, there has been much interest on the breakdown mechanism 
+and its evolution towards eventual hard breakdown. With HfO2 replacing SiO2 as the 
+gate oxide, recent attention was mostly centered on the reliability of the metal/HfO2 
+gate stack. It has been found that SBD of HfO2 can be electrically reversed with a 
+greater ease as compared to SiO2, prompting considerable interest on the recovery 
+mechanism as well as the role of the metal electrode. In this thesis, we report that a 
+nanoscale percolation path in SiO2 and HfO2 can be disrupted upon exposure to white 
+light. The disruption is either complete or partial, depending on the resistance of the 
+percolation path determined at the point of breakdown, i.e. the breakdown hardness. 
+The electrical robustness of the light-restored oxide is tested and analyzed using 
+statistical Weibull distributions. Unlike the classical photo-response behavior of 
+narrow bandgap oxides and perovskites which is commonly manifested as an increase 
+in electrical conduction due to the generation of excess charge carriers by the incident 
+photons, the photo-response here comes in the form of a disruption of electrical 
+conduction through the nanoscale conducting filament or percolation path formed 
+during breakdown. When that occurs the insulating properties of the breakdown oxide 
+region can be restored. The disruption in electrical conduction caused by white-light 
+illumination is proposed to occur through photon-stimulated migration of interstitial 
+oxygen ions nearby the vacancy-filled filament, resulting in the migrating oxygen ions 
+recombining with the vacancies in the filament. This unique photo-responsive 
+
+-----
+5 
+ 
+behavior, which we termed as negative photoconductivity (NPC) of SBD HfO2, ZrO2 
+and SiO2 points towards the possibility of gate oxide reliability rejuvenation as well as 
+the incorporation of optical functions into mainstream CMOS-based integrated 
+circuits, e.g., imaging sensors and photodetectors with built-in non-volatile memory 
+capability. As a photodetector, the relation between the CF disruption speed and the 
+light intensity has been investigated, as well as the wavelength influence. The infrared 
+light is proved to be effective for CF disruption on our device, indicating a possible 
+room temperature infrared detector. A systematic study is presented in this thesis 
+regarding the influence factors to the photosensitivity/CF disruption speed, such as the 
+stoichiometry of the oxide layer, sample temperature, and the electrode dependence. 
+ 
+
+-----

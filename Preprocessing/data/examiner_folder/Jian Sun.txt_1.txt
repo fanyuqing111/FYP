@@ -1,0 +1,227 @@
+Dr. Jian Sun 
+Professor, Department of Electrical, Computer, and Systems Engineering (ECSE)
+Director, New York State Center for Future Energy Systems (CFES)
+Rensselaer Polytechnic Institute 
+Contact Information 
+110 8th Street, CII 8015 � CFES
+Troy, NY 12180-3590
+Phone: (518) 276-8297, Fax: (518) 276-2387
+E-Mail: jsun@rpi.edu 
+Home 
+Publications and 
+Patents 
+IEEE Power 
+Electronics 
+Letters 
+Center for Future 
+Energy Systems 
+SYMAP 
+Research Areas 
+Power electronics and energy systems; Specific research interests include 
+• Energy conversion and control for solar, wind, and other renewable and distributed 
+generation technologies; offshore wind, HVDC and FACTS 
+• Grid integration of solar and wind energy; stability and power quality of power grid with deep 
+penetration of renewable energy and distributed generation 
+• Smart grids, micro-grids; mobile and autonomous energy systems (aircraft, ships, ground 
+vehicles); system modeling and control 
+• Energy storage applications in renewable energy systems 
+• Modular power conversion and advanced PWM and control techniques for modular power 
+converters 
+• High-frequency power conversion using wide bandgap semiconductor devices (GaN and SiC); 
+modular power conversion system architecture and control 
+• Efficient energy utilization; high-efficient power conversion and conditioning for electronics, 
+communication, lighting, and other applications 
+• Electromagnetic interference (EMI) in power and power electronic systems; high-performance 
+power conversion for aerospace applications 
+• General power electronic circuit topologies, modeling, and control 
+Current Research Projects
+• Stability and Control of Cluster Converters Connected to Weak Grid 
+• HVDC Transmission Architecture and Control for Offshore Wind 
+• Voltage Stability and Control in Smart Grid 
+• DC Micro Grid for Integration of Renewable Energy and Energy Storage 
+• Integrated Single-Chip Solid State Lighting Driver Developing Using GaN Devices 
+• GaN-Based High Frequency Power Conversion for Aircraft Applications 
+• EMI Modeling and Design Optimization for More Electric Aircraft 
+• Aircraft Power System Modeling and Simulation 
+• High Density, High Efficiency Electrical Power Generation System for UAS Applications 
+Professional Services (Partial List) 
+• Editor-in-Chief, IEEE Power Electronics Letters
+• Guest Editor, IEEE Transactions on Power Electronics, Special Issue on Modeling and 
+Advanced Control
+• Administrative Committee (AdCom) Member, IEEE Systems Council
+• Chair, IEEE Power Electronics Society Technical Committee on Modeling, Simulation, and 
+Control
+• General Chair, 2006 IEEE Workshop on Computers in Power Electronics
+• Co-Chair, Technical Program Committee of 4th IEEE Energy Conversion Conference and 
+Exposition (ECCE 2012) 
+• Vice Chair, Technical Program Committee of 2nd IEEE Energy Conversion Conference and 
+Exposition (ECCE 2010, Atlanta, September 2010) 
+• Publication Chair, 1st IEEE Energy Conversion Conference and Exposition (ECCE) 
+• Vice Technical Program Committee Chair, 1st IEEE Energy Conversion Conference and 
+Exposition (ECCE) 
+• Consultant to a dozen US companies 
+Teaching 
+• ECSE/EPOW 4080 � Semiconductor Power Electronics (offered every fall semester)
+• EPOW 6820 � Power Quality (offered in the spring semester of odd-numbered years)
+• EPOW 6090 � Advanced Power Electronics Lab (offered in the spring semester of even-
+numbered years)
+Page 1 of 2
+Jian Sun Home
+6/18/2018
+https://www.ecse.rpi.edu/~jsun/index.htm
+
+-----
+• Independent Studies on Modeling and Control in Power Electronics, Voltage Source 
+Converters, and Power Electronic Systems 
+Education and Industry Experience 
+• Ph.D. in Electrical Engineering, University of Paderborn , Paderborn, Germany, 1995
+• MS in Electrical Engineering, Beijing University of Aeronautics and Astronautics , China, 1989
+• BS in Electrical Engineering, Nanjing University of Aeronautics and Astronautics , China, 1984
+• Post-Doctoral Fellow, School of Electrical and Computer Engineering , Georgia Institute of 
+Technology , 1996-1997
+• Senior Engineer, Advanced Technology Center , Rockwell Collins , 1997-1999
+• Principal Engineer, Advanced Technology Center , Rockwell Collins , 2000-2002
+Page 2 of 2
+Jian Sun Home
+6/18/2018
+https://www.ecse.rpi.edu/~jsun/index.htm
+
+-----
+Dr. Jian Sun 
+Professor, Department of Electrical, Computer, and Systems Engineering (ECSE)
+Director, New York State Center for Future Energy Systems (CFES)
+Rensselaer Polytechnic Institute 
+Contact Information 
+110 8th Street, CII 8015 � CFES
+Troy, NY 12180-3590
+Phone: (518) 276-8297, Fax: (518) 276-2387
+E-Mail: jsun@rpi.edu 
+Home 
+Publications and 
+Patents 
+IEEE Power 
+Electronics 
+Letters 
+Center for Future 
+Energy Systems 
+SYMAP 
+Selected Journal Papers 
+1. M. Cespedes, L. Xing, and J. Sun, �Constant-power load system stabilization by passive 
+damping,� accepted for publication in IEEE Transactions on Power Electronics. 
+2. L. Xing and J. Sun, �Optimal damping of multi-stage EMI filters,� accepted for publication 
+in IEEE Transactions on Power Electronics. 
+3. J. Sun, �Impedance-based stability criterion for grid-connected inverters,� accepted for 
+publication in IEEE Transactions on Power Electronics. 
+4. L. Xing, F. Feng, and J. Sun, �Optimal damping of EMI filter input impedance,� IEEE 
+Transactions on Industry Applications, vol. 47, no. 3, pp. 1432-1440, May/June 2011. 
+5. Z. Bing and J. Sun, �Frequency-domain modeling of multipulse converters by double-Fourier 
+series method,� accepted for publication in IEEE Transactions on Power Electronics. 
+6. Z. Bing, X. Du, and J. Sun, �Control of three-phase PWM rectifiers using a single dc current 
+sensor,� accepted for publication in IEEE Transactions on Power Electronics. 
+7. J. Sun, Z. Bing, and K. Karimi, �Input impedance modeling of multipulse rectifiers by 
+harmonic linearization,� IEEE Transactions on Power Electronics, vol. 24, no. 12, pp. 2812-
+2820, December 2009. 
+8. R. Redl and J. Sun, �Ripple-based control of switching regulators � an overview,� IEEE 
+Transactions on Power Electronics, vol. 24, no. 12, pp. 2669-2680, December 2009. 
+9. T. Qi and J. Sun, �Dual-boost single-phase PFC input current control based on output 
+current sensing,� IEEE Transactions on Power Electronics, vol. 24, no. 11, pp. 2523-2530, 
+November 2009. 
+10. J. Sun, �Small-signal methods for ac distributed power systems � a review,� IEEE 
+Transactions on Power Electronics, vol. 24, no. 11, pp. 2545-2554, November 2009. 
+11. Z. Bing, K. Karimi, and J. Sun, �Input impedance modeling and analysis of line-commutated 
+rectifiers,� IEEE Transactions on Power Electronics, vol. 24, no. 10, pp. 2338-2346, October 
+2009. 
+12. J. Sun, D. Giuliano, S. Devarajan, J. Lu, T. P. Chow, and R. Gutmann, �Fully monolithic 
+cellular buck converter design for 3D power delivery,� IEEE Transactions on VLSI Systems, 
+vol. 17, no. 3, pp. 447-451, March 2009. 
+13. J. Sun, �TRU and ATRU analysis by matrix method,� SAE International Journal of 
+Aerospace, vol. 1, no. 1, pp. 1046- 1054, January 2009. 
+Recent Conference Papers 
+1. L. Xing and J. Sun, �Motor drive common-mode EMI reduction by using a Wheatstone 
+bridge,� to be presented at 2011 European Power Electronics Conference (EPE 2011), 
+September 2011. 
+2. M. Cespedes and J. Sun, �Modeling and mitigation of harmonic resonance between wind 
+turbines and the grid,� to be presented at IEEE 2011 Energy Conversion Congress and 
+Exposition (ECCE 2011), September 2011. 
+3. X. Chen and J. Sun, �Characterization of inverter-grid interactions using a hardware-in-the-
+loop system test-bed,� to be presented at 2011 International Conference on Power 
+Electronics (ECCE Asia 2011), May 2011, Jeju, Korea (Invited Paper). 
+4. T. Beechner and J. Sun, �Optimal interleaved pulse-width modulation considering sampling 
+effects,� in Proceedings of IEEE 2011 Applied Power Electronics Conference, pp. 1881-1887, 
+March 2011, Ft. Worth, TX. 
+5. T. Qi and J. Sun, �DC bus grounding capacitance optimization for common-mode EMI 
+minimization,� in Proceedings of IEEE 2011 Applied Power Electronics Conference, pp. 661-
+666, March 2011, Ft. Worth, TX. 
+6. L. Xing and J. Sun, �Optimal damping of multi-stage EMI filters,� in Proceedings of IEEE
+2011 Applied Power Electronics Conference, pp. 1721-1728, March 2011, Ft. Worth, TX. 
+7. X. Chen and J. Sun, �A study of renewable energy system harmonic resonance based on a 
+DG test-bed,� in Proceedings of IEEE 2011 Applied Power Electronics Conference, pp. 995-
+1002, March 2011, Ft. Worth, TX. 
+Page 1 of 2
+Jian Sun Publications
+6/18/2018
+https://www.ecse.rpi.edu/~jsun/publications.htm
+
+-----
+8. L. Xing and J. Sun, �Inverter-motor system EMI reduction by impedance balancing,� in 
+Proceedings of SAE (Society of Automotive Engineers) 2010 Power Systems Conference, CD-
+ROM, Paper # 2010-01-1754, November 2010. 
+9. T. Qi and J. Sun, �Analysis and reduction of common-mode EMI in electric actuators for VF 
+MEA,� in Proceedings of SAE (Society of Automotive Engineers) 2010 Power Systems 
+Conference, CD-ROM, Paper # 2010-01-1740, November 2010. 
+10. Z. Bing and J. Sun, �Effects of line and load conditions on TRU and ATRU input current 
+harmonics,� in Proceedings of SAE (Society of Automotive Engineers) 2010 Power Systems 
+Conference, CD-ROM, Paper # 2010-01-1809, November 2010. 
+11. L. Xing, F. Feng, and J. Sun, �Behavioral modeling methods for motor drive system EMI 
+design optimization,� in Proceedings of IEEE 2010 Energy Conversion Congress and 
+Exposition (ECCE 2010), pp. 947-954, September 2010, Atlanta, GA. 
+12. Z. Bing and J. Sun, �Input impedance modeling of multipulse rectifiers by double-Fourier 
+series method,� in Proceedings of IEEE 2010 Energy Conversion Congress and Exposition
+(ECCE 2010), pp. 3754-3761, September 2010, Atlanta, GA. 
+13. Z. Bing and J. Sun, �Line-frequency rectifier dc-bus voltage instability and mitigation,� in 
+Proceedings of IEEE 2010 Workshop on Control and Modeling for Power Electronics (COMPEL 
+2010), June 2010. 
+14. L. Xing and J. Sun, �Motor drive system EMI reduction by asymmetric interleaving,� in 
+Proceedings of IEEE 2010 Workshop on Control and Modeling for Power Electronics (COMPEL 
+2010), June 2010. 
+15. P. Wu and J. Sun, �Control design optimization for an asymmetric half-bridge converter,� in 
+Proceedings of IEEE 2010 Workshop on Control and Modeling for Power Electronics (COMPEL 
+2010), June 2010. 
+16. M. Cespedes and J. Sun, �Averaged modeling and analysis of multilevel converters,� in 
+Proceedings of IEEE 2010 Workshop on Control and Modeling for Power Electronics (COMPEL 
+2010), June 2010. 
+17. Z. Bing and J. Sun, �Modeling and analysis of line-frequency converters by double-Fourier 
+series methods,� in Proceedings of IEEE 2010 Workshop on Control and Modeling for Power 
+Electronics (COMPEL 2010), June 2010 (Best Paper Award) 
+18. J. Sun, �High-performance power conversion for more-electric aircraft,� in Proceedings of 
+the 9th International PCIM China Conference, pp. 22-32, June 2010 (Invited Keynote Paper). 
+19. T. Qi, J. Graham, and J. Sun, �Characterization of IGBT modules for system EMI 
+simulation,� in Proceedings of 2010 IEEE Applied Power Electronics Conference, pp. 2220-
+2225, February 2010. 
+20. M. Cespedes, L. Xing, T. Beechner, and J. Sun, �Stabilization of constant-power loads by 
+passive impedance damping,� in Proceedings of 2010 IEEE Applied Power Electronics 
+Conference, pp. 2174-2180, February 2010. 
+21. Z. Bing and J. Sun, �Minimum-sensing current control of three-phase PFC converters,� in 
+Proceedings of 2010 IEEE Applied Power Electronics Conference, pp. 336-342, February 
+2010. 
+Patents 
+• �Bi-directional dc-to-dc converters for energy storage applications,� US Patent # 
+6,243,277. 
+• �Integrated magnetic converter circuit and method with improved filtering,� US Patent # 
+6549436. 
+• �Switching power converter circuits providing main and auxiliary output voltages,� US 
+Patent # 6775159. 
+• �Composite core design for matrix integrated magnetics in high power interleaved dc-dc 
+converters,� US Patent #6980077.
+• �Vertically packaged switched-mode power converter,� US Patent #7012414. 
+• �Core structure and interleaved dc-dc converter topology,� US Patent #7046523. 
+• �Vertical winding structures for planar magnetic switched-mode power converters,� US 
+Patent #7321283 
+• �Vertical winding structures for planar magnetic switched-mode power converters,� US 
+Patent #7554430 
+Page 2 of 2
+Jian Sun Publications
+6/18/2018
+https://www.ecse.rpi.edu/~jsun/publications.htm
+
+-----

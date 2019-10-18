@@ -1,0 +1,136 @@
+Analog Mixed-Signal IC Group
+Mike Chen
+PRINCIPAL INVESTIGATOR
+Mike Shuo-Wei Chen is currently an Associate Professor at 
+Electrical Engineering Department, USC, and holds Colleen and 
+Roberto Padovani Early Career Chair position. 
+He received the B.S. degree from National Taiwan University, 
+Taipei, Taiwan, in 1998 and the M.S. and Ph.D. degree from 
+University of California, Berkeley, in 2002 and 2006, all in 
+electrical engineering. 
+GRADUATE STUDENT RESEARCHER
+From 2001 to 2006, he was a Graduate Research Assistant at Berkeley Wireless 
+Research Center, working on mixed-signal circuits, ultra-wideband (UWB), digital 
+baseband and ASIC implementation. During that time, he naively proposed and 
+demonstrated the first asynchronous SAR ADC architecture, which has been adopted 
+today for low-power high-speed analog-to-digital conversion products in industry. 
+Since 2006, he has been a member of Analog IC Group at Atheros Communications 
+(now Qualcomm-Atheros), Santa Clara, CA, working on mixed-signal and RF circuits 
+for various wireless communication products. After joining USC in 2011, he leads an 
+analog mixed-signal circuit group, focusing on high-speed low-power data converters, 
+Bio-inspired electronics, RF frequency synthesizers, DSP-enabled analog circuits and 
+systems. His students and himself have a lot of fun exploring new circuit architectures 
+that excel beyond the technology limitation.
+Dr. Chen was the recipient of NSF Faculty Early Career Development (CAREER) 
+Award and DARPA Young Faculty Award (YFA) both in 2014. He also achieved an 
+honourable mention in the Asian Pacific Mathematics Olympiad, 1994, UC Regents’ 
+Fellowship at Berkeley in 2000 and Analog Devices Outstanding Student Award for 
+recognition in IC design in 2006.
+Email: swchen AT usc DOT edu
+Page 1 of 4
+Mike Chen's group: People
+11/22/2017
+http://www-bcf.usc.edu/~swchen/index_files/People.htm
+
+-----
+Cheng-Ru Ho 
+B.S., Electrical Engineering, National Cheng Kung University, Tainan, 
+Taiwan, 2007
+M.S., Electrical Engineering, University of Southern California, 2012 
+Cheng-Ru Ho joined the group as a PhD student in 2012, where he 
+has been involved with robust system circuit reliability design and 
+all-digital phase locked loop (ADPLL). Cheng-Ru was the 
+honored student in masters degree and received Viterbi Graduate 
+School Fellowship for his PhD program in 2012-2013.
+Contact info: chengruh AT usc.edu
+Shiyu Su 
+B.S., Wireless Communication Engineering, Beijing University of Post 
+and Telecommunication, Beijing, China, 2011; Queen Mary, University 
+of London, London, UK, 2011
+M.S.,  Electrical Engineering, University of Southern California, 2012 
+Shiyu Su joined the group as a PhD student in 2013, where he has 
+been involved with high speed and high linearity digital-to-analog 
+converter(DAC) design. 
+Jaewon Nam 
+B.S., Electrical Engineering, Korea Advanced Institute of Science and 
+Technology, 2006
+M.S., Electrical Engineering, Korea Advanced Institute of Science and 
+Technology, 2008
+Jaewon Nam joined the group as a PhD student in 2012, where he 
+has been involved with high-speed/high resolution A/D converter. 
+He received Viterbi Graduate School Fellowship for his PhD 
+program in 2012-2013. 
+Contact info: jaewon.nam AT usc.edu
+Contact info: shiyusu AT usc.edu
+Mohsen Hassanpourghadi
+B.S., Electrical Engineering, University of Tehran, Tehran, Iran, 2009
+M.S., Micro-electronics, Sharif University of Technology, Tehran, Iran, 
+2011 
+Contact info: mhassanp AT usc.edu
+Mohsen Hassanpourghadi joined the group as a PhD student in 
+2014; his research interests are high speed and low power Analog-
+to-Digital Converters and Computer Aided Design Tools. His 
+current research focuses on Time-based ADCs for near Nyquist 
+sampling.
+Tzu-Fan Wu 
+B.S., Electrical Engineering, National Taiwan University, 2004
+M.S., Electrical Engineering, University of California, Los Angeles, 2008
+Tzu-Fan Wu joined the group as a PhD student in 2013, where he 
+has been involved with Asynchronous Analog-to-Digital 
+Converter. From 2009-2013, he was with Metanoia 
+Communication working on mixed-signal circuits for various 
+wireline communication systems.
+Contact info: tzufanwu AT usc.edu
+Page 2 of 4
+Mike Chen's group: People
+11/22/2017
+http://www-bcf.usc.edu/~swchen/index_files/People.htm
+
+-----
+Aoyang Zhang
+B.S., Electrical Engineering, College of Electrical Engineering Chu 
+Kochen Honors College, Zhejiang University, Hangzhou, China
+I join the group as a graduate student in 2014. I mainly focus on 
+the Digital intensive Power Amplifier project. I am the first prize 
+of the Chinese Mathematical Olympiad in Senior. I obtain the 
+Best Bachelor Thesis in EE and Outstanding Graduate Student 
+Degree in Zhejiang University.
+Contact info: aoyangzh AT usc.edu
+Sourya Dey
+B.Tech., Instrumentation Engineering, Indian Institute of Technology 
+Kharagpur, 2014
+Sourya Dey joined the group as a PhD student in 2014, where he 
+is involved with Asynchronous Analog-to-Digital Converter. 
+Sourya was awarded the Best Bachelor's Thesis award as an 
+undergraduate and received the Viterbi Graduate School 
+Fellowship for his PhD program in 2014.
+Pedram Teimouri
+B.S., Electrical Engineering, Sharif University of Technology, Iran, 
+2014
+Naveen joined group in Fall 2014. Since 2012, Naveen was with 
+TSMC as a product engineer working on CMOS Image Sensors 
+or Depth Sensors for motion capturing at a device level. He will 
+be working on Bio- inspired brain project. He has an academic 
+excellence award at IIT Kanpur.
+Contact info: nkatam AT usc.edu
+Contact info: souryade AT usc.edu
+Naveen Katam
+B.Tech-M.Tech, IIT Kanpur , 2012
+Pedram Teimouri graduated from Sharif University of Technology 
+with a bachelor of science degree in Electrical Engineering in 
+2014. He joined Analog mixed-signal IC group in 2014, where he 
+has been involved with brain-inspired circuit design.
+Contact info: pteimour AT usc.edu
+WHAT WE ARE DOING WITHOUT ADVISOR...
+Page 3 of 4
+Mike Chen's group: People
+11/22/2017
+http://www-bcf.usc.edu/~swchen/index_files/People.htm
+
+-----
+Page 4 of 4
+Mike Chen's group: People
+11/22/2017
+http://www-bcf.usc.edu/~swchen/index_files/People.htm
+
+-----

@@ -1,0 +1,44 @@
+Publication and Patent List 
+1. Van Loi Le, Tae-Hyoung Kim, Juhui Li, and Alan Chang, "Low power flip-flop circuit," 
+US Patent 9 628 062, filed on June 13, 2016, issued on April 18, 2017. 
+ 
+2. Van Loi Le, J. Li, A. Chang, and Tony T. Kim, "A 0.4-V 0.138-fJ/Cycle Single-Phase-
+Clocking Redundant-Transition-Free 24T Flip-Flop with Change-Sensing Scheme in 40-
+nm CMOS," IEEE Journal of Solid-State Circuits (JSSC), vol. 53, Aug. 2018. 
+ 
+3. Van Loi Le and Tony T. Kim, "An Area and Energy Efficient Ultra-Low Voltage Level 
+Shifter with Pass Transistor and Reduced-Swing Output Buffer in 65-nm CMOS," IEEE 
+Transactions on Circuits and Systems-II (TCAS-II), Vol. 65, pp. 607-611, May 2018. 
+ 
+4. Van Loi Le*, T. Yoo*, J. E. Kim, N. L. Ba, K.-H. Baek, Tony T. Kim, “A 137-µW 
+1.78mm2 30-frames/s Real-Time Gesture Recognition System for Smart Devices”,  IEEE 
+Journal of Solid-State Circuits (JSSC), to be submitted for review. (*Equally contributed) 
+ 
+5. Van Loi Le*, T. Yoo*, J. E. Kim, K.-H. Baek, Tony T. Kim, “A 213.7-µW 0.54mm2 Real-
+Time Gesture Recognition System in 65nm for Smart Wearable Devices”, 2019 IEEE 
+International Solid-State Circuit Conference (ISSCC), submitted. (*Equally contributed) 
+ 
+6. Van Loi Le, J. Li, A. Chang, and Tony T. Kim, “An 82% Energy-Saving Change-Sensing 
+Flip-Flop in 40nm CMOS for Ultra-Low Power Applications,” 2017 IEEE Asian Solid-
+State Circuits Conference (A-SSCC), pp. 197-200, South Korea, Nov. 2017.  
+ 
+7. Van Loi Le and Tony T. Kim, “An Area and Energy Efficient Ultra-Low Voltage Level 
+Shifter with Reduced-Swing Output Buffer,” 2018 IEEE International Symposium on 
+Circuits and Systems (ISCAS), Italy, May 2018.  
+ 
+8. T. Yoo*, Van Loi Le*, J. E. Kim, N. L. Ba, K.-H. Baek, Tony T. Kim, “A 137-µW Area-
+Efficient Real-Time Gesture Recognition System for Smart Wearable Devices”, 2018 IEEE 
+Asian Solid-State Circuits Conference (A-SSCC), Taiwan, Nov. 2018. (*Equally 
+contributed) 
+ 
+9. L. Lu, T. Yoo, Van Loi Le and T. Kim, “An Ultra-low Power 8T SRAM with Vertical 
+Read Word Line and Data-Aware Write Assist,” 2018 IEEE Asian Solid-State Circuits 
+Conference (A-SSCC), Taiwan, Nov. 2018.  
+ 
+10. S. M. Siddiqui, R. Sharma, Van Loi Le, T. Yoo, I.-J. Chang,  and T. Kim, "A Radiation 
+Hardened SRAM with Self-refresh and Compact Error Correction," 15th Internation SoC 
+Design Conference (ISOCC), Korea, Nov. 2018. 
+ 
+ 
+
+-----

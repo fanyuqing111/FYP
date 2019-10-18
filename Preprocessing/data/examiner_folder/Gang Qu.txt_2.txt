@@ -1,0 +1,2009 @@
+Gang Qu: Curriculum Vitae, Page 1 of 24 
+GANG QU  
+ 
+Dept. of Electrical and Computer Engineering 
+1417 A. V. Williams 
+University of Maryland 
+College Park, MD 20742 
+ 
+ 
+ 
+Notarization: I have read the following and certify that this curriculum vitae is a current and accurate 
+statement of my professional record. 
+ 
+ 
+Signature  
+ 
+ 
+ 
+ 
+ 
+ 
+Date  
+ 
+ 
+ 
+ 
+ 
+ 
+1. Personal Information 
+Current Position: Associate Professor (promoted in July 1, 2006)  
+Department of Electrical and Computer Engineering (50%) and  
+Institute for Systems Research (50%) 
+ 
+a. Educational Background 
+2000 Ph.D. 
+Computer Science, University of California, Los Angeles, California. 
+ 
+ 
+Dissertation: “Constraint-Based Intellectual Property Protection: Theory and 
+Practice”. 
+1998  M.S. 
+ 
+Computer Science, University of California, Los Angeles, California. 
+ 
+  
+Thesis: “Scheduling Problems for Reducing Energy on Variable Voltage 
+Systems”  (Outstanding Master of Science Award). 
+1996  M.A. 
+Mathematics, University of Oklahoma, Norman, Oklahoma.  
+ 
+ 
+ 
+1994  M.S.   
+Applied Mathematics, University of Science and Technology of China, Hefei, 
+Anhui, P.R.China. 
+ 
+1992  B.S. 
+Pure Mathematics (major) and Non-linear Science (minor), University of Science 
+and Technology of China, Hefei, Anhui, P.R.China. (Outstanding Bachelor of 
+Science Award). 
+b. Honors and Awards 
+May 2011 
+Research and Scholarship Summer Award Winner for academic year 2010-2011, 
+The Graduate School, University of Maryland, College Park.  
+May 2007 
+Member of ACM SIGDA Low Power Technical Committee. 
+September 2006 
+Best Paper Awards, 17th IEEE International Conference on Application-specific 
+Systems, Architectures and Processors (ASAP’06). 
+August 2006 
+ACM Recognition of Service Awards by ACM SIG Governing Board. In 
+appreciation for Contributions to ACM General Co-Chair GLSVLSI’06. 
+September 2005 
+ACM Recognition of Service Awards by ACM SIG Governing Board. In 
+appreciation for Contributions to ACM Program Co-Chair GLSVLSI’05. 
+gangqu@eng.umd.edu 
+Voice: (301)405-6703 
+Fax: (301)314-9281 
+http://www.ece.umd.edu/~gangqu 
+ 
+
+-----
+Gang Qu: Curriculum Vitae, Page 2 of 24 
+September 2002 
+George Corcoran Award for teaching and educational leadership. University of 
+Maryland, College Park. 
+ 
+ 
+            
+August 2001 
+Best Student Paper Awards, ACM SIGMOBILE International Conference on 
+Mobile Computing and Networking. 
+June 1999 
+Dimitris N. Chorafas Foundation Award, University of California, Los Angeles. 
+June 1999  
+36th ACM/IEEE Design Automation Conference Graduate Scholarship Award. 
+January 1999 
+NCR Fellowship, National Cash Register Company, University of California, 
+Los Angeles. 
+Students’ Honors and Awards 
+May 2011 
+Distinguished Teaching Assistant Award, Center for Teaching Excellence, 
+University of Maryland, College Park. (Chi-en Yin) 
+January 2010 
+Future Faculty Fellow, A. James Clark School of Engineering, University of 
+Maryland, College park. (Junjun Gu) 
+November 2009 
+Cyber Security Awareness Week 2009 Embedded System Challenge contest, 4th 
+place, Polytechnic Institute of NYU. (Chi-en Yin and Junjun Gu) 
+June 2008 
+ACM/IEEE Design Automation Conference (DAC) Young student support 
+program (Junjun Gu) 
+August 2007 
+Best Presentation Award. MERIT program, University of Maryland, College 
+Park. (Malcom Taylor) 
+July 2006 
+University Booth. ACM/IEEE Design Automation Conference. (Lin Yuan and 
+Kun Lin) 
+March 2006 
+10th Annual March Madness for the Mind E-Team exhibition, National 
+Collegiate Inventors and Innovators Alliance. (Lin Yuan and Kun Lin) 
+May 2005  
+Runner-up of the New Venture Challenge Competition, University of Maryland, 
+College Park. (Daniel Senai, Kun Lin, Ogbonia Orji and Josef Yeager) 
+December 2004 
+Runner-up of the CRA outstanding undergraduate awards. Computer Research 
+Associates. (Jane Lin, the highest finish by a UMD student) 
+August 2003 
+Best Project Award, Maryland Engineering Research Internship Teams (MERIT) 
+program, University of Maryland, College Park. (Jane Lin and Matt Schmidt) 
+June 2003 
+University Booth. ACM/IEEE Design Automation Conference. (Adarsh Jain, Lin 
+Yuan and Pushkin Pari)  
+August 2001 
+Best Presentation Award. MERIT program, University of Maryland, College 
+Park. (Ming Liu and Ani Akinbiyi)  
+c. Professional Experience 
+August 2000 
+Assistant Professor and Associate Professor (Promoted in July 2006) 
+– present  
+Electrical and Computer Engineering Department, joint appointment with  
+Institute for Systems Research (July 2010 – present) 
+Institute for Advanced Computer Studies (August 2001 – June 2010) 
+University of Maryland, College Park, Maryland. 
+January 2009 
+Senior Visiting Scholar 
+
+-----
+Gang Qu: Curriculum Vitae, Page 3 of 24 
+– July 2009  
+Computer Science Department and National Laboratory on Information Science 
+and Technology, Tsinghua University, Beijing, P.R. China. 
+July 1999  
+Visiting Researcher 
+– October 1999 Semiconductor Company of Toshiba Corporation, Kawasaki, Japan. 
+June 1997  
+Software Engineer 
+– August 1997 FEM Engineering Inc., Los Angeles, California. 
+2. Research, Scholarly, and Creative Activities 
+Summary:  
+I have authored and co-authored 1 book, 2 book chapters, 26 journal articles (and 4 more under 
+revision), 94 conference papers (out of these, 16 journal articles and 38 conference papers were after 
+my tenure decision was made). The co-authorship is denoted as follows. Names of students/mentees 
+are underlined. 
+[A]: co-authored with Ph.D. advisor (M. Potkonjak) and his students;   11 journals, 24 conferences 
+[S]: co-authored with my students;      
+ 
+ 
+ 
+       9 journals, 38 conferences  
+[C]: co-authored with my colleagues and my/their students;    
+      9 journals, 27 conferences 
+[Q]: single-authored.  
+ 
+ 
+ 
+ 
+ 
+     1 journal,     5 conferences  
+ 
+The citations of these works based on data collected on July 1, 2013 
+ISI Web of Science*    
+ 
+ 
+Citations: 276  
+ 
+h-index: 8  
+Google Scholar  
+   
+  
+ 
+Citations: 4461  
+ 
+h-index: 25 
+*ISI mainly indexes journal articles and does not include conference papers. In the area of 
+computer engineering, papers in top conferences are more competitive and cited more often.  
+ 
+I have given 43 invited talks and professional presentations. 
+ 
+I have received grants and contracts as PI/Co-PI for a total of $2.92 millions, out of which my share 
+is $1.32 million ($1.63 millions and $1.19 millions, respectively, were awarded after my tenure 
+decision was made). 
+a. 
+Books 
+A.1. G. Qu and M. Potkonjak, Intellectual Property Protection in VLSI Designs: Theory and 
+Practice, Kluwer Academic Publishers, ISBN 1-4020-7320-8, January 2003. 
+        
+       [A] 
+       Chapters in Books 
+A.2 L. Yuan and G. Qu, “Energy Efficient Design for Secure Sensor Networks”, in Handbook of 
+Sensor Networks (Chapter 38), CRC Press, ISBN 0-8493-1968-4, October 2004. 
+        [S] 
+A.3 G. Qu and L. Yuan, “Secure Hardware IPs by Digital Watermark”, in Introduction to Hardware 
+Security and Trust,  pp. 123-142, Springer, ISBN 978-1-4419-8079-3, 2012. 
+ 
+        [S] 
+b. 
+Articles in Refereed Journals 
+B.1. I. Hong, D. Kirovski, G. Qu, M. Potkonjak, and M. Srivastava. “Power Optimization of 
+Variable Voltage Core-Based Systems”, IEEE Transactions on Computer-Aided Design of 
+Integrated Circuits and Systems, Vol. 18, No. 12, pp. 1702–1714, December 1999. 
+       [A] 
+
+-----
+Gang Qu: Curriculum Vitae, Page 4 of 24 
+B.2. G. Qu, N. Kawabe, K. Usami, and M. Potkonjak. “Code Coverage-based Power Estimation 
+Techniques for Microprocessors”, Journal of Circuits, Systems, and Computers, Vol. 11, No. 5, 
+pp. 557–574, July 2002.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       [A] 
+B.3. S. Megerian, F. Koushanfar, G. Qu, G. Veltri, and M. Potkonjak. “Exposure In Wireless Sensor 
+Networks: Theory and Practical Solutions", Journal of Wireless Networks, Kluwer Academic 
+Publishers, Vol. 8, No. 5, pp. 443–454, September 2002. (Invited as the best student paper 
+awards winner from MobiCom 2001) 
+ 
+ 
+ 
+ 
+                    [A] 
+B.4. G. Qu and M. Potkonjak. “Techniques for Energy-Efficient Communication Pipeline Design”, 
+IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Vol. 10, No. 5, pp. 542–
+549, October 2002. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       [A] 
+B.5. G. Qu. “Publicly Detectable Watermarking for Intellectual Property Authentication in VLSI 
+Design”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 
+Vol. 21, No. 11, pp. 1363–1368, November 2002.  
+ 
+ 
+ 
+ 
+       [Q] 
+B.6. G. Qu and M. Potkonjak. “System Synthesis of Synchronous Multimedia Applications”, ACM 
+Transactions in Embedded Computing Systems (Special Issue on Memory Systems), Vol. 2, 
+No. 1, pp. 74–97, February 2003.  
+ 
+ 
+ 
+ 
+ 
+ 
+       [A] 
+B.7. S. Hua and G. Qu. “QoP-Driven Scheduling for MPEG Video Decoding”, IEEE Transactions 
+on Consumer Electronics, Vol. 49, No. 4, pp. 1341–1347, November 2003. (Selected among 
+the best papers from ICCE 2003) 
+ 
+ 
+ 
+ 
+ 
+ 
+        [S] 
+B.8. J.L. Wong, G. Qu, and M. Potkonjak. “Optimization-Intensive Watermarking Techniques for 
+Decision Problems”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and 
+Systems, Vol. 23, No. 1, pp. 119–127, January 2004.   
+ 
+ 
+ 
+       [A] 
+B.9. A.E. Caldwell, H. Choi, A.B. Kahng, S. Mantik, M. Potkonjak, G. Qu, and J.L. Wong. 
+“Effective Iterative Techniques for Fingerprinting Design IP”, IEEE Transactions on 
+Computer-Aided Design of Integrated Circuits and Systems, Vol. 23, No. 2, pp. 208–215, 
+February 2004. 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       [A] 
+B.10. 
+J.L. Wong, G. Qu, and M. Potkonjak. “Power Minimization in QoS Sensitive Systems”, IEEE 
+Transactions on Very Large Scale Integration (VLSI) Systems, Vol. 12, No. 6, pp. 553–561, 
+June 2004.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       [A] 
+B.11. 
+S. Hua and G. Qu. “Voltage Set-up Problem for Embedded Systems with Multiple Voltages”, 
+IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Vol. 13, No. 7, pp. 869-
+872, July 2005. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        [S] 
+B.12. 
+L. Yuan and G. Qu. “Analysis of Energy Reduction on Dynamic Voltage Scaling-Enabled 
+Systems”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 
+Vol. 24, No. 12, pp. 1827-1837, December 2005. 
+ 
+ 
+ 
+ 
+        [S] 
+B.13. 
+L. Yuan and G. Qu. “A Combined Gate Replacement and Input Vector Control Approach for 
+Leakage Current Reduction”, IEEE Transactions on Very Large Scale Integration (VLSI) 
+Systems, Vol.14, No. 2, pp. 173-182, February 2006.  
+      
+ 
+ 
+        [S] 
+B.14. 
+S. Hua, G. Qu, and S.S. Bhattacharyya. “Energy-Efficient Multi-Processor Implementation of 
+Embedded Software”, ACM Transactions in Embedded Computing Systems (Special Issue on 
+Concurrent Hardware-Software Design Method for Multi-Processor System-On-Chip), Vol. 5, 
+No. 2, pp. 321-341, May 2006. 
+ 
+ 
+ 
+ 
+ 
+ 
+       [C] 
+B.15. 
+J. Feng, G. Qu, and M. Potkonjak. “Kernel Density Estimation-Based Data Correlation”, IEEE 
+Sensors Journal, Vol. 6, No. 4, pp. 974-981, August 2006. 
+ 
+ 
+ 
+       [A] 
+
+-----
+Gang Qu: Curriculum Vitae, Page 5 of 24 
+B.16. 
+J. Feng, G. Qu, and M. Potkonjak. “Actuator-Based Infield Sensor Calibration”, IEEE Sensors 
+Journal, Vol. 6, No. 6, pp. 1571-1579, December 2006. 
+ 
+ 
+ 
+       [A] 
+B.17. 
+S. Hua, G. Qu, and S.S. Bhattacharyya. “Probabilistic Design of Multimedia Embedded 
+Systems”, ACM Transactions in Embedded Computing Systems. Vol. 6, No. 3, pp. 1-15, July 
+2007.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       [C] 
+B.18. 
+H. Liu, B.R. Zeeberg, G. Qu, A.G. Koru, A. Ferrucci, A. Kahn, M.C. Ryan, A. Nuhanovic, P.J. 
+Munson, W.C. Reinhold, D.W. Kane, and J.N. Weinstein. “AffyProbeMiner: a web resource 
+for computing or retrieving accurately redefined Affymetrix probe sets,” Bioinformatics. Vol. 
+23, No. 18, pp. 2385-2390, September 2007.  
+ 
+ 
+ 
+ 
+       [C] 
+B.19. 
+S.N. Pamnani, D.N. Agarwal, G. Qu, and D. Yeung. “Low Power System Design with 
+Performance Enhancement Techniques”, Journal of Circuits, Systems, and Computers. Vol. 16, 
+No. 5, pp. 745-767, October 2007. 
+ 
+ 
+  
+ 
+ 
+       
+       [C] 
+B.20. 
+L. Yuan, G. Qu, T. Villa, and A. Sangiovanni-Vincentelli. “FSM Re-Engineering: A Novel 
+Approach to Sequential Circuit Synthesis,” IEEE Transactions on Computer-Aided Design of 
+Integrated Circuits and Systems (TCAD), Vol. 27, No. 6, pp. 1159-1164, June 2008.  
+       [C] 
+B.21. 
+A. O. Balkan, G. Qu, and U. Vishkin. “Mesh-of-Trees and Alternative Interconnection 
+Networks for Single-Chip Parallelism,” IEEE Transactions on Very Large Scale Integration 
+Systems (TVLSI), Vol. 17, No. 10, pp. 1419-1432, October 2009. 
+ 
+ 
+       [C] 
+B.22. 
+J. Yu, Q. Zhou, G. Qu, and J. Bian. “Peak Temperature Reduction by Physical Information 
+Driven Behavioral Synthesis with Resource Usage Allocation,” IEICE Transactions on 
+Fundamentals Communications Electron Information and Systems, Vol. 92A, No. 12, pp. 3151-
+3159, December 2009. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       [C] 
+B.23. 
+M. Drinic, D. Kirovski, L. Yuan, G. Qu and M. Potkonjak, “Field Division Routing”, EURASIP 
+Journal on Wireless Communications and Networking, Vol. 2010, Article ID 560797, pp. 1-17, 
+June 2010. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       [A] 
+B.24. 
+L. Yuan, S. Leventhal, J. Gu, and G. Qu, “TALK: A Temperature-Aware Leakage 
+Minimization Technique for Real-Time Systems,” IEEE Transactions on Computer-Aided 
+Design of Integrated Circuits and Systems (TCAD), Vol. 30, No. 10, pp. 1564-1568, October 
+2011.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        [S]  
+B.25. 
+A.J. O’Donoghue, A.A. Eroy-Reveles, G.M. Knudsen, J. Ingram, M. Zhou, J.B. Statnekov, 
+A.L. Greninger, D.R. Hostetter, G. Qu, D.A. Maltby, M.O. Anderson, J.L. Derisi, J.H. 
+McHerrow, A.L. Burlinggame, and C.S. Craik, “Global identification of peptidase specificity 
+by multiplex substrate profiling”, Nature Methods, Vol. 9, No. 11, pp. 1095-1100, November 
+2012.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       [C] 
+B.26. 
+Y. Cho and G. Qu, “Detection and Prevention of Selective Forwarding-based Denial-of-Service 
+Attacks in WSNs,” Hindawi International Journal of Distributed Sensor Networks (IJDSN), 
+(accepted).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        [S] 
+B.27. 
+L. Yu, L. Yuan, G. Qu and A. Ephremides, “Impact of Detection Scheme on Detection 
+Accuracy and Energy Consumption in Wireless Sensor Networks”, IEEE Transactions on 
+Computers (TC) (revision under review). 
+ 
+ 
+ 
+ 
+         
+       [C] 
+B.28. 
+Y. Cho and G. Qu, “A Hybrid Trust Model against Insider Packet Drop Attacks in Wireless Ad 
+Hoc and Sensor Networks”, IEEE Transactions on Parallel and Distributed Systems (TPDS) 
+(revision under review). 
+ 
+ 
+ 
+ 
+ 
+    
+                     [S] 
+
+-----
+Gang Qu: Curriculum Vitae, Page 6 of 24 
+B.29. 
+K. Lin, L. Yuan, and G. Qu, “SecureGo: A Secure Online Transaction System and Its 
+Prototyping”, ACM Transactions on Design Automation of Electronic Systems (TODAES) (revision 
+under review).   
+ 
+ 
+ 
+ 
+ 
+ 
+    
+                     [S] 
+B.30. 
+C. Yin and G. Qu, “Obtaining Statistically Random Information from Silicon Physical 
+Unclonable Functions”, IEEE Transactions on Emerging Topics in Computing (TETC) 
+(revision under review).  
+ 
+ 
+ 
+ 
+ 
+    
+                     [S] 
+B.31. 
+C. Dunbar and G. Qu, “Designing Trusted Embedded Systems from Finite State Machines”, 
+ACM Transactions on Embedded Computing Systems (TECS) (submitted),    
+                     [S] 
+B.32. 
+J. Gu, L. Yuan, and G. Qu, “Physical Synthesis Technique for Incorporating On-Chip 
+Temperature Variation in Dual-Vt Design”, IEEE Transactions on Computer-Aided Design of 
+Integrated Circuits and Systems (TCAD) (submitted).  
+ 
+ 
+ 
+       [C] 
+c. 
+Articles in Conference, Symposium, and Workshop Proceedings  
+C.1 I. Hong, D. Kirovski, G. Qu, M. Potkonjak, and M. Srivastava. “Power Optimization of 
+Variable Voltage Core-Based Systems”, 35th ACM/IEEE Design Automation Conference 
+Proceedings (DAC’98), pp. 176–181, June 1998.  
+                  (acceptance rate: 36.4%) [A] 
+C.2 G. Qu and M. Potkonjak. “Techniques for Energy Minimization of Communication Pipelines”, 
+IEEE/ACM International Conference on Computer Aided Design (ICCAD’98), pp. 597–600, 
+November 1998.  
+ 
+ 
+ 
+ 
+ 
+     (acceptance rate: 29.6%) [A] 
+C.3 G. Qu and M. Potkonjak. “Analysis of Watermarking Techniques for Graph Coloring 
+Problem”, IEEE/ACM International Conference on Computer Aided Design (ICCAD’98), pp. 
+190–193, November 1998.  
+ 
+ 
+ 
+ 
+     (acceptance rate: 29.6%) [A] 
+C.4 I. Hong, G. Qu, M. Potkonjak, and M.B. Srivastava. “Synthesis Techniques for Low-Power 
+Hard Real-Time Systems on Variable Voltage Processor”, 19th IEEE Real-Time Systems 
+Symposium (RTSS’98), pp. 178–187, December 1998.   
+ 
+ 
+ 
+       [A] 
+C.5 K.T. Kornegay, G. Qu, and M. Potkonjak. “Quality of Service and System Design”, IEEE 
+Computer Society Annual Workshop on VLSI, Theme: System Level Design (WVLSI’99), pp. 
+112–117, April 1999. (invited) 
+ 
+ 
+ 
+ 
+        
+ 
+        [A] 
+C.6 G. Qu, D. Kirovski, M. Potkonjak, and M.B. Srivastava. “Energy Minimization of System 
+Pipelines Using Multiple Voltages”, IEEE International Symposium on Circuits and Systems 
+(ISCAS’99), VLSI, Vol. 1, pp. 362–365, May 1999. (invited)   
+ 
+ 
+       [A] 
+C.7 A.E. Caldwell, H. Choi, A.B. Kahng, S. Mantik, M. Potkonjak, G. Qu, and J.L. Wong. 
+“Effective Iterative Techniques for Fingerprinting Design IP”, 36th ACM/IEEE Design 
+Automation Conference (DAC’99), pp. 843–848, June 1999.       (acceptance rate: 34.1%) [A] 
+C.8 G. Qu, J.L. Wong, and M. Potkonjak. “Optimization-Intensive Watermarking Techniques for 
+Decision Problems”, 36th ACM/IEEE Design Automation Conference (DAC’99), pp. 33–36, 
+June 1999. 
+ 
+ 
+ 
+ 
+ 
+                  (acceptance rate: 34.1%) [A] 
+C.9 G. Qu and M. Potkonjak. “Hiding Signatures in Graph Coloring Solutions”, 3rd Information 
+Hiding Workshop (IHW’99), pp. 391–408, September 1999. 
+ 
+ 
+ 
+       [A]  
+C.10 G. Qu and M. Potkonjak. “Power Minimization Using System-Level Partitioning of 
+Applications with Quality of Service Requirements”, IEEE/ACM International Conference on 
+Computer Aided Design (ICCAD’99), pp. 343–346, November 1999.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     (acceptance rate: 32.1%) [A] 
+
+-----
+Gang Qu: Curriculum Vitae, Page 7 of 24 
+C.11 Y. Chen, A.B. Kahng, G. Qu, and A. Zelikovsky. “The Associative-Skew Clock Routing 
+Problem”, IEEE/ACM International Conference on Computer Aided Design (ICCAD’99), pp. 
+168–171, November 1999.  
+ 
+ 
+ 
+                  (acceptance rate: 32.1%) [C] 
+C.12 G. Qu, M. Mesarina, and M. Potkonjak. “System Synthesis of Synchronous Multimedia 
+Applications”, 12th IEEE/ACM International Symposium on System Synthesis (ISSS’99), pp. 
+128–133, November 1999.      
+ 
+ 
+ 
+     (acceptance rate: 27.3%) [A] 
+C.13 G. Qu, J.L. Wong, and M. Potkonjak. “Fair Watermarking Techniques”, IEEE/ACM Asia and 
+South Pacific Design Automation Conference (ASPDAC’00), pp. 55–60, January 2000.        [A]  
+C.14 G. Qu and M. Potkonjak. “Fingerprinting Intellectual Property Using Constraint-Addition”, 
+37th ACM/IEEE Design Automation Conference (DAC’00), pp. 587–592, June 2000.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     (acceptance rate: 34.6%) [A] 
+C.15 G. Qu, N. Kawabe, K. Usami, and M. Potkonjak. “Function-Level Power Estimation 
+Methodology for Microprocessors”, 37th ACM/IEEE Design Automation Conference 
+(DAC’00), pp. 810–813, June 2000.   
+ 
+ 
+     (acceptance rate: 34.6%) [A] 
+C.16 G. Qu and M. Potkonjak. “Energy Minimization with Guaranteed Quality of Service”, 
+ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED’00), pp. 
+43–48, July 2000.  
+ 
+ 
+ 
+   
+ 
+     (acceptance rate: 24.1%) [A] 
+C.17 G. Qu and M. Potkonjak. “Achieving Utility Arbitrarily Close to Optimal with Limited 
+Energy”, ACM/IEEE International Symposium on Low Power Electronics and Design 
+(ISLPED’00), pp. 125–130, July 2000.  
+ 
+ 
+     (acceptance rate: 24.1%) [A] 
+C.18 F. Koushanfar, G. Qu, and M. Potkonjak. “Intellectual Property Metering”, 4th Information 
+Hiding Workshop (IHW’01), pp. 87–102, LNCS Vol. 2137, Springer-Verlag, April 2001.     [A] 
+C.19 G. Qu. “Keyless Public Watermarking for Intellectual Property Authentication”, 4th 
+Information Hiding Workshop (IHW’01), pp. 103–118, LNCS Vol. 2137, Springer-Verlag, 
+April 2001.        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       [Q] 
+C.20 F. Koushanfar and G. Qu. “Hardware Metering”, 38th ACM/IEEE Design Automation 
+Conference (DAC’01), pp. 490–493, June 2001.  
+ 
+              
+ 
+       [C] 
+C.21 G. Qu. “Publicly Detectable Techniques for the Protection of Virtual Components”, 38th 
+ACM/IEEE Design Automation Conference (DAC’01), pp. 474–479, June 2001. 
+       [Q] 
+C.22 S. Meguerdichian, F. Koushanfar, G. Qu, and M. Potkonjak. “Exposure in Wireless Ad-hoc 
+Sensor Networks”, ACM SIGMOBILE International Conference on Mobile Computing and 
+Networking (MobiCom’01), pp. 139–150, July 2001. (Best Student Paper Award)  
+       [A] 
+C.23 G. Qu. “What is the Limit of Energy Saving by Dynamic Voltage Scaling?” IEEE/ACM 
+International Conference on Computer Aided Design (ICCAD’01), pp. 560–563, November 
+2001.   
+ 
+ 
+ 
+ 
+ 
+ 
+     (acceptance rate: 30.6%) [Q] 
+C.24 J. Wong, G. Qu, and M. Potkonjak. “Power Minimization under QoS Constraints”, IEEE 
+International Packetvideo Workshop, April 2002. (invited)  
+ 
+ 
+ 
+       [A] 
+C.25 L. Yuan and G. Qu. “Design Space Exploration for Energy-Efficient Secure Sensor Network”, 
+13th IEEE International Conference on Application-specific Systems, Architectures and 
+Processors (ASAP’02), pp. 88–97, July 2002.  
+ 
+ 
+ 
+ 
+        [S] 
+C.26 J.L. Wong, G. Qu, and M. Potkonjak. “An On-line Approach for Power Minimization in QoS 
+Sensitive Systems”, IEEE/ACM Asia and South Pacific Design Automation Conference 
+(ASPDAC’03), pp. 59–64, January 2003.  
+                
+     (acceptance rate: 33.6%) [A] 
+
+-----
+Gang Qu: Curriculum Vitae, Page 8 of 24 
+C.27 S. Hua and G. Qu. “A New Quality of Service Metric for Hard/Soft Real-Time Applications”, 
+IEEE International Conference on Information Technology: Coding and Computing (ITCC’03), 
+pp. 347–351, April 2003. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        [S] 
+C.28 A. Jain, L. Yuan, P. Pari, and G. Qu. “Zero Overhead Watermarking Technique for FPGA 
+Designs”, 13th IEEE /ACM Great Lakes Symposium on VLSI (GLSVLSI’03), pp. 147–152, 
+April 2003.   
+ 
+ 
+ 
+ 
+ 
+      (acceptance rate: 12.5%) [S] 
+C.29 S. Hua, G. Qu, and S.S. Bhattacharyya. “Exploring the Probabilistic Design Space of 
+Multimedia Systems”, 14th IEEE International Workshop on Rapid System Prototyping 
+(RSP’03), pp. 233–240, June 2003. 
+ 
+ 
+ 
+ 
+ 
+ 
+        [S] 
+C.30 S. Hua and G. Qu. “QoP-Driven Scheduling for MPEG Video Decoding”, 22nd IEEE 
+International Conference on Consumer Electronics (ICCE’03), pp. 48–49, June 2003.          [S] 
+C.31 G. Qu. “Introducing the Concept of Design Reuse into Undergraduate Digital Design 
+Curriculum”, 4th IEEE/ACM International Conference on Microelectronic Systems Education 
+(MSE’03), pp. 10–11, June 2003. (education related)  
+ 
+ 
+ 
+       [Q] 
+C.32 S. Hua, G. Qu, and S.S. Bhattacharyya. “Energy Reduction Techniques for Multimedia 
+Applications with Tolerance to Deadline Misses”, 40th ACM/IEEE Design Automation 
+Conference  (DAC’03), pp. 131–136, June 2003.  
+ 
+      (acceptance rate: 24.2%) [S] 
+C.33 S. Hua, G. Qu, and S.S. Bhattacharyya. “Energy-Efficient Multi-Processor Implementation of 
+Embedded Software”, 3rd ACM International Conference on Embedded Software 
+(EMSOFT’03), pp. 257–273, October 2003. 
+ 
+ 
+      (acceptance rate: 33.3%) [S] 
+C.34 S. Hua and G. Qu. “On-Line Voltage Scheduling for Multimedia Applications”, 1st Workshop 
+on Embedded Systems for Real-Time Multimedia (ESTImedia’03), pp. 24–31, October 2003. [S] 
+C.35 G. Veltri, Q. Huang, G. Qu, and M. Potkonjak. “Minimal and Maximal Exposure Path 
+Algorithms for Wireless Embedded Sensor Networks”, 1st ACM Conference on Embedded 
+Networked Sensor Systems (SenSys’03), pp. 40–50, November 2003. (acceptance rate: 17%)[A] 
+C.36 S. Hua and G. Qu. “Approaching the Maximum Energy Saving on Embedded Systems with 
+Multiply Voltages”, IEEE/ACM International Conference on Computer Aided Design 
+(ICCAD’03), pp. 26–29, November 2003.  
+   
+                 (acceptance rate: 26.3%) [S] 
+C.37 S. Hua and G. Qu. “QoS-Driven Scheduling for Multimedia Applications”, IEEE International 
+Symposium on Circuits and Systems (ISCAS’04), Vol. 2, pp. 125–128, May 2004.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                   (acceptance rate: 34.9%) [S] 
+C.38 D. Agarwal, S. Pamnani, G. Qu, and D. Yeung. “Transferring Performance Gain from Software 
+Prefetching to Energy Reduction”, IEEE International Symposium on Circuits and Systems 
+(ISCAS’04), Vol. 2, pp. 241–244, May 2004.               
+     (acceptance rate: 34.9%) [C] 
+C.39 A. Balkan, G. Qu, and U. Vishkin. “Arbitrate-and-Move Primitives for High Throughput On-
+Chip Interconnection Networks”, IEEE International Symposium on Circuits and Systems 
+(ISCAS’04), Vol. 2, pp. 441–444, May 2004.                 
+     (acceptance rate: 34.9%) [C] 
+C.40 P. Pari, L. Yuan, and G. Qu. “How Many Solutions Does a SAT Instance Have?”, IEEE 
+International Symposium on Circuits and Systems (ISCAS’04), Vol. 5, pp. 209–212, May 2004.  
+ 
+ 
+ 
+ 
+ 
+ 
+            
+      (acceptance rate: 34.9%) [S] 
+C.41 L. Yuan and G. Qu. “Information Hiding in Finite State Machine”, 6th Information Hiding 
+Workshop (IHW’04), pp. 340–354, LNCS Vol. 3200, Springer-Verlag, May 2004.    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         (acceptance rate: 30%) [S] 
+
+-----
+Gang Qu: Curriculum Vitae, Page 9 of 24 
+C.42 L. Yuan, P. Pari, and G. Qu. “Soft IP Protection: Watermarking HDL Source Codes”, 6th 
+Information Hiding Workshop (IHW’04), pp. 224–238, LNCS Vol. 3200, Springer-Verlag, May 
+2004.   
+ 
+ 
+ 
+ 
+ 
+                      (acceptance rate: 30%) [S] 
+C.43 L. Yuan and G. Qu. “FSM Re-Engineering for Low Power State Encoding”, 13th International 
+Workshop on Logic and Synthesis (IWLS’04), pp. 257–264, June 2004.  
+ 
+        [S] 
+C.44 P. Pari, J. Lin, L. Yuan, and G. Qu. “Generating “Random” 3-SAT Instances with Specific 
+Solution Space Structure”, 19th National Conference on Artificial Intelligence (AAAI) and 16th 
+Innovative Applications of Artificial Intelligence Conference (IAAI), pp. 960–961, July 2004. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        [S] 
+C.45 L. Yuan, P. Pari, and G. Qu. “Finding Redundant Constraints for FSM Minimization”, 19th 
+National Conference on Artificial Intelligence (AAAI) and 16th Innovative Applications of 
+Artificial Intelligence Conference (IAAI), pp. 976–977, July 2004. 
+ 
+ 
+        [S] 
+C.46 S. Hua and G. Qu. “Energy-Efficient Dual-Voltage Soft Real-Time System with (m,k)-Firm 
+Deadline Guarantee”, ACM International Conference on Compilers, Architectures and 
+Synthesis of Embedded Systems (CASES’04), pp. 116–123, September 2004.     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      (acceptance rate: 30.4%) [S] 
+C.47 J. Feng, G. Qu, and M. Potkonjak. “Differential On-line Sensor Calibration”, 3rd IEEE 
+Conference on Sensors (Sensors2004), pp. 417–420, October 2004.  
+ 
+                    [A] 
+C.48 J. Feng, G. Qu, and M. Potkonjak. “Sensor Calibration using Nonparametric Statistical 
+Characterization of Error Models”, 3rd IEEE Conference on Sensors (Sensors2004), pp. 1456–
+1459, October 2004.   
+ 
+ 
+ 
+ 
+ 
+ 
+                    [A] 
+C.49 L. Yuan, G. Qu, T. Villa, and A. Sangiovanni-Vincentelli. “FSM Re-Engineering and Its 
+Application in Low Power State Encoding”, IEEE/ACM Asia South Pacific Design Automation 
+Conference (ASPDAC’05), pp. 254–259, January 2005.    
+     (acceptance rate: 14.3%) [C] 
+C.50 S. Hua and G. Qu. “Power Minimization Techniques on Distributed Real-Time Systems by 
+Global and Local Slack Management”, IEEE/ACM Asia South Pacific Design Automation 
+Conference (ASPDAC’05), pp. 830–835, January 2005.    
+      (acceptance rate: 14.3%) [S] 
+C.51 L. Yuan, G. Qu, and A. Srivastava. “VLSI CAD Tool Protection by Birthmarking Design 
+Solutions”, 15th IEEE /ACM Great Lakes Symposium on VLSI (GLSVLSI’05), pp. 341–344, 
+April 2005. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        [S] 
+C.52 L. Yuan and G. Qu. “Enhanced Leakage Reduction Technique by Gate Replacement”, 42nd 
+ACM/IEEE Design Automation Conference (DAC’05), pp. 47–50, June 2005.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      (acceptance rate: 20.9%) [S] 
+C.53 V. Kianzad, S.S. Bhattacharyya, and G. Qu. “CASPER: An Integrated Energy-Driven 
+Approach for Task Graph Scheduling on Distributed Embedded Systems”, 16th IEEE 
+International Conference on Application-specific Systems, Architectures and Processors 
+(ASAP’05), July 2005.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       [C] 
+C.54 S. Leventhal, L. Yuan, M.K. Bambha, S.S. Bhattacharyya, and G. Qu. “DSP Address 
+Optimization Using Evolutionary Algorithms”, 9th International Workshop on Software and 
+Compilers for Embedded Systems (SCOPES’05), September 2005.   
+ 
+ 
+       [C] 
+C.55 L. Yu, L, Yuan, G. Qu, and A. Ephremides. “Energy-Driven Detection Scheme with 
+Guaranteed Accuracy”, 5th International Conference on Information Processing in Sensor 
+Networks (IPSN’06), pp. 284-291, April 2006.  
+ 
+      (acceptance rate: 25%)   [C]  
+
+-----
+Gang Qu: Curriculum Vitae, Page 10 of 24 
+C.56 L. Yuan, G. Qu, L. Ghout, and A. Bouridane. “VLSI Design IP Protection: Solutions, New 
+Challenges, and Opportunities”, First NASA/ESA Conference on Adaptive Hardware and 
+Systems, pp. 469 – 476, June 2006. 
+ 
+ 
+ 
+ 
+ 
+ 
+       [C] 
+C.57 A. Balkan, G. Qu, and U. Vishkin. “A Mesh-of-Tree Interconnection Network for Single-Chip 
+Parallel Processing”, 17th IEEE International Conference on Application-specific Systems, 
+Architectures and Processors (ASAP’06), PP. 73-80, September 2006. (Best Paper Awards) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     (acceptance rate: 26.7%) [C] 
+C.58 S. Hua, P.R. Pari, and G. Qu. “Dual-Processor Design of Energy Efficient Fault-Tolerant 
+System”,  17th IEEE International Conference on Application-specific Systems, Architectures 
+and Processors (ASAP’06), pp. 239-244, September 2006.  
+      (acceptance rate: 26.7%) [S] 
+C.59 G. Han, S. Hua, and G. Qu. “A New Approach towards Solving the Location Discovery 
+Problem in Wireless Sensor Networks”, Military Communications Conference (Milcom’06), 
+October 2006. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        [S] 
+C.60 L. Yuan, S. Leventhal, and G. Qu. “Temperature-Aware Leakage Minimization Techniques for 
+Real-Time Systems”, IEEE/ACM International Conference on Computer Aided Design 
+(ICCAD’06), pp. 761-764, November 2006.     
+         
+      (acceptance rate: 24.2%) [S] 
+C.61 A. Balkan, M.N. Horak, G. Qu, and U. Vishkin. "Layout-Accurate Design and Implementation 
+of a High-Throughput Interconnection Network for Single-Chip Parallel Processing," 15th 
+IEEE Symposium on High-Performance Interconnects, July 2007. 
+     
+ 
+       [C] 
+C.62 M. Drinic, D. Kirovski, G. Qu, L. Yuan, and M. Potkonjak. "Field Division Routing," 16th IST 
+Mobile and Wireless Communications, pp. 1400-1404, July 2007. 
+ 
+ 
+       [A] 
+C.63 N. Mehallegus, E. Garcia, A. Bouridane, and G. Qu. “Improving Key Distribution for Wireless 
+Sensor Networks”, 2nd NASA/ESA Conference on Adaptive Hardware and Systems (AHS-
+2007), pp. 82-88, August 2007. (invited) 
+ 
+ 
+ 
+ 
+ 
+       [C] 
+C.64 L. Yuan and G. Qu. "ALT-DVS: Dynamic Voltage Scaling with Awareness of Leakage and 
+Temperature for Real-Time Systems," 2nd NASA/ESA Conference on Adaptive Hardware and 
+Systems (AHS-2007), pp. 660-670, August 2007. 
+ 
+ 
+ 
+ 
+        [S] 
+C.65 K. Lin, L. Yuan, and G. Qu. "SecureGo: A Hardware-Software Co-Protection against Identity 
+Theft in Online Transaction," ECSIS Symposium on Bio-inspired, Learning, and Intelligent 
+Systems for Security (BLISS-2007), August 2007.  
+ 
+ 
+ 
+ 
+        [S] 
+C.66 G. Qu. "Power Management of Multicore Multiple Voltage Embedded Systems by Task 
+Scheduling," International Workshop on Embedded Single and Multicore Systems on Chips 
+(McSoC'07), September 2007.  
+ 
+ 
+ 
+ 
+ 
+ 
+       [Q] 
+C.67 L. Yuan, and G. Qu. "Simultaneous Input Vector Selection and Dual Threshold Voltage 
+Assignment for Static Leakage Minimization," IEEE/ACM International Conference on 
+Computer Aided Design (ICCAD'07), pp. 548-551, November 2007.       
+ 
+        [S] 
+C.68 A. Balkan, G. Qu, and U. Vishkin. "An Area-Efficient High-Throughput Hybrid 
+Interconnection Network for Single-Chip Parallel Processing," 45th ACM/IEEE Design 
+Automation Conference (DAC’08), pp. 435-440, June 2008.  
+ 
+  
+ 
+       [C] 
+C.69 N. Mehallegue, E. Garcia, A. Bouridane, and G. Qu, “A Power Efficient Path Key 
+Establishment Algorithm for Wireless Sensor Networks,” 3rd NASA/ESA Conference on 
+Adaptive Hardware and Systems (AHS-2008), June 2008.  
+ 
+ 
+ 
+       [C] 
+
+-----
+Gang Qu: Curriculum Vitae, Page 11 of 24 
+C.70 M. Taylor, C. Yin, M. Wu, and G. Qu. “A Hardware-Assisted Data Hiding Based Approach in 
+Building High Performance Secure Execution Systems,” IEEE International Workshop on 
+Hardware-Oriented Security and Trust (HOST 2008), June 2008.  
+ 
+ 
+       [C] 
+C.71 A. Yao, J. Gu, G. Qu, and S.S. Bhattacharyya. “Energy Efficient Implementation of G.729 for 
+Wireless VoIP Application,” ACM International Conference on Advanced Infocomm 
+Technology (ICAIT’08), July 2008. 
+ 
+ 
+ 
+ 
+ 
+ 
+       [C] 
+C.72  J. Gu, A. Yao, G. Qu, and A. Bouridane, “Minimizing Point-to-Point Transmission Energy 
+with Error Correction Coding and Transmission Power Control,” ACM International 
+Conference on Advanced Infocomm Technology (ICAIT’08), July 2008.  
+ 
+       [C] 
+C.73 C. Nagarajan, L. Yuan, G. Qu, and B. Stamps. “Leakage Optimization Using Transistor-
+Level Dual Threshold Voltage Cell Library”, 10th International Symposium on Quality of Electronic 
+Design  (ISQED’09), pp. 62-67, March 2009.  
+ 
+ 
+ 
+ 
+       [C] 
+C.74 C. Yin and G. Qu. “Temperature-Aware Cooperative Ring Oscillator PUF,” IEEE International 
+Workshop on Hardware-Oriented Security and Trust (HOST 2009), pp. 36-42, July 2009. 
+(acceptance rate: 35.1%)       
+ 
+ 
+ 
+ 
+ 
+ 
+        [S] 
+C.75 J. Gu, G. Qu, and Q. Zhou. “Information Hiding for Trusted System Design”, 46th ACM/IEEE 
+Design Automation Conference (DAC’09), pp. 698-701, July 2009. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    (acceptance rate: 21.7%)  [C] 
+C.76 J. Gu, G. Qu, T. Chen, and A. Bouridane, “An Adaptive Energy Efficient Transmission 
+Protocol in Wireless Ad-hoc Network,” 4th NASA/ESA Conference on Adaptive Hardware and 
+Systems (AHS-2009), pp. 281-288, July 2009.   
+ 
+ 
+ 
+ 
+       [C] 
+C.77 J. Gu, L. Yuan, and G. Qu. “Temperature-Aware Dual-Vt Assignment for Leakage 
+Minimization”, 13th International Workshop on Logic and Synthesis (IWLS’09), pp. 88–95, 
+July 2009. 
+ 
+ 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+        [S] 
+C.78 J. Gu, L. Yuan, and G. Qu. “SSRR: Peak Current Reduction by Simultaneous State Replication 
+and Re-Encoding”, 13th International Workshop on Logic and Synthesis (IWLS’09), pp. 272–
+279, July 2009. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        [S] 
+C.79 A. Baig, A. Bouridane, F. Kurugollu, and G. Qu, “Fingerprint – Iris Fusion based Identification 
+System  using a Single Hamming Distance Matcher,” ECSIS Symposium on Bio-inspired, 
+Learning, and Intelligent Systems for Security (BLISS’09), August 2009.  
+        
+       [C] 
+C.80 J. Yu, Q. Zhou, G. Qu, and J. Bian, “Behavioral Level Dual-Vth Design for Reduced Leakage 
+Power with Thermal Awareness,” Design, Automation and Test in Europe (DATE’10), pp. 
+1261-1266, March 2010. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       [C] 
+C.81 C. Yin and G. Qu. “LISA: Maximizing RO PUF’s Secret Extraction,” IEEE International 
+Symposium on Hardware-Oriented Security and Trust (HOST 2010), pp. 100-105, June 2010. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        [S] 
+C.82 J. Gu, L. Yuan, and G. Qu, “Enhancing Dual-Vt Design by Considering On-Chip Temperature 
+Variation”, ICCD’10, pp. 542-547, October 2010. 
+                 (acceptance rate: 29.6%)   [S]  
+C.83  J. Gu, L. Yuan, G. Qu, and Q. Zhou. “Peak Current Reduction by Simultaneous State 
+Replication and Re-Encoding”, IEEE/ACM International Conference on Computer Aided 
+Design (ICCAD'10), pp. 592-595, November 2010.  
+                (acceptance rate: 30.0%)   [C] 
+C.84 Z. Zhou and G. Qu “An Energy Efficient Adaptive Event Detection Scheme for Wireless 
+Sensor Network”, 22nd IEEE International Conference on Application-specific Systems, 
+Architectures and Processors (ASAP’11), pp. 235-238, September 2011. 
+ 
+        [S] 
+
+-----
+Gang Qu: Curriculum Vitae, Page 12 of 24 
+C.85 J. Gu, L. Yuan, Z. Chen, and G. Qu “Improving Dual Vt Technology by Simultaneous Gate Sizing 
+and Mechanical Stress Optimization”,  IEEE/ACM International Conference on Computer Aided 
+Design (ICCAD'11), November 2011.  
+ 
+ 
+ 
+ 
+ 
+       [C]  
+C.86 Y. Cho, G. Qu, and Y. Wu. “Insider Threats against Trust Mechanism with Watchdog and 
+Defending Approaches in Wireless Sensor Networks”, IEEE Symposium on Security and 
+Privacy Workshops, Workshop on Research for Insider Threat (WRIT’12), pp. 134-141, May, 
+2012.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       [C] 
+C.87 C. Yin and G. Qu, “A Regression-Based Entropy Distiller for RO PUFs”, (work-in-progress) 
+49th ACM/IEEE Design Automation Conference (DAC’12), June 2012.  
+ 
+        [S] 
+C.88 C. Yin and G. Qu, “Kendall Syndrome Coding (KSC) for Group-based Ring-Oscillator 
+Physical Unclonable Functions”, (work-in-progress) 49th ACM/IEEE Design Automation 
+Conference (DAC’12), June 2012. 
+ 
+ 
+ 
+ 
+ 
+ 
+        [S] 
+C.89 Z. Zhou, J. Gu, and G. Qu, “Scheduling for Multi-core Processor under Process and 
+Temperature Variation”, IEEE 6th International Symposium on Embedded Multicore SoCs, pp. 
+113-120, September 2012.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        [S] 
+C.90 C. Yin, G. Qu, and Q. Zhou, “Design and Implementation of a Group-based RO PUF”, Design, 
+Automation and Test in Europe (DATE’13), March 2013. 
+ 
+ 
+ 
+       [C] 
+C.91 C. Yin and G. Qu, “Improving PUF Security with Regression-based Distiller”, 50th ACM/IEEE 
+Design Automation Conference (DAC’13), June 2013.  
+ 
+ 
+ 
+        [S] 
+C.92 J. Gu and G. Qu, “Incorporating Temperature-Leakage Interdependency into Dynamic Voltage Scaling 
+for Real-Time Systems”, 24th IEEE International Conference on Application-specific Systems, 
+Architectures and Processors (ASAP’13), June 2013.  
+ 
+ 
+ 
+        [S] 
+C.93 C. Dunbar and G. Qu, “Designing Trusted Circuits from Finite State Machines”, 17th 
+International Workshop on Logic and Synthesis (IWLS’13), June 2013.  
+ 
+        [S] 
+C.94 J. Zhang, Y. Lin, Y. Lyu, G. Qu, R. Cheung, W. Che, Q. Zhou, and J. Bian, “FPGA IP 
+Protection by Binding Finite State Machine to Physical Unclonable Function”, 23nd 
+International Conference on Field Programmable Logic and Applications (FPL’13), September 
+2013.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       [C] 
+d. 
+Invited Talks and Professional Presentations 
+Invited Talks 
+D.1. “Power Estimation and Modeling for VLSI Circuits – State-of-the-Art Techniques”, 
+Semiconductor Company of Toshiba Corporation, Kawasaki, Japan, August 25, 1999. 
+D.2. “Watermarking-Based Intellectual Property Protection”, Computer Science Department, 
+University of California, Los Angeles, California, February 15, 2000. 
+D.3. “On Dynamic Voltage Scaling for Low Power Computing”, ECE Faculty Seminar Series, 
+University of Maryland, College Park, Maryland, November 9, 2001. 
+D.4. “Power Management of Multi-Processor Multi-Voltage Embedded Systems via Task 
+Scheduling”, Minta Martin Presentations, University of Maryland, College Park, Maryland, 
+June 21, 2002. 
+D.5. “Security Issues in VLSI and Embedded System Design”, 2002 US-China Conference on 
+Business and Technology, Washington, DC, December 7, 2002. 
+
+-----
+Gang Qu: Curriculum Vitae, Page 13 of 24 
+D.6. “Protecting VLSI Design IPs”, Associate Dean’s Junior Faculty Seminar, University of 
+Maryland, College Park, Maryland, March 20, 2003. 
+D.7. “Low Power Embedded System Design in the Nanometer Era”, Tsinghua University, Beijing, 
+China, January 6, 2005. 
+D.8. “New Advances in DVS for Low Power Embedded System Design”, IBM T.J. Watson 
+Research Lab, April 29, 2005. 
+D.9. “Finding Holes”, ECE Faculty Seminar Series, University of Maryland, College Park, 
+Maryland, October 28, 2005. 
+D.10. “Leakage and Temperature Aware Voltage Scaling on Real-Time Embedded Systems”, 
+Department of Electrical and Computer Engineering, Johns Hopkins University, Baltimore, 
+Maryland, November 9, 2006. 
+D.11. “Low Power Design and Intellectual Property Protection”, Xi’Dian University, Xi’an, China, 
+September 12, 2007. 
+D.12. “Novel Applications of Data Hiding in Computer Programs”, Security and Information 
+Operations Program Review, The Air Force Office of Scientific Research, Arlington, 
+Virginia, June 12, 2008. 
+D.13. “Role of Hardware in Security and Trustworthy Computing”, Research Open House, The 
+Institute for Systems Research, University of Maryland, College Park, Maryland, April 16, 
+2009. 
+D.14. “Designing Energy Efficient Systems with Dynamic Voltage Scaling”, Intel Asia, Shanghai, 
+July 10, 2009. 
+D.15.  “Advances in Low Power Embedded System Design”, Zhejiang University, Hangzhou, 
+Zhejiang, July 11, 2009. 
+D.16. “Trusted System Design and Energy-Driven Data Communication”, Fujitsu Laboratories of 
+America, Inc., Sunnyvale, California, August 7, 2009. 
+D.17. “Building Trust by Information Hiding”, Army Research Office Special Workshop on 
+Hardware Assurance, Hartford, Connecticut, August 13, 2009.  
+D.18. “Finding Holes”, Seminar, Department of Computer Science and Electrical Engineering, 
+University of Maryland, Baltimore County, Baltimore, Maryland, October 2, 2009. 
+D.19. “Establishing Trust in Hardware Design and Beyond”, Seminar, Holcombe Department of 
+Electrical and Computer Engineering, Clemson University, Clemson, South Carolina, January 
+13, 2010. 
+D.20. “Building Trusted System by Information Hiding”, College of Computer Science and 
+Technology, University of Science and Technology of China, Hefei, P.R. China, June 28, 
+2010. 
+D.21. “Optimizing Physical Unclonable Function’s Secret Extraction”, Tsinghua University, 
+Beijing, P.R. China, July 21, 2010. 
+D.22. “Several Directions and Practice on Dual Vt Design for Leakage Minimization”, Tsinghua 
+University, Beijing, P.R. China, July 21, 2010. 
+D.23. “Role of Hardware in Security and a Case Study on PUF”, CANDE Workshop, Monterey, 
+California, November 4-6, 2010. 
+
+-----
+Gang Qu: Curriculum Vitae, Page 14 of 24 
+D.24. “Building Trusted Systems by Information Hiding in Programs”, Army Research Office 
+Special Workshop on Hardware Assurance, Arlington, Virginia, April 11-12, 2011.  
+D.25. “Information Hiding Based Trusted Computing System Design”, Security and Information 
+Operations Program Review, The Air Force Office of Scientific Research, Arlington, 
+Virginia, September 22, 2011. 
+D.26. “Energy Trade-off Between Computing and Communication”, Members meeting and open 
+forum of GreenTouch Consortium, Seattle, Washington, November 16, 2011.  
+D.27. “Role of Hardware in Building Secure and Trusted Computing Systems”, Department of 
+Electrical and Computer Engineering, the George Washington University, December 8, 2011. 
+D.28. “Several Problems in Computer Hardware Security and Trust for Mathematicians”, 
+Mathematics in 21st Century: Advances and Applications, Hefei, China, July 7-9, 2012. 
+D.29. “Information Hiding Based Trusted Computing System Design”, Security and Information 
+Operations Program Review, The Air Force Office of Scientific Research, Arlington, 
+Virginia, October 5, 2012. 
+D.30. “Building Trusted Wireless Sensor Networks: From Circuits to Routing Protocols”, 
+Department of Electrical and Computer Engineering, University of California, Davis, 
+California, March 19, 2013.  
+D.31. “Design of Trusted and Energy Efficient Systems”, Intel Corp., Santa Clara, California, 
+March, 26, 2013. 
+D.32. “Hardware in Cybersecurity: from the Weakest Link to Great Promises”, Harbin Institute of 
+Technology, Shenzhen, China, May 26, 2013. 
+D.33. “Designing Trusted Energy-Efficient Circuits and Systems”, Center for Energy-Efficient 
+Computing and Applications, Peking University, Beijing, China, May 30, 2013. 
+D.34. “Information Hiding Based Trusted Computing System Design”, Security and Information 
+Operations Program Review, The Air Force Office of Scientific Research, Arlington, 
+Virginia, August 5, 2013. 
+D.35. “Designing Trusted Energy-Efficient Circuits and Systems”, School of Electrical and 
+Computer Engineering, Georgia Institute of Technology, Atlanta, Georgia, September 4, 
+2013. 
+D.36. “Hardware in Cybersecurity: from the Weakest Link to Great Promises”, PRECISE seminar, 
+Department of Electrical and Systems Engineering, University of Pennsylvania, Philadelphia, 
+Pennsylvania, September 18, 2013.  
+Panel, Tutorial, and Other Talks 
+D.37.  (lecture) “Security Issues in Intellectual Property Reuse and IP-Based Design”, 1st ACM 
+SIGDA Design Automation Summer School, Cape Cod, Massachusetts, May 26, 2001. 
+D.38. (panel) “What Is Available in IPP and How Can You Profit from It?”, IEEE International 
+SOC Conference, Portland, Oregon, September 18, 2003. 
+D.39. (tutorial) “Intellectual Property Protection in Semiconductor and VLSI Design”, IEEE/ACM 
+Asia South Pacific Design Automation Conference, Shanghai, China, January 18, 2005. 
+D.40. (summer course) “Low Power System Design: Basics and State-of-the-Arts”, Tsinghua 
+University, Beijing, China, June 30 – July 4, 2008. 
+
+-----
+Gang Qu: Curriculum Vitae, Page 15 of 24 
+D.41. (regular semester course) “Cryptography and Trustworthy Computing”, Tsinghua 
+University, Beijing, China, February 23 – June 26, 2009. 
+D.42. (compact course for regular semester) “Embedded Systems – Logic Synthesis and 
+Optimization”, University of Electronic Science and Technology of China (UESTC), May 28 
+– July 6, 2012. 
+D.43. (CAS-FEST invited talk) “Building Trusted Infrastructure for IoT”, IEEE Circuits and 
+Systems Society Forum on Emerging and Selected Topics, IEEE International Symposium on 
+Circuits and Systems (ISCAS’13), Beijing, China, May 19, 2013.  
+e. 
+Contracts and Grants 
+E.1.  Office of Naval Research, DURIP (Defense University Research Instrumentation Program)  
+“Upgrade of Measuring and Testing Equipment for the Development of Energy-Efficient 
+Wireless Sensor Networks in Research and Education”, Principal Investigator. $155,482. 2013 – 
+2014. (awarded).   
+E.2.  Cisco Systems 
+“A Study on Python Automation for Cisco UCS Features”, Principal Investigator. $120,000, 2013-
+2014. (awarded).   
+E.3.  University Partnership with Laboratory for Telecommunications Sciences (H9823013D00560002)  
+“Toward Energy Efficient Trusted Delay Tolerant Networking”, Principal Investigator. 
+$146,697, April 5, 2013- April 4, 2014.   
+E.4.  Army Research Office  
+“TransCyber: Workshop on Security and Dependability for Next Generation Automotive and 
+other Cyber Transportation Systems”, Principal Investigator. $50,000, 2012-2013.    
+E.5.  National Science Foundation of China (61228204) 
+On the Security and Trust of Integrated Circuit Design. Principal Investigator. ¥200,000 
+(about $33,000), 2013-2014. 
+E.6.  MiMoCloud Inc. 
+Developing High Performance Energy Efficient Computing in Firmware and Hardware. 
+Principal Investigator. $8,000, 2012-2013. 
+E.7.  Army Research Office (W911NF1210416) 
+ 
+ Creating Digital Fingerprints in Finite State Machines. Principal Investigator. $50,000, 
+2012-2013. 
+E.8.    Air Force Office of Scientific Research  
+ 
+ Information Hiding based Trusted Computing System Design. Principal Investigator (co-PI: 
+M. Wu). $450,000, 2010-2013. 
+E.9.    USDA - ARS (Agricultural Research Service) 
+ 
+ Developing Hyperspectral Vision Detection Technology for Fruit and Vegetable Safety 
+Inspections. Principal Investigator. $60,000, July 15, 2009 – July 14, 2011. 
+E.10. National Science Foundation  
+ 
+ REU. Principal Investigator. $10,500, October, 2008 – September, 2010. 
+
+-----
+Gang Qu: Curriculum Vitae, Page 16 of 24 
+E.11. USDA - ARS (Agricultural Research Service) 
+ 
+ Developing Hyperspectral Vision Detection Technology for Fruit and Vegetable Safety 
+Inspections. Co-Principal Investigator (PI:Y. Tao). $30,000, July 15, 2008 – July 14, 2009. 
+E.12. Fujitsu Research  
+ 
+ Trusted Computing Platforms. Principal Investigator. $10,000, 2008-2009. 
+E.13. Air Force Office of Scientific Research 
+ Novel Applications of Data Hiding in Computer Programs for Building High-Performance 
+ 
+ Trusted Computing Platforms. Co-Principal Investigator (PI: M. Wu). $300,000, 2006-2009. 
+E.14. National Science Foundation  
+ 
+ CSR---Pitas: Probabilistic Implementation and Temperature Aware Scheduling of Embedded 
+Software for Energy Efficiency. Principal Investigator. $120,000, 2006–2009. 
+E.15. National Collegiate Inventors and Innovators Alliance  
+ 
+Secure E-Payment System. Principal Investigator. $14,837, 2005–2007. 
+E.16. National Science Foundation  
+ 
+MRI: Development of Energy-Efficient Embedded Systems for Wireless Sensor Networks. Co- 
+Principal Investigator (PI: A. Ephremides. Other Co-PI and senior personnel: P. Abshire, R. 
+Barua, B. Jacob, P. Petrov, and S. Ulukus). $400,000, 2005–2009. 
+E.17. Microsoft Research  
+ 
+A Multidisciplinary and Integrated Approach to Raise the Global Awareness of Trustworthy 
+Computing. Principal Investigator. $50,000, 2005–2006. 
+E.18. National Science Foundation 
+ 
+ITR: PRAM on Chip. Co-Principal Investigator (PI: U. Vishkin. Other Co-PI and senior 
+personnel: R. Barua, M. Franklin, B. Jacob, C. Tseng, and D. Yeung). $750,000, 2004–2007. 
+E.19. Tsinghua University  
+ 
+Various grants: about $10,000 in total, 2008-2010. 
+E.20. Travel Grants  
+ 
+Design Automation Conference (DAC) by DAC and ACM SIGDA. $1,000, 2001. 
+ 
+International Conference on Computer-Aided Design (ICCAD) by ICCAD and IEEE Circuit 
+and Systems Society, $1,150, 2001. 
+University of Maryland Internal Awards and Grants 
+E.21. Research and Scholarship Award  
+ 
+ Structure Based Data-Driven Microarray Data Analysis. The Graduate School, University of 
+Maryland, College Park. Principal Investigator. $9,000, 2010.  
+E.22. UMB-UMCP Seed Grant Competition.  
+ 
+ A Novel Combined Multimodal Multispectral Ultra Low-Dose X-Ray & Photon-Selective 
+Imaging Technology for Non-Contrast Agent Differentiation of Vasculatures, Tissues & 
+Abnormalities. Co- Principal Investigator (PI: Dr. Y. Tao). $74,696, Oct. 2008 – Sept. 2009.  
+E.23. GRB Summer Research Award  
+
+-----
+Gang Qu: Curriculum Vitae, Page 17 of 24 
+ 
+ Where Are the Hard SAT Instances. The General Research Board, University of Maryland, 
+College Park. Principal Investigator. $8,750, 2005.  
+E.24. International Travel Award  
+ 
+ Intellectual Property Protection in Semiconductor Industry in China. Office of International 
+Program, University of Maryland, College Park. Principal Investigator. $1,350, 2005.  
+E.25. Minta Martin Research Fund. 
+ 
+Power Management of Multi-Processor Multi-Voltage Embedded System via Task 
+Scheduling. Glenn L. Martin Institute of Technology, University of Maryland, College Park. 
+Principal Investigator. $55,000, 2001–2002. 
+f. 
+Editorships and Reviewing Activities 
+Editorship  
+Associate editor: IEEE Embedded Systems Letters (January 2011 – present)  
+Associate editor: Integration, the VLSI Journal (January 2011 – present) 
+Associate editor: IEEE Transactions on Computers (July 2011 – present) 
+Guest editor: 
+EURASIP Journal on Embedded Systems special issue on “Embedded DSP 
+Systems”, 2005 
+Journal Reviewer (alphabetical order) 
+ACM Journal of Emerging Technologies in Computing 
+ACM Transactions on Design Automation of Electronic Systems 
+ACM Transactions on Embedded Computing Systems 
+ACM Transactions on Sensor Networks 
+The Computer Journal 
+Elsevier Integration, the VLSI Journal 
+Elsevier Microelectronics Engineering 
+EURASIP Journal on Embedded Systems 
+EURASIP Journal on Wireless Communications and Networking 
+IEEE Embedded Systems Letters  
+IEEE Transactions on CAD of Integrated Circuits and Systems  
+IEEE Transactions on Circuits and Systems 
+IEEE Transactions on Computers  
+IEEE Transactions on Information Forensics & Security 
+IEEE Transactions on Mobile Computing  
+IEEE Transactions on Multimedia  
+IEEE/ACM Transactions on Networking 
+IEEE Transactions on Signal Processing 
+IEEE Transactions on VLSI Systems 
+IEEE Computer Magazine 
+IEEE Design and Test Magazine 
+International Journal of Embedded Systems 
+
+-----
+Gang Qu: Curriculum Vitae, Page 18 of 24 
+Journal of VLSI Signal Processing 
+Proposal Review Panel 
+NASA Low Power Microelectronics Review Panel, Leesburg, VA, December 9–11, 2003 
+NSF Computing Research Infrastructure (CRI05), October 2005 
+ 
+DOE SBIR Review Panel, Rockville, MD, February 7-8, 2011 
+NSF Secure and Trustworthy Cyberspace (SaTC), May 14-15, 2013 
+ 
+ 
+ 
+3. Teaching, Mentoring, and Advising Activities 
+a. 
+Courses Taught 
+I have taught the following seven undergraduate courses 22 times with average class size 56 
+students,  and four graduate level courses 10 times with average class size of 27 students 
+• ENEE 114: Programming Concepts for Engineers, Spring’04 (95), Fall’04 (53), Spring’05 (86), 
+Spring’06 (46), Spring’07 (72),  
+• ENEE 140: Introduction to Programming Concepts for Engineers. Fall’08 (80), Fall’09 (86), 
+Spring’10 (37),  Spring’11 (35), Fall’11 (86), Fall’12 (85), Spring’13 (40) 
+• ENEE 244: Digital Logic Design, Fall’00 (72), Fall’01 (83), Fall’03 (64), Fall’07 (53),  
+• ENEE 324: Engineering Probability. Summer’07 (22), Spring’08 (55), Fall’10 (32) 
+• ENEE 459B: Trustworthy Computing. Fall’06 (7) 
+• ENEE 459C: Computer Security. Spring’08 (12) 
+• CSMC 498L/ENEE 459L: Cybersecurity Lab. Fall’12 (25) 
+• ENEE 644: Computer-Aided Design of Digital Systems. Spring’01 (56), Spring’02 (58), Spring’03 
+(46), Spring’11 (20) , Spring’12 (17) 
+• ENEE 759B: Advances in Low-Power Design Methodologies. Fall’05 (13), Fall’09 (16) 
+• ENEE 759P: Trustworthy Computing. Spring’08 (8)  
+• ENEE 759Q: Intellectual Property Protection: from Multimedia Data to Software and VLSI Design. 
+Fall’02 (14)  
+• ENPM M 808C: Embedded Systems. Fall’10 (10) 
+b. Course or Curriculum Development 
+• New Courses  
+ENEE 140: Introduction to Programming Concepts for Engineers 
+ENEE 459B: Introduction to Trustworthy Computing 
+
+-----
+Gang Qu: Curriculum Vitae, Page 19 of 24 
+CMSC498/ENEE 459L: Cybersecurity Lab (co-developed) 
+ENEE 759P: Trustworthy Computing 
+ENEE 759Q: Intellectual Property Protection: from Multimedia Data to Software and VLSI Design 
+ENPM 808C: Embedded Systems 
+• Significant Revisions 
+ENEE 644: Computer-Aided Design of Digital Systems  
+ENEE 698B: Computer Engineering Seminar 
+ENEE 759B: Advances in Low Power Design Methodologies 
+• Others 
+Course Oversight Committee: ENEE 114, ENEE 244, ENEE 324  
+ENEE 114: exemption exam development 
+Ph.D. written qualifying exam: digital logic design problem development (2004-2006, 2012-2014) 
+c. 
+Textbooks, Manuals, Notes, Software, Web Pages and Other Contributions to Teaching 
+• 
+Textbook  
+G. Qu and M. Potkonjak, Intellectual Property Protection in VLSI Designs: Theory and Practice, 
+Kluwer Academic Publishers, ISBN 1-4020-7320-8, January 2003. 
+This book was used as the text book for ENEE 759Q. It has also been adopted as a textbook by other 
+US and international schools.  
+• 
+Manual 
+G. Qu, Laboratory Manual for ENEE140.   
+This manual is printed at the Engineering Copy Center since Fall 2012. Before that, the pdf version 
+of the lab manual were posted on the class webpage.  
+• 
+Notes 
+ENEE 644: Computer-Aided Design of Digital Systems  
+The set of PowerPoints presentations have been adopted by other faculty who taught this course, 
+both in the University of Maryland and other US schools. 
+ENEE 114: Programming Concepts for Engineers 
+The set of example programs have been adopted by other faculty who taught this course, both in the 
+University of Maryland of Community Colleges in the state of Maryland. 
+d. 
+Teaching Awards and other Recognitions 
+ 
+George Corcoran Award   
+ 
+ 
+ 
+ 
+ 
+September 2002 
+ 
+Lecturer in the First ACM SIGDA Design Automation Summer School  
+May 2001 
+
+-----
+Gang Qu: Curriculum Vitae, Page 20 of 24 
+Education related publication 
+“Introducing the Concept of Design Reuse into Undergraduate Digital Design Curriculum”, 4th 
+IEEE/ACM International Conference on Microelectronic Systems Education (MSE’03), pp. 10–11, 
+June 2003. 
+ 
+ 
+ 
+ 
+ 
+ 
+         
+ 
+Involvement in education oriented conference 
+Technical Program Committee Member: IEEE International Conference on Microelectronics 
+Systems Education (http://www.mseconference.org) 
+ 
+Reviewer: 
+ACM 
+SIGCSE 
+Technical 
+Symposium 
+on 
+Computer 
+Science 
+Education 
+(http://www.sigcse.org/) 
+ 
+ 
+ 
+ 
+ 
+                        
+e. 
+Advising: Research Direction 
+I have graduated 8 Ph.D. students, 13 M.S. students (6 with thesis and 6 with scholarly paper), and 
+advised 13  undergraduate students through various programs and independent study courses.  
+Ph.D. Theses 
+1. Shaoxiong Hua   
+(Fall 2001 – Spring 2004) 
+Thesis: Providing QoS with Reduced Energy Consumption via Voltage Scaling on Embedded Systems 
+Starting Employment: Synopsys, Mountain View, CA.  
+2. Lin Yuan 
+  
+(Fall 2001 – Spring 2006) 
+Thesis: Design Space Exploration in Embedded System Design and Implementation  
+Starting Employment: Synopsys, Mountain View, CA. Power network design group. 
+3. Xue Mei 
+  
+(Fall 2002 – Fall 2009)  
+Co-advisor: David Jacobs (CS/UMIACS) 
+Thesis: Visual Tracking and Illumination Recovery via Sparse Representation  
+Starting Employment: Intel, Folsom, CA. Graphics hardware simulation group. 
+4. Junjun Gu 
+  
+(Fall 2007 – Summer 2011) 
+Thesis:  Enhancing Power Efficient Design Techniques in Deep Submicron Era  
+Starting Employment: Altera Corporation, Mountain View, CA. Synthesis group.  
+5. Chi-En Yin  
+ 
+(Fall 2007 – Spring 2012) 
+Thesis:  A Group-based Ring Oscillator Physical Unclonable Function 
+Starting Employment: a hardware security start-up company in San Francisco 
+6. Chang-Han Jong    
+(Fall 2003 – Spring 2012) 
+Co-advisor: Virgil Gligor  
+Thesis:  Private Communication Detection via Side-Channel Attacks 
+Starting Employment: AT&T Labs, Chicago 
+7. Youngho Cho 
+ 
+(Fall 2008 – Summer 2013) 
+Thesis:  Trust-based Defense against Insider Packet Drop Attacks in Wireless Sensor Networks 
+8. Zhen Zhou  
+ 
+(Spring 2010 – Summer 2013) Co-advisor: Shuvra S. Bhattacharyya 
+Thesis:  Multi-scale Scheduling Techniques for Signal Processing Systems 
+
+-----
+Gang Qu: Curriculum Vitae, Page 21 of 24 
+M.S. Theses  
+1. Adarsh K. Jain  
+(Fall 2001 – Summer 2003) 
+Thesis: Achieving Zero Overhead Watermarking for FPGA Designs 
+Starting Employment: CERN, European Organisation for Nuclear Research 
+2. Pushkin J. Pari  
+(Spring 2002 – Spring 2004) 
+Thesis: Several Issues on the Boolean Satisfiability (SAT) Problem 
+Starting Employment: Intel 
+3. Xue Mei 
+ 
+(Fall 2002 – Spring 2007)  
+Co-advisor: David Jacobs (CS/UMIACS 
+) 
+Thesis:  
+Starting Employment: continue in Ph.D. program. 
+4. Chandra Chandrasekhar (Fall 2005 – Spring 2007)  
+ 
+ 
+Thesis: Integrating a Dual-Vth Design Flow using Mixed Vth Cell Libraries in EDA Tool 
+Starting Employment: Cisco  
+5. Sang Kyo Han (Fall 2007 – Spring 2010)  
+ 
+ 
+Thesis: An Architecture for High-Throughput and Improved-Quality Stereo Vision Processor 
+Starting Employment:  Samsung Electronics 
+6. Tao Tao (Fall 2009 – Summer 2011)  
+ 
+ 
+Thesis: Multispectral Method for Apple Defect Detection Using Hyperspectral Imaging System  
+ 
+M.S. Scholarly Paper (non-thesis) 
+1. Anusha Parisutham 
+(Spring 2003) 
+2. Bei Wang 
+ 
+(Spring 2003) 
+3. Thomas J. Keeley 
+(Spring 2004) 
+4. Muluwork Geremew 
+(Spring 2006) 
+5. Yifan Zhou 
+ 
+(Fall 2006) 
+6. Peter Soukup 
+ 
+(Spring 2008) 
+7. Girish Assudani 
+ 
+(Spring 2013) 
+ 
+Undergraduate Students (those with no affiliation information are UMD students) 
+1. Ming Liu  
+ 
+ 
+ 
+ 
+(Summer 2001, MERIT program) 
+2. Ani Akinbiyi 
+ 
+ 
+ 
+ 
+(Summer 2001 – Fall 2001, MERIT Program) 
+3. Chih-Yuan Huang (U.C. Berkeley) 
+ 
+(Summer 2002, MERIT Program) 
+4. Matt Schmidt (Purdue University) 
+     
+(Summer 2002,  2003, MERIT Program) 
+5. Jane Lin 
+ 
+ 
+ 
+ 
+(Summer 2003 –  Fall 2004, MERIT Program) 
+6. Kun Lin 
+ 
+ 
+ 
+ 
+(Spring 2005 – Fall 2005, ENEE 499) 
+7. Niels Villumsen 
+ 
+ 
+ 
+ 
+(Fall 2006,  ENEE 499, Exchange student) 
+  
+8. Eric Yeh 
+ 
+ 
+ 
+ 
+(Spring 2007, ENEE 499) 
+9. Malcom Taylor (UMD, Baltimore County) 
+(Summer 2007, MERIT) 
+10. Natalie Salaets  
+ 
+ 
+ 
+(Summer 2007, Spring 2010, REU & ENEE 499) 
+
+-----
+Gang Qu: Curriculum Vitae, Page 22 of 24 
+11. Victoria Tagarelli (SUNY, Binghamton) 
+ 
+(Summer 2011, REU) 
+12. Peter Li (U.C. Berkeley)  
+ 
+ 
+(Summer 2013) 
+13. Jiasen Yang  
+ 
+ 
+ 
+ 
+(Summer 2013)     
+ 
+ 
+f. Advising (other than research direction) 
+Undergraduate students: I mentor 15-20 computer engineering majored students each semester, 
+giving them advice on course selection, research and internship opportunities; helping them to keep good 
+academic standings and reach their career goals.  
+Graduate students: I have served as regular committee member, chair’s representative, or dean’s 
+representative for 70 Ph.D. students; committee member for 20 M.S. students with thesis; and 2nd 
+reader for the scholarly paper for 6 M.S. students without thesis. 
+4. Service 
+a. Professional 
+Professional Organization Committee Membership 
+ACM SIGDA Low Power Technical Committee, May 2007. 
+IEEE CEDA Publications Committee, January 2010. 
+IEEE CEDA Publicity Committee, March 2012. 
+Editorship 
+Associate editor: 
+IEEE Embedded Systems Letters (appointed: January 2011)  
+Associate editor: 
+Integration, the VLSI Journal (appointed: January 2011) 
+Associate editor: 
+IEEE Transactions on Computers (appointed: July 2011) 
+Guest editor: 
+EURASIP Journal on Embedded Systems special issue on “Embedded DSP Systems”, 
+2005 
+Conference General Chair/Co-Chair 
+GLSVLSI’06:  
+ 
+16th IEEE /ACM Great Lakes Symposium on VLSI 2006 (co-chair) 
+Hardware Assurance’11: 
+2nd ARO Special Workshop on Hardware Assurance (co-chair) 
+CyberVehicles’12: 
+ARO workshop on Cyber-Security and Dependability for Next Generation 
+Vehicular Systems (chair) 
+Conference Technical Program Chair/Co-Chair 
+GLSVLSI’05:  
+ 
+15th IEEE /ACM Great Lakes Symposium on VLSI 2005 (co-chair) 
+Other Significant Roles in Conference: 
+Low Power track chair: 
+17th IEEE /ACM Great Lakes Symposium on VLSI 2007. 
+Steer Committee member: IEEE /ACM Great Lakes Symposium on VLSI (2008-2011). 
+Special sessions co-chair: NASA/ESA Conference on Adaptive Hardware and Systems 2010. 
+
+-----
+Gang Qu: Curriculum Vitae, Page 23 of 24 
+Publication chair:  
+Conference on Decision and Game Theory for Security 2011. 
+Publicity chair: 
+IEEE International Symposium on Hardware-Oriented Security and Trust 
+2012. 
+Conference Technical Program Committee Member 
+AHS (’08 - ’13): 
+   NASA/ESA Conference on Adaptive Hardware and Systems 
+ASAP (’03-’13): 
+IEEE International Conference on Application-specific Systems, 
+Architectures and Processors 
+BLISS (’08 - ’13): 
+ ECSIS Symposium Bio-inspired, Learning and Intelligent Systems for 
+Security 
+CASES(’05): 
+International Conference on Compilers, Architecture, and Systems for 
+Embedded Systems 
+EmbeddedCom’11: 
+9th International Symposium on Embedded Computing 
+ESO (’06-’07): 
+International Workshop on Embedded Software Optimization 
+ 
+EUC’09: 
+IEEE/IFIP Conf. on Embedded and Ubiquitous Computing 
+GameSec’11: 
+Conference on Decision and Game Theory for Security 
+GLSVLSI (’03-’13): 
+IEEE /ACM Great Lakes Symposium on VLSI  
+(Local Arrangement Chair and Registration Chair in 2003, Publication 
+Chair in 2004) 
+GreenCom (’10-’13): 
+IEEE/ACM International Conference on Green Computing and 
+Communications  
+ 
+HOST (’08 - ’13): 
+(1st-4th) IEEE International Workshop on Hardware-Oriented Security and 
+Trust 
+ICESS (’08 - ’10): 
+  International Conference on Embedded Software and Systems 
+ICT-GLOW(’11 - ’13): 
+  1st International Conference on ICT as Key Technology for the Fight  
+ 
+ 
+ 
+  against Global Warming 
+ISC’02: 
+Information Security Conference 
+ISCAS (’02,’04,’05,’06): (52nd, 54th, 55th, 56th) IEEE International Symposium on Circuits and 
+Systems 
+MSE (’05-’11): 
+IEEE International Conference on Microelectronics Systems Education  
+SAC’11: 
+ACM Symposium on Applied Computing 
+SEC’08: 
+ 
+  5th IEEE International Symposium on Embedded Computing 
+SmartGreen (’12-’13) 
+1st International Conference on Smart Grids and Green IT Systems 
+MCSoC (’06-’13): 
+International Workshop on SoC and MCSoC Design 
+VLSI-SoC’11: 
+19th IFIP/IEEE International Conference on Very Large Scale Integration 
+Conference Session Chair  
+IWLS’13 
+17th International Workshop on Logic and Synthesis, Austin, TX, June 2013 
+ASAP’11 
+22nd IEEE International conference on Application-specific Systems, Architectures 
+and Processors, Santa Monica, CA, September 2011. 
+ASAP’06: 
+17th IEEE International conference on Application-specific Systems, Architectures 
+and Processors, Steamboat Springs, CO, September 2006. 
+GLSVLSI’05: 
+15th IEEE /ACM Great Lakes Symposium on VLSI, Chicago, IL, April 2005 
+GLSVLSI’04: 
+14th IEEE /ACM Great Lakes Symposium on VLSI, Boston, MA, April 2004 
+GLSVLSI’03: 
+13th IEEE /ACM Great Lakes Symposium on VLSI, Washington, DC, April 2003 
+ASAP’02: 
+13th IEEE International conference on Application-specific Systems, Architectures 
+and Processors, San Jose, CA, July 2002 
+DAC’02: 
+39th ACM/IEEE Design Automation Conference, New Orleans, LA, June 2002 
+
+-----
+Gang Qu: Curriculum Vitae, Page 24 of 24 
+ISCAS’02: 
+52nd IEEE International Symposium on Circuits and Systems, Scottsdale, AZ, May 
+2002 
+b. 
+Campus 
+i. 
+Departmental (alphabetical order) 
+1. APT committee (Dept. of ECE): F’07 - S’10 
+2. Facilities and Services Committee (Dept. of ECE): F’11 – S’13 
+ 
+3. Faculty Assembly (ISR): F’11 (CHAIR) 
+4. General Academic Affair Committee (Dept. of ECE): F’10 –  
+5. Graduate Studies and Research Committee (Dept. of ECE): F’03-S’04, F’07-S’08 (CHAIR), 
+F’08-S’09. 
+6. Salary Committee (Dept. of ECE): F’06 - S’10 
+7. Undergraduate Affair Committee (Dept. of ECE): F’02 - S’08, F’11 – S’13  
+8. Ad-hoc committees: 
+ 
+Distinguished Dissertation Fellowship selection committee (CHAIR, Dept. of ECE): S’11 
+ 
+Faculty hiring Committee (Dept. of ECE): F’10 – S’11, F’11 – S’12, F’12 – S’13 
+ 
+Director of Graduate Studies search committee (Dept. of ECE): F’11. 
+9. Contributed to building the database of foreign schools where graduate applicants finish their 
+B.S./M.S. degrees (schools of P.R.China): F’02-S’04. 
+ii. University (alphabetical order) 
+1. Academic advisor, Master of Engineering in Electrical and Computer Engineering, Office of 
+advanced engineering education, A.J. Clark School of Engineering, Summer 2010 – present.    
+2. Blended Learning Course Proposal Review committee: S’11. 
+3. Flagship Fellowship Selection Committee: The Graduate School, S’12, S’13. 
+4. President: Association of Chinese-American Professors and Scientists at University of 
+Maryland: S’11 – S’13.  
+5. Research and Support Award (RASA) Committee: F’10. 
+6. University Senate, Educational Affairs Committee: F’01 – S’03. 
+7. Wylie Dissertation Fellowship Selection Committee, The Graduate School, S’12, S’13.  
+c. 
+Service Awards and Honors 
+i. 
+Recognition of contribution to the ACM SIGDA Design Automation Summer School, May 2001. 
+ii. ACM Recognition of Service Awards by ACM SIG Governing Board. In appreciation for 
+Contributions to ACM Program Co-Chair GLSVLSI’05. September 2005.  
+iii. ACM Recognition of Service Awards by ACM SIG Governing Board. In appreciation for 
+Contributions to ACM General Co-Chair GLSVLSI’06. August 2006. 
+ 
+
+-----

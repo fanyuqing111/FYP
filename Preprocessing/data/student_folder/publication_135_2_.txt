@@ -1,0 +1,33 @@
+List of Publications
+Journal Articles:
+• Xuhao Li and Patricia Jia Yiing Wong, “A higher order non-polynomial spline method
+for fractional sub-diffusion problems,” J. Comput. Phys., 328(2017), 46–65.
+• Xuhao Li and Patricia Jia Yiing Wong, “An efficient numerical treatment of fourth-order
+fractional diffusion-wave problems,” Numer. Methods Partial Differential Equations (Ac-
+cepted).
+• Xuhao Li and Patricia Jia Yiing Wong, “A non-polynomial numerical scheme for fourth-
+order fractional difusion-wave model,” Applied Mathematics and Computation(Accepted).
+• Xuhao Li and Patricia Jia Yiing Wong, “An efficient non-polynomial spline method for
+distributed order fractional sub-diffusion equations.” Mathematical Methods in the Ap-
+plied Sciences (Accepted)
+• Xuhao Li and Patricia Jia Yiing Wong, “Numerical solutions of fourth-order fractional
+sub-diffusion problems via parametric quintic spline.” (Submitted)
+• Xuhao Li and Patricia Jia Yiing Wong, “Non-polynomial spline approach in two-dimensional
+fractional sub-diffusion problems.” (Submitted)
+Conference Papers:
+• Xuhao Li and Patricia Jia Yiing Wong, “A new implicit numerical scheme for fractional
+sub-diffusion equation,” In 2016 14th International Conference on Control, Automation,
+Robotics and Vision (ICARCV), 2016, 1-6.
+• Xuhao Li and Patricia Jia Yiing Wong, “Nonpolynomial numerical scheme for fourth-
+order fractional sub-diffusion equations,” AIP conference Proceedings of ICNAAM 2016.
+• Xuhao Li and Patricia Jia Yiing Wong, “Numerical solution of fourth-order fractional
+diffusion wave model,” ICNAAM 2017(Accepted).
+• Xuhao Li and Patricia Jia Yiing Wong, “High order approximation to new generalized
+fractional Caputo derivatives and its applications,” ICNAAM 2017(Accepted).
+1
+
+-----
+• Xuhao Li and Patricia Jia Yiing Wong, “Parametric quintic spline approach for two-
+dimensional fractional sub-diffusion equation,” ICNAAM 2017(Accepted).
+
+-----

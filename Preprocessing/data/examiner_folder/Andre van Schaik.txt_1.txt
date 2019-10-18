@@ -1,0 +1,716 @@
+ (http://www.westernsydney.edu.au/)
+ (http://www.westernsydney.edu.au/)
+Staff Profiles
+Professor Andre van Schaik
+RESEARCH PROFESSOR, BIOELECTRONICS & NEUROSCIENCE,
+RESEARCH PROFESSOR, BIOELECTRONICS & NEUROSCIENCE,
+MARCS Institute for Brain, Behaviour & Development
+MARCS Institute for Brain, Behaviour & Development
+Biography
+André van Schaik received the M.Sc. degr ee in electrical engineering fr om the University of Twente, Enschede, The Netherlands, in 1990 and the Ph.D . degree in
+electrical engineering fr om the Swiss Federal Institute of T
+echnology (EPFL), Lausanne, Switzerland, in 1998. In 1998 he was a postdoctoral research fellow in the
+Departmen t of Physiology at the University of Sydney, funded by fellowship from the Garnett Passe and Rodney Williams memorial foundation. In 1999 he became a
+Senior Lecturer in the School of Electrical and Information Engineering a t the University of Sydney and promoted to Reader in 2004. In 2011 André became a research
+professor at UWS. His research focuses on three main areas: neuromorphic engineering, bioelec tronics, and neuroscience. He was identified as a world leader in
+neuromorphic engineering research in May 2006 by an independen t article in IEEE Spec trum, the IEEE lar gest circulation magazine. He has authored more than 100
+papers and is an inventor of more than 30 patents. He is a founder of three start-up companies: VAST Audio, Personal Audio, and Heard Systems.
+This information has been contributed by Professor van Schaik.
+Professional Memberships
+Fellow IEEE (2014)
+Awards
+ARC Australian Research Fellow 2003-01-01
+ARC QEII Fellow 2008-01-01
+Interests
+Computational Neuroscience
+Electronic Circuit Design
+Integrated Circuit Design
+Neuromorphic Engineering
+Neurophysiology
+Neuroscience
+Organisational Unit (School / Division)
+MARCS Institute for Brain, Behaviour & Development
+Committees
+MARCS Institute
+Contact
+Email:
+Email:
+A.VanSchaik@westernsydney.edu.au
+A.VanSchaik@westernsydney.edu.au (mailto:A.VanSchaik@westernsydney.edu.au)
+ (mailto:A.VanSchaik@westernsydney.edu.au)
+Phone:
+Phone:
+(02) 47360 668
+Mobile:
+Mobile:
+Location:
+Location:
+XB.1.09G
+Penrith (Kingswood)
+Website:
+Website:
+
+-----
+PLEASE NOTE: obtaining information from this Directory must be for the legitima te purposes of doing busines s with and within Western Sydney University, and must
+not be used for unsolicited bulk e-mailing (spamming) or similar purposes.
+Publications
+Chapters in Books
+van Schaik, A. and Hamilton, T. (2015), 'Silicon cochlea building blocks', Event-Based Neuromorphic Systems, Wiley & Sons 9781118927601.
+van Schaik, A., Hamilton, T. and Liu, S. (2015), 'Silicon cochleas', Event-Based Neuromorphic Systems, Wiley & Sons 9781118927601.
+Kan, A., Jin, C. and Van Schaik, A. (2011), 'Psychoacoustic evaluation of different methods for creating individualiz ed, headphone-pr esented virtual audit ory space
+from B-format room impulse responses', Principles and Applica tions of Spatial Hearing , World Scientific 9789814313872.
+Gargiulo, G., Bifulco, P., Calvo, R., Romano, M., Ruffo, M., Shephard, R., Cesarelli, M., Jin, C., McEwan, A. and Van Schaik, A. (2011), 'Giga-Ohm High-Impedanc e FET
+Input Amplifiers for Dry Electrode Biosensor Circuits and Systems', Integrated Microsystems: Electronics, Photonics, and Biotechnology, Taylor & Francis Inc
+9781439836200.
+Ruffo, M., Cesarelli, M., Jin, C., Gargiulo, G., McEwan, A., Sullivan, C., Bifulco, P., Romano, M., Shephard, R. and Van Schaik, A. (2011), 'Non-invasive foetal monitoring
+with a combined ECG - PCG system', Biomedical Engineering, Trends in Electronics, Communications and Software, Intech 9789533074757.
+Gargiulo, G., Bifulco, P., Calvo, R., Cesarelli, M., Jin, C., Mcewan, A. and Van Schaik, A. (2010), 'Non-invasive electronic biosensor circuits and systems', Intelligent
+and biosensors, InTech 9789537619589.
+Van Schaik, A., Hamilton, T. and Jin, C. (2010), 'Silicon models of the auditory pathway', Springer handbook of auditory research: computational models of the
+auditory system, Springer 9781441913708.
+Journal Articles
+Thakur, C., Afshar, S., Wang, R., Hamilton, T., Tapson, J. and van Schaik, A. (2016), 'Bayesian estimation and inference using stochastic electronics', Frontiers in
+Neuroscience, vol 10 .
+Cohen, G., Orchard, G., Leng, S., Tapson, J., Benosman, R. and van Schaik, A. (2016), 'Skimming digits : neur omorphic classification of spike-encoded images',
+Frontiers in Neuroscience, vol 10 .
+Cameron, M., Kekesi, O., Morley, J., Tapson, J., Breen, P., van Schaik, A. and Buskila, Y. (2016), 'Calcium imaging of AM dyes following prolonged incubation in acute
+neuronal tissue', PLOS One, vol 11, no 5 , pp 1 - 13.
+Kasi, P., Wright, J., Khamis, H., Birznieks, I. and van Schaik, A. (2016), 'The Bayesian decoding of force stimuli from slowly adapting t ype I fibers in humans', PLoS
+One, vol 11, no 4 .
+Wright, J., Macefield, V., van Schaik, A. and Tapson, J. (2016), 'A review of control strategies in closed-loop neuroprosthetic systems', Frontiers in Neuroscience, vol
+10 , pp 312 - .
+Wang, R., Hamilton, T., Tapson, J. and van Schaik, A. (2015), 'A neuromorphic implementation of mutliple spike-timing synaptic plas ticity rules for large-scale
+neural networks', Frontiers in Neuroscience, vol 9 .
+Tapson, J., Cohen, G. and van Schaik, A. (2015), 'ELM solutions for event-based s ystems', Neurocomputing, vol 149, no pt. A , pp 435 - 442.
+van Schaik, A. and Tapson, J. (2015), 'Online and adaptiv e pseudoinverse solutions for ELM weights', Neurocomputing, vol 149, no pt. A , pp 233 - 238.
+Afshar, S., George, L., Thakur, C., Tapson, J., van Schaik, A., De Chazal, P. and Hamilton, T. (2015), 'Turn down that noise : synaptic encoding of afferent SNR in a
+single spiking neuron', IEEE Transactions on Biomedical Circuits and Systems, vol 9, no 2 , pp 188 - 196.
+Thakur, C., Wang, R., Afshar, S., Hamilton, T., Tapson, J., Shamma, S. and van Schaik, A. (2015), 'Sound stream segregation : a neuromorphic approach to solve the
+'cocktail part y problem' in real-time', Frontiers in Neuroscience, vol 9 .
+McDonnell, M., Tissera, M., Vladusich, T., van Schaik, A. and Tapson, J. (2015), 'Fast, simple and ac curate handwritten digit classification by training shallow neural
+network classifiers with the 'Ex treme Learning Machine' algorithm', PLoS One, vol 10, no 8 .
+Jin, C., Guillon, P., Epain, N., Zolfaghari, R., Van Schaik, A., Tew, A., Hetherington, C. and Thorpe, J. (2014), 'Creating the Sydney York Morphological and Acoustic
+Recordings of Ears database', IEEE Transactions on Multimedia, vol 16, no 1 , pp 37 - 46.
+Hamilton, T., Afshar, S., Van Schaik, A. and Tapson, J. (2014), 'Stochastic electronics : a neuro-inspired design par adigm for integrated circuits', Proceedings of the
+Institute of Electrical and Electronics Engineers, vol 102, no 5 , pp 843 - 859.
+Buskila, Y., Breen, P., Tapson, J., Van Schaik, A., Barton, M. and Morley, J. (2014), 'Extending the viabilit y of acute brain slices', Scientific Reports, vol 4 .
+Wang, R., Hamilton, T., Tapson, J. and Van Schaik, A. (2014), 'A mixed-signal implemen tation of a polychronous spiking neural network with delay adaption',
+Frontiers in Neuroscience, vol 8, no 51 .
+Kuhlmann, L., Hauser-Raspe, M., Manton, J., Grayden, D., Tapson, J. and Van Schaik, A. (2014), 'Approximate, computationally efficient online learning in Bayesian
+spiking neurons', Neural Computation, vol 26, no 3 , pp 472 - 496.
+Afshar, S., George, L., Tapson, J., van Schaik, A. and Hamilton, T. (2014), 'Racing to learn : statistical inference and learning in a single spiking neur on with adaptive
+kernels', Frontiers in Neuroscience, vol 8, no Nov .
+Delbruck, T., van Schaik, A. and Hasler, J. (2014), 'Research topic : neuromorphic engineering systems and applica tions. A snapshot of neuromorphic systems
+engineering', Frontiers in Neuroscience, vol 8, no Dec .
+Liu, S., van Schaik, A., Minch, B. and Delbruck, T. (2014), 'Asynchronous binaural spatial audition sensor with 2?64?4 channel output', IEEE Transactions on
+Biomedical Circuits and Systems, vol 8, no 4 , pp 453 - 464.
+Gargiulo, G., McEwan, A., Bifulco, P., Cesarelli, M., Jin, C., Tapson, J., Thiagalingam, A. and V an Schaik, A. (2013), 'Towards true unipolar bio-pot ential recording : a
+preliminary result for ECG', Physiological Measurement, vol 34, no 1 , pp 1 - 7.
+Wang, R., Cohen, G., Stiefel, K., Hamilton, T., Tapson, J. and Van Schaik, A. (2013), 'An FPGA implementation of a polychronous spiking neural network with delay
+adapta tion', Frontiers in Neuroscience, , no FEB .
+Stiefel, K., Tapson, J. and Van Schaik, A. (2013), 'Temporal order detection and coding in nervous systems', Neural Computation, vol 25, no 2 , pp 510 - 531.
+Tapson, J. and Van Schaik, A. (2013), 'Learning the pseudoinverse solution to network weights', Neural Networks, vol 45 , pp 94 - 100.
+Tapson, J., Cohen, G., Afshar, S., Stiefel, K., Buskila, Y., Wang, R., Hamilton, T. and Van Schaik, A. (2013), 'Synthesis of neural networks for spatio-temporal spike
+pattern recognition and processing', Frontiers in Neuroscience, , no 7 .
+Buskila, Y., Morley, J., Tapson, J. and Van Schaik, A. (2013), 'The adapta tion of spike backpropagation delays in cortical neurons', Frontiers in Cellular Neuroscience,
+vol 7 , pp 1 - 9.
+Gargiulo, G., McEwan, A., Bifulco, P., Cesarelli, M., Jin, C., Tapson, J., Thiagalingam, A. and V an Schaik, A. (2013), 'Towards true unipolar E CG recording without the
+Wilson central terminal (preliminary results)', Physiological Measurement, vol 34, no 9 , pp 991 - 1012.
+Afshar, S., Cohen, G., Wang, R., Van Schaik, A., Tapson, J., Lehmann, T. and Hamilton, T. (2013), 'The ripple pond : enabling spiking ne tworks to see', Frontiers in
+Neuroscience, vol 7 .
+
+-----
+Gargiulo, G., Mohamed, A., McEwan, A., Bifulco, P., Cesarelli, M., Jin, C., Ruffo, M., Tapson, J. and Van Schaik, A. (2012), 'Investigating the role of combined acoustic-
+visual feedback in one-dimensional synchronous brain computer interfaces, a preliminary study', Medical Devices : Evidence and Research, vol 5, no 1 , pp 81 - 88.
+Chan, V., Jin, C. and van Schaik, A. (2012), 'Neuromorphic audio-visual sensor fusion on a sound-localizing robot', Frontiers in Neuroscience, , no FEB .
+Ang, C., McEwan, A., van Schaik, A., Jin, C. and Leong, P. (2012), 'FPGA implementation of biologically-inspired auto-associative memory', Electronics Letters, vol
+48, no 3 , pp 148 - 149.
+Nasehi Tehrani, J., McEwan, A., Jin, C. and Van Schaik, A. (2012), 'L1 regularization method in electrical impedance tomography by using the L1-curve (Pareto
+frontier curve)', Applied Ma thematical Modelling, vol 36, no 3 , pp 1095 - 1105.
+Gargiulo, G., Cohen, G., McEwan, A., Oh, T., Mohamed, A., Tapson, J., Nguyen, D., Van Schaik, A. and Wabnitz, A. (2012), 'Active electrode design suitable f or
+simultaneous EIT and EE G', Electronics Letters, vol 48, no 25 , pp 1583 - 1584.
+Gargiulo, G., Shephard, R., Tapson, J., McEwan, A., Bifulco, P., Cesarelli, M., Jin, C., Al-Ani, A., Wang, N. and Van Schaik, A. (2012), 'Pregnancy detection and
+monitoring in cattle via combined foetus electrocardiogram and phonocardiogram signal processing', BMC Veterinary Research, vol 8, no 164 , pp 1 - 10.
+Best, V., Carlile, S., Kopco, N. and Van Schaik, A. (2011), 'Localization in speech mixtures by listeners with hearing loss', Journal of the Acoustical Society of
+America, vol 129, no 5 , pp 210 - 215.
+Indiveri, G., Linares-Barranco, B., Hamilton, T., Van Schaik, A., Etienne-Cummings, R., Delbruck, T., Liu, S., Dudek, P., Hafliger, P., Renaud, S., Schemmel, J.,
+Cauwenberghs, G., Arthur, J., Hynna, K., Folowosele, F., Saighi, S., Serrano-Gotarredona, T., Wijekoon, J., Wang, Y. and Boahen, K. (2011), 'Neuromorphic Silicon
+Neuron Circuits', Frontiers in Neuroscience, , no MAY .
+Parthy, A., Epain, N., v an Schaik, A. and Jin, C. (2011), 'Comparison of the measured and theoretical performance of a broadband circular microphone array',
+Journal of the Acoustical Society of America, vol 130, no 6 , pp 3827 - 3837.
+Gargiulo, G., Ruffo, M., Bifulco, P., Cesarelli, M., Calvo, R., Jin, C. and Van Schaik, A. (2010), 'An ultra-high input impedanc e ECG amplifier for long term monitoring of
+athletes', Medical Devices: Evidence and Research, vol 3, no 3 , pp 1 - 9.
+Tehrani, J., Anderson, C., Jin, C., Van Schaik, A., Holder, D. and Mcewan, A. (2010), 'Feasibilit y of electrical impedance tomography in haemorrhagic stroke
+treatment using adaptiv e mesh', Journal of Physics: Conference Series, vol 224 .
+Mcewan, A., Tapson, J., Van Schaik, A. and Holder, D. (2010), 'Spread Spectrum EIT by code devision multiplexing', Journal of Physics: Conference Series, vol 224,
+no 1 .
+Jeganathan, S., Van Schaik, A., Jin, C. and Mcewan, A. (2010), 'Suitabilit y of the INPHAZE impedance analyzer for bio-impedance and EIT', Journal of Physics, vol
+224, no 1 , pp 0 - 0.
+Gargiulo, G., Calvo, R., Bifulco, P., Cesarelli, M., Jin, C., Mohamed, A. and V an Schaik, A. (2010), 'A new EEG recording system for passive dry electrodes', Clinical
+Neurophysiology, vol 121, no 5 , pp 686 - 693.
+Tehrani, J., Jin, C., Mcewan, A. and Van Schaik, A. (2010), 'A comparison between compressed sensing algorithms in elec trical impedance tomography',
+Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Socie ty. IEEE Engineering in Medicine and Biology
+Society. Conference, , pp 3109 - 3112.
+Gargiulo, G., Bifulco, P., Mcewan, A., Nasehi Tehrani, J., Calvo, R., Romano, M., Ruffo, M., Shepard, R., Cesarelli, M., Jin, C., Mohamed, A. and V an Schaik, A. (2010),
+'Dry electrode bio-potential recordings', Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Socie ty.
+IEEE Engineering in Medicine and Biology Socie ty, , pp 6493 - 6496.
+Chan, V., Jin, C. and Van Schaik, A. (2010), 'Adaptive Sound Localisation with a Silicon Cochlea Pair', Frontiers of Neurology and Neuroscience, vol 4 .
+Tapson, J., Jin, C., Van Schaik, A. and Etienne-Cummings, R. (2009), 'A first-order nonhomogeneous markov model for the response of spiking neurons stimulated
+by small phase-continuous signals', Neural Computation, vol 21, no 6 , pp 1554 - 1588.
+Sun, D., Jin, C., Van Schaik, A. and Cabrera, D. (2009), 'The design and evaluation of an economically constructed anechoic chamber', Architectural Science Review,
+vol 52, no 4 , pp 312 - 319.
+Msewan, A., Tapson, J., Van Schaik, A. and Holder, D. (2009), 'Code division multiplexed electrical impedance tomography spectroscopy', IEEE Transactions on
+Biomedical Circuits and Systems, vol 3 , pp 332 - 338.
+Kan, A., Jin, C. and Van Schaik, A. (2009), 'A psychophysical evaluation of near-field head-related transfer functions synthesized using a dis tance variation
+function', The Journal of the Acoustical Society of America, vol 125, no 4 , pp 2233 - 2242.
+Neher, T., Behrens, T., Carlile, S., Jin, C., Kragelund, L., P etersen, A. and Van Schaik, A. (2009), 'Benefit from spatial separ ation of multiple talkers in bilateral
+hearing-aid users : effects of hearing loss, age, and cognition', International Journal of Audiology, vol 48, no 11 , pp 7587 - 7674.
+Martin, A., Jin, C. and v an Schaik, A. (2009), 'Psychoacoustic evaluation of systems for delivering spa tialized augmented-reality audio', AES: Journal of the Audio
+Engineering Society, vol 57, no 12 , pp 1016 - 1027.
+Hamilton, T., Jin, C., Van Schaik, A. and Tapson, J. (2008), 'An active 2-D silicon cochlea', IEEE Transactions on Biomedical Circuits and Systems, vol 2, no 1 , pp 30 -
+43.
+Chan, V., Liu, S. and van Schaik, A. (2007), 'AER EAR: A Matched Silicon Cochlea Pair With Address Event Representation Interface', IEEE Transactions on Circuits
+and Systems I: Regular Papers, vol 54, no 1 , pp 48 - 59.
+Chan, V., Jin, C. and Van Schaik, A. (2007), 'An Address-Event Vision Sensor for Multiple Transient Object Detection', IEEE Transactions on Biomedical Circuits and
+Systems, vol 1, no 4 , pp 278 - 288.
+Reeve, R., Van Schaik, A., Jin, C., Hamilton, T., Torben-Nielson, B. and Webb, B. (2007), 'Directional hearing in a silicon cricket', Bio Systems, vol 87, no 40604 , pp
+307 - 313.
+Best, V., Carlile, S., Jin, C. and van Schaik, A. (2005), 'The role of high frequencies in speech localization', Journal of the Acoustical Society of America, vol 118, no 1 ,
+pp 353 - 363.
+Best, V., van Schaik, A., Jin, C. and Carlile, S. (2005), 'Auditory spatial perception with sources overlapping in fr equency and time', Acta Acustica united with
+Acustica, vol 91, no 3 , pp 421 - 428.
+Conference Papers
+Wang, R., Thakur, C., Hamilton, T., Tapson, J. and van Schaik, F. (2016), 'A stochastic approach to STDP', IEEE International Symposium on Circuits and Systems,
+Montreal, Canada.
+De Chazal, P., Tapson, J. and van Schaik, A. (2015), 'Learning ELM network weights using linear discriminan t analysis', International Conference on Extreme
+Learning Machines, Singapore.
+Tapson, J., De Chazal, P. and van Schaik, A. (2015), 'Explicit computation of input weights in extreme learning machines', International Conference on Extreme
+Learning Machines, Singapore.
+Kasi, P., Birznieks, I. and van Schaik, A. (2015), 'A point process approach to encode tactile afferents', IEEE/EMBS International Conference on Neural Engineering ,
+Montpellier, France.
+De Chazal, P., Tapson, J. and van Schaik, A. (2015), 'A comparison of extreme learning machines and back -propagation trained feed-forward networks processing
+the MNIST database', ICASSP (Conference), Brisbane, Qld..
+Wright, J., Macefield, V., van Schaik, A. and Tapson, J. (2015), 'Decoding force from multiunit recordings from the median nerve', IEEE International Conference on
+Rehabilitation Robotics, Singapore.
+
+-----
+Thakur, C., Hamilton, T., Wang, R., Tapson, J. and van Schaik, A. (2015), 'A neuromorphic hardware framework based on population coding', International Joint
+Conference on Neural Networks, Killarney, Ireland.
+Sadr Lahijany, H., De Chazal, P., van Schaik, A. and Breen, P. (2015), 'Sleep apnoea episodes  recognition by a committee of ELM classifiers from ECG signal', IEEE
+Engineering in Medicine and Biology Socie ty. Annual Conference, Milan, Italy.
+Wang, R., Thakur, C., Hamilton, T., Tapson, J. and van Schaik, A. (2015), 'A compact aVLSI conductance-based silic on neuron', Biomedical Circuits and Systems
+Conference, Atlanta, Ga..
+Xu, Y., Thakur, C., Hamilton, T., Tapson, J., Wang, R. and van Schaik, A. (2015), 'A reconfigurable mixed-signal implemen tation of a neuromorphic ADC', Biomedical
+Circuits and Systems Conference, Atlanta, Ga..
+Wang, R., Hamilton, T., Tapson, J. and van Schaik, A. (2014), 'A compact neural core for digital implemen tation of the Neural Engineering Framework', IEEE
+Biomedical Circuits and Systems Conference, Lausanne, Switzerland.
+Thakur, C., Hamilton, T., Tapson, J., van Schaik, A. and Lyon, R. (2014), 'FPGA implemen tation of the CAR model of the cochlea', IEEE International Symposium on
+Circuits and Systems, Melbourne, Vic..
+Nicholson, A., Jenkins, J., van Schaik, A., Hamilton, T. and Lehmann, T. (2014), 'A digital t o transconductance converter for Nauta structure op-amps in 65nm
+CMOS', Midwest Symposium on Circuits and Systems, College Station, Tex..
+Wang, R., Hamilton, T., Tapson, J. and van Schaik, A. (2014), 'An FPGA design fr amework for large-scale spiking neur al networks', IEEE International Symposium
+on Circuits and Systems, Melbourne, Vic..
+Wang, R., Hamilton, T., Tapson, J. and van Schaik, A. (2014), 'A generalised conductance-based silic on neuron for large-scale spiking neur al networks', IEEE
+International Symposium on Circuits and Systems, Melbourne, Vic..
+Thakur, C., Wright, J., Hamilton, T., Tapson, J. and van Schaik, A. (2014), 'Live demonstration : FPGA implementation of the CAR model of the cochlea', IEEE
+International Symposium on Circuits and Systems, Melbourne, Vic..
+Wang, R., Hamilton, T., Tapson, J. and van Schaik, A. (2014), 'A compact reconfigurable mixed-signal implemen tation of synaptic plas ticity in spiking neurons',
+IEEE International Symposium on Circuits and Systems, Melbourne, Vic..
+Gargiulo, G., Tapson, J., Van Schaik, A., McEwan, A. and Thiagalingam, A. (20 13), 'Unipolar E CG circuits : towards more precise cardiac event identification', IEEE
+International Symposium on Circuits and Systems, Beijing, China.
+Wang, R., Cohen, G., Hamilton, T., Tapson, J. and Van Schaik, A. (2013), 'An improved aVLSI axon with programmable dela y using spike timing dependen t delay
+plasticity', IEEE International Symposium on Circuits and Systems, Beijing, China.
+Nicholson, A., Jenkins, J., Irfansyah, A., Politi, N., Van Schaik, A., Hamilton, T. and Lehmann, T. (2013), 'A 0.3mm2 10-b 100MS/s pipelined ADC using Nauta s tructure
+op-amps in 180nm CMOS', IEEE International Symposium on Circuits and Systems, Beijing, China.
+Guillon, P., Zolfaghari, R., Epain, N., V an Schaik, A. and Jin, C. (2012), 'Creating the Sydney York Morphological and Acoustic Recordings of Ears Database', 2012
+IEEE International Conference on Multimedia and Expo, Melbourne.
+Nicholson, A., Jenkins, J., Van Schaik, A., Hamilton, T. and Lehmann, T. (2012), 'A 1.2V 2-bit phase in terpolator for 65nm CMOS', IEEE International Symposium on
+Circuits and Systems, Seoul, Korea.
+Politi, N., Jenkins, J., Van Schaik, A., Lehmann, T. and Hamilton, T. (2012), 'A method for measuring switching frequency using complex asynchronous logic circuits',
+IEEE Asia Pacific Conference on Circuits and Systems, Kaohsiung, Taiwan.
+Afshar, S., Kavehei, O., van Schaik, A., Tapson, J., Skafidas, S. and Hamilt on, T. (2012), 'Emergence of competitive control in a memristor-based neur omorphic
+circuit', International Joint Conference on Neural Networks, Brisbane, Qld..
+Tapson, J. and Van Schaik, A. (2012), 'An asynchronous parallel neuromorphic ADC architecture', IEEE International Symposium on Circuits and Systems, Seoul,
+Korea.
+Wang, R., Tapson, J., Hamilton, T. and Van Schaik, A. (2012), 'An aVLSI programmable axonal delay circuit with spike timing dependen t delay adapta tion', IEEE
+International Symposium on Circuits and Systems, Seoul, Korea.
+Kuhlmann, L., Hauser-Raspe, M., Manton, J., Grayden, D., Tapson, J. and Van Schaik, A. (2012), 'Online learning in B ayesian spiking neurons', International Joint
+Conference on Neural Networks, Brisbane, Qld..
+Tehrani, J., Thiagalingam, A., Jin, C., V an Schaik, A., Chik, W., Barry, M. and Mcewan, A. (2011), 'Feasibilit y of using internal electrodes to improve the accuracy
+Cardiac Electrical impedance Tomography', 12th International Conference in Electrical Impedance Tomography, Bath, UK.
+Wang, R., Jin, C., Mcewan, A. and Van Schaik, A. (2011), 'A programmable axonal propagation delay circuit for time-delay spiking neural networks', IEEE
+International Symposium on Circuits and Systems, Rio de Janeiro, Braz.
+Wabnitz, A., Epain, N., V an Schaik, A. and Jin, C. (2011), 'Time Domain Reconstruction of Spatial Sound Fields Using Compressed Sensing', International Conference
+on Acoustics, Speech and Signal pr ocessing, Prague, Czech Republ.
+Wang, R., Tapson, J., Hamilton, T. and Van Schaik, A. (2011), 'An analogue VLSI implemen tation of polychronous spiking neural networks', Conference on Intelligent
+Sensors, Sensor Networks and Information Processing, Adelaide.
+Gmel, G., Hamilt on, T., Leblebici, Y. and Van Schaik, A. (2011), 'A Silicon Model of the Inner Hair Cell', Conference on Intelligent Sensors, Sensor Networks and
+Information Processing, Adelaide.
+Hamilton, T. and Van Schaik, A. (2011), 'Silicon implementation of the generalized integrate-and-fire neuron model', 2011 Seventh International Conference on
+Intelligent Sensors, Sensor Networks and Information Processing, Adelaide, Australia.
+Ang, C., Jin, C., Leong, P. and Van Schaik, A. (2011), 'Spiking neural network-based aut o-associative memory using FPGA interconnect delays', 2011 International
+Conference on Field-Programmable Technology, New Delhi, India.
+Thanigaivelan, B., Postula, A., Jin, C., Van Schaik, A. and Hamilton, T. (2010), 'Symbolic Analysis of the Tau Cell Log-Domain Filter using Affine MOSFET Models',
+IEEE Asia Pacific Conference on Circuits and Systems, Kuala Lumpur.
+Tapson, J., Hamilton, T. and Van Schaik, A. (2010), 'Live Demonstration : The Self-Tuned Regenerative Electromechanical Parametric Amplifier', IEEE Asia Pacific
+Conference on Circuits and Systems, Paris, France.
+Tapson, J., Hamilton, T. and Van Schaik, A. (2010), 'The Self-Tuned Regenerative Electromechanical Parametric Amplifier: A Model for Active Amplification in the
+Cochlea', IEEE International Symposium on Circuits and Systems, Paris, France.
+Van Schaik, A., Jin, C. and Hamilton, T. (2010), 'A log-domain implementation of the Izhikevich neuron model', IEEE International Symposium on Circuits and
+Systems, Paris, France.
+Van Schaik, A., Jin, C., Hamilton, T., Mihalas, S. and Niebur, E. (2010), 'A log-domain implementation of the Mihalas-Niebur neuron model', IEEE International
+Symposium on Circuits and Systems, Paris, France.
+Liu, S., Van Schaik, A., Minch, B. and Delbruck, T. (2010), 'Event-Based 64-Channel Binaural Silicon Cochlea with Q Enhancement Mechanisms', IEEE International
+Symposium on Circuits and Systems, Paris, France.
+Hamilton, T., Tapson, J., Jin, C. and Van Schaik, A. (2010), 'Investigating the implications of Outer Hair Cell connectivity using a Silicon Cochlea', IEEE International
+Symposium on Circuits and Systems, Paris, France.
+Martin, A., Jin, C., Van Schaik, A. and Martens, W. (2010), 'Partially observ able Markov decision processes for interactive music systems', International Computer
+Music Conference, Stony Brook, NY
+.
+Epain, N., Guillon, P., Kan, A., Kosobrodov, R., Sun, D., Jin, C. and Van Schaik, A. (2010), 'Objective evaluation of a three-dimensional sound field r eproduction
+system', Internation Congress on Acoustics, Sydney, Australia.
+
+-----
+Epain, N., Jin, C. and Van Schaik, A. (2010), 'Blind source separation using independan t component analysis in the spherical harmonic domain', International
+Symposium on Ambisonics and Spherical Acoustics, Paris, France.
+Wabnitz, A., Epain, N., Jin, C. and V an Schaik, A. (2010), 'Room Acoustics simulation for multichannel microphone arrays', International Symposium on Room
+Acoustics, Melbourne, Australia.
+Wu, P., Jin, C., Kan, A. and Van Schaik, A. (2010), 'A Multi-Microphone Speech Enhancement Algorithm Tested Using Acoustic Vector Sensors', International
+Workshop on Acoustic Echo and Noise Control, Tel Aviv, Israel.
+Gargiulo, G., Bifulco, P., Cesarelli, M., Jin, C., McEwan, A. and Van Schaik, A. (2010), 'Wearable dry sensor s with Bluetooth connection for use in remote patient
+monitoring systems', Global Telehealth (Conference), Perth, W.A..
+Epain, N., Jin, C. and Van Schaik, A. (2009), 'The Application of Compressive Sampling to the Analysis and Synthesis of Spatial Sound Fields', AES 127th
+Convention, New York.
+Van Schaik, A., Chan, V. and Jin, C. (2009), 'Sound localisation with a silicon cochlea pair', IEEE International Conference on Acoustics, Speech and Signal
+Processing, Taipei, Taiwan.
+Parthy, A., Jin, C. and Van Schaik, A. (2009), 'Acoustic holography with a concentric rigid and open spherical micr ophone array', IEEE International Conference on
+Acoustics, Speech and Signal Pr ocessing, Taipei, Taiwan.
+Kan, A., Jin, C. and Van Schaik, A. (2009), 'Psychoacoustic evaluation of techniques for individualised headphone-r enered VAS from B-format RIRs', International
+Workshop on the Principles and Applica tions of Spatial Hearing , Zao, Miyagi, Japan.
+Gargiulo, G., Bifulco, P., Calvo, R., Cessarelli, M., Jin, C. and van Schaik, A. (2008), 'A mobile EEG system with dry electrodes', IEEE Biomedical Circuits and Systems
+Conference, Baltimore, USA.
+Hamilton, T., Van Schaik, A. and Cornell, B. (2008), 'Measuring the impedanc e of a tethered bilayer membrane biosensor', IEEE Biomedical Circuits and Systems
+Conference, Baltimore, USA.
+Hamilton, T., Tapson, J., Jin, C. and Van Schaik, A. (2008), 'Analogue VLSI implementations of two dimensional, nonlinear, active cochlea models', IEEE Biomedical
+Circuits and Systems Conference, Baltimore, USA.
+Kan, A., Jin, C. and Van Schaik, A. (2008), 'Estimating a sound signal in a known direction from a soundfield microphone recording', IEEE International Conference
+on Audio, Language and Image Pr ocessing, .
+Gargiulo, G., Bifulco, P., Calvo, R., Cesarelli, M., Jin, C. and Van Schaik, A. (2008), 'Mobile biomedical sensing with dry elec trodes', IEEE International Conference on
+Intelligent Sensors, Sensor Networks and Information Processing, Sydney, Australia.
+Tapson, J., Hamilton, T., Jin, C. and Van Schaik, A. (2008), 'Self-tuned regenerative amplification and the Hopf bifurcation', IEEE International Symposium on
+Circuits and Systems, .
+Hamilton, T., Jin, C., Van Schaik, A. and Tapson, J. (2008), 'A 2-D silicon cochlea with an improved automatic quality factor control-loop', IEEE International
+Symposium on Circuits and Systems, .
+Tapson, J., Vismer, M., Jin, C., Van Schaik, A., Folowosele, F. and Etienne-Cummings, R. (2008), 'A t wo-neuron cross-correlation circuit with a wide and continuous
+range of time delay', IEEE International Symposium on Circuits and Systems, .
+Parthy, A., Jin, C. and Van Schaik, A. (2008), 'An empirical evaluation of a two-dimensional second order sound field recording and reproduction system',
+International Conference on Audio, Language and Image Processing, .
+Parthy, A., Jin, C. and Van Schaik, A. (2008), 'Measured and theoretical performance comparison of a co-centred rigid and open spherical micr ophone array',
+International Conference on Audio, Language and Image Processing, .
+Mcewan, A., Holder, D., Tapson, J. and Van Schaik, A. (2008), 'Wide-bandwidth, high fr ame rate electrical impedance tomography / spectroscopy - A Code
+Division Multiplexing (CDW) approach', International Conference on Biomedical Electronics and Devices, .
+Jin, C., Martin, A. and Van Schaik, A. (2007), 'Psychoacoustic evaluation of a new earpiece for augmented-reality audio', 14th International Congress on Sound and
+Vibration, Cairns, Australia.
+Parthy, A., Jin, C. and van Schaik, A. (2007), 'Measured and theoretical performance comparison of a broadband circular microphone array', AES 31st International
+Conference, .
+Mcewan, A., Tapson, J., Van Schaik, A. and Holder, D. (2007), 'Electrode Circuits for frequency- and Code-Devision Multiplexed Impedance Tomography', IEEE
+Biomedical Circuits and Systems Conference, Montreal, Canada.
+Hamilton, T., Jin, C., Tapson, J. and Van Schaik, A. (2007), 'A 2-D Cochlea with Hopf Oscillators', IEEE Biomedical Circuits and Systems Conference, Montreal,
+Canada.
+Tapson, J., Jin, C. and Van Schaik, A. (2007), 'A Scalable Architecture for Event-Based Cross-Correlation', IEEE Biomedical Circuits and Systems Conference,
+Montreal, Canada.
+Hamilton, T., Jin, C. and Van Schaik, A. (2007), 'A Basilar Membr ane Resonator for an Active 2-D Cochlea', IEEE International Symposium on Circuits and Systems, .
+Gomez-Rodriguez, F., Linares-Barranco, A., Miro, L., Liu, S., Van Schaik, A., Etienne-Cummings, R. and Lewis, M. (2007), 'AER Auditory Filtering and CPG for Robot
+Control', IEEE International Symposium on Circuits and Systems, .
+Research
+Reverse engineering the brain
+The brain creates a coherent interpretation of the external world based on input fr om its senses. Yet data from the senses are unreliable and confused. How does the
+brain determine what is out there in the world around it? BENS will conduct neurophysiological and psychophysical investigations combined with theoretical,
+computational and electronic modelling studies to discover how the brain achieves this. The outcomes of this research will then be applied t o create electronics sensors
+with built in brains. 
+Neuromorphic Engineering and Intelligent Sensors
+Neuromorphic Engineering is a sub field of Electrical Engineering tha t aims to apply knowledge of how signals are processed in the brain to build electronic signal
+processing systems that vastly outperform current digital signal pr ocessing systems. Current ‘smart’ sensor s are generally sensors with a built-in computer. What
+BENS aims to develop are smart sensor s with a built-in brain.
+This information has been contributed by Professor van Schaik.
+Current Projects
+Title:
+Title:
+Hardware Acceleration for Neural Systems
+Years:
+Years:
+2014-01-01 - 2016-12-31
+
+-----
+ID:
+ID:
+P00021450
+Western Researchers:
+Western Researchers:
+Andre Van Schaik
+Funding:
+Funding:
+Australian Research Council (ACRG)
+Title:
+Title:
+Designing a Bionic Voice Prosthesis to Restore Natural Voice for Laryngectomy Patients
+Years:
+Years:
+2015-07-01 - 2019-06-03
+ID:
+ID:
+P00022459
+Western Researchers:
+Western Researchers:
+Farzaneh Ahmadi and Andre Van Schaik
+Funding:
+Funding:
+The Garnett Passe and Rodney Williams Memorial Foundation
+Title:
+Title:
+Neuromorphic Cognition for Micro-Aircraft Applications
+Years:
+Years:
+2016-04-18 - 2017-10-16
+ID:
+ID:
+P00023406
+Western Researchers:
+Western Researchers:
+Andre Van Schaik and Jonathan Tapson
+Funding:
+Funding:
+Departmen t of Defence
+Title:
+Title:
+Event-based image sensors for optical space situational awareness
+Years:
+Years:
+2016-04-27 - 2017-05-27
+ID:
+ID:
+P00023405
+Western Researchers:
+Western Researchers:
+Andre Van Schaik
+Funding:
+Funding:
+Departmen t of Defence
+Title:
+Title:
+Hardware implementation of spiking neural network architectures for sensory and learning systems
+Years:
+Years:
+2016-05-05 - 2019-08-14
+ID:
+ID:
+P00023408
+Western Researchers:
+Western Researchers:
+Andre Van Schaik
+Funding:
+Funding:
+Departmen t of Defence
+Title:
+Title:
+Microelectronic 3D Imaging and Neuromorphic Recognition for Autonomous UAVs [via Milan Politechnic]
+Years:
+Years:
+2016-04-04 - 2019-04-05
+ID:
+ID:
+P00022195
+Western Researchers:
+Western Researchers:
+Tara Hamilton and Andre Van Schaik
+Funding:
+Funding:
+Departmen t of Defence
+North Atlantic Treaty Organization (NATO)
+Previous Projects
+Title:
+Title:
+Novel circuits and design strategies for sub-65 nanometre complementary metal oxide semiconductor technologies [via UNSW - no
+funding to UWS]
+Years:
+Years:
+2011-06-27 - 2014-06-26
+ID:
+ID:
+P00020370
+Western Researchers:
+Western Researchers:
+Andre Van Schaik
+Funding:
+Funding:
+Australian Research Council (ACRG)
+Title:
+Title:
+Astrocytic K+ regulation as a mechanism to modulate brain waves
+Years:
+Years:
+2012-10-24 - 2014-03-31
+
+-----
+ID:
+ID:
+P00021107
+Western Researchers:
+Western Researchers:
+Yossi Buskila and Andre Van Schaik
+Funding:
+Funding:
+University of Western Sydney
+Title:
+Title:
+Feeling Color: Transforming Visual Color to Tactile Stimulation as a Pprosthetic for the Blind
+Years:
+Years:
+2011-11-09 - 2015-11-08
+ID:
+ID:
+P00020464
+Western Researchers:
+Western Researchers:
+Andre Van Schaik and Jonathan Tapson
+Funding:
+Funding:
+University of Western Sydney
+Title:
+Title:
+Electronic Auditory Pathway
+Years:
+Years:
+2011-01-31 - 2014-06-30
+ID:
+ID:
+P00020066
+Western Researchers:
+Western Researchers:
+Andre Van Schaik
+Funding:
+Funding:
+Australian Research Council (ACRG)
+Supervision
+Professor van Schaik is available to be a principal supervisor f or doctoral projects
+Current Supervision
+Title:
+Title:
+Bayesian Inference with Spiking Neurons
+Field of Research:
+Field of Research:
+Title:
+Title:
+Potential Biomedical Applica tions of Gas Array Sensor Technologies Using Dedica ted VLSI Hardware Implementing Bayesian Inference for
+Pattern Recognition and Classification Tasks
+Field of Research:
+Field of Research:
+Title:
+Title:
+Building Blocks for Electronic Neural Networks
+Field of Research:
+Field of Research:
+Title:
+Title:
+Interfaces With the Somatosensory System
+Field of Research:
+Field of Research:
+Title:
+Title:
+Bayesian Decoding of Tactile Afferents Responsible for Sensori Motor Control
+Field of Research:
+Field of Research:
+OTHER SOCIETY AND CULTURE
+Previous Supervision
+Title:
+Title:
+A Real-Time Implementation of the Primary Auditory Neuron Activities
+Field of Research:
+Field of Research:
+ENGINEERING AND RELATED TECHNOLOGIES
+Thesis:
+Thesis:
+A Real-Time Implementation of the Primary Auditory Neuron Activities
+Title:
+Title:
+Neuromorphic Implementations of Polychronus Spiking Neural Networks
+Field of Research:
+Field of Research:
+ARTIFICIAL INTELLIGENCE; ELECTRONIC ENGINEERING
+Thesis:
+Thesis:
+Neuromorphic Implementations of Polychronus Spiking Neural Networks
+© Western Sydney University 2016
+Western Sydney University
+
+-----
+Locked Bag 1797
+Penrith NSW 2751
+Tel: +61 2 9852 5222
+ABN 53 014 069 881
+CRICOS Provider No: 00917k
+
+-----
+André van Schaik
+Professor of Bioelectronics and Neuroscience,
+The MARCS Institute, 
+Western Sydney
+University
+Neuromorphic engineering
+, computational
+neuroscience, neurophysiology
+, biomedical
+electronics
+Google Scholar
+Citation indices
+All
+Since 201
+1
+Citations
+3398
+2183
+h­index
+28
+22
+i10­index
+75
+55
+Title
+1–20
+Cited by
+Y
+ear
+Neuromorphic silicon neuron circuits
+G Indiveri, B Linares­Barranco, TJ Hamilton, A van Schaik, ...
+Frontiers in neuroscience 5
+372
+201
+1
+AER EAR: A matched silicon cochlea pair with address event representation
+interface
+V Chan, SC Liu, A van Schaik
+Circuits and Systems I: Regular Papers, IEEE T
+ransactions on 54 (1), 48­59
+152
+2007
+Pointing device utilizing a photodetector array and controlled by a human finger
+contacting a prism
+M Bidiville, E Raeber
+, J Arreguit, H Buczek, FA van Schaik, F Bauduin, ...
+US Patent 5,578,817
+116
+1996
+Pointing device utilizing a photodetector array
+M Bidiville, E Raeber
+, J Arreguit, H Buczek, FA van Schaik, D O'Keef
+fe, ...
+US Patent 5,703,356
+113
+1997
+Cursor pointing device utilizing a photodetector array with target ball having
+randomly distributed speckles
+M Bidiville, J Arreguit, F
+A van Schaik, B Steenis, F Droz­Dit­Busset, ...
+US Patent 5,288,993
+104
+1994
+Building blocks for electronic spiking neural networks
+A van Schaik
+Neural Networks 14 (6­7), 617­628
+101
+2001
+A new EEG recording system for passive dry electrodes
+G Gargiulo, RA Calvo, P Bifulco, M Cesarelli, C Jin, A Mohamed, ...
+Clinical Neurophysiology 121 (5), 686­693
+99
+2010
+A CMOS motion detector system for pointing devices
+X Arreguit, F
+A van Schaik, FV Bauduin, M Bidiville, E Raeber
+Solid­State Circuits, IEEE Journal of 31 (12), 1916­1921
+97
+1996
+Pointing device utilizing a photodetector array
+J Arreguit, F Bauduin, M Bidiville, H Buczek, D O'Keef
+fe, E Raeber
+, ...
+US Patent 6,124,587
+94
+2000
+The role of high frequencies in speech localization
+V Best, S Carlile, C Jin, A van Schaik
+J. Acoust. Soc. Am 118 (1), 353­363
+82
+2005
+Improved silicon cochlea using compatible lateral bipolar transistors
+A van Schaik, E Fragnière, E V
+ittoz
+Advances in Neural Information Processing Systems, 671­677
+82
+1996
+*
+
+-----
+Title
+1–20
+Cited by
+Y
+ear
+A mobile EEG system with dry electrodes
+G Gargiulo, P Bifulco, RA Calvo, M Cesarelli, C Jin, A van Schaik
+2008 IEEE Biomedical Circuits and Systems Conference, 273­276
+66
+2008
+Bias current generators with wide dynamic range
+T Delbrück, A van Schaik
+Analog Integrated Circuits and Signal Processing 43 (3), 247­268
+61
+2005
+Contrasting monaural and interaural spectral cues for human sound localization
+C Jin, A Corderoy
+, S Carlile, A van Schaik
+The Journal of the Acoustical Society of America 1
+15, 3124
+58
+2004
+Event­based 64­channel binaural silicon cochlea with Q enhancement mechanisms
+SC Liu, A van Schaik, BA Mincti, T Delbruck
+Proceedings of 2010 IEEE International Symposium on Circuits and Systems ...
+53
+2010
+An active 2­D silicon cochlea
+TJ Hamilton, C Jin, A van Schaik, J T
+apson
+Biomedical Circuits and Systems, IEEE T
+ransactions on 2 (1), 30­43
+51
+2008
+Dual layer optical ball for pointing device
+M Bidiville, E Raeber
+, J Arreguit, H Buczek, FA van Schaik, F Bauduin, ...
+US Patent 6,218,659
+51
+2001
+A neuromorphic sound localizer for a smart MEMS system
+A van Schaik, S Shamma
+Analog Integrated Circuits and Signal Processing 39 (3), 267­273
+44
+2004
+Limits to the fault­tolerance of a feedforward neural network with learning
+J Nijhuis, B Hof
+flinger
+, A van Schaik, L Spaanenburg
+Fault­T
+olerant Computing, 1990. FTCS­20. Di
+gest of Papers., 20th ...
+44
+1990
+Learning the pseudoinverse solution to network weights
+J T
+apson, A van Schaik
+Neural Networks 45, 94­100
+41
+2013
+Dates and citation counts are estimated and are determined automatically by a computer program.
+
+-----

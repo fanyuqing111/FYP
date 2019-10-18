@@ -1,0 +1,287 @@
+Search
+Sources
+Alerts
+Lists
+Help
+SciVal ↗
+Author details
+Chen, Mike 
+University of Southern California, Los Angeles, 
+United States 
+Author ID: 7406353095
+Other name formats: Chen, Mike S.W.
+Chen, M.
+Chen, Mike Shuo Wei
+About Scopus Author Identifier | View potential author matches 
+Documents:
+Analyze author output
+Citations:
+View citation overview
+h-index: 
+View h-graph
+Co-authors:
+Subject area:
+View docum
+View docum
+View docum
+Follow this Author
+Receive emails when this author 
+publishes new articles
+Get citation alerts 
+Add to ORCID
+Request author detail corrections
+Author History 
+Publication range: 2004 - Present 
+References: 420
+Source history:
+Midwest Symposium on Circuits and Systems
+IEEE Transactions on Circuits and Systems I: Regular 
+Papers
+IEEE Journal of Solid-State Circuits
+View More 
+Show Related Affiliations
+Print |
+Email 
+32 
+451 total citations by 433 documents 
+10 
+69
+Engineering ,  Computer Science View More
+32 documents
+Export all |
+Add all to list
+|
+Set document alert |
+Set document feed 
+32 Documents | Cited by 433 documents | 69 co-authors
+View in search results format 
+Sort on: Date Cited by
+...
+A Flash-Based Non-Uniform Sampling ADC with Hybrid 
+Quantization Enabling Digital Anti-Aliasing Filter
+Wu, T.-F., Ho, C.-R., 
+Chen, M.S.-W. 
+2017 IEEE Journal of Solid-
+State Circuits 
+View at Publisher
+A 6-b, 800-MS/s, 3.62-mW Nyquist Rate AC-Coupled 
+VCO-Based ADC in 65-nm CMOS
+Hassanpourghadi, M., 
+Sharma, P.K., Chen, 
+M.S.-W. 
+2017 IEEE Transactions on 
+Circuits and Systems I: 
+Regular Papers 
+View at Publisher
+A 12-Bit 2 GS/s Dual-Rate Hybrid DAC with Pulse-Error 
+Pre-Distortion and In-Band Noise Cancellation Achieving 
+> 74 dBc SFDR and <-80 dBc IM3 up to 1 GHz in 65 nm 
+CMOS
+Su, S., Chen, M.S.-W. 
+2016 IEEE Journal of Solid-
+State Circuits 
+View at Publisher
+A Digital PLL With Feedforward Multi-Tone Spur 
+Cancellation Scheme Achieving <-73 dBc Fractional 
+Spur and <-110 dBc Reference Spur in 65 nm CMOS
+Ho, C.-R., Chen, 
+M.S.-W. 
+2016 IEEE Journal of Solid-
+State Circuits 
+View at Publisher
+Interference-induced DCO spur mitigation for digital 
+phase locked loop in 65-nm CMOS
+Ho, C.-R., Chen, 
+M.S.-W. 
+2016 European Solid-State 
+Circuits Conference 
+View at Publisher
+An Embedded Passive Gain Technique for 
+Asynchronous SAR ADC Achieving 10.2 ENOB 1.36-mW 
+at 95-MS/s in 65 nm CMOS
+Nam, J.-W., Chen, 
+M.S.-W. 
+2016 IEEE Transactions on 
+Circuits and Systems I: 
+Regular Papers 
+View at Publisher
+A Nonuniform Sampling ADC Architecture with 
+Reconfigurable Digital Anti-Aliasing Filter
+Wu, T.-F., Dey, S., 
+Chen, M.S.-W. 
+2016 IEEE Transactions on 
+Circuits and Systems I: 
+Regular Papers 
+View at Publisher
+A 12-bit 1.6 GS/s interleaved SAR ADC with dual 
+reference shifting and interpolation achieving 17.8 
+fJ/conv-step in 65nm CMOS
+Nam, J.-W., 
+Hassanpourghadi, M., 
+Zhang, A., Chen, 
+M.S.-W. 
+2016 IEEE Symposium on 
+VLSI Circuits, Digest of 
+Technical Papers 
+View at Publisher
+A 12b 2GS/s dual-rate hybrid DAC with pulsed timing-
+error pre-distortion and in-band noise Cancellation 
+Achieving >74dBc SFDR up to 1GHz in 65nm CMOS
+Su, S., Chen, M.S.-W. 
+2016 Digest of Technical 
+Papers - IEEE 
+International Solid-State 
+Circuits Conference 
+View at Publisher
+0
+1
+1
+0
+0
+0
+1
+1
+5
+Years
+Documents
+Citations
+2007
+2017
+0
+7
+Register
+Login
+Page 1 of 3
+Scopus - Author details (Chen, Mike)
+11/22/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=74063530...
+
+-----
+The data displayed above is compiled exclusively from articles published in the Scopus database. To request corrections to any inaccuracies or provide any further feedback, please contact us (registration required). 
+The data displayed above is subject to the privacy conditions contained in the privacy policy . 
+Top of page 
+Display: 
+results per page
+Page 1
+A 12 bit 1 GS/s Dual-Rate Hybrid DAC With an 8 GS/s 
+Unrolled Pipeline Delta-Sigma Modulator Achieving > 75 
+dB SFDR Over the Nyquist Band
+Su, S., Tsai, T.-I., 
+Sharma, P.K., Chen, 
+M.S.-W. 
+2015 IEEE Journal of Solid-
+State Circuits 
+View at Publisher
+A fractional-N DPLL with adaptive spur cancellation and 
+calibration-free injection-locked TDC in 65nm CMOS
+Ho, C.-R., Chen, 
+M.S.-W. 
+2014 Digest of Papers - IEEE 
+Radio Frequency 
+Integrated Circuits 
+Symposium 
+View at Publisher
+A 12-bit hybrid DAC with 8GS/s unrolled pipeline delta-
+sigma modulator achieving >75dB SFDR over 500MHz in 
+65nm CMOS
+Su, S., Tsai, T.I., 
+Sharma, P., Chen, 
+M.S.-W. 
+2014 IEEE Symposium on 
+VLSI Circuits, Digest of 
+Technical Papers 
+View at Publisher
+Cross-layer modeling and simulation of circuit reliability
+Cao, Y., Velamala, J., 
+Sutaria, K., (...), Bajura, 
+M., Fritze, M. 
+2014 IEEE Transactions on 
+Computer-Aided Design 
+of Integrated Circuits 
+and Systems 
+View at Publisher
+A 6b 800MS/s 3.62mW Nyquist AC-coupled VCO-based 
+ADC in 65nm CMOS
+Sharma, P.K., Chen, 
+M.S.-W. 
+2013 Proceedings of the 
+Custom Integrated 
+Circuits Conference 
+View at Publisher
+A 95-MS/s 11-bit 1.36-mW asynchronous SAR ADC with 
+embedded passive gain in 65nm CMOS
+Nam, J.-W., Chiong, 
+D., Chen, M.S.-W. 
+2013 Proceedings of the 
+Custom Integrated 
+Circuits Conference 
+View at Publisher
+A non-uniform sampling ADC architecture with 
+embedded alias-free asynchronous filter
+Hand, D., Chen, 
+M.S.-W. 
+2012 GLOBECOM - IEEE 
+Global 
+Telecommunications 
+Conference 
+View at Publisher
+Overhead minimization techniques for digital phase-
+locked loop frequency synthesizer
+Chen, M.S.-W. 
+2012 Midwest Symposium on 
+Circuits and Systems 
+View at Publisher
+A case for 3D stacked analog circuits in high-speed 
+sensing systems
+Abdel-Majeed, M., 
+Chen, M., Annavaram, 
+M. 
+2012 Proceedings - 
+International Symposium 
+on Quality Electronic 
+Design, ISQED 
+View at Publisher
+A 65nm dual-band 3-stream 802.11n MIMO WLAN SoC
+Abdollahi-Alibeik, S., 
+Weber, D., Dogan, H., 
+(...), Zargari, M., Su, D. 
+2011 Digest of Technical 
+Papers - IEEE 
+International Solid-State 
+Circuits Conference 
+View at Publisher
+A calibration-free 800 MHz fractional-N digital PLL with 
+embedded TDC
+Chen, M.S.-W., Su, D., 
+Mehta, S. 
+2010 IEEE Journal of Solid-
+State Circuits 
+View at Publisher
+7
+8
+0
+22
+4
+2
+6
+0
+0
+19
+32
+20
+Page 2 of 3
+Scopus - Author details (Chen, Mike)
+11/22/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=74063530...
+
+-----
+Terms and conditions
+Privacy policy
+Copyright © 2017 Elsevier B.V. All rights reserved. Scopus® is a registered trademark of Elsevier B.V.
+Cookies are set by this site. To decline them or learn more, visit our Cookies page.
+Page 3 of 3
+Scopus - Author details (Chen, Mike)
+11/22/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=74063530...
+
+-----

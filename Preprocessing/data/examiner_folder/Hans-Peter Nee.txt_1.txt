@@ -1,0 +1,1038 @@
+Curriculum vitae: Hans-Peter Nee 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hans-Peter Nee was born in 1963 in Västerås, Sweden. He received the M.Sc., Licentiate, and 
+Ph.D degrees in electrical engineering from the Royal Institute of Technology, Stockholm, 
+Sweden, in 1987, 1992, and 1996, respectively. In 1999 he was appointed Professor of Power 
+Electronics in the Department of Electrical Engineering. His interests are power electronic 
+converters, semiconductor components, and control aspects of utility applications, like 
+FACTS, HVDC, wind power converter systems, and variable-speed drives. At present, the 
+two main focus areas are multilevel converters for high-power applications and high-
+efficiency SiC power electronics for various applications. Up to now he has supervised and 
+examined 20 finalized doctor’s projects. 
+ 
+Prof. Nee was awarded the Energy Prize by the Swedish State Power Board in 1991, the 
+ICEM'94 (Paris) Verbal Prize in 1994, the Torsten Lindström Electric Power Scholarship in 
+1996, and the Elforsk Scholarship in 1997. He has served in the board of the IEEE Sweden 
+Section for many years and was the chairman of the board during 2002 and 2003. He is also a 
+member of EPE and serves in the Executive Council and in the International Steering 
+Committee. He is also an associate editor of IEEE Transactions on Power Electronics, and 
+was the Guest Editor-in-chief for the special issue on “wide bandgap power devices and their 
+applications” in published in the same journal in May 2014. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-----
+Total accumulated citations on March 14th 2017: 6250 
+Citations during 2016: 1321 
+h-index: 38 
+i10-index: 106 
+ 
+ 
+Peer-reviewed journal publications: 
+ 
+F. Krismer, S. Schroth, H. Ertl, K. S. Kostov, H.-P. Nee, and  J.W. Kolar, “Analysis and 
+Practical Relevance of CM/DM EMI Noise Separator Characteristics,” IEEE Trans. Power 
+Electron., vol. 32, no. 4, pp. 3112–3127, Apr. 2017. 
+ 
+M. Nikouie, O. Wallmark, L. Jin, L. Harnefors, and H.-P. Nee, “DC-Link Stability Analysis 
+and Controller Design for the Stacked Polyphase Bridges Converter,” IEEE Trans. Power 
+Electron., vol. 32, no. 2, pp. 1666–1674, Feb. 2017. 
+ 
+J. Colmenares, D.-P. Sadik, P. Hilber, and H.-P. Nee, “Reliability Analysis of a High-
+Efficiency SiC Three-Phase Inverter,” IEEE Journal of Emerging and Selected Topics in 
+Power Electronics, vol. 4, no. 3, pp. 996–1006, Sep. 2016. 
+ 
+D.-P. Sadik, K. Kostov, J. Colmenares, F. Giezendanner, P. Ranstad, and H.-P. Nee, 
+“Analysis of Parasitic Elements of SiC Power Modules With Special Emphasis on Reliability 
+Issues,” IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 4, no. 3, 
+pp. 988–995, Sep. 2016. 
+ 
+D.-P. Sadik, J. Colmenares, G. Tolstoy, D. Peftitsis, M. Bakowski, J. Rabkowski, and H.-P. 
+Nee, “Short-Circuit Protection Circuits for Silicon-Carbide Power Transistors,” IEEE Trans. 
+Ind. Electron., vol. 63, no. 4, pp. 1995-2004, Apr. 2016. 
+ 
+A. Bidadfar, H.-P. Nee, L. Zhang, L. Harnefors, S. Namayantavana, M. Abedi, M. Karrari, 
+and G.B. Gharehpetian, “Power System Stability Analysis Using Feedback Control System 
+Modeling Including HVDC Transmission Links,” IEEE Trans. Power Syst., vol. 31,  no. 1, 
+pp. 116–124, Jan. 2016. 
+ 
+J. Colmenares, D. Peftitsis, J. Rabkowski, D. Sadik, G. Tolstoy, H.-P. Nee, “High-Efficiency 
+312-kVA Three-Phase Inverter Using Parallel Connection of Silicon Carbide MOSFET 
+Power Modules,” IEEE Trans. Ind. Appl., vol. 51, no. 6, pp. 4664–4676 , Nov./Dec. 2015. 
+ 
+N. Ahmed, L. Ängquist, S. Mahmood, A. Antonopoulos, L. Harnefors, S. Norrga, and H.-P. 
+Nee, “Efficient Modeling of an MMC-Based Multiterminal DC System Employing Hybrid 
+HVDC Breakers,” IEEE Trans. Power Del., vol. 30, no. 4, pp. 1792–1801, Aug. 2015. 
+ 
+K. Ilves, F. Taffner, S. Norrga, A. Antonopoulos, L. Harnefors, and H.-P. Nee, “A Submodule 
+Implementation for Parallel Connection of Capacitors in Modular Multilevel Converters,” 
+IEEE Trans. Power Electron., vol. 30, no. 7, pp. 3518–3527, Jul. 2015. 
+ 
+K.S. Kostov, S. Schroth, F. Krismer, M. Priecinsky, H.-P. Nee, and J.W. Kolar, “The Input 
+Impedance of Common-Mode and Differential-Mode Noise Separators,” IEEE Trans. Ind. 
+Appl., vol. 51, no. 3, pp. 2352–2360, May/Jun. 2015. 
+ 
+
+-----
+T. Modeer, S. Norrga, and H.-P. Nee, “High-Voltage Tapped-Inductor Buck Converter 
+Utilizing an Autonomous High-Side Switch”, IEEE Trans. Ind. Electron, vol. 62, no. 5, pp. 
+2868–2878, May 2015. 
+ 
+A. Antonopoulos, L. Ängquist, L. Harnefors, and H.-P. Nee, “Optimal Selection of the 
+Average Capacitor Voltage for Variable-Speed Drives With Modular Multilevel Converters,” 
+IEEE Trans. Power Electron., vol. 30, no. 1, pp. 227–234, Jan. 2015. 
+ 
+A. Hassanpoor, L. Ängquist, S. Norrga, K. Ilves, and H.-P. Nee, “Tolerance Band Modulation 
+Methods for Modular Multilevel Converters,” IEEE Trans. Power Electron., vol. 30, no. 1, 
+pp. 311–326, Jan. 2015. 
+ 
+K. Ilves, L. Harnefors, S. Norrga, and H.-P. Nee, “Analysis and Operation of Modular 
+Multilevel Converters With Phase-Shifted Carrier PWM,” IEEE Trans. Power Electron., vol. 
+30, no. 1, pp. 268–283, Jan. 2015. 
+ 
+K. Ilves, L. Harnefors, S. Norrga, and H.-P. Nee, “Predictive Sorting Algorithm for Modular 
+Multilevel Converters Minimizing the Spread in the Submodule Capacitor Voltages,” IEEE 
+Trans. Power Electron., vol. 30, no. 1, pp. 440–449, Jan. 2015.  
+ 
+L. Harnefors, A. Antonopoulos, K. Ilves, and H.-P. Nee, “Global Asymptotic Stability of 
+Current-Controlled Modular Multilevel Converters,” IEEE Trans. Power Electron., vol. 30, 
+no. 1, pp. 249–258, Jan. 2015. 
+ 
+N. Ahmed, L. Ängquist, S. Norrga, A. Antonopoulos, L. Harnefors, and H.-P. Nee, “A 
+Computationally Efficient Continuous Model for the Modular Multilevel Converter,” IEEE 
+Journal of Emerging and Selected Topics in Power Electronics, vol. 2, no. 4, pp. 1139–1148, 
+Dec. 2014. 
+ 
+D. Peftitsis, J. Rabkowski, and H.-P. Nee, “Self-Powered Gate Driver for Normally-ON SiC 
+JFETs: Design Considerations and System Limitations,” IEEE Trans. Power Electron., vol. 
+29, no. 10, pp. 5129–5135, Oct. 2014. 
+ 
+A. Antonopoulos, L. Ängquist, S. Norrga, K. Ilves, L. Harnefors, and H.-P Nee, “Modular 
+Multilevel Converter AC Motor Drives With Constant Torque From Zero to Nominal Speed,” 
+IEEE Trans. Ind. Appl., vol. 50, no. 3, pp. 1982–1993, May/Jun. 2014. 
+ 
+P. Ranstad, H.-P. Nee, J. Linner, and D. Peftitsis, “An Experimental Evaluation of SiC 
+Switches in Soft-Switching Converters,” IEEE Trans. Power Electron., vol. 29, no. 5, pp. 
+2527–2538, May 2014. 
+ 
+M. Zdanowski, K. Kostov, J. Rabkowski, R. Barlik, and H.-P. Nee, “Design and Evaluation 
+of Reduced Self-Capacitance Inductor in DC/DC Converters with Fast-Switching SiC 
+Transistors,” IEEE Trans. Power Electron., vol. 29, no 5, pp. 2492–2499, May 2014. 
+ 
+J. Rabkowski, D. Peftitsis, S. Norrga, and H.-P. Nee, “Parallel-Operation of Discrete SiC 
+BJTs in a 6-kW/250-kHz DC/DC Boost Converter,” IEEE Trans. Power Electron., vol. 29, 
+no. 5, pp. 2482–2491, May 2014. 
+ 
+
+-----
+G. Tolstoy, D. Peftitsis, J. Rabkowski, P.R. Palmer, and H.-P. Nee, “A Discretized 
+Proportional Base Driver for Silicon Carbide Bipolar Junction Transistors,” IEEE Trans. 
+Power Electron., vol. 29, no. 5, pp. 2408–2417, May 2014. 
+ 
+J. Colmenares, D. Peftitsis, J. Rabkowski, D.-P. Sadik, and H.-P. Nee, “Dual-Function Gate 
+Driver for a Power Module With SiC Junction Field-Effect Transistors,” IEEE Trans. Power 
+Electron., vol. 29, no. 5, pp. 2367–2379, May 2014. 
+ 
+J.-K. Lim, D. Peftitsis, J. Rabkowski, M. Bakowski, and H.-P. Nee, “Analysis and 
+Experimental Verification of the Influence of Fabrication Process Tolerances and Circuit 
+Parasitics on Transient Current Sharing of Parallel-Connected SiC JFETs,” IEEE Trans. 
+Power Electron., vol. 29, no. 5, pp. 2180–2191, May 2014. 
+ 
+H.-P. Nee, J.W. Kolar, P. Friedrichs, and J. Rabkowski, “Editorial: Special Issue on Wide 
+Bandgap Power Devices and Their Applications, 2014,” IEEE Trans. Power Electron., 
+vol. 29, no. 5, pp. 2153–2154, May 2014. 
+ 
+K. Kostov and H.-P. Nee, “Combining Diagonal Connection and Cancellation Turn in 
+Electromagnetic Interference Filtering,” IET Power Electronics, vol. 7, no. 3, pp. 559–566, 
+Mar. 2014. 
+ 
+A. Antonopoulos, L. Ängquist, L. Harnefors, K. Ilves, and H.-P. Nee, “Global Asymptotic 
+Stability of Modular Multilevel Converters,” IEEE Trans. Ind. Electron., vol. 61, no 2, pp. 
+603–612, Feb. 2014. 
+ 
+K. Ilves, S. Norrga, L. Harnefors, H.-P. Nee, “On Energy Storage Requirements in Modular 
+Multilevel Converters,” IEEE Trans. Power Electron., vol. 29, no 1, pp. 77–88, Jan. 2014. 
+ 
+J. Rabkowski, D. Peftitsis, and H.-P. Nee, “Design Steps Toward a 40-kVA SiC JFET 
+Inverter With Natural-Convection Cooling and an Efficiency Exceeding 99.5%,” IEEE Trans.  
+Ind. Appl., vol. 49, no. 4, pp. 1589–1598, Jul./Aug. 2013. 
+ 
+L. Harnefors, A. Antonopoulos, S. Norrga, L. Ängquist, and H.-P. Nee, “Dynamic Analysis of 
+Modular Multilevel Converters,” IEEE Trans. Ind. Electron., vol. 60, no. 7, pp. 2526–2537, 
+Jul. 2013. 
+ 
+S. Shisha, C. Sadarangani, and H.-P. Nee, “The Effect of Copper Coating on the Losses in the 
+Solid Pole-Plates of Inverter-Fed Wound Rotor Synchronous Machines,” IEEE Trans. Energy 
+Convers., vol. 28, no. 2, pp. 298–307, Jun. 2013. 
+ 
+D. Peftitsis, J. Rabkowski, and H.-P. Nee, “Self-Powered Gate Driver for Normally on Silicon 
+Carbide Junction Field-Effect Transistors Without External Power Supply,” IEEE Trans. 
+Power Electron., vol. 28, no. 3, pp. 1488–1501, Mar. 2013. 
+ 
+D. Peftitsis, R. Baburske, J. Rabkowski, J. Lutz, G. Tolstoy, and H.-P. Nee, “Challenges 
+Regarding Parallel Connection of SiC JFETs,” IEEE Trans. Power Electron., vol. 28, no. 3, 
+pp. 1449–1463, Mar. 2013. 
+ 
+
+-----
+T. Modeer, H.-P. Nee, and S. Norrga, “Loss Comparison of Different Sub-Module 
+Implementations for Modular Multilevel Converters in HVDC Applications,” EPE Journal: 
+European Power Electronics and Drives Journal, vol. 22, no. 3, pp 32–38, Sep. 2012. 
+ 
+K. Ilves, A. Antonopoulos, S. Norrga, and H.-P. Nee, “A New Modulation Method for the 
+Modular Multilevel Converter Allowing Fundamental Switching Frequency,” IEEE Trans. 
+Power Electron., vol. 27, no. 8, pp. 3482–3494, Aug. 2012. 
+ 
+N. Johansson, L. Ängquist, and H.-P. Nee, “Preliminary Design of Power Controller Devices 
+Using the Power-Flow Control and the Ideal Phase-Shifter Methods,” IEEE Trans. Power 
+Del., vol. 27, no.3, pp. 1268–1275, Jul. 2012. 
+ 
+J. Rabkowski, G. Tolstoy, D. Peftitsis, and H.-P. Nee, “Low-Loss High-Performance Base-
+Drive Unit for SiC BJTs,” IEEE Trans. Power Electron., vol. 27, no. 5, pp. 2633–2643, May 
+2012. 
+ 
+S. Shisha, C. Sadarangani, and H.-P. Nee, “Loss Distribution on Solid Pole Plates of Wound-
+Rotor Synchronous Motors Fed From Inverters Using Direct Torque Control,” IEEE Trans. 
+Energy Convers., vol. 27, no. 1, pp. 63–70, Mar. 2012. 
+ 
+K. Ilves, A. Antonopoulos, S. Norrga, and H.-P. Nee, “Steady-State Analysis of Interaction 
+Between Harmonic Components of Arm and Line Quantities of Modular Multilevel 
+Converters,” IEEE Trans. Power Electron., vol. 27, no. 1, pp. 57–68, Jan. 2012. 
+ 
+D. Peftitsis, G. Tolstoy, A. Antonopoulos, J. Rabkowski, J.-K. Lim, M. Bakowski, L. 
+Ängquist, and H.-P. Nee, “High-Power Modular Multilevel Converters With SiC JFETs,” 
+IEEE Trans. Power Electron., vol. 27, no. 1, pp. 28–36, Jan. 2012. 
+ 
+L. Ängquist, A. Antonopoulos, D. Siemaszko, K. Ilves, M. Vasiladiotis, and H.-P. Nee, 
+“Open-Loop Control of Modular Multilevel Converters Using Estimation of Stored Energy,” 
+IEEE Trans. Ind. Appl., vol. 47, no. 6, pp. 2516–2524, Nov. 2011. 
+ 
+H. Xie, L. Ängquist, and H.-P. Nee, “Design Study of a Converter Interface Interconnecting 
+Energy Storage With the DC Link of a StatCom,” IEEE Trans. Power Del., 
+vol. 26, no. 4, pp. 2676–2686, Oct. 2011. 
+ 
+L. Zhang, H.-P. Nee, and L. Harnefors, “Analysis of Stability Limitations of a VSC-HVDC 
+Link Using Power-Synchronization Control,” IEEE Trans. Power Syst., vol. 26,  no. 3, 
+pp. 1326–1337, Aug. 2011. 
+ 
+P. Ranstad and H.-P. Nee, “On the Distribution of AC and DC Winding Capacitances in 
+High-Frequency Power Transformers with Rectifier Loads,” IEEE Trans. Ind. Electron., vol. 
+58, no. 5, pp. 1789–1798, May 2011. 
+ 
+L. Zhang, L. Harnefors, and H.-P. Nee, “Modeling and Control of VSC-HVDC Links 
+Connected to Island Systems,” IEEE Trans. Power Syst., vol. 26, no. 2, pp. 783–793, May 
+2011. 
+ 
+
+-----
+N. Johansson, L. Ängquist, and H.-P. Nee, “A Comparison of Different Frequency Scanning 
+Methods for Study of Subsynchronous Resonance,” IEEE Trans. Power Syst., vol. 26, 
+pp. 356–363, Feb. 2011. 
+ 
+L. Zhang, L. Harnefors, and H.-P. Nee, “Interconnection of Two Very Weak AC Systems by 
+VSC-HVDC Links Using Power-Synchronization Control,” IEEE Trans. Power Syst., vol. 26, 
+pp. 344–355, Feb. 2011. 
+ 
+P. Ranstad and H.-P. Nee, “On Dynamic Effects Influencing IGBT Losses in Soft-Switching 
+Converters,” IEEE Trans. Power Electron., vol. 26, no.1, pp. 260–271, Jan. 2011. 
+ 
+H. Xie, L. Ängquist, and H.-P. Nee, “Design and Analysis of a Controller for a Converter 
+Interface Interconnecting an Energy Storage With the DC Link of a VSC,” IEEE Trans. 
+Power Syst., vol. 25, pp. 1007–1015, May 2010. 
+ 
+L. Zhang, L. Harnefors, and H.-P. Nee, “Power-Synchronization Control of Grid-Connected 
+Voltage-Source Converters,” IEEE Trans. Power Syst., vol. 25, pp. 809–820, May 2010. 
+ 
+P. Fischer de Toledo, L. Ängquist, and H.-P. Nee, “Frequency-Domain Modelling of Sub-
+Synchronous Torsional Interaction of Synchronous Machines and a High Voltage Direct 
+Current Transmission Link With Line-Commutated Converters,” IET Generation, 
+Transmission & Distribution, vol. 4, pp. 418–431, Mar. 2010. 
+ 
+N. Johansson, L. Ängquist, and H.-P. Nee, “An Adaptive Controller for Power System 
+Stability Improvement and Power Flow Control by Means of a Thyristor Switched Series 
+Capacitor (TSSC),” IEEE Trans. Power Syst., vol. 25, pp. 381–391, Feb. 2010. 
+ 
+P. Fischer de Toledo, L. Ängquist, and H.-P. Nee, “Frequency Domain Model of an HVDC 
+Link With a Line-Commutated Current-Source Converter. Part II: Varying Overlap,” IET 
+Generation, Transmission & Distribution, vol. 3, pp. 771–782, Aug. 2009. 
+ 
+P. Fischer de Toledo, L. Ängquist, and H.-P. Nee, “Frequency Domain Model of an HVDC 
+Link With a Line-Commutated Current-Source Converter. Part I: Fixed Overlap,” IET 
+Generation, Transmission & Distribution, Vol. 3, pp. 757–770, Aug. 2009. 
+ 
+H. Xie, L. Ängquist, and H.-P. Nee, “Investigation of StatComs With Capacitive Energy 
+Storage for Reduction of Voltage Phase Jumps in Weak Networks,” IEEE Trans. Power Syst., 
+vol. 24, no. 1., pp. 217–225, Feb. 2009. 
+ 
+H. Xie, L. Ängquist, and H.-P. Nee, “Comparison of Voltage and Flux Modulation Schemes 
+of StatComs Regarding Transformer Saturation During Fault Recovery,” IEEE Trans. Power 
+Syst., vol. 23, no. 4, pp. 1653–1661, Nov. 2008. 
+ 
+K. Pietiläinen, L. Harnefors, A. Petersson, and H.-P. Nee, “DC-link Stabilization and Voltage 
+Sag Ride-Through of Inverter Drives,” IEEE Trans. Ind. Electron., vol. 53, pp. 1261–1268, 
+Jun. 2006. 
+ 
+K. Kretschmar and H.-P. Nee, “Analysis of the Efficiency and Suitability of Different 
+Converter Topologies for PM Integral Motors,” Journal of Electrical & Electronics 
+Engineering, Australia, vol. 22, no. 1, 2002, pp. 33–41. 
+
+-----
+ 
+H.-P. Nee, L. Lefevre, P. Thelin, and J. Soulard, “Determination of D and Q Reactances of 
+Permanent Magnet Synchronous Motors Without Measurements of the Rotor Position,” IEEE 
+Trans. Ind. Appl., vol. 36, no.5, pp. 1330–1335, Sep./Oct. 2000. 
+ 
+L. Harnefors and H.-P. Nee, “A General Algorithm for Speed and Position Estimation of AC 
+Motors,” IEEE Trans. Ind. Electron., vol. 47, no. 1, pp. 77–83, Feb. 2000. 
+ 
+L. Harnefors and H.-P. Nee, “Model-Based Current Control of AC Machines Using the 
+Internal Model Control Method,” IEEE Trans. Ind. Appl., vol. 34, no. 1, pp. 133–141, 
+Jan./Feb. 1998. 
+ 
+ 
+ 
+Overview papers: 
+ 
+J. Rabkowski, D. Peftitsis, and H.-P. Nee, “Silicon Carbide Power Transistors – A New Era in 
+Power Electronics is Initiated,” IEEE Industrial Electronics Magazine, vol. 6, pp. 17–26, 
+Jun. 2012. 
+ 
+ 
+ 
+ 
+Peer-reviewed conference papers: 
+ 
+D. Johannesson, M. Nawaz, K. Jacobs, S. Norrga, H.-P. Nee, “Potential of ultra-high voltage 
+silicon carbide semiconductor devices,” Proc. of 2016 IEEE 4th Workshop on Wide Bandgap 
+Power Devices and Applications (WiPDA), 7–9 Nov. 2016, pp. 253–258. 
+ 
+J. Colmenares, S. Kargarrazi, H. Elahipanah, H.-P. Nee, and C.-M. Zetterling, “High-
+temperature passive components for extreme environments,” Proc. of 2016 IEEE 4th 
+Workshop on Wide Bandgap Power Devices and Applications (WiPDA), 7–9 Nov. 2016, 
+pp. 271–274. 
+ 
+M. Nikouie, O. Wallmark, L. Harnefors, and H.-P. Nee, “Operation under fault conditions of 
+the stacked polyphase bridges converter,” Proc. of 42nd Annual Conference of the IEEE 
+Industrial Electronics Society, IECON 2016, 23–26 Oct 2016, pp. 2207–2211. 
+ 
+S. Heinig, K. Ilves, S. Norrga, and H.-P. Nee, “On Energy Storage Requirements in Alternate 
+Arm Converters and Modular Multilevel Converters,” Proc. of 2016 18th European 
+Conference on Power Electronics and Applications (EPE'16 ECCE-Europe), 2016, pp.1–10. 
+ 
+D.-P. Sadik, S. Heinig, K. Jacobs, D. Johannesson, J.-K. Lim, M. Nawaz, F. Dijkhuizen, M. 
+Bakowski, S. Norrga, and H.-P. Nee, “Investigation of the Surge Current Capability of the 
+Body Diode of SiC MOSFETs for HVDC Applications,” Proc. of 2016 18th European 
+Conference on Power Electronics and Applications (EPE'16 ECCE-Europe), 2016, pp.1–10. 
+ 
+H. Zhang, L. Ängquist, S. Norrga, H.-P. Nee, and S. Östlund, “Benchmark of High-Power 
+STATCOM Topologies for Flicker Compensation,” Proc. of 2016 18th European Conference 
+on Power Electronics and Applications (EPE'16 ECCE-Europe), 2016, pp.1–10. 
+
+-----
+ 
+D.-P. Sadik, H.-P. Nee, F. Giezendanner, and P. Ranstad, “Humidity Testing of SiC Power 
+MOSFETs,” Proc. of 2016 IEEE 8th International Power Electronics and Motion Control 
+Conference (IPEMC-ECCE Asia), Hefei, May 22–26, 2016, pp. 3131–3136. 
+ 
+P. Bakas, L. Harnefors, S. Norrga, A. Nami, K. Ilves, F. Dijkhuizen, and H.-P. Nee, “Hybrid 
+Topologies for Series and Shunt Compensation of the Line-Commutated Converter,” Proc. of 
+2016 IEEE 8th International Power Electronics and Motion Control Conference (IPEMC-
+ECCE Asia), Hefei, May 22–26, 2016, pp. 3330–3335. 
+ 
+E. Velander, L. Kruse, S. Meier, A. Löfgren, T. Wiik, H.-P. Nee, and D.-P. Sadik, “Analysis 
+of Short Circuit Type II and III of High Voltage SiC MOSFETs With Fast Current Source 
+Gate Drive Principle,” Proc. of 2016 IEEE 8th International Power Electronics and Motion 
+Control Conference (IPEMC-ECCE Asia), Hefei, May 22–26, 2016, pp. 3392–3397. 
+ 
+D.-P. Sadik, J. Colmenares, H.-P. Nee, K. Kostov, F. Giezendanner, and P. Ranstad, 
+“Analysis of Parasitic Elements of SiC Power Modules With Special Emphasis on Reliability 
+Issues,” Proc. of the 2016 IEEE Applied Power Electronics Conference and Exposition 
+(APEC), Long Beach, Mar. 20–24, 2016, pp. 1018–1023. 
+ 
+J. Colmenares, D.-P. Sadik, P. Hilber, and H.-P. Nee, “Reliability Analysis of a High-
+Efficiency SiC Three-Phase Inverter for Motor Drive Applications,” Proc. of the 2016 IEEE 
+Applied Power Electronics Conference and Exposition (APEC), Long Beach, Mar. 20–24, 
+2016, pp. 746–753.  
+ 
+N. Ahmed, L. Ängquist, A. Antonopoulos, L. Harnefors, S. Norrga, and H.-P. Nee, 
+“Performance of the Modular Multilevel Converter With Redundant Submodules,” Proc. of 
+the 41st Annual Conference of the IEEE Industrial Electronics Society, IECON 2015, 
+Yokohama, Nov. 9–12, 2015, pp. 003922–003927. 
+ 
+E. Velander, L. Kruse, and H.-P. Nee, “Optimal Switching of SiC Lateral MOSFETs,” Proc. 
+of 2015 17th European Conference on Power Electronics and Applications (EPE'15 ECCE-
+Europe), 2015, pp.1–10. 
+ 
+G. Tolstoy, P. Ranstad, J. Colmenares, F. Giezendanner, H.-P. Nee, “Experimental Evaluation 
+of SiC BJTs and SiC MOSFETs in a Series-Loaded Resonant Converter,” Proc. of 2015 17th 
+European Conference on Power Electronics and Applications (EPE'15 ECCE-Europe), 2015, 
+pp.1–9. 
+ 
+D.-P. Sadik , J.-K. Lim , P. Ranstad , and H.-P. Nee, “Investigation of Long-term Parameter 
+Variations of SiC Power MOSFETs,” Proc. of 2015 17th European Conference on Power 
+Electronics and Applications (EPE'15 ECCE-Europe), 2015, pp.1–10. 
+ 
+J. K. Lim, S.A. Reshanov, W. Kaplan, A. Zhang, T. Hjort, A. Schöner, M. Bakowski, and 
+H.-P. Nee, “Temperature-Dependent Characteristics of 4H-SiC Buried Grid JBS Diodes,” 
+Materials Science Forum, Jun. 2015, vols. 821-823, pp. 600-603 
+ 
+G. Tolstoy, P. Ranstad, J. Colmenares, F. Giezendanner, and H.-P. Nee, “Dual Control Used 
+in Series-Loaded Resonant Converter With SiC Devices,” Proc. of the 2015 9th International 
+Conference on Power Electronics and ECCE Asia (ICPE-ECCE Asia 2015), pp. 495–501. 
+
+-----
+ 
+A. Risseh and H.-P. Nee, “High-Efficiency Step-Down Converter for On-Board 
+Thermoelectric Generators on Heavy Duty Vehicles,” Proc. of the 2015 9th International 
+Conference on Power Electronics and ECCE Asia (ICPE-ECCE Asia 2015), pp. 869–873. 
+ 
+K. Ilves, L. Bessegato, L. Harnefors, S. Norrga, and H.-P. Nee, “Semi-Full-Bridge Submodule 
+for Modular Multilevel Converters,” Proc. of the 2015 9th International Conference on Power 
+Electronics and ECCE Asia (ICPE-ECCE Asia 2015), pp. 1067–1074. 
+ 
+T, Modeer, S. Norrga, and H.-P. Nee, “Implementation and Testing of High-Power IGCT-
+Based Cascaded-Converter Cells,” Proc. of IEEE ECCE 2014, Pittsburg, Sep. 14–18, 2014. 
+ 
+J. Colmenares, D. Peftitsis, G. Tolstoy, D. Sadik, H.-P. Nee, and J. Rabkowski, “High-
+Efficiency 3-phase Inverter With SiC MOSFET Power Modules for Motor-Drive 
+Applications,” Proc. of IEEE ECCE 2014, Pittsburg, Sep. 14–18, 2014. 
+ 
+A. Antonopoulos, G. Möree, J. Soulard, L. Ängquist, and H.-P. Nee, “Experimental 
+Evaluation of the Impact of Harmonics on Induction Motors Fed by Modular Multilevel 
+Converters,” Proc. of 2014 International Conference on Electrical Machines (ICEM), 2014, 
+Sep. 2-5 2014, pp. 768–775. 
+ 
+A. Risseh and H.-P. Nee, “Design of High-Efficient Converter for On-Board Thermoelectric 
+Generator,” Proc. of 2014 IEEE Conference and Expo Transportation Electrification Asia-
+Pacific (ITEC Asia-Pacific), Aug. 31st–Sep. 3rd, 2014. 
+ 
+G. Tolstoy, B. Larsson, O. Wallmark, S. Norrga, and H.-P. Nee, “Elimination of Vector 
+Changes Due to Sector Changes with DTC,” Proc. of EPE 2014 (IEEE ECCE Europe), 
+Lappeenranta, Aug. 25–28, 2014. 
+ 
+E. Velander, A. Löfgren, K. Kretschmar, and H.-P. Nee, ”Novel Solutions for Suppressing 
+Parasitic Turn-on behaviour on Lateral Vertical JFETs,” Proc. of EPE 2014 (IEEE ECCE 
+Europe), Lappeenranta, Aug. 25–28, 2014. 
+ 
+G. Tolstoy, P. Ranstad, J. Colmenares, D. Peftitsis, F. Giezendanner, J. Rabkowski, and H.-P. 
+Nee, ”An Experimental Analysis of How the Dead-Time of SiC BJT and SiC MOSFET 
+Impacts the Losses in a High-Frequency Resonant Converter,” Proc. of EPE 2014 (IEEE 
+ECCE Europe), Lappeenranta, Aug. 25–28, 2014. 
+ 
+D. Sadik, J. Colmenares, G. Tolstoy, D. Peftitsis, J. Rabkowski, and H.-P. Nee, “Analysis of 
+Short-Circuit Conditions for Silicon Carbide Power Transistors and Suggestions for 
+Protection,” EPE 2014 (IEEE ECCE Europe), Lappeenranta, Aug. 25–28, 2014. 
+ 
+J. Colmenares, D. Peftitsis, H.-P. Nee, and J. Rabkowski, “Switching Performance of Parallel-
+Connected Power Modules With SiC MOSFETs,” Proc. of 2014 International Power 
+Electronics Conference (IPEC-Hiroshima 2014 ECCE-ASIA), May 18–21, 2014, pp. 3712–
+3717. 
+ 
+N. Ahmed, L. Ängquist, S. Norrga, and H.-P. Nee, “Efficient Modeling of Modular Multilevel 
+Converters in HVDC-Grids Under Fault Conditions,” Proc. of 2014 IEEE PES General 
+Meeting, Conf. and Expo., Jul. 27–31, 2014. 
+
+-----
+ 
+Z. Toth-Pal, T. Hammam, and H. Nee, “Pressure Dependence of Thermal Contact Resistance 
+between Copper Heat Sink and Copper DBC Surfaces in SiC Power Device Packages,” 
+Materials Science Forum, vol. 778, pp. 1118–1121, May 2014. 
+ 
+H.-P. Nee, J. Rabkowski, D. Peftitsis, G. Tolstoy, J. Colmenares, D. Sadik, M. Bakowski, J.-
+K. Lim, A. Antonopoulos, L. Ängquist, and M. Zdanowski, “High-Efficiency Power 
+Conversion Using Silicon Carbide Power Electronics,” Materials Science Forum, vol. 778, 
+pp. 1083–1088, May 2014. 
+ 
+J.–K. Lim, D. Peftitsis, D.–P. Sadik, M. Bakowski, and H.–P. Nee, “Evaluation of Buried 
+Grid JBS Diodes,” Materials Science Forum, vol. 778, pp. 804–807, May 2014. 
+ 
+Y. Zhang, I. Belov, M. Bakowski, J.-K. Lim, P. Leisner, and H.-P. Nee, ” Investigation of a 
+Finned Baseplate Material and Thickness Variation for Thermal Performance of a SiC Power 
+Module,” Proc. of 2014 15th international conference on thermal, mechanical and multi-
+physics simulation and experiments in microelectronics and microsystems (EurosimE), Ghent, 
+Apr. 7–9, 2014. 
+ 
+H.-P. Nee, J. Rabkowski, and D. Peftitsis, “Multi-Chip Circuit Designs for Silicon Carbide 
+Power Electronics,” Proc. of 8th International Conf. on Integrated Power Electronics Systems 
+2014, CIPS 2014, Nuremberg Feb. 25–27, 2014. (Invited paper). 
+ 
+A. Antonopoulos, L. Ängquist, L. Harnefors, K. Ilves, and H.-P. Nee, “Stability Analysis of 
+Modular Multilevel Converters With Open-Loop Control,” Proc. of IECON 2013, Wien, Nov. 
+10–13, 2013. 
+ 
+H.-P. Nee, J. Rabkowski, D. Peftitsis, G. Tolstoy, J. Colmenares, D. Sadik, M. Bakowski, J.-
+K. Lim, A. Antonopoulos, L. Ängquist, and M. Zdanowski, “High-Efficiency Power 
+Conversion Using Silicon Carbide Power Electronics,” Proc. of International Conference on 
+silicon carbide and related materials (ICSCRM) 2013, Miyazaki, Japan, Sep. 29–Oct. 4, 2013. 
+(Invited paper). 
+ 
+Z. Toth-Pal, T. Hammam, and H. Nee, “Pressure Dependence of Thermal Contact Resistance 
+between Copper Heat Sink and Copper DBC Surfaces in SiC Power Device Packages,” Proc. 
+of International Conference on silicon carbide and related materials (ICSCRM) 2013, 
+Miyazaki, Japan, Sep. 29–Oct. 4, 2013. 
+ 
+J.–K. Lim, D. Peftitsis, D.–P. Sadik, M. Bakowski, and H.–P. Nee, “Evaluation of Buried 
+Grid JBS Diodes,” Proc. of International Conference on silicon carbide and related materials 
+(ICSCRM) 2013, Miyazaki, Japan, Sep. 29–Oct. 4, 2013. 
+ 
+K. Ilves, L. Harnefors, S. Norrga, and H.-P. Nee, “Analysis and Operation of Modular 
+Multilevel Converters with Phase-shifted Carrier PWM,” Proc. of IEEE Energy Conversion 
+Congress and Exposition 2013, Denver, Sep. 15–19, 2013. 
+ 
+K. Kostov, H.-P. Nee, and M. Priecinsky, “The Input Impedance of Common Mode and 
+Differential Mode Noise Separators,” Proc. of IEEE Energy Conversion Congress and 
+Exposition 2013, Denver, Sep. 15–19, 2013. 
+ 
+
+-----
+A. Antonopoulos, L. Ängquist, L. Harnefors, and H.-P. Nee, “Optimal Selection of the 
+Average Capacitor Voltage for Modular Multilevel Converters,” Proc. of IEEE Energy 
+Conversion Congress and Exposition 2013, Denver, Sep. 15–19, 2013. 
+ 
+D.-P. Sadik, J. Colmenares, D. Peftitsis, J.-K- Lim, J. Rabkowski, and H.-P. Nee, 
+“Experimental Investigations of Static and Transient Current Sharing of Parallel Connected 
+Silicon Carbide MOSFETs,” Proc. of EPE ECCE-Europe 2013, Lille, Sep. 3–5, 2013. 
+ 
+K. Ilves, F. Taffner, S. Norrga, A. Antonopoulos, L. Harnefors, and H.-P. Nee, “A Submodule 
+Implementation for Parallel Connection of Capacitors in Modular Multilevel Converters,” 
+Proc. of EPE ECCE-Europe 2013, Lille, Sep. 3–5, 2013. 
+ 
+ 
+T. Modeer, S. Norrga, and H.-P. Nee, “Resonant Test Circuit for High-Power Cascaded 
+Converter Submodules,” Proc. of EPE ECCE-Europe 2013, Lille, Sep. 3–5, 2013. 
+ 
+N. Ahmed, L. Ängquist, and H.-P. Nee, “Continuous Modeling of Open-Loop Control Based 
+Negative Sequence Current Control of Modular Multilevel Converters for HVDC 
+Transmission,” Proc. of EPE ECCE-Europe 2013, Lille, Sep. 3–5, 2013. 
+ 
+K. Ilves, S. Norrga, and H.-P. Nee; “On Energy Variations in Modular Multilevel Converters 
+with Full-Bridge Submodules for Ac-Dc and Ac-Ac Applications,” Proc. of EPE ECCE-
+Europe 2013, Lille, Sep. 3–5, 2013. 
+ 
+L. Harnefors, A. Antonopoulos, and H.-P. Nee, “Global Stability of Modular Multilevel 
+Converters With Measurement Lag and Circulating-Current Control,” Proc. of EPE ECCE-
+Europe 2013, Lille, Sep. 3–5, 2013. 
+ 
+A. Hassanpoor Chalestari, K. Ilves, S. Norrga, L. Ängquist, H.-P. Nee, “Tolerance Band 
+Modulation Methods for Modular Multilevel Converters,” Proc. of EPE ECCE-Europe 2013, 
+Lille, Sep. 3–5, 2013. 
+ 
+ 
+L. Ängquist, S. Norrga, A. Antonopoulos, H.-P. Nee, “Arm-Current-Based Control of 
+Modular Multilevel Converters,” Proc. of EPE ECCE-Europe 2013, Lille, Sep. 3–5, 2013. 
+ 
+ 
+ 
+J. Colmenares, D. Peftitsis, J. Rabkowski, and H.-P. Nee, “Dual-Function Gate Driver for a 
+Power Module With SiC Junction Field-Effect Transistors,” Proc. of ECCE ASIA 2013, 
+Melbourne, 4–6 Jun. 2013, pp. 245–250. 
+ 
+D. Peftitsis, J. Rabkowski, and H.-P. Nee, “Design Considerations for a Self-Powered Gate 
+Driver for Normally-ON SiC Junction Field-Effect Transistors,” Proc. of ECCE ASIA 2013, 
+Melbourne, 4–6 Jun. 2013, pp. 251–257. 
+ 
+K. Ilves, L. Harnefors, S. Norrga, and H.-P. Nee, “Predictive Sorting Algorithm for Modular 
+Multilevel Converters Minimizing the Spread in the Submodule Capacitor Voltages,” Proc. of 
+ECCE ASIA 2013, Melbourne, 4–6 Jun. 2013, pp. 325–331. 
+ 
+G. Tolstoy, D. Peftitsis, J. Rabkowski, H.-P. Nee, and P.R. Palmer, “Discretized Proportional 
+Base Driver for Silicon Carbide Bipolar Junction Transistors,” Proc. of ECCE ASIA 2013, 
+Melbourne, 4–6 Jun. 2013, pp. 728–735. 
+ 
+
+-----
+K. Kostov, J. Rabkowski, and H.-P. Nee, “Conducted EMI From SiC BJT Boost Converter 
+and its Dependence on the Output Voltage, Current, and Heatsink Connection,” Proc. of 
+ECCE ASIA 2013, Melbourne, 4–6 Jun. 2013, pp. 1125–1130. 
+ 
+Y. Zhang, I. Belov, N.G. Sarius, M. Bakowski, H.-P. Nee, P. Leisner, “Thermal Evaluation of 
+a Liquid/Air Cooled Integrated Power Inverter for Hybrid Vehicle Applications,” Proc. of 
+2013 14th International Conference on Thermal, Mechanical and Multi-Physics Simulation 
+and Experiments in Microelectronics and Microsystems (EuroSimE), Wroclaw, Poland, 
+14–17 Apr. 2013. (Keynote presentation). 
+ 
+J. Rabkowski, D. Peftitsis, M. Bakowski, and H.-P. Nee, “Evaluation of the Drive Circuit for 
+a Dual Gate Trench SiC JFET,” Materials Science Forum, vol. 740, pp. 946–949, Mar. 2013. 
+ 
+J.-K. Lim, D. Peftitsis, J. Rabkowski, M. Bakowski, and H.-P. Nee, “Modeling of the Impact 
+of Parameter Spread on the Switching Performance of Parallel-Connected SiC VJFETs,” 
+Materials Science Forum, vol. 740, pp. 1098–1102, Mar. 2013. 
+ 
+J. Rabkowski, D. Peftitsis, M. Zdanowski, and H.-P. Nee, “A 6 kW, 200 kHz Boost Converter 
+With Parallel-Connected SiC Bipolar Transistors,” Proc. of IEEE Applied Power Electronics 
+Conference and Exposition 2013, APEC 2013, Long Beach, California, Mar. 17–21, 2013, pp. 
+1991–1998. 
+ 
+N. Ahmed, L. Ängquist, S. Norrga, and H-P Nee, “Validation of the Continuous Model of 
+Modular Multilevel Converter With Blocking/Deblocking Capacity,” Proc. of the 10th IET 
+International Conference on AC and DC Power Transmission 2012, ACDC 2012, 4–6 Dec. 
+2012. 
+ 
+A. Hassanpoor, S. Norrga, H.-P. Nee, and L. Ängquist, “Evaluation of Different Carrier-
+Based PWM Methods for Modular Multilevel Converters for HVDC Application,”  Proc. of 
+38th Annual Conference of the 2012 IEEE Industrial Electronics Society, IECON 2012, 
+Montreal, Canada, 25–28 Oct. 2012, pp. 388–393. 
+ 
+S. Norrga, L. Ängquist, K. Ilves, L. Harnefors, and H.-P. Nee, “Frequency-Domain Modeling 
+of Modular Multilevel Converters - With Application to Maximizing the Operating Region,” 
+Proc. of 38th Annual Conference of the 2012 IEEE Industrial Electronics Society, IECON 
+2012, Montreal, Canada, 25–28 Oct. 2012, pp. 4967–4972. 
+ 
+T. Modeer, S. Norrga, and H.-P. Nee, “High-Voltage Tapped-Inductor Buck Converter 
+Auxiliary Power Supply for Cascaded Converter Submodules,” Proc. of IEEE Energy 
+Conversion Congress and Exposition, ECCE 2012, Raleigh, North Carolina, Sep. 15–20, 
+2012, pp.19–25. 
+ 
+A. Antonopoulos, L. Ängquist, S. Norrga, K. Ilves, H.-P. Nee, “Modular Multilevel Converter 
+AC Motor Drives with Constant Torque from Zero to Nominal Speed,” Proc. of IEEE Energy 
+Conversion Congress and Exposition, ECCE 2012, Raleigh, North Carolina, Sep. 15–20, 
+2012. 
+ 
+M. Zdanowski, J. Rabkowski, K. Kostov, and H.-P. Nee, “Design and Evaluation of Reduced 
+Self-Capacitance Inductor for Fast-Switching SiC BJT dc/dc Converters,” Proc. of 15th 
+
+-----
+International Power Electronics and Motion Control Conference, EPE-PEMC 2012 ECCE 
+Europe, Novi Sad, Serbia, 4–6 Sep. 2012. 
+ 
+T. Modeer, M. Zdanowski, H.-P. Nee, “Design and Evaluation of Tapped Inductors for High-
+Voltage Auxiliary Power Supplies for Modular Multilevel Converters,” Proc. of 15th 
+International Power Electronics and Motion Control Conference, EPE-PEMC 2012 ECCE 
+Europe, Novi Sad, Serbia, 4–6 Sep. 2012. 
+ 
+J.-K. Lim, D. Peftitsis, M. Bakowski, and H.-P. Nee, “Modeling of the Impact of Parameter 
+Spread on the Switching Performance of Parallel-Connected SiC VJFETs, Proc. of 9th 
+European Conference on Silicon Carbide & Related Materials, ECSCRM 2012, St. 
+Petersburg, Russia, 2–6 Sep. 2012. 
+ 
+J. Rabkowski, D. Peftitsis, M. Bakowski, and H.-P. Nee, “Switching Performance Evaluation 
+of a 15 mm2 Double Gate Trench SiC JFET,” Proc. of 9th European Conference on Silicon 
+Carbide & Related Materials, ECSCRM 2012, St. Petersburg, Russia, 2–6 Sep. 2012. 
+ 
+J.-K. Lim, L. Östlund, Q. Wang, W. Kaplan, S. A. Reshanov, A. Schöner, M. Bakowski, and 
+H.-P. Nee, “A Theoretical and Experimental Comparison of 4H- and 6H-SiC MSM UV 
+Photodetectors,” Materials Science Forum, vol. 717–720, Aug. 2012, pp. 1207–1210. 
+ 
+M. Zdanowski, J. Rabkowski, K. Kostov, and H.-P. Nee, “The Role of the Parasitic 
+Capacitance of the Inductor in Boost Converters with Normally-On SiC JFETs,” Proc. of 
+2012 IEEE 7th International Power Electronics and Motion Control Conference - ECCE Asia, 
+Jun. 2–5, 2012, Harbin, China. 
+ 
+K. Ilves, A. Antonopoulos, L. Harnefors, S. Norrga, H.-P. Nee, “Circulating Current Control 
+in Modular Multilevel Converters with Fundamental Switching Frequency,” Proc. of 2012 
+IEEE 7th International Power Electronics and Motion Control Conference - ECCE Asia, 
+Jun. 2–5, 2012, Harbin, China. 
+ 
+J. Rabkowski, M. Zdanowski, D. Peftitsis, and H.-P. Nee, “A Simple High-Performance Low-
+Loss Current-Source Driver for SiC Bipolar Transistors,” Proc. of 2012 IEEE 7th 
+International Power Electronics and Motion Control Conference - ECCE Asia, Jun. 2–5, 
+2012, Harbin, China. 
+ 
+D. Peftitsis, J.-K. Lim, J. Rabkowski, G. Tolstoy, and H.-P. Nee, “Experimental Comparison 
+of Different Gate-Driver Configurations for Parallel-Connection of Normally-ON SiC 
+JFETs,” Proc. of 2012 IEEE 7th International Power Electronics and Motion Control 
+Conference - ECCE Asia, Jun. 2–5, 2012, Harbin, China. 
+ 
+S. Norrga, L. Ängquist, K. Ilves, L. Harnefors, and H.-P. Nee, “Decoupled Steady-State 
+Model of the Modular Multilevel Converter With Half-Bridge Cells,” Proc. IET Power 
+Electronics, Machines and Drives Conf., Bristol, 27–29 Mar. 2012. 
+ 
+N. Ahmed, S. Norrga, H.-P. Nee, A. Haider, D. Van Hertem, L. Zhang, and L. Harnefors, 
+“HVDC SuperGrids With Modular Multilevel Converters – the Power Transmission 
+Backbone of the Future,” Proc. of 2012 9th International Multi-Conference on Systems; 
+Signals and Devices, SSD-PES 2012, 20–23 Mar. 2012, Chemnitz, Germany (invited paper). 
+ 
+
+-----
+K. Ilves, S. Norrga, L. Harnefors, and H.-P. Nee, “Analysis of Arm Current Harmonics in 
+Modular Multilevel Converters with Main-Circuit Filters,” Proc. of 2012 9th International 
+Multi-Conference on Systems; Signals and Devices, SSD-PES 2012, 20–23 Mar. 2012, 
+Chemnitz, Germany (invited paper). 
+ 
+J. Rabkowski, D. Peftitsis, and H.-P. Nee, “Design Steps Towards a 40-kVA SiC Inverter 
+With an Efficiency Exceeding 99.5%,” Proc. of IEEE Applied Power Electronics Conference 
+and Exposition 2012, APEC 2012, Feb. 2012. 
+ 
+K. Ilves, A. Antonopoulos, L. Harnefors, S. Norrga, L. Ängquist, and H.-P. Nee, “Capacitor 
+Voltage Ripple Shaping in Modular Multilevel Converters Allowing for Operating Region 
+Extension,” Proc. of IECON 2011, Melbourne, Australia, Nov. 2011. 
+ 
+N. Ahmed, A. Haider, L. Ängquist, and H.-P. Nee, “M2C-Based MTDC System for Handling 
+of Power,” Proceedings of IET RPG-2011, Sep. 2011. 
+ 
+T. Modeer, H.-P. Nee, and S. Norrga, “Loss Comparison of Different Sub-Module 
+Implementations for Modular Multilevel Converters in HVDC Applications,” Proc. of EPE 
+ECCE Europe 2011, Birmingham, 30th of Aug.–1st of Sep. 2011. 
+ 
+D. Peftitsis, J. Rabkowski, G. Tolstoy, and H.-P. Nee, “Experimental Comparison of DC-DC 
+Boost Converters With SiC JFETs and SiC Bipolar Transistors,” Proc. of EPE ECCE Europe 
+2011, Birmingham, 30th of Aug.–1st of Sep. 2011. 
+ 
+K. Ilves, A. Antonopoulos, S. Norrga, L. Ängquist, and H.-P. Nee, “Controlling the AC-Side 
+Voltage Waveform in a Modular Multilevel Converter With Low Energy-Storage Capability,” 
+Proc. of EPE ECCE Europe 2011, Birmingham, 30th of Aug.–1st of Sep. 2011. 
+ 
+L. Ängquist, A. Haider, H.-P. Nee, H. Jiang, “Open-loop Approach to Control a Modular 
+Multilevel Frequency Converter,” Proc. of EPE ECCE Europe 2011, Birmingham, 30th of 
+Aug.–1st of Sep. 2011. 
+ 
+N. Ahmed, A. Haider, D. Van Hertem, L. Zhang, and H.-P. Nee, “Prospects and Challenges 
+of Future HVDC SuperGrids With Modular Multilevel Converters,” Proc. of EPE ECCE 
+Europe 2011, Birmingham, 30th of Aug.–1st of Sep. 2011. 
+ 
+L. Harnefors, S. Norrga, A. Antonopoulos, and H.-P. Nee, “Dynamic Modeling of Modular 
+Multilevel Converters,” Proc. of EPE ECCE Europe 2011, Birmingham, 30th of Aug.–1st of 
+Sep. 2011. 
+ 
+A. Haider, N. Ahmed, L. Ängquist, and H.-P. Nee, “Open-loop Approach for Control of 
+Multi-Terminal DC Systems Based on Modular Multilevel Converters,” Proc. of EPE ECCE 
+Europe 2011, Birmingham, 30th of Aug.–1st of Sep. 2011. 
+ 
+K. Ilves, A. Antonopoulos, S. Norrga, and H.-P. Nee, “A New Modulation Method for the 
+Modular Multilevel Converter Allowing Fundamental Switching Frequency,” Proc. of 
+International Conference on Power Electronics - ECCE Asia, Jeju, Korea, Jun. 2011. 
+ 
+
+-----
+D. Peftitsis, R. Baburske, J. Rabkowski, J. Lutz, G. Tolstoy, and H.-P. Nee, “Challenges 
+Regarding Parallel-Connection of SiC JFETs,” Proc. of International Conference on Power 
+Electronics - ECCE Asia, Jeju, Korea, Jun. 2011. 
+ 
+J.-K. Lim, G. Tolstoy, D. Peftitsis, J. Rabkowski, M. Bakowski, and H.-P. Nee, “Comparison 
+of Total Losses of 1.2 kV SiC JFET and BJT in DC-DC Converter Including Gate Driver,” 
+Materials Science Forum, vol. 679, pp. 649–652, Apr. 2011. 
+ 
+G. Tolstoy, D. Peftitsis, J. Rabkowski, and H.-P. Nee, “Performance Tests of a 4,1x4,1mm^2 
+SiC LCVJFET for a DC/DC Boost Converter Application,” Materials Science Forum, vol. 
+679, pp. 722–725, Apr. 2011. 
+ 
+H. Xie, L. Ängquist, and H.-P. Nee, “Design Study of a Converter Interface Interconnecting 
+an Energy Storage With the DC-Link of a VSC,” Proc. of IEEE PES Conference on 
+Innovative Smart Grid Technologies Europe, Oct. 11–13, 2010, Gothenburg, Sweden. 
+ 
+A. Antonopoulos, K. Ilves, L. Ängquist, and H.-P. Nee, “On Interaction Between Internal 
+Converter Dynamics and Current Control of High-Performance High-Power AC Motor 
+Drives with Modular Multilevel Converters,” Proc. of IEEE Energy Conversion Congress and 
+Exposition 2010, Sep. 2010. 
+ 
+D. Peftitsis, G. Tolstoy, A. Antonopoulos, J. Rabkowski, J.-K. Lim, M. Bakowski, L. 
+Ängquist, and H.-P. Nee, “High-Power Modular Multilevel Converters With SiC JFETs,” 
+Proc. of IEEE Energy Conversion Congress and Exposition 2010, Sep. 2010. 
+ 
+J.-K. Lim, G. Tolstoy, D. Peftitsis, J. Rabkowski, M. Bakowski, and H.-P. Nee, “Comparison 
+of Total Losses of 1.2 kV SiC JFET and BJT in DC-DC Converter Including Gate Driver,” 
+Proc. of European Conference on Silicon Carbide and Related Materials 2010, Aug. 2010. 
+ 
+G. Tolstoy, D. Peftitsis, J. Rabkowski, and H.-P. Nee, “Performance Tests of a 4,1x4,1mm^2 
+SiC LCVJFET for a DC/DC Boost Converter Application,” Proc. of European Conference on 
+Silicon Carbide and Related Materials 2010, Aug. 2010. 
+ 
+L. Zhang, L. Harnefors, and H.-P. Nee, “Modelling and Control of VSC-HVDC Connected to 
+Island Systems,” Proc. of IEEE Power and Energy Society General Meeting, 25–29 Jul. 2010. 
+ 
+J.-K. Lim, M. Bakowski, and H.-P. Nee, “Design and Gate Drive Considerations for Epitaxial 
+1.2 kV Buried Grid N-on and N-off JFETs for Operation at 250°C,” Materials Science Forum, 
+vol. 645, Jul. 2010, pp. 961–964. 
+ 
+G. Tolstoy, D. Peftitsis, J.-K. Lim, M. Bakowski, H.-P. Nee, “Circuit Modeling of Vertical 
+Buried-Grid SiC JFETs,” Materials Science Forum, vol. 645, Jul. 2010, pp. 965–968. 
+ 
+L. Ängquist, A. Antonopoulos, D. Siemaszko, K. Ilves, M. Vasiladiotis, and H.-P. Nee, “Inner 
+Control of Modular Multilevel Converters – An Approach using Open-loop Estimation of 
+Stored Energy,” Proc. IEEE IPEC, Sapporo, Jun. 2010. 
+ 
+D. Siemaszko, A. Antonopoulos, K. Ilves, M. Vasiladiotis, L. Ängquist, and H.-P. Nee, 
+“Evaluation of Control and Modulation Methods for Modular Multilevel Converters,” Proc. 
+IEEE IPEC, Sapporo, Jun. 2010. 
+
+-----
+ 
+J.-K. Lim, M. Bakowski, and H.-P. Nee, “Design and Gate Drive Considerations for Epitaxial 
+1.2 kV Buried Grid N-on and N-off JFETs for Operation at 250°C,” Proc. of International 
+Conference on Silicon Carbide and Related Materials 2009, Oct. 2009. 
+ 
+G. Tolstoy, D. Peftitsis, J.-K. Lim, M. Bakowski, H.-P. Nee, “Circuit Modeling of Vertical 
+Buried-Grid SiC JFETs,” Proc. of International Conference on Silicon Carbide and Related 
+Materials 2009, Oct. 2009. 
+ 
+A. Antonopoulos, L. Ängquist, and H.-P. Nee, “On Dynamics and Voltage Control of the 
+Modular Multilevel Converter,” Proc. of the European Power Electronics and Applications 
+Conference, EPE 09, Barcelona, Sep. 2009. 
+ 
+S. Meier, T. Kjellqvist, S. Norrga, and H.-P. Nee, “Design Considerations for Medium-
+Frequency Power Transformers in Offshore Wind Farms,” Proc. of EPE 09, Barcelona, Sep. 
+2009. 
+ 
+L. Zhang and H.-P. Nee, “Multivariable Feedback Design of VSC-HVDC Connected to Weak 
+AC Systems,” Proc. of 2009 IEEE Bucharest Powertech, Jun. 28–Jul. 2, 2009. 
+ 
+H. Xie, L. Ängquist, and H.-P. Nee, “A Converter Topology Suitable for Interfacing Energy 
+Storage With the DC Link of a StatCom,” Proc. IEEE 43rd IAS Annual Meeting, Oct. 2008. 
+ 
+M. Monge, N. Johansson, L. Ängquist and H.-P. Nee, “Adaptive Control for Power 
+Oscillation Damping by Means of a Thyristor Controlled Series Capacitor (TCSC),” Proc. of 
+Universities Power Engineering Conference, Sep. 2008. 
+ 
+N. Johansson, L. Ängquist, H.-P. Nee, and B. Berggren, “A Dynamic Power Flow Controller 
+for Power System Stability Improvement and Loss Reduction,” Proc. of Power Systems 
+Computation Conference (PSCC), Jul. 2008. 
+ 
+G. Demetriades and H.-P. Nee, “Characterization of the Dual-Active Bridge Topology for 
+High-Power Applications Employing a Duty-Cycle Modulation,” Proc. of IEEE PESC 2008, 
+Rhodes, Greece, Jun. 2008, pp. 2791–2798. 
+ 
+G. Demetriades and H.-P. Nee, “Dynamic Modeling of the Dual-Active Bridge Topology for 
+High-Power Applications,” Proc of IEEE PESC 2008, Rhodes, Greece, Jun. 2008, 
+pp. 457–464. 
+ 
+G. Demetriades and H.-P. Nee, “Small-Signal Analysis of the Half-Bridge Soft-Switching 
+Uni-Directional Converter Employing Extended State-Space Averaging,” Proc. of IEEE 
+PESC 2008, Rhodes, Greece, Jun. 2008, pp. 385–391. 
+ 
+S. Meier, S. Norrga, and H.-P. Nee, “Control Strategies for Mutually Commutated Converter 
+Systems Without Cycloconverter Turn-off Capability,” Proc. of IEEE PESC 2008, Rhodes, 
+Greece, Jun. 2008. 
+ 
+H. Xie, L. Ängquist, and H.-P. Nee, “StatCom with Capacitive Energy Storage for 
+Compensation of Cyclic Loads,” Proceedings of the Nordic Workshop on Power and 
+Industrial Electronics (NORPIE), Jun. 2008. 
+
+-----
+ 
+S. Meier, S. Norrga, and H.-P. Nee, “Modulation Strategies for a Mutually Commutated 
+Converter System in Wind Farms,” Proceedings of EPE 2007, Aalborg, Denmark, 2007. 
+ 
+N. Johansson, L. Ängquist, and H.-P. Nee, “Adaptive Control of Controlled Series 
+Compensators for Power System Stability Improvement,” Proceedings of IEEE Powertech 
+2007, Lausanne, Switzerland, Jul. 2007. 
+ 
+H. Xie, L. Ängquist, and H.-P. Nee, “Impact of Energy Storage on System Performance 
+Under Fault Conditions,” CIGRE International Symposium on Transient Phenomena in Large 
+Electric Power Systems, Zagreb, Apr. 2007. 
+ 
+H. Xie, L. Ängquist, and H.-P. Nee, “Active Power Compensation of Voltage Source 
+Converters With Energy Storage Capacitors,” Proc. of 2006 IEEE PES Power Systems 
+Conference & Exposition, Oct. 2006. 
+ 
+N. Johansson, H.-P. Nee, and L. Ängquist, “Discrete Open Loop Control for Power 
+Oscillation Damping Utilizing Variable Reactance FACTS Devices,” Proc. of Universities 
+Power Engineering Conference, UPEC 2006, Newcastle, England, Sep. 6–8 2006. 
+ 
+N. Johansson, H.-P. Nee, and L. Ängquist, “An Adaptive Model Predictive Approach to 
+Power Oscillation Damping Utilizing Variable Series Reactance FACTS Devices,” Proc. of 
+Universities Power Engineering Conference, 6–8 Sep. 2006. 
+ 
+N. Johansson, H.-P. Nee, and L. Ängquist, “Estimation of Grid Parameters for the Control of 
+Variable Reactance FACTS Devices,” Proc. of IEEE PES General Meeting, Montreal, 
+Canada, 18–22 Jun. 2006. 
+ 
+H. Xie, L. Ängquist, and H.-P. Nee, “Novel Flux Modulated Positive and Negative Sequence 
+Deadbeat Current Control of Voltage Source Converters,” Proc. of IEEE PES General 
+Meeting, Montreal, Canada, 18–22 Jun. 2006. 
+ 
+P. Ranstad, H.-P. Nee, and J. Linner, “A Novel Control Strategy Applied to the Series Loaded 
+Resonant Converter,” Proc. of the 11th European Conference on Power Electronics and 
+Applications, EPE’2005, Dresden, Germany. 
+ 
+G. D. Demetriades, and H.-P. Nee, “Characterisation of the Soft-Switched Single-Active 
+Bridge With Novel Control Scheme for High-Power DC-DC Applications,” Proc. of IEEE 
+Power Electronics Specialist Conference, PESC 2005, Recife, Brazil. 
+ 
+S. Meier, S. Norrga, and H.-P. Nee, “New Voltage Source Converter Topology for HVDC 
+Grid Connection of Offshore Wind Farms,” Proc. of the IEEE Industry Applications Society 
+39th Annual Meeting, IAS 04, Seattle, Washington, USA, 3–7 Oct. 2004. 
+ 
+S. Meier, S. Norrga, and H.-P. Nee, “New Topology for More Efficient AC/DC Converters 
+for Future Offshore Wind Farms,” Proc. of the Nordic Workshop on Power and Industrial 
+Electronics (NORpie), Trondheim, Norway, 12–14 Jun. 2004. 
+ 
+
+-----
+B. Ållebrand and H.-P. Nee, “Comparison of Commutation Transients of Inverters With 
+Silicon Carbide JFETs With and Without Body Diodes,” Proc. of the Nordic Workshop on 
+Power and Industrial Electronics (NORpie), Trondheim, Norway, 12–14 Jun. 2004. 
+ 
+P. Thelin, H.-P. Nee, J. Soulard, C. Sadarangani, and J. Timmerman, “Rotor Cage Losses of 
+an Inverter-Fed PMSM Investigated With FEM,” Proc. of the European Conference on Power 
+Electronics and Applications, EPE´03, Toulouse, France, Sep. 2003. 
+ 
+G. D. Demetriades and H.-P. Nee, “On Soft-Switching Topologies for High-Power 
+Applications,” Proc. of IEE MED POWER 2002, Athens, Greece. 
+ 
+B. Ållebrand and H.-P. Nee, “Design of a Gate Drive Circuit for Use With SiC JFETs,” Proc. 
+of the Nordic Workshop on Power and Industrial Electronics (NORpie), Stockholm, Sweden, 
+Aug. 2002. 
+ 
+B. Ållebrand and H.-P. Nee, “Minimizing Oscillations in the Diode-Less SiC JFET Inverter 
+Bridge,” Proc. of the Nordic Workshop on Power and Industrial Electronics (NORpie), 
+Stockholm, Sweden, Aug. 2002. 
+ 
+G. D. Demetriades and H.-P. Nee, “Evaluation of Different Soft-Switching Topologies for 
+High-Power Applications,” Proc. of the Nordic Workshop on Power and Industrial 
+Electronics (NORpie), Stockholm, Sweden, Aug. 2002. 
+ 
+F. Carlsson, H.-P. Nee, and C. Sadarangani, “Analysis of Peak Torque of Line-Operated 
+Synchronous Machines Subjected to Symmetrical Voltage Sags,” Proc. of the IEE 
+International conference on Power Electronics and Electrical Machines (PEMD), Bath, United 
+Kingdom, Apr. 2002. 
+ 
+P. Thelin, J. Soulard, H.-P. Nee, and C. Sadarangani, “Comparison Between Different Ways 
+to Calculate the Induced No-Load Voltage of PM Synchronous Motors Using Finite Element 
+Methods,” Proc. of the 4th IEEE International Conference on Power Electronics and Drive 
+Systems (PEDS'01), Bali, Indonesia, Oct. 2001, vol. 2, pp. 468–474. 
+ 
+K. Kretschmar and H.-P. Nee, “Analysis of the Efficiency and Suitability of Different 
+Converter Topologies for PM Integral Motors,” Proc. of the Australian Universities Power 
+Engineering Conference (AUPEC 2001), Perth, Australia, Sep. 2001, pp. 519–525. 
+ 
+P. Anpalahan, J. Soulard, and H.-P. Nee, “Design Steps Towards a High Power Factor 
+Transverse Flux Machine,” Proc. of the European Conference on Power Electronics and 
+Applications (EPE), Graz, Austria, Aug. 2001. 
+  
+B. Ållebrand and H.-P. Nee, “On the Possibility to Use SiC JFETs in Power Electronic 
+Circuits,” Proc. of the European Conference on Power Electronics and Applications (EPE), 
+Graz, Austria, Aug. 2001, pp.1–9. 
+  
+B. Ållebrand and H.-P. Nee, “On the Choice of Blanking Times at Turn-On and Turn-Off for 
+the Diode-Less SiC JFET Inverter Bridge,” Proc. of the European Conference on Power 
+Electronics and Applications (EPE), Graz, Austria, Aug. 2001. 
+ 
+
+-----
+R. Kolessar and H.-P. Nee, “An Experimentally Validated Electro-Thermal Compact Model 
+for 4H-SiC Power Diodes,” Proc. of IEEE International Symposium on Industrial Electronics 
+ISIE, 12–16 Jun. 2001, vol. 2,  pp. 1345–1350. 
+ 
+R. Kolessar and H.-P. Nee, “A New Physics-Based Circuit Model for 4H-SiC Power Diodes 
+Implemented in SABER,” Proc. of the Sixteenth Annual IEEE Applied Power Electronics 
+Conference and Exposition, 2001, APEC 2001, vol. 2,  4–8 Mar. 2001, pp. 989–994. 
+ 
+P. Thelin and H.-P. Nee, “Development and Efficiency Measurements of a Compact 15 kW 
+1500 r/min Integral Permanent Magnet Synchronous Motor,” Proc. of the IEEE Industry 
+Applications Society Annual Meeting, Roma, Italy, Oct. 2000, pp. 155–162. 
+ 
+J. Soulard and H.-P. Nee, “Study of the Synchronization of Line-Start Permanent Magnet 
+Synchronous Motors,” Proc. of the IEEE Industry Applications Society Annual Meeting, 
+Roma, Italy, Oct. 2000, vol. 1, 424–431. 
+ 
+P. Thelin and H.-P. Nee, “Analytical Calculation of the Airgap Flux Density of PM 
+Synchronous Motors With Buried Magnets Including Axial Leakage, Tooth and Yoke 
+Saturations,” Proc. of the International Conference on Power Electronics and Variable Speed 
+Drives, London, Sep. 2000, pp. 218–223. 
+ 
+R. Kolessar and H.-P. Nee, “Physics-Based Power Device Models in SABER - 
+Implementation Issues,” Proc. of the IEEE Computer in Power Electronics, COMPEL 2000, 
+Blacksburg, USA, Aug. 2000, pp. 18–22. 
+ 
+K. Kretschmar and H.-P. Nee, “Comparison of Different Converters With Sinusoidal Line 
+Currents Suited for a 15 kW Permanent Magnet Integral Motor,” Proc. of the IEEE Nordic 
+Workshop on Power and Industrial Electronics, Aalborg, Denmark, Jun. 2000, 
+pp. 79–83. 
+ 
+R. Kolessar and H.-P. Nee, “Electro-Thermal Circuit Model for the Power Diode Turn-On 
+Process,” Proc. of the IEEE Nordic Workshop on Power and Industrial Electronics, Aalborg, 
+Denmark, Jun. 2000, pp. 69–73. 
+ 
+L. Lefevre, J. Soulard, and H.-P. Nee, “Design Procedure for Line-Start Permanent Magnet 
+Motors,” Proc. of the IEEE Nordic Workshop on Power and Industrial Electronics, Aalborg, 
+Denmark, Jun. 2000. 
+ 
+P. Thelin and H.-P. Nee, “New Integral Motor Stator Design with Integrated Filter Coils,” 
+Proc. of the European Conference on Power Electronics and Applications, Lausanne, 
+Switzerland, Sep. 1999. 
+ 
+P. Thelin and H.-P. Nee, “Calculation of the Airgap Flux Density of PM Synchronous Motors 
+with Buried Magnets including Axial Leakage and Teeth Saturation,” Proc. of the Electrical 
+Machines and Drives Conference, Canterbury, UK, Sep. 1999. 
+ 
+P. Thelin and H.-P. Nee, “Suggestions Regarding the Pole-Number of Inverter-Fed PM-
+Synchronous Motors with Buried Magnets,” Proc. of the International Conference on Power 
+Electronics and Variable Speed Drives, London, Sep. 1998. 
+  
+
+-----
+K. Kretschmar and H.-P. Nee, “An AC Converter With a Small DC link Capacitor for a 15kW 
+Permanent Magnet Synchronous Integral Motor,” Proc. of the International Conference on 
+Power Electronics and Variable Speed Drives, London, Sep. 1998, pp. 622–625. 
+ 
+P. Thelin and H.-P. Nee, “Analytical Calculation of the Airgap Flux Density of PM-Motors 
+With Buried Magnets,” Proc. of the International Conference on Electrical Machines, 
+Istanbul, Sep. 1998. 
+ 
+M. Leksell, L. Harnefors, and H.-P. Nee, “Machine Design Considerations for Sensorless 
+Control of PM Motors,” Proc. of the International Conference on Electrical Machines, 
+Istanbul, Sep. 1998. 
+ 
+J. Engström, F. Magnussen, and H.-P. Nee, “Analytical Calculation of Winding Losses of 
+Inverter-Fed PM Synchronous Motors With Air-Gap Windings and Surface Mounted 
+Magnets,” Proc. of the 7th European Conference on Power Electronics and Applications 
+EPE'97, Trondheim, Norway, 1997. 
+ 
+L. Harnefors and H.-P. Nee, “Full-Order Observers for Flux and Parameter Estimation of 
+Induction Motors,” Proc. of the 7th European Conference on Power Electronics and 
+Applications EPE'97, Trondheim, Norway, 1997. 
+ 
+L. Harnefors, P. Taube, and H.-P. Nee, “An Improved Method for Sensorless Adaptive 
+Control of Permanent-Magnet Synchronous Motors,” Proc. of the 7th European Conference 
+on Power Electronics and Applications EPE'97, Trondheim, Norway, 1997. 
+ 
+L. Harnefors and H.-P. Nee, “Adaptive Sensorless Control of Induction Motors for Improved 
+Low-Speed Performance,” Proc. of the 31st IEEE Industry Applications Society Annual 
+Meeting, San Diego, CA, Oct. 1996. 
+ 
+L. Harnefors and H.-P. Nee, “On the Dynamics of AC Machines and Sampling Rate Selection 
+for Discrete-Time Vector Control,” Proc. of the International Conference on Electrical 
+Machines, ICEM´96, Vigo, Sep. 1996, pp.251–256. 
+ 
+H.-P. Nee and C. Sadarangani, “The Steady-State Torque Equation of Induction Motors With 
+U-Shaped Iron Bridges in the Rotor Slots,” Proc. of the International Conference on Electrical 
+Machines, ICEM´96, Vigo, Sep. 1996, pp. 301–305. 
+  
+H.-P. Nee and F. Gustavson, “On the Choice of Diameter-Length Ratio, Slot-Tooth Ratio and 
+Pole Number of Variable Speed Induction Motor Drives,” Proc. of the International 
+Conference on Electrical Machines, ICEM´96, Vigo, Sep. 1996, pp. 290–295. 
+ 
+T. Korssell, H.-P. Nee, and R. Lindeborg, “Development and Testing of a Measurement 
+Device for Prediction of Stator Core Quality,” Proc. of the International Conference on 
+Electrical Machines, ICEM´96, Vigo, Sep. 1996, pp. 497–502. 
+ 
+L. Harnefors and H.-P. Nee, “Robust Current Control of AC Machines Using the Internal 
+Model Control Method,” Proc. of the IEEE Industry Applications Society 30th Annual 
+Meeting, Orlando, Oct. 1995, vol. 1, pp. 303–309. 
+ 
+
+-----
+H.-P. Nee, “Rotor Slot Design of Inverter-Fed Induction Motors,” Proc. of the IEE Seventh 
+International Conference on Electrical Machines and Drives, Durham, 11–13 Sep. 1995, 
+pp. 52–56. 
+ 
+L. Harnefors and H.-P. Nee, “Recursive Speed, Position, and Parameter Estimation for 
+Sensorless Control of Synchronous Machines,” Proc. of the IEEE International Symposium 
+on Electric Power Engineering, PowerTech, Stockholm, 1995. 
+ 
+H.-P. Nee and E. Nipp, “A contribution to the Calculation of Harmonic Iron Losses of 
+Inverter-fed Induction Motors,” Proc. of the International Conference on Electrical Machines, 
+ICEM '94, vol.3, pp. 698–703. 
+ 
+H.-P. Nee, “The Interaction of Pair Harmonics of Inverter-Fed Induction Motors with Iron 
+Bridges in the Rotor,” Proc. of the International Conference on Electrical Machines, ICEM 
+'94, vol. 1, pp. 300–305. Rewarded as best paper with oral presentation of the conference. 
+ 
+H.-P. Nee and C. Sadarangani, “The Influence of Load and Rotor Slot Design on Harmonic 
+Losses of Inverter-Fed Induction Motors,” Proc. of the 6th International Conference on 
+Electrical Machines and Drives, IEE '93, 8-10 Sep. 1993, pp.173–178. 
+ 
+ 
+
+-----

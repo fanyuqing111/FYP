@@ -1,0 +1,43 @@
+ABSTRACT 
+Since smart computing has become more ubiquitous and distributed, there is a growing need for 
+human machine interface (HMI) that supports a new interaction paradigm. As the media of human-
+machine interaction, HMI is the platform for cognition and communication between human and 
+machine, and the approach for HMI is information transmittal. For machine to recognize and 
+understand the information in the process of human-machine interaction, data is collected and 
+translated by various systems, which mainly contain vision, audition and tactility. A good HMI 
+design can improve the performance, the usability, and the security for Electric Vehicles (EV). 
+Electroencephalogram (EEG) provides a new interacting methodology for HMI in EV without 
+body movement, which reduces the risks of distraction for drivers while driving. By placing 
+multiple noninvasive sensing electrodes on a human scalp to record real-time EEG signals, 
+individual brain activities can be transmitted and classified into specific commands for EV 
+application. Moreover, some neurological disorder, such as epileptic seizure, can be recorded and 
+observed by the EEG-based HMI, to trigger the emergency braking system in EV to prevent any 
+potential traffic accidents. Considering the ease of use, dry electrodes instead of gel-based wet 
+electrodes are selected for monitoring the real-time brain activities in wearable HMI. A typical 
+EEG-based HMI contains three segments: 1) analog front-end interface; 2) analog-to-digital 
+convertor (ADC) and 3) digital processing unit. As the first step of EEG recording, a wearable 
+multi-channel EEG front-end interface is proposed in this design. 
+In order to create a large database for signal analysis and machine learning, multi-channel 
+recording is necessary. With the increasing number of recording channels, hardware cost is 
+considered as one of key parameters for EEG recording. The time division multiplexing (TDM) 
+technique is engaged for hardware saving, and hence maintaining low power consumption based 
+on the proposed two stage cascaded structure during long term monitoring.   
+In consideration of the fact that EEG signals (α, β, θ and δ waves) are mainly located around the 
+baseband (from 0.5 Hz to 100 Hz), which suffer from the detriment of flicker noise, a low noise 
+analog front-end interface is necessary for ensuring good signal quality. The chopping stabilization 
+which is one of the most effective methods for noise reduction, separates the 1/f noise in baseband 
+
+-----
+from the original EEG signal, and dramatically decreases the noise within the frequency range 
+from 0.5 Hz to 100 Hz.  
+EEG signal, due to its small amplitude (1 μV~100 μV), can be easily ruined by large common-
+mode interference. Hence, Common Mode Rejection Ratio (CMRR) is a critical parameter for the 
+EEG front-end interface. In order to improve the CMRR, some circuit-level techniques such as 
+driven right leg (DRL), digital-assisted DRL, common-mode feedback (CMFB) and common-
+mode feed-forward (CMFF) are explored for the cancellation of the common-mode voltage. 
+Comparing with current techniques for CMRR boosting, a system-level innovation of the 
+Chop/Mux structure is proposed to achieve a system-level CMRR of more than 80 dB at 50 Hz, 
+which is among the highest reported to-date.  
+ 
+
+-----

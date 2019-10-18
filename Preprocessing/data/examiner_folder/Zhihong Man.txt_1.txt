@@ -1,0 +1,642 @@
+ 
+Prof. Zhihong Man                                                           
+Faculty of Science, Engineering & Technology 
+School of Software and Electrical Engineering 
+Department of Telecommunications, Electrical and Robotics Engineering, 
+E-mail:- zman@swin.edu.au  
+Mob    :- +61392145175 
+ 
+Research Interests 
+ 
+ 
+Control Systems  
+ 
+Neural Networks 
+ 
+Signal Processing 
+ 
+Diagnosis of Industrial systems 
+ 
+Vehicle dynamics and control 
+ 
+Robotics and Automation 
+ 
+Non-linear control 
+ 
+Fuzzy systems 
+ 
+ 
+Biography 
+ 
+Education 
+ 
+PhD from University of Melbourne Australia 1987. 
+ 
+Master’s Degree from Chinese Academy of Science in 1987 
+ 
+B.Eng  from Shanghai Jiaotong University China 1982 
+ 
+From 1994 to 1996, Zhihong was the Lecturer in the Department of Computer and Communication 
+Engineering at Edith Cowan University, Perth, Australia. From 1996 to 2001, he was the Lecturer and 
+then Senior Lecturer in the School of Engineering at The University of Tasmania, Australia. In 2001, he 
+was the Visiting Senior Fellow in the School of Computer Engineering at Nanyang Technological 
+University (NTU), Singapore. From 2002 to 2007, he was the Associate Professor of Computer 
+Engineering at NTU. From 2007 to 2008, Zhihong was with Monash University Sunway Campus 
+(Malaysia), where he served as the Professor and Head of Electrical and Computer Systems Engineering, 
+the Chair of the Research Committee of the School of Engineering, and the Chair of the Monash Sunway 
+Campus Research Committee. Zhihong is currently the Professor of Robotics and Mechatronics in the 
+Faculty of Science, Engineering and Technology at Swinburne University of Technology, Melbourne, 
+Australia. 
+ 
+Zhihong’s research interests are in nonlinear control, signal processing, robotics, neural networks, fuzzy 
+systems, engineering optimization, diagnosis of industrial systems, vehicle dynamics and control. He has 
+published more than 200 papers in refereed international journals and refereed international conferences 
+proceedings. Since 1994,  
+ 
+Zhihong was the Guest Editor of 6 Special Issues on neural networks, diagnosis of industrial systems and 
+nonlinear control, published in ISCI and ERA journals. Zhihong has been involved in many international 
+conferences in control, robotics, signal processing, neural networks and industrial electronics as General 
+Chair, Program Committee Chair, Track Chair, Session Chair, and the International Advisory Committee 
+
+-----
+and Technical Committees member, including the Chair of the Technical Committee of the third IEEE 
+International Conference on Industrial Electronics and Applications (ICIEA 2008) and the co–Chair of 
+the Program Committee of the Fourth IEEE International Conference on Industrial Electronics and 
+Applications (ICIEA 2009).  
+ 
+In addition, Zhihong received the Nanyang Technological University Best Teacher Award in 2004, and 
+the Most Popular Lecturer in the School of Computer Engineering at NTU from 2002 to 2007. 
+ 
+ 
+Research Grant awards 
+ 
+ 
+2014: Real time intelligent data mining for the Squeak and Rattle problem *; AUTO CRC - Data 
+mining for Squeak and Rattle 
+ 
+2013: Component-level fault prognosis for airfcraft systems *; Defence Science and Technology 
+Organisation 
+ 
+2012: From diesel to electric: a new era in personnel transport for underground coal mines *; 
+ARC Linkage Projects Scheme 
+ 
+2011: Component-level Fault Prognosis for Aircraft Propulsion Systems *; Defence Science and 
+Technology Organisation 
+ 
+2009:Modelling and Removal of Noise and Artefacts in Surveillance and Security Video for 
+Forensic Image Analysis and Enhancement *; ARC Discovery Projects Scheme 
+ 
+Publications and Books 
+ Book 
+o Book chapter Man, Zhihong ; Khoo, Suiyang ; Yu, Xinghuo ; Miao, Chunyan ; Jin, Jiong 
+; Tay, Feisiang ; 2011. A new design of sliding mode control systems. Lecture Notes in 
+Control and Information Sciences: Sliding Modes After the First Decade of the 21st 
+Century: selected papers from the 11th IEEE Workshop on Variable Structure Systems 
+(VSS2010), Mexico City, Mexico, 26-28 June 2010, and the principal meeting for the 
+international project supported by the Fondo de Cooperacion Internacional en Ciencia y 
+Tecnologia Union Europea, Mexico City, Mexico (FONCICYT) 93302 / Leonid 
+Fridman, Jaime Moreno and Rafael Iriarte (eds.). Vol. 412, chapter 5, pp. 151-167 
+o Book chapter Zhang, Yanliang;Ang, Wei Tech;Jin, Jiong;Zhang, Shudong;Man, 
+Zhihong;2008. Nonlinear adaptive sliding mode control for a rotary inverted pendulum. 
+Lecture notes in electrical engineering: Proceedings of the International Multi-
+Conference of Engineers and Computer Scientists (IMECS 2007), Hong Kong, 21-23 
+March 2007. Vol. 5, pp. 345-360 
+o Book Man, Zhihong;2007. An introduction to signals and systems 
+o Book Man, Zhihong;2004. Robotics for computer engineering students. 
+o Book Man, Zhihong;2005. Robotics 
+
+-----
+o Book chapter Yu, Xinghuo;Man, Zhihong;2002. Variable structure systems with terminal 
+sliding modes. Lecture notes in control and information sciences: variable structure 
+systems: towards the 21st century / Xinghuo Yu and Jian-Xin Xu (eds.). pp. 109-127 
+o Book chapter Seng, Kah Phooi;Man, Zhihong;Wu, Hong Ren;Tse, K. M.;2002. An 
+adaptive recurrent network training algorithm using IIR filter model and Lyapunov 
+theory. Recent advances in computers, computing and communications / Nikos 
+Mastorakis and Valeri Mladenov (eds.). pp. 287-289 
+o Book chapter Yu, Shuanghe;Yu, Xinghuo;Man, Zhihong;2001. Indirect adaptive fuzzy 
+control of nonlinear systems with terminal sliding modes. Studies in fuzziness and soft 
+computing: fuzzy logic: a framework for the new millenium / Vladimir Dimitrov and 
+Victor Korotkich (eds.). pp. 263-276 
+ 
+ Journal Publications 
+ 2016 
+o Zhi, Linxian ; Zhu, Yuyang ; Wang, Hai ; Xu, Zhengming ; Man, Zhihong ; 2016. A 
+recurrent neural network for modeling crack growth of aluminium alloy. Neural 
+Computing and Applications. Vol. 27, no. 1 (Jan 2016), pp. 197-203 
+o Xie, L. ; Yang, Y. ; Zhou, Z. ; Zheng, J. ; Tao, M. ; Man, Z. ; 2016. Dynamic neural 
+modeling of fatigue crack growth process in ductile alloys. Information Sciences. Vol. 
+364-365, (Oct 2016), pp. 167-183 
+o Al-Ghanimi, A. ; Zheng, J. ; Man, Z. ; 2016 (in press). A fast non-singular terminal 
+sliding mode control based on perturbation estimation for piezoelectric actuators systems. 
+International Journal of Control. 
+o Man, Zhihong ; Huang, Guang-Bin ; 2016. Guest editorial: Special issue on Extreme 
+learning machine and applications (II). Neural Computing and Applications. Vol. 27, no. 
+2 (Feb 2016), pp. 253-254 
+o Xie, Linsen ; Lu, Chengbo ; Mei, Ying ; Du, Hong ; Man, Zhihong ; 2016. An optimal 
+method for data clustering. Neural Computing and Applications. Vol. 27, no. 2 (Feb 
+2016), pp. 283-289 
+o Do, Manh Tuan ; Man, Zhihong ; Jin, Jiong ; Zhang, Cishen ; Zheng, Jinchuan ; Wang, 
+Hai ; 2016. Sliding mode learning control of non-minimum phase nonlinear systems. 
+International Journal of Robust and Nonlinear Control. Vol. 26, no. 11 (Jul 2016), pp. 
+2281–2298 
+o Man, Zhihong ; Huang, Guang-Bin ; 2016. Guest editorial: Special issue on Extreme 
+learning machine and applications (I). Neural Computing and Applications. Vol. 27, no. 1 
+(Jan 2016), pp. 1-2 
+ 
+ 2015 
+o Zheng, Jinchuan ; Wang, Hai ; Man, Zhihong ; Jin, Jiong ; Fu, Minyue ; 2015. Robust 
+motion control of a linear motor positioner using fast nonsingular terminal sliding mode. 
+IEEE/ASME Transactions on Mechatronics. Vol. 20, no. 4 (Aug 2015), pp. 1743-1752 
+
+-----
+o Al-Ghanimi, Ali ; Zheng, Jinchuan ; Man, Zhihong ; 2015. Robust and fast non-singular 
+terminal sliding mode control for piezoelectric actuators. IET Control Theory and 
+Applications. Vol. 9, no. 18 (2015), pp. 2678–2687 
+o Choudhury, T. A. ; Berndt, C. C. ; Man, Zhihong ; 2015. Modular implementation of 
+artificial neural network in predicting in-flight particle characteristics of an atmospheric 
+plasma spray process. Engineering Applications of Artificial Intelligence. Vol. 45, (Oct 
+2015), pp. 57-70 
+ 
+ 2014 
+o Zhao, Lei ; Cai, Wen-Jian ; Man, Zhihong ; 2014. Neural modeling of vapor compression 
+refrigeration cycle with extreme learning machine. Neurocomputing. Vol. 128, (Mar 
+2014), pp. 242–248 
+o Khoo, Suiyang ; Xie, Lihua ; Zhao, Shengkui ; Man, Zhihong ; 2014. Multi-surface 
+sliding control for fast finite-time leader-follower consensus with high order SISO 
+uncertain nonlinear agents. International Journal of Robust and Nonlinear Control. Vol. 
+24, no. 16 (Nov 2014), pp. 2388–2404 
+o Zhao, Shengkui ; Jones, Douglas L. ; Khoo, Suiyang ; Man, Zhihong ; 2014. Frequency-
+domain beamformers using conjugate gradient techniques for speech enhancement. The 
+Journal of the Acoustical Society of America. Vol. 136, no. 3 (Sep 2014), pp. 1160 
+o Tjiam, Aijiwati ; Jin, Jiong ; Man, Zhihong ; Cao, Zhenwei ; 2014. System dynamics 
+analysis of adaptive modulation problem for rayleigh flat-fading channel. IEEE Wireless 
+Communications Letters. Vol. 3, no. 3 (Jun 2014), pp. 325-328 
+o Man, Zhihong ; Wang, Dianhui ; 2014. Introduction to the special issue on fault diagnosis 
+and prognosis for engineering systems. Computers & Electrical Engineering. Vol. 40, no. 
+7 (2014), pp. 2151-2153 
+o Tuan, Do Manh Tuan ; Man, Zhihong ; Zhang, Cishen ; Jin, Jiong ; Wang, Hai ; 2014. 
+Robust sliding mode learning control for uncertain discrete-time multi-input multi-output 
+systems. IET Control Theory and Applications. Vol. 8, no. 12 (Aug 2014), pp. 1045-1053 
+o Wang, Dianhui ; Man, Zhihong ; 2014. Editorial: Special issue: Data-driven fault 
+diagnosis of industrial systems. Information Sciences. Vol. 259 (Feb 2014), pp. 231-233 
+o Yin, Juliang ; Wang, Wenyi ; Man, Zhihong ; Khoo, Suiyang ; 2014. Statistical modeling 
+of gear vibration signals and its application to detecting and diagnosing gear faults. 
+Information Sciences. Vol. 259 (Feb 2014), pp. 295-303 
+o Kurniawan, Edi ; Cao, Zhenwei ; Man, Zhihong ; 2014. Digital design of adaptive 
+repetitive control of linear systems with time-varying periodic disturbances. IET Control 
+Theory and Applications. Vol. 8, no. 17 (2014), pp. 1995 - 2003 
+o Wang, Hai ; Man, Zhihong ; Shen, Weixiang ; Cao, Zhenwei ; Zheng, Jinchuan ; Jin, 
+Jiong ; Tuan, Do Manh ; 2014. Robust control for steer-by-wire systems with partially 
+known dynamics. IEEE Transactions on Industrial Informatics. Vol. 10, no. 4 (Nov 
+2014), pp. 2003-2015 
+
+-----
+o Kurniawan, E. ; Cao, Z. ; Man, Z. ; 2014. Design of robust repetitive control with time-
+varying sampling periods. IEEE Transactions on Industrial Electronics. Vol. 61, no. 6 
+(Jun 2014), pp. 2834-2841 
+o Zhao, S. ; Jones, D. L. ; Khoo, S. ; Man, Z. ; 2014. New variable step-sizes minimizing 
+mean-square deviation for the lms-type algorithms. Circuits, Systems, and Signal 
+Processing. Vol. 33, no. 7 (2014), pp. 2251-2265 
+o Wang, H. ; Kong, H. ; Man, Z. ; Tuan, D. M. ; Cao, Z. ; Shen, W. ; 2014. Sliding mode 
+control for steer-by-wire systems with AC motors in road vehicles. IEEE Transactions on 
+Industrial Electronics. Vol. 61, no. 3 (2014), pp. 1596-1611 
+o Do, M. T. ; Man, Z. ; Zhang, C. ; Wang, H. ; Tay, F. S. ; 2014. Robust Sliding Mode-
+Based Learning Control for Steer-by-Wire Systems in Modern Vehicles. IEEE 
+Transactions on Vehicular Technology. Vol. 63, no. 2 (Feb 2014), p. 580-590 
+ 
+ 2013 
+o Yin, Juliang ; Wang, Wenyi ; Man, Zhihong ; Khoo, Suiyang ; 2013. Modeling and 
+analysis of gear tooth crack growth under variable-amplitude loading. Mechanical 
+Systems and Signal Processing. Vol. 40, no. 1 (Oct 2013), pp. 105-113 
+o Lee, Kevin ; Man, Zhihong ; Wang, Dianhui ; Cao, Zhenwei ; 2013. Classification of 
+bioinformatics dataset using finite impulse response extreme learning machine for cancer 
+diagnosis. Neural Computing and Applications. Vol. 22, no. 3-4 (Mar 2013), pp. 457-468 
+o Peng, Dezhong ; Xiang, Yong ; Trinh, Hieu ; Man, Zhihong ; 2013. Adaptive blind 
+equalization of time-varying SIMO systems driven by QPSK inputs. Digital Signal 
+Processing. Vol. 23, no. 1 (Jan 2013), pp. 268-274 
+o Choudhury, T. A. ; Berndt, C. C. ; Man, Zhihong ; 2013. An extreme learning machine 
+algorithm to predict the in-flight particle characteristics of an atmospheric plasma spray 
+process. Plasma Chemistry and Plasma Processing. Vol. 33, no. 5 (Oct 2013), pp. 993-
+1023 
+o Man, Zhihong ; Lee, Kevin ; Wang, Dianhui ; Cao, Zhenwei ; Khoo, Suiyang ; 2013. An 
+optimal weight learning machine for handwritten digit image recognition. Signal 
+Processing. Vol. 93, no. 6 (Jun 2013), pp. 1624-1638 
+o Khoo, Suiyang ; Yin, Juliang ; Man, Zhihong ; Yu, Xinghuo ; 2013. Finite-time 
+stabilization of stochastic nonlinear systems in strict-feedback form. Automatica. Vol. 49, 
+no. 5 (May 2013), pp. 1403-1410 
+o Wang, Hai ; Man, Zhihong ; Shen, Weixiang ; Zheng, Jinchuan ; Tuan, Do Manh ; 2013. 
+Robust sliding mode control for steer-by-wire systems in ground vehicles. SAE-A 
+Technical Journal. 2013 Excellence Awards, (2013), pp. 47-55 
+ 2012 
+o Tay, Feisiang ; Man, Zhihong ; Cao, Zhenwei ; Khoo, Suiyang ; Tan, Chee Pin ; 2012. 
+Sliding mode-like learning control for SISO complex systems with T-S fuzzy models. 
+International Journal of Modelling, Identification and Control. Vol. 16, no. 4, pp. 317-
+326 
+
+-----
+o Man, Zhihong ; Yu, Xinghuo ; 2012. Preface: variable structure systems. Australian 
+Journal of Electrical and Electronics Engineering. Vol. 9, no. 1 (2012) 
+o Man, Zhihong ; Lee, Kevin ; Wang, Dianhui ; Cao, Zhenwei ; Khoo, Suiyang ; 2012. 
+Robust single-hidden layer feedforward network-based pattern classifier. IEEE 
+Transactions on Neural Networks and Learning Systems. Vol. 23, no. 12 (2012), pp. 
+1974-1986 
+o Khoo, Suiyang ; Zhao, Shengkui ; Man, Zhihong ; 2012. Adaptive fast finite-time 
+multiple-surface sliding control for a class of uncertain non-linear systems. International 
+Journal of Modelling, Identification and Control. Vol. 16, no. 4 (2012), pp. 392-400 
+o Man, Zhihong ; Wang, Wenyi ; Khoo, Suiyang ; Yin, Juliang ; 2012. Optimal sinusoidal 
+modelling of gear mesh vibration signals for gear diagnosis and prognosis. Mechanical 
+Systems and Signal Processing. Vol. 33 (Nov 2012), pp. 256-274 
+ 
+ 2011 
+o Yu, Xinghuo ; Wang, Bin ; Batbayar, Batsukh ; Wang, Liuping ; Man, Zhihong ; 2011. 
+An improved training algorithm for feedforward neural network learning based on 
+terminal attractors. Journal of Global Optimization. Vol. 51, no. 2 (Oct 2011), pp. 271-
+284 
+o Yin, Juliang ; Khoo, Suiyang ; Man, Zhihong ; Yu, Xinghuo ; 2011. Finite-time stability 
+and instability of stochastic nonlinear systems. Automatica. Vol. 47, no. 12 (Dec 2011), 
+pp. 2671-2677 
+o Man, Zhihong ; Lee, Kevin ; Wang, Dianhui ; Cao, Zhenwei ; Miao, Chunyan ; 2011. A 
+new robust training algorithm for a class of single-hidden layer feedforward neural 
+networks. Neurocomputing: selected papers of the 10th International Work-Conference 
+on Artificial Neural Networks (IWANN2009), Salamanca, Spain, 10-12 June 2009. Vol. 
+74, no. 16 (Sep 2011), pp. 2491-2501 
+ 
+ 2010 
+o Ng, Kok Yew ; Tan, Chee Pin ; Man, Zhihong ; Akmeliawati, Rini ; 2010. New results in 
+disturbance decoupled fault reconstruction in linear uncertain systems using two sliding 
+mode observers in cascade. International Journal of Control Automation and Systems. 
+Vol. 8, no. 3 (Jun 2010), pp. 506-518 
+o Tan, Chee Pin ; Yu, Xinghuo ; Man, Zhihong ; 2010. Terminal sliding mode observers 
+for a class of nonlinear systems. Automatica. Vol. 46, no. 8 (Aug 2010), pp. 1401-1404 
+ 
+ Other 
+o Zhao, Shengkui;Man, Zhihong;Khoo, Suiyang;Wu, Hong Ren;2009. Stability and 
+convergence analysis of transform-domain LMS adaptive filters with second-order 
+
+-----
+autoregressive process. IEEE Transactions on Signal Processing. Vol. 57, no. 1 (Jan 
+2009), pp. 119-130 
+o Zhao, Shengkui;Man, Zhihong;Khoo, Suiyang;2009. A generalized data windowing 
+scheme for adaptive conjugate gradient algorithms. Signal Processing. Vol. 89, no. 5 
+(May 2009), pp. 894-900 
+o Zhao, Shengkui;Man, Zhihong;Khoo, Suiyang;Wu, Hong Ren;2009. Variable step-size 
+LMS algorithm with a quotient form. Signal Processing. Vol. 89, no. 1 (Jan 2009), pp. 
+67-76 
+o Khoo, Suiyang;Xie, Lihua Hua;Man, Zhihong;2009. Robust finite-time consensus 
+tracking algorithm for multirobot systems. IEEE/ASME Transactions on Mechatronics. 
+Vol. 14, no. 2 (Apr 2009), pp. 219-228 
+o Gao, Shiyu;Man, Zhihong;Yu, Xinghuo;2009. Feedback control of T-S fuzzy systems 
+based on LTV system theory. International Journal of Electrical Engineering Education. 
+Vol. 46, no. 1 (Jan 2009), pp. 47-58 
+o Khoo, Suiyang;Man, Zhihong;Zhao, Shengkui;2008. Comments on 'Adaptive multiple-
+surface sliding control for non-autonomous systems with mismatched uncertainties'. 
+Automatica. Vol. 44, no. 11 (Nov 2008), pp. 2995-2998 
+o Zhang, Xiaojiang;Man, Zhihong;2008. A new stability criterion and its application on 
+process control systems with time-delay. Proceedings of the 3rd IEEE Conference on 
+Industrial Electronics and Applications (ICIEA 2008), Singapore, 03-05 June 2008. pp. 
+1650-1653 
+o Suiyang, Khoo;Man, Zhihong;Zhao, Shengkui;2008. Adaptive fast finite time control of a 
+class of uncertain nonlinear systems. Proceedings of the 3rd IEEE Conference on 
+Industrial Electronics and Applications (ICIEA 2008), Singapore, 03-05 June 2008. pp. 
+2167-2172 
+o Zhao, Shengkui;Man, Zhihong;Khoo, Suiyang;2008. On performance of transform 
+domain adaptive filters with Markov-2 inputs. Proceedings of the 3rd IEEE Conference 
+on Industrial Electronics and Applications (ICIEA 2008), Singapore, 03-05 June 2008. 
+pp. 989-994 
+o Yu, Shuanghe;Yu, Xinghuo;Man, Zhihong;Feng, Yong;2008. On singularity free 
+recursive fast terminal sliding mode control. Proceedings of the 10th IEEE International 
+Workshop on Variable Structure Systems (VSS 2008), Antalya, Turkey, 08-10 June 
+2008. pp. 163-166 
+o Man, Zhihong;Shen, Weixiang;Yu, Xinghuo;2008. A new terminal sliding mode tracking 
+control for a class of nonminimum phase systems with uncertain dynamics. Proceedings 
+of the 10th International Workshop on Variable Structure Systems (VSS 2008), Antalya, 
+Turkey, 08-10 June 2008. pp. 147-152 
+o Khoo, Suiyang;Man, Zhihong;Zhao, Shengkui;2007. Sliding mode control of fuzzy 
+dynamic systems. International Journal of Systems and Control. Vol. 1 (2007), pp. 24-32 
+o Man, Zhihong;Yu, Xinghuo;2007. Modelling and stability analysis of nonlinear TCP 
+dynamics with RED. WSEAS Transactions on Mathematics. Vol. 6, no. 8 (Aug 2007), 
+pp. 796-801 
+
+-----
+o Man, Zhihong;Wu, Hong Ren;Liu, Sophie;Yu, Xinghuo;2006. A new adaptive 
+backpropagation algorithm based on Lyapunov stability theory for neural networks. IEEE 
+Transactions on Neural Networks. Vol. 17, no. 6 (Nov 2006), pp. 1580-1591 
+o Yu, Shuanghe;Yu, Xinghuo;Shirinzadeh, Bijan;Man, Zhihong;2005. Continuous finite-
+time control for robotic manipulators with terminal sliding mode. Automatica. Vol. 41, 
+no. 11 (Nov 2005), pp. 1957-1964 
+o Yu, Shuanghe;Yu, Xinghuo;Man, Zhihong;2004. A fuzzy neural network approximator 
+with fast terminal sliding mode and its applications. Fuzzy Sets and Systems. Vol. 148, 
+no. 3 (Dec 2004), pp. 469-486 
+o Phooi, Seng Kah;Liu, Han Leih;Man, Zhihong;2002. Further investigation of Lyapunov 
+stability theory. WSEAS Transactions on Mathematics. Vol. 1, no. 2 (2002), pp. 108-110 
+o Feng, Yong;Yu, Xinghuo;Man, Zhihong;2002. Non-singular terminal sliding mode 
+control of rigid manipulators. Automatica. Vol. 38, no. 12 (Dec 2002), pp. 2159-2167 
+o Man, Zhihong;Yu, Xinghuo;2002. A new output regulation using sliding-mode technique 
+for a class of SISO linear time-varying systems. IEEE Transactions on Circuits and 
+Systems I: Fundamental Theory and Applications. Vol. 49, no. 12 (Dec 2002), pp. 1880-
+1884 
+o Yu, Xinghuo;Man, Zhihong;2002. Fast terminal sliding-mode control design for 
+nonlinear dynamical systems. IEEE Transactions on Circuits and Systems I: Fundamental 
+Theory and Applications. Vol. 49, no. 2 (Feb 2002), pp. 261-264 
+o Seng, Kah Phooi;Man, Zhihong;Wu, Hong Ren;2002. Lyapunov-theory-based radial 
+basis function networks for adaptive filtering. IEEE Transactions on Circuits and Systems 
+I: Fundamental Theory and Applications. Vol. 49, no. 8 (2002), pp. 1215-1220 
+o Mei, F.;Man, Zhihong;Nguyen, T.;2001. Fuzzy modelling and tracking control of 
+nonlinear systems. Mathematical and Computer Modelling. Vol. 33, no. 6-7 (Mar-Apr 
+2001), pp. 759-770 
+o Journal article Yu, Xinghuo;Man, Zhihong;1999. Fuzzy sliding mode control systems 
+with adaptive estimation. Cybernetics and Systems. Vol. 30, no. 7 (1999), pp. 663-680 
+o Journal article Man, Zhihong;Wu, H. R.;Palaniswami, M.;1998. An adaptive tracking 
+controller using neural networks for a class of nonlinear systems. IEEE Transactions on 
+Neural Networks. Vol. 9, no. 5 (Sep 1998), pp. 947-955 
+o Journal article Man, Zhihong;Paplinski, A. P.;Wu, H. R.;1994. A robust MIMO terminal 
+sliding mode control scheme for rigid robotic manipulators. IEEE Transactions on 
+Automatic Control. Vol. 39, no. 12 (Dec 1994), pp. 2464-2469 
+ 
+ Conference Publications 
+o Al-Ghanimi, Ali ; Zheng, Jinchuan ; Man, Zhihong ; 2015. Robust control of Piezoelectric 
+Actuator using Fast Nonsingular Terminal Sliding Mode. Proceedings of the 10th IEEE 
+Conference on Industrial Electronics and Applications, Auckland, New Zealand, 15-17 June 
+2015. pp. 256-261 
+
+-----
+o Sun, Zhe ; Zheng, Jinchuan ; Man, Zhihong ; Jin, Jiong ; 2014. Discrete-time iterative learning 
+control for vehicle Steer-by-Wire systems. Proceedings of the 2014 9th IEEE Conference on 
+Industrial Electronics and Applications (ICIEA), Hangzou, China, 09-11 June 2014.  
+o Sayem, A. H. M. ; Cao, Zhenwei ; Man, Zhihong ; Kurniawan, Edi ; 2014. Modified ESO based 
+RC for improved disturbance rejection capability for the plant with time-varying uncertainty. 
+Proceedings of the 6th International Conference on Modelling, Identification and Control (ICMIC 
+2014), Melbourne, Australia, 03-05 December 2014. pp. 184-189 
+o Law, Yee Wei ; Pota, Hemanshu R. ; Jin, Jiong ; Man, Zhihong ; Palaniswami, Marimuthu ; 
+2014. Control and communication techniques for the smart grid: an energy efficiency perspective. 
+Proceedings of the 19th World Congress of the International Federation of Automatic Control, 
+Cape Town, South Africa, 24-29 August 2014 / Edward Boje and Xiaohua Xia (eds.). Vol. 19, 
+part 1, pp. 987-998 
+o Zhao, Dongya ; Liu, Chao ; Zhu, Quanmin ; Man, Zhihong ; 2014. Task space synchronized 
+control for multiple robotic manipulators. 33rd Chinese Control Conference (CCC), Nanjing, 
+China, 28-30 July 2014 / S. Xu and Q. Zhao (eds.). pp. 1856-1861 
+o Chuei, Raymond ; Cao, Zhenwei ; Mitrevska, Maria ; Man, Zhihong ; 2014. Sliding mode based 
+repetitive control for improved reference tracking. Proceedings of the 6th International 
+Conference on Modelling, Identification and Control (ICMIC 2014), Melbourne, Australia, 03-05 
+December 2014. pp. 166 - 171 
+o Tuan, Do Manh ; Man, Zhihong ; Zhang, Cishen ; Zheng, Jinchuan ; 2013. Sliding mode learning 
+control for nonminimum phase nonlinear systems. 8th IEEE Conference on Industrial Electronics 
+and Applications (ICIEA), Melbourne, Australia, 19-21 June 2013. p. 1290-1295 
+o Wang, Hai ; Man, Zhihong ; Shen, Weixiang ; Zheng, Jinchuan ; 2013. Robust sliding mode 
+control for Steer-by-Wire systems with AC motors in road vehicles. 8th IEEE Conference on 
+Industrial Electronics and Applications (ICIEA), Melbourne, Victoria, Australia, 19-21 June 
+2013. pp. 674-679 
+o Tay, Fei Siang ; Man, Zhihong ; Jin, Jiong ; Khoo, Sui Yang ; Zheng, Jinchuan ; Wang, Hai ; 
+2013. Sliding mode based learning control for interconnected systems. Proceedings of the 8th 
+IEEE Conference on Industrial Electronics and Applications (ICIEA 2013), Melbourne, 
+Australia, 19-21 June 2013. pp. 816-821 
+o Khoo, Suisan ; Man, Zhihong ; Cao, Zhenwei ; Zheng, Jinchuan ; 2013. German vs. Austrian folk 
+song classification. Proceedings of the 2013 IEEE 8th Conference on Industrial Electronics and 
+Applications (ICIEA), Melbourne, Australia, 19-21 June 2013.. pp. 131-136 
+o Khoo, Suiyang ; Yin, Juliang ; Man, Zhihong ; 2013. Finite-time stabilization of a class of high-
+order stochastic nonlinear systems. Proceedings of the 32nd Chinese Control Conference (CCC 
+2013), Xi'an, China, July 26-28, 2013. pp. 1637-1641 
+o Tuan, D. M. ; Man, Zhihong ; Zhang, Cishen ; Zheng, Jinchuan ; 2013. Sliding mode learning 
+control for nonminimum phase nonlinear systems. 8th IEEE Conference on Industrial Electronics 
+and Applications (ICIEA), Melbourne, Victoria, Australia, 19-21 June 2013. pp. 1290-1295 
+o Kurniawan, Ed ; Cao, Zhenwei ; Man, Zhihong ; 2013. Design of decentralized repetitive control 
+of linear MIMO system. Proceedings of the 8th IEEE Conference on Industrial Electronics and 
+Applications (ICIEA 2013), Melbourne, Australia, 19-21 June 2013. pp. 427-432 
+o Khoo, Suisin ; Man, Zhihong ; Cao, Zhenwei ; 2012. Automatic Han Chinese folk song 
+classification using the musical feature density map. Proceedings of the 6th International 
+Conference on Signal Processing and Communication Systems (ICSPCS 2012), Gold Coast, 
+Queensland, Australia, 12-14 December 2012.  
+
+-----
+o Wang, Hai ; Man, Zhihong ; Kong, Huifang ; Shen, Weixiang ; 2012. Terminal sliding mode 
+control for steer-by-wire system in electric vehicles. Proceedings of the 2012 7th IEEE 
+Conference on Industrial Electronics and Applications (ICIEA 2012), Singapore, 18-20 July 
+2012. pp. 919-924 
+o Tay, Fei Siang ; Man, Zhihong ; Cao, Zhenwei ; Jin, Jiong ; Khoo, Sui Yang ; 2012. A robust 
+learning control for SISO nonlinear systems with T-S fuzzy model: C02-robust control. 
+Proceedings of the 2012 12th International Conference on Control, Automation, Robotics and 
+Vision (ICARCV 2012), Guangzhou, China, 05-07 December 2012. pp. 492-497 
+o Khoo, Suisin ; Man, Zhihong ; Cao, Zhenwei ; 2012. Automatic Han Chinese folk song 
+classification using extreme learning machines. Lecture notes in computer science: proceedings 
+of the 25th Australasian Joint Conference on Artificial Intelligence (AI 2012), Sydney, New 
+South Wales, Australia, 04-07 December 2012 / Michael Thielscher and Dongmo Zhang (eds.). 
+Vol. 7691, pp. 49-60 
+o Khoo, Suiyang ; Yin, Juliang ; Man, Zhihong ; 2012. Adaptive finite-time stabilization of a class 
+of stochastic nonlinear systems. Proceedings of the 2012 12th International Conference on 
+Control, Automation, Robotics and Vision (ICARCV 2012), Guangzhou, China, 05-07 December 
+2012. pp. 1250-1255 
+o Tuan, Do Manh ; Man, Zhihong ; Zhang, Cishen ; Jin, Jiong ; 2012. A new sliding mode-based 
+learning control for uncertain discrete-time systems. Proceedings of the 2012 12th International 
+Conference on Control, Automation, Robotics and Vision (ICARCV 2012), Guangzhou, China, 
+05-07 December 2012. pp. 741-746 
+o Xu, Zhengya ; Wu, Hong Ren ; Yu, Xinghuo ; Man, Zhihong ; 2011. Adaptive surveillance video 
+noise suppression. Proceedings of the 24th Canadian Conference on Electrical and Computer 
+Engineering (CCECE 2011), Niagara Falls, United States, 08-11 May 2011. pp. 000985-000988 
+o Tay, Feisiang ; Man, Zhihong ; Cao, Zhenwei ; 2011. Sliding mode learning control for SISO 
+complex systems with T-S fuzzy models. Proceedings of the 37th Annual Conference of the IEEE 
+Industrial Electronics Society (IECON 2011), Melbourne, Victoria, Australia, 07-10 November 
+2011. pp. 751-756 
+o Man, Zhihong ; Khoo, Suiyang ; Yu, Xinghuo ; Jin, Jiong ; 2011. A new sliding mode-based 
+learning control scheme. Proceedings of the 6th IEEE Conference on Industrial Electronics and 
+Applications (ICIEA 2011), Beijing, China, 21-23 June 2011. pp. 1906-1911 
+o Lee, Kevin ; Man, Zhihong ; Wang, Dianhui ; Cao, Zhenwei ; 2011. Classification of microarray 
+datasets using finite impulse response extreme learning machine for cancer diagnosis. 
+Proceedings of the 37th Annual Conference of the IEEE Industrial Electronics Society (IECON 
+2011), Melbourne, Victoria, Australia, 07-10 November 2011. pp. 2347-2352 
+o Xu, Zhengya ; Wu, Hong Ren ; Yu, Xinghuo ; Man, Zhihong ; Tan, Damian M. ; 2011. 
+Composite video noise modelling and suppressing. Proceedings of the 13th International 
+Conference on Signal and Image Processing (SIP 2011), Dallas, Texas, United States, 14-16 
+December 2011 / K. R. Rao (ed.). pp. 43-49 
+o Khoo, Suiyang ; Yin, Juliang ; Wang, Bin ; Zhao, Shengkui ; Man, Zhihong ; 2011. Adaptive data 
+based neural network leader-follower control of multi-agent networks. Proceedings of the 37th 
+Annual Conference of the IEEE Industrial Electronics Society (IECON 2011), Melbourne, 
+Victoria, Australia, 07-10 November 2011. pp. 3924-3929 
+o Xu, Zhengya ; Wu, Hong Ren ; Yu, Xinghuo ; Man, Zhihong ; 2011. Modeling of surveillance 
+video noise. Proceedings of the 8th IASTED International Conference on Signal Processing, 
+
+-----
+Pattern Recognition, and Applications (SPPRA 2011), Innsbruck, Austria, 16-18 February 2011 / 
+M. H. Hamza and J. J. Zhang (eds.).  
+o Man, Zhihong ; Lee, Kevin ; Wang, Dianhui ; Cao, Zhenwei ; Miao, Chunyan ; 2011. A modified 
+ELM algorithm for single-hidden layer feedforward neural networks with linear nodes. 
+Proceedings of the 6th IEEE Conference on Industrial Electronics and Applications (ICIEA 
+2011), Beijing, China, 21-23 June 2011. pp. 2524-2529 
+o Kurniawan, E. ; Cao, Z. ; Man, Z. ; 2011. Adaptive repetitive control of system subject to 
+periodic disturbance with time-varying frequency. Proceedings of the First International 
+Conference on Informatics and Computational Intelligence (ICI 2011), Bandung, Indonesia, 12-
+13 December 2011. pp. 185-190 
+o Kurniawan, E. ; Cao, Z. ; Man, Z. ; 2011. Robust design of repetitive control system. Proceedings 
+of the 37th Annual Conference of the IEEE Industrial Electronics Society (IECON 2011), 
+Melbourne, Victoria, Australia, 07-10 November 2011. pp. 722-727 
+o Yin, Juliang ; Khoo, Suiyang ; Man, Zhihong ; 2011. A finite-time stability theorem of stochastic 
+nonlinear systems and stabilization designs. Proceedings of the 6th IEEE Conference on 
+Industrial Electronics and Applications (ICIEA 2011), Beijing, China, 21-23 June 2011. pp. 
+1288-1292 
+o Khoo, Suiyang ; Xie, Lihua ; Man, Zhihong ; 2010. Leader-follower consensus control of a class 
+of nonholonomic systems. Proceedings of the 11th International Conference on Control, 
+Automation, Robotics and Vision (ICARCV 2010), Singapore, 07-10 December 2010. pp. 1381-
+1386 
+o Zhao, Shengkui ; Cai, Jianfei ; Man, Zhihong ; 2010. Nonlinear image restoration using recurrent 
+radial basis function network. Proceedings of 'Nano-Bio Circuit Fabrics and Systems', the IEEE 
+International Symposium on Circuits and Systems (ISCAS 2010), Paris, France, 30 May - 02 
+June 2010. pp. 1161-1164 
+o Khoo, Suiyang ; Trinh, Hieu Minh ; Man, Zhihong ; Shen, Weixiang ; 2010. Fast finite-time 
+consensus of a class of high-order uncertain nonlinear systems. Proceedings of the 5th IEEE 
+Conference on Industrial Electronics and Applications (ICIEA 2010), Taichung, Taiwan, 15-17 
+June 2010. pp. 2076-2081 
+o Jin, Jiong ; Law, Yee Wei ; Palaniswami, Marimuthu ; Man, Zhihong ; 2010. A unified flow 
+control approach for QoS balance in differentiated services. Proceedings of the IEEE 
+International Conference on Communications (ICC 2010), Cape Town, South Africa, 23-27 May 
+2010. article no. 5502604 
+o Dharmaweera, Madushanka Nishan ; Khoo, Sui Yang ; Man, Zhihong ; 2010. Navigation of four-
+wheel-steering mobile robots using robust fault-tolerant sliding mode control. Proceedings of the 
+11th International Conference on Control, Automation, Robotics and Vision (ICARCV 2010), 
+Singapore, 07-10 December 2010. pp. 1375-1380 
+o Zhao, Guopeng;Shen, Zhiqi;Miao, Chunyan;Man, Zhihong;2009. On improving the conditioning 
+of extreme learning machine: a linear case. Proceedings of the 7th International Conference on 
+Information, Communications and Signal Processing (ICICS 2009), Macau Fisherman's Wharf, 
+Macau, 08-10 December 2009.  
+o Jones, Lim Jen Nee;Tan, Chee Pin;Man, Zhihong;Akmeliawati, Rini;2009. Preliminary design of 
+sliding mode controller for angular positional tracking of an aircraft. Proceedings of the 7th Asian 
+Control Conference (ASCC 2009), Hong Kong, China, 27-29 August 2009. pp. 483-488 
+o Zhao, Shengkui;Man, Zhihong;Khoo, Suiyang;2009. A class of modified variable step-size 
+NLMS algorithms for system identification. Proceedings of the 4th IEEE Conference on 
+
+-----
+Industrial Electronics and Applications (ICIEA 2009), Xi'an, China, 25-27 May 2009. pp. 2987-
+2991 
+o Khoo, Suiyang;Xie, Linhua;Man, Zhihong;Zhao, Shengkui;2009. Observer-based robust finite-
+time cooperative consensus control for multi-agent networks. Proceedings of the 4th IEEE 
+Conference on Industrial Electronics and Applications (ICIEA 2009), Xi'an, China, 25-27 May 
+2009. pp. 1883-1888 
+o Khoo, S.;Xie, L.;Man, Z.;2009. Integral terminal sliding mode cooperative control of multi-robot 
+networks. Paper presented at the IEEE/ASME International Conference on Advanced Intelligent 
+Mechatronics, Singapore, 14-17 July 2009. pp. 969-973 
+o Zhao, Shengkui;Man, Zhihong;Khoo, Suiyang;2007. Conjugate gradient algorithm design with 
+RLS normal equation. Proceedings of the 6th International Conference on Information, 
+Communications and Signal Processing (ICICS 2007), Singapore, 10-13 December 2007.  
+o Zhang, Ke;Fu, Cheng Peng;Man, Zhihong;Foh, Chuan Heng;2007. Queue dynamics analysis of 
+TCP Veno with RED. Proceedings of the IEEE Wireless Communications and Networking 
+Conference (WCNC 2007), Kowloon, Hong Kong, 11-15 March 2007. pp. 3027-3031 
+o Zhao, Shengkui;Man, Zhihong;Khoo, Suiyang;2007. A new variable step-size transform domain 
+LMS algorithm with system identification. Proceedings of the IEEE International Conference on 
+Control and Automation (ICCA 2007), Guangzhou, China, 30 May - 01 June 2007. pp. 2721-
+2724 
+o Zhang, Yanliang;Ang, Wei Tech;Jin, Jiong;Man, Zhihong;2007. Non-linear sliding mode control 
+for a rotary inverted pendulum. Lecture notes in engineering and computer science: proceedings 
+of the International Multiconference of Engineers and Computer Scientists (IMECS 2007), Hong 
+Kong, 21-23 March 2007. Vols I and II, pp. 1433-1438 
+o Fu, Cheng Peng;Foh, Chuan Heng;Lau, Chiew Tong;Man, Zhihong;Lee, Bu Sung;2007. Semi-
+Markov modeling for bandwidth sharing of TCP connections with asymmetric AIMD congestion 
+control. Proceedings of the 50th IEEE Global Telecommunications Conference (GLOBECOM 
+2007), Washington, District of Columbia, United States, 26-30 November 2007. pp. 2014-2018 
+o Khoo, Suiyang;Man, Zhihong;Zhao, Shengkui;2007. Terminal sliding mode control for MIMO 
+T-S fuzzy systems. Proceedings of the 6th International Conference on Information, 
+Communications and Signal Processing, Singapore, 10-13 December 2007. pp. 1-5 
+o Zhao, Shengkui;Man, Zhihong;Khoo, Suiyang;2007. A fast variable step-size LMS algorithm 
+with system identification. Proceedings of the 2nd IEEE Conference on Industrial Electronics and 
+Applications (ICIEA 2007), Harbin, China, 23-25 May 2007. pp. 2340-2345 
+o Khoo, Suiyang;Man, Zhihong;Zhao, Shengkui;2007. Adaptive fuzzy multi-surface sliding mode 
+for control for a class of nonlinear systems. Proceedings of the 2nd IEEE Conference on 
+Industrial Electronics and Applications (ICIEA 2007), Harbin, China, 23-25 May 2007. pp. 1095-
+1100 
+o Suiyang, Khoo;Man, Zhihong;Zhao, Shengkui;2006. Sliding mode control of fuzzy dynamic 
+systems. Proceedings of the 9th International Conference on Control, Automation, Robotics and 
+Vision (ICARCV '06), Singapore, 05-08 December 2006.  
+o Zhao, Shengkui;Man, Zhihong;Suiyang, Khoo;2006. Modified LMS and NLMS algorithms with 
+a new variable step size. Proceedings of the 9th International Conference on Control, Automation, 
+Robotics and Vision (ICARCV 2006), Singapore, 05-08 December 2006.  
+o Man, Zhihong;Yu, X.;Zhang, X.;Gao, S.;2004. Fuzzy modelling and control for SISO complex 
+systems. Paper presented at the 2nd International Conference on Artificial Intelligence in Science 
+and Technology (AISAT 2004), Hobart, Tasmania, Australia, 21-25 November 2004.  
+
+-----
+o Fan, Sophie Liu Xiao;Man, Zhihong;Samur, Rashi;2004. Edge based region growing: a new 
+image segmentation method. Virtual reality continuum and its applications: Proceedings of the 
+2004 ACM SIGGRAPH International Conference on Virtual Reality Continuum and its 
+Applications in Industry (VRCAI 2004), Singapore, 16-18 June 2004. pp. 302-305 
+o Man, Zhihong;Yu, Xinghuo;Zhang, Xiaojiang;Gao, Shiyu;2003. A new dynamical fuzzy 
+modeling and control for SISO complex systems. Proceedings of the 29th IEEE Industrial 
+Electronics Conference (IECON 2003), Roanoke, Virginia, United States, 02-06 November 2003. 
+Vol. 3, pp. 2995-3000 
+o Gao, Shiyu;Man, Zhihong;Yu, Xinghuo;2003. Stabilization of T-S fuzzy systems using LTV 
+system theory. Proceedings of the 2003 IEEE International Symposium on Intelligent Control 
+(ISIC 2003), Houston, Texas, United States, 05-08 October 2003. pp. 122-127 
+o Man, Zhihong;Liu, S.;Yu, Xinghuo;Zhao, X.;2003. A new dynamical fuzzy modeling and 
+eigenstructure assisgnment control for SISO complex. Proceedings of the IASTED International 
+Conference on Artificial Intelligence and Applications (AIA 2003), Benalmadena, Spain, 08-10 
+September 2003 / M. H. Hamza (ed.).  
+o Liu, Sophie;Man, Zhihong;Kumar, Siva;Cai, Y. Y.;2003. Video analysis and knowledge based 
+fire detection. Proceedings of the IASTED International Conference on Visualization, Imaging 
+and Image Processing (VIIP 2003), Benalmadena, Spain, 08-10 September 2003 / M. H. Hamza 
+(ed.). paper no. 396-243 
+o Yu, Xinghuo;Man, Zhihong;Yong, Feng;Zhihong, Guan;2002. Nonsingular terminal sliding 
+mode control of a class of nonlinear dynamical systems. Proceedings of the 15th International 
+Federation of Automatic Control World Congress (IFAC 2002), Barcelona, Spain, 21-26 July 
+2002, vol. 15, part 1 / Luis Basanez and Juan A. de la Puente (eds.).  
+o Wu, Yuqiang;Yu, Xinghuo;Man, Zhihong;2002. A hybrid finite time variable structure controller 
+for rigid robotic manipulators. Proceedings of the 15th International Federation of Automatic 
+Control World Congress (IFAC 2002), Barcelona, Spain, 21-26 July 2002, vol. 15, part 1 / Luis 
+Basanez and Juan A. de la Puente (eds.).  
+o Chong, S.;Feng, Y.;Yu, X.;Man, Zhihong;2002. Robust controller design for a single-link flexible 
+manipulator. Paper presented at the 7th International Workshop on Variable Structure Systems 
+(VSS '02), Sarajevo, Bosnia, 17-19 July 2002. 
+o Feng, Yong;Yu, Xinghuo;Man, Zhihong;2001. Non-singular terminal sliding mode control and 
+its application for robot manipulators. Proceedings of the IEEE International Symposium on 
+Circuits and Systems (ISCAS 2001), Sydney, New South Wales, Australia, 06-09 May 2001. Vol. 
+3, pp. 545-548 
+o Feng, Yong;Yu, Xinghuo;Man, Zhihong;2001. Adaptive fast terminal sliding mode tracking 
+control of robotic manipulator. Proceedings of the 40th IEEE Conference on Decision and 
+Control (CDC 2001), Orlando, Florida, United States, 04-07 December 2001. Vol. 4, pp. 4021-
+4026 
+o Seng, Seng Kah;Man, Zhihong;Yap, C.;Wu, H.;2000. A new concurrent algorithm for adaptive 
+filtering in parallel signal processing. Paper presented at the 4th International Conference on 
+Algorithms and Architectures for Parallel Processing (ICA3PP 2000), Hong Kong, 11-13 
+December 2000.  
+o Seng, K.;Man, Zhihong;Wu, H.;2000. Designing a fuzzy adaptive NLMS filter. Paper presented 
+at the International Conference on Artificial Intelligence in Science and Technology (AISAT 
+2000), Hobart, Tasmania, Australia, 16-20 December 2000.  
+
+-----
+o Seng, K. P.;Man, Z.;Wu, H.;2000. A new approach in fuzzy adaptive filtering. Paper presented at 
+'With Fuzzy Logic In The New Millennium', the Second International Discourse on Fuzzy Logic, 
+Mackay, Queensland, Australia, 18-22 September 2000.  
+o Seng, Kah;Man, Zhihong;Chui, Wai.;Wu, H. R.;2000. On-line identification of nonlinear system 
+using polynomial basis function neural network and Lyapunov theory. Paper presented at the 
+International Conference on Artificial Intelligence in Science and Technology (AISAT 2000), 
+Hobart, Tasmania, Australia, 16-20 December 2000.  
+o Man, Z.;Phooi, S. K.;Wu, H. R.;2000. Designing a fuzzy gain Lyapunov adaptive filter algorithm. 
+Paper presented at 'With Fuzzy Logic In The New Millennium', the Second International 
+Discourse on Fuzzy Logic, Mackay, Queensland, Australia, 18-22 September 2000.  
+o Chong, Sze-San;Yu, Xinghuo;Yu, Shuanghe;Man, Zhihong;2000. Robust terminal sliding mode 
+control of a flexible robot arm. Advances in variable structure systems: analysis, integration and 
+applications: proceedings of the 6th IEEE International Workshop on Variable Structure Systems, 
+Gold Coast, Queensland, Australia, 07-09 December 2000 / Xinghuo Yu and Jian-Xin Xu (eds.). 
+pp. 500-508 
+o Zhang, Xiaojiang;Man, Zhihong;Yu, Xinghuo;2000. A new fuzzy sliding mode control scheme. 
+Proceedings of the World Congress on Intelligent Control and Automation (WCICA 2000), 
+Hefei, China, 28 June-02 July 2000 / X. Cao and J. Mao (eds.). Vol. 3, pp. 1692-1696 
+o Feng, Yong;Han, Fengling;Yu, Xinghuo;Stonier, Daniel;Man, Zhihong;2000. Tracking precision 
+analysis of terminal sliding mode control systems with saturation functions. Advances in variable 
+structure systems: analysis, integration and applications: proceedings of the 6th IEEE 
+International Workshop on Variable Structure Systems, Gold Coast, Queensland, Australia, 07-09 
+December 2000 / Xinghuo Yu and Jian-Xin Xu (eds.). pp. 325-334 
+o Phooi, Seng Kah;Man, Zhihong;Wu, H. R.;2000. Nonlinear active noise control using Lyapunov 
+theory and RBF network. Proceedings of 'Neural Networks for Signal Processing X', the 2000 
+IEEE Signal Processing Society Workshop, Sydney, New South Wales, Australia, 11-13 
+December 2000. Vol. 2, pp. 916-925 
+o Seng, Seng Kah;Man, Zhihong;Yap, C.;Wu, H.;2000. A new computation efficient adaptive 
+algorithm for parallel-cascade truncated Volterra system. Paper presented at the 4th International 
+Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2000), Hong Kong, 
+11-13 December 2000.  
+o Man, Zhihong;Yu, X.;Zhang, X.;2000. A new sliding mode control for a class of chaotic systems. 
+Paper presented at the 3rd Asian Control Conference, Shanghai, China, 04-07 July 2000. 
+o Man, Zhihong;Palaniswami, M.;1992. A robust tracking controller for robotic manipulators. 
+Proceedings of 'Technology Enabling Tomorrow: Computers, Communications and Automation 
+towards the 21st Century', the 1992 IEEE Region 10 International Conference (TENCON 92), 
+Melbourne, Victoria, Australia, 11-13 November 1992. Vol. 2, pp. 953-957 
+o Man, Zhihong;Palaniswami, M.;1992. A robust tracking control scheme for robotic manipulators 
+with uncertain dynamics. Proceedings of the IEEE International Conference on Systems 
+Engineering, Kobe, Japan, 17-19 September 1992. pp. 127-130 
+
+-----

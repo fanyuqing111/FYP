@@ -1,0 +1,159 @@
+Shahriar Mirabbasi | Electrical and Computer Engineering | UBC
+https://www.ece.ubc.ca/faculty/shahriar-mirabbasi[3/26/2018 3:35:01 PM]
+PROFESSOR
+Shahriar Mirabbasi
+Analog and mixed-signal intergrated circuits and systems design, integrated circuit
+design with an emphasis on high-speed data communication and signal processing
+applications.
+Shahriar Mirabbasi received the BSc in electrical engineering from Sharif
+University of Technology in 1990, and the MASc and PhD in electrical and
+computer engineering from the University of Toronto in 1997 and 2002,
+respectively. Since August 2002, he has been with the Department of Electrical
+and Computer Engineering, UBC where he is currently a Professor.
+Dr. Mirabbasi and his team’s research interests include analog, mixed-signal,
+and RF integrated circuit and system design for wireless and wireline data
+communication, data converter, sensor interface, and biomedical applications.
+Research Areas
+Communication Systems
+Computer and Software Systems
+Research Groups
+System-on-Chip (SoC)
+Courses
+ELEC 401
+Analog CMOS Integrated Circuit Design
+Design and analysis of analog integrated circuits, with
+emphasis on CMOS design techniques. Gain stages, opamp
+design, frequency compensation, oscillators, A/D, D/A
+converters, PLL, DLL.
+ELEC 201
+Circuit Analysis I
+The fundamentals of analysis of lumped linear time-invariant
+circuits; network theorems; operational amplifiers; first order
+circuits; DC analysis of diodes, BJT and FET circuits. [4-2*-1*]
+ELEC 204
+Linear Circuits
+Basic concepts and analysis techniques in the context of
+electric and electronic circuits including Bode plots and the
+Laplace transform. Treatment of RLC circuits, phasors, op-
+amps. Introduction to nonlinear circuit elements, diodes, BJT,
+FET circuits. [4-0-1] Prerequisites  MATH 152 - Linear Systems
+AND ONE of PHYS 102 PHYS 153
+EECE 571Z
+CMOS Design for Optoelectronics Applications
+Course Structure/Operation This is a one semester course
+involving lectures, projects and exams. In the previous years,
+this used to be only a project-based course (since September
+2013). Learning Objectives By the end of the course, it is
+expected that students will be able to:
+EECE 571C
+Electrical Engineering Seminar and Special Problems -
+CMOS DSGN APPS
+EECE 588
+Analog Integrated Circuit Design 
+CONTACT
+Office: KAIS 4032
+Electrical and Computer Engineering
+The University of British Columbia
+4032 - 2332 Main Mall
+Vancouver BC V6T 1Z4
+Canada
+shahriar@ece.ubc.ca
+(604) 827-5218
+(604) 822-5949
+Website:
+http://www.ece.ubc.ca/~shahriar
+Print Prin
+Email Em
+Twitter Twi
+Facebook Fac
+LinkedIn Link
+Faculty
+Departmental Contacts
+Contact Us
+News
+Openings
+Emeritus Faculty
+Other Faculty
+Faculty Positions
+Staff Positions
+Teaching Assistantships
+Research Assistantships
+Undergraduate Teaching
+Assistantships
+HOME
+RESEARCH
+ACADEMIC PROGRAMS
+ADMISSIONS
+OUR DEPARTMENT
+STUDENT LIFE
+ALUMNI & INDUSTRY
+
+-----
+Shahriar Mirabbasi | Electrical and Computer Engineering | UBC
+https://www.ece.ubc.ca/faculty/shahriar-mirabbasi[3/26/2018 3:35:01 PM]
+Prospective Students
+Academic Programs
+Admissions
+Current Undergraduates
+Undergraduate Student
+Services
+Capstones
+Programs
+Courses
+Current Graduates
+Graduate Student
+Services
+Financial Matters
+Courses
+Policies and Procedures
+Teaching Assistantships
+Research Assistantships
+Engineering Services
+Faculty & Staff
+Departmental Contacts
+ECE Brand, Logos
+Room Bookings
+Visiting Faculty and
+Students
+Admin Login
+Health and Safety
+Electrical and Computer Engineering
+2332 Main Mall
+Vancouver, BC Canada V6T 1Z4
+Tel +1.604.822.2872
+Fax +1.604.822.5949
+Email: info@ece.ubc.ca
+Emergency Procedures | Accessibility | Contact UBC | © Copyright 2018 The University of British Columbia
+Analysis and design emphasizing CMOS implementations.
+Gain stages, biasing circuits, comparators, sample-and-hold
+circuits, switched-capacitor circuits, Nyquist-rate and
+oversampling A/Ds and D/As, oscillators, PLLs.
+Latest Publications
+2008
+Low-voltage bulk-driven mixer with on-chip balun
+Conference Paper | Circuits and Systems, 2008. ISCAS 2008.
+IEEE International Symposium on
+2008
+Low-power 1V 5.8 GHz bulk-driven mixer with on-chip
+balun in 0.18 #x03BC;m CMOS
+Conference Paper | Radio Frequency Integrated Circuits
+Symposium, 2008. RFIC 2008. IEEE
+2008
+SoC energy savings = reduce+reuse+recycle: A case study
+using a 660MHz DC-DC converter with integrated output
+filter
+Conference Paper | Electrical and Computer Engineering,
+2008. CCECE 2008. Canadian Conference on
+2008
+Design of an active-inductor-based termination circuit for
+high-speed I/O
+Conference Paper | Circuits and Systems, 2008. ISCAS 2008.
+IEEE International Symposium on
+2008
+A 10Gb/s active-inductor structure with peaking control in
+90nm CMOS
+Conference Paper | Solid-State Circuits Conference, 2008. A-
+SSCC '08. IEEE Asian
+Show more
+
+-----

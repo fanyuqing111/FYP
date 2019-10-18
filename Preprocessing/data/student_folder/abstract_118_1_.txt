@@ -1,0 +1,30 @@
+Abstract 
+In recent years, the market of consumer electronics has witnessed a growing demand for portable devices with high-
+fidelity audio playback capability. For such devices like smart phones, tablets and watches, their size and weight keep 
+on shrink to meet the portability requirement by customers. As a result, the space left for battery is likely to be further 
+reduced. At the meantime, more functional blocks are still expected to be integrated into the system which will deplete 
+the battery even more quickly. Therefore low quiescent power and high power efficiency become key performance 
+metrics for the audio unit. In order to improve the power efficiency of a typical linear amplifier, the key point is to 
+reduce the conduction losses of power transistors. As a straightforward solution, class G amplifier which uses two 
+different supply rails for the output stage is proposed. However, the power efficiency is still low once the higher supply 
+rail is selected. To further optimize the power efficiency, we proposed a novel class H architecture which operates with 
+only single-rail supply. The supply to the output stage is designed to be adaptive to the instant input signal level so that 
+the voltage drop across the power transistor is kept constant. Therefore, compared with other linear amplifier 
+architectures (class B/AB/G), the proposed design features much better overall power efficiency. 
+An existing issue with the above mentioned adaptive-supply amplifiers is the added distortion during mode switching. 
+In class G amplifier when the threshold is met, the supply of the output stage will see steep steps from low to high 
+transitions. These sudden changes tend to add additional distortions to the amplifier’s output waveforms. Therefore, 
+for conventional adaptive-supply amplifiers, there is a sudden jump in the Total Harmonic Distortion (THD) when the 
+high supply starts operating. In this research, we proposed a common-mode modulation (CMM) scheme to solve this 
+problem. Instead of changing the system configuration upon the triggering of mode switching, we extracted and 
+embedded the amplitude information of the input signal into the common-mode (CM) voltage at the output stage. As 
+the CM voltage cancels out at the output stage, this scheme yield a much more smooth transition during mode switching, 
+and no additional distortion is added to the output signal. 
+To validate the proposed amplifier architecture, a prototype of the design was fabricated in 0.18-µm CMOS process. 
+Measurements results reveal that the proposed amplifier achieves 80.4% peak power efficiency which is the highest 
+among all linear amplifiers in the literature. In the intermediate output power range it demonstrates more than 25% 
+efficiency merit as compared to class AB and class G amplifiers. It also achieves a lowest THD+N value of -80 dB and 
+there is no degradation on the THD value during mode transition. Its quiescent power consumed by the whole system 
+is 3.52 mW which is also significantly lower than the benchmark class H amplifier design. 
+
+-----

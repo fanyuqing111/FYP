@@ -1,0 +1,585 @@
+Jie Huang     
+Choh-Ming Li Professor of Mechanical and Automation Engineering 
+and Chairman
+Dpl, Fuzhou University; ME, Nanjing University of Science 
+and Technology; PhD, The Johns Hopkins University
+Fellow of IEEE, IFAC, CAA, and HKIE 
+Address: Room 316 Mong Man Wai Engineering Building
+Tel: (852) 3943-8473
+Fax: (852) 2603-6002
+E-mail: jhuang@mae.cuhk.edu.hk
+Jie  Huang studied Power Engineering at Fuzhou University from 1977 to 1979 and Circuits and 
+Systems at Nanjing University of Science and Technology (NUST) from 1979 to 1982. He got his 
+Master's degree from NUST in 1982 and was a faculty member there from 1982 to 1986. He 
+completed his Ph.D. study in automatic control at the Johns Hopkins University in 1990 and 
+subsequently held a post-doctoral fellow position there until July 1991. From August 1991 to July 
+1995, he worked in industry in USA. In September 1995, he joined the  Department of Mechanical 
+and Automation Engineering, the Chinese University of Hong Kong (CUHK), and is now Choh-
+Ming Li Profesor of Mechanical and Automation Engineering and chairman of Department of 
+Mechanical and Automation Engineering, CUHK. He has been advisory/guest professors at 
+several universities. He served as a Science Advisor to the Leisure and Cultural Services 
+Department of Hong Kong Special Administrative Region, and Honorary Advisor to Hong Kong 
+Science Museum. His research interests include control theory and applications, robotics and 
+automation, neural networks and systems biology, and guidance and control of flight vehicles. He 
+received the State Natural Science Prize, Class II, in 2011, Croucher Senior Research Fellowship 
+award in 2006, the best paper award of the Eighth International Conference on Control, 
+Automation, Robotics, and Vision in 2004, and the SUPCON Best Paper Award of the 9th World 
+Congress on Intelligent Control and Automation in 2012. He was elected HKIE Fellow in 2017, 
+CAA Fellow in 2010, IFAC Fellow in 2009, and IEEE Fellow in 2005. 
+Jie Huang is an Editor-at-Large of Communications in Information and Systems,  Member of the 
+Advisory Board of Transactions of the Institute of Measurement and Control, and Subject Editor 
+of International Journal of Robust and Nonlinear Control, and Associate Editor of Science in 
+China, Ser. F: Information Sciences and ACTA Automatica Sinica.  He served as Associate Editor 
+of IEEE Transactions on Automatic Control from 2002 to 2004, and an Associate Editor of the 
+Asian Journal of Control from 1999 to 2001. He has been Guest Editor for IEEE Transactions on 
+Neural Networks, International, International Journal of Robust and Nonlinear  Control, and Asian 
+Journal of Control. He was Distinguished Lecturer of IEEE  Control Systems Society from 2005 
+to 2008, and member of the Board of Governors  of IEEE Control Systems Society from 2006 to 
+2007. He served in organizing committee or operating committee of several major international 
+Conferences including the General Chair of 2002 International Conference on Control and 
+Automation, Publicity Chair of 2003 IEEE Conference on Decision and Control, Program Co-
+Chair of 2005 Chinese Control Conference, General Co-chair of 2007 International Conference on 
+Control and Automation, Vice Program Chair of IEEE Conference on Decision and Control,  and 
+Program Chair of 2010 World Congress of Intelligent Control and Automation, and General Co-
+Page 1 of 11
+Jie Huang, Professor
+9/8/2017
+http://www.mae.cuhk.edu.hk/~jhuang/
+
+-----
+chair of The 12th International Conference on Control, Automation, Robotics and Vision, 
+December 2012. 
+Publications 
+1. Books 
+1. Zhiyong Chen and Jie Huang, Stabilization and Regulation of Nonlinear Systems: A Robust 
+and Adaptive Approach, Springer, 2015. 
+2. M. Abu-Khalaf, J. Huang, and F. Lewis, Nonlinear H2/H-infinity Constrained Feedback 
+Control, A Practical Design Approach Using Neural Networks, Springer, 2006. 
+3. J. Huang, Nonlinear Output Regulation: Theory and Applications, Philadelphia, USA, 
+SIAM, 2004. 
+For contents and an up-to-date errata list, see 
+http://www.mae.cuhk.edu.hk/~jhuang/OutputRegulation. 
+2. Selected Journal papers 
+1. T. Liu and J. Huang, “Cooperative output regulation for a class of nonlinear multi-agent 
+systems with unknown control directions subject to switching networks," IEEE Transactions 
+on Automatic Control, March 2018, to appear. 
+2. Y. Yan and J. Huang, “Cooperative robust output regulation problem for discrete-time 
+linear time-delay multi-agent systems," International Journal of Robust and Nonlinear 
+Control, accepted 
+3. W. Liu and J. Huang, “Event-triggered cooperative robust practical output regulation for a 
+class of linear multi-agent systems,” Automatica, accepted. 
+4. W. Liu and J. Huang, “Event-triggered global robust output regulation for a class of 
+nonlinear Systems,” IEEE Transactions on Automatic Control, accepted. 
+5. T. Liu and J. Huang, “A discrete-time recurrent neural network for solving rank-deficient 
+matrix equations with an application to output regulation of linear systems,” IEEE 
+Transactions on Neural Networks and Learning Systems, accepted. 
+6. W. Liu and J. Huang, “Robust practical output regulation for a class of uncertain linear 
+minimum-phase systems by output-based event-triggered control,” International Journal of 
+Robust and Nonlinear Control, accepted. 
+7. W. Liu and J. Huang, “Cooperative global robust output regulation for nonlinear output 
+feedback multi-agent systems under directed switching networks,” IEEE Transactions on 
+Automatic Control, accepted 
+8. Y. Dong and J. Huang, “Leader-following consensus with connectivity preservation of 
+uncertain Euler-lagrange multi-agent systems,” International Journal of Robust and 
+Nonlinear Control, accepted. 
+9. W. Liu and J. Huang, “Cooperative adaptive output regulation for second-order nonlinear 
+multi-agent systems with jointly connected switching networks,” IEEE Transactions on 
+Neural Networks and Learning Systems,” accepted. 
+10. H. Cai and J. Huang, “Leader-following attitude consensus of multiple uncertain spacecraft 
+systems subject to external disturbance,” International Journal of Robust and Nonlinear 
+Control, accepted. 
+11. J. Huang, “Leader-following consensus for a class of discrete-time multi-agent systems 
+under directed switching networks,’’ IEEE Transactions on Automatic Control, Vol. 62, No. 
+8, pp. 4086-4092, Aug. 2017. 
+Page 2 of 11
+Jie Huang, Professor
+9/8/2017
+http://www.mae.cuhk.edu.hk/~jhuang/
+
+-----
+12. Y. Yan and J. Huang, “Cooperative output regulation of discrete-time linear time-delay 
+multi-agent systems under switching networks,” Neurocomputing, vol. 241, pp. 108-114, 
+2017. 
+13. Y. Dong and J. Huang, “The leader-following rendezvous with connectivity preservation via 
+a self-tuning adaptive distributed observer,” International Journal of Control, Vol. 90, No. 7, 
+pp. 1518-1527, 2017. 
+14. W. Liu and J. Huang, 1. W. Liu, and J. Huang, “Adaptive leader-following consensus for a 
+class of higher-order nonlinear multi-agent systems with directed switching networks’’ 
+Automatica, Vol. 75, pp. 84-92, May 2017. 
+15. J. Huang, “The cooperative output regulation problem of discrete-time linear multi-agent 
+systems by the adaptive distributed observer,” IEEE Transactions on Automatic Control, 
+Vol. 62, No. 4, pp. 1979-1984, April 2017. 
+16. H. Cai, F. Lewis, G. Hu, and J. Huang, “The adaptive distributed observer approach to the 
+cooperative output regulation of linear multi-agent systems,” Automatica, vol. 75, pp. 299-
+305, Jan. 2017. 
+17. Y. Yan and J. Huang, “Robust output regulation problem for discrete-time linear systems 
+with both input and communication delays,” Journal of Systems Science and Complexity, 
+Vol. 30, 2017, pp. 68-85, invited. 
+18. J. Huang, “Adaptive distributed observer and the cooperative control of multi-agent 
+systems,” Journal of Control and Decision, vol. 4, no. 1, pp. 1-11, 2017, invited. 
+19. W. Liu and J. Huang, “Cooperative output regulation for a class of nonlinear multi-agent 
+systems with arbitrarily large uncertainty (in Chinese)," Scientia China Mathematics, Nov. 
+2016, pp. 1473-1486, invited. 
+20. M. Lv, and J. Huang, “Cooperative global robust output regulation for a class of nonlinear 
+multi-agent systems with a nonlinear leader,” IEEE Transactions on Automatic Control, vol. 
+61, No. 11, Nov. 2016, pp. 3557-3562. 
+21. W. Liu, and J. Huang, “Leader-following consensus for uncertain second-order nonlinear 
+multi-agent systems,” Journal of Control Theory and Technology, vol. 14, No. 4, pp. 279-
+286, Nov. 2016, invited. 
+22. H. Cai, and J. Huang, "The Leader-following consensus for multiple uncertain Euler-
+Lagrange systems with a distributed adpative observer," IEEE Transactions on Automatic 
+Control, vol. 61, No. 10, pp. 3152 – 3157, Oct. 2016. 
+23. Y. Yan and J. Huang, ``Cooperative output regulation of discrete-time linear time-delay 
+multi-agent systems," IET Control Theory & Applications, Oct. 2016, pp, 2019-2026. 
+24. M. Lv, and J. Huang, “Cooperative robust output regulation for linear time-delay multi-
+agent systems under switching network”, Neurocomputing, vol. 190, pp. 132-139, May. 
+2016 
+25. H. Cai and J. Huang, “Leader-following adaptive consensus of multiple uncertain rigid 
+spacecraft systems,” Science in China, Ser. F: Information Sciences, 2016, Vol. 59, No. 1, 
+pp. 1-13, 2016, invited. 
+26. Y. Yan and J. Huang, “ Output regulation problem for discrete-time linear time-delay 
+systems by output feedback control,” Journal of Control Theory and Technology, Vol. 14, 
+No. 1, pp. 1-8, Feb. 2016, invited. 
+27. H. Cai, and J. Huang, “Unit quaternion based output feedback control for leader-following 
+attitude consensus of multiple rigid spacecraft systems,” Automatica, Vol. 69, pp. 87-92, 
+2016. 
+28. Y. Su, and J. Huang, "Cooperative global robust output regulation for nonlinear uncertain 
+multi-Agent systems in lower triangular form," IEEE Transactions on Automatic Control, 
+Vol. 60, No. 9, September 2015, pp. 2378 – 2379. 
+29. M. Lv, and J. Huang, “A class of nonlinear internal models for global robust output 
+regulation problem,” International Journal of Robust and Nonlinear Control, vol. 25, no. 12, 
+pp. 1831-1843, 2015. 
+Page 3 of 11
+Jie Huang, Professor
+9/8/2017
+http://www.mae.cuhk.edu.hk/~jhuang/
+
+-----
+30. W. Liu, and J. Huang, "Cooperative global robust output regulation for a class of nonlinear 
+multi-agent systems with switching network," IEEE Transactions on Automatic Control, 
+Vol. 60, No. 7, July 2015, pp. 1963-1968. 
+31. M. Lv, and J. Huang, “Robust output regulation problem for linear time-delay systems,” 
+International Journal of Control, Vol. 88, No. 6, 2015, pp. 1236-1245. 
+32. Y. Dong and J. Huang, “Flocking with connectivity preservation of a group of multi-agent 
+systems subject to external disturbances by distributed control,” Automatica, March 2015, 
+pp. 197-203. 
+33. Z. Chen and J. Huang, “Global robust adaptive output regulation for nonlinear systems of 
+relative degree up to two,” Communications in Information and Systems, Vol. 15, No 1, pp. 
+15-33, 2015. 
+34. Y. Su and J. Huang, “Cooperative global adaptive output regulation for nonlinear uncertain 
+multi-agent systems with iISS inverse dynamics,” Asian Journal of Control, Vol. 17, No. 1, 
+Jan. 2015, pp. 14-22. 
+35. Y. Su and J. Huang, “Cooperative robust output regulation of a class of heterogeneous 
+linear uncertain multi-agent systems,” International Journal of Robust and Nonlinear 
+Control, Vol. 24, No. 17, Nov. 2014, pp. 2819-2839. 
+36. Z. Chen and J. Huang, “Attitude tracking of rigid spacecraft subject to disturbances of 
+unknown frequencies,” International Journal of Robust and Nonlinear Control, Vol. 24, No. 
+16, Nov. 2014, pp. 2231-2242. 
+37. Y. Dong, and J. Huang, “Leader-following connectivity preservation rendezvous of multiple 
+double integrator systems based on position measurements only,” IEEE Transactions on 
+Automatic Control, Vol. 59, No. 9, Sept., 2015, pp. 2598-2603. 
+38. Y. Dong, and J. Huang, “Cooperative global output regulation for a class of nonlinear multi-
+agent systems,” IEEE Transactions on Automatic Control, Vol. 59, No. 5, May 2014 pp. 
+1348-1354. 
+39. H. Cai, and J. Huang, “The leader following consensus control of multiple rigid spacecraft 
+systems," Automatica, Vol. 50, No. 4, April 2014, pp. 1109 – 1115. 
+40. Y. Su and J. Huang, “Cooperative semi-global robust output regulation for a class of 
+nonlinear uncertain multi-agent systems,” Automatica, Vol. 50, No. 4, April 2014, pp. 1053 
+– 1065. 
+41. H. Cai, and J. Huang, “Leader-following consensus of multiple uncertain Euler-Lagrange 
+systems under switching network topology,” International Journal of General Systems, Vol. 
+43, No. 3-4, 2014, pp.294-304, invited. 
+42. Y. Dong and J. Huang, "Cooperative global robust output regulation for nonlinear multi-
+agent systems in output feedback form," Journal of Dynamic Systems Measurement and 
+Control-Transactions of ASME, 136(3), 031001, 2014. 
+43. Y. Dong, and J. Huang, “Leader-following rendezvous with connectivity preservation of 
+single-integrator multi-agent systems,” IEEE/CAA Journal on Automatica Sinica, January 
+2014, 1 (1), pp. 57-61. 
+44. Y. Su and J. Huang, “Cooperative global output regulation of heterogenous second-order 
+nonlinear uncertain multi-agent systems,” Automatica, vol. 49, 2013, pp. 3345-3350. 
+45. D．Xu，J. Huang and Z-P. Jiang, “Global adaptive output regulation for a class of 
+nonlinear systems using output feedback,” Automatica, Vol. 49, July 2013, pp. 2184 – 2191. 
+46. Y. Su and J. Huang, “Cooperative adaptive output regulation for a class of nonlinear 
+uncertain multi-agent systems with unknown leader,” Systems and Control Letter, Vol. 62, 
+April 2013, pp. 461-467.. 
+47. Y. Dong and J. Huang, “Leader-following rendezvous with connectivity preservation of a 
+class of multi-agent systems,” Automatica, Vol. 49, March 2013, pp. 1386-1391. 
+48. Y. Su, Y. Hong and J. Huang, “A general result on the cooperative robust output regulation 
+for linear uncertain multi-agent systems,” IEEE Transactions on Automatic Control, Vol. 
+58, No. 5, May 2013, pp. 1275-1279. 
+Page 4 of 11
+Jie Huang, Professor
+9/8/2017
+http://www.mae.cuhk.edu.hk/~jhuang/
+
+-----
+49. Z. Ping and J. Huang, "Global robust output regulation for a class of multivariable systems," 
+International Journal of Robust and Nonlinear Control, Vol. 23, No. 3, 2013, pp. 241-261. 
+50. Y. Su and J. Huang, “Cooperative output regulation of linear multi-agent systems by output 
+feedback,” Systems and Control Letter, Vol. 61, No. 12, Dec. 2012, pp. 1248-1253. 
+51. X. Yang, and J. Huang, “New results on robust output regulation of nonlinear systems with 
+a nonlinear exosystem," International Journal of Robust and Nonlinear Control, Oct. 2012, 
+pp. 2604-2609. 
+52. X. Yang and J. Huang, “Output regulation of time-varying nonlinear systems,” Asian 
+Journal of Control, Sept. 2012, pp. 1387-1396. 
+53. Y. Su, and J. Huang, “Consensus of discrete-time linear multi-agent systems under 
+switching network topology,” Automatica, Vol. 48, Sept. 2012, pp. 1988-1997. 
+54. Y. Su, and J. Huang, “Stability of a class of linear switching systems with applications to 
+two consensus problems,” IEEE Transactions on Automatic Control, Vol. 57, June 2012, 
+pp.1420-1430. 
+55. Y. Su and J. Huang, "Cooperative output regulation of linear networked systems under 
+switching topology," IEEE Transactions on Systems, Man, Cybernetics. B, Cybernetics, 
+2012, Vol. 42, No. 3, June 2012, pp. 864-875. 
+56. Z. Ping and J. Huang, "Speed tracking control of PM synchronous motor by internal model 
+design," International Journal of Control, Vol. 85, No. 5, May 2012, pp. 522-532. 
+57. Z. Ping and J. Huang, "Approximate output regulation of spherical inverted pendulum by 
+neural network control,” Neurocomputing, No. 85, April 2012, pp. 38-44. 
+58. Y. Su and J. Huang, “Cooperative output regulation of a linear multi-agent system,” IEEE 
+Transactions on Automatic Control," Vol. 57, No. 4, April 2012, pp. 1062-1066. 
+59. J. Huang, “An overview of the output regulation problem,” Journal of System Science and 
+Mathematical Sciences, Vol. 31, No. 9, September 2011, pp. 1055-1081, invited. 
+60. L. Liu, Z. Chen, and J. Huang. “Global disturbance rejection of lower triangular systems 
+with an unknown linear exosystem," IEEE Transactions on Automatic Control, Vol. 56, 
+No.7, July 2011, pp. 1690 -1695. 
+61. D. Xu and J. Huang, “Output regulation for output feedback systems with iISS inverse 
+dynamics,” Journal of Dynamic Systems Measurement and Control-Transactions of ASME, 
+July 2011, Vol., 044503-1 - 044503-4. 
+62. J. Huang, “Remarks on synchronized output regulation of linear networked systems," IEEE 
+Transactions on Automatic Control, Vol. 56, No. 3, March 2011, pp. 630 -631. 
+63. W. Sun, J. Huang, and Z. Sun, “Global robust stabilization for a class of time-varying 
+output feedback systems with its application to output regulation problem,” International 
+Journal of Robotics and Automation, Vol. 26, No.1, 2011, pp. 93 – 99, invited. 
+64. X. Wang, Y. Hong, J. Huang, and Z-P. Jiang, “A distributed control approach to linear 
+robust output regulation," IEEE Transactions on Automatic Control, Vol. 55, No. 12, 2010, 
+pp. 2891 – 2895. 
+65. D. Xu and J. Huang, “Global output regulation for output feedback systems with an 
+uncertain exosystem and its application,” International Journal of Robust and Nonlinear 
+Control, Vol. 20, Oct. 2010, pp. 1678 - 1691. 
+66. T. Chen and J. Huang, “Global robust stabilization of feedforward systems with 
+uncertainties,” International Journal of Control Theory and Applications, Vol. 8, No. 3, 
+August 2010, pp. 262-270, invited. 
+67. D. Xu and J. Huang, “Robust adaptive control of a class of nonlinear systems and its 
+applications," IEEE Transactions on Circuits and Systems-I: REGULAR PAPERS, VOL. 
+57, NO. 3, March. 2010, pp. 691 – 702. 
+68. D. Xu and J. Huang, “Output regulation design for a class of nonlinear systems with an 
+unknown control direction," Journal of Dynamic Systems Measurement and Control-
+Transactions of ASME, 132(1), 2010. 
+Page 5 of 11
+Jie Huang, Professor
+9/8/2017
+http://www.mae.cuhk.edu.hk/~jhuang/
+
+-----
+69. T. Chen and J. Huang, “A small gain approach to global robust stabilization of nonlinear 
+feedforward systems with input unmodeled dynamics," Automatica, Vol. 46, June 2010, pp. 
+1028 – 1034. 
+70. T. Chen and J. Huang, “Global robust output regulation by state feedback for strict 
+feedforward systems, IEEE Transactions on Automatic Control, Sept. 2009, pp.2167-2163. 
+71. W. Sun and J. Huang, “Global output regulation for a class of uncertain nonlinear systems 
+with nonlinear exosystem,'' Science in China, Ser. F: Information Sciences, Vol. 52, No. 11, 
+Nov. 2009, pp. 2172–2179, invited. 
+72. W. Sun and J. Huang, "On a robust synchronization problem via internal model approach," 
+Asian Journal of Control, Vol. 12, No. 1, January 2010, pp. 1-7. 2009. 
+73. L. Liu, Z. Chen, and J. Huang, “Parameter convergence and minimal internal model with an 
+adaptive output regulation problem," Automatica, vol. 45, April 2009, pp. 1206 - 1311. 
+74. Z. Chen, and J. Huang, “Attitude tracking and disturbance rejection of rigid spacecraft by 
+adaptive control," IEEE Transactions on Automatic Control, 2008, Vol. 54. No. 3, March 
+2009, pp. 600 -605. 
+75. L. Liu, and J. Huang, “Asymptotic disturbance rejection of the Duffing's system by adaptive 
+output feedback control," IEEE Transactions on Circuit and Systems-II: Express Briefs : 
+Vol. 55, No. 10, Oct. 2008, pp. 1066 - 1030. 
+76. M. Abu-Khalaf, F. L. Lewis and J. Huang, “Neural dynamic programming and zero sum 
+games for constrained control systems," IEEE Transactions on Neural Networks, Sept. 
+2008, pp. 1243 - 1252. 
+77. T. Chen, and J. Huang, “On global robust stabilization of feedforward systems with 
+unmodeled dynamics," IEEE Transactions on Automatic Control, 2008, Vol.~53, pp. 1711-
+1717, 2008. 
+78. L. Liu, F. L. Lewis, and J. Huang, "An asymptotic tracking problem and its application," 
+IEEE Transactions on Circuits and Systems I, Sept. 2008. pp. 2743 ?2752. 
+79. L. Liu, and J. Huang, “Global robust output regulation of lower triangular systems with 
+unknown high-frequency gain sign," Automatica, May 2008, pp. 1278 - 1284. 
+80. Z. Chen, and J. Huang, “A Lyapunov's direct method for the global robust output regulation 
+of nonlinear cascated systems," Automatica, (44), March 2008, pp745 - 752. 
+81. Z. Chen, and J. Huang, “Global robust servomechanism of a class of nonlinear systems 
+using output feedback," Asian Journal of Control, Oct. 2007, pp. 292 - 305. 
+82. W. Lan, and J. Huang, “Neural network based approximate output regulation of discrete-
+time nonlinear systems," IEEE Transactions on Neural Networks, July 2007, pp. 1196 - 
+1208. 
+83. J. Huang, “An alternative approach to global robust output regulation of output feedback 
+systems," Journal of System Science and Complexity, Vol. 20, 2007, pp. 235 - 242, invited. 
+84. M. Zhu and J. Huang, “Small gain theorem with restrictions for time-varying nonlinear 
+systems," Communications in Information and Systems, Vol. 6, No. 2, 2006, pp. 115 - 136. 
+85. X. Ye, J. Huang, and H. Unbehauen "Decentralized robust stabilization for large-scale 
+feedforward nonlinear systems," International Journal of Control, Vol. 79, No. 12, 
+December 2006, pp. 1505 - 1511. 
+86. M. Abu-Khalaf, F.L. Lewis, and J. Huang, “Policy iterations on the Hamilton-Jacobi-Isaacs 
+equation for H-infinity state feedback control with input saturation," IEEE Transactions on 
+Automatic Control, Vol. 51, Dec. 2006, pp. 1989-1995. 
+87. L. Liu, and J. Huang, “Global robust stabilization of cascade-connected systems with 
+dynamic uncertainties without knowing the control direction," IEEE Transactions on 
+Automatic Control, Vol. 51, No. 10, October 2006, pp.1693-1699. 
+88. L. Liu, and J. Huang, “Adaptive robust stabilization of output feedback systems with 
+application to Chua's circuit," IEEE Transactions on Circuit and Systems-II: Express 
+Briefs,Vol. 53, No. 9 Sept. 2006, pp.926 - 930 
+Page 6 of 11
+Jie Huang, Professor
+9/8/2017
+http://www.mae.cuhk.edu.hk/~jhuang/
+
+-----
+89. L. Liu, and J. Huang, “Global robust output regulation for output feedback systems with 
+unknown high-frequency gain sign," IEEE Transactions on Automatic Control, Vol. 51, No. 
+4, April 2006, pp. 625 - 631. 
+90. W. Lan, Z. Chen, and J. Huang, “Semi-global robust output regulation for nonlinear systems 
+in normal form using output feedback," Communications in Information and Systems, Vol. 
+5, No. 4, Dec. 2005, pp. 285 - 400. 
+91. Z. Chen, and J. Huang, “A simplified small gain theorem for time-varying nonlinear 
+systems," IEEE Transactions on Automatic Control, Vol. 50, No. 11, Nov. 2005, pp.1904 - 
+1908. 
+92. Z. Chen and J. Huang, “Robust output regulation with nonlinear exosystems," Automatica, 
+vol. 41, pp. 1447-1454, 2005. 
+93. D. Wang, and J. Huang, “Neural network based adaptive dynamic surface control for 
+nonlinear systems in strict-feedback form," IEEE Transactions on Neural Networks, Vol. 
+16, No. 1, Jan. 2005. 
+94. Z. Chen, and J. Huang, “A general formulation and solvability of the global robust output 
+regulation problem," IEEE Transactions on Automatic Control, vol. 50, pp. 448 - 462, 2005. 
+95. S. Pang, J. Huang, and B. Bai, “Robust output regulation of singular nonlinear systems via 
+the nonlinear internal model," IEEE Transactions on Automatic Control, Vol. 50, No. 2, pp. 
+222 - 228, Feb. 2005. 
+96. W. Lan, and J. Huang, “Robust output regulation for discrete-time nonlinear systems," 
+International Journal of Robust and Nonlinear Control, Vol 15, pp. 63 - 81, 2005. 
+97. Z. Chen, and J. Huang, “Global robust output regulation problem for output feedback 
+systems," IEEE Transactions on Automatic Control, Vol. 50, No. 1, pp. 117-121, Jan. 2005. 
+98. J. Huang, and Z. Chen, “A general framework for tackling the output regulation problem," 
+IEEE Transactions on Automatic Control, Vol. 49, No. 12, pp. 2203 - 2218, Dec. 2004. 
+99. Z. Chen, and J. Huang, “Global robust servomechanism of lower triangular systems in the 
+general case," Systems and Control Letters, 52 (2004) pp. 209 - 220. 
+100. Z.P. Jiang, I. Mareels, D.J. Hills, and J. Huang, “A unifying framework for global regulation 
+via nonlinear output feedback: from ISS to integral ISS," IEEE Transactions on Automatic 
+Control, pp. 549 - 562, April 2004 
+101. Z. Chen, and J. Huang, “Dissipativity, stabilization, and regulation of cascade-connected 
+systems," IEEE Transactions on Automatic Control, vol. 49, pp. 635-650, May 2004. 
+102. J. Huang and G. Hu, “A control design for the nonlinear benchmark Problem via the output 
+regulation method," Journal of Control Theory and Applications, Vol. 2, No. 1, pp. 11-19, 
+2004. 
+103. W.W. Law, W.H. Liao, J. Huang, “Vibration control of structures with self-sensing 
+piezoelectric actuators incorporating adaptive mechanisms," Smart Materials and Structures, 
+pp. 720 - 730, 12, 2003. 
+104. W. Lan and J. Huang, “On the discrete-time robust nonlinear servomechanism problem," 
+Communications in Information and Systems, Vol. 3, No. 2, October 2003, pp. 75 - 100. 
+105. W. Lan, and J. Huang, “Semi-global stabilization and output regulation of singular linear 
+systems with input saturation," IEEE Transactions on Automatic Control, July 2003, pp. 
+1274 - 1279. 
+106. J. Huang, “On the solvability of the regulator equations," IEEE Transactions on Automatic 
+Control, May 2003, pp. 880-885. 
+107. K. Yeung, and J. Huang. “Development of a remote-access laboratory: A DC motor control 
+experiment," Computer in Industry, Dec. 2003, pp.305 - 315. 
+108. D. Chen, L. Guo, and J. Huang, “On quadratic Lyapunov functions," IEEE Transactions on 
+Automatic Control, May 2003, pp. 885-890. 
+109. Z. Chen, and J. Huang, “Global stabilization of a class of polynomial nonlinear systems," 
+Systems and Control Letters, 2003, pp. 445-553. 
+Page 7 of 11
+Jie Huang, Professor
+9/8/2017
+http://www.mae.cuhk.edu.hk/~jhuang/
+
+-----
+110. W. Wang, and J. Huang, “On the solution of output regulation problem by normal output 
+control for a class of singular nonlinear systems," Asian Journal of Control, March 2003, 
+pp.153-159. 
+111. X. Ye, and J. Huang, “Decentralized adaptive output regulation for a class of large-scale 
+nonlinear systems," IEEE Transactions on Automatic Control, Feb. 2003, pp. 276-281. 
+112. D. Wang and J. Huang, “Neural network based adaptive tracking of uncertain nonlinear 
+systems in triangular form," Automatica, 38 (2002), pp. 1365 - 1372. 
+113. Y. Hong, Y. Xu, J. Huang “Finite time control of a class of robot systems," Systems and 
+Control Letters," 46, 2002, pp. 243 - 253. 
+114. Z. Chen, J. Huang, “Solution of output regulation of singular nonlinear systems by normal 
+outpurt feedback," IEEE Transactions on Automatic Control, May 2002, pp. 808-813. 
+115. Z. Chen, J. Huang, “Robust output regulation of singular nonlinear systems," 
+Communications in Information and Systems, Vol. 1, No. 4, Dec. 2001, pp. 381-394. 
+116. J. Huang, “Remarks on the robust output regulation problem for nonlinear systems," IEEE 
+Transactions on Automatic Control, Dec. 2001, pp. 2028-2031. 
+117. Jin Wang, and J. Huang, “Neural network enhanced output regulation in nonlinear systems," 
+Automatica, (37), Aug. 2001, pp. 1189 - 1200. 
+118. W.D. Zhu, J. Ni, and J. Huang, “Active control of translating media with an arbitrary 
+varying length,'' ASME Journal of Vibration and Acoustics, 2001, Vol. 123, July 2001, pp. 
+347 - 358. 
+119. D. Wang and J. Huang, “A neural network based approximation method for discrete-time 
+nonlinear servomechanism problem," IEEE Transactions on Neural Networks, Vol. 12, No. 
+3, May 2001, pp. 591- 597. 
+120. J. Huang, “On the robust regulator for linear systems with structural uncertainty," ASME 
+Journal of Dynamic Systems, Measurement, and Control, June 2001, pp. 248 - 252. 
+121. P. Chen, H. Qin, and J. Huang, “Stabilization of a class of nonlinear systems by dynamic 
+output feedback," Automatica, July 2001, pp. 969 - 981. 
+122. Y. Hong, J. Huang, and Y. Xu, “On an output finite-time stabilization problem," IEEE 
+Transactions on Automatic Control, February 2001, pp. 305 - 309. 
+123. J. Huang, “Editorial," Special Issue on Output Regulation of Nonlinear Systems, 
+International Journal of Robust and Nonlinear Control, Vol.10, April 2000, pp. 321-322. 
+124. Jin Wang, J. Huang, and S.T.T. Yau, “Practical output regulation based on the universal 
+approximation theorem," International Journal of Robust and Nonlinear Control, Vol.10, 
+April 2000, pp. 439-456. 
+125. J. Huang, “Asymptotic tracking of a nonminumum phase nonlinear system with 
+nonhyperbolic zero dynamics," IEEE Transactions on Automatic Control, March 2000, pp. 
+542 - 546. 
+126. Y.C. Chu and J. Huang, “A neural network method for nonlinear servomechanism 
+problem," IEEE Transactions on Neural Networks, Nov. 1999, pp. 1412 - 1423. 
+127. J. Huang, “Optimizing the feedback gains of the robust linear regulator," ASME Journal of 
+Dynamic Systems, Measurement, and Control, Vol. 121, No. 3, Sept. 1999, pp. 346 - 350. 
+128. Y.C. Chu and J. Huang, “Solving the nonlinear regulator equations by a single layer 
+feedforward neural network,'' Journal of Computers and Industrial Engineering, Vol. 35, 
+No. 1-2, pp. 359 - 362, Sept. 1998. 
+129. J. Huang, “An algorithm to solve the HJI equations arising in L2 gain optimization problem, 
+International Journal of Control, 1999, VOL. 72, No. 1, 49-57. 
+130. J. Huang and Ji-feng Zhang, “Impulse-free output regulation of singular nonlinear systems," 
+International Journal of Control, 1998, vol. 71, No. 5, pp789-806. 
+131. J. Huang, “K-fold exosystem and the robust servomechanism problem", ASME Journal of 
+Dynamic Systems, Measurement, and Control, pp149-153,1998. 
+132. J. Huang, “An iterative method to solve a sequence of linear equations arising in nonlinear 
+H-infinity control, " IMACS Applied Numerical Mathematics, 26 (1998) pp 293-306. 
+Page 8 of 11
+Jie Huang, Professor
+9/8/2017
+http://www.mae.cuhk.edu.hk/~jhuang/
+
+-----
+133. J. Huang, “Asymptotic tracking in uncertain Volterra systems", Systems and Control Letters 
+(31) (1997) 215-223. 
+134. W. Kang and J. Huang, “Calculation of the minimal dimension k-th order robust servo-
+regulator," IEEE Transactions on Automatic Control, Feb.1997, pp. 382 - 386. 
+135. J. Huang, “On the minimal robust servo-regulator for nonlinear systems," Systems and 
+Control Letters, 26, 1995, pp. 313 - 320. 
+136. J. Huang and C-F. Lin, “A numerical approach to computing nonlinear H-infinity control 
+laws," AIAA Journal of Guidance, Control, and Dynamics, September/October, 1995, pp. 
+989-994. 
+137. J. Huang, “A simple proof of the output feedback linear robust regulator," Control-Theory 
+and Advanced Technology, Vol. 10, No. 4, Part 3, September 1995, pp. 1499-1504. 
+138. J. Huang, “Output regulation of nonlinear systems with nonhyperbolic zero dynamics," 
+IEEE Transactions on Automatic Control, August 1995, pp. 1497 - 1500. 
+139. J. Huang, “Asymptotic tracking and disturbance rejection in uncertain nonlinear systems," 
+IEEE Transactions on Automatic Control, June 1995, pp. 1118-1122. 
+140. J. Huang, and C-F Lin, “On the solvability of the general nonlinear servomechanism 
+problem," Control-Theory and Advanced Technology, Vol. 10, No. 4, Part 2, June 1995, pp. 
+1253-1262. 
+141. J. Huang and C-F. Lin, “A modified CLOS guidance law via right inversion," IEEE 
+Transactions on Aerospace and Electronic Systems, January 1995, pp. 23--27. 
+142. J. Huang and C-F. Lin, “A stability property and its application to discrete-time nonlinear 
+system control," IEEE Transactions on Automatic Control, November 1994, pp. 2307-2311. 
+143. J. Huang and C-F. Lin, “On a robust nonlinear servomechanism problem," IEEE 
+Transactions on Automatic Control, July 1994, pp. 1510--1513. 
+144. J. Huang and W.J. Rugh, “An approximation method for the nonlinear servomechanism 
+problem," IEEE Transactions on Automatic Control, September 1992, pp. 1395-1398. 
+145. J. Huang and W.J. Rugh, “Stabilization on zero-error manifolds and the nonlinear 
+servomechanism problem," IEEE Transactions on Automatic Control, July 1992, pp. 1009-
+1013. 
+146. J. Huang and W.J.Rugh, “Approximate noninteracting control with stability for nonlinear 
+systems," IEEE Transactions on Automatic Control, March 1991, pp. 295-304. 
+147. J. Huang and W.J. Rugh, “On a nonlinear multivariable servomechanism problem," 
+Automatica, Vol. 26, No. 6, pp. 963-972, 1990. 
+Research Projects and Grants 
+1. Principal Investigator, “Numerical approach to computing nonlinear H-infinity control 
+laws." $150,000 from the CUHK direct grant. 
+2. Principal Investigator, “Robust control of nonminimum phase nonlinear systems," $416,000 
+from Hong Kong Research Grants Council, RGC Ref. No. : CUHK 380/96E. 
+3. Principal Investigator, “An efficient iterative approach to computing nonlinear H-infinity 
+control laws," $435,600 from Hong Kong Research Grants Council, RGC Ref. No. : CUHK 
+4115 /97E. 
+4. Co-Investigator, “Multilayer recurrent neural networks for synthesizing and optimizing 
+robust linear and nonlinear control systems," $435,600, Hong Kong Research Grants 
+Council, 1997. 
+5. Principal Investigator, “An approximation method for the L2 gain attenuation problem in 
+discrete-time nonlinear systems," $405,000 from Hong Kong Research Grants Council, 
+RGC Ref. No. : CUHK 4168 /98E. 
+6. Principal Investigator, “Practical output regulation of nonlinear systems," $405,000 from 
+Hong Kong Research Grants Council, RGC Ref. No. : CUHK 4400 /99E. 
+Page 9 of 11
+Jie Huang, Professor
+9/8/2017
+http://www.mae.cuhk.edu.hk/~jhuang/
+
+-----
+7. Principal Investigator, “Approximation methods for the discrete nonlinear servomechanism 
+problem," $635,817 from Hong Kong Research Grants Council, RGC Ref. No. : CUHK 
+4209 /00E. 
+8. Principal Investigator, “Output regulation in Uncertain Nonlinear Systems," $580,743 from 
+Hong Kong Research Grants Council, RGC Ref. No. : CUHK 4181 /01E. 
+9. Investigator, “Nonlinear control based on energy," RMB1,070,000, subproject from 
+National-973-plan project ``The Vital Research on Collapse Prevention and Optimal 
+Operation of Modern Power Systems," No. G1998020308. 
+10. Co-Investigator, “Dynamics and control of train suspension systems with smart dampers," 
+$588,696 from Hong Kong Research Grants Council, RGC Ref. No. : CUHK 4216 /01E 
+11. Principal Investigator, “A general framework for tackling global robust output regulation 
+problem," $611,404 from Hong Kong Research Grants Council, RGC Ref. No. : CUHK 
+4316/02E. 
+12. Principal Investigator, “Global robust output regulation of nonlinear systems by adaptive 
+control," $565,723 from Hong Kong Research Grants Council, RGC Ref. No. : CUHK 
+4168/03E. 
+13. Principal Investigator, “Breaking through the bottleneck of the nonlinear robust output 
+regulation problem," RMB220,000, National Natural Science Foundation of China, 2003. 
+14. Principal Investigator, “Nonlinear internal model and the robust nonlinear servomechanism 
+problem," $506,447 from Hong Kong Research Grants Council, RGC Ref. No. : CUHK 
+4196/04E. 
+15. Co-Investigator, “Output regulation of piecewise linear systems," $506,447 from Hong 
+Kong Research Grants Council, RGC Ref. No. : CityU 1201/04E. 
+16. Principal Investigator, “Small gain theory based robust input-to-state stabilization of 
+nonlinear systems with time-variant uncertainties," $538,836 from Hong Kong Research 
+Grants Council, RGC Ref. No.412305. 
+17. Principal Investigator, “Theory of input-to-state stability with restrictions for time-varying 
+nonlinear systems and its applications," $356,000 from Hong Kong Research Grants 
+Council, RGC Ref. No. 412006. 
+18. Principal Investigator, “Adaptive robust control for a class of nonlinear systems and its 
+applications," $895,980 from Hong Kong Research Grants Council, RGC Ref. No. 412007. 
+19. Principal Investigator, “A class of generalized internal models and its applications," 
+$537,990 from Hong Kong Research Grants Council, RGC Ref. No. 412408. 
+20. Principal Investigator, “Global robust servomechanism design for nonlinear systems by 
+output feedback control,” HK$793,500 from Hong Kong Research Grants Council, RGC 
+Ref. No. 412609. 
+21. Principal Investigator, “PE condition, parameter convergence, and stability analysis of a 
+class of nonlinear adaptive control systems,” HK$600,300 from Hong Kong Research 
+Grants Council, RGC Ref. No. 412810. 
+22. Co-investigator, “The internal model based output regulation problem for complex 
+nonlinear systems with applications,” RMB 200,000 from National Natural Science 
+Foundation of China, Ref. No. 61004010, 2011.01-2013.12 
+23. Principal Investigator, “Global adaptive robust stabilization for nonlinear systems with 
+integral ISS Inverse dynamics and its applications,” HK$1,153,680 from Hong Kong 
+Research Grants Council, RGC Ref. No. : 412611 
+24. Principal Investigator, “Cooperated output regulation of multi-agent systems and its 
+applications,” RMB 600,000 from National Natural Science Foundation of China, Ref. No. 
+61174049, 2012.01-2014.12 
+25. Principal Investigator, “Global robust output regulation for a class of multi-input multi-
+output uncertain nonlinear systems with unknown exosystems and its applications,” 
+HK$1,041,000 from Hong Kong Research Grants Council, RGC Ref. No. : 412612, 
+2013.01-2015.12 
+Page 10 of 11
+Jie Huang, Professor
+9/8/2017
+http://www.mae.cuhk.edu.hk/~jhuang/
+
+-----
+26. Principal Investigator, “A framework for cooperative global output regulation of nonlinear 
+uncertain multi-agent systems,” HK$836,450 from Hong Kong Research Grants Council, 
+RGC Ref. No. : 412813, 2014.01-2016.12 
+27. Principal Investigator, “Leader-following with connectivity preservation of multi-agent 
+systems by distributed observer based approach,” HK$692,894 from Hong Kong Research 
+Grants Council, RGC Ref. No. : 14202814, 2014.10-2017.09 
+28. Principal Investigator, “Cooperative global stabilization of nonlinear uncertain multi-agent 
+systems by switched feedback control and its applications,” HK$871,044 from Hong Kong 
+Research Grants Council, RGC Ref. No. : 14200515 , 2016.01-2018.12 
+29. Principal Investigator, “The certainty equivalence principle and the cooperative control of 
+networked systems with its applications,” HK$844,559 from Hong Kong Research Grants 
+Council, RGC Ref. No. : 14219516, 2017.01-2019.12. 
+30. Main Participant, "Nonlinear control methodology for cyber-physical systems," CNY 
+2,450,000 from National Natural Science Foundation of China, Ref. No. : 61633007, 01-01-
+2017 to 31-12-2021. 
+31. Principal Investigator, “A framework for distributed control of discrete-time multi-agent 
+systems,” HK$875,000 from Hong Kong Research Grants Council, RGC Ref. No. : 
+14200617, 01-08- 2017 to 31-07-2020. 
+32. Principal Investigator, “Non-cooperative behavior detection, isolation and repair of land-
+based multi-agent Systems,” CNY 2,300,000, International Collaborative Research Key 
+Program, National Natural Science Foundation of China, Ref. No. : 61720106011, 01-01-
+2018 to 31-12-2022 
+Page 11 of 11
+Jie Huang, Professor
+9/8/2017
+http://www.mae.cuhk.edu.hk/~jhuang/
+
+-----

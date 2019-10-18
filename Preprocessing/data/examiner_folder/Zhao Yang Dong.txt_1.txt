@@ -1,0 +1,3036 @@
+Dr. Zhao Yang Dong 
+Professor in Energy Systems  
+School of Electrical Engineering and Telecommunications 
+The University of New South Wales Sydney (UNSW Sydney) 
+ 
+Contact Details 
+ 
+School of Electrical Engineering and Telecommunications 
+Address: 303  Electrical Engineering Building 
+ 
+UNSW Sydney  
+NSW 2052 
+Australia 
+Office Phone: +61 2 9385 4477 
+Email: joe.dong@unsw.edu.au  
+ 
+CV 
+ 
+Education History 
+Ph.D. degree, the University of Sydney, 1999, Australia 
+ 
+Current Positions 
+Professor in the School of Electrical Engineering and Telecommunications, UNSW. 
+A member of the ARC College of Experts. 
+An international Advisor for the lead Chinese journal of Automation of Electric Power Systems. 
+A guest editor for Southern Power System Technology under China Southern Power Grid.  
+A guest editor for International Journal of Systems Science. 
+A member of IEEE taskforce on power system cascading failure.  
+A chapter coordinator for CIGRE work group on load modelling,  
+A core member of the IEEE PES Smart Building, Loads and Customer System Committee.  
+Deputy Chair for Smart Grid Australia (SGA) study group.  
+ 
+ 
+Biography 
+Professor Z.Y. (Joe) Dong is a Professor in the School of Electrical Engineering and 
+Telecommunications, UNSW. He was the Head of School of Electrical and Information Engineering 
+in the University of Sydney, and a contractor with Ausgrid and EPRI, USA. He is now a member of 
+the ARC College of Experts. Prior to joining the University of New South Wales in 2017, he was 
+Ausgrid Chair and Director of Ausgrid Centre of Excellence for Intelligent Electricity Networks (CIEN) 
+at the University of Newcastle, Australia. He has also worked for Hong Kong Polytechnic University 
+and as system planning manager with TASnetworks, Australia. Professor Dong's research interest 
+includes power system planning and stability, smart grid/micro-grid, load modeling, renewable energy 
+grid connection, electricity market, data mining, big data analytics, artificial intelligence and 
+computational methods. He has served editor for a number of international top journals such IEEE 
+Transactions on Smart Grid, IEEE PES Letters, IEEE Transactions on Sustainable Energy, IET 
+Renewable Power Generation, and Journal of Modern Power Systems and Clean Energy. He is an 
+international Advisor for the lead Chinese journal of Automation of Electric Power Systems and a 
+guest editor for Southern Power System Technology under China Southern Power Grid. He also serves 
+as guest editor for International Journal of Systems Science. 
+ 
+
+-----
+Professor Dong has been the principle investigator for over 10 EPRI projects, 14 ARC grants, 4 grants 
+under HK RGC & ITF scheme, and partner investigator of 2 theme based projects in Hong Kong. He 
+has many industrial R&D and consulting projects in power system planning, stability, smart grid, 
+electricity market analysis, load modelling and data mining based methods for energy system data 
+analytics. As a consultant, he leads the development of the load models for Western Power 
+Corporation's daily usage in operations and planning of Western Australia's transmission network. He 
+lead the gas and electricity network co-planning for the $12.6m CSIRO Future Grid project. He also 
+worked with government on smart grid cyber security. He is a member of IEEE taskforce on power 
+system cascading failure, a chapter coordinator for CIGRE work group on load modelling, a core 
+member of the IEEE PES Smart Building, Loads and Customer System Committee coordinating IEEE 
+standards in Load Model and Simulation. He is the Deputy Chair for Smart Grid Australia (SGA) study 
+group and leads its research domain on cyber physical systems, including representing SGA at the 
+International Federation of Smart Grid. He established a team of 28 at Ausgrid Centre for Intelligent 
+Electricity Networks to provide R&D support for the $100m (plus $500m from Ausgrid) Smart Grid, 
+Smart City national demonstration project. 
+ 
+Professor Dong obtained a Ph.D. from the University of Sydney in 1999. He has published over 300 
+journal papers (mostly IEEE transactions and IET journals), and received over $16 million in research 
+and industrial grants. Professor Dong has supervised or co-supervised over 50 PhD students, many 
+who now work in industry and research/academia in Australia, Europe, Asia and America. 
+ 
+Citation Report and Publication List  
+(Results searched from Citation Report, Web of Science) 
+ 
+From Web of Science Search 
+Results found: 
+282 
+Sum of the Times Cited  
+3016 
+Average Citations per Item:  
+10.70 
+h-index                               : 28 
+ 
+ 
+ 
+Citation Report 
+Total 
+Citations 
+Average 
+per 
+Year 
+3016 
+150.8 
+1 
+Title: Probabilistic Forecasting of Wind Power Generation Using 
+Extreme Learning Machine 
+By: Wan, Can; Xu, Zhao; Pinson, Pierre; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 29  Issue: 3  Pages: 1033-
+1044  Published: MAY 2014   
+192 
+32 
+2 
+Title: Coordinated Control of Grid-Connected Photovoltaic Reactive 
+Power and Battery Energy Storage Systems to Improve the Voltage 
+Profile of a Residential Distribution Feeder 
+By: Kabir, M. N.; Mishra, Y.; Ledwich, G.; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 10  Issue: 2  Pages: 967-
+977  Published: MAY 2014   
+124 
+20.67 
+
+-----
+3 
+Title: Electric Vehicle Battery Charging/Swap Stations in 
+Distribution Systems: Comparison Study and Optimal Planning 
+By: Zheng, Yu; Dong, Zhao Yang; Xu, Yan; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 29  Issue: 1  Pages: 221-229  Published: JAN 
+2014   
+123 
+20.5 
+4 
+Title: Optimal Allocation of Energy Storage System for Risk 
+Mitigation of DISCOs With High Renewable Penetrations 
+By: Zheng, Yu; Dong, Zhao Yang; Luo, Feng Ji; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 29  Issue: 1  Pages: 212-220  Published: JAN 
+2014   
+119 
+19.83 
+5 
+Title: Optimal Prediction Intervals of Wind Power Generation 
+By: Wan, Can; Xu, Zhao; Pinson, Pierre; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 29  Issue: 3  Pages: 1166-
+1174  Published: MAY 2014   
+99 
+16.5 
+6 
+Title: Event-triggered asynchronous intermittent communication 
+strategy for synchronization in complex dynamical networks 
+By: Li, Huaqing; Liao, Xiaofeng; Chen, Guo; et al. 
+Source: NEURAL NETWORKS   Volume: 66  Pages: 1-
+10  Published: JUN 2015   
+87 
+17.4 
+7 
+Title: A Multi-Objective Collaborative Planning Strategy for 
+Integrated Power Distribution and Electric Vehicle Charging Systems 
+By: Yao, Weifeng; Zhao, Junhua; Wen, Fushuan; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 29  Issue: 4  Pages: 1811-
+1821  Published: JUL 2014   
+78 
+13 
+8 
+Title: Coordinated Operational Planning for Wind Farm With Battery 
+Energy Storage System 
+By: Luo, Fengji; Meng, Ke; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON SUSTAINABLE 
+ENERGY   Volume: 6  Issue: 1  Pages: 253-262  Published: JAN 
+2015   
+75 
+15 
+9 
+Title: A Hybrid Approach for Probabilistic Forecasting of Electricity 
+Price 
+By: Wan, Can; Xu, Zhao; Wang, Yelei; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 5  Issue: 1  Pages: 463-470  Published: JAN 
+2014   
+74 
+12.33 
+10 
+Title: A Review of False Data Injection Attacks Against Modern 
+Power Systems 
+By: Liang, Gaoqi; Zhao, Junhua; Luo, Fengji; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 8  Issue: 4  Pages: 1630-1638  Published: JUL 
+2017   
+51 
+17 
+
+-----
+11 
+Title: Numerical Simulation for Stochastic Transient Stability 
+Assessment 
+By: Dong, Zhao Yang; Zhao, Jun Hua; Hill, David J. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 27  Issue: 4  Pages: 1741-
+1749  Published: NOV 2012   
+45 
+5.63 
+12 
+Title: The 2015 Ukraine Blackout: Implications for False Data 
+Injection Attacks 
+By: Liang, Gaoqi; Weller, Steven R.; Zhao, Junhua; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 32  Issue: 4  Pages: 3317-
+3318  Published: JUL 2017   
+42 
+14 
+13 
+Title: Low Carbon Oriented Expansion Planning of Integrated Gas 
+and Power Systems 
+By: Qiu, Jing; Dong, Zhao Yang; Zhao, Jun Hua; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 30  Issue: 2  Pages: 1035-
+1046  Published: MAR 2015   
+41 
+8.2 
+14 
+Title: Computation of bifurcation boundaries for power systems: A 
+new Delta-plane method 
+By: Makarov, YV; Hill, DJ; Dong, ZY 
+Source: IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS 
+I-FUNDAMENTAL THEORY AND 
+APPLICATIONS   Volume: 47  Issue:4  Pages: 536-
+544  Published: APR 2000   
+41 
+2.05 
+15 
+Title: A general method for small signal stability analysis 
+By: Makarov, YV; Dong, ZY; Hill, DJ 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 13  Issue: 3  Pages: 979-
+985  Published: AUG 1998   
+40 
+1.82 
+16 
+Title: Multi-Stage Flexible Expansion Co-Planning Under 
+Uncertainties in a Combined Electricity and Gas Market 
+By: Qiu, Jing; Dong, Zhao Yang; Zhao, Jun Hua; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 30  Issue: 4  Pages: 2119-
+2129  Published: JUL 2015   
+39 
+7.8 
+17 
+Title: Electric Vehicle Route Optimization Considering Time-of-Use 
+Electricity Price by Learnable Partheno-Genetic Algorithm 
+By: Yang, Hongming; Yang, Songping; Xu, Yan; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 6  Issue: 2  Pages: 657-666  Published: MAR 
+2015   
+39 
+7.8 
+18 
+Title: High-Performance Consensus Control in Networked Systems 
+With Limited Bandwidth Communication and Time-Varying 
+Directed Topologies 
+By: Li, Huaqing; Chen, Guo; Huang, Tingwen; et al. 
+Source: IEEE TRANSACTIONS ON NEURAL NETWORKS AND 
+LEARNING SYSTEMS   Volume: 28  Issue: 5  Pages: 1043-
+1054  Published: MAY 2017   
+38 
+12.67 
+
+-----
+19 
+Title: Optimal operation of DES/CCHP based regional multi-energy 
+prosumer with demand response 
+By: Yang, Hongming; Xiong, Tonglin; Qiu, Jing; et al. 
+Source: APPLIED ENERGY   Volume: 167  Pages: 353-
+365  Published: APR 1 2016   
+37 
+9.25 
+20 
+Title: Exploring Reliable Strategies for Defending Power Systems 
+Against Targeted Attacks 
+By: Chen, Guo; Dong, Zhao Yang; Hill, David J.; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 26  Issue: 3  Pages: 1000-
+1009  Published: AUG 2011   
+37 
+4.11 
+21 
+Title: Secretory phospholipase A2-IIa is involved in prostate cancer 
+progression and may potentially serve as a biomarker for prostate 
+cancer 
+By: Dong, Zhongyun; Liu, Yin; Scott, Kieran F.; et al. 
+Source: CARCINOGENESIS   Volume: 31  Issue: 11  Pages: 1948-
+1955  Published: NOV 2010   
+37 
+3.7 
+22 
+Title: Multi-Objective Dynamic VAR Planning Against Short-Term 
+Voltage Instability Using a Decomposition-Based Evolutionary 
+Algorithm 
+By: Xu, Yan; Dong, Zhao Yang; Meng, Ke; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 29  Issue: 6  Pages: 2813-
+2822  Published: NOV 2014   
+36 
+6 
+23 
+Title: Event-Triggered Distributed Average Consensus Over 
+Directed Digital Networks With Limited Communication Bandwidth 
+By: Li, Huaqing; Chen, Guo; Huang, Tingwen; et al. 
+Source: IEEE Transactions on 
+Cybernetics   Volume: 46  Issue: 12  Pages: 3098-
+3110  Published: DEC 2016   
+35 
+8.75 
+24 
+Title: Robust Coordination of Distributed Generation and Price-
+Based Demand Response in Microgrids 
+By: Zhang, Cuo; Xu, Yan; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 9  Issue: 5  Pages: 4236-4247  Published: SEP 
+2018   
+33 
+16.5 
+25 
+Title: Optimal Capacitor Placement to Distribution Transformers for 
+Power Loss Reduction in Radial Distribution Systems 
+By: Xu, Yan; Dong, Zhao Yang; Wong, Kit Po; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 28  Issue: 4  Pages: 4072-
+4079  Published: NOV 2013   
+33 
+4.71 
+26 
+Title: Robust Operation of Microgrids via Two-Stage Coordinated 
+Energy Storage and Direct Load Control 
+By: Zhang, Cuo; Xu, Yan; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 32  Issue: 4  Pages: 2858-
+2868  Published: JUL 2017   
+31 
+10.33 
+
+-----
+27 
+Title: Post-disturbance transient stability assessment of power 
+systems by a self-adaptive intelligent system 
+By: Zhang, Rui; Xu, Yan; Dong, Zhao Yang; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 9  Issue: 3  Pages: 296-
+305  Published: FEB 19 2015   
+31 
+6.2 
+28 
+Title: Optimal allocation of battery energy storage systems in 
+distribution networks with high wind power penetration 
+By: Zhang, Yongxi; Dong, Zhao Yang; Luo, Fengji; et al. 
+Source: IET RENEWABLE POWER 
+GENERATION   Volume: 10  Issue: 8  Pages: 1105-
+1113  Published: SEP 2016   
+30 
+7.5 
+29 
+Title: Flexible transmission expansion planning associated with 
+large-scale wind farms integration considering demand response 
+By: Li, Chengxin; Dong, ZhaoYang; Chen, Guo; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 9  Issue: 15  Pages: 2276-
+2283  Published: NOV 19 2015   
+28 
+5.6 
+30 
+Title: An Advanced Approach for Construction of Optimal Wind 
+Power Prediction Intervals 
+By: Zhang, Guoyong; Wu, Yonggang; Wong, Kit Po; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 30  Issue: 5  Pages: 2706-
+2715  Published: SEP 2015   
+28 
+5.6 
+31 
+Title: Solving Preventive-Corrective SCOPF by a Hybrid 
+Computational Strategy 
+By: Xu, Yan; Dong, Zhao Yang; Zhang, Rui; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 29  Issue: 3  Pages: 1345-
+1355  Published: MAY 2014   
+27 
+4.5 
+32 
+Title: Parallel-differential evolution approach for optimal event-
+driven load shedding against voltage collapse in power systems 
+By: Xu, Yan; Dong, Zhao Yang; Luo, Fengji; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 8  Issue: 4  Pages: 651-
+660  Published: APR 2014   
+27 
+4.5 
+33 
+Title: Forecasting-Aided Imperfect False Data Injection Attacks 
+Against Power System Nonlinear State Estimation 
+By: Zhao, Junbo; Zhang, Gexiang; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 7  Issue: 1  Pages: 6-8  Published: JAN 2016   
+26 
+6.5 
+34 
+Title: Optimal Dispatch of Air Conditioner Loads in Southern China 
+Region by Direct Load Control 
+By: Luo, Fengji; Zhao, Junhua; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 7  Issue: 1  Pages: 439-450  Published: JAN 
+2016   
+26 
+6.5 
+
+-----
+35 
+Title: Direct Quantile Regression for Nonparametric Probabilistic 
+Forecasting of Wind Power Generation 
+By: Wan, Can; Lin, Jin; Wang, Jianhui; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 32  Issue: 4  Pages: 2767-
+2778  Published: JUL 2017   
+25 
+8.33 
+36 
+Title: Robust Kernel Low-Rank Representation 
+By: Xiao, Shijie; Tan, Mingkui; Xu, Dong; et al. 
+Source: IEEE TRANSACTIONS ON NEURAL NETWORKS AND 
+LEARNING SYSTEMS   Volume: 27  Issue: 11  Pages: 2268-
+2281  Published: NOV 2016   
+25 
+6.25 
+37 
+Title: Short-Term State Forecasting-Aided Method for Detection of 
+Smart Grid General False Data Injection Attacks 
+By: Zhao, Junbo; Zhang, Gexiang; La Scala, Massimo; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 8  Issue: 4  Pages: 1580-1590  Published: JUL 
+2017   
+24 
+8 
+38 
+Title: Power system fault diagnosis based on history driven 
+differential evolution and stochastic time domain simulation 
+By: Zhao, Junhua; Xu, Yan; Luo, Fengji; et al. 
+Source: INFORMATION SCIENCES   Volume: 275  Pages: 13-
+29  Published: AUG 10 2014   
+24 
+4 
+39 
+Title: Assessing Short-Term Voltage Stability of Electric Power 
+Systems by a Hierarchical Intelligent System 
+By: Xu, Yan; Zhang, Rui; Zhao, Junhua; et al. 
+Source: IEEE TRANSACTIONS ON NEURAL NETWORKS AND 
+LEARNING SYSTEMS   Volume: 27  Issue: 8  Pages: 1686-
+1696  Published: AUG 2016   
+22 
+5.5 
+40 
+Title: Cloud-Based Information Infrastructure for Next-Generation 
+Power Grid: Conception, Architecture, and Applications 
+By: Luo, Fengji; Zhao, Junhua; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 7  Issue: 4  Pages: 1896-1912  Published: JUL 
+2016   
+22 
+5.5 
+41 
+Title: Advanced Pattern Discovery-based Fuzzy Classification 
+Method for Power System Dynamic Security Assessment 
+By: Luo, FengJi; Dong, ZhaoYang; Chen, Guo; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 11  Issue: 2  Pages: 416-
+426  Published: APR 2015   
+22 
+4.4 
+42 
+Title: Short-Term Residential Load Forecasting Based on Resident 
+Behaviour Learning 
+By: Kong, Weicong; Dong, Zhao Yang; Hill, David J.; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 1  Pages: 1087-
+1088  Published: JAN 2018   
+21 
+10.5 
+
+-----
+43 
+Title: Short-term operational planning framework for virtual power 
+plants with high renewable penetrations 
+By: Luo, Fengji; Dong, Zhao Yang; Meng, Ke; et al. 
+Source: IET RENEWABLE POWER 
+GENERATION   Volume: 10  Issue: 5  Pages: 623-
+633  Published: MAY 2016   
+21 
+5.25 
+44 
+Title: Determining the size of PHEV charging stations powered by 
+commercial grid-integrated PV systems considering reactive power 
+support 
+By: Duong Quoc Hung; Dong, Zhao Yang; Hieu Trinh 
+Source: APPLIED ENERGY   Volume: 183  Pages: 160-
+169  Published: DEC 1 2016   
+20 
+5 
+45 
+Title: A Linear Programming Approach to Expansion Co-Planning in 
+Gas and Electricity Markets 
+By: Qiu, Jing; Yang, Hongming; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 31  Issue: 5  Pages: 3594-
+3606  Published: SEP 2016   
+20 
+5 
+46 
+Title: A recurrent neural network for optimal real-time price in smart 
+grid 
+By: He, Xing; Huang, Tingwen; Li, Chuandong; et al. 
+Source: NEUROCOMPUTING   Volume: 149  Pages: 608-
+612  Part: B  Published: FEB 3 2015   
+20 
+4 
+47 
+Title: An improved framework for power grid vulnerability analysis 
+considering critical system features 
+By: Dai, YuanYu; Chen, Guo; Dong, ZhaoYang; et al. 
+Source: PHYSICA A-STATISTICAL MECHANICS AND ITS 
+APPLICATIONS   Volume: 395  Pages: 405-415  Published: FEB 
+1 2014   
+19 
+3.17 
+48 
+Title: A Sliding Mode Based Damping Control of DFIG for Interarea 
+Power Oscillations 
+By: Liao, Kai; He, Zhengyou; Xu, Yan; et al. 
+Source: IEEE TRANSACTIONS ON SUSTAINABLE 
+ENERGY   Volume: 8  Issue: 1  Pages: 258-267  Published: JAN 
+2017   
+18 
+6 
+49 
+Title: Consensus analysis of multiagent systems with second-order 
+nonlinear dynamics and general directed topology: An event-
+triggered scheme 
+By: Li, Huaqing; Chen, Guo; Dong, Zhaoyang; et al. 
+Source: INFORMATION SCIENCES   Volume: 370  Pages: 598-
+622  Published: NOV 20 2016   
+17 
+4.25 
+50 
+Title: An Operational Planning Framework for Large-Scale 
+Thermostatically Controlled Load Dispatch 
+By: Luo, Fengji; Dong, Zhao Yang; Meng, Ke; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 13  Issue: 1  Pages: 217-
+227  Published: FEB 2017   
+16 
+5.33 
+
+-----
+51 
+Title: Multi-Timescale Coordinated Voltage/Var Control of High 
+Renewable-Penetrated Distribution Systems 
+By: Xu, Yan; Dong, Zhao Yang; Zhang, Rui; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 32  Issue: 6  Pages: 4398-
+4408  Published: NOV 2017   
+15 
+5 
+52 
+Title: Battery ESS Planning for Wind Smoothing via Variable-
+Interval Reference Modulation and Self-Adaptive SOC Control 
+Strategy 
+By: Zhang, Feng; Meng, Ke; Xu, Zhao; et al. 
+Source: IEEE TRANSACTIONS ON SUSTAINABLE 
+ENERGY   Volume: 8  Issue: 2  Pages: 695-707  Published: APR 
+2017   
+15 
+5 
+53 
+Title: Cooperation-Driven Distributed Model Predictive Control for 
+Energy Storage Systems 
+By: Meng, Ke; Dong, Zhao Yang; Xu, Zhao; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 6  Issue: 6  Pages: 2583-2585  Published: NOV 
+2015   
+15 
+3 
+54 
+Title: A Multimarket Decision-Making Framework for GENCO 
+Considering Emission Trading Scheme 
+By: Li, Xu Ran; Yu, Chi Wai; Xu, Zhao; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 28  Issue: 4  Pages: 4099-
+4108  Published: NOV 2013   
+15 
+2.14 
+55 
+Title: Analysis of small signal stability margins using genetic 
+optimization 
+By: Dong, ZY; Makarov, YV; Hill, DJ 
+Source: ELECTRIC POWER SYSTEMS 
+RESEARCH   Volume: 46  Issue: 3  Pages: 195-
+204  Published: SEP 1 1998   
+15 
+0.68 
+56 
+Title: Parallel and Distributed Computation for Dynamical Economic 
+Dispatch 
+By: Chen, Guo; Li, Chaojie; Dong, Zhaoyang 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 8  Issue: 2  Pages: 1026-1027  Published: MAR 
+2017   
+14 
+4.67 
+57 
+Title: Assessing the Transmission Expansion Cost With Distributed 
+Generation: An Australian Case Study 
+By: Luo, Fengji; Zhao, Junhua; Qiu, Jing; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 5  Issue: 4  Pages: 1892-1904  Published: JUL 
+2014   
+14 
+2.33 
+58 
+Title: Short-Term Residential Load Forecasting Based on LSTM 
+Recurrent Neural Network 
+By: Kong, Weicong; Dong, Zhao Yang; Jia, Youwei; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 10  Issue: 1  Pages: 841-851  Published: JAN 
+2019   
+13 
+13 
+
+-----
+59 
+Title: Stability Analysis and Controller Design of a Wide-Area 
+Time-Delay System Based on the Expectation Model Method 
+By: Zhang, Xinran; Lu, Chao; Xie, Xiaorong; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 7  Issue: 1  Pages: 520-529  Published: JAN 
+2016   
+13 
+3.25 
+60 
+Title: Optimal placement of static compensators for multi-objective 
+voltage stability enhancement of power systems 
+By: Xu, Yan; Dong, Zhao Yang; Xiao, Chixin; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 9  Issue: 15  Pages: 2144-
+2151  Published: NOV 19 2015   
+13 
+2.6 
+61 
+Title: Projected mixed integer programming formulations for unit 
+commitment problem 
+By: Yang, Linfeng; Jian, Jinbao; Wang, Yuanyuan; et al. 
+Source: INTERNATIONAL JOURNAL OF ELECTRICAL 
+POWER & ENERGY SYSTEMS   Volume: 68  Pages: 195-
+202  Published: JUN 2015   
+13 
+2.6 
+62 
+Title: Trajectory sensitivity analysis on the equivalent one-machine-
+infinite-bus of multi-machine systems for preventive transient 
+stability control 
+By: Xu, Yan; Dong, Zhao Yang; Zhao, Junhua; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 9  Issue: 3  Pages: 276-
+286  Published: FEB 19 2015   
+13 
+2.6 
+63 
+Title: DISTRIBUTED OPTIMAL DISPATCH OF VIRTUAL 
+POWER PLANT BASED ON ELM TRANSFORMATION 
+By: Yang, Hongming; Yi, Dexin; Zhao, Junhua; et al. 
+Source: JOURNAL OF INDUSTRIAL AND MANAGEMENT 
+OPTIMIZATION   Volume: 10  Issue: 4  Pages: 1297-
+1318  Published: OCT 2014   
+13 
+2.17 
+64 
+Title: Operational Planning of Electric Vehicles for Balancing Wind 
+Power and Load Fluctuations in a Microgrid 
+By: Yang, Hongming; Pan, Hao; Luo, Fengji; et al. 
+Source: IEEE TRANSACTIONS ON SUSTAINABLE 
+ENERGY   Volume: 8  Issue: 2  Pages: 592-604  Published: APR 
+2017   
+12 
+4 
+65 
+Title: A power flow based model for the analysis of vulnerability in 
+power networks 
+By: Wang, Zhuoyang; Chen, Guo; Hill, David J.; et al. 
+Source: PHYSICA A-STATISTICAL MECHANICS AND ITS 
+APPLICATIONS   Volume: 460  Pages: 105-115  Published: OCT 
+15 2016   
+12 
+3 
+66 
+Title: Distributed mirror descent method for multi-agent optimization 
+with delay 
+By: Li, Jueyou; Chen, Guo; Dong, Zhaoyang; et al. 
+Source: NEUROCOMPUTING   Volume: 177  Pages: 643-
+650  Published: FEB 12 2016   
+12 
+3 
+
+-----
+67 
+Title: Discussion of "Combined Nonparametric Prediction Intervals 
+for Wind Power Generation" 
+By: Wan, Can; Xu, Zhao; Ostergaard, Jacob; et al. 
+Source: IEEE TRANSACTIONS ON SUSTAINABLE 
+ENERGY   Volume: 5  Issue: 3  Pages: 1021-1021  Published: JUL 
+2014   
+12 
+2 
+68 
+Title: Hybrid computation of corrective security-constrained optimal 
+power flow problems 
+By: Zhang, Rui; Dong, Zhao Yang; Xu, Yan; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 8  Issue: 6  Pages: 995-
+1006  Published: JUN 2014   
+12 
+2 
+69 
+Title: Multi-Agent Optimal Allocation of Energy Storage Systems in 
+Distribution Systems 
+By: Zheng, Yu; Hill, David J.; Dong, Zhao Yang 
+Source: IEEE TRANSACTIONS ON SUSTAINABLE 
+ENERGY   Volume: 8  Issue: 4  Pages: 1715-
+1725  Published: OCT 2017   
+11 
+3.67 
+70 
+Title: Direct load control by distributed imperialist competitive 
+algorithm 
+By: Luo, Fengji; Zhao, Junhua; Wang, Haiming; et al. 
+Source: JOURNAL OF MODERN POWER SYSTEMS AND 
+CLEAN ENERGY   Volume: 2  Issue: 4  Pages: 385-
+395  Published: DEC 2014   
+11 
+1.83 
+71 
+Title: An Extensible Approach for Non-Intrusive Load 
+Disaggregation With Smart Meter Data 
+By: Kong, Weicong; Dong, Zhao Yang; Ma, Jin; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 9  Issue: 4  Pages: 3362-3372  Published: JUL 
+2018   
+10 
+5 
+72 
+Title: Coordinated dispatch of networked energy storage systems for 
+loading management in active distribution networks 
+By: Wang, Dongxiao; Meng, Ke; Luo, Fengji; et al. 
+Source: IET RENEWABLE POWER 
+GENERATION   Volume: 10  Issue: 9  Pages: 1374-
+1381  Published: OCT 2016   
+10 
+2.5 
+73 
+Title: Optimal integration of mobile battery energy storage in 
+distribution system with renewables 
+By: Zheng, Yu; Dong, Zhaoyang; Huang, Shilin; et al. 
+Source: JOURNAL OF MODERN POWER SYSTEMS AND 
+CLEAN ENERGY   Volume: 3  Issue: 4  Special 
+Issue: SI  Pages: 589-596  Published: DEC 2015   
+10 
+2 
+74 
+Title: Powering China's Sustainable Development with Renewable 
+Energies: Current Status and Future Trend 
+By: Jia, Youwei; Gao, Yang; Xu, Zhao; et al. 
+Source: ELECTRIC POWER COMPONENTS AND 
+SYSTEMS   Volume: 43  Issue: 8-10  Special 
+Issue: SI  Pages: 1193-1204  Published:JUN 15 2015   
+10 
+2 
+
+-----
+75 
+Title: A novel technique for the optimal design of offshore wind 
+farm electrical layout 
+By: Chen, Yingying; Dong, Zhaoyang; Meng, Ke; et al. 
+Source: JOURNAL OF MODERN POWER SYSTEMS AND 
+CLEAN ENERGY   Volume: 1  Issue: 3  Pages: 258-
+263  Published: DEC 2013   
+10 
+1.43 
+76 
+Title: Noncooperative Game-Based Distributed Charging Control for 
+Plug-In Electric Vehicles in Distribution Networks 
+By: Li, Jueyou; Li, Chaojie; Xu, Yan; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 14  Issue: 1  Pages: 301-
+310  Published: JAN 2018   
+9 
+4.5 
+77 
+Title: Robust Security Constrained-Optimal Power Flow Using 
+Multiple Microgrids for Corrective Control of Power Systems Under 
+Uncertainty 
+By: Zhang, Wang; Xu, Yan; Dong, ZhaoYang; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 13  Issue: 4  Pages: 1704-
+1713  Published: AUG 2017   
+9 
+3 
+78 
+Title: A New QoS-Aware Web Service Recommendation System 
+Based on Contextual Feature Recognition at Server-Side 
+By: Li, Shun; Wen, Junhao; Luo, Fengji; et al. 
+Source: IEEE TRANSACTIONS ON NETWORK AND SERVICE 
+MANAGEMENT   Volume: 14  Issue: 2  Pages: 332-
+342  Published: JUN 2017   
+9 
+3 
+79 
+Title: Rational and self-adaptive evolutionary extreme learning 
+machine for electricity price forecast 
+By: Xiao, Chixin; Dong, Zhaoyang; Xu, Yan; et al. 
+Source: MEMETIC 
+COMPUTING   Volume: 8  Issue: 3  Pages: 223-
+233  Published: SEP 2016   
+9 
+2.25 
+80 
+Title: Flexible Operational Planning Framework Considering 
+Multiple Wind Energy Forecasting Service Providers 
+By: Meng, Ke; Yang, Hongming; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON SUSTAINABLE 
+ENERGY   Volume: 7  Issue: 2  Pages: 708-717  Published: APR 
+2016   
+9 
+2.25 
+81 
+Title: A Decomposition-Based Practical Approach to Transient 
+Stability-Constrained Unit Commitment 
+By: Xu, Yan; Dong, Zhao Yang; Zhang, Rui; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 30  Issue: 3  Pages: 1455-
+1464  Published: MAY 2015   
+9 
+1.8 
+82 
+Title: Tight Relaxation Method for Unit Commitment Problem Using 
+Reformulation and Lift-and-Project 
+By: Yang, Linfeng; Jian, Jinbao; Zhu, Yunan; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 30  Issue: 1  Pages: 13-23  Published: JAN 
+2015   
+9 
+1.8 
+
+-----
+83 
+Title: Permutation-based Power System Restoration in Smart Grid 
+Considering Load Prioritization 
+By: Hou, Jia; Xu, Zhao; Dong, Zhao Yang; et al. 
+Source: ELECTRIC POWER COMPONENTS AND 
+SYSTEMS   Volume: 42  Issue: 3-4  Special Issue: SI  Pages: 361-
+371  Published:MAR 12 2014   
+9 
+1.5 
+84 
+Title: Fast computation of the maximum wind penetration based on 
+frequency response in small isolated power systems 
+By: Yu, H. Y.; Bansal, R. C.; Dong, Z. Y. 
+Source: APPLIED ENERGY   Volume: 113  Special 
+Issue: SI  Pages: 648-659  Published: JAN 2014   
+9 
+1.5 
+85 
+Title: Using IS to Assess an Electric Power System's Real-Time 
+Stability 
+By: Dong, Zhao Yang; Xu, Yan; Zhang, Pei; et al. 
+Source: IEEE INTELLIGENT 
+SYSTEMS   Volume: 28  Issue: 4  Pages: 60-66  Published: JUL-
+AUG 2013   
+9 
+1.29 
+86 
+Title: Option-game-based method for generation investment analysis 
+considering uncertain carbon reduction policy in the electricity 
+market 
+By: Liu, G.; Zhao, J. H.; Wen, F.; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 4  Issue: 8  Pages: 917-
+927  Published: AUG 2010   
+9 
+0.9 
+87 
+Title: Optimal placement of battery energy storage in distribution 
+networks considering conservation voltage reduction and stochastic 
+load composition 
+By: Zhang, Yongxi; Ren, Shuyun; Dong, Zhao Yang; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 11  Issue: 15  Special 
+Issue: SI  Pages: 3862-3870  Published: OCT 19 2017   
+8 
+2.67 
+88 
+Title: Electric Vehicle Route Selection and Charging Navigation 
+Strategy Based on Crowd Sensing 
+By: Yang, Hongming; Deng, Youjun; Qiu, Jing; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 13  Issue: 5  Pages: 2214-
+2226  Published: OCT 2017   
+8 
+2.67 
+89 
+Title: Non-intrusive energy saving appliance recommender system 
+for smart grid residential users 
+By: Luo, Fengji; Ranzi, Gianluca; Kong, Weicong; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 11  Issue: 7  Pages: 1786-
+1793  Published: MAY 11 2017   
+8 
+2.67 
+90 
+Title: Collector System Layout Optimization Framework for Large-
+Scale Offshore Wind Farms 
+By: Chen, Yingying; Dong, Zhao Yang; Meng, Ke; et al. 
+Source: IEEE TRANSACTIONS ON SUSTAINABLE 
+ENERGY   Volume: 7  Issue: 4  Pages: 1398-
+1407  Published: OCT 2016   
+8 
+2 
+
+-----
+91 
+Title: A Practical Pricing Approach to Smart Grid Demand Response 
+Based on Load Classification 
+By: Yang, Hongming; Zhang, Jun; Qiu, Jing; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 9  Issue: 1  Pages: 179-190  Published: JAN 
+2018   
+7 
+3.5 
+92 
+Title: Nonparametric Prediction Intervals of Wind Power via Linear 
+Programming 
+By: Wan, Can; Wang, Jianhui; Lin, Jin; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 1  Pages: 1074-
+1076  Published: JAN 2018   
+7 
+3.5 
+93 
+Title: CVaR-Constrained Optimal Bidding of Electric Vehicle 
+Aggregators in Day-Ahead and Real-Time Markets 
+By: Yang, Hongming; Zhang, Sanhua; Qiu, Jing; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 13  Issue: 5  Pages: 2555-
+2565  Published: OCT 2017   
+7 
+2.33 
+94 
+Title: Improved Cycle Control and Sizing Scheme for Wind Energy 
+Storage System Based on Multiobjective Optimization 
+By: Zhang, Feng; Wang, Guibin; Meng, Ke; et al. 
+Source: IEEE TRANSACTIONS ON SUSTAINABLE 
+ENERGY   Volume: 8  Issue: 3  Pages: 966-977  Published: JUL 
+2017   
+7 
+2.33 
+95 
+Title: Coordinated expansion co-planning of integrated gas and 
+power systems 
+By: Wang, Dongxiao; Qiu, Jing; Meng, Ke; et al. 
+Source: JOURNAL OF MODERN POWER SYSTEMS AND 
+CLEAN ENERGY   Volume: 5  Issue: 3  Pages: 314-
+325  Published: MAY 2017   
+7 
+2.33 
+96 
+Title: A novel projected two-binary-variable formulation for unit 
+commitment in power systems 
+By: Yang, Linfeng; Zhang, Chen; Jian, Jinbao; et al. 
+Source: APPLIED ENERGY   Volume: 187  Pages: 732-
+745  Published: FEB 1 2017   
+7 
+2.33 
+97 
+Title: Will electrical cyber-physical interdependent networks 
+undergo first-order transition under random attacks? 
+By: Ji, Xingpei; Wang, Bo; Liu, Dichen; et al. 
+Source: PHYSICA A-STATISTICAL MECHANICS AND ITS 
+APPLICATIONS   Volume: 460  Pages: 235-245  Published: OCT 
+15 2016   
+7 
+1.75 
+98 
+Title: A contingency partitioning approach for preventive-corrective 
+security-constrained optimal power flow computation 
+By: Xu, Yan; Yang, Hongming; Zhang, Rui; et al. 
+Source: ELECTRIC POWER SYSTEMS 
+RESEARCH   Volume: 132  Pages: 132-140  Published: MAR 
+2016   
+7 
+1.75 
+
+-----
+99 
+Title: Optimal operation scheduling for microgrid with high 
+penetrations of solar power and thermostatically controlled loads 
+By: Luo, Fengji; Xu, Zhao; Meng, Ke; et al. 
+Source: SCIENCE AND TECHNOLOGY FOR THE BUILT 
+ENVIRONMENT   Volume: 22  Issue: 6  Pages: 666-
+673  Published: 2016   
+7 
+1.75 
+100 
+Title: A low-carbon oriented probabilistic approach for transmission 
+expansion planning 
+By: Qiu, Jing; Dong, Zhaoyang; Zhao, Junhua; et al. 
+Source: JOURNAL OF MODERN POWER SYSTEMS AND 
+CLEAN ENERGY   Volume: 3  Issue: 1  Special 
+Issue: SI  Pages: 14-23  Published: MAR 2015   
+7 
+1.4 
+101 
+Title: An Experimental Study on Emission Trading Behaviors of 
+Generation Companies 
+By: Huang, Jie; Xue, Yusheng; Jiang, Chao; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 30  Issue: 2  Pages: 1076-
+1083  Published: MAR 2015   
+7 
+1.4 
+102 
+Title: Optimal Scheduling for Prosumers in Coupled Transactive 
+Power and Gas Systems 
+By: Qiu, Jing; Zhao, Junhua; Yang, Hongming; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 2  Pages: 1970-
+1980  Published: MAR 2018   
+6 
+3 
+103 
+Title: Imbalance Learning Machine-Based Power System Short-
+Term Voltage Stability Assessment 
+By: Zhu, Lipeng; Lu, Chao; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 13  Issue: 5  Pages: 2533-
+2543  Published: OCT 2017   
+6 
+2 
+104 
+Title: Optimal scheduling of distributed energy resources as a virtual 
+power plant in a transactive energy framework 
+By: Qiu, Jing; Meng, Ke; Zheng, Yu; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 11  Issue: 13  Pages: 3417-
+3427  Published: SEP 7 2017   
+6 
+2 
+105 
+Title: Robust Transient Stability-Constrained Optimal Power Flow 
+With Uncertain Dynamic Loads 
+By: Xu, Yan; Ma, Jin; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 8  Issue: 4  Pages: 1911-1921  Published: JUL 
+2017   
+6 
+2 
+106 
+Title: Turbine Stability-Constrained Available Wind Power of 
+Variable Speed Wind Turbines for Active Power Control 
+By: Yin, Minghui; Xu, Yan; Shen, Chun; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 32  Issue: 3  Pages: 2487-
+2488  Published: MAY 2017   
+6 
+2 
+
+-----
+107 
+Title: Multi-objective transmission expansion planning in a smart 
+grid using a decomposition-based evolutionary algorithm 
+By: Qiu, Jing; Dong, Zhao Yang; Meng, Ke; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 10  Issue: 16  Pages: 4024-
+4031  Published: DEC 8 2016   
+6 
+1.5 
+108 
+Title: Improving Nonintrusive Load Monitoring Efficiency via a 
+Hybrid Programing Method 
+By: Kong, Weicong; Dong, Zhao Yang; Hill, David J.; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 12  Issue: 6  Pages: 2148-
+2157  Published: DEC 2016   
+6 
+1.5 
+109 
+Title: A Risk-Based Approach to Multi-Stage Probabilistic 
+Transmission Network Planning 
+By: Qiu, Jing; Dong, Zhao Yang; Zhao, Junhua; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 31  Issue: 6  Pages: 4867-
+4876  Published: NOV 2016   
+6 
+1.5 
+110 
+Title: Risk-averse multi-objective generation dispatch considering 
+transient stability under load model uncertainty 
+By: Xu, Yan; Xie, Xuekuan; Dong, Zhao Y.; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 10  Issue: 11  Pages: 2785-
+2791  Published: AUG 4 2016   
+6 
+1.5 
+111 
+Title: A fast dual proximal-gradient method for separable convex 
+optimization with linear coupled constraints 
+By: Li, Jueyou; Chen, Guo; Dong, Zhaoyang; et al. 
+Source: COMPUTATIONAL OPTIMIZATION AND 
+APPLICATIONS   Volume: 64  Issue: 3  Pages: 671-
+697  Published: JUL 2016   
+6 
+1.5 
+112 
+Title: Insurance strategy for mitigating power system operational risk 
+introduced by wind power forecasting uncertainty 
+By: Yang, Hongming; Qiu, Jing; Meng, Ke; et al. 
+Source: RENEWABLE ENERGY   Volume: 89  Pages: 606-
+615  Published: APR 2016   
+6 
+1.5 
+113 
+Title: A New Metaheuristic Algorithm for Real-Parameter 
+Optimization: Natural Aggregation Algorithm 
+By: Luo, Fengji; Zhao, Junhua; Dong, Zhao Yang 
+Conference: IEEE Congress on Evolutionary Computation (CEC) 
+held as part of IEEE World Congress on Computational Intelligence 
+(IEEE WCCI) Location: Vancouver, CANADA Date: JUL 24-29, 
+2016 Sponsor(s): IEEE; IEEE Computat Intelligence Soc; Int Neural 
+Network Soc; Evolutionary Programming Soc; IET; IEEE BigData 
+Initiat; Gulf Univ Sci & Technol 
+Source: 2016 IEEE CONGRESS ON EVOLUTIONARY 
+COMPUTATION (CEC)   Book Series: IEEE Congress on 
+Evolutionary Computation  Pages: 94-103  Published: 2016   
+6 
+1.5 
+
+-----
+114 
+Title: Discriminant-Analysis-Based Single-Phase Earth Fault 
+Protection Using Improved PCA in Distribution Systems 
+By: Wang, Yuanyuan; Zhou, Jiaming; Li, Zewen; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+DELIVERY   Volume: 30  Issue: 4  Pages: 1974-
+1982  Published: AUG 2015   
+6 
+1.2 
+115 
+Title: Optimal Short-term Power Dispatch Scheduling for a Wind 
+Farm with Battery Energy Storage System 
+By: Zheng, Y.; Hill, D. J.; Meng, K.; et al. 
+Conference: 9th IFAC Symposium on Control of Power and Energy 
+Systems (CPES 2015) Location: New Delhi, INDIA Date: DEC 09-
+11, 2015  
+Source: IFAC 
+PAPERSONLINE   Volume: 48  Issue: 30  Pages: 518-
+523  Published: 2015   
+6 
+1.2 
+116 
+Title: Primary energy congestion of power systems 
+By: Xue, Yusheng; Cai, Bin; James, Geoffrey; et al. 
+Source: JOURNAL OF MODERN POWER SYSTEMS AND 
+CLEAN ENERGY   Volume: 2  Issue: 1  Pages: 39-
+49  Published: MAR 2014   
+6 
+1 
+117 
+Title: Novel protection scheme of stator single-phase-to-ground fault 
+for powerformers 
+By: Wang, Yuanyuan; Zeng, Xiangjun; Dong, Zhaoyang; et al. 
+Source: INTERNATIONAL JOURNAL OF ELECTRICAL 
+POWER & ENERGY SYSTEMS   Volume: 53  Pages: 321-
+328  Published: DEC 2013   
+6 
+0.86 
+118 
+Title: Social Information Filtering-Based Electricity Retail Plan 
+Recommender System for Smart Grid End Users 
+By: Luo, Fengji; Ranzi, Gianluca; Wang, Xibin; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 10  Issue: 1  Pages: 95-104  Published: JAN 
+2019   
+5 
+5 
+119 
+Title: Generalized FDIA-Based Cyber Topology Attack With 
+Application to the Australian Electricity Market Trading Mechanism 
+By: Liang, Gaoqi; Weller, Steven R.; Luo, Fengji; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 9  Issue: 4  Pages: 3820-3829  Published: JUL 
+2018   
+5 
+2.5 
+120 
+Title: Planning of solar photovoltaics, battery energy storage system 
+and gas micro turbine for coupled micro energy grids 
+By: Qiu, Jing; Zhao, Junhua; Yang, Hongming; et al. 
+Source: APPLIED ENERGY   Volume: 219  Pages: 361-
+369  Published: JUN 1 2018   
+5 
+2.5 
+121 
+Title: Stochastic Collaborative Planning of Electric Vehicle Charging 
+Stations and Power Distribution System 
+By: Wang, Shu; Dong, Zhao Yang; Luo, Fengji; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 14  Issue: 1  Pages: 321-
+331  Published: JAN 2018   
+5 
+2.5 
+
+-----
+122 
+Title: Robust Ensemble Data Analytics for Incomplete PMU 
+Measurements-Based Power System Stability Assessment 
+By: Zhang, Yuchen; Xu, Yan; Dong, Zhao Yang 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 1  Pages: 1124-
+1126  Published: JAN 2018   
+5 
+2.5 
+123 
+Title: Hierarchical SCOPF Considering Wind Energy Integration 
+Through Multiterminal VSC-HVDC Grids 
+By: Meng, Ke; Zhang, Wang; Li, Yujun; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 32  Issue: 6  Pages: 4211-
+4221  Published: NOV 2017   
+5 
+1.67 
+124 
+Title: Intelligent Early Warning of Power System Dynamic 
+Insecurity Risk: Toward Optimal Accuracy-Earliness Tradeoff 
+By: Zhang, Yuchen; Xu, Yan; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 13  Issue: 5  Pages: 2544-
+2554  Published: OCT 2017   
+5 
+1.67 
+125 
+Title: Power system cascading risk assessment based on complex 
+network theory 
+By: Wang, Zhuoyang; Hill, David J.; Chen, Guo; et al. 
+Source: PHYSICA A-STATISTICAL MECHANICS AND ITS 
+APPLICATIONS   Volume: 482  Pages: 532-543  Published: SEP 
+15 2017   
+5 
+1.67 
+126 
+Title: Maximum Wind Energy Extraction for Variable Speed Wind 
+Turbines With Slow Dynamic Behavior 
+By: Chen, Zaiyu; Yin, Minghui; Zou, Yun; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 32  Issue: 4  Pages: 3321-
+3322  Published: JUL 2017   
+5 
+1.67 
+127 
+Title: A Developed Integrated Scheme Based Approach for Wind 
+Turbine Intelligent Control 
+By: Mahmoud, Tawfek K.; Dong, Zhao Yang; Ma, Jin 
+Source: IEEE TRANSACTIONS ON SUSTAINABLE 
+ENERGY   Volume: 8  Issue: 3  Pages: 927-937  Published: JUL 
+2017   
+5 
+1.67 
+128 
+Title: Optimal air-conditioning load control in distribution network 
+with intermittent renewables 
+By: Wang, Dongxiao; Meng, Ke; Gao, Xiaodan; et al. 
+Source: JOURNAL OF MODERN POWER SYSTEMS AND 
+CLEAN ENERGY   Volume: 5  Issue: 1  Pages: 55-
+65  Published: JAN 2017   
+5 
+1.67 
+129 
+Title: A Probabilistic Transmission Planning Framework for 
+Reducing Network Vulnerability to Extreme Events 
+By: Qiu, Jing; Yang, Hongming; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 31  Issue: 5  Pages: 3829-
+3839  Published: SEP 2016   
+5 
+1.25 
+
+-----
+130 
+Title: Analysis of electric field influence on buildings under high-
+voltage transmission lines 
+By: Tong, Ziyuan; Dong, Zhaoyang; Ashton, Trevor 
+Source: IET SCIENCE MEASUREMENT & 
+TECHNOLOGY   Volume: 10  Issue: 4  Pages: 253-
+258  Published: JUL 2016   
+5 
+1.25 
+131 
+Title: A Multi-Point Method Considering the Maximum Power Point 
+Tracking Dynamic Process for Aerodynamic Optimization of 
+Variable-Speed Wind Turbine Blades 
+By: Yang, Zhiqiang; Yin, Minghui; Xu, Yan; et al. 
+Source: ENERGIES   Volume: 9  Issue: 6    Article 
+Number: 425  Published: JUN 2016   
+5 
+1.25 
+132 
+Title: Three-Stage Robust Inverter-Based Voltage/Var Control for 
+Distribution Networks With High-Level PV 
+By: Zhang, Cuo; Xu, Yan; Dong, Zhaoyang; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 10  Issue: 1  Pages: 782-793  Published: JAN 
+2019   
+4 
+4 
+133 
+Title: Robust Forecasting Aided Power System State Estimation 
+Considering State Correlations 
+By: Zhao, Junbo; Zhang, Gexiang; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 9  Issue: 4  Pages: 2658-2666  Published: JUL 
+2018   
+4 
+2 
+134 
+Title: Optimal allocation of BESS and MT in a microgrid 
+By: Qiu, Jing; Zhao, Junhua; Zheng, Yu; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 12  Issue: 9  Pages: 1988-
+1997  Published: MAY 15 2018   
+4 
+2 
+135 
+Title: Robust Dispatch of High Wind Power-Penetrated Power 
+Systems Against Transient Instability 
+By: Xu, Yan; Yin, Minghui; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 1  Pages: 174-186  Published: JAN 
+2018   
+4 
+2 
+136 
+Title: Distributionally Robust Optimal Bidding of Controllable Load 
+Aggregators in the Electricity Market 
+By: Yang, Hongming; Zhang, Shiming; Qiu, Duo; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 1  Pages: 1089-
+1091  Published: JAN 2018   
+4 
+2 
+137 
+Title: Multi-objective Distributed Wind Generation Planning in an 
+Unbalanced Distribution System 
+By: Zheng, Yu; Dong, Zhao Yang; Meng, Ke; et al. 
+Source: CSEE JOURNAL OF POWER AND ENERGY 
+SYSTEMS   Volume: 3  Issue: 2  Pages: 186-195  Published: JUN 
+2017   
+4 
+1.33 
+
+-----
+138 
+Title: Probabilistic transmission expansion planning for increasing 
+wind power penetration 
+By: Qiu, Jing; Zhao, Junhua; Dong, Zhao Yang 
+Source: IET RENEWABLE POWER 
+GENERATION   Volume: 11  Issue: 6  Pages: 837-
+845  Published: MAY 10 2017   
+4 
+1.33 
+139 
+Title: Distributed Control of Thermostatically Controlled Loads in 
+Distribution Network with High Penetration of Solar PV 
+By: Meng, Ke; Wang, Dongxiao; Dong, Zhao Yang; et al. 
+Source: CSEE JOURNAL OF POWER AND ENERGY 
+SYSTEMS   Volume: 3  Issue: 1  Pages: 53-62  Published: MAR 
+2017   
+4 
+1.33 
+140 
+Title: Measurement-based dynamic load modelling using time-
+domain simulation and parallel-evolutionary search 
+By: Zhang, Rui; Xu, Yan; Dong, Zhao Yang; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 10  Issue: 15  Pages: 3893-
+3900  Published: NOV 17 2016   
+4 
+1 
+141 
+Title: Diverting homoclinic chaos in a class of piecewise smooth 
+oscillators to stable periodic orbits using small parametrical 
+perturbations 
+By: Li, Huaqing; Liao, Xiaofeng; Huang, Junjian; et al. 
+Source: NEUROCOMPUTING   Volume: 149  Pages: 1587-
+1595  Part: C  Published: FEB 3 2015   
+4 
+0.8 
+142 
+Title: Stator Single-Phase-to-Ground Fault Protection for Bus-
+connected Powerformers Based on Hierarchical Clustering Algorithm 
+By: Wang, Yuan Yuan; Zeng, Xiang Jun; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON ENERGY 
+CONVERSION   Volume: 28  Issue: 4  Pages: 991-
+998  Published: DEC 2013   
+4 
+0.57 
+143 
+Title: A Framework for Cyber-Topology Attacks: Line-Switching 
+and New Attack Scenarios 
+By: Liang, Gaoqi; Weller, Steven R.; Zhao, Junhua; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 10  Issue: 2  Pages: 1704-1712  Published: MAR 
+2019   
+3 
+3 
+144 
+Title: An advanced approach for optimal wind power generation 
+prediction intervals by using self-adaptive evolutionary extreme 
+learning machine 
+By: Mahmoud, Tawfek; Dong, Z. Y.; Ma, Jin 
+Source: RENEWABLE ENERGY   Volume: 126  Pages: 254-
+269  Published: OCT 2018   
+3 
+1.5 
+145 
+Title: Decision-Making for Electricity Retailers: A Brief Survey 
+By: Yang, Jiajia; Zhao, Junhua; Luo, Fengji; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 9  Issue: 5  Pages: 4140-4153  Published: SEP 
+2018   
+3 
+1.5 
+
+-----
+146 
+Title: Faster Detection of Microgrid Islanding Events Using an 
+Adaptive Ensemble Classifier 
+By: Khamis, Aziah; Xu, Yan; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 9  Issue: 3  Pages: 1889-1899  Published: MAY 
+2018   
+3 
+1.5 
+147 
+Title: Modeling and Analysis of Lithium Battery Operations in Spot 
+and Frequency Regulation Service Markets in Australia Electricity 
+Market 
+By: Zhai, Qiwei; Meng, Ke; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 13  Issue: 5  Pages: 2576-
+2586  Published: OCT 2017   
+3 
+1 
+148 
+Title: Cooperation-Driven Distributed Control Scheme for Large-
+Scale Wind Farm Active Power Regulation 
+By: Gao, Xiaodan; Meng, Ke; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON ENERGY 
+CONVERSION   Volume: 32  Issue: 3  Pages: 1240-
+1250  Published: SEP 2017   
+3 
+1 
+149 
+Title: A Comprehensive Model With Fast Solver for Optimal Energy 
+Scheduling in RTP Environment 
+By: Zhang, Wang; Li, Jueyou; Chen, Guo; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 8  Issue: 5  Pages: 2314-2323  Published: SEP 
+2017   
+3 
+1 
+150 
+Title: Research on Unstructured Text Data Mining and Fault 
+Classification Based on RNN-LSTM with Malfunction Inspection 
+Report 
+By: Wei, Daqian; Wang, Bo; Lin, Gang; et al. 
+Source: ENERGIES   Volume: 10  Issue: 3    Article 
+Number: 406  Published: MAR 2017   
+3 
+1 
+151 
+Title: Joint Design of Energy-Efficient Clustering and Data Recovery 
+for Wireless Sensor Networks 
+By: Liu, Xuan; Li, Jun; Dong, Zy; et al. 
+Source: IEEE ACCESS   Volume: 5  Pages: 3646-
+3656  Published: 2017   
+3 
+1 
+152 
+Title: Evaluation of Conservation Voltage Reduction with Analytic 
+Hierarchy Process: A Decision Support Framework in Grid 
+Operations Planning 
+By: An, Kyungsung; Liu, Hao Jan; Zhu, Hao; et al. 
+Source: ENERGIES   Volume: 9  Issue: 12    Article 
+Number: 1074  Published: DEC 2016   
+3 
+0.75 
+153 
+Title: Analysis of magnetic field generated by overhead cables 
+By: Tong Zi-Yuan; Dong Zhao-Yang; Tong Min-Ming 
+Source: MEASUREMENT   Volume: 89  Pages: 166-
+170  Published: JUL 2016   
+3 
+0.75 
+
+-----
+154 
+Title: Robust OPF Considering Load and Renewable Power 
+Uncertainties in Multi-Terminal HYDC Grids 
+By: Zhang, Wang; Yan, Xu; Dong, Zhao Yang; et al. 
+Conference: IEEE PES Asia-Pacific Power and Energy Engineering 
+Conference (APPEEC) Location: Xian, PEOPLES R 
+CHINA Date:OCT 25-28, 2016 Sponsor(s): IEEE Power & Energy 
+Soc; Xian Jiaotong Univ; Shaanxi Assoc Sci & Technol; China Soc 
+Elect Engn; State Grid Key Lab Elect Power Environm Protect; 
+Beijing Sifang Automat Co Ltd; State Grid Shaanxi Elect Power Co 
+Source: 2016 IEEE PES ASIA-PACIFIC POWER AND ENERGY 
+ENGINEERING CONFERENCE (APPEEC)   Book Series: Asia-
+Pacific Power and Energy Engineering Conference  Pages: 24-
+27  Published: 2016   
+3 
+0.75 
+155 
+Title: Stochastic Optimal Dispatch of Power System Considering the 
+Correlation of Multiple Wind Farm Outputs 
+By: Yang, Hongming; Zhang, Yongxi; Wang, Shuang; et al. 
+Source: ELECTRIC POWER COMPONENTS AND 
+SYSTEMS   Volume: 44  Issue: 6  Pages: 616-
+627  Published: 2016   
+3 
+0.75 
+156 
+Title: ZigBee Technology Application in Wireless Communication 
+Mesh Network of Ice Disaster 
+By: Yi, Zefeng; Hou, Hui; Dong, Zhaoyang; et al. 
+Edited by: Shakshuki, E  
+Conference: 6th International Conference on Ambient Systems, 
+Networks and Technologies (ANT) / 5th International Conference on 
+Sustainable Energy Information Technology 
+(SEIT) Location: London, ENGLAND Date: JUN 02-05, 2015  
+Source: 6TH INTERNATIONAL CONFERENCE ON AMBIENT 
+SYSTEMS, NETWORKS AND TECHNOLOGIES (ANT-2015), 
+THE 5TH INTERNATIONAL CONFERENCE ON SUSTAINABLE 
+ENERGY INFORMATION TECHNOLOGY (SEIT-2015)   Book 
+Series: Procedia Computer Science  Volume: 52  Pages: 1206-
+1211  Published: 2015   
+3 
+0.6 
+157 
+Title: Input Sensitivity Analysis via Transfer Function Matrix 
+By: Ma, Jin; Ma, Xin; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 29  Issue: 6  Pages: 3120-
+3121  Published: NOV 2014   
+3 
+0.5 
+158 
+Title: Coordinated Dispatch of Virtual Energy Storage Systems in 
+Smart Distribution Networks for Loading Management 
+By: Meng, Ke; Dong, Zhao Yang; Xu, Zhao; et al. 
+Source: IEEE TRANSACTIONS ON SYSTEMS MAN 
+CYBERNETICS-SYSTEMS   Volume: 49  Issue: 4  Pages: 776-
+786  Published: APR 2019   
+2 
+2 
+159 
+Title: A Hierarchical Hidden Markov Model Framework for Home 
+Appliance Modeling 
+By: Kong, Weicong; Dong, Zhao Yang; Hill, David J.; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 9  Issue: 4  Pages: 3079-3090  Published: JUL 
+2018   
+2 
+1 
+
+-----
+160 
+Title: Coordinated Dispatch of Virtual Energy Storage Systems in 
+LV Grids for Voltage Regulation 
+By: Wang, Dongxiao; Meng, Ke; Gao, Xiaodan; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 14  Issue: 6  Pages: 2452-
+2462  Published: JUN 2018   
+2 
+1 
+161 
+Title: Robust classification model for PMU-based on-line power 
+system DSA with missing data 
+By: Zhang, Yuchen; Xu, Yan; Dong, Zhao Yang 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 11  Issue: 18  Special 
+Issue: SI  Pages: 4484-4491  Published: DEC 21 2017   
+2 
+0.67 
+162 
+Title: A New Entropy Bi-Cepstrum Based-Method for DC Motor 
+Brush Abnormality Recognition 
+By: Tong, Zi Yuan; Dong, Zhao Yang; Li, Meng 
+Source: IEEE SENSORS 
+JOURNAL   Volume: 17  Issue: 3  Pages: 745-754  Published: FEB 
+1 2017   
+2 
+0.67 
+163 
+Title: Enhanced evolutionary heuristic approaches for remote 
+metering smart grid networks 
+By: Miao, Hui; Chen, Guo; Dong, Zhaoyang 
+Source: IET NETWORKS   Volume: 5  Issue: 6  Pages: 153-
+161  Published: NOV 2016   
+2 
+0.5 
+164 
+Title: Distributed mirror descent method for saddle point problems 
+over directed graphs 
+By: Li, Jueyou; Chen, Guo; Dong, Zhaoyang; et al. 
+Source: COMPLEXITY   Volume: 21  Issue: S2  Pages: 178-
+190  Published: NOV-DEC 2016   
+2 
+0.5 
+165 
+Title: Stator winding single-phase grounding faults protective 
+scheme based on discriminant analysis for Powerformers with 
+selectivity 
+By: Wang, Yuanyuan; Zhou, Jiaming; Wei, Gen; et al. 
+Source: INTERNATIONAL JOURNAL OF ELECTRICAL 
+POWER & ENERGY SYSTEMS   Volume: 77  Pages: 145-
+150  Published: MAY 2016   
+2 
+0.5 
+166 
+Title: A Composite k-Nearest Neighbor Model for Day-Ahead Load 
+Forecasting with Limited Temperature Forecasts 
+By: Zhang, Rui; Xu, Yan; Dong, Zhao Yang; et al. 
+Conference: IEEE-Power-and-Energy-Society General Meeting 
+(PESGM) Location: Boston, MA Date: JUL 17-21, 
+2016 Sponsor(s):IEEE Power & Energ Soc 
+Source: 2016 IEEE POWER AND ENERGY SOCIETY GENERAL 
+MEETING (PESGM)   Book Series: IEEE Power and Energy 
+Society General Meeting PESGM  Published: 2016   
+2 
+0.5 
+
+-----
+167 
+Title: Electrical Vehicle Wireless Charging Technology Based on 
+Energy Internet Application in China 
+By: Hou, Hui; Xie, Jun; Zhao, Dongming; et al. 
+Edited by: Shakshuki, E  
+Conference: 7th International Conference on Ambient Systems, 
+Networks and Technologies (ANT) / 6th International Conference on 
+Sustainable Energy Information Technology 
+(SEIT) Location: Madrid, SPAIN Date: MAY 23-26, 2016  
+Source: 7TH INTERNATIONAL CONFERENCE ON AMBIENT 
+SYSTEMS, NETWORKS AND TECHNOLOGIES (ANT 2016) / 
+THE 6TH INTERNATIONAL CONFERENCE ON SUSTAINABLE 
+ENERGY INFORMATION TECHNOLOGY (SEIT-2016) / 
+AFFILIATED WORKSHOPS  Book Series: Procedia Computer 
+Science  Volume: 83  Pages: 1332-1337  Published: 2016   
+2 
+0.5 
+168 
+Title: New Australian NEM transmission use of system charging 
+methodologies for integrating renewable generation to existing grid 
+By: Radzi, N. H.; Bansal, R. C.; Dong, Z. Y. 
+Source: RENEWABLE ENERGY   Volume: 76  Pages: 72-
+81  Published: APR 2015   
+2 
+0.4 
+169 
+Title: Integrating the Transmission Loss Component with the 
+Distribution Factors Enhanced Transmission Pricing Method for 
+Efficient Transmission Use of System Charges 
+By: Radzi, Nur Hanis; Bansal, Ramesh C.; Dong, Zhao Yang; et al. 
+Source: ELECTRIC POWER COMPONENTS AND 
+SYSTEMS   Volume: 43  Issue: 1  Pages: 10-21  Published: JAN 2 
+2015   
+2 
+0.4 
+170 
+Title: Genetic algorithms in power system small signal stability 
+analysis 
+By: Dong, ZY; Makarov, YV; Hill, DJ 
+Conference: 4th International Conference on Advances in Power 
+System Control, Operation & Management Location: WANCHAI, 
+HONG KONG Date: NOV 11-14, 1997 Sponsor(s): Inst Elect 
+Engineers, Hong Kong; Hong Kong Inst Engineers, Elect Div; Inst 
+Elect Engineers, UK; Analogue Tech Agcy Ltd, EFACEC Oriente 
+Lda; China Light & Power Co Ltd; Clipsal Asia Ltd; Delta Crompton 
+Cables; GEC Alsthom Power Generat; GEC Alsthom T & D Protect 
+& Control Ltd; Hawker Siddeley Switchgear, Whipp & Bourne; 
+Jardine Meiden Engn Co Ltd; K C Wong Educ Fdn; Kum Shing 
+Construct Co Ltd, KF; Mak Hang Kei Construct Ltd, Hong Kong; 
+Mitsubishi Elect Ltd, Hong Kong; Pirelli Cables Ltd; Raychem Ltd, 
+Hong Kong; Rolls Royce Ind Power, Hong Kong; Sumitomo Elect 
+Ind Ltd; Supremetech Engn Co Ltd, Merlin Gerin, UK; Hong Kong 
+Elect Co Ltd 
+Source: FOURTH INTERNATIONAL CONFERENCE ON 
+ADVANCES IN POWER SYSTEM CONTROL, OPERATION & 
+MANAGEMENT, VOLS 1 AND 2   Pages: 342-
+347  Published: 1997   
+2 
+0.09 
+
+-----
+171 
+Title: Cyber security framework for Internet of Things-based Energy 
+Internet 
+By: Sani, Abubakar Sadiq; Yuan, Dong; Jin, Jiong; et al. 
+Source: FUTURE GENERATION COMPUTER SYSTEMS-THE 
+INTERNATIONAL JOURNAL OF 
+ESCIENCE   Volume: 93  Pages: 849-859  Published: APR 2019   
+1 
+1 
+172 
+Title: Voltage regulation-oriented co-planning of distributed 
+generation and battery storage in active distribution networks 
+By: Zhang, Yongxi; Xu, Yan; Yang, Hongming; et al. 
+Source: INTERNATIONAL JOURNAL OF ELECTRICAL 
+POWER & ENERGY SYSTEMS   Volume: 105  Pages: 79-
+88  Published: FEB 2019   
+1 
+1 
+173 
+Title: A Hierarchical Self-Adaptive Data-Analytics Method for Real-
+Time Power System Short-Term Voltage Stability Assessment 
+By: Zhang, Yuchen; Xu, Yan; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 15  Issue: 1  Pages: 74-
+84  Published: JAN 2019   
+1 
+1 
+174 
+Title: Unified Power Flow Algorithm for Standalone AC/DC Hybrid 
+Microgrids 
+By: Aprilia, Ernauli; Meng, Ke; Al Hosani, Mohamed; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 10  Issue: 1  Pages: 639-649  Published: JAN 
+2019   
+1 
+1 
+175 
+Title: Distributed generation and energy storage system planning for 
+a distribution system operator 
+By: Qiu, Jing; Xu, Zhao; Zheng, Yu; et al. 
+Source: IET RENEWABLE POWER 
+GENERATION   Volume: 12  Issue: 12  Pages: 1345-
+1353  Published: SEP 10 2018   
+1 
+0.5 
+176 
+Title: Blockchain: a secure, decentralized, trusted cyber 
+infrastructure solution for future energy systems 
+By: Dong, Zhaoyang; Luo, Fengji; Liang, Gaoqi 
+Source: JOURNAL OF MODERN POWER SYSTEMS AND 
+CLEAN ENERGY   Volume: 6  Issue: 5  Special 
+Issue: SI  Pages: 958-967  Published: SEP 2018   
+1 
+0.5 
+177 
+Title: Effects of centralized and local PV plant control for voltage 
+regulation in LV feeder based on cyber-physical simulations 
+By: Rasmussen, Theis Bo; Yang, Guangya; Nielsen, Arne Hejde; et 
+al. 
+Source: JOURNAL OF MODERN POWER SYSTEMS AND 
+CLEAN ENERGY   Volume: 6  Issue: 5  Special 
+Issue: SI  Pages: 979-991  Published: SEP 2018   
+1 
+0.5 
+178 
+Title: Weight loss surgery for obstructive sleep apnoea with obesity 
+in adults: a systematic review and meta-analysis protocol 
+By: Dong, Zhiyong; Hong, Brian Y.; Yu, Ashley M.; et al. 
+Source: BMJ OPEN   Volume: 8  Issue: 8    Article 
+Number: e020876  Published: AUG 2018   
+1 
+0.5 
+
+-----
+179 
+Title: A Framework of Customizing Electricity Retail Prices 
+By: Yang, Jiajia; Zhao, Junhua; Wen, Fushuan; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 3  Pages: 2415-
+2428  Published: MAY 2018   
+1 
+0.5 
+180 
+Title: Mixed-Integer Nonlinear Programming Formulation for 
+Distribution Networks Reliability Optimization 
+By: Heidari, Alireza; Dong, Zhao Yang; Zhang, Daming; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 14  Issue: 5  Pages: 1952-
+1961  Published: MAY 2018   
+1 
+0.5 
+181 
+Title: Integrated optimal active and reactive power control scheme 
+for grid connected permanent magnet synchronous generator wind 
+turbines 
+By: Mahmoud, Tawfek; Dong, Zhao Yang; Ma, Jin 
+Source: IET ELECTRIC POWER 
+APPLICATIONS   Volume: 12  Issue: 4  Pages: 474-
+485  Published: APR 2018   
+1 
+0.5 
+182 
+Title: A load shedding scheme for DG integrated islanded power 
+system utilizing backtracking search algorithm 
+By: Khamis, Aziah; Shareef, Hussain; Mohamed, Azah; et al. 
+Source: AIN SHAMS ENGINEERING 
+JOURNAL   Volume: 9  Issue: 1  Pages: 161-172  Published: MAR 
+2018   
+1 
+0.5 
+183 
+Title: Retirement-Driven Dynamic VAR Planning for Voltage 
+Stability Enhancement of Power Systems With High-Level Wind 
+Power 
+By: Liu, Junwei; Xu, Yan; Dong, Zhao Yang; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 2  Pages: 2282-
+2291  Published: MAR 2018   
+1 
+0.5 
+184 
+Title: Expansion Co-Planning of Integrated Electricity-Heat Gas 
+Networks in District Energy Systems 
+By: Chen, Han; Meng, Ke; Qiu, Jing; et al. 
+Conference: IEEE-Power-and-Energy-Society General Meeting 
+(PESGM) Location: Portland, OR Date: AUG 05-10, 
+2018Sponsor(s): IEEE Power & Energy Soc 
+Source: 2018 IEEE POWER & ENERGY SOCIETY GENERAL 
+MEETING (PESGM)   Book Series: IEEE Power and Energy 
+Society General Meeting PESGM  Published: 2018   
+1 
+0.5 
+185 
+Title: Advanced method for short-term wind power prediction with 
+multiple observation points using extreme learning machines 
+By: Mahmoud, Tawfek; Dong, Zhao Yang; Ma, Jin 
+Source: JOURNAL OF ENGINEERING-JOE   Issue: 1  Pages: 29-
+38  Published: JAN 2018   
+1 
+0.5 
+
+-----
+186 
+Title: Second-Order Sliding Mode Based P-Q Coordinated 
+Modulation of DFIGs Against Interarea Oscillations 
+By: Liao, Kai; Xu, Yan; He, Zhengyou; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 32  Issue: 6  Pages: 4978-
+4980  Published: NOV 2017   
+1 
+0.33 
+187 
+Title: An Improved Load Forecast Model Using Factor Analysis: An 
+Australian Case Study 
+By: Chen, Xi; Qiu, Jing; Dong, Zhao Yang 
+Conference: IEEE International Conference on Information and 
+Automation (ICIA) Location: Macau, PEOPLES R 
+CHINA Date:JUL 18-20, 2017 Sponsor(s): IEEE; IEEE Robot & 
+Automat Soc; Chinese Univ Hong Kong; State Key Lab Robot & 
+Syst; Univ Macau; Shenzhen Inst Adv Technol; Harbin Inst Technol; 
+Shanghai Gaitech Sci Instruments Co Ltd; Apes Robot Co Ltd; 
+Chinese Assoc Automat; Amer Soc Mech Engineers; Robot Soc 
+Japan; Japan Soc Mech Engineers; Soc Instrument & Control 
+Engineers 
+Source: 2017 IEEE INTERNATIONAL CONFERENCE ON 
+INFORMATION AND AUTOMATION (IEEE ICIA 
+2017)   Pages: 903-908  Published: 2017   
+1 
+0.33 
+188 
+Title: Implementation of a Simplified State Estimator for Wind 
+Turbine Monitoring on an Embedded System 
+By: Rasmussen, Theis Bo; Yang, Guangya; Nielsen, Arne Hejde; et 
+al. 
+Edited by: Ganzha, M; Maciaszek, L; Paprzycki, M  
+Conference: Federated Conference on Computer Science and 
+Information Systems (FedCSIS) Location: Prague, CZECH 
+REPUBLIC Date: SEP 03-06, 2017 Sponsor(s): PTI; IEEE 
+Source: PROCEEDINGS OF THE 2017 FEDERATED 
+CONFERENCE ON COMPUTER SCIENCE AND 
+INFORMATION SYSTEMS (FEDCSIS)   Book Series: Federated 
+Conference on Computer Science and Information 
+Systems  Pages: 1167-1175  Published:2017   
+1 
+0.33 
+189 
+Title: A Review of Cyber-Physical Energy System Security 
+Assessment 
+By: Rasmussen, Theis B.; Yang, Guangya; Nielsen, Arne H.; et al. 
+Conference: IEEE Manchester PowerTech Location: Manchester, 
+ENGLAND Date: JUN 18-22, 2017 Sponsor(s): IEEE 
+Source: 2017 IEEE MANCHESTER 
+POWERTECH   Published: 2017   
+1 
+0.33 
+190 
+Title: Flexible Operation Planning Scheme Considering Wind Power 
+Generation Forecasting Uncertainties 
+By: Zhang, Yongxi; Zheng, Yu; Meng, Ke; et al. 
+Source: ELECTRIC POWER COMPONENTS AND 
+SYSTEMS   Volume: 45  Issue: 5  Pages: 465-
+475  Published: 2017   
+1 
+0.33 
+
+-----
+191 
+Title: Inverse Aerodynamic Optimization Considering Impacts of 
+Design Tip Speed Ratio for Variable-Speed Wind Turbines 
+By: Yang, Zhiqiang; Yin, Minghui; Xu, Yan; et al. 
+Source: ENERGIES   Volume: 9  Issue: 12    Article 
+Number: 1023  Published: DEC 2016   
+1 
+0.25 
+192 
+Title: A Stochastic Collaborative Planning Approach for Electric 
+Vehicle Charging Stations and Power Distribution System 
+By: Wang, Shu; Xu, Yan; Dong, Zhao Yang; et al. 
+Conference: IEEE-Power-and-Energy-Society General Meeting 
+(PESGM) Location: Boston, MA Date: JUL 17-21, 
+2016 Sponsor(s):IEEE Power & Energ Soc 
+Source: 2016 IEEE POWER AND ENERGY SOCIETY GENERAL 
+MEETING (PESGM)   Book Series: IEEE Power and Energy 
+Society General Meeting PESGM  Published: 2016   
+1 
+0.25 
+193 
+Title: Impact of Dynamic Load Models on Transient Stability-
+Constrained Optimal Power Flow 
+By: Zhang, Rui; Xu, Yan; Zhang, Wang; et al. 
+Conference: IEEE PES Asia-Pacific Power and Energy Engineering 
+Conference (APPEEC) Location: Xian, PEOPLES R 
+CHINA Date:OCT 25-28, 2016 Sponsor(s): IEEE Power & Energy 
+Soc; Xian Jiaotong Univ; Shaanxi Assoc Sci & Technol; China Soc 
+Elect Engn; State Grid Key Lab Elect Power Environm Protect; 
+Beijing Sifang Automat Co Ltd; State Grid Shaanxi Elect Power Co 
+Source: 2016 IEEE PES ASIA-PACIFIC POWER AND ENERGY 
+ENGINEERING CONFERENCE (APPEEC)   Book Series: Asia-
+Pacific Power and Energy Engineering Conference  Pages: 18-
+23  Published: 2016   
+1 
+0.25 
+194 
+Title: A flexible framework of line power flow estimation for high-
+order contingency analysis 
+By: Chen, Guo; Dai, YuanYu; Xu, Zhao; et al. 
+Source: INTERNATIONAL JOURNAL OF ELECTRICAL 
+POWER & ENERGY SYSTEMS   Volume: 70  Pages: 1-
+8  Published: SEP 2015   
+1 
+0.2 
+195 
+Title: Influence of Enhanced Interconnecting Links on Cascading 
+Failures in Smart Grid 
+By: Liu, Long; Ma, Jin; Dong, Zhaoyang; et al. 
+Conference: General Meeting of the IEEE-Power-and-Energy-
+Society Location: Denver, CO Date: JUL 26-30, 
+2015 Sponsor(s):IEEE Power & Energy Soc 
+Source: 2015 IEEE POWER & ENERGY SOCIETY GENERAL 
+MEETING   Book Series: IEEE Power and Energy Society General 
+Meeting PESGM  Published: 2015   
+1 
+0.2 
+196 
+Title: Closure to Discussion on "Solving Preventive-Corrective 
+SCOPF by a Hybrid Computational Strategy" 
+By: Xu, Yan; Dong, Zhao Yang; Zhang, Rui; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 29  Issue: 6  Pages: 3124-+  Published: NOV 
+2014   
+1 
+0.17 
+
+-----
+197 
+Title: MULTI-NETWORK COMBINED COOLING HEATING 
+AND POWER SYSTEM SCHEDULING CONSIDERING 
+EMISSION TRADING 
+By: Yang, Hongming; Zhang, Dangqiang; Meng, Ke; et al. 
+Source: PACIFIC JOURNAL OF 
+OPTIMIZATION   Volume: 10  Issue: 1  Special 
+Issue: SI  Pages: 177-198  Published: JAN 2014   
+1 
+0.17 
+198 
+Title: Guest editorial: special issue on generation and integration 
+technologies for renewable energy 
+By: Dong, Z. Y. 
+Source: JOURNAL OF MODERN POWER SYSTEMS AND 
+CLEAN ENERGY   Volume: 1  Issue: 3  Pages: 203-
+203  Published: DEC 2013   
+1 
+0.14 
+199 
+Title: A Novel Short-Term Dispatch Scheme for Wind Farm with 
+Battery Energy Storage System 
+By: Luo, F. J.; Dong, Zhaoyang; Chen, Y. Y.; et al. 
+Conference: General Meeting of the IEEE-Power-and-Energy-
+Society (PES) Location: Vancouver, CANADA Date: JUL 21-25, 
+2013Sponsor(s): IEEE Power & Energy Soc 
+Source: 2013 IEEE POWER AND ENERGY SOCIETY GENERAL 
+MEETING (PES)   Book Series: IEEE Power and Energy Society 
+General Meeting PESGM  Published: 2013   
+1 
+0.14 
+200 
+Title: Power Big Data: New Assets of Electric Power Utilities 
+By: Zhang, Pei; Xu, Yan; Luo, Fengji; et al. 
+Source: JOURNAL OF ENERGY 
+ENGINEERING   Volume: 145  Issue: 3    Article 
+Number: 04019009  Published: JUN 1 2019   
+0 
+0 
+201 
+Title: Active Power Control of Wind Turbine Generators via 
+Coordinated Rotor Speed and Pitch Angle Regulation 
+By: Tang, Xuesong; Yin, Minghui; Shen, Chun; et al. 
+Source: IEEE TRANSACTIONS ON SUSTAINABLE 
+ENERGY   Volume: 10  Issue: 2  Pages: 822-832  Published: APR 
+2019   
+0 
+0 
+202 
+Title: Online power system dynamic security assessment with 
+incomplete PMU measurements: a robust white-box model 
+By: Zhang, Yuchen; Xu, Yan; Bu, Siqi; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 13  Issue: 5  Pages: 662-
+668  Published: MAR 12 2019   
+0 
+0 
+203 
+Title: Collaborative Filtering-Based Electricity Plan Recommender 
+System 
+By: Zhang, Yuan; Meng, Ke; Kong, Weicong; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 15  Issue: 3  Pages: 1393-
+1404  Published: MAR 2019   
+0 
+0 
+204 
+Title: Investigation of real-time flexibility of combined heat and 
+power plants in district heating applications 
+By: Wang, Jiawei; You, Shi; Zong, Yi; et al. 
+Source: APPLIED ENERGY   Volume: 237  Pages: 196-
+209  Published: MAR 1 2019   
+0 
+0 
+
+-----
+205 
+Title: Stochastic Receding Horizon Control of Active Distribution 
+Networks With Distributed Renewables 
+By: Jiang, Yibao; Wan, Can; Wang, Jianhui; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 34  Issue: 2  Pages: 1325-
+1341  Published: MAR 2019   
+0 
+0 
+206 
+Title: Small Fault Detection for a Class of Closed-Loop Systems via 
+Deterministic Learning 
+By: Chen, Tianrui; Wang, Cong; Chen, Guo; et al. 
+Source: IEEE TRANSACTIONS ON 
+CYBERNETICS   Volume: 49  Issue: 3  Pages: 897-
+906  Published: MAR 2019   
+0 
+0 
+207 
+Title: A Multistage Home Energy Management System With 
+Residential Photovoltaic Penetration 
+By: Luo, Fengji; Ranzi, Gianluca; Wan, Can; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 15  Issue: 1  Pages: 116-
+126  Published: JAN 2019   
+0 
+0 
+208 
+Title: Operating Expense Optimization for EVs in Multiple Depots 
+and Charge Stations Environment Using Evolutionary Heuristic 
+Method 
+By: Miao, Hui; Chen, Guo; Li, Chaojie; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 9  Issue: 6  Pages: 6599-6611  Published: NOV 
+2018   
+0 
+0 
+209 
+Title: Probability-Weighted Robust Optimization for Distributed 
+Generation Planning in Microgrids 
+By: Zhang, Cuo; Xu, Yan; Dong, Zhao Yang 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 6  Pages: 7042-
+7051  Published: NOV 2018   
+0 
+0 
+210 
+Title: Hierarchical control scheme for coordinated reactive power 
+regulation in clustered wind farms 
+By: Yuan, Liang; Meng, Ke; Dong, Zhao Yang 
+Source: IET RENEWABLE POWER 
+GENERATION   Volume: 12  Issue: 10  Pages: 1119-
+1126  Published: JUL 30 2018   
+0 
+0 
+211 
+Title: Distributed residential energy resource scheduling with 
+renewable uncertainties 
+By: Luo, Fengji; Dong, Zhao Yang; Xu, Zhao; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 12  Issue: 11  Pages: 2770-
+2777  Published: JUN 19 2018   
+0 
+0 
+212 
+Title: Management of Gastric Cancer With Umbilical Metastasis: A 
+Case Report 
+By: Dong, Zhiyong; Lin, Wei; Xin, Jianfeng; et al. 
+Source: AMERICAN JOURNAL OF 
+THERAPEUTICS   Volume: 25  Issue: 3  Pages: E388-
+E389  Published: MAY-JUN 2018   
+0 
+0 
+
+-----
+213 
+Title: Coordinated residential energy resource scheduling with 
+vehicle-to-home and high photovoltaic penetrations 
+By: Luo, Fengji; Ranzi, Gianluca; Kong, Weicong; et al. 
+Source: IET RENEWABLE POWER 
+GENERATION   Volume: 12  Issue: 6  Pages: 625-
+632  Published: APR 30 2018   
+0 
+0 
+214 
+Title: Robustness of networks formed from interdependent correlated 
+networks under intentional attacks 
+By: Liu, Long; Meng, Ke; Dong, Zhaoyang 
+Source: PHYSICA A-STATISTICAL MECHANICS AND ITS 
+APPLICATIONS   Volume: 491  Pages: 329-339  Published: FEB 
+1 2018   
+0 
+0 
+215 
+Title: Distributed Gas-fired Generation and Battery Energy Storage 
+Planning in a Thin Distribution System 
+By: Qiu, Jing; Dong, Zhao Yang; Meng, Ke; et al. 
+Conference: IEEE-Power-and-Energy-Society General Meeting 
+(PESGM) Location: Portland, OR Date: AUG 05-10, 
+2018Sponsor(s): IEEE Power & Energy Soc 
+Source: 2018 IEEE POWER & ENERGY SOCIETY GENERAL 
+MEETING (PESGM)   Book Series: IEEE Power and Energy 
+Society General Meeting PESGM  Published: 2018   
+0 
+0 
+216 
+Title: Stochastic Residential Energy Management System with 
+Vehicle-to-Home and Photovoltaic Penetration 
+By: Wang, Shu; Dong, Zhao Yang; Luo, Fengji; et al. 
+Conference: IEEE-Power-and-Energy-Society General Meeting 
+(PESGM) Location: Portland, OR Date: AUG 05-10, 
+2018Sponsor(s): IEEE Power & Energy Soc 
+Source: 2018 IEEE POWER & ENERGY SOCIETY GENERAL 
+MEETING (PESGM)   Book Series: IEEE Power and Energy 
+Society General Meeting PESGM  Published: 2018   
+0 
+0 
+217 
+Title: Big Data-driven Electricity Plan Recommender System 
+By: Zhang, Yuan; Kong, Weicong; Dong, Zhao Yang; et al. 
+Conference: IEEE-Power-and-Energy-Society General Meeting 
+(PESGM) Location: Portland, OR Date: AUG 05-10, 
+2018Sponsor(s): IEEE Power & Energy Soc 
+Source: 2018 IEEE POWER & ENERGY SOCIETY GENERAL 
+MEETING (PESGM)   Book Series: IEEE Power and Energy 
+Society General Meeting PESGM  Published: 2018   
+0 
+0 
+218 
+Title: Decentralized Optimal Reactive Power Dispatch of Optimally 
+Partitioned Distribution Networks 
+By: Li, Peishuai; Wu, Zaijun; Meng, Ke; et al. 
+Source: IEEE ACCESS   Volume: 6  Pages: 74051-
+74060  Published: 2018   
+0 
+0 
+219 
+Title: Preventive-Corrective Demand Response to Improve Short-
+Term Voltage Stability and Transient Stability in Power Systems 
+By: Kang, Rizhong; Xu, Yan; Dong, Zhao Yang; et al. 
+Conference: Power Systems Computation Conference 
+(PSCC) Location: Dublin, IRELAND Date: JUN 11-15, 2018  
+Source: 2018 POWER SYSTEMS COMPUTATION 
+CONFERENCE (PSCC)   Published: 2018   
+0 
+0 
+
+-----
+220 
+Title: Rolling horizon optimization for real-time operation of 
+thermostatically controlled load aggregator 
+By: Luo, Fengji; Ranzi, Gianluca; Dong, Zhaoyang 
+Source: JOURNAL OF MODERN POWER SYSTEMS AND 
+CLEAN ENERGY   Volume: 5  Issue: 6  Special 
+Issue: SI  Pages: 947-958  Published: NOV 2017   
+0 
+0 
+221 
+Title: An Advanced method for short-term wind power prediction 
+with multiple observation points using extreme learning machines 
+By: Mahmoud, Tawfek; Dong, Zhao Yang; Ma, Jin 
+Source: JOURNAL OF ENGINEERING-JOE   Published: OCT 18 
+2017   
+0 
+0 
+222 
+Title: Multiple Perspective-Cuts Outer Approximation Method for 
+Risk-Averse Operational Planning of Regional Energy Service 
+Providers 
+By: Yang, Linfeng; Jian, Jinbao; Xu, Yan; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 13  Issue: 5  Pages: 2606-
+2619  Published: OCT 2017   
+0 
+0 
+223 
+Title: Decomposition-based approach to risk-averse transmission 
+expansion planning considering wind power integration 
+By: Qiu, Jing; Zhao, Junhua; Wang, Dongxiao; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 11  Issue: 14  Pages: 3458-
+3466  Published: SEP 28 2017   
+0 
+0 
+224 
+Title: Guest Editorial High Performance Computing (HPC) 
+Applications for a More Resilient and Efficient Power Grid 
+By: Huang, Zhenyu (Henry); Tate, Zeb; Abhyankar, Shrirang; et al. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 8  Issue: 3  Pages: 1363-1365  Published: MAY 
+2017   
+0 
+0 
+225 
+Title: A Novel Approach to Investigate the Deterioration of 
+Insulation of Oils in Power Transformers with Terahertz Time-
+Domain Spectroscopy 
+By: Li, Meng; Tong, Min-Ming; Fletcher, John E.; et al. 
+Source: IEEE TRANSACTIONS ON DIELECTRICS AND 
+ELECTRICAL INSULATION   Volume: 24  Issue: 2  Pages: 930-
+938  Published:APR 2017   
+0 
+0 
+226 
+Title: Multi-Cuts Outer Approximation Method for Unit 
+Commitment 
+By: Yang, Linfeng; Jian, Jinbao; Dong, Zhaoyang; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 32  Issue: 2  Pages: 1587-
+1588  Published: MAR 2017   
+0 
+0 
+
+-----
+227 
+Title: Natural Aggregation Approach based Home Energy Manage 
+System with User Satisfaction Modelling 
+By: Luo, F. J.; Ranzi, G.; Dong, Z. Y.; et al. 
+Conference: International Conference on Sustainable Energy 
+Engineering (ICSEE) Location: Perth, AUSTRALIA Date: JUN 12-
+14, 2017  
+Source: INTERNATIONAL CONFERENCE ON SUSTAINABLE 
+ENERGY ENGINEERING   Book Series: IOP Conference Series-
+Earth and Environmental Science  Volume: 73    Article 
+Number: UNSP 012005  Published: 2017   
+0 
+0 
+228 
+Title: An Economic Optimization for BESS Sizing in a Hybrid PV 
+and Wind Power Plant 
+By: Yang, Yuqing; Bremner, Stephen; Menictas, Chris; et al. 
+Conference: 7th IEEE Innovative Smart Grid Technologies - Asia 
+(ISGT-Asia) Location: Univ Auckland, Auckland, NEW 
+ZEALANDDate: DEC 04-07, 2017 Sponsor(s): IEEE; IEEE Power 
+& Energy Soc; Univ Auckland, Dept Elect & Comp Engn 
+Source: 2017 IEEE INNOVATIVE SMART GRID 
+TECHNOLOGIES - ASIA (ISGT-ASIA)   Pages: 220-
+225  Published: 2017   
+0 
+0 
+229 
+Title: Demand Response-Based Preventive-Corrective Control 
+against Short-Term Voltage Instability in Power Systems 
+By: Kang, Rizhong; Xu, Yan; Dong, Zhao Yang; et al. 
+Conference: 7th IEEE Innovative Smart Grid Technologies - Asia 
+(ISGT-Asia) Location: Univ Auckland, Auckland, NEW 
+ZEALANDDate: DEC 04-07, 2017 Sponsor(s): IEEE; IEEE Power 
+& Energy Soc; Univ Auckland, Dept Elect & Comp Engn 
+Source: 2017 IEEE INNOVATIVE SMART GRID 
+TECHNOLOGIES - ASIA (ISGT-ASIA)   Pages: 359-
+363  Published: 2017   
+0 
+0 
+230 
+Title: A Two-Stage Robust Operation Approach for Combined 
+Cooling, Heat and Power Systems 
+By: Zhang, Cuo; Dong, ZhaoYang; Xu, Yan; et al. 
+Conference: IEEE Conference on Energy Internet and Energy 
+System Integration (EI2) Location: Beijing, PEOPLES R 
+CHINA Date:NOV 26-28, 2017 Sponsor(s): IEEE; IEEE Power & 
+Energy Soc; Tsinghua Univ; SEE; Energy Internet Res Inst; Beijing 
+Assoc Sci & Technol; Tsinghua Berkeley Shenzhen Inst 
+Source: 2017 IEEE CONFERENCE ON ENERGY INTERNET 
+AND ENERGY SYSTEM INTEGRATION (EI2)   Pages: 272-
+277  Published:2017   
+0 
+0 
+
+-----
+231 
+Title: A Mixed Logical Dynamical Model for Optimal Energy 
+Scheduling in Microgrids 
+By: Fu, Long; Zhang, Wang; Dong, Zhaoyang; et al. 
+Conference: IEEE Conference on Energy Internet and Energy 
+System Integration (EI2) Location: Beijing, PEOPLES R 
+CHINA Date:NOV 26-28, 2017 Sponsor(s): IEEE; IEEE Power & 
+Energy Soc; Tsinghua Univ; SEE; Energy Internet Res Inst; Beijing 
+Assoc Sci & Technol; Tsinghua Berkeley Shenzhen Inst 
+Source: 2017 IEEE CONFERENCE ON ENERGY INTERNET 
+AND ENERGY SYSTEM INTEGRATION 
+(EI2)   Published: 2017   
+0 
+0 
+232 
+Title: Transmission Expansion Planning With Wind Generation 
+Considering TCSC 
+By: Shen, Wei; Dong, Zhao Yang; Meng, Ke; et al. 
+Conference: IEEE Conference on Energy Internet and Energy 
+System Integration (EI2) Location: Beijing, PEOPLES R 
+CHINA Date:NOV 26-28, 2017 Sponsor(s): IEEE; IEEE Power & 
+Energy Soc; Tsinghua Univ; SEE; Energy Internet Res Inst; Beijing 
+Assoc Sci & Technol; Tsinghua Berkeley Shenzhen Inst 
+Source: 2017 IEEE CONFERENCE ON ENERGY INTERNET 
+AND ENERGY SYSTEM INTEGRATION 
+(EI2)   Published: 2017   
+0 
+0 
+233 
+Title: Hierarchial Power Flow Algorithm for Standalone Hybrid 
+AC/Multi-DC Microgrids 
+By: Aprilia, Ernauli; Meng, Ke; Dong, Zhao Yang; et al. 
+Conference: 2017 IEEE Power & Energy Society General 
+Meeting Location: Chicago, IL Date: JUL 16-20, 
+2017 Sponsor(s): IEEE 
+Source: 2017 IEEE POWER & ENERGY SOCIETY GENERAL 
+MEETING   Book Series: IEEE Power and Energy Society General 
+Meeting PESGM  Published: 2017   
+0 
+0 
+234 
+Title: False Data Injection Attacks Targeting DC Model-Based State 
+Estimation 
+By: Liang, Gaoqi; Weller, Steven R.; Zhao, Junhua; et al. 
+Conference: 2017 IEEE Power & Energy Society General 
+Meeting Location: Chicago, IL Date: JUL 16-20, 
+2017 Sponsor(s): IEEE 
+Source: 2017 IEEE POWER & ENERGY SOCIETY GENERAL 
+MEETING   Book Series: IEEE Power and Energy Society General 
+Meeting PESGM  Published: 2017   
+0 
+0 
+235 
+Title: Composite FDIA and Topology Attack on the Electricity 
+Market 
+By: Liang, Gaoqi; Weller, Steven R.; Zhao, Junhua; et al. 
+Conference: 2017 IEEE Power & Energy Society General 
+Meeting Location: Chicago, IL Date: JUL 16-20, 
+2017 Sponsor(s): IEEE 
+Source: 2017 IEEE POWER & ENERGY SOCIETY GENERAL 
+MEETING   Book Series: IEEE Power and Energy Society General 
+Meeting PESGM  Published: 2017   
+0 
+0 
+
+-----
+236 
+Title: Stochastic Residential Energy Resource Scheduling by Multi-
+Objective Natural Aggregation Algorithm 
+By: Luo, Fengji; Ranzi, Gianluca; Liang, Gaoqi; et al. 
+Conference: 2017 IEEE Power & Energy Society General 
+Meeting Location: Chicago, IL Date: JUL 16-20, 
+2017 Sponsor(s): IEEE 
+Source: 2017 IEEE POWER & ENERGY SOCIETY GENERAL 
+MEETING   Book Series: IEEE Power and Energy Society General 
+Meeting PESGM  Published: 2017   
+0 
+0 
+237 
+Title: Network Reinforcement for Grid Resiliency under Extreme 
+Events 
+By: Qiu, Jing; Reedman, Luke J.; Dong, Zhao Yang; et al. 
+Conference: 2017 IEEE Power & Energy Society General 
+Meeting Location: Chicago, IL Date: JUL 16-20, 
+2017 Sponsor(s): IEEE 
+Source: 2017 IEEE POWER & ENERGY SOCIETY GENERAL 
+MEETING   Book Series: IEEE Power and Energy Society General 
+Meeting PESGM  Published: 2017   
+0 
+0 
+238 
+Title: Towards Secure Energy Internet Communication Scheme: An 
+Identity-Based Key Bootstrapping Protocol Supporting Unicast and 
+Multicast 
+By: Sani, Abubakar Sadiq; Yuan, Dong; Bao, Wei; et al. 
+Edited by: Gkoulalasdivanis, A; Correia, MP; Avresky, DR  
+Conference: IEEE 16th International Symposium on Network 
+Computing and Applications (NCA) Location: Cambridge, 
+MADate: OCT 30-NOV 01, 2017 Sponsor(s): IEEE Tech 
+Committee Distributed Processing; Akamai Technologies Inc; Int 
+Res Institute Autonomic Network Computing; IEEE Computer Soc 
+Source: 2017 IEEE 16TH INTERNATIONAL SYMPOSIUM ON 
+NETWORK COMPUTING AND APPLICATIONS 
+(NCA)   Pages: 25-29  Published: 2017   
+0 
+0 
+239 
+Title: Smooth States Transition Control Strategy for Microgrid 
+By: Li, Yaran; Yuan, Liang; Meng, Ke; et al. 
+Conference: IEEE International Conference on Information and 
+Automation (ICIA) Location: Macau, PEOPLES R 
+CHINA Date:JUL 18-20, 2017 Sponsor(s): IEEE; IEEE Robot & 
+Automat Soc; Chinese Univ Hong Kong; State Key Lab Robot & 
+Syst; Univ Macau; Shenzhen Inst Adv Technol; Harbin Inst Technol; 
+Shanghai Gaitech Sci Instruments Co Ltd; Apes Robot Co Ltd; 
+Chinese Assoc Automat; Amer Soc Mech Engineers; Robot Soc 
+Japan; Japan Soc Mech Engineers; Soc Instrument & Control 
+Engineers 
+Source: 2017 IEEE INTERNATIONAL CONFERENCE ON 
+INFORMATION AND AUTOMATION (IEEE ICIA 
+2017)   Pages: 86-91  Published: 2017   
+0 
+0 
+
+-----
+240 
+Title: Effect of Automatic Hyperparameter Tuning for Residential 
+Load Forecasting via Deep Learning 
+By: Kong, Weicong; Dong, Zhao Yang; Luo, Fengji; et al. 
+Conference: Australasian Universities Power Engineering 
+Conference (AUPEC) Location: Melbourne, 
+AUSTRALIA Date: NOV 19-22, 2017  
+Source: 2017 AUSTRALASIAN UNIVERSITIES POWER 
+ENGINEERING CONFERENCE (AUPEC)   Book 
+Series: Australasian Universities Power Engineering 
+Conference  Published: 2017   
+0 
+0 
+241 
+Title: Optimal scheduling of hydro-thermal power systems 
+considering the flood risk of cascade reservoirs 
+By: Yang, Hongming; Zhang, Lei; Meng, Ke; et al. 
+Source: ENGINEERING 
+OPTIMIZATION   Volume: 49  Issue: 8  Pages: 1299-
+1316  Published: 2017   
+0 
+0 
+242 
+Title: Optimal Wind Turbine and Air Conditioner Loads Control in 
+Distribution Networks through MILP Approach 
+By: Gao, Xiaodan; Meng, Ke; Wang, Dongxiao; et al. 
+Conference: IEEE-Power-and-Energy-Society General Meeting 
+(PESGM) Location: Boston, MA Date: JUL 17-21, 
+2016 Sponsor(s):IEEE Power & Energ Soc 
+Source: 2016 IEEE POWER AND ENERGY SOCIETY GENERAL 
+MEETING (PESGM)   Book Series: IEEE Power and Energy 
+Society General Meeting PESGM  Published: 2016   
+0 
+0 
+243 
+Title: An Enhanced Bootstrap Filtering Method for Non-Intrusive 
+Load Monitoring 
+By: Kong, Weicong; Dong, Zhaoyang; Xu, Yan; et al. 
+Conference: IEEE-Power-and-Energy-Society General Meeting 
+(PESGM) Location: Boston, MA Date: JUL 17-21, 
+2016 Sponsor(s):IEEE Power & Energ Soc 
+Source: 2016 IEEE POWER AND ENERGY SOCIETY GENERAL 
+MEETING (PESGM)   Book Series: IEEE Power and Energy 
+Society General Meeting PESGM  Published: 2016   
+0 
+0 
+244 
+Title: Distributed Control of Air-Conditioning Loads for Voltage 
+Regulation in Active Distribution Network 
+By: Wang, Dongxiao; Meng, Ke; Gao, Xiaodan; et al. 
+Conference: IEEE-Power-and-Energy-Society General Meeting 
+(PESGM) Location: Boston, MA Date: JUL 17-21, 
+2016 Sponsor(s):IEEE Power & Energ Soc 
+Source: 2016 IEEE POWER AND ENERGY SOCIETY GENERAL 
+MEETING (PESGM)   Book Series: IEEE Power and Energy 
+Society General Meeting PESGM  Published: 2016   
+0 
+0 
+
+-----
+245 
+Title: Mining the Big Data of Residential Appliances in the Smart 
+Grid Environment 
+By: Yang, Jiajia; Zhao, Junhua; Wen, Fushuan; et al. 
+Conference: IEEE-Power-and-Energy-Society General Meeting 
+(PESGM) Location: Boston, MA Date: JUL 17-21, 
+2016 Sponsor(s):IEEE Power & Energ Soc 
+Source: 2016 IEEE POWER AND ENERGY SOCIETY GENERAL 
+MEETING (PESGM)   Book Series: IEEE Power and Energy 
+Society General Meeting PESGM  Published: 2016   
+0 
+0 
+246 
+Title: Robust Dispatch of Multiple Energy Resources and Flexible 
+Loads in Energy Internet 
+By: Zhang, Cuo; Dong, ZhaoYang; Ma, Jin; et al. 
+Conference: IEEE-Power-and-Energy-Society General Meeting 
+(PESGM) Location: Boston, MA Date: JUL 17-21, 
+2016 Sponsor(s):IEEE Power & Energ Soc 
+Source: 2016 IEEE POWER AND ENERGY SOCIETY GENERAL 
+MEETING (PESGM)   Book Series: IEEE Power and Energy 
+Society General Meeting PESGM  Published: 2016   
+0 
+0 
+247 
+Title: Stability Analysis and Controller Design of a Wide-area Time-
+delay System Based on the Expectation Model Method 
+By: Zhang, Xinran; Lu, Chao; Xie, Xiaorong; et al. 
+Conference: IEEE-Power-and-Energy-Society General Meeting 
+(PESGM) Location: Boston, MA Date: JUL 17-21, 
+2016 Sponsor(s):IEEE Power & Energ Soc 
+Source: 2016 IEEE POWER AND ENERGY SOCIETY GENERAL 
+MEETING (PESGM)   Book Series: IEEE Power and Energy 
+Society General Meeting PESGM  Published: 2016   
+0 
+0 
+248 
+Title: Mining Transient Stability Database for Rule-based Preventive 
+Control of Power Systems 
+By: Zhang, Yuchen; Xu, Yan; Dong, Zhao Yang; et al. 
+Conference: IEEE-Power-and-Energy-Society General Meeting 
+(PESGM) Location: Boston, MA Date: JUL 17-21, 
+2016 Sponsor(s):IEEE Power & Energ Soc 
+Source: 2016 IEEE POWER AND ENERGY SOCIETY GENERAL 
+MEETING (PESGM)   Book Series: IEEE Power and Energy 
+Society General Meeting PESGM  Published: 2016   
+0 
+0 
+249 
+Title: Customized Residential Load Scheduling Based on Data-
+Driven Appliance Modeling Strategy 
+By: Zhang, Yuan; Meng, Ke; Dong, Zhao Yang 
+Conference: IEEE PES Asia-Pacific Power and Energy Engineering 
+Conference (APPEEC) Location: Xian, PEOPLES R 
+CHINA Date:OCT 25-28, 2016 Sponsor(s): IEEE Power & Energy 
+Soc; Xian Jiaotong Univ; Shaanxi Assoc Sci & Technol; China Soc 
+Elect Engn; State Grid Key Lab Elect Power Environm Protect; 
+Beijing Sifang Automat Co Ltd; State Grid Shaanxi Elect Power Co 
+Source: 2016 IEEE PES ASIA-PACIFIC POWER AND ENERGY 
+ENGINEERING CONFERENCE (APPEEC)   Book Series: Asia-
+Pacific Power and Energy Engineering Conference  Pages: 2028-
+2032  Published: 2016   
+0 
+0 
+
+-----
+250 
+Title: Risk Constrained Battery Energy Storage Planning in Active 
+Distribution Networks 
+By: Zhang, Yongxi; Luo, Fengji; Meng, Ke; et al. 
+Conference: IEEE International Conference on Power System 
+Technology (POWERCON) Location: Wollongong, 
+AUSTRALIADate: SEP 28-OCT 01, 2016 Sponsor(s): IEEE 
+Source: 2016 IEEE INTERNATIONAL CONFERENCE ON 
+POWER SYSTEM TECHNOLOGY 
+(POWERCON)   Published: 2016   
+0 
+0 
+251 
+Title: Voltage Regulation in Distribution Network Using Battery 
+Storage Units via Distributed Optimization 
+By: Zhang, Yongxi; Li, Jueyou; Meng, Ke; et al. 
+Conference: IEEE International Conference on Power System 
+Technology (POWERCON) Location: Wollongong, 
+AUSTRALIADate: SEP 28-OCT 01, 2016 Sponsor(s): IEEE 
+Source: 2016 IEEE INTERNATIONAL CONFERENCE ON 
+POWER SYSTEM TECHNOLOGY 
+(POWERCON)   Published: 2016   
+0 
+0 
+252 
+Title: A Distributed Control for Active Power Curtailment within a 
+Wind Farm Based on Ratio Consensus Algorithms 
+By: Gao, Xiaodan; Meng, Ke; Wang, Dongxiao; et al. 
+Conference: IEEE International Conference on Smart Grid 
+Communications (SmartGridComm) Location: Sydney, 
+AUSTRALIADate: NOV 06-09, 2016 Sponsor(s): IEEE 
+Source: 2016 IEEE INTERNATIONAL CONFERENCE ON 
+SMART GRID COMMUNICATIONS 
+(SMARTGRIDCOMM)   Book Series:International Conference on 
+Smart Grid Communications  Published: 2016   
+0 
+0 
+253 
+Title: Natural Aggregation Algorithm: A New Efficient 
+Metaheuristic Tool for Power System Optimizations 
+By: Luo, Fengji; Dong, Zhao Yang; Chen, Yingying; et al. 
+Conference: IEEE International Conference on Smart Grid 
+Communications (SmartGridComm) Location: Sydney, 
+AUSTRALIADate: NOV 06-09, 2016 Sponsor(s): IEEE 
+Source: 2016 IEEE INTERNATIONAL CONFERENCE ON 
+SMART GRID COMMUNICATIONS 
+(SMARTGRIDCOMM)   Book Series:International Conference on 
+Smart Grid Communications  Published: 2016   
+0 
+0 
+254 
+Title: Consensus-driven Distributed Control of Battery Energy 
+Storage Systems for Loading Management in Distribution Networks 
+By: Wang, Dongxiao; Meng, Ke; Gao, Xiaodan; et al. 
+Conference: IEEE International Conference on Smart Grid 
+Communications (SmartGridComm) Location: Sydney, 
+AUSTRALIADate: NOV 06-09, 2016 Sponsor(s): IEEE 
+Source: 2016 IEEE INTERNATIONAL CONFERENCE ON 
+SMART GRID COMMUNICATIONS 
+(SMARTGRIDCOMM)   Book Series:International Conference on 
+Smart Grid Communications  Published: 2016   
+0 
+0 
+
+-----
+255 
+Title: A Composite Sensitivity Factor Based Method for Networked 
+Distributed Generation Planning 
+By: Zhang, Cuo; Xu, Yan; Dong, ZhaoYang; et al. 
+Conference: 19th Power Systems Computation Conference 
+(PSCC) Location: Genova, ITALY Date: JUN 20-24, 
+2016 Sponsor(s):IEEE 
+Source: 2016 POWER SYSTEMS COMPUTATION 
+CONFERENCE (PSCC)   Published: 2016   
+0 
+0 
+256 
+Title: An Efficient Approach for Robust SCOPF Considering Load 
+and Renewable Power Uncertainties 
+By: Zhang, Wang; Xu, Yan; Dong, Zhao Yang; et al. 
+Conference: 19th Power Systems Computation Conference 
+(PSCC) Location: Genova, ITALY Date: JUN 20-24, 
+2016 Sponsor(s):IEEE 
+Source: 2016 POWER SYSTEMS COMPUTATION 
+CONFERENCE (PSCC)   Published: 2016   
+0 
+0 
+257 
+Title: Interdependency Assessment of Coupled Natural Gas and 
+Power Systems in Energy Market 
+By: Yang, Hongzhao; Qiu, Jing; Zhang, Sanhua; et al. 
+Source: INTERNATIONAL JOURNAL OF EMERGING 
+ELECTRIC POWER 
+SYSTEMS   Volume: 16  Issue: 6  Pages: 525-536  Published:DEC 
+2015   
+0 
+0 
+258 
+Title: ELECTRIC POWER NETWORK FRACTAL AND ITS 
+RELATIONSHIP WITH POWER SYSTEM FAULT 
+By: Hou, Hui; Tang, Aihong; Fang, Hualiang; et al. 
+Source: TEHNICKI VJESNIK-TECHNICAL 
+GAZETTE   Volume: 22  Issue: 3  Pages: 623-628  Published: JUN 
+2015   
+0 
+0 
+259 
+Title: Energy Internet Risk Assessment Framework 
+By: Hou, Hui; Zhu, Guorong; Chen, Wei; et al. 
+Conference: IEEE PES Asia-Pacific Power and Energy Engineering 
+Conference (APPEEC) Location: Brisbane Convention Exhibition 
+Ctr, Brisbane, AUSTRALIA Date: NOV 15-18, 
+2015 Sponsor(s): NOJA POWER; ERGON ENERGY; ENERGEX 
+POSITIVE ENERGY; POWERLINK; QUEENSLAND; CIGRE 
+AUSTRALIA; API THE AUSTRALIAN POWER INSTITUTE; 
+THE UNIVERSITY OF QUEENSLAND AUSTRALIA; QUT; 
+GRIFFITH UNIVERSITY 
+Source: 2015 IEEE PES ASIA-PACIFIC POWER AND ENERGY 
+ENGINEERING CONFERENCE (APPEEC)   Book Series: Asia-
+Pacific Power and Energy Engineering 
+Conference  Published: 2015   
+0 
+0 
+
+-----
+260 
+Title: A Risk Management Model for Carbon Constrained Coal 
+Inventory Optimization 
+By: Yang, Jiajia; Zhao, Junhua; Wen, Fushuan; et al. 
+Conference: IEEE PES Asia-Pacific Power and Energy Engineering 
+Conference (APPEEC) Location: Brisbane Convention Exhibition 
+Ctr, Brisbane, AUSTRALIA Date: NOV 15-18, 
+2015 Sponsor(s): NOJA POWER; ERGON ENERGY; ENERGEX 
+POSITIVE ENERGY; POWERLINK; QUEENSLAND; CIGRE 
+AUSTRALIA; API THE AUSTRALIAN POWER INSTITUTE; 
+THE UNIVERSITY OF QUEENSLAND AUSTRALIA; QUT; 
+GRIFFITH UNIVERSITY 
+Source: 2015 IEEE PES ASIA-PACIFIC POWER AND ENERGY 
+ENGINEERING CONFERENCE (APPEEC)   Book Series: Asia-
+Pacific Power and Energy Engineering 
+Conference  Published: 2015   
+0 
+0 
+261 
+Title: Dynamic Restoration of the State of Charge for the Battery 
+Participating in Mutiple Markets Using Market Price Signals 
+By: Zhai, Qiwei; Ma, Jin; Dong, ZhaoYang; et al. 
+Conference: 5th International Conference on Electric Utility 
+Deregulation and Restructuring and Power Technologies 
+(DRPT)Location: Changsha, PEOPLES R CHINA Date: NOV 26-
+29, 2015 Sponsor(s): Sch Elect Information Engn; Changsha Univ 
+Sci Technol; IEEE Power & Energy soc; Inst Engn Technol; NSFC; 
+SEE 
+Source: 2015 5TH INTERNATIONAL CONFERENCE ON 
+ELECTRIC UTILITY DEREGULATION AND RESTRUCTURING 
+AND POWER TECHNOLOGIES (DRPT 2015)   Pages: 103-
+107  Published: 2015   
+0 
+0 
+262 
+Title: A Lower Sideband EMD and Its Application in Power Systems 
+By: Li, Chengxin; Liu, Junyong; Dong, Zhaoyang; et al. 
+Conference: 5th International Conference on Electric Utility 
+Deregulation and Restructuring and Power Technologies 
+(DRPT)Location: Changsha, PEOPLES R CHINA Date: NOV 26-
+29, 2015 Sponsor(s): Sch Elect Information Engn; Changsha Univ 
+Sci Technol; IEEE Power & Energy soc; Inst Engn Technol; NSFC; 
+SEE 
+Source: 2015 5TH INTERNATIONAL CONFERENCE ON 
+ELECTRIC UTILITY DEREGULATION AND RESTRUCTURING 
+AND POWER TECHNOLOGIES (DRPT 2015)   Pages: 757-
+764  Published: 2015   
+0 
+0 
+
+-----
+263 
+Title: An Extended Prototypical Smart Meter Architecture for 
+Demand Side Management 
+By: Kong, Weicong; Xu, Yan; Dong, Z. Y.; et al. 
+Conference: 13th IEEE International Conference on Industrial 
+Informatics (INDIN) Location: Cambridge, UNITED 
+KINGDOMDate: JUL 22-24, 2015 Sponsor(s): IEEE; IEEE Ind 
+Elect Soc (IES); Anglia Ruskin Univ; Inst of Engn Techn 
+Source: PROCEEDINGS 2015 IEEE INTERNATIONAL 
+CONFERENCE ON INDUSTRIAL INFORMATICS 
+(INDIN)   Book Series: IEEE International Conference on Industrial 
+Informatics INDIN  Pages: 1008-1013  Published: 2015   
+0 
+0 
+264 
+Title: Impact of different penetrations of renewable sources and 
+demand side management on Australian future grid 
+By: Wang, Zhuoyang; Zhang, Wang; Zhang, Liyan; et al. 
+Conference: First Workshop on Smart Grid and Renewable Energy 
+(SGRE) Location: Doha, QATAR Date: MAR 22-23, 
+2015Sponsor(s): IEEE 
+Source: 2015 FIRST WORKSHOP ON SMART GRID AND 
+RENEWABLE ENERGY (SGRE)   Published: 2015   
+0 
+0 
+265 
+Title: Enabling the Big Data Analysis in the Smart Grid 
+By: Luo, Fengji; Dong, Zhao Yang; Zhao, Junhua; et al. 
+Conference: General Meeting of the IEEE-Power-and-Energy-
+Society Location: Denver, CO Date: JUL 26-30, 
+2015 Sponsor(s):IEEE Power & Energy Soc 
+Source: 2015 IEEE POWER & ENERGY SOCIETY GENERAL 
+MEETING   Book Series: IEEE Power and Energy Society General 
+Meeting PESGM  Published: 2015   
+0 
+0 
+266 
+Title: A MILP Approach to Accommodate More Building Integrated 
+Photovoltaic System in Distribution Network 
+By: Wang, Haiming; Meng, Ke; Dong, Zhao Yang; et al. 
+Conference: General Meeting of the IEEE-Power-and-Energy-
+Society Location: Denver, CO Date: JUL 26-30, 
+2015 Sponsor(s):IEEE Power & Energy Soc 
+Source: 2015 IEEE POWER & ENERGY SOCIETY GENERAL 
+MEETING   Book Series: IEEE Power and Energy Society General 
+Meeting PESGM  Published: 2015   
+0 
+0 
+267 
+Title: Efficient Real-Time Residential Energy Management through 
+MILP Based Rolling Horizon Optimization 
+By: Wang, Haiming; Meng, Ke; Dong, Zhao Yang; et al. 
+Conference: General Meeting of the IEEE-Power-and-Energy-
+Society Location: Denver, CO Date: JUL 26-30, 
+2015 Sponsor(s):IEEE Power & Energy Soc 
+Source: 2015 IEEE POWER & ENERGY SOCIETY GENERAL 
+MEETING   Book Series: IEEE Power and Energy Society General 
+Meeting PESGM  Published: 2015   
+0 
+0 
+
+-----
+268 
+Title: An Efficient and Robust Case Sorting Algorithm for Transient 
+Stability Assessment 
+By: Xue, Yusheng; Huang, Tiangang; Li, Kang; et al. 
+Conference: General Meeting of the IEEE-Power-and-Energy-
+Society Location: Denver, CO Date: JUL 26-30, 
+2015 Sponsor(s):IEEE Power & Energy Soc 
+Source: 2015 IEEE POWER & ENERGY SOCIETY GENERAL 
+MEETING   Book Series: IEEE Power and Energy Society General 
+Meeting PESGM  Published: 2015   
+0 
+0 
+269 
+Title: Robust H-infinity Load Frequency Control of Future Power 
+Grid with Energy Storage Considering Parametric Uncertainty and 
+Time Delay 
+By: Zhang, Liyan; Chen, Guo; Wang, Zhuoyang; et al. 
+Conference: IEEE PES General Meeting Location: National Harbor, 
+MD Date: JUL 27-31, 2014 Sponsor(s): IEEE 
+Source: 2014 IEEE PES GENERAL MEETING - CONFERENCE & 
+EXPOSITION   Book Series: IEEE Power and Energy Society 
+General Meeting PESGM  Published: 2014   
+0 
+0 
+270 
+Title: An Efficient Algorithm for Optimal Real-time Pricing Strategy 
+in Smart Grid 
+By: Zhang, Wang; Chen, Guo; Dong, Zhaoyang; et al. 
+Conference: IEEE PES General Meeting Location: National Harbor, 
+MD Date: JUL 27-31, 2014 Sponsor(s): IEEE 
+Source: 2014 IEEE PES GENERAL MEETING - CONFERENCE & 
+EXPOSITION   Book Series: IEEE Power and Energy Society 
+General Meeting PESGM  Published: 2014   
+0 
+0 
+271 
+Title: A Rule Based Domestic Load Profile Generator for Future 
+Smart Grid 
+By: Kong, Weicong; Dong, Z. Y.; Chen, Guo; et al. 
+Edited by: AbuSiada, A; Masoum, MAS  
+Conference: Australasian Universities Power Engineering 
+Conference (AUPEC) Location: Perth, AUSTRALIA Date: SEP 28-
+OCT 01, 2014 Sponsor(s): IEEE; ACPE; Curtin Univ; Australian 
+Power Inst; ABB; Murdoch Univ; Univ Western Australia; Edith 
+Cowan Univ; IEEE Power Elect Soc; IET; IEEE Power & Energy 
+Soc; MagellanPower; Western Power; Engineers Australia 
+Source: 2014 Australasian Universities Power Engineering 
+Conference (AUPEC)   Book Series: Australasian Universities 
+Power Engineering Conference  Published: 2014   
+0 
+0 
+
+-----
+272 
+Title: A dynamic Game Behavior: Demand Side Management based 
+on Utility maximization with renewable energy and storage 
+integration 
+By: Zhang, Wang; Chen, Guo; Su, Yu; et al. 
+Edited by: AbuSiada, A; Masoum, MAS  
+Conference: Australasian Universities Power Engineering 
+Conference (AUPEC) Location: Perth, AUSTRALIA Date: SEP 28-
+OCT 01, 2014 Sponsor(s): IEEE; ACPE; Curtin Univ; Australian 
+Power Inst; ABB; Murdoch Univ; Univ Western Australia; Edith 
+Cowan Univ; IEEE Power Elect Soc; IET; IEEE Power & Energy 
+Soc; MagellanPower; Western Power; Engineers Australia 
+Source: 2014 Australasian Universities Power Engineering 
+Conference (AUPEC)   Book Series: Australasian Universities 
+Power Engineering Conference  Published: 2014   
+0 
+0 
+273 
+Title: A Hierarchical Optimization Framework for Aggregating 
+Thermostatically Controlled Loads to Minimize Real-time Thermal 
+Rating OF Overhead Distribution Lines 
+By: Wang, Haiming; Meng, Ke; Luo, Fengji; et al. 
+Conference: China International Conference on Electricity 
+Distribution (CICED) Location: Shenzhen Power Supply Co Ltd, 
+Shenzhen, PEOPLES R CHINA Date: SEP 23-26, 
+2014 Sponsor(s): CIRED Chinese Natl Comm; China So Power 
+Grid; IEEE Power & Energy Soc; Inst Engn & Technol; Int Council 
+Large Elect Syst 
+Source: 2014 China International Conference on Electricity 
+Distribution (CICED)   Book Series: China International Conference 
+on Electricity Distribution    Article Number: UNSP 
+FP1048  Published: 2014   
+0 
+0 
+274 
+Title: Demand Response Through Smart Home Energy Management 
+Using Thermal Inertia 
+By: Wang, Haiming; Meng, Ke; Luo, Fengji; et al. 
+Conference: Australasian Universities Power Engineering 
+Conference (AUPEC) Location: Hobart, AUSTRALIA Date: SEP 
+29-OCT 03, 2013  
+Source: 2013 AUSTRALASIAN UNIVERSITIES POWER 
+ENGINEERING CONFERENCE (AUPEC)   Book 
+Series: Australasian Universities Power Engineering 
+Conference  Published: 2013   
+0 
+0 
+275 
+Title: Risk based identification of cascading chains based on 
+Generalized Line Outage Distribution Factors 
+By: Dai, Yuanyu; Xue, Yusheng; Chen, Guo; et al. 
+Conference: 4th International Conference on Intelligent Systems 
+Design and Engineering Applications 
+(ISDEA) Location:Zhangjiajie, PEOPLES R CHINA Date: NOV 
+06-07, 2013 Sponsor(s): Cent S Univ; St Johns Univ; Hunan Univ 
+Technol, Dept Elect Sci & Technol; Natl Univ Defense Technol; 
+Intelligent Computat Technol & Automat Soci 
+Source: 2013 FOURTH INTERNATIONAL CONFERENCE ON 
+INTELLIGENT SYSTEMS DESIGN AND ENGINEERING 
+APPLICATIONS  Pages: 553-556  Published: 2013   
+0 
+0 
+
+-----
+276 
+Title: Transmission Network Expansion Planning with Wind Energy 
+Integration: A Stochastic Programming Model 
+By: Chen, Guo; Dong, ZhaoYang; Hill, David J. 
+Conference: General Meeting of the IEEE-Power-and-Energy-
+Society Location: San Diego, CA Date: JUL 22-26, 
+2012 Sponsor(s):IEEE Power & Energy Soc 
+Source: 2012 IEEE POWER AND ENERGY SOCIETY GENERAL 
+MEETING   Book Series: IEEE Power and Energy Society General 
+Meeting PESGM  Published: 2012   
+0 
+0 
+277 
+Title: Genetic algorithm based distance spectrum technique for 
+performance union bound of space-time trellis coded OFDM 
+By: Hong, Y; Dong, ZY; Yuan, JH 
+Conference: Congress on Evolutionary Computation 
+(CEC) Location: Canberra, AUSTRALIA Date: DEC 08-12, 2003  
+Source: CEC: 2003 CONGRESS ON EVOLUTIONARY 
+COMPUTATION, VOLS 1-4, PROCEEDINGS   Book Series: IEEE 
+Congress on Evolutionary Computation  Pages: 2659-
+2664  Published: 2003   
+0 
+0 
+278 
+Title: Minimum-order stable recursive filter design via the genetic 
+algorithm approach 
+By: Liu, WQ; Dong, ZY; Zhang, CS; et al. 
+Source: INTERNATIONAL JOURNAL OF SYSTEMS 
+SCIENCE   Volume: 32  Issue: 3  Pages: 401-
+408  Published: MAR 2001   
+0 
+0 
+279 
+Title: Nonlinear computation and control for small disturbance 
+stability 
+By: Hill, DJ; Dong, ZY 
+Conference: IEEE Power-Engineering-Society Summer 
+Meeting Location: SEATTLE, WA Date: JUL 16-20, 
+2000 Sponsor(s): Power Engn Soc; IEEE 
+Source: 2000 IEEE POWER ENGINEERING SOCIETY SUMMER 
+MEETING, CONFERENCE PROCEEDINGS, VOLS 1-
+4   Pages: 836-841  Published: 2000   
+0 
+0 
+
+-----
+280 
+Title: Coordinated steady-state voltage stability assessment and 
+control 
+By: Makarov, YV; Wu, Q; Hill, DJ; et al. 
+Conference: 4th International Conference on Advances in Power 
+System Control, Operation & Management Location: WANCHAI, 
+HONG KONG Date: NOV 11-14, 1997 Sponsor(s): Inst Elect 
+Engineers, Hong Kong; Hong Kong Inst Engineers, Elect Div; Inst 
+Elect Engineers, UK; Analogue Tech Agcy Ltd, EFACEC Oriente 
+Lda; China Light & Power Co Ltd; Clipsal Asia Ltd; Delta Crompton 
+Cables; GEC Alsthom Power Generat; GEC Alsthom T & D Protect 
+& Control Ltd; Hawker Siddeley Switchgear, Whipp & Bourne; 
+Jardine Meiden Engn Co Ltd; K C Wong Educ Fdn; Kum Shing 
+Construct Co Ltd, KF; Mak Hang Kei Construct Ltd, Hong Kong; 
+Mitsubishi Elect Ltd, Hong Kong; Pirelli Cables Ltd; Raychem Ltd, 
+Hong Kong; Rolls Royce Ind Power, Hong Kong; Sumitomo Elect 
+Ind Ltd; Supremetech Engn Co Ltd, Merlin Gerin, UK; Hong Kong 
+Elect Co Ltd 
+Source: FOURTH INTERNATIONAL CONFERENCE ON 
+ADVANCES IN POWER SYSTEM CONTROL, OPERATION & 
+MANAGEMENT, VOLS 1 AND 2   Pages: 248-
+253  Published: 1997   
+0 
+0 
+281 
+Title: Computing the aperiodic and oscillatory small signal stability 
+boundaries in modern power grids 
+By: Dong, ZY; Makarov, YV; Hill, DJ 
+Edited by: Sprague, RH  
+Conference: 30th Hawaii International Conference on System 
+Sciences (HICSS 30) Location: WAILEA, HI Date: JAN 07-10, 
+1997Sponsor(s): Univ Hawaii; Univ Hawaii Manoa, Coll Business 
+Adm 
+Source: THIRTIETH HAWAII INTERNATIONAL CONFERENCE 
+ON SYSTEM SCIENCES, VOL 5: ADVANCED 
+TECHNOLOGY   Book Series: PROCEEDINGS OF THE 
+ANNUAL HAWAII INTERNATIONAL CONFERENCE ON 
+SYSTEM SCIENCES  Pages: 668-675  Published: 1997   
+0 
+0 
+282 
+Title: A general method for small signal stability analysis 
+By: Makarov, YV; Dong, ZY; Hill, DJ 
+Conference: 20th International Conference on Power Industry 
+Computer Applications (PICA 97) Location: COLUMBUS, 
+OH Date:MAY 11-16, 1997 Sponsor(s): IEEE Power Engn Soc 
+Source: PROCEEDINGS OF THE 20TH INTERNATIONAL 
+CONFERENCE ON POWER INDUSTRY COMPUTER 
+APPLICATIONS   Pages:280-286  Published: 1996   
+0 
+0 
+ 
+
+-----

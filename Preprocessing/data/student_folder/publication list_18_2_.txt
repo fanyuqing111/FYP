@@ -1,0 +1,15 @@
+List of Publication 
+ 
+Journal papers: 
+[1] H. Zhang and S. Y. Tan and C. K. Seow, “Indoor SLAM with Multi-Reflections Incorporated 
+Multi-RD Single-Cluster PHD Filter,” IEEE Trans. Wireless Commun., revision submitted.  
+ 
+Conference papers: 
+[1] H. Zhang and S. Y. Tan, “TOA based indoor localization and tracking via single-cluster PHD 
+filtering," in Proc. IEEE Global Commun. Conf. (GLOBE-COM'17), Singapore, Dec. 4-8, 2017, 
+pp. 1 - 6. 
+[2] H. Zhang and C. K. Seow and S. Y. Tan, \Virtual Reference Device-based Narrowband TOA 
+Localization using LOS and NLOS Path," in Proc. IEEE/ION Position Location and Navigation 
+Symposium (PLANS'16), Savannah, GA, Apr. 11-14, 2016, pp. 225 - 231. 
+
+-----

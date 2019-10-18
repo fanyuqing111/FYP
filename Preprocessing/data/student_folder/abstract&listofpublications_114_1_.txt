@@ -1,0 +1,33 @@
+Wearable Wireless Ultrasonic Sensors for Human Gait Analysis 
+Human motion capture has been used in rehabilitation clinics for evaluating the severity of various 
+neuromuscular and musculoskeletal diseases. Gold standard for gait analysis is optical system using 
+multiple high-speed cameras which is complex, costly and require controlled lighting conditions and 
+dedicated laboratories due to the sensitivity to variations in the intensity of light, occlusion and shadow. 
+Narrow band ultrasonic sensors can be used for accurate ranging with considerably cheaper hardware. 
+We propose a scalable, cost-effective, wearable ultrasonic gait analysis system, which is easy to use, 
+portable and does not require complex calibration procedures. The Time of Arrival (TOA) of ultrasonic 
+pulses were used for localization with the help of Unscented Kalman filter.  We employ chirp signals, a 
+novel multi-path compensation and multiple-access along with simultaneous Doppler-correction to 
+increase the accuracy and number of markers. The system was tested on healthy subjects. The results 
+were compared with Motion Capture system. 
+ 
+ 
+ 
+List of Publications 
+[1] Karalikkadan Ashhar, Mohammad Omar Khyam, Cheong Boon Soh, and Keng He Kong 
+(2018). A Doppler-Tolerant Ultrasonic Multiple Access Localization System for Human Gait 
+Analysis. Sensors, 18(8), 2447. 
+[2] Karalikkadan Ashhar, Mohammad Omar Khyam, and Cheong Boon Soh (2019). A Multi-Path 
+Compensation Method for Ranging in Wearable Ultrasonic Sensor Networks for Human Gait 
+Analysis. Sensors, 19(6), 1350. 
+[3] Karalikkadan Ashhar, Md Noor-A-Rahim, Mohammad Omar Khyam, and Cheong Boon Soh. A 
+Narrowband Ultrasonic Ranging Method for Multiple Moving Sensor Nodes. IEEE Sensors 
+Journal (2019). 
+[4] Karalikkadan Ashhar, Cheong Boon Soh and Keng He Kong, A Wearable Ultrasonic Sensor 
+Network for Analysis of Bilateral Gait Symmetry, 39th Annual International Conference of the 
+IEEE Engineering in Medicine \& Biology Society (EMBC'17), JeJu Island, S. Korea. 
+[5] Karalikkadan Ashhar, Cheong Boon Soh, and Keng He Kong (2018, October). Wireless 
+Ultrawideband Sensor Network for Gait Analysis in Rehabilitation Clinics. In 2018 IEEE 
+International Conference on Systems, Man, and Cybernetics (SMC) (pp. 1524-1529). IEEE. 
+
+-----

@@ -1,0 +1,266 @@
+Search
+Sources
+Alerts
+Lists
+Help
+SciVal ↗
+Author details
+Sun, Nan 
+University of Texas at Austin, Department of 
+Electrical & Computer Engineering, Austin, United 
+States 
+Author ID: 18039000700
+Other name formats: Sun, N.
+About Scopus Author Identifier | View potential author matches 
+Documents:
+Analyze author output
+Citations:
+View citation overview
+h-index: 
+View h-graph
+Co-authors:
+Subject area:
+View docum
+View docum
+View docum
+Follow this Author
+Receive emails when this author 
+publishes new articles
+Get citation alerts 
+Add to ORCID
+Request author detail corrections
+Author History 
+Publication range: 2007 - Present 
+References: 578
+Source history:
+IEEE Transactions on Circuits and Systems II: Express B
+Midwest Symposium on Circuits and Systems
+New Developments in NMR
+View More 
+Show Related Affiliations
+Back to results |
+< Previous
+4 of 357 Next >
+Print |
+E-mail 
+72 
+469 total citations by 338 documents 
+13 
+57
+Engineering ,  Computer Science View More
+72 documents
+Export all |
+Add all to list
+|
+Set document alert |
+Set document feed 
+72 Documents | Cited by 338 documents | 57 co-authors
+View in search results format 
+Sort on: Date Cited by
+...
+A Fully Passive Compressive Sensing SAR ADC for 
+Low-Power Wireless Sensors
+Guo, W., Kim, Y., 
+Tewfik, A.H., Sun, N. 
+2017 IEEE Journal of Solid-
+State Circuits 
+Article in Press
+View at Publisher
+A Scaling Compatible, Synthesis Friendly VCO-based 
+Delta-sigma ADC Design and Synthesis Methodology
+Xu, B., Li, S., Sun, N., 
+Pan, D.Z. 
+2017 Proceedings - Design 
+Automation Conference 
+View at Publisher
+A 0.7-V 0.6- μw 100-kS/s Low-Power SAR ADC with 
+Statistical Estimation-Based Noise Reduction
+Chen, L., Tang, X., 
+Sanyal, A., (...), Cong, 
+J., Sun, N. 
+2017 IEEE Journal of Solid-
+State Circuits 
+View at Publisher
+An Energy-Efficient Hybrid SAR-VCO ΔΣ Capacitance-
+to-Digital Converter in 40-nm CMOS
+Sanyal, A., Sun, N. 
+2017 IEEE Journal of Solid-
+State Circuits 
+Article in Press
+View at Publisher
+Hierarchical and analytical placement techniques for 
+high-performance analog circuits
+Xu, B., Li, S., Xu, X., 
+Sun, N., Pan, D.Z. 
+2017 Proceedings of the 
+International Symposium 
+on Physical Design 
+View at Publisher
+A 0.95-mW 6-b 700-MS/s Single-Channel Loop-Unrolled 
+SAR ADC in 40-nm CMOS
+Chen, L., Ragab, K., 
+Tang, X., (...), Sanyal, 
+A., Sun, N. 
+2017 IEEE Transactions on 
+Circuits and Systems II: 
+Express Briefs 
+View at Publisher
+A 10-b 800MS/s time-interleaved SAR ADC with fast 
+timing-skew calibration
+Song, J., Ragab, K., 
+Tang, X., Sun, N. 
+2017 2016 IEEE Asian Solid-
+State Circuits 
+Conference, A-SSCC 
+2016 - Proceedings 
+View at Publisher
+A 12-b ENOB 2.5-MHz BW VCO-Based 0-1 MASH ADC 
+With Direct Digital Background Calibration
+Ragab, K., Sun, N. 
+2017 IEEE Journal of Solid-
+State Circuits 
+View at Publisher
+A 174.3dB FoM VCO-based CT ΔΣ modulator with a fully 
+digital phase extended quantizer and tri-level resistor 
+DAC in 130nm CMOS
+Li, S., Sun, N. 
+2016 European Solid-State 
+Circuits Conference 
+View at Publisher
+0
+0
+0
+0
+1
+0
+0
+0
+0
+Years
+Documents
+Documents
+Citations
+Citations
+2007
+2017
+0
+14
+Register
+Login
+Page 1 of 3
+Scopus - Author details (Sun, Nan)
+21/8/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=180390007...
+
+-----
+The data displayed above is compiled exclusively from articles published in the Scopus database. To request corrections to any inaccuracies or provide any further feedback, please contact us (registration required). 
+The data displayed above is subject to the privacy conditions contained in the privacy policy . 
+Top of page 
+Display: 
+results per page
+Page 1
+A 9.8b-ENOB 5.5fJ/step fully-passive compressive 
+sensing SAR ADC for WSN applications
+Guo, W., Sun, N. 
+2016 European Solid-State 
+Device Research 
+Conference 
+View at Publisher
+A 9.8b-ENOB 5.5fJ/step fully-passive compressive 
+sensing SAR ADC for WSN applications
+Guo, W., Sun, N. 
+2016 European Solid-State 
+Circuits Conference 
+View at Publisher
+A 1.4mW 8b 350MS/s loop-unrolled SAR ADC with 
+background offset calibration in 40nm CMOS
+Ragab, K., Sun, N. 
+2016 European Solid-State 
+Circuits Conference 
+View at Publisher
+A 55fJ/conv-step hybrid SAR-VCO ΔΣ capacitance-to-
+digital converter in 40nm CMOS
+Sanyal, A., Sun, N. 
+2016 European Solid-State 
+Circuits Conference 
+View at Publisher
+A 12b-ENOB 61μW noise-shaping SAR ADC with a 
+passive integrator
+Guo, W., Sun, N. 
+2016 European Solid-State 
+Circuits Conference 
+View at Publisher
+A 10-b 750μW 200MS/s fully dynamic single-channel 
+SAR ADC in 40nm CMOS
+Tang, X., Chen, L., 
+Song, J., Sun, N. 
+2016 European Solid-State 
+Circuits Conference 
+View at Publisher
+A 18.5-fJ/step VCO-based 0-1 MASH ΔΣ ADC with 
+digital background calibration
+Sanyal, A., Sun, N. 
+2016 IEEE Symposium on 
+VLSI Circuits, Digest of 
+Technical Papers 
+View at Publisher
+Comparator common-mode variation effects analysis and 
+its application in SAR ADCs
+Chen, L., Sanyal, A., 
+Ma, J., Tang, X., Sun, 
+N. 
+2016 Proceedings - IEEE 
+International Symposium 
+on Circuits and Systems 
+View at Publisher
+Second-order VCO-based δσ ADC using a modified 
+DPLL
+Sanyal, A., Sun, N. 
+2016 Electronics Letters 
+View at Publisher
+CHAPTER 6: Hardware developments: Handheld nmr 
+systems for biomolecular sensing
+Sun, N., Ham, D. 
+2016 New Developments in 
+NMR 
+View at Publisher
+Dynamic Element Matching Techniques for Static and 
+Dynamic Errors in Continuous-Time Multi-Bit ΔΣ 
+Modulators
+Sanyal, A., Sun, N. 
+2015 IEEE Journal on 
+Emerging and Selected 
+Topics in Circuits and 
+Systems 
+View at Publisher
+0
+0
+0
+1
+1
+0
+1
+1
+0
+0
+3
+20
+Back to results |
+< Previous
+4 of 357 Next >
+Page 2 of 3
+Scopus - Author details (Sun, Nan)
+21/8/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=180390007...
+
+-----
+Terms and conditions
+Privacy policy
+Copyright © 2017 Elsevier B.V. All rights reserved. Scopus® is a registered trademark of Elsevier B.V.
+Cookies are set by this site. To decline them or learn more, visit our Cookies page.
+Page 3 of 3
+Scopus - Author details (Sun, Nan)
+21/8/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=180390007...
+
+-----

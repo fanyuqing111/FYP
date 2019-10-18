@@ -1,0 +1,46 @@
+Linear and nonlinear optical applications of plasmonics 
+Wu Tingting 
+Plasmonics is able to confine the electric field of light to its proximity and provide great field enhancement, which 
+promises possibilities to control light in nanoscale. The plasmon-enhanced molecular sensor allows direct 
+detection of weakly emission from molecules which circumvents the need for labeling. Furthermore, in nonlinear 
+applications, the enhanced localized field can enhance the light-matter interaction, which is promising to increase 
+the efficiency and reduce the laser power consumption. We apply plasmonics in linear and nonlinear optics to 
+study plasmonic structures and explore the advantages in them.  
+Nonlinear optics describe the light behaviour in nonlinear media where the dielectric polarization responds 
+nonlinearly to the light field. Theoretically, we propose a fully vertical nonlinear coupled-wave equation model 
+for lossy plasmonic waveguides and use the model to investigate third-harmonic generation (THG) in plasmonic 
+waveguides. Two different kinds of plasmonic waveguides are studied, i.e., metallic plasmonic waveguide and 
+graphene plasmonic coupler. For the proposed hybrid plasmonic structure, THG conversion efficiency up to 
+1.4732 ×10−5 is predicted. This effective conversion is mainly induced by the large field enhancement. THG 
+efficiency in the graphene coupler is found to surpass up to 12 orders of magnitude compared with bare monolayer 
+graphene where the high enhancement comes from the combined effects of the great plasmonic enhancement, 
+phase-matching, and large graphene third-order nonlinear susceptibility. For both of these two structures, phase-
+matching condition (PMC) is needed to make sure the laser power can convert to the third harmonic power 
+continually. For the THG measurements from the bowtie silicon hybrid plasmonic waveguide, no PMC is needed. 
+THG conversion is enhanced by 23.3 times compared to that from a bare silicon substrate, despite the low surface 
+coverage (~4.2%) of the bowtie arrays and the small volume where the electric field is localized. 
+Doped graphene hosts long-lived, electrically tunable plasmons that interact strongly with light. Due to the general 
+poor interaction of infrared light with nanometric-scale molecules, unique electro-optical properties of the 
+graphene-based device is exploited to demonstrate a tunable biosensor with high-sensitivity for chemically 
+specific label-free detection of nanometer protein layer. By applying a voltage onto the coupler, graphene Fermi 
+level can be tuned to dynamically tune the plasmonic resonance so as to selectively probe the molecular attached 
+above the graphene surface. From the calculation, we show that the significant spatial light confinement of 
+graphene plasmons produces a high light overlap with nanometer size biomolecules, enabling super-sensitivity in 
+the detection of the molecular refractive index and chemical vibrations. On the other hand, surface enhanced 
+Raman scattering (SERS) has become an attractive analytical technique to obtain the molecular specific chemical 
+fingerprints. We develop a novel graphene-fragmented gold nanostructure system which is facile and reproducible 
+to study the ultra-wideband graphene-SERS. The graphene-fragmented gold platform is beneficial for sensing the 
+top assembled Rhodamine 6G and Rhodamine B dye molecules, enabling a wideband tracer of analytes species. 
+The transformation tool is powerful since the whole problem in the small-sized metallic geometry (much smaller 
+than the wavelength) can be solved under quasi-static approximation. We use this method to study the instability 
+in SERS under dynamical backaction effect. The radiation damping (beyond the quasi-static limit) is taken into 
+account in our calculation to extend the range of validity of the transformation optics approach. Due to the 
+dynamical backaction, the scattering phonon number is greatly enhanced and instability can be obtained with high 
+laser intensity. According to our calculation, the laser blue detuning value has no need to be equal to the molecular 
+vibration to achieve instability. We also study the molecular position effect to demonstrate the maximum electric 
+field enhancement which the molecular can feel can be obtained when the molecule is put into the gap centre at 
+small gap geometry and near the metal surface at large gap geometry. 
+ 
+ 
+
+-----

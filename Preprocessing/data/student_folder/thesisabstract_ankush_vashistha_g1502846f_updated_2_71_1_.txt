@@ -1,0 +1,67 @@
+Abstract
+Internet of things (IoT) is an emerging technology which enables integration of bil-
+lions of objects and complex systems over internet with the help of many technologies
+such as Wi-Fi, ZigBee, Bluetooth, UWB etc. Position estimation has become an
+essential and crucial factor in various monitoring applications of IoT. Precision lo-
+calization and positioning has become an attractive area of interest for many new
+applications and business solutions. Although, the global navigation satellite sys-
+tems (GNSS) can provide good performance and positioning in outdoor systems,
+they are not very accurate when it comes to indoor locations or in GNSS-denied
+environments. With the ease of availability of commercial transceivers and the de-
+mand for accurate positioning systems by various industries, the research interest
+towards indoor positioning and navigation systems based on ultra-wideband tech-
+nology (UWB) has been immense.
+Good localization accuracy can be achieved by using UWB pulses due to their high
+temporal resolution and multi-path immunity. Apart from achieving high accuracy,
+UWB can also provide larger coverage and ranging capability as well as the capacity
+to penetrate walls.
+A typical UWB indoor localization system consists of some
+anchor nodes (i.e. nodes with fixed location) and the target node/s whose position
+is to be determined.
+In this thesis, we present an ultra-wideband impulse radio (UWB-IR) based po-
+sitioning system for indoor applications. The UWB systems can be operated in
+unlicensed band in the frequency range of 3.1 - 10.6 GHz. The operation in un-
+licensed band makes it even more exciting and accessible for different commercial
+applications. However, several GHz of Nyquist sampling rate is required to sample
+such a large bandwidth signal. A sampling rate of few tens of GHz is suggested for
+resolving large number of multi-path in UWB based systems. Sampling at such a
+rate is an expensive solution and thus practically limited by cost and complexity of
+the required hardware and thus, it is a bottleneck in designing low cost sensor nodes
+employing UWB systems.
+To overcome the high sampling requirements, in this thesis we use an equivalent time
+sampling (ETS) mechanism to recover the channel impulse response, with resolution
+in the order of sub nanoseconds, with much reduced ADC sampling rate, in the order
+of few MHz (to be specific 2-3 MHz).
+Moreover, it is interesting to note that while using equivalent time sampling, the
+mathematical formulation of equivalent time of arrival (termed E-TOA) obtained
+1
+
+-----
+using ETS technique is different from the conventional time of arrival methods.
+This thesis presents the detailed analysis and experimental verification of the novel
+E-TOA analytical equation. Specifically, the time scale of the reconstructed signal
+obtained by such techniques, that require periodic transmission of the same signal
+repetitively, is severely affected by the variations in transmitter clock as well as
+receiver clock. Therefore, we need a mechanism to obtain accurate TOA, for imple-
+menting such schemes in real world wireless sensor network (WSN) without using
+costly equipment and setups.
+In addition to the above, while using time of arrival or time difference of arrival based
+ranging schemes, a very stringent time synchronization is required to obtain very
+precise time of arrival measurements, in the order of sub-nanoseconds. Obtaining
+and maintaining such a precise synchronization requirement is not feasible in mobile
+wireless sensor nodes.
+In this thesis, we therefore propose a differential time difference of arrival algorithm,
+which fundamentally changes the TDOA scheme by removing the synchronization
+requirement among the nodes. Thus, combining E-DTDOA with equivalent time
+sampling remove synchronization requirement on one hand while still providing pre-
+cise ranging and accuracy between the nodes. This approach can be very feasible
+for practical deployment of asynchronous wireless sensor nodes.
+This thesis further demonstrates the proposed mechanism using in house designed
+sensor nodes. The test-bed consists of 4 anchor nodes with multiple target nodes.
+The results show that very precise ranging and localization, in the order of few cm,
+can be achieved with efficient use of low cost anchor nodes and target nodes with
+low cost crystal clock which can be useful for various real world low cost and energy
+constrained applications.
+2
+
+-----

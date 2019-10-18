@@ -1,0 +1,367 @@
+Jinwook Burm 
+Dept. of Electronic Engineering,  
+Sogang University, 1 Shinsoo‐dong, Mapo‐gu, Seoul 121‐742, Korea 
++82‐2‐705‐8909, Fax: +82‐2‐714‐6205, burm@sogang.ac.kr 
+http://melab.sogang.ac.kr 
+Education 
+B.S. 1983.3 ~ 1987.2 
+Dept. of Physics, Seoul National University, Seoul, Korea 
+M.S. 1987.3 ~ 1989.5 
+Dept. of Physics, The University of Michigan, Ann Arbor, Michigan 
+Ph.D. 1990.9 ~ 1995.5 School of Applied and Engineering Physics, Cornell University, Ithaca, New York 
+ 
+Advisor: Lester F. Eastman 
+ 
+Experiences 
+Jul. 1995 -Aug. 1996  
+Postdoctoral Associate, School of Electrical Engineering, Cornell University, 
+USA 
+Sep. 1996-Feb. 1998 
+ 
+PMTS, Bell Labs, Lucent Technologies, Murray Hill, NJ, USA 
+Mar. 1998-present 
+ 
+Assistant/Associate/Full Professor,  
+Dept. of Electronic Engineering, Sogang University, Seoul, Korea 
+Aug. 2006- Jul. 2007 
+ 
+Principal Scientist, Pixelplus Semiconductor, San Jose, CA, USA.  
+ 
+Activities: 
+2000 AP-ASIC (Asia-Pacific Conference on Advanced System ICs), Cheju, Korea  
+Technical Program Committee Secreatry 
+2004 AP-ASIC (Asia-Pacific Conference on Advanced System ICs), Fukuoka, Japan 
+Technical Program Committee Co-chair 
+2014 ISOCC (International SoC Design Conference), Seoul, Korea, Technical Program Chair 
+2015 ISOCC (International SoC Design Conference), Seoul, Korea, General Chair 
+2021 ISCAS (International Symposium on Circuits and Systems) General Chair  
+IEIE (THE INSTITUTE OF ELECTRONICS AND INFORMATION ENGINEERS) a member in the Board of 
+Directors 
+ 
+Research Interests: 
+ 
+CMOS and BiCMOS Wireless Communication Circuits 
+ 
+Research project on 5-6 GHz on transceiver IC from Samsung Electronics 
+ 
+Optical Fiber Communication Circuits 
+ 
+Pre-Amplifiers, Limiting Amps, Laser Drivers, CDRs 
+ 
+Research projects from Korean Government 
+
+-----
+SELECTED PUBLICATIONS 
+SELECTED PUBLICATIONS 
+Journal Publications 
+S.D. Peacor, R.A. Richardson, J. Burm, C. Uher, and A.B. Kaiser, "Thermal Conductivity of Ba-K-Bi-O: A 
+Contrast to Copper Oxide Superconductors," Physical Review B  (Condensed Matter), vol. 42, pp. 2684-
+2687 (1990). 
+W. Sha, T.B. Norris, J.W. Burm, D. Woodard, and W.J. Schaff, "New Coherent Detector for Terahertz 
+Radiation Based on Excitonic Electroabsorption," Appl. Phys. Lett. vol. 61 ,  pp. 1763-1765 (1992). 
+J. Burm, K.I. Litvin, W.J. Schaff, and L.F. Eastman, "Optimization of High-Speed Metal-Semiconductor-
+Metal Photodetectors," IEEE Photonics Tech. Lett. vol. 6,  pp. 722-724 (1994).     
+M. A. Khan, J.N. Kuznia, D.T. Olson, W.Schaff and J. Burm, "Microwave Performance of 0.25 Micron 
+Gate AlGaN/GaN Heterostructure Field Effect Transistor," Appl. Phys. Lett. vol 65, pp. 1121-1123 (1994). 
+M. A. Khan, M.S. Shur, J.N. Kuznia, Q. Chen, J. Burm and W. Schaff, "Temperature Activated 
+Conductance in GaN/AlGaN Heterostructure Field Effect Transistors Operating at Temperatures up to 
+300 °C," Appl. Phys. Lett.  vol. 66 (9) pp. 1083-1085 (1995). 
+J. Burm, K. I. Litvin, D. W. Woodard, W. J. Schaff, P. Mandeville, M. A. Jaspan, M. M. Gitin, and L. F. 
+Eastman, “High-Frequency, High-Efficiency MSM Photodetectors,”  IEEE J. Quantum Electron. vol. 31, 
+no. 8, pp. 1504-9 (1995).  
+J. Burm and L. F. Eastman, “The low frequency gain in MSM photodiodes by charge accumulation and 
+image force lowering,” IEEE Photon. Tech. Lett., vol. 8, no. 1, pp.113-115 (1996). 
+M.A. Khan, Q. Chen, M.S. Shur, B.T. Dermott, J.A. Higgins, J. Burm, W. Schaff and L.F. Eastman, 
+“Short-channel GaN/AlGaN doped channel heterostructure field effect transistors with 36.1 cutoff 
+frequency,” Electron. Lett., vol. 32, no. 4,  pp. 357-8 (1996). 
+J. Burm, W. J. Schaff, L. F. Eastman, H. Amano, and I. Akasaki, “75Å GaN channel Modulation Doped 
+Field Effect Transistors,” Appl. Phys. Lett.,  vol. 68, pp. 2849-2851 (1996). 
+J. Burm, K. I. Litvin, G. H. Martin, W. J. Schaff, and L. F. Eastman, “Monolithic Millimeter Wave Optical 
+Receivers,” IEEE Transactions on Microwave Theory and Techniques, vol. 44, no. 11, pp. 1984-9 (1996) . 
+M.A. Khan, Q. Chen, M.S. Shur, B.T. Dermott, J.A. Higgins, J. Burm, W.J. Schaff, L.F. Eastman, “CW 
+Operation of Short-Channel GaN/AlGaN Doped Channel Heterostructure Field Effect Transistors at 10 
+GHz and 15 GHz,” IEEE Electron Device Letters, vol. 17, no. 12, pp. 584-585 (1996). 
+L. Eastman, J. Burm, W. Schaff, M. Murphy, K. Chu, H. Amano, and I. Akasaki, “Research on GaN 
+MODFET’s,” Material Research Society Internet Journal, Nitirde of Semiconductor Research, vol. 1, no. 4, 
+http://nsr.mij.mrs.org/1/ (1996). 
+
+-----
+J. Burm, K. Chu, W. Davis, W.J. Schaff, L.F. Eastman, and T.J. Eustis, ”Ultra-low resistive ohmic contacts 
+on n-GaN using Si implantation,” Applied Physics Lett., vol. 70, no. 4, pp. 464-466, (1997). 
+J. Burm, W. J. Schaff, G. H. Martin, L. F. Eastman, H. Amano, and I. Akasaki, “Recessed Gate GaN 
+MODFET’s,” Solid State Electronics, vol. 41, no. 2, pp. 247-250, (1997). 
+J. Burm, K. Chu, W.J. Schaff, L.F. Eastman, M.A. Khan, Q. Chen, J.W. Yang, M.S. Shur, “0.12 µm Gate III-
+V nitride HFET’s with High Contact Resistances,” IEEE Electron Device Letters, vol. 18, no. 4, pp. 141-143, 
+(1997). 
+J. Burm, W. J. Schaff, L. F. Eastman, H. Amano, and I. Akasaki,"An Improved Small Signal Equivalent 
+Circuit Model for III-V nitride MODFET's with Large Contact Resistances," IEEE Transactions on 
+Electron Devices, vol. 44, no. 5, pp. 906-90, 1997. 
+J. Burm, K. Chu, W. J. Schaff, M. J. Murphy, L. F. Eastman, H. Amano, and I. Akasaki, “Effect of 
+Schottky barrier height variations on III-V nitride Modulation Doped Field Effect Transistors,” 
+submitted to IEEE Transactions on Electron Devices. 
+R.F. Kopf, R.A. Hamm, R.J. Malik, R.W. Ryan, M. Geva, J. Burm, and A. Tate, “ECR Plasma Etch 
+Fabrication of C-Doped Base InGaAs/InP DHBT Structures: A Comparison of CH4/H2 Versus BCl3/N2 
+Plasma Etch Chemistries,” submitted to Journal of Electronic Materials. 
+M. A. Khan, Q. Chen, M. S. Shur, B. T. Dermott, J. A. Higgins, J. Burm, W. J. Schaff, and L. F. Eastman,  
+“GaN based Heterostructure for High Power Devices,” Solid-State Electronics, vol. 41, No. 10, pp. 1555-
+1559, 1997. 
+R. F. Kopf, R. A. Hamm, R. J. Malik, R. W. Rayn, M. Geva, J. Burm, and A. Tate,"ECR plasma etch 
+farbrication of C-doped based InGaAS/InP DHBT structure : a comparison for Ch4/H2/Ar vs. BCI3/Nr 
+plasma etch chemistries," Journal of Electronic Materials, Vol.27, No.2, pp. , 1998. 
+R.W. Ryan, R. F. Kopf, A. Tate, J. Burm, and R. A. Hamm,"Side-By-Sice Wafer Bonding InP for Use With 
+Stepper Based Lithography," Journal of Vacuum Science & Technolgy B, vol.16, no.4, pp. 2110-2112, 1998. 
+R.F. Kopf, R.A. Hamm, R.W. Ryan, J. Burm. A. tate, H-k. Chen, G. Georgiou, D.V. Lang, and F. 
+Ren,"Evaluation of Encapsulation and Passivation of InGaAs/InP DHBT Devices for Long-Term 
+Reliablity," Journal of Electronic Materials, Vol.27, No.8, pp. 954, 1998. 
+J. Burm, J. H. Choi, D.-H. Kim, J.-C. Woo,"Improvements of Short-Channel Effects using Selectively 
+Recess-Etched (SRFET) with Two Gate Regions," Journal of the Korean Physical Society, Vol. 34, pp. S85-
+S87, 1999. 
+J. Burm, A. Tate, R. F. Kopf, R. W. Ryan, and R. A. Hamm,"Alignment with Exposed Resist in 
+Photolithogrphy," J. Vac. Sci. Technol. B, 17/3, pp. 905-905, 1999. 
+
+-----
+R. F. Kopf, R. A. Hamm, R. W. Ryan, A. Tate, and J. Burm,"Optimization of the Base Electrode for 
+InGaAs/InP DHBT StructuresDHBT Structures With a Buried Emitter-Base Junction," Journal of 
+Electronic Materials, vol. 27, no. 11, pp. 1244-1247, 1998. 
+R. F. Kopf, R. A. Hamm, R. J. Malik, R. W. Ryan, J. Burm, A. Tate, Y.-K. Chen, G. Georgiou, D. V. Lang, 
+M. Geva, and F. Ren, Novand F. Ren,"Novel Fabrication of C-Doped Base InGaAs/InP DHBT Structures 
+for High Speed Circuit Applications," Solid-State Electronics, vol. 42, no. 12, pp. 2239-2250, 1998. 
+S. Cho, J. Burm et al, "Suppression of Avalanche Multiplication at the Periphery of Diffused Junction by 
+Floating Guard Rings in a Planar InGaAs-InP Avalanche Photodiode," IEEE Photon. Technology Letters., 
+vol. 12, no. 5, pp. 534-536, 2000. 
+J. Burm, S. W. Lee,"small signal equivalent circuit model  for Ⅲ-nitride MODFET's with large ohmic 
+contacts ," Journal of the Korean Physical Society, vol. 37, pp. 313-318, 2000. 
+H. S. Kim, J. H. Choi, H. M. Bang, Y. Jee, S. W. Yun, J. Burm, M. D. Kim, and A. G. Choo,"Dark current 
+reduction in APD with BCB passivation," Electronics Letters, vol. 37, no. 7, pp. 455-457, 2001, vol. 37, no. 
+7, pp. 455-457, 2001. 
+H. S. Kim, J. H. Choi, H. M. Bang, J. Burm, Y. Jee, and S. W. Yun,"10-Gbps InAlAs/InGaAs Superlattice 
+Avalanche Photodiodes," J. Korean Physical Society, 2001.7, vol. 39, no. 1, pp. 28-31, 2001. 
+Ji-Hak Jung, Hoon Park, Jin-Kuk Park, Hyun-Chang Park, Kwang-Hyuk Bae, Dong-Hyuk Shin, Nam-Jin 
+Song, Jin-Wook Burm,"Fabrication of SiC MESFET's for Microwave Applications," Journal of the Korean 
+Physical Society, Vol. 40, No. 4, pp. 588-591, 2002. 
+J. Burm, J.Y. Choi, S.R. Cho, M.D. Kim, S.K. Yang, J.M. Baek, D.Y. Rhee, B.O. Jeon, H.Y. Kang, and D.H. 
+Jang,"Edge Gain Suppression of a planar-type InGaAs/InP Avalanche Photodiodes with thin 
+multiplication layers for 10 Gb/s Applications," IEEE Photonics Technology Letters, vol. 16, no. 7, pp. 
+1721 - 1723, 2004. 
+Nam Jin Song, Jaekwon Kim, Chang Kyu Choi and Jinwook Burm,"Fabrication of 4H-SiC MESFETs on 
+Conducting Substrates and Analysis of Their Premature Breakdown," Journal of the Korean Physical 
+Society, vol.44, No.2, pp. 418-422, 2004. 
+J. M. Baek, H. S. Seo, B. O. Jeon, H. Y. Kang, D. Y. Rhee, S. K. Yang, M. K. Park, J. W. Burm, and D. H. 
+Jang,"High Sensitive 10-Gb/s APD Optical Receivers in Low-Cost TO-Can-Type Packages," IEEE 
+Photonics Technology Letters, vol. 17, no. 1, pp. 181 - 183, 2005. 
+Kyunghwan Kim, Jaekwon Kim, Jinwook Burm,"A 5.15-5.35 GHz band 10 W power amplifier using SiC 
+MESFETs," physica status solidi ©, Volume 5, Issue 9, pp. 3162-3164, 2008. 
+Jaekwon Kim, Dohyung Kim, Jinwook Burm, Kihun Chang and Young Joong Yoon ,"Phase Control 
+Using Open-Stubs for Programmable SAW-based RFIDs," Journal of the Korean Physical Society, Vol. 53, 
+
+-----
+No. 2, pp. 831-834, 2008. 
+Dohyung Kim, Jaekwon Kim, Jinwook Burm,"A Nonlinear behavioral modeling of W-CDMA InGaP 
+HBT Power Amplifiers for Predicting Spectral Regrowth," Journal of the Korean Physical Society, Vol. 
+53, No. 4, pp. 2165-2170, 2008. 
+Hee-Tae Ahn and Jinwook Burm, "A phase noise optimized 4GHz differential Colpitts VCO,"  IEICE 
+Transactions on Electronics, vol. E93-C, No. 3, pp. 420-422, 2010. 
+Bongsub Song, Nayeon Cho, Byunghoon Kim, Jung-Han Choi, Young-Lok Kim, and Jinwook Burm, "An 
+Autofocus Sensor With Global Shutter Using Offset-Free Frame Memory," IEEE TRANSACTIONS ON 
+CIRCUITS AND SYSTEMS—II: EXPRESS BRIEFS, vol. 57, no. 11, pp. 878-882, 2010. 
+Bongsub Song, Dohyung Kim, Kwangsoo Kim, and Jinwook Burm, "A Sub-Harmonic RF Transmitter 
+Architecture with Simultaneous Power Combination and LO Leakage Cancellation," IEICE Transaction 
+on Electronics, Vol. E94-C, No. 5, pp. 858-861, 2011. 
+Bongsub Song, Kwangsoo Kim, and Jinwook Burm, "A 0.18 μm CMOS 12 Gb/s 10-PAM serial link 
+transmitter," IEICE Transaction on Electronics, Vol.E94-C, No.11, pp. 1787-1793, 2011. 
+Daeho Yun, Bongsub Song, Kyunghoon Kim, Junan Lee, and Jinwook Burm,"A Low-Power Switching 
+Method with a Bootstrapping Circuit for High-Speed Transmitters," IEICE Transaction on 
+Electronics,E95-C, pp. 921-923, 2012. 
+Hyunchul Bae, Jaekwon Kim, Jinwook Burm,"An SNR Improvement of Passive SAW Tags with 5-bit 
+Barker Code Sequence," Int. Journal of Electronics, vol. 99, Issue 7, pp. 1005-1011, 2012. 
+Bongsub Song, Kyunghoon Kim,Junan Lee, and Jinwook Burm,"A 0.18-μm CMOS 10-Gb/s dual-mode 
+10-PAM serial link transceiver," IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I: REGULAR 
+PAPERS, volume 60, issue 2, pp. 457-468, 2013. 
+Bongsub Song, Junan Lee, Kyunghoon Kim, Jinwook Burm,"A Fast AFC technique with self-calibration 
+for fast-locking PLLs," Int. Journal of Electronics, Vol. 100, No. 8, pp. 1080-1091, 2013. 
+Kyunghoon Kim, Bongsub Song, Junan Lee, Kwangsoo Kim, Jung Han Choi, and Jinwook Burm,"A 
+Behavioral Modeling of Nonlinear RF Power Amplifiers Using Noise Compensation Technique," Int. 
+Journal of Electronics, Vol. 100, No. 12, pp. 1675-1682, 2013. 
+Bongsub Song, Kyunghoon Kim, Junan Lee, Kwangsoo Kim, Younglok Kim, and Jinwook Burm,"1.5–
+9.7-Gb/s Complete 4-PAM Serial Link Transceiver with a Wide Frequency Range CDR," IEICE 
+Transaction on Electronics, Vol. E96-C, No. 8, pp. 1048-1053, 2013. 
+Bongsub Song, Kyunghoon Kim, Junan Lee, Jinil Chung, Youngjung Choi, and Jinwook Burm,"A 13.5-
+mW 10-Gb/s 4-PAM Serial Link Transmitter in 0.13-μm CMOS Technology," IEEE TRANSACTIONS 
+
+-----
+ON CIRCUITS AND SYSTEMS—II: EXPRESS BRIEFS, VOL. 61, NO. 9, pp. 646-650, 2014. 
+Kyunghoon Kim, Junan Lee, Bongsub Song, and Jinwook Burm,"Improved Cirsuits for Single-photon 
+Avalanche Photodiode Detectors," 2014 JSTS, VoL.14, NO. 6, pp. 789-796, 2014. 
+Junan Lee, Qiwei Huang, Kiwoon Kim, Kyunghoon Kim, and Jinwook Burm,"High Frame Rate VGA 
+CMOS Image Sensor using Three Step Single Slope Column-Parallel ADCs," 2015 JSTS, VoL.15, NO. 1, 
+pp. 22-28, 2015. 
+Junan Lee, Himchan Park, Bongsub Song, Kiwoon Kim, Jaeha Eom, Kyunghoon Kim and Jinwook 
+Burm,"High Frame Rate VGA CMOS Image Sensor using Non-Memory Capacitor Two-Step Single 
+Slope ADCs," IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I, VOL. 62, NO. 9, pp. 2147-2154, 
+2015. 
+Qiwei Haung, Hyobin Joo, Jinwoo Kim, Chenchang Zhan, Jinwook Burm,"An Energy-Efficient 
+Frequency Domain CMOS Temperature Sensor with Switched Vernier Time-to-Digital Conversion," 
+2017 Sensors Journal, VOL. 17, NO. 10, pp. 3001-3011, 2017. 
+ 
+Patents 
+J. Burm, R. A. Hamm, R. F. Kopf, R. W. Ryan, A. Tate, “Alignment Techniques for Photolithography 
+utilizing Multiple Photoresist Layers," US6,042,975, Lucent Tech, 2000. 
+J. Burm, R. A. Hamm, R. F. Kopf, R. W. Ryan, A. Tate,"Method of manufacturing schottky gate 
+transistor utilizing alignment techniques with multiple photoresist layers ," US6,139,995, Lucent Tech, 
+2000. 
+J. Burm, A. Tate, R. F. Kopf, R. W. Ryan, and R. A. Hamm,"Repairing fractured wafers in semiconductor 
+manufacturing," US5,932,379,  Lucent Tech., 1999. 
+J. Burm,"Gate Fabrication on Compound Semiconductor Devices," Korean Patent 0331018, 2002.  
+Moon-Deock Kim, Seung-Ryong Cho, Jinwook Burm, "Avalache Photodiode," Japanese Patent Filed. 
+JP2002021750, 2002. 
+Moon-Deock Kim, Seung-Ryong Cho, Jinwook Burm, "Avalanche Photodiode," US Patent 6,664,573, 
+2003. 
+ 
+Conferences Proceedings and Presentations 
+L.F. Eastman, K. Litvin, J. Burm, "High-Speed Photodetectors for Millimeter Waves," GOMAC-91 
+(Government Microcircuit Applications Conference) , Orlando, FL, (Nov. 4-7, 1991) . 
+
+-----
+L. F. Eastman, K. Litvin J. Burm, D.W. Woodard and W.J. Schaff, "High Frequency Optical Receivers," 
+2nd Annual DARPA/Rome Lab. Symp. on Photonics Systems for Antenna Applications (PSSA), Monterey, CA 
+(Dec. 10-12, 1991). 
+J. Burm, K. Litvin, D. Woodard, W. Schaff and L. Eastman, "High-Speed Photodetectors for Millimeter 
+Waves," SPIE - Optoelectronic Signal Processing for Phased Array Antennas III, Orlando, FL, (April 20-24, 
+1992). Proc SPIE-Int. Society of Optical Engineers,  vol. 1703, pp.  313-320. 
+K. Litvin, J. Burm, D.W. Woodard, W.J. Schaff, and L.F. Eastman, "High Frequency Photodiodes for 
+Monolithic Optical Receiver Circuits," WOCSDICE'92  San Rafael, Spain (May 25-28, 1992). 
+K. Litvin, J. Burm, and L.F. Eastman, "High Speed Optical Detectors for Monolithic Millimeter Wave 
+Integrated Circuits," OTC-DARPA REVIEW,  Santa Barbara, CA (Aug. 2-3, 1992) 
+K. Litvin, J. Burm, D.W. Woodard, W.J. Schaff and L.F. Eastman, "High Frequency Photodiodes for 
+Monolithic Optical Receiver Circuits," Engineering Foundation Conf. on 'High Speed Optoelectronic Devices 
+and Circuits II', Banff, Alberta, Canada, (Aug. 9-13, 1992). 
+K. Litvin, J. Burm, W. Schaff, D. Woodard and L.F. Eastman, "High frequency Optical Receivers", 
+National Nanofabrication Facility Research Accomplishments 1991-1992, p. 47-52. 
+K. Litvin, J. Burm, D. W. Woodard, W Schaff, and L.F. Eastman, "High Speed Optical Detectors for 
+Monolithic Millimeter Wave Integrated Circuits," IEEE Microwave and Millimeter-Wave Monolithic 
+Circuits Symposium, Atlanta, Ga (June 14-18, 1993).Symposium Digest, (Waymond R. Scott, Jr., 
+Publications Chairman) 1063-1066. 
+K. Litvin, J. Burm, D. Woodard, W. Schaff, L. F. Eastman, "High Speed Optical Detectors for Monolithic 
+Millimeter Wave Integrated Circuits," 14th Biennial IEEE/Cornell Conference on "Advanced Concepts 
+in High Speed Semiconductor Devices and Circuits, Aug. 2-4, 1993; Proc. Sec. III-5, pp. 131-140 (1993). 
+J. Burm, K.I. Litvin, W.J. Schaff and L.F. Eastman, "Optimization of High-Speed, High-Frequency MSM 
+Photodetectors," 1993 Int. Semiconductor Device Research Symp., Charlottesville, VA (Dec. 1-3, 1993), 
+Proceedings Engineering Academic Outreach, Univ. VA 1993 749-752. 
+J. Burm, K.I. Litvin, D.W. Woodard, W.J. Schaff and L.F. Eastman, "High Speed Optical Detectors for 
+Monolithic Millimeter Wave Integrated Circuits," SPIE's Int. Symp. on Optoelectronic and Microwave 
+Engineering 'Optoelectronic Signal Processing for Phased Array Antennas IV," Los Angles, CA (1/22-28/94). 
+Vol. 2155, pp.  67-75 (Brian M. Hendrickson-Editor - Soc. Optical Engineering) 
+L.F. Eastman, J. Burm, K. Litvin, and W.J. Schaff, "Optimized M-S-M Photodetectors," WOCSDICE'94, 
+Cork, Ireland (May 29-June 2, 1994). 
+M.A. Khan, J.N. Kuznia,  and D. T. Olson, W.J. Schaff, J.W. Burm and M.S. Shur, "Deep Submicron 
+AlGaN/GaN Heterostructure Field Effect Transistors for Microwave and High-Temperature 
+
+-----
+Applications," 52nd Annual Device Research Conference, Boulder, CO June 20-22, 1994.  
+J. Burm, "High Speed Optical Detectors for Monolithic Millimeter Wave Integrated Circuits," 14th 
+Annual NNF Industrial Affiliates Meeting (Poster Session) (Oct. 3-4, 1994). 
+L.F. Eastman, J. Burm, and W.J. Schaff, "AlGaN/GaN MODFET Performance," presented at 19th 
+Workshop on Compound Semiconductor Devices and Integrated Circuits, (WOCSDICE) May 21-24, 
+1995 Stockholm, Sweden. 
+J. Burm, K.I. Litvin, G. H. Martin, W. J. Schaff, A. C. Davidson, M. A. Jaspan, and L. F. Eastman, “The 
+design and fabrication of Monolithic Millimeter Wave Optical Receivers,” to be published in 15th 
+Biennial IEEE/Cornell Conference on "Advanced Concepts in High Speed Semiconductor Devices and 
+Circuits, Aug. 7-9, 1995. 
+M.A. Khan, Q. Chen, J. Yang, M.Z. Anwar, M. Blasingame, M.S. Shur, J. Burm, and L.F. Eastman, 
+“Recent advances in III-V nitride electron devices,” International Electron Devices Meeting. Technical 
+Digest p. 960, 27-30, 1996. 
+J. Burm, W. J. Schaff, L. F. Eastman, H. Amano and I. Akasaki, “The fabrication of recessed gate GaN 
+MODFET’s,” to be published in 1995 International Symposium on Compound Semiconductors 
+Proceedings. 
+J. Burm, K. I. Litvin, G. H. Martin, W. J. Schaff, and L. F. Eastman, “Monolithic Millimeter Wave Optical 
+Receivers using MSM photodetectors and SMODFET’s,” to be published in 1995 International 
+Symposium on Compound Semiconductors Proceedings. 
+J. Burm, R. J. Malik, R.F. Kopf, R.A. Hamm, R.W. Ryan, A. Tate, H.S. Tsai, and Y.K. Chen, “High Speed 
+Double Heterojunction InP based HBT’s,” to be published in 16th Biennial IEEE/Cornell Conference on 
+"Advanced Concepts in High Speed Semiconductor Devices and Circuits, Aug. 4-6, 1997. 
+J. Burm,"High speed Ⅲ-Ⅴ nitiride HFETs," 98Korea-Japan Joint Workshop, pp. 127-129, 1998. 
+R.F. Kopf, R. A. Hamm, R.J. Malik, R. w. Ryan, J. Burm, a. Tate, Y. K. Chen, G. Georgiou, D.v. Lang, M. 
+Geva, F, Ren, "Novel Fabricaiton of C-Doped Base In GaAs/InP DHBT structures for High Speed Circuit 
+Applications," Materals Research Society symposium, pp. 413-424, 1998. 
+J. Burm, J.H. Choi, W.Y. Kai, C. An, D.H. Kim, and J.C. Woo, "Improvements of Short-Channel Effects 
+Using Selectively Recess-Etched FET (SRFET)with Two Gate Regions," International Workshop on 
+Physics and Applications of Semiconductor Quantum structures, pp. C55, 1998. 
+J. Burm, J. H. Choi,"The Use of Selectively Recess-Etched FET with Two Gate Regions," Review of ONR 
+MURI at Cornell and UC/SB and Associated 1st Gallium Nitride Electronic Device Workshop, Ithaca, 
+NY, U. S. A., Aug. 16-17, 1999, pp. , 1999. 
+
+-----
+J. Burm, H. S. Kim, J. H. Choi, J. S. Yu, H. D. Jung, S. K, Yang, J. S. Ma, S. R, Cho, S. H, Lee, A. G. Choo, 
+"Dark current improvements on SL-APD," Japan-Korea Joint Workshop on Microwave Photonics, Icho-
+kaikan, Osaka University, Osaka, 2 - 3 February 2000., pp. 57-60, 2000. 
+J. H. Choi, H. M. Bang, N. J. Song, J. W. Burm, "A high transimpedance preamplifier IC for 2.5 Gb/s 
+fiber optic communications," Photonics Conference 2000, pp. 623-624, 2000. 
+J. Choi, H. Bang, S. Oh, N. Song, J. Burm, "A transimpedance amplifier for 2.5Gb/s optical 
+communications using 0.5mm ion-implanted MESFETs," Korea Japan Joint Workshop on Microwave-
+Photonics, pp. 79-82, 2001. 
+Sang-Do Oh, Nam Jin Song, Soo-Woong Lee, Jin Wook Burm, Sung-Bum Bae, Jung-Hee Lee, 
+"Fabrication of GaN based Transistors," 2nd MINT Millimeter-wave International Symposium, pp. 137-
+140, 2001. 
+J. H. Choi, J. Burm, "GaAs Transimpedance amplifiers for 2.5Gb/s fiber optic communications," IC 
+Design Education Center (IDEC) Conference, 2001. 
+J.M. Beak, H.M. Bang, S.K. Yang, K.S. Park, S.Y. Cho, K.S. Oh, M.D. Kim, J. Burm, D.H. Jang, T.I. 
+Kim,"10-Gb/s Highly Sensitive Optical Receivers ," conference on optoelectronics and optical 
+communication (2001), pp. 161-162, 2001. 
+Soowoong Lee, Namjin Song, Jinwook Burm, Chul An,"4H-SiC MESFET Large Signal Modeling Using 
+Modified Materka Model," ICSCRM 2001, pp. 477-478, 2001. 
+H Jang, J. Burm et al.,"High Performance Digital Recess 0.25μm AlGaAs/In0.2Ga0.8As PHEMT," 2nd 
+MINT Millimeter-wave International Symposium, pp. 29-35, 2002. 
+B. K. Kim, J. Burm, C. An, "The thermal stability of Ni and Ni/Au ohmic contacts to n-type 4H-SiC," 
+12th International Conference on Semiconducting and Insulating Materials, 2002. SIMC-XII-2002, pp. 97-
+101, 2002. 
+Choong sik Ryu, Do hyung Kim, and J. Burm,"A 3GHz CMOS Dual 128/129 Modulus Prescaler," IDEC 
+Conference 2002, pp. 27-28, 2002. 
+Nam Jin Song, Dohyong Kim, Jinwook Burm, Jin Soo Park,"A 5.25 GHz Low DC Power Cascode-
+Feedback SiGe LNA," SOC Conference 2002, pp. , 2002. 
+J. Burm, J. Y. Choi , S. R. Cho*, S. K. Yang*, M. D. Kim*, J. M. Baek*, K. S. Oh*, A. G. Choo*, and D. H. 
+Jang* ,"Two Dimensional Gain Scan Analysis in Planar-type InGaAs/InP based Avalanche Photodiodes 
+(APDs) using Gaussian Beam Fitting," Japan-Korea Joint Workshop on Microwave Photonics, 1999. 
+Dohyong Kim, Nam Jin Song, Jinwook Burm, and Jin Soo Park,"SiGe Front-end Receiver Components 
+for 802.11a WLAN Applications," 2003 MINT International Symposium, pp. , 2003. 
+
+-----
+S. Yang, H. Kang, B. Jeon, D.Y. Rhee, A.-G. Choo, T. Kim, J. Burm,,"A Reflecting Mirror Facet (RMF) 
+Photodiode Suitable for Surface-Mountable Optical Package," International Symposium on Compound 
+Semiconductors (ISCS 2003), pp. 191 - 192, 2003. 
+Nam Jin Song, Dohyong Kim, Jinwook Burm, Jin Soo Park, "5.25 GHz SiGe Front-end Components for 
+IEEE 802.11a WLAN Applications," SOC Design Conference 2003, pp. 750-753, 2003. 
+Jee-Yul Kim, Seung-Hoon Back, Jaekwon Kim, Nam Jin Song, Jinwook Burm, "Improved Breakdown 
+Voltage and Output Conductance Characteristics of GaAs PHEMTs using Composite Gate Fabricated by 
+Digital Recess Method," International Joint Conference of the 6th Topical Symposium on Millimeter 
+Waves, pp. 197-200, 2004. 
+Nam Jin Song, Dohyong Kim, Jinwook Burm, Jin Soo Park, "SiGe Front-end Transceiver Components 
+for 802.11a WLAN Applications," 2004 IEEE RFIC Symposium, pp. 527-530, 2004. 
+J.M. Baek, H.S. Seo, B.O. Jeon, H.Y. Kang, D.Y. Rhee, S.K. Yang, M.K. Park, J.W. Burm, D.H. Jang, and 
+T.I. Kim,"High Sensitive 10Gb/s APD Optical Receiver with Low Cost TO-Can Type Package," ECOC 
+2004. 
+Hwan-Seok Yeo, Jinwook Burm, Seong-Il Kim, Byoung-Gue Min, and Chul-Won Ju,"Comparative 
+Study of Static and Dynamic D-type Flip-Flop Circuits using InP HBT's," 2004 IEEE AP-ASIC (Asia-
+Pacific Conference on Advanced System Integrated Circuits), pp. 352-355, 2004. 
+Nam Jin Song, Dohyong Kim, Jinwook Burm, and Jin Soo Park,"5 GHz SiGe Front-end Components for 
+WLAN Applications," 2004 IEEE AP-ASIC (Asia-Pacific Conference on Advanced System Integrated 
+Circuits), pp. 362-365, 2004. 
+Junghoon Sung, Jinwook Burm,"High Speed InP HBT Driver IC for Laser Modulation," ICEIC 2004 (the 
+international conference on electronics, informations, and communications), pp. 883-884, 2004. 
+Junghoon  Sung, Jinwook Burm, Seong-Il Kim, Byoung-Gue Min, Chul-Won Ju,"High Speed Driver IC 
+for Laser Modulation In InP HBT Technology," 2004 International SoC Design Conference, pp. 87-89, 
+2004. 
+Bong-sub Song, Jinwook Burm, Byoung-Gue Min, Kyung-Ho Lee, Chul-Won Ju,"High-data rate 2:1 
+Multiplexer In InP HBT Technology," 2004 International SoC Design Conference, pp. 506-509, 2004. 
+Chang-gyu Choi, Jinwook Burm, Byoung-Gue Min, Kyung-Ho Lee, Chul-Won Ju, "40 Gb/s InP HBT 1:2 
+Demultiplexer Using Dynamic D-type Flip-Flop," 2004 International SoC Design Conference, pp. 522-
+524, 2004. 
+Hwan-Seok Yeo, Jinwook Burm, Seong-Il Kim, Byoung-Gue Min, Chul-Won Ju, "Comparative Study of 
+Static and Dynamic D-type Flip-Flop Circuits using InP HBT’s," 2004 International SoC Design 
+Conference, pp. 525-528, 2004. 
+
+-----
+J. Kim, H. Yoon, J. Park, and J. Burm, "A Method to Improve Isolation for RFID Applications," European 
+Microwave Conference, pp. 1827-1830, 2005 
+ 
+
+-----

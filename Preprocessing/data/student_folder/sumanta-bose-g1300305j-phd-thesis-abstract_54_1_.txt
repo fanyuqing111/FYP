@@ -1,0 +1,63 @@
+SEMICONDUCTOR QUANTUM NANOSTRUCTURES
+FOR OPTOELECTRONIC APPLICATIONS
+Sumanta Bose
+June 13, 2017
+Semiconductor quantum nanostructures, such as 0D quantum dots (QDs), 1D nanorods and
+2D nanoplatelets (NPLs), quantum rings (QRs) and quantum wells (QWs) exhibit unique quantum
+mechanical and optoelectronic properties due to spatial confinement of excitons in one or more di-
+mensions (∼10−9 m). They have received increasing research interest in recent years owing to their
+intriguing fundamental properties that can be leveraged for potential applications in optoelectronic
+and display devices as cost-effective and quantum-efficient luminophores. They have been success-
+fully used to implement and design light-emitting diodes (LEDs), lasers, photodetectors, solar cells,
+biomedical imagers, etc. This is owing to their morphological bandgap tunability, fast fluorescence
+lifetime and unique optical characteristics supporting tunable pure-color or wide spectral emission.
+Among the wide range of available and newly studied semiconductor quantum nanostructures,
+firstly (i) NPLs and QRs of II-VI materials and alloys thereof, and secondly (ii) QDs and QWs of
+III-V dilute nitride/bismide alloy materials are two families of nanostructures that have emerged as
+very promising candidates for novel semiconductor device design applications.
+In this thesis, we report studies on the aforementioned two families of semiconductor quantum
+nanostructures. The first part of the thesis focuses on the study of II-VI (CdSe and CdS) NPLs
+and optoelectronic properties thereof under varying environmental conditions such as geometri-
+cal dimensions, temperature, material composition, topology and optical polarization. NPLs are a
+unique class of atomically flat quasi-2D quantum confined nanocrystals, often synthesized using
+wide bandgap II-VI materials, having well-defined thicknesses of several monolayers (MLs). Their
+sizes enable them to be colloidally suspended in solution. Recent advancements in colloidal chem-
+istry has led to the efficient synthesis of high quality single crystal NPL samples having reduced
+nonradiative recombination paths and enhanced optical properties. They exhibit strong 1D confine-
+ment as their thickness is very small compared to the Bohr radius. NPLs possess the wide bandgap
+tunability of QDs and the short exciton decay time of QWs bringing together advantageous features
+from two domains. Compared to QDs, they typically have narrower emission spectra, reduced in-
+homogeneous broadening and suppressed Auger recombination.
+Furthermore, the second part of the thesis focuses on the study of quaternary dilute nitride/bismide
+III-V (InNBiAs, InNBiSb and GaNBiAs) QDs and QWs for their optoelectronic properties and ap-
+plication. Dilute nitride/bismide doped III-V alloys promises increased engineering flexibility in
+the design of advanced compound semiconductor heterostructure devices. Increased control over
+key device parameters such as lattice constant, bandgap and band offsets opens the door to im-
+proved performance for a wide range of electronic and optoelectronic devices. In dilute nitride
+alloys, the resonant states couples with the conduction band (CB) states and produces the band an-
+ticrossing (BAC) effects. This causes the CB band edge to get lowered compared to the unalloyed
+case. Similarly, for dilute bismide alloys, the valence band (VB) edge is lifted due to the valence
+band anticrossing (VBAC) resulting from coupling between its resonant states and VB states. In
+addition, the spin-orbital-splitting energy can exceed the bandgap in dilute bismuth alloy which
+can inhibit the Auger recombination, making it an excellent candidate for optoelectronic device
+applications, particularly suited for optical fiber telecommunication applications.
+1
+
+-----
+The core machinery of our modeling and simulation study of semiconductor quantum nanos-
+tructures uses an effective-mass envelope function theory based on the 8-band and 16-band k·p
+models with valence force field considerations. The optical properties calculations are based on the
+density-matrix equation and takes into consideration the excitonic effects with intraband scattering
+and temperature effects. For each of the nanostructure studied, we have performed a comprehensive
+study on a range of optoelectronic characteristics such as the strain tensor profiles, excitonic tran-
+sition energies, optical transition matrix elements, Fermi factors, spatial change densities, electron-
+hole wavefunctions, electronic bandstructure/ band lineups, band-mixing probabilities, photolu-
+minescence emission spectra, optical gain/ absorption spectra, maximum and differential gains and
+transparency properties. Our findings have important implications for the application of II-VI NPLs
+and QRs; and dilute nitride/bismide III-V QDs and QWs in optoelectronic devices, such as LEDs,
+lasers, solar cells etc. They serve as an enabler for designing experiments and predicting opto-
+electronic characteristics in tandem with measurements and fabrication and can be used to tune
+reiterations parameters to reduce time and cost of device production.
+2
+
+-----

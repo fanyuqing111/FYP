@@ -1,0 +1,102 @@
+UAV Swarming with Collision Avoidance and Communication Constraints 
+Abstract 
+Collision avoidance is critical for the safe and reliable operation of swarms of UAVs (Unmanned 
+Aerial Vehicles). Numerous works have already been reported in literature. Most of these methods 
+can be grouped into three categories: repulsion, partition-based, and trajectory replanning.  In this 
+thesis we seek to further develop some of these existing methods with consideration for special 
+scenarios such as intruder UAV interception and dense UAV traffic coordination, which is a 
+physical constraint often omitted in the design of swarm algorithms. Collision avoidance can be 
+simple to achieve. The challenge is in ensuring that the swarm scenario objectives are not 
+compromised. 
+The intruder interception problem using UAVs is an interesting problem on its own but also poses 
+a challenge for collision avoidance when multiple agents and intruders are considered. The 
+accessibility of UAV technology motivates us to design a non-destructive method for stopping 
+UAVs that intrude into restricted areas by using our own UAVs to intercept and capture them. For 
+interception, we propose a proportional navigation guidance law, on a double integrator model, for 
+a quadrotor UAV with velocity feedback that globally guarantees interception with non-zero 
+hitting velocity within finite time. Our novel solution to the collision avoidance problem specific 
+to the guidance law is to apply repulsion to the line-of-sight vectors between pairs of agents and 
+intruders. We demonstrate our method’s effectiveness with both simulations and a semi-physical 
+experiment.  
+The experiment results motivate us to consider communication constraints for the subsequent 
+work. Repulsion-based avoidance is unsuitable where other agents’ states are obtained via limited 
+communication. We propose instead a significantly modified version of the partition-based 
+velocity obstacle method combined with an event-triggered communication protocol. To limit the 
+scope, we consider the two-dimensional single integrator model and the scenario where agents are 
+tasked with moving to fixed target positions while avoiding collision. Agents are assumed to be 
+connected by a mobile ad hoc network allowing them to communicate with any other agent in the 
+swarm. However, communication for each agent is limited to only one other agent at a time. The 
+protocol determines for each agent when to communicate and to whom and reduces the rate of 
+communication. The method’s effectiveness is shown with simulations. 
+
+-----
+We further extend the work to overcome its limitation on agent numbers and spatial configuration 
+by designing a hybrid collision avoidance method combining the spatial partition-based Voronoi 
+Cell and Velocity Obstacle methods. In addition, to overcome deadlocks and livelocks, we 
+introduce a priority system for distributed coordination by having agent pairs make mutual 
+decisions based on each agent's conditional priority. A similar event trigger-based communication 
+protocol is presented. Our method’s effectiveness is demonstrated in multiple simulations 
+involving up to 100 agents. 
+Finally, to apply the single integrator collision avoidance methods to the constrained double 
+integrator system, we develop a trajectory buffering method using the input partition-based Barrier 
+Certificate collision avoidance method. We feed a virtual single-integrator agent to the previous 
+hybrid collision avoidance method and use the provided input and position as nominal states to be 
+tracked by the actual UAV. Its relative position then determines the virtual agent’s progress along 
+the nominal input direction. The barrier certificate method is used to ensure that the agent never 
+exceeds a preset distance from the nominal position. 
+The methods we present in this work are aimed at swarms of quadcopter UAVs and are primarily 
+validated by simulations. Assumptions on the dynamics and communication system are based on 
+literature and current technology. The methods are not necessarily limited to the scenarios 
+discussed and recommendations for future work are discussed. 
+ 
+ 
+
+-----
+Publication list  
+Presented in thesis. Accepted subject to minor revisions 
+[1] 
+A. H. Zaini and L. Xie, "Distributed Drone Traffic Coordination using Triggered 
+Communication," Unmanned Systems. 
+ 
+Publications presented in thesis 
+[2] 
+A. H. Zaini and L. Xie, "A Hybrid Collision Avoidance Algorithm for Multi-Agent Traffic 
+Coordination Under Limited Communication," in 2018 15th International Conference on 
+Control, Automation, Robotics and Vision (ICARCV), 2018, pp. 1879-1884. 
+[3] 
+A. H. Zaini and L. Xie, "Triggered Communication for Reciprocal Collision Avoidance in 
+Multi-agent Navigation," in 2018 14th IEEE International Conference on Control and 
+Automation (ICCA), 2018: IEEE. 
+[4] 
+B. Zhu, A. H. B. Zaini, and L. Xie, "Distributed guidance for interception by using multiple 
+rotary-wing unmanned aerial vehicles," IEEE Transactions on Industrial Electronics, vol. 
+64, no. 7, pp. 5648-5656, 2017. 
+[5] 
+B. Zhu, A. H. B. Zaini, L. Xie, and G. Bi, "Distributed guidance for interception by using 
+multiple rotary-wing unmanned aerial vehicles," in 2016 IEEE International Conference 
+on Advanced Intelligent Mechatronics (AIM), 2016, pp. 1034-1039. 
+[6] 
+B. Zhu, J. Xu, A. H. B. Zaini, and L. Xie, "A three-dimensional integrated guidance law 
+for rotary UAV interception," in 2016 12th IEEE International Conference on Control and 
+Automation (ICCA), 2016, pp. 726-731: IEEE. 
+ 
+Other UAV related works 
+[7] 
+T.-M. Nguyen, A. H. Zaini, C. Wang, K. Guo, and L. Xie, "Robust Target-relative 
+Localization with Ultra-Wideband Ranging and Communication," in 2018 IEEE 
+International Conference on Robotics and Automation (ICRA), 2018, pp. 2312-2319: 
+IEEE. 
+
+-----
+[8] 
+T. Minh Nguyen, A. Hanif Zaini, K. Guo, and L. Xie, "An Ultra-Wideband-based Multi-
+UAV Localization System in GPS-denied Environments," presented at the International 
+Micro Air Vehicle Conference and Competition 2016, Bejing, China, 2016.  
+[9] 
+K. Guo et al., "Ultra-wideband-based localization for quadcopter navigation," Unmanned 
+Systems, vol. 4, no. 01, pp. 23-34, 2016.  
+ 
+ 
+ 
+
+-----

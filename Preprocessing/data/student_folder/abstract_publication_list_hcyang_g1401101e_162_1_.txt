@@ -1,0 +1,90 @@
+i 
+ 
+ABSTRACT 
+ 
+Methods for Resolving the Limitations of Degradation Diagnosis 
+ for SiC Power MOSFET 
+ 
+by 
+ 
+Hui-Chen Yang 
+ 
+Modern society is in quest of more electric power in various sectors. The rising power 
+demand has driven the development trend of power electronic converters toward higher 
+power density. Power electronic converters, however, are subject to continuous electrical 
+and thermal strains that threatened their reliability. Any unexpected failure can incur 
+unnecessary economic loss or even worse, safety hazards. Semiconductor power devices 
+are the backbones in a power electronic converter, and yet, they are recognized as one of 
+the most failure-prone components. Therefore, early detection of a power device’s 
+incipient abnormality due to either aging, electrical stress or defect is crucial. 
+Degradation diagnosis is a process of identifying an evolving damage before it develop 
+into destructive failure. A variety of degradation diagnosis techniques have been proposed 
+in earlier works. Among them, the time-domain on-state characteristics and thermal path 
+integrity are the most frequently chosen properties as indications of device wear-out. As 
+the measureable electrical variations associated degradation are typically subtle, the 
+measurements are susceptible to system’s noise and loading conditions. Besides, as power 
+applications are pursuing higher switching frequency to gain power density, the 
+measurement system are demanding for higher bandwidth and could reach its data rate 
+
+-----
+ii 
+ 
+bottleneck. For reliable and accurate prediction of developing faults, these challenges 
+must be addressed.     
+In this thesis, silicon carbide (SiC) MOSFET is chosen as the device for degradation 
+diagnosis study, as it has shown great promise for high power density converter (HPDC) 
+design owing to the excellent material property for high-frequency and high-temperature 
+operation. The practical reliability issues responsible for power device degradation and 
+challenges in degradation diagnosis are investigated. Special solutions are proposed to 
+counter these challenges. Firstly, a voltage monitoring circuit with built-in isolation is 
+proposed and experimentally verified up to 100 kHz. The embedded isolation eliminates 
+EMI influence on the measured data, allows direct processing of the measured voltage 
+information, and relaxes the data rate bottleneck of the data transmission interface of a 
+measurement system. Secondly, a non-intrusive measurement method that measures the 
+on-state impedance of a power device in frequency-domain for degradation diagnosis is 
+proposed. The method overcomes the shortcomings of the conventional time-domain 
+methods, which are easily affected by system’s noise and may have difficulties on 
+detecting subtle electrical changes associated with reliability issues. Finally, a 
+temperature sensor-less method is proposed to estimate power MOSFET’s junction 
+temperature. It has experimentally demonstrated that by means of device saturation 
+current (Id,sat) measurement, junction temperature can be estimated either by Id,sat, √𝐼𝑑,𝑠𝑎𝑡, 
+or the extracted threshold voltage. 
+ 
+ 
+ 
+ 
+ 
+
+-----
+iii 
+ 
+AUTHOR’S PUBLICATIONS 
+ 
+[1] 
+H.-C. Yang, K. Y. See, R. Simanjorang and K. R. Li, “Offline health diagnosis of 
+power device based on non-intrusive inductively coupled approach,” IEEE J. 
+Emerg. 
+Sel. 
+Topics 
+Power 
+Electron., 
+accepted 
+for 
+publication. 
+DOI:10.1109/JESTPE.2018.2811753. 
+[2] 
+H.-C. Yang, R. Simanjorang and K. Y. See, “A method for junction temperature 
+estimation utilizing turn-on saturation current for SiC MOSFET,” Proc. Int. Power 
+Electron. Conf. (IPEC-Niigata 2018 -ECCE-Asia), Niigata, Japan, May. 2018, pp. 
+2296–2300. 
+[3] 
+H.-C. Yang, K. Y. See, K. J. Tseng and R. Simanjorang, “Real-time integratable 
+isolated voltage monitoring unit of semiconductor power switch to improve power 
+converter reliability,” Proc. IEEE Appl. Power Electron. Conf. and Expo. (APEC), 
+Tampa, FL, USA, Mar. 2017, pp. 1614–1619. 
+ 
+ 
+   
+ 
+
+-----

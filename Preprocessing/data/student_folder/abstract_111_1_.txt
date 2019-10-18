@@ -1,0 +1,29 @@
+ABSTRACT 
+ 
+In this PhD study, a new approach to implement integrated capacitors with 
+superb capacitance density, termed “three-dimensional (3D) embedded 
+capacitor” is proposed. It is realized by embedding metal-insulator-metal 
+(MIM) layers onto the trenches of through-silicon-vias (TSVs) prior to 
+filling. The difference between conventional MIM trench capacitors and 
+3D embedded capacitors is shown in Fig. 1. An ultrahigh capacitance 
+density of 5,621.8 nF/mm2 is envisioned according to our model, which is 
+~13×
+ of 440 nF/mm2 from conventional trench capacitors with the same 
+design parameters. Two sets of test vehicles were designed, fabricated and 
+characterized for assessments of structure integrity and electrical 
+performance. Scanning electron microscope (SEM), transmission electron 
+microscope (TEM) and energy-dispersive X-ray spectroscopy (EDX) 
+analysis results show good step coverage and stoichiometry of the MIM 
+layers. Capacitance density up to 3,856.4 nF/mm2 has been achieved for 
+early prototypes with MIM layers formed by atomic layer deposition 
+(ALD). Leakage current density as low as 1.61×
+10-7 A/cm2 at 4.3V and 
+breakdown voltage greater than 9.5 V were measured for a sample with 
+capacitance density of 3,776.6 nF/mm2. 
+ 
+ 
+(a)                                              (b) 
+Fig. 1.  (a) Stand-alone MIM trench capacitors with TSVs. (b) 3D 
+embedded capacitors with TSVs. 
+
+-----

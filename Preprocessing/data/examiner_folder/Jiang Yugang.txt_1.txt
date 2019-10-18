@@ -1,0 +1,199 @@
+Search...
+中文
+Home
+About us
+People
+Education
+Research
+Coo
+Yu-gang Jiang
+Yu-gang Jiang
+Associate Professor，Doctoral Advisor
+Tel: 86-21-51355532
+Email: ygj@fudan.edu.cn
+Address:
+Room 413-5, Computer Building, Zhangjiang Campus, Fudan University, 201203 
+Education
+2009, Ph.D. in Computer Science, City University of Hong Kong 
+Research Interests
+Large-scale video/image/audio data analysis and retrieval, multimedia, computer vision, social networks, pattern recognition.
+Personal Homepage
+Yu-gang Jiang
+Shortcuts
+Fudan Degree Verification
+Fudan International Students Office
+Fudan University
+©  
+2016 School of Science and Technology, Fudan 
+University Design By Premium  
+Wordpress Themes Address：No.825, Zhangheng 
+Road, Shanghai 
+Tell：+86-21-51355555 Fax：+86-21-51355558 
+Emall：cs_school@fudan.edu.cn  
+School Of Computer Science 
+Fudan University
+Sweep To Understand
+Page 1 of 1
+Yu-gang Jiang _ School of Science and Technology, Fudan University
+21/11/2016
+http://www.cs.fudan.edu.cn/en/?page_id=1841
+
+-----
+Yu-Gang Jiang
+Professor
+School of Computer Science
+Fudan University
+Shanghai
+ygj AT fudan.edu.cn
+Home
+Publications
+BigVid Lab
+Teaching & Talks
+Bio
+My research is in the areas of multimedia content analysis and computer vision. I lead the BigVid Lab, conducting research on all aspects of extracting high-
+level information from big video data, such as video event recognition, object/scene recognition and large-scale visual search. 
+I participate regularly in international benchmark competitions. At the annual U.S. NIST TREC video retrieval evaluation (TRECVID), I have designed a few best-
+performing systems (among many submissions worldwide) in 2008 video concept detection task and 2010 multimedia event detection task. I am also one of 
+the organizers of the THUMOS Challenge on Large Scale Action Recognition. 
+My publications and citations on Google Scholar can be found here.
+[06/2016] NEW! Our work on image search with hash codes received the 2016 IEEE Trans. on Multimedia Prize Paper Award Honorable Mention.
+[02/2016] Due to many requests, researchers interested in getting the videos of the CCV dataset can fill up this form and send to me for a link.
+[02/2015] We have released FCVID, one of the largest public Web video datasets with manual annotations (91,223 videos, 239 categories).
+[11/2014] Our paper received best poster award at ACM Multimedia 2014.
+[08/2014] The website of ACM ICMR 2015 (June 23-26, Shanghai, China) is online.
+[08/2014] We have released VCDB, the largest public dataset with manually annotated real partial video copies. 
+[08/2014] The workshop of the 2nd THUMOS Action Recognition Challenge will be held in conjunction with ECCV 2014. 
+[01/2014] The violent scenes detection dataset used in MediaEval 2013 is available online, jointly provided by Technicolor, Fudan, and UIT Vietnam.
+dataset / code
+FCVID: Fudan-Columbia Video Dataset
+91,223 Web videos annotated manually according to 239 categories
+VCDB: a large-scale database for partial copy detection in videos
+ECCV 2014 paper
+Dataset for predicting video emotions
+AAAI 2014 paper
+Dataset for predicting video interestingness
+AAAI 2013 paper
+Part-level attributes for visual recognition (source code)
+ECCV 2012 paper
+CCV: a benchmark dataset for consumer video analysis
+Note: To obtain a copy of the videos in CCV, please fill up this form and send to me for a link. 
+Domain adaptive semantic diffusion (DASD) for context-based visual annotation refinement
+ICCV 2009 paper | source code
+VIREO-374: keypoint-based LSCOM semantic concept detectors see who has used it
+CU-VIREO374: fusing Columbia374 and VIREO374 for large scale semantic concept detection see who has used it
+Selected other recent projects
+Query-adaptive image search with hash codes
+IEEE TMM 2013 paper
+Violent scene detection in movies
+Page 1 of 2
+Prof. Yu-Gang Jiang | Home Page
+21/11/2016
+http://www.yugangjiang.info/index.html
+
+-----
+Publications
+  sorted by year | by topic | by citations on Google Scholar
+2016
+• Zuxuan Wu, Yu-Gang Jiang, Xi Wang, Hao Ye, Xiangyang Xue
+Multi-Stream Multi-Class Fusion of Deep Networks for Video Classification [pdf] [bibtex]
+ACM Multimedia (ACM MM), Amsterdam, The Netherlands, Oct. 2016. (Full Paper) 
+• Qi Dai, Jianguo Li, Jingdong Wang, Yu-Gang Jiang
+Binary Optimized Hashing [pdf] [bibtex]
+ACM Multimedia (ACM MM), Amsterdam, The Netherlands, Oct. 2016. (Full Paper) 
+• Chen Chen, Zuxuan Wu, Yu-Gang Jiang
+Emotion in Context: Deep Semantic Feature Fusion for Video Emotion Recognition [pdf]
+[bibtex]
+ACM Multimedia (ACM MM), Amsterdam, The Netherlands, Oct. 2016. (Short Paper) 
+• Yongqing Sun, Zuxuan Wu, Xi Wang, Hiroyuki Arai, Tetsuya Kinebuchi, Yu-Gang Jiang
+Exploiting Objects with LSTMs for Video Categorization [pdf] [bibtex]
+ACM Multimedia (ACM MM), Amsterdam, The Netherlands, Oct. 2016. (Short Paper) 
+• Zuxuan Wu, Yanwei Fu, Yu-Gang Jiang, Leonid Sigal
+Harnessing Object and Scene Semantics for Large-Scale Video Understanding [pdf] [bibtex]
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Las Vegas, USA, 2016. 
+• Xi Wang, Zhenfeng Sun, Wenqiang Zhang, Yu Zhou, Yu-Gang Jiang
+Matching User Photos to Online Products with Robust Deep Features [pdf] [bibtex]
+ACM International Conference on Multimedia Retrieval (ICMR), New York, USA, June 2016. (Full 
+Paper) 
+• Baohan Xu, Yanwei Fu, Yu-Gang Jiang, Boyang Li, Leonid Sigal
+Video Emotion Recognition with Transferred Deep Feature Encodings [pdf] [bibtex]
+ACM International Conference on Multimedia Retrieval (ICMR), New York, USA, June 2016. (Full 
+Paper) 
+• Rui-Wei Zhao, Jianguo Li, Yurong Chen, Jia-Ming Liu, Yu-Gang Jiang, Xiangyang Xue
+Regional Gating Neural Networks for Multi-Label Image Classification [pdf] [bibtex]
+British Machine Vision Conference (BMVC), York, UK, 2016. 
+• Linbo Qiao, Tianyi Lin, Yu-Gang Jiang, Fan Yang, Wei Liu, Xicheng Lu
+On Stochastic Primal-Dual Hybrid Gradient Approach for Compositely Regularized 
+Minimization [pdf] [bibtex]
+European Conference on Artificial Intelligence (ECAI), The Hague, The Netherlands, 2016. 
+• Haroon Idrees, Amir R. Zamir, Yu-Gang Jiang, Alex Gorban, Ivan Laptev, Rahul Sukthankar, Mubarak 
+Shah
+The THUMOS Challenge on Action Recognition for Videos "in the Wild" [pdf] [bibtex]
+Computer Vision and Image Understanding (CVIU), invited paper, under review. 
+• Zuxuan Wu, Ting Yao, Yanwei Fu, Yu-Gang Jiang
+Deep Learning for Video Classification and Captioning [pdf] [bibtex]
+arXiv preprint arXiv:1609.06782, invited survey, to appear. 
+• Yu-Gang Jiang, Jiajun Wang, Qiang Wang, Wei Liu, Chong-Wah Ngo
+Hierarchical Visualization of Video Search Results for Topic-based Browsing [pdf] [bibtex]
+IEEE Transactions on Multimedia, accepted. 
+Page 1 of 8
+Publications by Year | Prof. Yu-Gang Jiang
+21/11/2016
+http://www.yugangjiang.info/pub-by-year.html
+
+-----
+• Xiangbo Shu, Jinhui Tang, Guo-Jun Qi, Zechao Li, Yu-Gang Jiang, Shuicheng Yan
+Image Classification with Tailored Fine-grained Dictionaries [pdf] [bibtex]
+IEEE Transactions on Circuits and Systems for Video Technology, accepted. 
+• Yu-Gang Jiang, Jiajun Wang
+Partial Copy Detection in Videos: A Benchmark and an Evaluation of Popular Methods
+[pdf] [bibtex]
+IEEE Transactions on Big Data, vol. 2, issue 1, pp. 32-42, 2016. 
+• Baohan Xu, Xi Wang, Yu-Gang Jiang
+Fast Summarization of User-Generated Videos: Exploiting Semantic, Emotional and 
+Quality Clues [pdf] [bibtex]
+IEEE Multimedia, pp. 23-33, July-September 2016. 
+• Shi Zhong, Jian Pu, Yu-Gang Jiang, Rui Feng, Xiangyang Xue
+Flexible Multi-Task Learning with Latent Task Grouping [pdf] [bibtex]
+Neurocomputing, vol. 189, pp. 179-188, 2016. 
+• Jian Pu, Jun Wang, Yu-Gang Jiang, Xiangyang Xue
+Multiple Task Learning with Flexible Structure Regularization [pdf] [bibtex]
+Neurocomputing, vol. 177, issue 2, pp. 242-256, 2016. 
+2015
+• Zuxuan Wu, Xi Wang, Yu-Gang Jiang, Hao Ye, Xiangyang Xue
+Modeling Spatial-Temporal Clues in a Hybrid Deep Learning Framework for Video 
+Classification [pdf] [bibtex]
+ACM Multimedia (ACM MM), Brisbane, Australia, Oct. 2015. (Full Paper) 
+• Yu-Gang Jiang, Zuxuan Wu, Jun Wang, Xiangyang Xue, Shih-Fu Chang
+Exploiting Feature and Class Relationships in Video Categorization with Regularized Deep 
+Neural Networks [pdf] [bibtex]
+arXiv preprint arXiv:1502.07209. 
+• Hao Ye, Zuxuan Wu, Rui-Wei Zhao, Xi Wang, Yu-Gang Jiang, Xiangyang Xue
+Evaluating Two-Stream CNN for Video Classification [pdf] [bibtex]
+ACM International Conference on Multimedia Retrieval (ICMR), Shanghai, China, June 2015. 
+• Qi Dai, Jianguo Li, Jun Wang, Yurong Chen, Yu-Gang Jiang
+Optimal Bayesian Hashing for Efficient Face Recognition [pdf] [bibtex]
+The 24th International Joint Conference on Artificial Intelligence (IJCAI), Buenos Aires, Argentina, Jul. 
+2015. 
+• Weiwei Shen, Jun Wang, Yu-Gang Jiang, Hongyuan Zha
+Portfolio Choices with Orthogonal Bandit Learning [pdf] [bibtex]
+The 24th International Joint Conference on Artificial Intelligence (IJCAI), Buenos Aires, Argentina, Jul. 
+2015. 
+• Yu-Gang Jiang
+Categorizing Big Video Data on the Web: Challenges and Opportunities [pdf] [bibtex]
+IEEE International Conference on Multimedia Big Data (IEEE BigMM), Beijing, China, April 2015. 
+IEEE & ACM BigMM Summit 2015, Invited Position Paper. 
+• Qi Dai, Rui-Wei Zhao, Zuxuan Wu, Xi Wang, Zichen Gu, Wenhai Wu, Yu-Gang Jiang
+Fudan-Huawei at MediaEval 2015: Detecting Violent Scenes and Affective Impact in 
+Movies with Deep Learning [pdf] [bibtex]
+MediaEval 2015 Workshop, Wurzen, Germany, Sept. 2015. 
+(top performance)
+• Zuxuan Wu, Hao Ye, Yu-Gang Jiang, Xiangyang Xue
+Fudan at TRECVID 2015: Adaptive Feature Fusion for Multimedia Event Detection in 
+Videos [pdf] [bibtex]
+NIST TRECVID Workshop (TRECVID), Gaithersburg, USA, Nov. 2015.
+Page 2 of 8
+Publications by Year | Prof. Yu-Gang Jiang
+21/11/2016
+http://www.yugangjiang.info/pub-by-year.html
+
+-----

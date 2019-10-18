@@ -1,0 +1,122 @@
+A General Probabilistic Framework of 3D Map Fusion
+for Collaborative Robots
+YUE YUFENG
+School of Electrical & Electronic Engineering
+A thesis submitted to the Nanyang Technological University
+in fulfillment of the requirements for the degree of
+Doctor of Philosophy
+2018
+
+-----
+2
+Abstract
+Utilizing a group of robots for environmental mapping, inspection or surveillance tasks
+have found significant attention over the last years due to the inherent advantages of ro-
+bustness and efficiency. Due to limited sensing capabilities and computational power,
+each robot only has partial information of the surroundings. To main a comprehensive of
+the environment under limited communication bandwidth, fusing local 3D maps gener-
+ated by individual robots to a globally consistent map is a critical challenge in multi-robot
+mapping missions. Most of the existing approaches are subject to certain limitations such
+as heterogeneous sensors, accurate matching, probabilistic merging, and inconsistency
+detection. This thesis proposes a systematic multi-robot mapping framework by taking
+those challenges into account.
+First of all, the thesis proposes 3D volumetric map fusion algorithm Occupancy iterative
+closet point (OICP) by extending the well known iterative closest point (ICP) algorithm.
+The OICP algorithm combines occupancy probability in conjunction with surface infor-
+mation to register point cloud extracted from 3D occupancy probabilistic map, which
+tends to match voxels with similar occupancy probability. In addition, an environment
+measurement model is applied to evaluate the relative transformation and map dissimilar-
+ities are integrated using relative entropy filter. The efficiency of the proposed algorithm is
+evaluated using maps generated from both simulated and real environments and is shown
+to generate more consistent global maps.
+Secondly, a hierarchical probabilistic fusion framework for matching and merging of 3D
+NANYANG TECHNOLOGICAL UNIVERSITY
+SINGAPORE
+
+-----
+3
+occupancy maps is studied. Existing approaches have relied on point set registration based
+algorithms for map matching. However, they have not provided a comprehensive analy-
+sis of the integrated map fusion system on map uncertainty modeling, probabilistic map
+matching, transformation evaluation and accurate map merging. In addition, high level
+geometry features should be incorporated if available. The thesis addresses these issues
+by proposing a novel hierarchical probabilistic map fusion framework for 3D occupancy
+grid maps. Before the fusion of maps, the map features and their uncertainties are explic-
+itly modeled and integrated. For map matching, a two-level Probabilistic Map Matching
+(PMM) algorithm is developed to include high-level structural and low-level voxel fea-
+tures. The relative transformation output from PMM algorithm is evaluated based on the
+Mahalanobis distance and the relative entropy filter is used to integrate the map dissimi-
+larities. The results verify the accuracy and efficiency of the proposed 3D occupancy map
+fusion approach, and exhibit the improved convergence in these scenarios.
+Finally, a distributed probabilistic framework for multi-robot mapping is proposed. There
+have been few works on real-time 3D map fusion with different map data type, espe-
+cially merging the sparse map with the dense map. In the thesis, a general probabilistic
+framework is proposed to address the integrated map fusion problem, which is indepen-
+dent of sensor types and SLAM algorithms. The paper formulates the joint probability
+of the global map and the set of relative transformations between the local maps. In par-
+ticular, we show that a Bayes rule based model separates the problem into an individual
+robot map matching problem and a multi-robot map merging problem. This makes the
+problem solvable for differing sensor types on the different platforms. The multiple data
+association method between those different types of maps provides deep insights into
+matching maps with the different physical and geometrical properties. The thesis also
+provides a distributed communication strategy to share map information among robots.
+The proposed approach is evaluated in real-time experiments in various environments
+with heterogeneous sensors, which shows its robustness and generality in 3D map fusion
+for multi-robot mapping missions.
+NANYANG TECHNOLOGICAL UNIVERSITY
+SINGAPORE
+
+-----
+4
+AUTHOR’S PUBLICATIONS
+Author’s Publications
+Journal Papers:
+1. Yufeng Yue, Chule Yang, P. G. C. N. Senarathne, and Danwei Wang, ”A Gen-
+eral Probabilistic Framework for Dynamic Multi-Robot 3-D Map Fusion”, IEEE
+Transactions on Systems, Man, and Cybernetics: Systems, 2018, (Under Review)
+2. Yufeng Yue, P.G.C.N. Senarathne, Chule Yang, Jun Zhang, Mingxing Wen, and
+Danwei Wang, ”Hierarchical Probabilistic Fusion Framework for Matching and
+Merging of 3D Occupancy Maps” , IEEE Sensor Journal, 2018, (Under Review)
+3. Yuanzhe Wang, Mao Shan, Yufeng Yue, and Danwei Wang, ”Flexible Leader-
+Follower Formation Analysis and Tracking Control of Multiple Nonholonomic Mo-
+bile Robots Using Relative Pose Measurements”, IEEE Transactions on Control
+Systems Technology, 2018, (Under Review)
+4. Chule Yang, Yufeng Yue, and Danwei Wang, ”Probabilistic Reasoning for Unique
+Role Recognition Based on the Fusion of Semantic-Interaction and Spatio-Temporal
+Features”, IEEE Transactions On Multimedia, 2017, (Under Review)
+5. Chule Yang, Danwei Wang, Yijie Zeng, Yufeng Yue, Prarinya Siritanawan , and
+”Multimodal Information Fusion for Human-Oriented Context Awareness Using
+Mobile Robot”, Information Fusion, 2017, (Under Review)
+NANYANG TECHNOLOGICAL UNIVERSITY
+SINGAPORE
+
+-----
+AUTHOR’S PUBLICATIONS
+5
+Conference Papers:
+1. Yufeng Yue, P.G.C.N. Senarathne, Chule Yang , Jun Zhang, Mingxing Wen and
+Danwei Wang, ”Probabilistic Fusion Framework for Collaborative Robots 3D Map-
+ping”, 21st International Conference on Information Fusion, Cambridge, 2018.
+(accepted)
+2. Yufeng Yue, Chule Yang , P.G.C.N. Senarathne, Jun Zhang, Mingxing Wen and
+Danwei Wang, ”Online Collaborative 3D Mapping in Forest Environment”, IEEE
+International Conference on Robotics and Automation (ICRA) workshop, Brisbane,
+2018.
+3. Yufeng Yue, D. Wang, P. G. C. N. Senarathne and C.Yang, ” A General Framework
+for Distributed Multi-Robot 3-D Map Fusion,” IEEE International Conference on
+Robotics and Automation (ICRA) workshop, Singapore, 2017.
+4. Yufeng Yue, D. Wang, P. G. C. N. Senarathne and C.Yang, ” Robust Submap-Based
+Probabilistic Inconsistency Detection for Multi-Robot Mapping,” 2017 European
+Conference on Mobile Robotics (ECMR), Paris, 2017.
+5. C Yang, Y Zeng, Yufeng Yue, J Zhang, DW Wang, Knowledge-Based Role Recog-
+nition by Using Human-Object Interaction and Spatio-Temporal Analysis, 2017
+IEEE Conference on Robotics and Biomimetics (ROBIO), Macau, 2017. Final List
+of Best Student Paper Award
+6. Yufeng Yue, D. Wang, P. G. C. N. Senarathne and D. Moratuwage, ”A hybrid
+probabilistic and point set registration approach for fusion of 3D occupancy grid
+maps,” 2016 IEEE International Conference on Systems, Man, and Cybernetics
+(SMC), Budapest, 2016.
+NANYANG TECHNOLOGICAL UNIVERSITY
+SINGAPORE
+
+-----

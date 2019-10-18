@@ -1,0 +1,52 @@
+Germanium-on-Insulator for Group IV Laser and III-V 
+Integration on Silicon 
+Abstract 
+Germanium (Ge) laser on Ge-on-insulator (GOI) shows great promises as the 
+light source in photonic integrated circuits (PICs) for future data communication 
+and sensing applications. In addition, small lattice mismatch between GaAs and 
+Ge also enables hybrid integration of III-V photonics on silicon (Si) platform via 
+a GOI substrate. This thesis is focused on the development of a high quality GOI 
+substrate for photonics integration. A low-threshold Ge nanowire laser structure 
+was fabricated on the GOI substrate, and the GOI substrate was also used for the 
+epitaxial integration of III-V photonics on Si.  
+Firstly, in order to fabricate a GOI substrate, a Ge layer needs to be grown 
+on a Si wafer and then transferred to an insulator/substrate via wafer bonding.  
+The Ge layer was directly grown on an 8 inch Si (001) substrate (Ge/Si) using a 
+two-step growth method by metal-organic vapour deposition (MOCVD). Due to 
+the large lattice mismatch (~4%) between Ge and Si, the threading dislocation 
+density (TDD) of the Ge buffer on Si was high (TDD ~1×
+108 cm-2). By 
+introducing a highly arsenic (As)-doped Ge seed layer to the growth steps,  the 
+dislocation velocity in Ge was increased, resulting in a low TDD of 5×
+106 cm-2. 
+Then the Ge/Si wafer was bonded to an 8 inch Si (001) wafer with a bonding 
+dielectric layer to form a GOI structure. The investigations on wafer bonding 
+processes, in terms of TDD reduction and thermal bubbles suppression were 
+conducted to obtain a high-quality mechanically-stable GOI substrate for 
+photonics integration.  
+
+-----
+Secondly, although Ge is a very promising gain material that enables a 
+monolithically integrated light source on Si, it is still very challenging to achieve 
+a low-threshold Ge laser due to its indirect bandgap. In this thesis, a highly 
+strained Ge nanowire laser structure was fabricated on the previously developed 
+GOI substrate. By employing a high uniaxial tensile strain of 1.6 % in the Ge 
+nanowire, direct band transitions were promoted, resulting the reduction in lasing 
+threshold density to ~1.3 kW cm-2 at 83 K under optical pumping.  An 
+unambiguous multimode lasing action was evidenced by nonlinear threshold 
+behavior in output power and linewidth narrowing as a function of pump power. 
+Additionally, an optical net gain of ~415 cm-1 was achieved. These achievements 
+markedly narrow the gap between conventional III–V lasers and group IV lasers, 
+thus opening up new avenues for PICs.  
+Thirdly, the epitaxial integration of III-V on GOI shows another promising 
+approach for large-scale electronic-photonic integration. Since the GOI substrate 
+resolves the issue of the lattice mismatch between III-V and Si, III-V initiation 
+conditions on Ge surface are essential to the materials quality of III-V epi-layers.  
+A high-quality GaAs buffer grown on Ge was achieved using a high AsH3 partial 
+pressure of 5 mbar to suppress the formation of anti-phase boundaries (APBs), 
+and the root-mean-square (RMS) roughness was reduced below 1 nm. Then, the 
+GaAs/GOI structure was used as a substrate template for the growth of an 
+AlGaInP LED structure on Si. The LED performance on GOI was investigated 
+to explore the possibilities of using GOI for III-V photonics integration.   
+
+-----

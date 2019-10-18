@@ -1,0 +1,35 @@
+TOA based Localization and Tracking in Indoor Multipath Environment 
+This thesis addresses the issue of localization and tracking using time-of-arrival 
+(TOA) of both line-of-sight (LOS) and non-line-of-sight (NLOS) paths measured at 
+multiple reference devices (RDs) in indoor multipath environment.  
+When accurate floor plan map is available, this thesis proposes a novel virtual RD 
+(VRD) based indoor TOA localization algorithm utilized both LOS and multipath 
+components. By introducing the concept of VRD, multipaths can be considered as 
+virtual LOS paths originated from VRDs. Due to unknown measurement-to-path 
+correspondence, there are a lot of possible positions satisfy the localization equation, 
+which is known as multimodal issue. A grid based data association algorithm is 
+proposed to estimate the correct measurement-to-path correspondence. Using the 
+estimated data association result, the MD can be localized by two-step weighted least 
+square method. Experimental and simulation results show that the proposed VRD 
+based localization algorithm significantly outperforms conventional LOS based 
+localization algorithms.  
+When accurate floor plan map is not available, this thesis proposes a novel 
+simultaneous localization and mapping (SLAM) algorithm to jointly estimate the 
+MD and map. By modeling the floor plan map as a collection of map features, the 
+multi-RD single-cluster probability hypothesis density (MSC-PHD) filter can be 
+utilized to jointly estimate the MD and map features. Conventional MSC-PHD filter 
+is developed for outdoor radar-based scenarios which only considers backscatter 
+paths. To apply it for indoor localization and tracking, LOS path and all higher-order 
+reflections which carry information of MD and map features must be formulated. 
+This paper proposes a new MSC-PHD filter by incorporating associations among 
+map features due to multiple reflections, referred as multi-reflection incorporated 
+MSC-PHD (MRMSC-PHD) filter. In addition, to mitigate high computation load of 
+the MRMSC-PHD filter, a computational tractable implementation which combines 
+a new greedy measurement partitioning scheme and a particle-Gaussian mixture 
+filter is presented. Furthermore, a novel mapping error metric is proposed to evaluate 
+accuracy of estimated map. Experimental and simulation results show that our 
+proposed MRMSC-PHD filter outperforms existing MSC-PHD filters by a 
+significant margin in terms of both localization and mapping accuracy. 
+ 
+
+-----

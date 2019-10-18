@@ -1,0 +1,115 @@
+ 
+Prof. Dr.-Ing. Yiannos Manoli 
+ Professor, Director of the Fritz Huettinger Chair of Microelectronics  
+ 
+ 
+Biography 
+Yiannos Manoli was born in Famagusta, Cyprus, in 1954. As a Fulbright scholar, he received the 
+B.A. degree (summa cum laude) in Physics and Mathematics from Lawrence University in 
+Appleton, Wisconsin, in 1978 and the M.S. degree in Electrical Engineering and Computer 
+Science from the University of California, Berkeley, in 1980. He obtained the Dr.-Ing. degree in 
+Electrical Engineering from the Gerhard Mercator Universität in Duisburg, Germany, in 1987. 
+From 1980 to 1984 he was a research assistant at the Universität of Dortmund, Germany, in the 
+field of digital and analog MOS integrated circuit design with an emphasis on A/D and D/A 
+converters. This was also the topic of his dissertation: "Components and Architectures for Fast 
+High-Resolution A/D and D/A Converters". 
+ 
+Phone +49 (0) 761 / 203-7591  
+Email: ymanoli@imtek.uni-freiburg.de 
+University of Freiburg  
+Department of Microsystems Engineering - IMTEK  
+Fritz Huettinger Chair of Microelectronics  
+Georges-Koehler-Allee 102  
+D-79110 Freiburg, Germany 
+
+-----
+In 1985 he joined the newly founded Fraunhofer Institute of Microelectronic Circuits and 
+Systems in Duisburg where he established a design group for microsystem and microcontroller 
+integrated circuits. His work there concentrated on mixed-signal CMOS circuits especially for 
+monolithic integrated sensors such as surface micromachined pressure sensors, flow sensors, 
+biosensors etc. Another highlight of his work was the design of application specific 
+microcontrollers as well as novel architectures and development tools for such microcontrollers. 
+In 1996, he was appointed Chair of Microelectronics at the Department of Electrical Engineering 
+of the University of Saarland in Saarbruecken, Germany. His research interests were focused on 
+the design of low-voltage and low-power Delta Sigma converters and on VLSI embedded system 
+design. As department head (1998-2000) he initiated a number of reforms that boosted the 
+research activities and enhanced the teaching curriculum of the department. 
+In 2001, he joined the Department of Microsystems Engineering (IMTEK) at the University of 
+Freiburg, Germany where he established the Chair of Microelectronics. In memory of the founder 
+of today's Trumpf Huettinger GmbH, this chair was endowed by the Fritz Huettinger Foundation in 
+2010 and has since carried the name "Fritz Huettinger Chair of Microelectronics". It was the first 
+time in the recent history of the University of Freiburg that a named professorship has been 
+awarded. 
+His current research interests are the design of low-voltage/low-power mixed-signal CMOS 
+circuits, energy harvesting electronics, sensor read-out circuits as well as Analog-to-Digital 
+converters with over 300 papers published in these areas. 
+Together with his colleague Roland Zengerle, he has been director of the "Institute 
+of Micromachining and Information Technology" of the “Hahn-Schickard” in Villingen-
+Schwenningen and Freiburg, Germany, since 2005. This non-profit, applied research organization 
+focuses on innovations in MEMS technologies and low-power sensor applications. Here the 
+research activities concentrate on the field of inertial sensors and sensor fusion as well as 
+on energy harvesting with an emphasis on motion and vibration energy transducers. 
+From 2008 until 2015 Professor Manoli served as Associate Dean and as Dean of the Faculty of 
+Engineering. He was instrumental in planning the new Department of Sustainable Systems 
+Engineering - INATECH established in 2015. 
+In 2000 he had the opportunity to join a research project with the Sensor Division of Motorola for 
+half a year in Phoenix, Arizona. In 2006, he spent his sabbatical semester with Intel in Santa 
+Clara, California, working on the read-out electronics for a high-resolution accelerometer. 
+
+-----
+Yiannos Manoli received the best paper award of the "European Solid-State Circuits Conference" 
+(ESCCIRC 1988) for the paper "A Self-Calibration Method for Fast High-Resolution A/D and D/A 
+Converters". His group received awards for the following papers: "Novel Non-resonant Vibration 
+Transducer for Energy Harvesting" at the Workshop on Micro and Nanotechnology for Energy 
+Applications (PowerMEMS 2005), "Systematic Approach to the Synthesis of Continuous-Time 
+Cascaded Sigma-Delta Modulators" at the IEEE International Midwest Symposium on Circuits 
+and Systems (MWSCAS 2007), "A Unified Environment for Design Entry and 3D Animation of 
+Analog Circuit Schematics" at the IEEE International Conference on Microelectronic Systems 
+Education (MSE 2007), “A Self-Adaptive Switched-Capacitor Voltage Converter with Dynamic 
+Input Load Control for Energy Harvesting” at the "European Solid-State Circuits Conference" 
+(ESCCIRC 2009), and "Autonomous and Self-Starting Efficient Micro Energy Harvesting Interface 
+with Adaptive MPPT, Buffer Monitoring, and Voltage Stabilization" at the "European Solid-State 
+Circuits Conference" (ESSCIRC 2012). 
+The MSE-2007 award was granted for Spicy VOLTsim, a web-based application for the animation 
+and visualization of analog circuits for which Yiannos Manoli also received the Media Prize of the 
+University of Freiburg in 2005. Further developments of SpicyVOLTsim were supported with a 
+"Fellowship for Innovations in University Teaching" of the Baden-Wuerttemberg Foundation in 
+2011. He was the first to receive the Best Teaching Award of the Faculty of Engineering when it 
+was introduced in 2008. For his creative contributions to an interactive teaching of 
+microelectronics, he also received the Excellence in Teaching Award of the University of Freiburg 
+and the Teaching Award of the State of Baden-Württemberg, both in 2010. 
+Professor Manoli served as a Distinguished Lecturer of the IEEE as well as guest editor of the 
+“IEEE Transactions on VLSI Systems” and the “IEEE Journal of Solid-State Circuits”. He is on the 
+Senior Editorial Board of the “IEEE Journal on Emerging and Selected Topics in Circuits and 
+Systems” and on the Editorial Board of the “Journal of Low Power Electronics”. He has also 
+served on the committees of a number of conferences such as the International Solid-State 
+Circuits Conference ISSCC, the European Solid-State Circuits Conference (ESSCIRC) and the 
+International Electron Devices Meeting (IEDM). He was Program Chair (2001) and General Chair 
+(2002) of the IEEE International Conference on Computer Design ICCD. He is a member 
+of VDE, Phi Beta Kappa, Mortar Board, and senior member of the IEEE. 
+Yiannos Manoli is married to Astrid Strasburger-Manoli and has three children Martha, Katina and 
+Manolis. 
+ 
+ 
+
+-----
+ 
+ 
+
+-----
+ 
+ 
+ 
+ 
+ 
+ 
+
+-----
+ 
+ 
+ 
+ 
+ 
+ 
+
+-----

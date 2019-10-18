@@ -1,0 +1,30 @@
+Power Quality and Stability Improvement of More-Electronics 
+Power Systems 
+Abstract 
+Primary drivers behind the widespread integration of renewable energies comprise a marriage of the 
+ever-increasing energy demand and a desire for the reduction of carbon footprints. Since renewables, 
+are normally coupled to power grids through power electronic converters, power systems gradually 
+evolve into more-electronics power systems. Despite clear efficiency and control benefits, power 
+electronics bring in concerns to power systems. For one hand, it is difficult to ensure high-quality 
+power supplies. For the other hand, power electronics may introduce instability issues. this thesis aims 
+to investigate and address several power quality and stability challenges in the hope of smoothing the 
+transformation towards future smart grids. 
+First of all, the fundamentals of more-electronics power systems including system configuration, 
+operating principles, and modelling and control of power converters are described. A prominent 
+power quality issue introduced by power electronics refers to harmonics, which can be eased with the 
+adoption of the proposed novel passive filters. These instability issues should be blamed not only for 
+the improper control of a single power converter but also for the undesirable operation of the entire 
+power system. For individual power converters, the interaction between converter control and grid 
+impedance may introduce converter-level instability issues. As solutions, the impedance reshaping 
+technique is proposed. In addition, power converters with virtual inertia or operated as virtual 
+synchronous generators (VSGs) can contribute to system-level frequency stability improvement. 
+Through the proposed method, improvements of the frequency nadir and rate-of-change-of-
+frequency can be expected. 
+As the trend of renewable integration continues, new challenges and opportunities will emerge in 
+more-electronics power systems. Speaking of power quality, grid supports by power converters under 
+unbalanced grid and fault conditions will become a challenge. Regarding the system stability, there is 
+a great opportunity to explore the inertia emulation capabilities of other potential energy sources, 
+such as batteries and flywheels.           
+ 
+
+-----

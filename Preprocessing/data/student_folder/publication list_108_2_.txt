@@ -1,0 +1,24 @@
+Publication list 
+ 
+Conference papers: 
+ 
+[1] H. Luo and L. Siek, "An output-capacitor-less low-dropout voltage regulator with high 
+power supply rejection ratio and fast load transient response using boosted-input-
+transconductance structure," 2015 IEEE International Conference on Electron Devices and 
+Solid-State Circuits (EDSSC), pp. 447-450, 2015.  
+ 
+[2] H. Luo and L. Siek, “A 0.9-V Input PWM DCM Boost Converter with Low Output Ripples and 
+Fast Load Transient Response Based on a Novel Square-Root Voltage Mode (SRVM) Control 
+Approach”, 2017 IEEE International Symposium on Circuits & Systems (ISCAS), 2017.  
+ 
+Journal papers: 
+[3] H. Luo and L. Siek, “A Sub-1-V OCL LDO with Fast Load Transient Response Based on a Load-
+dependent Negative Source Degenerating Resistance”, IEEE Journal of Solid-State Circuits 
+(JSSC), 2019. – in progress 
+[4] H. Luo and L. Siek, “A Trimming Technique for a Sub-1-V CMOS Voltage Reference 
+Generator Based on the Delta-Threshold-Voltage Approach”, IEEE Transactions on Circuits and 
+Systems II: Express Briefs, 2019. – in progress 
+ 
+ 
+
+-----

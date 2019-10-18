@@ -1,0 +1,124 @@
+Publication abstract: 
+ 
+It has always been a hot topic to break the resolution/field-of-view (FOV) invariant 
+and achieve a near-eye display with a large FOV and high-resolution. We present 
+a super-resolution method for near-eye displays by overlapping images from two 
+display panels using a half mirror. Key aspects including theoretical analysis, 
+optimized method, system set-up, and calibration process are discussed detailly. 
+A proof-of-concept prototype was developed to provide a super-resolution image 
+capable of providing significantly higher sampling rate. 
+ 
+Light field near-eye display has received a lot of attention, because it can solve 
+convergence and accommodation conflict during the usage of near-eye displays. 
+However, in actual systems, convergence depth and accommodation depth may 
+not match with each other, due to the repeating zones produced by traditional light-
+field methods. We have proposed a novel method to construct a light-field near-
+eye display based on random pinholes. Random pinholes have been employed as 
+a spatial light modulator to break the periodicity of elemental images, and the light 
+field images for a unique view zone in space can be provided. A proof-of-concept 
+prototype has also been developed to verify the proposed method. 
+ 
+We have presented a panoramic imaging system based on two afocal lens and a 
+smart phone that consists of cameras on both sides is presented. One Individual 
+afocal lens has been developed with a large field of view (FOV) and a large exit 
+pupil, and it which can enlarge the FOV of a smart phone camera to above 190°
+. 
+A 360°
+ panoramic imaging system can be obtained based on two tiled imaging 
+channels on the both sides of the smart phone. In this study, some typical issues 
+on smart phone based 360°
+ panoramic system methods based on a smart phone, 
+such as relative illuminance, and assembly tolerance, were analyzed in detail and 
+taken into consideration during the design procedure. A proof-of-concept prototype 
+has been developed with a cheap price low fabrication cost yet producing 
+
+-----
+impressive a panoramic image quality with an acceptable image quality has been 
+developed based on a commonly used smart phone. 
+ 
+A subpixel area-based evaluation method for an improved slanted lenticular film 
+that minimizes the crosstalk in a quasi-three-dimensional (Q3D) display is 
+proposed. To identify an optimal slant angle of the film, a subpixel area-based 
+measurement is derived to evaluate the crosstalk among viewing regions of the 
+intended subpixel and adjacent unintended subpixel by taking the real subpixel 
+shape and black matrix into consideration. The subpixel mapping, which 
+corresponds to the optimal slant angle of the film, can then be determined. 
+Meanwhile, the viewing zone characteristics are analyzed to balance the light 
+intensity in both right and left eye channels. A compact and portable Q3D system 
+has been built and appropriate experiments have been applied. The results 
+indicate that significant improvements in both crosstalk and resolution can be 
+obtained with the proposed technique. 
+ 
+A method to improve the design of an off-axis lightguide configuration for near to 
+eye displays (NED) is proposed using freeform optics technology. The advantage 
+of this modified optical system, which includes an organic light-emitting diode 
+(OLED), a doublet lens, an imaging lightguide prism and a compensation prism, is 
+that it increases optical length path, offers a smaller size, as well as avoids the 
+obstructed views, and matches the user's head shape. In this system, the light 
+emitted from the OLED passes through the doublet lens and is refracted/reflected 
+by the imaging lightguide prism, which is used to magnify the image from the 
+microdisplay, while the compensation prism is utilized to correct the light ray shift 
+so that a low-distortion image can be observed in a real-world setting. A NED with 
+a 4 mm diameter exit pupil, 21.5°
+ diagonal full field of view (FoV), 23 mm eye relief, 
+and a size of 33 mm by 9.3 mm by 16 mm is designed. The developed system is 
+compact, lightweight and suitable for entertainment and education application. 
+ 
+
+-----
+A demo system that realistically displays the glasses-free light field 3D effect with a 
+triple-layer structure is presented. By combining multi-layer panels, high refresh rates, 
+and directional backlighting together, we achieve a wide field of view and large depth 
+of field with a thin form factor. Additionally, using some off-the-shelf hardware, this 
+system demonstrates an interesting light field display. 
+ 
+Publication list: 
+ 
+Qijia Cheng, Weitao Song, Feng Lin, Yue Liu, Yongtian Wang and 
+Yuanjin Zheng. “Resolution enhancement of near-eye displays by 
+overlapping.” Submitted to Optical Communications. Manuscript ID: 
+MB-3562. 
+ 
+Weitao Song, Qijia Cheng, Yue Liu, Yuanjin Zheng and Yongtian 
+Wang. “Design of a light field near-eye display using random pinholes.” 
+Optics Express 27, no. 17 (2019): 23763-23774. 
+ 
+Weitao Song, Qijia Cheng, Xuming Liu, Yandong Wang, Yetao 
+Huang, Yuanjin Zheng, Yue Liu and Yongtian Wang, “Design of a 360°
+ 
+panoramic capture system based on a smart phone.” Chinese Optics 
+Letter, accepted, manuscript ID: COL-19-0016. 
+ 
+Zhenfeng Zhuang, Phil Surman, Qijia Cheng, Simon Thibault, Yuanjin 
+Zheng, and Xiao Wei Sun. "Subpixel area-based evaluation for 
+crosstalk suppression in quasi-three-dimensional displays." Applied 
+Optics 56, no. 19 (2017): 5450-5457. 
+ 
+
+-----
+Zhenfeng Zhuang, Qijia Cheng, Phil Surman, Yuanjin Zheng, and 
+Xiao Wei Sun. "A compact and lightweight off-axis lightguide prism in 
+near to eye display." Optics Communications 393 (2017): 143-151. 
+ 
+Shizheng Wang, Xiangyu Zhang, Qijia Cheng, Kaviya Rajendran, Phil 
+Surman, Junsong Yuan, and Xiao Wei Sun. "Glasses-free light field 3D 
+display." In Visual Communications and Image Processing (VCIP), 
+2015, pp. 1-1. IEEE, 2015. 
+ 
+ 
+Before NTU matriculation: 
+ 
+Qijia Cheng, Zhuoteng Peng, Jie Lin, Shanshan Li, and Fei Wang. 
+"Energy harvesting from human motion for wearable devices." In 
+Nano/Micro Engineered and Molecular Systems (NEMS), 2015 IEEE 
+10th International Conference on, pp. 409-412. IEEE, 2015. 
+ 
+Qijia Cheng, Minghao He, Ulf Ekenberg, Kezheng Li and Hongyu Yu. 
+"Ultra-thin CdTe Thin-film Solar Cell with Surface Texturing." China 
+Semiconductor International Conference 2015. 
+ 
+Minghao He, Qijia Cheng, Xuyao Duan, Kezheng Li and Hongyu Yu. 
+"A Theoretical Study of CdTe Flat-_lm Thickness Impact on AM1.5G 
+Solar Absorption." Journal of Optics Applications 3.1 (2014). 
+
+-----

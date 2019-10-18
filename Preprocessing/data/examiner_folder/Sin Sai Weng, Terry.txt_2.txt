@@ -1,0 +1,309 @@
+ The Scopus Author Identifier assigns a unique number to groups of documents written by the same author via an algorithm that matches authorship based on a certain criteria. If a document canno
+confidently matched with an author identifier, it is grouped separately. In this case, you may see more than 1 entry for the same author. 
+Search
+Sources
+Alerts
+Lists
+Help
+SciVal ↗
+Author details
+Sin, Saiweng 
+University of Macau, State Key Laboratory of 
+Analog and Mixed-Signal VLSI, Taipa, Macao 
+Author ID: 7006553278
+Other name formats: Sin, Sai Weng
+About Scopus Author Identifier | View potential author matches 
+Documents:
+Analyze author output
+Citations:
+View citation overview
+h-index: 
+View h-graph
+Co-authors:
+Subject area:
+View docum
+View docum
+View docum
+Follow this Author
+Receive emails when this author 
+publishes new articles
+Get citation alerts 
+Add to ORCID
+Request author detail corrections
+Export profile to SciVal
+Author History 
+Publication range: 2003 - Present 
+References: 719
+Source history:
+Midwest Symposium on Circuits and Systems
+2010 IEEE International Conference on Electronics, Circu
+and Systems, ICECS 2010 - Proceedings  
+IEEE Transactions on Circuits and Systems II: Express B
+View More 
+Show Related Affiliations
+Back to results |
+1 of 2 Next >
+Print |
+E-mail 
+113 
+776 total citations by 599 documents 
+13 
+74
+Engineering ,  Computer Science View More
+113 documents
+Export all |
+Add all to list
+|
+Set document alert |
+Set document feed 
+113 Documents | Cited by 599 documents | 74 co-authors
+View all in search results format 
+Sort on: Date Cited by
+...
+A 12b 180MS/s 0.068mm2 with Full-Calibration-
+Integrated Pipelined-SAR ADC
+Zhong, J., Zhu, Y., 
+Chan, C.-H., (...), U, 
+S.-P., Martins, R.P. 
+2017 IEEE Transactions on 
+Circuits and Systems I: 
+Regular Papers 
+View at Publisher
+A sub-1V 78-nA bandgap reference with curvature 
+compensation
+Luo, Z., Lu, Y., Huang, 
+M., (...), Seng-Pan, U., 
+Martins, R.P. 
+2017 Microelectronics Journal 
+View at Publisher
+A 4.2-mW 77.1-dB SNDR 5-MHz BW DT 2-1 MASH ΔΣ 
+Modulator With Multirate Opamp Sharing
+Qi, L., Sin, S., U, S., 
+Maloberti, F., Martins, 
+R.P. 
+2017 IEEE Transactions on 
+Circuits and Systems I: 
+Regular Papers 
+Article in Press
+View at Publisher
+A 7.8-mW 5-b 5-GS/s Dual-Edges-Triggered Time-Based 
+Flash ADC
+Chan, C., Zhu, Y., Sin, 
+S., (...), Martins, R.P., 
+Maloberti, F. 
+2017 IEEE Transactions on 
+Circuits and Systems I: 
+Regular Papers 
+Article in Press
+View at Publisher
+Reconfigurable mismatch-free time-interleaved bandpass 
+sigma-delta modulator for wireless communications
+Jiang, D., Sin, S.-W., 
+Seng-Pan, U., Martins, 
+R.P., Maloberti, F. 
+2017 Electronics Letters 
+View at Publisher
+Seven-bit 700-MS/s Four-Way Time-Interleaved SAR 
+ADC with Partial Vcm-Based Switching
+Xing, D., Zhu, Y., 
+Chan, C.-H., (...), 
+Seng-Pan, U., Martins, 
+R.P. 
+2017 IEEE Transactions on 
+Very Large Scale 
+Integration (VLSI) 
+Systems 
+View at Publisher
+DCM operation analysis of 3-level boost converters
+Tan, Y.-W., Lam, C.-S., 
+Sin, S.-W., (...), Seng-
+Pan, U., Martins, R.P. 
+2017 Electronics Letters 
+View at Publisher
+A high DR multi-channel stage-shared hybrid front-end 
+for integrated power electronics controller
+Ren, Y., Sin, S.-W., 
+Lam, C.-S., (...), Seng-
+Pan, U., Martins, R.P. 
+2017 2016 IEEE Asian Solid-
+State Circuits 
+Conference, A-SSCC 
+2016 - Proceedings 
+View at Publisher
+Metastablility in SAR ADCs
+Chan, C.-H., Zhu, Y., 
+Sin, S.-W., (...), Seng-
+Pan, U., Martins, R.P. 
+2017 IEEE Transactions on 
+Circuits and Systems II: 
+Express Briefs 
+View at Publisher
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Years
+Documents
+Documents
+Citations
+Citations
+2007
+2017
+0
+18
+Register
+Login
+Page 1 of 3
+Scopus - Author details (Sin, Saiweng)
+23/7/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7006553278
+
+-----
+The data displayed above is compiled exclusively from articles published in the Scopus database. To request corrections to any inaccuracies or provide any further feedback, please contact us (registration required). 
+The data displayed above is subject to the privacy conditions contained in the privacy policy . 
+Top of page 
+Display: 
+results per page
+Page 1
+A wide input range dual-path CMOS rectifier for RF 
+energy harvesting
+Lu, Y., Dai, H., Huang, 
+M., (...), Seng-Pan, U., 
+Martins, R.P. 
+2017 IEEE Transactions on 
+Circuits and Systems II: 
+Express Briefs 
+View at Publisher
+A 94-dB DR,105-Hz bandwidth interface circuit for inertial 
+navigation applications
+Li, W., Sin, S.-W., 
+Seng-Pan, U., Martins, 
+R.P. 
+2017 2016 International 
+Symposium on 
+Integrated Circuits, ISIC 
+2016 
+View at Publisher
+Active-Passive δσModulator for High-Resolution and 
+Low-Power Applications
+Hussain, A., Sin, S.-W., 
+Chan, C.-H., (...), 
+Maloberti, F., Martins, 
+R.P. 
+2017 IEEE Transactions on 
+Very Large Scale 
+Integration (VLSI) 
+Systems 
+View at Publisher
+An 8-bit 0.7-GS/s single channel flash-SAR ADC in 65-
+nm CMOS technology
+Muratore, D.G., 
+Akdikmen, A., 
+Bonizzoni, E., (...), Sin, 
+S.-W., Martins, R.P. 
+2016 European Solid-State 
+Circuits Conference 
+View at Publisher
+A 12b 180MS/s 0.068mm2 pipelined-SAR ADC with 
+merged-residue DAC for noise reduction
+Zhong, J., Zhu, Y., 
+Chan, C.-H., (...), 
+Seng-Pan, U., Martins, 
+R.P. 
+2016 European Solid-State 
+Circuits Conference 
+View at Publisher
+Limit Cycle Oscillation Reduction for Digital Low Dropout 
+Regulators
+Huang, M., Lu, Y., Sin, 
+S.-W., (...), Martins, 
+R.P., Ki, W.-H. 
+2016 IEEE Transactions on 
+Circuits and Systems II: 
+Express Briefs 
+View at Publisher
+A 4x time-domain interpolation 6-bit 3.4 Gs/s 12.6 mw 
+flash ADC in 65 nm CMOS
+Liu, J., Chan, C.-H., 
+Sin, S.-W., Seng-Pan, 
+U., Martins, R.P. 
+2016 Journal of 
+Semiconductor 
+Technology and Science 
+View at Publisher
+A high resolution multi-bit incremental converter 
+insensitive to DAC mismatch error
+Wang, B., Sin, S.-W., 
+Martins, R.P. 
+2016 2016 12th Conference 
+on Ph.D. Research in 
+Microelectronics and 
+Electronics, PRIME 
+2016 
+View at Publisher
+A Fully Integrated Digital LDO With Coarse-Fine-Tuning 
+and Burst-Mode Operation
+Huang, M., Lu, Y., Sin, 
+S.-W., Seng-Pan, U., 
+Martins, R.P. 
+2016 IEEE Transactions on 
+Circuits and Systems II: 
+Express Briefs 
+View at Publisher
+A 6 b 5 GS/s 4 Interleaved 3 b/Cycle SAR ADC
+Chan, C.-H., Zhu, Y., 
+Sin, S.-W., Seng-Pan, 
+U., Martins, R.P. 
+2016 IEEE Journal of Solid-
+State Circuits 
+View at Publisher
+A 89fJ-FOM 6-bit 3.4GS/s flash ADC with 4x time-
+domain interpolation
+Liu, J., Chan, C.-H., 
+Sin, S.-W., U, S.-P., 
+Martins, R.P. 
+2016 2015 IEEE Asian Solid-
+State Circuits 
+Conference, A-SSCC 
+2015 - Proceedings 
+View at Publisher
+1
+0
+0
+0
+1
+2
+0
+0
+3
+1
+2
+20
+Back to results |
+1 of 2 Next >
+Page 2 of 3
+Scopus - Author details (Sin, Saiweng)
+23/7/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7006553278
+
+-----
+Scopus blog
+Scopus API
+Privacy matters
+切換到繁體中文
+Русский язык
+Terms and conditions
+Privacy policy
+Copyright © 2017 Elsevier B.V. All rights reserved. Scopus® is a registered trademark of Elsevier B.V.
+Cookies are set by this site. To decline them or learn more, visit our Cookies page.
+Page 3 of 3
+Scopus - Author details (Sin, Saiweng)
+23/7/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7006553278
+
+-----

@@ -1,0 +1,463 @@
+Ngai-Man (Man) Cheung
+Home
+Publications
+Research Group
+Researcher Position
+Available
+Sitemap
+Publications
+COPYRIGHT NOTICE: All the documents on this server have been submitted by their authors to scholarly journals or conferences as indicated, for the purpose of non-commercial dissemination of scientific work. The manuscripts
+are put on-line to facilitate this purpose. These manuscripts are copyrighted by the authors or the journals in which they were published. You may copy a manuscript for scholarly, non-commercial purposes, such as research or
+instruction, provided that you agree to respect these copyrights.
+ 
+ 
+2018
+ 
+Ngoc-Trung Tran, Tuan-Anh Bui, Ngai-Man Cheung, "Dist-GAN: An Improved GAN using Distance Constraints," in Proc. ECCV-18. [PDF] [Supplementary]
+ 
+Yiluan Guo, Ngai-Man Cheung, “Efficient and Deep Person Re-Identification using Multi-Level Similarity,” in Proc. IEEE Conference on Computer Vision and Pattern
+Recognition (CVPR-18). [PDF]
+ 
+Yiren Zhou, Seyed-Mohsen Moosavi-Dezfooli, Ngai-Man Cheung, Pascal Frossard, “Adaptive Quantization for Deep Neural Network,” in Proc. Thirty-Second AAAI
+Conference on Artificial Intelligence (AAAI-18). [PDF]
+ 
+ 
+2017
+ 
+Manas Khatua, Seyed Hamid Safavi, Ngai-Man Cheung, “Sparse Laplacian Component Analysis for Internet Traffic Anomalies Detection.” IEEE Transactions on Signal
+and Information Processing over Networks, 2017. [PDF]
+ 
+TT Do, V Pomponiu, NM Cheung, et al., “Accessible Melanoma Detection using Smartphones and Mobile Image Analysis.” IEEE Transactions on Multimedia. 2017. [PDF]
+ 
+TT Do, Ngai-Man Cheung, “Embedding based on function approximation for large scale image search.” IEEE Transactions on Pattern Analysis and Machine Intelligence.
+2017. [PDF]
+ 
+Jiyan Wu, Chau Yuen, Ngai-Man Cheung, Junliang Chen, Chang Wen Chen, "Streaming Mobile Cloud Gaming Video over TCP with Adaptive Source-FEC Coding." IEEE
+Transactions on Circuits and Systems for Video Technology - Special Issue on Visual Computing in the Cloud: Mobile Computing. 2017. [PDF]
+ 
+X Sun, NM Cheung, H Yao, Y Guo, “Non-Rigid Object Tracking via Deformable Patches Using Shape-Preserved KCF and Level Sets,” in Proc. IEEE International
+Conference on Computer Vision (ICCV-17). [PDF]
+ 
+Thanh-Toan Do, Dang-Khoa Le Tan, Ngai-Man Cheung, "Simultaneous Feature Aggregating and Hashing for Large-scale Image Search," in Proc. IEEE CVPR 2017.
+[PDF]
+ 
+Tuan Hoang, Thanh-Toan Do, Dang-Khoa Le Tan, Ngai-Man Cheung, "Selective Deep Convolutional Features for Image Retrieval," in Proc. ACM Multimedia 2017. [PDF]
+ 
+R Liu, H Nejati, Seyed Hamid Safavi, Ngai-Man Cheung, "Simultaneous Low-rank Component and Graph Estimation for High-dimensional Graph Signals: Application to
+Brain Imaging," in Proc. ICASSP 2017.  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2017. [PDF]
+ 
+Yiren Zhou, Sibo Song, Ngai-Man Cheung, "On Classification of Distorted Images with Deep Convolutional Neural Networks," in Proc. ICASSP 2017.  IEEE International
+Conference on Acoustics, Speech and Signal Processing (ICASSP) 2017. [PDF]
+ 
+Y Guo, H Nejati, Ngai-Man Cheung, "Deep neural networks on graph signals for brain imaging analysis," in Proc. ICIP 2017. IEEE International Conference on Image
+Processing 2017. [PDF]
+ 
+T Hoang, TT Do, DKL Tan, Ngai-Man Cheung, "Enhance Feature Discrimination for Unsupervised Hashing," in Proc. ICIP 2017. IEEE International Conference on Image
+Processing 2017. [PDF]
+ 
+Touba Malekzadeh, Milad Abdollahzadeh, Hossein Nejati, Ngai-Man Cheung, "Aircraft fuselage defect detection using deep neural networks," in Proc. IEEE Global
+Conference on Signal and Information Processing (GlobalSIP-2017) [PDF]
+ 
+Manas Khatua, Seyed Hamid Safavi, and Ngai-Man Cheung, "Detection of Internet Traffic Anomalies using Sparse Laplacian Component Analysis," in Proc. IEEE Global
+Communications Conference (Globecom-2017) [PDF]
+ 
+Xin Sun, Jiatao Ding, Giacomo Dalla Chiara, Lynette Cheah, Ngai-Man Cheung, "A Generic Framework for Monitoring Local Freight Traffic Movements Using Computer
+Vision-based Techniques," in Proc. 5th IEEE International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS) 2017. [PDF]
+ 
+S Misra, M Tan, M Rezazad, NM Cheung, "Early detection of Crossfire attacks using deep learning," Deep Learning Security Workshop 2017. [PDF]
+ 
+Aaron Tan, Michelle Liang, Martin Chio, Tuan Nguyen Anh Hoang, Yiren Zhou, Ngai-Man Cheung, Dawn C-I Koh, Suat-Hoon Tan, "Mobile Imaging System for Early
+Melanoma Detection: Design and Evaluation." Australia-Singapore Partnership in Skin Cancer Biology Conference 2017.
+[Best Poster Award]
+ 
+ 
+2016
+ 
+Hossein Nejati, Victor Pomponiu, Dothanh Toan, Yiren Zhou, Sahar Iravani, Ngai-Man Cheung, "Smartphone and Mobile Image Processing for Assisted Living."  IEEE
+Signal Processing Magazine 2016 (IF: 5.852) [PDF]
+ 
+Yiren Zhou, Thanh-Toan Do, Haitian Zheng, Ngai-Man Cheung, and Lu Fang, "Computation and Memory Efficient Image Segmentation." IEEE Transactions on Circuits
+and Systems for Video Technology 2016. [PDF]
+ 
+Seong-Ping Chuah, Ngai-Man Cheung, Chau Yuen, "Layered Coding for Mobile Cloud Gaming Using Scalable Blinn-Phong Lighting."  IEEE Transactions on Image
+Processing, vol. 25, no. 7, July 2016. [PDF]
+ 
+Wei Dai, Gene Cheung, Ngai-Man Cheung, Antonio Ortega, Oscar C. Au, "Merge Frame Design for Video Stream Switching using Piecewise Constant Functions." IEEE
+Transactions on Image Processing. 2016. [PDF]
+ 
+Jiyan Wu, Chau Yuen, Ngai-Man Cheung, Junliang Chen, Chang Wen Chen, "Modeling and Optimization of High Frame Rate Video Transmission Over Wireless
+Networks." IEEE Transactions on Wireless Communications. 2016. [PDF]
+ 
+Thanh-Toan Do, Anh-Dzung Doan, Ngai-Man Cheung, "Learning to Hash with Binary Deep Neural Network," in Proc. 14th European Conference on Computer Vision
+(ECCV) 2016. [PDF]
+ 
+Thanh-Toan Do, Anh-Dzung Doan, Duc-Thanh Nguyen, Ngai-Man Cheung, "Binary Hashing with Semidefinite Relaxation and Augmented Lagrangian," in Proc. 14th
+European Conference on Computer Vision (ECCV) 2016. [PDF]
+ 
+V Pomponiu, H Nejati, Ngai-Man Cheung, "Deepmole: Deep neural networks for skin mole lesion classification," in Proc. IEEE International Conference on Image
+Processing (ICIP) 2016. [PDF]
+ 
+Lu Rui, H Nejati, Ngai-Man Cheung, "Dimensionality reduction of brain imaging data using graph signal processing," in Proc. IEEE International Conference on Image
+Processing (ICIP) 2016. [PDF]
+ 
+Yiren Zhou, H Nejati, TT Do, Ngai-Man Cheung, L Cheah, "Image-based Vehicle Analysis using Deep Neural Network: A Systematic Study," in Proc. IEEE International
+Conference on Digital Signal Processing (DSP) 2016. [PDF]
+ 
+S. Song, V. Chandrasekhar, B. Mandal, L. Li, J. H. Lim, G. S. Babu, P. P. San, Ngai-Man Cheung, "Multimodal Multi-Stream Deep Learning for Egocentric Activity
+Recognition", Proc. of IEEE CVPR - 4th Workshop on Egocentric (First-Person) Vision 2016. [PDF]
+ 
+S. Song, Ngai-Man Cheung, V Chandrasekhar, B Mandal, J Lin, "Egocentric Activity Recognition with Multimodal Fisher Vector," in Proc. ICASSP 2016.  IEEE
+International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2016. [PDF]
+ 
+Ali Hashemi, Mohammad Rostami, Ngai-Man Cheung, "Efficient Environmental Temperature Monitoring Using Compressed Sensing," in Proc. IEEE Data Compression
+Conference (DCC) 2016.
+ 
+Hossein Nejati, Yiren Zhou, Sahar Iravani, Ngai-Man Cheung, Kheng-Hock Lee, Lian-Leng Low, Joo-Ming Ng, and Lee-Foong Liew, "Chronic wound assessment using
+deep neural network," SingHealth Duke-NUS Scientific Congress 2016 (SDC-2016).
+ 
+Search this site
+
+-----
+ 
+2015
+ 
+Fang Lu, Yijian Xiang, Ngai-Man Cheung, Feng Wu, "Estimation of Virtual View Synthesis Distortion Towards Virtual View Position." IEEE Transactions on Image
+Processing (T-IP). 2015.
+ 
+J. Wu, C Yuen, Ngai-Man Cheung, J Chen, Chang Wen Chen, "Enabling Adaptive High-Frame-Rate Video Streaming in Mobile Cloud Gaming Applications." IEEE
+Transactions on Circuits and Systems for Video Technology - Special Issue on Visual Computing in the Cloud: Cloud Gaming and Virtualization.  2015.
+ 
+K. Tsourides, S. Shariat, H. Nejati, Tapan K Gandhi, A. Cardinaux, C.T. Simons, Ngai-Man Cheung, Vladimir Pavlovic, Pawan Sinha, "Neural correlates of the food / non-
+food visual distinction." Biological Psychology.  2015 (IF: 3.403)
+ 
+J Wu, C Yuen, Ngai-Man Cheung, J Chen, "Delay-Constrained High Definition Video Transmission in Heterogeneous Wireless Networks with Multi-homed
+Terminals." IEEE Transactions on Mobile Computing 2015.
+ 
+Jiyan Wu, B. Cheng, C. Yuen, Ngai-Man Cheung, J. Chen, "Trading Delay for Distortion in One-Way Video Communication over the Internet." IEEE Transactions on
+Circuits and Systems for Video Technology, March 2015.
+ 
+H Nejati, K Tsourides, V Pomponiu, EC Ehrenberg, Ngai-Man Cheung, P Sinha, "Towards perception awareness: Perceptual event detection for Brain computer
+interfaces," in Proc. IEEE Annual Conference of Engineering in Medicine and Biology Society (EMBC) 2015.
+ 
+SP Chuah, Ngai-Man Cheung, C Yuen, "Information-theoretic analysis of Blinn-Phong lighting with application to mobile cloud gaming," in Proc. ICIP 2015.  IEEE Int.
+Conf. Image Processing (ICIP) 2015.
+ 
+Dothanh Toan, Quang D. Tran, Ngai-Man Cheung, “FAemb: a function approximation-based embedding method for image retrieval,” in Proc. IEEE CVPR 2015.  The 28th
+IEEE Conference on Computer Vision and Pattern Recognition.
+ 
+Yijian Xiang, Lu Fang, Ren Li, Ngai-Man Cheung, “Depth Error Induced Virtual View Synthesis Distortion Estimation for 3D Video Coding,” in Proc. IEEE DCC 2015.  The
+25th IEEE Data Compression Conference. (Full paper, oral presentation)
+ 
+Yichen Zhang, Ngai-Man Cheung, Lu Yu, “On the Efficiency of View Synthesis Prediction for 3D Video Coding,” in Proc. IEEE DCC 2015.  The 25th IEEE Data
+Compression Conference.  (Full paper, oral presentation)
+ 
+Chen Zhao, Ngai-Man Cheung, Ricardo Sosa, Dawn Koh, “Designing Self-Diagnosis Applications for Non-Patients,” in Proc. ACM CHI’15 Extended Abstracts.  The 33rd
+Annual ACM Conference on Human Factors in Computing Systems.  [Poster]
+ 
+Yichen Zhang, Ngai-Man Cheung, Lu Yu, “The efficiency of view synthesis prediction for 3D video coding: A spectral domain analysis,” in Proc. IEEE ICASSP 2015.  The
+40th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2015.
+ 
+Dothanh Toan, Victor Pomponiu, Yiren Zhou, Zheng Haitian, Chen Zhao, Ngai-Man Cheung, Dawn C-I Koh, Ricardo Sosa, Aaron Tan, Martin Chio, Michelle Liang, Suat-
+Hoon Tan and Susan Swetter, “Designing a Mobile Imaging System for Early Melanoma Detection,” American Academy of Dermatology (AAD) Annual Meeting 2015.
+ [Presentation] 
+ 
+Ngai-Man Cheung, Victor Pomponiu, Dothanh Toan and Hossein Nejati, "Mobile image analysis for medical applications," SPIE Newsroom 2015.
+ 
+ 
+2014
+ 
+Lu Fang, Ngai-Man Cheung, Dong Tian, Anthony Vetro, Huifang Sun, Oscar C. Au, "An Analytical Model for Synthesis Distortion Estimation in 3D Video." IEEE Transactions
+on Image Processing, vol. 23, no. 1, January 2014.
+ 
+S. Chuah, Yuen Chau, Ngai-Man Cheung, "Cloud Gaming: A Green Solution to Massive Multiplayer Online Games," IEEE Wireless Communications Magazine, vol. 21,
+issue 4, August 2014.
+ 
+Hossein Nejati, Ngai-Man Cheung, Ricardo Sosa, Dawn Koh, "DeepCAPTCHA: An Image CAPTCHA based on Depth Perception," in Proc. ACM Multimedia Systems
+Conference 2014.
+ 
+S. Chuah, Ngai-Man Cheung, "Bandwidth Efficient Mobile Cloud Gaming with Layered Coding and Scalable Phong Lighting," in Proc. IEEE Int. Conf. Image Processing
+(ICIP) 2014.  [Experiment dataset]
+ 
+Yijian Xiang, Ngai-Man Cheung, Juyong Zhang, Lu Fang, "Analytical Model for Camera Distance Related 3D Virtual View Distortion Estimation," in Proc. IEEE Int. Conf.
+Image Processing (ICIP) 2014.
+ 
+Thanh-Toan Do, Yiren Zhou, H. Zheng, Ngai-Man Cheung, Dawn Koh, "Early melanoma diagnosis with mobile imaging," 36th IEEE Annual International Conference of
+the Engineering in Medicine and Biology Society (EMBC) 2014.  [Presentation Slide] [Prototype Video]
+ 
+Chen Zhao, Ricardo Sosa, Ngai-Man Cheung, Dawn Koh, "I am not a patient: Design challenges in self-screening medical devices," in Proc. ACM CHI 2014 - Workshop
+on Beyond Quantified Self: Data for Wellbeing 2014.
+ 
+S. Chuah, Ngai-Man Cheung, "Layered Coding for Mobile Cloud Gaming," in Proc. ACM Multimedia Systems - International Workshop on Massively Multiuser Virtual
+Environments (MMVE) 2014.
+ 
+Ngai-Man Cheung, Dawn Koh, "Mobile Imaging System for Early Diagnosis of Skin Cancer," IEEE Life Sciences Newsletter.  Jan 2014.
+ 
+Ngai-Man Cheung, Dong Tian, Anthony Vetro, Huifang Sun, "Method for Modeling and Estimating Rendering Errors in Virtual Images." US patent 8692840.  Apr. 8, 2014.
+ Granted.
+ 
+Dong Tian, Ngai-Man Cheung, Anthony Vetro, "Method and System for Processing Multiview Videos for View Synthesis Using Skip and Direct Modes" US patent Granted.
+ 
+Ngai-Man Cheung, Seong Ping Chuah, "Layered Coding of Game Videos for Mobile Cloud Gaming" Singapore provisional patent filed.  Jan 2014.
+ 
+Hossein Nejati, Ngai-Man Cheung, Ricardo Sosa, Dawn Koh, "DeepCAPTCHA: A User-Friendly Image CAPTCHA based on Depth Perception" Singapore provisional
+patent filed. March 2014.
+ 
+Sibo Song, Vijay Chandrasekhar, Ngai-Man Cheung, Sanath Narayan, Liyuan Li, Joo-Hwee Lim, "Activity Recognition in Egocentric Life-logging Videos," in Proc.
+12th ACCV (Asian Conference on Computer Vision) Workshop 2014. [Google Glass Life-logging Visual Dataset]
+ 
+2013
+ 
+Lu Fang, Oscar C. Au, Ngai-Man Cheung, Aggelos. K. Katsaggelos, Houqiang Li, and Feng Zou, "Luma-Chroma Space Filter Design for Subpixel-Based Monochrome Image
+Downsampling," IEEE Transactions on Image Processing, vol. 22, no. 10, Oct. 2013.
+ 
+Ngai-Man Cheung, Gene Cheung, "Coding for Interactive Navigation in High-dimensional Media Data," in Emerging Technologies for 3D Video, Frederic Dufaux, Beatrice
+Pesquet-Popescu, Marco Cagnazzo, Eds., John Wiley and Sons, 2013.
+ 
+Lu Fang, Oscar C. Au, Ngai-Man Cheung, "Subpixel Rendering: From Font Rendering to Image Subsampling," IEEE Signal Processing Magazine, April 2013.
+ 
+Thanh-Toan Do, Yiren Zhou, Haitian Zheng, Hossein Nejati, Ngai-Man Cheung, Dawn Koh, Ricardo Sosa, Suat-Hoon Tan, Martin Chio, Michelle Liang, Aaron Tan, and Susan
+Swetter, "Design of a Mobile Imaging System for Early Diagnosis of Skin Cancer," IEEE Life Sciences Grand Challenges Conference 2013.
+[Best Poster Award]
+ 
+Rui Ma, Ngai-Man Cheung, Oscar C. Au, Dong Tian, "Novel Distortion Metric for Depth Coding of 3D Video," in Proc. IEEE Int. Conf. Image Processing (ICIP) 2013.
+ 
+Lu Fang, Ngai-Man Cheung, Dong Tian, Anthony Vetroy, Huifang Sun, Lu Yu, "Synthesis Distortion Estimation in 3D Video using Frequency and Spatial Analysis," in Proc.
+IEEE Int. Conf. Image Processing (ICIP) 2013.
+ 
+Wei Dai, Gene Cheung, Ngai-Man Cheung, Antonio Ortega, Oscar C. Au, "Rate-distortion Optimized Merge Frame using Piecewise Constant Functions," in Proc. IEEE Int.
+Conf. Image Processing (ICIP) 2013. 
+[Best Student Paper Award]
+ 
+Mohammad Rostami, Ngai-Man Cheung, Tony Q. S. Quek, "Compressed Sensing of Diffusion Fields under Heat Equation Constraint," in Proc. IEEE Int. Conf. Acoustics,
+Speech, and Signal Processing (ICASSP) 2013.
+ 
+L. Fang, Ngai-Man Cheung, O. C. Au, H. Li, K. Tang, "Low Bit-rate Subpixel-based Color Image Compression," in Proc. IEEE Data Compression Conference (DCC) 2013.
+ 
+
+-----
+Ngai-Man Cheung, Selin Ahipasaoglu, Peter Richtarik, Martin Takac, "Method and System for Classifying Images," UK Provisional Patent application: 1313125.5 filed, July
+2013.
+ 
+Oscar Au, Wei Dai, Gene Cheung, Ngai-Man Cheung, Antonio Ortega, "Rate-Distortion Optimized Merge Frame Using Piecewise Constant Functions," US Provisional Patent
+Application (No. 61/957,941) filed, July 2013.
+ 
+ 
+ 
+Before 2013
+ 
+ 
+Journal Papers, Book Chapters
+ 
+Bernd Girod, Vijay Chandrasekhar, David Chen, Ngai-Man Cheung, Radek Grzeszczuk, Yuriy Reznik, Gabriel Takacs, Sam Tsai, Ramakrishna Vedantham, "Mobile Visual
+Search," IEEE Signal Processing Magazine - Special Issue on Mobile Media Search, vol. 28, no. 4, pp. 61-76, July 2011.
+ 
+Gene Cheung, Antonio Ortega, Ngai-Man Cheung, "Interactive Streaming of Stored Multiview Video using Redundant Frame Structures," IEEE Transactions on Image
+Processing, vol. 20, no. 3, pp. 744-761, March 2011.
+ 
+Ngai-Man Cheung, Sherif Halawa, Derek Pang, Bernd Girod, "Multimedia Technology for Next Generation Online Lecture Video," IEEE COMSOC MMTC E-Letter, vol. 6, no.
+1, pp. 13-16, Jan. 2011.
+ 
+Gene Cheung, Ngai-Man Cheung, "High-dimensional Media Compression for Interactive Streaming," IEEE COMSOC MMTC E-Letter, vol. 6, no. 1, pp. 26-28, Jan. 2011.
+ 
+Ngai-Man Cheung, Xiaopeng Fan, Oscar C. Au, Man-Cheung Kung, "Video Coding on Multi-Core Graphics Processors," IEEE Signal Processing Magazine - Special Issue on
+Signal Processing on Platforms with Multiple Cores: Design and Applications, vol. 27, no. 2, pp. 79-89, March 2010.
+ 
+Xiaopeng Fan, Oscar C. Au, Ngai-Man Cheung, "Transform-domain Adaptive Correlation Estimation (TRACE) for Wyner-Ziv Video Coding," IEEE Transactions on Circuit and
+System for Video Technology, vol. 20, no. 11, pp. 1423-1436, Nov. 2010.
+ 
+Xiaopeng Fan, Oscar C. Au, Ngai-Man Cheung, Yan Chen, Jiantao Zhou, "Successive Refinement based Wyner-Ziv Video Compression," EURASIP Signal Processing:
+Image Communication, vol. 25, no. 1, pp. 47-63, Jan. 2010.
+ 
+Ngai-Man Cheung, Oscar C. Au, Man-Cheung Kung, Peter H.W. Wong, Chun Hung Liu, "Highly Parallel Rate-Distortion Optimized Intra Mode Decision On Multi-Core
+Graphics Processors," IEEE Transactions on Circuit and System for Video Technology - Special Issue on Algorithm/Architecture Co-Exploration of Visual Computing, vol. 19,
+no. 11, pp. 1692 - 1703, Nov. 2009.
+[Nomination for IEEE Transactions on CSVT Best Paper Award 2010]
+ 
+Ngai-Man Cheung and Antonio Ortega, "Distributed Compression of Hyperspectral Imagery," in Distributed Source Coding, Pier Luigi Dragotti and Michael Gastpar, Eds.,
+Academic Press 2009.
+ 
+Ngai-Man Cheung, Huisheng Wang, Antonio Ortega, "Sampling-based Correlation Estimation for Distributed Source Coding Under Rate and Complexity Constraints," IEEE
+Transactions on Image Processing, Volume 17, Issue 11, Pages: 2122 - 2137, Nov. 2008.
+ 
+Ngai-Man Cheung, Caimu Tang, Antonio Ortega and Cauligi S. Raghavendra, "Efficient Wavelet-based Predictive Slepian-Wolf Coding for Hyperspectral Imagery," EURASIP
+Journal on Signal Processing - Special Issue on Distributed Source Coding, 86(11), 3180-3195, 2006.
+ 
+Huisheng Wang, Ngai-Man Cheung, Antonio Ortega, "A Framework for Adaptive Fine Granularity Scalable Coding using Wyner-Ziv Techniques," EURASIP Journal on
+Advances in Signal Processing, vol. 2006, Article ID 60971, 18 pages, 2006.
+[EURASIP Journal on Advances in Signal Processing Best Paper Award 2006]
+ 
+ 
+Conference Papers
+ 
+Ngai-Man Cheung, Dong Tian, Anthony Vetro, Huifang Sun, "On Modeling the Rendering Error in 3D Video," in Proc. IEEE Int. Conf. Image Processing (ICIP) 2012.
+ 
+Sherif Halawa, Derek Pang, Ngai-Man Cheung, and Bernd Girod, "ClassX: An Open Source Interactive Lecture Streaming System," in Proc. ACM Multimedia (ACM MM)
+2011. 
+[Also reported in: Stanford News, Stanford Daily, ACM TechNews, Computer Vision Central, myScience, WorldJournal] 
+[ACM Multimedia Open Source Competition - Honorable Mention] 
+ 
+Derek Pang, Sherif Halawa, Ngai-Man Cheung, and Bernd Girod, "Mobile Interactive Region-of-Interest Video Streaming with Crowd-Driven Pre-fetching," in Proc. ACM
+Multimedia (ACM MM) 2011.
+ 
+Derek Pang, Sherif Halawa, Ngai-Man Cheung, and Bernd Girod, "ClassX Mobile: Region-of-Interest Video Streaming to Mobile Devices with Multi-Touch Interaction," in Proc.
+ACM Multimedia (ACM MM) 2011.
+ 
+G. Schroth, Ngai-Man Cheung, E. Steinbach, B. Girod, "Synchronization of Presentation Slides and Lecture Videos Using Bit Rate Sequences," in Proc. IEEE Int. Conf. Image
+Processing (ICIP) 2011.
+ 
+Mina Makar, Yao-Chung Lin, Ngai-Man Cheung, Derek Pang, and Bernd Girod, "Quality-controlled View Interpolation for Multiview Video," in Proc. IEEE Int. Conf. Image
+Processing (ICIP) 2011.
+ 
+Vijay Chandrasekhar, David Chen, Sam Tsai, Ngai-Man Cheung, Huizhong Chen, Gabriel Takacs, Yuriy Reznik, Ramakrishna Vedantham, Radek Grzeszczuk, Jeff Bach, and
+Bernd Girod, "The Stanford mobile visual search dataset", in Proc. ACM Multimedia Systems Conference (MMSys) 2011.
+ 
+Ngai-Man Cheung, David Chen, Vijay Chandrasekhar, Sam Tsai, Gabriel Takacs, Sherif A. Halawa, Bernd Girod, "Restoration of Out-of-focus Lecture Video by Automatic
+Slide Matching," in Proc. ACM Multimedia (ACM MM) 2010.
+ 
+Sam S. Tsai, David Chen, Vijay Chandrasekhar, Gabriel Takacs, Ngai-Man Cheung, Ramakrishna Vedantham, Radek Grzeszczuk, and Bernd Girod, "Mobile product
+recognition," in Proc. ACM Multimedia (ACM MM) 2010.
+ 
+Vijay Chandrasekhar, Sam Tsai, Gabriel Takacs, David Chen, Ngai-Man Cheung, Yuriy Reznik, Ramakrishna Vedantham, Radek Grzeszczuk, and Bernd Girod, "Low latency
+image retrieval with progressive transmission of CHoG descriptors," in Proc. ACM Multimedia (ACM MM) 2010.
+ 
+David Chen, Ngai-Man Cheung, Sam Tsai, Vijay Chandrasekhar, Gabriel Takacs, Ramakrishna Vedantham, Radek Grzeszczuk, Bernd Girod, "Dynamic Selection of a
+Feature-Rich Query Frame for Mobile Video Retrieval," in Proc. IEEE Int. Conf. Image Processing (ICIP) 2010.
+ 
+Vijay Chandrasekhar, David M. Chen, Andy Lin, Gabriel Takacs, Sam S. Tsai, Ngai-Man Cheung, Yuriy Reznik, and Bernd Girod, "Comparison of Local Feature Descriptors for
+Mobile Visual Search," in Proc. IEEE Int. Conf. Image Processing (ICIP) 2010.
+ 
+Ngai-Man Cheung, Antonio Ortega, Gene Cheung, "Rate-distortion based Reconstruction Optimization in Distributed Source Coding for Interactive Multiview Video
+Streaming," in Proc. IEEE Int. Conf. Image Processing (ICIP) 2010.
+ 
+Aditya Mavlankar, Piyush Agrawal, Derek Pang, Sherif Halawa, Ngai-Man Cheung, and Bernd Girod, "An Interactive Region-of-Interest Video Streaming System for Online
+Lecture Viewing," in Proc. International Packet Video Workshop (PV), 2010.
+ 
+Gene Cheung, Antonio Ortega, Ngai-Man Cheung, and Bernd Girod, "On Media Data Structures for Interactive Streaming in Immersive Applications," in Proc. Visual
+Communications and Image Processing (VCIP) 2010.
+ 
+Gene Cheung, Ngai-Man Cheung, Antonio Ortega, "Optimized Frame Structure using Distributed Source Coding for Interactive Multiview Video Streaming," in Proc. IEEE Int.
+Conf. Image Processing (ICIP) 2009.
+ 
+Ngai-Man Cheung, Antonio Ortega, Gene Cheung, "Distributed Source Coding Techniques for Interactive Multiview Video Streaming," in Proc. Picture Coding Symposium
+(PCS) 2009.
+ 
+Gene Cheung, Antonio Ortega, Ngai-Man Cheung, "Generation of Redundant Frame Structure for Interactive Multiview Streaming," in Proc. International Packet Video
+Workshop 2009.
+ 
+Gene Cheung, Antonio Ortega, Ngai-Man Cheung, "Bandwidth-Efficient Interactive Multiview Live Video Streaming using Redundant Frame Structures," in Proc. APSIPA
+Annual Summit and Conference 2009.
+ 
+Ngai-Man Cheung, Oscar C. Au, M.-C. Kung, X. Fan, "Parallel Rate-distortion Optimized Intra Mode Decision on Multi-core Graphics Processors using Greedy-based
+Encoding Orders," in Proc. IEEE Int. Conf. Image Processing (ICIP) 2009.
+ 
+
+-----
+Xiaopeng Fan, Oscar C. Au, Ngai-Man Cheung, "Adaptive Correlation Estimation for General Wyner-Ziv Video Coding," in Proc. IEEE Int. Conf. Image Processing (ICIP)
+2009.
+ 
+Ngai-Man Cheung and Antonio Ortega, "Compression Algorithms for Flexible Video Decoding," in Proc. Visual Communications and Image Processing (VCIP) 2008.
+[Best Paper Second Place Award] 
+[USC Electrical Engineering Best Student Paper Award Honorable Mention]
+ 
+Ngai-Man Cheung and Antonio Ortega, "Distributed Source Coding Application to Low-Delay Free Viewpoint Switching in Multiview Video Compression," in Proc. Picture
+Coding Symposium (PCS) 2007.
+[Best Paper Award Finalists]
+ 
+Ngai-Man Cheung and Antonio Ortega, "Flexible Video Decoding: A Distributed Source Coding Approach," in Proc. IEEE International Workshop on Multimedia Signal
+Processing (MMSP) 2007.
+[Best Student Paper Award]
+ 
+Ngai-Man Cheung and Antonio Ortega, "A model-based approach to correlation estimation in wavelet-based distributed source coding with application to hyperspectral
+imagery," in Proc. IEEE Int. Conf. Image Processing (ICIP) 2006.
+ 
+Ngai-Man Cheung and Antonio Ortega, "An efficient and highly parallel hyperspectral imagery compression scheme based on distributed source coding," in Proc. Asilomar
+Conf. Signals, Systems, and Computers 2006.
+ 
+Ngai-Man Cheung, Huisheng Wang, Antonio Ortega, "Video compression with flexible playback order based on distributed source coding," in Proc. Visual Communications
+and Image Processing (VCIP) 2006.
+ 
+Ngai-Man Cheung, Huisheng Wang, Antonio Ortega, "Correlation estimation for distributed source coding under information exchange constraints," in Proc. IEEE Int. Conf.
+Image Processing (ICIP) 2005.
+ 
+C. Tang, Ngai-Man Cheung, Antonio Ortega, C. S. Raghavendra, "Efficient inter-band prediction and wavelet based compression for hyperspectral imagery: A distributed
+source coding approach," in Proc. IEEE Data Compression Conference (DCC) 2005.
+ 
+Huisheng Wang, Ngai-Man Cheung, Antonio Ortega, "WZS: Wyner-Ziv scalable predictive video coding," in Proc. Picture Coding Symposium (PCS) 2004.
+ 
+Ngai-Man Cheung and Yuji Itoh, "Configurable variable length code with genetic algorithms," in Proc. IEEE Int. Conf. Image Processing (ICIP), Rochester, NY, USA, 2002.
+ 
+Ngai-Man Cheung and Yuji Itoh, "Configurable variable length code for video coding," in Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing
+(ICASSP), Salt Lake City, Utah, USA, 2001.
+ 
+Yuji Itoh and Ngai-Man Cheung, "Inter-Chrominance Up-Sampling Algorithm for Color Image Processing," in Proc. Int. Conf. on Signal Processing Applications and
+Technology (ICSPAT), Dallas, TX, USA, October 2000.
+ 
+Yuji Itoh and Ngai-Man Cheung, "Universal variable length code for DCT coding," in Proc. IEEE Int. Conf. Image Processing (ICIP), Vancouver, Canada, Sept. 10-13, 2000.
+ 
+ 
+Posters
+ 
+Ngai-Man Cheung, Sherif A. Halawa, Bernd Girod, "A Bag-of-words Approach to Slide Recognition and Its Deployment for Online Learning," Stanford University Electrical
+Engineering Research Fair, March 2010.
+ 
+Sam Dolinar, Antonio Ortega, Ngai-Man Cheung, Ivy Tseng, Matt Klimesh, Hua Xie, "Distributed Source Coding for Lower Complexity Onboard Data Compression," NASA-
+JPL R&TD/DRDF poster session, Nov 2008.
+ 
+ 
+Granted Patents
+ 
+C.-Y. Hung, Ngai-Man Cheung, "Deblocking filters." US patent 8,111,760.  2012.
+ 
+Y. Itoh, H.-C. Wey, Ngai-Man Cheung, "Motion estimation." US patent 7,720,151.  2010.
+ 
+Ngai-Man Cheung, Y. Itoh, "Improved Transform Coefficients Coding for Video Coding." US patent 7158684. 2007.
+ 
+Ngai-Man Cheung, Y. Itoh, "Fast Motion Estimation using Motion Mode Coherence." US patent 7113543. 2006.
+ 
+Ngai-Man Cheung, H.-C. Wey, Yuji Itoh, "An Improved Fixed Point Implementation of Quantizer for Video Coding." US patent 7155472. 2006.
+ 
+Yuji Itoh and Ngai-Man Cheung, "Joint Pre-/Post-Processing Approach for Chroma Misalignment Problem." US patent 7154557. 2006.
+ 
+Ngai-Man Cheung, Y. Itoh, "Method and Apparatus for Automatic Configuration of the Universal Variable Length Code for Video Coding." US patent 6552674. 2003.
+ 
+ 
+Standardizations
+ 
+George Chen, Ngai-Man Cheung, Huisheng Wang, Joaquin Lopez, Antonio Ortega, "Using inter-view prediction for multi-view video compression," MPEG2004/m10512, March
+2004 (collaborate with STMicroelectronics).
+ 
+Ngai-Man Cheung, Y. Itoh, "Improving coefficients coding for H.26L Intra Picture," JVT (Joint Video Team of ISO/IEC MPEG and ITU-T VCEG) Document JVT-C086, Fairfax,
+US, May 2002.
+ 
+Ngai-Man Cheung, Louis Kerofsky, Yuji Itoh, "Configurable entropy coding scheme for H.26L," ITU-T Study Group 16 Question 6 (Video Coding Experts Group), Document
+VCEG-L19, Eibsee, Germany, January 2001 (collaborate with Sharp Laboratories of America).
+ 
+ 
+Talks
+Ngai-Man Cheung, "Distributed Source Coding and Its Application to Interactive Multiview Video Streaming."
+HP Labs Palo Alto, CA, US. Hosted by Wai-Tian Tan. Sept 2009.
+HP Labs Japan. Hosted by Gene Cheung. Apr 2009.
+Ngai-Man Cheung, "Distributed Source Coding for Image and Video Applications."
+CUHK (Chinese University of Hong Kong). Hosted by Prof. King Ngi Ngan. Jul 2008.
+Stanford University. Hosted by Prof. Bernd Girod. Jun 2008.
+Hong Kong Polytechnic University. Hosted by Prof. S.-W. Siu. March 2008.
+HKUST (Hong Kong University of Science and Technology). Hosted by Prof. Oscar Au. March 2008.
+EPFL (Swiss Federal Institute of Technology at Lausanne, Switzerland). Hosted by Prof. Pascal Frossard. Nov 2007.
+King's College, University of London. Hosted by Prof. Nikolaos Boulgouris. Oct 2007.
+Imperial College London. Hosted by Prof. Pier Luigi Dragotti. Sept 2007.
+Ngai-Man Cheung, "Tutorial on Distributed Image and Video Coding."
+UCLA (University of California, Los Angeles). In Prof. Mihaela van der Schaar's graduate course on multimedia communication. Jun/Dec 2006, Dec 2007.
+Ngai-Man Cheung, Huisheng Wang, Antonio Ortega, "Distributed Video Coding Applications for Scalable and Flexible Decoding." 
+Workshop on Recent Advances in Distributed Video Coding, Lisbon, Portugal. Nov 2007.
+Ngai-Man Cheung, "Correlation Estimation for Distributed Video Coding." 
+IBM T.J. Watson Research Center, Yorktown Heights, NY, US. Aug 2005.
+ 
+ 
+ 
+ 
+ 
+Sign in | Recent Site Activity | Report Abuse | Print Page | Powered By  Google Sites
+Comments
+You do not have permission to add comments.
+
+-----

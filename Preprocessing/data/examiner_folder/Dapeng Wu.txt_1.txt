@@ -1,0 +1,2862 @@
+RESUME
+Dapeng “Oliver” Wu
+Contact Information
+Office:
+431 Engineering Building
+Department of Electrical & Computer Engineering
+University of Florida
+Mailing Address:
+Department of Electrical & Computer Engineering
+P. O. Box 116130
+Gainesville, Florida 32611-6130, USA
+Tel: (352) 392-4954
+Fax: (352) 392-0044
+Email: wu@ece.ufl.edu
+Homepage: http://www.wu.ece.ufl.edu
+Education
+• Ph.D., Electrical & Computer Engineering
+Jan. 2000 – Aug. 2003
+Carnegie Mellon University, Pittsburgh, PA.
+Thesis title: Providing Quality-of-Service Guarantees in Wireless Networks.
+Advisor: Prof. Rohit Negi.
+• M.E., Electrical Engineering
+Sept. 1994 – Apr. 1997
+Beijing University of Posts and Telecommunications, Beijing, P.R.China.
+• B.E., Electrical Engineering
+Sept. 1986 – June 1990
+Huazhong University of Science and Technology, Wuhan, P.R.China.
+Research Interests
+Communication, multimedia signal processing, computer vision, machine learning, network science
+Professional Experience
+• Professor (with tenure), Department of Electrical & Computer Engineering, University of Florida,
+Gainesville, FL
+Aug. 2011–present
+• Graduate faculty (courtesy appointment), Department of Computer and Information Science and En-
+gineering, University of Florida, Gainesville, FL
+March 2010–present
+• Associate Professor (with tenure), Department of Electrical & Computer Engineering, University of
+Florida, Gainesville, FL
+May 2008–Aug. 2011
+1
+
+-----
+• Assistant Professor (tenure-accruing), Department of Electrical & Computer Engineering, University
+of Florida, Gainesville, FL
+Aug. 2003–May 2008
+• Research Assistant, Department of Electrical & Computer Engineering, Carnegie Mellon University,
+Pittsburgh, PA
+Jan. 2000 – Aug. 2003
+• Research Intern, Fujitsu Laboratories of America, Sunnyvale, CA
+May 2000 – Aug. 2000
+• Research Intern, Fujitsu Laboratories of America, Sunnyvale, CA
+Dec. 1999 – Jan. 2000
+• Research Intern, Fujitsu Laboratories of America, Sunnyvale, CA
+Dec. 1998 – Aug. 1999
+• Research Intern, Fujitsu Laboratories of America, Sunnyvale, CA
+June 1998 – Aug. 1998
+• Research Assistant, Department of Electrical Engineering, Polytechnic University, Brooklyn, NY
+July 1997 – Dec. 1999
+• R&D Engineer, China Posts & Telecommunications Industry Corporation (Group), Ministry of Posts
+& Telecommunications, P.R.China
+July 1990 – Aug. 1994
+Awards and Honors
+• IEEE Distinguished Lecturer, IEEE Vehicular Technology Society (VTS), 2016
+• IEEE Fellow, Class of 2013
+for contributions to video communication and processing and wireless networking
+• Faculty Opponent, Norwegian University of Science and Technology, Norway, 2012
+• IEEE GLOBECOM 2011 Best Paper Award
+Y. Guo, Z. Ding, Y. Fang, D. Wu, “Cutting Down Electricity Cost in Internet Data Centers by Using
+Energy Storage,” Proceedings of IEEE Global Telecommunications Conference (Globecom 2011),
+Houston, TX, USA, December 5 – 9, 2011.
+• Best Associate Editor Award of IEEE Transactions on Circuits and Systems for Video Technol-
+ogy, IEEE Circuits and Systems Society, 2010
+• Faculty Opponent, Umea University, Sweden, 2010
+• University of Florida Research Foundation Professorship Award, 2009 – 2011
+• Outstanding Associate Editor of IEEE Transactions on Circuits and Systems for Video Technol-
+ogy, IEEE Circuits and Systems Society, 2009
+• AFOSR Young Investigator Program (YIP) Award, 2009
+2
+
+-----
+• ONR Young Investigator Program (YIP) Award, 2008
+• Dean’s Honor Roll for Excellent Teaching, College of Engineering, University of Florida, 2008
+• Certificate of Appreciation, IEEE Circuits and Systems Society
+Citation:
+This certificate is awarded to Dapeng Oliver Wu in recognition of your time and effort as a 2006–
+2007 Associate Editor of the IEEE Transactions on Circuits and Systems for Video Technology; a
+publication of the IEEE Circuits and Systems Society.
+• National Research Council/AFOSR Summer Faculty Fellowship Award, 2008
+• NSF Faculty Early Career Development (CAREER) Award, 2007
+• National Research Council/AFOSR Summer Faculty Fellowship Award, 2007
+• QShine 2006 Best Paper Award
+K. Wang, F. Yang, Q. Zhang, D. Wu, and Y. Xu, “Energy Efficient Cooperative Rate Adaptation in
+IEEE 802.11-based Multi-hop Networks,” The Third International Conference on Quality of Service
+in Heterogeneous Wired/Wireless Networks (QShine 2006), Waterloo, Ontario, Canada, August 7–9,
+2006.
+• Certificate of Recognition, University of Florida, 2006
+Citation:
+Certificate of Recognition presented to Dapeng Oliver Wu in recognition of his nomination as out-
+standing UF EDGE faculty for the academic year 2005–2006. The College of Engineering is pleased
+to confer recognition and congratulations.
+• Listed in AcademicKeys Who’s Who in Engineering Education (WWEE), 2004
+• IEEE CSVT Transactions Best Paper Award, 2001
+D. Wu, et al., “On End-to-End Architecture for Transporting MPEG-4 Video over the Internet,” IEEE
+Transactions on Circuits and Systems for Video Technology, Sept. 2000.
+• Certificate of Appreciation, IEEE International Symposium on Personal, Indoor and Mobile Radio
+Communication (PIMRC’2000)
+Citation:
+The PIMRC’2000 organizing committee recognises and thanks D. Wu for the excellent invited paper
+presentation at PIMRC’2000 on “Scalable Video Transport over Wireless IP Networks” held at the
+Hilton London Metropole Hotel, London, UK, Sept. 18–21, 2000.
+Grants
+• “CIF:Small:Collaborative Research: Scalable Nonconvex Optimization with Statistical Guarantees
+for Information Computing in High Dimensions,” (PI), National Science Foundation (NSF), $215,000,
+7/1/2016 – 6/30/2019.
+3
+
+-----
+• “Advanced Techniques for 5G Wireless Networks,” (PI), Huawei Technologies, $130,000, 5/1/2015 –
+9/15/2016.
+• “Carry Small Enjoy Large: a Mobile Cloud Computing Approach,” (PI), National Science Foundation
+(NSF), $308,000, 8/1/2015 – 7/31/2018.
+• “Interdependent Network Responses to WMD: Dynamics Modeling, Impact Analysis, and Adaptive
+Control Techniques,” (Co-PI), Defense Threat Reduction Agency (DTRA), $450,000, 8/14/2014 –
+8/14/2017.
+• “MRI: Acquisition of GatorCloud: Enabling High-Impact Scientific Research and Collaboration via
+Software Defined Networks and Cloud Services,” (Senior Personnel), National Science Foundation
+(NSF), $1,172,354, 10/1/2012 – 9/30/2014. In addition, U.F. provides cost sharing in the amount of
+$502,437. Total: $1,674,791.
+• “NeTS:Small: QoS Assured Multimedia Communication over Non-stationary Wireless Channels,”
+(PI), National Science Foundation (NSF), $383,143, 8/16/2011 – 8/15/2016.
+• “CIF:Small:Collaborative Research: Compressed Sensing for Coherent Designs under Gaussian/Non-
+Gaussian Noise,” (PI), National Science Foundation (NSF), $237,225, 7/1/2011 – 6/30/2015.
+• “Resource-Constrained Wireless Video Communication,” (PI), National Science Foundation (NSF),
+$378,000, 9/15/2010 – 8/31/2014.
+• “The Rural Veterans Tele-Rehabilitation Project,” (Co-PI), U.S. Department of Veterans Affairs, $2.35
+million, 8/09 – 7/11.
+• AFOSR Young Investigator Program (YIP) Award, “Joint Information Theoretic and Differential Ge-
+ometrical Approach for Robust Automated Target Recognition,” (PI), Air Force Office of Scientific
+Research (AFOSR), $300,000, 1/1/09 – 11/30/11.
+• ONR Young Investigator Program (YIP) Award, “Delay-Assured Ad Hoc Networking,” (PI), Office
+of Naval Research (ONR), $300,000, 5/31/08 – 9/30/11.
+• Defense University Research Instrumentation Program (DURIP) Award, “Distributed Collaborative
+Computation for Research on Automatic Target Recognition,” (PI), Air Force Office of Scientific
+Research (AFOSR), $97,864, 5/15/2008 – 5/14/2009.
+• NSF CAREER Award, “CAREER: Delay-Constrained Wireless Networking: Where Shannon Meets
+Erlang,” (PI), National Science Foundation (NSF), $464,000, 9/07 – 8/13.
+• “Advanced Techniques for Scene Analysis,” (PI), Air Force Research Laboratory, Wright-Patterson
+AFB, Dayton, Ohio, $200,000, 6/06 – 9/10 (52 months).
+• “SIRG: COLLABORATIVE RESEARCH: DeerNet-Wireless Sensor Networking for Wildlife Behav-
+ior Analysis and Interaction Modeling,” (Co-PI), National Science Foundation (NSF), $1.05 million,
+9/05 – 9/09.
+• “Vision-Based Control of Agile, Autonomous Small and Micro Flight Vehicles in Urban Environ-
+ments,” (Co-PI), Air Force Office of Scientific Research (AFOSR), $4.7 million, 9/04 – 1/06.
+• “Performance Improvement of Wireless Communication Technologies under Jamming/Interference,”
+(PI), Cyber Technology Research Foundation, $150,000, 12/07 – 11/10.
+4
+
+-----
+• “Cross-Layer Design for Power-Constrained Wireless Multimedia Communication,” (PI), Intel, $153,000,
+4/07 – 11/10.
+• Equipment donation for “Cross-Layer Design for Power-Constrained Wireless Multimedia Commu-
+nication,” (PI), Intel, $3,966, 2007.
+• Gift from Stretch, Inc., “Multimedia Wireless Networking,” (PI), $37,500, 2006 – 2007.
+• Gift from PCS, Inc., “Method and Apparatus for Converting a Two Dimensional Motion Picture into
+a Three Dimensional Motion Picture,” (PI), $75,000, 2005.
+Books
+1. Z. Chen, D. Wu, “Mobile Video Communications: Distortion Analysis and Optimal Design,” LAP
+LAMBERT Academic Publishing, Germany, 2014. ISBN-13: 978-3-8484-9951-9—ISBN-10: 3848499517.
+2. X. Li, D. Wu, “Resource Allocation for Delay-Constrained Communications,” VDM Verlag: Saar-
+brucken, Germany, 2010. ISBN: 978-3639228748.
+3. D. Wu, “Providing Quality-of-Service Guarantees in Wireless Networks,” VDM Verlag: Saarbrucken,
+Germany, 2008. ISBN: 978-3-639-07923-4.
+4. J. Fan, D. Wu, “Network Centric Traffic Analysis,” VDM Verlag: Saarbrucken, Germany, 2008.
+ISBN: 978-3-8364-9296-6.
+5. H. Wang (Editor), J. Huang (Editor), M. Van Der Schaar (Editor), D. Wu (Editor), Z. Han (Editor),
+“Cross-Layer Optimized Wireless Multimedia Communications,” Hindawi Publishing Corporation,
+New York, 2007. ISBN: 978-9774540097.
+Book Chapters
+1. J. Kong, D. Wu, X. Hong, M. Gerla, “Towards a Probabilistic Complexity-theoretic Modeling of
+Biological Cyanide Poisoning as Service Attack in Self-organizing Networks,” in Cryptography/Book
+2, J. Sen, Ed., INTECH: Rijeka, Croatia. ISBN 979-953-307-863-1.
+2. J. Kong, J. Liu, X. Hong, D. Wu, M. Gerla, “On Performance Cost of On-demand Anonymous Routing
+Protocols in Mobile Ad Hoc Networks,” in Mobile and Wireless Network Security and Privacy, Makki,
+Reiher, Makki, Pissinou, Makki, Eds., ch. 29, pp. 769–786, Springer: New York, USA, July 10, 2007.
+ISBN: 0849338336.
+3. J. Fan, Q. He, D. Wu, and P. Khosla, “Location Privacy Protection in Mobile Wireless Networks,” in
+The Handbook of Mobile Middleware, P. Bellavista and A. Corradi, Eds., ch. 29, pp. 769–786, Taylor
+& Francis: Boca Raton, FL, USA, October 20, 2006. ISBN: 0849338336.
+4. D. Wu, “Streaming Video over the Internet and Wireless IP Networks,” in Video Processing and
+Communications, Y. Wang, J. Ostermann, and Y.-Q. Zhang, Eds., ch. 15, pp. 519–561, Prentice Hall:
+Upper Saddle River, NJ, USA, September 27, 2001. ISBN: 0130175471.
+Selected Journal Publications
+5
+
+-----
+1. P. Brahma, Y. She, S. Li, J. Li, D. Wu, “Reinforced Robust Principal Component Pursuit,” accepted
+by IEEE Transactions on Neural Networks and Learning Systems.
+2. P. Zhou, W. Wei, K. Bian, D. Wu, Y. Hu, Q. Wang, “Private and Truthful Aggregative Game for Large-
+Scale Spectrum Sharing,” accepted by IEEE Journal on Selected Areas in Communications (JSAC),
+Special Issue on Game Theory for Networks.
+3. H. Shan, J. Zhang, X. Cao, X. Li, D. Wu, “Multiple Auxiliaries Assisted Airborne Power Line Detec-
+tion,” accepted by IEEE Transactions on Industrial Electronics.
+4. J. Li, Y. Zhu, D. Wu, “Practical Distributed Scheduling for QoS-aware Small Cell mmWave Mesh
+Backhaul Network,” accepted by Ad Hoc Networks.
+5. Y. Niu, C. Gao, Y. Li, L. Su, D. Jin, Y. Zhu, D. Wu, “Energy Efficient Scheduling for mmWave
+Backhauling of Small Cells in Heterogeneous Cellular Networks,” accepted by IEEE Transactions on
+Vehicular Technology.
+6. K. Sun, H. Zhang, D. Wu, H. Zhuang, “MPC-based Delay-Aware Fountain Codes for Real-Time
+Video Communication,” accepted by IEEE Internet of Things Journal.
+7. Z. Chen, P. Fan, D. Wu, “Joint Power Allocation and Strategy Selection for Half-duplex Relay Sys-
+tem,” accepted by IEEE Transactions on Vehicular Technology.
+8. R. Fang, R. Al-Bayaty, D. Wu, “BNB Method for No-Reference Image Quality Assessment,” accepted
+by IEEE Transactions on Circuits and Systems for Video Technology.
+9. Z. Li, W. Du, Y. Zheng, M. Li, D. Wu, “From Rateless to Hopless,” accepted by IEEE/ACM Transac-
+tions on Networking.
+10. Y. She, S. Li, D. Wu, “Robust Orthogonal Complement Principal Component Analysis,” Journal of
+the American Statistical Association, vol. 111, no. 514, pp. 763–771, 2016.
+11. H. Zhang, K. Sun, Q. Huang, Y. Wen, D. Wu, “FUN Coding: Design and Analysis,” IEEE/ACM
+Transactions on Networking, vol. 24, no. 6, pp. 3340–3353, December 2016.
+12. P. Brahma, D. Wu, Y. She, “Why Deep Learning Works: A Manifold Disentanglement Perspective,”
+IEEE Transactions on Neural Networks and Learning Systems, vol. 27, no. 10, pp. 1997–2008, Octo-
+ber 2016.
+13. H. Zhang, Y. Wen, Q. Huang, D. Wu, “File Transfer between Charging Stations Goes Infrastructure-
+less: A Code-Delay Tradeoff,” IEEE Transactions on Vehicular Technology, vol. 65, no. 10, pp.
+8682–8695, October 2016.
+14. Y. Niu, C. Gao, Y. Li, D. Jin, L. Su, D. Wu, “Boosting Spatial Reuse via Multiple Paths Multi-Hop
+Scheduling for Directional mmWave WPANs,” IEEE Transactions on Vehicular Technology, vol. 65,
+no. 8, pp. 6614–6627, August 2016.
+15. P. Zhou, Y. Zhou, D. Wu, H. Jin, “Differentially Private Online Learning for Cloud-Based Video
+Recommendation with Multimedia Big Data in Social Networks,” IEEE Transactions on Multimedia,
+vol. 18, no. 6, pp. 1217–1229, June 2016.
+16. X. Hou, Y. Li, D. Jin, D. Wu, S. Chen, “Modeling the Impact of Mobility on the Connectivity of Ve-
+hicular Networks in Large-Scale Urban Environment,” IEEE Transactions on Vehicular Technology,
+vol. 65, no. 4, pp. 2753–2758, April 2016.
+6
+
+-----
+17. Z. Chen, Q. Wang, D. Wu, P. Fan, “Two-dimensional Evolutional Spectrum Approach to Non-stationary
+Fading Channel Modeling,” IEEE Transactions on Vehicular Technology, vol. 65, no. 3, pp. 1083–
+1097, March 2016.
+18. W. Feng, Y. Niu, Y. Li, B. Gao, S. Li, J. Peng, D. Wu, “On the Throughput Enhancement of IEEE
+802.11ad Through STDMA Scheduling of Multiple Co-Channel Networks,” IET Communications,
+vol. 10, no. 4, pp. 425–434, March 2016.
+19. J. Kong, T. Li, D. Wu, “RVIP: An Indistinguishable Approach to Scalable Network Simulation at Real
+Time,” Wireless Communications & Mobile Computing, vol. 15, no. 18, pp. 2219–2232, December
+2015.
+20. G. Han, Y. Dong, H. Guo, L. Shu, D. Wu, “Cross-layer Optimized Routing in Wireless Sensor Net-
+works with Duty-cycle and Energy Harvesting,” Wireless Communications & Mobile Computing, vol.
+15, no. 16, pp. 1957–1981, November 2015.
+21. C. Li, H. Xiong, D. Wu, “Delay-Rate-Distortion Optimized Rate Control for End-to-end Video Com-
+munication over Wireless Channels,” IEEE Transactions on Circuits and Systems for Video Technol-
+ogy, vol. 25, no. 10, pp. 1665–1681, October 2015.
+22. H. Huang, H. Yin, G. Min, D. Wu, Y. Wu, T. Zuo, K. Li, “Network Distance Prediction for Enabling
+Service-Oriented Applications over Large-Scale Networks,” IEEE Communications Magazine, vol.
+53, no. 8, pp. 166–174, August 2015.
+23. Q. Chen, D. Wu, “Delay-Rate-Distortion Model for Real-Time Video Communication,” IEEE Trans-
+actions on Circuits and Systems for Video Technology, vol. 25, no. 8, pp. 1376–1394, August 2015.
+24. K. Sun, D. Wu, “Video Rate Control Strategies for Cloud Gaming,” Journal of Visual Communication
+and Image Representation, vol. 30, pp. 234–241, July 2015.
+25. Y. Deng, C. Lin, D. Wu, F. Ren, “Relocation Routing for Energy Balancing in Mobile Sensor Net-
+works,” Wireless Communications & Mobile Computing, vol. 15, no. 10, pp. 1418–1432, July 2015.
+26. Q. Huang, X. Li, J. Zhao, D. Wu, X.-Y. Li, “Social Networking Reduces Peak Power Consumption in
+Smart Grid,” IEEE Transactions on Smart Grid, vol. 6, no. 3, pp. 1403–1413, May 2015.
+27. S. Li, D. Wu, “Modularity Based Image Segmentation,” IEEE Transactions on Circuits and Systems
+for Video Technology, vol. 25, no. 4, pp. 570–581, April 2015.
+28. Z. Ding, Y. Song, D. Wu, Y. Fang, “Capacity Region and Dynamic Control of Wireless Networks
+under Per-link Queueing,” Wireless Communications & Mobile Computing, vol. 15, no. 4, pp. 787–
+799, March 2015.
+29. Y. Niu, Y. Li, D. Jin, L. Su, D. Wu, “Blockage Robust and Efficient Scheduling for Directional
+mmWave WPANs,” IEEE Transactions on Vehicular Technology, vol. 64, no. 2, pp. 728–742, Febru-
+ary 2015.
+30. Y. She, Y. He, S. Li, D. Wu, “Joint Association Graph Screening and Decomposition for Large-scale
+Linear Dynamical Systems,” IEEE Transactions on Signal Processing, vol. 63, no. 2, pp. 389–401,
+January 15, 2015.
+31. W. Zhang, Y. Wen, D. Wu, “Collaborative Task Execution in Mobile Cloud Computing under Stochas-
+tic Wireless Channel,” IEEE Transactions on Wireless Communications, vol. 14, no. 1, pp. 81–93,
+January 2015.
+7
+
+-----
+32. Y. She, Y. He, D. Wu, “Learning the Topology and Dynamics of Large Recurrent Neural Networks,”
+IEEE Transactions on Signal Processing, vol. 62, no. 22, pp. 5881–5891, November 15, 2014.
+33. J. Xu, D. Wu, “Gamma Rate Theory for Causal Rate Control in Source Coding and Video Coding,”
+Journal of Visual Communication and Image Representation, vol. 25, no. 8, pp. 1886–1893, Novem-
+ber 2014.
+34. Y. Li, X. Zhu, D. Jin, D. Wu, “Multiple Content Dissemination in Roadside Unit Aided Vehicular
+Opportunistic Networks,” IEEE Transactions on Vehicular Technology, vol. 63, no. 8, pp. 3947–
+3956, October 2014.
+35. S. Yu, Y. Tian, S. Guo, D. Wu, “Can We Beat DDoS Attacks in Clouds?” IEEE Transactions on
+Parallel and Distributed Systems, vol. 25, no. 9, pp. 2245–2254, September 2014.
+36. B. Tang, B. Ye, S. Guo, S. Lu, D. Wu, “Order-Optimal Information Dissemination in MANETs via
+Network Coding,” IEEE Transactions on Parallel and Distributed Systems, vol. 25, no. 7, pp. 1841–
+1851, July 2014.
+37. C. Li, D. Wu, H. Xiong, “Delay-Power-Rate-Distortion Model for Wireless Video Communication
+Under Delay and Energy Constraints,” IEEE Transactions on Circuits and Systems for Video Technol-
+ogy, vol. 24, no. 7, pp. 1170–1183, July 2014.
+38. H.-R. Lee, Y.-W. Jeong, J.-S. Kim, D. Wu, and K.-D. Seo, “Estimation of Accurate Effective Loss
+Rate for FEC Video Transmission,” Signal Processing: Image Communication, vol. 29, no. 6, pp.
+678–698, July 2014.
+39. Y. Li, D. Jin, L. Su, L. Zeng, D. Wu, “Optimal Mobility Control with Energy Constraint in Delay
+Tolerant Networks,” Wireless Communications & Mobile Computing, vol. 14, no. 10, pp. 949–962,
+July 2014.
+40. Y. Deng, C. Lin, F. Ren, D. Wu, “Optimal Power Scheduling in 802.11n Wireless Networks for Real-
+Time Services,” Wireless Communications & Mobile Computing, vol. 14, no. 9, pp. 877–890, June
+2014.
+41. W. Zhang, Y. Wen, D. Wu, J. Cai, “Towards Transcoding as a Service in Multimedia Cloud: Energy-
+Efficient Job Dispatching Algorithm,” IEEE Transactions on Vehicular Technology, vol. 63, no. 5,
+pp. 2002–2012, June 2014.
+42. Y. Zhou, G. Hu, D. Wu, “A Data Mining System for Distributed Abnormal Event Detection in Back-
+bone Networks,” Security and Communication Networks, vol. 7, no. 5, pp. 904–913, May 2014.
+43. Q. Wang, D. Wu, P. Fan, “Joint Evolutionary Spectrum and Autoregressive-Based Approach to Mod-
+eling Non-stationary Flat Fading Channels,” Wireless Communications & Mobile Computing, vol. 14,
+no. 4, pp. 472–486, March 2014.
+44. X. Dong, X. Li, D. Wu, “RED Theory for Quality of Service Provisioning in Wireless Communi-
+cations,” Wireless Communications & Mobile Computing, vol. 14, no. 2, pp. 161–174, February
+2014.
+45. L. Yang, P. Hao, D. Wu, “Approximating Vector Quantization by Transformation and Scalar Quanti-
+zation,” IET Communications, vol. 8, no. 3, pp. 324–334, 2014.
+8
+
+-----
+46. Q. Wang, D. Wu, P. Fan, “An Evolutionary Spectrum Approach to Modeling Non-stationary Fading
+Channels,” Wireless Communications & Mobile Computing, vol. 14, no. 1, pp. 85–102, January 2014.
+47. Y. Li, W. Ren, D. Jin, P. Hui, L. Zeng, D. Wu, “Potential Predictability of Vehicular Staying Time for
+Large Scale Urban Environment,” IEEE Transactions on Vehicular Technology, vol. 16, no. 1, pp.
+242–252, January 2014.
+48. J. He, Z. Xue, D. Wu, D. O. Wu, Y. Wen, “CBM: Online Strategies on Cost-aware Buffer Management
+for Mobile Video Streaming,” IEEE Transactions on Multimedia, vol. 16, no. 1, pp. 322–333, January
+2014.
+49. H. Yin, X. Zhang, T. Zhan, Y. Zhang, G. Min, D. Wu, “NetClust: a Framework for Scalable and
+Pareto-Optimal Media Server Placement,” IEEE Transactions on Multimedia, vol. 15, no. 8, pp.
+2114–2124, December 2013.
+50. Y. She, J. Wang, H. Li, D. Wu, “Grouped Iterative Spectrum Thresholding for Super-Resolution
+Sparse Spectral Selection,” IEEE Transactions on Signal Processing, vol. 61, no. 24, pp. 6371–6386,
+December 2013.
+51. Y. He, Y. She, D. Wu, “Stationary-Sparse Causality Network Learning,” Journal of Machine Learning
+Research, vol. 14, pp. 3073–3104, October 2013.
+52. W. Zhang, Y. Wen, K. Guan, D. Kilper, H. Luo, D. Wu, “Energy-Optimal Mobile Cloud Computing
+under Stochastic Wireless Channel,” IEEE Transactions on Wireless Communications, vol. 12, no. 9,
+pp. 4569–4581, September 2013.
+53. Q. Huang, D. Wu, “Flatten a Curved Space by Kernel,” IEEE Signal Processing Magazine, vol. 30,
+no. 5, pp. 132–142, September 2013.
+54. X. Dong, X. Li, D. Wu, “Recursive ML Estimation of Time-Varying Carrier Frequency Offset for
+OFDM systems,” Wireless Communications & Mobile Computing, vol. 13, no. 11, pp. 1014–1026,
+August 2013.
+55. Y. Jo, D. Wu, “On the Performance of Joint Space-Frequency Pre-filtering and Equalization for Down-
+link MC-CDMA,” Wireless Communications & Mobile Computing, vol. 13, no. 9, pp. 874–883, June
+2013.
+56. Z. Ding, Y. Guo, D. Wu, Y. Fang, “A Market based Scheme to Integrate Distributed Wind Energy,”
+IEEE Transactions on Smart Grid, vol. 4, no. 2, pp. 976–984, June 2013.
+57. Y. Hu, D. Wu, “Frequency Shift Filter-Based Multi-carrier Transceiver,” Wireless Communications &
+Mobile Computing, vol. 13, no. 6, pp. 539–564, April 2013.
+58. Z. Wang, L. Sun, W. Zhu, S. Yang, H. Li, D. Wu, “Joint Social and Content Recommendation for
+User Generated Videos in Online Social Network,” IEEE Transactions on Multimedia, vol. 15, no. 3,
+pp. 698–709, April 2013.
+59. Y. Hu, D. Wu, A. Nucci, “Fuzzy-Clustering-Based Decision Tree Approach for Large Population
+Speaker Identification,” IEEE Transactions on Audio, Speech and Language Processing, vol. 21, no.
+4, pp. 762–774, April 2013.
+60. Z. Ding, D. Wu, “Sliding Mode Based Congestion Control and Scheduling for Multi-class Traffic over
+Per-link Queueing Wireless Networks,” IEEE Transactions on Vehicular Technology, vol. 62, no. 3,
+pp. 1276–1288, March 2013.
+9
+
+-----
+61. B. Sun, D. Wu, “Self-Organizing-Queue Based Clustering,” IEEE Signal Processing Letters, vol. 19,
+no. 12, pp. 902–905, December 2012.
+62. Q. Wang, D. Wu, P. Fan, “Effective Capacity of a Correlated Nakagami-m Fading Channel,” Wireless
+Communications & Mobile Computing, vol. 12, no. 14, pp. 1225–1238, October 2012.
+63. L. Yang, D. Wu, “Adaptive Quantization Using Piecewise Companding and Scaling for Gaussian
+Mixture,” Journal of Visual Communication and Image Representation, vol. 23, no. 7, pp. 959–971,
+October 2012.
+64. B. Han, C. Paulson, D. Wu, “Depth Based Image Registration via 3D Geometric Segmentation,” IET
+Computer Vision, vol. 6, no. 5, pp. 397–406, September 2012.
+65. X. Li, X. Dong, D. Wu, “Queue Length Aware Power Control for Delay-Constrained Communication
+over Fading Channels,” Wireless Communications & Mobile Computing, vol. 12, no. 10, pp. 901–
+909, July 2012.
+66. J. Xu, D. Wu, “Ripplet Transform Type II Transform for Feature Extraction,” IET Image Processing,
+vol. 6, no. 4, pp. 374–385, June 2012.
+67. Z. Chen, D. Wu, P. Fan, K. Ben Letaief, “Leakage-Probability-Constrained Secrecy Capacity of a
+Fading Channel,” Security and Communication Networks, vol. 5, no. 6, pp. 583–593, June 2012.
+68. L. Yang, J. Tian, D. Wu, “Content Based Image Authentication by Feature Point Clustering and
+Matching,” Security and Communication Networks, vol. 5, no. 6, pp. 636–647, June 2012.
+69. Z. Yuan, T. Lu, Y. Huang, D. Wu, H. Yu, “Addressing Visual Consistency in Video Retargeting: a
+Refined Homogeneous Approach,” IEEE Transactions on Circuits and Systems for Video Technology,
+vol. 22, no. 6, pp. 890–903, June 2012.
+70. W. Liu, K. Lu, J. Wang, L. Huang, D. Wu, “On the Throughput Capacity of Wireless Sensor Networks
+with Mobile Relays,” IEEE Transactions on Vehicular Technology, vol. 61, no. 4, pp. 1801–1809,
+May 2012.
+71. L. Yang, Q. Chen, J. Tian, D. Wu, “Robust Track-and-Trace Video Watermarking,” Security and
+Communication Networks, vol. 5, no. 4, pp. 353–363, April 2012.
+72. Z. Chen, P. Pahalawatta, A. M. Tourapis, D. Wu, “Improved Estimation of Transmission Distortion
+for Error-resilient Video Coding,” IEEE Transactions on Circuits and Systems for Video Technology,
+vol. 22, no. 4, pp. 636–647, April 2012.
+73. W. Ye, C. Paulson, D. Wu, “Target detection for VHF SAR ground surveillance,” IET Computer
+Vision, vol. 6, no. 2, pp. 101–110, March 2012.
+74. J. Wang, D. Wu, “Tight Bounds for the First Order Marcum Q-Function,” Wireless Communications
+& Mobile Computing, vol. 12, no. 4, pp. 293–301, March 2012.
+75. Z. Chen, D. Wu, “Rate-Distortion Optimized Cross-layer Rate Control in Wireless Video Commu-
+nication,” IEEE Transactions on Circuits and Systems for Video Technology, vol. 22, no. 3, pp.
+352–365, March 2012.
+76. Z. Chen, D. Wu, “Prediction of Transmission Distortion for Wireless Video Communication: Analy-
+sis,” IEEE Transactions on Image Processing, vol. 21, no. 3, pp. 1123–1137, March 2012.
+10
+
+-----
+77. Y. Hu, D. Wu, A. Nucci, “Pitch-based Gender Identification with Suspicious Speaker Detection
+Scheme,” Security and Communication Networks, vol. 5, no. 2, pp. 211–225, February 2012.
+78. J. Wang, J. Fan, H. Li, D. Wu, “Kernel-based Feature Extraction under Maximum Margin Criterion,”
+Journal of Visual Communication and Image Representation, vol. 23, no. 1, pp. 53–62, January 2012.
+79. Q. Chen, J. Tian, L. Yang, D. Wu, “A Robust Video Hash Scheme Based on 2D-DCT Temporal
+Maximum Occurrence,” Security and Communication Networks, vol. 4, no. 12, pp. 1369–1377,
+December 2011.
+80. L. Yang, Q. Chen, J. Tian, D. Wu, “Content Based Image Hashing Using Companding and Gray
+Code,” Security and Communication Networks, vol. 4, no. 12, pp. 1378–1386, December 2011.
+81. Q. Wang, D. Wu, P. Fan, “Effective Capacity of a Correlated Rayleigh Fading Channel,” Wireless
+Communications & Mobile Computing, vol. 11, no. 11, pp. 1485–1494, November 2011.
+82. X. Li, X. Dong, D. Wu, “Hierarchical Queue-Length-Aware Power Control for Real-Time Applica-
+tions over Wireless Networks,” Wireless Communications & Mobile Computing, vol. 11, no. 11, pp.
+1473–1484, November 2011.
+83. X. Li, F. Cao, X. Dong, D. Wu, “Power Control for Delay Constrained Multichannel Communications
+Using Outdated CSI,” Wireless Communications & Mobile Computing, vol. 11, no. 9, pp. 1302–1311,
+September 2011.
+84. H. Oh, D. Wu, H. Song, “An Effective Mesh-Pull-based P2P Video Streaming System using Fountain
+Codes with Variable Symbol Sizes,” Computer Networks, vol. 55, no. 12, pp. 2746–2759, August
+2011.
+85. B. Han, C. Paulson, D. Wu, “3D Dense Reconstruction from 2D Video Sequence via 3D Geometric
+Segmentation,” Journal of Visual Communication and Image Representation, vol. 22, no. 5, pp.
+421–431, July 2011.
+86. Y. Li, D. Wu, D. Jin, L. Su, L. Zeng, “The Impact of Node Selfishness on Multicasting in Delay
+Tolerant Networks,” IEEE Transactions on Vehicular Technology, vol. 60, no. 5, pp. 2224–2238,
+June 2011.
+87. D. Wu, C. Zhou, “Fault-Tolerant and Scalable Key Management for Smart Grid,” IEEE Transactions
+on Smart Grid, vol. 2, no. 2, pp. 375–381, June 2011.
+88. X. Li, X. Dong, D. Wu, “On Optimal Power Control for Delay-Constrained Communication over
+Fading Channels,” IEEE Transactions on Information Theory, vol. 57, no. 6, pp. 3371–3389, June
+2011.
+89. J. Fan, D. Wu, A. Nucci, R. Keralapura, and L. Gao, “Protocol Oblivious Classification of Multimedia
+Traffic,” Security and Communication Networks, vol. 4, no. 4, pp. 357–371, April 2011.
+90. L. Yang, P. Hao, D. Wu, “Stabilization and Optimization of PLUS Factorization and Its Application
+in Image Coding,” Journal of Visual Communication and Image Representation, vol. 22, no. 1, pp.
+9–22, January 2011.
+91. Z. Chen, D. Wu, “Prediction of Transmission Distortion for Wireless Video Communication: Algo-
+rithm and Application,” Journal of Visual Communication and Image Representation, vol. 21, no. 8,
+pp. 948–964, November 2010.
+11
+
+-----
+92. Y. Li, D. Peng, L. Su, L. Zeng, D. Wu, “Energy Efficient Optimal Opportunistic Forwarding for Delay
+Tolerant Networks,” IEEE Transactions on Vehicular Technology, vol. 59, no. 9, pp. 4500–4512,
+November 2010.
+93. Q. Wang, D. Wu, P. Fan, “Delay-Constrained Optimal Link Scheduling in Wireless Sensor Networks,”
+IEEE Transactions on Vehicular Technology, vol. 59, no. 9, pp. 4564–4577, November 2010.
+94. J. Xu, L. Yang, and D. Wu, “Ripplet: A new transform for image processing,” Journal of Visual
+Communication and Image Representation, vol. 21, no. 7, pp. 627–639, October 2010.
+95. Y. Zhou, D. Wu, and S. M. Nettles, “On Architecture of Authentication, Authorization, and Ac-
+counting for Real-Time Secondary Market Services,” International Journal of Wireless and Mobile
+Computing, vol. 4, no. 3, pp. 240–248, September 2010.
+96. Q. Chen and D. Wu, “Image Denoising by Bounded Block Matching and 3D Filtering,” Signal Pro-
+cessing, vol. 90, no. 9, pp. 2778–2783, September 2010.
+97. Y. Jo, D. Wu, “On Cracking Direct-Sequence Spread-Spectrum Systems,” Wireless Communications
+& Mobile Computing, vol. 10, no. 7, pp. 986–1001, July 2010.
+98. B. Han, F. Wu, D. Wu, “Image Representation by Compressive Sensing for Visual Sensor Networks,”
+Journal of Visual Communication and Image Representation, vol. 21, no. 4, pp. 325–333, May 2010.
+99. Z. Chen, P. Fan, D. Wu, K. B. Letaief, “On the Multi-Rate Division with Limited Feedback for
+One Source Multiple Destinations Wireless Transmission Systems,” International Journal of Wireless
+Communications and Networking, vol. 1, no. 2, pp. 105–113, December 2009.
+100. J. Wang, H. Zhai, P. Li, Y. Fang, and D. Wu, “Directional Medium Access Control for Ad Hoc
+Networks,” ACM Wireless Networks, vol. 15, no. 8, pp. 1059–1073, November 2009.
+101. Y. Sun, D. Wu, “Feature Extraction through Local Learning,” Statistical Analysis and Data Mining,
+vol. 2, no. 1, pp. 34–47, July 2009.
+102. J. Kong, X. Hong, D. Wu, “Protection Against Mobile Tracing through Motion MIX for Mobile
+Wireless Nodes,” IEEE Transactions on Vehicular Technology, vol. 58, no. 5, pp. 2406–2416, June
+2009.
+103. C. Tang, D. Wu, A. T. Chronopoulos, C. S. Raghavendra, “Efficient Multi-Party Digital Signature
+Using Adaptive Secret Sharing for Low-Power Devices,” IEEE Transactions on Wireless Communi-
+cations, vol. 8, no. 2, pp. 882–889, Feb. 2009.
+104. K. Lu, J. Wang, D. Wu, and Y. Fang, “Performance of a burst-frame-based CSMA/CA protocol:
+Analysis and enhancement,” ACM Wireless Networks, vol. 15, no. 1, pp. 87–98, January 2009.
+105. H. Yin, C. Lin, Q. Zhang, Z. Chen, and D. Wu, “TrustStream: A Secure and Scalable Architecture
+for Large-scale Internet Media Streaming,” IEEE Transactions on Circuits and Systems for Video
+Technology, vol. 18, no. 12, pp. 1692–1702, December 2008.
+106. Z. He and D. Wu, “Linear Rate Control and Optimum Statistical Multiplexing for H.264 Video Broad-
+cast,” IEEE Transactions on Multimedia, vol. 10, no. 7, pp. 1237–1249, November 2008.
+107. X. Li, D. Wu, “Power Control and Channel Allocation for Real-time Applications in Cellular Net-
+works,” Wireless Communications & Mobile Computing, vol. 8, no. 6, pp. 705–713, June 2008.
+12
+
+-----
+108. A. Avudainayagam, J. M. Shea, and D. Wu, “Hyper-Trellis Decoding of Pixel-Domain Wyner-Ziv
+Video Coding,” IEEE Transactions on Circuits and Systems for Video Technology, vol. 18, no. 5, pp.
+557–568, May 2008.
+109. W. Kumwilaisak, C.-C. J. Kuo, and D. Wu, “Fading Channel Modeling via Variable Length Markov
+Chain (VLMC) Technique,” IEEE Transactions on Vehicular Technology, vol. 57, no. 3, pp. 1338-
+1358, May 2008.
+110. C. Tang, D. Wu, “An Efficient Mobile Authentication Scheme for Wireless Networks,” IEEE Trans-
+actions on Wireless Communications, vol. 7, no. 4, pp. 1408-1416, April 2008.
+111. C. Tang, D. Wu, “Mobile Privacy in Wireless Networks - Revisited,” IEEE Transactions on Wireless
+Communications, vol. 7, no. 3, pp. 1035-1042, March 2008.
+112. J. Fan, D. Wu, K. Lu, and A. Nucci, “An Efficient Data Structure for Network Anomaly Detection,”
+Security and Communication Networks, Wiley, vol. 1, pp. 107-124, February 2008.
+113. C. Hu, B. Liu, Z. Liu, S. Gao, D. Wu, “Stochastic Optimization of Distributed Sampling System
+Placement for Passive Measurement,” Journal of Information and Computing Science, vol. 3, no. 1,
+pp. 21–38, February 2008.
+114. D. Wu and R. Negi, “Power Control and Scheduling for Guaranteeing Quality of Service in Cellular
+Networks,” Wireless Communications & Mobile Computing, vol. 8, no. 1, pp. 75-92, January 2008.
+115. K. Lu, D. Wu, J. Fan, S. Todorovic, and A. Nucci, “Robust and Efficient Detection of DDoS Attacks
+for Large-Scale Internet,” Computer Networks, vol. 51, no. 18, pp. 5036-5056, December 2007.
+116. C. Tang, D. Wu, “Distance-bounding based Defense Against Relay Attacks in Wireless Networks,”
+IEEE Transactions on Wireless Communications, vol. 6, no. 11, pp. 4071-4078, Nov. 2007.
+117. D. Wu and R. Negi, “Effective Capacity Channel Model for Frequency-selective Fading Channels,”
+ACM Wireless Networks, vol. 13, no. 3, pp. 299–310, June 2007.
+118. K. Wang, F. Yang, Q. Zhang, D. Wu, and Y. Xu, “Distributed Cooperative Rate Adaptation for Energy
+Efficiency in IEEE 802.11-based Multi-hop Networks,” IEEE Transactions on Vehicular Technology,
+vol. 56, no. 2, pp. 888–898, March 2007.
+119. J. Zhao, D. Wu, D. Erdogmus, Y. Fang, Z. He, “Adaptive Motion Estimation Schemes Using Max-
+imum Mutual Information Criterion,” Journal of Wireless Communications and Mobile Computing,
+Special Issue on Video Communications for 4G Wireless Systems, vol. 7, no. 2, pp. 205–215, Feb.
+2007.
+120. J. Wang, Y. Fang and D. Wu, “Enhancing the Performance of Medium Access Control for WLANs
+with Multi-beam Access Point,” IEEE Transactions on Wireless Communications, vol. 6, no. 2,
+pp. 556–565, Feb. 2007.
+121. X. Du and D. Wu, “Joint Design of Routing and Medium Access Control for Hybrid Mobile Ad Hoc
+Networks,” ACM Mobile Networks and Applications (MONET) journal, vol. 12, no. 1, pp. 57–68,
+Feb. 2007.
+122. K. Lu, D. Wu, Y. Qian, Y. Fang, and R. C. Qiu, “Performance of an Aggregation-based MAC Protocol
+for High Data Rate Ultra-Wideband Ad Hoc Networks,” IEEE Transactions on Vehicular Technology,
+vol. 565, no. 1, pp. 312–321, Jan. 2007.
+13
+
+-----
+123. J. Wang, H. Zhai, Y. Fang, J. M. Shea, D. Wu, “OMAR: Utilizing Multiuser Diversity in Wireless Ad
+Hoc Networks,” IEEE Transactions on Mobile Computing, vol. 5, no. 12, pp. 1764–1779, Dec. 2006.
+124. Y. Zhou, D. Wu, and S. M. Nettles, “On MAC-Layer Denial of Service Attacks in IEEE 802.11
+Ad Hoc Networks: Analysis and Counter Measures,” International Journal of Wireless and Mobile
+Computing, vol. 1, nos. 3/4, pp. 268–275, 2006.
+125. Y. Zheng, K. Lu, D. Wu, and Y. Fang, “Performance Analysis of IEEE 802.11 DCF in Imperfect
+Channels,” IEEE Transactions on Vehicular Technology, vol. 55, no. 5, pp. 1648–1656, Sept. 2006.
+126. Q. He, D. Wu, and P. Khosla, “A Secure Incentive Architecture for Ad-hoc Networks,” Wireless
+Communications & Mobile Computing, Special Issue on Wireless Networks Security, no. 6, pp. 333–
+346, 2006.
+127. Z. He and D. Wu, “Resource Allocation and Performance Analysis of Wireless Video Sensors,” IEEE
+Transactions on Circuits and Systems for Video Technology, vol. 16, no. 5, pp. 590–599, May 2006.
+128. Y. Zhang, W. Liu, Y. Fang, and D. Wu, “Secure localization and authentication in ultra-wideband
+sensor networks,” IEEE Journal on Selected Areas in Communications (JSAC), vol. 24, no. 4, pp.
+829–835, April 2006.
+129. D. Wu and R. Negi, “Effective Capacity-Based Quality of Service Measures for Wireless Networks,”
+ACM Mobile Networks and Applications (MONET) journal, vol. 11, no. 1, pp. 91–99, Feb. 2006.
+130. X. Du and D. Wu, “Adaptive Cell-Relay Routing Protocol for Mobile ad hoc Networks,” IEEE Trans-
+actions on Vehicular Technology, vol. 55, no. 1, pp. 278–285, Jan. 2006.
+131. X. Du, D. Wu, W. Liu, Y. Fang, “Multi-Class Routing and Medium Access Control for Heterogeneous
+Mobile Ad Hoc Networks,” IEEE Transactions on Vehicular Technology, vol. 55, no. 1, pp. 270–277,
+Jan. 2006.
+132. D. Wu, “QoS Provisioning in Wireless Networks,” Wireless Communications and Mobile Computing,
+Special Issue on Modelling and Performance Evaluation of Radio Resource QoS for Next-Generation
+Wireless and Mobile Networks, vol. 5, pp. 957–969, 2005.
+133. D. Wu, T. Hou, W. Zhu, Z. He, and Y.-Q. Zhang, “Adaptive QoS Control for Real-time Video Com-
+munication over Wireless Channels,” International Journal of Ad Hoc and Ubiquitous Computing,
+vol. 1, nos. 1/2, pp. 27–37, 2005.
+134. G. Ramachandran, V. Krishnan, D. Wu, and Z. He, “A Model-based Adaptive Motion Estimation
+Scheme Using Renyis Entropy for Wireless Video,” Journal of Visual Communication and Image
+Representation, Special Issue on Visual Communication in the Ubiquitous Era, vol. 16, no. 4–5, pp.
+432–449, Elsevier, August–October 2005.
+135. W. Li, B. Liu, L. Shi, Y. Xu, and D. Wu, “Preemptive Packet-Mode Scheduling to Improve TCP
+Performance,” Springer Lecture Notes in Computer Science (LNCS), vol. 3552, pp. 246–258, June
+2005.
+136. K. Lu, D. Wu, and Y. Fang, “A Novel Framework for Medium Access Control in Ultra-Wideband Ad
+Hoc Networks,” Dynamics of Continuous, Discrete and Impulsive Systems (Series B), Special Issue
+on Ultra-Wideband (UWB) Wireless Communications for Short Range Communications, vol. 12, no.
+3, pp. 427–441, June 2005.
+14
+
+-----
+137. D. Wu and R. Negi, “Utilizing Multiuser Diversity for Efficient Support of Quality of Service over a
+Fading Channel,” IEEE Transactions on Vehicular Technology, vol. 54, no. 3, pp. 1198–1206, May
+2005.
+138. Z. He, Y. Liang, L. Chen, I. Ahmad, and D. Wu, “Power-Rate-Distortion Analysis for Wireless Video
+Communication under Energy Constraints,” IEEE Transactions on Circuits and Systems for Video
+Technology, Special Issue on Integrated Multimedia Platforms, vol. 15, no. 5, pp. 645–658, May
+2005.
+139. Y. Zheng, K. Lu, D. Wu, and Y. Fang, “Performance Analysis Of Frame-Burst-based Medium Access
+Control Protocols Under Imperfect Wireless Channels,” International Journal of Intelligent Control
+and Systems, vol. 10, no. 1, pp. 43–51, March 2005.
+140. D. Wu and R. Negi, “Downlink Scheduling in a Cellular Network for Quality of Service Assurance,”
+IEEE Transactions on Vehicular Technology, vol. 53, no. 5, Sept. 2004.
+141. Q. He, D. Wu, and P. Khosla, “Quest for Personal Control over Mobile Location Privacy,” IEEE
+Communications Magazine, vol. 42, no. 5, pp. 130–136, May 2004.
+142. D. Wu and R. Negi, “Effective Capacity: A Wireless Link Model for Support of Quality of Service,”
+IEEE Transactions on Wireless Communications, vol. 2, no. 4, pp. 630–643, July 2003.
+143. D. Wu, T. Hou, W. Zhu, H.-J. Lee, T. Chiang, Y.-Q. Zhang, H. J. Chao, “ MPEG-4 Video Transport
+over the Internet: A Summary,” IEEE Circuits and Systems Magazine, vol. 2, no. 1, pp. 43–46, 2002.
+(Invited paper)
+144. D. Wu, T. Hou, W. Zhu, Y.-Q. Zhang, J. Peha, “Streaming Video over the Internet: Approaches
+and Directions,” IEEE Transactions on Circuits and Systems for Video Technology, Special Issue on
+Streaming Video, vol. 11, no. 3, pp. 282–300, March 2001.
+145. D. Wu, T. Hou, Y.-Q. Zhang, “Scalable Video Coding and Transport over Broadband Wireless Net-
+works,” Proceedings of the IEEE, vol. 89, no. 1, pp. 6–20, Jan. 2001. (Invited paper)
+146. D. Wu, T. Hou, Y.-Q. Zhang, “Transporting Real-time Video over the Internet: Challenges and Ap-
+proaches,” Proceedings of the IEEE, vol. 88, no. 12, pp. 1855–1875, Dec. 2000. (Invited paper)
+147. D. Wu, T. Hou, W. Zhu, H.-J. Lee, T. Chiang, Y.-Q. Zhang, H. J. Chao, “On End-to-End Architecture
+for Transporting MPEG-4 Video over the Internet,” IEEE Transactions on Circuits and Systems for
+Video Technology, vol. 10, no. 6, pp. 923–941, Sept. 2000. (IEEE CSVT Transactions Best Paper
+Award)
+148. D. Wu, T. Hou, B. Li, W. Zhu, Y.-Q. Zhang, H. J. Chao, “An End-to-End Approach for Optimal Mode
+Selection in Internet Video Communication: Theory and Application,” IEEE Journal on Selected
+Areas in Communications (JSAC), vol. 18, no. 6, pp. 977–995, June 2000.
+149. D. Wu and H. J. Chao, “Buffer Management and Scheduling Schemes for TCP/IP over ATM-GFR,”
+International Journal of Communication Systems, vol. 14, no. 4, pp. 345–359, John Wiley, May 2001.
+150. D. Wu, T. Hou, B. Li, H. J. Chao, “A Per Flow Based Node Architecture for Integrated Services Packet
+Networks,” Telecommunication Systems, vol. 17, nos. 1,2, pp. 135–160, Kluwer Academic Publishers,
+May/June 2001.
+15
+
+-----
+151. T. Hou, D. Wu, B. Li, I. Ahmad, H. J. Chao, “A Differentiated Services Architecture for Multimedia
+Streaming in Next Generation Internet,” Computer Networks, vol. 32, no. 2, pp. 185–209, Elsevier,
+Feb. 2000.
+152. D. Wu, T. Hou, Z.-L. Zhang, H. J. Chao, “A Framework of Architecture and Traffic Management
+Algorithms for Achieving QoS Provisioning in Integrated Services Networks,” International Journal
+of Parallel and Distributed Systems and Networks, vol. 3, no. 2, pp. 64–81, ACTA Press, May 2000.
+153. D. Wu and H. J. Chao, “Efficient Bandwidth Allocation and Call Admission Control for VBR Service
+Using UPC Parameters,” International Journal of Communication Systems, vol. 13, no. 1, pp. 29–50,
+John Wiley, Feb. 2000.
+Selected Conference Publications
+1. Q. Cai, Z. Chen, D. Wu, B. Huang, “Robust Context-Adaptive Residual Rate Model for Frame-Level
+Bitrate Estimation of HEVC,” Proceedings of IEEE International Conference on Multimedia & Expo
+(ICME), Hong Kong, July 10–14, 2017.
+2. K. Sun, D. Wu, “Unequal Error Protection for Video Streaming using Delay-aware Fountain Codes,”
+Proceedings of IEEE International Conference on Communications (ICC), Paris, France, May 21–25,
+2017.
+3. K. Sun, D. Wu, “Unequal Error Protection for Video Streaming using Delay-aware Fountain Codes,”
+Proceedings of IEEE International Conference on Communications (ICC), Paris, France, May 21–25,
+2017.
+4. H. Zhuang, J. Chen, D. Wu, “Joint Access and Backhaul Resource Management for Ultra-Dense
+Networks,” Proceedings of IEEE International Conference on Communications (ICC), Paris, France,
+May 21–25, 2017.
+5. P. Yang, X. Cao, C. Yin, Z. Xiao, X. Xi, D. Wu, “Routing Protocol Design for Drone-Cell Commu-
+nication Networks,” Proceedings of IEEE International Conference on Communications (ICC), Paris,
+France, May 21–25, 2017.
+6. C. Yin, Z. Xiao, X. Cao, X. Xi, P. Yang, D. Wu, “Enhanced Routing Protocol for Fast Flying UAV Net-
+work,” Proceedings of IEEE International Conference on Communication Systems (ICCS), Shenzhen,
+Guangdong, China, December 14–16, 2016.
+7. C. Pan, X. Cao, D. Wu, “Power Line Detection via Background Noise Removal,” Proceedings of
+IEEE Global Conference on Signal and Information Processing (GlobalSIP), Washington, DC, USA,
+December 7–9, 2016.
+8. H. Zhang, Q. Cai, Q. Huang, D. Wu, “Storage-Retrieval-Repair Cost Tradeoff in Network-Coded
+Distributed Storage Systems,” Proceedings of IEEE Global Telecommunications Conference (Globe-
+com), Workshop on Cloud Computing Systems, Networks, and Applications, Washington, DC, USA,
+December 4–8, 2016.
+9. A. Chen, P. Brahma, D. Wu, N. Ebner, B. Matthews, J. Crandall, X. Wei, M. Faloutsos, D. Oliveira,
+“Cross-Layer Personalization as a First Class Citizen for Situation Awareness and Computer Infras-
+tructure Security,” Proceedings of New Security Paradigms Workshop (NSPW), C Lazy U Ranch,
+Colorado, USA, September 26–29, 2016.
+16
+
+-----
+10. P. Zhou, L. Chen, D. Wu, “Shortest Path Routing in Unknown Environments: Is the Adaptive Optimal
+Strategy Available?” Proceedings of IEEE International Conference on Sensing, Communication and
+Networking (SECON), London, UK, June 27–30, 2016.
+11. Y. Zhu, Y. Niu, J. Li, D. Wu, Y. Li, D. Jin, “QoS-aware Scheduling for Small Cell Millimeter Wave
+Mesh Backhaul,” Proceedings of IEEE International Conference on Communications (ICC), Kuala
+Lumpur, Malaysia, May 23–27, 2016.
+12. K. Sun, D. Wu, “MPC-based Delay-Aware Fountain Codes for Live Video Streaming,” Proceedings
+of IEEE International Conference on Communications (ICC), Kuala Lumpur, Malaysia, May 23–27,
+2016.
+13. R. Fang, D. Wu, L. Shen, “Evaluation of Image Quality of Experience in Consideration of Viewing
+Distance,” Proceedings of IEEE China Summit and International Conference on Signal and Informa-
+tion Processing (ChinaSIP 2015), Chengdu, Sichuan, China, July 12–15, 2015.
+14. F. Li, L. Shen, D. Wu, R. Fang, “Full-Reference Quality Assessment of Stereoscopic Images Using
+Disparity-Gradient-Phase Similarity,” Proceedings of IEEE China Summit and International Confer-
+ence on Signal and Information Processing (ChinaSIP 2015), Chengdu, Sichuan, China, July 12–15,
+2015.
+15. Y. Zhu, Q. Huang, J. Li, D. Wu, “Design and Evaluation of Airborne Communication Networks,”
+Proceedings of IEEE International Conference on Ubiquitous and Future Networks, Sapporo, Japan,
+July 7–10, 2015.
+16. Z. Li, W. Du, Y. Zheng, M. Li, D. Wu, “From Rateless to Hopless,” Proceedings of ACM MobiHoc,
+Hangzhou, China, June 22–25, 2015.
+17. Z. Chen, P. Fan, D. Wu, “A Hybrid DF and CF Scheme with Adaptive Power Allocation for Half-
+duplex Relay Channel,” Proceedings of IEEE International Conference on Communications (ICC),
+London, UK, June 8–12, 2015.
+18. Z. Chen, P. Fan, D. Wu, L. Shen, “On the Power Allocation for Hybrid DF and CF Protocol with
+Auxiliary Parameter in Fading Relay Channels,” Proceedings of IEEE Wireless Communications and
+Networking Conference (WCNC), New Orleans, LA, USA, March 9–12, 2015.
+19. Z. Chen, P. Fan, D. Wu, K. Xiong, K. B. Letaief, “On the Achievable Rates of Full-duplex Gaussian
+Relay Channel,” Proceedings of IEEE Global Telecommunications Conference (Globecom), Austin,
+TX, USA, December 8–12, 2014.
+20. C. Li, H. Xiong, D. Wu, “Delay-Rate-Distortion Optimized Rate Control for Wireless Video Commu-
+nication,” Proceedings of IEEE International Conference on Image Processing (ICIP), Paris, France,
+October 27–30, 2014.
+21. Q. Huang, K. Sun, X. Li, D. Wu, “Just FUN: A Joint Fountain Coding and Network Coding Approach
+to Loss-Tolerant Information Spreading,” Proceedings of ACM MobiHoc, Philadelphia, PA, USA,
+August 11–14, 2014.
+22. Z. Chen, P. Fan, D. Wu, Y. Dong, K. B. Letaief, “On the Achievable Sum Rate of Gaussian Interfer-
+ence Channel via Gaussian Signaling,” Proceedings of IEEE International Symposium on Information
+Theory, Honolulu, Hawaii, USA, June 29 – July 4, 2014.
+17
+
+-----
+23. X. Wang, M. Chen, Z. Han, D. Wu, T. Kwon, “TOSS: Traffic Offloading by Social Network Service-
+Based Opportunistic Sharing in Mobile Social Networks,” Proceedings of IEEE INFOCOM 2014,
+Toronto, Canada, April 27 – May 2, 2014.
+24. C. Li, H. Xiong, J. Zou, D. Wu, “Dynamic Rate Allocation and Opportunistic Routing for Scalable
+Video Multirate Multicast over Time-Varying Wireless Networks,” Proceedings of IEEE INFOCOM
+Workshop on Communication and Networking Techniques for Contemporary Video, Toronto, Canada,
+April 27 – May 2, 2014.
+25. K. Liu, Q. Huang, J. Wang, X. Li, D. Wu, “Improving GPS Service via Social Collaboration,” Pro-
+ceedings of IEEE International Conference on Mobile Ad-hoc and Sensor Systems (MASS), Hangzhou,
+China, October 14–16, 2013.
+26. Z. Yuan, D. Zhang, D. Wu, and H. Yu, “A Perceptual Rate-Distortion Optimization Approach Based
+on Piecewise Linear Approximation for Video Coding,” Proceedings of IEEE International Confer-
+ence on Multimedia and Expo (ICME), San Jose, CA, USA, July 15 – 19, 2013.
+27. R. Fang, D. Wu, “No-Reference Image Quality Assessment Based on BNB Measurement,” Proceed-
+ings of IEEE China Summit and International Conference on Signal and Information Processing
+(ChinaSIP 2013), Beijing, China, July 6–10, 2013.
+28. C. Li, D. Wu, H. Xiong, “Delay-Power-Rate-Distortion Model for H.264 Video Coding,” Proceed-
+ings of IEEE China Summit and International Conference on Signal and Information Processing
+(ChinaSIP 2013), Beijing, China, July 6–10, 2013.
+29. W. Liu, K. Lu, J. Wang, Y. Qian, L. Huang, J. Liu, and D. Wu, “On the Throughput-Delay Trade-off in
+Large-Scale MANETs with A Generalized i.i.d. Mobility Model,” Proceedings of IEEE INFOCOM
+2013, Turin, Italy, April 14 – 19, 2013.
+30. S. Tang, Q. Huang, X.-Y. Li, and D. Wu, “Smoothing the Energy Consumption: Peak Demand Re-
+duction in Smart Grid,” Proceedings of IEEE INFOCOM 2013, Turin, Italy, April 14 – 19, 2013.
+31. W. Zhang, Y. Wen, and D. Wu, “Energy-efficient Scheduling Policy for Collaborative Execution in
+Mobile Cloud Computing,” Proceedings of IEEE INFOCOM 2013, Mini-Conference, Turin, Italy,
+April 14 – 19, 2013.
+32. L. Yang, D. Mukherjee, D. Wu, “Video Description Length Guided Constant Quality Video Cod-
+ing with Bitrate Constraint,” Proceedings of IEEE International Conference on Multimedia & Expo
+(ICME), Workshop on (Re)Creating Lively Cities through Ambient Technologies: Arts, Culture, and
+Gastronomic Experiences, Melbourne, Australia, July 9–13, 2012.
+33. C. Paulson, E. Zelnio, L. Gorham, D. Wu, “Using Glint to Perform Geometric Signature Predic-
+tion and Pose Estimation,” Proceedings of SPIE Defense, Security, and Sensing 2012, Baltimore,
+Maryland, USA, April 23–27, 2012.
+34. Z. Yuan, T. Lu, D. Wu, Y. Huang, H. Yu, “Video Summarization with Semantic Concept Preservation,”
+Proceedings of the International Conference on Mobile and Ubiquitous Multimedia (MUM), Beijing,
+China, December 7 – 9, 2011.
+35. Y. Guo, Z. Ding, Y. Fang, D. Wu, “Cutting Down Electricity Cost in Internet Data Centers by Using
+Energy Storage,” Proceedings of IEEE Global Telecommunications Conference (Globecom 2011),
+Houston, TX, USA, December 5 – 9, 2011. (IEEE GLOBECOM 2011 Best Paper Award)
+18
+
+-----
+36. Q. Chen, Y. Zheng, P. Yin , X. Lu , J. Sole, Q. Xu , E. Francois, D. Wu, “Classified Quadtree-based
+Adaptive Loop Filter,” Proceedings of IEEE International Conference on Multimedia & Expo (ICME),
+Workshop on Acoustics and Video Coding and Communication (AVCC), Barcelona, Spain, July 15,
+2011.
+37. Q. Wang, P. Fan, D. Wu, K. Ben Letaief, “End-to-End Delay Constrained Routing and Scheduling for
+Wireless Sensor Networks,” Proceedings of IEEE International Conference on Communications (ICC
+2011), Kyoto, Japan, June 5–9, 2011.
+38. C. Paulson, E. Zelnio, L. Gorham, D. Wu, “Feature phenomenology and feature extraction of civilian
+vehicles from SAR images,” Proceedings of SPIE Defense & Security Symposium 2011, Orlando, FL,
+USA, April 25–29, 2011.
+39. Z. Chen, S. Doken, D. Wu, “An Improved Parametric Bit Rate Model for Frame-level Rate Control
+in Video Coding,” Proceedings of IEEE Data Compression Conference (DCC), Snowbird, UT, USA,
+March 29–31, 2011.
+40. T. Lu, X. Lu, Q. Xu, Y. Zheng, J. Sole, P. Yin, D. Wu, “A Video Coding Analyzer for Next-Generation
+Compression Standards,” Proceedings of IEEE International Conference on Consumer Electronics
+(ICCE), Las Vegas, Nevada, USA, January 9–12, 2011.
+41. Z. Ding, D. Wu, “Sliding Mode Based Joint Congestion Control and Scheduling in Multi-hop Ad Hoc
+Networks with Multi-class Services,” Proceedings of IEEE Global Telecommunications Conference
+(Globecom 2010), Miami, FL, USA, December 6 – 10, 2010.
+42. Z. Chen, P. Fan, D. Wu, K. Ben Letaief, “Secrecy Capacity with Leakage Constraints in Fading
+Channels,” Proceedings of IEEE Global Telecommunications Conference (Globecom 2010), Miami,
+FL, USA, December 6 – 10, 2010.
+43. X. Dong, D. Wu, Y. Liu, and C. Zhou, “Statistical QoS provisioning in mobile ad hoc networks,”
+Proceedings of the 6th International Conference on Mobile Ad-hoc and Sensor Networks (MSN),
+Hangzhou, China, December 20–22, 2010.
+44. T. Lu, Z. Yuan, Y. Huang, D. Wu, H. Yu,
+“Video Retargeting with Nonlinear Spatial-Temporal
+Saliency Fusion,” Proceedings of IEEE International Conference on Image Processing 2010, Hong
+Kong, September 26-29, 2010.
+45. Z. Yuan, T. Lu, Y. Huang, D. Wu, H. Yu, “Video Retargeting: a Visual-Friendly Dynamic Program-
+ming Approach,” Proceedings of IEEE International Conference on Image Processing 2010, Hong
+Kong, September 26-29, 2010.
+46. J. Xu, D. Wu, “Ripplet-II Transform for Feature Extraction,” Proceedings of SPIE Visual Communi-
+cations and Image Processing (VCIP 2010), Huang Shan, An Hui, China, July 11–14, 2010.
+47. C. Paulson, S. Ezekiel, D. Wu, “Wavelet-based image registration,” Proceedings of SPIE Defense &
+Security Symposium 2010, Orlando, FL, USA, April 5–9, 2010.
+48. T. Lu, Z. Chen, D. Wu, H. Yu, “Region-of-interest-based bit-allocation scheme for H.264/AVC,”
+Proceedings of SPIE Defense & Security Symposium 2010, Orlando, FL, USA, April 5–9, 2010.
+49. W. Ye, D. Wu, A. Nucci, “Experimental study on GMM-based speaker recognition,” Proceedings of
+SPIE Defense & Security Symposium 2010, Orlando, FL, USA, April 5–9, 2010.
+19
+
+-----
+50. B. Han, J. Xu, D. Wu, J. Tian, “Compressive sensing in block-based image/video coding,” Proceed-
+ings of SPIE Defense & Security Symposium 2010, Orlando, FL, USA, April 5–9, 2010.
+51. B. Han, D. Wu, H. Zhang, “Block-based method for real-time compound video compression,” Pro-
+ceedings of SPIE Defense & Security Symposium 2010, Orlando, FL, USA, April 5–9, 2010.
+52. B. Han, C. Paulson, J. Wang, D. Wu, “Depth-based image registration,” Proceedings of SPIE Defense
+& Security Symposium 2010, Orlando, FL, USA, April 5–9, 2010.
+53. J. Xu, Y. Zheng, P. Yin, J. Sole, C. Gomila, D. Wu, “Sparsity-based DeArtifacting Filtering in Video
+Compression,” Proceedings of IEEE International Conference on Image Processing 2009, Cairo,
+Egypt, November 7–11, 2009.
+54. Q. Li, P. Fan, D. Wu, “Energy Efficient Routing in Ad Hoc Networks with Nakagami-m Fading
+Channels,” Proceedings of IEEE International Conference on Communications (ICC 2009), Dresden,
+Germany, June 14–18, 2009.
+55. Z. Chen, D. Wu, “Study of video distortion for real-time video transmission over wireless channels,”
+Proceedings of SPIE Defense & Security Symposium 2009, Orlando, FL, USA, April 13–17, 2009.
+56. J. Fan, D. Wu, A. Nucci, R. Keralapura, and L. Gao, “Identifying hidden voice and video streams,”
+Proceedings of SPIE Defense & Security Symposium 2009, Orlando, FL, USA, April 13–17, 2009.
+57. Y. Jo, D. Wu, “An enhanced transform domain communication system (ETDCS) with narrow-band
+interference (NBI) avoidance capability,” Proceedings of SPIE Defense & Security Symposium 2009,
+Orlando, FL, USA, April 13–17, 2009.
+58. B. Han, C. Paulson, T. Lu, D. Wu, J. Li, “Tracking of multiple objects under partial occlusion,”
+Proceedings of SPIE Defense & Security Symposium 2009, Orlando, FL, USA, April 13–17, 2009.
+59. X. Dong, X. Li, D. Wu, “Analysis of Packet Error Probability in Delay Constrained Communication
+over Fading Channels,” Proceedings of IEEE CCNC 2009, Las Vegas, Nevada, USA, January 10–13,
+2009.
+60. X. Li, F. Cao, D. Wu, “QoS-Driven Power Allocation for Multi-channel Communication under De-
+layed Channel Side Information,” Proceedings of IEEE CCNC 2009, Las Vegas, Nevada, USA, Jan-
+uary 10–13, 2009.
+61. Y. Jo, D. Wu, “Blind Synchronization, Estimation of Data Symbol, Spread Sequence, and Generator
+Polynomial in Direct Sequence Spread Spectrum Systems,” Proceedings of IEEE Milcom 2008, San
+Diego, CA, USA, November 17-19, 2008.
+62. Y. Jo, D. Wu, “An Enhanced V-BLAST with Non-Stationary Interference Avoidance Capability,”
+Proceedings of IEEE Milcom 2008, San Diego, CA, USA, November 17-19, 2008.
+63. X. Li, X. Dong, D. Wu, “Hierarchical Queue-Length-Aware Power Control for Delay-Sensitive Appli-
+cations over Wireless Networks,” Proceedings of IEEE Milcom 2008, San Diego, CA, USA, Novem-
+ber 17-19, 2008.
+64. B. Han, F. Wu, D. Wu, “Image representation by compressed sensing,” Proceedings of IEEE Interna-
+tional Conference on Image Processing 2008, San Diego, CA, USA, October 12-15, 2008.
+20
+
+-----
+65. Z. Cao, J. Kong, M. Gerla, D. Wu, “A Randomized Complexity-theoretic Model of Bio-inspired
+Mobile Epidemics via Close Contact,” Proceedings of Information Theory and Statistical Learning
+2008, Las Vegas, Nevada, USA, July 14–16, 2008.
+66. Y. Sun, D. Wu, “A RELIEF based feature extraction algorithm,” Proceedings of SIAM International
+Conference on Data Mining 2008, Atlanta, GA, USA, April 24–26, 2008.
+67. J. Xu, D. Wu, “Ripplet transform for feature extraction,” Proceedings of SPIE Defense & Security
+Symposium 2008, Orlando, FL, USA, March 16–20, 2008.
+68. W. Roberts, L. Watkins, D. Wu, J. Li, “Vehicle tracking for urban surveillance,” Proceedings of SPIE
+Defense & Security Symposium 2008, Orlando, FL, USA, March 16–20, 2008.
+69. W. Ye, C. Paulson, D. Wu, J. Li, “A rotation-invariant transform for target detection in SAR images,”
+Proceedings of SPIE Defense & Security Symposium 2008, Orlando, FL, USA, March 16–20, 2008.
+70. W. Ye, C. Paulson, D. Wu, J. Li, “A target detection scheme for VHF SAR ground surveillance,”
+Proceedings of SPIE Defense & Security Symposium 2008, Orlando, FL, USA, March 16–20, 2008.
+71. J. Kong, X. Hong, D. Wu, M. Gerla, “Complexity-theoretic Modeling of Biological Cyanide Poi-
+soning as Security Attack in Self-organizing Networks,”
+Proceedings of IEEE 7th International
+Symposium on Bioinformatics and Bioengineering (IEEE BIBE 2007), Boston, Massachusetts, USA,
+October 14–17, 2007.
+72. B. Han, W. Roberts, D. Wu, J. Li, “Motion-Segmentation-Based Change Detection,” Proceedings of
+SPIE Defense & Security Symposium 2007, Orlando, FL, USA, April 9-13, 2007.
+73. B. Han, W. Roberts, D. Wu, J. Li, “Robust Feature-based Object Tracking,” Proceedings of SPIE
+Defense & Security Symposium 2007, Orlando, FL, USA, April 9-13, 2007.
+74. D. Wu and Z. He, “Cross-Layer Optimization for Wireless Video Communication,” Proceedings of
+SPIE Visual Communications and Image Processing (VCIP), San Jose, CA, USA, Jan. 28–Feb. 1,
+2007.
+75. J. Fan, D. Wu, K. Lu, and A. Nucci, “Design of Bloom Filter Array for Network Anomaly Detection,”
+Proceedings of IEEE Global Telecommunications Conference (Globecom 2006), San Francisco, CA,
+USA, November 27 – December 1, 2006.
+76. X. Li, and D. Wu, “Power Control and Dynamic Channel Allocation for Delay Sensitive Applica-
+tions in Wireless Networks,” Proceedings of IEEE Global Telecommunications Conference (Globe-
+com 2006), San Francisco, CA, USA, November 27 – December 1, 2006.
+77. C. Tang, and D. Wu, “A Countermeasure to Defend Against Relay Attacks in Wireless Networks,”
+Proceedings of IEEE Global Telecommunications Conference (Globecom 2006), San Francisco, CA,
+USA, November 27 – December 1, 2006.
+78. C. Tang, and D. Wu, “An Efficient Proactive Share Refreshing Scheme for Secret Sharing in Dis-
+tributed Systems,” Proceedings of IEEE Global Telecommunications Conference (Globecom 2006),
+San Francisco, CA, USA, November 27 – December 1, 2006.
+79. T. Jiang, K. Lu, D. Wu, and G. Zhu, “On The Uniform Companding Transform for Reducing PAPR
+of MCM Signals,” Proceedings of IEEE Global Telecommunications Conference (Globecom 2006),
+San Francisco, CA, USA, November 27 – December 1, 2006.
+21
+
+-----
+80. K. Wang, F. Yang, Q. Zhang, D. Wu, and Y. Xu, “Energy Efficient Cooperative Rate Adaptation
+in IEEE 802.11-based Multi-hop Networks,” Proceedings of The Third International Conference on
+Quality of Service in Heterogeneous Wired/Wireless Networks (QShine 2006), Waterloo, Ontario,
+Canada, August 7–9, 2006. (QShine 2006 Best Paper Award)
+81. K. Lu, J. Wang, D. Wu, and Y. Fang, “Performance of A Burst-Frame-Based CSMA/CA Protocol for
+High Data Rate Ultra-Wideband Networks: Analysis and Enhancement,” Proceedings of The Third
+International Conference on Quality of Service in Heterogeneous Wired/Wireless Networks (QShine
+2006), Waterloo, Ontario, Canada, August 7–9, 2006.
+82. C. Li, H. Che, S. Li, and D. Wu, “A New Wireless Channel Fade Duration Model for Exploiting
+MultiUser Diversity Gain and Its Applications,” Proceedings of IEEE International Symposium on a
+World of Wireless, Mobile and Multimedia Networks (WOWMOM 2006), Buffalo, NY, USA, June
+26–29, 2006.
+83. W. Kumwilaisak, C.-C. J. Kuo, and D. Wu, “Optimal Variable Length Markov Chain (VLMC) Mod-
+eling of Fading Channels,” Proceedings of IEEE International Conference on Communications (ICC
+2006), Istanbul, Turkey, June 11–15, 2006.
+84. C. Peng, F. Yang, Q. Zhang, D. Wu, M. Zhao, Y. Yao, “Impact of Power and Rate Selection on the
+Throughput of Ad Hoc Networks,” Proceedings of IEEE International Conference on Communica-
+tions (ICC 2006), Istanbul, Turkey, June 11–15, 2006.
+85. C. Hu, B. Liu, Z. Liu, S. Gao, D. Wu, “Deployment of Distributed Passive Measurement Monitors,”
+Proceedings of IEEE International Conference on Communications (ICC 2006), Istanbul, Turkey,
+June 11–15, 2006.
+86. J. Wang, Y. Fang, and D. Wu, “A Power-Saving Multi-radio Multi-channel MAC Protocol for Wireless
+Local Area Networks,” Proceedings of IEEE INFOCOM 2006, Barcelona, Spain, April 24 – 27, 2006.
+87. Z. He, M. Desphande, and D. Wu, “Optimal video sensing strategy and performance optimization
+for mobile wireless video sensors,” “Cross-Layer Optimization for Wireless Video Communication,”
+Proceedings of SPIE Visual Communications and Image Processing (VCIP), San Jose, CA, USA,
+January 17, 2006.
+88. J. Wang, Y. Fang, and D. Wu, “Uplink Medium Access Control for WLANs with Multi-beam Access
+Point,” Proceedings of IEEE Globecom 2005, St. Louis, MO, USA, November 28 – December 2,
+2005.
+89. A. Avudainayagam, J. M. Shea, and D. Wu, “A Hyper-Trellis based Turbo Decoder for Wyner-Ziv
+Video Coding,” Proceedings of IEEE Globecom 2005, St. Louis, MO, USA, November 28 – Decem-
+ber 2, 2005.
+90. Y. Zheng, K. Lu, D. Wu, and Y. Fang, “Performance Analysis of IEEE 802.11 DCF in Binary Symmet-
+ric Channels,” Proceedings of IEEE Globecom 2005, St. Louis, MO, USA, November 28 – December
+2, 2005.
+91. Z. He and D. Wu, “Performance Analysis of Wireless Video Sensors in Video Surveillance,” Proceed-
+ings of IEEE Globecom 2005, St. Louis, MO, USA, November 28 – December 2, 2005.
+92. J. Kong, D. Wu, X. Hong, and M. Gerla, “Mobile Traffic Sensor Network versus Motion-MIX: Trac-
+ing and Protecting Mobile Wireless Nodes,” Proceedings of ACM Workshop on Security of Ad Hoc
+and Sensor Networks (SASN 2005), Alexandria, VA, USA, Nov. 7, 2005.
+22
+
+-----
+93. H. Yin, C. Lin, F. Qiu, X. Liu, and D. Wu, “TrustStream: A Novel Secure and Scalable Media
+Streaming Architecture,” Proceedings of ACM Multimedia 2005, Singapore, Nov. 6–12, 2005.
+94. J. Kong, J.-H. Cui, D. Wu, and M. Gerla, “Building Under-Water Ad-hoc Networks and Sensor Net-
+works for Large Scale Real-time Aquatic Applications,” Proceedings of IEEE Milcom 2005, Atlantic
+City, NJ, USA, October 17–21, 2005.
+95. J. Wang, Y. Fang, and D. Wu, “SYN-DMAC: A Directional MAC Protocol for Ad Hoc Networks with
+Synchronization,” Proceedings of IEEE Milcom 2005, Atlantic City, NJ, USA, October 17–21, 2005.
+96. X. Du and D. Wu, “Efficient Multi-Class Routing Protocol for Heterogeneous Mobile Ad Hoc Net-
+works,” Proceedings of IEEE Second International Conference on Broadband Networks (BroadNets
+2005), Boston, USA, October 3–7, 2005.
+97. Y. Sun, S. Todorovic, J. Li, and D. Wu, “A Robust Linear Programming Based Boosting Algorithm,”
+Proceedings of IEEE Machine Learning for Signal Processing Workshop (MLSP 2005), Mystic, Con-
+necticut, USA, September 28–30, 2005.
+98. J. Zhao, D. Erdogmus, C. Huang, D. Wu, and Y. Fang, “An Adaptive Motion Estimation Scheme Us-
+ing Maximum Mutual Information Criteria,” Proceedings of 2005 European Signal Processing Con-
+ference (EUSIPCO-2005), Antalya, Turkey, September 4–8, 2005.
+99. D. Wu and R. Negi, “Effective Capacity Channel Model for Frequency-selective Fading Channels,”
+Proceedings of IEEE Second International Conference on Quality of Service in Heterogeneous Wired/Wireless
+Networks, (QShine 2005), Orlando, Florida, USA, August 22–24, 2005.
+100. K. Lu, J. Fan, J. Greco, D. Wu, S. Todorovic, and A. Nucci, “A Novel Anti-DDoS System for Large-
+Scale Internet,” Proceedings of ACM SIGCOMM 2005, Work-in-Progress Session, Philadelphia, PA,
+USA, August 22–26, 2005.
+101. Y. Sun, S. Todorovic, J. Li, and D. Wu, “Unifying the Error-Correcting and Output-Code AdaBoost
+within the Margin Framework,” Proceedings of International Conference on Machine Learning (ICML
+2005), Bonn, Germany, August 7–11, 2005.
+102. W. Li, B. Liu, L. Shi, Y. Xu, and D. Wu, “Preemptive Packet-Mode Scheduling to Improve TCP
+Performance,” Proceedings of International Workshop on Quality of Service (IWQoS 2005), Passau,
+Germany, June 21–23, 2005.
+103. Z. He, and D. Wu, “Accumulative Visual Information in Wireless Video Sensor Network: Definition
+and Analysis,” Proceedings of IEEE International Conference on Communications (ICC 2005), Seoul,
+Korea, May 16–20, 2005.
+104. Y. Zhou, D. Wu, and S. M. Nettles, “Authentication, Authorization, and Accounting for Real-Time
+Secondary Market Services,” Proceedings of IEEE International Conference on Communications
+(ICC 2005), Seoul, Korea, May 16–20, 2005.
+105. K. Lu, D. Wu, Y. Fang, and R. Qiu, “Performance Analysis of A Burst-Frame-Based MAC Protocol
+for Ultra-Wideband Ad Hoc Networks,” Proceedings of IEEE International Conference on Commu-
+nications (ICC 2005), Seoul, Korea, May 16–20, 2005.
+106. K. Lu, D. Wu, Y. Fang, and R. Qiu, “On Medium Access Control for High Data Rate Ultra-Wideband
+Ad Hoc Networks,” Proceedings of IEEE WCNC 2005, New Orleans, LA, USA, March 13–17, 2005.
+23
+
+-----
+107. Z. He, D. Wu, “Energy allocation and operational lifetime control for wireless video sensors,” Pro-
+ceedings of SPIE Electronic Imaging 2005, San Jose, CA, USA, Jan. 16–20, 2005.
+108. G. Ramachandran, V. Krishnan, D. Wu, Z. He, and T. D. Goswami, “A Model-based Adaptive Motion
+Estimation Scheme Using Renyi’s Entropy for Wireless Video,” Proceedings of IEEE International
+Packet Video Workshop (PV2004), Irvine, CA, USA, December 13–14, 2004.
+109. Z. He, and D. Wu, “Look-Ahead Processing and Joint Rate Control for Mutilple JVT Video Encoders,”
+Proceedings of IEEE International Packet Video Workshop (PV2004), Irvine, CA, USA, December
+13–14, 2004.
+110. H. Zhai, J. Wang, Y. Fang, and D. Wu, “A Dual-channel MAC Protocol for Mobile Ad Hoc Networks,”
+Proceedings of IEEE Workshop on Wireless Ad Hoc and Sensor Networks, in conjunction with IEEE
+Globecom 2004, Dallas, Texas, USA, November 29, 2004.
+111. D. Wu and R. Negi, “Effective Capacity-Based Quality of Service Measures for Wireless Networks,”
+Proceedings of IEEE/ACM BroadNets 2004, Broadband Wireless Networking Symposium, San Jos,
+CA, USA, October 25–29, 2004.
+112. Y. Zhou, D. Wu, and S. M. Nettles, “Analyzing and Preventing MAC-Layer Denial of Service Attacks
+for Stock 802.11 Systems,” Proceedings of IEEE/ACM First International Workshop on Broadband
+Wireless Services and Applications (BroadWISE 2004), San Jos, CA, USA, October 25, 2004.
+113. Q. He, D. Wu, and P. Khosla, “A Mechanism for Personal Control over Mobile Location Privacy,”
+Proceedings of IEEE/ACM First International Workshop on Broadband Wireless Services and Appli-
+cations (BroadWISE 2004), San Jos, CA, USA, October 25, 2004.
+114. Q. He, D. Wu, and P. Khosla, “SORI: A Secure and Objective Reputation-based Incentive Scheme
+for Ad-hoc Networks,” Proceedings of IEEE Wireless Communications and Networking Conference
+(WCNC 2004), Atlanta, GA, USA, March 21-25, 2004.
+115. D. Wu and R. Negi, “Downlink Scheduling in a Cellular Network for Quality of Service Assurance,”
+Proceedings of IEEE Vehicular Technology Conference (VTC) Fall 2003, Orlando, Florida, USA,
+October 4–9, 2003.
+116. D. Wu and R. Negi, “Utilizing Multiuser Diversity for Efficient Support of Quality of Service over a
+Fading Channel,” Proceedings of IEEE ICC’03, Anchorage, Alaska, USA, May 11–15, 2003.
+117. D. Wu and R. Negi, “A Wireless Channel Model for Support of Quality of Service,” Proceedings of
+IEEE Global Communications Conference (GLOBECOM’01), San Antonio, Texas, USA, Nov. 25–
+29, 2001.
+118. T. Hou, D. Wu, J. Yao, T. Chujo, “A Core-Stateless Buffer Management Mechanism for Differenti-
+ated Services Internet,” Proceedings of IEEE Conference on Local Computer Networks (LCN’2000),
+Tampa, Florida, USA, Nov. 9–10, 2000.
+119. D. Wu, T. Hou, Y.-Q. Zhang, “Scalable Video Transport over Wireless IP Networks,” Proceedings of
+IEEE International Symposium on Personal, Indoor and Mobile Radio Communication (PIMRC’2000),
+London, UK, Sept. 18–21, 2000. (Invited paper)
+120. D. Wu, T. Hou, Y.-Q. Zhang, H. J. Chao, “Optimal Mode Selection in Internet Video Communication:
+An End-to-End Approach,” Proceedings of IEEE ICC’2000, New Orleans, Louisiana, USA, June
+18–22, 2000.
+24
+
+-----
+121. D. Wu, T. Hou, Z.-L. Zhang, H. J. Chao, T. Hamada, “A Per-flow Based Node Architecture for In-
+tegrated Services Packet Networks,” Proceedings of IEEE ICC’2000, New Orleans, Louisiana, USA,
+June 18–22, 2000.
+122. D. Wu, T. Hou, Y.-Q. Zhang, W. Zhu, H. J. Chao, “Adaptive QoS Control for MPEG-4 Video Com-
+munication over Wireless Channels,” Proceedings of IEEE Workshop & Exhibition on MPEG-4 (IS-
+CAS’2000), Geneva, Switzerland, May 28–31, 2000.
+123. D. Wu, T. Hou, J. Yao, H. J. Chao, “Transmission of Real-time Video over the Internet: a Big Picture,”
+Proceedings of IEEE NetWorld+Interop, Las Vegas, Nevada, USA, May 10–11, 2000.
+124. T. Hou, D. Wu, W. Zhu, H.-J. Lee, T. Chiang, Y.-Q. Zhang, “An End-to-End Architecture for MPEG-4
+Video Streaming over the Internet,” Proceedings of IEEE International Conference on Image Process-
+ing (ICIP’99), Kobe, Japan, Oct. 25–28, 1999.
+125. T. Hou, D. Wu, J. Yao, T. Hamada, T. Taniguchi, “A Differentiated Services Architecture for Multime-
+dia Traffic in IP Networks,” Proceedings of International Conference on Computer Communication
+(ICCC’99), vol. 1, pp. 114–123, Tokyo, Japan, Sept. 14-16, 1999.
+126. D. Wu, T. Hou, Z.-L. Zhang, H. J. Chao, T. Hamada, T. Taniguchi, “On Implementation Architecture
+for Achieving QoS Provisioning in Integrated Services Networks,” Proceedings of IEEE International
+Conference on Communications (ICC’99), Vancouver, Canada, June 6–10, 1999.
+127. D. Wu, T. Hou, W. Zhu, Y.-Q. Zhang, H. J. Chao, “MPEG-4 Compressed Video over the Internet,”
+Proceedings of IEEE International Symposium on Circuits and Systems (ISCAS’99), Orlando, USA,
+May 30–June 2, 1999.
+128. D. Wu and H. J. Chao, “Efficient Bandwidth Allocation and Call Admission Control for VBR Ser-
+vice Using UPC Parameters,” Proceedings of IEEE INFOCOM’99, pp. 1044–1052, New York, USA,
+Mar. 21–25, 1999.
+129. D. Wu and H. J. Chao, “Buffer Management and Scheduling for TCP/IP over ATM-GFR,” Proceed-
+ings of IEEE Global Communications Conference (GLOBECOM’98), Sydney, Australia, Nov. 8–12,
+1998.
+130. D. Wu and H. J. Chao, “TCP/IP over ATM-GFR,” Proceedings of IEEE ATM Workshop (ATM’98),
+pp. 360–367, Fairfax, Virginia, USA, May 26–29, 1998.
+Number of Times being Cited for Some of My Publications
+From Google Scholar, my H-index is 39 and my total number of citations is 10655. The following was
+obtained by Google Scholar (http://scholar.google.com and typing “Dapeng Wu”) on August 10, 2016.
+• D. Wu, T. Hou, W. Zhu, Y.-Q. Zhang, J. Peha, “Streaming Video over the Internet: Approaches
+and Directions,” IEEE Transactions on Circuits and Systems for Video Technology, Special Issue on
+Streaming Video, vol. 11, no. 3, pp. 282–300, March 2001. Cited by 940 publications.
+• D. Wu and R. Negi, “Effective Capacity: A Wireless Link Model for Support of Quality of Service,”
+IEEE Transactions on Wireless Communications, vol. 2, no. 4, pp. 630–643, July 2003. Cited by 825
+publications.
+25
+
+-----
+• D. Wu, T. Hou, Y.-Q. Zhang, “Transporting Real-time Video over the Internet: Challenges and Ap-
+proaches,” Proceedings of the IEEE, vol. 88, no. 12, pp. 1855–1875, Dec. 2000. Cited by 510 publi-
+cations.
+• D. Wu, T. Hou, Y.-Q. Zhang, “Scalable Video Coding and Transport over Broadband Wireless Net-
+works,” Proceedings of the IEEE, vol. 89, no. 1, pp. 6–20, Jan. 2001. Cited by 311 publications.
+• Q. He, D. Wu, and P. Khosla, “SORI: A Secure and Objective Reputation-based Incentive Scheme
+for Ad-hoc Networks,” Proceedings of IEEE Wireless Communications and Networking Conference
+(WCNC 2004), Atlanta, GA, USA, March 21-25, 2004. Cited by 394 publications.
+• Z. He, Y. Liang, L. Chen, I. Ahmad, and D. Wu, “Power-Rate-Distortion Analysis for Wireless Video
+Communication under Energy Constraints,” IEEE Transactions on Circuits and Systems for Video
+Technology, Special Issue on Integrated Multimedia Platforms, vol. 15, no. 5, pp. 645–658, May
+2005. Cited by 333 publications.
+• D. Wu, T. Hou, W. Zhu, H.-J. Lee, T. Chiang, Y.-Q. Zhang, H. J. Chao, “On End-to-End Architecture
+for Transporting MPEG-4 Video over the Internet,” IEEE Transactions on Circuits and Systems for
+Video Technology, vol. 10, no. 6, pp. 923–941, Sept. 2000. Cited by 258 publications.
+Patents
+• “JOINT FOUNTAIN CODE AND NETWORK CODING FOR MULTIPLE-SOURCE-MULTIPLE-
+DESTINATION WIRELESS COMMUNICATION,” filed for US patent, U.S. Patent Application No.
+62446561, January 16, 2017
+• “REGRET BENEFIT RATIO LINK SCHEDULER FOR WIRELESS BACKHAUL WITH DIREC-
+TIONAL ANTENNAS,” filed for US patent, U.S. Patent Application No. 62446558, January 16,
+2017
+• “METHOD FOR NO-REFERENCE IMAGE QUALITY ASSESSMENT,” filed for US patent, U.S.
+Patent Application No. 62399985, September 26, 2016
+• “METHOD FOR EXPLOITING DIVERSITY WITH NETWORK CODING,” filed for US patent,
+U.S. Patent Application No. 62309823, March 17, 2016.
+• “METHOD FOR CONGESTION RELIEF WITH NETWORK CODING,” filed for US patent, U.S.
+Patent Application No. 62309872, March 17, 2016.
+• “A SYSTEM FOR LIVE VIDEO STREAMING USING DELAY-AWARE FOUNTAIN CODES,”
+filed for US patent, U.S. Patent Application No. 62309069, March 16, 2016.
+• “A SYSTEM FOR VIDEO STREAMING USING DELAY-AWARE FOUNTAIN CODES,” filed for
+US patent, U.S. Patent Application No. 62309023, March 16, 2016.
+• “IMPROVED JOINT FOUNTAIN CODING AND NETWORK CODING FOR LOSS-TOLERANT
+INFORMATION SPREADING,” filed for US patent, U.S. Patent Application No. 62270568, Decem-
+ber 21, 2015. Filed for international patent, PCT/US2016/067968, December 21, 2016.
+• “A JOINT FOUNTAIN CODING AND NETWORK CODING APPROACH TO LOSS-TOLERANT
+INFORMATION SPREADING,” filed for US patent, U.S. Patent Application No. 62035267, August
+8, 2014. International Patent Application No.: PCT/US2015/044333, August 15, 2015.
+26
+
+-----
+• “Social Networking Reducing Peak Power Consumption in Smart Grid,” filed for US patent, Appli-
+cation No. 14663212, March 19, 2015.
+• “Adaptive Quantization Using Piecewise Companding,” filed for US patent, Application No. 61313482,
+March 12, 2010.
+• “Ripplet-II Transform for Feature Extraction,” filed for US patent, March 2010.
+• “Ripplet – A New Transform for Two-Dimensional Signal Processing,” filed for US patent, July 2007.
+• “Apparatus for Compression of Moving Pictures in Wavelet Domain,” filed for US patent, Application
+No. 60930986, May 21, 2007.
+• “Medium Access Control in Wireless Local Area Networks with Multi-Beam Access Point,” filed for
+US patent, Application No. 11131103, May 17, 2005.
+• “Coordinated Directional Medium Access Control in a Wireless Network,” filed for US patent, Ap-
+plication No. 11080041, December 16, 2005.
+Teaching
+• Courses Taught
+– EEL 6509, Wireless Communications, Department of Electrical & Computer Engineering, Uni-
+versity of Florida, Spring 2017.
+Enrollment: 70 (graduates).
+– EEL 6825, Pattern Recognition, Department of Electrical & Computer Engineering, University
+of Florida, Spring 2017.
+Enrollment: 262 (graduates).
+– CNT 6805, Network Science and Applications, Department of Electrical & Computer Engineer-
+ing, University of Florida, Fall 2016.
+Instructor overall: 4.64/5.0 (ECE department average: 4.32)
+Enrollment: 54 (graduates).
+– EEE 6512, Image Processing and Computer Vision, Department of Electrical & Computer En-
+gineering, University of Florida, Fall 2016.
+Instructor overall: 4.48/5.0 (ECE department average: 4.32)
+Enrollment: 153 (graduates).
+– EEL 6509, Wireless Communications, Department of Electrical & Computer Engineering, Uni-
+versity of Florida, Spring 2016.
+Instructor overall: 4.68/5.0 (ECE department average: 4.46)
+Enrollment: 69 (graduates).
+– EEL 6825, Pattern Recognition, Department of Electrical & Computer Engineering, University
+of Florida, Spring 2016.
+Instructor overall: 4.28/5.0 (ECE department average: 4.46)
+Enrollment: 189 (graduates).
+– CNT 6805, Network Science and Applications, Department of Electrical & Computer Engineer-
+ing, University of Florida, Fall 2015.
+Instructor overall: 4.57/5.0 (ECE department average: 4.31)
+Enrollment: 20 (graduates).
+27
+
+-----
+– EEE 6512, Image Processing and Computer Vision, Department of Electrical & Computer En-
+gineering, University of Florida, Fall 2015.
+Instructor overall: 4.56/5.0 (ECE department average: 4.31)
+Enrollment: 99 (graduates).
+– EEL 6509, Wireless Communications, Department of Electrical & Computer Engineering, Uni-
+versity of Florida, Spring 2015.
+Instructor overall: 4.51/5.0 (ECE department average: 4.42)
+Enrollment: 51 (graduates).
+– EEL 6825, Pattern Recognition, Department of Electrical & Computer Engineering, University
+of Florida, Spring 2015.
+Instructor overall: 4.35/5.0 (ECE department average: 4.42)
+Enrollment: 93 (graduates).
+– EEL 6935, Network Science and Applications, Department of Electrical & Computer Engineer-
+ing, University of Florida, Fall 2014.
+Instructor overall: 4.36/5.0 (ECE department average: 4.17)
+Enrollment: 22 (graduates).
+– EEE 6512, Image Processing and Computer Vision, Department of Electrical & Computer En-
+gineering, University of Florida, Fall 2014.
+Instructor overall: 3.86/5.0 (ECE department average: 4.17)
+Enrollment: 64 (graduates).
+– EEL 6509, Wireless Communications, Department of Electrical & Computer Engineering, Uni-
+versity of Florida, Spring 2014.
+Instructor overall: 4.21/5.0 (ECE department average: 4.25)
+Enrollment: 57 (graduates).
+– EEL 6825, Pattern Recognition, Department of Electrical & Computer Engineering, University
+of Florida, Spring 2014.
+Instructor overall: 4.37/5.0 (ECE department average: 4.25)
+Enrollment: 92 (graduates).
+– EEL 6935, Network Science and Applications, Department of Electrical & Computer Engineer-
+ing, University of Florida, Fall 2013.
+Instructor overall: 4.44/5.0 (ECE department average: 4.27)
+Enrollment: 30 (graduates).
+– EEL 6562, Image Processing and Computer Vision, Department of Electrical & Computer En-
+gineering, University of Florida, Fall 2013.
+Instructor overall: 4.54/5.0 (ECE department average: 4.27)
+Enrollment: 102 (graduates).
+– EEL 6509, Wireless Communications, Department of Electrical & Computer Engineering, Uni-
+versity of Florida, Spring 2013.
+Instructor overall: 4.41/5.0 (ECE department average: 4.30)
+Enrollment: 108 (graduates).
+– EEL 6825, Pattern Recognition, Department of Electrical & Computer Engineering, University
+of Florida, Spring 2013.
+Instructor overall: 4.32/5.0 (ECE department average: 4.30)
+Enrollment: 91 (graduates).
+28
+
+-----
+– EEL 6935, Network Science and Applications, Department of Electrical & Computer Engineer-
+ing, University of Florida, Fall 2012.
+Instructor overall: 4.41/5.0 (ECE department average: 4.25)
+Enrollment: 47 (graduates).
+– EEL 6562, Image Processing and Computer Vision, Department of Electrical & Computer En-
+gineering, University of Florida, Fall 2012.
+Instructor overall: 4.45/5.0 (ECE department average: 4.25)
+Enrollment: 118 (graduates).
+– EEL 6509, Wireless Communications, Department of Electrical & Computer Engineering, Uni-
+versity of Florida, Spring 2012.
+Instructor overall: 4.42/5.0 (ECE department average: 4.26)
+Enrollment: 113 (graduates).
+– EEL 6562, Image Processing and Computer Vision, Department of Electrical & Computer En-
+gineering, University of Florida, Fall 2011.
+Instructor overall: 4.23/5.0 (ECE department average: 4.34)
+Enrollment: 116 (graduates).
+– EEL 6562, Image Processing and Computer Vision, Department of Electrical & Computer En-
+gineering, University of Florida, Fall 2010.
+Instructor overall: 4.68/5.0 (ECE department average: 4.32)
+Instructor evaluation: 4.71/5.0 (ECE department average: 4.28)
+Enrollment: 70 (graduates).
+– EEL 6509, Wireless Communications, Department of Electrical & Computer Engineering, Uni-
+versity of Florida, Spring 2010.
+Instructor overall: 4.83/5.0 (ECE department average: 4.37)
+Instructor evaluation: 4.83/5.0 (ECE department average: 4.28)
+Enrollment: 113 (graduates).
+– EEL 4514, Communication Systems and Components, Department of Electrical & Computer
+Engineering, University of Florida, Fall 2009.
+Instructor overall: 4.82/5.0 (ECE department average: 4.24)
+Instructor evaluation: 4.65/5.0 (ECE department average: 4.20)
+Enrollment: 22 (undergraduates).
+– EEL 6509, Wireless Communications, Department of Electrical & Computer Engineering, Uni-
+versity of Florida, Spring 2009.
+Instructor overall: 4.69/5.0 (ECE department average: 4.30)
+Instructor evaluation: 4.63/5.0 (ECE department average: 4.25)
+Enrollment: 108 (graduates).
+– EEL 6562, Image Processing and Computer Vision, Department of Electrical & Computer En-
+gineering, University of Florida, Fall 2008.
+Instructor overall: 4.56/5.0 (ECE department average: 4.31)
+Instructor evaluation: 4.59/5.0 (ECE department average: 4.25)
+Enrollment: 131 (graduates).
+– EEL 6509, Wireless Communications, Department of Electrical & Computer Engineering, Uni-
+versity of Florida, Spring 2008.
+Instructor overall for Section 0522: 4.57/5.0 (ECE department average: 4.27)
+Instructor evaluation for Section 0522: 4.52/5.0 (ECE department average: 4.21)
+29
+
+-----
+Instructor overall for Section 2587: 5.0/5.0 (ECE department average: 4.27)
+Instructor evaluation for Section 2587: 4.67/5.0 (ECE department average: 4.21)
+Instructor overall for Section 8149: 5.0/5.0 (ECE department average: 4.27)
+Instructor evaluation for Section 8149: 4.94/5.0 (ECE department average: 4.21)
+Enrollment: 56 (graduates).
+– EEL 6562, Image Processing and Computer Vision, Department of Electrical & Computer En-
+gineering, University of Florida, Fall 2007.
+Instructor overall: 4.48/5.0 (ECE department average: 4.27)
+Instructor evaluation: 4.61/5.0 (ECE department average: 4.22)
+Enrollment: 71 (graduates).
+– EEL 6509, Wireless Communications, Department of Electrical & Computer Engineering, Uni-
+versity of Florida, Spring 2007.
+Instructor overall: 4.95/5.0 (ECE department average: 4.27)
+Instructor evaluation: 4.89/5.0 (ECE department average: 4.22)
+Enrollment: 50 (graduates).
+– EEL 6562, Image Processing and Computer Vision, Department of Electrical & Computer En-
+gineering, University of Florida, Fall 2006.
+Instructor overall: 4.52/5.0 (ECE department average: 4.13)
+Instructor evaluation: 4.53/5.0 (ECE department average: 4.10)
+Enrollment: 71 (graduates).
+– EEL 6509, Wireless Communications, Department of Electrical & Computer Engineering, Uni-
+versity of Florida, Spring 2006.
+Instructor overall: 4.75/5.0 (ECE department average: 4.25)
+Instructor evaluation: 4.78/5.0 (ECE department average: 4.19)
+Enrollment: 18 (graduates).
+– EEL 6562, Image Processing and Computer Vision, Department of Electrical & Computer En-
+gineering, University of Florida, Fall 2005.
+Instructor overall: 4.56/5.0 (ECE department average: 4.19)
+Instructor evaluation: 4.49/5.0 (ECE department average: 4.14)
+Enrollment: 58 (graduates).
+– EEL 6509, Wireless Communications, Department of Electrical & Computer Engineering, Uni-
+versity of Florida, Spring 2005.
+Instructor overall: 4.83/5.0 (ECE department average: 4.21)
+Instructor evaluation: 4.70/5.0 (ECE department average: 4.16)
+Enrollment: 32 (graduates).
+– EEL 6935, Multimedia Communications and Networking, Department of Electrical & Computer
+Engineering, University of Florida, Fall 2004.
+Instructor overall: 4.30/5.0 (ECE department average: 4.14)
+Instructor evaluation: 4.44/5.0 (ECE department average: 4.09)
+Enrollment: 20 (graduates).
+– EEL 6509, Wireless Communications, Department of Electrical & Computer Engineering, Uni-
+versity of Florida, Spring 2004.
+Instructor overall: 4.89/5.0 (ECE department average: 4.20)
+Instructor evaluation: 4.85/5.0 (ECE department average: 4.13)
+Enrollment: 23 (graduates).
+30
+
+-----
+– EEL 6935, Special Topics in Multimedia Communications and Networking, Department of Elec-
+trical & Computer Engineering, University of Florida, Fall 2003.
+Instructor overall: 4.88/5.0 (ECE department average: 4.21)
+Instructor evaluation: 4.61/5.0 (ECE department average: 4.16)
+Enrollment: 9 (graduates).
+• Teaching Assistance
+– 18-552, Wireless Transmission Technologies, Department of Electrical & Computer Engineer-
+ing, Carnegie Mellon University, Spring 2001.
+Enrollment: 24 (10 undergraduates, 14 graduates).
+– 18-345, Introduction to Telecommunications Networks, Department of Electrical & Computer
+Engineering, Carnegie Mellon University, Fall 2000.
+Enrollment: 102 (undergraduates).
+– 18-845, Internet Services, Department of Electrical & Computer Engineering, Carnegie Mellon
+University, Spring 2000.
+Enrollment: 16 (graduates).
+Student Advising and Visiting Scholars
+• Ph.D. graduated (24 advisees)
+– Kairan Sun, Department of Electrical & Computer Engineering, University of FloridaNovember
+2016
+Dissertation title: Coding Strategies for Multimedia Communications over Networks
+– Xin Li, Department of Electrical & Computer Engineering, University of Florida
+July 2016
+Dissertation title: Novel Control Approaches and Simulators for Complex Networks
+– Dr. Pratik Prabhanjan Brahma, Department of Electrical & Computer Engineering, University
+of Florida
+July 2016
+Dissertation title: Reliable Subspace Representation for Better Learning and Understanding Of
+Data
+– Dr. Ruigang Fang, Department of Electrical & Computer Engineering, University of Florida
+July 2015
+Dissertation title: Image Quality Assessment.
+– Dr. Shijie Li, Department of Electrical & Computer Engineering, University of FloridaJuly 2014
+Dissertation title: Machine Learning Techniques and Their Applications to Computer Vision.
+– Dr. Baohua Sun, Department of Electrical & Computer Engineering, University of Florida
+Dec. 2013
+Dissertation title: Game Theoretical Approach for Clustering and Its Application in Big Data
+Analytics.
+– Dr. Yuejia He, Department of Electrical & Computer Engineering, University of FloridaJuly 2013
+Dissertation title: Inference of Network Topology and Dynamics: A Compressive Sensing Ap-
+proach.
+– Dr. Zheng Yuan, Department of Electrical & Computer Engineering, University of Florida
+April 2013
+Dissertation title: Advanced Video Processing Techniques in Video Transmission Systems.
+31
+
+-----
+– Dr. Christopher Paulson, Department of Electrical & Computer Engineering, University of
+Florida
+April 2013
+Dissertation title: Utilizing Glint Phenomenology to Perform Classification of Civilian Vehicle
+Using Synthetic Aperture Radar.
+– Dr. Zongrui Ding, Department of Electrical & Computer Engineering, University of Florida
+July 2012
+Dissertation title: Stochastic Optimization and Its Application to Communication Networks and
+the Smart Grid.
+– Dr. Yakun Hu, Department of Electrical & Computer Engineering, University of Florida April 2012
+Dissertation title: Advanced Signal Processing Techniques for Speaker Recognition and Com-
+munications.
+– Dr. Qian Chen, Department of Electrical & Computer Engineering, University of Florida Novem-
+ber 2011
+Dissertation title: Image and Video Processing for Denoising, Coding and Content Protection.
+– Dr. Lei Yang, Department of Electrical & Computer Engineering, University of Florida May 2011
+Dissertation title: Image and Video Compression and Copyright Protection.
+– Dr. Taoran Lu, Department of Electrical & Computer Engineering, University of Florida Novem-
+ber 2010
+Dissertation title: Content-Aware Approaches for Digital Video Adaptation, Summarization and
+Compression.
+– Dr. Zhifeng Chen, Department of Electrical & Computer Engineering, University of Florida
+November 2010
+Dissertation title: Video Distortion Analysis and System Design for Wireless Video Communi-
+cation.
+– Dr. Bing Han, Department of Electrical & Computer Engineering, University of Florida June 2010
+Dissertation title: Advanced Techniques for Digital Image Compression and Analysis.
+– Dr. Jun Xu, Department of Electrical & Computer Engineering, University of FloridaMay 2010
+Dissertation title: Sparsity Based Image and Video Processing.
+– Dr. Xihua Dong, Department of Electrical & Computer Engineering, University of Florida
+May 2010
+Dissertation title: Some Challenging Problems in Wireless Communications.
+– Dr. Youngho Jo, Department of Electrical & Computer Engineering, University of Florida
+Nov. 2009
+Dissertation title: Physical Layer Techniques for Wireless Communication Security.
+– Dr. Xiaochen Li, Department of Electrical & Computer Engineering, University of Florida
+April 2009
+Dissertation title: Power Control and Resource Allocation for Delay-Constrained Communica-
+tions.
+– Dr. Jieyan Fan, Department of Electrical & Computer Engineering, University of FloridaSept. 2007
+Dissertation title: Network Centric Traffic Analysis.
+– Dr. Jianfeng Wang, Department of Electrical & Computer Engineering, University of Florida
+Oct. 2006
+Dissertation title: Distributed Scheduling for Harnessing Channel Diversity and Smart Antennas
+in Wireless Networks.
+32
+
+-----
+– Dr. Jing Zhao, Department of Electrical & Computer Engineering, University of FloridaDec. 2005
+Dissertation title: Information Theoretic Approach for Low Complexity Adaptive Motion Esti-
+mation.
+– Dr. Sinisa Todorovic, Department of Electrical & Computer Engineering, University of Florida
+April 2005
+Dissertation title: Irregular-Structure Tree Models for Image Interpretation.
+• M.S. graduated
+– Alexander Chebaro, Department of Electrical & Computer Engineering, University of Florida
+May 2011
+– Qin Chen, Department of Electrical & Computer Engineering, University of Florida May 2010
+– Jiangping Wang, Department of Electrical & Computer Engineering, University of FloridaMay 2010
+– Shuang Liu, Department of Electrical & Computer Engineering, University of FloridaDec. 2008
+– Yiran Li, Department of Electrical & Computer Engineering, University of Florida
+May 2008
+– Ashok Ayyamani, Department of Electrical & Computer Engineering, University of Florida
+Dec. 2007
+– Stuart G. Nielson, Department of Electrical & Computer Engineering, University of Florida
+Aug. 2006
+– Ted Belser, Department of Electrical & Computer Engineering, University of FloridaDec. 2005
+Thesis title: Image Segmentation and Object Tracking for Micro Air Vehicle.
+– Ashish Jain, Department of Electrical & Computer Engineering, University of FloridaJuly 2005
+Thesis title: Optical Flow based Obstacle Avoidance for Micro Air Vehicle.
+– Deepika Dwivedi, Department of Electrical & Computer Engineering, University of Florida
+May 2005
+– Cancan Huang, Department of Electrical & Computer Engineering, University of FloridaDec. 2004
+– Archana Rao, Department of Electrical & Computer Engineering, University of FloridaDec. 2004
+– Vignesh Krishnan, Department of Electrical & Computer Engineering, University of Florida
+Dec. 2004
+– Manasa Raghavan, Department of Electrical & Computer Engineering, University of Florida
+May 2004
+• Ph.D. Students (9 advisees)
+33
+
+-----
+– Tong Shao, Department of Electrical & Computer Engineering, University of FloridaAug. 2016
+– present
+– Chiranjib Sur, Department of Computer & Information Science & Engineering, University of
+Florida
+Aug. 2015 – present
+– Qi Cai, Department of Electrical & Computer Engineering, University of Florida
+Aug. 2014 –
+present
+– Richard Al-Bayaty, Department of Electrical & Computer Engineering, University of Florida
+June 2014 – present
+– Jiade Li, Department of Electrical & Computer Engineering, University of Florida Aug. 2013 –
+present
+– Yun Zhu, Department of Electrical & Computer Engineering, University of Florida Aug. 2013 –
+present
+– James Baril, Department of Electrical & Computer Engineering, University of FloridaAug. 2012
+– present
+– Manu Chandran, Department of Electrical & Computer Engineering, University of FloridaAug. 2012
+– present
+– Qiuyuan Huang, Department of Electrical & Computer Engineering, University of FloridaAug. 2011
+– present
+• Ph.D. Dissertation Committees (completed)
+– Ewaldo Eder Carvalho Santana Junior, Department of Electrical & Computer Engineering, Uni-
+versity of Florida
+January 2017 Dissertation title: A FRAMEWORK FOR PATTERN
+CONSOLIDATION IN COGNITIVE ARCHITECTURES.
+– Kaikai Liu, Department of Electrical & Computer Engineering, University of Florida July 2015
+Dissertation title: Towards Smart Life via Mobile Sensing Systems.
+– Xiang Mao, Department of Electrical & Computer Engineering, University of Florida
+April
+2015 Dissertation title: Frame Structure Optimization and Co-Service of Real-Time and Non-
+Realtime Traffic in Cognitive Radio Network.
+– Huang Lin, Department of Electrical & Computer Engineering, University of Florida July 2014
+Dissertation title: Privacy Preserving Protocol Design in Distributed Computing Environments.
+– Savyasachi Singh, Department of Electrical & Computer Engineering, University of Florida
+July 2014
+Dissertation title: Automatic Assessment of Disordered Speech Intelligibility.
+– Xiaoyuan Li, Department of Electrical & Computer Engineering, University of FloridaJuly 2013
+Dissertation title: Primary User Behavior Estimation and Channel Assignment for Dynamic
+Spectrum Access in Energy-Constrained Cognitive Radio Sensor Networks
+– Pingping Zhu, Department of Electrical & Computer Engineering, University of FloridaApril 2013
+Dissertation title: Kalman Filtering in Reproducing Kernel Hilbert Spaces.
+– Bilal Fadlallah, Department of Electrical & Computer Engineering, University of FloridaApril 2013
+Dissertation title: Quantifying Cognitive Processes in the Human Brain Using Measures of De-
+pendence.
+34
+
+-----
+– Yuehong Gao, Department of Telematics, Norwegian University of Science and Technology
+December 2012 Dissertation title: Performance Analysis of a Cognitive Radio Network Using
+Network Calculus.
+– Chi Zhang, Department of Electrical & Computer Engineering, University of Florida July 2011
+Dissertation title: Security and Network Performance for Wireless Ad Hoc Networks.
+– Qing Yang, Department of Electrical & Computer Engineering, University of Florida May 2011
+Dissertation title: The Impact of Signal Temporal Structure on the Auditory Sensitivity and Its
+Application to Audio Dynamic Range Control.
+– Rongsheng Huang, Department of Electrical & Computer Engineering, University of Florida
+Complete date: March 2011
+Dissertation title: How to Efficiently Utilize Multi-hop Wireless Ad hoc Networks - Throughput
+Improvement and Mobility Support.
+– Johannes Karlsson, Department of Applied Physics and Electronics, Umea University, Sweden,
+Complete date: December 2010
+Dissertation title: Wireless Video Sensor Network and Its Applications in Digital Zoo.
+– Li-Der Chang, Department of Electrical & Computer Engineering, University of Florida Com-
+plete date: November 2010
+Dissertation title: Bare-Earth Extraction and Occluded Vehicle Detection in Forested Terrain
+from Airborne LiDAR Point Clouds.
+– Xinyan Zha, Department of Computer & Information Science & Engineering, University of
+Florida
+Complete date: June 2010
+Dissertation title: Multi-Pattern String Matching Algorithms.
+– Huilin Xu, Department of Electrical & Computer Engineering, University of Florida Complete
+date: April 2010
+Dissertation title: Transceiver Design and Signal Processing for UWB Signals.
+– Lei Ye, Department of Computing, Hong Kong Polytechnic University
+Complete date:
+April 2010
+Dissertation title: A Family of QoS-Aware Traffic Control Protocols.
+– Wei-jen Hsu, Department of Computer & Information Science & Engineering, University of
+Florida
+Complete date: July 2008
+Dissertation title: Analysis of Large-Scale Wireless Network Traces and Its Impact on User
+Modeling and Protocol Design.
+– Yiwen Wang, Department of Electrical & Computer Engineering, University of FloridaComplete
+date: April 2008
+Dissertation title: Point Processes Monte Carlo Filtering for Brain Machine Interfaces.
+– Yun Zhou, Department of Electrical & Computer Engineering, University of Florida Complete
+date: May 2007
+Dissertation title: Security in Wireless Sensor Networks.
+– Wencheng Lu, Department of Computer & Information Science & Engineering, University of
+Florida
+Complete date: April 2007
+Dissertation title: Data Structures for Efficient Packet Classification.
+– Seung Chul Han, Department of Computer & Information Science & Engineering, University of
+Florida
+Complete date: Feb. 2007
+Dissertation title: Optimal Node Selection and Network Load-Aware Multimedia Streaming
+Distribution in Peer-to-Peer Networks.
+35
+
+-----
+– Harsha M. Sathyendra, Department of Electrical & Computer Engineering, University of Florida
+Complete date: Nov. 2006
+Dissertation title: Robust Speaker-Independent Bandwidth Extension for Mobile and Landline
+Communications.
+– Yong Tang, Department of Computer & Information Science & Engineering, University of
+Florida
+Complete date: April 2006
+Dissertation title: Defending Against Internet Worms.
+– Arun Avudainayagam, Department of Electrical & Computer Engineering, University of Florida
+Complete date: April 2006
+Dissertation title: Collaborative Decoding: Achieving Cooperative Diversity in Wireless Net-
+works Using Soft-Input Soft-Output Decoders.
+– Hong Xiong, Department of Electrical & Computer Engineering, University of FloridaComplete
+date: Dec. 2005
+Dissertation title: Robust Adaptive Methods and Their Applications in Quadrupole Resonance.
+– Jun Tian, Department of Computer & Information Science & Engineering, University of Florida
+Complete date: Nov. 2005
+Dissertation title: Speed Adaptive Mobile IP over Wireless LAN.
+– Roberto Albertani, Department of Mechanical & Aerospace Engineering, University of Florida
+Complete date: Nov. 2005
+Dissertation title: Experimental Aerodynamic and Static Elastic Deformation Characterization
+of LAR Flexible Fixed Wings applied to Micro Aerial Vehicles.
+– Wei Liu, Department of Electrical & Computer Engineering, University of Florida
+Complete date: July 2005
+Dissertation title: Cross-Layer Design of Resource Aware Protocols for Heterogeneous Wireless
+Ad Hoc Networks.
+– Jianhua Liu, Department of Electrical & Computer Engineering, University of Florida Complete
+date: Aug. 2004
+Dissertation title: System Design and Signal Processing for OFDM-Based Wireless Communi-
+cation Systems.
+– Deniz Rende, Department of Electrical & Computer Engineering, University of Florida
+Com-
+plete date: June 2004
+Dissertation title: Bit-Interleaved Space-Frequency Coded Modulation for Orthogonal Frequency-
+Division Multiplexing Systems.
+• Ph.D. Dissertation Committees (ongoing)
+– David Ojika, Department of Electrical & Computer Engineering, University of FloridaOct. 2015
+– present
+– Scott Nivison, Department of Electrical & Computer Engineering, University of FloridaOct. 2015
+– present
+– Zheng Cao, Department of Electrical & Computer Engineering, University of FloridaOct. 2015
+– present
+– Eder Santana, Department of Electrical & Computer Engineering, University of FloridaOct. 2015
+– present
+36
+
+-----
+– Ryan Burt, Department of Electrical & Computer Engineering, University of Florida Oct. 2015
+– present
+– Xianqi Li, Department of Mathematics, University of Florida
+Aug. 2014 – present
+• Thesis Master Students
+– Ishan Patwa, Department of Electrical & Computer Engineering, University of FloridaOct. 2014
+– present
+• M.S. Thesis Committees
+– Ning Wang, Department of Mechanical & Aerospace , University of Florida
+Complete date:
+Oct. 2010
+Thesis title: A Semi-definite Programming Approach to Distance-based Cooperative Localiza-
+tion in Wireless Sensor Networks.
+– Shang Mu, Department of Mechanical & Aerospace , University of Florida
+Complete date:
+Oct. 2007
+Thesis title: Open-source Model-image Registration Software for Skeletal Kinematic Analysis.
+– Sumit Gupta, Department of Mechanical & Aerospace , University of Florida
+Complete date:
+April 2006
+Thesis title: Lyapunov-Based Range and Motion Identification for Affine and Non-Affine 3D
+Vision Systems.
+– Pankaj Aggarwal, Department of Electrical & Computer Engineering, University of Florida
+Complete date: April 2005
+Thesis title: Mobile Authentication in Wireless Systems.
+• Graduate Students for Independent Study
+– He Wang, Department of Electrical & Computer Engineering, University of FloridaAug. 2011 –
+Dec. 2011
+– Qiuyuan Huang, Department of Electrical & Computer Engineering, University of FloridaAug. 2011
+– Dec. 2011
+– Alexander M Chebaro, Department of Electrical & Computer Engineering, University of Florida
+Jan. 2011 – May 2011
+– Yuejia He, Department of Electrical & Computer Engineering, University of Florida Jan. 2011
+– May 2011
+– Raghuv Gopalakrishnan, Department of Electrical & Computer Engineering, University of Florida
+Jan. 2011 – May 2011
+37
+
+-----
+– Komal Kasat, Department of Electrical & Computer Engineering, University of FloridaJan. 2011
+– May 2011
+– Rohit Mainkar, Department of Electrical & Computer Engineering, University of FloridaJan. 2011
+– May 2011
+– Sumalya Pal, Department of Electrical & Computer Engineering, University of FloridaJan. 2011
+– May 2011
+– Sujay Shrivastava, Department of Electrical & Computer Engineering, University of Florida
+Jan. 2011 – May 2011
+– Alexander M Chebaro, Department of Electrical & Computer Engineering, University of Florida
+Aug. 2010 – Dec. 2010
+– Shankar Myilswamy, Department of Electrical & Computer Engineering, University of Florida
+Aug. 2010 – Dec. 2010
+– Hrishikesh Pendurkar, Department of Electrical & Computer Engineering, University of Florida
+Aug. 2010 – Dec. 2010
+– Sujay Shrivastava, Department of Electrical & Computer Engineering, University of Florida
+Aug. 2010 – Dec. 2010
+– Manikan Narayanaswamy, Department of Electrical & Computer Engineering, University of
+Florida
+Jan. 2010 – May 2010
+– Ramesh Kandasamy, Department of Electrical & Computer Engineering, University of Florida
+Jan. 2010 – May 2010
+– Chiragkumar Agrawal, Department of Electrical & Computer Engineering, University of Florida
+Jan. 2010 – May 2010
+– Rafeeq Abdul, Department of Electrical & Computer Engineering, University of FloridaAug. 2009
+– Dec. 2009
+– Ashwin Balakrishnan, Department of Electrical & Computer Engineering, University of Florida
+Aug. 2009 – Dec. 2009
+– Qin Chen, Department of Electrical & Computer Engineering, University of Florida Aug. 2009
+– Dec. 2009
+– Prashanth Gopinath, Department of Electrical & Computer Engineering, University of Florida
+Aug. 2009 – Dec. 2009
+38
+
+-----
+– Sumit Kandpal, Department of Electrical & Computer Engineering, University of FloridaAug. 2009
+– Dec. 2009
+– Anand Krishnamachari, Department of Electrical & Computer Engineering, University of Florida
+Aug. 2009 – Dec. 2009
+– Anushree Saxena, Department of Electrical & Computer Engineering, University of Florida
+Aug. 2009 – Dec. 2009
+– Prashanth Gopinath, Department of Electrical & Computer Engineering, University of Florida
+Aug. 2009 – Dec. 2009
+– Ashwin Balakrishnan, Department of Electrical & Computer Engineering, University of Florida
+May 2009 – Aug. 2009
+– Ramesh Kandasamy, Department of Electrical & Computer Engineering, University of Florida
+May 2009 – Aug. 2009
+– Megha Mathur, Department of Electrical & Computer Engineering, University of FloridaMay 2009
+– Aug. 2009
+– Anushree Saxena, Department of Electrical & Computer Engineering, University of Florida
+May 2009 – Aug. 2009
+– Pranali Narendra Shah, Department of Electrical & Computer Engineering, University of Florida
+May 2009 – Aug. 2009
+– Deepika Hindupur, Department of Electrical & Computer Engineering, University of Florida
+May 2009 – Aug. 2009
+– Chandni Singh, Department of Electrical & Computer Engineering, University of FloridaMay 2009
+– Aug. 2009
+– Surbhi Singhal, Department of Electrical & Computer Engineering, University of FloridaMay 2009
+– Aug. 2009
+– Ayyappa Karthikeyan, Department of Electrical & Computer Engineering, University of Florida
+May 2009 – Aug. 2009
+– Qin Chen, Department of Electrical & Computer Engineering, University of Florida May 2009
+– Aug. 2009
+– Syed Owais Ahmad, Department of Electrical & Computer Engineering, University of Florida
+Jan. 2009 – May 2009
+39
+
+-----
+– Deepika Hindupur, Department of Electrical & Computer Engineering, University of Florida
+Jan. 2009 – May 2009
+– Young-Ho Jo, Department of Electrical & Computer Engineering, University of FloridaJan. 2009
+– May 2009
+– Gaurav Joshi, Department of Electrical & Computer Engineering, University of FloridaJan. 2009
+– May 2009
+– Madhur Mehta, Department of Electrical & Computer Engineering, University of FloridaJan. 2009
+– May 2009
+– Rishi Ramesh Panjwani, Department of Electrical & Computer Engineering, University of Florida
+Jan. 2009 – May 2009
+– Keshav Sunder Rajan, Department of Electrical & Computer Engineering, University of Florida
+Jan. 2009 – May 2009
+– Tilottama Sen, Department of Electrical & Computer Engineering, University of FloridaJan. 2009
+– May 2009
+– Pranali Narendra Shah, Department of Electrical & Computer Engineering, University of Florida
+Jan. 2009 – May 2009
+– Chandni Singh, Department of Electrical & Computer Engineering, University of FloridaJan. 2009
+– May 2009
+– Surbhi Singhal, Department of Electrical & Computer Engineering, University of FloridaJan. 2009
+– May 2009
+– Ruofan Yang, Department of Electrical & Computer Engineering, University of FloridaJan. 2009
+– May 2009
+– Zongrui Ding, Department of Electrical & Computer Engineering, University of FloridaJan. 2009
+– May 2009
+– Ramachandran Eswaran, Department of Electrical & Computer Engineering, University of Florida
+Jan. 2009 – May 2009
+– Ramachandran Eswaran, Department of Electrical & Computer Engineering, University of Florida
+Aug. 2008 – Dec. 2008
+– Keshav Rajan, Department of Electrical & Computer Engineering, University of FloridaAug. 2008
+– Dec. 2008
+40
+
+-----
+– Christopher R. Paulson, Department of Electrical & Computer Engineering, University of Florida
+Aug. 2007 – Dec. 2007
+– Zheng Gao, Department of Electrical & Computer Engineering, University of FloridaAug. 2007
+– Dec. 2007
+– Shuang Liu, Department of Electrical & Computer Engineering, University of FloridaAug. 2007
+– Dec. 2007
+– Shuang Li, Department of Electrical & Computer Engineering, University of Florida May 2007
+– Aug. 2007
+– Xu Zhao, Department of Agricultural and Biological Engineering, University of FloridaSept. 2006
+– Dec. 2006
+– Stuart G. Nielson, Department of Electrical & Computer Engineering, University of Florida
+May 2006 – Aug. 2006
+– Deepika Dwivedi, Department of Electrical & Computer Engineering, University of Florida
+Jan. 2005 – April 2005
+– Vignesh Krishnan, Department of Electrical & Computer Engineering, University of Florida
+Jan. 2004 – April 2004
+– Manasa Raghavan, Department of Electrical & Computer Engineering, University of Florida
+Jan. 2004 – April 2004
+– Archana Rao, Department of Electrical & Computer Engineering, University of FloridaJan. 2004
+– April 2004
+– Xiaomin Zhu, Department of Electrical & Computer Engineering, University of FloridaJan. 2004
+– April 2004
+• B.S. Thesis Supervised
+– James Greco, Department of Electrical & Computer Engineering, University of Florida
+Com-
+plete date: April 2005
+Thesis title: Parallel Computer Vision and Image Processing Architecture.
+• B.S. Thesis Committee
+– Alexandar Chebaro, Department of Electrical & Computer Engineering, University of Florida
+Complete date: April 2010
+Thesis title: Interference Management Strategies for Uplink Transmission in Cellular Networks.
+41
+
+-----
+• Postdoctoral associates
+– Dr. Yong Liu, Department of Electrical & Computer Engineering, University of FloridaSeptem-
+ber 2016 – present
+– Dr. Huazi Zhang, Department of Electrical & Computer Engineering, University of Florida Au-
+gust 2014 – October 2015
+– Dr. Hyung Rai Oh, Department of Electrical & Computer Engineering, University of Florida
+August 2011 – July 2012
+– Dr. Kejie Lu, Department of Electrical & Computer Engineering, University of FloridaApril 2004
+– July 2005
+• Visitors
+– Dr. Kwang-deok Seo, Department of Electrical & Computer Engineering, University of Florida
+Aug. 2012 – Aug. 2013
+– Dr. Lei Sun, Department of Electrical & Computer Engineering, University of Florida Sept. 2011
+– Sept. 2012
+– Dr. Hwangjun Song, Department of Electrical & Computer Engineering, University of Florida
+Jan. 2011 – Jan. 2012
+– Dr. Tao Han, Department of Electrical & Computer Engineering, University of Florida
+Au-
+gust 2010 – August 2011
+– Dr. Wang Liu, Department of Electrical & Computer Engineering, University of Florida Oct. 2010
+– Oct. 2011
+– Dr. Zhi Chen, Department of Electrical & Computer Engineering, University of Florida Oct. 2009
+– Oct. 2010
+– Yi Chen, Department of Electrical & Computer Engineering, University of Florida Sept. 2009 –
+Sept. 2010
+– Dr.
+Qing Wang, Department of Electrical & Computer Engineering, University of Florida
+Sept. 2008 – Aug. 2009
+– Dr. Pengwei Hao, Department of Electrical & Computer Engineering, University of Florida
+March 2009 – May 2009
+– Dr.
+Yunzhao Li, Department of Electrical & Computer Engineering, University of Florida
+Oct. 2007 – Dec. 2008
+42
+
+-----
+Affiliations
+• Affiliated Faculty, Technological University of America
+March 2010–present
+• Graduate faculty, Department of Computer and Information Science and Engineering, University of
+Florida
+March 2010–present
+• Member, Wireless Information Networking Group (WING), University of Florida Aug. 2005–present
+• Member, Genetics Institute, University of Florida
+April 2007–present
+• Member, NSF Center for High-Performance Reconfigurable Computing (CHREC)
+May 2006–
+May 2007
+• Member, Center for MAV Research, University of Florida
+Sept. 2004–May 2006
+University Service
+• Member of the steering committee for strategic planning for the information technology research area,
+College of Engineering, University of Florida
+Oct. 2009–present
+• Mentor, University Minority Mentor Program, University of Florida
+Aug. 2008–July 2009
+• Mentor, Student Science Training Program (for high school students), University of Florida May 2008–
+Aug. 2008
+• Member of Search Committee for Associate Dean for Research and Graduate Programs, College of
+Engineering, University of Florida
+Sept. 2008–Nov. 2008
+Departmental Service
+• Member of ECE Website Redesign Committee
+Sept. 2011–present
+• Member of Faculty Search Committee
+Nov. 2010–April 2011
+• Member of Graduate Recruiting and Admissions Committee
+Aug. 2007–present
+• Member of ABET Committee for EGN 1935 (ECE Adventures)
+Aug. 2007–present
+• Member of ABET Committee for EEL 3112 (Circuits 2)
+Aug. 2004–present
+• Member of Awards Committee
+Aug. 2004–present
+• Member of Faculty Search Committee
+July 2005–May 2006
+• Member of Graduate Admissions and Aid Committee
+Sept. 2003–May 2004
+Professional Activities
+• Editorship for international journals
+– Editor-in-Chief for IEEE Transactions on Network Science and Engineering,
+2017–present
+– Founding Editor-in-Chief for Journal of Advances in Multimedia
+July 2006–December 2008
+43
+
+-----
+– Founder of IEEE Transactions on Network Science and Engineering, 2013
+– Associate Editor for IEEE Transactions on Communications
+June 2016–present
+– Senior Editor for IEEE Signal Processing Magazine
+Jan. 2015–present
+– Associate Editor for IEEE Transactions on Signal and Information Processing over Networks
+Nov. 2014–present
+– Associate Editor for IEEE Transactions on Wireless Communications
+March 2006–Nov. 2010
+– Associate Editor for IEEE Transactions on Circuits and Systems for Video Technology Jan. 2006–
+March 2016
+– Associate Editor for IEEE Transactions on Vehicular Technology
+Jan. 2004–Nov. 2007
+– Associate Editor for Journal of Visual Communication and Image Representation, Elsevier, June
+2010–Dec. 2013
+– Associate Editor for International Journal of Ad Hoc and Ubiquitous Computing, INDER-
+SCIENCE,
+Sept. 2004–Dec. 2013
+– Editor for SigPort, IEEE Signal Processing Society,
+April 2016–present
+– Guest Editor for Computers & Electrical Engineering, Special Issue on Software Architecture
+and Modeling for Industrial Internet of Things, 2015
+– Guest Editor for IEEE Transactions on Multimedia, Special Issue on Cloud-based Video Pro-
+cessing and Content Sharing, 2015
+– Guest Editor for IEEE Network Magazine, Special Issue on Machine and Robotic Networking,
+2011
+– Guest Editor for Journal of Visual Communication and Image Representation (JVCI), Special
+Issue on Network Technologies for Emerging Broadband Multimedia Services, 2008
+– Guest Editor for IEEE Journal on Selected Areas in Communications (JSAC), Special Issue on
+Cross-layer Optimized Wireless Multimedia Communications, 2006
+– Guest Editor for Special Issue on SOFT RADIO-ENABLED HETEROGENEOUS WIRELESS
+NETWORKS, ACM Mobile Networks and Applications (MONET) Journal, 2005
+• Membership of steering committees or advisory boards for international journals
+– Member of the Steering Committee of IEEE Transactions on Network Science and Engineering,
+2016–2017
+– Member of the Steering Committee of IEEE Wireless Communications Letters, representing the
+IEEE Signal Processing Society,
+January 1, 2014–December 31, 2017
+– Member of the Advisory Board of the EAI Endorsed Transactions on Industrial Networks and
+Intelligent Systems,
+January 2014–present
+• Chair, Conference Committee, SigPort, IEEE Signal Processing Society,
+April 2016–present
+• Member of the IEEE Signal Processing Society Publications Board, January 1, 2014–December 31,
+2017
+• Member of the IEEE Signal Processing Society Conference Board,
+January 1, 2016–December 31,
+2017
+• Advisor, Interest Group (IG) on Media Streaming, Technical Committee on Multimedia Communica-
+tions, IEEE Communications Society
+2014–present
+44
+
+-----
+• Advisor, Interest Group (IG) on Distributed and Sensor Networks for Mobile Media Computing and
+Applications, Technical Committee on Multimedia Communications, IEEE Communications Society
+2014–present
+• Chair, Special Committee of Area Chairs, Multimedia Signal Processing (MMSP) Technical Com-
+mittee, IEEE Signal Processing Society
+Jan. 2011–Dec.
+2012
+• Chair, Mobile and wireless multimedia Interest Group (MobIG), Technical Committee on Multimedia
+Communications, IEEE Communications Society
+July 2004–June 2010
+• Chair, Award Committee, Technical Committee on Multimedia Communications, IEEE Communica-
+tions Society
+Sept. 2008–June
+2010
+• Director of Communication, IEEE Gainesville Section
+Jan. 2004–Dec. 2005
+• Member, Best Paper Award Committee, Technical Committee on Multimedia Communications, IEEE
+Communications Society
+July 2004–present
+• Member, Best Paper Award Committee, IEEE International Conference on Multimedia and Expo
+(ICME 2006), Toronto, Canada, July 9–12, 2006.
+• Member, EDICS committee for IEEE Transactions on Circuits and Systems for Video Technology
+Nov. 2007–present
+• Organizer or Executive Committee for international conferences
+– Conference Board Liaison for IEEE Global Conference on Signal and Information Processing
+(GlobalSIP), Montreal, Canada, November 14–16, 2017.
+– Area Chair for IEEE VCIP 2016, Chengdu, Sichuan, P.R. China, November 27–30, 2016.
+– General Chair for IEEE Global Conference on Signal and Information Processing (GlobalSIP),
+Orlando, FL, USA, December 14–16, 2015.
+– Technical Program Committee Chair for International Conference on Future Internet Technolo-
+gies, Seoul, Korea, June 8–10, 2015.
+– Area Chair for IEEE INFOCOM 2014, Toronto, Canada, April 27–May 2, 2014.
+– Tutorial Chair for Visual Communications and Image Processing (VCIP), Kuching, Sarawak,
+Malaysia, November 24–27, 2013.
+– Panel organizer, IEEE Computer Communications Workshop (CCW), Niagara Falls, Ontario,
+Canada, November 13–15, 2013.
+– Chair, NSF Workshop on Future Directions of Wireless Networking, Arlington, VA, USA,
+November 4–5, 2013.
+– Member of Steering Committee for International Conference on Advances in Computing, Com-
+munications and Informatics (ICACCI), Mysore, India, August 22–25, 2013.
+– General Chair for International Symposium on Security in Computing and Communications
+(SSCC), Mysore, India, August 22–24, 2013.
+– Area Chair for IEEE INFOCOM 2013, Turin, Italy, April 14–19, 2013.
+45
+
+-----
+– Panel organizer, NSF Workshop on Big Data: From Signal Processing to Systems Engineering,
+Arlington, VA, USA, March 21–22, 2013.
+– Special Session Organizer, Asia-Pacific Signal and Information Processing Association (AP-
+SIPA) Annual Summit and Conference, Hollywood, CA, USA, December 3–6, 2012.
+– Program Co-Chair for IEEE International Conference on Communications in China, Signal Pro-
+cessing for Communications Symposium, Beijing, China, August 15–18, 2012.
+– Chair for Best Paper Award Committee of IEEE INFOCOM 2012, Orlando, FL, USA, March
+25 – March 30, 2012.
+– Technical Program Committee Chair for IEEE INFOCOM 2012, Orlando, FL, USA, March 25
+– March 30, 2012.
+– Poster & Demo Chair for International Conference on Mobile and Ubiquitous Multimedia (MUM)
+2011, Beijing, China, December 7–9, 2011.
+– Area Chair for IEEE International Conference on Image Processing (ICIP), Brussels, Belgium,
+September 11–14, 2011.
+– Publicity Chair for IEEE Workshop on Signal Processing Advances in Wireless Communica-
+tions (SPAWC 2011), San Francisco, CA, USA, June 26 – June 29, 2011.
+– Area Chair for IEEE INFOCOM 2011, Shanghai, China, April 10–15, 2011.
+– General Chair for IEEE International Conference on Multimedia and Expo (ICME) 2009, Work-
+shop on Emerging Technology in Multimedia Communication and Networking, New York City,
+NY, USA, June 28 - July 3, 2009.
+– Program Co-Chair for IEEE International Conference on Communications (ICC 2008), Signal
+Processing for Communications Symposium, Beijing, China, May 19–23, 2008.
+– Program Co-Chair for International Conference on Aging, Disability, and Independence (ICADI
+2008), Research and Development Theme, St. Petersburg, Florida, USA, February 20–23, 2008.
+– Track Chair for IEEE Vehicular Technology Conference (VTC 2007 Fall conference), Wireless
+Applications Track, Baltimore, Maryland, USA, October 1–3, 2007.
+– Student Travel Grant Chair for IEEE INFOCOM 2007, Anchorage, Alaska, USA, May 6–12,
+2007.
+– Publicity Chair for IEEE INFOCOM 2007, Anchorage, Alaska, USA, May 6–12, 2007.
+– Track Chair for IEEE International Conference on Multimedia and Expo (ICME 2006), Multi-
+media Networking Track, Toronto, Canada, July 9–12, 2006.
+– Publicity Chair for International Wireless Communications & Mobile Computing Conference
+(IWCMC 2006), Vancouver, Canada, July 3–6, 2006.
+– Publicity Co-Chair for IEEE Consumer Communications and Networking Conference (CCNC
+2006), Las Vegas, Nevada, USA, January 7–10, 2006.
+– Publicity Co-Chair for First International Conference on Collaborative Computing: Networking,
+Applications and Worksharing (CollaborateCom 2005), San Jose, California, USA, December
+19–21, 2005.
+– Student Travel Awards Chair for First International Conference on Security and Privacy for
+Emerging Areas in Communication Networks (SecureComm 2005), Athens, Greece, September
+2005.
+46
+
+-----
+– Organizer of Special session on mobile and wireless multimedia, IEEE International Conference
+on Communications (ICC 2005), Multimedia Communication and Home Networking Sympo-
+sium, Seoul, Korea, May 16–20, 2005.
+– Program Co-Chair for IEEE/ACM First International Workshop on Broadband Wireless Services
+and Applications (BroadWISE 2004), San Jos, CA, USA, October 25, 2004.
+• Member of technical program committees for international conferences
+– IEEE INFOCOM 2017, Atlanta, GA, USA, May 1–4, 2017.
+– IEEE INFOCOM 2016, San Francisco, CA, USA, April 10–April 15, 2016.
+– IEEE INFOCOM 2015, Hong Kong, China, April 26–April 30, 2015.
+– IEEE International Conference on Image Processing (ICIP), Paris, France, October 27–30, 2014.
+– IEEE INFOCOM 2014, Toronto, Canada, April 27–May 2, 2014.
+– IEEE China Summit and International Conference on Signal and Information Processing (Chi-
+naSIP 2013), Beijing, China, July 6–10, 2013.
+– IEEE International Symposium on Circuits and Systems (ISCAS 2013), Beijing, China, May
+19–23, 2013.
+– IEEE International Conference on Smart Grid Communications, Tainan City, Taiwan, November
+5–8, 2012.
+– IEEE International Workshop on Multimedia Signal Processing (MMSP), Banff, Canada, Septem-
+ber 17–19, 2012.
+– IEEE International Conference on Multimedia and Expo (ICME), Melbourne, Australia, July
+9–13, 2012.
+– IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Kyoto,
+Japan, March 25–30, 2012.
+– IEEE International Conference on Emerging Signal Processing Applications (ESPA), Las Vegas,
+NV, USA, January 12–14, 2012.
+– IEEE SmartGridComm, Symposium on Architectures and Models for the Smart Grid, Brussels,
+Belgium, October 17–20, 2011.
+– IEEE International Workshop on Multimedia Signal Processing (MMSP), Hangzhou, China,
+October 17–19, 2011.
+– IEEE International Conference on Image Processing (ICIP), Brussels, Belgium, September 11–
+14, 2011.
+– Workshop on Simplifying Complex Network for Practitioners (SIMPLEX’11), Minneapolis,
+Minnesota, USA, June 24, 2011.
+– IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Prague,
+Czech Republic, May 22–27, 2011.
+– International Wireless Communications and Mobile Computing Conference, Caen, France, June
+28 – July 2, 2010.
+– IEEE INFOCOM 2010, San Diego, California, USA, March 15–19, 2010.
+– IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Dallas,
+TX, USA, March 14 - 19, 2010.
+47
+
+-----
+– IEEE Global Telecommunications Conference (Globecom 2009), Wireless Networking Sympo-
+sium, Hawaii, USA, November 30 – December 4, 2009.
+– IEEE International Workshop on Multimedia Signal Processing (MMSP 2009), Rio de Janeiro,
+Brazil, October 5–7, 2009.
+– IEEE International Conference on Communications (ICC 2009), Wireless Networking Sympo-
+sium, Dresden, Germany, June 14–18, 2009.
+– IEEE INFOCOM 2009, Rio de Janeiro, Brazil, April 19–25, 2009.
+– IEEE Global Telecommunications Conference (Globecom 2008), Wireless Networking Sympo-
+sium, New Orleans, LA, USA, November 30 – December 4, 2008.
+– IEEE INFOCOM 2008, Phoenix, Arizona, USA, April 13–19, 2008.
+– IEEE Global Telecommunications Conference (Globecom 2007), Wireless Networking Sympo-
+sium, Washington, D.C., USA, November 26 – 30, 2007.
+– The Fourth International Conference on Broadband Communications, Networks, and Systems
+(BROADNETS 2007), Wireless Symposium, Raleigh, North Carolina, USA, September 2007.
+– IEEE Statistical Signal Processing Workshop, Madison, Wisconsin, USA, August 26–29, 2007.
+– 16TH INTERNATIONAL CONFERENCE ON COMPUTER COMMUNICATIONS AND NET-
+WORKS (ICCCN 2007), Emerging Technologies and Standards Track, Turtle Bay Resort, Hon-
+olulu, Hawaii, USA, August 13–16, 2007.
+– IEEE International Conference on Communications (ICC 2007), Computer and Communica-
+tions Network Security Symposium, Glasgow, Scotland, UK, June 24–28, 2007.
+– IEEE INFOCOM 2007, Anchorage, Alaska, USA, May 6–12, 2007.
+– IEEE Wireless Communications and Networking Conference, (WCNC 2007), Hong Kong, March
+11–15, 2007.
+– IEEE Global Telecommunications Conference (Globecom 2006), Wireless Communications
+Symposium, San Francisco, CA, USA, November 27 – December 1, 2006.
+– IEEE International Conference on Mobile Ad-Hoc and Sensor Systems (MASS 2006), Vancou-
+ver, Canada, October 9 – 12, 2006.
+– International Conference on Algorithms, Systems, and Applications of Wireless Networks (WASA),
+August 15–18, 2006, Xi’an, China.
+– IEEE International Conference on Multimedia and Expo (ICME 2006), Toronto, Canada, July
+9–12, 2006.
+– IEEE International Conference on Communications (ICC 2006), General Conference, Istanbul,
+Turkey, June 11–15, 2006.
+– IEEE International Symposium on Circuits and Systems (ISCAS 2006), May 21–24, 2005, Kos,
+Greece.
+– IEEE INFOCOM 2006, Barcelona, Spain, April 24–27, 2006.
+– IEEE Global Telecommunications Conference (Globecom 2005), Wireless Communications
+Symposium, St. Louis, MO, USA, November 28 - December 2, 2005.
+– IEEE/ACM Second International Conference on Quality of Service in Heterogeneous Wired/Wireless
+Networks (QShine 2005), Orlando, Florida, USA, August 22–24, 2005.
+– IEEE Workshop on Local and Metropolitan Area Networks (LANMAN’05), Chania, Island of
+Crete, Greece, September 18–21, 2005.
+48
+
+-----
+– IEEE International Conference on Multimedia and Expo (ICME 2005), Amsterdam, The Nether-
+lands, July 6–8, 2005.
+– The 2005 International Conference on Parallel Processing (ICPP-05), Georg Sverdrups House,
+University of Oslo, Norway, June 14–17, 2005.
+– IEEE International Symposium on Circuits and Systems (ISCAS 2005), May 23–26, 2005,
+Kobe, Japan.
+– IEEE International Conference on Communications (ICC 2005), General Conference, Seoul,
+Korea, May 16–20, 2005.
+– IEEE International Conference on Communications (ICC 2005), Multimedia Communication
+and Home Networking Symposium, Seoul, Korea, May 16–20, 2005.
+– International Workshop on Standardization, Interoperability and Deployment of Wireless Access
+Solutions (SID-WAS 2005), Orlando, Florida, USA, April 21, 2005.
+– IEEE International Workshop on Multimedia Systems and Networking (WMSN05), Phoenix,
+Arizona, USA, April 7–9, 2005.
+– IEEE Wireless Communications and Networking Conference, (WCNC 2005), New Orleans,
+LA, USA, March 13–17, 2005.
+– IEEE INFOCOM 2005, Miami, Florida, USA, March 13–17, 2005.
+– IEEE International Packet Video Workshop (PV 2004), Irvine, CA, USA, December 13–14,
+2004.
+– IEEE Global Telecommunications Conference (Globecom 2004), General Symposium, Dallas,
+Texas, USA, November 29 - December 3, 2004.
+– IEEE/ACM First International Workshop on Broadband Wireless Services and Applications
+(BroadWISE 2004), San Jos, CA, USA, October 25, 2004.
+– IEEE/ACM First International Conference on Quality of Service in Heterogeneous Wired/Wireless
+Networks (QShine 2004), Dallas, Texas, USA, October 18-20, 2004.
+– IEEE International Conference on Multimedia and Expo (ICME 2004), Taipei, Taiwan, June
+27–30, 2004.
+– IEEE International Conference on Communications (ICC 2004), Multimedia Technologies and
+Services Symposium, Paris, France, June 20–24, 2004.
+– IEEE International Symposium on Circuits and Systems (ISCAS 2004), May 23–26, 2004, Van-
+couver, British Columbia, Canada.
+– IEEE Workshop on Local and Metropolitan Area Networks (LANMAN’04), Mill Valley, CA,
+USA, April 25–28, 2004.
+– IEEE Wireless Communications and Networking Conference (WCNC 2004), Atlanta, GA, USA,
+March 21–25, 2004.
+– 2nd International Conference on Wired/Wireless Internet Communications (WWIC 2004), Frank-
+furt (Oder), Germany, February 5–7, 2004.
+– IEEE Consumer Communications and Networking Conference (CCNC 2004), Las Vegas, Nevada,
+USA, January 5–8, 2004.
+• Panelist for international conferences
+– Panel on Research Trend and Challenge in Cloud Computing and Big Data, International Con-
+ference on Cloud Computing and Big Data (CloudCom-Asia), Hong Kong, June 7–9, 2016.
+49
+
+-----
+– Panel on Signal Processing R&D Trends, IEEE China Summit and International Conference
+on Signal and Information Processing (ChinaSIP 2015), Chengdu, Sichuan, China, July 12–15,
+2015.
+– Panel on mobile multimedia, IEEE Computer Communications Workshop (CCW), Niagara
+Falls, Ontario, Canada, November 13–15, 2013.
+– Panel on theoretical foundation for network science, IEEE Computer Communications Work-
+shop (CCW), Niagara Falls, Ontario, Canada, November 13–15, 2013.
+• Session chair for international conferences
+– IEEE ICC 2016, Kuala Lumpur, Malaysia, May 23–27, 2016.
+– IEEE INFOCOM 2015, Hong Kong, China, April 26–April 30, 2015.
+– SPIE Visual Communications and Image Processing (VCIP 2010), Huang Shan, An Hui, China,
+July 11–14, 2010.
+– IEEE CCNC 2009, Las Vegas, Nevada, USA, January 10–13, 2009.
+– International Conference on Pattern Recognition (ICPR 2008), Workshop on Mobile Multimedia
+Processing, Tampa, FL, USA, December 7, 2008.
+– IEEE ICC 2008, Beijing, China, May 19–23, 2008.
+– IEEE Milcom 2007, Orlando, FL, USA, October 29–31, 2006.
+– IEEE Globecom 2006, San Francisco, CA, USA, November 27–December 1, 2006.
+– IEEE INFOCOM 2006, Barcelona, Spain, April 24–27, 2006.
+– IEEE Globecom 2005, St. Louis, MO, USA, November 28–December 2, 2005.
+– QShine 2005, Orlando, FL, USA, Aug. 22–24, 2005.
+– IEEE ICC 2005, Seoul, Korea, May 16–20, 2005.
+– IEEE INFOCOM 2005, Miami, Florida, USA, March 13–17, 2005.
+– IEEE International Packet Video Workshop (PV2004), Irvine, CA, USA, December 13–14,
+2004.
+– IEEE Globecom 2004, Dallas, Texas, USA, November 29–Dec. 3, 2004.
+– IEEE Wireless Communications and Networking Conference (WCNC 2004), Atlanta, GA, USA,
+March 21–25, 2004.
+– IEEE Vehicular Technology Conference (VTC) Fall 2003, Orlando, Florida, USA, October 4–9,
+2003.
+– International Packet Video Workshop, Pittsburgh, PA, USA, April 24–26, 2002.
+• Reviewing Activities and Panelist for Government Funding Agencies
+– National Science Foundation (NSF), U.S.
+– Defense Advanced Research Projects Agency (DARPA), U.S. Department of Defense
+– U.S. Army Research Office
+– U.S. Department of Energy
+– Kentucky Science & Engineering Foundation, U.S.
+– Louisiana Board of Regents Support Fund, U.S.
+50
+
+-----
+– Natural Sciences and Engineering Research Council of Canada
+– British Columbia Innovation Council, Canada
+– Research Grants Council of Hong Kong
+– University Grants Committee, Hong Kong
+– Qatar National Research Fund
+– Austrian Science Fund
+• Reviewing Activities for Archived Journals
+– IEEE Transactions on Broadcasting
+– IEEE Transactions on Circuits and Systems for Video Technology
+– IEEE Transactions on Communications
+– IEEE Transactions on Information Theory
+– IEEE Transactions on Multimedia
+– IEEE Transactions on Image Processing
+– IEEE/ACM Transactions on Networking
+– IEEE Transactions on Wireless Communications
+– IEEE Journal on Selected Areas in Communications
+– IEEE Signal Processing Letters
+– IEEE Signal Processing Magazine
+– IEEE Communications Magazine
+– IEEE Wireless Communications Magazine
+– IEE Electronics Letters
+– ACM Wireless Networks
+– ACM Mobile Networks and Applications (MONET)
+– EURASIP Journal on Applied Signal Processing
+– Journal of Visual Communication and Image Representation (Elsevier)
+– Computer Networks (Elsevier)
+– Journal of Communications and Networks
+– Theoretical Computer Science, Elsevier
+• Reviewing Activities for International Conferences
+– IEEE INFOCOM (1999, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012,
+2013, 2014)
+– IEEE ICC (1998, 2004, 2005, 2006, 2007, 2008)
+– IEEE GLOBECOM (2001, 2002, 2003, 2004, 2005, 2006, 2007)
+– IEEE WCNC (2001, 2004, 2005, 2007)
+– IEEE NetWorld+Interop (2000)
+– IEEE Real-Time Systems Symposium (1999)
+51
+
+-----
+– IEEE CONSUMER COMMUNICATIONS AND NETWORKING CONFERENCE (CCNC 2004)
+– International Packet Video Workshop (2003)
+• Membership in Professional Societies
+– IEEE: Fellow
+∗ Aerospace & Electronic Systems Society (AESS)
+∗ Circuits and Systems Society (CAS)
+· Member of Technical Committee on Visual Signal Processing & Communications
+∗ Communications Society (ComSoc)
+· Member of Technical Committee on Multimedia Communications
+· Member of Technical Committee on Personal Communications
+· Member of Technical Committee on Computer Communications
+· Member of Technical Committee on Internet
+· Member of Technical Committee on Communication Theory
+∗ Computer Society
+· Member of Task Force on Network Science
+∗ Information Theory Society
+∗ Signal Processing Society
+· Member of Multimedia Signal Processing Technical Committee, 1/1/2009–12/31/2012
+· Member of the Workshop/Conference Subcommittee, Multimedia Signal Processing
+Technical Committee, 3/2009–12/2012
+∗ Vehicular Technology Society
+– ACM
+∗ SIGCOMM: Data Communications
+∗ SIGMOBILE: Mobility of Systems, Users, Data and Computing
+– Society for Industrial and Applied Mathematics (SIAM)
+– American Society for Engineering Education
+– SPIE
+Keynote/Plenary Speech, Distinguished Lectures
+1. “Why Deep Learning Works?” Keynote Speech, International Conference on Cloud Computing and
+Big Data (CloudCom-Asia), Hong Kong, June 7–9, 2016.
+2. “Multimedia over Future Internet: Challenges and Opportunities,” Keynote Speech, International
+Conference on Future Internet Technologies (CFI), Seoul, Korea, June 8–10, 2015.
+3. “Network Science and Its Application in Wireless Networking,” Distinguished Lecture, International
+Conference on Computing, Networking, and Communications (ICNC 2014), Honolulu, Hawaii, USA,
+February 3, 2014.
+4. “Scalable Video Transport over Wireless Networks,” Keynote Speech, International Conference on
+Pattern Recognition (ICPR 2008), Workshop on Mobile Multimedia Processing, Tampa, FL, USA,
+December 7, 2008.
+52
+
+-----
+Panelist at International Conferences
+1. Panel on Signal and Information Processing R&D trends, IEEE China Summit and International Con-
+ference on Signal and Information Processing (ChinaSIP 2015), Chengdu, Sichuan, China, July 12–
+15, 2015.
+2. Panel on Vulnerability and Resilience of Interdependent Systems, IEEE INFOCOM 2015, Workshop
+on Inter-Dependent Networks, Hong Kong, April 27, 2015.
+Tutorial at International Conferences
+1. “Streaming Video over the Internet and Wireless Networks,” IEEE China Summit and International
+Conference on Signal and Information Processing (ChinaSIP 2015), Chengdu, Sichuan, China, July
+12–15, 2015.
+Invited Seminars and Presentations
+1. “Storage-Retrieval-Repair Cost Tradeoff in Network Coded Distributed Storage Systems,” Invited
+Seminar, Huazhong University of Science and Technology, Wuhan, Hubei, P. R. China, December 23,
+2016.
+2. “Ripplet: a New Transform for Feature Extraction and Image Representation,” Invited Seminar, Bei-
+jing Jiaotong University, Beijing, P. R. China, December 22, 2016.
+3. “Image Quality Assessment,” Invited Seminar, Beijing Jiaotong University, Beijing, P. R. China, De-
+cember 21, 2016.
+4. “Unification of Deep Learning and Reasoning,” Invited Seminar, Beijing Jiaotong University, Beijing,
+P. R. China, December 20, 2016.
+5. “Why Deep Learning Works?” Invited Seminar, Beijing Jiaotong University, Beijing, P. R. China,
+December 19, 2016.
+6. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, Shenzhen Uni-
+versity, Shenzhen, Guangdong, P. R. China, December 16, 2016.
+7. “Why Deep Learning Works?” Invited Seminar, Guangdong University of Technology, Guangzhou,
+Guangdong, P. R. China, December 13, 2016.
+8. “Why Deep Learning Works?” Invited Seminar, University of Electronic Science and Technology of
+China, Chengdu, Sichuan, P. R. China, November 30, 2016.
+9. “Why Deep Learning Works?” Invited Seminar, Sichuan University, Chengdu, Sichuan, P. R. China,
+November 29, 2016.
+10. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, Beijing Institute
+of Technology, Beijing, P. R. China, October 28, 2016.
+11. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, South University
+of Science and Technology of China, Shenzhen, Guangdong, P. R. China, October 27, 2016.
+53
+
+-----
+12. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, Guangdong Uni-
+versity of Technology, Guangzhou, Guangdong, P. R. China, October 27, 2016.
+13. “Unification of Deep Learning and Reasoning,” Invited Seminar, University of Science and Technol-
+ogy of China, Hefei, Anhui, P. R. China, October 24, 2016.
+14. “Why Deep Learning Works?” Invited Seminar, Beijing Institute of Technology, Beijing, P. R. China,
+July 29, 2016.
+15. “Trickle Irrigation: Congestion Relief for Communication with Network Coding,” Invited Seminar,
+University of Science and Technology of China, Hefei, Anhui, P. R. China, July 4, 2016.
+16. “Why Deep Learning Works?” Invited Seminar, Shanghai Jiaotong University, Shanghai, P. R. China,
+July 1, 2016.
+17. “Why Deep Learning Works?” Invited Seminar, Tongji University, Shanghai, P. R. China, June 30,
+2016.
+18. “Why Deep Learning Works?” Invited Seminar, Shanghai University, Shanghai, P. R. China, June 29,
+2016.
+19. “Why Deep Learning Works?” Invited Seminar, Fuzhou University, Fuzhou, Fujian, P. R. China, June
+27, 2016.
+20. “Trickle Irrigation: Congestion Relief for Communication with Network Coding,” Invited Seminar,
+Chinese University of Hong Kong, Hong Kong, June 23, 2016.
+21. “Why Deep Learning Works?” Invited Seminar, City University of Hong Kong, Hong Kong, June 20,
+2016.
+22. “Trickle Irrigation: Congestion Relief for Communication with Network Coding,” Invited Seminar,
+Zhongshan University, Guangzhou, Guangdong, P. R. China, June 10, 2016.
+23. “Trickle Irrigation: Congestion Relief for Communication with Network Coding,” Invited Seminar,
+Tsinghua University, Beijing, P. R. China, April 25, 2016.
+24. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, Donghua Univer-
+sity, Shanghai, P. R. China, March 25, 2016.
+25. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading” Invited Seminar, South University of Science and Technology of China, Shenzhen, Guang-
+dong, P. R. China, December 31, 2015.
+26. “Why Deep Learning Works?” Invited Seminar, Shenzhen University, Shenzhen, Guangdong, P. R.
+China, December 30, 2015.
+27. “Why Deep Learning Works?” Invited Seminar, Zhongshan University, Guangzhou, Guangdong, P.
+R. China, December 29, 2015.
+28. “Why Deep Learning Works?” Invited Seminar, University of Science and Technology of China,
+Hefei, Anhui, P. R. China, December 28, 2015.
+29. “Why Deep Learning Works?” Invited Seminar, Beihang University, Beijing, P. R. China, December
+21, 2015.
+54
+
+-----
+30. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, Beijing Jiaotong
+University, Beijing, P. R. China, September 29, 2015.
+31. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, University of
+Science and Technology of China, Hefei, Anhui, P. R. China, July 17, 2015.
+32. “FUN Coding: Design and Analysis,” Invited Seminar, University of Electronic Science and Technol-
+ogy of China, Chengdu, Sichuan, P. R. China, July 10, 2015.
+33. “Image Quality Assessment,” Invited Seminar, University of Electronic Science and Technology of
+China, Chengdu, Sichuan, P. R. China, July 9, 2015.
+34. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, University of
+Electronic Science and Technology of China, Chengdu, Sichuan, P. R. China, July 9, 2015.
+35. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, Southwest Jiaotong University, Chengdu, Sichuan, P. R. China, July 8,
+2015.
+36. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, Huazhong Uni-
+versity of Science and Technology, Wuhan, Hubei, P. R. China, July 7, 2015.
+37. “Image Quality Assessment,” Invited Seminar, Wuhan University, Wuhan, Hubei, P. R. China, July 6,
+2015.
+38. “FUN Coding: Design and Analysis,” Invited Seminar, Chinese University of Hong Kong, Hong
+Kong, June 30, 2015.
+39. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, Hong Kong Poly-
+technic University, Hong Kong, June 24, 2015.
+40. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, City University
+of Hong Kong, Hong Kong, June 22, 2015.
+41. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, Zhongshan Uni-
+versity, Guangzhou, Guangdong, P. R. China, June 12, 2015.
+42. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Kyung Hee Univer-
+sity, Yongin-si, South Korea, June 11, 2015.
+43. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, Yonsei University, Seoul, South Korea, June 10, 2015.
+44. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, Pohang University of Science and Technology, Pohang, South Korea,
+June 9, 2015.
+45. “Image Quality Assessment,” Invited Seminar, Dalian University of Technology, Dalian, Liaoning, P.
+R. China, June 4, 2015.
+46. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, Dalian University
+of Technology, Dalian, Liaoning, P. R. China, May 27, 2015.
+55
+
+-----
+47. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, Civil Aviation
+University of China, Tianjin, P. R. China, May 22, 2015.
+48. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, Beijing Institute of Technology, Beijing, P. R. China, May 22, 2015.
+49. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, Beihang Univer-
+sity, Beijing, P. R. China, May 21, 2015.
+50. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, Peking University,
+Beijing, P. R. China, May 20, 2015.
+51. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, Tsinghua Univer-
+sity, Beijing, P. R. China, May 19, 2015.
+52. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, Nanjing Univer-
+sity, Nanjing, P. R. China, May 18, 2015.
+53. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, Southeast Uni-
+versity, Nanjing, P. R. China, May 14, 2015.
+54. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, Nanjing Univer-
+sity of Posts and Telecommunications, Nanjing, P. R. China, May 13, 2015.
+55. “Multimedia over Future Internet: Challenges and Opportunities,” Invited Seminar, GreenOrbs Lab,
+Wu Xi, Jiangsu, P. R. China, May 12, 2015.
+56. “Image Quality Assessment,” Invited Seminar, Shanghai University, Shanghai, P. R. China, May 11,
+2015.
+57. “FUN Coding: Design and Analysis,” Invited Seminar, Tongji University, Shanghai, P. R. China, May
+8, 2015.
+58. “Image Quality Assessment,” Invited Seminar, Shanghai Jiaotong University, Shanghai, P. R. China,
+May 7, 2015.
+59. “Image Quality Assessment,” Invited Seminar, University of Science and Technology of China, Hefei,
+Anhui, P. R. China, May 4, 2015.
+60. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Georgia State Uni-
+versity, Atlanta, GA, USA, Dec. 4, 2014.
+61. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, University of Electronic Science and Technology of China, Chengdu,
+Sichuan, P. R. China, July 18, 2014.
+62. “Ripplet: a New Transform for Feature Extraction and Image Representation,” Invited Seminar, Uni-
+versity of Electronic Science and Technology of China, Chengdu, Sichuan, P. R. China, July 18, 2014.
+63. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, Nanyang Technological University, Singapore, July 10, 2014.
+64. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, Graduate School, Tsinghua University, Shenzhen, China, June 30, 2014.
+56
+
+-----
+65. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, Huawei, Shenzhen, China, June 27, 2014.
+66. “How to Write Winning Grant Proposal: 16 Tips,” Invited Seminar, Hong Kong Polytechnic Univer-
+sity, Hong Kong, June 25, 2014.
+67. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, Chinese University of Hong Kong, Hong Kong, June 24, 2014.
+68. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, Hong Kong Polytechnic University, Hong Kong, June 23, 2014.
+69. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, City University of Hong Kong, Hong Kong, June 18, 2014.
+70. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, Zhongshan University, Guangzhou, Guangdong, P. R. China, June 16,
+2014.
+71. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, Nanjing University of Posts and Telecommunications, Nanjing, P. R.
+China, June 13, 2014.
+72. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, University of Science and Technology of China, Hefei, Anhui, P. R.
+China, June 11, 2014.
+73. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, Huazhong University of Science and Technology, Wuhan, Hubei, P. R.
+China, June 9, 2014.
+74. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, Shanghai Jiaotong University, Shanghai, P. R. China, June 5, 2014.
+75. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, Tongji University, Shanghai, P. R. China, June 4, 2014.
+76. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, GreenOrbs Lab, Wu Xi, Jiangsu, P. R. China, June 3, 2014.
+77. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, Beihang University, Beijing, P. R. China, May 29, 2014.
+78. “Just FUN: A Joint Fountain Coding and Network Coding Approach to Loss-Tolerant Information
+Spreading,” Invited Seminar, Tsinghua University, Beijing, P. R. China, May 28, 2014.
+79. “Network Science and Its Application in Wireless Networking,” Invited Seminar, University of North
+Texas, Denton, TX, USA, Nov. 8, 2013.
+80. “Energy-Efficient Scheduling Policy for Collaborative Execution in Mobile Cloud Computing,” In-
+vited Seminar, Beijing Institute of Technology, Beijing, P. R. China, July 11, 2013.
+81. “Energy-Efficient Scheduling Policy for Collaborative Execution in Mobile Cloud Computing,” In-
+vited Seminar, GreenOrbs Lab, Wu Xi, Jiangsu, P. R. China, July 5, 2013.
+57
+
+-----
+82. “Ripplet: a New Transform for Feature Extraction and Image Representation,” Invited Seminar, Bei-
+hang University, Beijing, P. R. China, July 3, 2013.
+83. “Video Distortion Analysis and System Design for Wireless Video Communication,” Invited Seminar,
+Institute of Computing Technology, Chinese Academy of Sciences, Beijing, P. R. China, July 2, 2013.
+84. “Energy-Efficient Scheduling Policy for Collaborative Execution in Mobile Cloud Computing,” In-
+vited Seminar, MSRA, Beijing, P. R. China, July 1, 2013.
+85. “Video Distortion Analysis and System Design for Wireless Video Communication,” Invited Seminar,
+Nanjing University of Posts and Telecommunications, Nanjing, P. R. China, June 25, 2013.
+86. “Energy-Efficient Scheduling Policy for Collaborative Execution in Mobile Cloud Computing,” In-
+vited Seminar, Zhejiang University, Hangzhou, P. R. China, June 24, 2013.
+87. “Energy-Efficient Scheduling Policy for Collaborative Execution in Mobile Cloud Computing,” In-
+vited Seminar, Shanghai Jiaotong University, Shanghai, P. R. China, June 19, 2013.
+88. “Video Distortion Analysis and System Design for Wireless Video Communication,” Invited Seminar,
+University of Electronic Science and Technology of China, Chengdu, Sichuan, P. R. China, June 14,
+2013.
+89. “Energy-Efficient Scheduling Policy for Collaborative Execution in Mobile Cloud Computing,” In-
+vited Seminar, University of Electronic Science and Technology of China, Chengdu, Sichuan, P. R.
+China, June 13, 2013.
+90. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Nanyang Techno-
+logical University, Singapore, June 10, 2013.
+91. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Hong Kong Poly-
+technic University, Hong Kong, May 31, 2013.
+92. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Chinese University
+of Hong Kong, Hong Kong, May 30, 2013.
+93. “Network Science and Its Application in Wireless Networking,” Invited Seminar, City University of
+Hong Kong, Hong Kong, May 29, 2013.
+94. “Video Distortion Analysis and System Design for Wireless Video Communication,” Invited Seminar,
+Zhongshan University, Guangzhou, Guangdong, P. R. China, May 27, 2013.
+95. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Huazhong Univer-
+sity of Science and Technology, Wuhan, Hubei, P. R. China, May 17, 2013.
+96. “Energy-Efficient Scheduling Policy for Collaborative Execution in Mobile Cloud Computing,” In-
+vited Seminar, Huazhong University of Science and Technology, Wuhan, Hubei, P. R. China, May 16,
+2013.
+97. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Tongji University,
+Shanghai, P. R. China, May 14, 2013.
+98. “Video Distortion Analysis and System Design for Wireless Video Communication,” Invited Seminar,
+University of Science and Technology of China, Hefei, Anhui, P. R. China, May 13, 2013.
+58
+
+-----
+99. “Video Distortion Analysis and System Design for Wireless Video Communication,” Invited Seminar,
+Tsinghua University, Beijing, P. R. China, May 9, 2013.
+100. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Norwegian Univer-
+sity of Science and Technology, Trondheim, Norway, December 18, 2012.
+101. “Ripplet: a New Transform for Feature Extraction and Image Representation,” Invited Seminar,
+Shanghai Jiaotong University, Shanghai, P. R. China, July 12, 2012.
+102. “Ripplet: a New Transform for Feature Extraction and Image Representation,” Invited Seminar, Fudan
+University, Shanghai, P. R. China, July 11, 2012.
+103. “RED Theory for QoS Provisioning in Wireless Networks,” Invited Seminar, Tongji University, Shang-
+hai, P. R. China, July 11, 2012.
+104. “Network Science and Its Application in Wireless Networking,” Invited Seminar, GreenOrbs Lab, Wu
+Xi, Jiangsu, P. R. China, July 10, 2012.
+105. “Multi-view Image Processing: Current State of the Art, Challenges, and Future Directions,” Invited
+Seminar, Beihang University, Beijing, P. R. China, July 9, 2012.
+106. “Identification of Network Dynamics and Its Applications,” Invited Seminar, Beijing Institute of Tech-
+nology, Beijing, P. R. China, July 6, 2012.
+107. “RED Theory for QoS Provisioning in Wireless Networks,” Invited Seminar, Tsinghua University,
+Beijing, P. R. China, July 5, 2012.
+108. “Video Distortion Analysis and System Design for Wireless Video Communication,” Invited Seminar,
+Microsoft Research Asia, Beijing, P. R. China, July 2, 2012.
+109. “Objective and Secure Reputation-Based Incentive Scheme for Ad-Hoc Networks,” Invited Seminar,
+Beihang University, Beijing, P. R. China, June 29, 2012.
+110. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Beijing Institute of
+Technology, Beijing, P. R. China, June 28, 2012.
+111. “Identification of Network Dynamics and Its Applications,” Invited Seminar, Zhejiang University,
+Hangzhou, P. R. China, June 12, 2012.
+112. “Network Science and Its Application in Wireless Networking,” Invited Seminar, University of Sci-
+ence and Technology of China, Hefei, Anhui, P. R. China, June 11, 2012.
+113. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Xi’an Jiaotong Uni-
+versity, Xi’an, Shaanxi, June 7, 2012.
+114. “Network Science and Its Application in Wireless Networking,” Invited Seminar, University of Elec-
+tronic Science and Technology of China, Chengdu, Sichuan, P. R. China, June 6, 2012.
+115. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Zhongshan Univer-
+sity, Guangzhou, Guangdong, P. R. China, May 31, 2012.
+116. “Identification of Network Dynamics and Its Applications,” Invited Seminar, Huazhong University of
+Science and Technology, Wuhan, Hubei, P. R. China, May 28, 2012.
+59
+
+-----
+117. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Yonsei University,
+Seoul, South Korea, May 24, 2012.
+118. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Pohang University
+of Science and Technology, Pohang, South Korea, May 23, 2012.
+119. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Seoul National Uni-
+versity, Seoul, South Korea, May 22, 2012.
+120. “Network Science and Its Application in Wireless Networking,” Invited Seminar, University of Delaware,
+Newark, Delaware, USA, November 11, 2011.
+121. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Wayne State Uni-
+versity, Detroit, Michigan, USA, October 4, 2011.
+122. “RED Theory for QoS Provisioning in Wireless Networks,” Invited Seminar, Beihang University,
+Beijing, P. R. China, May 5, 2011.
+123. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Beijing University
+of Posts and Telecommunications, Beijing, P. R. China, May 4, 2011.
+124. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Microsoft Research
+Asia, Beijing, P. R. China, April 29, 2011.
+125. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Tsinghua University,
+Beijing, P. R. China, April 27, 2011.
+126. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Huazhong Univer-
+sity of Science and Technology, Wuhan, Hubei, P. R. China, April 18, 2011.
+127. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Zhejiang University,
+Hangzhou, P. R. China, April 15, 2011.
+128. “Gamma Rate Theory for Causal Rate Control in Source Coding and Video Coding,” Invited Seminar,
+Shanghai Jiaotong University, Shanghai, P. R. China, April 14, 2011.
+129. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Shanghai Jiaotong
+University, Shanghai, P. R. China, April 12, 2011.
+130. “RED Theory for QoS Provisioning in Wireless Networks,” Invited Seminar, Shanghai Jiaotong Uni-
+versity, Shanghai, P. R. China, April 11, 2011.
+131. “RED Theory for QoS Provisioning in Wireless Networks,” Invited Seminar, Beijing Institute of Tech-
+nology, Beijing, P. R. China, April 6, 2011.
+132. “Network Science and Its Application in Wireless Networking,” Invited Seminar, University of Texas,
+Dallas, Texas, January 28, 2011.
+133. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Umea University of
+Sweden, Umea, Sweden, December 14, 2010.
+134. “Network Science and Its Application in Wireless Networking,” Invited Seminar, University of South-
+ern California, Los Angeles, California, USA, November 12, 2010.
+60
+
+-----
+135. “Network Science and Its Application in Wireless Networking,” CSE Distinguished Speaker Collo-
+quium Series, University of Nebraska, Lincoln, Nebraska, USA, October 15, 2010.
+136. “Gamma Rate Theory for Causal Rate Control in Source Coding and Video Coding,” Invited Seminar,
+Microsoft Research Asia, Beijing, P. R. China, July 23, 2010.
+137. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Institute of Com-
+puting Technology, Chinese Academy of Sciences, Beijing, P. R. China, July 23, 2010.
+138. “Gamma Rate Theory for Causal Rate Control in Source Coding and Video Coding,” Invited Seminar,
+Tsinghua University, Beijing, P. R. China, July 22, 2010.
+139. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Beihang University,
+Beijing, P. R. China, July 21, 2010.
+140. “Gamma Rate Theory for Causal Rate Control in Source Coding and Video Coding,” Invited Seminar,
+Peking University, Beijing, P. R. China, July 20, 2010.
+141. “RED Theory for QoS Provisioning in Wireless Networks,” Invited Seminar, Tsinghua University,
+Beijing, P. R. China, July 19, 2010.
+142. “Ripplet: a New Transform for Feature Extraction and Image Representation,” Invited Seminar, Xid-
+ian University, Xi’an, P. R. China, July 16, 2010.
+143. “Gamma Rate Theory for Causal Rate Control in Source Coding and Video Coding,” Invited Seminar,
+University of Science and Technology of China, Hefei, Anhui, P. R. China, July 10, 2010.
+144. “Network Science and Its Application in Wireless Networking,” Invited Seminar, Tsinghua University,
+Beijing, P. R. China, July 9, 2010.
+145. “RED Theory for QoS Provisioning in Wireless Networks,” Invited Seminar, Illinois Institute of Tech-
+nology, Chicago, IL, April 30, 2010.
+146. “Resource-Constrained Theories, Coding Techniques, and Architecture for Wireless Video,” Invited
+Seminar, Intel Labs, Santa Clara, CA, USA, April 6, 2010.
+147. “RED Theory for QoS Provisioning in Wireless Networks,” Invited Seminar, University at Buffalo,
+The State University of New York, Buffalo, NY, March 26, 2010.
+148. “RED Theory for QoS Provisioning in Wireless Networks,” Invited Seminar, Montana State Univer-
+sity, Bozeman, MT, September 18, 2009.
+149. “RED Theory for QoS Provisioning in Wireless Networks,” Invited Seminar, The Hong Kong Univer-
+sity of Science & Technology, Hong Kong, May 21, 2009.
+150. “RED Theory for QoS Provisioning in Wireless Networks,” Invited Seminar, The Chinese University
+of Hong Kong, Hong Kong, May 20, 2009.
+151. “RED Theory for QoS Provisioning in Wireless Networks,” Invited Seminar, The University of Hong
+Kong, Hong Kong, May 15, 2009.
+152. “RED Theory for QoS Provisioning in Wireless Networks,” Invited Seminar, The Hong Kong Poly-
+technic University, Hong Kong, May 13, 2009.
+61
+
+-----
+153. “RED Theory and Video Distortion Analysis for Wireless Multimedia Communication,” Invited Sem-
+inar, Intel Labs, Portland, Oregon, USA, January 19, 2009.
+154. “Cross-Layer Design for Power-Constrained Wireless Multimedia Communication,” Invited Seminar,
+Samsung Information Systems America, CA, USA, October 16, 2008.
+155. “Speaker Recognition and Authorship Identification,” Invited Seminar, Narus Inc., CA, USA, Octo-
+ber 16, 2008.
+156. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, Purdue University, West Lafayette, IN, USA, July 21, 2008.
+157. “A Target Detection Scheme for VHF SAR Ground Surveillance,” Invited Seminar, Air Force Re-
+search Laboratory, Dayton, OH, USA, July 16, 2008.
+158. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, Ohio State University, Columbus, OH, USA, July 11, 2008.
+159. “Cross-Layer Design for Power-Constrained Wireless Multimedia Communication,” Invited Seminar,
+Beihang University, Beijing, P. R. China, May 28, 2008.
+160. “Cross-Layer Design for Power-Constrained Wireless Multimedia Communication,” Invited Seminar,
+Beijing University of Posts and Telecommunications, Beijing, P. R. China, May 27, 2008.
+161. “Cross-Layer Design for Power-Constrained Wireless Multimedia Communication,” Invited Seminar,
+Huazhong University of Science and Technology, Wuhan, Hubei, P. R. China, May 23, 2008.
+162. “Cross-Layer Design for Power-Constrained Wireless Multimedia Communication,” Invited Seminar,
+Tsinghua University, Beijing, P. R. China, May 16, 2008.
+163. “Cross-Layer Design for Power-Constrained Wireless Multimedia Communication,” Invited Seminar,
+Microsoft Research Asia, Beijing, P. R. China, May 15, 2008.
+164. “Cross-Layer Design for Power-Constrained Wireless Multimedia Communication,” Invited Seminar,
+Tsinghua University, Beijing, P. R. China, May 14, 2008.
+165. “Motion-Segmentation-Based Change Detection,” Invited Seminar, Beijing University, Beijing, P. R.
+China, May 14, 2008.
+166. “Power-Constrained Multimedia Communication over Wireless Networks,” Invited Seminar, Intel
+Labs, Portland, Oregon, USA, April 28, 2008.
+167. “Ripplet: a New Transform for Feature Extraction and Image Representation,” Invited Seminar, Ts-
+inghua University, Beijing, P. R. China, August 17, 2007.
+168. “Ripplet: a New Transform for Feature Extraction and Image Representation,” Invited Seminar, Mi-
+crosoft Research Asia, Beijing, P. R. China, August 16, 2007.
+169. “Ripplet: a New Transform for Feature Extraction and Image Representation,” Invited Seminar, Insti-
+tute of Automation, Chinese Academy of Sciences, Beijing, P. R. China, August 16, 2007.
+170. “Ripplet: a New Transform for Feature Extraction and Image Representation,” Invited Seminar, Bei-
+jing University, Beijing, P. R. China, August 15, 2007.
+62
+
+-----
+171. “Cross-Layer Design for Power-Constrained Wireless Multimedia Communication,” Invited Seminar,
+Intel China Research Center, Beijing, P. R. China, August 15, 2007.
+172. “Ripplet: a New Transform for Feature Extraction and Image Representation,” Invited Seminar, In-
+stitute of Computing Technology, Chinese Academy of Sciences, Beijing, P. R. China, August 14,
+2007.
+173. “Cross-Layer Design for Power-Constrained Wireless Multimedia Communication,” Invited Seminar,
+Tsinghua University, Beijing, P. R. China, August 13, 2007.
+174. “Ripplet: a New Transform for Feature Extraction and Image Representation,” Invited Seminar,
+Thomson Corporate Research, Beijing, P. R. China, August 10, 2007.
+175. “Motion-Segmentation-Based Change Detection,” Invited Seminar, Air Force Research Laboratory,
+Dayton, Ohio, USA, August 2, 2007.
+176. “Robust Feature-based Object Tracking,” Invited Seminar, Air Force Research Laboratory, Dayton,
+Ohio, USA, August 2, 2007.
+177. “Cross-Layer Design for Power-Constrained Wireless Multimedia Communication,” Invited Seminar,
+Intel Labs, Portland, Oregon, USA, July 23, 2007.
+178. “Delay-Constrained Wireless Networking: Where Shannon Meets Erlang,” Invited Seminar, Univer-
+sity of Toledo, Toledo, Ohio, USA, July 7, 2007.
+179. “Feature-based Object Tracking,” Invited Seminar, Wright Brothers Institute, Dayton, Ohio, USA,
+June 27, 2007.
+180. “Motion-Segmentation-Based Approach for Change Detection, Image Registration and Tracking,”
+Invited Seminar, Wright Brothers Institute, Dayton, Ohio, USA, June 14, 2007.
+181. “Delay-Constrained Wireless Networking: Where Shannon Meets Erlang,” Invited Seminar, Univer-
+sity of Maryland, College Park, USA, May 2, 2007.
+182. “Delay-Constrained Wireless Networking: Where Shannon Meets Erlang,” Invited Seminar (CS Col-
+loquium), University of Illinois, Urbana-Champaign, USA, November 6, 2006.
+183. “Change Detection: Current State of the Art and Future Directions,” Invited Seminar, Air Force Re-
+search Laboratory, Dayton, Ohio, USA, September 21, 2006.
+184. “Multi-view Image Processing: Current State of the Art, Challenges, and Future Directions,” Invited
+Seminar, Tsinghua University, Beijing, P. R. China, August 18, 2006.
+185. “Channel Coding: Theory and Applications,” Invited Seminar, Microsoft Research Asia, Beijing, P.
+R. China, August 17, 2006.
+186. “Distributed Video Coding for Sensor Networks,” Invited Seminar, Tsinghua University, Beijing, P.
+R. China, August 16, 2006.
+187. “Distributed Video Coding for Sensor Networks,” Invited Seminar, Microsoft Research Asia, Beijing,
+P. R. China, August 11, 2006.
+188. “Distributed Video Coding for Sensor Networks,” Invited Seminar, Institute of Computing Technol-
+ogy, Chinese Academy of Sciences, Beijing, P. R. China, August 4, 2006.
+63
+
+-----
+189. “Uplink Medium Access Control for WLANs with Multi-beam Access Point,” Invited Seminar, Intel
+China Research Center, Beijing, P. R. China, July 28, 2006.
+190. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, Intel Labs, Portland, Oregon, USA, May 12, 2006.
+191. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar (CS Colloquium), University of California, Davis, USA, May 11, 2006.
+192. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, HP Labs, Palo Alto, CA, USA, May 10, 2006.
+193. “Detecting Distributed Denial-of-Service Attacks Using Pattern Classification Techniques,” Invited
+Seminar, Narus Inc., CA, USA, May 10, 2006.
+194. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, University of Southern California, Los Angeles, USA, May 9, 2006.
+195. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, University of California, Los Angeles, USA, May 8, 2006.
+196. “SORI: A Secure and Objective Reputation-based Incentive Scheme for Ad-hoc Networks,” Invited
+Seminar, Microsoft Research Asia, Beijing, P. R. China, December 28, 2005.
+197. “Uplink Medium Access Control for Wireless Local Area Networks with Multi-beam Access Point,”
+Invited Seminar, Beijing University of Posts and Telecommunications, Beijing, P. R. China, Decem-
+ber 27, 2005.
+198. “Streaming Video over the Internet,” Invited Seminar, Intel China Research Center, Beijing, P. R.
+China, December 26, 2005.
+199. “Accumulative Visual Information in Wireless Video Sensor Network: Definition and Analysis,” In-
+vited Seminar, Tsinghua University, Beijing, P. R. China, December 22, 2005.
+200. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, Peking University, Beijing, P. R. China, December 21, 2005.
+201. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, University of Missouri, Columbia, MO, USA, November 28, 2005.
+202. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, Polytechnic University, Brooklyn, NY, USA, October 17, 2005.
+203. “Secure and Scalable Multimedia Streaming,” Invited Seminar, IBM T. J. Watson Research Center,
+Hawthorne, NY, USA, October 14, 2005.
+204. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, Columbia University, New York, NY, USA, October 13, 2005.
+205. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, Microsoft Research Asia, Beijing, P. R. China, June 10, 2005.
+206. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, Beijing University of Posts and Telecommunications, Beijing, P. R. China,
+June 8, 2005.
+64
+
+-----
+207. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, Intel Communication Technology Lab, Beijing, P. R. China, June 1, 2005.
+208. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, Tsinghua University, Beijing, P. R. China, May 30, 2005.
+209. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, Yonsei University, Seoul, Korea, May 19, 2005.
+210. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, Sprint Advanced Technology Labs, Burlingame, California, USA, Octo-
+ber 29, 2004.
+211. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, Philips Research Laboratories, USA, Briarcliff Manor, New York, July 27,
+2004.
+212. “Streaming Video over the Internet,” Invited Seminar, SHARP Labs of America, Camas, Washington,
+USA, March 5, 2004.
+213. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, Department of Electrical Engineering, University of California, Riverside,
+USA, April 2, 2003.
+214. “Effective Capacity Approach to Providing Statistical Quality-of-Service Guarantees in Wireless Net-
+works,” Invited Seminar, Department of Electrical & Computer Engineering, North Carolina State
+University, USA, February 28, 2003.
+On-campus Seminars and Presentations
+1. “Stationary-Sparse Causality Network Learning,” Department of Mathematics, University of Florida,
+November 13, 2014.
+2. “Motion-Segmentation-Based Change Detection,” University of Florida, April 3, 2008.
+3. “Image Registration Techniques,” Department of Electrical & Computer Engineering, University of
+Florida, September 20, 2007.
+4. “Change Detection: Current State of the Art and Future Directions,” Department of Electrical &
+Computer Engineering, University of Florida, September 13, 2007.
+5. “Feature-based Object Tracking,” Department of Electrical & Computer Engineering, University of
+Florida, September 6, 2007.
+6. “Streaming video (IPTV) over the Internet,” ECE Brown Bag Seminar Series, Department of Electri-
+cal & Computer Engineering, University of Florida, January 31, 2006.
+7. “Multimedia Communications: Current State of the Art, Challenges, and Future Directions,” ECE
+Brown Bag Seminar Series, Department of Electrical & Computer Engineering, University of Florida,
+August 31, 2004.
+8. “Research in Multimedia Communications & Networking,” New Graduate Student Orientation, De-
+partment of Electrical & Computer Engineering, University of Florida, August 19, 2004.
+65
+
+-----
+9. “Streaming video over the Internet,” ECE Research Day Seminar Series, Department of Electrical &
+Computer Engineering, University of Florida, April 23, 2004.
+10. “An Objective and Secure Reputation-based Incentive Scheme for Ad-hoc Networks,” Wireless Infor-
+mation Networking Group (WING) Seminar Series, University of Florida, November 3, 2003.
+Conference Presentations
+1. “Enhanced Routing Protocol for Fast Flying UAV Network,” IEEE International Conference on Com-
+munication Systems (ICCS), Shenzhen, Guangdong, China, December 14–16, 2016.
+2. “Storage-Retrieval-Repair Cost Tradeoff in Network-Coded Distributed Storage Systems,” IEEE Global
+Telecommunications Conference (Globecom), Workshop on Cloud Computing Systems, Networks,
+and Applications, Washington, DC, USA, December 4–8, 2016.
+3. “QoS-aware Scheduling for Small Cell Millimeter Wave Mesh Backhaul,” IEEE International Con-
+ference on Communications (ICC), Kuala Lumpur, Malaysia, May 23–27, 2016.
+4. “MPC-based Delay-Aware Fountain Codes for Live Video Streaming,” IEEE International Confer-
+ence on Communications (ICC), Kuala Lumpur, Malaysia, May 23–27, 2016.
+5. “Evaluation of Image Quality of Experience in Consideration of Viewing Distance,” IEEE China Sum-
+mit and International Conference on Signal and Information Processing (ChinaSIP 2015), Chengdu,
+Sichuan, China, July 12–15, 2015.
+6. “No-Reference Image Quality Assessment Based on BNB Measurement,” IEEE China Summit and
+International Conference on Signal and Information Processing (ChinaSIP 2013), Beijing, China,
+July 6–10, 2013.
+7. “Delay-Power-Rate-Distortion Model for H.264 Video Coding,” IEEE China Summit and Interna-
+tional Conference on Signal and Information Processing (ChinaSIP 2013), Beijing, China, July 6–10,
+2013.
+8. “Self-Organizing-Queue Based Clustering,” IEEE China Summit and International Conference on
+Signal and Information Processing (ChinaSIP 2013), Beijing, China, July 6–10, 2013.
+9. “Smoothing the Energy Consumption: Peak Demand Reduction in Smart Grid,” IEEE INFOCOM
+2013, Turin, Italy, April 14 – 19, 2013.
+10. “Identification of Network Dynamics and Its Applications,” AFOSR Sensing Surveillance Navigation
+Program Review Workshop 2011, Shalimar, FL, USA, June 14 – 15, 2011.
+11. “Secrecy Capacity with Leakage Constraints in Fading Channels,” IEEE Global Telecommunications
+Conference (Globecom 2010), Miami, FL, USA, December 6 – 10, 2010.
+12. “Ripplet-II Transform for Feature Extraction,” SPIE Visual Communications and Image Processing
+(VCIP 2010), Huang Shan, An Hui, China, July 11–14, 2010.
+13. “Experimental study on GMM-based speaker recognition,” SPIE Defense & Security Symposium
+2010, Orlando, FL, USA, April 5–9, 2010.
+14. “Depth-based image registration,” SPIE Defense & Security Symposium 2010, Orlando, FL, USA,
+April 5–9, 2010.
+66
+
+-----
+15. “Advanced Techniques for Scene Analysis,” Air Force ATR Center Summer Workshop, Dayton, OH,
+USA, August 11–12, 2009.
+16. “Diversity Combining Approach for Tracking of Multiple Objects under Partial Occlusion,” Air Force
+ATR Center Summer Workshop, Dayton, OH, USA, August 11–12, 2009.
+17. “Study of video distortion for real-time video transmission over wireless channels,” SPIE Defense &
+Security Symposium 2009, Orlando, FL, USA, April 13–17, 2009.
+18. “Identifying hidden voice and video streams,” SPIE Defense & Security Symposium 2009, Orlando,
+FL, USA, April 13–17, 2009.
+19. “Tracking of multiple objects under partial occlusion,” SPIE Defense & Security Symposium 2009,
+Orlando, FL, USA, April 13–17, 2009.
+20. “Analysis of Packet Error Probability in Delay Constrained Communication over Fading Channels,”
+IEEE CCNC 2009, Las Vegas, Nevada, USA, January 10–13, 2009.
+21. “QoS-Driven Power Allocation for Multi-channel Communication under Delayed Channel Side In-
+formation,” IEEE CCNC 2009, Las Vegas, Nevada, USA, January 10–13, 2009.
+22. “Image representation by compressed sensing,” IEEE International Conference on Image Processing
+2008, San Diego, CA, USA, October 12-15, 2008.
+23. “Ripplet transform for feature extraction,” Air Force ATR Center Summer Workshop, Dayton, OH,
+USA, August 12–14, 2008.
+24. “A Target Detection Scheme for VHF SAR Ground Surveillance,” Air Force ATR Center Summer
+Workshop, Dayton, OH, USA, August 12–14, 2008.
+25.
+“Motion-Segmentation-Based Approach for Change Detection, Image Registration and Tracking,”
+Air Force ATR Center Summer Workshop, Dayton, OH, USA, August 12–14, 2008.
+26. “Ripplet transform for feature extraction,” Proceedings of SPIE Defense & Security Symposium 2008,
+Orlando, FL, USA, March 16–20, 2008.
+27. “A rotation-invariant transform for target detection in SAR images,” Proceedings of SPIE Defense &
+Security Symposium 2008, Orlando, FL, USA, March 16–20, 2008.
+28.
+“A target detection scheme for VHF SAR ground surveillance,” Proceedings of SPIE Defense &
+Security Symposium 2008, Orlando, FL, USA, March 16–20, 2008.
+29. “Ripplet: a New Transform for Feature Extraction and Image Representation,” Sensors Technology
+Algorithm Research (STAR) Workshop, Dayton, OH, USA, July 25–26, 2007.
+30. “Motion-Segmentation-Based Change Detection,” SPIE Defense & Security Symposium 2007, Or-
+lando, FL, USA, April 9-13, 2007.
+31. “Design of Bloom Filter Array for Network Anomaly Detection,” IEEE Global Telecommunications
+Conference (Globecom 2006), San Francisco, CA, USA, November 27 – December 1, 2006.
+32. “Power Control and Dynamic Channel Allocation for Delay Sensitive Applications in Wireless Net-
+works,” IEEE Global Telecommunications Conference (Globecom 2006), San Francisco, CA, USA,
+November 27 – December 1, 2006.
+67
+
+-----
+33. “A Countermeasure to Defend Against Relay Attacks in Wireless Networks,” IEEE Global Telecom-
+munications Conference (Globecom 2006), San Francisco, CA, USA, November 27 – December 1,
+2006.
+34. “An Efficient Proactive Share Refreshing Scheme for Secret Sharing in Distributed Systems,” IEEE
+Global Telecommunications Conference (Globecom 2006), San Francisco, CA, USA, November 27
+– December 1, 2006.
+35. “QoS Support for Streaming Media using a Multimedia Server Cluster,” IEEE Global Telecommuni-
+cations Conference (Globecom 2006), San Francisco, CA, USA, November 27 – December 1, 2006.
+On behalf of the authors: K. Ratakonda, D. S. Turaga, and J. Lai.
+36. “A Power-Saving Multi-radio Multi-channel MAC Protocol for Wireless Local Area Networks,” IEEE
+INFOCOM 2006, Barcelona, Spain, April 24 – 27, 2006.
+37. “Physical Carrier Sensing and Spatial Reuse in Multirate and Multihop Wireless Ad Hoc Networks,”
+IEEE INFOCOM 2006, Barcelona, Spain, April 24 – 27, 2006. On behalf of the authors: Hongqiang
+Zhai and Yuguang Fang.
+38. “Uplink Medium Access Control for WLANs with Multi-beam Access Point,” IEEE Globecom 2005,
+St. Louis, MO, USA, November 28 – December 2, 2005.
+39. “A Hyper-Trellis based Turbo Decoder for Wyner-Ziv Video Coding,” IEEE Globecom 2005, St.
+Louis, MO, USA, November 28 – December 2, 2005.
+40. “Effective Capacity Channel Model for Frequency-selective Fading Channels,” IEEE Second Interna-
+tional Conference on Quality of Service in Heterogeneous Wired/Wireless Networks, (QShine 2005),
+Orlando, Florida, USA, August 22–24, 2005.
+41. “TCP Streaming for Low-Delay Wireless Video,” IEEE Second International Conference on Quality
+of Service in Heterogeneous Wired/Wireless Networks, (QShine 2005), Orlando, Florida, USA, Au-
+gust 22–24, 2005. On behalf of the authors: Chi-Fai Wong, Wai-Lam Fung, Chi-Fai Jack Tang, S.-H.
+Gary Chan.
+42. “Accumulative Visual Information in Wireless Video Sensor Network: Definition and Analysis,” IEEE
+International Conference on Communications (ICC 2005), Seoul, Korea, May 16 - 20, 2005.
+43. “Authentication, Authorization, and Accounting for Real-Time Secondary Market Services,” IEEE
+International Conference on Communications (ICC 2005), Seoul, Korea, May 16 - 20, 2005.
+44. “Performance Analysis of A Burst-Frame-Based MAC Protocol for Ultra-Wideband Ad Hoc Net-
+works,” IEEE International Conference on Communications (ICC 2005), Seoul, Korea, May 16 - 20,
+2005.
+45. “Online Identification of Multi-Attribute High-Volume Traffic Aggregates Through Sampling,” IEEE
+International Conference on Communications (ICC 2005), Seoul, Korea, May 16 - 20, 2005. On
+behalf of the authors: Yong Tang and Shigang Chen.
+46. “DoS analysis of reservation based (wireless) MAC protocols,” IEEE International Conference on
+Communications (ICC 2005), Seoul, Korea, May 16 - 20, 2005. On behalf of the authors: Rohit Negi
+and Arjunan Rajeswaran.
+68
+
+-----
+47. “A Model-based Adaptive Motion Estimation Scheme Using Renyi’s Entropy for Wireless Video,”
+IEEE International Packet Video Workshop (PV2004), Irvine, CA, USA, December 13-14, 2004.
+48. “Look-Ahead Processing and Joint Rate Control for Mutilple JVT Video Encoders,” IEEE Interna-
+tional Packet Video Workshop (PV2004), Irvine, CA, USA, December 13-14, 2004.
+49. “A Dual-channel MAC Protocol for Mobile Ad Hoc Networks,” IEEE Workshop on Wireless Ad Hoc
+and Sensor Networks, in conjunction with IEEE Globecom 2004, Dallas, Texas, USA, November 29,
+2004.
+50. “Effective Capacity-Based Quality of Service Measures for Wireless Networks,” Proc. IEEE/ACM
+BroadNets 2004, Broadband Wireless Networking Symposium, San Jos, CA, USA, October 25-29,
+2004.
+51. “Analyzing and Preventing MAC-Layer Denial of Service Attacks for Stock 802.11 Systems,” Proc.
+IEEE/ACM First International Workshop on Broadband Wireless Services and Applications (Broad-
+WISE 2004), San Jos, CA, USA, October 25, 2004.
+52. “A Mechanism for Personal Control over Mobile Location Privacy,” Proc. IEEE/ACM First Interna-
+tional Workshop on Broadband Wireless Services and Applications (BroadWISE 2004), San Jos, CA,
+USA, October 25, 2004.
+53. “SORI: A Secure and Objective Reputation-based Incentive Scheme for Ad-hoc Networks,” Proc.
+IEEE Wireless Communications and Networking Conference (WCNC 2004), Atlanta, GA, USA,
+March 21–25, 2004.
+54. “Downlink Scheduling in a Cellular Network for Quality of Service Assurance,” Proc. IEEE Vehicular
+Technology Conference (VTC) Fall 2003, Orlando, Florida, USA, October 4-9, 2003.
+55. “A Wireless Channel Model for Support of Quality of Service,” Proc. IEEE Global Communications
+Conference (GLOBECOM’01), San Antonio, Texas, USA, Nov. 25-29, 2001.
+56. “Efficient Bandwidth Allocation and Call Admission Control for VBR Service Using UPC Parame-
+ters,” Proc. IEEE INFOCOM’99, pp. 1044-1052, New York, USA, Mar. 21-25, 1999.
+57. “TCP/IP over ATM-GFR,” Proc. IEEE ATM Workshop (ATM’98), pp. 360-367, Fairfax, Virginia,
+USA, May 26-29, 1998.
+69
+
+-----

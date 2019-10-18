@@ -1,0 +1,40 @@
+Infrared metrology using visible light  
+Infrared (IR) spectroscopy and imaging are important techniques in material analysis, 
+sensing and characterization. Although conventional methods of IR measurements are well 
+developed, there are remaining challenges related to high cost and low efficiency of IR light 
+sources and detectors. These challenges can be addressed using tools and techniques of nonlinear 
+and quantum optics, which allow circumventing the need for IR-range components. 
+In this thesis, I describe a technique of IR measurements, which requires using only 
+accessible light sources and detectors operating in the visible range. The method is based on the 
+nonlinear interference of correlated photons produced via spontaneous parametric down 
+conversion (SPDC) [1, 2]. In SPDC, a photon from the pump laser decays in a nonlinear crystal 
+into a pair of highly correlated photons [3]. One photon of the pair can be generated in the visible 
+range, and another in the IR range. Two identical nonlinear crystals pumped by the same laser 
+form the nonlinear interferometer, where interference of the visible SPDC photons can be 
+observed. The interference fringes for the visible photons depend on amplitudes and phases of 
+the IR photons, which are used to probe properties of the medium under study. Hence the 
+nonlinear interferometer allows study properties of the media in the IR range, when the actual 
+measurements are performed in the visible range.  
+We applied the nonlinear interference technique for the development of IR spectroscopy, 
+IR optical coherence tomography (OCT) and IR imaging. In IR spectroscopy experiment we 
+measured refractive index and absorption coefficient of various samples in IR range, while 
+detecting photons in the visible range. We demonstrated the application of the technique for 
+studies of glass, organic polymer, Silicon and CO2 gas. In IR OCT and imaging schemes, we 
+measured of the reflectivity of internal interfaces of the sample, realized raster imaging through 
+opaque layers and measured sample birefringence.  
+Our method shows a good precision in measurement of the absorption coefficient and 
+refractive index of the media and in determining the position of reflecting layers of the sample in 
+a broad range of IR wavelengths. The method does not require the use of expensive and 
+inefficient IR detectors and sources, and it can be applied to a broad variety of samples. This 
+work paves the way for further practical adoption of the method in the field of IR metrology, 
+without resorting to IR grade detectors and sources. 
+
+-----
+References:  
+[1] X. Y. Zou, I. J. Wang, and L. Mandel, “Induced coherence and indistinguishability in optical 
+interference”, Phys. Rev. Lett. 67(3), 318-321 (1991) 
+[2] I. J. Wang, X. Y. Zou, and L. Mandel, “Induced coherence without induced emission”, Phys. 
+Rev. A 44(7), pp. 4614–4622 (1991) 
+[3] D. N. Klyshko, “Photons and Nonlinear Optics”, CRC Press, (1988) 
+
+-----

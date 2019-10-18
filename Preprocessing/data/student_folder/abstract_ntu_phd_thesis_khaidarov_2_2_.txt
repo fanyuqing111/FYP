@@ -1,0 +1,82 @@
+Abstract
+Light-emitting diodes (LEDs) are excellent candidates to replace the widespread
+conventional incandescent and fluorescent light sources. This stems from their
+higher compactness and brightness, as well as their better performance in terms
+of energy effi
+ciency, long lifetime and high color rendering qualities.
+Their
+potential use in a broad number of applications attracted enormous interest to the
+LED research and development. This translated in a rapid improvement of the
+LED characteristics as well as in their commercialization in past years. Further
+integration and miniaturization of these devices, for applications such as optical
+communications, requires a higher level of control in terms of LED emission
+characteristics control and a compact solution for any desired functionality on
+the output. Metasurfaces (structured surfaces with engineered characteristics)
+grant an unprecedented control over the wavefront of light, while retaining a
+subwavelength-thickness character (relative to the excitation light wavelength).
+Moreover, in some cases, they also offer opportunities for large scale industrial
+fabrication. Among the different types of metasurfaces, those based on dielectric
+and semiconductor materials typically exhibit lower losses comparing to metallic
+counterparts, which potentially enhances the effi
+ciency of the integrated device.
+The main focus of this dissertation is the compact and novel LED
+devices, with light emission characteristics on demand, by means of dielectric
+metasurfaces. For this purpose, highly effi
+cient metasurfaces based on dielectric
+and semiconductor materials (Si, TiO2, GaN) have been designed and fabricated.
+The functionalities realized with these include beam deflectors, polarization beam
+iii
+
+-----
+splitters, complex light fi
+eld generators and lenses.
+For the latter, a novel
+class of metasurfaces with asymmetric radiation profi
+le was engineered. With
+them, light channeling into a single desired diffractive order has been achieved
+with effi
+ciencies reaching 99%. Ultra high angle beam deflection metasurfaces
+operating in visible regime were demonstrated using TiO2 for blue and green
+and Si for red part of the spectra. Based on this concept, a near unity numerical
+aperture (NA) lens was designed and fabricated, far exceeding any previously
+reported, both commercial and laboratory experimental models.
+Moving towards direct metasurface integration in conventional LED
+platforms, GaN metasurfaces were etched directly into optically thick GaN slabs.
+Despite the low index contrast between metasurface and the substrate (both GaN),
+the metasurfaces exhibited high effi
+ciencies within the operational wavelength
+range of the LED emission. However, when excited with the photoluminescence
+signal from the LED, the desired functionality was lost due to the low spatial
+coherence (Lambertian shape of radiation pattern) of the LED. Hence, the
+approach of direct integration of the metasurface on top of LED was shown to
+be ineffi
+cient.
+To solve this issue, an external and internal cavity design solution for
+LED and metasurface integration was proposed and engineered. The effi
+cient
+transformation of the Lambertian radiation pattern into plane-wave-like radiation,
+suitable for the metasurface to work,
+was experimentally demonstrated.
+Further integration with the designed metasurfaces allowed obtaining advanced
+functionalities for the LED emitted light, viz. beam deflection and vortex beam
+generation. Those were realized in a GaP LED architecture via optical pumping.
+The results presented in this dissertation constitute a step forward towards
+compact, advanced, effi
+cient and integrated optical devices, by leveraging on
+the attractive platform of LEDs and the emerging fi
+eld of metasurfaces, which
+enables the unprecedented control of light.
+The method proposed can be
+applied to any other incoherent light sources beyond LEDs, and may fi
+nd broad
+iv
+
+-----
+applications in optical communications, Li-Fi, displays, advanced lighting and
+many more.
+Keywords:
+LED, dielectric metasurfaces, RCLED, high angle beam
+deflection, high NA lens, vortex beam, OAM, Si, TiO2, GaP, GaN.
+v
+
+-----

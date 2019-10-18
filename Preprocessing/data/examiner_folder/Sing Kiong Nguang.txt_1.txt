@@ -1,0 +1,1267 @@
+ 
+ 
+ 
+ 
+  
+ 
+NAME: 
+Sing Kiong NGUANG 
+ 
+CURRENT POSITION: 
+ 
+Professor  
+ 
+ 
+ 
+Chair of Control Engineering 
+ 
+ 
+ 
+Director of Systems and Control Research 
+ 
+UNIVERSITY: 
+ 
+Electrical & Computer Engineering,  
+ 
+ 
+ 
+The University Auckland, New Zealand 
+ 
+EMAIL: 
+ 
+sk.nguang@auckland.ac.nz 
+ 
+ 
+ 
+EDUCATIONAL QUALIFICATIONS: [Tertiary only] 
+ 
+1995   University of Newcastle (Aust.), PhD, Electrical Engineering 
+ 
+1992   University of Newcastle (Aust.), BE (Hon. I), Electrical Engineering 
+ 
+ 
+PREVIOUS APPOINTMENTS: 
+1995-now 
+Lecturer, Senior Lecturer, Associate Professor and Chair Professor, University of Auckland, 
+New Zealand 
+ 
+ 
+SIGNIFICANT DISTINCTIONS / AWARDS: 
+ 
+2016 
+h-index 32, Scopus 
+2014 
+Visiting Professor, UTeM, Melaka, Malaysia 
+2013 
+New Zealand TEC Assigned PBRF Quality Category: A (highest research rating) 
+2013 
+Visiting Professor at Yuan Ze University, Taiwan  
+2011 
+Overseas Professor, Jiangnan University, China 
+2010 
+Visiting Professor at TU Berlin, Germany and National Tsinghua University, Taiwan.  
+2009 
+Signal Processing (Elsevier, Impact factor: 1.256) most cited award 
+2009-2010 Alexander von Humboldt Foundation of Germany, Fellow Return Award  
+2009 
+Top 15 Faculty of Engineering Teacher awards 
+2006 
+New Zealand TEC Assigned PBRF Quality Category: A (highest research rating) 
+2004-2005  Alexander von Humboldt Foundation of Germany, Research Award  
+2004 
+Visiting Professor at Duisburg-Essen University, Germany and Tsinghua University, Peking 
+University, Zhejiang University, Shandong University, China 
+2003  
+2002 Top Twenty Faculty Teachers, School of Engineering  
+2002  
+Supervised Mr Qihong Ke, who won the ICNPAA 2002 Best Student Paper Award awarded 
+at the Fourth International Conference on Non-linear Problems in Aviation and Aerospace 
+held in Melbourne, Florida, USA.  
+2002  
+Royal Society of New Zealand, Marsden Award.   
+   
+ 
+ 
+PROFESSIONAL SOCIETIES / SERVICE / OTHER ACTIVITIES: 
+• 
+Associate Editor, IEEE Access (2015-) 
+• 
+Associate Editor, International Journal of Control, Automation, and Systems (IJCAS) (2015-) 
+• 
+Chief-Editor of International Journal of Sensors, Wireless Communications and Control (2009-) 
+• 
+Member, Editorial Board of the International Journal of System Sciences (2007-)  
+ 
+ 
+ 
+ 
+
+-----
+ 
+ 
+RESEARCH SPECIALTIES / CAREER: 
+Summary Statement:  
+My research interests are very broad as well as deep.  I have published 9 books, more than 190 
+refereed journal papers and 100 conference papers. Most publications are in the top quality (Q1) 
+international journals. My major contributions are: 1) nonlinear control design, 2) networked control 
+and 3) fuzzy linear modelling for complex nonlinear systems.  
+ 
+Patent: 
+Andrew Haynes, Pengcheng Liu, Ashton Partridge and Sing Kiong Nguang, Photovoltaic 
+Systems, Patent No: WO2013081478 A1 
+ 
+Books:  
+1. Leizhi Chen, Sing Kiong Nguang and Xiao Dong Chen, Modelling and Optimization of 
+Biotechnological Processes: Artificial Intelligence Approaches" ISBN: 3-540-30634-X Springer-
+Verlag 2006  
+2. Wudhichai Assawinchaichote, Sing Kiong Nguang and Shi Peng, Fuzzy Control and Filtering of 
+Uncertain Nonlinear Systems, ISBN: 3-540-37011-0, Springer Verlag, 2006  
+3. Chengmo Xiao and Sing Kiong Nguang, Modelling and Control of Yachts, ISBN: 978-1-60741-
+430-8,  Nova Science Publishers, Inc., New York,  2009 
+4. Dan Huang and Sing Kiong Nguang, Robust control of Uncertain networked control systems with 
+Random Delays, Springer Verlag, ISBN:978-1-84882-667-9, 2009 
+5. Yi-Shin Lee, Sing Kiong Nguang and Ashton Partridge, MPPT for Photovoltaic Array under 
+Partially Shaded Conditions, 978-3-639-36546-7, VDM Verlag, 2011 
+6. Faiz Rasool and Sing Kiong Nguang, Networked Control Systems, LAP LAMBERT Academic 
+Publishing, ISBN-13: 978-3659520365, 2014. 
+7. Nitish Patel, Sing Kiong Nguang and George Coghill, Real Time Implementation of Fuzzy and 
+Neuro Controllers Using Bit-Streams, accepted Springer Verlag, 2014 
+8. Jian Zhang, Akshya Swain and Sing Kiong Nguang Robust Observer-Based Fault Diagnosis for 
+Nonlinear Systems Using MATLAB®., accepted Springer Verlag 2015. 
+9. Shakir Saat and Sing Kiong Nguang, Controller Synthesis for Nonlinear Discrete Polynomial 
+Systems, accepted Elsevier, 2016 
+ 
+Book Chapters: 
+ 
+1. Ramin Vali, Stevan Berber and Sing Kiong Nguang, Synchronization, Planning and Optimisation 
+of 3G and 4G Wireless Networks, Editor: J.I. Agbinya, River Publishers,  ISBN: 978-87-92329-24-
+0, 2009, pp. 445-457. 
+2. Dan Huang and Sing Kiong Nguang, Roust Fault Estimator Design for Uncertain Nonlinear 
+Networked Control Systems, Artificial Intelligence Resources in Control and Automation 
+Engineering, accepted 2011. 
+ 
+Selected Refereed Journal Publications:  
+  
+Fuzzy Systems 
+1. Peng Shi and Sing Kiong Nguang,
+∞
+H
+Output Control of Fuzzy System Models Using Linear 
+Output Controllers, Systems Analysis Modelling Simulation, 42, pp. 1439-1453, 2002.  
+2. Peng Shi and Sing Kiong Nguang, 
+∞
+H
+Output Feedback Control of Fuzzy System Models Under 
+Sampled Measurements, Computers and Mathematics with Applications, 46, pp. 705-717, 2003.  
+3. Sing Kiong Nguang and Shi Peng, Robust control of fuzzy time-delay models, Systems Analysis 
+Modelling Simulation, Vol. 43, pp 100 – 120, 2003  
+4. Sing Kiong Nguang and Peng Shi, Fuzzy output feedback control design for nonlinear systems: 
+An  LMI approach, IEEE Trans. On Fuzzy Systems, 11, no. 3, pp331-340, 2003.  
+5. Sing Kiong Nguang and Shi Peng,  
+∞
+H
+Output Feedback Control of Fuzzy System Models Under  
+Sampled Measurements, Automatica, 39, pp. 2169-2174, 2003.  
+6. Sing Kiong Nguang and Wudhichai Assawinchaichote  
+∞
+H
+Filtering for Fuzzy Dynamical 
+Systems  with Pole Placement Constraints, IEEE Transactions on Circuits and Systems, Part 1, 
+50, pp. 1503-1508, 2003.  
+7. Wudhichai Assawinchaichote and Sing Kiong Nguang, Fuzzy 
+∞
+H
+Control Design for Nonlinear 
+
+-----
+ 
+ 
+Singularly Perturbed Systems with Pole Placement Constraints: An LMI Approach, IEEE 
+Transactions on Systems, Man and Cybernetics, Part B, pp. 579-588, 2004  
+8. Wudhichai Assawinchaichote and Sing Kiong Nguang, 
+∞
+H
+ Filtering for Nonlinear Singularly 
+Perturbed Systems with Pole Placement Constraints: An LMI Approach, IEEE Transactions on 
+Signal Processing, pp.1659-1667, 2004.          
+9. Wudhichai Assawinchaichote, Sing Kiong Nguang and Shi Peng, Robust 
+∞
+H
+ Control for  
+Nonlinear Singularly Perturbed Systems: An LMI Approach, Automatica, pp. 2147-2152, 2004  
+10. Wudhichai Assawinchaichote and Sing Kiong Nguang, 
+∞
+H
+ Control Design for Time-Delay  
+Nonlinear Systems with Markovian jumps: An LMI Approach, Journal of Nonlinear Dynamics and 
+Systems Theory, 4, pp. 257-272, 2004  
+11. Wudhichai Assawinchaichote and Sing Kiong Nguang, Robust 
+∞
+H
+ Fuzzy Filter Design for 
+Uncertain Nonlinear Descriptor Systems, The International Journal of Artificial Intelligence and 
+Machine Learning, pp. 15-21, 2004.  
+12. Sing Kiong Nguang and Shi Peng, 
+∞
+H
+ Output Feedback Control Design for Uncertain Fuzzy 
+Systems with Multiple Time Scales: An LMI Approach, European Journal of Control, 2 , pp. 157-
+166, 2005  
+13. Dan Huang and Sing Kiong Nguang, Robust Static 
+∞
+H
+Output feedback control for fuzzy 
+systems: An ILMI Approach, IEEE Transactions on Systems, Man and Cybernetics B, 36, pp. 
+216-222, 2006  
+14. Sing Kiong Nguang and Peng Shi, Robust 
+∞
+H
+ Output Feedback Control Design for Fuzzy 
+Dynamic Systems with Quadratic D Stability Constraints: An LMI Approach, Information 
+Sciences, 176, pp. 2161-2191, 2006  
+15. Wudhichai Assawinchaichote and Sing Kiong Nguang, Robust H∞ State-Feedback Control for 
+Uncertain Fuzzy Markovian Jump Systems: LMI-Based Design, International Journal of 
+Computational Intelligence, 3, pp.187-194, 2006.  
+16. Wudhichai Assawinchaichote and Sing Kiong Nguang, Fuzzy 
+∞
+H
+ Output Feedback Control 
+Design for Nonlinear Singularly Perturbed Systems with Pole Placement Constraints: An LMI 
+Approach, IEEE Transactions on Fuzzy Systems, 14, pp. 361-371, 2006.  
+17. Sing Kiong Nguang, and Peng Shi, Robust 
+∞
+H
+Output Feedback Control Design for Fuzzy 
+Systems with Markovian jumps: An LMI approach Journal of Dynamic Systems, Measurement 
+and Control, Vol. 128,  617-625, 2006  
+18. Sing Kiong Nguang and Wudhichai Assawinchaichote, Comments on “H-infinity Fuzzy Control 
+Design for Nonlinear Singularly Perturbed Systems With Pole Placement Constraints: An LMI 
+Approach” , IEEE Transactions on Systems, Man and Cybernetics B, Vol. 36, pp. 963-964, 2006 
+19. Sing Kiong Nguang, Shi Peng and Steven Ding, Delay Dependent Fault Estimation for Uncertain 
+Time Delay Nonlinear Systems: An LMI Approach, International Journal of Robust and Nonlinear 
+Control, 16, pp. 913-933, 2006  
+20. Sing Kiong Nguang, Ping Zhang and Steven Ding, Parity relation based fault estimation for 
+nonlinear systems: An LMI approach, Fault Detection, Supervision and Safety of Technical 
+Processes 2006, pp. 366-371, 2007 
+21. Sing Kiong Nguang and Peng Shi, Delay-dependent 
+∞
+H
+ filtering for uncertain delay nonlinear 
+systems: An LMI Approach, IET Control Theory and Appl., vol. 1, pp. 133-140 2007.  
+22. Dan Huang and Sing Kiong Nguang, Static Output feedback control for nonlinear systems: An 
+ILMI Approach,  Information Sciences,  Vol. 177,  pp. 3005-3015, 2007 
+23. Wudhichai Assawinchaichote, Sing Kiong Nguang, and Peng Shi ,  Robust Fuzzy 
+∞
+H
+ Filter 
+Design for Singularly Perturbed Systems with Markovian jumps: An LMI Approach, Information 
+Sciences,  Vol. 177, pp. 1699-1714, 2007 
+24. Sing Kiong Nguang, Ping Zheng and Steven Ding, Parity Relation Based Fault Estimation for 
+Nonlinear Systems: An LMI Approach, Int. Journal of Automation and Computing, Vol. 4, 2, 164-
+168, 2007 
+25. Assawinchaichote and Sing Kiong Nguang, Robust 
+∞
+H
+ Filter Design for Uncertain Fuzzy 
+Descriptor Systems: LMI-Based Design', International Journal of Intelligent Technology, Vol.  2, 4, 
+
+-----
+ 
+ 
+217-222, 2007. 
+26. Wudhichai Assawinchaichote, Sing Kiong Nguang and Shi Peng, Robust 
+∞
+H
+ Control Design for 
+Fuzzy Singularly Perturbed Systems with Markovian jumps: An LMI Approach,  IET Control 
+Theory & Appl., Vol. 1, 4, pp. 893-908, 2007 
+27. Sing Kiong Nguang, Wudhichai Assawinchaichote, and Peng Shi, 
+∞
+H
+ Filter for Uncertain 
+Nonlinear Systems with Markovian Jumps: An LMI Approach, Circuits, Systems and Signal 
+Processing, Vol. 26, 6, 853-874, 2007. 
+28. Sing Kiong Nguang, Shi Peng and Steven Ding, Fault Detection for Uncertain Fuzzy Systems: An 
+LMI Approach, IEEE Trans. On Fuzzy Systems, 15, no. 6, pp1251-1262, 2007 
+29. Wudhichai Assawinchaichote, Sing Kiong Nguang, Peng Shi and El Kebir Boukas, Fuzzy 
+∞
+H
+State-Feedback Control Design for Nonlinear Systems with D-Stability Constraints: An LMI 
+Approach, Mathematics and Computers in Simulation, 78, p514-531, 2008 
+30. Wudhichai Assawinchaichote, Sing Kiong Nguang and Peng Shi, Synthesis of an LMI-based 
+robust 
+∞
+H
+ fuzzy filter for uncertain nonlinear dynamic systems, International Journal of Signal 
+System Control and Engineering Application, vol. 1, pp. 15-25, 2008. 
+31. Wudhichai Assawinchaichote and Sing Kiong Nguang, Robust H_infinity fuzzy control design for 
+nonlinear two-time scale system with Markovian jumps based on LMI approach",  Int. J. Computer 
+Science,  vol. 3, pp. 107-112, 2008. 
+32. Wudhichai Assawinchaichote and Sing Kiong Nguang,  Robust H_infinity Fuzzy Control Design 
+for Nonlinear Two-Time Scale System with Markovian Jumps based on LMI Approach,  Book 
+Chapter. Advanced Technologies. Edited by Aleksandar Lazinica, Vienna: In-Tech Education and 
+Publishing, 2009. 
+33. 
+Wudhichai Assawinchaichote and Sing Kiong Nguang,  Robust H_infinity fuzzy control 
+design for nonlinear two-time scale system with Markovian jumps based on LMI approach,  Int. 
+World Academy of Science, Engineering and Technology, (Paris, France), 612-617, 2009.  
+34. Wudhichai Assawinchaichote, Sing Kiong Nguang, and Peng Shi,  "Robust H_infinity output 
+feedback control design for uncertain fuzzy Markovian jump descriptor systems",  Int. J. 
+Advanced Computer Engineering,   vol. 2, pp. 45-54, 2009. 
+35. Sing Kiong Nguang, Comments on ``Fuzzy H-infinity Tracking Control for Nonlinear Networked 
+Control Systems in T-S Fuzzy Model", IEEE Transactions on Systems, Man and Cybernetics, 
+Part B,  vol. 40, 957-957, 2010. 
+36. Bor-Sen~Chen, Ching Han Chiang and Sing Kiong Nguang, Robust  H-infinity Synchronization 
+Design of Nonlinear Coupled Network via Fuzzy Interpolation Method, IEEE Circuit and 
+Systems- Part I., 58, 2, 349-362, 2011 
+37. Jie Wu, Sing Kiong Nguang, Jiong Shen,  Guangyu Justin Liu, and Yi Guo Li, Fuzzy 
+Guaranteed cost tracking control for Boiler-Turbines Systems, International Journal of 
+Innovative Computing, Information and Control, 6, 12, 5575-5585, 2010 
+38. Jie Wu, Sing Kiong Nguang, Jiong Shen,  Guangyu Justin Liu, and Yi Guo Li, Guaranteed Cost 
+Nonlinear Tracking Control of a Boiler-Turbine Unit: An LMI approach, International Journal of 
+Systems Science, vol. 41, 1464-5319, 2010 
+39. Jie Wu, Sing Kiong Nguang, Jiong Shen,  Guangyu Justin Liu, and Yi Guo Li, Robust H-infinity 
+Tracking Control of Boiler-Turbines Systems, ISA Transactions, vol. 49, 69-375, 2010 
+40. Jie Wu  Matthias  Krug,  Sing  Kiong  Nguang  and  Jiong  Shen,  GA  based  nonlinear  
+predictive switching control for a boiler-turbine system, Journal of Control Theory and 
+Applications, accepted 2010 
+41. Matthias Krug, Sing Kiong Nguang, Jie Wu and Jiong Shen GA-based model predictive control of 
+Boiler-Turbine Systems, International Journal of Innovative Computing, Information and Control, 
+accepted 2010 
+42. Jiwei Wen, Fei Liu and Sing Kiong Nguang, Sampled-data predictive control for uncertain 
+jump systems with partly unknown jump rates and time varying delay, Journal of Franklin, 349, 1, 
+305-322, 2012 
+43. Guangyu Liu, Sing Kiong Nguang and Yanxin Zhang, Pole vault Performance for Anthropometric 
+Variability via a Dynamical Optimal Control Model, Journal of Biomechanics, 44, 3, 436-441, 2011. 
+44. Jiwei Wen, Fei Liu and Sing Kiong Nguang, Feedback Predictive Control for Constrained Fuzzy 
+Systems with Markovian Jumps, Asian Journal of Control, 14, 3, 795-806, 2012. 
+
+-----
+ 
+ 
+45. Xiaojie Su, Peng Shi, Ligang Wu and Sing Kiong Nguang, Induced ℓ2 Filtering of Fuzzy 
+Stochastic Systems With Time-Varying Delays, IEEE Transactions on Systems, Man and 
+Cybernetics, Part B 43, 4, 1251-1264, 2013 
+46. Jiwei Wen, Fei Liu and Sing Kiong Nguang, Finite-time H∞ control for discrete-time Markovian 
+jump systems subject to average dwell time" Transactions of the Institute of Measurement and 
+Control, accepted 2013. 
+ 
+ 
+Nonlinear Control and Sampled-Data Systems  
+ 
+47. Sing Kiong Nguang, Robust stabilisation for a class of time-delay nonlinear systems, in proc.IEE 
+part D, 1994, pp 285-288.  
+48. Sing Kiong Nguang, Robust nonlinear 
+∞
+H
+output feedback control, IEEE Trans.  Automat. Contr., 
+Vol. 41, July1996, pp 1003-1008.  
+49. Sing Kiong Nguang and Minyue Fu, Robust nonlinear 
+∞
+H
+ filtering, Automatica, 32, August 1996, 
+pp 1195-1199.  
+50. Sing Kiong Nguang, Global robust disturbance attenuation for a class of nonlinear system, Int. 
+Journal of Robust and Nonlinear contr., Vol. 1, January 1997, pp 75-84.  
+51. Sing Kiong Nguang, 
+∞
+H
+control of a class of uncertain time-delay nonlinear systems, Systems 
+Analysis Modelling and Simulation, 1997, Vol. 29, pp. 57-70.  
+52. Sing Kiong Nguang and Minyue Fu, Global quadratic stabilisation of a class of nonlinear system, 
+Int. Journal of Robust and Nonlinear contr., Vol. 8, May 1998, pp483-497.  
+53. Sing Kiong Nguang, Robust  L_2 gain control of a class of nonlinear systems, International.  
+Journal of control, Vol. 72 , 1999, pp 1033-1043.  
+54. Sing Kiong Nguang and Chih-Min Lin, Robust 
+∞
+H
+ Filtering: A model matching approach,  
+International Journal of Systems Science, 1999, pp 1143-1151.  
+55. Sing Kiong Nguang and Peng Shi, On designing filters for sampled-data nonlinear systems,  
+Systems and Control Letters, Vol 41, 2000, pp 305-316  
+56. Sing Kiong Nguang and Peng Shi, Nonlinear 
+∞
+H
+ filtering of sampled-data systems Automatica,  
+Vol. 36, 2000, pp303-310.   
+57. Chih-Min Lin, Chun-Hua Chen and Sing Kiong Nguang, Simultaneous deadbeat tracking control  
+of three plants: multivariable case, International Journal of Control, Vol. 73, 2000, pp361-370.  
+58. Sing Kiong Nguang, Robust stabilisation of a class of time-delay structural nonlinear systems,  
+IEEE Trans. Auto. Contr., Vol. 45, 2000, pp 756 –762.  
+59. Sing Kiong Nguang and Peng Shi, Robust nonlinear 
+∞
+H
+ filtering of sampled-data systems,  
+International Journal of Systems Science, vol. 32, 2001,pp-889-898.  
+60. Sing Kiong Nguang, Comments on "Robust stabilization of uncertain input-delay systems by  
+sliding mode control with delay compensation", Automatica, vol 37, 2001, pp 1677   
+61. Sing Kiong Nguang, Zero dynamics approach to robust stabilisation for a class of structural  
+nonlinear systems, Systems Analysis Modelling simulation, vol. 41, no. 2, pp. 199-222, 2001  
+62. Sing Kiong Nguang and Minyue Fu, Robust stabilisation for a class of nonlinear systems via  
+output feedback, International Journal of Systems Science, Vol. 33, pp585-597, 2002  
+63. Sing Kiong Nguang and Peng Shi, 
+∞
+H
+ control of fuzzy systems models using linear output  
+controllers, Systems Analysis Modelling Simulation, Vol. 42, pp 1439-1453, 2002  
+64. Shaosheng Zhou, Gang Feng, Nguang, S.K. Comments on "Robust stabilization of a class time- 
+delay nonlinear systems”, IEEE Trans. on Automatic Control, Vol. 47 pp1586–1586, 2002.  
+65. El Kebir Boukas, Peng Shi and Sing Kiong Nguang, Robust 
+∞
+H
+ Control for Linear Markovian  
+Jump Systems with Unknown Nonlinearities, Journal of Mathematical Analysis and Applications, 
+241-255, 2003  
+66. Peng Shi, El Kebir Boukas, Sing Kiong Nguang and Xianping Guo, Robust disturbance 
+attenuation  for discrete-time active fault tolerant control systems with uncertainties, Optimal 
+Control Applications & Methods, 24, pp.85-101, 2003  
+
+-----
+ 
+ 
+67. Sing Kiong Nguang and Shi Peng, Robust Nonlinear 
+∞
+H
+Control of Sampled-Data Systems,  
+Systems Analysis Modelling Simulation, pp. 101-110, 2005  
+68. Peng Shi, Magdi Mahmoud, Sing Kiong Nguang and Abdulla Ismail, Robust filtering for jumping  
+systems with mode-dependent delays, Signal Processing, pp. 140-152, 2006.  
+69. A K Swain, E.M.A.M Mendes and S.K. Nguang, Analysis of the effects of time delay  in nonlinear  
+systems using generalized frequency response functions,   Journal of  Sound and Vibration, 294, 
+pp. 341-354, 2006  
+70. Zhenting Hou, Jiaowan Luo, Peng Shi and Sing Kiong  Nguang, Stochastic stability of Ito  
+stochastic differential equations with semi-Markovian jump parameter, IEEE Trans. on Automat. 
+Contr., 51, 8, pp. 1383-1387, 2006.  
+71. Sing Kiong Nguang and Shi Peng, Nonlinear H-infinity Control of Uncertain Sampled-Data 
+Systems,  International Journal of Systems Science, 37,15, 1039-1050, 2006  
+72. Sing Kiong Nguang, Shakir Md Saat and Matthias Krug, Static Output Feedback Controller 
+Design for Uncertain Polynomial Systems: An Iterative Sums of Squares Approach, IET Control 
+Theory & Appl., 5, 9, 1079-1084, 2011. 
+73. Shakir Saat, Dan Huang, and Sing Kiong Nguang, Robust state feedback control of uncertain 
+polynomial discrete-time systems: An integral action approach, Int. J. of Innovative Computing 
+Information and Control, accepted 2012. 
+74. Matthias Krug, Shakir Saat and Sing Kiong Nguang, Robust H-infinity Static Output Feedback 
+Controller Design for Parameter Dependent Polynomial Systems: An Iterative Sums of Squares 
+Approach, Journal of the Franklin Institute, accepted 2012. 
+75. S Saat, D Huang, S.K Nguang, AH Hamidon, Nonlinear state feedback control for a class of 
+polynomial nonlinear discrete-time systems with norm-bounded uncertainties: An integrator 
+approach, Journal of the Franklin Institute, accepted 2013 
+76. Jiwei Wen, Fei Liu and Sing Kiong Nguang, Finite time H-infinity control for discrete-time 
+Markovian jump systems subject to average dwell time, Transaction of the Institute of 
+Measurement and Control, accepted 2013. 
+77. Shakir Saat, Sing Kiong Nguang and Chih-Min Lin, Robust nonlinear H-infinity state feedback 
+control of polynomial discrete-time systems: An integrator Approach, Circuit Systems Signal 
+Processing, accepted 2013. 
+78. Shakie Saat and Sing Kiong Nguang, Nonlinear H-infinity Output Feedback Control with 
+integrators for polynomial discrete time systems, International Journal of Robust and Nonlinear 
+control, accepted 2013.  
+79. Wenqin Wang and Sing Kiong Nguang, Robust delay-probability-distribution-dependent stability 
+of uncertain genetic regulatory networks with time-varying delays, Neurocomputing, accepted 
+2013 
+80. Wenqin Wang and Sing Kiong Nguang, Novel Delay-dependent Stability criterion for uncertain 
+genetic regulatory networks with interval time varying delays, Neurocomputing, accepted 2013 
+81. Jiwei Wen and Sing Kiong Nguang, Asynchronous H-infinity Control of Constrained Markovian 
+Jump Linear Systems with Average Dwell Time, International Journal of Sensors, Wireless, 
+Communications and Control, accepted 2013. 
+82. A Nasiri, Sing Kiong Nguang, A Swain, Adaptive sliding mode control for a class of MIMO 
+nonlinear systems with uncertainties, Journal of the Franklin Institute, accepted 2013 
+ 
+Biotechnology and Biochemical  
+83. Sing Kiong Nguang and Xiao Dong Chen, Simple substrate feeding rate control mechanism for  
+optimising the steady state productivity of a Class of Fermentation Processes, Biotechnology 
+Progress, Vol 13, 1997, pp 200-204.  
+84. Xiao Dong Chen, Zheng Dong Chen, Sing Kiong Nguang and Skelte Anema, Exploring the  
+reaction kinetics of whey protein denaturation/aggregation by assuming the denaturation step is 
+reversible, Biochemical Engineering Journal 2, 1998, pp 63-69.  
+85. Sing Kiong Nguang and Xiao Dong Chen, Recursive Least Squares Scheme for Operating a 
+Class  of Continuous Fermentation Processes at the Optimal Steady State Productivity, Journal 
+of Chem. Technology and Biotechnology, 1998, pp 227-232.  
+86. Sing Kiong Nguang and Xiao Dong Chen, High Frequency Multi Input Periodic operation of  
+continuous fermentation process, Journal of Chem. Technology and Biotechnology, 1998, pp 
+
+-----
+ 
+ 
+232-236.  
+87. Sing Kiong Nguang and Xiao Dong Chen, Simple procedure for operating a class of continuous  
+fermentation processes at the optimal productivity, Biochemical Engineering Journal 1, 1998, 
+pp131-136.  
+88. Sing Kiong Nguang and Xiao Dong Chen, Robust 
+∞
+H
+control of a Class of Continuous  
+Fermentation Processes at the Optimal Steady State Productivity, Applied Mathematics Letters, 
+1999, pp 61-69.  
+89. Sing Kiong Nguang and Xiao Dong Chen, Optimal control of a class of continuous fermentation  
+processes under input constraints, Systems Analysis Modelling and Simulation, Vol. 36, 1999, 
+pp63-76.  
+90. Sing Kiong Nguang and Xiao Dong Chen, Extremum seeking control for a class of continuous  
+fermentation processes, Bioprocess Engineering, Vol. 23, pp 417-420, 2000  
+91. Stefan Borg, Sing Kiong Nguang and Xiao Dong Chen, Nonlinear 
+∞
+H
+ control of polmerisation  
+reactors, ISA Transactions, Vol. 40, 2001 pp 73-84  
+92. Sing Kiong Nguang, LeiZhi Chen and Xiao Dong Chen, Optimisation of fed-batch culture of  
+Hybridoma cells using genetic algorithm, ISA Transactions,40 (4):381-389, 2001.  
+93. Sing Kiong Nguang and Xiao Dong Chen, Control of Continuous Fermenters under input  
+constraints, International Journal of Systems Science, Vol. 32, pp 313-320, 2001  
+94. Xiao Dong Chen, X. Y Xu, Sing Kiong Nguang and A. E Bergles, Characterization of the effect of  
+corrugation angles on hydrodynamic and heat transfer performance of four-start sprial tubes, 
+Journal of Heat Transfer, vol. 123, 2001, pp. 1149-1158  
+95. Yiu, Chen and Sing Kiong Nguang, Backstepping control for a class of power systems, Systems  
+Analysis Modelling simulation, Vol. 42, pp 825 – 849, 2002  
+96. LeiZhi Chen,Sing Kiong Nguang, and Xiao Dong Chen, On-line identification  and optimisation of  
+feed rate profiles for high productivity fed-batch culture of Hybridoma cells using genetic 
+algorithm, ISA Transactions 41, pp. 409-419,  2002.  
+97. Sing Kiong Nguang and Xiao Dong Chen, Robust stabilization of binary distillation columns with  
+input constraints, International Journal of Systems Science, 33(9):759-765, 2002  
+98. Xiao Dong Chen and Sing Kiong Nguang, The Theoretical Basis of Heat Flux Sensor 'Pen', The  
+Journal of Applied Mathematics and Decision Sciences, pp 1-10, 2003.  
+99. LeiZhi Chen, Sing Kiong Nguang, Xue Mei Lin and Xiao Dong Chen, Soft Sensors development  
+for on line biomass estimation, Bioprocess and Biosystems Engineering, 26, pp. 191-195, 2004  
+100. 
+LeiZhi Chen, Sing Kiong Nguang, Xue Mei Lin and Xiao Dong Chen, Modelling and 
+Optimization  of fed-batch fermentation processes using dynamic neural networks and genetic 
+algorithms, Biochemical Engineering Journal, 22,51-62, 2004  
+101. 
+Yoo, J., Chen, X.D., Nguang, S.K., A Simple Mathematical Model of  Batch Growth of 
+Bacillus  stearothermophilus in Various Dairy Fluids,  Developments in Chemical Engineering and 
+Mineral Processing- An  Australasian Research Journal (special issue on food and 
+bioprocessing), 13, 31-41, 2005  
+102. 
+He, M., Li. X.M., Qin, G.F., Nguang, S..K., and Chen, X.D, Cost-Effective optical sensor for  
+online measurement of biomass Developments in Chemical Engineering and Mineral Processing- 
+An Australasian Research Journal (special issue on food and bioprocessing), 13, 63-70, 2005  
+103. 
+Kuek Tze Lee, Mohammed Farid and Sing Kiong Nguang The Mathematical Modelling of the   
+Rehydration Characteristics of Fruits, Journal of Food Engineering, 72, 16-23, 2006  
+104. 
+Ta-Yuan Wang  and Sing Kiong Nguang, Low Cost Sensor for Volume and Surface Area  
+Computation of Axi-symmetric Agricultural Products, Journal of Food Engineering, 70,3, 870-877, 
+2007  
+Biomedical  
+105. 
+Simon C. Malpas, Todd A. Hore, Michael Navakatykyan, Elena V. Lukoshkova, Sing Kiong  
+Nguang & Paul Austin, Resonance in the renal vasculature evoked by activation of the 
+sympathetic nerves, American Journal of Physiology - Regulatory Integrative & Comparative 
+Physiology, 1999, 45(5): R1311-R1319.  
+106. 
+Raymond M. W. Cheung, Sing Kiong Nguang and Simon C. Malpas, Neural Network 
+Modelling of  the Dynamic Relationship Between Arterial Pressure, Sympathetic Nerve Activity 
+and Renal Blood Flow in Conscious Rabbits, Systems Analysis Modelling simulation, vol. 40, pp. 
+
+-----
+ 
+ 
+365-376, 2001.  
+107. 
+Liu H, Guild S, Ringwood JV, Barrett CJ, Leonard BL, Nguang SK, Navakatikyan MA and   
+Malpas SC. The dynamic baroreflex control of blood pressure; influence of the heart vs. 
+peripheral resistance, American Journal of Physiology- Regulatory Integrative & Comparative 
+Physiology, R533-R542, 2002  
+108. 
+Sarah-Jane Guild,  S.C. Malpas,  G.A. Eppel, S. K. Nguang and R.G Evans, Influence of 
+renal  perfursion pressure on responses of intrarenal blood flow to renal nerve stimulation in 
+rabbits, Clinical and Experimental Pharmacology and Physiology, 31 (1-2), pp. 35-45, 2004.  
+Bit-Stream Implementation  
+109. 
+Nitish Patel and Sing Kiong Nguang, An Alternative Approach for Real Time Digital 
+Controller Implementation, WSEAS Transactions on Systems, pp. 2938-2944, 2004  
+110. 
+Nitish Patel and Sing Kiong Nguang, Real Time Digital Controller Implementation Using 
+Deterministic Uniformly Weighted Bit Streams, International Journal of Innovative Computing 
+information and control, 2, pp. 505-517, 2006  
+111. 
+Nitish Patel and Sing Kiong Nguang and George Coghill, Neural Network Implementation, 
+Using Bit-Streams IEEE Transactions on Neural Networks, Vol. 18, 5, pp.1488-1504,2007  
+Networked Control systems: 
+112. 
+Dan Huang and Sing Kiong Nguang, State Feedback Control of Uncertain Networked 
+Control Systems with Random Time-Delays, IEEE Transactions on Automatic Control, vol. 53, 
+pp. 829-834, 2008 
+113. 
+Dan Huang and Sing Kiong Nguang, Robust Disturbance Attenuation with Stability for 
+Uncertain Networked Control Systems, Circuits, Systems and Signal Processing, 28, pp.65-83, 
+2009 
+114. 
+Dan Huang and Sing Kiong Nguang Robust Disturbance Attenuation for Uncertain 
+Networked Control Systems with Random Time-Delays, IET Control Theory & Appl. 2, pp1008-
+1023, 2008 
+115.  Dan Huang and Sing Kiong Nguang Dynamic Output Feedback Control for Uncertain 
+Networked Control Systems with Random Network-induced Delays, International Journal of 
+Control, Automation, and Systems, vol. 7, 841-847, 2009. 
+116.  Dan Huang and Sing Kiong Nguang, Fault estimation for uncertain nonlinear networked control 
+systems, The Open Automation and Control System Journal, 2, pp. 32-45, 2009 
+117. Dan Huang and Sing Kiong Nguang, Robust Fault Estimator Design for Uncertain Networked 
+Control Systems with Random Time-delays: An ILMI Approach, Information Sciences , vol. 180, 
+465-480, 2010 
+118.  Dan Huang and Sing Kiong Nguang,  Robust Disturbance Attenuation for Uncertain Nonlinear 
+Networked Control Systems, Journal of Control Theory and Applications, vol. 8,  40-51, 2010 
+119. Seunghwan Chae, Faiz Rasool, Sing Kiong Nguang and Akshya Swain, Robust Mode Delay 
+Dependent H_infinity control of Discrete-Time Systems with Random Communication Delays, IET 
+Control Theory & Appl., vol. 4, 936–944, 2010 
+120. Faiz Rasool and Sing Kiong Nguang, Quantized Robust H_infinity Control of Discrete-Time 
+Systems with Random Communication Delays, International Journal of Systems Science, 42,1 , 
+129-138, 2011 
+121. Faiz Rasool and Sing Kiong Nguang, Quantized Robust H_infinity Output Feedback Control of 
+Discrete-Time Systems with Random Communication Delays, IET Control Theory & Appl., 4, 11, 
+2252-2262, 2010 
+122. Faiz Rasool, Dan Huang and Sing Kiong Nguang, Robust H_infinity Output Feedback Control of 
+Discrete-Time Networked Systems With Limited Information, Systems & Control Letters,  60, 10, 
+845-853, 2011 
+123. Seunghwan Chae and Sing Kiong Nguang, Robust Partially Mode Delay Dependent H-infinity 
+Control of Discrete-Time Networked Control Systems, International Journal of Systems Science, 
+43, 9, 1764-1773, 2012 
+124. Dan Huang and Sing Kiong Nguang, Robust Fault Estimator Design for Uncertain Nonlinear 
+Networked Control Systems, International Journal of Sensors, Wireless, Communications and 
+Control, 68-80, 2012 
+125. Aisha Arynova, Faiz Rasool, Dan Huang and Sing Kiong Nguang, Robust H∞ Delay Mode-
+Dependent PI Power Control of CDMA Mobile Communication Systems, International Journal of 
+
+-----
+ 
+ 
+Sensors, Wireless, Communications and Control, 90 - 99, 2012 
+126. Faiz Rasool, Dan Huang and Sing Kiong Nguang, Robust H-infinity Output Feedback Control of 
+Networked Control Systems with Multiple Quantizers, Journal of the Franklin Institute, 349, 3, 
+1153-1173, 2012 
+127. Jian Zhang, Akshya Swain and Sing Kiong Nguang, Detection and isolation of incipient sensor 
+faults for a class of uncertain nonlinear systems, IET Control Theory & Appl. Accepted 2012. 
+128. Faiz Rasool and Sing Kiong Nguang, Robust H_infinity Output Feedback Control of Discrete-
+Time Networked Systems With Congestion Control, International Journal of Systems Science, 
+accepted 2013 
+129. Jian Zhang, Akshya Swain and Sing Kiong Nguang. Robust sensor fault estimation scheme for 
+satellite altitude control systems, International Journal of Franklin, 350 (9), 2581-2604, 2013 
+130. Faiz Rasool, Sing Kiong Nguang, Chih-Min Lin, Robust State Feedback Control of Networked 
+Control Systems with Congestion Control, Circuit Systems Signal Processing, 32 (6), 2761-2781, 
+2013 
+131. Seunghwan Chae and Sing Kiong Nguang, Robust Partially Mode Delay Dependent fuzzy 
+dynamic Output feedback controller for Nonlinear Discrete-Time Networked Control Systems, 
+IEEE Transactions on Cybernetics, 44(7), 1204-1213,  2013 
+132. F Rasool, SK Nguang, Robust H ∞ state feedback control of NCSs with Poisson noise and 
+successive packet dropouts, International Journal of Control, Automation and Systems 13 (1), 45-
+57, 2015 
+133. F Rasool, SK Ngaung, Robust dynamic output feedback control of networked control systems 
+with congestion control, nternational Journal of Systems Science 46 (10), 1854-1864, 2015 
+134. S Chae, SK Nguang, W Wang Robust H_infinity fuzzy control of discrete nonlinear networked 
+control systems: A SOS approach , Journal of the Franklin Institute, 351(8), 4065-4083, 2014 
+ 
+Miscellaneous  
+135. Sing Kiong Nguang, Control of voltage sourced reversible rectifiers using Q-parameterization,  
+Systems Analysis Modelling and Simulation, Vol. 31, 1998, pp 231-245.   
+136. Andrew Chia-Hua Liu, Arthur Yu-Sheng Chen, Sing Kiong Nguang and Dariusz Kacprzak,  
+Development of a “TWO BUG” walking robot, JSAEM studies in Applied Electromagnetics and 
+mechanic, pp 219-226, 2003.  
+137. Daniel Edney and Sing Kiong Nguang, Dosing control for coagulation in a rapid mixer: 
+Comparision of PID and Model predictive control, Advances in the dynamics instrumentation and 
+control, pp 59-68, 2004  
+138. William To, Zoran Salcic, Sing Kiong Nguang, Prototyping Neuro-adaptive Smart Antenna for 
+3G Wireless Communications, EURASIP J. on Applied Signal Processing, 1093-1109, 2005  
+139. JiaYing Cao, Zoran Salcic, Sing Kiong Nguang, A Floating-point FPGA-based Self-Tuning 
+Regulaton, IEEE Trans. On Industrial Electronics, pp. 693-704 2006  
+140. Chengmo Xiao and Sing Kiong Nguang, Yacht Adaptive Self-tuning PD control: An 
+∞
+H
+approach, International Journal of Innovative Computing information and control, vo1. 4, pp. 717-
+733, 2008. 
+141. Chengmo Xiao and Sing Kiong Nguang, Adaptive Steering and Roll damping Control for 
+Yachts, Journal of Modelling, Identification and Control, Vol. 5,  pp. 113-121, 2008 
+142. Chunsen Tang, Yue Sun, Yugang Su, Sing Kiong Nguang and Aiguo Hu Determining Multiple 
+Steady-state ZCS Operating Points of a Switch-mode Contactless Power Transfer System, IEEE 
+Transactions on Power Electronics, Vol. 21, pp.415-425, 2009. 
+143. Yizhen Wu, Zoran Salcic and Sing Kiong Nguang, An Improved Taylor Method for Frequency 
+Measurement in Power Systems, IEEE Transactions on Instrumentation and Measurement IEEE, 
+Vol. 50, 3288-3294, 2009 
+144. Ramin Vali, Stevan Berber and Sing Kiong Nguang, Effect of Rayleigh fading on non-coherent 
+sequence synchronization for multi-user chaos based DS-CDMA, Signal Processing, vol. 90, 
+1924–1939, 2010. 
+145. Chunsen Tang, Yue Sun, Yugang Su, Sing Kiong Nguang and Aiguo Hu, Multiple Soft-
+Switching Operating Points Based Power Flow Control of Contactless Power Transfer Systems, 
+IET Power Electronics, 4, 6, 725-731, 2011 
+
+-----
+ 
+ 
+146. Ramin Vali, Stevan M. Berber and  Sing Kiong Nguang, Analysis of Chaos-based Code 
+Tracking Using Chaotic Correlation Statistics, IEEE Transactions on Circuits and Systems I, 59, 
+4, 796-805, 2012 
+147. Ramin Vali,  Stevan M. Berber and  Sing Kiong Nguang, Accurate performance analysis of 
+chaos-based code tracking in presence of multipath fading, Electronics Letters, 48, 4, 238-239, 
+2012 
+148. Ramin Vali,  Stevan M. Berber and Sing Kiong Nguang, Accurate Derivation of Chaos-based 
+Acquisition Performance in a Fading Channel, IEEE Transactions on Wireless Communications, 
+11, 2, 722-731, 2012 
+149. Guanyu Liu, Sing Kiong Nguang and Ashton Partridge, A General Modeling Method for I-V 
+Characteristics of Geometrically and Electrically Configured Photovoltaic Arrays, Energy 
+Conversion and Management, 52, 12, 2012 
+150. G. Liu, Y. Ren and S. K. Nguang, Simulated Photovoltaic Array Systems Under a Changing 
+Environment for Temporal Performance, International Journal of Green Energy, vo. 9, 7, 673-684, 
+2012 
+151. C. Tang, Y. Sun, X. Dai, Z. Wang, S. K. Nguang and A. Hu, Shifting the stable operating points 
+of bifurcated IPT systems by time delay perturbation, Electronics Letters, 49 (9), 615-617 2013 
+152. G Liu, R Dass, S.K Nguang, A Partridge, Principles, Design, and Calibration for a Genre of 
+Irradiation Angle Sensors, IEEE Transactions of Industries Electronics, 60, 1, 210-216, 2013 
+153. W Wang, S Zhong, S Kiong Nguang, F Liu, Robust delay-probability-distribution-dependent 
+stability of uncertain genetic regulatory networks with time-varying delays, Neurocomputing, 119, 
+153-164, 2013 
+154. J Wen, L Peng, SK Nguang, Asynchronous H-infinity filtering of switched time-delay systems 
+with network induced random occurrences, Signal Processing 98, 62-73, 2014 
+155. H Wang, S Kiong Nguang, Intelligent and Comprehensive Monitoring System for Swimming 
+Pool, International Journal of Sensors Wireless Communications and Control, 85-94, 2013 
+156. Wen, L Peng, S Kiong Nguang, Asynchronous H∞ Control of Constrained Markovian Jump 
+Linear Systems with Average Dwell Time, International Journal of Sensors Wireless 
+Communications and Control, 3,1,45-58, 2013 
+157. W Wang, S Zhong, S Kiong Nguang, F Liu, Novel delay-dependent stability criterion for 
+uncertain genetic regulatory networks with interval time-varying delays, Neurocomputinng, 121, 
+170-178,  2013 
+158. S Saat, D Huang, S Kiong Nguang, AH Hamidon, Nonlinear state feedback control for a class of 
+polynomial nonlinear discrete-time systems with norm-bounded uncertainties: An integrator 
+approach Journal of the Franklin Institute, 350(7), 1739-1752, 2013 
+159. W Wang, SK Nguang, S Zhong, F Liu, Robust stability analysis of stochastic delayed genetic 
+regulatory networks with polytopic uncertainties and linear fractional parametric uncertainties, 
+Communications in Nonlinear Science and Numerical Simulation 19 (5), 1569-1581 2014 
+160. Y Zhang, P Shi, S Kiong Nguang, HR Karimi, Observer-based finite-time fuzzy H-infinity control 
+for discrete-time systems with stochastic jumps and time-delays, Signal Processing 97, 252-261, 
+2014 
+161. A Nasiri, S Kiong Nguang, A Swain, Adaptive sliding mode control for a class of MIMO 
+nonlinear systems with uncertainties, Journal of the Franklin Institute, 351(4), 2046-2061,  2014 
+162. Y Zhang, P Shi, SK Nguang, J Zhang, HR Karimi, Finite-time boundedness for uncertain 
+discrete neural networks with time-delays and Markovian jumps, Neurocomputing 140, 1-7, 2014 
+163. Dong Li-Jinga, Chai Sen-Chun, Zhang Bai-Hai, Nguang Sing-Kiong, Tracking problem under a 
+time-varying topology, Chin. Phys. B, DOI: 10.1088/1674-1056/23/6/060502, 2014. 
+164. Y Zhang, P Shi, SK Nguang, Observer-based finite-time H∞ control for discrete singular 
+stochastic systems, Applied Mathematics Letters, 38, 115-121, 2014 
+165. J Zhang, AK Swain, SK Nguang, Simultaneous robust actuator and sensor fault estimation for 
+uncertain non-linear Lipschitz systems, 8(14), 1364-1374, CTA IET, 2014 
+166. W Wang, S Kiong Nguang, S Zhong, F Liu, Exponential convergence analysis of uncertain 
+genetic regulatory networks with time-varying delays, ISA transactions, 53(5), 1544-1553, 2014 
+167. W Wang, SK Nguang, S Zhong, F Liu, Novel delay-dependent stability criterion for time-varying 
+delay systems with parameter uncertainties and nonlinear perturbations, Information Sciences, 
+281,321-333, 2014 
+
+-----
+ 
+ 
+168. J Wen, L Peng, SK Nguang, Finite-time control for discrete-time Markovian jump systems with 
+deterministic switching and time-delay, International Journal of Control, Automation and Systems 
+12 (3), 473-485, 2014 
+169. Y Zhang, P Shi, S Kiong Nguang, HR Karimi, RK Agarwal, Robust finite-time fuzzy H∞ control 
+for uncertain time-delay systems with stochastic jumps, Journal of the Franklin Institute., 351(8), 
+4211-4229, 2014 
+170. S Chae, D Huang, SK Nguang, Robust Partially Mode Delay‐Dependent ℋ∞ Output Feedback 
+Control of Discrete‐Time Networked Control Systems, Asian Journal of Control, 16(5),1312-1322, 
+2014 
+171. W Wang, SK Nguang, S Zhong, F Liu, New Delay-Dependent Stability Criteria for Uncertain 
+Neutral System with Time-Varying Delays and Nonlinear Perturbations, Circuits, Systems, and 
+Signal Processing, 1-22, 2014 
+172. S Saat, SK Nguang, CM Lin, Z Zakaria, Robust nonlinear H∞ state feedback control of 
+polynomial discrete-time systems: An integrator approach, Circuits, Systems, and Signal 
+Processing 33 (2), 331-346, 2014. 
+173. J Wen, L Peng, SK Nguang Finite-time Analysis and Design for Discrete-time Switching 
+Dynamics Markovian Jump Linear Systems with Time-varying Delay, CTA, IET, 8(17), 1972-1985 
+2014 
+174. Lijing Dong, Senchun Chai, Baihai Zhang, Sing Kiong Nguang, Sliding mode control for multi-
+agent systems under a time-varying topology, neurocomputing, 1-8, 2014. 
+175. J Zhang, P Shi, J Qiu, SK Nguang, A Novel Observer-Based Output Feedback Controller 
+Design for Discrete-Time Fuzzy Systems, Fuzzy Systems, IEEE Transactions on 23 (1), 223-229, 
+2015 
+176. H L Dong, S Chai, B Zhang, SK Nguang, L Wen, high-order tracking problem with a time-
+varying topology and communication delays, Neurocomputing 149, 1360-1369, 2015 
+177. N. Azman, S. Saat, S. K. Nguang, Nonlinear Filter Design for a Class of Polynomial Discrete-
+time Systems: An Integrator Approach, International Journal of Innovative, Computing, 
+Information and Control (IJICIC), vol. 11, no.3, pp.1011-1019, 2015. 
+178. Y Gao, P Shi, H Li, SK Nguang, Output tracking control for fuzzy delta operator systems with 
+time-varying delays, Journal of the Franklin Institute accepted 2015 
+179. J Wen, L Peng and S.K. Nguang, Stochastic Finite-time Boundedness on Switching Dynamics 
+Markovian Jump Linear Systems with Saturated and Stochastic Nonlinearities, Information 
+Sciences, accepted 2015 
+180. Lijing Dong, Senchun Chai, Baihai Zhang, Sing Kiong Nguang Finite interval tracking algorithm 
+for nonlinear multi-agent systems with communication, International journal of system sciences, 
+accepted 2015 
+181. Kai Lu and Sing Kiong Nguang, Design of Auto-tuning Capacitive Power Transfer System For 
+Wireless Power Transfer, International Journal of Electronics, accepted 2015 
+182. A. Nasiri, S.K. Nguang, A. Swain, D. J. Al makhles, Robust output feedback controller design of 
+discrete time T-S fuzzy systems using non-monotonic Lyapunov functions, IET CTA, accepted 
+2015. 
+183. Lijing Dong, Senchun Chai, Baihai Zhang, Sing Kiong Nguang Finite interval tracking algorithm 
+for nonlinear multi-agent systems with communication, International journal of system sciences, 
+accepted 2015 
+184. P. Liu, S. K. Nguang and Ashton Partridge, Occupancy Inference using Pyroelectric Infrared 
+Sensors 
+through 
+Hidden 
+Markov 
+Models, 
+IEEE 
+Sensors 
+Journal, 
+2015, 
+http://dx.doi.org/10.1109/JSEN.2015.2496154 
+185. H. Wang and S.K. Nguang, Robust Video Target Tracking Based on Multi-feature Fusion and 
+H-infinity Filtering, International Journal of Computer and Communication Engineering, vol. 5, pp-
+79-81, 2016. 
+186. Y.Yusmarnita, S. Saat, H. Husin, S.K Nguang, Design and Analysis of 1MHz Class-E Power 
+Amplifier, WSEAS Transactions on Circuits and Systems, accepted 2016 
+187. J Wen, S.K. Nguang, Peng Shi, Finite-time Stabilization of Markovian Jump Delay Systems - A 
+Switching Control Approach, International Journal of Robust and Nonlinear Control, accepted 
+2016 
+188. SH. Husin, MSM. Saat, Y. Yusop, ZA. Ghani, S.K Nguang, Development of Class D Inverter for 
+
+-----
+ 
+ 
+Acoustics Energy Transfer Implantable Devices, International Journal of Power Electronics and 
+Drive Systems (IJPEDS), accepted 2016 
+189. T. Zaid, S. Saat, N. Jamal, SH. Husin, Y. Yusof, SK Nguang, Implementation of a MIMO system 
+for Wireless Power Transfer Using Acoustic Approach, International Journal of Power Electronics 
+and Drive Systems (IJPEDS) , accepted 2016 
+190. Lijing Dong, Senchun Chai, Baihai Zhang, Sing Kiong Nguang, Stability of a Class of Multi- 
+Agent Tracking System with Unstable Subsystems, IEEE Transactions on Cybernetics, accepted 
+2016 
+191. Xudong Zhao, Peng Shi, Yunfei Yin, Sing Kiong Nguang, New Results on Stability of Slowly 
+Switched Systems: A Multiple Discontinuous Lyapunov Function Approach, IEEE Transactions on 
+Automatic Control, accepted 2016 
+192. Q. Feng and SK Nguang, Stabilization of uncertain linear distributed delay systems with 
+dissipativity constraints, Systems & Control Letter, accepted 2016. 
+ 
+ 
+Edited Proceedings  
+1. Zoran Salcic and Sing Kiong Nguang eds. Proceedings of 6
+th
+ Annual New Zealand Engineering 
+and Technology Postgraduate conference, Auckland, New Zealand, ISBN no. 0473064944,239 
+pages, 1999  
+2. Sing Kiong Nguang and Peng Shi, (Guest Eds.). Special issue on Stability Analysis and 
+Synthesis for Time Delay Stochastic Nonlinear Systems, Journal of nonlinear dynamics and 
+systems theory, 2004.  
+ 
+Selected fully refereed Conference Papers:  
+1. Sing Kiong Nguang and Minyue Fu, Robust stabilisation of a class of nonlinear systems, in proc. 
+of CDC32, pp2561-2566, December 1993  
+2. Sing Kiong Nguang and Minyue Fu, Nonlinear 
+∞
+H
+ filtering for both known and uncertain systems, 
+workshop in Brazil, pp 347-352, September 1994.  
+3. Sing Kiong Nguang and Jose M Fernandes, Robust 
+∞
+H
+  control of a class of time-delay nonlinear 
+systems, CESA, IMACS, France, pp603-608, July 1996. Invited Paper.  
+4. Sing Kiong Nguang, Robust nonlinear Control of a class of nonlinear systems with both delay in 
+state and control input, ICARCV'96, Singapore, pp153-157 December 1996  
+5. Xiao Dong Chen and Sing Kiong Nguang, Influence of self heating on solid state fermentation in 
+`Slowly Stirred'  Bioreactors, IPENZ, New Zealand, pp19-24, February 1997  
+6. Sing Kiong Nguang and Xiao Dong Chen, A Cost-Effective Procedure for Optimizing the Steady 
+State Productivity of Continuous Fermentation Processes Described by A Non segregated Growth 
+Model, CHEMECA'97 , (CDROM) BP4d Sess.10, 1997.  
+7. Sing Kiong Nguang, Robust stabilization of time-delay nonlinear system with a triangular structure,  
+CDC36, San Diego, pp. 4006-4011, December 1997.  
+8. Sing Kiong Nguang and Paul Austin, Global stabilization of nonlinear system with structural 
+uncertainties by linear feedback, CONTROL97, Sydney, pp 43-48, December 1997.  
+9. Sing Kiong Nguang and Xiao Dong Chen, High frequency periodic operation of continuous lactase 
+production processes, IPENZ, New Zealand, pp175-183, February 1998.  
+10. Sing Kiong Nguang, Robust 
+∞
+H
+ control of a class of nonlinear systems with delayed state and 
+control: An LMI approach, CDC98, Tampa, Florida, 1998, pp 2384-2389.  
+11. Sing Kiong Nguang and Minyue Fu, Robust 
+∞
+H
+ control for a class of nonlinear systems: AN LMI 
+approach, CDC98, Tampa, Florida, 1998, pp4063-4068  
+12. Sing Kiong Nguang and Xiao Dong Chen, Robust stabilization of binary distillation columns with 
+input constraints, CHEMECA'98,  Australia 1998, pp 131-137.  
+13. E. K. Boukas, Peng Shi and Sing Kiong Nguang Robust 
+∞
+H
+ control of a class of nonlinear 
+systems with markovian jumping parameters, ACC 1999, 970-976  
+14. Sing Kiong Nguang and Shi Peng, Robust nonlinear 
+∞
+H
+ control of sampled-data systems, ACC 
+
+-----
+ 
+ 
+1999, pp. 1289-1295.  
+15. Sing Kiong Nguang and Peng Shi, Robust nonlinear 
+∞
+H
+ filtering of sampled-data systems, ACC 
+1999, pp. 1274-1280.  
+16. Chih-Min Lin, Chun-Hua Chen and Sing Kiong Nguang, Simultaneous Deadbeat Tracking Control 
+for Multivariable System, IDC99 Melbourne, 1999, pp. 100-106.  
+17. Chih-Min and Sing Kiong Nguang, Simultaneous Deadbeat Tracking Control of  Three Plants: 
+Multivariable Case, IFAC99,  1999, pp G-115-120  
+18. Sing Kiong Nguang and Peng Shi, Nonlinear 
+∞
+H
+ filtering of sampled-data systems, IFAC99, 
+1999, pp E-259-264.  
+19. Simon C. Malpas, Todd A. Hore, Michael Navakatykyan, Elena V. Lukoshkova, Sing Kiong 
+Nguang & Paul Austin, How do the different frequencies present in sympathetic nerve activity 
+regulate blood flow?, FASEB Journal, 1999 13: (4) A449-A449 Part 1 Suppl. S.  
+20. Chi Yiu Chan, Sing Kiong Nguang, Yixin Ni and Felix F. Wu, A Novel Power System Stabilizer  
+Using Recursive Backstepping Design, ICEE2K, Kitakyushu, Japan, 2000, pp 412-425  
+21. Sing Kiong Nguang and Shi Peng, Stabilisation of a class of nonlinear time-delay systems using 
+fuzzy models, 39
+th
+ CDC, Sydney, Australia 2000, pp 4415-4419   
+22. Sing Kiong Nguang, Robust stabilisation of a class of nonlinear systems, ICARCV 2000, 
+Singapore, 2000, TP 3.4(I), Page No. 464  
+23. JiaYing Cao, Zoran Salcic and Sing Kiong Nguang, Digital self-tuning regulator in a single FPLD 
+chip, ICARCV 2000, Singapore, 2000, WP 3.4, Page No. 051  
+24. LeiZhi Chen and Sing Kiong Nguang, On-line identification and optimization of feed rate profiles 
+for fed-batch culture of hybridoma cells using genetic algorithms, ACC01, USA, 2001, 3811-3816  
+25. Sing Kiong Nguang and Shi Peng, 
+∞
+H
+ fuzzy output feedback control design for nonlinear 
+systems: An LMI approach, 40
+th
+  CDC, Orlando, USA, 2001, 2501-2506  
+26. Sing Kiong Nguang and Shi Peng, Fuzzy 
+∞
+H
+output feedback control of nonlinear systems under 
+sampled measurements, 40
+th
+ CDC, Orlando, USA, 2001, 120-126  
+27. JiaYing Cao, Zoran Salcic and Sing Kiong Nguang, Generic Single-Chip Second-Order System 
+Digital Self Tuning Regulator,  IEEE sponsored Ninth Mediterranean Conference on Control and 
+Automation, 2001, Dubrovnik.  
+28. Chengmo Xiao and  Sing Kiong Nguang, PID Control Tuning via an H
+∞ Approach, The 20
+th
+ CCC 
+Conference, Dalian, China, 2001  
+29. Wudhichai Assawinchaichote and Sing Kiong Nguang, Fuzzy Control Design for Singularly 
+Perturbed Nonlinear Systems: An LMI Approach, B1: Intelligent Control and Robotics II, ICAIET 
+2002, Kota Kinabula, Malaysia.   
+30. LeiZhi Chen, Sing Kiong Nguang and Xue Mei Lin, Soft Sensors development for on line biomass 
+estimation, TAL02-6, ICCA, 2002, Xiaman, China.  
+31. JiaYing Cao, Zoran Salcic, Sing Kiong Nguang; A floating-point all hardware self-tuning regulator 
+for second order systems,TENCOM '02. Proceedings. 2002 IEEE Region 10 Conference on 
+Computers, Communications, Control and Power Engineering , Volume: 3 , 2002  Page(s): 1733 -
+1736  
+32. Wudhichai Assawinchaichote and Sing Kiong Nguang, Fuzzy observer based controller design for 
+singularly perturbed nonlinear systems: An LMI, 41
+st
+  CDC, Las Vegas, Navada, USA, 2165-
+2170,2002  
+33. Mary He, Sing Kiong Nguang and Xiao Dong Chen, Low cost optical sensor for continuous on line 
+measurement of biomass concentrations, Control 2002 IMC, Auckland, 2002, pp 1-6.  
+34. LeiZhi Chen, Sing Kiong Nguang, Mei Li and Xiao Dong Chen, Optimal control of a fed-batch 
+bioreactor using cascade dynamic neural network models, Control 2002, IMC Auckland, 2002, pp 
+13-19.  
+35. Nitish Patel, George Coghill and Sing Kiong Nguang, Bit streams in control systems, Control 2002 
+IMC, Auckland, 2002, pp 54-60.  
+36. Sarah-Jane Guild, S.C. Malpas, G.A. Eppel, S. K. Nguang and R.G Evans, Influence of renal 
+perfusion pressure on the neural regulation of intrarenal blow flow, Australia Health and Medical 
+
+-----
+ 
+ 
+research congress, Melbourne, November 2002.  
+37. Nitish Patel, George Coghill and Sing Kiong Nguang, Digital realization of analogue computing 
+elements using bit streams, The 3rd IEEE International Workshop on System-on-Chip for Real-
+Time Applications, 2003, pp. 76-80  
+38. Nitish Patel, George Coghill and Sing Kiong Nguang, Bit Streams: An alternative approach to 
+digital controller implementation, IEE CCA 2003, Istanbul, Turkey, CF-001078, 2003  
+39. Wudhichai Assawinchaichote and Sing Kiong Nguang, Fuzzy 
+∞
+H
+Output Feedback Control 
+Design for Singularly Perturbed Systems: An LMI Approach, 42
+nd
+ CDC, Maui, Hawaii, 2003, pp 
+863-868  
+40. Nitish Patel and Sing Kiong Nguang, An Alternative Approach for Real Time Digital Controller 
+Implementation, WSEAS IMCCAS 2004, Miami, 2004  
+41. Daniel Edney and Sing Kiong Nguang, Dosing control for coagulation in a rapid mixer: 
+Comparision of PID and Model predictive control, CDIC’04, Nanjing, China 2004  
+42. Daniel Edney and Sing Kiong Nguang, A neural controller with vector weight eligibility application 
+to non-stationary chemical dosing control, CIMCA’2004, Gold Coast, Australia 2004  
+43. Wudhichai Assawinchaichote, Sing Kiong Nguang and Shi Peng, Fuzzy 
+∞
+H
+Output Feedback 
+Control Design for Singularly Perturbed Systems with Markovian jumps: An LMI Approach,  43
+rd
+ 
+CDC, Bahamas, 2004  
+44. Wudhichai Assawinchaichote, Sing Kiong Nguang, and Peng Shi ,  Fuzzy 
+∞
+H
+ Filter Design for 
+Singularly Perturbed Systems with Markovian jumps: An LMI Approach, 43
+rd
+ CDC, Bahamas, 
+2004.  
+45. Wudhichai Assawinchaichot, Sing Kiong Nguang, Raungrong Suleesathira, and Peng Shi, Robust 
+∞
+H
+ Fuzzy Filter Design for Uncertain Nonlinear Descriptor Systems, ICENCO’2004, Cairo, Egypt, 
+2004. 
+46. Wudhichai Assawinchaichote, Sing Kiong Nguang, and Peng Shi, H
+∞ Fuzzy Filter for Nonlinear 
+Singularly perturbed Systems, NOLTA2004, ACROS Fukuoka, Fukuoka, Japan 2004  
+47. Wudhichai Assawinchaichote and Sing Kiong Nguang, Fuzzy 
+∞
+H
+State-Feedback Control Design 
+for Uncertain Nonlinear Descriptor Systems: An LMI Approach, International Conference on 
+Control, Automation, and Systems (ICCAS 2004), August 25-27, The Shangri-La Hotel, Bangkok, 
+Thailand, 2004  
+48. Sing Kiong Nguang, Wudhichai Assawinchaichote, and Peng Shi, Yan Shi, Robust 
+∞
+H
+  Control 
+Design for Uncertain Fuzzy Systems with Markovian Jumps: An LMI Approach,  ACC2005, 
+Portland, Oregon, USA 2005, 1805-1810  
+49. Sing Kiong Nguang, Wudhichai Assawinchaichote, and Peng Shi, Fuzzy 
+∞
+H
+ Filter Design for 
+Uncertain Nonlinear Systems with Markovian Jumps: An LMI Approach, ACC2005, Portland, 
+Oregon, USA 2005, 1799-1804  
+50. Sing Kiong Nguang and Dan Huang, Robust Static 
+∞
+H
+Output Feedback Control of Fuzzy 
+Systems: An ILMI Approach,  IFAC 05, Prague, 2005  
+51. Sing Kiong Nguang and Peng Shi, Robust 
+∞
+H
+ Output Feedback Control Design for Fuzzy 
+Dynamic Systems with  Quadratic D Stability Constraints: An LMI Approach, IFAC 05, Prague, 
+2005  
+52. Sing Kiong Nguang, Peng Shi and Steven Ding, Fault Detection Filter for Uncertain Fuzzy 
+Systems: An LMI Approach,  IFAC 05, Prague, 2005  
+53. Wudhichai Assawinchaichote, Sing Kiong Nguang, Robust fuzzy controller design for uncertain 
+descriptor markovian jump systems, ICINCO 2005, Barcelona, Spain, 2005.  
+54. Nitish Patel, Sing Kiong Nguang, George Coghill and Akysha Swain, Online implementation of 
+servo controllers using bit-streams, IEEE Region 10 Annual International Conference, 
+Proceedings TENCON, Melbourne, Australia, 21st-24th November, 2005  
+55. Nitish Patel, Sing Kiong Nguang, George Coghill and Akysha Swain Online implementation of 
+servo controllers using bit-streams, IEEE Region 10 Annual International Conference, 
+Proceedings TENCON, Melbourne, Australia, 21st-23rd November, 2005  
+
+-----
+ 
+ 
+56. Nitish Patel, Sing Kiong Nguang, George Coghill and Akysha Swain Online Implementation of 
+Servo Controllers Using Bit-Streams, IEEE Tencon '05, Conference Proceedings of Tencon 2005 - 
+2005 IEEE Region 10, Melbourne, Australia, 22-24 November, 2005,   
+57. Dan Huang and Sing Kiong Nguang, Static Output Feedback Controller Design for Fuzzy 
+Systems: An ILMI Approach, ISSCAA 2006, pp. 289 – 294, 2006.   
+58. Dan Huang and Sing Kiong Nguang State Feedback Guaranteed Cost Control of Uncertain 
+Networked Control System, ISSCAA 2006, pp. 858 – 863 2006.   
+59. Sing Kiong Nguang, Shi Peng and Steven Ding, Delay Dependent Fault Estimation for Uncertain 
+Time Delay Nonlinear Systems: An LMI Approach, to be presented at IEEE ACC 2006, 
+Minneapolis, Minnesota, USA, pp. 5135-5141, 2006  
+60. Sing Kiong Nguang and Shi Peng, Delay-Dependent 
+∞
+H
+ filtering for Uncertain Time Delay 
+Nonlinear Systems: An LMI Approach, IEEE ACC 2006, Minneapolis, Minnesota, USA, pp. 5043-
+5048, 2006  
+61. Sing Kiong Nguang, Ping Zhang and Steven Ding, Parity Based Fault Estimation for Nonlinear 
+Systems: An LMI Approach,  IEEE ACC 2006, Minneapolis, Minnesota, USA pp. 5141-5147, 2006  
+62. Wudhichai Assawinchaichote and Sing Kiong Nguang, Robust 
+∞
+H
+ state-feedback control for 
+uncertain fuzzy Markovian jumps systems, Int. Conf. Computer Science, (Vienna, Austria),   pp. 
+308-311, 2006 
+63. Sing Kiong Nguang, Ping Zheng and Steven Ding, Parity Relation Based Fault Estimation for 
+Nonlinear Systems: An LMI Approach, IFAC SAFEPROCESS 2006, Beijing , China 2006  
+64. Nitish Patel, Sing Kiong Nguang ad George Coghill, Bit-Streams: Fuzzy Controller Implementation 
+for Motor Control, International Conference on Industrial Technology, ICIT2006, Mumbai, India,  
+15-17 December, 2006.  
+65. Nitish Patel, Sing Kiong Nguang, George Coghill, Bit-Streams: Applications in Neural Network 
+Implementation, IEEE ACC 2007, Time Square, New York USA, 2007  
+66. Dan Huang and Sing Kiong Nguang, Fuzzy Control of Uncertain Nonlinear Networked Control 
+Systems with Random Time-Delays, IEEE ACC 2007, Time Square, New York USA, 2007  
+67. Dan Huang and Sing Kiong Nguang, Robust output feedback control for networked control 
+systems with network-induced delays and packet drop-out, Control and Decision Conference, 2-4 
+July 2008, 717 – 722, 2008 
+68. Dan Huang and Sing Kiong Nguang, Robust disturbance attenuation for uncertain networked 
+control systems, Control and Decision Conference, 2-4 July 2008, 4173 - 4178, 2008 
+69. Dan Huang and Sing Kiong Nguang, Robust Fault Estimation for Uncertain Networked Control 
+Systems with Random Time-Delays, Innovative Computing Information and Control, 18-20 June 
+2008, 469 – 469, 2008. 
+70. Nitish Patel, Sing Kiong Nguang, George Coghill, Neural network implementation using uniformly 
+weighted bit-streams, IEEE Industrial Technology, 21-24 April 2008, 1 – 6, 2008. 
+71. Jian Zhang Akshya Kumar Swain and Sing Kiong Nguang, Parameter Estimation of Exponentially 
+Damped Sinusoids using HSVD based Extended Complex Kalman Filter, IEEE TENCON08, 2008. 
+72. Wudhichai Assawinchaichote and Sing Kiong Nguang,  Robust H_infinity fuzzy control design for 
+nonlinear two-time scale system with Markovian jumps based on LMI approach,  Int. Proc. World 
+Academy of Science, Engineering and Technology, (Paris, France), 612-617, 2008.  
+73. Wudhichai Assawinchaichote, Sing Kiong Nguang, and Peng Shi,  Robust H_infinity output 
+feedback control design for uncertain fuzzy Markovian jump descriptor systems,  ISICE Annual 
+Conference 2008, (Tokyo, Japan),   3174-3178, 2008. 
+74. Guangyu Liu and Sing Kiong Nguang, Determining the Best Pole Vaulting Using Non-Causal 
+Dynamics, IEEE 7th International Conference of Control and Automation, Christchurch, 2009 
+75.   Jie Wu , Matthias Krug, Sing Kiong Nguang, Jiong Shen and Yiguo Li,  H-Infinty Fuzzy Tracking 
+Control for Boiler-Turbine Systems, IEEE 7th International Conference of Control and Automation, 
+Christchurch, 2009 
+76. Dan Huang, Sing Kiong Nguang and Faiz Rasool, Robust Fuzzy Filter Design for Uncertain 
+Nonlinear Networked Systems with Random Time-Delays, IEEE 7th International Conference of 
+Control and Automation, Christchurch, 2009 
+77.   Faiz Rasool and Sing Kiong Nguang, Quantised Robust H-Infinity Output Feedback Control of 
+Discrete-Time Systems with Random Communication Delays,  IEEE 7th International Conference 
+
+-----
+ 
+ 
+of Control and Automation, Christchurch, 2009  
+78. Aisha S. Arynova, Sing Kiong Nguang, Guangyu Liu, PI Power Control for CDMA Cellular 
+Communication Systems, IEEE 7th International Conference of Control and Automation, 
+Christchurch, 2009 
+79. Faiz Rasool, Sing Kiong Nguang , Dan Huang and Lixian Zhang, Quantized Robust H-Infinity 
+Control of Discrete-Time Systems with Random Communication Delays, IEEE 48th Conference on 
+Decision and Control, 2009. 
+80. Guangyu Liu and Sing Kiong Nguang, Tutorial on a Unified control design procedure via Bode 
+Plots, CACS International Automatic Control Conference, Taipei, Taiwan, 2009. 
+81. Guangyu Liu, Sing Kiong Nguang and Yuan Ren, Simulated Dynamical Photovoltaic Array 
+Systems, IEEE International Conference on Information and Automation (ICIA), 344-349, 2010 
+82. Ramin Vali, Stevan Berber and Sing Kiong Nguang, Analysis of a Chaos-Based Non-Coherent 
+Delay Lock Tracking Loop, IEEE international Conference on Communications (ICC), 1-6, 2010 
+83. Guangyu Liu and Sing Kiong Nguang, A general modeling method that simulates photovoltaic 
+arrays for environmental and electrical variability,  IEEE International Conference on Information 
+and Automation (ICIA), 195-200, 2010 
+84. Seunghwan Chae and Sing Kiong Nguang, Robust Partially Mode Delay Dependent H-infinity 
+Control of Discrete-Time Networked Control Systems, IEEE 49th Conference on Decision and 
+Control, December, accepted, 2010 
+85. Jian Zhang, Aksyha Swain and Sing Kiong Nguang, Reconstruction of actuator fault for a class of 
+nonlinear systems using sliding mode observer, IEEE ACC 2011, San Francisco, USA, 2011 
+86. Seunghwan Chae and Sing Kiong Nguang, Robust Partially Mode Delay-Dependent H-infinity 
+Output Feedback Control of Discrete-Time Networked Control Systems,  IEEE ACC 2011, San 
+Francisco, USA 2011. 
+87. Sing Kiong Nguang, Matthias Krug and Shakir Saat, Nonlinear Static Output Feedback Controller 
+Design for Uncertain Polynomial Systems: An Iterative Sums of Squares Approach, ICIEA 2011, 
+Beijing, China 2011 
+88.  Faiz Rasool and Sing Kiong Nguang, Robust H-infinity Output Feedback Control of Networked 
+Control Systems with Multiple Quantizers, ICIEA 2011, Beijing, China 2011 
+89. Matthias Krug, Shakir Saat and Sing Kiong Nguang, Nonlinear H-infinity Static Output Feedback 
+Controller Design for Polynomial Systems: An Iterative Sums of Squares Approach, ICIEA 2011, 
+Beijing, China 2011 
+90. Faiz Rasool and Sing Kiong Nguang, Robust H-infinity Output Feedback Control of Discrete-Time 
+Networked Systems With Adaptive Quantizers,  ICIEA 2011 ICIEA 2011, Beijing, China 2011 
+91. F Rasool, SK Nguang, FA Bhatti, S Ur Rehman, Robust H∞output feedback control of networked 
+control systems with dynamic quantizers, Multitopic Conference (INMIC), 2011 IEEE 14th, 2011 
+92. Shakir Saat, Sing Kiong Nguang, Dan Huang, and Akshya Swain, State feedback control for a 
+class of polynomial nonlinear discrete-time systems with norm bounded uncertainties: An 
+integrator approach, in Proceeding of 7th IFAC Symposium on Robust Control Design (rocond'12), 
+Aalborg, Denmark, June 20-21, 2012. 
+93. J Zhang, AK Swain, SK Nguang Reconstruction of Sensor Faults for a Class of Uncertain 
+Nonlinear Systems Using Adaptive Sliding Mode Observers, 7th IFAC Symposium on 
+Robust Control Design, 2012 
+94. Shakir Saat, Sing Kiong Nguang, and Faiz Rasool, Robust disturbance attenuation for a class of 
+uncertain polynomial discrete-time systems with norm bounded uncertainty: An integrator 
+approach, Australia Control Conference (AUCC'12), Accepted on July 2012. (Conference will be 
+held on Nov 15-16, 2012). 
+95. Shakir Saat and Sing Kiong Nguang, Disturbance attenuation for a class of polynomial discrete-
+time systems: An integrator approach, 12th International Conference on Control, Automation, 
+Robotics and Vision (ICARCV'12), Accepted on July 2012. Conference will be held on 5-7 
+December 2012 
+96. Shakir Saat and Sing Kiong Nguang, Nonlinear feedback control for polynomial discrete-time 
+systems: An integrator approach, 12th International Conference on Control, Automation, Robotics 
+and Vision (ICARCV'12). Accepted on July 2012, Conference will be held on 5-7 December 2012 
+97. Faiz Rasool, Sing Kiong Nguang, Mohd Shakir Saat, Jie Wu, Guangbo Zeng, Robust H∞ state 
+feedback control of networked control systems with congestion control, 12th International 
+Conference on Control, Automation, Robotics and Vision (ICARCV'12), Accepted on July 2012. 
+
+-----
+ 
+ 
+Conference will be held on 5-7 December 2012 
+98. Y Zhang, P Shi, SK Nguang, HR Karimi, Observer-based finite-time control for discrete fuzzy jump 
+nonlinear systems with time delays, American Control Conference (ACC), 2013, 6394-6399
+ 
+2013 
+99. Y Zhang, P Shi, SK Nguang, HR Karimi, Finite-time stabilization for discrete fuzzy jump nonlinear 
+systems with time delays, American Control Conference (ACC), 2013, 4885-4890, 2013 
+100. J Zhang, O Bennouna, AK Swain, SK Nguang, Detection and isolation of sensor faults of wind 
+turbines using sliding mode observers, International Renewable and Sustainable Energy 
+Conference (IRSEC), 2013  
+101. J Zhang, AK Swain, SK Nguang, Robust sensor fault estimation and fault-tolerant control for 
+uncertain Lipschitz nonlinear systems. American Control Conference (ACC), 5515-5520, 2014 
+102. H Wang, SK Nguang, Video target tracking based on fusion state estimation. IEEE Technology 
+Management and Emerging Technologies (ISTMET), 337-343, 2014 
+103. S Saat, N Azman, SK Nguang, Nonlinear filter design with integrator for a class of polynomial 
+discrete-time systems , IEEE Technology Management and Emerging Technologies (ISTMET), 
+311-315, 2014 
+104. A. Nasiri, A. Swain, SK Nguang, Passive Actuator Fault Tolerant Control for a class of MIMO 
+Non-linear Systems with Uncertainties. 2014 IEEE Multi-conference on Systems and Control 
+Antibes, France on October 8-10, 2014. 
+105. Rubens Faria, Keiko Fonseca, Bertoldo Schneider Jr, Sing Kiong Nguang, Collusion and fraud 
+detection on electronic energy meters: a use case of forensics investigation procedures, 2014 IEEE 
+Security and Privacy Workshops, 2014. 
+106. Alireza Nasiri, Sing Kiong Nguang, Akshya Swain, Fault tolerant H-infinity fuzzy-dynamic output 
+feedback control of nonlinear systems with actuator faults: An LMI approach, 10th International 
+Symposium on Mechatronics and its Applications (ISMA), 2015 
+107. Alireza Nasiri, Sing Kiong Nguang, Akshya Swain, Robust fault estimation of nonlinear systems 
+using SOS approach, 10th International Symposium on Mechatronics and its Applications (ISMA), 
+2015 
+108. Noorazma Azman, Shakir Saat, Sing Kiong Nguang, Nonlinear observer design with integrator for 
+a 
+class 
+of 
+polynomial 
+discrete-time 
+systems, 
+International 
+Conference 
+on 
+Computer, 
+Communications, and Control Technology (I4CT), 2015 
+109. Yusmarnita Yusop, Shakir Saat, Huzaimah Husin, Imran Hindustan, F.K Abdul Rahman, Kamrudin 
+K.H, Sing Kiong Nguang, A Study of Capacitive Power Transfer using Class-E Resonant Inverter, 
+International Conference on Engineering Technologies and Entrepreneurship 2015 (ICETE-2015). 
+November 2015 
+110. Yusmarnita Yusop, Shakir Saat, Huzaimah Husin, Imran Hindustan, F.K Abdul Rahman, Kamrudin 
+K.H, Sing Kiong Nguang, Design and Analysis of 1MHz Class-E Power Amplifier, International 
+Conference on Engineering Technologies and Entrepreneurship 2015 (ICETE-2015). November 2015 
+111. H. Husin, S. Saat, Y. Yusmarnita, Z. Ghani  and S. K. Nguang, Simulation of 416 kHz Piezoelectric 
+Transducer Excitation using Class E ZVS Inverter, International conference on Engineering 
+Technologies and Entrepreneurship (ICETE 2015), Nov 2015. 
+ 
+ 
+Current Major Research Grants / Funding:   
+  
+• 
+Title: High Efficiency Organic PV: Agency:  ORI, FRST. Amount:  6 million (6 years). (Key 
+Researcher) 2009 – 2015 
+Abstract: The world is facing a major challenge in meeting the growing demand for energy, 
+and securing an affordable energy solution that does not compromise our environmental 
+responsibilities. This bid is aimed toward answering that challenge, and by 2016 aspires to 
+produce an all-plastic, recyclable, high efficiency photovoltaic (PV) cell that can be 
+incorporated into a roofing product (Intelliroof®), which is capable of providing the total 
+average energy requirements for a household. The beneficiaries will in the first instance be 
+New Zealanders, with access to cheaper, cleaner energy, and an assurance of supply. It will 
+also have significant impact on reducing the effects on the environment associated with 
+generation and transmission of the grid-tied energy solutions. In the longer term, it will play a 
+significant role in meeting a very real global need for clean, sustainable energy, which is not 
+produced at the cost of our environment. 
+ 
+• 
+Title: High Performance Sensors; Agency: High-Value Manufacturing and Services 
+Research Fund, MBIE, NZ. Amount: 9 million (4 years). (key Researcher) 2012-2016. 
+Abstract: This bid supports the development of high tech manufacturing in NZ in the form of a 
+
+-----
+ 
+ 
+new sensing platform technology, and its application to address issues in the Dairy and 
+Aquaculture Industries. The bid brings together scientific and engineering teams from CRIs, 
+Academia and Industry with expertise in manufacturing, sensor development and decades of 
+funded research into the understanding of production, disease and hygiene related to the 
+chosen application areas. 
+
+-----

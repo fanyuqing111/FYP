@@ -1,0 +1,222 @@
+DR. JINCHANG REN 
+BEng, MEng, DEng, PhD, SrM IEEE, FHEA 
+Senior Lecturer (Associate Professor), Deputy Director, Hyperspectral Imaging Centre,  
+Dept. of Electronic and Electrical Engineering, University of Strathclyde, Glasgow, G1 1XW, U.K. 
+Tel. +44(0)141 548 2384  Email: jinchang.ren@strath.ac.uk    http://personal.strath.ac.uk/jinchang.ren/   
+https://scholar.google.co.uk/citations?user=Vsx9P-gAAAAJ  
+  
+Jinchang Ren received the PhD degree in Electronic Imaging and Media Communication from the 
+University of Bradford, United Kingdom in 2009. Before that, he obtained M.Eng. in Image Processing and 
+Pattern Recognition and B. Eng. in Computer Software from Northwestern Polytechnical University (NWPU), 
+China, in 1997 and 1992, respectively. Before he joined Strathclyde in Dec. 2010, he had worked in several 
+universities in U.K. as a research staff, including University of Bradford, University of Surrey, Kingston 
+University and University of Abertay, Dundee. He is a Fellow of the Higher Education Academy, U.K. 
+Dr. Ren has published over 160 peer-reviewed research papers (90+ in journals, and 70+ cited by SCI with 
+20+ in IEEE journals/transactions) in prestigious international journals and conferences, including IEEE Trans. 
+Image Processing, IEEE Trans. Geoscience and Remote Sensing, IEEE Trans. Circuits & Systems for Video 
+Technology, IEEE Trans. Multimedia, IEEE Trans. System Man and Cybernetics, IEEE Trans. Broadcasting, etc. 
+His research interests include: image processing and analysis (including medical image and remote sensing), 
+multimodal data fusion and big data analytics, machine learning (include deep learning), saliency detection; 
+hyperspectral imaging; computer vision; human-computer interaction; visual surveillance; archive restoration; motion 
+estimation et al. Currently, he sits in the editorial board of five international journals, including Journal of the Franklin 
+Institute, IET Image Processing, Multidimensional Signal Processing and Systems with Springer, International Journal of 
+Pattern Recognition and Artificial Intelligence, and Big Data Analytics. He is also the chair/co-chair for a number of 
+international conferences/workshops, including EUSIPCO (2015/2017), IEEE Big Data (2015), HSI conference (2012, 
+2014, 2016), IEEE Smart Data (2017) and ICIP (2017). 
+ 
+Major Projects Involved 
+1. 
+FiberEUse: EU H2020, 8 million Euros, June 2017-June 2021 
+2. 
+Hyperspectral imaging for inspection of packed nuclear waste, funded by NNL, £187k (Phase 1), 
+09/18-11/19 
+3. 
+Precision Agriculture of livestock farming via multimodal fusion and big data mining, two Innovate UK 
+funded KTP projects, £450k, May 2014-July 2020 
+4. 
+Advanced image processing for sea ice image analysis in Arctic, NERC funded, £180k, 02/14-10/15 
+5. 
+Hyperspectral imaging for food and drink as well as pharmaceutical and remote sensing applications, 
+several projects funded by Quality Meat of Scotland, Johnson and Johnson, Innovent Technology Ltd, 
+ARGANS, GSK, Fraunhofer, et al, over £450k, Oct. 2011-Feb 2017. 
+6. 
+MICIE: EU FP7 Project, 2m Euros, Oct. 2008-Sept 2011 
+7. 
+HERMES: Cognitive care and guidance for active aging, EU FP7 Project, 3m Euros, 01/08-12/10 
+8. 
+LIVE: Live Staging of Media Events, EU FP6 Project, 7m Euros, Jan. 2006-June 2009 
+ 
+PhD Supervision as 1st Supervisor 
+1. 
+Jaime Zabalza (10/12-07/15), “Advanced techniques for hyperspectral imaging analysis and 
+classifications,” published 10+ journal papers, and awarded best PhD thesis by IET Image and 
+Vision Section in Dec. 2016 (only one in UK) 
+
+-----
+2. 
+Tong Qiao (10/12-01/16), “Hyperspectral imaging data analysis and dimensionality reduction,” 
+published 5 journal papers and was awarded one best paper and one best poster award 
+3. 
+Yijun Yan (12/13-present), writing up, “Saliency detection for object detection, tracking and 
+retrieval,” published 4 journal papers, to complete by Sept 2018 
+4. 
+Julius Tschannerl (03/16-), “Band selection in hyperspectral imaging,” published 3 conference 
+papers and 2 journal papers 
+5. 
+Xiaoquan Li (10/16-), “Music signal analysis and understanding,” published one conference 
+paper with one journal paper under preparation 
+6. 
+He Sun (03/17-), “Multimodal data fusion for image segmentation and object detection,” with 
+two conference papers published and one journal paper under preparation 
+7. 
+Yukang Han (10/17-present), “Cloud-enabled big data for precision agriculture”  
+8. 
+Ha Viet Khanh, (10/17-present), “Deep learning for image super-resolution”. 
+PhD/EngD Supervision as 2nd supervisor 
+1. 
+Alan William Boyd (10/10-09/14), PhD “Biomedical signal processing” 
+2. 
+Timothy Kelman (10/10-01/16) PhD, “Hyperspectral Imaging” 
+3. 
+Rui Gongzhang (12/11-04/16) PhD, “Adaptive Frequency and Spatial Diversity 
+Processing for Ultrasonic Non-Destructive Evaluation (NDE) of Difficult Materials” 
+4. 
+Siti Salwa Binti Md Noor (03/15-present), PhD, “Image processing for eye disease,” 
+published several conference/journal papers. 
+5. 
+Gabriel Reines March (10/15-present), “Multi-modality imagery for PET scans”, EngD 
+6. 
+Dina Ahmed Ragab (01/16-present), “Multimodal image processing and deep learning 
+for breast cancer detection”, PhD 
+7. 
+Zhenyu Fang (10/16-present), PhD, “Advanced video analytics for asset 
+management using deep learning” 
+ 
+Selected Journal Publications (* for corresponding authorship, those highlighted in green are deep 
+learning related papers) 
+1) 
+Y. Yan, J. Ren*, et al, “Unsupervised Image Saliency Detection with Gestalt-laws Guided Optimization and Visual 
+Attention Based Refinement”, Pattern Recognition, In press, 2018 
+2) 
+T. Qiao, Z. Yang, J. Ren*, et al, “Joint bilateral filtering and spectral similarity-based sparse representation: A generic 
+framework for effective feature extraction and data classification in hyperspectral imaging”, 10.1016/j.patcog.2017.10.008, 
+Pattern Recognition, In press, 2018 
+3) 
+ M. Sun, J Ren, et al, “A Deep-Learning Based Feature Hybrid Framework for Spatiotemporal Saliency Detection inside 
+Videos,” Neurocomputing, 2018  
+4) 
+T. Qiao, J. Ren*, et al, “Effective denoising and classification of hyperspectral images using curvelet transform and 
+singular spectrum analysis”, 10.1109/TGRS.2016.2598065, IEEE Trans. Geoscience and Remote Sensing, 55(1): 
+119-133, 2017 
+5) 
+G. Sun, P. Ma, J. Ren*, et al, "A stability constrained adaptive alpha for gravitational search algorithm," 
+Knowledge-Based Systems, In Press, 2018 
+6) 
+A. Zhang, G. Sun, J Ren, et al, “A dynamic neighbourhood learning-based gravitational search algorithm”, 
+10.1109/TCYB.2016.2641986, IEEE Trans. Cybernetics, 48(1): 436-447, 2018 
+7) 
+Y. Yan, J Ren*, et al, “Cognitive Fusion of Thermal and Visible Imagery for Effective Detection and Tracking of 
+Pedestrians in Videos”, Cognitive Computation, 10(1), 2018 
+
+-----
+8) 
+SSM Noor, K Michael, S Marshall, J Ren, “Hyperspectral Image Enhancement and Mixture Deep-Learning Classification 
+of Corneal Epithelium Injuries,” Sensors, 17(11), 2017  (medical imaging) 
+9) 
+J. Zabalza, J Ren*, et al, “Novel segmented stacked autoencoder for effective dimensionality reduction and 
+feature extraction in hyperspectral imaging”, 10.1016/j.neucom.2015.11.044, Neurocomputing, 185: 1-10, 2016 
+10) B. Rafert, J. Zabalza, S. Marshall, J. Ren, "Singular spectrum analysis: A note on data processing for Fourier transform 
+hyperspectral imagers," Applied Spectroscopy (OSA), 10.1177/0003702816641420, 70(10): 1-7, 2016 
+11) R. Bao, J. Xia, M. Dalla Mura, P. Du, J. Chanussot, J. Ren, "Combining morphological attributes profiles via an 
+ensemble method for hyperspectral image classification," IEEE Geoscience and Remote Sensing Letters, 13(3), 2016 
+12) L. Fang, S. Li, W. Duan, J. Ren, etc, “Classification of hyperspectral images by exploiting spectral-spatial 
+information of superpixel via multiple kernels”, 10.1109/TGRS.2015.2445767, IEEE Trans. Geoscience and 
+Remote Sensing, 53(12):6663-74, Dec 2015 
+13) J. Zabalza, J. Ren*, etc., “Novel 2D singular spectrum analysis for effective feature extraction and data 
+classification in hyperspectral imaging”, 10.1109/TGRS.2015.2398468, IEEE Trans. Geoscience and Remote 
+Sensing, 53(8): 4418-33, 2015  
+14) J. Zabalza, J. Ren*, etc, “Fast implementation of singular spectrum analysis for effective feature extraction in 
+hyperspectral imaging”, 10.1109/JSTARS.2014.2375932, IEEE Journal of Selected Topics in Earth Observation 
+and Remote Sensing, 2015 
+15) G. Cheng, J. Han, L. Guo, Z. Liu, S. Bu and J. Ren, “Effective and efficient object-oriented land-use 
+classification using VHR remote sensing images,” 10.1109/TGRS.2015.2393857, IEEE Trans. Geoscience and 
+Remote Sensing, 53(8): 4238-49, 2015 
+16) J. Han, D. Zhang, G. Cheng, L. Guo, J. Ren, “Object detection in optical remote sensing images based on 
+weakly supervised learning and high-level feature learning”, 10.1109/TGRS.2014.2374218, IEEE Trans. 
+Geoscience and Remote Sensing,  2015  
+17) J. Han, D. Zhang, X. Hu, L. Guo, J. Ren, etc, “Background Prior-Based Salient Object Detection via Deep 
+Reconstruction Residual,” 10.1109/TCSVT.2014.2381471,  IEEE Trans. Circuits Systems for Video Tech., 
+25(8):1309-1321, 2015  
+18) M. Sun, D. Zhang, Z. Wang, J. Ren, et al, “What's Wrong with Murals at Mogao Grottoes: a Near-Infrared 
+Hyperspectral Image Method,” Scientific Reports (Nature), 10.1038/srep1437, 2015 
+19) J. Ren*, et al, “Effective Feature Extraction and Data Reduction in Remote Sensing Using Hyperspectral Imaging”, 
+10.1109/MSP.2014.2312071, IEEE Signal Processing Magazine, 31(4): 149-154, 2014 
+20) J. Zabalza, C. Clements, G. Di Caterina, J. Ren, etc, “Robust PCA micro-doppler classification using SVM on 
+embedded systems,” 10.1109/TAES.2014.130082, IEEE Trans. Aerospace & Electronic Systems, 50(3): 2304-10, 2014 
+21) J. Zabalza, J. Ren*, etc, “Novel Folded-PCA for Improved Feature Extraction and Data Reduction with 
+Hyperspectral Imaging and SAR in Remote Sensing”, 10.1016/j.isprsjprs.2014.04.006, ISPRS J. Photogrammetry 
+and Remote Sensing, 93(7):112-122, 2014. 
+22) X. Li, J. Ren*, et al, "Novel multivariate vector quantization for effective compression of hyperspectral imagery," 
+Optics Communication, 332: 192-200, 10.1016/j.optcom.2014.07.011, Dec 2014 
+23) J. Zabalza, J. Ren*, et al, Structured Covariance PCA for Real-time Onsite Feature Extraction and 
+Dimensionality Reduction in Hyperspectral Imaging, Applied Optics, 53(20), 10.1364/AO.53.004440, 2014 
+24) T. Qiao, J. Ren*, et al, Effective compression of hyperspectral imagery for land cover analysis in remote sensing 
+applications, Int. Journal of Remote Sensing, 35(20): 7316-7337, 10.1080/01431161.2014.968682, 2014 
+25) J. Zabalza, J. Ren*, et al, Singular Spectrum Analysis for Effective Feature Extraction in Hyperspectral Imaging, IEEE 
+Geoscience and Remote Sensing Letters, 11(11):1886–1890, 10.1109/LGRS.2014.2312754, 2014 
+
+-----
+26) X. Zeng, J. Ren*, et al, Copulas for Statistical Signal Processing (Part I):  Extensions and Generalization, Signal 
+Processing, 10.1016/j.sigpro.2013.07.009, 94: 691-702, 2014 
+27) C. Zhao, X. Li, J. Ren, and S. Marshall, “Improved sparse representation using adaptive spatial support for effective 
+target detection in hyperspectral imagery”, 10.1080/01431161.2013.845924, Int. J. Remote Sensing, 34(24), 2013 
+28) J. Ren*, “ANN vs. SVM: Which one performs better in classification of MCCs in mammogram imaging”, 
+10.1016/j.knosys.2011.07.016, Knowledge-Based Systems, 2012. (medical imaging) 
+29) J. Jiang, …, J. Ren, etc, “LIVE: An Integrated Production and Feedback System for Intelligent and Interactive TV 
+Broadcasting”, 10.1109/TBC.2011.2158252, IEEE Trans. Broadcasting, 57(3): 646-661, Sept. 2011 
+30) Y. Feng, J. Ren*, and J. Jiang, “Object-Based 2D-to-3D Video Conversion for Effective Stereoscopic Content 
+Generation in 3D-TV Applications”, 10.1109/TBC.2011.2131030 , IEEE Trans. Broadcasting, 57(2): 500-509, 2011 
+31) J Ren*, D Wang and J. Jiang, “Effective recognition of MCCs in mammograms using an improved neural classifier”, 
+Engineering Applications of Artificial Intelligence, 24 (4), 638-645, 2011. (medical imaging) 
+32) J. H. AlKhateeb, O. Pauplin, J. Ren, J. Jiang, “Performance of hidden Markov model and dynamic Bayesian network 
+classifiers on handwritten Arabic word recognition”, 10.1016/j.knosys.2011.02.008, Knowledge-Based Systems, 2011. 
+33) J. Ren*, J. Jiang and T. Vlachos, “High-Accuracy Sub-Pixel Motion Estimation From Noisy Images in Fourier Domain”, 
+10.1109/TIP.2009.2039056, IEEE Trans. Image Processing, 19(5): 1379-1384, 2010.  
+34) J. Ren* and J. Jiang, “Hierarchical Modeling and Adaptive Clustering for Real-Time Summarization of Rush Videos”, 
+10.1109/TMM.2009.2021782, IEEE Trans. Multimedia, 11(5): 906-917, Aug. 2009.  
+35) J. Ren*, J. Orwell, G. Jones, and M. Xu, “Tracking the soccer ball using multiple fixed cameras”, 
+10.1016/j.cviu.2008.01.007, Computer Vision and Image Understanding, 113(5): 633-42, 2009.  
+36) J. Ren*, J. Jiang and J. Chen, “Shot Boundary Detection in MPEG Videos Using Local and Global Indicators“, 
+10.1109/TCSVT.2009.2022707, IEEE Trans. Circuits and Systems for Video Technology, pp. 1234-1238, Aug. 2009.  
+37) J. Ren*, J. Orwell, G. Jones, and M. Xu, “Real-Time Modeling of 3-D Soccer Ball Trajectories From Multiple Fixed 
+Cameras” 10.1109/TCSVT.2008.918276, IEEE Trans Circuits and Systems for Video Technology, 350-362, 2008. 
+38) J. Ren* and T. Vlachos, “Segmentation-Assisted Detection of Dirt Impairments in Archived Film Sequences”, 
+10.1109/TSMCB.2006.886169, IEEE Trans. System, Man and Cybernetics (Part B), 37(2): 463-470, 2007.  
+ 
+PhD Examination 
+1. 
+Dyah Retno Panuju, University of New South Wales, Australia, 2019 
+2. 
+Yi Zhou, University of East Anglia, March 20, 2018 
+3. 
+Bo Xiao, University of Strathclyde, May 10, 2016 
+4. 
+Ahmad Faisal Amri Bin Abidin, University of Stirling, April 29, 2016 
+5. 
+Mark Jenkins, Glasgow Caledonian University, Jan 29, 2016  
+Honours/Awards 
+1. 
+Former PhD student, Jaime Zabalza was awarded the Best PhD thesis in Dec 2016 from IET 
+(only one in UK each year). 
+2. 
+In SIPRA workshop in June 2015 in Stirling, UK, PhD student T. Qiao was awarded the best 
+Poster. 
+3. 
+In SensorNet 2015, the paper “Effective SAR image segmentation and sea-ice floe distribution 
+analysis via kernel graph cuts based feature extraction and fusion” was awarded the best paper. 
+4. 
+In UCMMT 2013 in Rome, the paper from his PhD student T Qiao, “Effective Compression of 
+Hyperspectral Imagery Using Three Dimensional Discrete Cosine Transform” was awarded the 
+best student paper. 
+
+-----

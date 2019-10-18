@@ -1,0 +1,168 @@
+Ph.D. Thesis Abstract
+Operation of grid-connected photovoltaic power plants
+during voltage sags
+Ph.D. Student: Hossein Dehghani Tafti
+Supervisor: Assoc Prof Ali Iftekhar Maswood
+Renewable energy sources are occupying an increasing share in the global power generation market.
+Among various renewable energy sources, photovoltaic (PV) technology has been in the focus of many
+governments and, supported substantial subsidies has resulted a steep increase in the installed capacity.
+Moreover, with the decreasing trend in the PV panel costs from $4.90/W in 1998 to $0.3/Wpk in
+2015, the rate of growth of new PV installations is expected to remain on a high level. With high
+penetration of installed distributed generation (DG) units, power system operators (PSOs) are facing
+new challenges such as reliability, availability and power quality. In order to maintain the power quality
+and reliability of the power system, medium- and large-scale grid-connected photovoltaic power plants
+(GCPVPPs) should possess low-voltage ride-through (LVRT) capability, as regulated by new standards
+and grid codes. Therefore, improved GCPVPP structures with LVRT capabilities in combination with
+efficient control strategies are necessary.
+Subsequently, the operation of medium- and large-scale
+GCPVPPs during voltage sags is studied in this thesis.
+A typical two-stage multi-string GCPVPP consists of a dc/dc converter in each PV string and
+one central inverter. It is commonly recognized as one of state of the art configurations for medium-
+and large-scale GCPVPPs, due to its inherent advantages.
+Multilevel converters have emerged as
+the most viable solutions for high power energy conversion applications due to their capability of
+delivering excellent power quality with low harmonic contents and better efficiency, compared to the
+two-level converters. Therefore, multilevel converters have been proposed and discussed for multi-string
+GCPVPPs in this thesis.
+In this thesis, firstly, the operation of the GCPVPP with three-level neutral-point-clamped (3L-NPC)
+inverter with balanced current injection to the grid during voltage sags is investigated. An algorithm
+for the calculation of current references, in the dq-frame, during voltage sags is introduced, which
+considers the inverter current limitation, grid code requirements and the amount of extracted power
+from photovoltaic strings. The proposed algorithm uses the full current capacity of the inverter in
+injecting active or reactive powers to the grid during voltage sags, which leads in a higher grid voltage
+1
+
+-----
+enhancement. The performance of proposed control strategy is investigated on a 150-kVA GCPVPP
+connected to the 12.47-kV medium-voltage test-case system simulation model during different voltage
+sag conditions. An experimental setup of the 3.3-kVA grid-connected three-level neutral-point-clamped
+inverter with a dc/dc converter illustrates and validates the performance of the controller in injecting
+required active/reactive power and supporting the network voltage.
+Secondly, the operation of GCPVPPs during unbalanced voltage sags with the injection of un-
+balanced currents to the grid is studied.
+This control strategy results into the zero active power
+oscillation during unbalanced voltage sags. An analytical expression for the calculation of active and
+reactive power references of a grid-tied inverter is proposed, which limits the peak current of the in-
+verter during voltage sags. The key novelty is that the active/reactive power references are analytically
+calculated based on the dc-link voltage and grid codes, while they do not depend on the implemented
+current reference calculation algorithm and, as a general formulation, can be implemented in combina-
+tion with various current reference calculation algorithms. Furthermore, based on the inverter nominal
+current and the injected reactive power to the grid during voltage sags, an analytical algorithm is in-
+troduced for the calculation of the active power reference, which can be extracted from PV strings.
+The proposed algorithm ensures that the maximum current capability of the inverter is used for the
+enhancement of the grid voltages during voltage sags, while it always complies with the reactive power
+injection requirement of grid codes and avoids increasing the dc-link voltage excessively. Experimental
+results of a grid-connected 3.3-kVA, 3L-NPC inverter laboratory prototype under several voltage sag
+conditions are presented to demonstrate the effectiveness of the proposed controller.
+The proposed unbalanced current injection algorithm is a general algorithm, which can be applied
+for different multilevel inverter topologies.
+However additional considerations on the operation of
+the inverter and voltage balancing of capacitors is required in various inverter topologies. Multilevel
+cascade H-bridge (CHB) converters are one of the promising solutions for medium- and large-scale
+GCPVPPs. However, there is a lack of a complete study about their operation during voltage sags in
+the literature. Accordingly, a flexible control strategy is introduced for the operation of photovoltaic
+grid-connected CHB inverters during unbalanced voltage sags. The key novelty is that the proposed
+strategy is able to inject both active and reactive powers to the grid with either balanced or unbalanced
+currents, while ensuring that all dc-link capacitor voltages remain balanced. A zero-sequence voltage
+injection algorithm is proposed for inter-phase balancing, which allows for energy exchange between
+various phases. For inter-bridge balancing, the extracted power from different bridges of one phase
+is changed by modifying bridge voltage references. A feedforward voltage control is also applied to
+2
+
+-----
+decrease the inverter transient current at the beginning of the voltage sag. The performance of the
+proposed control strategy is investigated on a 10-MVA photovoltaic power plant connected to a 6.6-kV
+medium-voltage test-case system simulation model. An experimental setup of a 9-kVA grid-connected
+seven-level CHB illustrates and validates the performance of the proposed strategy for the operation
+of the grid-connected CHB during different unbalanced voltage sags.
+One of the issues of the operation of GCPVPPs during voltage sags, is the reduction of the extracted
+power from PV strings to a certain power reference. During the voltage sag, both active and reactive
+powers are injected to the grid through the inverter, therefore the amount of the injected active power
+is reduced compared to the grid normal operation. In order to obtain a constant dc-link voltage in the
+GCPVPP, the extracted power from PV strings should be equal to the injected power to the grid in
+all operating conditions (excluding power losses). Consequently, a constant power generation (CPG)
+algorithm from PV strings is introduced in this thesis, which reduces the extracted power from the
+PV string to the required power reference. An algorithm for the calculation of the photovoltaic panel
+voltage reference, which generates a constant power from the GCPVPP is suggested. The key novelty
+of the proposed algorithm is its applicability for both single- and two-stage GCPVPPs and flexibility
+to move the operation point to the right- or left-side of maximum power point. Furthermore, the
+frequency of execution for the algorithm and voltage increments between consecutive operating points
+are modified based on a hysteresis band controller in order to obtain fast dynamic response under
+transients and low power oscillation during steady-state operation. The performance of the proposed
+algorithm for both single- and two-stage GCPVPPs is examined on a 50-kVA simulation setup of these
+topologies. Moreover, experimental results on a 1-kVA PV system validate the effectiveness of the
+proposed algorithm under various operating conditions, demonstrating the proposed CPG algorithm
+functionalities. The proposed control strategies in this thesis enable the operation of medium- and
+large-scale GCPVPPs during voltage sags, while they achieve LVRT capability and comply with grid
+codes and standards.
+3
+
+-----
+List of Publications:
+[1] H. Dehghani T., A. I. Maswood, G. Konstantinou, J. Pou, K. Kandasamy, Z. Lim and G. H. P. Ooi,
+”Study on the low-voltage ride-thorough capability of photovoltaic grid-connected neutral-point-clamped
+inverters with active/reactive power injection,” IET Gener. Transm. Distrib., Dec. 2016.
+(Accepted for publication)
+[2] H. Dehghani T., A. I. Maswood, G. Konstantinou, J. Pou and F. Blaabjerg, ”A general constant power
+generation algorithm in photovoltaic power plants,” IEEE Transaction of Power Electronics.
+(Submitted for review)
+[3] H. Dehghani T., A. I. Maswood, G. Konstantinou, Christopher D. Townsend, Pablo Acuna and J.
+Pou, ”Operation of photovoltaic cascaded H-bridge converters during voltage sags,” IEEE Transactions on
+Industrial Electronics.
+(Submitted for review)
+[4] H. Dehghani T., A. I. Maswood, G. Konstantinou, J. Pou and P. Acuna, ”Active/reactive power control
+of photovoltaic grid-tied inverters with peak current limitation and zero active power oscillation during
+unbalanced voltage sags,” Solar Energy (Elsevier).
+(Submitted for review)
+Conferences:
+[5] H. Dehghani T., A. I. Maswood, J. Pou, G. Konstantinou and V. G. Agelidis, ”An algorithm for reduction
+of extracted power from photovoltaic strings in grid-tied photovoltaic power plants during voltage sags,”
+in proc. IEEE Industrial Electronics Conference (IECON), Oct. 2016, pp. 3018-3023.
+[6] H. Dehghani T., Ali I. Maswood, G. Konstantinou, J. Pou, K. Kandasamy, Z. Lim and G. Ooi H. P.,
+”Unbalanced current injection of the PV grid-tied three-leg four-wire NPC Inverter Using 3-D Space Vector
+Modulation in abc Frame,” in proc. IEEE Energy Conversion Congress and Exposition (ECCE), Sep. 2016,
+pp. 1-6.
+[7] H. Dehghani T., Ali I. Maswood, G. Konstantinou and J. Pou, ”Low-voltage ride-through capability of
+cascaded H-bridge multilevel converters for large-scale photovoltaic power plants,” in proc. IEEE Innovative
+Smart Grid Technologies - Asia (ISGT Asia), Nov. 2016, pp. 52 - 57.
+[8] H. Dehghani T., Ali I. Maswood, G. Konstantinou, C. D. Townsend and J. Pou, ”Low-voltage ride-
+through capability of full-row connected cascaded H-bridge converters,” in proc. IEEE Region 10 Conference
+TENCON, Nov. 2016, pp. 984-987.
+[9] H. Dehghani T., A. I. Maswood, Z. Lim, G. H. P. Ooi and P. H. Raj, ”A review of active/reactive power
+control strategies for PV power plants under unbalanced grid faults,” in proc. IEEE Innovative Smart Grid
+Technologies - Asia (ISGT ASIA), Nov. 2015, pp. 1-6.
+4
+
+-----
+[10] H. Dehghani T., A. I. Maswood, Z. Lim, G. H. P. Ooi and P. H. Raj, ”NPC photovoltaic grid-connected
+inverter with ride-through capability under grid faults,” in proc. IEEE 11th International Conference on
+Power Electronics and Drive Systems,, Jun. 2015, pp. 518-523.
+[11] H. Dehghani T., A. I. Maswood, A. Ukil, O. H. P. Gabriel and L. Ziyou, ”NPC photovoltaic grid-
+connected inverter using proportional-resonant controller,” in proc. IEEE PES Asia-Pacific Power and
+Energy Engineering Conference (APPEEC), Dec. 2014, pp. 1-6.
+Other publications, which are not included in the thesis; but have been
+prepared during the Ph.D. candidature:
+[12] M. Roomi, A. I. Maswood, H. Dehghani T., P. H. Raj, ”A novel modulation method for non-ideal dual
+z-source neutral point clamped inverter,” IET Power Electronics, vol. 10, no. 2, pp. 222-231, 2016.
+[13] H. Dehghani T., A. I. Maswood and M. M. Roomi, ”Active/reactive power control of PV grid-tied
+NPC inverter using 3-D space vector modulation in abc coordinate,” in proc. IEEE Innovative Smart Grid
+Technologies - Asia (ISGT ASIA), Nov. 2015, pp. 1-6.
+[14] H. Dehghani T., A. I. Maswood, Z. Lim, G. H. P. Ooi and P. H. Raj, ”Proportional-resonant controlled
+NPC converter for more-electric-aircraft starter-generator,” in proc. IEEE 11th International Conference
+on Power Electronics and Drive Systems, Jun. 2015, pp. 41-46.
+[15] M. S. U. Khan, A. I. Maswood, H. Dehaghani T., M. M. Roomi and M. Tariq, ”Control of bidirectional
+DC/DC converter for back to back NPC-based wind turbine system under grid faults,” in proc. IEEE
+4th International Conference on the Development in the in Renewable Energy Technology (ICDRET), Jan.
+2016, pp. 1-6.
+[16] P. H. Raj, A. I. Maswood, G. H. P. Ooi and H. Dehghani T., ”Five-level multiple-pole mutlilevel
+diode-clamped inverter scheme for reactive power compensation,” in proc. IEEE Innovative Smart Grid
+Technologies - Asia (ISGT ASIA), Nov. 2015, pp. 1-6.
+[17] M. M. Roomi, A. I. Maswood and H. Dehghani T., ”Performance evaluation of boost and Z-source
+converters for fuel cell application,” in proc. IEEE Innovative Smart Grid Technologies - Asia (ISGT
+ASIA), Nov. 2015, pp. 1-7.
+[18] P. H. Raj, A. I. Maswood, G. H. P. Ooi and H. Dehghani T., ”Multiple-pole multilevel diode clamped
+inverter for permanent magnet synchronous motor drive,” in proc. IEEE 11th International Conference on
+Power Electronics and Drive Systems, Jun. 2015, pp. 862-866.
+5
+
+-----

@@ -1,0 +1,87 @@
+Thesis Abstract 
+In recent years, motion detection and analysis in computer vision draws an increasing 
+attention in a wide range of applications including high speed surveillance, traffic 
+enforcement, automotive crash safety, and navigation of autonomous vehicles, etc. These 
+applications require continuous image acquisition and real-time processing techniques, 
+including optical flow, image segmentation, object recognition and object tracking, etc. 
+Traditionally, optical flow and object tracking are computed on a series of consecutive 
+image frames captured by standard cameras. Such imaging systems employ charge-
+coupled device (CCD) or complementary metal-oxide-semiconductor (CMOS) active pixel 
+sensors (APS) and capture images at a certain frame rate. To detect high speed motion 
+activities, the sensors need to run at a very high frame rate, i.e. more than 500 
+frames/second. Massive quantities of raw, redundant image data must be transmitted and 
+processed before the features of interest are obtained. These data exerts heavy pressure on 
+the transmission bandwidth and the following processing stage, thus, such frame-based 
+data acquisition and processing systems are difficult to satisfy real-time requirement. 
+Moreover, capturing fast motions using standard cameras leads to motion blur and lose of 
+the motion trajectory during the blind time between two consecutive frames, which restrict 
+the accuracy of object tracking. The tracking accuracy issue can be alleviated by using 
+high-speed cameras, however, it introduces much more redundant data and tremendous 
+computational cost. 
+ 
+The development of dynamic vision sensors (DVSs) has provided a solution to the 
+above-mentioned issues. Unlike frame-based imagers, DVSs have no concept of ‘frame’ 
+but output asynchronous pixel events. Each pixel continuously detects and logarithmically 
+responds to the illumination changes. A pixel is triggered to output an event only when its 
+detected illumination change goes beyond the defined threshold. Such mechanism enables 
+DVSs to reduce data redundancy by filtering out the redundant data from static background. 
+Considering that illumination variation is related to actual movement in most common 
+
+-----
+scenarios, the DVSs are capable of extracting motion related information directly. Several 
+event-based algorithms for object tracking and optical flow have been developed taking 
+advantage of the spatial-temporal characteristics of binary events. It has been proven that 
+the employment of DVS in object tracking and optical flow can reduce the computational 
+cost significantly. However, the accuracy of the event-based algorithms is restricted due to 
+the lack of absolute light intensity of DVS events. Moreover, the pixels in a traditional 
+DVS work individually, resulting in high sparseness of pixel events and poor accuracy in 
+flow estimation with respect to fast moving objects.  
+ 
+This thesis presents the developments of two smart event-based motion sensors with 
+feature extraction, such that the designed motion sensors can be used to develop more 
+algorithms in the field of motion detection and analysis. In addition, an event-driven 
+tracking algorithm tailored for the designed motion sensor is also proposed. With the novel 
+designed motion sensors and proposed algorithm, the event-based optical flow and object 
+tracking algorithms can achieve much higher accuracy compared to those using traditional 
+DVSs while maintaining real-time performance. The main contributions of this thesis are 
+summarized in the following four aspects: (1) The recently developed event-based DVSs 
+are exhaustively investigated. Compared with standard cameras, event imagers have high 
+temporal resolution and low latency, both in the order of micro-seconds, and a large 
+dynamic range. Furthermore, event-driven signal processing algorithms in the context of 
+object tracking and optical flow are reviewed, showing possibilities in real-time 
+applications. (2) The first hybrid motion sensor that can generat both frames and 
+asynchronous events with intensity (named grayscale events) is designed and implemented. 
+The designed hybrid sensor has independent pixels that report asynchronous events, 
+including pixel locations, with their corresponding illumination. It significantly reduces 
+redundant data from static background and extract essential information for motion 
+analysis. In contrast to existing event cameras with intensity readout (DAVIS and ATIS 
+cameras), the designed sensor is free of exposure time, contributing to fast-response 
+imaging of high speed objects. In addition, pixels in this hybrid sensor are globally 
+controlled to capture full frames on demand, thus benefits the environmental perceptions 
+
+-----
+in computer vision tasks. Accordingly, a 384 × 320-pixel prototype sensor was designed 
+and fabricated. (3) An event-guided discriminative tracking method tailored for the 
+designed hybrid motion sensor is proposed for detection and tracking of high speed moving 
+objects. The proposed tracking algorithm incorporates a traditional frame-based tracking-
+by-detection algorithm with two event-guiding methods. Compared to the classical trackers, 
+the proposed tracking algorithm exploits an online adaptive searching area to achieve a 
+more accurate localization. Moreover, the gray-level intensity of event packages generated 
+by the designed hybrid motion sensor is utilized to reconstruct supplement samples and 
+update the tracker model over time. The experimental results indicate that the proposed 
+algorithm presents high computational efficiency and outperforms the state-of-the-art 
+trackers in terms of accuracy and real-time performance. (4)  A novel motion sensor with 
+pixel rendering mechanism is designed and implemented for optical flow estimation. 
+Besides detection of illumination changes, pixels in the proposed motion sensor are 
+interconnected and communicate event status among each other through a pixel rendering 
+module (PRM). Each active pixel together with its four-neighbor pixels report grayscale 
+events to provide sufficient data in gradient extraction which is essential in flow estimation. 
+Thus, the proposed sensor fundamentally solves the accuracy problems of existing event-
+driven optical flow estimation, which are caused by event sparseness and lack of event 
+intensity. A 64 × 64 prototype was fabricated in 0.35um 2P4M Opto process. Experiments 
+were conducted on both synthesized data based on Middlebury and MPI database and real 
+data collected from the designed sensor, showing an improvement (by 17%) in accuracy 
+performance of event-flow estimation.  
+ 
+
+-----

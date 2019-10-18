@@ -1,0 +1,225 @@
+Prof. Dr. Konrad Rieck 
+Contact 
+ 
+Email 
+k.rieck@tu-bs.de (PGP key) 
+Telephone 
++49 531 391-55120 
+Fax 
++49 531 391-55130 
+Room 
+116 
+Address 
+Technische Universitä
+t Braunschweig 
+Institute of System Security 
+Rebenring 56 
+38106 Braunschweig, Germany 
+About me 
+I am a Professor (W3) of Computer Science at Technische Universitä
+t Braunschweig. I am 
+leading the Institute of System Security. Prior to taking this position, I have been working at 
+the University of Gö
+ttingen, Technische Universitä
+t Berlin and Fraunhofer Institute FIRST. 
+My research interests revolve around computer security and machine learning. This includes 
+the detection of computer attacks, the analysis of malicious software, and the discovery of 
+vulnerabilities. I am also interested in efficient algorithms for analyzing structured data, such 
+as sequences, trees and graphs. 
+ 
+Konrad Rieck 
+Professor of Computer Science, TU Braunschweig 
+Computer Security, Machine Learning 
+在 tu-bs.de 的电子邮件经过验证 - 首页 
+ 
+创建我的个人资料 
+引用指数
+ 
+总计 
+2012 年至今 
+引用  
+3061 
+2353 
+h 指数  
+27 
+23 
+i10 指数  
+40 
+37 
+200920102011201220132014201520162017 
+合著作者查看全部… 
+ 
+Pavel Laskov 
+ 
+Daniel Arp 
+
+-----
+ 
+Thorsten Holz 
+ 
+Fabian Yamaguchi 
+ 
+Hugo Gascón 
+ 
+Tammo Krueger 
+ 
+Patrick Duessel 
+ 
+Carsten Willems 
+ 
+Klaus-Robert Müller 
+ 
+Christian Gorecki 
+ 
+Michael Spreitzenbarth 
+ 
+Christin Schäfer 
+ 
+Ulf Brefeld 
+ 
+Marius Kloft 
+ 
+Soeren Sonnenburg 
+ 
+Nico Goernitz 
+ 
+Dr. Nicole Krämer 
+ 
+Christopher Wolf 
+ 
+Martin Johns 
+ 
+Gunnar Rätsch 
+ 
+ 
+ 
+ 
+标题 1–20 
+引用次数 
+发表年份
+ 
+Learning and classification of malware behavior 
+K Rieck, T Holz, C Willems, P Düssel, P Laskov 
+Detection of Intrusions and Malware, and Vulnerability Assessment, 108-125 
+407  
+2008 
+Measuring and detecting fast-flux service networks 
+T Holz, C Gorecki, K Rieck, FC Freiling 
+Proceedings of the Network & Distributed System Security Symposium 
+377*  
+2008 
+DREBIN: Effective and Explainable Detection of Android Malware in Your 
+Pocket. 
+D Arp, M Spreitzenbarth, M Hubner, H Gascon, K Rieck, C Siemens 
+NDSS 
+363  
+2014 
+Automatic analysis of malware behavior using machine learning 
+K Rieck, P Trinius, C Willems, T Holz 
+Journal of Computer Security 19 (4), 639-668 
+285  
+2011 
+Learning intrusion detection: Supervised or unsupervised? 
+P Laskov, P Düssel, C Schäfer, K Rieck 
+Image Analysis and Processing–ICIAP 2005, 50-57 
+155  
+2005 
+Cujo: efficient detection and prevention of drive-by-download attacks 
+K Rieck, T Krueger, A Dewald 
+134*  
+ 
+
+-----
+ 
+ 
+ 
+ 
+标题 1–20 
+引用次数 
+发表年份
+ 
+Structural detection of android malware using embedded call graphs 
+H Gascon, F Yamaguchi, D Arp, K Rieck 
+Proceedings of the 2013 ACM workshop on Artificial intelligence and 
+security ... 
+95  
+2013 
+Linear-time computation of similarity measures for sequential data 
+K Rieck, P Laskov 
+Journal of Machine Learning Research 9 (Jan), 23-48 
+95  
+2008 
+Language models for detection of unknown attacks in network traffic 
+K Rieck, P Laskov 
+Journal in Computer Virology 2 (4), 243-256 
+89  
+2007 
+Botzilla: Detecting the phoning home of malicious software 
+K Rieck, G Schwenk, T Limmer, T Holz, P Laskov 
+Proceedings of the 2010 ACM Symposium on Applied Computing, 1978-1984 
+64  
+2010 
+Detecting unknown network attacks using language models 
+K Rieck, P Laskov 
+International Conference on Detection of Intrusions and Malware, and ... 
+62  
+2006 
+Smart metering de-pseudonymization 
+M Jawurek, M Johns, K Rieck 
+Proceedings of the 27th Annual Computer Security Applications Conference ... 
+58  
+2011 
+Toward Supervised Anomaly Detection. 
+N Görnitz, M Kloft, K Rieck, U Brefeld 
+J. Artif. Intell. Res.(JAIR) 46, 235-262 
+57  
+2013 
+Modeling and discovering vulnerabilities with code property graphs 
+F Yamaguchi, N Golde, D Arp, K Rieck 
+Security and Privacy (SP), 2014 IEEE Symposium on, 590-604 
+55  
+2014 
+Large scale learning with string kernels 
+S Sonnenburg, G Rätsch, K Rieck 
+Large Scale Kernel Machines, 73-103 
+51  
+2007 
+A self-learning system for detection of anomalous sip messages 
+K Rieck, S Wahl, P Laskov, P Domschitz, KR Müller 
+Principles, Systems and Applications of IP Telecommunications. Services 
+and ... 
+43  
+2008 
+A malware instruction set for behavior-based analysis 
+41  
+2009 
+
+-----
+ 
+ 
+ 
+ 
+标题 1–20 
+引用次数 
+发表年份
+ 
+P Trinius, C Willems, T Holz, K Rieck 
+TokDoc: A self-healing web application firewall 
+T Krueger, C Gehl, K Rieck, P Laskov 
+Proceedings of the 2010 ACM Symposium on Applied Computing, 1846-1853 
+40  
+2010 
+Generalized vulnerability extrapolation using abstract syntax trees 
+F Yamaguchi, M Lottmann, K Rieck 
+Proceedings of the 28th Annual Computer Security Applications Conference ... 
+39  
+2012 
+Continuous Authentication on Mobile Devices by Analysis of Typing 
+Motion Behavior. 
+H Gascon, S Uellenbeck, C Wolf, K Rieck 
+Sicherheit, 1-12 
+36  
+2014 
+ 
+
+-----

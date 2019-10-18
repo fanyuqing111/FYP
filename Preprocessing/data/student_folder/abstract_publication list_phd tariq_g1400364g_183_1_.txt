@@ -1,0 +1,73 @@
+ABSTRACT 
+Title:  Design and Integration of Battery Energy Storage System in More Electric Aircraft. 
+Details of the work done:  
+In the presented work a detail study on the battery technologies used in aircrafts in the last five 
+decades is done. A general background of the battery system is studied and the performance of the batteries 
+based on energy densities and low temperature capabilities is evaluated for the deployment in the more 
+electric aircraft (MEA). Evolution of MEA with its power system architecture and load profile is analysed 
+to understand the requirements of the battery system. An effective battery energy storage system (BESS) 
+is designed considering the weight saving and cost analysis factors. Based on the analysis, Li-ion battery 
+with Lithium ferrous phosphate (LFP) chemistry is designed and proposed for the MEA.  
+After the design, the proposed Li-ion battery system is successfully integrated with the power 
+distribution 270V DC bus architecture of the MEA and tested under different dynamic conditions using 
+three different control techniques. Firstly, a direct estimation based technique is proposed for determining 
+the phase shift of the phase shifted high power bidirectional dc-dc “PSHPBD” converter (A charger for the 
+batteries). Secondly, a current mode control for the single phase shift control technique for the PSHPBD 
+converter is also proposed. The proposed control technique has an inherent capability of current limit.  The 
+design of coupling inductor and duty cycle, keeping in view the requirement of maximum power transfer 
+in the MEA environment as well as ZVS operation in wide range is done for the PSHPBD converter for 
+MEA operating parameters. An optimal harmonic number based harmonic modeling of the PSHPBD 
+converter is done so as to reduce the complexity involved in operating with the switch model. Thirdly, a 
+peak current controller is also proposed which provides a limit on the peak current as well as it gives fast 
+transient response. The advantages of using the proposed peak current control in avoiding the saturation of 
+the transformer core is also reported in the work.  
+Furthermore, a control method which can improve the life of the BESS and a multi-functional 
+battery charger for an efficient operation of the BESS is also proposed. The proposed control method is 
+activated during the light load conditions and reduces the RMS current of the charger circuit thereby 
+reducing the losses and temperature rise in the system. The functionality of the proposed multi-functional 
+battery charger is also discussed in detail in the work. 
+ 
+
+-----
+Publication List: 
+Patents*: 
+[1] M. Tariq, A. I. Maswood and C. J. Gajanayake, “Multi-functional Battery Charger”, (in process). 
+[2] M. Tariq, A. I. Maswood and C. J. Gajanayake, “Control Method to Improve the Life of Battery 
+Energy Storage System”, (in process). 
+Journals: 
+[3] M. Tariq, A. I. Maswood, C. J. Gajanayake and A. K. Gupta, “Aircraft Batteries: Current Trend 
+towards More Electric Aircraft”, in IET Electrical Systems in Transportation, vol. 7, no. 2, pp. 93-
+103, 6 2017. 
+[4] M. Tariq, A. I. Maswood, A. C. Moreddy, C. J. Gajanayake, M. Y. Lee and A. K. Gupta, 
+“Reliability, Dead-Time and Feasibility Analysis of a Novel Modular Tank-less ZCS Inverter for 
+More Electric Aircraft”, in IEEE Transactions on Transportation Electrification, vol. 3, no. 4, pp. 
+843-854, Dec. 2017. 
+[5]  M. Tariq, A. I. Maswood and C. J. Gajanayake, “Modeling of a Lithium-ion Battery Energy 
+Storage System and its Integration with the More Electric Aircraft 270 V DC Power Distribution 
+Network using a Predictive Peak Current Control Technique”, in IEEE Access special issue on 
+Battery Energy Storage and Management Systems, [in review]. 
+Conferences: 
+[6] M. Tariq, A. I. Maswood, C. J. Gajanayake, A. K. Gupta and F. Sasongko, "Battery energy storage 
+system integration to the more electric aircraft 270 V DC power distribution bus using peak current 
+controlled dual active bridge converter," 2017 IEEE Energy Conversion Congress and Exposition 
+(ECCE), Cincinnati, OH, 2017, pp. 2068-2073. 
+[7] M. Tariq, A. I. Maswood, C. J. Gajanayake and A. K. Gupta, "Modeling of a Li-ion battery energy 
+storage system using an optimal harmonic number based model of DC-DC converter for more 
+electric aircraft," IECON 2016 - 42nd Annual Conference of the IEEE Industrial Electronics 
+Society, Florence, 2016, pp. 4429-4434. 
+[8] M. Tariq, A. I. Maswood, C. J. Gajanayake and A. K. Gupta, "A Lithium-ion battery energy storage 
+system using a bidirectional isolated DC-DC converter with current mode control for More Electric 
+Aircraft," 2016 IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE), 
+Penang, 2016, pp. 149-154. 
+
+-----
+[9] M. Tariq, A. I. Maswood,   et al., "Battery integration with more electric aircraft DC distribution 
+network using phase shifted high power bidirectional DC-DC converter," 2015 IEEE PES Asia-
+Pacific Power and Energy Engineering Conference (APPEEC), Brisbane, QLD, 2015, pp. 1-5. 
+Note: * Both the patents are in review stage by Rolls-Royce global panel and have been approved by the 
+ECG, Singapore local patent committee and the global subject matter expert (SME) for ECG, Rolls-Royce 
+for possible publication of Patent. 
+ 
+ 
+
+-----

@@ -1,0 +1,33 @@
+HIGH-EFFICIENCY POWER AMPLIFIER DESIGN FOR 
+DIGITAL RF POLAR TRANSMITTERS 
+Abstract 
+This Master of Engineering research project pertains to the analysis, design, and IC realization of a high power-
+efficiency Class-E Power Amplifier (PA) capable of generating a varying-envelope output signal for digital Radio-
+Frequency (RF) Polar transmitters in portable applications, with emphases on small circuit area and low power 
+dissipation based on 40nm CMOS processes technology. 
+In this project, we propose a high-efficiency Class-E PA for RF Polar transmitters.   The PA embodies a 
+proposed novel digitally-controlled matching network (MN) with the following salient features: 
+1. The MN is directly controlled by the digital Amplitude Modulation (AM) data.   It obviates the need for 
+the conventional supply modulator, thereby reducing the area and power dissipation.   The MN comprises 
+passive devices and transistors/switches.   In contrast to those power transistors in the supply modulator 
+that are driving a large current, the transistors employed by the MN are small-form-factor low-power 
+digital transistors.  
+2. The MN performs the dynamic load modulation (DLM) with a high-efficiency.   In this modulation, the 
+load impedance seen by the PA is varied according to the AM data.   To achieve a high-efficiency operation, 
+the MN transfer the load-impedance to the value required by the Zero-Voltage Switching (ZVS) condition, 
+which is ideally a lossless switching, at the PA. 
+3. Conventional MNs for dynamic load modulation can only employ low quality-factor on-chip inductors. 
+The proposed MN has a novel network architecture that can choose to employ on-, or off-chip inductors, 
+or both inductor types.   This means that high quality-factor bond-wires can be employed to improve the 
+efficiency.  
+ 
+The proposed Class-E PA embodying the novel digitally-controlled DLM MN is designed using the TSMC 40 
+nm CMOS technology.   Simulation results at 2.4 GHz carrier frequency and 1.1 V supply show that the PA achieves 
+a high drain efficiency of 48% at peak output power of 17 dBm.   The power efficiency is 10% higher power-
+efficiency compared to that of current-art power amplifiers based on the same simulation conditions.     An IC of 
+the proposed PA has been fabricated and will be measured to verify the proposed PA design. 
+ 
+ 
+ 
+
+-----

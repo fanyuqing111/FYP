@@ -1,0 +1,93 @@
+Extending depth range of optical coherence tomography  
+ 
+Abstract 
+ 
+Optical coherence tomography (OCT) is a noninvasive diagnostic imaging tool that has been established 
+in various clinical fields. The most commonly cited issue of OCT in clinical practices is the short depth 
+range. This thesis proposes four novel techniques to significantly extend the depth range without 
+compromise other imaging performances. 
+ 
+The OCT depth range is fundamentally limited by two main factors, which are focal range and system 
+sensitivity. In the standard OCT systems, the focal range can only be improved by decreasing the 
+numerical aperture (NA) of the focusing optics, which unfortunately sacrifices the transverse resolution. 
+To achieve a high transverse resolution over an extended depth range, efforts have been made from both 
+the focusing engineering and digital refocusing approaches.  
+ 
+The elliptical beam design is developed to extend the intensity depth range optically. By angling the fiber 
+terminal facet by θ with respect to the fiber axis, the effective NA in the XZ plane of the output will 
+increase as the incident angle θ increases. However, in the YZ plane, the NA remains as the case of θ=0°. 
+Such an anisotropic NA of the beam will produce approximately elliptical beam cross-sections in both the 
+pupil plane and the focal plane of the focusing optics. Therefore, the intensity depth range can be 
+significantly extended with respect to the standard circular beam based OCT, without compromising the 
+transverse resolution in the X direction. For those OCT operating primarily in the B-mode, the elliptical 
+beam technique can also mitigate the problems caused by other optical aberrations, including but not 
+limited to chromatically focal shift, higher-order spherical aberrations, and field of curvature.  
+ 
+In addition to the elliptical beam, a dual-foci optical design is proposed to extend the focal range of 
+endoscopic OCT. We exploited the broad spectral bandwidth of the output from a supercontinuum source 
+and. In the fiber probe, the foci of the 750-1000 nm and 1100-1450 nm inputs were chromatically shifted 
+axially. The interference signals from the two spectral bands were measured with a Si camera-based 
+spectrometer and an InGaAs camera-based spectrometer, respectively. Therefore, two images of different 
+focal depth are acquired simultaneously. By compounding the two acquired frames, the resulted shows an 
+extended focal region of 2 times larger than that of the single focus probe. 
+ 
+An additional effort has been made to implement a digital refocusing technique, termed multiple aperture 
+synthesis, in a fiber optical endoscopic probe to extend the OCT focal range. We designed and fabricated 
+a novel fiber-optic probe in which a calcite beam displacer was used to create two sub-apertures. The 
+optical aberrations in the depth domain were digitally corrected between the interferometric signals 
+acquired through the two apertures using a pathlength encoded method. The feasibility of extending the 
+depth range is demonstrated using tissue phantoms. 
+ 
+
+-----
+To improve system sensitivity, a spectrometer-input OCT was designed and developed. The input light 
+was coupled in the system via the 0-order of the spectrometer grating. Under the condition that the light 
+source power is enough to provide maximum permissible exposure in the sample, we demonstrate that the 
+proposed OCT system design is advantageous in sensitivity over the standard OCT by 1.5dB.   
+ 
+In conclusion, this thesis proposes four methods to significantly extend the OCT depth range while 
+maintaining the state-of-art performance in other aspects, which has been demonstrated with phantom 
+imaging and biological tissue imaging ex vivo. 
+ 
+ 
+Publication 
+ 
+Journal: 
+ 
+1. 
+Jinhan Li, Yuemei Luo, Xianghong Wang, Nanshuo Wang, En Bo, Si Chen, Shufen Chen, Shi 
+Chen, Meng-Tsan Tsai, and Linbo Liu (2018). “Extending the depth of focus of fiber-optic optical 
+coherence tomography using a chromatic dual-focus design,” Applied Optics, 57(21), 6040-6046. 
+ 
+2. 
+En Bo, Yuemei Luo, Si Chen, Xinyu Liu, Nanshuo Wang, Xin Ge, Xianghong Wang, Shufen 
+Chen, Shi Chen, Jinhan Li, and Linbo Liu, "Depth of focus extension in optical coherence tomography 
+via multiple aperture synthesis," Optica 4(7), 701-706 (2017). 
+ 
+3. 
+Jinhan Li, Jun Xie, and Linbo Liu "Fiber-tip interferometer for spectral domain optical coherence 
+tomography," Submitted to Journal of Lightwave Technology. 
+ 
+Conference: 
+ 
+1. 
+Jinhan Li, Linbo Liu, “Depth-of-focus Extended Common-path Probe OCT System”, CLEO-
+PR,OECC and PGC, Jul.31-Aug.4, 2017, Sands Expo and Convention Centre, Singapore, Oral 
+ 
+2. 
+Jinhan Li, Linbo Liu, “Depth-of-focus extended chromatic dual-foci OCT”, SPIE BiOS 28 Jan- 2 
+Feb, 2017, San Francisco, CA, USA, Oral 
+ 
+Patent and technical disclosure: 
+ 
+
+-----
+1. 
+Linbo Liu, Yuemei Luo, Jinhan Li, “High Resolution Optical Coherence Tomography 
+Endoscopic Catheter”, Reference number: TD/179/16. 
+ 
+2. 
+Linbo Liu, Jinhan Li, “Method and apparatus to mitigate aberration problems in laser scanning 
+imaging systems and spectrometers”, Reference number: 2019-130. 
+
+-----

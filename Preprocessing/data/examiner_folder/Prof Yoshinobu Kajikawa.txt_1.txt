@@ -1,0 +1,1165 @@
+Close
+Web of Science
+ 
+Page 1 (Records 1 -- 50)
+ 
+ [ 1 ] 
+Print
+Record 1 of 50
+Title: Recent advances on active noise control: open issues and innovative applications
+Author(s): Kajikawa, Y (Kajikawa, Yoshinobu); Gan, WS (Gan, Woon-Seng); Kuo, SM (Kuo, Sen M.)
+Source: APSIPA TRANSACTIONS ON SIGNAL AND INFORMATION PROCESSING  Volume: 1  Article Number: e3  DOI: 10.1017/ATSIP.2012.4  Published: DEC
+2012  
+Abstract: The problem of acoustic noise is becoming increasingly serious with the growing use of industrial and medical equipment, appliances, and
+consumer electronics. Active noise control (ANC), based on the principle of superposition, was developed in the early 20th century to help reduce noise.
+However, ANC is still not widely used owing to the effectiveness of control algorithms, and to the physical and economical constraints of practical
+applications. In this paper, we briefly introduce some fundamental ANC algorithms and theoretical analyses, and focus on recent advances on signal
+processing algorithms, implementation techniques, challenges for innovative applications, and open issues for further research and development of ANC
+systems.
+Accession Number: WOS:000215262700003
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+Gan, Woon-Seng 
+A-5151-2011 
+0000-0002-7143-1823 
+ISSN: 2048-7703
+Record 2 of 50
+Title: Active Noise Control System for Reducing MR Noise
+Author(s): Kumamoto, M (Kumamoto, Masafumi); Kida, M (Kida, Masahiro); Hirayama, R (Hirayama, Ryotaro); Kajikawa, Y (Kajikawa, Yoshinobu); Tani, T (Tani,
+Toru); Kurumi, Y (Kurumi, Yoshimasa)
+Source: IEICE TRANSACTIONS ON FUNDAMENTALS OF ELECTRONICS COMMUNICATIONS AND COMPUTER SCIENCES  Volume: E94A  Issue: 7  Pages: 1479-
+1486  DOI: 10.1587/transfun.E94.A.1479  Published: JUL 2011  
+Abstract: We propose an active noise control (ANC) system for reducing periodic noise generated in a high magnetic field such as noise generated from
+magnetic resonance imaging (MRI) devices (MR noise). The proposed ANC system utilizes optical microphones and piezoelectric loudspeakers, because
+specific acoustic equipment is required to overcome the high-field problem, and consists of a head-mounted structure to control noise near the user's ears
+and to compensate for the low output of the piezoelectric loudspeaker. Moreover, internal model control (IMC)-based feedback ANC is employed because the
+MR noise includes some periodic components and is predictable. Our experimental results demonstrate that the proposed ANC system (head-mounted
+structure) can significantly reduce MR noise by approximately 30 dB in a high field in an actual MRI room even if the imaging mode changes frequently.
+Accession Number: WOS:000292619300001
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 1745-1337
+Record 3 of 50
+Title: Head-mounted active noise control system with virtual sensing technique
+Author(s): Miyazaki, N (Miyazaki, Nobuhiro); Kajikawa, Y (Kajikawa, Yoshinobu)
+Source: JOURNAL OF SOUND AND VIBRATION  Volume: 339  Pages: 65-83  DOI: 10.1016/j.jsv.2014.11.023  Published: MAR 17 2015  
+Abstract: In this paper, we apply a virtual sensing technique to a head-mounted active noise control (ANC) system we have already proposed. The proposed
+ANC system can reduce narrowband noise while improving the noise reduction ability at the desired locations. A head-mounted ANC system based on an
+adaptive feedback structure can reduce noise with periodicity or narrowband components. However, since quiet zones are formed only at the locations of
+error microphones, an adequate noise reduction cannot be achieved at the locations where error microphones cannot be placed such as near the eardrums.
+A solution to this problem is to apply a virtual sensing technique. A virtual sensing ANC system can achieve higher noise reduction at the desired locations by
+measuring the system models from physical sensors to virtual sensors, which will be used in the online operation of the virtual sensing ANC algorithm.
+Hence, we attempt to achieve the maximum noise reduction near the eardrums by applying the virtual sensing technique to the head mounted ANC system.
+However, it is impossible to place the microphone near the eardrums. Therefore, the system models from physical sensors to virtual sensors are estimated
+using the Head And Torso Simulator (HATS) instead of human ears. Some simulation, experimental, and subjective assessment results demonstrate that the
+head mounted ANC system with virtual sensing is superior to that without virtual sensing in terms of the noise reduction ability at the desired locations. (C)
+2014 Elsevier Ltd. All rights reserved.
+Accession Number: WOS:000346849100006
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 0022-460X
+eISSN: 1095-8568
+Record 4 of 50
+Title: An Estimation Method of Parameters for Closed-box Loudspeaker System
+
+
+-----
+Author(s): Nakao, R (Nakao, Rika); Kajikawa, Y (Kajikawa, Yoshinobu); Nomura, Y (Nomura, Yasuo)
+Source: IEICE TRANSACTIONS ON FUNDAMENTALS OF ELECTRONICS COMMUNICATIONS AND COMPUTER SCIENCES  Volume: E91A  Issue: 10  Pages: 3006-
+3013  DOI: 10.1093/ietfec/e91-a.10.3006  Published: OCT 2008  
+Abstract: In this paper, we propose a method that Uses Simulated Annealing (SA) to estimate the linear and nonlinear parameters of a closed-box
+loudspeaker system for implementing effective Mirror filters. The nonlinear parameters determined by W. Klippel's method are sometimes inaccurate and
+imaginary. In contrast, the proposed method can estimate the parameters with satisfactory accuracy due to its use of SA: the resulting impedance and
+displacement characteristics match those of an actual equivalent loudspeaker. A Mirror filter designed around these parameters can well compensate the
+nonlinear distortions of the loudspeaker system. Experiments demonstrate that the method can reduce the levels of nonlinear distortion by 5 dB to 20 dB
+compared to the before compensation condition.
+Accession Number: WOS:000260400600042
+Conference Title: International Workshop on Smart Info-Media Systems (SISB 2007)
+Conference Date: 2007
+Conference Location: Bangkok, THAILAND
+Conference Sponsors: IEICE, Smart Info Media Syst Tech Grp
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 1745-1337
+Record 5 of 50
+Title: Binaural active noise control using parametric array loudspeakers
+Author(s): Tanaka, K (Tanaka, Kihiro); Shi, C (Shi, Chuang); Kajikawa, Y (Kajikawa, Yoshinobu)
+Source: APPLIED ACOUSTICS  Volume: 116  Pages: 170-176  DOI: 10.1016/j.apacoust.2016.09.021  Published: JAN 15 2017  
+Abstract: This paper reports the binaural active noise control (ANC) system developed to deal with factory noise. The control points are located in the vicinity
+of the le� and right ears of a worker sitting along the production line. Due to the complicated safety requirements in the factory, secondary sources and error
+microphones are not allowed to be placed near the worker. Therefore, the proposed ANC system employs the feedforward structure and adopts the
+parametric array loudspeakers (PALs) as the secondary sources. The PAL is a type of directional loudspeaker that generates a much narrower sound field as
+compared to the conventional loudspeaker. Once the proposed ANC system has been trained offline, the error microphones can be removed. The
+performance of the binaural ANC system is successfully demonstrated based on a digital signal processor (DSP) implementation. (C) 2016 Elsevier Ltd. All
+rights reserved.
+Accession Number: WOS:000388156400020
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+Shi, Chuang 
+ 
+0000-0002-1517-2775 
+ISSN: 0003-682X
+eISSN: 1872-910X
+Record 6 of 50
+Title: A convolution model for computing the far-field directivity of a parametric loudspeaker array
+Author(s): Shi, C (Shi, Chuang); Kajikawa, Y (Kajikawa, Yoshinobu)
+Source: JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA  Volume: 137  Issue: 2  Pages: 777-784  DOI: 10.1121/1.4906163  Published: FEB 2015  
+Abstract: This paper describes a method to compute the far-field directivity of a parametric loudspeaker array (PLA), whereby the steerable parametric
+loudspeaker can be implemented when phased array techniques are applied. The convolution of the product directivity and the Westervelt's directivity is
+suggested, substituting for the past practice of using the product directivity only. Computed directivity of a PLA using the proposed convolution model
+achieves significant improvement in agreement to measured directivity at a negligible computational cost. (C) 2015 Acoustical Society of America.
+Accession Number: WOS:000350024600039
+PubMed ID: 25698012
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Shi, Chuang 
+ 
+0000-0002-1517-2775 
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 0001-4966
+eISSN: 1520-8524
+Record 7 of 50
+Title: On adaptive covariance and spectrum estimation of locally stationary multivariate processes
+Author(s): Niedzwiecki, M (Niedzwiecki, Maciej); Ciolek, M (Ciolek, Marcin); Kajikawa, Y (Kajikawa, Yoshinobu)
+Source: AUTOMATICA  Volume: 82  Pages: 1-12  DOI: 10.1016/j.automatica.2017.04.033  Published: AUG 2017  
+Abstract: When estimating the correlation/spectral structure of a locally stationary process, one has to make two important decisions. First, one should
+choose the so-called estimation bandwidth, inversely proportional to the effective width of the local analysis window, in the way that complies with the
+degree of signal nonstationarity. Too small bandwidth may result in an excessive estimation bias, while too large bandwidth may cause excessive estimation
+variance. Second, but equally important, one should choose the appropriate order of the spectral representation of the signal so as to correctly model its
+
+-----
+resonant structure when the order is too small, the estimated spectrum may not reveal some important signal components (resonances), and when it is too
+high, it may indicate the presence of some nonexistent components. When the analyzed signal is not stationary, with a possibly time-varying degree of
+nonstationarity, both the bandwidth and order parameters should be adjusted in an adaptive fashion. The paper presents and compares three approaches
+allowing for unified treatment of the problem of adaptive bandwidth and order selection for the purpose of identification of nonstationary vector
+autoregressive processes: the cross-validation approach, the full cross -validation approach, and the approach that incorporates the multivariate version of
+the generalized Akaike's final prediction error criterion. It is shown that the latter solution yields the best results and, at the same time, is very attractive from
+the computational viewpoint. (C) 2017 Elsevier Ltd. All rights reserved.
+Accession Number: WOS:000403984300001
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 0005-1098
+eISSN: 1873-2836
+Record 8 of 50
+Title: Ultrasound-to-Ultrasound Volterra Filter Identification of the Parametric Array Loudspeaker
+Author(s): Shi, C (Shi, Chuang); Kajikawa, Y (Kajikawa, Yoshinobu)
+Book Group Author(s): IEEE
+Source: 2015 IEEE INTERNATIONAL CONFERENCE ON DIGITAL SIGNAL PROCESSING (DSP)  Pages: 1-4  Published: 2015  
+Abstract: The Volterra filter is a favorable approach to represent a variety of nonlinear systems, including the parametric array loudspeaker (PAL), which is a
+weak nonlinear acoustic system to create directional sounds. Using the Volterra filter to model the sound process of the PAL saves the computational cost of
+solving the nonlinear acoustic equation. In the past studies, the Volterra filter is identified from the audio input to the audio output of the PAL, which is
+known as the audio-to-audio Volterra filter (A2VF). In this paper, the ultrasound-to-ultrasound Volterra filter (U2VF) is recommended. The experiment results
+validate that the U2VF outperforms the A2VF, in terms of the robustness to the change of the modulation index in the PAL.
+Accession Number: WOS:000380506600001
+Conference Title: IEEE International Conference on Digital Signal Processing (DSP)
+Conference Date: JUL 21-24, 2015
+Conference Location: singapore, SINGAPORE
+Conference Sponsors: IEEE Circuits and Syst Singapore Chapter, Imperial Coll London, IEEE, ROSE, NANYANG TECHNOL UNIV Temasek Labs NTU,
+parisstandford
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+Shi, Chuang 
+ 
+0000-0002-1517-2775 
+ISBN: 978-1-4799-8058-1
+Record 9 of 50
+Title: Linearization of loudspeaker systems using a subband parallel cascade volterra filter
+Author(s): Furuhashi, H (Furuhashi, Hideyuki); Kajikawa, Y (Kajikawa, Yoshinobu); Nomura, Y (Nomura, Yasuo)
+Source: IEICE TRANSACTIONS ON FUNDAMENTALS OF ELECTRONICS COMMUNICATIONS AND COMPUTER SCIENCES  Volume: E90A  Issue: 8  Pages: 1616-
+1619  DOI: 10.1093/ietfec/e90-a.8.1616  Published: AUG 2007  
+Abstract: In this paper, we propose a low complexity realization method for compensating for nonlinear distortion. Generally, nonlinear distortion is
+compensated for by a linearization system using a Volterra kernel. However, this method has a problem of requiring a huge computational complexity for the
+convolution needed between an input signal and the 2nd-order Volterra kernel. The Simplified Volterra Filter (SVF), which removes the lines along the main
+diagonal of the 2nd-order Volterra kernel, has been previously proposed as a way to reduce the computational complexity while maintaining the
+compensation performance for the nonlinear distortion. However, this method cannot greatly reduce the computational complexity. Hence, we propose a
+subband linearization system which consists of a subband parallel cascade realization method for the 2nd-order Volterra kernel and subband linear inverse
+filter. Experimental results show that this proposed linearization system can produce the same compensation ability as the conventional method while
+reducing the computational complexity.
+Accession Number: WOS:000248934200017
+Conference Title: 21st Symposium on Signal Processing
+Conference Date: NOV 15-17, 2006
+Conference Location: Kyoto, JAPAN
+Conference Sponsors: IEICE, Signal Proc Tech Grp
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 1745-1337
+Record 10 of 50
+Title: LINEARIZATION OF DYNAMIC LOUDSPEAKER SYSTEM USING THIRD-ORDER NONLINEAR IIR FILTER
+Author(s): Iwai, K (Iwai, Kenta); Kajikawa, Y (Kajikawa, Yoshinobu)
+Source: 2012 PROCEEDINGS OF THE 20TH EUROPEAN SIGNAL PROCESSING CONFERENCE (EUSIPCO)  Book Series: European Signal Processing
+
+-----
+Conference  Pages: 1970-1974  Published: 2012  
+Abstract: In this paper, we propose a 3rd-order nonlinear IIR filter for compensating for nonlinear distortions of loudspeaker systems. The 2nd-order
+nonlinear IIR filter based on the Mirror filter is used for reducing nonlinear distortions of loudspeaker systems. However, the 2nd-order nonlinear IIR filter
+cannot reduce nonlinear distortions at high frequencies because it does not include the nonlinearity of the self-inductance of loudspeaker systems. On the
+other hand, the proposed filter includes the effect of such self-inductance and thus can reduce nonlinear distortions at high frequencies. Experimental
+results demonstrate that the proposed filter can realize a reduction by 4 dB more than the conventional filter on inter-modulation distortions at high
+frequencies.
+Accession Number: WOS:000310623800396
+Conference Title: 20th European Signal Processing Conference (EUSIPCO)
+Conference Date: AUG 27-31, 2012
+Conference Location: Bucharest, ROMANIA
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 2076-1465
+ISBN: 978-1-4673-1068-0
+Record 11 of 50
+Title: STATISTICAL-MECHANICAL ANALYSIS OF THE FXLMS ALGORITHM WITH ACTUAL PRIMARY PATH
+Author(s): Miyoshi, S (Miyoshi, Seiji); Kajikawa, Y (Kajikawa, Yoshinobu)
+Book Group Author(s): IEEE
+Source: 2015 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH, AND SIGNAL PROCESSING (ICASSP)  Book Series: International Conference on
+Acoustics Speech and Signal Processing ICASSP  Pages: 3502-3506  Published: 2015  
+Abstract: A theory that predicts the behaviors of the Filtered-X LMS algorithm was derived by using a statistical-mechanical method. In this paper, the theory
+is generalized to explain the system behaviors in the case of an actual primary path. In the theory, cross-correlations between the element of a primary path
+and that of an adaptive filter and autocorrelations of the elements of the adaptive filter are treated as macroscopic variables. Simultaneous differential
+equations that describe the dynamical behaviors of the macroscopic variables are obtained under conditions in which the tapped-delay line is sufficiently
+long. The equations are analytically solved to obtain the correlations and finally compute the mean-square error. In order to generalize the theory to the case
+of an actual primary path, the correlations of the elements of the primary path are absorbed. The generalized theory quantitatively predict the behaviors in
+the case of an actual primary path.
+Accession Number: WOS:000427402903123
+Conference Title: 40th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+Conference Date: APR 19-24, 2015
+Conference Location: Brisbane, AUSTRALIA
+Conference Sponsors: IEEE, Inst Elect & Elect Engineers Signal Proc Soc
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Miyoshi, Seiji 
+C-7406-2013 
+ 
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 1520-6149
+ISBN: 978-1-4673-6997-8
+Record 12 of 50
+Title: Recent Applications and Challenges on Active Noise Control
+Author(s): Kajikawa, Y (Kajikawa, Yoshinobu); Gan, WS (Gan, Woon-Seng); Kuo, SM (Kuo, Sen Maw)
+Book Group Author(s): IEEE
+Source: 2013 8TH INTERNATIONAL SYMPOSIUM ON IMAGE AND SIGNAL PROCESSING AND ANALYSIS (ISPA)  Book Series: International Symposium on Image
+and Signal Processing and Analysis  Pages: 661-+  Published: 2013  
+Abstract: Acoustic noise problems become more and more serious with increasing use of industrial and medical equipment, appliances, and consumer
+electronics. Active noise control (ANC) has been studied to solve such acoustic noise problems. ANC is a technique based on the principle of superposition,
+i.e., an antinoise with the same amplitude and opposite phase is generated and combined with an unwanted noise, thus resulting in the cancellation of both
+noises. However, ANC is still not widely used owing to the effectiveness of control algorithms, and to the physical and economical constraints of practical
+applications. In this paper, we briefly introduce some fundamental ANC structures, and focus on recent advances on signal processing algorithms,
+implementation techniques, challenges for innovative applications, and open issues for further research and development of ANC systems.
+Accession Number: WOS:000349789200117
+Conference Title: 8th International Symposium on Image and Signal Processing and Analysis (ISPA)
+Conference Date: SEP 04-06, 2013
+Conference Location: Trieste, ITALY
+Conference Sponsors: Univ Trieste, Dept Engn & Arch, Univ Zagreb, Fac Elect Engn &d Comp, EURASIP, IEEE Signal Proc Soc, Italy Chapter, DAVe,
+FONDAZIONE CRTRIESTE, CHIRON, FIMI, ESTECO
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+
+-----
+Gan, Woon-Seng 
+A-5151-2011 
+0000-0002-7143-1823 
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 1845-5921
+ISBN: 978-953-184-194-8; 978-953-184-187-0
+Record 13 of 50
+Title: STATISTICAL-MECHANICAL ANALYSIS OF THE FXLMS ALGORITHM WITH NONWHITE REFERENCE SIGNALS
+Author(s): Miyoshi, S (Miyoshi, Seiji); Kajikawa, Y (Kajikawa, Yoshinobu)
+Book Group Author(s): IEEE
+Source: 2013 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP)  Book Series: International Conference on
+Acoustics Speech and Signal Processing ICASSP  Pages: 5652-5656  Published: 2013  
+Abstract: We analyze the learning curves of the FXLMS algorithm using a statistical-mechanical method when the reference signal is not necessarily white.
+We treat the nonwhite reference signal by introducing the correlation function of the signal to the method proposed in our previous study. Cross-correlations
+between the element of a primary path and that of an adaptive filter and autocorrelations of the elements of the adaptive filter are treated as macroscopic
+variables. We obtain simultaneous differential equations that describe the dynamical behaviors of the macroscopic variables under the conditions in which
+the tapped-delay line is long. We analytically solve the equations to obtain the correlations and finally compute the mean-square error. The obtained theory
+quantitatively agrees with the results of computer simulations. The theory also gives the upper limit of the step size in the FXLMS algorithm.
+Accession Number: WOS:000329611505164
+Conference Title: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+Conference Date: MAY 26-31, 2013
+Conference Location: Vancouver, CANADA
+Conference Sponsors: Inst Elect & Elect Engineers, Inst Elect & Elect Engineers Signal Proc Soc
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Miyoshi, Seiji 
+C-7406-2013 
+ 
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 1520-6149
+ISBN: 978-1-4799-0356-6
+Record 14 of 50
+Title: THEORETICAL DISCUSSION OF THE FILTERED-X LMS ALGORITHM BASED ON STATISTICAL MECHANICAL ANALYSIS
+Author(s): Miyoshi, S (Miyoshi, Seiji); Kajikawa, Y (Kajikawa, Yoshinobu)
+Book Group Author(s): IEEE
+Source: 2012 IEEE STATISTICAL SIGNAL PROCESSING WORKSHOP (SSP)  Pages: 341-344  Published: 2012  
+Abstract: We theoretically obtain the learning curves of the FXLMS algorithm on the basis of statistical mechanical analysis. Cosines of angles between the
+coefficient vectors of an adaptive filter, its shi�ed filters, and an unknown system are treated as macroscopic variables. Assuming that the tapped-delay line
+is sufficiently long and exactly calculating the correlations between the past tap input vectors and the coefficient vector of the adaptive filter, we obtain
+simultaneous differential equations that describe the dynamical behaviors of the macroscopic variables in a deterministic form. We analytically solve the
+equations and show that the obtained theory quantitatively agrees with computer simulations. In the analysis, neither the independence assumption, the
+small step-size condition, nor the few-taps assumption is used.
+Accession Number: WOS:000309943200086
+Conference Title: IEEE Statistical Signal Processing Workshop (SSP)
+Conference Date: AUG 05-08, 2012
+Conference Location: Ann Arbor, MI
+Conference Sponsors: IEEE
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Miyoshi, Seiji 
+C-7406-2013 
+ 
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISBN: 978-1-4673-0183-1
+Record 15 of 50
+Title: Generating dual beams from a single steerable parametric loudspeaker
+Author(s): Shi, C (Shi, Chuang); Kajikawa, Y (Kajikawa, Yoshinobu); Gan, WS (Gan, Woon-Seng)
+Source: APPLIED ACOUSTICS  Volume: 99  Pages: 43-50  DOI: 10.1016/j.apacoust.2015.05.004  Published: DEC 1 2015  
+Abstract: The parametric loudspeaker utilizes an ultrasonic transducer array to transmit a directional sound beam in air based on the parametric array effect.
+In recent studies, phased array techniques have been applied to achieve controllable directivity patterns or to change the direction of the sound beam. Such
+a parametric loudspeaker is o�en referred to as a steerable parametric loudspeaker. In this paper, a dual beam generation method is elaborated. It aims to
+transmit two sound beams from just one steerable parametric loudspeaker. The two sound beams carries the same audio content to different locations. This
+dual beam generation method is compatible with the configuration of existing steerable parametric loudspeakers based on phased array techniques. As an
+algorithm solution, the dual beam generation method readily improves the flexibility of the steerable parametric loudspeaker. (C) 2015 Elsevier Ltd. All rights
+reserved.
+Accession Number: WOS:000358969200005
+Author Identifiers:
+
+-----
+Author
+Web of Science ResearcherID
+ORCID Number
+Gan, Woon-Seng 
+A-5151-2011 
+0000-0002-7143-1823 
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+Shi, Chuang 
+ 
+0000-0002-1517-2775 
+ISSN: 0003-682X
+eISSN: 1872-910X
+Record 16 of 50
+Title: ADAPTIVE FEEDBACK ANC SYSTEM USING VIRTUAL MICROPHONES
+Author(s): Miyazaki, N (Miyazaki, Nobuhiro); Kajikawa, Y (Kajikawa, Yoshinobu)
+Book Group Author(s): IEEE
+Source: 2013 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP)  Book Series: International Conference on
+Acoustics Speech and Signal Processing ICASSP  Pages: 383-387  Published: 2013  
+Abstract: In this paper, we apply a virtual sensing technique to a head-mounted ANC system we have already proposed. Adaptive feedback ANC system can
+reduce noise with periodicity or having narrow band components. However, since quiet zones are formed only at the locations of error microphones, an
+adequate noise reduction cannot be achieved at the locations where error microphones cannot be placed. In the head-mounted ANC system, the error
+microphones are placed near the opening of the ear canals. However, the intended locations at which the maximum noise reduction should be achieved are
+near eardrums. Hence, we try to introduce a virtual sensing technique to a head-mounted ANC system to achieve higher noise reduction. Experimental
+results demonstrate that the proposed system can achieve higher noise reduction than the conventional system. Moreover, a subjective assessment result
+demonstrates that the proposed system can also give higher noise reduction to human auditory.
+Accession Number: WOS:000329611500078
+Conference Title: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+Conference Date: MAY 26-31, 2013
+Conference Location: Vancouver, CANADA
+Conference Sponsors: Inst Elect & Elect Engineers, Inst Elect & Elect Engineers Signal Proc Soc
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 1520-6149
+ISBN: 978-1-4799-0356-6
+Record 17 of 50
+Title: HEAD-MOUNTED ACTIVE NOISE CONTROL SYSTEM FOR MR NOISE
+Author(s): Kida, M (Kida, Masahiro); Hirayama, R (Hirayama, Ryotaro); Kajikawa, Y (Kajikawa, Yoshinobu); Tani, T (Tani, Toru); Kurumi, Y (Kurumi, Yoshimasa)
+Book Group Author(s): IEEE
+Source: 2009 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH, AND SIGNAL PROCESSING, VOLS 1- 8, PROCEEDINGS  Book Series: International
+Conference on Acoustics Speech and Signal Processing ICASSP  Pages: 245-+  Published: 2009  
+Abstract: Recently, magnetic resonance imaging (MRI) devices are used in many medical institutions on the grounds of safety and convenience. An open-
+configuration MR system is introduced at Shiga University of Medical Science in order to conduct microwave coagulation therapy by using near-real-time MR
+images. However, this system has a fatal defect. When MRI device works to take images, it also generates serious noises (MR noise). Hence, an operator and
+other medical staff (ex. nurses and anesthetists) suffer from MR noise and cannot communicate with each other during the operation. In this paper, we
+therefore propose a head-mounted ANC system in order to reduce the MR noise, and sonic experimental results demonstrate cancellation performance of
+the system implemented by digital signal processor (DSP).
+Accession Number: WOS:000268919200062
+Conference Title: IEEE International Conference on Acoustics, Speech and Signal Processing
+Conference Date: APR 19-24, 2009
+Conference Location: Taipei, TAIWAN
+Conference Sponsors: IEEE, IEEE Signal Proc Soc
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 1520-6149
+ISBN: 978-1-4244-2353-8
+Record 18 of 50
+Title: Volterra model of the parametric array loudspeaker operating at ultrasonic frequencies
+Author(s): Shi, C (Shi, Chuang); Kajikawa, Y (Kajikawa, Yoshinobu)
+Source: JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA  Volume: 140  Issue: 5  Pages: 3643-3650  DOI: 10.1121/1.4966962  Published: NOV 2016  
+Abstract: The parametric array loudspeaker (PAL) is an application of the parametric acoustic array in air, which can be applied to transmit a narrow audio
+beam from an ultrasonic emitter. However, nonlinear distortion is very perceptible in the audio beam. Modulation methods to reduce the nonlinear
+distortion are available for on-axis far-field applications. For other applications, preprocessing techniques are wanting. In order to develop a preprocessing
+technique with general applicability to a wide range of operating conditions, the Volterra filter is investigated as a nonlinear model of the PAL in this paper.
+Limitations of the standard audio-to-audio Volterra filter are elaborated. An improved ultrasound-to-ultrasound Volterra filter is proposed and empirically
+demonstrated to be a more generic Volterra model of the PAL. (C) 2016 Acoustical Society of America.
+
+-----
+Accession Number: WOS:000391707700032
+PubMed ID: 27908058
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 0001-4966
+eISSN: 1520-8524
+Record 19 of 50
+Title: ON ADAPTIVE SELECTION OF ESTIMATION BANDWIDTH FOR ANALYSIS OF LOCALLY STATIONARY MULTIVARIATE PROCESSES
+Author(s): Niedzwiecki, M (Niedzwiecki, Maciej); Ciolek, M (Ciolek, Marcin); Kajikawa, Y (Kajikawa, Yoshinobu)
+Book Group Author(s): IEEE
+Source: 2016 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING PROCEEDINGS  Book Series: International Conference
+on Acoustics Speech and Signal Processing ICASSP  Pages: 4860-4864  Published: 2016  
+Abstract: When estimating the correlation/spectral structure of a locally stationary process, one should choose the so-called estimation bandwidth, related
+to the effective width of the local analysis window. The choice should comply with the degree of signal nonstationarity. Too small bandwidth may result in an
+excessive estimation bias, while too large bandwidth may cause excessive estimation variance. The paper presents a novel method of adaptive bandwidth
+selection. The proposed approach is based on minimization of the cross-validatory performance measure for a local vector autoregressive signal model and,
+unlike the currently available methods, does not require assignment of any user-dependent decision thresholds.
+Accession Number: WOS:000388373405002
+Conference Title: IEEE International Conference on Acoustics, Speech, and Signal Processing
+Conference Date: MAR 20-25, 2016
+Conference Location: Shanghai, PEOPLES R CHINA
+Conference Sponsors: Inst Elect & Elect Engineers, Inst Elect & Elect Engineers Signal Proc Soc
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 1520-6149
+ISBN: 978-1-4799-9988-0
+Record 20 of 50
+Title: Third-Order Nonlinear IIR Filter for Compensating Nonlinear Distortions of Loudspeaker Systems
+Author(s): Iwai, K (Iwai, Kenta); Kajikawa, Y (Kajikawa, Yoshinobu)
+Source: IEICE TRANSACTIONS ON FUNDAMENTALS OF ELECTRONICS COMMUNICATIONS AND COMPUTER SCIENCES  Volume: E98A  Issue: 3  Pages: 820-
+832  DOI: 10.1587/transfun.E98.A.820  Published: MAR 2015  
+Abstract: In this paper, we propose a 3rd-order nonlinear IIR filter for compensating nonlinear distortions of loudspeaker systems. Nonlinear distortions are
+common around the lowest resonance frequency for electrodynamic loudspeaker systems. One interesting approach to compensating nonlinear distortions
+is to employ a mirror filter. The mirror filter is derived from the nonlinear differential equation for loudspeaker systems. The nonlinear parameters of a
+loudspeaker system, which include the force factor, stiffness, and so forth, depend on the displacement of the diaphragm. The conventional filter structure,
+which is called the 2nd-order nonlinear IIR filter that originates the mirror filter, cannot reduce nonlinear distortions at high frequencies because it does not
+take into account the nonlinearity of the self-inductance of loudspeaker systems. To deal with this problem, the proposed filter takes into account the
+nonlinearity of the self-inductance and has a 3rd-order nonlinear IIR filter structure. Hence, this filter can reduce nonlinear distortions at high frequencies
+while maintaining a lower computational complexity than that of a Volterra filter-based compensator. Experimental results demonstrate that the proposed
+filter outperforms the conventional filter by more than 2 dB for 2nd-order nonlinear distortions at high frequencies.
+Accession Number: WOS:000359464800003
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 1745-1337
+Record 21 of 50
+Title: MULTI-CHANNEL ANC SYSTEM USING OPTIMIZED REFERENCE MICROPHONES BASED ON TIME DIFFERENCE OF ARRIVAL
+Author(s): Hase, S (Hase, Satoru); Kajikawa, Y (Kajikawa, Yoshinobu); Liu, LC (Liu, Lichuan); Kuo, SM (Kuo, Sen M.)
+Book Group Author(s): IEEE
+Source: 2015 23RD EUROPEAN SIGNAL PROCESSING CONFERENCE (EUSIPCO)  Book Series: European Signal Processing Conference  Pages: 305-
+309  Published: 2015  
+Abstract: Feedforward active noise control (ANC) system using upstream reference signal can reduce various noises such as broadband noise by arranging a
+reference microphone close to a noise source. However, the performance of ANC system deteriorates if the noise environment such as the arrival direction is
+changed. This is because of the causality constraint that the unwanted noise propagates to the control point faster than the "antinoise" to cancel the
+unwanted noise. To solve this problem, we propose an ANC system that estimates the arrival direction of noise using multiple reference microphones placed
+around the control point, This system uses a tune difference of arrival technique to estimate noise source location and then optimize reference signal. Noise
+reduction performances are examined through some simulations in this paper.
+Accession Number: WOS:000377943800062
+
+-----
+Conference Title: 23rd European Signal Processing Conference (EUSIPCO)
+Conference Date: AUG 31-SEP 04, 2015
+Conference Location: Nice, FRANCE
+Conference Sponsors: EURECOM
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 2076-1465
+ISBN: 978-0-9928-6263-3
+Record 22 of 50
+Title: IDENTIFICATION OF THE PARAMETRIC ARRAY LOUDSPEAKER WITH A VOLTERRA FILTER USING THE SPARSE NLMS ALGORITHM
+Author(s): Shi, C (Shi, Chuang); Kajikawa, Y (Kajikawa, Yoshinobu)
+Book Group Author(s): IEEE
+Source: 2015 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH, AND SIGNAL PROCESSING (ICASSP)  Book Series: International Conference on
+Acoustics Speech and Signal Processing ICASSP  Pages: 3372-3376  Published: 2015  
+Abstract: Volterra filters can be applied to a wide range of nonlinear systems, keeping only the low order kernels to yield a good approximation. The
+parametric array loudspeaker (PAL), as a weak nonlinear acoustic system, is an attractive directional sound reproduction device. Volterra filters have been
+adopted in the linearization system of the PAL that efficiently reduces the nonlinear distortion with no need of solving the nonlinear acoustic equation. In this
+paper, the ultrasound-to-ultrasound Volterra filter is proposed, being inspired by the nonlinear acoustic principle, to provide a better systematic
+representation of the PAL. Experiment results are presented to prove the effectiveness of the proposed approach, where the sparse NLMS algorithm is carried
+out in the identification.
+Accession Number: WOS:000427402903097
+Conference Title: 40th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+Conference Date: APR 19-24, 2015
+Conference Location: Brisbane, AUSTRALIA
+Conference Sponsors: IEEE, Inst Elect & Elect Engineers Signal Proc Soc
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Shi, Chuang 
+ 
+0000-0002-1517-2775 
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 1520-6149
+ISBN: 978-1-4673-6997-8
+Record 23 of 50
+Title: Linearization method based on multiple loudspeaker systems
+Author(s): Kajikawa, Y (Kajikawa, Yoshinobu)
+Source: ACOUSTICAL SCIENCE AND TECHNOLOGY  Volume: 32  Issue: 5  Pages: 220-223  DOI: 10.1250/ast.32.220  Published: 2011  
+Accession Number: WOS:000445549100008
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 1346-3969
+eISSN: 1347-5177
+Record 24 of 50
+Title: Acoustic echo cancellation using sub-adaptive filter
+Author(s): Ohta, S (Ohta, Satoshi); Kajikawa, Y (Kajikawa, Yoshinobu); Nomura, Y (Nomura, Yasuo)
+Book Group Author(s): IEEE
+Source: 2007 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH, AND SIGNAL PROCESSING, VOL I, PTS 1-3, PROCEEDINGS  Book Series:
+International Conference on Acoustics Speech and Signal Processing (ICASSP)  Pages: 85-88  Published: 2007  
+Abstract: In this paper, we propose an acoustic echo cancellation (AEC) using a sub-adaptive filter. In the AEC, the step-size parameter of the adaptive filter
+must be varied according to the situations where a double talk and an echo path change occur. The proposed AEC can appropriately control the step-size
+parameter even if the double talk and the echo path change simultaneously occur because the optimal step-size parameter can be obtained according to the
+output of the sub-adaptive filter and the echo path change detector is controlled through the double talk detector. Hence, the proposed AEC can realize
+superior convergence property to the conventional one. Simulation results demonstrate that the proposed AEC can achieve higher ERLE and faster
+convergence than the conventional one.
+Accession Number: WOS:000249040000022
+Conference Title: 32nd IEEE International Conference on Acoustics, Speech and Signal Processing
+Conference Date: APR 15-20, 2007
+Conference Location: Honolulu, HI
+Conference Sponsors: IEEE Signal Proc Soc
+
+-----
+ISSN: 1520-6149
+ISBN: 978-1-4244-0728-6
+Record 25 of 50
+Title: Effect of the ultrasonic emitter on the distortion performance of the parametric array loudspeaker
+Author(s): Shi, C (Shi, Chuang); Kajikawa, Y (Kajikawa, Yoshinobu)
+Source: APPLIED ACOUSTICS  Volume: 112  Pages: 108-115  DOI: 10.1016/j.apacoust.2016.05.013  Published: NOV 2016  
+Abstract: The parametric array loudspeaker (PAL) is a type of directional loudspeaker that utilizes the nonlinear acoustic effect to create the audible sound in
+an ultrasonic beam. Due to this unusual sound principle, it is inevitable that nonlinear distortion is incurred in the sound transmission of the PAL. Numerous
+modulation methods aiming to reduce the nonlinear distortion have been developed on the basis of the Berktay's far-field solution, but they o�en perform in
+an unexpected manner. The degraded practical performance has been credited to the inaccuracy of the Berktay's far-field solution. In this paper, we
+demonstrate the effect of the ultrasonic emitter on the distortion performance of the PAL and suggest that the Berktay's far-field solution remains to be a
+good model equation. (C) 2016 Elsevier Ltd. All rights reserved.
+Accession Number: WOS:000380416900012
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+Shi, Chuang 
+ 
+0000-0002-1517-2775 
+ISSN: 0003-682X
+eISSN: 1872-910X
+Record 26 of 50
+Title: AUTOMATIC GAIN CONTROL FOR PARAMETRIC ARRAY LOUDSPEAKERS
+Author(s): Shi, C (Shi, Chuang); Kajikawa, Y (Kajikawa, Yoshinobu)
+Book Group Author(s): IEEE
+Source: 2016 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING PROCEEDINGS  Book Series: International Conference
+on Acoustics Speech and Signal Processing ICASSP  Pages: 589-593  Published: 2016  
+Abstract: Parametric array loudspeaker (PAL) modulates the audio input on an ultrasonic carrier and relies on airborne nonlinear acoustic effects to generate
+the audible sound output. The sound output is mainly confined in the beam of the ultrasonic carrier and thus shows a pronounced directivity. There are
+three parameters that together influence the output volume of a PAL. They are the input level, modulation index, and ultrasound level. In existing PALs, the
+volume knob is associated with the ultrasound level, while the modulation index is either fixed in the circuit or rarely adjustable by another knob. In this
+paper, an automatic gain control is proposed to improve the sound quality of the PAL by minimizing the modulation index, maintaining the output-to-input
+ratio, and ensuring the ultrasound level within the safety range. Simulation and measurement results validate that the proposed approach leads to a
+reduction in the average total harmonic distortion (THD) level by more than one third for all the tested modulation methods.
+Accession Number: WOS:000388373400119
+Conference Title: IEEE International Conference on Acoustics, Speech, and Signal Processing
+Conference Date: MAR 20-25, 2016
+Conference Location: Shanghai, PEOPLES R CHINA
+Conference Sponsors: Inst Elect & Elect Engineers, Inst Elect & Elect Engineers Signal Proc Soc
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+Shi, Chuang 
+ 
+0000-0002-1517-2775 
+ISSN: 1520-6149
+ISBN: 978-1-4799-9988-0
+Record 27 of 50
+Title: SYNTHESIS OF VOLTERRA FILTERS FOR THE PARAMETRIC ARRAY LOUDSPEAKER
+Author(s): Shi, C (Shi, Chuang); Kajikawa, Y (Kajikawa, Yoshinobu)
+Book Group Author(s): IEEE
+Source: 2016 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING PROCEEDINGS  Book Series: International Conference
+on Acoustics Speech and Signal Processing ICASSP  Pages: 4229-4233  Published: 2016  
+Abstract: The ultrasound-to-ultrasound Volterra filter (U2VF), which was previously proposed to represent the nonlinear response of the parametric array
+loudspeaker (PAL), identifies the PAL as a nonlinear system that uses ultrasonic signals as its input. It has been proven that the U2VF is a more generic model
+as compared to the audio-to-audio Volterra filter (A2VF), when the modulation method is adaptive or the input is time varying. However, there is no explicit
+solution to a linearization system based on the U2VF. Therefore, this paper proposes a synthesis method to extract A2VFs from the U2VF based on the parallel
+cascade structure. The mature technique of building a linearization system based on the A2VF can hence be adapted to consort with the U2VF.
+Accession Number: WOS:000388373404075
+Conference Title: IEEE International Conference on Acoustics, Speech, and Signal Processing
+Conference Date: MAR 20-25, 2016
+Conference Location: Shanghai, PEOPLES R CHINA
+Conference Sponsors: Inst Elect & Elect Engineers, Inst Elect & Elect Engineers Signal Proc Soc
+Author Identifiers:
+
+-----
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+Shi, Chuang 
+ 
+0000-0002-1517-2775 
+ISSN: 1520-6149
+ISBN: 978-1-4799-9988-0
+Record 28 of 50
+Title: A LINEARIZATION SYSTEM FOR PARAMETRIC ARRAY LOUDSPEAKERS USING THE PARALLEL CASCADE VOLTERRA FILTER
+Author(s): Hatano, Y (Hatano, Yuta); Shi, C (Shi, Chuang); Kinoshita, S (Kinoshita, Satoshi); Kajikawa, Y (Kajikawa, Yoshinobu)
+Book Group Author(s): IEEE
+Source: 2015 23RD EUROPEAN SIGNAL PROCESSING CONFERENCE (EUSIPCO)  Book Series: European Signal Processing Conference  Pages: 1068-
+1072  Published: 2015  
+Abstract: The parametric array loudspeaker (PAL) is well known for its ability to radiate a narrow sound beam from a relatively small ultrasonic emitter.
+Nonlinear distortions commonly occur in the self-demodulated sound of the PAL. Based on the Volterra filter modeling the self-demodulation process of the
+PAL, a linearization system can be developed for the PAL. However, the computational complexity of the Volterra filter increases dramatically with the tap
+length. In this paper, the parallel cascade structure is adopted to implement the Volterra filter. The experiment results demonstrate that the computational
+complexity of the Volterra filter is significantly reduced by using the parallel cascade structure, and based on such an implementation of the Volterra filter,
+the performance of the linearization system is not compromised.
+Accession Number: WOS:000377943800215
+Conference Title: 23rd European Signal Processing Conference (EUSIPCO)
+Conference Date: AUG 31-SEP 04, 2015
+Conference Location: Nice, FRANCE
+Conference Sponsors: EURECOM
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Shi, Chuang 
+ 
+0000-0002-1517-2775 
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 2076-1465
+ISBN: 978-0-9928-6263-3
+Record 29 of 50
+Title: Multi-channel Feedforward ANC System Combined with Noise Source Separation
+Author(s): Kinoshita, S (Kinoshita, Satoshi); Kajikawa, Y (Kajikawa, Yoshinobu)
+Book Group Author(s): IEEE
+Source: 2015 ASIA-PACIFIC SIGNAL AND INFORMATION PROCESSING ASSOCIATION ANNUAL SUMMIT AND CONFERENCE (APSIPA)  Book Series: Asia-Pacific
+Signal and Information Processing Association Annual Summit and Conference  Pages: 379-383  Published: 2015  
+Abstract: In this paper, we examine the effectiveness of Multi-channel feedforward active noise control (ANC) system combined with noise source separation
+through some simulations. Multi-channel feedforward ANC system can reduce various noise such as the broad-band noise by arranging the reference
+microphones close to noise sources. However, the performance of ANC system deteriorates when the reference microphones cannot be arranged close to
+noise sources because each microphone catches undesired noise in addition to desired noise. The proposed system separates noises by using microphone
+arrays as reference microphones and the separated signals are used as the reference signals of the ANC system. In simulation results, the proposed system
+can improve the noise reduction performance in case where the ANC system uses two reference microphones and the reference microphones do not need to
+be arranged close to the noise sources.
+Accession Number: WOS:000382954100077
+Conference Title: Asia-Pacific-Signal-and-Information-Processing-Association Annual Summit and Conference (APSIPA ASC)
+Conference Date: DEC 16-19, 2015
+Conference Location: Hong Kong, PEOPLES R CHINA
+Conference Sponsors: Asia Pacific Signal & Informat Proc Assoc
+ISSN: 2309-9402
+ISBN: 978-988-14768-0-7
+Record 30 of 50
+Title: ESTIMATION OF NONSTATIONARY HARMONIC SIGNALS AND ITS APPLICATION TO ACTIVE CONTROL OF MRI NOISE
+Author(s): Niedzwiecki, M (Niedzwiecki, Maciej); Meller, M (Meller, Michal); Kajikawa, Y (Kajikawa, Yoshinobu); Lukwinski, D (Lukwinski, Dawid)
+Book Group Author(s): IEEE
+Source: 2013 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP)  Book Series: International Conference on
+Acoustics Speech and Signal Processing ICASSP  Pages: 5661-5665  Published: 2013  
+Abstract: A new adaptive comb filtering algorithm, capable of tracking the fundamental frequency and amplitudes of different frequency components of a
+nonstationary harmonic signal embedded in white measurement noise, is proposed. Frequency tracking characteristics of the new scheme are studied
+analytically, proving (under Gaussian assumptions and optimal tuning) its statistical efficiency for quasi-linear frequency changes. Laboratory tests show
+that the proposed algorithm can be successfully used for active control of MRI noise.
+Accession Number: WOS:000329611505166
+Conference Title: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+Conference Date: MAY 26-31, 2013
+Conference Location: Vancouver, CANADA
+
+-----
+Conference Sponsors: Inst Elect & Elect Engineers, Inst Elect & Elect Engineers Signal Proc Soc
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 1520-6149
+ISBN: 978-1-4799-0356-6
+Record 31 of 50
+Title: An Active Noise Control System Using DXHS Algorithm for MR Noise
+Author(s): Kumamoto, M (Kumamoto, Masafumi); Kida, M (Kida, Masahiro); Hirayama, R (Hirayama, Ryotaro); Kajikawa, Y (Kajikawa, Yoshinobu); Tani, T (Tani,
+Toru); Kurumi, Y (Kurumi, Yoshimasa)
+Book Group Author(s): IEEE
+Source: 2009 INTERNATIONAL SYMPOSIUM ON INTELLIGENT SIGNAL PROCESSING AND COMMUNICATION SYSTEMS (ISPACS 2009)  Pages: 69-+  DOI:
+10.1109/ISPACS.2009.5383900  Published: 2009  
+Abstract: Recently, magnetic resonance imaging (MRI) devices are used in many medical institutions on the grounds of safety and convenience. An open-
+configuration MR system is introduced at Shiga University of Medical Science in order to conduct microwave coagulation therapy by using near-real-time MR
+images. However, this system has a fatal defect. The MRI device generates serious acoustic noises (MR noise) during operation. Hence, surgeons and other
+medical staff (e.g. nurses and anesthetists) suffer from MR noise and cannot communicate with each other during operation. In this paper, therefore, we
+study an active noise control (ANC) system using delayed-x harmonics synthesizer (DXHS) algorithm in order to reduce the MR noise. Some simulation results
+demonstrate the effectiveness of the system.
+Accession Number: WOS:000289915800018
+Conference Title: International Symposium on Intelligent Signal Processing and Communication Systems
+Conference Date: DEC 07-09, 2009
+Conference Location: Kanazawa, JAPAN
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISBN: 978-1-4244-5015-2
+Record 32 of 50
+Title: Acoustic echo cancellation using sub-adaptive filter
+Author(s): Ohta, S (Ohta, Satoshi); Kajikawa, Y (Kajikawa, Yoshinobu); Nomura, Y (Nomura, Yasuo)
+Source: IEICE TRANSACTIONS ON FUNDAMENTALS OF ELECTRONICS COMMUNICATIONS AND COMPUTER SCIENCES  Volume: E91A  Issue: 4  Pages: 1155-
+1161  DOI: 10.1093/ietfec/e91-a.4.1155  Published: APR 2008  
+Abstract: In the acoustic echo canceller (AEC), the step-size parameter of the adaptive filter must be varied according to the situation if double talk occurs
+and/or the echo path changes. We propose an AEC that uses a sub-adaptive filter. The proposed AEC can control the step-size parameter according to the
+situation. Moreover, it offers superior convergence compared to the conventional AEC even when the double talk and the echo path change occur
+simultaneously. Simulations demonstrate that the proposed AEC can achieve higher ERLE and faster convergence than the conventional AEC. The
+computational complexity of the proposed AEC can be reduced by reducing the number of taps of the sub-adaptive filter.
+Accession Number: WOS:000255647700030
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 1745-1337
+Record 33 of 50
+Title: Improvement of the stability and cancellation performance for the active noise control system using the simultaneous perturbation method
+Author(s): Tokoro, Y (Tokoro, Yukinobu); Kajikawa, Y (Kajikawa, Yoshinobu); Nomura, Y (Nomura, Yasuo)
+Source: IEICE TRANSACTIONS ON FUNDAMENTALS OF ELECTRONICS COMMUNICATIONS AND COMPUTER SCIENCES  Volume: E90A  Issue: 8  Pages: 1555-
+1563  DOI: 10.1093/ietfec/e90-a.8.1555  Published: AUG 2007  
+Abstract: In this paper, we propose the introduction of a frequency domain variable perturbation control and a leaky algorithm to the frequency domain
+time difference simultaneous perturbation (FDTDSP) method in order to improve the cancellation performance and the stability of the active noise control
+(ANC) system using the perturbation method. Since the ANC system using the perturbation method does not need the secondary path model, it has an
+advantage of being able to track the secondary path changes. However, the conventional perturbation method has the problem that the cancellation
+performance deteriorates over the entire frequency band when the frequency response of the secondary path has dips because the magnitude of the
+perturbation is controlled in the time domain. Moreover, the stability of this method also deteriorates in consequence of the dips. On the other hand, the
+proposed method can improve the cancellation performance by providing the appropriate magnitude of the perturbation over the entire frequency band
+and stabilizing the system operation. The effectiveness of the proposed method is demonstrated through simulation and experimental results.
+Accession Number: WOS:000248934200009
+Conference Title: 21st Symposium on Signal Processing
+Conference Date: NOV 15-17, 2006
+Conference Location: Kyoto, JAPAN
+Conference Sponsors: IEICE, Signal Proc Tech Grp
+
+-----
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 1745-1337
+Record 34 of 50
+Title: An acoustic echo cancellation using subadaptive filter
+Author(s): Otani, M (Otani, Masayuki); Kajikawa, Y (Kajikawa, Yoshinobu); Nomura, Y (Nomura, Yasuo)
+Source: ELECTRONICS AND COMMUNICATIONS IN JAPAN PART III-FUNDAMENTAL ELECTRONIC SCIENCE  Volume: 90  Issue: 2  Pages: 9-21  DOI:
+10.1002/ecjc.20231  Published: 2007  
+Abstract: In this paper, a method using a subadaptive filter playing the supplementary role of acoustic echo cancellation is discussed. Since the updating
+state of the adaptive filter can be calculated approximately as a characteristic of the subadaptive filter, the step size parameter can be optimally controlled
+depending on the estimation accuracy. Also, for prevention of echo path variation, we discuss a variable detector in which the variation of the filter
+coefficients at the time of variation is considered. The proposed method is found to be robust to channel variations and can improve the ERLE by 10 to 15 dB
+in comparison with the conventional method. (C) 2006 Wiley Periodicals, Inc. Electron Comm Jpn Pt 3, 90(2): 9-21, 2007;
+Accession Number: WOS:000241645200002
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 1042-0967
+Record 35 of 50
+Title: Multichannel feedforward active noise control system combined with noise source separation by microphone arrays
+Author(s): Iwai, K (Iwai, Kenta); Kinoshita, S (Kinoshita, Satoshi); Kajikawa, Y (Kajikawa, Yoshinobu)
+Source: JOURNAL OF SOUND AND VIBRATION  Volume: 453  Pages: 151-173  DOI: 10.1016/j.jsv.2019.04.016  Published: AUG 4 2019  
+Abstract: In this paper, we propose a multichannel active noise control (ANC) system combined with noise source separation by microphone arrays. A
+multichannel feedforward ANC system uses multiple reference microphones located close to noise sources and can reduce various acoustic noises such as
+broadband noise. In general, it is difficult to place the reference microphones close to the noise sources owing to physical constraints. In this case, the
+reference signals, which are the outputs of reference microphones, are highly correlated with each other, the noise reduction performance of the
+multichannel ANC system is degraded. In other words, the reference microphones detect the highly correlated noises, reducing the noise reduction ability of
+the ANC system. To solve this problem, a multichannel feedforward ANC system with a noise source separation technique is proposed. This system uses
+microphone arrays located at the reference microphone positions. The mixed signal is separated from the target noise and other components by noise
+source separation and the separated signals are used to update the noise control filters. Simulation results demonstrate that the proposed ANC system can
+separate the target noise and the disturbance noise and effectively reduce the target noise. (C) 2019 Elsevier Ltd. All rights reserved.
+Accession Number: WOS:000467388700009
+ISSN: 0022-460X
+eISSN: 1095-8568
+Record 36 of 50
+Title: Statistical-Mechanics Approach to Theoretical Analysis of the FXLMS Algorithm
+Author(s): Miyoshi, S (Miyoshi, Seiji); Kajikawa, Y (Kajikawa, Yoshinobu)
+Source: IEICE TRANSACTIONS ON FUNDAMENTALS OF ELECTRONICS COMMUNICATIONS AND COMPUTER SCIENCES  Volume: E101A  Issue: 12  Pages: 2419-
+2433  DOI: 10.1587/transfun.E101.A.2419  Published: DEC 2018  
+Abstract: We analyze the behaviors of the FXLMS algorithm using a statistical-mechanical method. The cross-correlation between a primary path and an
+adaptive filter and the autocorrelation of the adaptive filter are treated as macroscopic variables. We obtain simultaneous differential equations that
+describe the dynamical behaviors of the macroscopic variables under the condition that the tapped-delay line is sufficiently long. The obtained equations
+are deterministic and closed-form. We analytically solve the equations to obtain the correlations and finally compute the mean-square error. The obtained
+theory can quantitatively predict the behaviors of computer simulations including the cases of both not only white but also nonwhite reference signals. The
+theory also gives the upper limit of the step size in the FXLMS algorithm.
+Accession Number: WOS:000451763000055
+ISSN: 1745-1337
+Record 37 of 50
+Title: Multichannel Feedforward Active Noise Control System with Optimal Reference Microphone SelectorBased on Time Difference of Arrival
+Author(s): Iwai, K (Iwai, Kenta); Hase, S (Hase, Satoru); Kajikawa, Y (Kajikawa, Yoshinobu)
+Source: APPLIED SCIENCES-BASEL  Volume: 8  Issue: 11  Article Number: 2291  DOI: 10.3390/app8112291  Published: NOV 2018  
+Abstract: In this paper, we propose a multichannel active noise control (ANC) system with an optimal reference microphone selector based on the time
+difference of arrival (TDOA). A multichannel feedforward ANC system using upstream reference signals can reduce various noises such as broadband noise by
+arranging reference microphones close to noise sources. However, the noise reduction performance of an ANC system degrades when the noise environment
+changes, such as the arrival direction. This is because some reference microphones do not satisfy the causality constraint that the unwanted noise
+propagates to the control point faster than the anti-noise used to cancel the unwanted noise. To solve this problem, we propose a multichannel ANC system
+with an optimal reference microphone selector. This selector chooses the reference microphones that satisfy the causality constraint based on the TDOA.
+Some experimental results demonstrate that the proposed system can choose the optimal reference microphones and effectively reduce unwanted acoustic
+noise.
+Accession Number: WOS:000451302800281
+
+-----
+ISSN: 2076-3417
+Record 38 of 50
+Title: Modified second-order nonlinear infinite impulse response (IIR) filter for equalizing frequency response and compensating nonlinear distortions of
+electrodynamic loudspeaker
+Author(s): Iwai, K (Iwai, Kenta); Kajikawa, Y (Kajikawa, Yoshinobu)
+Source: APPLIED ACOUSTICS  Volume: 132  Pages: 202-209  DOI: 10.1016/j.apacoust.2017.11.014  Published: MAR 2018  
+Abstract: In this paper, we propose a modified second-order nonlinear infinite impulse response (IIR) filter for equalizing the frequency response and
+compensating nonlinear distortions of an electrodynamic loudspeaker. A problem of electrodynamic loudspeakers is the generation of nonlinear distortions,
+which degrade the sound quality. One of the approaches to reducing nonlinear distortions is to use a second-order nonlinear IIR filter. This filter is based on
+an equivalent circuit model of an electrodynamic loudspeaker and its coefficients are determined by physical parameters. However, it is difficult to
+compensate nonlinear distortions when a loudspeaker has a high Q factor at the lowest resonance frequency, at which the displacement of the diaphragm
+and nonlinear distortions become large. The Q factor determines the linear frequency response of the electrodynamic loudspeaker. Although it is necessary
+to compensate the Q factor of the loudspeaker, a nonlinear IIR filter cannot compensate the Q factor because it does not have a linear filtering feature. In this
+paper, we propose a modified second-order nonlinear IIR filter that can not only compensate the nonlinear distortions caused by the nonlinearities of the
+force factor and stiffness but also equalize the frequency response by employing the linear characteristics of the loudspeaker with the desired Q factor.
+Experimental results show that the proposed filter can compensate the linear and nonlinear distortions more effectively than a conventional filter.
+Accession Number: WOS:000423639000020
+ISSN: 0003-682X
+eISSN: 1872-910X
+Record 39 of 50
+Title: Automatic Design Support System for Compact Acoustic Devices Using Deep Neural Network
+Author(s): Hirai, K (Hirai, Kai); Nakamura, K (Nakamura, Kai); Kajikawa, Y (Kajikawa, Yoshinobu); Iwai, K (Iwai, Kenta)
+Book Group Author(s): IEEE
+Source: 2018 IEEE 7TH GLOBAL CONFERENCE ON CONSUMER ELECTRONICS (GCCE 2018)  Book Series: IEEE Global Conference on Consumer
+Electronics  Pages: 652-655  Published: 2018  
+Abstract: An appropriate acoustic structure with a desired frequency response is rarely obtained through the acoustic equivalent circuit analysis in the case
+of compact acoustic devices. Thus, skilled acoustic engineers must design structures based on their know-how, and the time and cost are increased.
+Therefore, we propose an automatic design support system for compact acoustic devices introducing deep neural network. In the proposed system, the
+acoustic characteristics of candidate structures are analyzed by the acoustic FDTD method and an optimal candidate is obtained by learned deep neural
+network. We demonstrate the effectiveness of the proposed system through some comparisons between desired and designed frequency responses.
+Accession Number: WOS:000459859500225
+Conference Title: IEEE 7th Global Conference on Consumer Electronics (GCCE)
+Conference Date: OCT 09-12, 2018
+Conference Location: Nara, JAPAN
+Conference Sponsors: IEEE
+ISSN: 2378-8143
+ISBN: 978-1-5386-6309-7
+Record 40 of 50
+Title: A PARTIAL-UPDATE MINIMAX ALGORITHM FOR PRACTICAL IMPLEMENTATION OF MULTI-CHANNEL FEEDFORWARD ACTIVE NOISE CONTROL
+Author(s): Shi, C (Shi, Chuang); Kajikawa, Y (Kajikawa, Yoshinobu)
+Book Group Author(s): IEEE
+Source: 2018 16TH INTERNATIONAL WORKSHOP ON ACOUSTIC SIGNAL ENHANCEMENT (IWAENC)  Book Series: International Workshop on Acoustic Signal
+Enhancement  Pages: 11-15  Published: 2018  
+Abstract: In the implementation of a multi-channel feedforward active noise control (ANC) system, the standard FxLMS algorithm demands too much
+computational power to be real-time processed by a low-cost digital processor. Therefore, various algorithms have been proposed to reduce their
+computational complexity by modifying the cost function and introducing the partial update (P-U). This paper proposes a new P-U minimax algorithm, which
+minimizes the uniform-norm instead of the 2-norm of the error signals and updates the filtered reference signals partially. The P-U minimax algorithm is
+compared with existing algorithms based on an experimental setup of a case (1, 4, 8) ANC system. The proposed P-U minimax algorithm is validated to be
+efficient and outperform the scanning error and mixed-error algorithms with the same degree of computational complexity.
+Accession Number: WOS:000458323900003
+Conference Title: 16th International Workshop on Acoustic Signal Enhancement (IWAENC)
+Conference Date: SEP 17-20, 2018
+Conference Location: Tokyo, JAPAN
+Conference Sponsors: Ichimura Fdn New Technol, Tateisi Sci & Technol Fdn, Yahoo! Japan, Google, Microso�, Adobe, Hitachi, Dialog Semiconductor,
+Support Ctr Adv Telecommun Technol Res, mhacoustics, RION, IEEE, IEEE Signal Proc Soc, EiC, Informat Proc Soc Japan
+ISSN: 2639-4316
+ISBN: 978-1-5386-8151-0
+Record 41 of 50
+Title: Automatic Speech Translation System Selecting Target Language by Direction-of-Arrival Information
+Author(s): Tsujikawa, M (Tsujikawa, Masanori); Okabe, K (Okabe, Koji); Hanazawa, K (Hanazawa, Ken); Kajikawa, Y (Kajikawa, Yoshinobu)
+Book Group Author(s): IEEE
+Source: 2018 26TH EUROPEAN SIGNAL PROCESSING CONFERENCE (EUSIPCO)  Book Series: European Signal Processing Conference  Pages: 2315-
+2319  Published: 2018  
+
+-----
+Abstract: In this paper, we propose an automatic speech translation system that selects its target language on the basis of the direction-of-arrival (DOA)
+information. The system uses two microphones to detect speech signals arriving from specific directions. The target language for speech recognition is
+selected on the basis of the DOA. Both the speech detection and target language selection relieves users from operations normally required for individual
+utterances, without serious increase in computational costs. In a speech-recognition evaluation of the proposed system, 80% word accuracy was achieved
+for utterances recorded with two microphones that were 40cm distant from speaker positions. This accuracy is nearly equivalent to that in which the time
+frame and target language of a user's speech are given in advance.
+Accession Number: WOS:000455614900465
+Conference Title: European Signal Processing Conference (EUSIPCO)
+Conference Date: AUG 03-07, 2018
+Conference Location: Rome, ITALY
+Conference Sponsors: European Assoc Signal Processing, IEEE Signal Processing Soc, ROMA TRE Univ Degli Studi, MathWorks, Amazon Devices
+ISSN: 2076-1465
+ISBN: 978-90-827970-1-5
+Record 42 of 50
+Title: Compensation for Nonlinear Distortion of the Frequency Modulation-Based Parametric Array Loudspeaker
+Author(s): Hatano, Y (Hatano, Yuta); Shi, C (Shi, Chuang); Kajikawa, Y (Kajikawa, Yoshinobu)
+Source: IEEE-ACM TRANSACTIONS ON AUDIO SPEECH AND LANGUAGE PROCESSING  Volume: 25  Issue: 8  Pages: 1709-1717  DOI:
+10.1109/TASLP.2017.2705280  Published: AUG 2017  
+Abstract: The parametric array loudspeaker (PAL) modulates the audio signal on an ultrasonic carrier. When the modulated signal is transmitted in air, an
+audio beam is created based on the nonlinear acoustic principle. Each modulation method has advantages and disadvantages. The frequency modulation
+(FM) is favorable for its low cost and high volume, but the tradeoff is its complicated nonlinear distortion, which is difficult to be reduced. In this paper, the
+Volterra filter is adopted to model the nonlinearity of the FM-based PAL. A novel complex inverse system is devised to effectively reduce the nonlinear
+distortion. Three practical aspects are addressed. First, the computational complexity of the Volterra filter is reduced by the parallel cascade structure with
+almost no compromise to the model accuracy. Second, Volterra filters are identified at discrete input levels to treat the nonlinearity that keeps changing with
+the time-varying audio input. Third, when the input level is high, a separation approach is proposed to refine the identified Volterra filters, which eventually
+improves the performance of the proposed inverse system.
+Accession Number: WOS:000405376400001
+ISSN: 2329-9290
+Record 43 of 50
+Title: Statistical-Mechanical Analysis of LMS Algorithm for Time-Varying Unknown System
+Author(s): Ishibushi, N (Ishibushi, Norihiro); Kajikawa, Y (Kajikawa, Yoshinobu); Miyoshi, S (Miyoshi, Seiji)
+Source: JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN  Volume: 86  Issue: 2  Article Number: 024803  DOI: 10.7566/JPSJ.86.024803  Published: FEB 15
+2017  
+Abstract: We analyze the behaviors of the least-mean-square algorithm for a time-varying unknown system using a statistical-mechanical method. Cross-
+correlations between the elements of a primary path and those of an adaptive filter and autocorrelations of the elements of the adaptive filter are treated as
+macroscopic variables. We obtain simultaneous differential equations that describe the dynamical behaviors of the macroscopic variables under conditions
+in which the tapped delay line is sufficiently long. We analytically show the existence of an optimal step size. This result is supporting evidence of Widrow et
+al.' s pioneering work that clarified the trade-off between the noise misadjustment and the lag misadjustment. Furthermore, we obtain the exact solution of
+the optimal step size in the case of a white reference signal. The derived theory includes the behaviors for a time-constant unknown system as a special case.
+Accession Number: WOS:000393183600017
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Miyoshi, Seiji 
+C-7406-2013 
+ 
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 0031-9015
+Record 44 of 50
+Title: A Personal Authentication System Based on Pinna Related Transfer Function
+Author(s): Higashiguchi, Y (Higashiguchi, Yutaka); Kajikawa, Y (Kajikawa, Yoshinobu); Kita, S (Kita, Shunsuke)
+Book Group Author(s): IEEE
+Source: 2017 INTERNATIONAL CONFERENCE ON BIOMETRICS AND KANSEI ENGINEERING (ICBAKE)  Pages: 123-126  Published: 2017  
+Abstract: In the personal authentication using acoustic properties of ear canal (pinna related transfer function) by previous study, the high authentication
+rate was obtained in the case of using the earphone and the headphone. On the other hand, in the case of using mobile phone, which does not cover the
+outer ear or canal, the authentication rate is lower than that of other devices. However, the mobile phone does not require any other equipment for
+measuring acoustic properties because micro speaker and microphone are built in. This is an important point for the highly convenient authentication
+system using the pinna related transfer function. In this paper, the authors investigate authentication rate using the pinna related transfer function measured
+by the mobile phone.
+Accession Number: WOS:000425893800025
+Conference Title: International Conference on Biometrics and Kansei Engineering (ICBAKE)
+Conference Date: SEP 15-17, 2017
+Conference Location: Kyoto, JAPAN
+ISBN: 978-1-5386-3401-1
+Record 45 of 50
+Title: Effectiveness of Headrest ANC System with Virtual Sensing Technique for Factory Noise
+
+-----
+Author(s): Hirose, S (Hirose, Shun); Kajikawa, Y (Kajikawa, Yoshinobu)
+Book Group Author(s): IEEE
+Source: 2017 ASIA-PACIFIC SIGNAL AND INFORMATION PROCESSING ASSOCIATION ANNUAL SUMMIT AND CONFERENCE (APSIPA ASC 2017)  Book Series:
+Asia-Pacific Signal and Information Processing Association Annual Summit and Conference  Pages: 464-468  Published: 2017  
+Abstract: In this paper, we examine the effectiveness of headrest active noise control (ANC) system with the virtual sensing technique for factory noise. In
+recent years, the development of various industrial devices has caused acoustic noise problems related to factory machines. Although the noise canceling
+headphones and earphones can reduce factory noise, but they prevent verbal communications and give uncomfortable feeling, so headrest ANC systems
+becomes one of candidates for this kind of situations. However, the headrest ANC system has a problem that the zone of quiet (ZoQ) cannot be formed
+around desired locations (e.g. ears) because the ZoQ is generally formed around error microphones located into the headrest which are far from the desired
+locations. Therefore, we have developed a headrest ANC system with virtual sensing technique. In this paper, we investigate the effectiveness of the
+proposed headrest ANC system through real world experiments. As a result, it is found that the proposed headrest ANC system can reduce unwanted factory
+noise more than 30 dB at the desired locations compared with the conventional system (without virtual sensing technique).
+Accession Number: WOS:000425879400083
+Conference Title: 9th Annual Summit and Conference of the Asia-Pacific-Signal-and-Information-Processing-Association (APSIPA ASC)
+Conference Date: DEC 12-15, 2017
+Conference Location: Kuala Lumpur, MALAYSIA
+ISSN: 2309-9402
+ISBN: 978-1-5386-1542-3
+Record 46 of 50
+Title: Modification of Second-Order Nonlinear IIR Filter for Compensating Linear and Nonlinear Distortions of Electrodynamic Loudspeaker
+Author(s): Iwai, K (Iwai, Kenta); Kajikawa, Y (Kajikawa, Yoshinobu)
+Book Group Author(s): IEEE
+Source: 2017 25TH EUROPEAN SIGNAL PROCESSING CONFERENCE (EUSIPCO)  Book Series: European Signal Processing Conference  Pages: 2684-
+2688  Published: 2017  
+Abstract: In this paper, we propose a modified 2nd-order nonlinear IIR filter for compensation of both linear and nonlinear distortions of electrodynamic
+loudspeakers. A nonlinear IIR filter is a nonlinear compensator and is based on a physical nonlinear model of electrodynamic loudspeakers. However, it is
+difficult to compensate nonlinear distortions when a loudspeaker has large sharpness at the lowest resonance frequency, at which the displacement of the
+diaphragm becomes large. Although it is necessary to compensate the sharpness of the loudspeaker, the nonlinear IIR filter cannot compensate the
+sharpness because it does not have a linear filtering feature. In this paper, we propose a modified 2nd-order nonlinear IIR filter that can compensate not only
+the nonlinear distortions but also the sharpness by employing the linear characteristics of the loudspeaker with the desired sharpness. Experimental results
+show that the proposed filter can compensate the linear and nonlinear distortions more effectively than a conventional filter.
+Accession Number: WOS:000426986000542
+Conference Title: 25th European Signal Processing Conference (EUSIPCO)
+Conference Date: AUG 28-SEP 02, 2017
+Conference Location: GREECE
+Conference Sponsors: European Assoc Signal Proc, IEEE Signal Proc Soc, Inst Commun & Comp Syst, Natl Tech Univ Athens, Plaisio, Mitsubishi Electr Res
+Lab, MathWorks, Blue Star Ferries, Moto Island Bicycle Rentals
+ISSN: 2076-1465
+ISBN: 978-0-9928-6267-1
+Record 47 of 50
+Title: Statistical-mechanical analysis of the FXLMS algorithm for multiple-channel active noise control
+Author(s): Murata, T (Murata, Tomoki); Kajikawa, Y (Kajikawa, Yoshinobu); Miyoshi, S (Miyoshi, Seiji)
+Book Group Author(s): IEEE
+Source: 2017 ASIA-PACIFIC SIGNAL AND INFORMATION PROCESSING ASSOCIATION ANNUAL SUMMIT AND CONFERENCE (APSIPA ASC 2017)  Book Series:
+Asia-Pacific Signal and Information Processing Association Annual Summit and Conference  Pages: 136-139  Published: 2017  
+Abstract: We analyze the behaviors of the Filtered-X LMS (FXLMS) algorithm for active noise control (ANC). Correlations between the impulse response of an
+adaptive filter and a primary path are treated as macroscopic variables. To obtain the correlations, we analytically solve the equations and finally compute
+the MSE. In particular, we analyze the behaviors of multiple-channel ANC. We theoretically show that the MSE is affected by the secondary paths that are not
+directly connected.
+Accession Number: WOS:000425879400023
+Conference Title: 9th Annual Summit and Conference of the Asia-Pacific-Signal-and-Information-Processing-Association (APSIPA ASC)
+Conference Date: DEC 12-15, 2017
+Conference Location: Kuala Lumpur, MALAYSIA
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Miyoshi, Seiji C-7406-2013 
+ 
+ISSN: 2309-9402
+ISBN: 978-1-5386-1542-3
+Record 48 of 50
+Title: Theoretical Analysis of LMS Algorithm for Time-Varying Unknown System
+Author(s): Ishibushi, N (Ishibushi, Norihiro); Kajikawa, Y (Kajikawa, Yoshinobu); Miyoshi, S (Miyoshi, Seiji)
+Book Group Author(s): IEEE
+
+-----
+Source: 2016 ASIA-PACIFIC SIGNAL AND INFORMATION PROCESSING ASSOCIATION ANNUAL SUMMIT AND CONFERENCE (APSIPA)  Book Series: Asia-Pacific
+Signal and Information Processing Association Annual Summit and Conference  Published: 2016  
+Abstract: We analyze the behaviors of the LMS algorithm for a time-varying unknown system using a statistical-mechanical method. We obtain simultaneous
+differential equations that describe the dynamical behaviors of the macroscopic variables under conditions in which the tapped-delay line is sufficiently
+long. We show the existence of an optimal step size owing to the trade-off between the noise misadjustment and the lag misadjustment. Furthermore, we
+obtain the exact optimal step size in the case of a white reference signal. The derived theory includes the behaviors for a time-constant unknown system as a
+special case.
+Accession Number: WOS:000393591800199
+Conference Title: Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA)
+Conference Date: DEC 13-16, 2016
+Conference Location: Jeju, SOUTH KOREA
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Miyoshi, Seiji C-7406-2013 
+ 
+ISSN: 2309-9402
+ISBN: 978-988-14768-2-1
+Record 49 of 50
+Title: Integrated Direct Sub-band Adaptive Volterra Filter and Its Application to Identification of Loudspeaker Nonlinearity
+Author(s): Kinoshita, S (Kinoshita, Satoshi); Kajikawa, Y (Kajikawa, Yoshinobu)
+Book Group Author(s): IEEE
+Source: 2016 24TH EUROPEAN SIGNAL PROCESSING CONFERENCE (EUSIPCO)  Book Series: European Signal Processing Conference  Pages: 11-
+15  Published: 2016  
+Abstract: In this paper, we propose a novel realization of sub-band adaptive Volterra filter, which consists of input signal transformation block and only one
+adaptive Volterra filter. The proposed realization can focus on major frequency band, in which a target nonlinear system has dominant components, by
+changing the number of taps in each sub-band in order to simultaneously realize high computational efficiency and high identification performance. The
+proposed realization of subband adaptive Volterra filter is applied to the identification of electro-dynamic loudspeaker systems and the effectiveness is
+demonstrated through some simulations. Simulation results show that the proposed realization can significantly improve the estimation accuracy.
+Accession Number: WOS:000391891900003
+Conference Title: 24th European Signal Processing Conference (EUSIPCO)
+Conference Date: AUG 28-SEP 02, 2016
+Conference Location: Budapest, HUNGARY
+Conference Sponsors: European Assoc Signal Proc
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Kajikawa, Yoshinobu  
+0000-0002-1735-2518 
+ISSN: 2076-1465
+ISBN: 978-0-9928-6265-7
+Record 50 of 50
+Title: Active Noise Control Systems with Simplified Period Aware Linear Prediction Method for MR Noise
+Author(s): Sawano, H (Sawano, Hitoshi); Kajikawa, Y (Kajikawa, Yoshinobu)
+Book Group Author(s): IEEE
+Source: 2016 ASIA-PACIFIC SIGNAL AND INFORMATION PROCESSING ASSOCIATION ANNUAL SUMMIT AND CONFERENCE (APSIPA)  Book Series: Asia-Pacific
+Signal and Information Processing Association Annual Summit and Conference  Published: 2016  
+Abstract: In this paper, we examine the effectiveness of an active noise control (ANC) system with period aware linear prediction (PALP) method and
+simplified PALP (SPALP) method for MR noise. The PALP method expanding ordinary linear prediction method using delayed signal has high prediction
+accuracy for periodic signal. We have attempted to apply the ANC system with the PALP method for reducing MR noise which has high periodicity. However
+PALP method requires two adaptive filters and delay device. Thus the PALP method requires large memory size and computational complexity. For this
+reason, we simplify the PALP method by removing one adaptive filter with undelayed signal. Simulation results demonstrate that the feedback ANC system
+with the SPALP method has the same noise reduction performance as the PALP method while saving the computational complexity.
+Accession Number: WOS:000393591800153
+Conference Title: Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA)
+Conference Date: DEC 13-16, 2016
+Conference Location: Jeju, SOUTH KOREA
+ISSN: 2309-9402
+ISBN: 978-988-14768-2-1
+Close
+Web of Science
+ 
+Page 1 (Records 1 -- 50)
+ 
+ [ 1 ] 
+Print
+
+
+-----
+Clarivate
+Accelerating innovation
+© 2019 Clarivate
+Copyright notice
+Terms of use
+Privacy statement
+Cookie policy
+Sign up for the Web of Science newsletter
+Follow us 
+ 
+
+
+-----

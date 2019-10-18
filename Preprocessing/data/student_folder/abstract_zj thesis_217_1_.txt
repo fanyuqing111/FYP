@@ -1,0 +1,50 @@
+OPTICAL PROPERTIES OF TITANIUM OXYNITRIDE THIN 
+FILMS AND APPLICATION IN SELECTIVE SOLAR ABSORBER 
+Zhang Jun 
+ABSTRACT 
+The selective solar absorber (SSA) is one of the key units in the concentrated solar power 
+(CSP) system, which is a promising renewable and clean energy generation technique by 
+using solar energy. The titanium oxynitride (TiNxOy) based SSA has been paid a lot of 
+attention due to many advantages, such as environmental friendly, low cost, excellent optical 
+property and so on. In this thesis, the optical properties of TiNxOy thin films have been 
+investigated and the SSA based on TiNxOy thin film has been designed and modeled. 
+Firstly, the TiNxOy thin films have been characterized with various techniques, including 
+X-ray photoelectron spectroscopy (XPS), X-ray diffraction (XRD), atomic force microscope 
+(AFM), transmission electron microscope (TEM), spectroscopic ellipsometry (SE), Hall 
+effect measurement, spectrophotometer, etc. The TEM image confirms the existence of TiN 
+nanoparticles in the TiNxOy thin films. The localized surface plasmon resonance (LSPR) of 
+the TiN nanoparticles plays an important part in the optical properties of the TiNxOy thin 
+films. Then the SE is carried out to model the dielectric function of the TiNxOy thin films by 
+using an optical dispersion model with the consideration of LSPR effect, free electron 
+absorption and interband transitions. It is found that the optical properties of the TiNxOy layer 
+can be significantly affected by changing the N2 flow rate in the sputtering deposition process 
+as a result of the tuning of N/O ratio in the TiNxOy thin films. 
+
+-----
+A single TiNxOy thin film based high performance SSA with the structure of SiO2-TiO2-
+TiNxOy-Cu has been designed. The SiO2 and TiO2 thin films form a double-layer anti-
+reflection coating (ARC). The TiNxOy thin film serves as the absorbing layer and the optical 
+properties can be easily adjusted by the N2 flow rate, which provides a simple and effective 
+way for the optimization of a high performance SSA. Due to large free electron 
+concentration, the Cu substrate is used as the infrared reflector. The SSA based on the 
+TiNxOy layer deposited with the N2 flow rate of 2 sccm achieves a solar absorbance of 
+96.29% and a thermal emittance of 6.11% at the temperature of 400 ℃. 
+In the TiNxOy thin film with low N/O ratio (TiNO_L) and TiNxOy thin film with high 
+N/O ratio (TiNO_H), three absorption mechanisms have been modeled, including LSPR, free 
+electron absorption and interband transitions. Because TiNO_H has a higher free electron 
+concentration than that of TiNO_L, the absorption due to both the LSPR and free electron 
+absorption in TiNO_H is found larger than that in TiNO_L. The absorption caused by the 
+interband transitions in the TiNO_L and TiNO_H is close to each other. By using TiNO_L 
+and TiNO_H, a double TiNxOy layer based SSA with the structure of SiO2-TiO2-TiNO_L-
+TiNO_H-Cu has been proposed. It is found that the double TiNxOy based SSA has a wider 
+low reflectance range than that of single TiNxOy based SSA. 
+A low cost SSA with the structure of SiO2-TiNxOy-W/Cu has been fabricated on glass 
+substrate. In the SSA, W/Cu thin film structure is used to serve as an infrared reflector. 
+Without W thin film, the reflectance in both visible and infrared ranges of the SSA increases 
+due to the crystallization of the Cu layer at elevated temperatures. With a W layer with 
+appropriate film thickness, the increase of the reflectance in the visible range can be 
+suppressed to maintain a high solar absorptance, while a high infrared reflectance can be 
+maintained to achieve a low thermal emittance. 
+ 
+
+-----

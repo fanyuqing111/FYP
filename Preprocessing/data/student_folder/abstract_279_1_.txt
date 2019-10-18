@@ -1,0 +1,44 @@
+Title: All-in-fiber sensing and light generation based on specialty fibers 
+ 
+Abstract: 
+All-in-fiber sensing and light generation devices are facing increasing demand due to their 
+distinct features of being free standing and robust, great compactness, easy handling, low 
+waveguide losses and low cost for mass produce. Compared with conventional fibers, 
+specialty fibers are able to provide better sensing and light generation performance since they 
+enable great flexibility in manipulating light guidance property through simply tuning fiber 
+structures, and enhanced light-matter interaction by hosting aqueous matter in the air 
+channels running along the entire fiber length. Currently, the development and applications of 
+high performance all-in-fiber sensing and light generation are still limited by low sensing 
+sensitivity, bulky setup introduced by free space light coupling and difficulties in the 
+replacement or manipulation of liquids in the air channel. 
+To address the aforementioned challenges and difficulties, we design, fabricate, and 
+systematically investigate a number of all-in-fiber sensing and light generation systems. 
+Firstly, we design and fabricate a side channel photonic crystal fiber (SC-PCF) for 
+developing highly sensitive aqueous sensing. SC-PCF has a solid core and triangular lattice 
+cladding structure. Partial lattice cladding is intentionally removed to enable fast liquid 
+infiltration speed and strong light-matter interaction. By precisely splicing this SC-PCF to 
+side-polished single mode fiber (SMF), a fiber long period grating and a Sagnac 
+interferometer are experimentally realized and investigated for all-in-fiber optofluidic 
+refractive index (RI) sensing and biological sensing. We achieve a high RI sensitivity of 1145 
+nm/RIU with the SC-PCF long period grating, and more importantly we are able to detect 1 
+μ M cardiac troponin T protein with the highly sensitive Sagnac interferometer. Secondly, an 
+ultrasensitive surface enhanced Raman sensing platform is demonstrated with optimized 
+geometry of the SC-PCF. With this new fiber structure, we achieve an ultra-low detection 
+limit of 50 fM Rhodamine 6G solutions. Thirdly, to generate a unique light emission for 
+biomedical analysis and phototherapy with minimal invasion, we develop a multilayer 
+photonic bandgap (PBG) fiber laser with quantum dots (QDs) solution as the gain medium 
+infiltrated in the hollow core. The PBG fiber laser platform has unique characteristics of large 
+emission surface perpendicular to fiber axis and remote pumping configuration, which 
+provides a substantial impact on both studies of lasing mechanism and future developments 
+of a variety of applications for biomedical analysis. Finally, we investigate the performance 
+of a plasmonic random laser fabricated via polymer cold-drawing. As the flexible polymer 
+based random laser can be easily attached to fiber end face, integrated with the pumping 
+configuration provided by the optical fiber waveguide, this random laser has great potential 
+of serving as a flexible and versatile light source with large surface emission area for in vivo 
+sensing and speckle-free optical imaging. 
+In this thesis, design, fabrication and applications of specialty fibers and structures for all-in-
+fiber sensing and light generation with high performance are presented. Further investigations 
+on the integration of all-in-fiber light generation and chemical/biological analysis will be 
+carried out in the near future. 
+
+-----

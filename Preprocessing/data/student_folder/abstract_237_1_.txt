@@ -1,0 +1,90 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A Multi-mode Sensor:  
+Merge an Ambient Light Sensor 
+into a CMOS Image Sensor 
+ 
+ 
+ 
+ 
+WANG YUE 
+G1403284K 
+ 
+ 
+ 
+ 
+School of Electrical & Electronic Engineering 
+ 
+ 
+ 
+A thesis submitted to the Nanyang Technological University 
+in partial fulfilment of the requirement for the degree of 
+Master of Engineering 
+ 
+ 
+ 
+May, 2016 
+
+-----
+i 
+ 
+Abstract 
+Ambient light sensors (ALSs) are quite often used in the portable electronic devices. 
+In a smartphone, the ALS enables automatic control of display backlight brightness 
+over a wide range of illumination conditions from a dark environment to direct 
+sunlight. The control reduces the power consumption and improves visibility under 
+varying lighting conditions. 
+The conventional ALS consists of two parts: photodetectors and conversion circuits. 
+A typical conversion circuit can be current-mode analog-to-digital convertor (ADC); 
+pulse-width modulation (PWM) module; or pulse-frequency modulation (PFM) 
+module. In this thesis, a new conversion circuit is proposed. The proposed ADC 
+employs a two-step architecture combined with the time-domain measurement 
+technique. A current-mode ADC is adopted as the coarse ADC. The residue current 
+left by the coarse A/D conversion is finely quantized by a PWM module. The 
+proposed architecture can improve the accuracy of detection, since PWM module can 
+correct the possible coarse conversion errors. Meanwhile, it can shorten the 
+conversion time, since the input current of the PWM module is compressed by the 
+coarse ADC into a small range. 
+A multi-mode sensor can be developed by merging the proposed ALS into a CMOS 
+image sensor (CIS). Since power consumption plays an important role in CIS, a low-
+power application can be achieved by separating the power supply and switching 
+them in different modes. In other words, during ambient light sensing, the circuits for 
+picture/video readout are in standby mode and do not consume power; and vice versa. 
+The thesis presents the design of the proposed multi-mode sensor. The chip with 
+64×
+64 pixel array is implemented in AMS 0.35 µ
+m 2P4M CMOS technology. In the 
+following sections of the thesis, it will show the whole design flow of the proposed 
+sensor chip. 
+
+-----

@@ -1,0 +1,44 @@
+Abstract
+Noble metals are widely used and researched in heterogeneous catalysis due to remarkable
+catalytic performances. First principle density functional theory (DFT) method provides a
+powerful way to perform large-scale and high-computing simulations to investigate the design
+rule in heterogeneous catalysis theoretically. In this thesis, we have investigated on the
+catalytic activity of palladium (Pd) and platinum (Pt) based bimetallic alloy with non-precious
+transition metals by density functional theory calculations. This thesis contains three parts:
+firstly, we have studied overlayer model of Pd-Cu and Pt-Cu bimetal alloy; secondly, we have
+studied the Pd monolayer model of Pd monolayer supported on Pd-M (M=Cu, Fe, Ni)
+intermetallic alloy; thirdly, we have studied the single atom alloy (SAA) model of dispersedly
+distributed Pt atoms doped in Cu(111) surfaces. The major results of the thesis are as follows.
+It is found out that the number of Pd (or Pt) cover layer can effectively influence the surface
+Pd (or Pt) activity. This is explained and supported by d-band center theory, where the d-band
+center of Pd (or Pt) atom is modulated by both the number of cover layer and substrate charge
+transfer. The proposed Pd-Cu bimetallic alloy is found to perform effectively as CO oxidation
+catalyst and the proposed Pt-Cu bimetallic alloy can be used as fuel cell anode materials with
+enhanced CO-tolerance ability. The famous Brǿnsted-Evans-Polanyi (BEP) relation is used to
+analyze the catalytic trend. For intermetallic alloy case, it is experimental proved that Pd-Cu
+alloy can be transformed from face-center cubic (fcc) alloy to body-center cubic (bcc) alloy,
+and Pd-Fe and Pd-Ni alloy can be transformed from fcc alloy to face-centered tetragonal (fct)
+alloy. We have investigated on the activity of these intermetallic alloy as electrocatalysts for
+oxygen reduction reaction (ORR). The enhanced performance is ascribed to moderate
+adsorption strength. For single atom alloy case, Pt atoms tend to dope on surface (slab model)
+or outmost shell (nanocluster model) sites. The H2 dissociation ability is improved by
+subsequent subsurface or inner Pt dopant.
+
+-----
+Publication list
+1. Liu, J.; Fan, X.; Sun, C. Q.; Zhu, W., DFT Study on bimetallic Pt/Cu (111) as Efficient Catalyst for
+H2 Dissociation. Applied Surface Science 2018, 441, 23-28.
+2. Liu, J.; Fan, X.; Sun, C. Q.; Zhu, W., DFT Study on Intermetallic Pd–Cu Alloy with Cover Layer
+Pd as Efficient Catalyst for Oxygen Reduction Reaction. Materials 2017, 11 (1), 33.
+3. Liu, J.; Fan, X.; Sun, C. Q.; Zhu, W., Layer effect on catalytic activity of Pd-Cu bimetal for CO
+oxidation. Applied Catalysis A: General 2017, 538, 66-73.
+4. Liu, J.; Fan, X.; Sun, C.; Zhu, W., Transparent conductivity modulation of ZnO by group-IVA
+doping. Chemical Physics Letters 2016, 649, 78-83.
+5. Liu, J.; Fan, X.; Sun, C.; Zhu, W., Oxidation of the titanium (0001) surface: diffusion processes of
+oxygen from DFT. RSC Advances 2016, 6 (75), 71311-71318.
+6. Liu, J.; Sun, C.; Zhu, W., Origin of efficient oxygen reduction reaction on Pd monolayer supported
+on Pd-M (M=Ni, Fe, Fe) intermetallic alloy. Submitted to Electrochimica Acta.
+7. Liu, J.; Sun, C. Q.; Zhu, W., A comparative study on single atom alloy of Pt doped Cu flat surface
+and nanoclsuter. (In preparation)
+
+-----

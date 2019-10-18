@@ -1,0 +1,41 @@
+ABSTRACT 
+The modern urban life and increasing demands of energy are calling toward more energy 
+conservation and energy efficient strategies. With increasing energy consumed by the households, 
+energy savings and energy managements in the residential sectors are of great interests for obvious 
+economic and environmental reasons. An efficient energy conservation and monitoring program 
+requires some means of monitoring the power consumed by individual appliances within the 
+households. The deployments of smart meters in smart grids in many countries have generated an 
+increase in research interests in the areas of Non-Intrusive Load Monitoring (NILM) in recent 
+years. NILM, or load disaggregation, are sets of techniques and methods that decompose the total 
+aggregate consumptions, measured at a single point by the smart meter, into the respective 
+appliance-specific consumptions in the household. Studies conducted have shown that information 
+of the energy consumed by individual appliances in the homes can influence the behavior of the 
+house occupants in a way that can achieve noticeable energy savings. There are several research 
+challenges in the domain of unsupervised NILM approaches that do not require human intervention 
+for learning and the set-up of additional measuring instruments for each appliance, apart from the 
+smart meters, allowing a feasible economic adoption of the NILM method for energy 
+disaggregation. 
+In this thesis, detailed literature reviews on methods and techniques applied to NILM and common 
+challenges were presented. Enhanced approaches that tackle three essential challenges in the 
+domain of NILM were proposed. Firstly, with the aim to achieve an improved disaggregation 
+accuracy, an unsupervised approach for load disaggregation that embeds the mutual devices 
+interactions information into the Factorial Hidden Markov Model (FHMM) representation of the 
+total aggregate signal was introduced. The method was further extended with adaptive estimations 
+of the devices main power consumptions effects and their two-way interactions. Secondly, the 
+problem of devices with overlapping consumptions was addressed. A method to analyze the 
+cohesion of devices’ clusters to determine if a cluster should be split into two smaller clusters was 
+proposed. The analysis of clusters cohesion is based on normality tests performed against two 
+confidence levels. Thirdly, the modeling of continuously varying loads using a quantized 
+continuous-state Hidden Markov Model (HMM) was proposed. A method to estimate the transition 
+matrix that mitigates the two extreme cases of too frequent and never occurred transitions was 
+introduced, and the Viterbi algorithm was used to estimate the power consumption profiles of the 
+variable loads. Finally, the proposed model for continuously varying loads was integrated with the 
+standard FHMM to produce a novel hybrid continuous/discrete state HMM, which is capable of 
+modeling and disaggregating energy consumptions for a wider range of home appliances types.  
+The proposed approaches and techniques were applied and tested on data received on real houses 
+from the Reference Energy Disaggregation Data Set (REDD). The proposed approaches, in 
+general, enhanced the overall performance and accuracy of energy disaggregation. The work 
+presented in this thesis represents an advancement in the state-of-art in the domain of NILM and 
+contributes toward achieving energy savings in residential homes.  
+
+-----

@@ -1,0 +1,81 @@
+Abstract 
+In the past few decades, remarkable progress has been made on the research and development of gallium nitride 
+(GaN)-based light sources. Among those, GaN-based blue and ultraviolet (UV) light-emitting diodes (LEDs) 
+achieve great success and attract considerable attention in a wide range of application. GaN-based blue LEDs are 
+highly efficient and reliable visible light sources and thus have found broad applications in solid-state lighting 
+(SSL), automobile headlights, LED displays, liquid crystal display (LCD) backlights, flash units, compact 
+projectors and compact scanners. GaN-based UV LEDs are energy efficient and robust UV light sources and thus 
+they have great potential in UV curing, counterfeit detection, UV lithography, photo-catalysis, air purification and 
+tanning (UV-A or near-UV), medical phototherapy, protein analysis and drug discovery (UV-B), water/air 
+disinfection and bioagents sensing (UV-C or deep-UV). With the GaN-based blue LED platform that we 
+developed, in this thesis, we extend our work into UV-A and towards UV-C research. We aim to improve the 
+performance of GaN-based UV LEDs through novel structural and device solutions including size effect, Al 
+incorporated quantum barriers (QB), electroluminescent cooling effect and electron beam (e-beam) pumping.  
+ 
+In this thesis, various structures have been designed, grown and fabricated for the performance enhancement of 
+InGaN/(Al)GaN blue and near-UV LEDs. The InGaN/(Al)GaN multiple quantum wells (MQWs) blue and near-
+UV LED epitaxial wafers have been grown along c-axis on sapphire wafers with designed structures by 
+commercial metal-organic chemical vapour deposition (MOCVD) system. The fabrication process of LED 
+devices have been designed, optimized through iteration, and tested for the grown epitaxial LED wafers. Based 
+on this platform, novel structures have been designed for the performance enhancement of InGaN/(Al)GaN blue 
+and near-UV LED. 
+ 
+It is well-known that size shrinking of a LED device will improve radiative recombination rate, enhance light 
+extraction efficiency (LEE), and reduce current spreading and thermal effects. The size effect has been 
+investigated on the efficiency droop of InGaN/GaN blue LEDs. The efficiency droop behaviours are compared 
+for GaN-based blue LED devices with different mesa dimensions. We found that the external quantum efficiency 
+(EQE) and wall-plug efficiency (WPE) droop start at a higher current injection for a LED device with a larger 
+mesa dimension due to reduced injection current density but the EQE droop begin at a lower injection current 
+density for a LED with a larger mesa dimension because of the increased current crowding. However, the WPE 
+droop begins at a slightly higher injection current density with further enlarging the mesa dimension of a LED. 
+This is ascribed to the shallow slope of the I-V characteristics around the position of the EQE peak. Besides, the 
+series resistance (SRRS) and ideality factor are derived for the LED devices with different mesa dimension by 
+fitting the measured I-V characteristics to the diode I-V model. Both the SRRS and ideality factor decrease as the 
+mesa dimension of the LEDs increase. This suggests that the I-V characteristics of a real LED approaches that of 
+an ideal LED as the mesa dimension of the LEDs increase.  
+ 
+Size shrinking has also been proved effective in reducing current crowding, enhanced output power density and 
+increased power roll-over current density UV micro-LEDs. We systematically investigated the size effect on the 
+electrical and optical characteristics of these near-UV micro-LEDs. We observed EQE enhances with the decrease 
+of size but the enhancement went marginal as the size reduced from 50 × 50 µm2 to 25 × 25 µm2. Besides, 
+efficiency droop reduction reversed as the size decreased from 50 × 50 µm2 to 25 × 25 µm2. In addition to the 
+current spreading effect, strain relaxation, sidewall defect and p-contact resistance were found to be the root cause 
+of the size effect. We demonstrated that the 50 × 50 µm2 micro-LED produces the highest performance in terms 
+of efficiency and droop, which provide design rules of thumb for UV LED.  
+ 
+The MQWs structure is a critical component that determines the performance of the near-UV LED. As the 
+emission wavelength shifts from blue to near-UV, the In incorporation in the MQWs decreases and thus the 
+quantum wells (QWs) become shallow. This weakens the confinement of the MQWs and increases the carriers 
+overflow. For these reasons, it necessitates the incorporation of Al into the QBs and increase the confinement of 
+the MQWs. Therefore, in this thesis, the effect of Al incorporation on the performance of the near-UV LED was 
+systematically investigated by changing the Al mole concentration in the QBs and comparing optical power and 
+EQE from the UV LEDs with different Al incorporation. Besides uniform Al incorporation, the effect of Al graded 
+AlGaN QBs and Si doped QBs on the performance of UV LEDs has also been studied.  
+ 
+In this thesis, we also designed experiment to couple the excitons in the MQWs structure to phonons by 
+electroluminescent cooling effect. Electroluminescent cooling effect has been reported to thermally enhance the 
+efficiency of GaN based LEDs in theory. The carriers absorb energy from the phonons and thus gain energy to 
+overcome the potential barriers and subsequently radiate in QWs, contributing to the power efficiency. In this 
+work, we have observed and demonstrated the electroluminescent cooling effect in UV LEDs and support our 
+
+-----
+observations with theoretical modelling and numerical simulation. Efficiency and electrical characteristics have 
+been measured under different controlled temperatures and the effect of temperature on the efficiency has been 
+investigated in different bias regimes. We have demonstrated that the efficiency of the UV LEDs can be enhanced 
+by elevated temperature below certain bias voltage with electroluminescent cooling effect. 
+ 
+As the emission wavelength shifts further from near-UV to deep-UV, the performance of GaN-based UV LEDs 
+has been held back by low doping efficiency of p-AlGaN (p-type doped AlGaN) and thus non-Ohmic p-contact 
+and electron leakage. Therefore, e-beam pumping has been proposed as a potential technique for the next 
+generation UV light source with great environmental and economic benefits. We have started developing e-beam 
+pumped light sources in the near-UV range and applied our findings to deep-UV light sources based on e-beam 
+pumping. The Cathodoluminescence (CL) characteristics of near-UV InGaN/AlGaN MQWs structures with 8, 
+10, 15 and 20 QWs have been systematically studied and the acceleration voltages where the CL power efficiency 
+(PE) reaches the maximum have been recorded. We have established the relationship between the acceleration 
+voltage and QW number by introducing the contribution to MQWs absorption from carriers generated within the 
+diffusion length below the MQWs. This new understanding will help researchers in designing efficient CL based 
+UV devices. In this work, we have also tested and demonstrated GaN-based deep-UV cathodoluminescence, 
+which will be critical for the development of efficient deep-UV emitters. 
+ 
+
+-----

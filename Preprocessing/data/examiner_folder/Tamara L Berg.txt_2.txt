@@ -1,0 +1,133 @@
+Tamara L Berg
+Associate Professor, Computer Science, UNC Chapel Hill
+Google Scholar
+Citation indices
+All
+Since 2012
+Citations
+7988
+6597
+h-index
+32
+31
+i10-index
+46
+44
+Title
+1–20
+Cited by
+Year
+Labeled faces in the wild: A database for studying face recognition in unconstrained environments
+GB Huang, M Ramesh, T Berg, E Learned-Miller
+Technical Report 07-49, University of Massachusetts, Amherst 1 (2), 3
+2008
+2007
+Shape matching and object recognition using low distortion correspondences
+AC Berg, TL Berg, J Malik
+Computer Vision and Pattern Recognition, 2005. CVPR 2005. IEEE Computer ...
+863
+2005
+Names and faces in the news
+TL Berg, AC Berg, J Edwards, M Maire, R White, YW Teh, ...
+Computer Vision and Pattern Recognition, 2004. CVPR 2004. Proceedings of the ...
+422
+2004
+Babytalk: Understanding and generating simple image descriptions
+G Kulkarni, V Premraj, V Ordonez, S Dhar, S Li, Y Choi, AC Berg, TL Berg
+IEEE Transactions on Pattern Analysis and Machine Intelligence 35 (12), 2891 ...
+396
+2013
+Vqa: Visual question answering
+S Antol, A Agrawal, J Lu, M Mitchell, D Batra, C Lawrence Zitnick, ...
+Proceedings of the IEEE International Conference on Computer Vision, 2425-2433
+375
+2015
+Automatic attribute discovery and characterization from noisy web data
+TL Berg, AC Berg, J Shih
+European Conference on Computer Vision, 663-676
+341
+2010
+Im2Text: Describing Images Using 1 Million Captioned Photographs
+V Ordonez, G Kulkarni, TL Berg
+309
+High level describable attributes for predicting aesthetics and interestingness
+S Dhar, V Ordonez, TL Berg
+Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on ...
+261
+2011
+*
+
+-----
+Title
+1–20
+Cited by
+Year
+Labeled faces in the wild: A database forstudying face recognition in unconstrained environments
+GB Huang, M Mattar, T Berg, E Learned-Miller
+Workshop on faces in'Real-Life'Images: detection, alignment, and recognition
+212
+2008
+Animals on the web
+TL Berg, DA Forsyth
+Computer Vision and Pattern Recognition, 2006 IEEE Computer Society ...
+211
+2006
+Parsing clothing in fashion photographs
+K Yamaguchi, MH Kiapour, LE Ortiz, TL Berg
+Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on ...
+197
+2012
+Dataset issues in object recognition
+J Ponce, T Berg, M Everingham, D Forsyth, M Hebert, S Lazebnik, ...
+Toward category-level object recognition, 29-48
+194
+2006
+Who are you with and where are you going?
+K Yamaguchi, AC Berg, LE Ortiz, TL Berg
+Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on ...
+186
+2011
+Who's in the picture
+TL Berg, AC Berg, J Edwards, DA Forsyth
+Advances in neural information processing systems, 137-144
+174
+2005
+Midge: Generating image descriptions from computer vision detections
+M Mitchell, X Han, J Dodge, A Mensch, A Goyal, A Berg, K Yamaguchi, ...
+Proceedings of the 13th Conference of the European Chapter of the ...
+171
+2012
+Collective generation of natural image descriptions
+P Kuznetsova, V Ordonez, AC Berg, TL Berg, Y Choi
+Proceedings of the 50th Annual Meeting of the Association for Computational ...
+148
+2012
+Composing simple image descriptions using web-scale n-grams
+S Li, G Kulkarni, TL Berg, AC Berg, Y Choi
+Proceedings of the Fifteenth Conference on Computational Natural Language ...
+126
+2011
+
+-----
+Title
+1–20
+Cited by
+Year
+Two-person interaction detection using body-pose features and multiple instance learning
+K Yun, J Honorio, D Chattopadhyay, TL Berg, D Samaras
+Computer Vision and Pattern Recognition Workshops (CVPRW), 2012 IEEE ...
+123
+2012
+Paper doll parsing: Retrieving similar styles to parse clothing items
+K Yamaguchi, M Hadi Kiapour, TL Berg
+Proceedings of the IEEE International Conference on Computer Vision, 3519-3526
+93
+2013
+ReferItGame: Referring to Objects in Photographs of Natural Scenes.
+S Kazemzadeh, V Ordonez, M Matten, TL Berg
+EMNLP, 787-798
+92
+2014
+Dates and citation counts are estimated and are determined automatically by a computer program.
+
+-----

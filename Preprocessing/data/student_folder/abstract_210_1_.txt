@@ -1,0 +1,69 @@
+Abstract
+The increasing trend of electrical power demands in megacities, industries and
+transportation requires medium- or high-voltage power electronics devices to serve
+as the enabling components for high power conversion, due to design flexibility,
+better dynamic performance, energy efficiency and environment friendliness. Mul-
+tilevel power converters, such as Neutral Point Clamped (NPC) Converters, Cas-
+caded H-Bridge (CHB) Converters and Modular Multilevel Converters (MMCs),
+are popular commercialized candidates for such high power applications. Among
+them, the MMC possesses great performance in terms of functionality, hardware
+implementation, configuration complexity, output power quality, efficiency and
+reliability, and it shows considerable research potential in the academic world as
+well. This thesis aims to investigate the control and operation strategies that
+related to the efficiency, nonlinearity, modularity and reliability of MMCs.
+At first, the configuration and operation principles of a three phase MMC
+is introduced. A comprehensive steady state analysis and the equivalent circuit
+model that are applicable to an MMC connected to either a DC or an AC bus are
+then presented in this thesis. In addition to better understanding of the MMC
+operation, the analysis and modeling of the MMC also suggest the conditions that
+ensure the stability operation of the MMC system. According to the aforemen-
+tioned analysis and modeling, the control system of the MMC is introduced. The
+commonly used cascaded control strategy, including output and inner dynamics
+control loops, has been discussed. The existing modulation methods for MMCs
+have been summarized, and the phase-shifted pulse width modulation (PS-PWM)
+are detailed and adopted in this thesis.
+The circulating current harmonics in each phase are expected to be suppressed
+in order to improve the performance and reduce the losses of MMCs. The char-
+acteristics of the circulating current harmonics are analyzed and it is revealed
+that the circulating current are dominated by even order harmonics. An even-
+iii
+
+-----
+harmonic repetitive control scheme is proposed to eliminate the even harmonics
+in the differential current. The proposed repetitive controller has excellent har-
+monic elimination, with benefits of less memory occupation, less delay period, dou-
+bled low frequency gain, faster convergence rate and dynamic response and wider
+bandwidth at specific frequencies. The full design details of the even-harmonic
+repetitive control for an MMC system has been presented.
+Moreover, the MMC is a multi-input multi-output bilinear system. A non-
+linear control strategy is preferred for better control performance. The feedback
+linearization based current control for the MMC is proposed in this thesis to solve
+the bilinear control problem. The state function model of the MMC is linearized
+with the help of the feedback linearization technique. The output and inner differ-
+ential current control loops are decoupled as two independent simple integrators.
+Classical linear control laws can be easily applied in the two current control loops.
+The control performance in steady state and during step changes is improved and
+the controller design process is facilitated.
+The centralized control system will reduce the modularity of the MMC in
+terms of software implementation and is not practical in MMC systems with a
+large number of sub-modules. A distributed control strategy for MMCs is pro-
+posed in this thesis. The proposed control strategy is able to achieve all control
+objectives in conventional control strategies, with significantly reduced data ex-
+changing among central and local controllers through a communication network.
+The fault diagnosis and fault tolerant control for an MMC with redundant
+sub-modules significantly increases the system reliability. A real-time measure-
+ment based semiconductor device open-circuit fault diagnosis method has been
+proposed. This fault diagnosis is implemented in each local controller in the dis-
+tributed control architecture with local information. It is capable of accurately
+identifying multiple faults within 3.5ms without false alarm. Based on the per-
+formance analysis of an MMC with bypassed faulty sub-modules, a fault tolerant
+control is accordingly proposed. The fault tolerant control guarantees the perfor-
+mance of the MMC to be the same as in normal operation. The fault tolerant
+control can be activated with 5ms after the fault occurrence. The MMC is able
+to seamlessly ride through the switching device open-circuit fault.
+All the theoretical findings are verified in PLECS simulations. The effective-
+ness and practicalities of the control algorithms are confirmed on a scale down
+single-phase MMC prototype.
+iv
+
+-----

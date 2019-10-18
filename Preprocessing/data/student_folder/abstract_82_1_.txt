@@ -1,0 +1,30 @@
+Abstract and Publications
+I. ABSTRACT
+This thesis studies the learning properties of agents in a social network under uncertain conditions. We address the problem
+of how well agents perform during learning when the information received is incomplete or inaccurate. We analyze a model
+of a decentralized tandem network, where each agent receives some external information about a binary hypothesis (the state
+of the world), as well as a previous decision from an agent in the network, then makes a decision about the state of the
+world and relays this decision to the next agent in the network. If all agents know their position in the network and the exact
+distributions of all previous agents’ external information, then it is possible for the minimax error probability of the network
+to converge to zero. We show that if there is some uncertainty about previous agents’ external information, the minimax error
+probability is bounded above zero. Furthermore, we also propose a decision rule to minimize the minimax error probability
+when agents do not know their position in the network, and show that this minimax error probability is bounded above zero,
+whether or not the agents know the exact distributions of previous agents’ external information. We then consider a model
+where one wishes to learn an optimal sequence of actions, with each action’s reward being dependent on all actions’ rewards
+in previous time steps. We show that this can be modeled using a string-submodular function. Taking the action with the best
+reward at each time step would lead to a greedy string. However, we impose an additional constraint that only some actions’
+rewards can be observed at each time step. We then propose various methods to select these actions and derive performance
+bounds compared to the optimal string of each length. Finally, we explore the multi-armed bandit problem in a social network
+setting. We assume that selecting an agent at each time step would give us a stochastically generated reward, as well as noisy
+information about the rewards of nearby agents. We propose a method of selecting which agents to use at each time step, and
+compare our method to scenarios where perfect information about the rewards of nearby agents is known, as well as that when
+no information about nearby agents is known.
+II. PUBLICATIONS
+[1] Jack Ho, Wee Peng Tay, and Tony Q. S. Quek. Robust detection and social learning in tandem networks. In Proc. IEEE Int. Conf. Acoustics, Speech,
+and Signal Processing, pages 5457–5461, May 2014.
+[2] Jack Ho, Wee Peng Tay, and Tony Q. S. Quek. A pseudo-greedy strategy on string submodular functions. IEEE Int. Conf. Acoustics, Speech, and Signal
+Processing, Submitted.
+[3] Jack Ho, Wee Peng Tay, Tony Q. S. Quek, and Edwin K. P. Chong. Robust decentralized detection and social learning in tandem networks. IEEE Trans.
+Signal Process., 63(19):5019 – 5032, Oct. 2015.
+
+-----

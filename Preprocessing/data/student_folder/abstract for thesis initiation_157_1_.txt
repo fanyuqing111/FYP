@@ -1,0 +1,37 @@
+ABSTRACT 
+ 
+Switched-mode dc-dc converters are widely employed in low-power portable applications because of 
+their high power-efficiency. The Pulse Width Modulation (PWM) scheme is usually employed in switched-
+mode dc-dc converters to generate switching output pulses. The PWM scheme is simple to realize, but it 
+results in harmonics at multiples of the switching-frequency. The high harmonic power will undesirably 
+translate to high conducted Electromagnetic Interference (EMI) at the input current of the dc-dc converter. 
+The prevalent method to mitigate the harmonics is to replace the conventional PWM with the spread-
+spectrum modulation schemes. These modulation schemes spread the power of the switching-frequency 
+harmonics over the frequency spectrum such that the peak spectral power of the harmonics is reduced as 
+compared to that of the PWM. One such a scheme is the Randomized Wrapped-Around Pulse Position 
+Modulation scheme (RWAPPM). It features a simple algorithm and is able to highly attenuate the harmonic 
+power in its output voltage. Nonetheless, it has a drawback of a higher ripple noise at low-frequencies 
+compared to that of the PWM. Therefore, it is desirable that there is a modulation scheme that can collectively 
+address both the switching-frequency harmonics and the low-frequency noise for applications in low-
+harmonics low-noise switched-mode dc-dc converters. 
+We propose a novel low-harmonics low-noise modulation scheme for switched-mode dc-dc converters. 
+The proposed scheme is a hybrid of a randomized modulation scheme, namely the RWAPPM, and a noise-
+shaper. The RWAPPM mitigates the switching-frequency harmonics in the input current, whereas the noise-
+shaper mitigates the low-frequency noise therein. We derive an analytical expression for the input current 
+spectrum of the hybrid scheme. We benchmark the hybrid scheme against the conventional Pulse Width 
+Modulation scheme (PWM) and the RWAPPM without the noise-shaper. At 0.5 duty cycle, 3.3 V input 
+voltage, 100 kHz average switching frequency, and with a 2nd-order noise-shaper, the peak spectral power in 
+the input current spectrum of the hybrid scheme is 18.1 dB lower than the PWM. Other randomized and 
+spread-spectrum modulation schemes, in general, have undesirably higher input noise current than that of the 
+PWM. However, the input noise current of the proposed hybrid scheme, obtained at ~73mA rms (integrated 
+over a 200 kHz bandwidth without an input filter), is comparable to that of the PWM, and is lower by ~16 
+mA rms compared to that of the RWAPPM without the noise-shaper. We also benchmark the hybrid scheme 
+against other well-known randomized and spread-spectrum modulation schemes. We further propose a novel 
+pulse generator structure that embodies the hybrid scheme. We realize a dc-dc converter employing the pulse 
+generator, and measure the converter to verify the derived expression and the characteristics of the hybrid 
+scheme. We also measure the output voltage spectrum, the transient-response, and the operating range of the 
+converter. 
+ 
+ 
+
+-----

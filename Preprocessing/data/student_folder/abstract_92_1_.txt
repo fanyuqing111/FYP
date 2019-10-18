@@ -1,0 +1,16 @@
+Abstract 
+ 
+In this work, a set of 2 μm GaSb-based diode lasers are successfully designed, fabricated and 
+investigated, including conventional ridge waveguide lasers, two-section mode-locked lasers (MLLs), 
+and external cavity tunable lasers. Chapter 3 introduces the epitaxial structures used for fabricating all 
+the devices in this work as well as a standard fabrication process of single-section ridge waveguide 
+lasers. Chapter 4 gives a detailed overview of the fabricated single-section lasers. In addition, the 
+carrier recombination behaviors within these lasers are investigated in both electrical (ideality factor) 
+and optical way (sidewall spontaneous emission). In Chapter 5, monolithic two-section MLLs are 
+fabricated and fully characterized. Their mode gain, working regimes, phase noise/timing jitter, 
+frequency tuning are carefully investigated. Chapter 6 focuses on two III-V/silicon integration methods: 
+wafer bonding and edge coupling. A tapered waveguide laser structure, bonded onto silicon waveguides, 
+is simulated. An external cavity III-V/silicon tunable vernier laser is fabricated and characterized.  
+ 
+
+-----

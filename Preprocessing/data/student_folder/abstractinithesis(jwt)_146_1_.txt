@@ -1,0 +1,64 @@
+1 
+ 
+Abstract for thesis initiation 
+DC-DC power converters are widely used in many industrial and commercial applications, 
+such as computers, electric vehicles and renewable energy generation systems, to name a few. 
+In the past decade, due to the various requirements of practical applications, a lot of new dc-dc 
+power converters has been proposed. In particular, the transformer-less high-gain dc-dc 
+converter is of interest since it is capable of boosting a lower level voltage to a very high level 
+without an extreme duty ratio. Besides, these converters have high transfer efficiency and small 
+power losses.  However, since the high-gain converters are generally high-order systems, there 
+are many state variables that can be used for the feedback purposes. Hence, developing the 
+controllers for these converters using the least number of system state variables and the most 
+suitable state variables are still open questions which need to be addressed. The objective of 
+this thesis is to investigate the control aspect of high-order transformer-less dc-dc boost 
+converters. The details are described in the following. 
+ 
+Based on the studies of using the least number of state variables to regulate high-order 
+converter systems, some output feedback control laws for various high-order boost-type dc-dc 
+converters have been proposed. In these control laws, only the output voltage is required for 
+feedback purposes. This feature results in control laws that are very suitable for applications 
+where there are power density constraints to accommodate the current sensor.  
+ 
+Firstly, a voltage-mode controller for a dc-dc multilevel boost converter was investigated. 
+Unlike some existing voltage-mode controllers for the high-order dc-dc converters, the 
+selection of the controller gains mainly relies on a trial and error approach. Since the proposed 
+controller uses a new structure, it permits the frequency domain method to be directly used to 
+select the appropriate values for the controller gains to ensure system stability. As such, it is 
+easier to achieve the desired control performance. 
+ 
+Secondly, the development of a novel output feedback control strategy for the super-lift re-lift 
+Luo converter was investigated. The main feature of this controller is that, despite the non-
+minimum phase behavior of the converter, the output voltage is regulated directly. Apart from 
+this, the structure of the proposed controller is such that there is no risk of saturation in the 
+control law due to division by zero, and the “remaining dynamics” for the controlled converter 
+has only one equilibrium point which is always stable. The stability analysis of the closed-loop 
+controlled system was carried out and the feasibility of the proposed controller was shown. 
+Finally, some simulation and experimental results were obtained to validate the theoretical 
+conclusions. 
+ 
+Thirdly, an improved voltage-mode controller for the quadratic boost dc-dc converter was 
+addressed.  A new structure for the integral action was adopted in this controller. Since the time 
+derivative of the adopted integral action is bounded by a user-defined constant, the extreme 
+changes in the control signal can be avoided. As such, the proposed controller provides better 
+control performance as compared to its counterparts using the traditional integral action.  
+ 
+Besides the work on how to regulate high-order converters using only the output voltage for 
+the feedback purposes, the study on how to select the most suitable state variable to control the 
+high-order dc-dc boost converters was also addressed in the thesis. For the current-mode 
+control techniques, the measurement of the inductor current for feedback purpose is necessary. 
+However, for some of the high-gain dc-dc converters, such as the hybrid-type high-order dc-
+dc boost converter, they contain two or more inductors. Which inductor current is more suitable 
+
+-----
+2 
+ 
+for the design of the controller is an issue that should be answered. To address this issue, a 
+comparative study of the adaptive current-mode controllers for the hybrid-type high-order dc-
+dc boost converter was carried out. The root-locus method was used to determine the most 
+suitable inductor current for the controller design. Some simulation as well as experimental 
+results were obtained to verify the theoretical conclusions. 
+ 
+ 
+
+-----

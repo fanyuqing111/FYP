@@ -1,0 +1,112 @@
+Abstract 
+The study on photovoltaic is an important topic in the sustainable and clean energy research 
+field, driven by the deteriorating energy crisis and environmental pollutions due to fossil fuel 
+shortage and combustion. Currently, the crystalline silicon (c-Si) based solar cell dominates 
+the photovoltaic market. However, its high material cost has weakened its competitiveness 
+with fossil fuels. To reduce the material cost, silicon thin film based device incorporated with 
+nanostructures for light trapping can be used. 
+In this work, we study the nanostructured back reflector (BR) for improved light absorption in 
+silicon thin film solar cells. The nanostructured BRs are patterned and fabricated based on 
+polystyrene sphere (PS) assisted lithography. We adopted “substrate” (n-i-p) structure and 
+highly reflective Ag layer and optical spacer ZnO layer are deposited on glass substrate as the 
+BR materials. The silicon thin films are grown on top of the BRs by Plasma Enhanced 
+Chemical Vapor Deposition (PECVD) technique. 
+ 
+To improve the patterning capability aimed at developing a well-controlled fabrication 
+process of the BRs, we study the etching behavior of PS spheres in Electron Cyclotron 
+Resonance (ECR) oxygen plasma. By tuning the oxygen plasma condition including plasma 
+input power, etching mode, shielding of the ion flux with Faraday cage, we successfully 
+isolated the effect of oxygen radical and of energetic ions on the etching behaviors of PS 
+spheres. The reason behind PS spheres melting and shape deformations are concluded and 
+negative impacts during BR fabrication are avoided. As the results, we developed a 
+well-controlled oxygen plasma etching process for PS spheres using ECR source. After 
+etching, small PS sphere size are achieved which enables various applications. 
+ 
+After that, we study light trapping in hydrogenated amorphous silicon thin film solar cells 
+fabricated by PECVD on various nanostructured BRs. The BRs are patterned using different 
+PS sphere sizes without oxygen plasma etching step. We have investigated the correlation 
+
+-----
+between the optical properties of the BRs and the performance of their corresponding solar 
+cells. We have introduced double size PS sphere patterned BRs and have shown solid 
+experimental evidence for improved light trapping performance compared with single size 
+polystyrene sphere patterned BRs. We have achieved high performing nanostructured 
+amorphous silicon solar cells with an initial power conversion efficiency of 8.79 % and over 
+20 % enhancement of the short-circuit current compared with the reference flat BR solar cell. 
+ 
+Due to the usage of Ag and ZnO material and Ag nanostructures in the BRs, parasitic losses 
+are also introduced in the device. Followed from above part, we study parasitic losses and 
+light trapping in hydrogenated amorphous silicon thin film solar cells fabricated by PECVD 
+on nanostructured BRs. The BRs are patterned using single PS sphere size with oxygen 
+plasma etching step. By using O2 plasma etching of the PS spheres, we managed to fabricate 
+hexagonal nanostructured BRs. With the help of rigorous modeling, we study the parasitic 
+losses in different BRs, non-active layers, and last but not least the light enhancement effect 
+in silicon absorber layer. Moreover, simulation results have been compared and verified with 
+experimental data. We have demonstrated hexagonal nanostructured amorphous silicon thin 
+film solar cells with a power conversion efficiency of 7.7 %  and around 34.7 % 
+enhancement of the short-circuit current density, compared with flat amorphous silicon thin 
+film solar cell. 
+ 
+ 
+
+-----
+Publication List 
+Journal: 
+1. Zeyu Li, Rusli, Martin Foldyna, Junkang Wang, Wanghua Chen, Ari Bimo Prakoso, 
+Chenjin Lu, and Pere Roca i Cabarrocas, “Nanostructured back reflectors produced 
+using polystyrene assisted lithography for enhanced light trapping in silicon thin films 
+solar cells,” has submitted to Solar Energy. 
+2. Zeyu Li, Chenjin Lu, Ari Bimo Prakoso, Rusli, Martin Foldyna, Rasha Khoury, 
+Pavel Bulkin, Junkang Wang, Wanghua Chen, Erik Johnson, and Pere Roca i 
+Cabarrocas, “Optical study and experimental realization of nanostructured back 
+reflectors for enhanced light trapping with reduced parasitic losses in silicon thin film 
+solar cells,” has submitted to Optical Express. 
+3. Rasha Khoury, Zeyu Li, Pavel Bulkin, Rusli, Pere Roca i Cabarrocas, and Erik 
+Johnson, “Detailed study of electron cyclotron resonance oxygen plasma etching of 
+polystyrene nanosphere arrays,” has submitted to Journal of Physics D: Applied 
+Physics. 
+4. Ari Bimo Prakoso, Zeyu Li, Chenjin Lu, Changyun Jiang, and Rusli “Design 
+guideline for interdigitated back contact Si/organic hybrid heterojunction solar cell,” 
+has been submitted to Semiconductor Science and Technology. 
+5. Ari Bimo Prakoso, Chenjin Lu, Zeyu Li, Changyun Jiang, and Rusli, “High efficiency 
+planar front junction n-Si/PEDOT:PSS hybrid solar cell with ARC compensated 
+layer,” has been submitted to Energy Technology. 
+6. Ari Bimo Prakoso, Lin Ke, Jianxiong Wang, Zeyu Li, Changyun Jiang, and Rusli, 
+"Reverse 
+recovery 
+transient 
+characteristic 
+of 
+PEDOT:PSS/n-Si 
+hybrid 
+organic-inorganic heterojunction," accepted 11 December 2016, Organic Electronics, 
+vol. 42, pp. 269-274 (2017). 
+7. Nastiti Puspitosari, Christophe Longeaud, Raphael Lachaume, Zeyu Li, Rusli, and 
+Pere Roca i Cabarrocas, “Comparison of FTPS Performed on Thin Films and Solar 
+Cells,” accepted 27 July 2017, Physica Status Solidi C: Current Topics in Solid State 
+Physics, vol. 14, 1700165. 
+
+-----
+ 
+Conference: 
+1. Li Zeyu, Rusli, Ari Bimo Prakoso, Hong Lei and Pere Roca i Cabarrocas, “12.5% 
+Silicon Nanohole/PEDOT:PSS hybrid solar cell with simple solution based surface 
+treatment”, 32nd European Photovoltaic Solar Energy Conference and Exhibition 
+(EU PVSEC 2016), Germany, June 2016. 
+2. Li Zeyu, Rusli, Ari Bimo Prakoso and Pere Roca i Cabarrocas, “Si/PEDOT:PSS 
+hybrid solar cell based on random Si nanowires in periodic Si nanoholes structure,” 
+Hybrid and Organic Photovoltaic 2016, Swansea, UK, June 2016. 
+3. Li Zeyu, Rusli, Lu Chenjin, Ari Bimo Prakoso, Martin Foldyna and Pere Roca i 
+Cabarrocas, "Nanostructured Back Reflectors for a-Si:H Thin Film Solar Cells by 
+Polystyrene Sphere Assisted Lithography", Nano Science & Technology 2017, 
+Fukuoka, Japan, Oct 2017. (invited) 
+4. Ari Bimo Prakoso, Lin Ke, Jianxiong Wang, Zeyu Li, Changyun Jiang, Rusli, "Study 
+of 
+PEDOT:PSS/n-Si 
+hybrid 
+organic-inorganic 
+heterojunction", 
+Materials 
+Science-2017, Valencia, Spain, Sep 2017. (invited) 
+
+-----

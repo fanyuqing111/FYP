@@ -1,0 +1,62 @@
+Abstract 
+ 
+Electromagnetic compatibility (EMC) is a major technical challenge for solar photovoltaic (PV) 
+systems. As the use of PV systems has increased in recent years, the problems of electromagnetic 
+interference (EMI) of PV systems are becoming more evident. The main source of EMI in these 
+systems are the power converters, such as DC-DC converter and DC-AC inverters, which uses 
+high frequency switching power electronic devices. These power converters transmit conducted 
+noise emission between, at both input side, where PV panels are connected, and output side, where 
+loads and AC grid are connected. At the output side the conducted emissions must comply with 
+the relevant EMI regulation to prevent interference to loads or the AC gird. Although similar 
+regulation does not apply on the DC input of a PV system, the high frequency switching converters 
+with its DC input connected to the PV panel causes conducted emissions to propagate along the 
+DC cables. These emissions can then radiate through the DC cable and the PV panel, which serve 
+as unintentional antennas. 
+Since the PV systems are becoming widely accepted in both residential and industrial applications, 
+it is necessary to evaluate the EMI of the system systematically so that it does not interfere with 
+other electronic devices. In order to evaluate the EMI of a system, a proper EMI model of the 
+system should be developed. This research therefore proposes to develop a measurement-based 
+EMI model of PV systems. This approach provides simple yet accurate model for analyzing EMI 
+of a system. Using the method, separate noise equivalent models for common-mode (CM) and 
+differential-mode (DM) emissions of a PV system are developed. The model can then be used to 
+study the conducted emissions and radiated emission from the system. Additionally, the model 
+will be useful for designing optimized EMI filters for the system. 
+In order to develop accurate EMI model of a PV system, the noise source model of the power 
+converters and PV panels should be extracted at operating conditions. For this purpose, an in-
+circuit measurement approach is used to extract the noise source model at the DC input of a PV 
+system under its actual operating conditions, which provides adequate information for EMI 
+modeling and mitigation purposes without the full knowledge of the internal circuit of the PV 
+system. The noise source model allows us to estimate noise emissions and evaluate the 
+effectiveness of the filter for EMI mitigation without a trial-and error process. 
+
+-----
+Author’s Publications 
+ 
+Journal Paper 
+• M. Prajapati and K. Y. See, "Extraction of Equivalent Noise Source Model from 
+Photovoltaic Systems," in IEEE Transactions on Electromagnetic Compatibility, 2018. 
+ 
+ 
+Conference Papers 
+• M. Prajapati and K. Y. See, "Extraction of equivalent impedance of photovoltaic panel 
+under its actual operating conditions," 2018 IEEE International Symposium on 
+Electromagnetic 
+Compatibility 
+and 
+2018 
+IEEE 
+Asia-Pacific 
+Symposium 
+on 
+Electromagnetic Compatibility (EMC/APEMC), Suntec City, Singapore, 2018, pp. 1145-
+1149. 
+• S. B. Rathnayaka, K. Y. See, M. Prajapati, K. Li, N. B. Narampanawe and F. Fan, 
+"Inductive coupling method for on-line frequency response analysis (FRA) for transformer 
+winding diagnostic," TENCON 2017 - 2017 IEEE Region 10 Conference, Penang, 2017, 
+pp. 88-92. 
+• S. B. Rathnayaka, K. Y. See, M. Prajapati, K. Li, N. B. Narampanawe and F. Fan, 
+"Influence of temperature on transformer's winding defect analysis using inductive 
+probes," 2017 Progress in Electromagnetics Research Symposium - Fall (PIERS - FALL), 
+Singapore, 2017, pp. 2285-2289. 
+
+-----

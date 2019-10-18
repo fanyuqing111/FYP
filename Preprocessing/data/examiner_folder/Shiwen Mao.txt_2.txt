@@ -1,0 +1,154 @@
+All
+Since 2012
+Citations
+6317
+4567
+h-index
+41
+31
+i10-index
+113
+97
+Shiwen Mao
+Samuel Ginn Endowed Professor,
+Department of Electrical and
+Computer Engineering,
+Auburn University
+wireless communications
+wireless networking
+multimedia
+TITLE
+CITED BY
+YEAR
+Big data: A survey
+M Chen, S Mao, Y Liu
+Mobile Networks and Applications 19 (2), 171-209
+1004
+2014
+Video transport over ad hoc networks: multistream coding
+with multipath transport
+S Mao, S Lin, SS Panwar, Y Wang, E Celebi
+Selected Areas in Communications, IEEE Journal on 21 (10), 1721-1737
+333
+2003
+Performance evaluation of cognitive radios: Metrics, utility
+functions, and methodology
+Y Zhao, S Mao, JO Neel, JH Reed
+Proceedings of the IEEE 97 (4), 642-659
+180
+2009
+Directional geographical routing for real-time video
+communications in wireless sensor networks
+M Chen, VCM Leung, S Mao, Y Yuan
+Computer Communications 30 (17), 3368-3383
+178
+2007
+Big Data: Related Technologies, Challenges and Future
+Prospects
+M Chen, S Mao, Y Zhang, VCM Leung
+Big Data: Related Technologies, Challenges and Future Prospects
+160
+2014
+MRTP: A multi-flow realtime transport protocol for ad hoc
+networks
+S Mao, D Bushmitch, S Narayanan, S Panwar
+2003 IEEE 58th Vehicular Technology Conference, VTC2003-Fall, 2629-
+2634,
+143
+2003
+CAP: Community activity prediction based on big data
+analysis
+Y Zhang, M Chen, S Mao, L Hu, VCM Leung
+IEEE Network 28 (4), 52-57
+109
+2014
+Multi-path routing for multiple description video over wireless
+ad hoc networks
+S Mao, YT Hou, X Cheng, H Sherali, D, FS Midkiff
+Proceedings of IEEE INFOCOM 2005, 740-750
+108
+2005
+*
+*
+
+-----
+TITLE
+CITED BY
+YEAR
+Adaptive electricity scheduling in microgrids
+Y Huang, S Mao, RM Nelms
+INFOCOM, 2013 Proceedings IEEE, 1142-1150
+104
+2013
+EMC: Emotion-aware mobile cloud computing in 5G
+M Chen, Y Zhang, Y Li, S Mao, VCM Leung
+IEEE Network 29 (2), 32-38
+103
+2015
+Wireless video transport using path diversity: Multiple
+description vs. layered coding
+Y Wang, S Panwar, S Lin, S Mao
+Proc. 2002 IEEE International Conference on Image Processing (ICIP)
+2002, pp …
+99
+2002
+Multiple description video multicast in wireless ad hoc
+networks
+S Mao, X Cheng, YT Hou, HD Sherali
+Mobile Networks and Applications Journal (MONET) 11 (1), 63-73
+97
+2006
+Multipath video transport over ad hoc networks
+S Mao, S Lin, Y Wang, SS Panwar, Y Li
+IEEE Wireless Communications 12 (4), 42-49
+95
+2005
+Reliable transmission of video over ad-hoc networks using
+automatic repeat request and multipath transport
+S Mao, S Lin, SS Panwar, Y Wang
+Vehicular Technology Conference, 2001. VTC 2001 Fall. IEEE VTS 54th
+2, 615-619
+92
+2001
+Scalable video multicast in cognitive radio networks
+D Hu, S Mao, YT Hou, JH Reed
+IEEE Journal on selected areas in Communications 28 (3)
+91
+2010
+A reference picture selection scheme for video transmission
+over ad-hoc networks using multiple paths
+S Lin, S Mao, Y Wang, S Panwar
+2001 IEEE International Conference on Multimedia and Expo (ICME), 97-
+100
+91
+2001
+BeamStar: An edge-based approach to routing in wireless
+sensor networks
+S Mao, YT Hou
+IEEE Transactions on Mobile Computing 6 (11)
+79
+2007
+On path selection and rate allocation for video in wireless
+mesh networks
+S Kompella, S Mao, YT Hou, HD Sherali
+IEEE/ACM Transactions on Networking (TON) 17 (1), 212-224
+76
+2009
+
+-----
+TITLE
+CITED BY
+YEAR
+Hybrid geographic routing for flexible energy-delay tradeoff
+M Chen, VCM Leung, S Mao, Y Xiao, I Chlamtac
+IEEE Transactions on Vehicular Technology 58 (9), 4976-4988
+72
+2009
+A survey of mobile cloud computing for rich media
+applications
+Y Xu, S Mao
+IEEE Wireless Communications 20 (3), 46-53
+67
+2013
+
+-----

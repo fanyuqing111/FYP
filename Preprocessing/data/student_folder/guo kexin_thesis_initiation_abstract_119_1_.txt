@@ -1,0 +1,130 @@
+Ultra-wideband-based Navigation for
+Unmanned Aerial Vehicles
+Name: Guo Kexin, G1400180L
+Supervisor: Prof. Xie Lihua
+March 15, 2018
+
+-----
+Abstract
+Micro unmanned aerial vehicles (UAVs) play more and more important roles
+in both civilian and military applications. Currently, the navigation and con-
+trol of UAVs is critically dependent on the localization service provided by the
+Global Positioning System (GPS), which suffers from the multipath effect and
+blockage of line-of-sight, and fails to work in an indoor, forest or urban envi-
+ronment. Therefore, how to achieve positioning in a spatially restricted area
+or dense environment, say woods, multi-functional office or urban canyons,
+with sufficient localization accuracy which can support autonomous flight is
+a worthy research topic. This thesis concentrates on GPS-denied localization
+for UAVs by leveraging a radio frequency (RF) technology- ultra-wideband
+(UWB) signal. We shall devise algorithms and develop systems for localiza-
+tion and apply the estimates to multi-UAV formation control.
+In the first part of this thesis, we establish a localization system for UAVs
+based on UWB ranging measurements, and each UAV is able to estimate its
+own global positions in a customized reference frame. To achieve the local-
+ization, a UWB module is installed on the UAV to actively send ranging
+requests to some fixed UWB modules at known positions (a.k.a.
+anchor
+nodes).
+Once a distance is obtained, it is calibrated first and then goes
+through outlier detection before being fed to a localization algorithm. The
+localization algorithm is initialized by trilateration and sustained by the ex-
+1
+
+-----
+tended Kalman filter (EKF). Afterwards, the position and velocity estimates
+produced by the algorithm will be further fed to the control loop to aid the
+navigation of the UAV. Flight tests in different environments have been con-
+ducted to validate the performance of our UWB based localization system
+with anchor nodes.
+However, in many operation environments, it is impractical to have fixed
+anchor nodes due to large operational scale and area. Moreover, the accuracy
+of anchors’ positions will greatly affect the positioning accuracy of UAV. To
+reduce human labor and human-induced errors, in the second part of this
+thesis, we study the active relative localization (RL) problem of a mobile
+UAV on 2D plane to a static UAV (beacon) under motion constraint, using
+the self-displacement and UWB ranging measurements. In practice, due to
+the environment or task constraint, a UAV may only be allowed to travel
+a small distance to fulfill the RL. We find a lower bound of mean square
+error in terms of this small distance and the sample size. As revealed from
+the lower bound, it only needs to enlarge the ranging span from the starting
+point to the ending point and increase the number of rangings to reduce the
+estimation error of initial relative position, which is related to and extends
+the existing results of unconstrained optimal sensor placement. In this light,
+we design an algorithm to actively reduce the localization error along the
+ranging path by incrementally enlarging the ranging span, and apply EKF
+to account for the noise in the displacement measurements. Simulations and
+flight experiments have been conducted to validate our proposed RL strategy.
+With the booming development of low-cost micro UAV such as quad-
+copter, multi-UAV systems and relevant applications have been extensively
+studied recently, and most of the proposed multi-agent controllers rely on
+inter-agent relative positions which are assumed to be measurable. However,
+2
+
+-----
+in practice, the relative position is difficult to obtain and so far there exists
+no comerial product for UAV to measure this information. In addition, most
+of existing formation experiment results including both simulation and actual
+flight still depend on some external infrastructure for positioning. Therefore,
+the third part of this thesis puts forth a simultaneous infrastructure-free co-
+operative RL and distributed formation control strategy for UAVs in GPS-
+denied environments. Instead of estimating relative coordinates by detecting
+specific patterns using image processing methods, an onboard UWB ranging
+and communication (RCM) network is adopted to sense both the inter-UAV
+distance and exchange information for RL estimation. Without any exter-
+nal infrastructures prepositioned, each agent cooperatively performs the pro-
+posed consensus-based fusion method, which fuses the developed direct and
+indirect RL estimates, to generate the relative positions to its neighbours in
+real time despite the fact that some UAVs may not have direct range mea-
+surements to their neighbours. The RL estimates together with the relative
+velocity and inter-UAV distance measurements are used to control a UAV
+swarm. Both the cooperative RL and the formation control are implemented
+in a distributed fashion. Extensive real-world flight tests corroborate the
+merits of the developed simultaneous RL and formation control system.
+3
+
+-----
+Author’s Publications
+Journal papers:
+1. K. Guo, Z. Qiu, C. Miao, A. H. Zaini, C.-L. Chen, W. Meng, and L.
+Xie, “Ultra-wideband-based Localization for Quadcopter Navigation,”
+Unmanned Systems, vol. 4, no. 01, pp. 23-34, 2016.
+2. K. Guo, Z. Qiu, W. Meng, L. Xie, and R. Teo, “Ultra-wideband Based
+Cooperative Relative Localization Algorithm and Experiments for Mul-
+tiple UAVs in GPS-denied Environments,” International Journal of
+Micro Air Vehicles, vol. 9, no. 3, pp. 169-186, 2017.
+3. K. Guo and L. Xie, “Infrastructure-free Cooperative Relative Local-
+ization for Unmanned Aerial Vehicles in GPS-denied Environments,”
+International Journal of Robotics and Automation, accepted, 2017.
+4. K. Guo, X. Li and L. Xie, “Ultra-wideband-based Cooperative Rela-
+tive Localization and Distributed Formation Control for UAVs,” to be
+submitted.
+5. Z. Han, K. Guo, L. Xie and Z. Lin, “Integrated Relative Localization &
+Leader-Follower Formation Control,” IEEE Transactions on Automatic
+Control, regular paper, 2018.
+4
+
+-----
+Conference papers:
+1. K. Guo, D. Han, and L. Xie, “Range-Based Cooperative Localization
+with Single Landmark,” in Proceedings of the 13th IEEE International
+Conference on Control and Automation (ICCA), July 3-6, Ohrid, Mace-
+donia, 2017, pp. 588-593.
+2. K. Guo, Z. Qiu, W. Meng, and L. Xie, “Relative Localization for
+Quadcopters using Ultra-wideband Sensors,” International Micro Air
+Vechicle Competition and Conference (IMAV), Beijing, China, Oct.
+2016, pp. 243-248. Best paper finalist.
+3. K. Guo and L. Xie, “Infrastructure-free Cooperative Relative Local-
+ization for Unmanned Aerial Vehicles in GPS-denied Environments,”
+IEEE International Conference on Unmanned Systems (ICUS), Bei-
+jing, China, Oct. 2017. Best paper award.
+4. T. M. Nguyen, A. H. Zaini, K. Guo, and L. Xie, “An Ultra-wideband
+based Multi-UAV Localization System in GPS-denied Environments,”
+International Micro Air Vechicle Competition and Conference (IMAV),
+Beijing, China, Oct. 2016, pp. 56-61. Best paper finalist.
+5. T. M. Nguyen, A. H. Zaini, C. Wang, K. Guo, and L. Xie, “Robust
+Target-relative Localization with Ultra-Wideband Ranging and Com-
+munication,” IEEE International Conference on Robotics and Automa-
+tion (ICRA), accepted, 2018.
+5
+
+-----

@@ -1,0 +1,184 @@
+Yang Shicong   
+ 
+  School of Electrical and Electronic Engineering 
+G1400382J 
+ 
+  
+               
+ 
+ 
+ 
+ 
+ Nanyang Technological University 
+ 
+Grid Compliance for the Land based Power Generators 
+ 
+Abstract 
+ 
+With the increase of power penetration from distributed renewable resources, mainly wind and solar power, the total 
+stored system energy as a form of rotating mass has been decreased in many power systems. In addition, the 
+intermittent characteristics of the renewable energy resources also leads to high variation in power generation from 
+the renewable power plant. These changes pose a threat on maintaining system stability and reliability. On the other 
+hand, utility electric power systems were not designed to accommodate power generation at the distribution level. 
+Consequently, the stability in the distribution grid might be affected if the penetration of the distributed resources is 
+significant. Power generators driven by reciprocating internal combustion engine (RICE) are increasingly involved in 
+power generation at grid level, especially in the distribution level (<35 kV). Gas engine generators (GEGs) are 
+favourable in power grid in parallel operation to support peak demand, because of the low investment cost, fast 
+response, shorter lead time and low emission of pollutions. Likewise, diesel engine which are normally operated as 
+backup power or stand-alone systems, could be connected to the power system under the operating reserve contract 
+with power grids. 
+Reciprocating-engine generators are used by utilities and distributed power generation sectors. Customizing these 
+power generation systems to meet grid codes and connection standards in various countries is a challenge. A 
+comprehensive knowledge on these codes and standards used in different countries is essential to customize the 
+power systems solutions accordingly and ensure the proper operation in an equilibrium state following a disturbance. 
+More importantly, generators should be able to ride through faults on the far side of the transformer in the grid which 
+is normally cleared after some time. Different countries/regions have different grid code requirements on fault ride 
+through (FRT) or low voltage ride-through (LVRT) by specifying parameters such as duration of fault and severity of 
+fault. The assessment of fault ride through capability of land based power generation systems against these 
+requirements helps identify possible non-compliances and develops suitable solutions. Therefore this work is to the 
+fault ride through behaviour of engine generators at full power condition, partial power conditions and different power 
+factor conditions including maximum lagging/leading power factor conditions, and to develop solutions for LVRT non-
+compliant cases. 
+The conducted main research works are briefly described as following. 
+ 
+1) Literature survey 
+ 
+Study on the LVRT requirement has been carried out on 15 grid codes and distribution codes, international 
+standards and connection rules. LVRT capability is required for generators connected in distribution level in 
+countries such as Australia, Germany and Saudi Arabia, in which the power grids are generally small in size, 
+low generation margins and/or higher level of penetration of renewable energy resources to the grid. But 
+LVRT capability is not mandatory in some countries such China, India and Canada where the power grid is 
+relatively large and/or integration of the renewable resources is low.  
+ 
+In addition, Literature survey on has been conducted on published papers and patents. Many solutions are 
+proposed for LVRT capability enhancement such as control strategies for rotor or stator side converters, 
+energy storage systems, crowbar circuits, shunt and series braking resistors. Different control strategies for 
+rotor side and stator side converter are presented by L. Yang, et al. However, these methods are not directly 
+applicable to synchronous generating systems in which there is no converter connected in between the system 
+and the grid.  Energy storage systems are described by S. M. Muyeen, et al., but these solutions are not capable 
+for LVRT capability enhancement when 100% voltage drop occurs at the point of common coupling (PCC). 
+Braking resistors are used in power systems to consume the excess energy and limit the fault current in 
+transient period for enhancing the system stability. Various configurations and control of braking resistors 
+
+-----
+Yang Shicong   
+ 
+  School of Electrical and Electronic Engineering 
+G1400382J 
+ 
+  
+               
+ 
+ 
+ 
+ 
+ Nanyang Technological University 
+ 
+have been proposed in literatures. Series dynamic braking resistors and crowbar resistor are described in the 
+power electronic switches are in cascade during normal operation in these solutions, thus the lifetime and 
+reliability of the switches might be reduced. Shunt connected braking resistors are presented in by A. H. M. A. 
+Rahim, et al., but it will not work effectively in the case of large voltage drop at the connection point. Patent 
+EP3032684 A1 describes a method for LVRT capability enhancement with switched-in braking resistors and a 
+control of the engine ignition. This approach may not work properly for various fault conditions in the system. 
+EP 2869426 A1 presented an approached with a dynamic braking resistor. A high rating of the power electronic 
+switches is required to accommodate the high sub-transient fault current and higher cost and lower reliability 
+may be resulted with this solution.  
+ 
+2) Proposed solution for LVRT capability enhancement for engine generators. 
+ 
+A topology utilising the switched-in dynamic braking resistors (SDBR) along with the implementation of an 
+effective control strategy is proposed for the LVRT capability of engine generating unit in parallel operation 
+with power grids. 
+In normal operation, the dynamic braking resistor is by-passed by a circuit breaker. Thus no loss and reliability 
+issue are incurred for the LVRT system. When in fault is detected in the power grid and the voltage is below 
+the predetermined voltage level, the dynamic braking resistors will be switched-in to absorb the excessive 
+energy from the generator. The power consumption by the dynamic braking resistors is control such that the 
+speed of the generator is maintained close to 1 pu for maintaining the synchronism with the power grid. 
+ 
+This topology can be configured two ways. One way is to connect the SDBR at the primary side of the unit 
+transformer in series with the delta windings. The advantage of this configuration the voltage and current 
+rating for the power electronic switches is reduced. Another way is to connect the SDBR with the neutral end 
+of the star-connected windings at the secondary side of the unit transformer. The current rating of the power 
+electronic switches is largely reduced compared with the delta winding connected SDBR due to high voltage 
+at the secondary windings.   
+ 
+Simulations model has been developed for a 2.5MVA engine generating unit with the generic system 
+parameters for the simulation studies. Simulation studies have been conducted to assess the LVRT capability 
+of the engine generating unit with and with the proposed LVRT solution. The simulation results show that the 
+proposed solution can enhance the LVRT capability of the generating unit to meet the LVRT capability 
+requirement even in the most stringent grid code. A down-scaled LVRT test-bed of 10 kVA has been developed 
+to verify the proposed solution. The test-bed has demonstrated successfully demonstrated the functionality 
+and the performance of the proposed the solution.  
+ 
+3) Proposed solutions for rotor angle estimation and measurement for synchronous generators. 
+ 
+Based on the current version of the connecting requirements, no out-of-synchronism protection is required 
+and normally it is not installed for distributed synchronous generators. In the event of grid fault, the 
+disconnection of the generator is based on the timing setting on the relevant relay. However, out-of-
+synchronism be caused if the LVRT solution fails to operate or by reasons other than grid faults, e.g., small 
+signal and frequency stability, etc.  Thus a cost effective solution for out-of-synchronism detection is necessary 
+for the distributed synchronous generators in the future power grid applications.  An accurate rotor angle 
+information can be used for the system stability analysis and system control and protection. 
+ 
+A holistic approach is proposed for rotor angle estimation in transient and steady-state of the operation for 
+synchronous generators. In this approach, the steady-state angle is first estimated based on the generator 
+parameters and the load current. And it is added to the integration of change of the rotor angle estimated 
+
+-----
+Yang Shicong   
+ 
+  School of Electrical and Electronic Engineering 
+G1400382J 
+ 
+  
+               
+ 
+ 
+ 
+ 
+ Nanyang Technological University 
+ 
+based on the measured engine speed. In steady-state, the change of the rotor angle is almost zero. Thus, the 
+rotor angle is same as the estimated steady-state angle.  
+ 
+When the speed deviation of the engine is out of the predetermined threshold, the estimated rotor angle will 
+be temporarily held constant as the pre-value. The sum of the constant angle and the accumulated angle 
+deviation will be rotor angle in transient state. The simulation model has been developed and the simulation 
+result shows that the proposed the solution can estimate the rotor angle correctly.  A verification system with 
+a digital signal processor will be developed to verify the proposed solution.   
+ 
+The method using a signalling generator is also proposed for rotor angle measurement. The signalling 
+generator is rigidly coupled with the shaft of the power generator. The signalling generator shall be aligned 
+with the power generator so that the phase difference is zero between the voltage from the signalling 
+generator and no-load voltage from the terminal of the power generator for the same phase. For steady state 
+rotor angle determination, the signalling generator is be connected to a high resistive load. The current flow 
+in the generator is negligible so that the terminal voltage angle of the signalling generator is same as the 
+internal angle of the signalling generator. To compute the rotor angle in transient period, the voltages from 
+the signalling generator and the point of common coupling are fed into a digital signal processor. The angle of 
+the voltages are computed using the space vector method. The rotor angle is the difference between the 
+voltage angle from the signalling generator and the voltage angle from the point of the common coupling. 
+ 
+List of Publications: 
+1. S.C. Yang,  G.V. Shagar,   A. Ukil, S.D. Gamini Jayasinghe, A.K. Gupta, “Evaluation of Low Voltage Ride-
+Through capability of synchronous generator connected to a grid”, Power & Energy Society General 
+Meeting, 2015 IEEE, Denver, USA, Jul. 2015. 
+2. S.C. Yang, A. Ukil, A.K. Gupta, “Development of Low Voltage Ride-Through Capability Curve for Grid 
+Connected Diesel Engine Generators”, 42nd Annual Conference of IEEE Industrial Electronics Society, 
+Florence Italy. Oct 2016 
+3. S. Keerti, V. M. Balijepalli, S.C. Yang, A. Ukil, N. Karthikeyan, A.K. Gupta, “Modeling Diesel Generators for 
+Weak and Strong Grid Conditions: Emphasis on LVRT Compliance”, TENCON, 2016  
+4. V. M. Balijepalli, A. Ukil, N. Karthikeyan, A.K. Gupta, S.C. Yang, “Virtual Synchronous Generators As Potential 
+Solution for Electric Grid Compliance Studies”, TENCON, 2016  
+5. S. C. Yang, A. Ukil, S. Dasgupta, A. K. Gupta and VSK M. Balijepalli, “LVRT Capability Enhancement for Grid 
+Connected Distributed Synchronous Generators Using Switch-in Braking Resistors”, ACEPT 2017 
+ 
+List of Invention Submissions: 
+1. Shicong Yang, Souvik Dasgupta, Amit Kumar Gupta, Abhisek Ukil, Michael Kreissl, Johannes Demharter, 
+“LVRT Capability Enhancement for Synchronous Gensets using Dynamic Braking Resistors”, ISF17474 
+(Rolls-Royce Case number) 
+2. Shicong Yang, Souvik Dasgupta, Amit Kumar Gupta, Michael Kreissl, Johannes Demharter, “Signalling 
+generator of rotor angle measurement”, ISF17475 (Rolls-Royce Case number) 
+3. Shicong Yang, Souvik Dasgupta, Amit Kumar Gupta, Michael Kreissl, Johannes Demharter, “Holistic rotor 
+angle and load angle estimation for synchronous generators”, ISF17476 (Rolls-Royce Case number) 
+
+-----

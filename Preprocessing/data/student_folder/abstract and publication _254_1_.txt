@@ -1,0 +1,28 @@
+Abstract 
+Neuromorphic hardware is based on neuroscience. It provides great possibilities to 
+mimic higher-level human brain functions. In contemporary neuromorphic hardware, 
+artificial spiking neurons that mimic nerve impulse (spike) generation, the construction 
+of their complex networks,and analogue or digital neuromorphic integrated circuits are 
+of vital importance ~\cite{9620507020140601}. In this thesis, an algorithm 
+implementation of Spiking Neural Network (SNN) and a design of configurable digital 
+neuron is covered. A configurable algorithm of SNN based on Spike Timing Dependent 
+Plasticity (STDP) model is implemented and experiments of different number of digits 
+classification are carried out to help evaluate the result of using the algorithm to 
+recognize hand-written digits from MNIST dataset. A flexible and programmable C 
+code modeling for verification analysis of hardware is implemented. A review and 
+comparison of architectures of present existing neuron models is presented. The 
+classification is set to three main kinds: Leaky Integrate-and-Fire (LIF) neuron models, 
+biologically inspired neuron models and other neuron models. After analyzing, the 
+reviewing results is shown in the form of tables. The design of a flexible digital neuron 
+based on Linear Leak Integrate-and-Fire neuron model is introduced. By combining a 
+state machine and register-transfer level, this hardware-friendly neuron is able to 
+provide two kinds of leakage mode to users. Users can manually set several 
+parameters according to different needs and conditions. 
+ 
+Publication 
+Xiaoye Wang, Vishnu P. Nambiar, Wang Ling Goh and Anh Tuan Do, "Review of 
+Spiking Neuron Models for Neuromorphic Hardware Implementation", 2018 
+International Conference on Recent Innovations in Engineering and Technology 
+(ICRIET), 20th-21st, Singapore 
+
+-----

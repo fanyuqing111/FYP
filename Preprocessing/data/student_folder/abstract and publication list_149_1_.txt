@@ -1,0 +1,38 @@
+Abstract 
+Demand Response (DR) is one of the most effective ways to reduce the building’s 
+operating cost. This research work develops an optimal coordinated Building Energy 
+Management System (BEMS) framework to study the control algorithms and demand 
+responses in the building. The proposed framework provides a systematical 
+construction of the BEMS which is adaptive to both the heuristic and deterministic 
+approaches for solving complex optimization problems in the building. Moreover, the 
+proposed smart combined ice storage strategy in cooperation with other DR programs 
+in the building shows a better tradeoff between the energy consumption and building’s 
+operating cost. Furthermore, the proposed hybrid cooling-and-ventilation control 
+algorithm is developed and validated in the framework. The results show that the 
+proposed BEMS framework not only can be used to validate the developed control 
+algorithms in the system but also provides optimal coordinated controls of the building 
+facilities. 
+
+-----
+Publication List 
+Journal Paper 
+1. H. Zhang, P. L. So, and A. Ukil, “Smart building energy management with 
+multi-storage systems for demand reesponse” IEEE Transactions on 
+Sustainable Energy, 2019. (under revision)
+Conference Paper 
+1. H. Zhang and A. Ukil, "Model predictive control of induction machine for 
+energy efficient HVAC operation," in 2018 IEEE Innovative Smart Grid 
+Technologies - Asia (ISGT Asia), 2018, pp. 1068-1073.
+2. H. Zhang, A. Ukil, and Y. Li, "Analyzing refrigerant contaminants and
+reclamation service to prolong chiller lifespan and improving chiller energy
+efficiency," in IECON 2017 - 43rd Annual Conference of the IEEE Industrial
+Electronics Society, 2017, pp. 7085-7090.
+3. H. Zhang and A. Ukil, "Analysis of ambient temperature effects and airflow rate
+for energy efficient HVAC in buildings," in 2016 IEEE Region 10 Conference
+(TENCON), 2016, pp. 441-446.
+4. H. Zhang and A. Ukil, "Framework for multipoint sensing simulation for energy
+efficient HVAC operation in buildings," in IECON 2015 - 41st Annual
+Conference of the IEEE Industrial Electronics Society, 2015, pp. 000398-
+000403. 
+
+-----

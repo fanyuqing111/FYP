@@ -1,0 +1,94 @@
+ABSTRACT 
+In-Band Phase Noise Reduction Techniques for 
+Phase-Locked Loops in Advanced CMOS Technologies 
+Phase-locked loops (PLLs) have been successfully used as frequency 
+synthesizers 
+for 
+decades 
+in 
+wireless 
+communications. 
+However, 
+modern 
+developments in communications require frequency synthesizers with wider loop 
+bandwidth and better phase noise performance compared with the older specifications. 
+Subsequently, synthesizers based on conventional charge-pump PLLs are facing 
+challenges because their in-band phase noise is often limited by the phase detectors 
+and charge pumps. Furthermore, PLL features such as short settling time and 
+multiple-phase output are also important for some communication standards. Inspired 
+by these requirements, this thesis aims to propose some helpful techniques to enhance 
+the PLL in-band phase noise performance and to provide important features for the 
+current and future wireless communications in the multi-GHz band. 
+Same as all other integrated circuits, the design of PLL highly depends on the 
+fabrication technologies. Several possible trends of the CMOS technologies have been 
+predicted both by academics and by industry. In Chapter II, we review the industry 
+landscape and provide our perspective at the macroscopic level, from which we settle 
+the specific fields of our exploration to both analog and digital PLL (DPLL) designs. 
+Among the existing analog PLL architectures, the lately developed fractional-N 
+subsampling PLLs have enabled promising in-band performance and fine tuning steps 
+for wireless systems. However, the prior arts need time-consuming calibrations (~20 
+ms measured) and are not suitable for applications requiring short settling time, such 
+as Bluetooth. To extend the subsampling PLL applications, Chapter III explores the 
+fractional-N subsampling PLLs with a calibration-free manner and proposes a 
+phase-switching subsampling technique. Fabricated in a 65 nm CMOS technology, a 
+
+-----
+2.6-3.4 GHz fractional-N 8-phase PLL using the proposed technique acquires an 
+in-band phase noise of -100.3 dBc/Hz at 100 kHz offset without any calibration. 
+Apart from traditional analog PLLs mentioned above, the more attractive 
+concept of DPLL has been recently proposed to take advantage of the advancing 
+CMOS technologies and design tools. The in-band noise performance of these DPLLs, 
+however, is generally limited by the time-to-digital converters (TDCs). Accordingly, 
+TDCs based on controlled oscillators have been reported to achieve low in-band noise 
+and to eliminate delay calibration. Nevertheless, there is still a lot of headroom in 
+such TDCs for lower noise. Chapter IV investigates the controlled oscillator based 
+TDC family and develops a model to evaluate their noise characteristics. Inspired by 
+this model, an inverted ring oscillator (IRO) technique is proposed, based on which a 
+TDC achieves a low integrated noise of 196 fsrms in a 3 MHz bandwidth at 200 MS/s 
+rate, showing lower in-band noise compared with state-of-the-arts. Moreover, a 
+unique phase noise cancellation (up to 36.4 dB cancellation ratio measured) and a 
+constant TDC power dissipation are demonstrated to further mitigate the DPLL noise. 
+In summary, this thesis proposes some PLL in-band phase noise reduction 
+techniques that would be helpful in the advanced CMOS technologies. The concepts, 
+models and special techniques involved may trigger better ideas to drive further PLL 
+developments in the future technology trends. 
+ 
+ 
+
+-----
+Author’s Publications 
+Journal Papers: 
+1. Zhipeng Liang, Xiang Yi, Kaituo Yang, Chirn Chye Boon, "A 2.6-3.4 GHz fractional-N 
+sub-sampling phase-locked loop using a calibration-free phase-switching-sub-sampling technique," 
+IEEE Microwave and Wireless Components Letters, accepted and to be published. 
+2. Zhipeng Liang, Xiang Yi, Chirn Chye Boon, Guangyin Feng, Fanyi Meng, Kaituo Yang, “An 
+inverted ring oscillator noise shaping time-to-digital converter with in-band noise reduction and 
+oscillator phase noise cancellation,” IEEE J. Solid-State Circuits, to be submitted. 
+3. Zhipeng Liang, Xiang Yi, Chirn Chye Boon, “A 1.2 V 464 uW 0.8-6.5 GHz divider-by-6/7/8/9 
+low-phase-noise multi-modulus frequency divider using 65 nm CMOS,” IEEE Microwave and 
+Wireless Components Letters, to be submitted. 
+4. Zhipeng Liang, Xiang Yi, Chirn Chye Boon, “A 1.7 mW 6 GHz low-phase-noise frequency divider 
+with tunable IQ mismatch and 25%-duty-cycle outputs,” IEEE Microwave and Wireless 
+Components Letters, to be submitted. 
+5. Xiang Yi, Chirn Chye Boon, Guangyin Feng and Zhipeng Liang, "An eight-phase in-phase 
+injection-coupled VCO in 65-nm CMOS technology," IEEE Microwave and Wireless Components 
+Letters, vol. 27, no. 3, pp. 299-301, March 2017. 
+Patent: 
+1. Zhipeng Liang, Xiang Yi, Chirn Chye Boon, "Time-to-digital converter based on an invertible 
+oscillator," U.S. Patent, being processed and to be filed. 
+Conference Papers: 
+
+-----
+1. Xiang Yi, Zhipeng Liang, Guangyin Feng, Chirn Chye Boon and Fanyi Meng, "A 93.4-to-104.8 
+GHz 57 mW fractional-N cascaded sub-sampling PLL with true in-phase injection-coupled QVCO 
+in 65 nm CMOS," 2016 IEEE Radio Frequency Integrated Circuits Symposium (RFIC), San 
+Francisco, CA, 2016, pp. 122-125. 
+2. Xiang Yi, Zhipeng Liang, Chirn Chye Boon, “A 20.2-57.1 GHz inductor-less divide-by-4 divider 
+chain,” presented at the Progress in Electromagnetic Research Symposium (PIERS), Singapore, Nov. 
+2017, to be published.  
+3. Xiang Yi, Kaituo Yang, Zhipeng Liang, et al., "A 65nm CMOS carrier-aggregation transceiver for 
+IEEE 802.11 WLAN applications," 2016 IEEE Radio Frequency Integrated Circuits Symposium 
+(RFIC), San Francisco, CA, 2016, pp. 67-70. 
+ 
+
+-----

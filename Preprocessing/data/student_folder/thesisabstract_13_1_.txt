@@ -1,0 +1,55 @@
+Thesis Abstract 
+ 
+Induction machines are widely applied in industries and essential parts of industrial systems. They are found 
+in various applications for marine propulsions, aerospace actuators, and traction in electric vehicles/hybrid electric 
+vehicles. Despite their rugged construction, they are subjected to fault due to aging, severe operating conditions, 
+and harsh environments. Industrial surveys have shown that stator winding accounts for a significant portion of 
+faults in electrical machines. Stator winding inter-turn short is the primary root of stator winding fault and can 
+spread out and lead to catastrophic damages. Diagnosis and prognosis of this kind of fault have become an 
+important topic, which is potential to increase the availability and reliability of electrical machines and the 
+associated systems, reduce maintenance cost, and support maintenance decision making. 
+Diagnosis is the process of detecting fault occurrence, isolating the true fault from other ambiguous factors, 
+and estimating the severity information. Prognosis is the process of predicting the fault progression and estimate 
+the remaining useful life before the machine must be stopped. Therefore, early fault detection is critical for an 
+effective and timely prognosis. However, there is little research proposed to address this problem, and the current 
+approach 
+has 
+the 
+drawback 
+of 
+requiring 
+prior information 
+in 
+implementation. 
+Fault 
+severity 
+estimation/measurement is another essential part of diagnosis process. While the fault is represented by two 
+electrical parameters, viz. fault loop resistance and percentage of shorted turns, the early fault severity estimation 
+of these direct electrical fault parameters has achieved limited success. Regarding prognosis, most of the research 
+on inter-turn short fault is focused on fault detection, and is lacked of work on prognosis. There is little research 
+on prognosis, of which there is no work using the direct electrical fault parameters. This thesis aims to develop a 
+model-based framework using the electrical fault parameters and propose the associated techniques to address the 
+aforementioned challenges of diagnosis and prognosis of stator winding inter-turn short fault.                                    
+The challenge of incipient fault detection is on the influence of the ambiguous factors, such as inherent 
+asymmetry, voltage imbalance, and load variation, causing the same effects in the diagnostic indicators as the fault 
+does or masking the fault occurrence. Model-based technique is the key approach to address this challenge. Its 
+strength lies in the ability to incorporate the electrical fault parameters in the model and hence the analysis of fault 
+effects. Two generic methods are proposed. The first is a decomposition method in which the effect of fault is 
+decomposed from that of the ambiguous factors, so that a fault-dependent quantity, sensitive to only fault severity 
+level, can be generated. The second method is a multiple-indicators approach, based on the multi-physics in nature 
+of electrical machines, in which certain supplementary indicators are concurrently used.  
+The necessity for prognosis is the availability of certain fault-related quantities. The electrical fault parameters 
+are direct severity quantities, but they are unknown and unmeasurable. In this thesis, an estimation process is 
+proposed to identify these parameters, linking the diagnosis and prognosis process. The filtered-based approach, 
+using particle filter, is applied to estimate the fault parameters. Particle filter is chosen since it can be applied to a 
+general nonlinear system under non-Gaussian noise. Also, a significant advantage of particle filter-based approach 
+is that the statistical quantities of the particles can be employed to quantify the performance of remaining useful 
+life estimation results. In order to identify the degradation models, both static and nonlinear dynamic functions are 
+assumed, and standard data modelling method can be applied. 
+The theoretical development is supported by experimental results, where various fault severity levels and 
+different loads and voltage imbalance conditions are taken into account to validate the incipient fault detection, 
+electrical fault parameter estimation, and degradation model identification and remaining useful life prediction. 
+The proposed framework and associated techniques are generic in nature and can be diversified to include other 
+faults/ machines.  
+
+-----

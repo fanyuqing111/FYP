@@ -1,0 +1,583 @@
+                                                                                                                                                                           Page 1 of 13 
+XIAOGANG WANG 
+Room 415, Ho Sin Hang Engineering Building, Shatin, HK  3943‐8283   xgwang@ee.cuhk.edu.hk 
+http://www.ee.cuhk.edu.hk/~xgwang/ 
+Research Interests 
+ Computer vision, machine learning and medical vision. 
+Professional Experience 
+     Department of Electronic Engineering, the Chinese University of Hong Kong, Hong Kong 
+     Associate Professor (2015 – present) 
+     Department of Electronic Engineering, the Chinese University of Hong Kong, Hong Kong 
+      Assistant Professor (2009 – 2015) 
+      NIVIDIA CUDA Research Center at CUHK 
+      Director (2014 ‐ present) 
+       Institute of Space and Earth Information Science (ISEIS) 
+       Executive Council Member (2014 ‐ present) 
+Education 
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY                                                                                           Cambridge, MA 
+Ph.D. Candidate in Computer Science (2009) 
+Computer vision group, Computer Science and Artificial Intelligence Lab (CSAIL) 
+Thesis: Hierarchical Bayesian Approaches for Unsupervised Activity Analysis and Scene Modeling 
+Advisor: Professor W. Eric L. Grimson 
+Minor: Statistics 
+ 
+THE CHINESE UNIVERSITY OF HONG KONG                                                                                                                Hong Kong 
+        M. Phil. in Information Engineering (2004) 
+  Thesis: A Unified Framework for Subspace Face Recognition 
+  Advisor: Professor Xiaoou Tang 
+ 
+         UNIVERSITY OF SCIENCE AND TECHNOLOGY OF CHINA                                                                                       Hefei, China 
+         B. S. in Electrical Engineering and Information Science (2001) 
+   Graduated from the Special Class for Gifted Young  
+Ranked Number one in GPA over five years undergraduate study 
+Thesis: Integration of Remote Sensing and Geographic Information System 
+Advisor: Professor Nenghai Yu 
+ 
+Internships in Industry 
+MICROSOFT RESEARCH (summer 2008)                                                                                                                Redmond, WA  
+ Developed a system for identifying faces of celebrities from images and videos on the web. 
+ 
+Generic Electric (GE) Global Research Center (summer 2006)                                       
+ 
+                  Niskayuna, NY 
+ Person re‐identification over distributed camera networks.  
+ Generalized integral image technique which efficiently computes statistics over arbitrary domains. 
+
+-----
+Xiaogang Wang                                                                                                                                                
+Page 2 of 13 
+ 
+Teaching 
+1. ENGG1110: Problem Solving by Programming 
+2. ENGG1100: Introduction to Engineering Design I 
+3. ELEG1110C: Basic Circuit Theory  
+4. ELEG5410: Pattern Recognition   
+5. ELEG5742: Image Processing and Video Technology 
+6. 
+BMEG4320: Biomedical Imaging Applications         
+Grants 
+ Secured 27 million HKD grants as principal investigators (PIs) after joining CUHK for five years. It includes four 
+RGC grants (more than 3 million HKD in total) as PI, and one ITF grant (4 million HKD) as PI.  
+1. Hong Kong Innovation and Technology Support Programme (Collaborative Research Projects), Deep Learning‐
+based Face Recognition on Cloud Computing Platform, HK$12,646K, Nov. 2015 – Oct. 2017.  
+2. Hong Kong Research Grant Council General Research Fund (RGC/GRF), Highly Efficient Forward‐ and Backward‐
+Propagation of Deep Convolutional Neural Networks for Pixelwise Classification, Principal Investigator, HK$329K, 
+Jan 2016 – Dec 2017. 
+3. Large Equipment Grant from the Chinese University of Hong Kong, High‐Performance GPU Parallel Computing 
+Cluster, HK$504k, Principal Investigator, July 2014 – February 2015. 
+4. Research Grant from Huawei Technologies Co. LTD, General Purpose Feature Learning by Deep Networks, 
+Principal Investigator, HK$1,200K, Jan 2014 – Dec 2016. 
+5. Hong Kong Research Grant Council General Research Fund (RGC/GRF), Deep Learning for Person Re‐identification 
+and Attribute Recognition, Principal Investigator, HK$875K, Jan 2015 – Dec 2017. 
+6. Hong Kong Research Grant Council General Research Fund (RGC/GRF), Human pose estimation and social 
+interaction recognition with deep neural networks, Co‐Investigator, HK$500K, Jan 2014 – Dec 2016. 
+7. Hong Kong Innovation and Technology Support Programme (Platform and Collaborative Research Projects), 
+Intelligent Video Analysis for Crowd Management, Principal Investigator, HK$4,400,000, May 2014 – April 2016.  
+8. Research Grant from the Chinese University of Hong Kong, A Multidisciplinary Approach to Elucidating, 
+Monitoring and Enhancing Cognitive and Motor Recovery in Chinese Stroke Patients, Principal Investigators, 
+HK$134k, March 2014 – March 2016. 
+9. Shenzhen Strategic Emerging Industrial Development Funds, Research on Key Technologies and Applications for 
+Hybrid Collaborative Intelligent Video Surveillance in Complicated Scenes, Principal Investigator, RMB$500,000, 
+August 2013 – August 2015. 
+10. Research Grant from Hong Kong Applied Science and Technology Research Institute Company Ltd (ASTRI), 3D 
+Mobile Interactive Device, Principal Investigator, HK$600K, December 2012 – November 2013. 
+11. Microsoft Hong Kong Ltd. Seeding Grant, Human Parsing, Tracking and Identification Using Kinect, HK$78k, 
+Principal Investigator, Sept. 2012 – August 2013. 
+
+-----
+Xiaogang Wang                                                                                                                                                
+Page 3 of 13 
+ 
+12. Hong Kong Research Grant Council Early Career Scheme (RGC/ECS), Automatic Human Behavior Analysis in 
+Crowds Using a Dynamic Agent‐based Model, HK$988K, Principal Investigator, Jan 2013 – Dec 2015. 
+13. Hong Kong Research Grant Council General Research Fund (RGC/GRF), Scene‐specific Pedestrian and Vehicle 
+Detectors in Video Surveillance for Traffic Management, Principal Investigator, HK$681K, Jan 2012 – Dec 2014. 
+14. Hong Kong Research Grant Council General Research Fund (RGC/GRF), Large Crowded Scenes Visual Surveillance 
+with a Distributed Network of Cameras, Principal Investigator, HK$640K, Jan 2011 – Dec 2013. 
+15. National Natural Science Foundation of China (NSFC), Develop a New Intelligent Video Surveillance System for 
+Traffic Control and Driving Safety, Principal Investigator, RMB¥ 210K, 2010‐2012.  
+16. Shun Hing Institute of Advanced Engineering Research Fund #BME‐p3‐10, Diffusion Tensor MRI Predictors of 
+Cognitive Impairment in Confluent White Matter Lesion, Principal Investigator, HK$630k, July 2010 – June 2012. 
+17. Research Grant from Hong Kong Applied Science and Technology Research Institute Company Ltd (ASTRI), 
+Human Detection and Re‐Identification Technology Research, Principal Investigator, HK$900K, May 2011 – April 
+2012. 
+18. CUHK Research Fellowship Scheme, a half support for a postdoctoral fellow for 12 months working on the project 
+of “Scene‐specific Pedestrian and Vehicle Detectors in Video Surveillance for Traffic Management”, HK$141k, July 
+1, 2012 – June 30, 2013.  
+19. Direct Grant for Research from the Chinese University of Hong Kong, Video Surveillance Based on Large Scale 
+Camera Networks, Principal Investigator, HK$150k, Nov. 2009 – Nov. 2011. 
+20. Large Equipment Grant from the Chinese University of Hong Kong, A Large Scale Video Surveillance System, 
+HK$1,000k, Principal Investigator, Dec. 2009 – April 2010.  
+Professional Service 
+ 
+IEEE Member 
+ 
+Consultant for Hong Kong Applied Science and Technology Research Institute Company Limited (ASTRI) on Environment 
+Adaptive Object Detection and Tracking, May 2011 – April 2012 
+ 
+Organizer of ACCV International Workshop of Deep Learning on Visual Data 2014 
+ 
+Associate Editor of IEEE Transactions on Circuits and Systems for Video Technology 
+ 
+Associate Editor of Image and Visual Computing Journal 
+ 
+Aare chair of Asian Conference on Computer Vision 2014 
+ 
+Aare chair of European Conference on Computer Vision 2014 
+ 
+Area chair of IEEE International Conference on Computer Vision 2011 
+ 
+Program committee member for the first IEEE workshop on modeling, simulation, and visual analysis of large crowds, 2011 
+ 
+Program committee member for the third Chinese Conference on Intelligent Visual Surveillance, 2011 
+ 
+Program committee member for the 2011 Workshop on Behavior Informatics 
+
+-----
+Xiaogang Wang                                                                                                                                                
+Page 4 of 13 
+ 
+ 
+Referee – Journals 
+ 
+IEEE Transactions on Pattern Analysis and Machine Intelligence 
+IEEE Transactions on Image Processing 
+IEEE Transactions on Multimedia 
+IEEE Transactions on Medical Imaging 
+IEEE Transactions on Circuits and Systems for Video Technology 
+IEEE Transactions on Systems, Man and Cybernetics – Part B 
+IEEE Transactions on Biomedical Engineering 
+Elsevier Computer Vision and Image Understanding 
+Elsevier Image and Vision Computing 
+Elsevier Neurocomputing 
+Elsevier Signal Processing 
+Springer International Journal of Computer Vision 
+Springer Machine Learning 
+Springer Pattern Recognition Letters 
+Springer Journal of Computer Science and Technology 
+International Journal of Image and Graphics 
+ 
+Referee – Conferences 
+ 
+European Conference on Computer vision 2012 
+European Conference on Computer vision 2010 
+IEEE Computer Society Conference on Computer Vision and Pattern Recognition 2012 
+IEEE Computer Society Conference on Computer Vision and Pattern Recognition 2011 
+IEEE Computer Society Conference on Computer Vision and Pattern Recognition 2010 
+IEEE Computer Society Conference on Computer Vision and Pattern Recognition 2009 
+IEEE Computer Society Conference on Computer Vision and Pattern Recognition 2008 
+IEEE Computer Society Conference on Computer Vision and Pattern Recognition 2007 
+IEEE International Conference on Computer Vision 2009 
+IEEE International Conference on Computer Vision 2007 
+Asian Conference on Computer Vision 2007 
+ 
+Referee – Funding Agencies 
+ 
+Hong Kong Research Grant Council General Research Fund (RGC/GRF) 
+Referee with the Australian Research Council (ARC) 
+National Natural Science Foundation of China (NFSC) 
+ 
+Highlight Achievements on Deep Learning 
+ 
+DeepID team led by Xiaogang Wang and Xiaoou Tang achieved the highest face verification accuracy (99.47%) on 
+the most well known face recognition benchmark Labeled Faces in the Wild (LFW), which was the first time to 
+surpass human performance (99.20%) on this benchmark. 
+ 
+ 
+The DeepID‐Net team led by Wanli Ouyang, Xiaogang Wang, Chen Chagne Loy and Xiaoou Tang participated in 
+ImageNet Large Scale Visual Recognition Challenge (ILSVRC) 2014, one the most important grand challenges in 
+vision, and ranked NO.2 in the object detection task (GoogLeNet was the winner) among 38 top vision groups [2]. 
+This challenge requires detecting objects of 200 categories from 40,000 web images. DeepID‐Net significantly 
+improved the mean Average Precision (mAP) from 22.6% (best result of ILSVRC 2013) to 40.7%. A few months 
+later, DeepID‐Net largely enhanced the state‐of‐the‐art to 50.3% [3], outperforming GoogLeNet (43.9%). 
+
+-----
+Xiaogang Wang                                                                                                                                                
+Page 5 of 13 
+ 
+ 
+The CUvideo team led by Wanli Ouyang and Xiaogang Wang participated in ILSVRC 2015 and won the challenge 
+of object detection from video. They achieved the mAP of 67.8%, while the team in the second place only 
+obtained the mAP of 35.9%. The challenge required detecting 30 object categories from one thousand videos 
+and CUvideo won 28 out of them. 
+Invited Keynote Speeches, Tutorials and Talks 
+1. Keynote speech at Frontiers in Computer Vision 2014, From unified subspace analysis to unified deep learning: 
+ten years journey for face recognition, Beijing, September 2014. 
+2. Keynote speech at Chinese Conference on Biometric Recognition 2014, Deep Learning in Face Recognition, 
+Shenyang, November 2014. 
+3. Tutorial at IEEE International Conference on Image Processing (ICIP), Deep Learning in Object Detection, 
+Segmentation, and Recognition, Paris, October 2014. 
+4. Tutorial at IEEE International Conference on Multimedia & Expo (ICME), Deep Learning in Image and Video 
+Understanding, Chengdu, July 2014. 
+5. Workshop at International Conference on Neural Information Processing, Deep Learning in Image Understanding, 
+Kuala Lumpur, Malaysia, October 2014. 
+6. Invited talk at Zhejing University, Deep Learning in Detection and Recognition, Hangzhou, September 2014. 
+7. Invited talk at Industry Forum at IEEE International Conference on Multimedia & Expo (ICME), Big Visual Data for 
+Intelligent Surveillance, Chengdu, July 2014. 
+8. Invited talked at Chinese Conference on Pattern Recognition 2014, Introduction to Deep Learning and its 
+applications in Computer Vision, Changsha, November 2014 
+9. Invited talk at Dalian University of Technology, Deep Learning in Detection and Recognition, Dalian, August 2014. 
+10. Invited talk at Columbia University, From unified subspace analysis to unified deep learning: ten years journey for 
+face recognition, New York City, July 2014. 
+11. Invited talk at Princeton University, Joint Deep Learning in Human Detection and Recognition, Princeton, July 
+2014. 
+12. Invited talk at Carnegie Mellon University, Joint Deep Learning in Human Detection and Recognition, Pittsburgh, 
+July 2014. 
+13. Invited talk at IBM T J Watson Research, Deep Learning in Detection and Recognition, Watson, July 2014. 
+14. Invited talk at Tsinghua University, Deep Learning in Object Detection, Segmentation, and Recognition, Beijing, 
+May 2014. 
+15. Invited talk at Microsoft Research Asia, Deep Learning in Detection and Recognition, Beijing, May 2014. 
+
+-----
+Xiaogang Wang                                                                                                                                                
+Page 6 of 13 
+ 
+16. Invited talk at International Symposium on Computer Vision and Application, Deep Learning in Computer Vision, 
+Beijing, May 2014. 
+17. Invited talk at Big Data Workshop, Deep Learning from Big Visual Data, Hong Kong, April 2014. 
+18. Invited talk at Huawei Technologies Co. Ltd, Deep Learning in Object Detection, Segmentation, and Recognition, 
+Shenzhen, January 2014. 
+19. Invited talk at Institute of Deep Learning at Baidu, Deep Learning in Object Detection, Segmentation, and 
+Recognition, Beijing, January 2014. 
+20. Invited talk at the Graphic and Image Processing Conference of Guangdong, Deep Learning in Object Detection, 
+Segmentation, and Recognition, Guangzhou, December 2014. 
+21. Invited talk at Institute of Computing Technology, Chinese Academy of Sciences, Deep Learning in Object 
+Detection, Segmentation, and Recognition, Beijing, December 2014. 
+22. Invited talk at Sydney University, Deep Learning in Object Detection, Segmentation, and Recognition, Sydney, 
+December 2014. 
+23. Invited talk at Sydney University of Technology, Deep Learning in Object Detection, Segmentation, and 
+Recognition, Sydney, December 2014. 
+24. Invited talk at Zhejiang University, Deep Learning in Object Detection, Segmentation, and Recognition, Hangzhou, 
+November 2013. 
+25. Invited talk at Nanjing University, Deep Learning in Object Detection, Segmentation, and Recognition, Nanjing, 
+November 2013. 
+26. Invited talk at Southeast University, Deep Learning in Object Detection, Segmentation, and Recognition, Nanjing, 
+November 2013. 
+27. Invited talk at Nanjing University of Information Science and Technology, Deep Learning in Object Detection, 
+Segmentation, and Recognition, Nanjing, November 2013. 
+28. Invited talk at Vision And Learning Seminar (VALS) 2013, Crowd Video Surveillance, Nanjing, April 2013. 
+29. Invited talk at Shanghai Jiaotong University, Crowd Belaviour Analysis, Shanghai, August, 2012. 
+30. Invited talk China Computer Society Advanced Disciplines Lectures on visual pattern recognition, Human 
+Behavior Analysis in Crowded Environment, Beijing, May 2012. 
+31. Invited talk at Empirical College London, Crowd Behaviour Analysis, London, April 2012. 
+Award 
+ 
+Hong Kong RGC Early Career Award 2012.  
+ 
+The Chinese University of Hong Kong Young Researcher Award 2012. 
+
+-----
+Xiaogang Wang                                                                                                                                                
+Page 7 of 13 
+ 
+ 
+Outstanding Young Researcher in Automatic Human Behaviour Analysis award in 2011. The Award is sponsored 
+by the European Research Council Starting Grant agreement no. ERC‐2007‐StG‐203143 (MAHNOB) and is 
+administered by the Awards Committee of the CVPR4HB Workshop Organization. 
+Patents 
+1. 
+Xiaogang Wang, Xiaoou Tang, and Wei Zhang, “System and Method for Synthesizing Portrait Sketch from Photo,” WO Patent 
+WO/2012/027, 904, 2012. 
+2. 
+Gianfranco Doretto, Xiaogang Wang, Thomas Sebastian, Jens Rittscher, and Peter Tu, “Decivce and Methods for Fast 
+Computation of Region Based Image Features,” application number: 11/987785, USA, August 07, 2008. 
+3. 
+Gianfranco Doretto, Xiaogang Wang, Thomas Sebastian, Jens Rittscher, and Peter Tu, “Image Processing for Person and 
+Object Re‐Identification,” application number: 11/987777, USA, Dec, 04, 2007. 
+Publications 
+6700+ citations in Google Scholar with an H‐index of 45.  
+Profile at Google Scholar: http://scholar.google.com/citations?user=‐B5JgjsAAAAJ&hl=en  
+Book Chapters 
+1. 
+X. Wang and R. Zhao, “Person Re‐identification: System Design and Evaluation Overview,” in the book of “Person Re‐
+Identification,” edited by Shaogang Gong, Marco Cristani, Shuicheng Yan, and Chen Change Loy, 2013. 
+2. 
+X. Wang, “Face Identification,” Encyclopedia of Computer Vision, Springer, 2013.  
+3. 
+X. Wang, “Action Recognition Using Topic Models,” in the book of “Visual Analysis of Humans: Looking at People,” edited by 
+Thomas B. Moeslund, Adrian Hilton, Volker Kruger, and Leonid Sigal, published by Springer, 2011. 
+4. 
+X. Wang, “Semantic Object Segmentation,” in the book of “Video Segmentation and Its Applications”, edited by King N. Ngan 
+and Hongliang Li, published by Springer, 2011. 
+Journals 
+5. 
+Y. Sun, X. Wang, and X. Tang, “Hybrid Deep Learning for Face Verification,” accepted to IEEE Transactions on Pattern Analysis 
+and Machine Intelligence (TPAMI), 2016.  
+6. 
+ Z. Wu, Y. Huang, L. Wang, X. Wang, and T. Tan, “"A Comprehensive Study on Cross‐View Gait Based Human Identification with 
+Deep CNNs,” accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2016. 
+7. 
+J. Shao,  Chen Change Loy, and X. Wang, “Learning Scene‐Independent Group Descriptors for Crowd Understanding,” accepted 
+to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2015. 
+8. 
+L. Liu, S. Lao, P. Fieguth, Y. Guo, X. Wang, M. Pietikainen, “Median Robust Extended Local Binary Pattern for Texture 
+Classification,” accepted to IEEE Transactions on Image Processing (TIP), 2015. 
+9. 
+W. Ouyang, X. Zeng, and X, Wang, “Single‐Pedestrian Detection Aided by 2‐Pedestrian Detection,” IEEE Transactions on 
+Pattern Analysis and Machine Intelligence (TPAMI), Vol. 37, pp. 1875‐1889, 2015. 
+10. W. Ouyang, X. Zeng, and X, Wang, “Partial Occlusion Handling in Pedestrian Detection with a Deep Model,” accepted to IEEE 
+Transactions and Circuits and Systems for Video Technology 2015. 
+11. B. Zhou, X. Tang, and X. Wang, “Learning Collective Crowd Behaviors with Dynamic Pedestrian‐Agents,” International Journal 
+of Computer Vision (IJCV), 2014. 
+12. B. Zhou, X. Tang, H. Zhang and X. Wang, “Measuring Crowd Collectiveness,” IEEE Transactions on Pattern Analysis and 
+Machine Intelligence (TPAMI), Vol 36, pp. 1586‐1599, 2014. 
+
+-----
+Xiaogang Wang                                                                                                                                                
+Page 8 of 13 
+ 
+13. Y. Song, W. Cai, H. Huang, X. Wang, Y. Zhou, M. J. Fulham, D. D. Feng, “Lesion Detection and Characterization with Context 
+Driven Approximation in Thoracic FDG PET‐CT Images of NSCLC Studies,” IEEE Transactions on Medical Imaging (TMI), Vol. 33, 
+pp. 408‐421, 2014. 
+14. Q. Gao, F. Gao, H. Zhang, X. Hao, and X. Wang, “Two‐dimensional Maximum Local Variation based on Image Euclidean 
+Distance for Face Recognition,” IEEE Transactions on Image Processing (TIP), 2013. (Impact factor: 3.042) 
+15. X. Wang, M. Wang, and W. Li, “Scene‐Specific Pedestrian Detection for Static Video Surveillance,” IEEE Transactions on Pattern 
+Analysis and Machine Intelligence (TPAMI), Vol. 36, pp. 361‐374, 2014. (Impact factor: 5.960) 
+16. X. Wang, S. Qiu, K. Liu, and X. Tang, “Web Image Re‐ranking Using Query‐Specific Semantic Signatures,” IEEE Transactions on 
+Pattern Analysis and Machine Intelligence (TPAMI), Vol. 36, pp. 810‐823, 2014. (Impact factor: 5.960) 
+17. W. Zhang, D. Zhao, and X. Wang, “Agglomerative Clustering via Maximum Incremental Path Integral,” Pattern Recognition 
+(PR), Vol. 36, pp. 3056‐3065, 2013. (Impact factor: 2.292) 
+18. X. Tang, W. Luo and X. Wang, “Content‐Based Photo Quality Assessment,” IEEE Transactions on Multimedia (TMM), Vol. 15, pp. 
+1930‐1943, 2013. (Impact factor: 1.935) 
+19. R. Zhao and X. Wang, “Counting Vehicles from Semantic Regions,” IEEE Transactions on Intelligent Transportation Systems 
+(TITS), Vol. 14, pp. 1016‐1022, 2013. (Impact factor: 3.452) 
+20. B. Gong, J. Liu, X. Wang, and X. Tang, “Learning Semantic Signatures for 3D Object Retrieval,” IEEE Transactions on Multimedia 
+(TMM), Vol. 15, pp. 369‐377, 2013. 
+21. X. Wang, “Intelligent Multi‐Camera Video Surveillance: A Review,” Pattern Recognition Letters, Vol. 34, pp. 3‐19, 2013.  
+22. K. Jia, X. Wang, and X. Tang, “Image Transformation based on Learning Dictionaries across Image Spaces,” IEEE Transactions on 
+Pattern Analysis and Machine Intelligence (PAMI), Vol. 35, pp. 367‐380, 2013. (Impact factor: 5.960). 
+23. X. Tang, K. Liu, J. Cui, F. Wen and X. Wang, “IntentSearch: Capturing User Intention for One‐Click Internet Image Search,” IEEE 
+Transactions on Pattern Analysis and Machine Intelligence (PAMI), Vol. 34, pp. 1342‐1353, 2012. (Impact factor: 5.960) 
+24. X. Wang, E. Grimson and C. F. Westin, “Tractography Segmentation Using a Hierarchical Dirichlet Processes Mixture Model,” 
+NeuroImage, Vol. 54, pp. 290‐302, 2011. (Impact factor: 5.739)  
+25. X. Wang, K. Ma, G. Ng, and E. Grimsion, “Trajectory Analysis and Semantic Region Modeling Using Nonparametric Hierarchical 
+Bayesian Models,” International Journal of Computer Vision, Vol. 96, pp. 287‐321, 2011. (Impact factor: 5.35) 
+26. C. Zhao, X. Wang and W. Cham, “Background Subtraction via Robust Dictionary Learning,” EURASIP Journal on Image and 
+Video Processing, 2011. 
+27. X. Wang, K. Tieu, and W. E. L. Grimson, “Correspondence‐Free Activity Analysis and Scene Modeling in Multiple Camera 
+Views,” IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), Vol. 32, pp. 56‐71, 2010. (Impact factor: 5.960) 
+28. X. Wang and X. Tang, “Face Photo‐Sketch Synthesis and Recognition Using Multiscale Markov Random Fields,” IEEE 
+Transactions on Pattern Analysis and Machine Intelligence (PAMI), Vol. 31, pp. 1955‐1967, 2009. (Impact factor: 5.960) 
+29. X. Wang, X. Ma, and W. E. L. Grimson, “Unsupervised Activity Perception in Crowded and Complicated Scenes Using 
+Hierarchical Bayesian Models,” IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), Vol. 31, pp. 539‐555, 
+2009. (Impact factor: 5.960) 
+30. X. Wang, and X. Tang, “Random Sampling for Subspace Face Recognition,” International Journal of Computer Vision (IJCV), Vol. 
+70, No. 1, pp 91‐104, 2006. (Impact factor: 5.35) 
+31. X. Wang, and X. Tang, “A Unified Framework for Subspace Face Recognition,” IEEE Transactions on Pattern Analysis and 
+Machine Intelligence (PAMI), Vol. 26, No.9, pp. 1222‐1228, 2004. (Impact factor: 5.960) 
+32. X. Wang, and X. Tang, “Hallucinating Face by Eigentransformation,” IEEE Trans. on System Man and Cybernetics, Part C, Vol. 
+35, No. 3, pp. 425‐434, 2005. (Impact factor: 2.016) 
+
+-----
+Xiaogang Wang                                                                                                                                                
+Page 9 of 13 
+ 
+33. X. Tang, and X. Wang, “Face Sketch Recognition,” IEEE Transactions on Circuits and Systems for Video Technology (CSVT), 
+Special Issue on Image‐ and Video‐ Based Biometrics, Vol. 14, No. 1, pp. 50‐57, January, 2004. (Impact factor: 2.548) 
+Refereed Conferences 
+34. T. Cheng, X. Xiao, W. E, and X. Wang, “Convolutional Neural Networks With Low‐rank Regularization,” International Conference 
+on Learning Representations (ICLR), 2016  
+35. X. Chu, W. Ouyang, W. Yang, and X. Wang, “Multi‐task Recurrent Neural Network for Immediacy Prediction,” in Proceedings of 
+IEEE International Conference on Computer Vision (ICCV), oral, 2015. 
+36. W. Ouyang, H. Li, X. Zeng, and X. Wang, “Learning Deep Representation with Large‐scale Attributes,” in Proceedings of IEEE 
+International Conference on Computer Vision (ICCV), 2015. 
+37. Y. Tian, P. Luo, X. Wang, and X. Tang, “Deep Learning Strong Parts for Pedestrian Detection,” in Proceedings of IEEE 
+International Conference on Computer Vision (ICCV), 2015. 
+38. Z. Liu, P. Luo, X. Wang, and X. Tang, “Deep Learning Face Attributes in the Wild,” in Proceedings of IEEE International 
+Conference on Computer Vision (ICCV), 2015. 
+39. L. Wang, W. Ouyang, X. Wang, and H. Lu, “Visual Tracking with Fully Convolutional Networks,” in Proceedings of IEEE 
+International Conference on Computer Vision (ICCV), 2015. 
+40. S. Yi, H. Li, and X. Wang, “Pedestrian Travel Time Estimation in Crowded Scenes,” in Proceedings of IEEE International 
+Conference on Computer Vision (ICCV), 2015. 
+41. C. Zhang, H. Li, X. Wang, and X. Yang, “Cross‐scene Crowd via Deep Convolutional Neural Networks,” in Proceedings of IEEE 
+Computer Society Conference on Computer Vision and Patter Recognition (CVPR), 2015. 
+42. S. Yi, H. Li, and X. Wang, “Understanding Pedestrian Behaviors from Stationary Crowd Groups,” in Proceedings of IEEE 
+Computer Society Conference on Computer Vision and Patter Recognition (CVPR), 2015. 
+43. R. Zhao, W. Ouyang, H. Li, and X. Wang, “Saliency Detection by Multi‐Context Deep Learning,” in Proceedings of IEEE Computer 
+Society Conference on Computer Vision and Patter Recognition (CVPR), 2015. 
+44. J. Shao, K. Kang, C. C. Loy, and X. Wang, “Deeply Learned Attributes for Crowded Scene Understanding,” in Proceedings of IEEE 
+Computer Society Conference on Computer Vision and Patter Recognition (CVPR), 2015. 
+45. T. Xiao, T. Xia, Y. Yang, C. Huang, and X. Wang, “Learning from Massive Noisy Labeled Data for Image Classification,” in 
+Proceedings of IEEE Computer Society Conference on Computer Vision and Patter Recognition (CVPR), 2015. 
+46. Y. Tian, P. Luo, X. Wang, and X. Tang “Pedestrian Detection aided by Deep Learning Semantic Tasks,” in Proceedings of IEEE 
+Computer Society Conference on Computer Vision and Patter Recognition (CVPR), 2015. 
+47. W. Ouyang, X. Wang, X. Zeng, S. Qiu, P. Luo, Y. Tian, H. Li, S. Yang, Z. Wang, C. Loy, X. Tang, “DeepID‐Net: Deformable Deep 
+Convolutional Neural Networks for Object Detection,” in Proceedings of IEEE Computer Society Conference on Computer Vision 
+and Patter Recognition (CVPR), 2015. 
+48. Y. Sun, X. Wang, and X. Tang, “Deeply learned face representations are sparse, selective, and robust,” in Proceedings of IEEE 
+Computer Society Conference on Computer Vision and Patter Recognition (CVPR), 2015. 
+49. Y. Sun, X. Wang, and X. Tang, “Deep Learning Face Representation by Joint Identification‐Verification,” in Proceedings of 
+Neural Information Processing Systems (NIPS), 2014. 
+50. P. Luo, Z. Zhu, X. Wang, and X. Tang, “Deep Learning Multi‐View Representation for Face Recognition,” in Proceedings of 
+Neural Information Processing Systems (NIPS), 2014. 
+51. B. Xu, X. Wang, and X. Tang, “Deep Learning Multi‐Timescale Shared Representations for Music and Video Fusion,” in 
+Proceedings of AC Multimedia, 2014 
+52. X. Zeng, W. Ouyang, M. Meng, and X. Wang, “Deep Learning of Scene‐Specific Classifier for Pedestrian Detection,” in 
+Proceedings of European Conference on Computer Vision (ECCV), 2014. 
+53. F. Zhu, X. Wang, and N. Yu, “Crowd Tracking with Dynamic Evolution of Group Structures,” in Proceedings of European 
+Conference on Computer Vision (ECCV), 2014. 
+
+-----
+Xiaogang Wang                                                                                                                                                
+Page 10 of 13 
+ 
+54. Z. Wang, W. Qin, J. Yuan, and X. Wang, “MRF Denoising with Compressed Sensing and Adaptive Filtering,” in Proceedings of 
+IEEE International Symposium on Biomedical Imaging (ISBI), 2014 
+55. S. Yi and X. Wang, “Profiling Stationary Crowd Groups,” in Proceedings of IEEE International Conference on Multimedia and 
+Expo. (ICME), 2014. (Oral)   
+56. S. Yi, C. Lu, X. Wang, and J. Jia, “L0 Regularized Stationary Time Estimation for Crowd Group Analysis,” in Proceedings of IEEE 
+Computer Society Conference on Computer Vision and Patter Recognition (CVPR), 2014. (Oral) 
+57. J. Shao, C. Loy, and X. Wang, “Scene‐Independent Group Profiling in Crowd,” in Proceedings of IEEE Computer Society 
+Conference on Computer Vision and Patter Recognition (CVPR), 2014. (Oral) 
+58. W. Li, R. Zhao, T. Xiao, and X. Wang, “DeepReid: Deep Filter Pairing Neural Network for Person Re‐identification,” in 
+Proceedings of IEEE Computer Society Conference on Computer Vision and Patter Recognition (CVPR), 2014. 
+59. Y. Sun, X. Wang, and X. Tang, “Deep Learning Face Representation from Predicting 10,000 Classes,” in Proceedings of IEEE 
+Computer Society Conference on Computer Vision and Patter Recognition (CVPR), 2014. 
+60. P. Luo, Y. Tian, X. Wang, and X. Tang, “Switchable Deep Network for Pedestrian Detection,” in Proceedings of IEEE Computer 
+Society Conference on Computer Vision and Patter Recognition (CVPR), 2014. 
+61. W. Ouyang, X. Chu, and X. Wang, “Multi‐source Deep Learning for Human Pose Estimation,” in Proceedings of IEEE Computer 
+Society Conference on Computer Vision and Patter Recognition (CVPR), 2014. 
+62. R. Zhao, W. Ouyang, and X. Wang, “Learning Mid‐level Filters for Person Re‐identification,” in Proceedings of IEEE Computer 
+Society Conference on Computer Vision and Patter Recognition (CVPR), 2014. 
+63. W. Ouyang and X. Wang, “Joint Deep Learning for Pedestrian Detection,” in Proceedings of IEEE International Conference on 
+Computer Vision (ICCV), 2013. 
+64. X. Zeng, W. Ouyang, and X. Wang, “Multi‐Stage Contextual Deep Learning for Pedestrian Detection,” in Proceedings of IEEE 
+International Conference on Computer Vision (ICCV), 2013.  
+65. R. Zhao, W. Ouyang, and X. Wang, “Person Re‐identification by Salience Matching,” in Proceedings of IEEE International 
+Conference on Computer Vision (ICCV), 2013. 
+66. Y. Sun, X. Wang, and X. Tang, “Hybrid Deep Learning for Computing Face Similarities,” in Proceedings of IEEE International 
+Conference on Computer Vision (ICCV), 2013. 
+67. Z. Zhu, P. Luo, X. Wang, and X. Tang, “Deep Learning Identity Preserving Face Space,” in Proceedings of IEEE International 
+Conference on Computer Vision (ICCV), 2013. 
+68. P. Luo, X. Wang, and X. Tang, “A Deep Sum‐Product Architecture for Robust Facial Attributes Analysis,” in Proceedings of IEEE 
+International Conference on Computer Vision (ICCV), 2013. 
+69. P. Luo, X. Wang, and X. Tang, “Pedestrian Parsing via Deep Decompositional Neural Network,” in Proceedings of IEEE 
+International Conference on Computer Vision (ICCV), 2013. 
+70. S. Qiu, X. Wang, X. Tang, “Visual Semantic Complex Network for Web Images,” in Proceedings of IEEE International Conference 
+on Computer Vision (ICCV), 2013. 
+71. S. Qiu, X. Wang, and X. Tang, “Anchor Concept Graph Distance for Web Image Re‐ranking,” ACM Multimedia 2013. 
+72. S. Liu, Y. Song, W. Cai, S. Pujol, R. Kikinis, X. Wang, and D. Feng, “Multifold Bayesian Kernelization in Alzheimer’s Diagnosis,” in 
+Proceedings of International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2013. 
+73. Y. Song, W. Cai, H. Huang, X. Wang, S. Eberl, M. Fulham, and D. Feng, “Similarity Guided Feature Labeling for Lesion Detection,” 
+in Proceedings of International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2013. 
+74. M. Chen, W. Li, W. Zhang, and X. Wang, “Dimensionality Reduction with Generalized Linear Models,” in Proceedings of Int’l 
+Joint Conferences on Artificial Intelligence (IJCAI), oral, 2013. 
+75. W. Ouyang, X. Zeng, and X. Wang, “Modeling Mutual Visibility Relationship in Pedestrian Detection,” in Proceedings of IEEE 
+Computer Society Conference on Computer Vision and Patter Recognition (CVPR), 2013. 
+76. W. Ouyang and X. Wang, “Single‐Pedestrian Detection aided by Multi‐pedestrian Detection,” in Proceedings of IEEE Computer 
+Society Conference on Computer Vision and Patter Recognition (CVPR), 2013. 
+
+-----
+Xiaogang Wang                                                                                                                                                
+Page 11 of 13 
+ 
+77. B. Zhou, X. Tang, and X. Wang, “Measuring Crowd Collectiveness,” in Proceedings of IEEE Computer Society Conference on 
+Computer Vision and Patter Recognition (CVPR), 2013. 
+78. W. Li and X. Wang, “Locally Aligned Feature Transforms across Views,” in Proceedings of IEEE Computer Society Conference on 
+Computer Vision and Patter Recognition (CVPR), 2013. 
+79. R. Zhao, W. Ouyang, and X. Wang, “Unsupervised Salience Learning for Person Re‐identification,” in Proceedings of IEEE 
+Computer Society Conference on Computer Vision and Patter Recognition (CVPR), 2013. 
+80. Y. Sun, X. Wang, and X. Tang, “Deep Convolutional Network Cascade for Facial Point Detection,” in Proceedings of IEEE 
+Computer Society Conference on Computer Vision and Patter Recognition (CVPR), 2013. 
+81. W. Li, R. Zhao, X. Wang, “Human Reidentification with Transferred Metric Learning,” in Proceedings of Asian Conference on 
+Computer Vision (ACCV), 2012. 
+82. P. Luo, X. Wang, L. Liang, and X. Tang, “Joint Semantic Segmentation by Searching for Compatible‐Competitive References,” in 
+Proceedings of ACM Multimedia, 2012. 
+83. X. Wu, Y. Qiao, X. Wang and X. Tang, “Bridging Music and Image: A Preliminary Study with Multiple Ranking CCA Learning,” in 
+Proceedings of ACM Multimedia, 2012. 
+84. B. Zhou, X. Tang and X. Wang, “Coherent Filtering: Detecting Coherent Motions from Crowd Clutters,” in Proceedings of 
+European Conference on Computer Vision (ECCV), 2012. 
+85. W. Zhang, X. Wang, D. Zhao, and X. Tang, “Graph Degree Linkage: Agglomerative Clustering on a Directed Graph,” in 
+Proceedings of European Conference on Computer Vision (ECCV), 2012. 
+86. W. Ouyang and X. Wang, “A Discriminative Deep Model for Pedestrian Detection with Occlusion Handling,” in Proceedings of 
+IEEE Computer Society Conference on Computer Vision and Patter Recognition (CVPR), 2012. 
+87. M. Wang, W. Li and X. Wang, “Transferring a Generic Pedestrian Detector Towards Specific Scenes,” in Proceedings of IEEE 
+Computer Society Conference on Computer Vision and Patter Recognition (CVPR), 2012. 
+88. B. Zhou, X. Tang and X. Wang, “Understanding Collective Crowd Behaviors: Learning Mixture Model of Dynamic Pedestrian‐
+Agents,” in Proceedings of IEEE Computer Society Conference on Computer Vision and Patter Recognition (CVPR) 2012.  
+89. P. Luo, X. Wang and X. Tang, “Hierarchical Face Parsing via Deep Learning,” in Proceedings of IEEE Computer Society 
+Conference on Computer Vision and Patter Recognition (CVPR) 2012. 
+90. W. Luo, F. Lu, X. Wang and X. Tang, “Synthesizing Oil Painting Surface Geometry from a Single Photograph,” in Proceedings of 
+IEEE Computer Society Conference on Computer Vision and Patter Recognition (CVPR) 2012. 
+91. C. Li, X. He, V. Mok, W. Chu, J. Yuan, Y. Sun and X. Wang, “Free‐Form Fibers: A Whole Brain Fiber‐to‐DTI Registration Method,” 
+in Proceedings of Workshop on Computational Diffusion MRI, 2011. 
+92. B. Gong, J. Liu, X. Wang, and X. Tang, “3D Object Retrieval with Semantic Attributes,” in Proceedings of ACM Multimedia, 2011. 
+93. W. Luo, X. Wang, and X. Tang, “Content‐Based Photo Quality Assessment,” in Proceedings of IEEE International Conference on 
+Computer Vision (ICCV) 2011. 
+94. K. Jia, X. Wang, and X. Tang, “Optical Flow Estimation Using Learned Sparse Model,” in Proceedings of IEEE International 
+Conference on Computer Vision (ICCV) 2011. 
+95. X. Wang, K. Liu and X. Tang, “Query‐Specific Visual Semantic Spaces for Web Image Re‐ranking,” in Proceedings of IEEE 
+Computer Society Conference on Computer Vision and Patter Recognition (CVPR) 2011. 
+96. M. Wang and X. Wang, “Automatic Adaption of a Generic Pedestrian Detector to a Specific Traffic Scene,” in Proceedings of 
+IEEE Computer Society Conference on Computer Vision and Patter Recognition (CVPR) 2011. 
+97. W. Zhang, X. Wang and X. Tang, “Coupled Information‐Theoretic Encoding for Face Photo‐Sketch Recognition,” in Proceedings 
+of IEEE Computer Society Conference on Computer Vision and Patter Recognition (CVPR) 2011. (oral) 
+98. B. Zhou, X. Wang and X. Tang, “Random Field Topic Model for Semantic Region Analysis in Crowded Scenes from Tracklets,” in 
+Proceedings of IEEE Computer Society Conference on Computer Vision and Patter Recognition (CVPR) 2011. 
+
+-----
+Xiaogang Wang                                                                                                                                                
+Page 12 of 13 
+ 
+99. C. Zhao, X. Wang and W. Cham, “Joint Face Alignment with a Generic Deformable Face Model,” in Proceedings of IEEE 
+Computer Society Conference on Computer Vision and Patter Recognition (CVPR) 2011. 
+100. W. Zhang, X. Wang and X. Tang, “Lighting and Pose Robust Face Sketch Synthesis,” in Proceedings of European Conference on 
+Computer Vision (ECCV), 2010. 
+101. X. Wang, E. Grimson and C.‐F. Westin, “Tractography Segmentation Using a Hierarchical Dirichlet Processes Mixture Model,” in 
+Proceedings of Information Processing in Medical Imaging, 2009. 
+102. X. Wang, C. Zhang and Z. Zhang, “Boosted Multi‐Task Learning for Face Verification with Applications to Web Image and Video 
+Search,” in Proceedings of IEEE Computer Society Conference on Computer Vision and Patter Recognition (CVPR) 2009. 
+103. X. Wang, K. Tieu, and E. Grimson, “Correspondence‐Free Multi‐Camera Activity Analysis and Scene Modeling,” in Proceedings 
+of IEEE Computer Society Conference on Computer Vision and Patter Recognition (CVPR) 2008. (31.9% acceptance ratio) 
+104. X. Wang, and E. Grimson, “Trajectory Analysis and Semantic Region Modeling Using A Nonparametric Bayesian Model,” in 
+Proceedings of IEEE Computer Society Conference on Computer Vision and Patter Recognition (CVPR) 2008. (31.9% acceptance 
+ratio) 
+105. X. Wang, X. Ma and E. Grimson, “Unsupervised Activity Perception by Hierarchical Bayesian Models,” in Proceedings of IEEE 
+Computer Society Conference on Computer Vision and Patter Recognition (CVPR) 2007. (28.2% acceptance ratio) 
+106. B. Bose, X. Wang, and E. Grimson, “Multi‐class Object Tracking Algorithm that Handles Fragmentation and Grouping,” in 
+Proceedings of IEEE Computer Science on Computer Vision and Patter Recognition (CVPR) 2007. (28.2% acceptance ratio) 
+107. X. Wang, G. Doretto, T. Sebastian, J. Rittscher, and P. Tu, “Shape and Appearance Context Modeling”, in Proceedings of IEEE 
+International Conference on Computer Vision (ICCV) 2007. (23% acceptance ratio) 
+108. G. Dalley, and X. Wang, “Event Detection Using An Attention Based Tracker,” in Proceedings of the tenth International 
+Workshop on Performance Evaluation of Tracking and Surveillance System (PETS) in Conjunction with ICCV 2007, 2007. 
+109. X. Wang and E. Grimson, “Spatial Latent Dirichlet Allocation,” in Proceedings of Neural Information Processing Systems 
+Conference (NIPS) 2007. (24% acceptance ratio) 
+110. X. Wang, K. Tieu and E. Grimson, “Learning Semantic Scene Models by Trajectory Analysis,” in Proceedings of European 
+Conference on Computer Vision (ECCV) 2006. (21.4% acceptance ratio) 
+111. X. Wang, and X. Tang, “Subspace Analysis using Random Mixture Models,” in Proceedings of IEEE Computer Society Conference 
+on Computer Vision and Patter Recognition (CVPR) 2005. (28.1% acceptance ratio) 
+112. X. Wang, and X. Tang, “Random Sampling LDA for Face Recognition,” in Proceedings of IEEE Computer Society Conference on 
+Computer Vision and Patter Recognition (CVPR) 2004. (oral, 6.2% acceptance ratio) 
+113. X. Wang, and X. Tang, “Dual‐Space Linear Discriminant Analysis for Face Recognition,” in Proceedings of IEEE Computer Society 
+Conference on Computer Vision and Patter Recognition (CVPR) 2004. (29.8% acceptance ratio) 
+114. X. Wang, and X. Tang, “Unified Subspace Analysis for Face Recognition,” in Proceedings of IEEE International Conference on 
+Computer Vision (ICCV), 2003. (20.5% acceptance ratio) 
+115. X. Tang, and X. Wang, “Face Sketch Synthesis and Recognition,” in Proceedings of IEEE International Conference on Computer 
+Vision (ICCV), 2003. (20.5% acceptance ratio) 
+116. X. Wang, and X. Tang, “Using Random Subspace to Combine Multiple Features for Face Recognition,” in Proceedings of IEEE 
+International Conference on Automatic Face and Gesture Recognition, pp. 284‐289, 2004.  
+117. X. Wang and X. Tang, “Bayesian Face Recognition Based on Gaussian Mixture Models,” in Proceedings of International 
+Conference on Pattern Recognition (ICPR), Vol. 4, pp. 23‐26, 2004. (oral, 18.0% acceptance ratio) 
+118. X. Wang and X. Tang, “Improving Indoor and Outdoor Face Recognition Using Unified Subspace Analysis and Gabor Features,” 
+in Proceedings of International Conference on Image Processing (ICIP), Vol. 3, pp. 24‐27, 2004. (44.2% acceptance ratio) 
+
+-----
+Xiaogang Wang                                                                                                                                                
+Page 13 of 13 
+ 
+119. X. Wang and X. Tang, “Experimental Study on Multiple LDA Classifier Combination for High Dimensional Data Classification,” 
+Multiple Classifier Systems, pp. 344‐353, 2004. 
+120. X. Wang, and X. Tang, “An Improved Bayesian Face Recognition Algorithm in PCA Subspace,” in Proceedings of IEEE 
+International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Vol. 3, pp. 129‐132, 2003. (56.2% acceptance 
+ratio) 
+121. X. Wang, and X. Tang, “Face Hallucination and Recognition,” in Proceedings of the 4th International Conference on Audio‐ and 
+Video‐Based Person Authentication, Guildford, UK, June 2003.  
+122. X. Wang, and X. Tang, “Bayesian Face Recognition Using Gabor Features,” in Proceedings of ACM SIGMM 2003 Multimedia 
+Biometrics Methods and Applications Workshop, Berkeley, CA, Nov. 2003.  
+123. B. Luo, Xiaogang Wang, and X. Tang, “A World Wide Web Based Image Search Engine Using Text and Image Content 
+Features,” in Proceedings of IS&T/SPIE Electronic Imaging 2003, Internet Imaging IV, 2003.  
+124. X. Tang, and X. Wang, “Face Photo Recognition Using Sketch,” in Proceedings of IEEE International Conference on Image 
+Processing (ICIP), Vol. 1, pp. 257‐260, Rochester, New York, Sept. 2002. (58.3% acceptance ratio) 
+ 
+
+-----

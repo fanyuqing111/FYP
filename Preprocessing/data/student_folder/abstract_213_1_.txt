@@ -1,0 +1,55 @@
+Abstract 
+Currently, wideband receiver had become a highly popular research topic because of its 
+capability to support both high-speed communication as well as multi-standard 
+integration. Ultra-wideband (UWB) wireless transmission standard was established by 
+Federal Communication Commission (FCC) to support high-speed transmission using 
+bandwidth from 3.1 – 10.6 GHz. Software defined radios (SDRs) have enabled 
+multistandard wideband receiver, which covers multiple wireless standards distributed 
+over sub-6-GHz bands, such as WiFi, GSM and Bluetooth. The first building block in 
+such wideband wideband receivers, wideband low-noise amplifier (LNA), is critical to 
+the performance of the entire receiver chain.   
+Noise cancelling (NC) interesting technique in wideband LNA design. It breaks the 
+trade-off between input matching and noise performance of LNA. By adding two 
+feedforward paths using two auxiliary amplifiers, the noise of input transistor is 
+cancelled at output. The objective of this research is to explore this technique and 
+propose a novel noise optimization method in NC LNA. Furthermore novel NC LNA 
+architectures are proposed to exploit improvements in gain, noise figure and linearity. 
+These architectures are verified through simulation as well as silicon measurements. 
+A noise modeling and optimization method that is helpful in designing the frequency 
+response of noise in a NC wideband LNA is proposed. A common gate NC LNA with 
+a bandwidth of 3 – 11.4 GHz, covering the UWB bandwidth is designed and 
+implemented utilizing the noise modeling method. Fabricated in CMOS 65nm 
+technology, it has a peak gain of 14 dB with a minimum noise figure of 3.8 dB. 
+
+-----
+Measured IIP3 also shows a decent value of +2.1 dBm. 
+Another wideband resistive-feedback NC LNA with an additional source-follower-
+feedback (SFF), which improves both gain and NF, is presented. Fabricated in a 65nm 
+CMOS process, the wideband LNA achieves a flat S21 of 16.8 dB, a flat NF of 2.87-
+3.77 dB and S11 below -10 dB over a 3-dB bandwidth of 0.5-7 GHz. It consumes a DC 
+power of 11.3mW from a 1.2-V supply and occupies an active area of only 0.044mm2. 
+Finally, a common-gate noise canceling LNA employing PNMOS as distortion 
+cancellation is proposed. It is crucial for wideband LNAs to achieve high IIP3, 
+preventing in-band intermodulation interference. Fabricated in a 65nm CMOS process, 
+the wideband LNA achieves an S21 of 12.8 dB, a flat NF of 3.3-5.2 dB and S11 below -
+10 dB over a 3-dB bandwidth of 1-20 GHz. It shows an IIP3 larger than 5 dBm across 
+the entire 19 GHz bandwidth and the highest measured IIP3 is 12.7 dBm. 
+ 
+ 
+
+-----
+Publication List 
+Y. Chen, P. I. Mak, H. Yu, C. C. Boon and R. P. Martins, "An Area-Efficient and 
+Tunable Bandwidth-Extension Technique for a Wideband CMOS Amplifier Handling 
+50+ Gb/s Signaling," IEEE Trans on Microw. Theory Techn., vol. 65, no. 12, pp 4960-
+4975, Dec. 2017 
+H. Yu, Y. Chen, C. C. Boon, C. Li, P. I. Mak and R. P. Martins, “A 0.044-mm2 0.5-to-
+7-GHz 
+Resistor-Plus-Source-Follower-Feedback 
+Noise-Cancelling 
+LNA                  
+with a Flat NF of 3.3±
+0.45 dB,” IEEE Trans. Circuits Syst. II, Express Briefs, Minor 
+Revision. 
+
+-----

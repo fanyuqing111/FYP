@@ -1,0 +1,57 @@
+Abstract  
+The widespread use of LED lamps in all illumination environments is witnessed by the early 
+21st century. The usages of LEDs in indoor communications are gradually investigated in the 
+last two decades. Companies like Pure-LiFi and oledcomm (with the product Li-Fi MAX), as 
+well as many research institutes, are researching on the secure and high-speed light-based 
+communication approach with good adaptivity. The fast development of visible light 
+communication (VLC) provides a great chance for visible light positioning (VLP) systems. 
+Moreover, researchers are seeking a feasible indoor positioning technology and establish an 
+indoor GPS like system. As the GPS signals have severe multi-path effects and strong signal 
+attenuations. Visible light with its light of sight (LOS) property and fewer reflections and 
+diffractions gain advantages in the positioning accuracy over other RF-based techniques.  
+There are several positioning algorithms, the simplest one in structure is the received signal 
+strength (RSS) which has good signal noise ratio  (SNR) property, but is not feasible in 
+situations with rotations and intensity disturbance. And Time Difference of Arrival (TDOA) is 
+one of the complicated algorithms, with high demands in hardware, but good robustness in 
+rotations. Among the positioning algorithms, Phase Difference of Arrival (PDOA) is one of 
+the compromises. PDOA is similar to the TDOA based method in concept, however, using 
+continuous sine waves rather than short pulses, reducing the hardware complexity greatly. 
+Meanwhile, PDOA has both the high accuracy and rotation robustness properties. 
+In this thesis, our first concern on the classical PDOA systems is the use of local oscillators 
+(LOs). The LOs are usually using hardware devices and the modulation frequencies are 
+constrained by the multiples of a fundamental LO’s frequency. Also, such LOs are used in both 
+transmitting and receiving sides, causing clock precision related errors. Hence, a system with 
+virtual LOs (VLO) is proposed, using software generated signals,  and a new algorithm with 
+higher frequency allocation flexibility is also proposed. Therefore, the interferences of 
+harmonics from the modulation frequencies are avoided and less band is occupied. The 
+proposed optimizations are hence promising in the combination of the VLC and VLP systems. 
+Further researches reveal that PDOA systems using LOs (even with VLO) have an issue of 
+pseudo synchronization. In actual applications, the signals received are truncated with a 
+random time schedule and unsynchronized to the transmitter side. This causes a confusion of 
+phases at the receiving end with leap solutions in inverse trigonometric functions, ending up 
+with sudden phase changes. Therefore, a novel LO irrelevant positioning scheme is further 
+
+-----
+proposed. The scheme with one extra transmission frequency is added on the transmitter side, 
+with totally five signals carrying four distance information. The proposed algorithm has two 
+distinguished differential processes on phase extractions. The distance difference 
+measurements are extracted from the differential of PDOA signals, hence called DPDOA 
+algorithm. Our proposed DPDOA algorithm requires no pseudo synchronization at the receiver 
+ends and completely removes the LOs. Experimental validations illustrate sub-decimetre level 
+positioning accuracy. 
+In actual applications, the LED lamps have phase/time models different from the ideal sphere 
+model and the performance of the PDOA/TDOA based system is hence compromised. A neural 
+network (NN) based solution is proposed  for the first time to address the onsite modeling and 
+positioning problem in a single hidden layer NN.  The proposed scheme saves position solving 
+calculations and enhances the positioning performance evidently. 
+After examining phase and time-based VLP systems, it is found that phase/time measurements 
+have generally higher SNR requirements than the RSS measurements. Meanwhile, the RSS as 
+the most cost-efficient algorithm has higher SNR tolerance when no rotation or intensity 
+disturbance occurs. The DPDOA algorithm is capable of functioning under rotation and 
+intensity disturbances. Hence, we propose a hybrid algorithm of using both DPDOA and RSS 
+measurements with selection based strategies. As the DPDOA signals contain both RSS and 
+PDOA information, no extra cost incurs. We design the T-selection and the V-selection 
+strategies using DPDOA and RSS measurements as fundamental positioning standard, and 
+show that the T-selection based hybrid system outperforms the V-selection based system. 
+
+-----

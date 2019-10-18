@@ -1,0 +1,70 @@
+Pure sulfide kesterite solar cells with cation substituted absorber 
+and back contact intermediate layer 
+PhD student: Zhuk Siarhei 
+Chalcopyrite Cu(In,Ga)Se2 (CIGS) and CdTe thin film solar cells have the potential to reduce 
+the cost of the photovoltaic (PV) technology. They showed high power conversion efficiency 
+(PCE) of more than 20% shrinking the gap between them and champion crystalline Si solar cell. 
+Despite of high efficiency and ease of fabrication, application of CdTe PV technology is limited 
+due to toxicity of Cd and scarcity of Te. In contrast, CIGS does not contain toxic elements. 
+However, a high demand for In from flat panel display industry along with its limited availability 
+results in increasingly high cost of In. The commercial success of CIGS solar cells has brought 
+much attention to earth abundant, non-toxic and low cost kesterite Cu2ZnSnS4 (CZTS) where In 
+and Ga are replaced with Zn and Sn. The similar electronic and optical properties of these 
+adamantine semiconductor materials enable CZTS solar cells to inherit the device structure of 
+CIGS solar cells. CZTS is an intrinsic p-type semiconductor with a direct bandgap of about 1.5eV 
+and high absorption coefficient of >104 cm−1 for visible wavelengths. Bandgap of Cu2ZnSn(S,Se)4 
+can be tuned from 1eV to 1.5eV by changing S/(S+Se) ratio from 0 to 1 which provides a degree 
+of flexibility in device fabrication with the material. 
+There is still a large difference in PCE (~12%) between the best pure sulfide chalcopyrite and 
+kesterite solar cells. First, solid state reaction occurs at the back interface between CZTS absorber 
+layer and Mo back contact during high temperature sulfurization. S diffuses into Mo to form 
+resistive MoS2. In addition, as a result of the reaction, CZTS may decompose into secondary 
+phases such as ZnS, Cu2S and volatile SnS causing void formation. Second, a large open-circuit 
+voltage deficit limits performance of the kesterite solar cells. Similar size of Cu and Zn cations in 
+CZTS facilitates cation disordering and formation of detrimental defects causing charge 
+recombination. 
+In this thesis, effect of sputter-deposited TaN, ZnS and CuO intermediate layers (IL) on the 
+quality of the back interface of solar cells with pure sulfide kesterite absorber layer was studied in 
+detail. The novel IL were used to slow down the back interface reaction and control crystal quality 
+of kesterite absorber layer. It has been found that interfacial MoS2 thickness between sputtered 
+Cu-poor CZTS and Mo can be effectively controlled using TaN IL. When 12nm TaN IL is present, 
+no continuous MoS2 is observed using scanning transmission electron microscopy (STEM) after 
+sulfurization at 600°C for 10 min. Incorporation of 10nm ZnS IL at the interface between solution-
+processed Cd-substituted CZTS (CZCTS) and Mo enhances CZCTS grain growth and suppresses 
+
+-----
+void formation. Moreover, deposition of the ZnS IL does not cause increase of MoS2 thickness. 
+Positive effect of the ZnS IL incorporation was observed for both solution-processed CZCTS and 
+CZTS solar cells prepared by co-sputtering of ZnS, SnS and Cu targets. PCE of solution-processed 
+CZCTS solar cells was enhanced from 9.5% to 10% as a result of 10nm ZnS IL layer insertion. A 
+higher PCE of 10.8% was achieved for solution processed CZCTS solar cells using CuO IL 
+incorporation. Insertion of the optimized 4nm CuO IL resulted in enhancement of short-circuit 
+current density (Jsc) while open-circuit voltage (Voc) and fill factor (FF) were almost constant. 
+Moreover, further increase of CuO IL thickness enables to get as high Jsc as 28.5 mA/cm2. To the 
+best of my knowledge, this is the highest reported Jsc for pure sulfide CZCTS solar cells. In 
+addition, increased carrier lifetime in absorber is observed for 32nm CuO IL. It has been found 
+that absorbance is increased with CuO IL. Moreover, CZCTS/CdS devices with CuO IL 
+demonstrate improved stability of PCE. 
+To address the problem of the absorber layer quality, impact of Mo on sputtered CZTS thin 
+films was studied. Mo was found to be a dopant for CZTS enabling to tune CZTS resistivity in a 
+wide range. Mo shows graded concentration profile in CZTS resulting in internal electric field. In 
+addition, it has been revealed that Mo incorporation enables to enhance absorbance of CZTS thin 
+films while not affecting bandgap of CZTS based on measured external quantum efficiency 
+spectra. Mo incorporation into CZTS results in reduced lattice parameters suggesting Sn 
+substitution. Furthermore, Mo incorporation in CZTS demonstrates a substantial effect on the 
+photovoltaic performance of the solar cells prepared by sputtering of quaternary compound Cu-
+poor CZTS target. When optimized Mo co-sputtering power is applied, PCE of CZTS solar cell is 
+increased from 1.6% to 5.5%. 
+In addition, effect of carbon (C) incorporation in sputtered CZTS and Cu doped ZnS (ZnS:Cu) 
+thin films was investigated. It has been found that optimized content of C facilitates growth of 
+CZTS crystallites and reduces void formation. Furthermore, an increase of CZTS lattice 
+parameters is observed suggesting formation of interstitials by incorporated C atoms. As a result 
+of C incorporation, resistivity of CZTS thin films decreases by 1-3 orders of magnitude while 
+measured bandgap is tuned in the ranged from 1.39eV to 1.6eV. Sulfurization of C deposited on 
+co-sputtered ZnS:Cu leads to a blend of doped ZnS and CuS with a wide bandgap, high hole 
+concentration and low resistivity. Moreover, formation of copper sulfide phase is suppressed while 
+formation of ZnS is enhanced with increase of C content in p-type ZnS:Cu thin films resulting in 
+increase of its bandgap from 3.2eV to 3.6eV. Furthermore, the addition of C in sputtered ZnS:Cu 
+thin films enables reduction of tail states through defects passivation. 
+
+-----

@@ -1,0 +1,319 @@
+Zicheng Liu at Microsoft Research
+https://www.microsoft.com/en-us/research/people/zliu/[1/11/2018 6:16:32 PM]
+Learn more
+This site uses cookies for analytics, personalized content and ads. By continuing to browse this site, you agree to this use.
+Microsoft 365
+Azure
+Office 365
+Dynamics 365
+SQL
+Windows 10
+�
+Zicheng Liu
+Principal Researcher
+Contact Info
++1 (425) 703-9662
+Email
+Research areas
+Graphics and multimedia
+Human-computer interaction
+Groups
+Multimedia, Interaction, and
+Communication (MIC)
+ 
+ 
+ 
+ 
+About
+Projects
+Publications
+Videos
+Downloads
+Research Activities
+Zicheng Liu received his Ph.D. in computer science from Princeton University in 1996. He got his
+B.S. degree in mathematics from HuaZhong Normal University, Wuhan, China, in 1984, and his
+M.S. in Operations Research from the Institute of Applied Mathematics, Chinese Academy of
+Sciences, in 1989. Before joining Microsoft Research, he worked at Silicon Graphics, Inc. as a
+member of technical staff for two years, where he developed the trimmed NURBS
+tessellator shipped in both OpenGL and the OpenGL Optimizer.
+Current research interests include human activity recognition, 3D face modeling and animation,
+and multimedia signal processing. He has worked on a variety of topics including Steiner trees,
+average case complexity, linked figure animation, and trimmed NURBS tessellation for large
+CAD model visualization.
+Liu has served in the technical committee for many international conferences. He was a
+member of the Audio and Electroacoustics Committee of IEEE Signal Processing Society. He is
+the chair of the Multimedia Systems and Applications Technical Committee of IEEE CAS society.
+He is a steering committee member of IEEE Transactions on Multimedia. He is the Editor-in-
+Chief of Journal of Visual Communications and Image Representation, and an associate editor
+Research
+Products & Downloads
+People
+Careers
+Research areas
+�
+Programs & Events
+�
+Blogs & Podcasts
+�
+More
+�
+Sign in
+Research areas
+Programs & Events
+Blogs & Podcasts
+& Loca
+More
+
+-----
+Zicheng Liu at Microsoft Research
+https://www.microsoft.com/en-us/research/people/zliu/[1/11/2018 6:16:32 PM]
+What's new
+Surface Book 2
+Surface Pro
+Xbox One X
+Xbox One S
+VR & mixed reality
+Windows 10 apps
+Office apps
+Store & Support
+Account profile
+Download Center
+Sales & support
+Returns
+Order tracking
+Store locations
+Support
+Buy online, pick up in store
+Education
+Microsoft in education
+Office for students
+Office 365 for schools
+Deals for students & educators
+Microsoft Azure in education
+Enterprise
+Microsoft Azure
+Enterprise
+Data platform
+Find a solutions provider
+Microsoft partner resources
+Microsoft AppSource
+Manufacturing & resources
+Financial services
+Developer
+Microsoft Visual Studio
+Windows Dev Center
+Developer Network
+TechNet
+Microsoft Virtual Academy
+Microsoft developer program
+Channel 9
+Office Dev Center
+Company
+Careers
+About Microsoft
+Company news
+Privacy at Microsoft
+Investors
+Diversity and inclusion
+Accessibility
+Security
+Sitemap
+ Contact us
+ Privacy & cookies
+ Terms of use
+ Trademarks
+ About our ads
+ © Microsoft 2018
+Communication and Collaboration
+Systems
+of Machine Vision and Applications.  He served as a guest editor of IEEE Transactions on
+Multimedia, and a guest editor of IEEE Multimedia Magazine. He is an affiliate professor in the
+department of Electrical Engineering, University of Washington. He was an IEEE distinguished
+lecturer from 2015-2016. He is a fellow of IEEE.
+MSR Action Recognition Datasets and Codes:
+http://www.uow.edu.au/~wanqing/#Datasets
+Follow Microsoft Research  
+ 
+Follow
+Like
+Share this page  
+ 
+Tweet
+Share
+
+-----
+Zicheng Liu at Microsoft Research
+https://www.microsoft.com/en-us/research/people/zliu/[1/11/2018 6:17:10 PM]
+Microsoft 365
+Azure
+Office 365
+Dynamics 365
+SQL
+Windows 10
+�
+Zicheng Liu
+Principal Researcher
+Contact Info
++1 (425) 703-9662
+Email
+Research areas
+Graphics and multimedia
+Human-computer interaction
+Groups
+Multimedia, Interaction, and
+Communication (MIC)
+Communication and Collaboration
+Systems
+Hide All
+ 
+ 
+ 
+ 
+About
+Projects
+Publications
+Videos
+Downloads
+Research Activities
+View by:
+Year
+2016
+A Tube-and-Droplet-based Approach for Representing and Analyzing Motion
+Trajectories Weiyao Lin, Yang Zhou, Hongteng Xu, Junchi Yan, Mingliang Xu, Jianxin Wu,
+Zicheng Liu (zliu), September 10, 2016, View abstract, View external link
+3D Cartoon Face Generation by Local Deformation Mapping Jingyong Zhou, Xin
+Tong, Zicheng Liu, Baining Guo, Springer-Verlag, June 1, 2016, View abstract, View external link
+2015
+ImmerseBoard: Immersive Telepresence Experience using a Digital Whiteboard
+Keita Higuchi, Yinpeng Chen, Philip A. Chou, Zhengyou Zhang, Zicheng Liu, in Proceedings of the
+ACM SIGCHI Conference on Human Factors in Computing Systems (CHI), ACM – Association for
+Computing Machinery, April 1, 2015, View abstract, Download PDF
+Research
+Products & Downloads
+People
+Careers
+Research areas
+�
+Programs & Events
+�
+Blogs & Podcasts
+�
+More
+�
+Sign in
+Hide All 
+Year
+2016
+2015
+Research areas
+Programs & Events
+Blogs & Podcasts
+& Loca
+More
+
+-----
+Zicheng Liu at Microsoft Research
+https://www.microsoft.com/en-us/research/people/zliu/[1/11/2018 6:17:10 PM]
+2014
+Can Visual Recognition Benefi from Auxiliary Information in Training? Qilin
+Zhang, Gang Hua, Wei Liu, Zicheng Liu, Zhenyoug Zhang, in Proc. The Twelvth Asian Conference
+on Computer Vision, November 1, 2014, View abstract
+Eye Gaze Tracking Using an RGBD Camera: A Comparison with an RGB Solution
+Xeuhan Xiong, Qin Cai, Zicheng Liu, Zhengyou Zhang, in The 4th International Workshop on
+Pervasive Eye Tracking and Mobile Eye-Based Interaction (PETMEI 2014), ACM – Association for
+Computing Machinery, September 1, 2014, View abstract, Download PDF
+Towards Accurate and Robust Cross-Ratio based Gaze Trackers Through
+Learning From Simulation J.-B. Huang, Q. Cai, N. Ahuja, Z. Zhang, Z. Liu, Zhengyou Zhang,
+Qin Cai, Zicheng Liu, in Eye Tracking Research and Applications (ETRA), ACM, March 1, 2014, View
+abstract, Download PDF
+sTrack: Secure Tracking in Community Surveillance Chun-Te Chu, Jaeyeon Jung,
+Zicheng Liu, Ratul Mahajan, January 1, 2014, View abstract, Download PDF
+2013
+Tensor-Based Human Body Modeling Yinpeng Chen, Zicheng Liu, Zhengyou Zhang, IEEE
+International Conference on Computer Vision and Pattern Recognition (CVPR), June 1, 2013, View
+abstract
+Measuring the Engagement Level of TV Viewers Javier Hernandez, Zicheng Liu, Geoff
+Hulten, Dave DeBarr, Kyle Krum, Zhengyou Zhang, in Proc. IEEE Int'l Conf. on Automatic Face and
+Gesture Recognition,), Shanghai, China, April 22, 2013, View abstract
+2012
+Predicting Human Activities using Spatio-Temporal Structure of Interest Points
+Gang Yu, Junsong Yuan, Zicheng Liu, in Multimedia (ACMMM), ACM, October 29, 2012, View
+abstract, Download PDF
+Propagative Hough Voting for Human Activity Recognition Gang Yu, Junsong Yuan,
+Zicheng Liu, in 12th European Conference on Computer Vision (ECCV), Springer, October 7, 2012,
+View abstract, Download PDF
+2014
+2013
+2012
+
+-----
+Zicheng Liu at Microsoft Research
+https://www.microsoft.com/en-us/research/people/zliu/[1/11/2018 6:17:10 PM]
+Robust 3D Action Recognition with Random Occupancy Patterns Jiang Wang,
+Zicheng Liu, Jan Chorowski, Zhuoyuan Chen, Ying Wu, in 12th European Conference on Computer
+Vision (ECCV), Springer, October 7, 2012, View abstract, Download PDF
+Mining Actionlet Ensemble for Action Recognition with Depth Cameras Jiang
+Wang, Zicheng Liu, Ying Wu, Junsong Yuan, IEEE International Conference on Computer Vision and
+Pattern Recognition (CVPR), June 18, 2012, View abstract, Download PDF
+Hierarchical Filtered Motion for Action Recognition in Crowded Videos Yingli
+Tian, Liangliang Cao, Zicheng Liu, Zhengyou Zhang, in IEEE TRANSACTIONS ON SYSTEMS, MAN,
+AND CYBERNETICS—PART C, May 1, 2012, View abstract
+2011
+Real-time Human Action Search using Random Forest based Hough Voting
+Gang Yu, Junsong Yuan, Zicheng Liu, in Multimeda (ACMMM), ACM, November 28, 2011, View
+abstract, Download PDF
+Unsupervised Random Forest Indexing for Fast Action Search Gang Yu, Junsong
+Yuan, Zicheng Liu, IEEE International Conference on Computer Vision and Pattern Recognition
+(CVPR), June 20, 2011, View abstract, Download PDF
+Discriminative Video Pattern Search for Efficient Action Detection Junsong Yuan,
+Zicheng Liu, Ying Wu, in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI),
+January 1, 2011, View abstract, Download PDF
+Face Geometry and Appearance Modeling Zicheng Liu, Zhengyou Zhang, Cambridge
+University Press, January 1, 2011, View abstract, View external link
+Fast Action Detection via Discriminative Random Forest Voting and Top-K
+Subvolume Search Gang Yu, Junsong Yuan, Zicheng Liu, in IEEE Transactions on Multimedia,
+January 1, 2011, View abstract, Download PDF
+2010
+Action Recognition Based on a Bag of 3D Points Wanqing Li, Zhengyou Zhang,
+Zicheng Liu, in 2010 IEEE Computer Society Conference on Computer Vision and Pattern
+Recognition-Workshops, IEEE, June 13, 2010, View abstract, Download PDF
+2011
+2010
+
+-----
+Zicheng Liu at Microsoft Research
+https://www.microsoft.com/en-us/research/people/zliu/[1/11/2018 6:17:10 PM]
+Cross-dataset Action Detection Liangliang Cao, Zicheng Liu, Thomas Huang, IEEE
+International Conference on Computer Vision and Pattern Recognition (CVPR), June 13, 2010, View
+abstract, Download PDF
+Real Time Head Pose Tracking from Multiple Cameras with a Generic Model Qin
+Cai, A. Sankaranarayanan, Q. Zhang, Zhengyou Zhang, Zicheng Liu, in IEEE Workshop on Analysis
+and Modeling of Faces and Gestures in conjunction with CVPR 2010, IEEE, June 1, 2010, View
+abstract, Download PDF
+2009
+Face Re-Lighting from a Single Image under Arbitrary Unknown Lighting
+Conditions Yang Wang, Lei Zhang, Zicheng Liu, Gang Hua, Zhen Wen, Zhengyou Zhang,
+Dimitris Samaras, in IEEE Transaction on Pattern Analysis and Machine Intelligence, November 1,
+2009, View abstract
+Sparsity Induced Similarity Measure for Label Propagation Hong Cheng, Zicheng
+Liu, Jie Yang, in IEEE International Conference on Computer Vision (ICCV) 2009, IEEE, September
+29, 2009, View abstract, View external link
+Efficient Scalespace Spatiotemporal Saliency Tracking for Distortion-Free Video
+Retargeting Gang Hua, Cha Zhang, Zicheng Liu, Zhengyou Zhang, Ying Shan, in Proc. of Asian
+Conf. on Computer Vision, September 1, 2009, View abstract, Download PDF
+Efficient Scale-space Spatiotemporal Saliency Tracking for Distortion-Free
+Video Retargeting Gang Hua, Cha Zhang, Zicheng Liu, Zhengyou Zhang, Ying Shan,
+Microsoft, July 1, 2009, View abstract, Download PDF
+Optimal Joint Linear Acoustic Echo Cancelation and Blind Source Separation in
+the Presence of Loudspeaker Nonlinearity Mehrez Souden, Zicheng Liu, in 2009 IEEE
+International Conference on Multimedia and Expo (ICME 2009), June 30 - July 2, 2009, Cancun,
+Mexico, IEEE, June 30, 2009, View abstract, Download PDF
+Discriminative Subvolume Search for Efficient Action Detection Junsong Yuan,
+Zicheng Liu, Ying Wu, in IEEE Conference on Computer Vision and Pattern Recognition (CVPR
+2009), Miami, Florida, June 22-24, 2009., IEEE Computer Society, June 22, 2009, View abstract
+Active lighting for video conferencing Mingxuan Sun, Zicheng Liu, Jingyu Qiu, Zhengyou
+Zhang, Mike Sinclair, in IEEE Transaction on Circuits and Systems for Video Technology (TCSVT),
+IEEE, January 1, 2009, View abstract, Download PDF
+2009
+
+-----

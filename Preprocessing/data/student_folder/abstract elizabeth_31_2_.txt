@@ -1,0 +1,33 @@
+Title: 
+Compact ultrafast mid-infrared fiber laser – Pulse delivery and compression using antiresonant hollow-
+core fiber 
+Abstract: 
+The ultrafast pulse itself has enabled time-resolved studies of fast molecular and atomic-scale dynamics 
+leading to a Nobel prize for groundbreaking work in femtochemistry. Molecules exhibit bond stretching, 
+vibrations and rotations; the characteristic energy associated with many of these excitations correspond 
+to mid-infrared photon energies.  Coherent broadband mid-infrared light useful for molecular 
+spectroscopy can be generated using infrared pulses through a nonlinear process - supercontinuum 
+generation. The high peak power accorded by ultrafast pulses with sufficient pulse energies makes it 
+possible to drive nonlinear processes. 
+A compact thulium-based fiber laser system was developed to produce high-energy ultrafast 2 μm 
+pulses. The high energy output was achieved using the chirped pulse amplification technique, through a 
+multi-pass chirped volume Bragg grating compressor. Fiber lasers are particularly attractive as 2 μm 
+sources as they offer excellent beam quality. Furthermore, their efficient heat dissipation along long 
+fiber lengths allows high pulse repetition rates and consequently high output powers. High-power 2 μm 
+lasers are also useful for material processing of semiconductors and clear polymers, and for interactions 
+with water-rich biological tissues and biomaterials. Hence, remote delivery of the high-power 2 μm 
+pulses is desirable and is demonstrated using antiresonant hollow-core fibers (HCFs). The antiresonant 
+HCF was designed to have a wide transmission band around the 2 μm wavelengths, with a flat and 
+slightly anomalous dispersion profile, which makes it suitable for the transmission of ultrashort pulses. 
+To compress the 2 μm pulses beyond the transform-limited pulse width, the spectral bandwidth has to 
+be broadened, typically through the self-phase modulation (SPM) effect. The new frequency 
+components generated are red-shifted near the pulse leading edge and are blue-shifted near the pulse 
+trailing edge. As the pulse propagates in a gas-filled antiresonant fiber, the SPM-induced chirp is 
+compensated by the antiresonant HCF's anomalous dispersion. The interplay between nonlinearity and 
+dispersion effects in a gas-filled HCF can thus be exploited for nonlinear pulse compression. Future work 
+involves peak power scaling of the compact ultrafast 2 μm fiber laser system, to overcome the 
+nonlinearity and improve the pulse temporal profile to achieve higher peak powers after compression. 
+Interesting nonlinear phenomena such as dispersive wave generation and supercontinuum generation in 
+gas-filled antiresonant HCF can be explored as well. 
+
+-----

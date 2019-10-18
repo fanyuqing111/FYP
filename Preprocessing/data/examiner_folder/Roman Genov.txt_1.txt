@@ -1,0 +1,1698 @@
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 1 of 22 
+May 9, 2016 
+ 
+Roman Genov 
+ 
+The Edward S. Rogers Sr. 
+Department of Electrical and Computer Engineering 
+10 King's College Road 
+Toronto, Ontario M5S 3G4 Canada 
+ 
+ 
+URL: http://www.eecg.utoronto.ca/~roman 
+Email: roman@eecg.utoronto.ca 
+Phone: (416) 946-8666 
+Fax: (416) 971-2286 
+RESEARCH INTERESTS  
+ 
+Analog integrated circuits and systems for energy-constrained biological, medical, and consumer 
+sensory applications, such as implantable, wearable or disposable sensory microsystems, energy-
+efficient sensory signal processors and wireless sensors, including brain-chip interfaces, neuro-
+stimulators, image sensors, optical and electro-chemical DNA microarrays, and other biosensors. 
+ 
+EDUCATION  
+ 
+The Johns Hopkins University, Ph.D., Electrical and Computer Engineering, Baltimore, MD, 8/2002. 
+Dissertation: Massively Parallel Mixed-Signal VLSI Kernel Machines. 
+Advisor: Gert Cauwenberghs 
+Massachusetts Institute of Technology, Visiting Student, Cambridge, MA, 1/1999-8/1999. 
+Artificial Intelligence Lab / Center for Biological and Computational Leaning.  
+The Johns Hopkins University, M.S.E., Electrical and Computer Engineering, Baltimore, MD, 1998. 
+Rochester Institute of Technology, B.S., Electrical Engineering, Rochester, NY, 1996. 
+ 
+ACADEMIC AND INDUSTRIAL POSITIONS  
+ 
+University of Toronto, Toronto, ON, 7/2014-Present. 
+Professor, Department of Electrical and Computer Engineering.  
+Electronics Group and Biomedical Engineering Group. 
+University of Toronto, Toronto, ON, 7/2008-6/2014. 
+Associate Professor, Department of Electrical and Computer Engineering.  
+Electronics Group and Biomedical Engineering Group. 
+University of Toronto, Toronto, ON, 9/2002-6/2008. 
+Assistant Professor, Department of Electrical and Computer Engineering.  
+Electronics Group and Biomedical Engineering Group. 
+The Johns Hopkins University, Baltimore, MD, 9/96-8/2002. 
+Research Assistant, Department of Electrical and Computer Engineering. 
+Adaptive Microsystems Laboratory.  
+Swiss Federal Institute of Technology (EPFL), Lausanne, Switzerland, 6/1998-7/1998. 
+Visiting Researcher, Autonomous Systems Lab.  
+Xerox Corporation, Webster, NY, 3/1996-8/1996.     
+Design Engineer CO-OP, Advanced Development Team in the Color Imaging Systems Division.  
+Atmel Corporation, Columbia, MD, 6/1995-12/1995.  
+Design Engineer Intern, Chesapeake Design Center. 
+ 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 2 of 22 
+ 
+AWARDS AND HONORS  
+ 
+International 
+Best Paper Award, IEEE International Symposium on Circuits and Systems, ISCAS (with H. Kassiri, 
+the top Biomedical Circuits and Systems Technical Committee paper, 1687 submitted papers), 
+2016. 
+Best Paper Award, IEEE Biomedical Circuits and Systems Conference, BioCAS (with H. Jafari, the 
+best paper overall, 199 submitted papers), 2011. 
+AMD/CICC Student Award at IEEE Custom Integrated Circuits Conference, CICC (with M. Nazari, 
+one of the highest ranked student papers, $200 prize), 2010. 
+Best Student Paper Award nomination at IEEE Biomedical Circuits and Systems Conference, BioCAS 
+(with K. Abdelhalim, top seven student papers), 2010. 
+Best Student Paper Award, IEEE International Symposium on Circuits and Systems, ISCAS (with A. 
+Nilchi, $400 prize, one of the two best student papers, 1631 submitted papers), 2009. 
+Best Paper Award, IEEE Circuits and Systems Society Sensory Systems Technical Committee (with 
+A. Nilchi, the top paper), 2009. 
+Best Student Paper Contest Finalist, IEEE International Symposium on Circuits and Systems (with F. 
+Shahrokhi, top nine student papers out of 783 regular papers), ISCAS 2009. 
+ 
+National 
+1st Rank in Collaborative Health Research Projects competition by Canadian Institutes of Health 
+Research (out of 116 submitted proposals), 2016. 
+The MEMSCAP Microsystems Design Award (with A. Bagheri and S. Gabran, prize $3,000), 2012. 
+Brian L. Barge Award for Excellence in Microsystems Integration (with H. Kassiri and N. Soltani, 
+$3,500 prize), 2012. 
+DALSA Corporation Award for Excellence in Microsystems Innovation (with A. Olyaei, $3,000 
+prize), 2006 and (with K. Abdelhalim, $3,000 prize) 2009. 
+Brian L. Barge Award for Excellence in Microsystems Integration (with H. Jafari, $3,500 prize), 2008. 
+Canadian Institutes of Health Research (CIHR)/BioContact Next Generation Award (with M. 
+Derchansky, $2,000 prize), 2005. 
+ 
+Provincial / Local 
+Connaught Innovation Award ($75,000), 2016. 
+Ontario Brain Institute Entrepreneur Award (with H. Kassiri, N. Soltani, $50,000), 2015. 
+Heffernan/Co-Steel Innovation Commercialization Fellowship (with H. Kassiri, N. Soltani, $34,000), 
+2015. 
+ 
+Teaching 
+Departmental Teaching Award, as voted by undergraduate students, Department of Electrical and 
+Computer Engineering, University of Toronto (top four professors in the department, by popular 
+vote), 2015. 
+Undergraduate Teaching Award for teaching excellence, University of Toronto Students Union (five 
+awards across the university), 2008-2009. 
+ 
+RESEARCH GRANTS AND CONTRACTS                                                              Annual             Total 
+ 
+“Patient-Specific Adaptive Closed-Loop Neurostimulation for Optimum 
+Treatment of Intractable Epilepsy,” PI, Canadian Institutes of Health 
+Research (CIHR), Collaborative Health Research Projects, 4/2016-
+3/2019. 
+ “Computational and Optical Processing Architectures for Next-Generation 
+$77,400 
+ 
+ 
+ 
+$50,500 
+$232,200 
+ 
+ 
+ 
+$151,500 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 3 of 22 
+May 9, 2016 
+Mobile Cameras,” co-PI, Natural Sciences and Engineering Council of 
+Canada (NSERC), Strategic Projects, 10/2014-09/2017. 
+“Validation of Monitoring Changes in Brain Synchrony to Anticipate 
+Seizures and Implement Feedback Stimulation to Stop Seizure 
+Occurrence,” Co-I, Ontario Brain Institute, 3/2011-4/2013. 
+“Fully Implantable Wireless Multi-Electrode ECoG Monitoring Systems,” 
+PI, Natural Sciences and Engineering Council of Canada (NSERC), 
+Collaborative Health Research Projects, 4/2012-3/2015. 
+“Research Instruments for Experimental Characterization of Wireless 
+Biomedical Sensory Microsystems,” PI, NSERC Research Tools and 
+Instruments, 4/2012-3/2013. 
+“Electronic Microsystems for Ubiquitous Biomedical Sensing,” PI, Natural 
+Sciences and Engineering Council of Canada (NSERC), Discovery 
+Award, 05/2012-04/2017. 
+“A Low-cost, Compact Spectral Imaging Microsystem for Rapid, 
+Regenerative and Highly Selective Nucleic Acid Detection,” PI, 
+Natural Sciences and Engineering Council of Canada (NSERC), 
+Strategic Projects, 10/2010-09/2013. 
+“Micromachined Electrodes and Integrated Circuits for Implantable 
+Cortical Brain Interfaces,” PI, Natural Sciences and Engineering 
+Council of Canada (NSERC), Strategic Projects, 10/2009-09/2012. 
+Short-term contract, PI, Industrial Partner, 2/2008-3/2008. 
+“Electro-Optical Microsystem for DNA Detection,” PI, Ontario Centres of 
+Excellence, Centre for Photonics, 1/2008-9/2008. 
+“2-D Integrated Microsystem for Neural Recording and Stimulation in the 
+Brain,” peer-reviewed Hybrid Integration project, PI, Canadian 
+Microelectronics Corporation, 12/2007-9/2008. 
+ “Integrated Neural Interfaces for Epileptic Seizure Monitoring“, Co-I, 
+subcontract from Prof. P. Carlen, University Health Network, 
+University of Toronto, 9/2006-8/2008. 
+“Hybrid Integration Technologies for Optical DNA Detection,” peer-
+reviewed Hybrid Integration project, PI, Canadian Microelectronics 
+Corporation, 1/2008-12/2008. 
+“Smart Sensory Microsystems,” PI, Natural Sciences and Engineering 
+Council of Canada (NSERC), Discovery Award, 05/2007-04/2012. 
+NSERC Industrial Postgraduate Scholarship (recipient: M.A.Sc. student 
+Farzaneh Shahrokhi), Medtrode Corporation, 9/2006-8/2008. 
+“Hybrid Integration Technologies for Brain-Chip Interfaces,” Hybrid 
+Integration project, PI, Canadian Microelectronics Corporation, 2006. 
+Infrastructure Operating Fund Award, PI, Canada Foundation for 
+Innovation (CFI), 4/2006-3/2010. 
+“Intelligent Sensory Integrated Systems,” PI, New Opportunities Award, 
+Canada Foundation for Innovation (CFI), 11/2005-3/2008. 
+“Intelligent Sensory Integrated Systems,” PI, Ontario Research Fund, 
+11/2005-3/2008. 
+“Real-time Human Gate Recognition for Automated Surveillance,” Co-I 
+with D. Hatzinakos, K. Plataniotis, and P. Klentrou, Communications 
+and Information Technology Ontario (CITO), 6/2004-5/2006. 
+“Autonomous Integrated Vision Systems,” PI, Natural Sciences and 
+Engineering Council of Canada (NSERC), Discovery Award, 05/2003-
+ 
+ 
+$20,000 
+ 
+ 
+$60,833 
+ 
+ 
+$145,545 
+ 
+ 
+$21,750 
+ 
+ 
+$75,150 
+ 
+ 
+ 
+$78,240 
+ 
+ 
+$10,000 
+$30,000 
+ 
+$8,000 
+ 
+ 
+$13,250 
+ 
+ 
+$14,000 
+ 
+ 
+$22,500 
+ 
+$6,000 
+ 
+$5,000 
+ 
+$7,517 
+ 
+$33,408 
+ 
+$33,408 
+ 
+$17,225 
+ 
+ 
+$20,850 
+ 
+ 
+ 
+$40,000 
+ 
+ 
+$182,500 
+ 
+ 
+$145,545 
+ 
+ 
+$108,750 
+ 
+ 
+$225,450 
+ 
+ 
+ 
+$234,720 
+ 
+ 
+$10,000 
+$30,000 
+ 
+$8,000 
+ 
+ 
+$26,500 
+ 
+ 
+$14,000 
+ 
+ 
+$112,500 
+ 
+$12,000 
+ 
+$5,000 
+ 
+$30,068 
+ 
+$100,226 
+ 
+$100,226 
+ 
+$34,450 
+ 
+ 
+$83,400 
+ 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 4 of 22 
+ 
+04/2007. 
+“Mixed-Signal VLSI Circuits and Systems,” PI, Connaught Foundation, 
+10/2002. 
+“Mixed-Signal VLSI Circuits and Systems,” PI, University of Toronto, 
+ECE Dept., 10/2002. 
+                                                                                                              
+ 
+$10,000 
+ 
+$100,000 
+ 
+ 
+$10,000 
+ 
+$100,000 
+ 
+ADVISEES SUPERVISION SUMMARY 
+ 
+ 
+(Data as of 
+August 31, 2015) 
+No. of Advisees Completed 
+No. of Advisees in Progress 
+Sub-total 
+Supervised 
+Co-supervised 
+Supervised 
+Co-supervised 
+Undergraduate 
+summer students 
+29 
+0 
+0 
+0 
+26 
+B.A.Sc. theses / 
+projects 
+48 
+3 
+0 
+0 
+51 
+M.Eng. students 
+ 
+5 
+0 
+1 
+0 
+6 
+M.A.Sc. students 
+ 
+9 
+1 
+0 
+0 
+10 
+Ph.D. students 
+ 
+4 
+1 
+3 
+0 
+8 
+Post-doctoral 
+fellows 
+0 
+1 
+0 
+2 
+3 
+Sub-total 
+95 
+6 
+8 
+2 
+ 
+ 
+ 
+FORMER GRADUATE RESEARCH ADVISEES 
+ 
+MEng Students 
+Yu Hu, M.Eng. Degree, 5/2014-8/2014.  
+Project: High-Voltage Neural Stimulator with Adaptive Loading Consideration 
+Atul Patridar, M.Eng. Degree, 5/2014 -8/2014.  
+Project: Wireless Radio Connectivity for Responsive Neuro-Stimulation Implants 
+Jiaming Liu, M.Eng. Degree, 5/2014-8/2014.  
+Project: Wirelessly Powering for Responsive Neuro-Stimulation Implants 
+Aditi Chemparathy, M.Eng. Degree, 10/2013-12/2014.  
+Project: Low-Latency Sleep Stage Classifier 
+Kevin Lee, M.Eng. Degree, 05/2015-09/2015. 
+Project: High-Speed I/O Design for Pixel Programmable CMOS Image Sensor  
+Hardik Patel, M.Eng. Degree, 05/2015-12/2015.  
+Project: Computational 3-D Camera Design 
+ 
+MASc Students 
+Ashkan Olyaei, M.A.Sc. Degree, 09/2003-04/2006. 
+Thesis: ViPro: Focal-Plane CMOS Spatially-Oversampling Computational Image Sensor 
+Currently at: Senior IC design engineer at Marvell Semiconductor, San Jose, CA 
+Rafal Karakiewicz, M.A.Sc. Degree, 09/2003-08/2006. 
+ 
+Thesis: Mixed-Signal VLSI Adiabatic Array Computing 
+Currently at: IC design engineer at Intel/Vsemi, Toronto, ON 
+Joseph Aziz, M.A.Sc. Degree, 09/2004-10/2006 (co-supervised with Prof. B. Bardakjian). 
+Thesis: Multi-Channel Signal-Processing Integrated Neural Interfaces 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 5 of 22 
+May 9, 2016 
+Currently at: IC design engineer at Broadcom Corporation, Irvine, CA 
+Alireza Nilchi, M.A.Sc. Degree, 09/2005-11/2007. 
+Thesis: Focal-Plane CMOS Algorithmically-Multiplying Computational Image Sensor 
+Currently: PhD student at University of Toronto, Electronics Group  
+Meisam Nazari, M.A.Sc. Degree, 01/2006-06/2008. 
+ 
+Thesis: CMOS Wide-Dynamic-Range High-Throughput Potentiostat 
+Currently: PhD student at California Institute of Technology  
+Ritu Raj Singh, M.A.Sc. Degree, 09/2006-11/2008. 
+Thesis: Luminescence Contact Imaging Microsystems  
+Currently: PhD student at University of Texas, Austin 
+Farzaneh Shahrokhi, M.A.Sc. Degree, 09/2006-01/2009. 
+Thesis: Multi-Channel Fully Differential Digital Integrated Neural Recording and Stimulation 
+Interfaces 
+Currently: IC design engineer at Synaptics Inc, Santa Clara, CA 
+Ruslana Shulyzki, M.A.Sc. Degree, 09/2006-09/2009. 
+Thesis: Bidirectional Integrated Neural Interface for Adaptive Cortical Stimulation 
+Currently: IC design engineer at Ignis Innovation Inc, Waterloo, Ontario 
+Arezu Bagheri, M.A.Sc. Degree, 09/2010-09/2013. 
+Thesis: High-Integration-Density Neural Interfaces for High-Spatial-Resolution Intracranial 
+EEG Monitoring 
+Currently: IC design engineer at Semtech/Snowbush, Toronto, Ontario 
+Arshya Feyzi, M.A.Sc. Degree, 09/2011-10/2014. (co-supervised with Prof. G. Gulak). 
+Thesis: A CMOS Multi-Modal Contact-Imaging Scanning Microscope 
+Currently: IC design engineer at Analog Devices, Boston, MA 
+ 
+PhD Students 
+Karim Abdelhalim, Ph.D. Degree, 09/2007-01/2013. 
+Thesis: Wireless Neural Recording and Stimulation SoCs for Monitoring and Treatment of 
+Intractable Epilepsy 
+Currently: IC design engineer at Broadcom Inc, Irvine, CA 
+Derek Ho, Ph.D. Degree, 09/2007-01/2013 (co-supervised with Prof. G. Gulak). 
+Thesis: CMOS Imager Design Optimizations for DNA Fluorescence Biosensing 
+Currently: Assistant Professor, Department of Physics, City University of Hong Kong 
+Hamed Jafari, Ph.D. Degree, 09/2007-05/2013. 
+Thesis: CMOS Universal Real-time Label-free DNA Analysis System-on-chip  
+Currently: IC design engineer at Semtech/Snowbush, Toronto, Ontario 
+Hossein Kassiri, Ph.D. Degree, 02/2011-12/2015. 
+Thesis: Multi-Modal Densely-Integrated Closed-Loop Neurostimulators for Monitoring and 
+Treatment of Neurological Disorders 
+Currently: OBI Fellow 
+Nima Soltani, Ph.D. Degree, 09/2011-12/2015. 
+Thesis: Inductively-Powered Implantable Integrated Circuits for Amperometric Brain Chemistry 
+Currently: OBI Fellow 
+ 
+Post-Doctoral Fellows 
+Tariq Salam, Post-Doctoral Fellow, 03/2012-01/2015 (co-supervised with Profs. Perez Velazquez and 
+Carlen, 50%). 
+Project: Seizure Anticipation and Closed-Loop Abortion in Rodent Models of Epilepsy 
+Hyunjoong Lee, Post-Doctoral Fellow, 09/2014-01/2016 (co-supervised with Prof. Kutulakos, 50%). 
+Project: CMOS Structured-Light Computational Imagers 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 6 of 22 
+ 
+Enver Kilinc, Post-Doctoral Fellow, 03/2015-02/2016 (co-supervised with Prof. Gulak, 50%). 
+Project: Implantable Transceiver and Antenna Design 
+ 
+CURRENT GRADUATE RESEARCH ADVISEES 
+ 
+Navid Sarhangnejad, Candidate for Ph.D. Degree, 09/2014-current. 
+Maged Alansary, Candidate for Ph.D. Degree, 09/2015-current. 
+Reza Pazhouhandeh, Candidate for Ph.D. Degree, 09/2015-current. 
+Gerard O’Leary, Candidate for M.A.Sc. Degree, 09/2015-current. 
+Wilfred Cho, Candidate for M.A.Sc. Degree, 09/2015-current. 
+Nikola Katic, Post-Doctoral Fellow, 04/2016-current. 
+Asish Abraham, Candidate for M.Eng. Degree, 04/2016-current. 
+Goutham Palaniappan, Candidate for M.Eng. Degree, 04/2016-current. 
+Gairik Dutta, Candidate for M.A.Sc. Degree, 07/2016-current. 
+ 
+UNDERGRADUATE DESIGN PROJECT AND THESIS ADVISEES 
+ 
+2003-2004 
+ 
+ 
+2004-2005 
+ 
+ 
+ 
+ 
+ 
+ 
+2005-2006 
+ 
+ 
+ 
+ 
+2006-2007 
+ 
+ 
+ 
+2007-2008 
+ 
+2008-2009 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2009-2010 
+ 
+ 
+ 
+ 
+King Sun (Francis) Tam  
+T.K. Chan  
+Po-Yu Liu  
+Mustafa Alam  
+Ahmad Attia  
+Ajmal Khan  
+Taha Sheikh  
+Houman Akbari  
+Negar Habibi  
+Yasaman Faghih  
+John Tan  
+Colin Li  
+Chuan Qin  
+Ruslana Gelman 
+Angie Mehta  
+Khaled Qasmieh 
+Khalil Oudah  
+Tina Tahmoures-Zadeh 
+Jon Perras 
+Natasha Baker 
+Brian Choi 
+David Wu 
+Kim Liu 
+Eric Pai 
+Ryan Payogo 
+Fady Akladios 
+Benny Tu 
+David Crockett 
+Vadim Smolyakov 
+Chi Kin Chong 
+Muhammad Farhandar 
+Robert Gunabalendra  
+Horia Popovici 
+Visnuthanan Siritharan 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(design project, co-supervised with Prof. B. Bardakjian) 
+(design project, co-supervised with Prof. B. Bardakjian) 
+(design project, co-supervised with Prof. B. Bardakjian) 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(undergraduate thesis) 
+(design project) 
+(design project) 
+(design project)  
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(undergraduate thesis) 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 7 of 22 
+May 9, 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+2011-2012 
+ 
+2012-2013 
+ 
+ 
+ 
+2013-2014 
+2014-2015 
+ 
+ 
+ 
+2015-2016 
+ 
+John Sison 
+Darshan Thothiraling 
+Wen Jie Yan 
+Xin Yun Zhang 
+Zhao Yuan Zheng 
+Miaad Seyedaliroteh 
+Adam Shier 
+Nikita Tarakanov 
+Siddharth Kaul 
+Chan Hu Ngen 
+Junaid Ikram 
+Sheraz Qadeer 
+Richard Gao 
+Derek Peterson 
+Kyeong (Kris) Kang 
+Zack Tzeng 
+Chang Liu 
+David Galus 
+Terrence Cole Millar   
+Dan Litovitz 
+Chi-Chun Tien 
+ 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(undergraduate thesis) 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(design project) 
+(undergraduate thesis) 
+(undergraduate thesis) 
+(undergraduate thesis) 
+(undergraduate thesis) 
+(undergraduate thesis) 
+(undergraduate thesis) 
+(undergraduate thesis) 
+(design project) 
+(design project) 
+UNDERGRADUATE RESEARCH ADVISEES 
+ 
+2004 
+2005 
+ 
+ 
+ 
+2006 
+ 
+ 
+2011 
+2013 
+ 
+ 
+ 
+ 
+ 
+2014 
+ 
+ 
+ 
+2015 
+ 
+ 
+ 
+ 
+ 
+ 
+Alborz Jooyaie 
+John Tan 
+Hsiang-Hua (Andy) Hung 
+Ruslana Gelman 
+Jasper Chan 
+Gaurav Jain  
+Stephen Chin 
+Khalil Oudah 
+Amogh Vidwans 
+Kevin Gumba 
+Alison Ma 
+Renan Goulart Heinzen 
+Caroline Marinho Mano 
+Pedro Veit Michel 
+Willian Beneducci 
+Marcelo Bissi Pires 
+Fadime Bekmambetova 
+Fu-Der (Fred) Chen 
+Behraz Vatankhahghadim 
+Peter Zhi Xuan Li 
+Seyedeh Sana Tonekaboni 
+Christopher Lucasius 
+Sepehr Semsar 
+Alan Li 
+Gairik Dutta 
+Shreedutt Hegde 
+(NSERC USRA summer student) 
+(NSERC USRA summer student) 
+(NSERC USRA summer student) 
+(NSERC USRA summer student) 
+(NSERC USRA summer student) 
+(NSERC USRA summer student) 
+(NSERC USRA summer student) 
+(summer student) 
+(MITACS summer student from India) 
+(NSERC USRA summer student) 
+(NSERC USRA summer student) 
+(summer student from Brazil) 
+(summer student from Brazil) 
+(summer student  from Brazil) 
+(summer student from Brazil) 
+(summer student from Brazil) 
+(NSERC USRA summer student) 
+(NSERC USRA summer student) 
+(NSERC USRA summer student) 
+(NSERC USRA summer student) 
+(NSERC USRA summer student) 
+(NSERC USRA summer student) 
+(NSERC USRA summer student) 
+(NSERC USRA summer student) 
+(MITACS summer student from India) 
+(MITACS summer student from India) 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 8 of 22 
+ 
+ 
+ 
+ 
+2016 
+ 
+Jesse Barcelos 
+Chengzhi (Winston) Liu 
+T. Cole Millar 
+Mary Catherine McIntosh  
+Anastasia Kolesnikov 
+Peter Tanugraha 
+Ethan Wen 
+Dayeol Choi  
+Peter Zhi Xuan Li 
+Akshay Kamath  
+Sepehr Semsar 
+Kamyar Ghofrani 
+R. Andrei Romero Alvarez 
+Ji Tong (Michael) Yin 
+Terrence Cole Millar   
+Nikita Gusev  
+Winston Liu 
+Vincent Lo 
+Nafis Ahbab 
+Anas Ahmed 
+Sanjana Seerala  
+ 
+(summer student) 
+(summer student) 
+(summer student) 
+(NSERC USRA summer student) 
+(NSERC USRA summer student) 
+(NSERC USRA summer student) 
+(summer intern from Department of Math) 
+(summer intern from Department of Math) 
+(volunteer research student) 
+(MITACS summer student from India) 
+(volunteer research student) 
+(volunteer research student from U. of Waterloo) 
+(volunteer research student from Department of CS) 
+(volunteer research student, from Department of EngSci) 
+(summer intern) 
+(NSERC USRA summer student) 
+(volunteer research student) 
+(volunteer research student) 
+(volunteer research student) 
+(volunteer research student) 
+(volunteer research student) 
+ 
+TEACHING 
+ 
+“Selected Topics in Circuits and Systems – VLSI Circuits and Systems for Pattern Recognition,” 
+ECE1390, 9/2003-12/2003 (5 graduate students).  
+“VLSI Design Methodology,” ECE1388, 9/2004-12/2004 (26 graduate students), 9/2005-12/2005 (16 
+graduate students), 9/2006-12/2006 (13 graduate students), 9/2007-12/2007 (25 graduate students), 
+9/2008-12/2008 (13 graduate students), 9/2009-12/2009 (33 graduate students), 9/2010-12/2010 (12 
+students), 9/2011-12/2011 (25 students), 9/2012-12/2012 (21 students), 9/2013-12/2013 (42 
+students), 9/2014-12/2014 (17 students), 9/2015-12/2015 (19 students). 
+“Analog Electronics,” ECE530, 1/2004-4/2004 (55 students), 1/2005-4/2005 (65 students), 1/2006-
+4/2006 (89 students), 1/2007-4/2007 (66 students), 1/2008-4/2008 (44 students), 1/2009-4/2009 (54 
+students), 1/2010-4/2010 (52 students). 
+“Digital Electronics,” ECE334, 1/2012-4/2012 (97 students), 1/2013-4/2013 (81 students), 1/2014-
+4/2014 (97 students), 1/2015-4/2015 (132 students, 2 sections), 1/2016-4/2016 (103 students). 
+“Electronics,” ECE360 09/2011-12/2011 (73 students), 09/2012-12/2012 (78 students), 09/2013-
+12/2013 (64 students), 09/2015-12/2015 (49 students). 
+“Introductory Electronics,” ECE231, 1/2003-4/2003 (89 students), 1/2004-4/2004 (87 students), 
+1/2005-4/2005 (88 students), 1/2006-4/2006 (70 students), 1/2007-4/2007 (60 students), 1/2008-
+4/2008 (107 students), 1/2009-4/2009 (103 students; 320 students coordinated), 1/2010-4/2010 (91 
+students, 315 students coordinated). 
+“Introduction to Electrical and Computer Engineering,” ECE101, 2011, 2012, 2013, 2014, 2015, 2016 
+(one lecture per year). 
+“Electrical and Computer Engineering Seminar,” ECE201, 2015 (one lecture per year). 
+ 
+SHORT COURSES/TUTORIALS 
+ 
+“Implantable Neurotechnologies: from Circuits and Signals to Systems and Applications,” half-day 
+tutorial (with N. Thakor and M. Sawan), IEEE International Symposium on Circuits and Systems, 
+2016. 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 9 of 22 
+May 9, 2016 
+“Amperometric Electrochemical Sensing in CMOS: Applications, Methods and Implementations,” 
+invited plenary tutorial (with P. Mohseni), Biomedical Circuits and Systems Conference, San 
+Diego, Nov. 10, 2011. 
+“Pattern Recognition at 1GOPS/mW and Beyond: Massively Parallel Mixed-Signal VLSI Storage, 
+Computing and Data Conversion,” half-day intensive course, Microelectronics Strategic Alliance of 
+Quebec (ReSMiQ), Montreal, QC, March 4, 2005. 
+ 
+INVITED PRESENTATIONS  
+ 
+ 
+“Microsystems for Intracranial Monitoring, Diagnostics and Treatment of Neurological Disorders,” 
+Seminar, Department of Biomedical Engineering, Florida International University, April 13, 2016. 
+“Multi-sensor Integrated Circuits: Biomedical Microsystems and Applications,” Seminar, Departments 
+of Electrical and Biomedical Engineering, Columbia University, December 15, 2015. 
+“SSC/CAS Societies Members Brain-Related Research Activities Overview,” IEEE Brain Initiative 
+Workshop, New York, December 14, 2015. 
+“Multi-sensor Integrated Circuits: Microsystems and Biomedical Applications,” Seminar, Department 
+of Electrical Engineering, Princeton University, December 11, 2015. 
+“Multi-sensor Integrated Circuits: Materials, Systems and Applications,” Seminar, Brockhouse 
+Institute for Materials Research, McMaster University, November 2, 2015. 
+“Implantable Wireless Closed-Loop Neurostimulators for the Treatment of Intractable Epilepsy,” IEEE 
+International Symposium on Circuits and Systems, John Choma Commemorative Session, Lisbon, 
+Portugal, May 25, 2015. 
+“Wireless Microelectronic Implants for the Treatment of Intractable Epilepsy,” Ontario Brain Institute, 
+EpLink Workshop, Toronto, ON, February 28, 2015. 
+“Implantable Electronic Microchips for Automated Monitoring, Diagnostics, and Treatment of 
+Neurological Disorders,” Sunnybrook Health Sciences Centre, Brain Sciences Program and 
+Department of Otolaryngology, Toronto, ON, January 29, 2015. 
+“Sensory Biomedical Electronics: Implantable, Wearable and Disposable Integrated Circuits,” Douglas 
+Mental Health University Institute and McGill University, Montreal, QC, June 14, 2013. 
+“Sensory Biomedical Electronics: Implantable, Wearable and Disposable Integrated Circuits,” 
+Department of Electrical and Computer Engineering, McGill University, June 17, 2013. 
+“CMOS Intelligent Sensory Microsystems for Biomedical Applications,” Georgia Institute of 
+Technology, Atlanta, GA, June 21, 2011. 
+“Implantable Integrated Circuits for Monitoring, Diagnostics and Treatment of Neurological 
+Disorders,” Research Institute for Neurosciences and Mental Health, The Hospital for Sick 
+Children, Toronto, ON, March 16, 2011. 
+“Amperometric Neurochemical Microarrays: Electronic Chips that Image Neurotransmitters,” Toronto 
+Western Hospital, Cell and Molecular Neurobiology Lab, Toronto, ON, January 19, 2011. 
+ “Towards Wireless Brain Activity Monitoring and Modulation,” CMC Microsystems Sensor Network 
+Workshop, Ottawa, ON, October 6, 2010. 
+“Amperometric Neurochemical and DNA Microarrays,” CMC Microsystems Annual Symposium, 
+Ottawa, ON, October 5, 2010.  
+“Electronic Microchips for Recording and Modulating Neural Activity,” Beyond Brain Machine 
+Interface: From Senses to Cognition Workshop, Long Beach, CA, June 20, 2010. 
+“Intelligent Sensory Microsystems for Biomedical Applications,” IMEC, Leuven, Belgium, May 28, 
+2010. 
+“CMOS Luminescence Contact Imaging Microsystems,” CMC CMOS Imagers Workshop, Montreal, 
+QC, November 5, 2009. 
+“Intelligent Sensory Microsystems,” CMC Microsystems, Kingston, ON, October 22, 2009. 
+“Intelligent Sensory Microsystems for Biomedical Applications,” Department of Bioengineering, 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 10 of 22 
+ 
+University of California, San Diego, CA, August 10, 2009. 
+“Intelligent Sensory Microsystems” Max Planck Institute for Metals Research, Stuttgart, Germany, 
+May 7, 2009.  
+“Intelligent Sensory Microsystems: Signal Processing,” Max Planck Institute for Biological 
+Cybernetics, Tubingen, Germany, May 5, 2009. 
+“Intelligent Sensory Microsystems: Information Acquisition,” Max Planck Institute for Biological 
+Cybernetics, Tubingen, Germany, May 4, 2009. 
+“Hybrid Intelligent Sensory Microsystems,” CMC Hybrid Integration Workshop, Toronto, ON, 
+January 14, 2009. 
+“Electro-Chemical Integrated Neural Interfaces,” National Research Council (NRC) of Canada, 
+Neurochip Development Initiative - Strategic Meeting, Invited Talk, Ottawa, ON, November 2006.  
+“Electro-Chemical Integrated Neural Interfaces,” National Research Council (NRC) of Canada, 
+Institute for Biological Sciences, Invited Seminar, Ottawa, ON, October 2006. 
+“Kerneltron: Massively Parallel Mixed-Signal VLSI Pattern Recognition Processor,” Centre for Vision 
+Research, York University, Toronto, ON, March 11, 2005. 
+“Kerneltron: Massively Parallel Mixed-Signal VLSI Pattern Recognition Processor,” IEEE EDS/CAS 
+Western New York Conference, Invited Plenary Talk, Rochester, NY, Nov. 3, 2004. 
+“A 1GMACS/mW Mixed-Signal Differential-Charge CID/DRAM Processor,” IEEE Int. Conf. on 
+Circuits and Systems for Communications (ICCSC’04), Invited Plenary Talk, Moscow, Russia, 
+June 30 - July 2, 2004. 
+“Kerneltron: Massively Parallel Mixed-Signal VLSI Pattern Recognition Processor,” Invited Seminar, 
+Rochester Institute of Technology, Rochester, NY, Apr. 30, 2004. 
+“Kerneltron: Support Vector ‘Machine’ in Silicon,” VLSI Seminar Series, School of Electrical and 
+Computer Engineering, Cornell University, Ithaca, NY, Nov.13, 2003. 
+ 
+PROFESSIONAL ACTIVITIES 
+ 
+Associate Editor:  
+IEEE Transactions on Biomedical Circuits and Systems, 2006-present. 
+IEEE Transactions on Circuits and Systems-II: Express Briefs, 2010-2012. 
+IEEE Signal Processing Letters, 2008-2010. 
+ 
+Guest Associate Editor:  
+IEEE Journal of Solid-State Circuits, Special Issue on papers from the International Solid-State 
+Circuits Conference (ISSCC), 2016. 
+IEEE Transactions on Biomedical Circuits and Systems, Special Section on papers from the 
+International Solid-State Circuits Conference (ISSCC), 2014-2016. 
+International Technical Program Committee Member, Solid-State Circuits Conference (ISSCC): 
+Member of Imagers, MEMS, Medical, and Displays (IMMD) Subcommittee, 2013-2016. 
+Member of Forum Committee: “Circuit, Systems and Data Processing for Next Generation 
+Wearable and Implantable Medical Devices,” 2015-2016. 
+Member of Demonstrations Subcommittee, 2013-2014. 
+Steering Committee Member: 
+IEEE Brain Initiative, Publications and Conferences Committees, 2015-2016. 
+Scientific Review Panel Member: 
+National Institutes of Health (NIH), National Institute of Neurological Disorders and Stroke 
+(NINDS), the Brain Research through Advancing Innovative Neurotechnologies (BRAIN) 
+initiative, 2014-2016. 
+National Sciences and Engineering Research Council of Canada (NSERC) Strategic Projects 
+Selection Panel, 2008-2009. 
+CMC Microelectronics, National IC Fabrication Allocation Committee, 2009-2011.  
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 11 of 22 
+May 9, 2016 
+Technical Program Co-chair:  
+IEEE Biomedical Circuits and Systems Conference (BioCAS), 2007. 
+Tutorials Co-chair:  
+IEEE Biomedical Circuits and Systems Conference (BioCAS), 2011. 
+Track Chair/Co-chair:  
+IEEE International Conference of the Engineering in Medicine and Biology Society (EMBC), 
+“Neural Microsystems and Instrumentation” Track Co-chair, 2006. 
+Special Sessions Co-chair:  
+ 
+IEEE Northeast Workshop on Circuits and Systems (NEWCAS), 2016. 
+External Advisory Board Member:  
+Department of Electrical Engineering, Rochester Institute of Technology, 2004-2010. 
+Technical Program Committee Member:  
+ 
+IEEE International Symposium on Circuits and Systems (ISCAS), 2016. 
+IEEE Biomedical Circuits and Systems Conference (BioCAS), 2007, 2008, 2011.  
+IEEE Northeast Workshop on Circuits and Systems (NEWCAS), 2006, 2007, 2008, 2009, 2016. 
+IEEE Midwest Symposium on Circuits and Systems (MWSCAS, joint with NEWCAS), 2007. 
+IEEE 6th Electro/Information Technology Conference, 2006. 
+SPIE Bioengineered and Bioinspired Systems Conference, 2003, 2005. 
+ACM Great Lakes Symposium on VLSI (GLSVLSI), 2003. 
+Professional Society Member:  
+Institute of Electrical and Electronic Engineers (IEEE).  
+Circuits and Systems (CAS) Society.  
+Solid-State Circuits (SSC) Society.  
+Engineering in Medicine and Biology (EMB) Society. 
+Technical Committee Member:  
+Analog Signal Processing TC of IEEE CAS Society.  
+Neural Systems and Applications TC of IEEE CAS Society.  
+Biomedical Circuits and Systems TC of IEEE CAS Society.  
+Sensory Systems TC of IEEE CAS Society.  
+Session Organizer/Co-organizer:  
+“Smart Optogenetic Bio-electronic Interfaces,” Special Invited Session (BioCAS), 2015. 
+“Electrochemical Sensory Microsystems,” Special Invited Session (BioCAS), 2007. 
+“Integrated Neural Implants,” Special Invited Session (ISCAS), 2007. 
+“Integrated Neural Interfaces,” Special Invited Session (ISCAS), 2006. 
+International Liaison:  
+IEEE Solid-State Circuits Society, Medial Liaison, 2015-2016. 
+IEEE Biomedical Circuits and Systems Conference (BioCAS), 2016. 
+ 
+IEEE 4th International Symposium on Electronic Design, Test and Applications, 2008. 
+Conference Review Committee Member: 
+Review Committee, IEEE International Symposium on Circuits and Systems (ISCAS), 2003-2009. 
+Industry and Exhibitions Co-chair:  
+IEEE International Symposium on Circuits and Systems (ISCAS), 2016. 
+Conference Session Chair/Co-chair:  
+IEEE International Symposium Circuits and Systems (ISCAS): “Self-Correcting ADC,” 2002; 
+“Neural Systems and Applications,” 2004; “Neural Computation,” “Neural Classifiers,” 2005; 
+“Medical Interfacing System,” “Integrated Neural Interfaces” (Special Session), “Switched 
+Capacitor Circuits,” “Analog Filtering & Signal Processing,” 2006; “Integrated Neural Implants” 
+(Special Session), 2007; “Biomedical Circuits and Systems for Neural Recording,” 2009. 
+IEEE Biomedical Circuits and Systems Conference (BioCAS), “Electrochemical Sensory 
+Microsystems,” “Bio-Signal Processing,” 2007. 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 12 of 22 
+ 
+SPIE International Symposium on Microtechnologies, Bioengineered and Bioinspired Systems, 
+“Biosensors,” 2003. 
+University/Department Committees Member:  
+Electronics Group, Chair, 2015-2016. 
+Graduate Matters Committee, 2014-2016. 
+Awards Committee, Department of Electrical and Computer Engineering, 2012-2013, 2015-2016. 
+OGS Panel Member, University of Toronto, 2009-2010, 2011-2012. 
+Graduate Coordinator, Electronics Group, Department of Electrical and Computer Engineering, 
+2008-2010, 2011-2014. 
+Awards and Scholarships Committee, Faculty of Applied Science and Engineering, 2007-2010. 
+Curriculum Matters Committee, Department of Electrical and Computer Engineering, 2005-2010, 
+2011-2013. 
+ 
+ 
+BOOK CHAPTERS  
+ 
+[BC3] D. Ho, O. Noor, U. Krull, G. Gulak, R. Genov, “CMOS Spectrally-Multiplexed FRET Contact 
+Imaging Microsystem for DNA Analysis,” in “Handbook of Bioelectronics: Directly Interfacing 
+Electronics and Biological Systems,” edited by S. Carrara and K. Iniewski, Cambridge University 
+Press, 2015.  
+[BC2] H. Bidhendi, H. Jafari, R. Genov, “Ultra-Wideband Imaging Systems for Breast Cancer 
+Detection,” in “Ultra-Wideband and 60 GHz Communications for Biomedical Applications,” edited 
+by M. R.Yuce, Springer, pp. 83-103, 2014. 
+[BC1] A. Olyaei, R. Genov, “CMOS Focal-Plane Spatially-Oversampling Computational Image 
+Sensor,” in “Circuits at the Nanoscale: Communications, Imaging, and Sensing,” edited by K. 
+Iniewski, CRC Press, pp. 521-538, 2008. 
+ 
+REFEREED JOURNAL PUBLICATIONS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[J37] R. Machadoa, N. Soltani, S. Dufour, M. T. Salam, P. Carlen, R. Genov, M. Thompson, 
+“Antifouling Impedimetric Sensor for the Spatial Measurement of Potassium During Epileptic 
+Seizures,” subm., Biosensors and Bioelectronics, 2016. 
+[J36] N. Soltani, R. Genov, “Low-Absorption Inductive Powering Links,” under major rev. IEEE 
+Transactions on Biomedical Circuits and Systems, 2016. 
+[J35] H. Kassiri, F. D. Chen, M. T. Salam, M. Chang, B. Vatankhah, P. L. Carlen, T. A. Valiante, R. 
+Genov, “Arbitrary-Waveform Electro-Optical Intracranial Neurostimulator with Load-Adaptive 
+High-Voltage Compliance,” under major rev. IEEE Transactions on Biomedical Circuits and 
+Systems, 2016. 
+[J34] H. Kassiri, A. Chemparathy, M. T. Salam, R. Boyce, A. Adamantidis, R. Genov, “Electronic 
+Sleep Stage Classifiers: A Survey and VLSI Design Methodology,” IEEE Transactions on 
+Biomedical Circuits and Systems, 2016. 
+[J33] N. Soltani, M. S. Aliroteh, M. T. Salam, J. L. Perez Velazquez, R. Genov, “Low-Radiation 
+Cellular Inductive Powering of Rodent Wireless Brain Interfaces: Methodology and Design Guide,” 
+IEEE Transactions on Biomedical Circuits and Systems, 2016. 
+[J32] A. Bagheri, M. T. Salam, J. L. Perez Velazquez, R. Genov, “Low-frequency Noise and Offset 
+Rejection in DC-Coupled Neural Amplifiers: A Review and Digitally-Assisted Design Tutorial,” 
+IEEE Transactions on Biomedical Circuits and Systems, 2016. 
+[J31] M. T. Salam, J. L. Perez Velazquez, R. Genov, “Seizure Suppression Efficacy of Closed-loop 
+Versus Open-loop Deep Brain Stimulation in a Rodent Model of Epilepsy,” IEEE Transactions on 
+Neural Systems & Rehabilitation Engineering, 2016. 
+[J30] H. Kassiri, A. Bagheri, N. Soltani, K. Abdelhalim, H. Jafari, M. T. Salam, J. L. P. Velazquez and 
+R. Genov, “Battery-Less Tri-Band-Radio Neuro-Monitor and Responsive Neuro-Stimulator for 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 13 of 22 
+May 9, 2016 
+Diagnostics and Treatment of Neurological Disorders,” IEEE Journal of Solid-State Circuits, Vol. 
+51, No. 5, pp. 1274-1289, 2016. 
+[J29] M. T. Salam, H. Kassiri, R. Genov, J. L. Perez Velazquez, “Rapid Brief Feedback Intracerebral 
+Stimulation Based on Real-time Desynchronization Detection Preceding Seizures Stops the 
+Generation of Convulsive Paroxysms,” Vol. 56, No. 8, pp. 1227-1238, Epilepsia, 2015. 
+[J28] R. Shulyzki, K. Abdelhalim, A. Bagheri, M. T. Salam, C. M. Florez, J. L. Perez Velazquez, P. L. 
+Carlen, R. Genov, “320-Channel Active Probe for High-Resolution Neuromonitoring and 
+Responsive Neurostimulation,” IEEE Transactions on Biomedical Circuits and Systems, Vol. 9, No. 
+1, pp. 34-49, Feb. 2015. 
+[J27] S. R. I. Gabran, M. T. Salam, J. Dian, Y. El-Hayek, J. L. Perez Velazquez, P. L. Carlen, R. Genov, 
+M. M. A. Salama, R. R. Mansour, “3-D Flexible Nano-Textured High-Density Microelectrode 
+Arrays for High-Performance Neuro-Monitoring and Neuro-Stimulation,” IEEE Transactions on 
+Neural Systems & Rehabilitation Engineering, Vol. 22, No. 5, pp. 1072-1082, Sept. 2014. 
+[J26] H. Jafari, L. Soleymani, K. Abdelhalim, E. H. Sargent, S. O. Kelley, R. Genov, “Nanostructured 
+CMOS Wireless Ultra-Wideband Label-Free PCR-Free DNA Analysis SoC,” IEEE Journal of Solid-
+State Circuits, Vol. 49, No. 5, pp. 1223-1241, May 2014. 
+[J25] S. R. I. Gabran, M. T. Salam, J. Dian, Y. El-Hayek, J. L. Perez Velazquez, R. Genov, P. L. Carlen, 
+M. M. A. Salama, R. R. Mansour, "High-Density Intracortical Microelectrode Arrays With Multiple 
+Metallization Layers for Fine-Resolution Neuromonitoring and Neurostimulation,”  IEEE 
+Transactions on Neural Systems & Rehabilitation Engineering, Vol. 21, No. 6, pp. 869-879, Nov. 
+2013. 
+[J24] D. Ho, G. Gulak, R. Genov, “CMOS Tunable-Wavelength Multi-Color Photogate Sensor,” IEEE 
+Transactions on Biomedical Circuits and Systems, Vol. 7, No. 6, pp. 805-819, Dec. 2013. 
+[J23] D. Ho, O. Noor, U. Krull, G. Gulak, R. Genov, “CMOS Spectrally-multiplexed FRET-on-a-chip 
+for DNA Analysis,” IEEE Transactions on Biomedical Circuits and Systems, Vol. 7, No. 5, pp. 643-
+654, Oct. 2013. 
+[J22] A. Bagheri, S. R. I. Gabran, M. T. Salam, J. L. Perez Velazquez, R. R. Mansour, M. M. A. 
+Salama, R. Genov, “Massively-Parallel Neuromonitoring and Neurostimulation Rodent Headset with 
+Nanotextured Flexible Microelectrodes,” IEEE Transactions on Biomedical Circuits and Systems, 
+Vol. 7, No. 5, pp. 601-609, Oct. 2013. (Invited, special issue on best papers of IEEE BioCAS’12 
+Conference) 
+[J21] K. Abdelhalim, H. Jafari, L. Kokarovtseva, J. L. Perez Velazquez, R. Genov, “64-channel UWB 
+Wireless Neural Vector Analyzer SOC with a Closed-Loop Phase Synchrony-Triggered 
+Neurostimulator,” IEEE Journal of Solid-State Circuits, Vol. 48, No. 10, pp. 2494-2510, Oct. 2013.  
+[J20] K. Abdelhalim, L. Kokarovtseva, J. L. Perez Velazquez, R. Genov, “915-MHz FSK/OOK 
+Wireless Neural Recording SoC with 64 Mixed-Signal FIR Filters,” IEEE Journal of Solid-State 
+Circuits, Vol. 48, No. 10, 2478-2493, Oct. 2013.  
+[J19] H. Jafari, R. Genov, “Chopper-Stabilized Bidirectional Current Acquisition Circuits for 
+Electrochemical Amperometric Biosensors,” IEEE Transactions on Circuits and Systems – I, Vol. 
+60, No. 5, pp. 1149-1157, May 2013. (Invited, special issue of IEEE TCAS-I on best papers of 
+IEEE ISCAS’12) 
+[J18] D. Ho, O. Noor, U. Krull, G. Gulak, R. Genov, “CMOS Tunable-Color Image Sensor with Dual-
+ADC Shot-Noise-Aware Dynamic Range Extension,” IEEE Transactions on Circuits and Systems – 
+I, Vol. 60, No. 8, pp. 2116-2129, Aug. 2013. 
+[J17] M. Nazari, H. Jafari, L. Leng, A. Guenther, R. Genov, “CMOS Neurotransmitter Microarray: 96-
+Channel Integrated Potentiostat with On-die Microsensors,” IEEE Transactions on Biomedical 
+Circuits and Systems, Vol. 7, No. 3, pp. 338-348, June 2013. (Also invited to special section of 
+IEEE TCAS-I on best papers of IEEE CICC’10) 
+[J16] H.  Jafari, L. Soleymani, R. Genov, “16-Channel CMOS Impedance Spectroscopy DNA Analyzer 
+with Dual-Slope Multiplying ADCs,” IEEE Transactions on Biomedical Circuits and Systems, Vol. 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 14 of 22 
+ 
+6, No. 5, pp. 468-478, 2012. (Invited, special issue on best papers of IEEE BioCAS’11 
+Conference) 
+[J15] R. Singh, L. Leng, A. Guenther, R. Genov, “A CMOS-Microfluidic Chemiluminescence Contact 
+Imaging Microsystem,” IEEE Journal of Solid-State Circuits, Vol. 47, No. 11, pp. 2822-2833, 2012. 
+[J14] R. Karakiewicz, R. Genov, G. Cauwenberghs, “1.1 TMACS/mW Fine-Grained Stochastic 
+Resonant Charge-Recycling Array Processor,” IEEE Sensors Journal, Vol. 12, No. 4, pp. 785-792, 
+2012. (Special issue on design methods for low power arrays) 
+[J13] K. Abdelhalim, V. Smolyakov, R. Genov, “A Phase-Synchronization Epileptic Seizure Detector 
+VLSI Architecture,” IEEE Transactions on Biomedical Circuits and Systems, Vol. 5, No. 5, pp. 430-
+438, 2011. (Invited, special issue on best papers of IEEE BioCAS’10 Conference)  
+[J12] F. Shahrokhi, K. Abdelhalim, D. Serletis, P. Carlen, R. Genov, “128-Channel Fully Differential 
+Digital Integrated Neural Recording and Stimulation Interface,” IEEE Transactions on Biomedical 
+Circuits and Systems, Vol. 4, No. 3, pp. 149-161, 2010. (Invited, special issue on best papers of 
+IEEE ISCAS’09) 
+ 
+ 
+[J11] R. Singh, D. Ho, A. Nilchi, G. Gulak, P. Yau, R. Genov, “A CMOS/Thin-Film Fluorescence 
+Contact Imaging Microsystem for DNA Analysis,” IEEE Transactions on Circuits and Systems I: 
+Regular Papers, Vol. 57, No. 5, pp. 1029-1038, May 2010. (Invited, special issue on best papers of 
+IEEE ISCAS’09) 
+[J10] A. Nilchi, J. Aziz, R. Genov, “Focal-Plane Algorithmically-Multiplying CMOS Computational 
+Image Sensor,” IEEE Journal of Solid-State Circuits, Vol. 44, No. 6, pp. 1829-1839, June 2009. 
+(Also invited to IEEE TCAS-I special issue on best papers of IEEE ISCAS’09) 
+[J9] J. Aziz, K. Abdelhalim, R. Shulyzki, R. Genov, B. Bardakjian, M. Derchansky, D. Serletis, P. 
+Carlen, “256-Channel Neural Recording and Delta Compression Microsystem with 3D Electrodes,” 
+IEEE Journal of Solid-State Circuits, Vol. 44, No. 3, pp. 995-1005, March 2009. 
+[J8] R. Karakiewicz, R. Genov, G. Cauwenberghs, “480-GMACS/mW Resonant Adiabatic Mixed-
+Signal Processor Array for Charge-Based Pattern Recognition,” IEEE Journal of Solid-State 
+Circuits, Vol. 42, No. 11, pp. 2573-2584, Nov. 2007. 
+[J7] J. Aziz, R. Genov, B. Bardakjian, M. Derchansky, P. Carlen, “Brain-Silicon Interface for High-
+Resolution In Vitro Neural Recording,” IEEE Transactions on Biomedical Circuits and Systems, 
+Vol. 1, No. 1, pp. 56-62, March 2007. 
+[J6] A. Olyaei, R. Genov, “Focal-Plane Spatially-Oversampling CMOS Image Compression Sensor,” 
+IEEE Transactions on Circuits and Systems I: Regular Papers, Vol. 54, No. 1, pp. 26-34, Jan. 2007. 
+[J5] R. Genov, M. Stanacevic, M. Naware, G. Cauwenberghs, N. Thakor, “16-Channel Integrated 
+Potentiostat for Distributed Neurochemical Sensing,” IEEE Transactions on Circuits and Systems I: 
+Regular Papers, Vol. 53, No. 11, pp. 2371-2376, Nov. 2006. (Special issue on advances in life 
+science systems and applications) 
+[J4] R. Genov, G. Cauwenberghs, “Dynamic MOS Sigmoid Array Folding Analog-to-Digital 
+Conversion,” IEEE Transactions on Circuits and Systems I: Regular Papers, Vol. 51, No. 1, pp. 
+182-186, Jan. 2004. (Special issue on advances on analog-to-digital and digital-to-analog 
+converters) 
+[J3] R. Genov, S. Chakrabartty, G. Cauwenberghs, “Silicon Support Vector Machine with On-Line 
+Learning,” International Journal of Pattern Recognition and Artificial Intelligence, Vol. 17, No. 3, 
+pp. 385-404, 2003. (Invited, special issue on best papers of SVM’02) 
+[J2] R. Genov, G. Cauwenberghs, “Kerneltron: Support Vector ‘Machine’ in Silicon,” IEEE 
+Transactions on Neural Networks, Vol. 14, No. 5, pp. 1426-1434, Sept. 2003. (Special issue on 
+neural networks hardware implementations) 
+[J1] R. Genov, G. Cauwenberghs, “Charge-Mode Parallel Architecture for Matrix-Vector 
+Multiplication,” IEEE Transactions on Circuits and Systems II: Analog and Digital Signal 
+Processing, Vol. 48, No. 10, pp. 930-936, Oct. 2001. (Invited, special section on best student 
+paper awards of IEEE MWSCAS'00) 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 15 of 22 
+May 9, 2016 
+ 
+REFEREED CONFERENCE PUBLICATIONS 
+ 
+[C66] M. R. Pazhouhandeh, O. Shoaei, R. Genov, “Two-electrode Impedance-sensing Cardiac Rhythm 
+Monitor for Charge-Aware Shock Delivery in Cardiac Arrest,” subm. IEEE Biomedical Circuits and 
+Systems Conference (BioCAS’2016), 2016. 
+[C65] H. Kassiri, N. Soltani, M. T. Salam, J. L. P. Velazquez, R. Genov, “Battery-Less Modular 
+Responsive Neurostimulator for Prediction and Abortion of Epileptic Seizures,” IEEE Int. Symp. on 
+Circuits and Systems (ISCAS'2016), Montreal, May 2016. 
+[C64] P. Z. X. Li, H. Kassiri, R. Genov, “A Compact Low-Power VLSI Architecture for Real-Time 
+Sleep Stage Classification,” IEEE Int. Symp. on Circuits and Systems (ISCAS'2016), Montreal, May 
+2016. 
+[C63] M. T. Salam, H. Kassiri, N. Soltani, H. He, J. L. P. Velazquez, R. Genov, “Tradeoffs Between 
+Wireless Communication and Computation in Closed-Loop Implantable Devices,” IEEE Int. Symp. 
+on Circuits and Systems (ISCAS'2016), Montreal, May 2016. 
+[C62] H. Kassiri, M. T. Salam, F. D. Chen, B. Vatankhah, N. Soltani, M. Chang, P. Carlen, T. A. 
+Valiante, R. Genov, “Inductively Powered Arbitrary-waveform Adaptive-supply Electro-optical 
+Neurostimulator,” IEEE Biomedical Circuits and Systems Conference (BioCAS’2015), Atlanta, Oct. 
+2015. 
+[C61] M. T. Salam, J. L. Perez Velazquez, R. Genov, “Comparative Analysis of Seizure Control 
+Efficacy of 5Hz and 20Hz Responsive Deep Brain Stimulation in Rodent Models of Epilepsy,” IEEE 
+Biomedical Circuits and Systems Conference (BioCAS’2015), Atlanta, Oct. 2015. 
+[C60] N. Soltani, H. Kassiri, H. Jafari, K. Abdelhalim, R. Genov, “130nm CMOS 230Mbps 21pJ/b 
+UWB-IR Transmitter with 21.3% Efficiency,” IEEE European Solid-State Circuits Conference 
+(ESSCIRC’2015), Sept. 2015. 
+[C59] A. Bagheri, M. T. Salam, J. L. P. Velazquez, R. Genov, “56-Channel Direct-Coupled Chopper-
+Stabilized EEG Monitoring ASIC with Digitally-Assisted Offset Correction at the Folding Nodes,” 
+IEEE Biomedical Circuits and Systems Conference (BioCAS’2014), Lausanne, Oct. 2014. 
+[C58] A. Chemparathy, H. Kassiri, M. T. Salam, R. Boyce, F. Bekmambetova, A. Adamantidis, R. 
+Genov, “Wearable Low-Latency Sleep Stage Classifier,” IEEE Biomedical Circuits and Systems 
+Conference (BioCAS’2014), Lausanne, Oct. 2014. 
+[C57] H. Kassiri, A. Bagheri, N. Soltani, K. Abdelhalim, H. Jafari, M. T. Salam, J. L. P. Velazquez and 
+R. Genov, "Inductively-Powered Direct-Coupled 64-Channel Chopper-Stabilized Epilepsy-
+Responsive Neurostimulator with Digital Offset Cancellation and Tri-Band Radio," IEEE European 
+Solid-State Circuits Conference (ESSCIRC’2014), Venice, Sept. 2014. 
+[C56] K. Abdelhalim, H. M. Jafari, L. Kokarovtseva, J. L. Perez Velazquez, R. Genov, “Neural 
+Synchrony-Monitoring Wireless Brain Implant for Intractable Epilepsy Neuromodulation,” Neural 
+Engineering Conference, San Diego, Nov. 2013. 
+[C55] N. Soltani, M. S. Aliroteh, R. Genov, “Cellular Inductive Powering System for Weakly-Linked 
+Resonant Rodent Implants,” IEEE Biomedical Circuits and Systems Conference (BioCAS’2013), 
+Rotterdam, Oct. 2013. 
+[C54] H. Kassiri, K. Abdelhalim, R. Genov, “Low-Distortion Super-GOhm Subthreshold-MOS 
+Resistors for CMOS Neural Amplifiers,” IEEE Biomedical Circuits and Systems Conference 
+(BioCAS’2013), Rotterdam, Oct. 2013. 
+[C53] A. Vidwans, K. Abdelhalim, R. Genov, “Similarity-Index Early Seizure Detector VLSI 
+Architecture,” IEEE Int. Symp. on Circuits and Systems (ISCAS'2013), Beijing, China, May 2013. 
+[C52] A. Bagheri, S. R. I. Gabran, M. T. Salam, J. L. Perez Velazquez, R. R. Mansour, M. M. A. 
+Salama, R. Genov, "1024-Channel-Scalable Wireless Neuromonitoring and Neurostimulation 
+Rodent Headset with Nanotextured Flexible Microelectrodes," IEEE Biomedical Circuits and 
+Systems Conference (BioCAS’2012), Hsinchu, Taiwan, Nov. 2012. 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 16 of 22 
+ 
+[C51] K. Abdelhalim, H. Jafari, L. Kokarovtseva, J. L. Perez Velazquez, R. Genov, "64-Channel UWB 
+Wireless Neural Vector Analyzer and Phase Synchrony-Triggered Stimulator SoC," IEEE European 
+Solid-State Circuits Conference (ESSCIRC’2012), Bordeaux, Sept. 2012. 
+[C50] H. Jafari, L. Soleymani, K. Abdelhalim, E. Sargent, S. Kelley and R. Genov, “Nanostructured 
+CMOS Wireless Ultra-Wideband Label-free DNA Analysis SoC,” IEEE Symposium on VLSI 
+Circuits, Honolulu, June 2012. 
+[C49] K. Abdelhalim, R. Genov, ”Compact Chopper-Stabilized Neural Amplifier with Low-Distortion 
+High-Pass Filter in 0.13μm CMOS,” IEEE Int. Symp. on Circuits and Systems (ISCAS'2012), Seoul, 
+2012. 
+[C48] H. Jafari, R. Genov, ”Bidirectional Current Conveyer with Chopper Stabilization and Dynamic 
+Element Matching,” IEEE Int. Symp. on Circuits and Systems (ISCAS'2012), Seoul, 2012. 
+[C47] D. Ho, M. O. Noor, U. J. Krull, G. Gulak, R. Genov, ”Single-Filter Multi-Color CMOS 
+Fluorescent Contact Sensing Microsystem,” IEEE Int. Symp. on Circuits and Systems (ISCAS'2012), 
+Seoul, 2012. 
+[C46] D. Ho, G. Gulak, R. Genov, ”CMOS 3-T Digital Pixel Sensor with In-Pixel Shared Comparator,” 
+IEEE Int. Symp. on Circuits and Systems (ISCAS'2012), Seoul, 2012. 
+[C45] H. Jafari, R. Genov, ”CMOS Impedance Spectrum Analyzer with Dual-Slope Multiplying ADC,” 
+IEEE Biomedical Circuits and Systems Conference (BioCAS’2011), San Diego, Nov. 2011 (Best 
+Paper Award, one conference-wide award). 
+[C44] K. Abdelhalim, R. Genov, “915-MHz Wireless 64-Channel Neural Recording SoC with 
+Programmable Mixed-Signal FIR Filters,” IEEE European Solid-State Circuits Conference 
+(ESSCIRC’2011), Sept. 2011. 
+[C43] D. Ho, G. Gulak, R. Genov, “CMOS Electric Field-Modulated Color Sensor,” IEEE Custom 
+Integrated Circuits Conference (CICC’2011), Sept. 2011. 
+[C42] R. Shulyzki, K. Abdelhalim, A. Bagheri, C.M. Florez, P.L. Carlen, R. Genov, “256-site Active 
+Neural Probe and 64-channel Responsive Cortical Stimulator,” IEEE Custom Integrated Circuits 
+Conference (CICC’2011), Sept. 2011. 
+[C41] K. Abdelhalim, R. Genov, “An Area and Power-Efficient Stimulator for Integrated Neural 
+Recording and Stimulation Arrays,” IEEE Int. Symp. on Circuits and Systems (ISCAS'2011), May 
+2011. 
+[C40] K. Abdelhalim, V. Smolyakov, R. Shulyzki, J. Aziz, D. Serletis, P. Carlen, R. Genov, “VLSI 
+Multivariate Phase Synchronization Epileptic Seizure Detector,” IEEE Conf. on Neural Engineering, 
+Apr. 2011.  
+[C39] K. Abdelhalim, V. Smolyakov, R. Genov, “A Phase Synchronization and Magnitude Processor 
+VLSI Architecture for Adaptive Neural Stimulation,” IEEE Biomedical Circuits and Systems 
+Conference (BioCAS’2010), Paphos, Cyprus, Nov. 2010 (Best Student Paper Award finalist). 
+[C38] R.  Singh, K. Abdelhalim, R. Genov, “A Compact Parasitic-Insensitive Dual-Frequency Delta-
+Sigma Modulated CMOS Capacitive Sensor,” IEEE Biomedical Circuits and Systems Conference 
+(BioCAS’2010), Paphos, Cyprus, Nov. 2010. 
+[C37] M. Nazari, H. Jafari, L. Leng, A. Guenther, R. Genov, "192-Channel CMOS Neurochemical 
+Microarray,” IEEE Custom Integrated Circuits Conference (CICC’2010), Sept. 2010. (AMD/CICC 
+Student Scholarship Award, one of the highest ranked student papers) 
+ 
+[C36] R. Shulyzki, K. Abdelhalim, R. Genov, “CMOS Current-Copying Neural Stimulator with OTA 
+Sharing,” IEEE Int. Symp. on Circuits and Systems (ISCAS'2010), May 2010. 
+[C35] R. Singh, L. Leng, A. Guenther, R. Genov, “A Hybrid CMOS-Microfluidic Contact Imaging 
+Microsystem,” SPIE Optics and Photonics Aug. 1-6, 2009. (Invited) 
+[C34] A. Nilchi, J. Aziz, R. Genov, “CMOS Image Compression Sensor with Algorithmically-
+Multiplying ADCs,” IEEE Int. Symp. on Circuits and Systems (ISCAS'2009), pp. 1497-1500, May 
+2009. (Best Paper on Sensory Systems, and Best Student Paper Awards) 
+[C33] F. Shahrokhi, K. Abdelhalim, R. Genov, “128-Channel Fully Differential Digital Neural 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 17 of 22 
+May 9, 2016 
+Recording and Stimulation Interface,” IEEE Int. Symp. on Circuits and Systems (ISCAS'2009), pp. 
+1249-1252, May 2009. (Best Student Paper Contest finalist) 
+[C32] R. Singh, D. Ho, A. Nilchi, R. Genov, G. Gulak, “A Hybrid Thin-Film/CMOS Fluorescence 
+Contact Imager,” IEEE Int. Symp. on Circuits and Systems (ISCAS'2009), pp. 2437-2440, May 2009. 
+[C31] M. Nazari, R. Genov, “A Fully Differential CMOS Potentiostat,” IEEE Int. Symp. on Circuits and 
+Systems (ISCAS'2009), pp. 2177-2180, May 2009. 
+[C30] R. Singh, R. Genov, R. Kotamraju, B. Mazhari, “Multi-Step Binary-Weighted Capacitive Digital-
+to-Analog Converter Architecture,” IEEE Midwest Symposium on Circuits and Systems 
+(MWSCAS’08), Knoxville, Tennessee, Aug. 10-13, 2008. 
+[C29] R. Karakiewicz, R. Genov, G. Cauwenberghs, “1.1 TMACS/mW Load-Balanced Resonant 
+Charge-Recycling Array Processor,” IEEE Custom Integrated Circuits Conference (CICC’2007), 
+Sept. 2007. 
+[C28] J. Aziz, R. Karakiewicz, R. Genov, A. W. L. Chiu, B. L. Bardakjian, M. Derchansky, P. L. 
+Carlen, “In Vitro Epileptic Seizure Prediction Microsystem,” IEEE Int. Symp. on Circuits and 
+Systems (ISCAS'2007), May 2007. 
+[C27] J. Aziz, R. Genov, M. Derchansky, B. Bardakjian, P. Carlen, “256-Channel Neural Recording 
+Microsystem with On-Chip 3D Electrodes,” IEEE International Solid-State Circuits Conference 
+(ISSCC’2007), Feb. 2007. 
+[C26] A. Olyaei, R. Genov, “ViPro: Focal-Plane Spatially-Oversampling CMOS Image Compression 
+Sensor,” IEEE Custom Integrated Circuits Conference (CICC’2006), Sept. 2006. 
+[C25] J. N. Y. Aziz, R. Karakiewicz, R. Genov, B. L. Bardakjian, M. Derchansky, P. L. Carlen, 
+“Towards Real-Time In-Implant Epileptic Seizure Prediction,” IEEE Engineering in Medicine and 
+Biology Conference (EMBC’2006), Sept. 2006. 
+[C24] R. Karakiewicz, R. Genov, G. Cauwenberghs, “175 GMACS/mW Charge-Mode Adiabatic 
+Mixed-Signal Array Processor,” IEEE Symposium on VLSI Circuits, June 2006. 
+[C23] J. N. Y. Aziz,  R. Karakiewicz,  R. Genov, B. L. Bardakjian, M. Derchansky, P. L. Carlen, “Real-
+Time Seizure Monitoring and Spectral Analysis Microsystem,” IEEE Int. Symp. on Circuits and 
+Systems (ISCAS'2006), May 2006. 
+[C22] J. N. Y. Aziz, R. Genov, B. L. Bardakjian, M. Derchansky, P. L. Carlen, “256-Channel Integrated 
+Neural Interface and Spatio-Temporal Signal Processor,” IEEE Int. Symp. on Circuits and Systems 
+(ISCAS'2006), May 2006. 
+[C21] J. N. Y. Aziz, R. Genov, “Electro-Chemical Multi-Channel Integrated Neural Interface 
+Technologies,” IEEE Int. Symp. on Circuits and Systems (ISCAS'2006), May 2006. 
+[C20] A. Olyaei, R. Genov, “Algorithmic Delta-Sigma Modulated FIR Filter,” IEEE Int. Symp. on 
+Circuits and Systems (ISCAS'2006), May 2006. 
+[C19] J. Aziz, R. Genov, “Multi-Channel Integrated Neural Interfaces for Distributed Electro-Chemical 
+Sensing,” IEEE Midwest Symposium on Circuits and Systems (MWSCAS’05), Cincinnati, Ohio, Aug. 
+7-10, 2005. 
+[C18] A. Olyaei, R. Genov, “Focal-Plane CMOS Wavelet Feature Extraction for Real-Time Pattern 
+Recognition,” SPIE Photonics North, Toronto, Canada, Sept. 12-14, 2005. 
+[C17] A. Olyaei, R. Genov, “Mixed-Signal CMOS Haar Wavelet Compression Imager Architecture,” 
+IEEE Midwest Symposium on Circuits and Systems (MWSCAS’05), Cincinnati, Ohio, Aug. 7-10, 
+2005. 
+[C16] R. Karakiewicz, R. Genov, “Minimal Activity Mixed-Signal VLSI Architecture for Real-Time 
+Linear Transforms in Video,” IEEE Int. Symp. on Circuits and Systems (ISCAS'2005), Kobe, Japan, 
+May 23-26, 2005. 
+[C15] M. Naware, A. Rege, R. Genov, M. Stanacevic, G. Cauwenberghs, N. Thakor, “Integrated Multi-
+Electrode Fluidic Nitric-Oxide Sensor and VLSI Potentiostat Array,” IEEE Int. Symp. on Circuits 
+and Systems (ISCAS'2004), Vancouver, Canada, May 26-29, 2004. 
+[C14] R. Genov, M. Stanacevic, M. Naware, G. Cauwenberghs, N. Thakor, “VLSI Multi-Channel 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 18 of 22 
+ 
+Track-and-Hold Potentiostat,” Microtechnologies for the New Millennium, Bioengineered and 
+Bioinspired Systems, Proc. SPIE vol. 5119, May 2003.  
+[C13] R. Genov, G. Cauwenberghs, “Algorithmic Partial Analog-to-Digital Conversion in Mixed-Signal 
+Array Processors,” IEEE Int. Symp. on Circuits and Systems (ISCAS'2003), Bangkok, Thailand, May 
+25-28, 2003. 
+[C12] R. Genov, G. Cauwenberghs, G. Mulliken, F. Adil, “A 5.9mW 6.5GMACS CID/DRAM Array 
+Processor,” IEEE European Solid-State Circuits Conference (ESSCIRC’2002), Florence, Italy, Sept. 
+24-26, 2002. 
+[C11] R. Genov, G. Cauwenberghs, “Kerneltron: Support Vector ‘Machine’ in Silicon,” SVM’2002, 
+Lecture Notes in Computer Science, Niagara Falls, ON, Aug. 10, 2002. 
+[C10] G. Mulliken, F. Adil, G. Cauwenberghs, R. Genov, “Delta-Sigma Algorithmic Analog-to-Digital 
+Conversion,” IEEE Int. Symp. on Circuits and Systems (ISCAS'2002), Phoenix, AZ, May 26-29, 
+2002. 
+[C9] R. Genov, G. Cauwenberghs, “Charge-Based MOS Correlated Double Sampling Comparator and 
+Folding Circuit,” IEEE Int. Symp. on Circuits and Systems (ISCAS'2002), Phoenix, AZ, May 26-29, 
+2002. 
+[C8] G. Cauwenberghs, R. T. Edwards, Y. Deng, R. Genov, D. Lemonds, “Neuromorphic Processor for 
+Real-Time Biosonar Object Detection,” IEEE International Conference on Acoustics, Speech, and 
+Signal Processing (ICASSP’2002), Orlando, FL, May 13-17, 2002. 
+[C7] R. Genov, G. Cauwenberghs, “Stochastic Mixed-Signal VLSI Architecture for High-Dimensional 
+Kernel Machines,” Advances in Neural Information Processing Systems (NIPS'2001), Cambridge, 
+MA: MIT Press, vol. 14, 2002.  
+[C6] R. Genov, G. Cauwenberghs, “CID/DRAM Mixed-Signal Parallel Distributed Array Processor,” 
+IEEE 14th International ASIC/SOC Conference (ASIC/SOC'2001), Washington, DC, Sept. 12-15, 
+2001.  
+[C5] R. Genov, G. Cauwenberghs, “Massively Parallel Inner-Product Array Processor,” IEEE Int. Joint 
+Conference on Neural Networks (IJCNN'2001), Washington, DC, July 15-19, 2001.  
+[C4] R. Genov, G. Cauwenberghs, “Analog Array Processor with Digital Resolution Enhancement and 
+Offset Compensation,” Conference on Information Sciences and Systems (CISS'2001), Baltimore, 
+MD, March 21-23, 2001.  
+[C3] R. Genov, G. Cauwenberghs, “Charge-Mode Parallel Architecture for Matrix-Vector 
+Multiplication,” 43rd IEEE Midwest Symposium on Circuits and Systems (MWSCAS'2000), Lansing, 
+MI, Aug. 8-11, 2000. (Best Student Paper Award, 3rd place)  
+[C2] R. Genov, S. Madhavapeddi, G. Cauwenberghs, “Learning to Navigate from Limited Sensory 
+Input: Experiments with the Khepera Microrobot,” IEEE International Joint Conference on Neural 
+Networks (IJCNN'99), Washington, DC, vol. 3, pp. 2061-2064, 1999. (Best Presentation Award)  
+[C1] R. Genov, G. Cauwenberghs, “16-Channel Single-Chip Current-Mode Track-and-Hold 
+Acquisition System with 100 dB Dynamic Range,” IEEE International Symposium on Circuits and 
+Systems (ISCAS'99), Orlando, FL, vol. 6, pp. 350-353, 1999. (Best Student Paper Contest finalist) 
+ 
+NON-REFEREED CONFERENCE AND WORKSHOP PUBLICATIONS 
+ 
+[NC3] A. Olyaei, R. Genov, “CMOS Wavelet Compression Imager Architecture,” IEEE CAS 
+Emerging Technologies Workshop, St. Petersburg, Russia, June 23-24, 2005.  
+[NC2] R. Genov, “A 1GMACS/mW Mixed-Signal Differential-Charge CID/DRAM Processor,” IEEE 
+Int. Conf. on Circuits and Systems for Communications (ICCSC’2004), Moscow, Russia, June 30 - 
+July 2, 2004 (invited).  
+[NC1] R. Genov, G. Cauwenberghs, “Embedded Dynamic Memory and Charge-Mode Logic for 
+Parallel Array Processing,” 5th World Multi-Conference on Systemics, Cybernetics and Informatics 
+(SCI'2001), Orlando, FL, July 22-25, 2001. 
+ 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 19 of 22 
+May 9, 2016 
+ABSTRACTS  
+ 
+[A8] M. T. Salam, J. L. P. Velazquez, R. Genov, “Antiepileptic Effect using Brief Low- and High-
+frequency Closed-Loop Stimulation in Hippocampus for the Suppression of Acute and Chronic 
+Seizures in Rodent Models of Epilepsy,” International Conference on System Level Approaches to 
+Neural Engineering, Barcelona, Sept. 2015. 
+[A7] J. L. P. Velazquez, M. T. Salam, T. A. Valiante, R. Genov, “Control of pathological behaviours 
+using feedback intracerebral stimulation: using the brain’s own dynamics to control its activity,” 
+International Conference on System Level Approaches to Neural Engineering, Barcelona, Sept. 
+2015. 
+[A6] M. T. Salam, W. Beneducci, R. Genov, T. A. Valiante, J. L. P. Velazquez, L. Zhang, 
+“Desynchronization prior to seizures is a common feature of electrographic signals in acute and 
+chronic seizure models in rodent and human temporal lobe epilepsy,” Society for Neuroscience, 
+Annual Meeting, Oct. 2015. 
+[A5] M. T. Salam, G. Montandon, R. Genov, J. L. Perez Velazquez, P. Carlen, “Cardiorespiratory 
+dysfunction due to the electrographic discharges propagation into brainstem,” Society for 
+Neuroscience, Annual Meeting, Oct. 2015. 
+[A4] M. T. Salam, J. L. Perez Velazquez, R. Genov, “Effect of closed-loop and open-loop deep brain 
+stimulation on chronic seizures control,” World Congress on Medical Physics and Biomedical 
+Engineering, Toronto, June 2015.  
+[A3] J. L. Pérez Velázquez, R. F. Galán, V. Nenadovic, M. T. Salam, R. Genov, “Fluctuations in brain 
+signals in health and pathology, International Workshop on Neurodynamics,” July 14-17, Spain, 
+2014. 
+[A2] M. T. Salam, G. Montandon, R. Genov, J. L. Perez Velazquez, P. Carlen, “New animal model of 
+SUDEP: Brainstem ictal EEG is associated with respiratory arrest,” Annual meeting of the 
+American Epilepsy Society (AES), Dec. 2014. 
+[A1] M. T. Salam, G. Montandon, R. Genov, J. L. Perez Velazquez, P. Carlen, “Brainstem 
+electrographic discharges associated with respiratory arrest,” Annual meeting of Canadian League 
+Against Epilepsy, Oct. 2014.  
+ 
+OTHER PUBLICATIONS  
+ 
+[O2] R. Genov, A Burdett, P Mercier, “Guest Editorial - Selected Papers from the 2014 IEEE 
+International Solid-State Circuits Conference,” IEEE Transactions on Biomedical Circuits and 
+Systems, Vol. 8, No. 6, pp. 753-754, Dec. 2014. 
+[O1] R. Genov, “Massively Parallel Mixed-Signal VLSI Kernel Machines,” Ph.D. Dissertation, 
+Department of Electrical and Computer Engineering, The Johns Hopkins University, May 2003. 
+ 
+MEDIA  
+ 
+[M4] “Three commercialization fellowships bring new U of T Engineering research to market,” 
+Engineering News, Faculty of Applied Sciences and Engineering, 2015. 
+[M3] “Electronic brain implants for treatment of neurological disorders,” Canadian Broadcasting 
+Corporation, CBC/Radio-Canada, technology and culture radio show Spark, March 2011. 
+[M2] “Pushing the Evolution of the Machine-Human Interface,” Skulematters Alumni Magazine, Fall, 
+2007. The article features our work on integrated brain-chip interfaces.  
+[M1] D. Hawaleshka, “The Race to Build a Better Brain: A New Computer Chip Pushes the Machine-
+Human Interface,” Maclean’s Magazine, Vol. 120, No. 10, March 19, 2007. The article features our 
+work on integrated brain-chip interfaces. 
+ 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 20 of 22 
+ 
+PATENTS / IP DISCLOSURES 
+ 
+Patents 
+[P7] N. Soltani, R. Genov, “Wireless power and data transmission system for wearable and 
+implantable devices,” US Patent application number 62/238,271, filed on October 7, 2015. 
+[P6] N. Soltani, R. Genov, “System, Methods and Apparatuses for In Situ Electrochemical Imaging,” 
+US Patent application number 62/173,066, filed on June 9, 2015. 
+[P5] M. T. Salam, J. L. Perez Velazquez, R. Genov, “Rapid brief feedback intracerebral stimulation 
+based on real-time desynchronization detection preceding seizures stops the generation of 
+convulsive paroxysms,” US Patent application number 62/172,912, filed on June 9, 2015. 
+[P4] R. Genov, M. Nazari, “Wide-dynamic-range high-throughput integrated potentiostat,” US 
+provisional patent number 61/173,531, filed 04/28/2009. 
+[P3] B.L. Bardakjian, A. Chiu, T.T. Le, R. Genov, P.L. Carlen, M. Derchansky, “An implantable 
+intelligent neural activity acquisition, processing and stimulation system,” US provisional patent, 
+06/08/2005.  
+[P2] R. Genov, “Multi-site sensory signal acquisition, processing and classification and electronic 
+method thereof,” US provisional patent number 60/682.821, filed 05/20/2005. 
+[P1] R. Genov, G. Cauwenberghs, “High-precision matrix-vector multiplication on a charge-mode 
+array with embedded dynamic memory and stochastic method thereof,” US Patent application 
+number 10/726,753, filed 12/04/2003. 
+ 
+IP Disclosures  
+[I4] N. Soltani, R. Genov, “System, Methods and Apparatuses for In Situ Electrochemical Imaging,” 
+University of Toronto IP disclosure 10002953, June 24, 2015. 
+[I3] N. Soltani, R. Genov, “Wireless Data and Power Communication Apparatus and the Method 
+Thereof,” University of Toronto IP disclosure 10002928, April 30, 2015. 
+[I2] H. Kassiri, R. Genov, “System for Monitoring, Diagnostic and Control of Various Physiological 
+Disorders and the Method Thereof ,“ University of Toronto IP disclosure 10002922, April 28, 2015. 
+[I1] M. T. Salam, J. L. Perez Velazquez, R. Genov, “Closed-loop Deep Brain Stimulation to Anticipate 
+and Abort Seizure Occurrence,” University of Toronto IP disclosure 10002902, March 26, 2015. 
+ 
+EXAMINATION COMMITTEE CHAIRING / MEMBERSHIP 
+ 
+PhD Examination Committee Chair 
+Mahdi Hajiaghayi (Supervisors: Prof. Liang and Prof. Dong), 2012 
+Stephen Lam (Supervisors: Prof. Plataniotis and Prof. Pasupathy), 2005 
+Tian Lan (Supervisor: Prof. Yu), 2003 
+Juwei Lu (Supervisor: Prof. Plataniotis), 2003 
+ 
+PhD Examination Committee Member 
+Nasim Nikkho (Supervisor: Prof. Gulak), 2015 
+Meysam Zargham (Supervisor: Prof. Gulak), 2014 
+Karim Abdelhalim (Supervisor: R. Genov), 2012 
+Hamed Mazhab Jafari (Supervisor: R. Genov) 2012 
+Jing Wang (Supervisors: Prof. Ng and Prof. Prodic), 2012 
+Kentaro Yamamoto (Supervisor: Prof. Chan Carusone), 2012 
+Benoit Gosselin, Ecole Polytechnique Montreal (external examiner), 2009 
+Navid Toosizadeh (Supervisor : Prof. Zaky), 2009 
+Imran Ahmed (Supervisor: Prof. Johns), 2008 
+Ahmad Darabiha (Supervisor: Prof. Chan Carusone), 2007 
+Afshin Haftbaradaran (Supervisor: Prof. Martin), 2007 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 21 of 22 
+May 9, 2016 
+Alan Wing Lun Chiu (Supervisor: Prof. Bardakjian), 2006 
+Kostas Pagiamtzis (Supervisor: Prof. Sheikholeslami), 2005 
+Kamran Farzan (Supervisor: Prof. Johns), 2004 
+Vincent Gaudet (Supervisor: Prof. Gulak), 2003 
+Sebastian Magierowski (Supervisor: Prof. Zukotynski), 2003 
+ 
+MASc Examination Committee Chair 
+Amr Amin (Supervisor: Prof. Prodic), 2015 
+Adrian Philip Straka (Supervisor: Prof. Prodic), 2015 
+Gabriel Moreno-Bautista (Supervisor: Prof. Sargent), 2015 
+Charles Eric LaForest (Supervisor: Prof. Steffan), 2009 
+Shane Daniel (Supervisor: Prof. Aitchison), 2004 
+ 
+MASc Examination Committee Member 
+Saharnaz Shahin, University of Calgary (external examiner), 2016 
+Rophina Li (Supervisor: Prof. Tung), 2016 
+Eric (TianYa) Liu (Supervisor: Prof. Liscidini), 2015 
+Simon (Ge) Jin (Supervisor: Prof. Ng), 2015 
+Rene Alec Pak-Keong (Supervisor: Prof. Johns), 2014 
+Arshya Feizi (Supervisor: R. Genov), 2014 
+Arezu Bagheri (Supervisor: R. Genov), 2013 
+Safeen Huda (Supervisor: Prof. Sheikholeslami), 2012 
+Behrooz Abiri (Supervisor: Prof. Sheikholeslami), 2011 
+Andrew Shorten (Supervisor: Prof. Ng), 2011 
+Colin Kar-Lin Tze (Supervisor: Prof. Johns), 2010 
+Joshua Adam Dian (Supervisor: Prof. Bardakjian), 2010 
+Siamak Sarvari (Supervisor: Prof. Chan Carusone), 2010 
+Tina Tahmoureszadeh (Supervisor: Prof. Chan Carusone), 2010 
+Alexander Tomkins (Supervisor: Prof. Voinigescu), 2010 
+Ioannis Sarkas (Supervisor: Prof. Voinigescu), 2010 
+Joshua Liang (Supervisor: Prof. Johns), 2009 
+Scott McLeod (Supervisor: Prof. Sheikholeslami), 2009 
+Alireza Nilchi (Supervisor: R. Genov), 2007 
+Cintia Man (Supervisor: Prof. Gulak), 2007 
+Michael Gordon (Supervisor: Prof. Voinigescu), 2006 
+Babak Javid (Supervisor: Prof. Martin), 2006 
+Rafal Karakiewicz (Supervisor: R. Genov), 2006 
+Joseph Aziz (Supervisor: R. Genov), 2006 
+Zdravko Lukic (Supervisor: Prof. Prodic), 2006 
+Oleksiy Tyshchenko (Supervisor: Prof. Sheikholeslami), 2006 
+Ekaterina Laskin (Supervisor: Prof. Voinigescu), 2006 
+Rebecca Shun Ying Au (Supervisor: Prof. Ng), 2006 
+Hamid Ghadaki, 2006 
+Chihou Lee (Supervisor: Prof. Voinigescu), 2005 
+Eric Wei-Tse Hu (Supervisor: Prof. Phang), 2005 
+Jose Zariffa (Supervisor: Prof. Bardakjian), 2004 
+David Halupka (Supervisor: Prof. Sheikholeslami), 2004 
+Robert Wang (Supervisors: Prof. Martin and Prof. Johns), 2004 
+Trevor Caldwell (Supervisor: Prof. Johns), 2004 
+Sean Nicolson (Supervisor: Prof. Phang), 2004 
+
+-----
+Roman Genov  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+       Curriculum Vitae: Page 22 of 22 
+ 
+Wai Sum Wong (Supervisor: Prof. Zhu), 2004 
+Duy Phuc Ngueyen (Supervisors: Prof. Sheikholeslami and Prof. Aarabi), 2003 
+Nebu John Mathai (Supervisors: Prof. Sheikholeslami and Prof. Kundur), 2003 
+Igor Arsovski (Supervisor: Prof. Sheikholeslami), 2003 
+Trevis Chandler (Supervisor: Prof. Sheikholeslami), 2003 
+ 
+ 
+
+-----

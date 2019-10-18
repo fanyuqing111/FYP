@@ -1,0 +1,84 @@
+Abstract 
+      Conventional AlGaN/GaN High Electron Mobility Transistors (HEMTs) have been 
+proven to be a strong competitor in both high voltage and high frequency applications 
+resulting from the intrinsic material properties of GaN such as large bandgap, high 
+electron mobility, high electron saturation velocity and high thermal conductivity. In the 
+past decades, GaN HEMTs have emerged as one of the hottest research topics and 
+intensively studied. The performance of conventional AlGaN/GaN HEMTs have been 
+improved significantly and continuously in the past decades, such as high output power, 
+high operation frequency and low noise figure. Recently, a novel heterostructure with a 
+thin layer of InAlN on top of GaN have been demonstrated to further improve the high 
+frequency performance of GaN HEMTs. Benefiting from the unique properties of 
+InAlN/GaN hetrostructure such as very thin top barrier thickness, high electron density 
+and lattice match, the high frequency performance of GaN HEMTs have been pushed to 
+the next level. On the other hand, there are still some critical challenges limiting the 
+applications of GaN HEMTs.  
+    On key issue is that most of the high frequency results, especially those above 200 
+GHz, were reported from devices grown on SiC substrates. SiC has the advantages of 
+small lattice mismatch to GaN eplilayers, very high resistivity and thermal conductivity. 
+Thus, GaN HEMTs grown on SiC can achieve higher RF performance than those grown 
+on Si. However, GaN HEMT on SiC is not cost-effective and is only available in smaller 
+sizes ( 6 inch) which make it less attractive to be adopted commercially.  
+  To reduce the cost of GaN HEMTs, Si substrates have attracted increasing interest in 
+recent years, not only in power electronics applications but also in RF applications. 
+Significant efforts have been made on improving the epitaxial quality of GaN on Si 
+substrates as well as the device fabrication technology. As a result, the performance of 
+RF GaN HEMTs on Si has improved significantly. However, the high frequency 
+performance of GaN HEMTs on Si still lags behind their counterparts on SiC. The best 
+reported AlGaN/GaN HEMT on Si only exhibited a fT of 176 GHz with for a gate length 
+of 80 nm. 
+
+-----
+     Another drawback is the poor linearity performance of deeply scaled GaN HEMTs. 
+Linearity is an important parameter for GaN HEMT to be applied in communication 
+system. Modern multi-tone and digital telecommunication system need high-linearity 
+amplifiers. GaN HEMT is expected to maintain high operation frequency at high gate 
+bias to support its application for large signal RF operation. However, the conventional 
+GaN HEMTs show poor linearity characteristics, manifested by a non-flat 
+transconductance (gm) (or fT, fmax) versus gate bias and drain current. After reaching its 
+maximum point, gm and fT, fmax decrease drastically with the increasing gate bias.  
+linearity of GaN transistors ultimately limits the power density and efficiency of these 
+devices in many applications, as the operating point of the device typically needs to be 
+backed-off to meet the linearity specifications. In fact, as the operating frequency 
+increases into the mm-wave range by shrinking the gate length, the linearity is expected 
+to degrade even further. 
+    This thesis is mainly focused on these two issues. Novel approaches are employed to 
+resolve them and much improved device performance were obtained. The major 
+contributions of the thesis are listed as below. 
+(1) The limiting factors in the device performance are described. In order to suppress 
+the increase of the intrinsic delay caused by the degradation of the gate 
+modulation efficiency, a thin InAlN top barrier is applied instead of conventional 
+AlGaN top barrier. Sub-100 nm gate was developed using electron beam 
+lithography (EBL) technology to minimize gate induced intrinsic delay. Parasitic 
+charging delay was minimized benefiting from the short source-to-drain distance 
+down to 300 nm and low contact resistance Rc of 0.2 Ω.mm. Maximum fT of 250 
+GHz was obtained in a 40-nm gate device, which is the highest among any other 
+GaN HEMTs demonstrated on Si substrate previously. Surface passivation effects 
+on DC and RF performance were also investigated. 
+(2) The mechanism of the poor linearity performance of the gm and fT at high gate 
+bias was investigated.  A novel planar-nanostrip GaN HEMTs structure using ion 
+implantation technology was developed to improve the linearity performance and 
+maintain fT at a high level without introducing too much gate parasitic capacitance. 
+
+-----
+The fabrication process was described in details including As ion implantation for 
+isolation application, nanostrip-channel formation using different approaches. 
+Moreover, the planar-nanostrip device also showed much improved maximum 
+drain current Idmax up to 2.6 A/mm, which is close to the theoretical limit.  Also, 
+device geometries including gate length, line-to-space ratio of the nanostrip-
+channel and gate-to-source distance have been studied. These results do not only 
+identify the origin of the non-linear performance in GaN HEMTs, but also 
+illustrate the direction of design improvement of RF GaN HEMTs for high 
+linearity application. 
+(3) A Planar nanostrip-channel Al2O3/InAlN/GaN MISHEMTs on Si was 
+demonstrated. A thin layer of oxide between the metal gate and the thin InAlN 
+barrier and form a metal-insulator-semiconductor (MIS) gate in the Planar 
+nanostrip-channel GaN HEMT, gate leakage current was reduced and thus 
+increase the gate voltage swing and drain current swing. The results show that the 
+Planar nanostrip-channel Al2O3/InAlN/GaN MISHEMTs is able to work at up to 
+Vg = +4 V and the linearity performance was further improved. The effects of 
+Al2O3 gate insulator on device threshold voltage Vth, gm and fT have been 
+investigated through theoretical analysis and experimental results study. 
+ 
+
+-----

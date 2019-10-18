@@ -1,0 +1,16 @@
+Non-Parametric Model for RSS-based Active RFID Indoor Positioning System
+Abstract
+Indoor positioning is a key technology enabler for future smart systems. This thesis proposes
+several non-parametric models to improve RSS-based active RFID indoor positioning system in
+terms of accuracy, processing time, and robustness. In geometric method, we propose the use of
+density-based  cluster  detection  to detect  outliers  in  location  candidates, allowing  bilateration
+method to achieve shorter processing time while maintaining the same level of accuracy and
+robustness.  We  also  introduce  several  improvements  on  location  fingerprinting  methods.  To
+improve the accuracy and robustness of the location fingerprinting when training points are sparsely
+distributed, we combine two existing methods which are Location Estimation using Model Tree
+(LEMT) and LANDMARC. Because LEMT method and its derivative rely on M5 model tree that
+has long processing time, we propose the use of Extreme Learning Machine (ELM) regression
+model in place of the M5 model tree to shorten the processing time. We found that training input
+must be filtered in a way that null data do not interfere the regression process of the ELM.
+
+-----

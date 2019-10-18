@@ -1,0 +1,72 @@
+Abstract 
+ 
+In recent years, distributed energy resources (DER) systems have increasingly played 
+an important role in electric power distribution system. Nevertheless, they also 
+concurrently introduce new characteristics to the distribution system, such as bi-
+directional power flows, unstable power supply, unintentional islanding and voltage 
+profile issues. The evolvement of distribution networks necessitates rapid and accurate 
+distribution network monitoring. Phasor Measurement Unit (PMU) has contributed 
+greatly to power system state estimation because of its ability to directly measure 
+voltage and current phase angle. However, so far PMUs have been used almost 
+exclusively in transmission systems monitoring. 
+ 
+This thesis discusses the application of PMUs in distribution networks, with a focus on 
+their optimal PMU placement (OPP) . Many OPP algorithms have been well 
+documented. However, most of them are designed and tested on transmission networks, 
+and very studies have been conducted on distribution networks. Distribution networks 
+have very different topology from transmission networks, and hence there is a need to 
+study how the PMUs can be optimally placed. In this thesis, we have proposed 
+algorithms that take advantage of radial topology of distribution networks, to solve the 
+OPP problem in an exhaustive manner yet without much computational burden. The 
+proposed algorithms have been tested on several networks. Results show that for similar 
+scale networks, distribution networks take much less time than transmission networks 
+using the proposed exhaustive algorithms. The computational burden of this method 
+dramatically decreases due to the radial topology of distribution networks. 
+ 
+Besides the above mentioned exhaustive method, integer linear programming has been 
+investigated in this thesis. Compared to exhaustive algorithm, integer linear 
+programming is much faster in solving the OPP problem. However, it can only give 
+limited solutions, while in practice it is possible that there are multiple solutions that 
+can satisfy the given constraints. Identifying all alternative solutions enables the 
+
+-----
+decision maker to examine them and choose the overall best solution. This thesis also 
+introduces an OPP method using integer linear programming algorithm to identify all 
+alternative optimal placements that satisfy certain constraints. The proposed method 
+uses integer linear programming to identify multiple solutions, where the network buses 
+are classified into three categories based on those multiple solutions. By further 
+analyzing certain buses which belong to one of the three categories, the proposed 
+method is able to identify all alternative optimal solutions. This method is efficient in 
+determining the solution when applied to large-scale power system. 
+ 
+State estimators applied in transmission networks usually use positive sequence model. 
+On the other hand, distribution networks usually contain unbalanced loads. In order to 
+deal with imbalance in distribution networks, a three phase state estimator is also 
+developed and tested in this thesis. We have shown that assuming there are sufficient 
+number of PMUs to make the system observable, the state estimator is linear and can 
+be solved in a non-iterative manner. 
+ 
+ 
+
+-----
+Publications 
+[1] X. Chen, K. J. Tseng and G. Amaratunga, "State estimation for distribution systems 
+using micro-synchrophasors," 2015 IEEE PES Asia-Pacific Power and Energy 
+Engineering Conference (APPEEC), Brisbane, QLD, 2015, pp. 1-5. 
+[2] Xuebing Chen, Tengpeng Chen, King Jet Tseng, Yuhao Sun and G. Amaratunga, 
+"Customized optimal 𝜇PMU Placement method for distribution networks," 2016 IEEE 
+PES Asia-Pacific Power and Energy Engineering Conference (APPEEC), Xi'an, 2016, 
+pp. 135-140. 
+[3] X. Chen, T. Chen, K. J. Tseng, Y. Sun and G. Amaratunga, "Hybrid approach based 
+on global search algorithm for optimal placement of 𝜇 PMU in distribution 
+networks," 2016 IEEE Innovative Smart Grid Technologies - Asia (ISGT-Asia), 
+Melbourne, VIC, 2016, pp. 559-563. 
+[4] Y. Sun, X. Chen, S. Yang, Rusli, K. J. Tseng and G. Amaratunga, "Micro PMU based 
+monitoring system for active distribution networks," 2017 IEEE 12th International 
+Conference on Power Electronics and Drive Systems (PEDS), Honolulu, HI, 2017, pp. 
+518-522. 
+[5] T. Chen, Y. S. E. Foo, K. V. Ling, and X. Chen, “Distributed state estimation using 
+a modied partitioned moving horizon strategy for power systems," Sensors, vol. 17, no. 
+10, p. 2310, 2017. 
+
+-----

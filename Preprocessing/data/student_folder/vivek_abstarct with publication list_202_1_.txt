@@ -1,0 +1,146 @@
+Study of Energy Transfer from Zinc Oxide Nanocrystals to Europium and 
+Terbium Ions for the Development of Red, Green and White Light 
+Emitting Thin-Films 
+Lanthanide rare-earth (RE) ions are important materials which have been extensively studied for their 
+applications in lighting and display technologies. RE ions, especially Europium (III) ions and Terbium (III) 
+have been used as phosphors to create red and green light emitting devices, respectively. Eu3+ ions give 
+pure sharp red emission at 614 nm and Tb3+ ions give pure sharp green emission at 545 nm upon 
+excitation. These are ideal for creating solid state lighting devices. However, these RE ions have their 
+limitations, which is the case with any material used in engineering devices. Even though RE ions can be 
+directly excited optically for photoluminescence emission, the direct excitations of the RE ions have 
+some disadvantages. For instance, a specific excitation wavelength is required to excite a specific type 
+of RE ion (e.g. 392 nm excitation wavelength is preferred to excite the Eu3+ ions while 348 nm is 
+preferred to excite the Tb3+ ions). This makes excitation difficult in samples with more than one type of 
+RE ions (e.g. to produce white light emitting sample with Eu3+ and Tb3+ ions) as different wavelengths 
+are required to excite different types of RE ions. Furthermore, the RE ions have low absorption cross-
+section.  
+One way to overcome these difficulties is to use semiconductor nanocrystals as sensitizers to excite the 
+RE ions. Semiconductor nanocrystals like ZnO, Si, CdSe, etc. have higher absorption cross-section, which 
+can be easily excited compared to the RE ions. These excited nanocrystals can then transfer the energy 
+to RE ions, which in turn emit light through radiative de-excitation. Moreover, different RE ions can be 
+excited using a single type of semiconductor nanocrystals, which can be excited using any wavelength 
+above the optical band gap of the semiconductor. Thus, using semiconductor nanocrystals as 
+sensitizers, various RE ions can be excited using a single excitation wavelength. In this regard, zinc oxide 
+nanocrystals (ZnO-nc) are one of the widely studied sensitizers because they can excite a wide variety 
+of RE ions like Eu3+, Tb3+, Ce3+, Er3+, etc.. ZnO-nc is an important material which has attracted a lot of 
+attention due to its inherent and intrinsic properties like size dependent luminescent properties, large 
+absorption cross-sections and broad excitation spectra. The 3.37 eV wide band gap of ZnO with a large 
+exciton binding energy of 60 meV results in the emission of light in the blue and ultraviolet (UV) region 
+of the electromagnetic spectrum which excite the RE ions. In this work we specifically study the energy 
+transfer from ZnO-nc to Eu3+ ions and ZnO-nc to Tb3+ ions. 
+Although, various studies show energy transfer from ZnO-nc to Eu3+ ions and ZnO-nc to Tb3+ ions, a 
+complete understanding of the energy transfer is lacking and it needs to be investigated, which is the 
+main focus of this work. For instance, a comprehensive understanding of the energy transfer 
+mechanism and the contribution of energy transfer from the various ZnO-nc emissions has not been 
+reported. Secondly, there have been almost no studies to understand the decay dynamics of the 
+various ZnO-nc emission centers and their effect on the efficiency of energy transfer mechanism from 
+ZnO-nc to RE ions. Moreover, the nature of energy transfer from ZnO-nc to Eu3+ ions based on the study 
+of interaction distance between ZnO-nc and Eu3+ ions has also not been investigated. The interaction 
+distance between ZnO-nc and Eu3+ ions is an important parameter that can greatly affect the energy 
+transfer efficiency from the ZnO-nc to Eu3+ ions. Finally, understanding the nature of energy transfer 
+between ZnO-nc to both Eu3+ and Tb3+ ions combined in a single layer of thin film sample has also not 
+been reported. This will help in the development of energy efficient white light emitting devices, by 
+using a single excitation wavelength. Thus, in this work we investigate the above mentioned areas of 
+research by studying the system of ZnO-nc and Eu3+ ions and Tb3+ ions. This will help in the 
+development of energy efficient devices using semiconductor nanocrystals as sensitizers to excite RE 
+ions which have wide ranging application in lasers, optical amplifiers, lighting and display technologies. 
+
+-----
+The low cost sol-gel technique was used in this work to develop thin film samples of ZnO-nc embedded 
+in SiO2 matrix co-doped with RE ions like Eu3+ and Tb3+. The sol-gel technique was used as it has the 
+advantage of excellent material stoichiometry, low-cost raw material and equipment, and the flexibility 
+of controlling the material composition compared to other thin film preparation methods. The material 
+characterisation was done by studying the photoluminescence emission, photoluminescence excitation 
+and time-resolved photoluminescence emission from the thin film sample. 
+As mentioned above, this work studies the energy transfer contribution and mechanism of energy 
+transfer from ZnO-nc to RE ions like Eu3+ and Tb3+ along with the factors affecting the energy transfer 
+process, with the aim of developing energy efficient red, green and white light emitting thin-films. The 
+study begins by investigating the efficient energy transfer occurring between ZnO-nc and Eu3+ ions 
+embedded in SiO2. A strong red emission was observed at 614 nm when the ZnO-nc were excited using 
+a continuous optical excitation at 325 nm. This emission is due to the radiative 5D0  7F2 de-excitation 
+of the Eu3+ ions and has been conclusively shown to be due to the energy transfer from the excited 
+ZnO-nc to the Eu3+ ions. The photoluminescence excitation (PLE) spectra are also examined to confirm 
+the efficient energy transfer from ZnO-nc to the Eu3+ ions. The PLE spectra show that the emission from 
+the Eu3+ ions is much higher when excited through energy transfer  from ZnO-nc as opposed to the 
+direct excitation of Eu3+ ions. Furthermore, the various emission centers of excited ZnO-nc and their 
+contribution to the energy transfer to Eu3+ ions has also been studied. The excitonic emission and Zn 
+defect emission centres of ZnO-nc is shown to have the highest contribution to the energy transfer 
+from ZnO-nc to the Eu3+ ions. While the oxygen defect emission centers of ZnO-nc have low energy 
+transfer contributions but high energy loss due to the presence of Eu3+ ions induced defect centers in 
+the sample. The optimum fabrication process for maximum red emission at 614 nm from the samples is 
+also reported, where a strong dependence on the annealing temperature and the Eu3+ concentration in 
+the sample is observed. The maximum red emission is observed with 12 mol% Eu3+ sample annealed at 
+450oC [1].  
+The energy transfer from ZnO-nc to Tb3+ ions is also studied in a similar manner. It is clearly 
+demonstrated that the energy transfer from ZnO-nc results in sharp green emission from Tb3+ ions due 
+to radiative 5D4→7F5 transition of Tb3+ ions. The concentration of Tb3+ ion is optimised in this study to 
+maximize the green emission from the Tb3+
+ ions and 12 mol% was found to be the optimum 
+concentration of the Tb3+, which is similar to Eu3+ ions. Moreover, the energy transfer contribution of 
+the various ZnO-nc emission centres to Tb3+ ions is also analysed and it was found that the ZnO-nc The 
+other ZnO-nc emission centers have low energy transfer contributions but high energy loss due to the 
+presence of Tb3+ ions induced defect centers in the sample [2]. 
+The author also analysed the time resolved photoluminescence (TRPL) measurements from the samples 
+to understand the contribution of energy transfer from the various ZnO-nc emission centers to Eu3+ 
+ions. The decay time obtained from the TRPL measurements were used to calculate the energy transfer 
+efficiencies from the ZnO-nc emission centers and these results were compared with the energy 
+transfer efficiencies calculated from steady state photoluminescence emission results. The results in 
+this study confirm the results from the photoluminescence emission study of the sample, that the high 
+transfer efficiencies from the excitonic and Zn defect emission centers is mostly due to the energy 
+transfer from ZnO-nc to Eu3+ ions which results in the radiative emission from the Eu3+ ions at 614 nm. 
+While the energy transfer from the oxygen defect emissions is most probably due to the energy transfer 
+from ZnO-nc to the new defects created due to the incorporation of the Eu3+ ions [3]. 
+The author also studied the effect of average shortest interaction distance between the ZnO-nc and 
+Eu3+ ions and between two Eu3+ ions in the energy transfer process between ZnO-nc and Eu3+ ions 
+embedded in SiO2 matrix. A detailed model to calculate the two interaction distances based on the ratio 
+
+-----
+of Zn, Si and Eu3+ ions in the samples and using the density and molecular mass of ZnO and SiO2 was 
+derived. Based on these calculations together with the photoluminescence emission from the samples, 
+it is clearly shown that the energy transfer from ZnO-nc to Eu3+ ions is higher in samples with shorter 
+distance between ZnO-nc and Eu3+ ions. The maximum red emission at 614 nm due to the efficient 
+energy transfer from ZnO-nc to Eu3+ was found in the sample with 5.11 nm distance between the ZnO-
+nc and Eu3+ ions. However, the red emission from the Eu3+ ions does not increase as the distance 
+between ZnO-nc and Eu3+ ions is reduced below 5.11 nm by the increasing Eu3+ concentration. This is 
+due to Eu3+ ion concentration quenching effect, where the distances between the Eu3+ ions become 
+shorter than 0.57 nm resulting in migration of energy between the Eu3+ ions which is non-radiatively 
+dissipated. It is also shown that the energy transfer from ZnO-nc to Eu3+ ions occurs mostly due to 
+radiative energy transfer process when the interaction distance between the ZnO-nc and Eu3+ ions is  
+6.53 nm or greater [4]. 
+Finally, thin film samples of ZnO-nc co-doped with both Eu3+ ions and Tb3+ ions were also fabricated with 
+the objective of creating a white light emitting sample. This was achieved by analysing the 
+photoluminescence emission intensity from twenty four different thin film samples of ZnO-nc in SiO2 
+with varying concentrations of Eu3+ and Tb3+ ions which were then used to obtain a parametric equation 
+for the emission intensity of the thin film samples as function of Eu3+ ions and Tb3+ ions concentration. 
+The parametric emission intensity equation was subsequently used to predict the concentration of Eu3+ 
+ions and Tb3+ ions which gives white light emission according to the CIE xyz chromaticity values. Finally, 
+the white light emitting sample was also fabricated using the sol-gel process to experimentally confirm 
+the emission of white light. Thus, in this sample white light emission was achieved using a using a single 
+excitation wavelength which excites the ZnO-nc and the ZnO-nc in turn excites the Eu3+ and Tb3+ ions 
+through the energy transfer [5].  
+The results from these works are important and can help in the development of future proficient red, 
+green and white luminescent solid state devices based on a low-cost sol-gel technique. Extending these 
+key analyses to systems with other rare earth elements will also help in making efficient light sources 
+for various applications in photonics. 
+Publication List 
+[1] 
+V. Mangalam, K. Pita, and C. Couteau, "Study of energy transfer mechanism from ZnO 
+nanocrystals to Eu3+ ions," Nanoscale Research Letters, journal article vol. 11, no. 1, pp. 1-9, 
+2016. 
+[2] 
+V. Mangalam and K. Pita, "Energy transfer from ZnO nanocrystals to Terbium (3+) ions: A 
+spectral overlap study," presented at the 2016 IEEE Photonics Conference (IPC), Hawaii USA, 2-
+6 Oct. 2016, 2016.  
+[3] 
+V. Mangalam and K. Pita, "Energy Transfer Efficiency from ZnO-Nanocrystals to Eu3+ Ions 
+Embedded in SiO2 Film for Emission at 614 nm," Materials, vol. 10, no. 8, p. 930, 2017. 
+[4] 
+V. Mangalam and K. Pita, "Effect of the interaction distance on 614 nm red emission from Eu3+ 
+ions due to the energy transfer from ZnO-nc to Eu3+ ions," Optical Materials Express, vol. 8, no. 
+10, pp. 3115-3132, 2018/10/01 2018. 
+[5] 
+V. Mangalam and K. Pita, "White light Emission from Thin-Film Samples of ZnO Nanocrystals co-
+doped with Eu3+ and Tb3+ ions in SiO2 matrix," 2018. [Ready for Submission to a reputable 
+Journal] 
+
+-----

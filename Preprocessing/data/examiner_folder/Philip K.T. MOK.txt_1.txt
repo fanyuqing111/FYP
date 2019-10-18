@@ -1,0 +1,761 @@
+ 
+- 1 - 
+ 
+CURRICULUM VITAE 
+ 
+Philip K.T. MOK  
+Professor and Associate Head 
+Department of Electronic and Computer Engineering 
+The Hong Kong University of Science and Technology 
+Clear Water Bay, Hong Kong 
+E-mail: eemok@ust.hk 
+http://www.ece.ust.hk/~eemok 
+ 
+EDUCATION  
+1989-1995 
+Ph.D.  
+Electrical and Computer Engineering, University of Toronto, Canada  
+1986-1989 
+M.A.Sc.  Electrical Engineering, University of Toronto, Canada  
+1982-1986 
+B.A.Sc.  
+Electrical Engineering, University of Toronto, Canada  
+ 
+PROFESSIONAL EXPERIENCE  
+07/2014 - present 
+Associate Head for UG Studies, Dept of Electronic and Computer 
+Engineering, HKUST, Hong Kong 
+07/2010 - present 
+Professor, Dept of Electronic and Computer Engineering (ECE), HKUST, 
+Hong Kong  
+07/2013 - 06/2014 
+Visiting Professor, Department of Electronic Engineering, Hanyang 
+University, Seoul, Korea  
+10/2009 - 12/2013 
+Adjunct Professor, HKUST Shenzhen IER PKU SOC Key Laboratory, 
+Shenzhen Branch, China 
+01/2004 - 06/2010 
+Associate Professor, Dept of ECE, HKUST, Hong Kong  
+01/1995 - 12/2003 
+Assistant Professor, Dept of ECE, HKUST, Hong Kong 
+ 
+Career HIGHLIGHTS 
+- Publications: 
+175  
+64 Journal and 111 Conference papers -  including 26 publications in 
+IEEE Journal of Solid-State Circuits (JSSC) and 21 publications in 
+IEEE Trans. on Circuits and Systems – I & II (TCAS) 
+- Patents: 
+21 
+16 US Patents granted and 4 Patents in progress  
+ 
+ 
+10 of them have been licensed out through the university 
+- Total Citations: 
+7610 (h-index = 42, i10-index=94) from Google scholar as 05/2017 
+- Research Grants: 45 
+26 as Principle Investigator, 19 as Co-Investigator 
+- Grad Students: 
+41 
+19 PhD (includes 8 in progress), 22 MPhil (includes 2 in progress) 
+- Awards: 
+23  
+3 Teaching Excellence Appreciation Awards from HKUST and 7 Best 
+Student Paper Awards  
+- Fellow, Institute of Electrical and Electronics Engineers, Inc. (IEEE) 
+  
+- Distinguished Lecturer of IEEE Solid-State Circuits Society 
+- Associate Editors of IEEE JSSC,  IEEE TCAS-I  and  IEEE TCAS-II 
+- General Co-Chair of 2013 IEEE Int’l Conf. on Electron Devices and Solid-State Circuits 
+- International Technical Program Committee Member of IEEE ISSCC and  ESSCIRC 
+- Research Grants Council, Engineering Panel member, University Grants Committee, HKSAR 
+- Electronics and Telecommunications Training Board member, Education Bureau, Government 
+Secretariat, HKSAR 
+- Electricity Ordinance Disciplinary Tribunal Panel member and Electricity Ordinance Appeal 
+Board Panel member, The Secretary for Economic Development and Labour, HKSAR 
+ 
+
+-----
+ 
+- 2 - 
+ 
+RESEARCH INTEREST 
+Power semiconductor devices, processing technologies and circuit designs for power electronics 
+applications; CMOS/BiCMOS circuits, devices and technologies for telecommunications 
+applications; analogue integrated circuit designs; power integrated circuit designs. 
+ 
+PAPER AWARDS 
+• Best Student Paper Award, IEEE Custom Integrated Circuits Conference, Orlando, FL, 
+USA, twice in Sept 2002 and Sept 2009. 
+• Student Paper Contest, 1st Prize, IEEE International Conference on Electron Devices and 
+Solid-State Circuits, Hong Kong, twice in Dec 2008 and Dec 2010. 
+• Student Paper Award, 1st Prize Winner, The 10th IEEE Asia Pacific Conference on Circuits 
+and Systems (APCCAS 2010), Kuala Lumpur, Malaysia, Dec 2010. 
+ 
+PROFESSIONAL SERVICES 
+• Associate Editor:  
+o IEEE Journal of Solid-State Circuits (2006-2011) 
+o IEEE Transaction on Circuits and Systems – I (2007-2009, 2016-present) 
+o IEEE Transaction on Circuits and Systems – II (2005-2007, 2012-2015) 
+• Conference Program Committee: 
+o General Co-chair, 2003 IEEE Int’l Conf. on Electronic Devices and Solid-State Circuits 
+o Int’l Tech. Prog. Comm., IEEE Int’l Solid-State Circuits Conference (2004-2010, 2014-
+2016) 
+o Tech. Prog. Comm., European Solid-State Circuits Conference (2011-2013) 
+• Member of Engineering Panel, Research Grants Council, UGC, Hong Kong (2009-2015) 
+ 
+JOURNAL PUBLICATIONS   
+[64] Yang F., and Mok P.K.T., “A Nanosecond-Transient Fine-Grained Digital LDO with Multi-
+Step Switching Scheme and Asynchronous Adaptive Pipeline Control”, IEEE Journal of 
+Solid-State Circuits, to appear.  
+[63] Gao Y., Li L., and Mok P.K.T., “An AC Input Switching-Converter-Free LED Driver with 
+Low-Frequency-Flicker Reduction”, IEEE Journal of Solid-State Circuits, Vol. 52, No. 5, pp. 
+1424 - 1434, May 2017.  
+[62] Cheng L., Ki W.-H., Yang F., Mok P.K.T., and Jing X., “Predicting Sub-Harmonic Oscillation 
+of Voltage-Mode Switching Converters Using a Circuit-Oriented Geometrical Approach”, 
+IEEE Trans. Circuits and Systems – I, Vol. 64, No. 3, pp. 717 - 730, Mar 2017.   
+[61] Liu X., Mok P.K.T., Jiang J., and Ki W.-H., “Analysis and Design Considerations of 
+Integrated 3-Level Buck Converters”, IEEE Trans. Circuits and Systems – I, Vol. 63, No. 5, 
+pp. 671 - 682, May 2016.    
+[60] Teh Y.-K.*, and Mok P.K.T., “DTMOS-based Pulse Transformer Boost Converter with 
+Complementary Charge Pump for Multi-Source Energy Harvesting,” IEEE Trans. Circuits 
+and Systems – II, Vol. 63, No. 5, pp. 508 - 512, May 2016.  
+[59] Teh Y.-K.*, and Mok P.K.T., “A Bipolar Output Voltage Pulse Transformer Boost Converter 
+with Charge Pump Assisted Shunt Regulator for Thermoelectric Energy Harvesting,” Analog 
+Integrated Circuits and Signal Processing, Vol. 88, No. 2, pp. 319-331, Feb 2016.  
+[58] Li L., Gao Y., Mok P.K.T., Sun I.-S.M. and Park N., “A 16-28W 92.8% Efficiency Monolithic 
+Quasi-Resonant LED Driver with Constant-Duty-Ratio Frequency Regulator,” IEEE Trans. 
+Circuits and Systems – II, to appear.  
+[57] Huang C., and Mok P.K.T., “A Delay-Line Based Voltage-to-Duty-Cycle Controller for 
+High-Frequency PWM Switching Converters,” IEEE Trans. Circuits and Systems – II, Vol. 
+62, No. 8, pp. 751 - 755, August 2015.  
+
+-----
+ 
+- 3 - 
+ 
+[56] Kim J., Mok P.K.T., and Kim C., “A 0.15-V Input Energy Harvesting Charge Pump with 
+Dynamic Body Biasing and Adaptive Dead-Time for Efficiency Improvement,” IEEE Journal 
+of Solid-State Circuits, Vol. 50, No. 2, pp. 414-425, Feb 2015.  
+[55] Huang C., and Mok P.K.T., “Undershoot suppression technique for fully integrated pulse-
+width modulated switching converters,” Electronics Letters, Vol. 51, No. 1, pp. 96-97, 8 
+January 2015.  
+[54] Teh Y.-K., and Mok P.K.T., “Design of Transformer-Based Boost Converter for High Internal 
+Resistance Energy Harvesting Sources With 21 mV Self-Startup Voltage and 74% Power 
+Efficiency,” IEEE Journal of Solid-State Circuits, Vol. 49, No. 11, pp. 2694-2704, Nov 2014.  
+[53] Teh Y.-K., and Mok P.K.T., “A Stacked Capacitor Multi-Microwatts Source Energy 
+Harvesting Scheme With 86 mV Minimum Input Voltage and ±3 V Bipolar Output Voltage,” 
+IEEE Journal on Emerging and Selected Topics in Circuits and Systems, Vol. 4, No. 3, pp. 
+313-323, Sept 2014.  
+[52] Chan M.P., and Mok P.K.T., “A Monolithic Digital Ripple-Based Adaptive-Off-Time DC-DC 
+Converter with a Digital Inductor Current Sensor,” IEEE Journal of Solid-State Circuits, Vol. 
+49, No. 8, pp. 1837-1847, Aug 2014.  
+[51] Huang C., and Mok P.K.T., “A 100 MHz 82.4% Efficiency Package Bondwire Based Fully-
+Integrated Buck Converter with Flying Capacitor for Area Reduction,” IEEE Journal of Solid-
+State Circuits, Vol. 48, no. 12, pp. 2977-2988, Dec 2013. 
+[50] Huang C., and Mok P.K.T., “An 84.7% Efficiency 100 MHz Package Bondwire Based Fully-
+Integrated Buck Converter with Precise DCM Operation and Enhanced Light-load 
+Efficiency,” IEEE Journal of Solid-State Circuits, Vol. 48, no. 11, pp. 2595-2607, Nov 2013.  
+[49] Jing X., and Mok P.K.T., “Fast Fixed-Frequency Adaptive-On-Time Boost Converter with 
+Light Load Efficiency Enhancement and Predictable Noise Spectrum,” IEEE Journal of Solid-
+State Circuits, Vol. 48, No. 10, pp. 2442 - 2456, Oct. 2013.  
+[48] Jing X., and Mok P.K.T., “Power Loss and Switching Noise Reduction Techniques for Single-
+Inductor Multiple-Output Regulator,” IEEE Trans. Circuits and Systems - I, Vol. 60, No. 10, 
+pp. 2788 - 2798, Oct 2013.  
+[47] Chan M.P., and Mok P.K.T., “On-Chip Digital Inductor Current Sensor for Monolithic 
+Digitally Controlled DC-DC Converter,” IEEE Trans. Circuits and Systems - I, Vol. 60, No. 
+5, pp. 1232 - 1240, May 2013.  
+[46] Ho E.N.Y., and Mok P.K.T., “Design of PWM Ramp Signal in Voltage-Mode CCM Random 
+Switching Frequency Buck Converter for Conductive EMI Reduction,” IEEE Trans. Circuits 
+and Systems - I, Vol. 60, No. 2, pp. 505-515, Feb 2013. 
+[45] Ho E.N.Y., and Mok P.K.T., “Wide Loading Range Fully Integrated LDR with Power Supply 
+Ripple Injection Filter,” IEEE Trans. Circuits and Systems - II, Vol. 59, No. 6, pp. 356-360, 
+Jun 2012. 
+[44] Kwong K.C., He J., Mok P.K.T., and Chan M., “Phase-Change Memory RESET Model Based 
+on Detailed Cell Cooling Profile,” IEEE Trans. Electron Devices, Vol. 58, No. 10, pp. 3635-
+3638, Oct 2011. 
+[43] Jing X., Mok P.K.T., and Lee M.C., “A Wide-Load-Range Constant-Charge-Auto-Hopping 
+Control Single-Inductor-Dual-Output Boost Regulator with Minimized Cross-Regulation,” 
+IEEE Journal of Solid-State Circuits, Vol. 46, No. 10, pp. 2350-2362, Oct 2011. 
+[42] Chan M.P., and Mok P.K.T., “Design and Implementation of Fully Integrated Digitally 
+Controlled Current-Mode Buck Converter”, IEEE Trans. Circuits and Systems - I, Vol. 58, 
+No. 8, pp. 1980-1991, Aug 2011.  
+[41] Wu P.Y., and Mok P.K.T., “A Two-phase Switching Hybrid Supply Modulator for RF Power 
+Amplifiers with 9% Efficiency Improvement”, IEEE Journal of Solid-State Circuits, Vol. 45, 
+No. 12, pp. 2543-2556, Dec 2010. 
+[40] Leung K.N., Mai Y.Y., and Mok P.K.T., “A Chip-Area Efficient Voltage Regulator for VLSI 
+Systems,” IEEE Trans. Very Large Scale Integration Systems, Vol. 18, No. 12, pp. 1757-
+1762, Dec 2010.  
+
+-----
+ 
+- 4 - 
+ 
+[39] Wu P.Y., and Mok P.K.T., “Comparative Studies of Common Fix-frequency Controls for 
+Reference Tracking and Enhancement by End-point Prediction”, IEEE Trans. Circuits and 
+Systems - I, Vol. 57, No. 11, pp. 3023-3034, Nov 2010.  
+[38] Wu P.Y., Tsui S.Y.S., and Mok P.K.T., “Area- and Power-efficient Monolithic Buck 
+Converters with Pseudo-Type III Compensation”, IEEE Journal of Solid-State Circuits, Vol. 
+45, No. 8, pp. 1446-1455, Aug 2010.  
+[37] Ho E.N.Y., and Mok P.K.T., “A Capacitor-less CMOS Active Feedback Low Dropout 
+Regulator with Slew-Rate Enhancement for Portable On-Chip Application”, IEEE Trans. 
+Circuits and Systems - II, Vol. 57, No. 2, pp. 80-84, Feb 2010. (Top 25 most downloaded 
+TCAS-II papers: #3 in 2010 Jan-Jun) 
+[36] Man T.Y., Mok P.K.T., and Chan M., “A 0.9-V Input Discontinuous-Conduction-Mode Boost 
+Converter with CMOS-Control Rectifier,” IEEE Journal of Solid-State Circuits, Vol. 43, No. 
+9, pp. 2036-2046, Sept 2008.  
+[35] Mai Y.Y., and Mok P.K.T., “A Constant Frequency Output-Ripple-Voltage-Based Buck 
+Converter without Using Large ESR Capacitor”, IEEE Trans. Circuits and Systems - II, Vol. 
+55, No. 8, pp. 748-752, Aug 2008. 
+[34] Man T.Y., Leung K.N., Leung C.Y., Mok P.K.T., and Chan M., “Development of Single-
+Transistor-Control LDO Based on Flipped Voltage Follower for SoC,” IEEE Trans. Circuits 
+and Systems - I, Vol. 55, No. 5, pp. 1392-1401, Jun 2008.  (Top 25 most downloaded TCAS-
+I papers: #18 in 2008, #22 in 2009 and #22 in 2010 Jan-Jun) 
+[33] Wu P.Y., and Mok P.K.T., “A Monolithic Buck Converter with Near-Optimum Reference 
+Tracking Response Using Adaptive-Output-Feedback”, IEEE Journal of Solid-State Circuits, 
+Vol. 42, No. 11, pp. 2441-2450, Nov 2007. 
+[32] Man T.Y., Mok P.K.T., and Chan M., “A High Slew-Rate Push-Pull Output Amplifier for 
+Low-Quiescent Current Low-Dropout Regulators with Transient-Response Improvement,” 
+IEEE Trans. Circuits and Systems - II, Vol. 54, No. 9, pp. 755-759, Sept 2007.  (Top 25 most 
+downloaded TCAS-II papers:  #7 in 2008, #11 in 2009, #15 in 2010 Jan-Jun) 
+[31] Leung K.N., Lo C.H., Mok P.K.T., Mai Y.Y., Leung W.Y., and Chan M.J., “Temperature-
+compensated CMOS ring oscillator for power-management circuits”, Electronics Letters, Vol. 
+43, Issue 15, pp. 787-789, 19 July 2007. 
+[30] Lee H., and Mok P.K.T., “A SC Voltage Doubler with Pseudo-Continuous Output Regulation 
+Using a Three-Stage Switchable Opamp,” IEEE Journal of Solid-State Circuits, Vol. 42, No. 
+6, pp. 1216-1229, Jun 2007. 
+[29] Lau S.K., Mok P.K.T. and Leung K.N., “A Low-Dropout Regulator for SoC with Q-
+Reduction,” IEEE Journal of Solid-State Circuits, Vol. 42, No. 3, pp. 658-664, Mar 2007. 
+[28] Siu M., Mok P.K.T., Leung K.N., Lam Y.H., and Ki W.H., “A Voltage-Mode PWM Buck 
+Regulator with End-Point Prediction,” IEEE Trans. Circuits and Systems - II, Vol. 53, No. 4, 
+pp. 294-298, April 2006. 
+[27] Leung C.Y., Mok P.K.T. and Leung K.N., “A 1-V Integrated Current-Mode Boost Converter 
+in Standard 3.3/5-V CMOS Technologies,” IEEE Journal of Solid-State Circuits, Vol. 40, No. 
+11, pp. 2265-2274, Nov 2005. (Most-Read JSSC Articles for 2005) 
+[26] Lee H., Mok P.K.T., and Leung K.N., “Design of Low-Power Analog Drivers Based on Slew-
+Rate Enhancement Circuits for CMOS Low-Dropout Regulators,” IEEE Trans. Circuits and 
+Systems - II, Vol. 52, No. 9, pp. 563-567, Sept 2005. 
+[25] Leung C.Y., Mok P.K.T., Leung K.N. and Chan M., “An Integrated CMOS Current-Sensing 
+Circuit for Low-Voltage Current-Mode Buck Regulator,” IEEE Trans. Circuits and Systems - 
+II, Vol. 52, No. 7, pp. 394-397, July 2005. 
+[24] Lee H., and Mok P.K.T., “Switching Noise and Shoot-Through Current Reduction Techniques 
+for Switched-Capacitor Voltage Doubler,” IEEE Journal of Solid-State Circuits, Vol. 40, No. 
+5, pp. 1136-1146, May 2005. 
+[23] Lee H., and Mok P.K.T., “Advances in Active-Feedback Frequency Compensation with 
+Power Optimization and Transient Improvement,” IEEE Trans. Circuits and Systems - I, Vol. 
+
+-----
+ 
+- 5 - 
+ 
+51, No. 9, pp. 1690-1696, Sept 2004. (Top 20 most downloaded TCAS-I papers:  #13 in 
+2004) 
+[22] Lam S., Lee Wai-Kit, Chan A.C.K., Mok P.K.T., Ko P.K., and Chan M., “A Workable Use of 
+Floating-Body Silicon-on-Sapphire MOSFET as a Transconductance Mixer,” Japanese 
+Journal of Applied Physics, Vol. 43, No. 4B, pp. 2176-2179, Apr 2004. 
+[21] Yiu C.L., and Mok P.K.T., “Process-independent analogue data driver for polysilicon TFT 
+AMLCD”, International Journal of Electronics, Vol. 91, No. 4, pp. 199-210, April 2004. 
+[20] Lee W.K., Man T.Y., Mok P.K.T., Ko P.K., and Chan M., “The Impact of the Distributed RC 
+Effect on High Frequency Noises Modeling of Bipolar Transistor”, Solid-State Electronics, 
+Vol. 48, Issue 2, pp. 297-308, Feb 2004. 
+[19] Lee C.F., and Mok P.K.T., “A Monolithic Current-Mode CMOS DC-DC Converter with On-
+Chip Current-Sensing Technique”, IEEE Journal of Solid-State Circuits, Vol. 39, No. 1, pp. 3-
+14, Jan 2004. (Most-Read JSSC Articles for 2004) 
+[18] Leung K.N., and Mok P.K.T., “A Capacitor-Free CMOS Low-Dropout Regulator with 
+Damping-Factor-Control Frequency Compensation,” IEEE Journal of Solid-State Circuits, 
+Vol. 38, No. 10, pp. 1691-1702, Oct 2003. 
+[17] Lee H., Leung K.N., and Mok P.K.T., “A Dual-Path Bandwidth Extension Amplifier 
+Topology with Dual-Loop Parallel Compensation,” IEEE Journal of Solid-State Circuits, Vol. 
+38, No. 10, pp. 1739-1744, Oct 2003. 
+[16] Lam S., Mok P.K.T., Ko P.K., and Chan M., “High-Isolation Bonding Pad Design for Silicon 
+RFIC up to 20 GHz,” IEEE Electron Device Letters, Vol. 24, No. 9, pp. 601-603, Sept 2003. 
+[15] Lam S., Mok P.K.T., Ki W.H., Ko P.K., and Chan M., “An Enhanced Compact Waffle 
+MOSFET with Low Drain Capacitance from a Standard Submicron CMOS Technology”, 
+Solid-State Electronics, Vol. 47, Issue 5, pp. 785-789, May 2003. 
+[14] Leung K.N., Mok P.K.T., and Leung C.Y., “A 2-V 23-µA 5.3-ppm/°C Curvature-Compensated 
+CMOS Bandgap Voltage Reference”, IEEE Journal of Solid-State Circuits, Vol. 38, No. 3, 
+pp. 561-564, Mar 2003. 
+[13] Lee H., and Mok P.K.T., “Active-Feedback Frequency-Compensation Technique for Low-
+Power Multistage Amplifiers”, IEEE Journal of Solid-State Circuits, Vol. 38, No. 3, pp. 511-
+520, Mar 2003.  
+[12] Leung K.N., and Mok P.K.T., “A CMOS Voltage Reference Based on Weighted DVGS for 
+CMOS Low-Dropout Linear Regulators,” IEEE Journal of Solid-State Circuits, Vol. 38, No. 
+1, pp. 146-150, Jan 2003. 
+[11] Ma D., Ki W.H., Tsui C.Y., and Mok P.K.T., “Single-Inductor Multiple-Output Switching 
+Converters with Time-Multiplexing Control in Discontinuous Conduction Mode,” IEEE 
+Journal of Solid-State Circuits, Vol. 38, No. 1, pp. 89-100, Jan 2003. 
+[10] Leung K.N., and Mok P.K.T., “A Sub-1-V 15-ppm/°C CMOS Bandgap Voltage Reference 
+without requiring Low Threshold Voltage Device,” IEEE Journal of Solid-State Circuits, Vol. 
+37, No. 4, pp. 526-530, April 2002. 
+[9] 
+Leung K.N., and Mok P.K.T., “Analysis of MultiStage Amplifier-Frequency Compensation”, 
+IEEE Trans. Circuits and Systems - I, Vol. 48, No. 9, pp. 1041-1056, Sept. 2001. (Top 25 
+most downloaded TCAS-I papers: #23 in 2005, #10 in 2008, #16 in 2009 and #8 in 2010 
+Jan-Jun) 
+[8] 
+Leung K.N., and Mok P.K.T., “Nested Miller Compensation in Low-Power CMOS Design,” 
+IEEE Trans. Circuits and Systems - II, Vol. 48, No. 4, pp. 388-394, April 2001. 
+[7] 
+Zhang S.D., Zhu, C., Sin J.K.O., Li J.N., and Mok P.K.T., “Ultra-Thin Elevated Channel 
+Poly-Si TFT Technology for Fully-Integrated AMLCD System on Glass”, IEEE Trans. 
+Electron Devices, Vol. 47, No. 3, pp. 569-575, Mar. 2000. 
+[6] 
+Leung K.N., Mok P.K.T., Ki W.H., and Sin J.K.O., “Three-Stage Large Capacitive Load 
+Amplifier with Damping-Factor-Control Frequency Compensation”, IEEE Journal of Solid-
+State Circuits, Vol. 35, No. 2, pp. 221-230, Feb. 2000. 
+
+-----
+ 
+- 6 - 
+ 
+[5] 
+Zhang S.D., Zhu C., Sin J.K.O., and Mok P.K.T., “A Novel Ultra-Thin Elevated Channel Low 
+Temperature Poly-Si TFT”, IEEE Electron Device Letters, Vol. 20, No. 11, pp. 569-571, Nov. 
+1999. 
+[4] 
+Cai J., Sin J.K.O., Mok P.K.T., Ng W.T., and Lai P.P.T., "A New Lateral Trench-Gate 
+Conductivity Modulated Power Transistor", IEEE Trans. Electron Devices, Vol. 46, No. 8, pp. 
+1788-1793, Aug. 1999. 
+[3] 
+Chan W.M.T., Sin J.K.O., Mok P.K.T., and Wong S.S., “A Power IC Technology with 
+Excellent Cross-talk Isolation,” IEEE Electron Device Letters, vol. 17, pp. 467-469, Oct. 
+1996. 
+[2] 
+Mok P.K.T., Nezar A., and Salama C.A.T., “A Self-Aligned Trenched Cathode Lateral 
+Insulated Gate Bipolar Transistor with High Latch-Up Resistance,” IEEE Trans. Electron 
+Devices, vol. 42, pp. 2236-2239, Dec. 1995. 
+[1] 
+Mok P.K.T., and Salama C.A.T., “A Novel High-Voltage High-Speed MESFET Using a 
+Standard GaAs Digital IC Process,” IEEE Trans. Electron Devices, vol. 41, pp. 246-250, Feb. 
+1994. 
+ 
+CONFERENCE PUBLICATIONS  
+[111] 
+Yang F., and Mok P.K.T., “A 65nm Inverter-Based Low-Dropout Regulator with Rail-to-Rail 
+Regulation and over -20dB PSR at 0.2V Lowest Supply Voltage”, IEEE International Solid-
+State Circuits Conference, San Francisco, CA, USA, Feb 2017, pp. 106-107.   
+[110] 
+Gao Y., Li L., and Mok P.K.T., “An AC input inductor-less LED driver for visible-light-
+communication applications with 8Mbps data rate and 6.4% low-frequency-flicker”, IEEE 
+International Solid-State Circuits Conference, San Francisco, CA, USA, Feb 2017, pp. 384-
+385.   
+[109] 
+Liu X., Zhang H., Zhao M. Chen X., Mok P.K.T., and Luong H.C., “A 2.4V 23.9dBm 35.7%-
+PAE -32.1dBc-ACLR LTE-20MHz envelope-shaping-and-tracking system with a multiloop-
+controlled AC-coupling supply modulator and a mode-switching PA”, IEEE International 
+Solid-State Circuits Conference, San Francisco, CA, USA, Feb 2017, pp. 38-39.   
+[108] 
+Zhang C., Liang T., and Mok P.K.T., and Yu W., “FPGA Implementation of the Coupled 
+Filtering Method”, 2016 IEEE International Conference on Bioinformatics and Biomedicine, 
+Shenzhen, China, Dec 2016.   
+[107] 
+Wan Q., Teh Y.-K.*, Mok P.K.T., “Analysis of a Reconfigurable TEG Array for High 
+Efficiency Thermoelectric Energy Harvesting”, IEEE Asia Pacific Conference on Circuits and 
+Systems, Jeju, Korea, Oct 2016, pp. 662-663.   
+[106] 
+Pan S., and Mok P.K.T., “A Single on/off Reference Tracking Buck Converter using Turning 
+Point Prediction for DVFS Application”, IEEE Asia Pacific Conference on Circuits and 
+Systems, Jeju, Korea, Oct 2016, pp. 95-96.    
+[105] 
+Yang F., Lu Y., and Mok P.K.T., “A Comparative Analysis on Binary and Multiple-Unary 
+Weighted Power Stage Design for Digital LDO”, IEEE Asia Pacific Conference on Circuits 
+and Systems, Jeju, Korea, Oct 2016, pp. 41-42.   
+[104] 
+Liu X., Jiang J., Mok P.K.T., and Ki W.-H., “Methods for Measuring Loop-Gain Function of 
+High-Frequency DC-DC Converters”, IEEE Asia Pacific Conference on Circuits and Systems, 
+Jeju, Korea, Oct 2016, pp. 247-248.  
+[103] 
+Cai Y., Zou X., Gao Y., Li L., Mok P.K.T., and Lau K.M., “Efficient Use of Uniform GaN 
+HVLEDs for Small-Flicker General Illumination Applications with Converter-free LED 
+Drivers”, Compound Semiconductor Week, Toyama, Japan, Jun 2016.  
+[102] 
+Li L., Gao Y., and Mok P.K.T., “A Multiple-String Hybrid LED Driver with 97% Power 
+Efficiency and 99.6% Power Factor”, 2016 Symposium on VLSI Circuits, Honolulu, HI, USA, 
+Jun 2016, pp. 106-107.  
+[101] 
+Liu X., Huang C., and Mok P.K.T., “A 50-MHz 90% Efficiency 5-V Input 3-W Wide Output 
+Range 3-Level Buck Converter with Real-Time Calibration and Fast Responses for DVS in 
+65nm CMOS”, 2016 Symposium on VLSI Circuits, Honolulu, HI, USA, Jun 2016, pp. 52-53.  
+
+-----
+ 
+- 7 - 
+ 
+[100] 
+Li L., Gao Y., and Mok P.K.T., “A More Accurate Steady State Analysis of Zero-Voltage 
+Switching Quasi-Resonant Converters”, IEEE International Symposium on Circuits and 
+Systems, Montreal, QC, Canada, May 2016, pp. 1606-1609.  
+[99] Gao Y., Li L., and Mok P.K.T., “An AC Powered Converter-Free LED Driver with Low 
+Flicker”, 21st Asia and South Pacific Design Automation Conference, Macao, Jan 2016, pp. 
+11-12.  
+[98] Yang F., and Mok P.K.T., “Fast-Transient Asynchronous Digital LDO with Load Regulation 
+Enhancement by Soft Multi-Step Switching and Adaptive Timing Techniques in 65-nm 
+CMOS,” IEEE Custom Integrated Circuits Conference, San Jose, California, USA, Sept 
+2015, to appear.  
+[97] Yang F., and Mok P.K.T., “A 0.6-1V Capacitor-Less Asynchronous Digital LDO with Fast 
+Transient Response Achieving 9.5b over 500mA Loading Range in 65-nm CMOS,” The 41st 
+European Solid-State Circuits Conference, Graz, Austria, Sept 2015, to appear.  
+[96] Teh Y.-K., and Mok P.K.T., “Design Consideration of Recent Advanced Low-Voltage CMOS 
+Boost Converter for Energy Harvesting”, The 22nd European Conference on Circuit Theory 
+and Design, Trondheim, Norway, Aug 2015, to appear. 
+ 
+[95] Gao Y., Li L., and Mok P.K.T., “A 5.5W AC Input Converter-Free LED Driver with 82% 
+Low-Frequency-Flicker Reduction, 88.2% Efficiency and 0.92 Power Factor”, 2015 
+Symposium on VLSI Circuits, Kyoto, Japan, Jun 2015, pp. 286-287.  
+[94] Fang X., Mak T.H., Gao Y., Lau K.M., Mok P.K.T., and Sin J.K.O., “A Low Substrate Loss, 
+Monolithically Integrated Power Inductor for Compact LED Drivers”, 27th International 
+Symposium on Power Semiconductor Devices and ICs, Hong Kong, China, May 2015, pp. 53-
+56. 
+[93] Liu X., Huang C., and Mok P.K.T., “Dynamic Performance Analysis of 3-Level Integrated 
+Buck Converters”, IEEE International Symposium on Circuits and Systems, Lisbon, Portugal, 
+May 2015, pp. 2093-2096.  
+[92] Jiang J., Lu Y., Huang C., Ki W.-H., and Mok P.K.T., “A 2-/3-Phase Fully Integrated 
+Switched-Capacitor DC-DC Converter in Bulk CMOS for Energy-Efficient Digital Circuits 
+with 14% Efficiency Improvement”, IEEE International Solid-State Circuits Conference, San 
+Francisco, CA, USA, Feb 2015, pp. 366-367. 
+[91] Mak T.H., Liu Z., Chong W.C., Gao Y., Fang X., Sin J.K.O., Mok P.K.T, and Lau K.M., 
+“Integration Scheme toward LED System-on-a-Chip (SoC)”, Solid-State and Organic 
+Lighting (SOLED), Canberra, Australia, Dec 2014.  
+[90] Fang X., Sin J.K.O., Lau K.M., Yue C.P., and Mok P.K.T, “Integrated Magnetics for Eco-
+Friendly LED System-on-a-Chip Applications”, 4th International Power Supply on Chip 
+Workshop, Boston, MA, USA, Oct 2014.   
+[89] Teh Y.-K., and Mok P.K.T., “A Bipolar Output Voltage Pulse Transformer Boost Converter 
+with Charge Pump Assisted Shunt Regulator for Thermoelectric Energy Harvesting”, IEEE 
+57th International Midwest Symposium on Circuits and Systems, College Station, TX, USA, 
+Aug 2014, pp. 37-40.   (Best Student Paper Award)  
+[88] Yang F., and Mok P.K.T., “Switch-less Adaptive Feed-Forward Supply Noise Cancellation 
+Technique for Capacitor-less LDR”, IEEE 57th International Midwest Symposium on Circuits 
+and Systems, College Station, TX, USA, Aug 2014, pp. 777-780.  
+[87] Li L., Gao Y., Mok P.K.T., Lau K.M., Raju S., Yue C.P., and Sin J.K.O., “Monolithically 
+Integrated Drivers for Eco-friendly LED System-on-a-Chip Applications”, 2014 IEEE 
+International Conference on Electron Devices and Solid-State Circuits, Chengdu, China, June 
+2014. 
+[86] Teh Y.-K., and Mok P.K.T., “A Dual Mode Thermoelectric Energy Harvesting Circuit Using 
+Transformer-based Boost Converter, Charge Pump and Time-Domain Digital Control”, 2014 
+IEEE International Conference on Electron Devices and Solid-State Circuits, Chengdu, 
+China, June 2014. 
+
+-----
+ 
+- 8 - 
+ 
+[85] Teh Y.-K., and Mok P.K.T., “A Piezoelectric Energy Harvesting Interface Circuit Using One-
+Shot Pulse Transformer Boost Converter Based on Water Bucket Fountain Strategy”, IEEE 
+International Symposium on Circuits and Systems, Melbourne, Australia, June 2014, pp. 
+1993-1996. 
+[84] Yang F., and Mok P.K.T., “Area-Efficient Capacitor-less LDR with Enhanced Transient 
+Response for SoC in 65-nm CMOS”, IEEE International Symposium on Circuits and Systems, 
+Melbourne, Australia, June 2014, pp. 2325-2328.  
+[83] Le F., Lee S.W.R., Lau K.M., Yue C.P., Sin J.K.O., Mok P.K.T., Ki W.-H., Choi H.W., 
+“Through Silicon Underfill Dispensing for 3D Die/Interposer Stacking,” The 64th Electronic 
+Components and Technology Conference, Lake Buena Vista, FL, USA, May 2014, pp. 919-
+924. 
+[82] Kim J., Mok P.K.T., and Kim C., “A 0.15V Input Energy Harvesting Charge Pump with 
+Switching Body Biasing and Adaptive DeadTime for Efficiency Improvement”, IEEE 
+International Solid-State Circuits Conference, San Francisco, CA, USA, Feb 2014, pp. 394-
+395.  
+[81] Lau K.M., Choi H.W., Lee S.-W. R., Mok P.K.T., Sin J.K.O., Yue C.P., Ki W.-H., “Cost-
+effective and Eco-friendly LED System-on-a-Chip”, China Solid State Lighting, Beijing, 
+China, Nov 2013. 
+[80] Chan M.P., and Mok P.K.T., “Monolithic Digitally Controlled Ripple-Based DC-DC 
+Converters with Digital Inductor Current Sensors”, IEEE Custom Integrated Circuits 
+Conference, San Jose, California, USA, Sept 2013. 
+[79] Teh Y.-K., and Mok P.K.T., “Design of Coupled Inductor-Based Boost Converter for Ultra 
+Low Power Thermoelectric Energy Harvesting using Pulse Transformer with 75mV Start-up 
+Voltage”, 2013 IEEE International Conference on Electron Devices and Solid-State Circuits, 
+Hong Kong, June 2013.  
+[78] Kim J., Mok P.K.T., Kim C., and Teh Y.-K., “A Low-Voltage High-Efficiency Voltage 
+Doubler for Thermoelectric Energy Harvesting”, 2013 IEEE International Conference on 
+Electron Devices and Solid-State Circuits, Hong Kong, June 2013.  
+[77] Huang C., Cheng L., Mok P.K.T., and Ki W.H., “High-Side NMOS Power Switch and 
+Bootstrap Driver for High-Frequency Fully-Integrated Converters with Enhanced Efficiency”, 
+IEEE International Symposium on Circuits and Systems, Beijing, China, May 2013, pp. 693-
+696.  
+[76] Hu X., and Mok P.K.T., “Analysis and Design of a Buck-Boost Converter with Three-State 
+Controlled Transition Mode for Efficiency and Stability Enhancement”, IEEE International 
+Symposium on Circuits and Systems, Beijing, China, May 2013, pp. 697-700. 
+[75] Huang C., and Mok P.K.T., “An 82.4% Efficiency Package Bondwire Based Four-Phase 
+Fully-Integrated Buck Converter with Flying Capacitor for Area Reduction”, IEEE 
+International Solid-State Circuits Conference, San Francisco, CA, USA, pp. 362-363, Feb 
+2013.  
+[74] Huang C., and Mok P.K.T., “A Package Bondwire Based 80% Efficiency 80MHz Fully-
+Integrated Buck Converter with Precise DCM Operation and Enhanced Light-Load 
+Efficiency”, IEEE Asian Solid-State Circuits Conference 2012, Kobe, Japan, pp. 221-224, 
+Nov 2012. (Student Design Contest nomination)  
+[73] Kwong K.C., Mok P.K.T., and Chan M. “Geometry Based Resistance Model for Phase 
+Change Memory,” 42nd European Solid-State Device Research Conference, Bordeaux, 
+France, pp. 101-104, Sept 2012. 
+[72] Chan M.P., and Mok P.K.T., “On-Chip Digital Inductor Current Sensor for Monolithic 
+Digitally Controlled DC-DC Converters”, IEEE International Symposium on Circuits and 
+Systems, Seoul, South Korea, pp. 962-965, May 2012.  
+[71] Jing X., Mok P.K.T., Huang C., and Yang F., “A 0.5V nanoWatt CMOS Voltage Reference 
+with Two High PSRR Outputs”, IEEE International Symposium on Circuits and Systems, 
+Seoul, South Korea, pp. 2837-2840, May 2012.  
+
+-----
+ 
+- 9 - 
+ 
+[70] Jing X., and Mok P.K.T., “Fixed-Frequency Adaptive-On-Time Boost Converter with Fast 
+Transient Response and Light Load Efficiency Enhancement by Auto-Frequency-Hopping”, 
+2011 Symposium on VLSI Circuits, Kyoto, Japan, pp. 16-17, Jun 2011. 
+[69] Ho E.N.Y., and Mok P.K.T., “Design Considerations of Recent Advanced Monolithic Current-
+Mode DC-DC Converters”, 8th International Conference on Power Electronics – ECCE Asia, 
+Jeju, Korea, pp. 334-337, May 2011. (Invited Paper) 
+[68] Jing X., and Mok P.K.T., “Ultra-Fast Hysteretic Single-Inductor-Dual-Output Boost Regulator 
+with Predictable Noise Spectrum and Minimized Cross-Regulation”, IEEE International 
+Symposium on Circuits and Systems, Rio de Janeiro, Brazil, pp. 297-300, May 2011. (Best 
+Paper nomination) 
+[67] Jing X., Mok P.K.T., and Lee M.C., “Current-Slope-Controlled Adaptive-On-Time DC-DC 
+Converter with Fixed Frequency and Fast Transient Response”, IEEE International 
+Symposium on Circuits and Systems, Rio de Janeiro, Brazil, pp. 1908-1911, May 2011.  
+[66] Lee M.C., Jing X., and Mok P.K.T., “A 14V-Output Adaptive-Off-Time Boost Converter with 
+Quasi-Fixed-Frequency in Full Loading Range”, IEEE International Symposium on Circuits 
+and Systems, Rio de Janeiro, Brazil, pp. 233-236, May 2011.  
+[65] Huang C., and Mok P.K.T., “Cross-Regulation-Suppression Control Scheme for CCM Single-
+Inductor-Dual-Output Buck Converter with Ordered-Power-Distributive Control”, IEEE 
+International Symposium on Circuits and Systems, Rio de Janeiro, Brazil, pp. 1612-1615, May 
+2011.  
+[64] Ho E.N.Y., and Mok P.K.T., “Design Optimization of an Output Capacitor-Less Low Dropout 
+Regulator with Compensation Capacitance Reduction and Slew-Rate Enhancement 
+Technique”, IEEE International Symposium on Circuits and Systems, Rio de Janeiro, Brazil, 
+pp. 53-56, May 2011.  
+[63] Kwong K.C., He J., Mok P.K.T., and Chan M., “RESET Modeling of PCM using Thermal 
+Budget Approach,” 2010 IEEE International Conference on Electron Devices and Solid-State 
+Circuits, Hong Kong, Dec 2010. 
+[62] Ho E.N.Y., and Mok P.K.T., “Audio Susceptability Aware Ramp Signal Design on 
+Feedforward Voltage-Mode CCM Buck Converter,” 2010 IEEE International Conference on 
+Electron Devices and Solid-State Circuits, Hong Kong, Dec 2010. 
+[61] Jing X., Mok P.K.T., “Soft-Start Circuit with Duty Ratio Controlled Voltage Clamping and 
+Adaptive Sizing Technique for Integrated DC-DC Converters,” 2010 IEEE International 
+Conference on Electron Devices and Solid-State Circuits, Hong Kong, Dec 2010. (EDSSC 
+2010 Student Paper Contest, First Prize) 
+[60] Chan M.P., and Mok P.K.T., “A Monolithic 2nd-Order Boundary Controller for Buck 
+Converter with Fast Transient Response”, 2010 IEEE Asia Pacific Conference on Circuits and 
+Systems, Kuala Lumpur, Malaysia, pp. 468-471, Dec 2010. (Student Paper Award, 1st Prize 
+Winner) 
+[59] Ho E.N.Y., and Mok P.K.T., “Ramp Signal Generation in Voltage Mode CCM Random 
+Switching Frequency Buck Converter for Conductive EMI Reduction”, IEEE Custom 
+Integrated Circuits Conference, San Jose, California, USA, Sept 2010. 
+[58] Ho E.N.Y., and Mok P.K.T., “Chip-Area Efficient Capacitor-less CMOS LDO with Active 
+Feedback and Damping Zero Compensation”, 53rd IEEE International Midwest Symposium 
+On Circuits and Systems, Seattle, WA, USA, pp. 574-577, August 2010. 
+[57] Wu Y., and Mok P.K.T., “A Two-Phase Switching Hybrid Supply Modulator for Polar 
+Transmitters with 9% Efficiency Improvement”, IEEE International Solid-State Circuits 
+Conference, San Francisco, CA, USA, pp. 196-197, Feb 2010. 
+[56] Wu Y., Tsui S.Y.S., and Mok P.K.T., “An Area- and Power-efficient Monolithic Buck 
+Converter with Fast Transient Response”, IEEE Custom Integrated Circuits Conference, San 
+Jose, California, USA, pp. 307-310, Sept 2009. (Best Student Paper Award) 
+[55] Jing X., Mok P.K.T., Lee M.C., “A Wide-Load-Range Single-Inductor-Dual-Output Boost 
+Regulator with Minimized Cross-Regulation by Constant-Charge-Auto-Hopping (CCAH) 
+
+-----
+ 
+- 10 - 
+ 
+Control”, IEEE Custom Integrated Circuits Conference, San Jose, California, USA, pp. 299-
+302, Sept 2009. 
+[54] Yi J., Ki W.-H., Mok P.K.T., and Tsui C.-Y., “Dual-Power-Path RF-DC Multi-Output Power 
+Management Unit for RFID Tags”, IEEE 2009 Symp. on VLSI Tech & Ckts., Kyoto, Japan, 
+pp. 200-201, June 2009. 
+[53] Chan M.P., and Mok P.K.T., “Fully Integrated Digital Controller IC for Buck Converter with 
+a Differential-Sensing ADC”, 2008 IEEE International Conference on Electron Devices and 
+Solid-State Circuits, Hong Kong, Dec 2008. (EDSSC 2008 Student Paper Contest, First 
+Prize) 
+[52] Man T.Y., Mok P.K.T., and Chan M., “An Auto-Selectable Frequency Pulse-Width Modulator 
+for Buck Converters with Improved Light-Load Efficiency”, IEEE International Solid-State 
+Circuits Conference, San Francisco, CA, USA, pp. 440-441, Feb 2008. 
+[51] Man T.Y., Mok P.K.T., and Chan M., “Analysis of Switching-Loss-Reduction Methods for 
+MHz-Switching Buck Converters”, 2007 IEEE International Conference on Electron Devices 
+and Solid-State Circuits, Tainan, Taiwan, pp. 1035 - 1038, Dec 2007. 
+[50] Man T.Y., Mok P.K.T., and Chan M., “Design of Fast-Response On-Chip Current Sensor for 
+Current-Mode Controlled Buck Converters with MHz Switching Frequency”, 2007 IEEE 
+International Conference on Electron Devices and Solid-State Circuits, Tainan, Taiwan, pp. 
+389-392, Dec 2007. 
+[49] Wu Y., and Mok P.K.T., “Comparative studies of common control schemes for reference 
+tracking and application of end-point prediction”, IEEE Custom Integrated Circuits 
+Conference, San Jose, California, USA, pp. 559-562, Sept 2007. 
+[48] Man T.Y., Mok P.K.T., and Chan M., “Design of Area-Efficient, Low-Quiescent-Current 
+LDOs for Chip-Level Power Management”, 2007 IEEE International Symposium on 
+Integrated Circuits, Singapore, pp. 61-64, Sept 2007. 
+[47] Man T.Y., Mok P.K.T., and Chan M., “A CMOS-Control Rectifier for Discontinuous-
+Conduction Mode Switching DC-DC Converters”, IEEE International Solid-State Circuits 
+Conference, San Francisco, CA, pp. 358-359, Feb 2006. 
+[46] Lee H., Leung K.N., and Mok P.K.T., “Low-Voltage Analog Circuit Techniques Using Bias-
+Current Re-Utilization, Self-Biasing and Signal Superposition”, 2005 IEEE International 
+Conference on Electron Devices and Solid-State Circuits, Hong Kong, pp. 533-536, Dec 
+2005. 
+[45] Lee H., and Mok P.K.T., “A Switched-Capacitor DC-DC Converter with Pseudo-Continuous 
+Output Regulation using a Three-Stage Switchable Opamp”, IEEE International Solid-State 
+Circuits Conference, San Francisco, CA, pp. 288-289, Feb 2005. 
+[44] Mok P.K.T., and Leung K.N., “Design Considerations of Recent Advanced Low-Voltage 
+Low-Temperature-Coefficient CMOS Bandgap Voltage Reference”, IEEE Custom Integrated 
+Circuits Conference, Orlando, Florida, USA, pp. 635-642, Oct 2004. (Invited Paper) 
+[43] Leung K.N., Mok P.K.T., and Lau S.K., “A Low-Voltage CMOS Low-Dropout Regulator with 
+Enhanced Loop Response”, IEEE International Symposium on Circuits and Systems, 
+Vancouver, B.C., Canada, Vol. I, pp. 385-388, May 2004. 
+[42] Leung C.Y., Leung K.N., and Mok P.K.T., “Design of a 1.5-V High-Order Curvature-
+Compensated CMOS Bandgap Reference”, IEEE International Symposium on Circuits and 
+Systems, Vancouver, B.C., Canada, Vol. I, pp. 49-52, May 2004. 
+[41] Leung C.Y., Mok P.K.T., and Leung K.N., “A 1.2-V Buck Converter with a Novel On-Chip 
+Low-Voltage Current-Sensing Scheme”, IEEE International Symposium on Circuits and 
+Systems, Vancouver, B.C., Canada, Vol. V, pp. 824-827, May 2004. 
+[40] Lau S.K., Leung K.N., and Mok P.K.T., “Analysis of Low-Dropout Regulator Topologies for 
+Low-Voltage Regulation”, IEEE Conference on Electron Devices and Solid-State Circuits, 
+Hong Kong, pp. 379-382, Dec 2003. 
+
+-----
+ 
+- 11 - 
+ 
+[39] Lee W.K., Man T.Y., Mok P.K.T., Ko P.K., and Chan M., “The Impact of the AC Current 
+Crowding Effect on BJT RF Noise Modeling”, IEEE Conference on Electron Devices and 
+Solid-State Circuits, Hong Kong, pp. 327-330, Dec 2003. 
+[38] Lee H., and Mok P.K.T., “Switching Noise Reduction Techniques for Switched-Capacitor 
+Voltage Doubler”, IEEE Custom Integrated Circuits Conference, San Jose, California, USA, 
+pp. 693-696, Sept 2003. 
+[37] Lam S., Chan A.C.K., Lee Wai-Kit, Mok P.K.T., Ko P.K., and Chan M., “A Workable Use of 
+Floating-Body SOS MOSFET as a Transconductance Mixer,” 2003 International Conference 
+on Solid State Devices and Materials (SSDM 2003)., pp. 626-627, Sept 2003. 
+[36] Zhang X., Mok P.K.T., Chan M., and Ko P.K., “Large-Signal and Phase Noise Performance 
+Analysis of Active Inductor Tunable Oscillators”, IEEE International Symposium on Circuits 
+and Systems, Bangkok, Thailand, Vol. I, pp. 705-708, May 2003. 
+[35] Lam Y.H., Ki W.H., Tsui C.Y., and Mok P.K.T., “Single-Inductor Dual-Input Dual-Output 
+Switching Converter for Integrated Battery Charging and Power Regulation”, IEEE 
+International Symposium on Circuits and Systems, Bangkok, Thailand, Vol. III, pp. 447-450, 
+May 2003. 
+[34] Leung K.N., and Mok P.K.T., “High-Performance Low-Dropout Regulator Designs”, The 5th 
+Hong Kong IEEE Workshop on Switch Mode Power Supplies, Hong Kong, pp. 68-75, Jun 
+2002. 
+[33] Lee C.F., and Mok P.K.T., “On-Chip Current Sensing Technique for CMOS Monolithic 
+Switch-Mode Power Converters”, IEEE International Symposium on Circuits and Systems, 
+Scottsdale, Arizona, USA, Vol. V, pp. 265-268, May 2002. 
+[32] Kwok K.C., and Mok P.K.T., “Pole-Zero Tracking Frequency Compensation for Low Dropout 
+Regulator”, IEEE International Symposium on Circuits and Systems, Scottsdale, Arizona, 
+USA, Vol. IV, pp. 735-738, May 2002. 
+[31] Lee H., and Mok P.K.T., “Single-Point-Detection Slew-Rate Enhancement Circuits for Single-
+Stage Amplifiers”, IEEE International Symposium on Circuits and Systems, Scottsdale, 
+Arizona, USA, Vol. II, pp. 831-834, May 2002. 
+[30] Leung K.N., Mok P.K.T., and Leung C.Y., “A 2-V 23-µA 5.3ppm/°C 4th-Order Curvature-
+Compensated CMOS Bandgap Reference”, IEEE Custom Integrated Circuits Conference, 
+Orlando, Florida, USA, pp. 457-460, May 2002. 
+[29] Lee H., and Mok P.K.T., “Active-Feedback Frequency Compensation for Low-Power Multi-
+Stage Amplifiers”, IEEE Custom Integrated Circuits Conference, Orlando, Florida, USA, pp. 
+325-328, May 2002. (Best Student Paper Award) 
+[28] Leung K.N., and Mok P.K.T., “A CMOS Voltage Reference Based on Weighted Difference of 
+Gate-Source Voltages between PMOS and NMOS Transistors for Low Dropout Regulators,” 
+27th European Solid-State Circuits Conference, Villach, Austria, pp. 88-91, Sept 2001. 
+[27] Yiu C.L., and Mok P.K.T., “Design of Polysilicon TFT Operational Amplifier for Analog 
+AMLCD Driver”, The 8th IEEE International Conference on Electronics, Circuits and 
+Systems, Malta, Vol. 1, pp. 317-320, Sept 2001. 
+[26] Sun I-S.M., Ng W.T., Mok P.K.T., Mochizuki H., Shinomura K., Imai H., Ishikawa A., Saito 
+N., Miyashita K., Tamura S., and Takasuka K., “Development of a RF Bipolar Transistor in a 
+Standard 0.35µm CMOS Technology”, 2001 Asia-Pacific Workshop on Fundamental and 
+Application of Advanced Semiconductor Devices, Cheju, Korea, pp. 301-307, July 2001. 
+[25] Chen W., Ki W.H., and Mok P.K.T., “Dual-Loop Feedback for Fast Dropout Regulators”, 
+IEEE Power Electronics Specialist Conference, Vancouver, British Columbia, Canada, June 
+2001. 
+[24] Yau K.F., Ki W.H., Mok P.K.T., and Sin, J.K.O., “Phase-Controlled Dimmable CFL with 
+PPFC and Switching Frequency Modulation”, IEEE Power Electronics Specialist Conference, 
+Vancouver, British Columbia, Canada, June 2001. 
+
+-----
+ 
+- 12 - 
+ 
+[23] Ma D.S., Ki W.H., Tsui C.Y., and Mok P.K.T., "A 1.8V Single-Inductor Dual-Output 
+Switching Converter for Power Reduction Techniques", IEEE VLSI Symp. on Ckts., Kyoto, 
+Japan, pp. 137-140, June 2001. 
+[22] Sun I-S.M., Ng W.T., Mok P.K.T., Mochizuki H., Shinomura K., Imai H., Ishikawa A., Saito 
+N., Miyashita K., Tamura S., and Takasuka K., “RF Bipolar Transistors in CMOS Compatible 
+Technologies”, 2001 IEEE Hong Kong Electronic Devices Meeting, Hong Kong, pp. 108-111, 
+June 2001. 
+[21] Lee H., and Mok P.K.T., “A CMOS Current-Mirror Amplifier with Compact Slew Rate 
+Enhancement Circuit for Large Capacitive Load Applications”, IEEE International 
+Symposium on Circuits and Systems, Sydney, Australia, Vol. I, pp. 220-223, May 2001. 
+[20] Chen W., Ki W.H., Mok P.K.T., and Chan M., “Switched-Capacitor Power Converter with 
+Integrated Low Dropout Regulator”, IEEE International Symposium on Circuits and Systems, 
+Sydney, Australia, Vol. III, pp. 293-296, May 2001. 
+[19] Ma D., Ki W.H., Mok P.K.T., and Tsui C.Y., “Single-Inductor Multiple-Output Switching 
+Converters with Bipolar Outputs”, IEEE International Symposium on Circuits and Systems, 
+Sydney, Australia, Vol. III, pp. 301-304, May 2001. 
+[18] Ma D., Ki W.H., Tsui C.Y., and Mok P.K.T., “A Single-Inductor Dual-Output Integrated 
+DC/DC Boost Converter for Variable Voltage Scheduling”, Asia South Pacific Design 
+Automation Conference, Yokohama, Japan, pp. 19-20, Jan 2001. 
+[17] Ng T.K., Ki W.H., and Mok P.K.T., “Lamp Modeling for Dimmable Electronic Ballasts”, 
+IEEE Power Electronics Specialist Conference, Galaway, Ireland, pp. 1358-1362, June 2000. 
+[16] Chan W.S., Mok P.K.T., Ng T.K., Ki W.H., and Sin J.K.O., “IC Controller for Phase-
+Controlled Dimmable Compact Fluorescent Lamps with Closed-Loop Control”, IEEE 
+International Symposium on Circuits and Systems, Geneva, Switzerland, Vol. I, pp. 503-506, 
+May 2000. 
+[15] Lee H., Mok P.K.T., and Ki W.H., “A Novel Voltage-Control Scheme for Low-Voltage DC-
+DC Converters with Fast Transient Recovery”, IEEE International Symposium on Circuits 
+and Systems, Geneva, Switzerland, Vol. I, pp. 256-259, May 2000. 
+[14] Leung K.N., Mok P.K.T., Ki W.H., and Sin, J.K.O., “Analysis on An Alternative Structure of 
+Damping-Factor-Control Frequency Compensation”, IEEE International Symposium on 
+Circuits and Systems, Geneva, Switzerland, Vol. II, pp. 545-548, May 2000. 
+[13] Leung K.N., Mok P.K.T., and Ki W.H., "Right-Half-Plane Zero Removal Technique for Low-
+Voltage Low-Power Nested Miller Compensation CMOS Amplifiers", The 6th IEEE 
+International Conference on Electronics, Circuits and Systems, Paphos, Cyprus, pp. 599-602, 
+Sept 1999. 
+[12] Zhu C., Zhang S., Sin J.K.O., and Mok P.K.T., "Ultra-Thin Elevated Channel Low 
+Temperature Poly-Si TFTs for Fully-Integrated AMLCD Systems on Glass", The 29th 
+European Solid-State Device Conference, Leuven, Belgium, pp. 708-711, Sept 1999. 
+[11] Chan W.C., Mok P.K.T., Sin J.K.O., and Ng W.T., "Design of Monolithic RF Power 
+Amplifier using Bulk BiCMOS Process", 42nd Midwest Symposium On Circuits and Systems, 
+Las Cruces, NM, Vol. 1, pp. 10-13, Aug 1999. 
+[10] Ki W.H., Shi J., Yau E., Mok P.K.T., and Sin J.K.O., “Phase-Controlled Dimmable Electronic 
+Ballast for Fluorescent Lamps”, IEEE Power Electronics Specialist Conference, Charleston, 
+SC, pp. 1121-1125, July 1999. 
+[9] 
+Fung K.S., Ki W.H. and Mok P.K.T., “Analysis and Measurement of DCM Power Factor 
+Correctors”, IEEE Power Electronics Specialist Conference, Charleston, SC, pp. 709-714, 
+July 1999. 
+[8] 
+Leung K.N., Mok P.K.T., and Ki W.H., “A Novel Frequency Compensation Technique for 
+Low-Voltage Low-Dropout Regulator”, IEEE International Symposium on Circuits and 
+Systems, Orlando, FL, Vol. V, pp. 102-105, June 1999. 
+
+-----
+ 
+- 13 - 
+ 
+[7] 
+Leung K.N., Mok P.K.T., and Ki W.H., “Optimum Nested Miller Compensation for Low-
+Voltage Low-Power CMOS Amplifier Design”, IEEE International Symposium on Circuits 
+and Systems, Orlando, FL, Vol. II, pp. 616-619, June 1999. 
+[6] 
+Leung K.N., Mok P.K.T., Ki W.H., and Sin, J.K.O., “Damping Factor Control Frequency 
+Compensation Technique for Low-Voltage Low-Power Large Capacitive Load Application”, 
+IEEE International Solid-State Circuits Conference, San Francisco, CA, pp. 158-159, Feb 
+1999. 
+[5] 
+Li Z.*, Mok P.K.T., Ki W.H., and Sin J.K.O., “A Simple Method to Design Resonant Circuits 
+of Electronic Ballast for Fluorescent Lamps,” IEEE International Symposium on Circuits and 
+Systems, Hong Kong, pp. 1744-1747, June 1997. 
+[4] 
+Chan W.M.T., Sin J.K.O., Mok P.K.T., and Wong S.S., “CMOS Latchup Characterization for 
+LDMOS/LIGBT 
+Power 
+Integrated 
+Circuits,” 
+IEEE 
+International 
+Conference 
+on 
+Semiconductor Electronics, Penang, Malaysia, pp. 15-18, Nov. 1996. 
+[3] 
+Nezar A., Mok P.K.T., and Salama C.A.T., “Latch-up Prevention in Insulated Gate Bipolar 
+Transistors,” Proc. 5th International Symposium on Power Semiconductor Devices and ICs, 
+Monterey, California, pp. 236-239, May 1993. 
+[2] 
+Mok P.K.T., and Salama C.A.T., “High-Voltage High-Speed MESFETs Using a Standard 
+GaAs Digital IC Process,” Proc. 4th International Symposium on Power Semiconductor 
+Devices and ICs, Tokyo, Japan, pp. 309-313, May 1992. 
+[1] 
+Mok P.K.T., and Salama C.A.T., “Interconnect Induced Breakdown in HVICs,” Proc. 
+Symposium on High Voltage and Smart Power IC’s, Los Angeles, California, pp. 206-217, 
+May 1989. 
+ 
+
+-----

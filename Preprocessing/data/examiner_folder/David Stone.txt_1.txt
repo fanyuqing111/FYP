@@ -1,0 +1,153 @@
+2/5/2018
+Professor David Stone - Staff - EEE - The University of Sheffield
+https://www.sheffield.ac.uk/eee/staff/d_stone
+1/1
+Electronic and Electrical
+Engineering
+Home [/] > EEE [/eee] > Staff [/eee/staff] > Professor David Stone
+Professor David Stone
+email : d.a.stone@sheffield.ac.uk [mailto:d.a.stone@sheffield.ac.uk]
+tel: +44 (0) 114 222 5046
+BEng (University of Sheffield) PhD (University of Liverpool) MIET, CEng
+Research Interests
+Prof Stone has interests in all facets of power electronics and energy storage, including:
+Development of ‘smart’ battery packs for all-electric and hybrid-electric vehicles, based on both Li-based chemistries,
+Ni-MH and VRLA cells containing cell state-of-charge monitoring and conditioning electronics to extend the lifetime of
+the cells. Incorporation of observer techniques into state of function monitoring for cells to increase operation lifetime
+and consumer confidence in battery technology.
+Investigation into second life operation of EV batteries for Grid support and localised energy storage.
+High efficiency EV-contact less battery charging
+Modelling and control of novel fluorescent lamps to improve the efficiency of light generation. Incorporation of
+physical lamp models (based on electron energy level interactions) into both Simulink and spice based packages has
+led to novel lamp models based on the physical interactions within the plasma
+Design, modelling and digital control of high-order resonant converter topologies for high frequency switched mode
+power supplies for use in ‘white goods’, and concentrates on the analysis and design of high order resonant converter
+topologies, with the inclusion of piezzo electric transformers where possible.
+Investigation into high frequency, high power, resonant converters for induction heating applications. Continuing work
+is now looking at the use of high frequency matrix converters (operating above 150kHz) for direct ac-ac conversion for
+heating applications.
+Design and digital control of matrix converters for aerospace and sub-sea applications in specialist environments.
+Power Electronics Packaging for high temperature and harsh environments, including high temperature gate drive
+design and thermal management of converters
+
+-----
+2/5/2018
+David A Stone - Google Scholar Citations
+https://scholar.google.com/citations?user=kpwx6r4AAAAJ&hl=en
+1/2
+GET MY OWN PROFILE
+All
+Since 2013
+Citations
+3152
+1869
+h-index
+27
+21
+i10-index
+66
+45
+David A Stone
+Professor of Electrical Engineering,
+University of Sheffield
+, UK
+Power Electronics
+Energy Storage
+Energy Conversion
+TITLE
+CITED BY
+YEAR
+Nonlinear observers for predicting state-of-charge and state-of-health of lead-acid batteries for hybrid-electric vehicles
+BS Bhangu, P Bentley, DA Stone, CM Bingham
+IEEE transactions on vehicular technology 54 (3), 783-794
+418
+2005
+Rotor loss in permanent-magnet brushless AC machines
+K Atallah, D Howe, PH Mellor, DA Stone
+IEEE Transactions on Industry Applications 36 (6), 1612-1618
+350
+2000
+New battery model and state-of-health determination through subspace parameter estimation and state-observer
+techniques
+CR Gould, CM Bingham, DA Stone, P Bentley
+IEEE Transactions on Vehicular Technology 58 (8), 3905-3916
+168
+2009
+Improved rotor-position estimation by signal injection in brushless AC motors, accounting for cross-coupling magnetic
+saturation
+Y Li, ZQ Zhu, D Howe, CM Bingham, DA Stone
+IEEE Transactions on Industry Applications 45 (5), 1843-1850
+99
+2009
+Flat and projective character modules
+TJ Cheatham, DR Stone
+Proceedings of the American Mathematical Society, 175-177
+78
+1981
+Analysis of CLL voltage-output resonantconverters using describing functions
+MP Foster, CR Gould, AJ Gilbert, DA Stone, CM Bingham
+IEEE Transactions on Power Electronics 23 (4), 1772-1781
+71
+2008
+Parameter estimation for condition monitoring of PMSM stator winding and rotor permanent magnets
+K Liu, ZQ Zhu, DA Stone
+IEEE Transactions on Industrial Electronics 60 (12), 5902-5913
+69
+2013
+Review of variable-flux permanent magnet machines
+R Owen, ZQ Zhu, JB Wang, DA Stone, I Urquhart
+Electrical Machines and Systems (ICEMS), 2011 International Conference on, 1-6
+69
+2011
+The parallel combination of a VRLA cell and supercapacitor for use as a hybrid vehicle peak power buffer
+P Bentley, DA Stone, N Schofield
+Journal of power sources 147 (1-2), 288-294
+61
+2005
+State-of-the-art piezoelectric transformer technology
+EL Horsley, MP Foster, DA Stone
+Power Electronics and Applications, 2007 European Conference on, 1-10
+60
+2007
+Single phase matrix converter for radio frequency induction heating
+N Nguyen-Quang, DA Stone, CM Bingham, MP Foster
+Power Electronics, Electrical Drives, Automation and Motion, 2006. SPEEDAM …
+47
+2006
+A systematic review of lumped-parameter equivalent circuit models for real-time estimation of lithium-ion battery states
+S Nejad, DT Gladwin, DA Stone
+Journal of Power Sources 316, 183-196
+44
+2016
+Design of robust fuzzy-logic control systems by multi-objective evolutionary methods with hardware in the loop
+P Stewart, DA Stone, PJ Fleming
+Engineering Applications of Artificial Intelligence 17 (3), 275-284
+43
+2004
+Observer techniques for estimating the state-of-charge and state-of-health of VRLABs for hybrid electric vehicles
+BS Bhangu, P Bentley, DA Stone, CM Bingham
+Vehicle Power and Propulsion, 2005 IEEE Conference, 10 pp.
+42
+2005
+Normalized analysis and design of LCC resonant converters
+AJ Gilbert, CM Bingham, DA Stone, MP Foster
+IEEE Transactions on power Electronics 22 (6), 2386-2402
+40
+2007
+Pathways for energy storage in the UK
+P Taylor, R Bolton, D Stone, XP Zhang, C Martin, P Upham
+Report for the centre for low carbon futures, York
+37
+2012
+Design oriented analysis of fourth-order LCLC converters with capacitive output filter
+YA Ang, CM Bingham, MP Foster, DA Stone, D Howe
+IEE Proceedings-Electric Power Applications 152 (2), 310-322
+36
+2005
+Matrix converters for sensorless control of PMSMs and other auxiliaries on deep-sea ROVs
+P Snary, B Bhangu, CM Bingham, DA Stone, N Schofield
+IEE Proceedings-Electric Power Applications 152 (2), 382-392
+33
+2005
+
+-----

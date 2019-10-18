@@ -1,0 +1,30 @@
+Abstract 
+The discovery of graphene stimulated significant interest towards two dimensional 
+materials owing to their unique structural, electronic, magnetic and other properties. 
+Semiconducting transition metal dichalcogenides (TMDs) represent a class of layered 
+materials with nonzero band gap, and as a result attract great attention. 
+Density functional theory (DFT) is a method of choice for theoretical exploration of 
+condensed matter. However, there exists well-known problem with band gap evaluation within 
+DFT framework. Significant efforts were made to solve DFT band gap problem, still the results 
+may vary significantly. Relatively accurate results for band gaps could be obtained by GW 
+approximation. However, sometimes GW fails for more than 30% in band gap value and it is 
+computationally expensive method. Thus, general theoretical approach for accurate band gap 
+computation within DFT is in big demand, which can be used for exploration of new materials 
+with the required properties. 
+We recently proposed new general approach (GVJ-2e-method) for band gap calculation 
+within DFT framework, which is based solely on total energies calculation and is adjustable 
+parameter free. The GVJ-2e method was verified on wide range of materials from bulk 
+semiconductors (ex. Si, C, Ge) to wide gap insulators (ex. Xe, Kr) and yielded band gap results 
+with practically experimental accuracy. The errors of proposed method are smaller than errors 
+of other widely used methods (GW, hybrid functional HSE, TB-mBJ functional). 
+The thesis presents the results of applying the proposed method for the study of the 
+properties of TMDs. First, the structural stability of bulk and monolayer TMDs (MoS2, MoSe2, 
+WS2, WSe2) have been studied. For MoS2(1-x)Se2x alloy structural stability with increasing 
+concentration of Se have been analyzed also at microscopic level (different relative positions 
+of Se atoms in alloy). The electronic properties (band gaps and density of states) of bulk and 
+monolayer TMDs, and MoS2(1-x)Se2x alloy are obtained. The calculated with GVJ-2e method 
+band gaps are used in interpretation of experimental results for bulk and monolayer TMDs, 
+and MoS2(1-x)Se2x alloy. 
+ 
+
+-----

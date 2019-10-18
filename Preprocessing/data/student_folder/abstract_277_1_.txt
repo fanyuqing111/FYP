@@ -1,0 +1,41 @@
+Abstract 
+The relentless advancement of process technology has tremendously brought massive 
+performance boosts and much more integration to modern digital circuits and systems. 
+However, this comes at the cost of the increasingly high power consumption. In addition, there 
+have been increasingly on-going demands for portable hand-held devices and wireless sensor 
+nodes. Nevertheless, their small form factors can accommodate only limited-sized batteries, 
+necessitating low-power consumption. Thus, low power has become one of the most critical 
+design constraints in integrated circuit design.  
+Flip-flops (FFs) are fundamental components in modern digital ICs; they dominate the total 
+area and power of the overall systems. FFs typically consume large dynamic power in systems 
+on chips (SoCs) due to redundant transitions of their large number of internal clocked nodes. 
+Several low-power FFs have been recently proposed for reducing or eliminating power penalty 
+coming from the redundant transitions. However, they suffer from either large area penalty, 
+which is too costly since FFs typically occupy a significant amount of logic area in SoCs, or 
+functional failures at low-voltage operations, which makes these FFs inapplicable for low-
+voltage applications. In this work, we present a novel FF circuit that eliminates the redundant 
+transitions of local clocked nodes for achieving extremely low-power consumption without 
+extra transistors while further improving performance and minimum operating voltage. 
+Voltage scaling is one of the most widely used techniques for reducing power consumption in 
+low power digital circuits and systems. In fact, digital cores on today’s processors have been 
+increasingly voltage-scaled, and the number of cores has also been significantly increased. 
+Thus, level shifters (LSs) have increasingly become one of the major concerns, especially in 
+aggressively voltage-scaled systems. The recently proposed low-voltage LSs exhibit the trade-
+off between power, area, and delay. In this work, we propose an ultra-low voltage, area, and 
+energy-efficient LS for fast and wide-range level conversion. The proposed LS exploits a novel 
+reduced-swing buffer design to achieve low static power consumption while a pass transistor 
+enhances the speed of the fall transition so that the conversion delay can be significantly 
+improved. In addition, the proposed LS has the smallest area compared to the previous ultra-
+low voltage LSs. 
+Gesture recognition has increasingly become one of the most popular human-machine 
+interaction techniques for smart devices. Recently introduced gesture recognition systems 
+suffer from excessive power consumption and large area, limiting their applications for ultra-
+low power IoT and wearable devices. Thus, a low-power and low-area gesture recognition 
+system is required. In this work, we present two accurate low-power and area-efficient real-
+time gesture recognition systems for smart wearable devices. The proposed systems utilize 
+efficient memory-reduced gesture recognition engines for achieving area-efficient and low-
+power accurate gesture recognition. In addition, the feature extraction architectures exploit 
+parallelisms for obtaining real-time gesture recognition operations and remove fixed-pattern 
+noises for further improving accuracy.  
+
+-----

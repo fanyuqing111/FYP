@@ -1,0 +1,70 @@
+1
+Design and analysis of Passive Rectifier based front end converter topologies for
+Offshore Wind Turbine Systems.
+Abstract:
+Wind power has emerged to be one of the most feasible renewable sources of energy. The ad-
+vancement in wind energy sector is not only characterized by the overall generation boost but also
+the increase capacity of individual wind turbines as well. Offshore wind power has inspired the fields
+of High Voltage Direct Current (HVDC) for advantages of high power transmission in long distance
+and dc-power collection has emerged to be a topic of industry interest. At high power, the power
+electronic operation for power conversion becomes complicated and challenging. Hefty wind generators
+are popularizing advanced multilevel converter topologies and parallel rectifiers due to their capability
+of accommodating higher power. In this study first a back to back grid connected neutral point clamped
+(NPC) based wind power system is analyzed along with integration of energy storage system (ESS).
+The NPC converter control is implemented based on proportional resonant (PR) current controller
+for both rectifier and grid-tied inverter. The control of a bidirectional converter with integrated energy
+storage system at the dc-link is proposed. The dc/dc converter controls the dc-link voltage by injecting
+the difference between the extracted power from the permanent magnet synchronous generator (PMSG)
+and the output power of the grid-tied inverter, to the energy storage system. The controller of the dc/dc
+converter compensates the shortage of extracted active power from the PMSG during reduced wind
+speed condition. The proposed controller ensures the injection of constant power to the grid during
+normal grid operation. The WTS achieves grid-side fault-ride-through (FRT) capability and it can
+inject the reactive power to the grid in order to enhance the voltage of point-of-common-coupling
+(PCC) during voltage sags. The performance of the proposed controller is investigated under grid
+faults and wind speed variations. Further analysis suggests that with higher number of semiconductor
+switches involved the probability of faults rises. And the complexity of such system demands higher
+computational power which is again hard to achieve and maintain in offshore scenario. Thus moving
+forward the focus is shifted to dc-power collection which eventually eliminates the inverter requirement
+at the turbine nacelle. For rectifier topologies converters with lower number of switches are investigated.
+The NPC topology discussed required twelve switches in the front end rectifier alone. Voltage source
+converter (VSC) topologies are made up of six switches but for high power application the it needs
+to be paralleled. Passive three phase diode rectifiers are sturdy, rugged and simple but when operated
+it produces high THD and low power factor for generator output. For similar power level alternate to
+VSC, an unity power factor rectifier (UPFR) topology with only three IGBTs can be used. In this study
+the parallel UPFR (PUPFR) is proposed and analyzed as a front end rectifier for dc-power collection.
+
+-----
+2
+The UPFR topology consist of three phase diode rectifier as its main rectifier and each phase is
+equipped with bidirectional switching blocks (BSB). The BSBs are composed of one active switch
+and four diodes. The IGBTs are exposed to only half of the rating of the dc-link voltage. During
+operation, only a small fraction of the total power is commuted through the bidirectional switches
+and thus the IGBTs are not stressed all through. Two UPFR are paralleled to create the PUPFR. The
+PUPFR is controlled with outer dc-link voltage control loop and the inner current control loop. The
+current control is achieved by hysteresis current control ensuring unity power factor operation and
+generator output current shaping. The current is divided in parallel branches. The operation of PUPFR
+is investigated for wind variations and grid side demand variations. Bringing in the diurnal behavior
+of varying wind speed into consideration a modular operation of the PUPFR is designed. The modular
+operation is realized by virtue of modular control algorithm and two zero voltage switching circuit
+breakers at two branches.
+The PUPFR system is implemented in hardware prototype. It is designed and operated at 2 KW.
+Four case scenarios are validated in prototype experimentation. Control of the system is implemented
+in control-desk software interface. Activation of converter control enabled the system to refer to the
+defined reference dc-link voltage.
+The reliability and economic feasibility of the proposed topology is also investigated. Failure rate
+determination methods of each power circuit components from Military Handbook (MIL HDBK 217F)
+is used to compare the reliability of the different front end converters. Calculation of failure rate of
+individual components quantified the overall converter failure rate, mean time between failure and
+availability. PUPFR is observed to be the better performing front end converter topology in terms of
+reliability and economic feasibility.
+It is thus observed from the analysis that PUPFR is a promising front end topology for WTS.
+The modular operation further defends the claim of use of parallel rectifier topologies in regions
+of higher wind variation and PUPFR are more reliable as well. Further the study can be expanded
+in terms of the wind turbine synchronous generators. The impact of monopoly market of rare earth
+material, use of PMSG becomes questionable. Wound rotor synchronous generator becomes one of the
+alternatives for PMSG. The brushless WRSG is investigated for operation with the UPFR topology.
+The co-ordinated control of the generator field and PUPFR is a plausible future work. To add to it,
+alternative arrangement of passive rectifier based generator side power electronic circuits (e.g. FACTS
+devices) can be investigated as well.
+
+-----

@@ -1,0 +1,108 @@
+Viterbi Faculty Directory 
+Andreas Molisch
+Page 1 of 4
+USC - Viterbi School of Engineering - Viterbi Faculty Directory
+9/17/2019
+https://viterbi.usc.edu/directory/faculty/Molisch/Andreas
+
+-----
+Solomon Golomb - Andrew and Erna Viterbi Chair, and Professor of Electrical and Computer Engineering
+Education
+• 1999, Doctoral Degree, Mobile Communications, Tech. University of Vienna (Wien)
+Page 2 of 4
+USC - Viterbi School of Engineering - Viterbi Faculty Directory
+9/17/2019
+https://viterbi.usc.edu/directory/faculty/Molisch/Andreas
+
+-----
+• Doctoral Degree, Electrical Engineering, Tech. University of Vienna (Wien)
+• Master's Degree, Electrical Engineering, Tech. University of Vienna (Wien)
+• , Other Communication, Tech. University of Vienna (Wien)
+Biography 
+Andy Molisch received his degrees (Dipl.Ing. 1990, PhD 1994, Habilitation 1999) from the Technical University Vienna, Austria. He spent the next 10 years in industry, most 
+recently as Chief Wireless Standards Architect at Mitsubishi Electric Research Labs. In 2009 he joined the University of Southern California (USC) in Los Angeles, CA, as 
+Professor, and founded WiDeS. In 2017, he was appointed to the Solomon Golomb – Andrew and Erna Viterbi Chair.
+His research interests revolve around wireless propagation channels, wireless systems design, and their interaction. He is particularly interested in wireless channel 
+measurement and modeling for 5G and beyond 5G systems, wireless video distribution, hybrid beamforming, UWB/TOA based localization, caching at the wireless edge, 
+and novel modulation/multiple access methods. Overall, he has published 4 books (among them the textbook “Wireless Communications”, currently in its second edition), 20 
+book chapters, 250 journal papers, and 350 conference papers. He is also the inventor of 60 granted (and more than 20 pending) patents, and co-author of some 70 
+standards contributions. He retains a strong interest in bridging academic research and practical applications, real-world standards and products.
+Dr. Molisch has been an Editor of a number of journals and special issues, General Chair, Technical Program Committee Chair, or Symposium Chair of multiple international 
+conferences, as well as Chairman of various international standardization groups. He is a Fellow of the National Academy of Inventors, Fellow of the AAAS, Fellow of the 
+IEEE, Fellow of the IET, an IEEE Distinguished Lecturer, and a member of the Austrian Academy of Sciences. He has received numerous awards, among them the IET 
+Achievement Medal for Wireless Communications, the Technical Achievement Awards of both the IEEE Vehicular Technology Society (Evans Avant-Garde Award) and the 
+IEEE Communications Society (Edwin Howard Armstrong Award), as well as the Technical Field Award of the IEEE for Communications, the Eric Sumner Award. 
+Research Summary 
+Dr. Molisch's current research interests concentrate on the following areas:
+WIRELESS PROPAGATION: As new wireless technologies are introduced, it is vital to understand and model the properties of the wireless propagation channel that are 
+relevant for those channels. The well-known conventional channel models (Rayleigh fading, Hata pathloss model) are therefore not sufficient for designing and analyzing 
+modern broadband systems. Dr. Molisch is interested in measurement and fundamental modeling techniques for propagation channels for wireless broadband systems – 
+from massive MIMO channels, to vehicle-to-vehicle propagation, ultrawideband channels, to mm-wave and THz channels. Hallmark of his work in the area is a holistic 
+approach that pays equal attention to conducting measurement campaigns (including construction of required equipment), advanced signal processing for evaluating the 
+measurement results, and innovative channel modeling. 
+ULTRAWIDEBAND COMMUNICATIONS AND LOCALIZATION: UWB transmission is a physical-layer communication technique that has received enormous interest that is 
+of great importance for both high-speed wireless communications and precision localization. Emphasis is on simplified transceiver structures, and localization techniques 
+based on time of arrival, including multi-target identification, single-anchor localization, and NLOS identification. 
+MULTIPLE ANTENNA TECHNIQUES: Multiple-antenna (MIMO) systems are the best and most efficient way to providing the high data rates and high spectral efficiencies 
+that are required for next-generation cellular systems and wireless internet. Dr. Molisch’s research concentrates on 
+(i) reducing costs through hybrid beamforming, a technique he invented in 2003, and which is now widely used especially for massive MIMO. 
+(ii) improving spectral efficiency and robustness through cooperation between base stations. 
+NOVEL MODULATION/MULTIPLE ACCESS METHODS: While MIMO/OFDM/OFDMA has become the standard modulation/multiple access method for modern wireless 
+systems, and they are optimum under certain conditions, there are situations in which alternatives are preferable. Dr. Molisch investigates novel approaches ranging from 
+novel multi-carrier schemes to multiplexing via Orbital Angular Momenta.
+WIRELESS VIDEO DISTRIBUTION: the emergence of wireless video services puts an extra strain on cellular networks. A highly promising method for increasing capacity is 
+caching of popular video files either in dedicated helper nodes (“femtocaching”) that replace backhaul with storage, and/or caching in the mobile devices themselves, and 
+exchanging them via device-to-device communication when requested. Aspects ranging from physical-layer device-to-device communications to application-layer video 
+considerations are being investigated.
+Awards
+• 2018 IEEE Communications Society Edwin H Armstrong Achievement Award
+• 2017 IEEE Communications Society IEEE Distinguished Lecturer (Communications Society)
+• 2017 IET Achievement Medal for contributions to wireless communications
+• 2015 Fellow of the National Academy of Inventors
+• 2015 USC Viterbi Viterbi Award for Use-Inspired Research
+• 2015 IEEE Neal Shepherd Memorial Award of the IEEE Vehicular Technology Society
+• 2015 IEEE IEEE Distinguished Lecturer (Vehicular Technology Society)
+• 2013 Hungarian Scientific Association for Infocomm (HTE) Puskas Tivadar Award 
+• 2013 AAAS (American Association for the Advancement of Science) Fellow of the AAAS 
+• 2012 IEEE Eric Sumner Award
+• 2011 Radio Communications Committee of the IEEE Communications Society Distinguished Service Award
+• 2011 IEEE Donald G. Fink Prize Paper Award
+• 2011 Austrian Academy of Sciences Member of the Austrian Academy of Sciences
+• 2010 Okawa Foundation 2010 Okawa Research Grant
+• 2010 IEEE Vehicular Technology Society James R. Evans Avant-garde Award
+• 2010 Beihang University Honorary Guest Professor
+• 2009 IEEE Communications Society Best paper award, IEEE Globecom 2009
+• 2009 Global Wireless Education Consortium Wireless Educator of the Year Award
+• 2008 IET (institute of Engineering and Technology) Fellow of the IET
+• 2007 Mitsubishi Electric Hatsuhon-Award
+• 2006 IEEE Vehicular Technology Society Neal Shepherd Memorial Award
+• 2005 IEEE Fellow of the IEEE
+• 2001 Swedish Strategic Research Foundation INGVAR award
+• 1999 Kardinal-Innitzer foundation Kardinal-Innitzer-Award
+• 1991 Austrian Society of Electrical Engineering GIT award
+Appointments
+◾ Ming Hsieh Department of Electrical and Computer Engineering - Systems
+Office
+• EEB 530
+• Hughes Aircraft Electrical Engineering Center
+• 3740 McClintock Ave., Los Angeles, CA 90089
+Page 3 of 4
+USC - Viterbi School of Engineering - Viterbi Faculty Directory
+9/17/2019
+https://viterbi.usc.edu/directory/faculty/Molisch/Andreas
+
+-----
+• USC Mail Code: 2565
+Contact Information
+• (213) 740-4670
+• molisch@usc.edu
+Links
+◾ Research Website
+◾ Headshot_2019
+Return to Faculty Directory
+Page 4 of 4
+USC - Viterbi School of Engineering - Viterbi Faculty Directory
+9/17/2019
+https://viterbi.usc.edu/directory/faculty/Molisch/Andreas
+
+-----

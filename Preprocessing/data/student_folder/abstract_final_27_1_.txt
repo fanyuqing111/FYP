@@ -1,0 +1,34 @@
+Light Manipulation and Nanoparticle Sorting in Optofluidic Chips 
+This doctorate thesis focuses on the light manipulation and nanoparticle sorting using 
+optofluidic and silicon photonic technologies. Specifically, in the study of light 
+manipulation, the light propagation in diffusion-induced gradient index (GRIN) profiles 
+is investigated and used as a signal for chemical sensing. Then the GRIN profile is 
+optimized to design an optofluidic lens with improved focusing power. In the study of 
+nanoparticle sorting, the particle motion in an optical field is studied for biomolecule 
+separation. 
+Firstly, the light propagation in optofluidic waveguides is studied. It is found that 
+light focuses periodically with an increasing focal length related to liquid properties. 
+Theoretical models of the index profile and the light propagation are established to study 
+the contributing factors to the light focal length. The influence of Péclet number and 
+interface position on the light propagation is then investigated experimentally. The focal 
+length is exploited to determine diffusion coefficient and monitor chemical reactions.  
+Secondly, an optofluidic hyperbolic secant (HS) lens is designed to improve the 
+focusing power. The optimized index profile is derived based on coordinate 
+transformation to suppress the optical aberrations. A microfluidic gradient generator is 
+designed and fabricated to generate the ideal index profile. The focal lengths are 
+investigated experimentally at different divergence angles and off-center positions. The 
+focusing experiment with multiple light sources is also conducted. 
+Thirdly, the motion of nanoparticles in near-field lattices is studied for biomolecule 
+separation. The optical field in different waveguide configurations is investigated using 
+FDTD simulation. The chip fabrication, flow control, surface treatment and experimental 
+setup are explained in detail. The force-field analysis is conducted to investigate the 
+distinct force level and its influence on the particle trajectories. In the particle separation 
+experiment, the 500-nm polystyrene particles are successfully separated out from the 200-
+nm, 300-nm and 500-nm particle mixtures. In the bacteria trapping and alignment 
+experiment, the parallel trapping and alignment of Shigella are performed. 
+In conclusion, the unique light behavior in optofluidic waveguides is investigated and 
+used for chemical sensing. Then an optofluidic HS lens is developed to improve the 
+focusing power. Finally, nanoparticle sorting using near-field optics is studied 
+theoretically and experimentally. 
+
+-----

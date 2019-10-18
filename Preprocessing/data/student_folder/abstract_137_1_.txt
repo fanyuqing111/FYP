@@ -1,0 +1,59 @@
+Fault Tolerance and Protective Schemes for DC Distribution Network 
+Abstract 
+The integration of distributed generation such as renewable energy at the distribution is considered 
+as the better option to cope with the rising demand of electrical energy. The storage system is also 
+introduced to act as an additional power buffer to the power system due to the intermittent supply 
+of energy from the distributed generation. With the addition of these 2 DC energy systems, the DC 
+distribution system can achieve a better system efficiency than the AC system. This is due to the 
+reduction in power conversion stages such as the power factor correction and a rectifier circuit. Of the 
+advantages, the fault protection is the major obstacle for the DC system to move forward. Hence, a 
+research topic is brought out with the major aim is to develop an effective fault tolerance solution to 
+increase the resiliency of the DC distribution system. A complete fault tolerance and protection 
+process with the sequence is:1) fault detection, 2) fault isolation, 3) fault identification, 4) fault 
+recovery. 
+ 
+In the DC system, a fast tripping speed of the circuit breaker can reduce the consequences of 
+high fault current sourcing toward the fault point. A T-source circuit breaker is used as the device for 
+the fault detection and isolation in the DC system. The T-source circuit breaker is a kind of impedance-
+network based circuit breakers which provide a high-speed breaking capability and no sensor is 
+required. It also has the benefit of preserves a common ground, zero reflected source current, and 
+provide a low-pass filter behaviour. The redesign of T-source circuit breaker based on fast tripping 
+speed and low output surge current are presented. A T-source circuit breaker model is derived using 
+the transformer low and mid-frequency modelling. An optimal component sizing design of the T-
+source circuit breaker is done based on the proposed design flow associated with the desired circuit 
+breaker current rating, the wire current rating, and the SCR device minimum turn-off time. A manual 
+tripping circuit modification for the protection of SCR device in the T-source circuit breaker is also 
+presented. The component of the modification circuit is selected based on the optimal value between 
+the capacitor charging speed and the minimum value of the instantaneous capacitor charging power.  
+ 
+A high accuracy fault identification solution can ease the task for inspection, maintenance, 
+and the repair work. High accuracy can also speed up the restoration service and possesses the merit 
+of less maintenance cost. The probe power unit injection method is chosen as the solution for fault 
+location identification. It has a benefit of single end injection which does not require multipoint 
+measurement, no high data acquisition needed, and can be used as the fault point tracking in the 
+offline whereby the fault current from source has interrupted completely. The logarithm decrement 
+technique is introduced to obtain the damping constant of the damping injection current. The 
+logarithm decrement technique has the advantages of high accuracy, less data reading needed, and 
+fast processing speed. The component selection of the probe power unit with the inductor and 
+capacitor pair value is based on a low damping ratio and high Q-factor bandwidth. A modification 
+probe power unit circuit associated with the proposed multipath fault identification flow can 
+determine the exact fault segment line. This fault identification solution provides an information for 
+the fault segment isolation for a complex network such as a meshed network. 
+A fault recovery is a final step for the fault protection process which recovery the non-faulty system 
+back to normal operation. Instead of the modular multilevel converter as the only type power 
+converter in the DC network, a low voltage microgrid has various power converters for different 
+
+-----
+facilities. The common facilities in the microgrid include grid interfacing system, storage system, and 
+photovoltaic system as the distributed generation system. Each converter functions differently and 
+has a different consequence over the system reconfiguration. The minimum transient of the 
+reconfiguration step is chosen. The reconfiguration step is the order of action between the activation 
+of the power converter and the reclose of DC circuit breaker. The sequence of reconnecting each 
+facility back to the DC network is demonstrated. The reconnection is presented with a stable voltage 
+and power equilibrium.  
+As above mentioned, the main reason for introducing fault tolerance and protection scheme into the 
+DC system can increase overall system reliability. The scheme can prevent a harmful high current 
+triggered by a fault which can damage the non-fault device or facilities attached in the DC system.  
+ 
+
+-----

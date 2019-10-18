@@ -1,0 +1,111 @@
+Publication List
+1
+Journal Papers
+1. Ashok Krishnan, L. P. M. I. Sampath, Y. S. Foo Eddy, and H. B.
+Gooi, “Optimal Scheduling of a Microgrid Including Pump Scheduling
+and Network Constraints,” in Complexity, vol. 2018, Article ID 9842025,
+20 pages, 2018. doi: 10.1155/2018/9842025.
+2. Ashok Krishnan, Y. S. Foo Eddy, H. B. Gooi, M. Q.Wang, and P. H.
+Cheah, “Optimal Load Management in a Shipyard Drydock,” in IEEE
+Transactions on Industrial Informatics. doi: 10.1109/TII.2018.2877703.
+3. K. S. Chaudhari, N. K. Kandasamy, Ashok Krishnan, A. Ukil and H. B.
+Gooi, “Agent Based Aggregated Behavior Modelling For Electric Vehicle
+Charging Load,” in IEEE Transactions on Industrial Informatics. doi:
+10.1109/TII.2018.2823321
+4. Bhagyesh V. Patil, L. P. M. I. Sampath, Ashok Krishnan, Jan Ma-
+ciejowski, K. V. Ling, and H. B. Gooi, “Experiments with hybrid Bernstein
+global optimization algorithm for the OPF problem in power systems,” in
+Engineering Optimization. doi: 10.1080/0305215X.2018.1521399.
+5. Bhagyesh V. Patil, L. P. M. I. Sampath, Ashok Krishnan, and Foo Y. S.
+Eddy, “Decentralized nonlinear model predictive control of a multimachine
+power system,” in International Journal of Electrical Power & Energy
+Systems, vol. 106, pp. 358-372, March 2019.
+6. Ashok Krishnan, Bhagyesh V. Patil, and Foo Y. S. Eddy, “Optimal
+Scheduling of Multi-Energy Systems with Flexible Electrical and Thermal
+Loads,” in Applied Energy (Under review).
+7. L. P. M. I. Sampth, Ashok Krishnan, Foo Y. S. Eddy, and H. B. Gooi,
+“Robust Optimal Energy and Reserve Management of Multiple-Microgrids
+via Cooperative Bidding,” in IEEE Transactions on Smart Grid (Under
+review).
+8. Bhagyesh V. Patil, Ashok Krishnan, Foo Y. S. Eddy, “The Bernstein
+polynomials based globally optimal nonlinear model predictive control,”
+in Journal of Process Control (Under review).
+1
+
+-----
+9. P. K. Ray, S. R. Paital, Asit Mohanty, Foo Y. S. Eddy, Ashok Krish-
+nan, H. B. Gooi, and G. A. J. Amaratunga, “A Hybrid Firefly-Swarm
+Optimized Fractional Order Interval Type-2 Fuzzy PID-PSS for Transient
+Stability Improvement,” in IEEE Transactions on Industry Applications
+(Under review).
+10. Ashok Krishnan, L. P. M. I. Sampath, Zhang Xinan, Foo Y. S. Eddy,
+and H. B. Gooi, “Robust Optimal Scheduling of Multi-Energy Systems
+in Industrial Park Microgrids,” in IEEE Transactions on Smart Grid (In
+preparation).
+2
+Conference Papers
+1. Ashok Krishnan, B. V. Patil, H. B. Gooi, and K. V. Ling, “Predictive
+control based framework for optimal scheduling of combined cycle gas
+turbines,” 2016 American Control Conference (ACC), Boston, MA, 2016,
+pp. 6066-6072.
+2. Ashok Krishnan, B. V. Patil, P. S. V. Nataraj, Jan Maciejowski, and K.
+V. Ling, ”Model predictive control of a CSTR: A comparative study among
+linear and nonlinear model approaches,” 2017 Indian Control Conference
+(ICC), Guwahati, 2017, pp. 182-187.
+3. Ashok Krishnan, Foo Y.S. Eddy, and B. V. Patil, “Hybrid Model Pre-
+dictive Control Framework for the Thermal Unit Commitment Problem in-
+cluding Start-up and Shutdown Power Trajectories,” IFAC-PapersOnLine,
+Volume 50, Issue 1, pp. 9329-9335, 2017. 20th IFAC World Congress,
+Toulouse, France.
+4. Ashok Krishnan, L. P. M. I. Sampath, Foo Y. S. Eddy, B. V. Patil, and
+H. B. Gooi, “Multi-energy scheduling using a hybrid systems approach,”
+IFACPapersOnLine, vol. 51, no. 16, pp. 229-234, 2018. 6th IFAC Con-
+ference on Analysis and Design of Hybrid Systems ADHS 2018.
+5. B. V. Patil, L. P. M. I. Sampath, Ashok Krishnan, K. V. Ling, and H. B.
+Gooi “Examining the Bernstein global optimization approach to optimal
+power flow problem,” AIP Conference Proceedings.
+Eds.
+Yaroslav D.
+Sergeyev, et al. Vol. 1776. No. 1. AIP Publishing, 2016.
+6. L. P. M. I. Sampath, Ashok Krishnan, K. Chaudhari, H. B. Gooi, and A.
+Ukil, “A control architecture for optimal power sharing among intercon-
+nected microgrids,” 2017 IEEE Power & Energy Society General Meeting,
+Chicago, IL, 2017, pp. 1-5.
+7. B. V. Patil, L. P. M. I. Sampath, B. K. Ranjan, Ashok Krishnan, and
+Y. S. F. Eddy, “Bernstein global optimization approach for distributed
+2
+
+-----
+optimal power flow problem incorporating emission costs,” 2017 Interna-
+tional Conference on Technological Advancements in Power and Energy
+(TAP Energy), Kollam, 2017, pp. 1-6.
+8. P. K. Ray, Gourab Karmakar, F. Y. S. Eddy, Ashok Krishnan, and H. B.
+Gooi, “Dual Tree Complex Wavelet Transform based Detection of Power
+Quality Disturbances,” 2018 IEEE Innovative Smart Grid Technologies -
+Asia (ISGT Asia), Singapore, 2018, pp. 1177-1182.
+9. P. K. Ray, S. R. Das, Asit Mohanty, F. Y. S. Eddy, Ashok Krishnan, H.
+B. Gooi, and G. A. J. Amaratunga, “Improvement in power quality using
+hybrid power filters based on robust extended Kalman filter,” 2018 19th
+International Carpathian Control Conference (ICCC), Szilvasvarad, 2018,
+pp. 585-590.
+10. P. K. Ray, S. R. Paital, Asit Mohanty, F. Y. S. Eddy, Ashok Krishnan,
+H. B. Gooi, and G. A. J. Amaratunga, “Firefly algorithm scaled fractional
+order fuzzy PID based PSS for transient stability improvement,” 2018 19th
+International Carpathian Control Conference (ICCC), Szilvasvarad, 2018,
+pp. 428-433.
+11. P. K. Ray, Y. S. Foo Eddy, Ashok Krishnan, H. C. Dubey, H. B. Gooi,
+and G. A. J. Amaratunga, “Wavelet Transform-Spectral Kurtosis Based
+Hybrid Technique for Disturbance Detection in a Microgrid,” 2018 IEEE
+Power & Energy Society General Meeting, Portland, OR, 2018 (Accepted).
+12. Lim Liang Yuan, Ashok Krishnan, and Foo Y. S. Eddy, “Design of a
+Droop Control Scheme for Programmable Sources in a Microgrid Testbed,”
+2018 IFAC Symposium on Control of Power and Energy Systems, Tokyo,
+2018 (Accepted).
+13. Prakash K. Ray, Ashok Krishnan, Kalpesh Chaudhari, Md Shafquat
+Ullah Khan, and Foo Y. S. Eddy, ”Identifying Microgrid Disturbances
+Using Independent Component Analysis,” IECON 2018 - 44th Annual
+Conference of the IEEE Industrial Electronics Society, Washington DC,
+2018 (Accepted).
+3
+
+-----

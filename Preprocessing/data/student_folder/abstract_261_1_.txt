@@ -1,0 +1,72 @@
+ABSTRACT 
+Device reliability remains as a very challenging issue in the state-of-the-art complementary 
+metal-oxide-semiconductor field-effect transistor (CMOS, MOSFET). One of the most 
+challenging reliability issues in CMOS devices is bias-temperature instability (BTI). Previous 
+studies on SiON and high-k HfO2 gate dielectrics on large area devices reveal that transient 
+oxide-charge trapping/detrapping by switching oxide traps (SOTs) due to dynamic bias-
+temperature stress (BTS), which usually treated as a parasitic effect, may play a role on the gate 
+oxide long term reliability. The “fast” measurement used in the studies surfaces the inconsistency 
+with the prediction of classical explanation for the negative BTI (NBTI) using reaction-diffusion 
+(R-D) model. The studies show that the transformation of SOTs into a more permanent form, 
+which is also known as recoverable-to-permanent (R-to-P) transformation, occurs when the 
+exerted thermal cum electrical stress surpasses a particular threshold while cyclical behavior of 
+switching oxide-charge trapping and detrapping is observed when the employed thermal cum 
+electrical stress is below this certain threshold. These observations indicate that the generation of 
+permanent defects is susceptible due to the possible change in oxide structure by the applied 
+thermal cum electrical stress. Gate current increasing concurrently with the NBTI-induced hole 
+trapping transformation implies the outset of the bulk oxide trap generation is due to the hole-
+trapping conversion. However, electron trapping transformation is not always accompanied by 
+an increase in the gate current.  
+ 
+An intriguing trend was observed in the examination on the frequency dependence of dynamic 
+positive BTI (PBTI) on HfO2/TiN gate n-MOSFETs. The investigation discovers that the 
+
+-----
+shallow-to-deep electron traps transformation as the PBTI stress progresses exhibits an 
+unexpected positive dependence on the gate frequency, i.e. the fraction of shallow-to-deep 
+electron trap conversion increases with frequency, causing more permanent electron traps at 
+higher gate frequency in the frequency study range of 1 mHz to 1 MHz. 
+ 
+The R-to-P conversion of switching oxide traps in large-area CMOS device was revealed in the 
+previous studies. The continuing scaling of CMOS leads to the considerable interest in the 
+studies of small-area devices. The research on the drain current recovery trends on the small-area 
+SiON/polysilicon gate p-MOSFETs subjected to recurring NBTI stress/relaxation cycling 
+discloses direct experimental evidence of hole trap R-to-P transformation deduced from past 
+research on large-area devices. The emission times of hole traps are normally presumed to be 
+time-invariant, but the results from this study show the otherwise. Analysis from the 
+experimental evidence shows that the hole traps emission times can increase since the defect 
+sites can be evolved into more structurally stable configurations.  
+ 
+Past study reported that the gate current (stress-induced leakage current, SILC) increasing 
+concurrently with the NBTI-induced hole trapping transformation implies the germ of the bulk 
+oxide trap generation is due to the hole-trapping conversion. The study on the correlation 
+between hole trap R-to-P transformation and SILC generation in big-area devices unfolds that 
+both sequels showcase eminently similar power-law time exponent, temperature dependence and 
+activation energy. The revelation of a kink at temperature of 125 oC heralding a reduction in the 
+activation energy from the low-to-high temperature region in both R-to-P conversion and SILC 
+
+-----
+generation implies strong connection and a common degradation mechanism between these two 
+effects. Also, investigation on time-dependent of drain and gate current shift, ∆Id and ∆Ig 
+respectively, in small-area devices subjected to NBTI stress reveals the positive and negative 
+correlations as well as uncorrelated behavior between these two effects. In addition to the 
+observation of a typical single-step Id recovery accompanied by Ig change, RTN-like fluctuation 
+in Id was detected to be accompanied by RTN-like fluctuation in Ig as well, especially the 
+relatively significant  ∆Ig of ~40% accompanying the ∆Id  which evidently indicate the 
+implication of bulk oxide defects. Activation and deactivation mechanisms of a bulk oxide trap 
+as a trap-assisted tunneling (TAT) center are discussed based on the ab-initio oxygen-vacancy 
+defect simulation. 
+ 
+The impact of voltage-accelerated stress (VAS) on hole trapping at operating condition was 
+examined. The charge-capturing activity of time-zero oxide traps can be altered by VAS. After 
+the application of VAS, the time-zero oxide traps can become either more active or less active in 
+hole capturing during operating condition, suggesting that the trap atomic structure may have 
+modified by the VAS. Also, after a relaxation (idle) for a period of time, the charge-capture 
+activity of the oxide traps may resume to the pre-VAS state. More intriguingly, the drain-current 
+recovery step amplitude of a single oxide charge emitted by a SOT can be altered by VAS. The 
+stress-induced change of trap-switching behaviour and alteration of drain-current degradation 
+under operating condition should be taken into account in the reliability evaluation of small-area 
+devices given the remarkably increasing impact of oxide charge trapping on device channel 
+conduction as the device size reduces. 
+
+-----

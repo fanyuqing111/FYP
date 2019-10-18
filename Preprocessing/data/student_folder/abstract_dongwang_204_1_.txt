@@ -1,0 +1,67 @@
+ 
+ 
+Abstract 
+In recent electronics industry, power management plays a significant role to 
+extend the battery life of battery-powered portable electronic devices. Due to the push 
+for low-power CMOS circuits, the power-aware design agenda will be addressed in the 
+power management circuits. Besides, turning to sub-90nm CMOS technologies in 
+System-on-Chip (SoC) environment, the performances are often significantly 
+influenced by process, supply voltage and temperature (PVT) variations. These two 
+key issues impose design challenges to circuits that are able to sustain the targeted 
+specifications and to provide good fabrication yield. To tackle the stated problems, this 
+work aims to explore the research, design, analysis and implementation of low-power 
+PVT-aware circuits for power management applications in advanced nanometer 
+CMOS technologies.  
+In an exemplary application of a smart power system that the supply voltage can 
+be a function of device’s threshold voltage (VTH) to counteract the process variation, a 
+threshold voltage based reference circuit is often needed in the design. This thesis will 
+present the MOSFET VTH measurement circuit that employs a dual-segment nonlinear 
+temperature compensation method to provide thermal stability. Besides, the supply 
+insensitivity is another key design parameter to be addressed in this work. The 
+measured results have indicated that the VTH measurement circuit yields T.C. of 28.7 
+ppm/oC, power supply rejection (PSR) of -43.5 dB at 10 MHz and line sensitivity of 
+70.8 ppm/V. The performance metrics are better than those of reported works. 
+In another circuit of the above power system, it requires a stable current source. 
+This work presents a new current source architecture which is the embodiment of a 
+process-tolerant bias current circuit and a scaled process-tracking bias voltage source 
+
+-----
+ 
+ 
+for the dedicated temperature-compensated voltage-to-current (VI) conversion. The 
+measurement results have shown that the current source consumes a quiescent power 
+of 7.18 μW whilst achieving a sensitivity figure-of-merit (FOM) of 2.34% in terms of 
+total PVT variation. Such the low-power low-sensitive features are better than most of 
+the reported works and comparable with the state of art. 
+On top of that, there exists another challenge from the non-ideal CMOS stress 
+effect that causes the performance degradation in the PVT-aware circuits. In this work, 
+a new electrical model is proposed to predict the stress effect that impacts on the 
+electrical performance of reference circuits. It has validated that there is a reasonable 
+correlation between the model prediction results and the measurement results of the 
+above stated voltage and current reference circuits. Of particular noted, this is the first 
+electrical model that addresses the impact of stress effect on the reference circuit 
+designs in the field. 
+In the low-dropout regulator dedicated to power management applications where 
+low power, low voltage and sustainability of transient metrics are concerned, the 
+circuit techniques and the PVT-aware design method are the major focus of this work. 
+First, a new low-voltage transient-assisted embedded driving stage (TAEDS) with low-
+output impedance is presented. This aims to enhance the slew rate at the gate of power 
+transistor whilst allowing low quiescent current under low supply design. Second, the 
+transient-assisted technique together with the multiple feedback circuit topology, PVT-
+aware power transistor biasing network and the aforementioned constant current 
+source architecture are then applied to realize a low-power PVT-aware LDO regulator 
+in 40nm CMOS technology. This results in the performance-aware regulator which can 
+sustain low undershoot/overshoot effect, reduce speed degradation, maintain good 
+stability and eliminate the circuit trimming in the context of total PVT variation and 
+
+-----
+ 
+ 
+low-quiescent power constraint. The simulation results have confirmed the circuit 
+operation for a full load current of 100 mA at a capacitive load of 100 pF even under a 
+0.75V supply. It consumes a quiescent power of 21.2 μW whilst settling within 320 ns 
+during full load current step transitions. A transient FOM of 3.4 fs is obtained. The 
+process corner simulations have validated the regulator’s sustainable transient 
+performance metrics under PVT variations. 
+
+-----

@@ -1,0 +1,33 @@
+Abstract 
+The scope of optimization in power system is ample. In general, optimization helps efficient 
+and economical operation of the electrical system. It is worthwhile to note that power 
+system problems are mostly non-linear, non-convex and often require optimization of two 
+or more conflicting objectives. The problem can also be a mix of discrete and continuous 
+variables that are needed to be handled by the optimization algorithms. During earlier days, 
+classical numerical optimization methods were in use. The classical methods suffered from 
+convexity, assumption of continuity and normally employed a gradient based search that 
+had the tendency to converge to local optima. Revolution in numerical optimization 
+introduced several evolutionary algorithms (EAs) and techniques in last three decades. Most 
+of these methods could successfully overcome the problem of premature convergence and 
+explore the search space in pursuit of global optima. The primary scope of this research is 
+in analyzing performance of state-of-the-art variants of differential evolution (DE) 
+algorithm for single objective optimization and evolutionary algorithms for multi-objective 
+optimization problems in power system. This thesis presents a review of algorithms success 
+history based adaptive differential evolution (SHADE) and its variant the linear population 
+size reduction technique of SHADE (L-SHADE) for single objective optimization; 
+decomposition based multi-objective evolutionary algorithm (MOEA/D) and summation 
+based multi-objective differential evolution (SMODE) for multi-objective optimization. 
+Further, operational and security constraints in the electrical network are also very common. 
+Penalty function has been the most common and simplest way to deal with the constraints 
+in power system problems. In this thesis, we include review of three constraint handling 
+(CH) techniques for EAs - superiority of feasible solutions (SF), epsilon (𝜀) constraint 
+handling and stochastic ranking (SR) methods. The constraint handling techniques have 
+successfully been implemented in conjunction with the EAs and applied to existing and 
+newly proposed formulations of constrained optimization problems in power system such 
+as optimal power flow (OPF), economic-environmental dispatch and optimal reactive 
+power dispatch. In addition, studies on optimal siting of wind turbines in a windfarm and 
+distribution network loss minimization are also presented in relevant chapters. The final 
+chapter of the thesis concludes with potential future works on optimization in smart grid. 
+ 
+
+-----

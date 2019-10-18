@@ -1,0 +1,232 @@
+Professor Ka Nang Alex Leung
+The great pleasure in life is doing what people say you cannot do
+Profile
+◦ B.Eng., M.Phil. and Ph.D., Electrical and Electronic Engineering, The Hong Kong 
+University of Science and Technology (HKUST)
+◦ Associate Professor, Department of Electronic Engineering, The Chinese University of 
+Hong Kong (CUHK)
+◦ Senior Member, IEEE
+◦ Chairman of IEEE (Hong Kong) Electron Device/Solid-State Circuit Joint Chapter, 
+2012
+◦ Member of Conference Organization Committee: IEEE EDSSC 2006, 2008, 2010 and 
+2013, IEEE DELTA 2008, and IEEE VLSI SoC 2011
+◦ Member of the Editorial Board of Active and Passive Electronic Components, Hindawi 
+Publishing Corporation
+◦ Paper Reviewer of IEEE Journals: JSSC, TCAS-I, TCAS-II, TPE, TIE, TVLSI, 
+TBCAS, TCAD and Sensors Journal
+◦ External Examiner of Thesis Committee: CityU, HKUST and NTU (Singapore)
+◦ Recipient of the Young Scientist Award of the Hong Kong Institution of Science, 
+2003
+◦ Recipient of the Departmental Exemplary Teaching Awards, CUHK, 2006-2007, 2009-
+2010, 2010-2011, 2011-2012 and 2015-2016
+◦ Recipient of the Faculty Exemplary Teaching Awards, CUHK, 2007 and 2016
+◦ Co-recipient of the Best Paper Awards in IEEE Student Symposium ED/SSC in 2011 
+and 2014
+◦ Co-recipient of the Best Paper Award in 2015 IEEE TENCON
+Contacts
+◦ Email: knleung@ee.cuhk.edu.hk
+◦ Tel: (852) 3943-8457 (Office)
+◦ Fax: (852) 2603-5558
+Teaching
+Page 1 of 5
+Professor Ka Nang Alex Leung
+6/8/2018
+http://www.ee.cuhk.edu.hk/~knleung/
+
+-----
+◦ ELEG2401 Introduction to Embedded Systems
+◦ ELEG3202 Analog Integrated Circuits
+◦ ELEG4205 Power Converter Circuits
+◦ ELEG5726 Power-Management Technology
+Funded Educational Project
+◦ Enrichment of Electronic Technology Learning Through Engineering Designs
+Research Interests
+◦ Power-Management Integrated Circuits
+◦ Ultra-Low-Power Analogue Integrated Circuits
+Research Group
+◦ Current: 2 Ph.D Students and 1 Research Assistant
+◦ Graduated: 6 Ph.D Students, 10 M.Phil. Students and 22 M.Sc. Students
+Research Achievements
+◦ Published 59 Journal Articles and 62 International Conference Papers
+◦ Citation = 2203; H-index = 20, as at 2 June 2018 (ISI Citation Indexes)
+◦ ResearcherID
+◦ Google Scholar Profile
+Funded Research Projects
+1. Power Management for System-On-a-Chip Design in Nano-Scale Technology
+2. A Power-Supply IC for WiMAX Transmitter
+3. Transient-Enhanced Low-Dropout Regulators with Voltage-Spike Detector Based on 
+Capacitive Coupling
+4. Digital-Control SIMO DC-DC Converter with Enhanced Output Power of Individual 
+Sub-Converter
+5. Development of Fast Transient Low-Dropout Regulator Based on Dominant-Pole 
+Tracking and Cancellation
+6. Low-dropout Regulators with Multiple Pole-Zero Cancellations
+7. Multiple-Output Buck-Boost DC-DC Converters with Enhanced Attenuation of Self- 
+and Cross-regulations
+8. Development of Capacitor-Free Three-Stage Amplifier Structure
+9. Develop a Configurable RF Interface Module of UHF RFID Tag for Different 
+Technology Nodes
+10. Study the Design Challenges of 90nm Technology UHF RFID Tag IC
+11. Power-Management Circuit for Passive UHF RFID Tag
+12. High-Efficiency SIMO Power Converter for SoC
+13. Automated and Continuous Monitoring of Polycyclic Aromatic Hydrocarbon in Air 
+Pollutants
+Patents
+1. Frequency Compensation Techniques for Low-Power Multistage Amplifiers. U.S. Patent 
+6,208,206, Mar. 27, 2001, licensed.
+Page 2 of 5
+Professor Ka Nang Alex Leung
+6/8/2018
+http://www.ee.cuhk.edu.hk/~knleung/
+
+-----
+2. CMOS Voltage Reference. U.S. Patent 6,441,680, Aug. 27, 2002, licensed.
+3. Low Dropout Regulator Capable of On-Chip Implementation. U.S. Patent 7,205,827, 
+Apr. 17, 2007, licensed.
+4. Single-Transistor-Control Low-Dropout Regulator. U.S. Patent 7,285,942, Oct. 23, 
+2007, licensed.
+5. Area-Efficient Capacitor-Free CMOS Low-Dropout Regulator. U.S. Patent 7,495,422, 
+Feb. 24, 2009, licensed.
+6. End-Point Prediction Scheme for Voltage Regulators. U.S. Patent 7,619,395, Nov. 17, 
+2009, licensed.
+7. Low Dropout Regulator Capable of On-Chip Implementation. U.S. Patent RE42,116, Feb. 
+8, 2011.
+8. Single-Transistor-Control Low-Dropout Regulator. U.S. Patent RE42,335, May 10, 
+2011.
+Representative Journal Publications
+1. K. N. Leung, P. K. T. Mok, W. H. Ki and J. K. O. Sin, "Three-Stage Large Capacitive Load 
+Amplifier with Damping-Factor-Control Frequency Compensation," IEEE Journal of 
+Solid-State Circuits, Vol. 35, No. 2, pp. 221-230, Feb. 2000.
+2. K. N. Leung and P. K. T. Mok, "Nested Miller Compensation in Low-Power CMOS 
+Design," IEEE Transactions on Circuits and Systems II, Vol. 48, No. 4, pp. 388-394, 
+Apr. 2001.
+3. K. N. Leung and P. K. T. Mok, "Analysis of Multi-Stage Amplifier - Frequency 
+Compensation," IEEE Transactions on Circuits and Systems I, Vol. 48, No. 9, pp. 1041-
+1056, Sept. 2001.
+4. K. N. Leung and P. K. T. Mok, "A Sub-1-V 15-ppm/oC CMOS Bandgap Voltage Reference 
+without Requiring Low Threshold Voltage Device," IEEE Journal of Solid-State 
+Circuits, Vol. 37, No. 4, pp. 526-530, Apr. 2002.
+5. K. N. Leung and P. K. T. Mok, "A CMOS Voltage Reference Based on Weighted ΔVGS
+for CMOS Low-Dropout Linear Regulators," IEEE Journal of Solid-State Circuits, Vol. 
+38, No. 1, pp. 146-150, Jan. 2003.
+6. K. N. Leung, P. K. T. Mok and C. Y. Leung, "A 2-V 23-µA 5.3-ppm/oC Curvature-
+Compensated CMOS Bandgap Reference," IEEE Journal of Solid-State Circuits, Vol. 
+38, No. 3, pp. 561-564, Mar. 2003.
+7. K. N. Leung and P. K. T. Mok, "A Capacitor-Free CMOS Low-Dropout Regulator with 
+Damping-Factor-Control Frequency Compensation," IEEE Journal of Solid-State 
+Circuits, Vol. 38, No. 10, pp. 1691-1702, Oct. 2003.
+8. H. Lee, K. N. Leung and P. K. T. Mok, "A Dual-Path Bandwidth Extension Amplifier 
+Topology with Dual-Loop Parallel Compensation," IEEE Journal of Solid-State Circuits, 
+Vol. 38, No. 10, pp. 1739-1744, Oct. 2003.
+9. C. Y. Leung, P. K. T. Mok, K. N. Leung and M. Chan, "An Integrated CMOS Current-
+Sensing Circuit for Low-Voltage Current-Mode Buck Regulator," IEEE Transactions on 
+Circuits and Systems II, Vol. 52, No. 7, pp. 394-397, Jul. 2005.
+10. H. Lee, P. K. T. Mok and K. N. Leung, "Design of Low-Power Analog Drivers Based on 
+Slew-Rate Enhancement Circuits for CMOS Low-Dropout Regulators," IEEE 
+Transactions on Circuits and Systems II, Vol. 52, No. 9, pp. 563-567, Sept. 2005.
+11. C. Y. Leung, P. K. T. Mok and K. N. Leung, "A 1-V Integrated Current-Mode Boost 
+Converter in Standard 3.3/5-V CMOS Technologies," IEEE Journal of Solid-State 
+Circuits, Vol. 40, No. 11, pp. 2265-2274, Nov. 2005.
+Page 3 of 5
+Professor Ka Nang Alex Leung
+6/8/2018
+http://www.ee.cuhk.edu.hk/~knleung/
+
+-----
+12. M. Siu, P. K. T. Mok, K. N. Leung, Y. H. Lam and W. H. Ki, "A Voltage-Mode PWM Buck 
+Converter with End-Point Prediction," IEEE Transactions on Circuits and Systems II, 
+Vol. 53, No. 4, pp. 294-298, Apr. 2006.
+13. S. K. Lau, P. K. T. Mok and K. N. Leung, "A Low-Dropout Regulator for SoC with 
+Q-Reduction," IEEE Journal of Solid-State Circuits, Vol. 42, No. 3, pp. 658-664, Mar. 
+2007.
+14. T. Y. Man, K. N. Leung, C. Y. Leung, P. K. T. Mok and M. Chan, "Development of Single-
+Transistor-Control LDO Based on Flipped Voltage Follower for SoC," IEEE 
+Transactions on Circuits and Systems I, Vol. 55, No. 5, pp. 1392-1401, Jun. 2008.
+15. S. K. Tang, K. P. Pun, C. S. Choy, C. F. Chan and K. N. Leung, "A Fully Differential Band-
+Selective Low Noise Amplifier for MB-OFDM UWB Receivers," IEEE Transactions on 
+Circuits and Systems II, Vol. 55, No. 7, pp. 653-657, Jul. 2008.
+16. A. K. Y. Wong, K. P. Pun, Y. T. Zhang and K. N. Leung, "A Low-Power CMOS Front-End 
+for Photoplethysmographic Signal Acquisition with Robust DC Photocurrent 
+Rejection," IEEE Transactions on Biomedical Circuits and Systems, Vol. 2, No. 4, pp. 
+280-288, Dec. 2008.
+17. P. Y. Or and K. N. Leung, "An Output-Capacitorless Low-Dropout Regulator with Direct 
+Voltage-Spike Detection," IEEE Journal of Solid-State Circuits, Vol. 45, No. 2, pp. 
+458-466, Feb. 2010.
+18. C. F. Chan, K. P. Pun, K. N. Leung, J. P. Guo, L. L. K. Leung and C. S. Choy, "Low-Power 
+Continuously-Calibrated Clock Recovery Circuit for UHF RFID EPC Class-1 
+Generation-2 Transponders," IEEE Journal of Solid-State Circuits, Vol. 45, No. 3, pp. 
+587-599, Mar. 2010.
+19. A. K. Y. Wong, K. N. Leung, K. P. Pun and Y. T. Zhang, "A 0.5 Hz Highpass-Cutoff Dual-
+Loop Transimpedance Amplifier for Wearable NIR Sensing Device," IEEE 
+Transactions on Circuits and Systems II, Vol. 57, No. 7, pp. 531-535, Jul. 2010.
+20. J. P. Guo and K. N. Leung, "A 6-µW Chip-Area-Efficient Output-Capacitorless LDO in 
+90-nm CMOS Technology," IEEE Journal of Solid-State Circuits, Vol. 45, No. 9, pp. 
+1896-1905, Sept. 2010.
+21. K. N. Leung and Y. S. Ng, "A CMOS Low Dropout Regulator with a Momentarily 
+Current-Boosting Voltage Buffer," IEEE Transactions on Circuits and Systems I, Vol. 
+57, No. 9, pp. 2312-2319, Sept. 2010.
+22. P. Y. Or and K. N. Leung, "A Fast-Transient Low-Dropout Regulator with Load-Tracking 
+Impedance Reduction and Loop-Gain Boosting," IEEE Transactions on Circuits and 
+Systems II, Vol. 57, No. 10, pp. 757-761, Oct. 2010.
+23. M. Ho, K. N. Leung and K.-L. Mak, "A Low-Power Fast-Transient 90-nm Low-Dropout 
+Regulator with Multiple Small-Gain Stages," IEEE Journal of Solid-State Circuits, Vol. 
+45, No. 11, pp. 2466-2475, Nov. 2010.
+24. K. N. Leung, Y. Y. Mai and P. K. T. Mok, "A Chip-Area Efficient Voltage Regulator for 
+VLSI Systems," IEEE Transactions on VLSI Systems, Vol. 18, No. 12, pp. 1757-1762, 
+Dec. 2010.
+25. M. Ho and K. N. Leung, "Dynamic Bias-Current Boosting Technique for Ultra-Low-
+Power Low-Dropout Regulator in Biomedical Applications," IEEE Transactions on 
+Circuits and Systems II, Vol. 58, No. 3, pp. 174-178, Mar. 2011.
+26. J. B. Jia and K. N. Leung, "A Digital-Control Single-Inductor Triple-Output DC-DC 
+Converter with Pre-Sub-Period Inductor-Current Control," IEEE Transactions on 
+Power Electronics, Vol. 27, No. 4, pp. 2028-2042, Apr. 2012.
+Page 4 of 5
+Professor Ka Nang Alex Leung
+6/8/2018
+http://www.ee.cuhk.edu.hk/~knleung/
+
+-----
+27. Y. Q. Zheng, H. Chen and K. N. Leung, "A Fast-Response Pseudo-PWM Buck Converter 
+with PLL-Based Hysteresis Control," IEEE Transactions on VLSI Systems, Vol. 20, No. 
+7, pp. 1167-1174, Jul. 2012.
+28. K. W. Li, K. N. Leung and L. L. K. Leung, "Sub-mW LC Dual-Input Injection-Locked 
+Oscillator for Autonomous WBSNs," IEEE Transactions on VLSI Systems, Vol. 21, No. 
+3, pp. 546-553, Mar. 2013.
+29. T. W. Mui, M. Ho, K. H. Mak, J. P. Guo, H. Chen and K. N. Leung, "An Area-Efficient 
+96.5%-Peak-Efficiency Cross-Coupled Voltage Doubler with Minimum Supply of 0.8V," 
+IEEE Transactions on Circuits and Systems II, Vol. 61, No. 9, pp. 656-660, Sep. 2014.
+30. K. H. Mak and K. N. Leung, "A Signal- and Transient-Current Boosting Amplifier for 
+Large Capacitive Load Applications," IEEE Transactions on Circuits and Systems I, Vol. 
+61, No. 10, pp. 2777-2785, Oct. 2014.
+31. K. H. Mak, M. W. Lau, J. P. Guo, T. W. Mui, M. Ho, W. L. Goh and K. N. Leung, "A 0.7-V 
+24-µA Hybrid OTA Driving 15-nF Capacitive Load with 1.46-MHz GBW," IEEE Journal 
+of Solid-State Circuits, Vol. 50, No. 11, pp. 2750-2757, Nov. 2015.
+32. H. Wang, X. Tang, C. S. Choy, K. N. Leung and K. P. Pun, "A 5.4-mW 180-cm 
+Transmission Distance 2.5-Mbps Advanced Techniques Based Novel Intra-Body 
+Communication Receiver Analog Front End," IEEE Transactions on VLSI Systems, Vol. 
+23, No. 12, pp. 2829-2841, Dec. 2015.
+33. Y. Q. Zheng, M. Ho, J. P. Guo, K.-L. Mak and K. N. Leung, "A Single-Inductor Multiple-
+Output Auto-Buck-Boost DC-DC Converter with Auto Phase Allocation," IEEE 
+Transactions on Power Electronics, Vol. 31, No. 3, pp. 2296-2313, Mar. 2016.
+34. M. Ho, J. P. Guo, T. W. Mui, K. H. Mak, W. L. Goh, H. C. Poon, S. Bu, M. W. Lau and K. N. 
+Leung, "A Two-Stage Large-Capacitive-Load Amplifier with Multiple Cross-Coupled 
+Small-Gain Stages," IEEE Transactions on VLSI Systems, Vol. 24, No. 7, pp. 2580-
+2592, Jul. 2016.
+35. M. Ho, J. P. Guo, K. H. Mak, W. L. Goh, S. Bu, Y. Q. Zheng, X. Tang and K. N. Leung, "A 
+CMOS Low-Dropout Regulator with Dominant-Pole Substitution," IEEE Transactions 
+on Power Electronics, Vol. 31, No. 9, pp. 6362-6371, Sep. 2016.
+36. Y. Q. Zheng, M. Ho, J. P. Guo and K. N. Leung, "A Single-Inductor Multiple-Output 
+Auto-Buck-Boost DC-DC Converter with Tail Current Control," IEEE Transactions on 
+Power Electronics, Vol. 31, No. 11, pp. 7857-7875, Nov. 2016.
+37. S. Bu, J. P. Guo and K. N. Leung, "A 200-ps-Response-Time Output-Capacitorless Low-
+Dropout Regulator with Unity-Gain Bandwidth >100 MHz in 130-nm CMOS," IEEE 
+Transactions on Power Electronics, Vol. 33, No. 4, pp. 3232-3246, Apr. 2018.
+38. S. Bu, K. N. Leung, Y. Lu, J. P. Guo and Y. Q. Zheng, "A Fully Integrated Low-Dropout 
+Regulator with Differentiator-Based Active Zero Compensation," IEEE Transactions 
+on Circuits and Systems I, accepted.
+Page 5 of 5
+Professor Ka Nang Alex Leung
+6/8/2018
+http://www.ee.cuhk.edu.hk/~knleung/
+
+-----

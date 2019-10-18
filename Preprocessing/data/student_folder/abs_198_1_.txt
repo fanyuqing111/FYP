@@ -1,0 +1,18 @@
+Abstract 
+Rapid advances in the research and development of robotic and automation technologies have 
+completely revolutionized the manufacturing industries in the past years. Though much progress 
+has been obtained in the research and development of robotic manipulation recently, it is still 
+difficult to reproduce such achievement in the micro-world as the study of micro-manipulation 
+opens up new research and technological issues which diverge from traditional robotic 
+manipulation. 
+This research aims to develop robotic manipulation techniques for optical tweezers that are able 
+to manipulate biological cells or microscopic objects using multiple laser-driven fingertips. In 
+the research, multiple optically trapped micro-beads are first utilized as the laser-driven 
+fingertips, and several control techniques will then be explored to achieve various manipulation 
+tasks, which are beyond the capability of manipulation using single optical trapping. The 
+interactions between the manipulators and biological cells or microscopic objects will be 
+analyzed to gain insight into the dynamic manipulation. Both theoretical and practical aspects 
+will be explored in this research. 
+ 
+
+-----

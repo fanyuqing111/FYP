@@ -1,0 +1,303 @@
+ The Scopus Author Identifier assigns a unique number to groups of documents written by the same author via an algorithm that matches authorship based on a certain criteria. If a document canno
+confidently matched with an author identifier, it is grouped separately. In this case, you may see more than 1 entry for the same author. 
+Search
+Sources
+Alerts
+Lists
+Help
+SciVal ↗
+Author details
+Benosman, Ryad Benjamin 
+Inserm, Vision and Natural Computation Group, 
+Paris, France 
+Author ID: 6602521544
+Other name formats: Benosman, Ryad B.
+Benosman, R. B.
+Benosman, Ryad
+View More
+About Scopus Author Identifier | View potential author matches 
+Documents:
+Analyze author output
+Citations:
+View citation overview
+h-index: 
+View h-graph
+Co-authors:
+Subject area:
+View docum
+View docum
+View docum
+Follow this Author
+Receive emails when this author 
+publishes new articles
+Get citation alerts 
+Add to ORCID
+Request author detail corrections
+Author History 
+Publication range: 1996 - Present 
+References: 1917
+Source history:
+Proceedings - 3rd Workshop on Omnidirectional Vision, 
+OMNIVIS 2002  
+2011 IEEE International Conference on Mechatronics, IC
+2011 - Proceedings  
+Machine Vision and Applications
+View More 
+Show Related Affiliations
+Back to results |
+1 of 1 
+Print |
+Email 
+97 
+817 total citations by 541 documents 
+16 
+150 (maximum 150 co-authors can be displayed) 
+Computer Science ,  Engineering View More
+97 documents
+Export all |
+Add all to list
+|
+Set document alert |
+Set document feed 
+97 Documents | Cited by 541 documents | 150 co-authors
+View in search results format 
+Sort on: Date Cited by
+...
+HOTS: A Hierarchy of Event-Based Time-Surfaces for 
+Pattern Recognition
+Lagorce, X., Orchard, 
+G., Galluppi, F., Shi, 
+B.E., Benosman, R.B. 
+2017 IEEE Transactions on 
+Pattern Analysis and 
+Machine Intelligence 
+View at Publisher
+Full-field OCT technique for high speed event-based 
+optical flow and particle tracking
+Berthelon, X., 
+Chenegros, G., Libert, 
+N., (...), Grieve, K., 
+Benosman, R. 
+2017 Optics Express 
+Open Access
+View at Publisher
+Asynchronous Event-Based Fourier Analysis
+Sabatier, Q., Ieng, 
+S.-H., Benosman, R. 
+2017 IEEE Transactions on 
+Image Processing 
+View at Publisher
+Guest Editorial Learning in Neuromorphic Systems and 
+Cyborg Intelligence
+Wu, Z., Benosman, R., 
+Tang, H., Liu, S.-C. 
+2017 IEEE Transactions on 
+Neural Networks and 
+Learning Systems 
+View at Publisher
+A spiking neural network model of 3D perception for 
+event-based neuromorphic stereo vision systems
+Osswald, M., Ieng, 
+S.-H., Benosman, R., 
+Indiveri, G. 
+2017 Scientific Reports 
+Open Access
+View at Publisher
+A motion-based feature for event-based pattern 
+recognition
+Clady, X., Maro, J.-M., 
+Barré, S., Benosman, 
+R.B. 
+2017 Frontiers in 
+Neuroscience 
+Open Access
+View at Publisher
+Psychophysical Assessment of Perceptual Performance 
+with Varying Display Frame Rates
+Kime, S., Galluppi, F., 
+Lagorce, X., 
+Benosman, R.B., 
+Lorenceau, J. 
+2016 Journal of Display 
+Technology 
+View at Publisher
+Event-based tone mapping for asynchronous time-based 
+image sensor
+Chane, C.S., Ieng, 
+S.-H., Posch, C., 
+Benosman, R.B. 
+2016 Frontiers in 
+Neuroscience 
+Open Access
+View at Publisher
+Skimming digits: Neuromorphic classification of spike-
+encoded images
+Cohen, G.K., Orchard, 
+G., Leng, S.-H., (...), 
+Benosman, R.B., van 
+Schaik, A. 
+2016 Frontiers in 
+Neuroscience 
+Open Access
+View at Publisher
+2
+0
+0
+0
+0
+0
+2
+1
+4
+Years
+Documents
+Citations
+2007
+2017
+0
+16
+Register
+Login
+Page 1 of 3
+Scopus - Author details (Benosman, Ryad Benjamin)
+10/18/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=66025215...
+
+-----
+The data displayed above is compiled exclusively from articles published in the Scopus database. To request corrections to any inaccuracies or provide any further feedback, please contact us (registration required). 
+The data displayed above is subject to the privacy conditions contained in the privacy policy . 
+Top of page 
+Display: 
+results per page
+Page 1
+Event-based computation of motion flow on a 
+neuromorphic analog neural platform
+Giulioni, M., Lagorce, 
+X., Galluppi, F., 
+Benosman, R.B. 
+2016 Frontiers in 
+Neuroscience 
+Open Access
+View at Publisher
+Neuromorphic event-based 3D pose estimation
+Valeiras, D.R., 
+Orchard, G., Ieng, 
+S.-H., Benosman, R.B. 
+2016 Frontiers in 
+Neuroscience 
+Open Access
+View at Publisher
+An event-based solution to the Perspective-n-Point 
+problem
+Valeiras, D.R., Kime, 
+S., Ieng, S.-H., 
+Benosman, R.B. 
+2016 Frontiers in 
+Neuroscience 
+Open Access
+View at Publisher
+Giving machines humanlike eyes
+Posch, C., Benosman, 
+R., Etienne-Cummings, 
+R. 
+2015 IEEE Spectrum 
+View at Publisher
+An asynchronous neuromorphic event-driven visual part-
+based shape tracking
+Valeiras, D.R., 
+Lagorce, X., Clady, X., 
+(...), Ieng, S.-H., 
+Benosman, R. 
+2015 IEEE Transactions on 
+Neural Networks and 
+Learning Systems 
+View at Publisher
+Visual-Auditory saliency detection using event-driven 
+visual sensors
+Akolkar, H., Valeiras, 
+D.R., Benosman, R., 
+Bartolozzi, C. 
+2015 Proceedings of 1st 
+International Conference 
+on Event-Based Control, 
+Communication and 
+Signal Processing, 
+EBCCSP 2015 
+View at Publisher
+Bioinspired event-driven collision avoidance algorithm 
+based on optic flow
+Milde, M.B., Bertrand, 
+O.J.N., Benosmanz, 
+R., Egelhaaf, M., 
+Chicca, E. 
+2015 Proceedings of 1st 
+International Conference 
+on Event-Based Control, 
+Communication and 
+Signal Processing, 
+EBCCSP 2015 
+View at Publisher
+HFirst: A Temporal Approach to Object Recognition
+Orchard, G., Meyer, C., 
+Etienne-Cummings, R., 
+(...), Thakor, N., 
+Benosman, R. 
+2015 IEEE Transactions on 
+Pattern Analysis and 
+Machine Intelligence 
+View at Publisher
+Asynchronous Event-Based Multikernel Algorithm for 
+High-Speed Visual Features Tracking
+Lagorce, X., Meyer, C., 
+Ieng, S.-H., Filliat, D., 
+Benosman, R. 
+2015 IEEE Transactions on 
+Neural Networks and 
+Learning Systems 
+View at Publisher
+Asynchronous event-based corner detection and 
+matching
+Clady, X., Ieng, S.-H., 
+Benosman, R. 
+2015 Neural Networks 
+View at Publisher
+STICK: Spike time interval computational kernel, a 
+framework for general purpose computation using 
+neurons, precise timing, delays, and synchrony
+Lagorce, X., 
+Benosman, R. 
+2015 Neural Computation 
+View at Publisher
+5
+6
+1
+1
+9
+0
+4
+22
+14
+10
+1
+20
+Back to results |
+1 of 1 
+Page 2 of 3
+Scopus - Author details (Benosman, Ryad Benjamin)
+10/18/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=66025215...
+
+-----
+Scopus API
+Privacy matters
+Русский язык
+Terms and conditions
+Privacy policy
+Copyright © 2017 Elsevier B.V. All rights reserved. Scopus® is a registered trademark of Elsevier B.V.
+Cookies are set by this site. To decline them or learn more, visit our Cookies page.
+Page 3 of 3
+Scopus - Author details (Benosman, Ryad Benjamin)
+10/18/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=66025215...
+
+-----

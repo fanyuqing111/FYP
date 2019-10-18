@@ -1,0 +1,55 @@
+Decentralized Control and Stability Analysis for Autonomous Microgrids 
+Abstract 
+In recent years, driven by the economic, environmental and sustainable incentives, there has been an 
+increasing interest in the utilization of distributed generations (DGs) such as solar PV, wind turbines, fuel 
+cells, microturbines, etc. A microgrid (MG), which combines DGs, energy storages (ESs) and a cluster of 
+loads, is an enabling technology for high efficient and reliable utilization of DGs. MGs, especially operating 
+at autonomous mode, encounter many operational challenges to be addressed, including the critical 
+demand-supply balance under the intermittent renewable DGs, the economic operation requirement and the 
+stability issues emerged from the high penetration of constant power loads.   
+Conventionally, centralized control methods are adopted to solve the above issues, which require a 
+centralized controller and a communication network to coordinate the operation of local controllers. 
+However, these methods encounter high communication and computation burdens as well as the single 
+point of failure issues. Considering the distributed nature of the DGs in a MG and to increase system 
+reliability and scalability, decentralized control strategies without central controllers and communications 
+are explored in this thesis, to deal with the issues of power balance, economic operation and system stability.  
+First, a decentralized dynamic power sharing strategy for hybrid energy storage system is proposed. Hybrid 
+energy storage system provides an effective approach to compensate the power unbalance caused by the 
+intermittency of renewable DGs and uncertainty of loads. To fully exploit the advantages of different energy 
+storages in the hybrid energy storage system, it is desirable that the access-oriented ES (e.g. supercapacitor) 
+compensates fast power fluctuations and the capacity-oriented ES (e.g. battery) provides the low-frequency 
+power at steady state. Unlike the most existing methods with central controllers and communications, an 
+extended droop control scheme with a virtual resistance droop controller and a virtual capacitance droop 
+controller is proposed for hybrid battery/supercapacitor(SC) system to achieve dynamic power sharing in a 
+decentralized manner. In addition, considering the bus voltage deviation issue resulted from the droop-
+based control approaches as well as the SC state-of-charge (SoC) recovery issue to ensure secure operation, 
+a decentralized power management is further proposed to achieve autonomous dynamic power sharing, SC 
+SoC recovery and bus voltage restoration at the same time. A design guideline is also developed to ensure 
+the desired dynamics.  
+Next, a decentralized strategy for economic operation of autonomous MGs is proposed. Conventionally, 
+economic dispatch of DGs are solved by centralized control with optimization algorithms or distributed 
+control with consensus algorithms. To improve the reliability, scalability and economy of MGs, an 
+
+-----
+incremental cost based droop control scheme is proposed. System operation cost is optimized when the 
+incremental costs of all DGs reach equality. As frequency is a global state in an AC MG and DC bus voltage 
+serves as a natural indicator in a DC MG, a frequency-incremental costs (f-IC) droop scheme is proposed 
+for AC MG, a voltage-incremental cost (V-IC) droop scheme is proposed for DC MG and a normalization 
+scheme is proposed for a hybrid AC/DC MG. By using the proposed technique, the total operating cost can 
+be optimized without any communication or central controllers.  
+Finally, system stability issue is studied. Stable operation is a basic requirement for MGs. The high 
+penetration of power electronic converter loads causes destabilizing effects in MGs, also known as the 
+constant power load (CPLs) issue. Considering the increasing complexity and the requirement of system 
+extension and reconfiguration of the MGs, a module-based approach is proposed for flexibly modeling and 
+stability analysis. By this means, a complex system matrix can be easily integrated based on system 
+configuration and overall system stability can be evaluated. The hybrid AC/DC more electric aircraft power 
+system adopted by Boeing 787 is analyzed using the proposed technique as an example.  
+To further stabilize system with CPL, a composite nonlinear controller is proposed by integrating a 
+nonlinear disturbance observer based feedforward compensation with backstepping design algorithm. 
+Unlike existing active damping methods that can only ensure stability in small signal sense, the proposed 
+controller not only ensures global stability under large variation of the CPL, but also features fast dynamic 
+response with accurate tracking over wide operating range.  
+ 
+ 
+
+-----

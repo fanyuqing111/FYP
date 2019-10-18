@@ -1,0 +1,47 @@
+Development of cellular resolution optical coherence tomography  
+ 
+Diagnosis of most mucosal diseases including epithelial cancers relies on white-light endoscopy / visual inspection 
+followed by random biopsy and histology examination. These current standard of care tools are associated with 
+many issues such as sampling errors, tissue destruction, complications, and processing artifacts. In addition, it is too 
+traumatic to take a biopsy from tissues like eyes and coronary arteries. Being high resolution, high speed, and non-
+invasive, optical coherence tomography (OCT) has emerged as an endoscopic and intravascular imaging tool that 
+provides valuable anatomic information complementary to the standard of care methods. It has a typical resolution 
+of ~10 μm, which is too coarse for visualizing most cellular structures. Micro-optical coherence tomography (μOCT) 
+provides spatial resolution of 1~2 μm to visualize microstructures at the cellular and sub-cellular level. Two of the 
+major inherent issues with current μOCT imaging systems are the auto-correlation artifacts (ACA) and complex 
+conjugate artifacts (CCA). ACAs originate from the interference between sample reflectors or scatters of different 
+depths; CCA arises from the fact that the current OCT system can only detect the real part of the complex 
+interferometric signal. Another inherent major issue with the current μOCT imaging systems is the limited depth of 
+focus (DOF). The DOF, defined as the confocal parameter in the classical theory of Fourier domain OCT (FD-OCT), 
+is proportional to the square of the transverse resolution. Consequently, a trade-off occurs between the transverse 
+resolution and the DOF in which a lower transverse resolution results in a larger DOF and vice versa. 
+The main objective of this research is to develop novel optomechanical techniques and apparatus to overcome the 
+above-mentioned issues with μOCT to facilitate its clinical applications. 
+Firstly, we develop a novel homemade dual-channel spectrometer by employing two lines of a three-line charge 
+coupled device (CCD) to suppress ACA and CCA. For ACA suppression, two interferometric spectra with a phase 
+difference of π are detected by the dual-channel spectrometer simultaneously. ACA is suppressed by counterbalance 
+signals obtained from dual channels. For CCA suppression, two interferometric spectra with a phase difference of 
+2π/3 are detected by the dual-channel spectrometer simultaneously. The complex interferometric signal is 
+reconstructed by trigonometric manipulation of two real interferometric spectra, and then ACA is suppressed by use 
+of inverse Fourier transform. 
+Secondly but more importantly, we develop a series of novel optomechanical techniques and apparatuses to address 
+the fundamental problem of limited DOF in high-resolution μOCT. Multiple aperture synthesis (MAS) is a kind of 
+digital refocusing technique, which is analogous to synthetic aperture radar (SAR). The key technology of MAS is 
+the implementation of aperture division and the multiplexing apparatus. In the first place, a micro cylindrical lens 
+drove by a piezoelectric transducer (PZT) is employed to demonstrate the feasibility of DOF extension without 
+signal loss and sidelobe artifacts. In the second place, a mirror with two surfaces coated is employed to demonstrate 
+the potential DOF extension for ocular and skin applications. In the third place, a birefringent calcite spacer is 
+employed to demonstrate the potential of DOF extension for endoscopic and intravascular applications. In the fourth 
+place, a technique named pixel reassignment, originally and broadly used in the confocal microscopy, is also 
+developed and applied in desktop FD-OCT to moderately improve the overall performance. The proposed MAS 
+
+-----
+technique overcomes the inherent trade-off between DOF extension and signal loss/sidelobe artifacts and may 
+ultimately overcome the DOF limitation in high-resolution μOCT. 
+The problems of limited DOF and ACA and CCA are addressed in this thesis, which enables us to visualize 
+imperceptible changes in cellular and sub-cellular resolution, and evaluates pathological lesion in an early period by 
+characterizing the cellular and sub-cellular morphology of human tissues. All the novelties enable this project to 
+play a potential role in the clinical practice of disease diagnosis and treatment, especially for gastrointestinal cancer, 
+epithelial cancer, and atherosclerosis. 
+
+-----

@@ -1,0 +1,127 @@
+FORMATION CONTROL OF MULTI-ROBOT
+SYSTEMS IN OBSTACLE ENVIRONMENTS
+YUANZHE WANG
+School of Electrical & Electronic Engineering
+A thesis submitted to the Nanyang Technological University
+in fulfillment of the requirements for the degree of
+Doctor of Philosophy
+2018
+
+-----
+Abstract
+Multi-robot system has wide applications in both civil and military fields, due to
+its high efficiency for task completion and robustness with respect to robot failures.
+Formation keeping, which is one of the main objectives for multi-robot control,
+has been investigated extensively in the past decade, resulting in a large variety of
+methodologies. However, most of the existing approaches are subject to certain lim-
+itations when implemented for addressing real formation control problems, mainly
+due to additional constraints introduced, such as sensor limitations, obstacle and
+inter-robot collision avoidance in unknown environments, connectivity maintenance,
+unavailability of global pose measurements and so forth. This thesis deals with for-
+mation control problem for real robot applications by taking practical constraints
+into account.
+First of all, virtual-structure based formation tracking control is studied, where
+obstacle and inter-robot collision avoidance as well as connectivity maintenance are
+explicitly considered.
+To address this problem, a multi-region control scheme is
+proposed, where three regions, safe region, dangerous region and transition region,
+are defined. In different regions, priority is given to different control objectives.
+In safe region where trajectory tracking holds the priority, the proposed control
+scheme guarantees bounded reference tracking for each robot. In dangerous region
+where avoidance control is the main objective, a new bounded potential function
+is designed to formulate multiple constraints. By introducing a series of transition
+functions, smooth switching between trajectory tracking and avoidance control is
+Nanyang Technological University
+Singapore
+
+-----
+achieved in transition region.
+It has been proven that each robot can track its
+reference trajectory while satisfying the constraints simultaneously with a bounded
+controller, implying that the proposed control scheme satisfies input constraints by
+properly tuning parameters.
+Secondly, vision-based leader-follower formation tracking control is investigated,
+while sensor limitations, obstacle and inter-robot collision avoidance and leader-loss
+situation are considered and tackled in the proposed algorithm. For leader tracking,
+a class of bounded barrier functions are employed to formulate distance and bear-
+ing angle constraints introduced by sensor limitations and leader-follower collision
+avoidance requirement. To ensure robot safety in unknown environments, a multi-
+region obstacle avoidance algorithm is proposed which prioritizes different control
+objectives in different regions. The leader-loss situation has also been studied, which
+may be caused by illumination variation, motion blurring or visual occlusion by ob-
+stacles. To deal with this case, a fault-tolerant strategy is designed to drive the
+follower to the place where the leader was lost immediately. The proposed control
+scheme is primarily designed for a communication-free environment where only lo-
+cal pose measurements are available. Furthermore, it has control input constraints
+explicitly taken into account.
+Finally, flexible leader-follower formation tracking control is addressed, while most
+of formation control related work in the literature focuses on rigid formation. To
+illustrate the superiority of flexible formation against traditional rigid formation in
+terms of motion capability, a mathematically rigorous analysis is presented from the
+motion planning perspective on the basis of the definition of formation flexibility.
+Unlike the previous studies on flexible formation control, this work is under a more
+challenging assumption that global position and orientation measurements are not
+available. To obtain the relative pose relationships amongst robots, a stereo camera
+is mounted on each follower. In consideration of the fact that visual observations are
+noise-corrupted and intermittently available, a particle filter based relative pose esti-
+mation approach is employed to estimate the position and orientation of the leader
+Nanyang Technological University
+Singapore
+
+-----
+in the local reference frame of the follower using the polluted and discontinuous
+information. Also, to form a flexible formation, the leader historical trajectory is re-
+constructed with respect to the current local frame attached on the follower, based
+on which a reference point is generated. In addition, the situation where robots
+work in unknown obstacle environments is considered. To ensure robot safety in
+such environments, a multi-objective control law is proposed to balance reference
+tracking and collision avoidance in different situations.
+In summary, this thesis provides three feasible formation control strategies for multi-
+robot systems from the viewpoint of practical applications. All of the proposed
+approaches are well supported by both numerical simulations and real robot exper-
+iments.
+Nanyang Technological University
+Singapore
+
+-----
+AUTHOR’S PUBLICATIONS
+Author’s Publications
+Journal Papers:
+1. Y. Wang, D. Wang, S. Yang, and M. Shan, “A Practical Leader-Follower
+Tracking Control Scheme for Multiple Nonholonomic Mobile Robots in Un-
+known Obstacle Environments,” IEEE Transactions on Control Systems Tech-
+nology, DOI: 10.1109/TCST.2018.2825943.
+2. Y. Wang, D. Wang, and S. Zhu, “Formation tracking of multi-vehicle systems
+in unknown environments using a multi-region control scheme,” International
+Journal of Control, vol. 90, no. 12, 2760-2771, 2017.
+3. Y. Wang, D. Wang, and S. Zhu, “A New Navigation Function Based Decen-
+tralized Control of Multi-Vehicle Systems in Unknown Environments,” Journal
+of Intelligent & Robotic Systems, vol. 87, no. 2, 363-377, 2017.
+Conference Papers:
+1. Y. Wang, and D. Wang, “Non-singular moving path following control for
+an unmanned aerial vehicle under wind disturbances,” Decision and Control
+(CDC), 2017 IEEE 56th Annual Conference on, Dec. 2017, pp. 6442-6447.
+2. Y. Wang, D. Wang, and B. C. Ng, “Finite time moving target tracking using
+Nanyang Technological University
+Singapore
+
+-----
+AUTHOR’S PUBLICATIONS
+nonholonomic vehicles with distance and bearing angle constraints,” American
+Control Conference (ACC), May 2017, pp. 2962-2967.
+3. Y. Wang, D. Wang, and E. Mihankhah, “Navigation of multiple mobile robots
+in unknown environments using a new decentralized navigation function,” in
+Control, Automation, Robotics and Vision (ICARCV), 2016 14th Interna-
+tional Conference on, Nov. 2016.
+Papers in Review:
+1. Y. Wang, M. Shan, Y. Yue, and D. Wang, “Flexible Leader-Follower Forma-
+tion Analysis and Tracking Control of Multiple Nonholonomic Mobile Robots
+Using Relative Pose Measurements,” IEEE Transactions on Control Systems
+Technology, (under review).
+2. Y. Wang, D. Wang, and S. Zhu, “Cooperative Moving Path Following for
+Multiple Fixed-Wing Unmanned Aerial Vehicles with Speed Constraints,” Au-
+tomatica, (under second round of review).
+Nanyang Technological University
+Singapore
+
+-----

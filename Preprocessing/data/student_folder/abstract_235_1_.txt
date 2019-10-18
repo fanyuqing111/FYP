@@ -1,0 +1,26 @@
+Abstract
+The National Electricity Market of Singapore (NEMS) has been studied by many mar-
+ket regulators and researchers and it is well-known for its distinguished maturity and
+structure. A demand response (DR) program was implemented in April 2016 to further
+improve its e�ciency and competitiveness. With the liberalization and deregulation of
+the electricity market, it becomes more flexible for demand side to actively participate
+in the wholesale electricity market. This has changed the way how electricity is traded.
+In this research, a software-based assessment tool is developed for participation of
+loads in demand response program of wholesale electricity market of NEMS
+This work focuses on the study of Singapore demand response program featuring
+demand side bidding and incentive payments. The impact of demand side participation
+on the market is analyzed. The issues associated with the structure and operation of
+the electricity market are addressed in this research. In addition, DR can be employed
+in energy management to mitigate the di�culty brought by uncertain demand. Firstly,
+the current market clearing model (MCM) of Singapore, which is the assessment tool
+for the settlement of energy and ancillary services simultaneously, is introduced. The
+mechanism of transmission loss and nodal prices integrated in the MCM is presented as
+well. Secondly, the methodology of integration of demand side bidding with the newly
+introduced requirements is discussed. Finally, a two-stage stochastic market clearing for
+the coordinated operation of generating units and demand response (DR) is proposed.
+In the future, the proposed modeling can be utilized for further evaluation on real 
+time demand response (DR) and interruptible load (IL) strategies. The challenges 
+to be addressed are also outlined while the solution is still under testing.
+i
+
+-----

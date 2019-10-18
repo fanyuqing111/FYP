@@ -1,0 +1,1578 @@
+R. Zane – CV  
+Dec 2017 
+1 of 25 
+Regan A. Zane 
+Department of Electrical and Computer Engineering 
+Utah State University, 4120 Old Main Hill, Logan, UT, 84322-4120 
+Phone: 435-797-9118, Fax: 435-797-3054, e-mail: 
+regan.zane@usu.edu 
+ 
+ 
+EDUCATION 
+Institution 
+Degree 
+Year 
+Field of Study 
+University of Colorado at Boulder 
+Ph.D. 
+1999 
+Electrical Engineering 
+Dissertation title, “Development, analysis, and implementation of 
+an ASIC controller for single-phase power factor correction.” 
+University of Colorado Boulder 
+M.S. (GPA: 4.0) 
+1998 
+Electrical Engineering 
+University of Colorado Boulder 
+B.S. (GPA: 4.0) 
+1996 
+Electrical Engineering 
+ 
+RESEARCH INTERESTS 
+Design, modeling and control of high efficiency, high frequency, high power density, and high 
+performance dc-dc, ac-dc, dc-ac power converters in emerging applications. Recent emphasis on breaking 
+down barriers to electrifying transportation systems, particularly on advances in charging infrastructure 
+and energy storage. Ongoing work in ac and dc microgrids, battery management systems, electric vehicle 
+powertrains, dynamic wireless charging for electric roadways, and high power conductive EV charging. 
+Application of advanced digital control techniques to power electronic systems such as stability and 
+control of series/parallel combinations in modular and distributed systems, adaptive tuning in multi-input, 
+multi-output control loops and online identification of loop stability, converter health, bus or line 
+impedance 
+ 
+EMPLOYMENT 
+2012 – present Professor, USTAR endowed, Department of Electrical and Computer Engineering, Utah 
+State University. Founder and Director of the Center for Sustainable Electrified 
+Transportation (SELECT), Electric Vehicle & Roadway (EVR) Research Facility and Test 
+Track and USU Power Electronics Lab (UPEL). 
+2008 – present Associate Professor, Department of Electrical, Computer, and Energy Engineering, 
+University of Colorado at Boulder 
+2001 – 2008 
+Assistant Professor, Department of Electrical and Computer Engineering, University of 
+Colorado at Boulder 
+1999 – 2001 
+Senior Research Scientist, Electronic Power Conversion, Corporate Research & 
+Development Center, General Electric, Niskayuna, NY. Principle researcher in area of 
+custom integrated circuits for power management applications within GE businesses with an 
+emphasis on miniature controllers for energy efficient lighting systems. 
+1999 
+Graduate Part Time Instructor (GPTI), Department of Electrical and Computer 
+Engineering, University of Colorado at Boulder 
+ 
+HONORS AND AWARDS 
+2017 
+Researcher of the year, ECE Department, Utah State University. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+2 of 25 
+2015 
+Inaugural Director of the USU Electric Vehicle and Roadway (EVR) Research Facility and 
+Test Track, 2015 – present. 
+2011 
+Selected member of the 2012-2013 Defense Sciences Study Group (DSSG), Institute for 
+Defense Analyses (IDA), US Defense Advanced Research Projects Agency (DARPA) 
+2011 
+Holland Teaching Award, University of Colorado 
+2009 
+IEEE Power Electronics Society Transaction Prize Letter Award 
+2008 
+IEEE Power Electronics Society Richard M. Bass Outstanding Young Power Electronics 
+Engineer Award 
+2008 
+Coleman Institute Faculty Sabbatical Fellowship 
+2008 
+John and Mercedes Peebles Innovation in Teaching Award, University of Colorado 
+2007 
+IEEE Power Electronics Society Transaction Prize Letter Award 
+2007 
+Senior Member, IEEE 
+2006 
+Provost Faculty Achievement Award, University of Colorado 
+2006 
+Inventor of the Year Award, Technology Transfer Office, University of Colorado 
+2006 
+IEEE MTT Microwave Prize for best journal paper 
+2004 
+NSF Faculty Early Career Development (CAREER) Program Award Recipient 
+2001 
+Six-Sigma Green Belt Certificate, GE Corporate Research and Development. 
+2001 
+Manager’s Award, General Electric Corporate Research and Development. 
+1993 – 1998 
+Member Dean’s list, University of Colorado. 
+1995 – 1996 
+Marcellus and Geraldine Merrill Scholarship, University of Colorado. 
+1992 
+National DECA competition, 2nd place in marketing and business. 
+PUBLICATION RECORD 
+ 
+Books (published or in press) 
+ 
+[1] 
+L. Corradini, D. Maksimovic, P. Mattavelli, R. Zane, Digital control of high-frequency switched-mode power 
+converters, Hoboken, NJ: Wiley, 2015. 
+ 
+Journals (published or in press) 
+ 
+[1] 
+T. Yilmaz, N. Hasan, R. Zane, Z. Pantic, “Multi-Objective Optimization of Circular Magnetic Couplers for 
+Wireless Power Transfer Applications,” IEEE Transactions on Magnetics, vol. 53, no. 8, pp. 1 – 12, Aug. 2017. 
+[2] 
+W. Chen, R. Zane, L. Corradini, “Isolated bidirectional grid-tied three-phase ac-dc power conversion using series 
+resonant converter modules and a three-phase unfolder,” IEEE Trans. Power Electron., vol. 32, no. 12, pp. 9001 
+– 9012, Jan. 2017. 
+[3] 
+M. Evzelman, M. Rehman, K. Hathaway, R. Zane, D. Costinett, D. Maksimovic, “Active balancing system for 
+electric vehicles with incorporated low voltage bus,” IEEE Trans. Power Electron., vol. 31, no. 11, pp. 7887 – 
+7895, Nov. 2016. 
+[4] 
+H. Nguyen, R. Zane, D. Maksimovic, “On/off control of a modular DC-DC converter based on active-clamp 
+LLC modules,” IEEE Trans. Power Electron., vol. 30, no. 7, pp. 3748 – 3760, Jul. 2015. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+3 of 25 
+[5] 
+D. Costinett, D. Maksimovic, R. Zane, “Circuit-oriented treatment of nonlinear capacitances in switched-mode 
+power supplies,” IEEE Trans. Power Electron., vol. 30, no. 2, pp. 985 – 995, Feb. 2015. 
+[6] 
+V. Lopez, F. Azcondo, R. Zane, “Universal digital controller for boost CCM power factor correction stages based 
+on current rebuilding concept,” IEEE Trans. Power Electron., vol. 29, no. 7, pp. 3818 – 3829, Jul. 2014. 
+[7] 
+L. Corradini, D. Seltzer, D. Bloomquist, R. Zane, D. Maksimovic, B. Jacobson, “Zero voltage switching 
+technique for bidirectional DC/DC converters,” IEEE Trans. Power Electron., vol. 29, no. 4, pp. 1585 – 1594, 
+Apr. 2014. 
+[8] 
+Z. Popovic, S. Korhummel, S. Dunbar, R. Scheeler, A. Dolgov, R. Zane, E. Falkenstein, J. Hagarty, “Scalable RF 
+Energy Harvesting,” IEEE Trans. Microw. Theory Tech., vol. 62, no. 4, pp. 1046 – 1056, Apr. 2014. 
+[9] 
+Z. Popovic, E. Falkenstein, D. Costinett, R. Zane, “Low-power far-field wireless powering for wireless sensors,” 
+Proceedings of the IEEE, invited paper, Vol. 101, No. 6, pp. 1397 – 1409, Jun. 2013. 
+[10] R. Schnell, R. Zane, F. Azcondo, “Size reduction in low-frequency square-wave ballasts for high-intensity 
+discharge lamps using soft-saturation magnetic material and digital control techniques,” IEEE Trans. Power 
+Electron., vol. 28, no. 2, pp. 1036 – 1046, Feb. 2013. 
+[11] D. Costinett, D. Maksimovic, R. Zane, “Design and Control for High Efficiency in High Step-Down Dual Active 
+Bridge Converters Operating at High Switching Frequency,” IEEE Trans. Power Electron., vol. 28, No. 8, pp. 
+3931 – 3940, Aug. 2013. 
+[12] L. Corradini, D. Seltzer, D. Bloomquist, R. Zane, D. Maksimovic, B. Jacobson, “Minimum current operation of 
+bi-directional dual-bridge series resonant DC/DC converters,” IEEE Trans. Power Electron., Vol. 27, No. 7, pp. 
+3266 – 3276, Jul. 2012. 
+[13] V. Lopez, A. Navarro, R. Schnell, C. Branas, F. Azcondo, R. Zane, “Current phase surveillance in resonant 
+converters for electric discharge applications to assure operation in zero-voltage-switching mode,” IEEE Trans. 
+Power Electron., Vol. 27, No. 6, pp. 2925 – 2935, Jun. 2012. 
+[14] C. Branas, F. Azcondo, R. Zane, “Power-mode control of multiphase resonant electronic ballast,” IEEE Trans. 
+Ind. Electron., vol. 59, no. 4, pp. 1770 – 1778, Apr. 2012. 
+[15] E. Falkenstein, D. Costinett, R. Zane, Z. Popovic, “Far-field RF-powered variable duty-cycle wireless sensor 
+platform,” IEEE Trans. Circuits Syst. II, vol. 58, no. 12, pp. 822 – 826, Dec. 2011. 
+[16] Q. Hu, R. Zane, “Minimizing required energy storage in off-line LED drivers based on series-input converter 
+modules,” IEEE Trans. Power Electron., Vol. 26, No. 10, pp. 2887 – 2895, Oct. 2011. 
+[17] L. Corradini, A. Bjeletic, R. Zane, D. Maksimovic, “Fully digital hysteretic modulator for DC-DC switching 
+converters,” IEEE Trans. Power Electron., vol. 26, no. 10, pp. 2969 – 2979, Oct. 2011. 
+[18] T. Paing, E. Falkenstein, R. Zane, Z. Popovic, “Custom IC for ultra-low power RF energy scavenging,” IEEE 
+Trans. Power Electron., vol. 26, no. 6, pp. 1620 – 1626, Jun. 2011. 
+[19] D. Maksimovic, R. Zane, L. Corradini, "Advances in digital control for high-frequency switched-mode power 
+converters," Power Electronics monthly, sponsored by Xi'an Power Electronics Research Institute, China, vol. 
+44, no. 12, pp. 2-19, serial no. 217, Dec. 2010. 
+[20] F. Diaz, F. Azcondo, C. Branas, R. Casanueva, R. Zane, “Digitally controlled low-frequency square-wave 
+electronic ballast with resonant ignition and power loop,” IEEE Trans. Ind. Appl., vol. 46, no. 6, pp. 2222 – 2232, 
+Nov. 2010. 
+[21] M. Doshi, R. Zane, “Control of solid state lamps using a multiphase pulse width modulation technique,” IEEE 
+Trans. Power Electron., vol. 25, no. 7, pp. 1894 – 1904, Jul. 2010. 
+[22] A. Dolgov, R. Zane, Z. Popovic, “Power management system for online low power RF energy harvesting 
+optimization,” IEEE Trans. Circuits Syst., vol. 57, no. 7, pp. 1802 – 1811, Jul. 2010. 
+[23] Q. Hu, R. Zane, “LED driver circuit with series-input-connected converter cells operating in continuous 
+conduction mode,” IEEE Trans. Power Electron., vol. 25, no. 3, pp. 574 – 582, Mar. 2010. 
+[24] J. Morroni, R. Zane, D. Maksimovic, “An Online Stability Margin Monitor for Digitally Controlled Switched-
+Mode Power Supplies,” IEEE Trans. Power Electron., vol. 24, no. 11, pp. 2639 – 2648, Nov. 2009. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+4 of 25 
+[25] J. Morroni, L. Corradini, R. Zane, D. Maksimovic, “Adaptive tuning of switched-mode power supplies operating 
+in discontinuous and continuous conduction modes,” IEEE Trans. Power Electron., vol. 24, no. 11, pp. 2603 – 
+2611, Nov. 2009. 
+[26] M. Shirazi, R. Zane, D. Maksimovic, “An Auto-tuning Digital Controller for DC-DC Power Converters Based on 
+On-line Frequency Response Measurement,” IEEE Trans. Power Electron., vol. 24, no. 11, pp. 2578 – 2588, 
+Nov. 2009. 
+[27] M. Doshi, R. Zane, F. Azcondo, “Low frequency architecture for multi-lamp CCFL systems with capacitive 
+ignition,” IEEE J. Displ. Technol., vol. 5, no. 5, pp. 152 – 161, May 2009. 
+[28] J. Morroni, R. Zane, D. Maksimovic, “Design and implementation of an adaptive tuning system based on desired 
+phase margin for digitally controlled DC-DC converters,” IEEE Trans. Power Electron., vol. 24, no. 2, pp. 559 – 
+564, Feb. 2009. 
+*Received IEEE Power Electronic Society 2009 Prize Transactions Letter Award 
+[29] M. Shirazi, J. Morroni, A. Dolgov, R. Zane, D. Maksimovic, “Integration of frequency response measurement 
+capabilities in digital controllers for DC-DC converters,” IEEE Trans. Power Electron., vol. 23, no. 5, pp. 2524 – 
+2535, Sep. 2008. 
+[30] F. Javier Diaz, F. J. Azcondo, Ch. Branas, R. Casanueva, R. Zane, “Digital control of a low-frequency square-
+wave electronic ballast with resonant ignition,” IEEE Trans. Ind. Electron., vol. 55, no. 9, pp. 3180 – 3191, Sep. 
+2008. 
+[31] Y. Yin and R. Zane, “Dual low-voltage IC design for high-voltage floating gate drives,” IEEE Trans. Circuits 
+Syst. I, Reg. Papers, vol. 55, no. 6, pp. 1751 – 1758, Sep. 2008. 
+[32] T. Carosa, R. Zane, D. Maksimović, “Scalable digital multiphase modulator,” IEEE Trans. Power Electron., 
+Lett., vol. 23, no. 4, pp. 2201-2205, Jul. 2008. 
+[33] T. Paing, J. Shin, R. Zane, Z. Popovic, “Resistor emulation approach to low-power RF energy harvesting,” IEEE 
+Trans. Power Electron., vol. 23, no. 3, pp. 1494 – 1501, May 2008. 
+[34] Y. Yin, M. Shirazi, R. Zane, “Electronic ballast control IC with digital phase control and lamp current 
+regulation,” IEEE Trans. Power Electron., vol. 23, no. 1, pp. 11 – 18, Jan. 2008. 
+[35] D. Maksimović, R. Zane, “Small-signal discrete-time modeling of digitally controlled DC-DC converters,” IEEE 
+Trans. Power Electron., Lett., vol. 22, no. 6, pp. 2552 – 2556, Nov. 2007. 
+*Received the 2007 IEEE Power Electronics Society Transaction Prize Letter Award. 
+[36] X. Zhao, T. Qian, G. Mei, C. Kwan, C. Walsh, T. Paing, R. Zane, Z. Popovic, “Active health monitoring of an 
+aircraft wing with an embedded piezoelectric sensor/actuator network: II. Wireless approaches,” Smart Mater. 
+Struct. 16 (2007) 1218 – 1225. 
+[37] F.J. Azcondo, R. Zane, Ch. Brañas, “Design of resonant inverters for optimal efficiency over lamp life in 
+electronic ballast with phase control,” IEEE Trans. Power Electron., special issue on lighting, vol. 22, no. 3, pp. 
+815 – 823, May 2007. 
+[38] S. Johnson, R. Zane, “Custom spectral shaping for EMI reduction in high frequency inverters and ballasts,” IEEE 
+Trans. Power Electron., vol. 20, no. 6, pp. 1499 – 1505, Nov. 2005. 
+[39] B. Miao, R. Zane, D. Maksimović, “System identification of power converters with digital control through cross-
+correlation methods,” IEEE Trans. Power Electron., vol. 20, no. 5, pp. 1093 – 1099, Sep. 2005. 
+[40] Y. Zhang, R. Zane, R. Erickson, D. Maksimović, A. Prodic “On-line calibration of MOSFET switch on-state 
+resistance for precise current sensing,” IEEE Trans. Power Electron., Lett., vol. 2, no. 3, pp. 100 – 103, Sep. 
+2004. 
+[41] Y. Yin, R. Zane, R. Erickson, J. Glaser, “Direct modeling of envelope dynamics in resonant inverters,” IEE 
+Electron. Lett., vol. 40, no. 13, pp. 834 – 836, Jun. 2004. 
+[42] Y. Yin, R. Zane, “Digital phase control for resonant inverters,” IEEE Trans. Power Electron., Lett.,  vol. 2, no. 2, 
+pp. 51 – 53, June 2004. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+5 of 25 
+[43] J. Hagerty, F. Helmbrecht, W. McCalpin, R. Zane, Z. Popovic, “Recycling ambient microwave energy with 
+broadband rectenna arrays,” IEEE Trans. Microw. Theory Tech., vol. 52, no. 3, pp. 1014 – 1024, Mar. 2004. 
+*Received the 2006 IEEE MTT Microwave Prize for best journal paper. 
+[44] Y. Yin, R. Zane, J. Glaser, R. Erickson, “Small-signal analysis of frequency-controlled electronic ballasts,” IEEE 
+Trans. Circuits Syst. I: Fundam. Theory and Appl., vol. 50, No. 8, pp. 1103 – 1110, Aug. 2003. 
+[45] R. Zane, D. Maksimović, “Nonlinear-carrier control for high-power-factor rectifiers based on up-down switching 
+converters,” IEEE Trans. Power Electron., vol. 13, no. 2, pp. 213 – 221, Mar. 1998. 
+ 
+Full Conference Papers with Peer Review (published or in press) 
+ 
+[1] 
+F. Zhang, M. Rehman, R. Zane, D. Maksimovic, “Hybrid Balancing in a Modular Battery Management System 
+for Electric-Drive Vehicles,” Proc. IEEE Energy Conversion Congress and Exposition, ECCE 2017, Cincinnati, 
+OH, Oct. 2017, pp. 578 – 583.  
+[2] 
+B. Riar, T. Geyer, R. Zane, “Current THD Analysis in Direct Model Predictive Control,” Proc. IEEE Workshop 
+on Control and Modeling for Power Electronics, COMPEL 2017, Stanford, CA July 9-12, 2017, pp. 1 – 7.  
+[3] 
+T. Saha, H. Wang, R. Zane, “Zero Voltage Switching Assistance Design for DC-DC Series Resonant Converter 
+with Constant Input Current for Wide Load Range,” Proc. IEEE Workshop on Control and Modeling for Power 
+Electronics, COMPEL 2017, Stanford, CA July 9-12, 2017, pp. 1 – 5.  
+[4] 
+W. Chen, B. Riar, R. Zane, “A three-port series resonant converter for three-phase unfolding inverters,” Proc. 
+IEEE Workshop on Control and Modeling for Power Electronics, COMPEL 2017, Stanford, CA July 9-12, 2017, 
+pp. 1 – 7.  
+[5] 
+H. Wang, T. Saha, R. Zane, “Impedance-Based Stability Analysis and Design Considerations for DC Current 
+Distribution with Long Transmission Cable,” Proc. IEEE Workshop on Control and Modeling for Power 
+Electronics, COMPEL 2017, Stanford, CA July 9-12, 2017, pp. 1 – 8. 
+[6] 
+Y. Shi, K. Smith, R. Zane, D. Anderson, “Life prediction of large lithium-ion battery packs with active and 
+passive balancing,” Proc. American Control Conference (ACC), Seattle, WA, May 2017, pp. 4704 – 4709.  
+[7] 
+R. D. Anderson, R. Zane, G. Plett, D. Maksimovic, K. Smith, M. S. Trimboli, “Life balancing – a better way of 
+battery management for large battery packs,” in press, Society of Automotive Engineers (SAE) World Congress 
+Experience, Detroit, MI, Apr. 4-6, 2017.  
+[8] 
+M. Evzelman, H. Wang, R. Zane, X. Zhao, “Two-stage sinusoidal generator with calibration and pulse train 
+amplitude feedback for ultrasonic applications,” Proc. IEEE Applied Power Electronics Conference, APEC 2017, 
+Tampa, FL, Mar. 2017, pp. 2124 – 2130.  
+[9] 
+M. Rehman, F. Zhang, R. Zane, D. Maksimovic, “Control of bidirectional dc/dc converters in reconfigurable, 
+modular battery systems,” Proc. IEEE Applied Power Electronics Conference, APEC 2017, Tampa, FL, Mar. 
+2017, pp. 1277 – 1283. 
+[10] H. Wang, T. Saha, R. Zane, “Analysis and design of a series resonant converter with constant current input and 
+regulated output current,” Proc. IEEE Applied Power Electronics Conference, APEC 2017, Tampa, FL, Mar. 
+2017, pp. 1741 – 1747. 
+[11] T. Saha, H. Wang, B. Riar, R. Zane, “Analysis of zero voltage switching requirements and passive auxiliary 
+circuit design for dc-dc series resonant converters with constant input current,” Proc. IEEE Southern Power 
+Electronics Conference, SPEC 2017, Auckland, New Zealand, Dec. 2016, pp. 1-6. 
+[12] B. Riar, D. Howey, D. Thrimawithana, D. Rogers, R. Zane, “Bidirectional current source converter: design, 
+control and performance evaluation,” Proc. IEEE Southern Power Electronics Conference, SPEC 2017, 
+Auckland, New Zealand, Dec. 2016, pp. 1-6. 
+[13] W. Chen, R. Zane, “Active rectifier system using three-phase unfolder and series resonant converters controlled 
+in synchronous rotating frame,” Proc. IEEE Telecommunications Energy Conference, INTELEC 2016, Austin, 
+TX, Oct 2016, pp. 1-7. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+6 of 25 
+[14] B. Limb, B. Crabb, R. Zane, T. Bradley, J. Quinn, “Economic feasibility and infrastructure optimization of in-
+motion charging of electric vehicles using wireless power transfer,” Proc. IEEE PELS Workshop on Emerging 
+Technologies: Wireless Power Transfer WoW 2016, Knoxville, TN, Oct 2016, pp. 42 – 46. 
+[15] M. Rehman, F. Zhang, R. Zane, D. Maksimovic, “Advanced cell-level control for extending electric vehicle 
+battery pack lifetime,” Proc. IEEE Energy Conversion Congress and Exposition, ECCE 2016, Milwaukee, WI, 
+Sept. 2016, pp. 1-8. 
+[16] M. Rehman, F. Zhang, R. Zane, D. Maksimovic, “Design and control of an integrated BMS/DC-DC system for 
+electric vehicles,” Proc. IEEE Workshop on Control and Modeling for Power Electronics, COMPEL 2016, 
+Trondheim, Norway, June 2016, pp. 1-7. 
+[17] H. Wang, T. Saha, R. Zane, “Control of series connected resonant converter modules in constant current dc 
+distribution power systems,” Proc. IEEE Workshop on Control and Modeling for Power Electronics, COMPEL 
+2016, Trondheim, Norway, June 2016, pp. 1-7. 
+[18] B. Limb, R. Zane, J. Quinn, T. Bradley, “Infrastructure optimization and economic feasibility of in-motion 
+wireless power transfer,” Proc. IEEE Transportation Electrification Conference and Expo, ITEC 2016, 
+Dearborn, MI, Jun 2016, pp. 1-4.  
+[19] M. Evzelman, R. Zane, “Burst mode control and switched-capacitor converter losses,” IEEE Applied Power 
+Electronics Conference, APEC 2016, Long Beach, CA, Mar 2016, pp. 1603 – 1607. 
+[20] F. Zhang, M. Rehman, R. Zane, D. Maksimovic, “Improved steady-state model of the dual-active-bridge 
+converter,” Proc. IEEE Energy Conversion Congress and Exposition, ECCE 2015, Montreal, QC, Sept. 2015, pp. 
+630-636. 
+[21] N. Hasan, I. Cocar, T. Amely, H. Wang, R. Zane, Z. Pantic, C. Bodine, “A practical implementation of wireless 
+power transfer systems for socially interactive robots,” Proc. IEEE Energy Conversion Congress and Exposition, 
+ECCE 2015, Montreal, QC, Sept. 2015, pp. 4935-4942. 
+[22] A. Azad, T. Saha, R. Zane, Z. Pantic, “Design of hybrid energy storage systems for wirelessly charged electric 
+vehicles,” Proc. IEEE Vehicular Technology Conference, VTC 2015, Boston, MA, Sept. 2015, pp. 1-5. 
+[23] J. Quinn, B. Limb, Z. Pantic, P. Barr, R. Zane, T.H. Bradley, “Feasibility of wireless power transfer for 
+electrification of transportation: Techno-economics and life cycle assessment,” Proc. IEEE Conference on 
+Technologies for Sustainability, SusTech 2015, Ogden, UT, July 2015, pp. 245-249.  
+[24] W. Chen, R. Zane, “Application of three-phase unfolder in electric vehicle drivetrain,” Proc. IEEE Workshop on 
+Control and Modeling for Power Electronics, COMPEL 2015, Vancouver, BC, July 2015, pp. 1-8. 
+[25] F. Zhang, M. Rehman, H. Wang, Y. Levron, G. Plett, R. Zane, D. Maksimovic, “State-of-charge estimation 
+based on microcontroller-implemented sigma-point Kalman filter in a modular cell balancing system for 
+Lithium-Ion battery packs,” Proc. IEEE Workshop on Control and Modeling for Power Electronics, COMPEL 
+2015, Vancouver, BC, July 2015, pp. 1-7. 
+[26] H. Wang, M. Rehman, M. Evzelman, R. Zane, “SIMULINK based hardware-in-the-loop rapid prototyping of an 
+electric vehicle battery balancing controller,” Proc. IEEE Workshop on Control and Modeling for Power 
+Electronics, COMPEL 2015, Vancouver, BC, July 2015, pp. 1-6. 
+[27] M. Rehman, F. Zhang, M. Evzelman, R. Zane, D. Maksimovic, “Control of a series-input, parallel-output, cell 
+balancing system for electric vehicle battery packs,” Proc. IEEE Workshop on Control and Modeling for Power 
+Electronics, COMPEL 2015, Vancouver, BC, July 2015, pp. 1-7. 
+[28] N. Hasan, T. Yilmaz, R. Zane, Z. Pantic, “Multi-objective particle swarm optimization applied to the design of 
+wireless power transfer systems,” ,” Proc. IEEE Wireless Power Transfer Conference, WPTC 2015, Boulder, 
+CO, May 2015, pp. 1-4. 
+[29] J. Quinn, B. Limb, Z. Pantic, P. Barr, R. Zane, “Techno-economic feasibility and environmental impact of 
+wireless power transfer roadway electrification,” Proc. IEEE Wireless Power Transfer Conference, WPTC 2015, 
+Boulder, CO, May 2015, pp. 1-3. 
+[30] Md. M. U. Rehman, M. Evzelman, K. Hathaway, R. Zane, S. Trimboli, G. Plett, K. Smith, D. Maksimovic, 
+“Modular approach for continuous cell-level balancing to improve performance of large battery packs,” Proc. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+7 of 25 
+IEEE Energy Conversion Congress and Exposition (ECCE 2014), Pittsburgh, PA, Sept. 14-18, 2014, pp. 4327 – 
+4334. 
+[31] D. Seltzer, R. Zane, “Multi-Mode Control of Series and Parallel Converters for Bidirectional Power Systems,” 
+Proc. IEEE Workshop on Control and Modeling for Power Electronics, COMPEL 2014, Santander, Spain, Jun. 
+2014, pp. 1-8. 
+[32] M. Evzelman, R. Zane, X. Zhao, “A low-power, self-tuning resonant driver for generating sinusoidal pulse trains 
+with piezoelectric element loads,” Proc. IEEE Workshop on Control and Modeling for Power Electronics, 
+COMPEL 2014, Santander, Spain, Jun. 2014, pp. 1-5. 
+[33] F. Azcondo, R. Zane, D. Maksimovic, D. Costinett, “A framework to share courses among universities: The case 
+of a course on power electronics for electric vehicles,” Tecnologias Aplicadas a la Ensenanza de la Electronica 
+(Technologies Applied to Electronics Teaching) (TAEE), Spain, 11-13 Jun. 2014, pp. 1 – 8.  
+[34] W. Chen, K. Kennedy, D. Seltzer, R. Zane, L. Corradini, “Isolated bidirectional DC/AC and AC/DC three-phase 
+power conversion using series resonant converter modules and a three-phase unfolder,” Proc. IEEE Workshop on 
+Control and Modeling for Power Electronics, COMPEL 2014, Santander, Spain, Jun. 2014, pp. 1-6. 
+[35] D. Costinett, K. Hathaway, M. Rehman, M. Evzelman, R. Zane, Y. Levron, D. Maksimovic, “Active balancing 
+system for electric vehicles with incorporated low voltage bus,” Proc. IEEE Appl. Power Electron. Conf. Expo, 
+Fort Worth, TX, Mar. 16-20, 2014, pp. 3230 – 3236. 
+[36] D. Costinett, R. Zane, D. Maksimovic, “Discrete time modeling of output disturbances in the dual active bridge 
+converter,” IEEE Appl. Power Electron. Conf. Expo, Fort Worth, TX, Mar. 16-20, 2014, pp. 1171 – 1177. 
+[37] D. Costinett, D. Maksimovic, R. Zane, A. Rodriguez, A. Vazquez, “Comparison of reverse recovery behavior of 
+silicon and wide bandgap diodes in high frequency power converters,” Proc. IEEE Workshop on Control and 
+Modeling for Power Electronics, COMPEL 2013, Salt Lake City, UT, Jun. 2013, pp. 1 – 8. 
+[38] D. Seltzer, R. Zane, “Feedback control of phase shift modulated half bridge circuits for zero voltage switching 
+assistance,” Proc. IEEE Workshop on Control and Modeling for Power Electronics, COMPEL 2013, Salt Lake 
+City, UT, Jun. 2013, pp. 1 – 7. 
+[39] H. Nguyen, D. Maksimovic, R. Zane, “On/off control of a modular DC-DC converter based on active-clamp 
+LLC modules,” Proc. IEEE Workshop on Control and Modeling for Power Electronics, COMPEL 2013, Salt 
+Lake City, UT, Jun. 2013, pp. 1 – 6. 
+[40] B. Jacobson, E. Holmansky, R. Zane, D. Seltzer, M. Uva, “Bidirectional power converters perform DC/DC, 
+AC/DC, and DC/AC functions in shipboard power systems,” in press, American Society of Naval Engineers 
+Annual Conference, Washington, D.C., Feb. 20 – 22, 2013. 
+[41] D. Costinett, D. Seltzer, R. Zane, D. Maksimovic, “Inherent volt-second balancing of magnetic devices in zero-
+voltage switched power converters,” in press, IEEE Appl. Power Electron. Conf. Expo, Long Beach, CA, Mar. 
+17-21, 2013. 
+[42] Hien Nguyen, R. Zane, D. Maksimovic, “Active clamp LLC resonant converter for point-of-load (POL) 
+applications,” in press, IEEE Appl. Power Electron. Conf. Expo, Long Beach, CA, Mar. 17-21, 2013. 
+[43] Z. Popovic, E. Falkenstein, R. Zane, “Low-power density wireless powering for battery-less sensors,” in Proc. 
+IEEE Radio and Wireless Symposium (RWS), Austin, TX, Jan 20 – 23, 2013, pp. 31 – 33.  
+[44] D. Seltzer, D. Bloomquist, R. Zane, D. Maksimovic, “Gain-scheduled control of multi-angle phase shift 
+modulated dual active bridge series resonant DC/DC converters,” in Proc. IEEE Workshop on Control and 
+Modeling for Power Electronics, COMPEL 2012, Kyoto, Japan, Jun. 2012, pp. 1 – 7. 
+[45] D. Costinett, R. Zane, D. Maksimovic, “Circuit-oriented modeling of nonlinear device capacitances in switched 
+mode power converters,” in Proc. IEEE Workshop on Control and Modeling for Power Electronics, COMPEL 
+2012, Kyoto, Japan, Jun. 2012, pp. 1 – 8. 
+[46] D. Costinett, R. Zane, D. Maksimovic, “Discrete-time small-signal modeling of a 1 MHz efficiency-optimized 
+dual active bridge converter with varying load,” in Proc. IEEE Workshop on Control and Modeling for Power 
+Electronics, COMPEL 2012, Kyoto, Japan, Jun. 2012, pp. 1 – 7. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+8 of 25 
+[47] D. Costinett, R. Zane, D. Maksimovic, “Automatic voltage and dead time control for optimal efficiency in an 
+unregulated dual active bridge converter,” in Proc. IEEE Appl. Power Electron. Conf. Expo., Orlando, FL, Feb. 5 
+– 9, 2012, pp. 1104 – 1111. 
+[48] V. Lopez, A. Navarro-Crespin, C. Branas, F.J. Azcondo, R. Schnell, R. Zane, “Frequency control and phase 
+surveillance in resonant electronic ballast,” in Proc. IEEE Ind. Electron. Soc. Annual Conf. (IECON), Nov. 7 – 
+10, 2011, pp. 2929 – 2934. 
+[49] Q. Hu, R. Zane, “Off-line LED driver with bidirectional second stage for reduced energy storage,” in Proc. IEEE 
+Energy Conversion Congress and Exposition (ECCE 2011), Phoenix, AZ, Sep. 17 – 22, 2011, pp. 2302 – 2309. 
+[50] D. Seltzer, L. Corradini, D. Bloomquist, R. Zane, D. Maksimovic, “Small signal phasor modeling of dual active 
+bridge series resonant DC/DC converters with multi-angle phase shift modulation,” in Proc. IEEE Energy 
+Conversion Congress and Exposition (ECCE 2011), Phoenix, AZ, Sep. 17 – 22, 2011, pp. 2757 – 2764.  
+[51] L. Corradini, D. Seltzer, D. Bloomquist, R. Zane, D. Maksimovic, B. Jacobson, “Zero voltage switching 
+technique for bi-directional DC/DC converters,” in Proc. IEEE Energy Conversion Congress and Exposition 
+(ECCE 2011), Phoenix, AZ, Sep. 17 – 22, 2011, pp. 2215 – 2222. 
+[52] R. Schnell, R. Zane, F. J. Azcondo, “Improved performance of low frequency square wave ballasts using soft 
+saturation magnetic cores and digital control techniques,” in Proc. International Power Conversion and Drive 
+Conference (IPCDC), St. Petersburg, Russia, June 8 – 9, 2011. 
+[53] V. Lopez, A. Navarro-Crespin, R. Schnell, C. Branas, F. Azcondo, R. Zane, “Inductor size reduction and phase 
+surveillance in resonant electronic ballast,” in Proc. International Power Conversion and Drive Conference 
+(IPCDC), St. Petersburg, Russia, June 8 – 9, 2011. 
+[54] L. Corradini, A. Bjeletic, R. Zane, D. Maksimovic, “Specifications-driven design space boundaries for point-of-
+load converters,” in Proc. IEEE Appl. Power Electron. Conf. Expo., Fort Worth, TX, Mar. 6 – 11, 2011, pp. 1166 
+– 1173.  
+[55] D. Costinett, H. Nguyen, R. Zane, D. Maksimovic, “GaN-FET based dual active bridge DC-DC converter,” in 
+Proc. IEEE Appl. Power Electron. Conf. Expo., Fort Worth, TX, Mar. 6 – 11, 2011, pp. 1425 – 1432. 
+[56] T. Paing, R. Zane, “Design and optimization of adaptive non-linear piezoelectric energy harvester,” in Proc. 
+IEEE Appl. Power Electron. Conf. Expo., Fort Worth, TX, Mar. 6 – 11, 2011, pp. 412 – 418. 
+[57] D. Costinett, E. Falkenstein, R. Zane, Z. Popovic, “RF-powered variable duty cycle wireless sensor,” in Proc, 
+IEEE European Microwave Conference, Paris, France, Sep. 28 – 30, 2010, pp. 41 – 44.  
+[58] R. Schnell, R. Zane, “HID lamp driver with phase controlled resonant-mode ignition detection and fast transition 
+to LFSW warm-up mode,” in Proc. IEEE Workshop on Control and Modeling for Power Electronics, COMPEL 
+2010, Boulder, CO, Jun. 2010, pp. 1 – 8. 
+[59] Q. Hu, R. Zane, “A 0.9 PF LED driver with small LED current ripple based on series-input digitally-controlled 
+converter modules,” in Proc. IEEE Appl. Power Electron. Conf. Expo., Palm Springs, CA, Feb. 21 – 25, 2010, 
+pp. 2314 – 2320. 
+[60] L. Corradini, R. Zane, D. Maksimović, “Fully Digital Hysteretic Modulator for DC-DC Switching Converters,” 
+in press IEEE Energy Conversion Congress and Exposition, San Jose, CA, Sep. 2009, pp. 3312 – 3319. 
+[61] Q. Hu, R. Zane, “LED drive circuit with series input connected converter cells operating in continuous 
+conduction mode,” in Proc. IEEE Appl. Power Electron. Conf. Expo., Washington, DC, Feb. 2009, pp. 1511 – 
+1517. 
+[62] J. Morroni, R. Zane, D. Maksimovic, “Robust adaptive tuning of digitally controlled switched-mode power 
+supplies,” in Proc. IEEE Appl. Power Electron. Conf. Expo., Washington, DC, Feb. 2009, pp. 240 – 246. 
+[63] T. Paing, E. Falkenstein, R. Zane, Z. Popovic, “Custom IC for ultra-low power RF energy harvesting,” in Proc. 
+IEEE Appl. Power Electron. Conf. Expo., Washington, DC, Feb. 2009, pp. 1239 – 1245. 
+[64] R. Schnell, J. Diaz, Ch. Branas, F. Azcondo, R. Zane, “Digital phase control of an integrated resonant ignitor 
+using a soft saturation core for high intensity discharge lamps,” in Proc. IEEE Appl. Power Electron. Conf. Expo., 
+Washington, DC, Feb. 2009, pp. 1526 – 1531. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+9 of 25 
+[65] J. Patterson, R. Zane, “Series input modular architecture for driving multiple LEDs,” in Proc. IEEE Power 
+Electron. Specialists Conf, Athens, Greece, June 2008, pp. 2650 – 2656. 
+[66] J. Morroni, R. Zane, D. Maksimovic, “An online phase margin monitor for digitally controlled switched-mode 
+power supplies,” in Proc. IEEE Power Electron. Specialists Conf, Athens, Greece, June 2008, pp. 859 – 865. 
+[67] J. Morroni, R. Zane, D. Maksimovic, “Adaptive tuning of digitally controlled switched mode power supplies 
+based on desired phase margin,” in Proc. IEEE Power Electron. Specialists Conf, Athens, Greece, June 2008, pp. 
+1250 – 1256.  
+[68] M. Doshi, R. Zane, “Reconfigurable and fault tolerant phase shifted modulator for luminance control of LED 
+light sources,” in Proc. IEEE Power Electron. Specialists Conf, Athens, Greece, June 2008, pp. 4185 – 4191. 
+[69] T. Paing, J. Morroni, A. Dolgov, J. Shin, J. Brannan, R. Zane, Z. Popovic, “Wirelessly-powered wireless sensor 
+platform,” in Proc. IEEE European Microw. Conf., Munich, Germany, Oct. 2007, pp. 999 – 1002. 
+[70] F. Javier Diaz, F. J. Azcondo, R. Zane, “Digitally controlled low frequency square wave electronic ballast with 
+resonant ignition and power loop,” in Proc. IEEE Ind. Appl. Soc. Ann. Meeting, New Orleans, LA, Sept. 2007, 
+pp. 826 – 832. 
+[71] F. Javier Diaz, F. J. Azcondo, Ch. Branas, R. Casanueva, R. Zane, “Control of low frequency square-wave 
+electronic ballast with resonant ignition using a dsPIC30F2010,” in Proc. IEEE Int. Symp. Ind. Electron., Vigo, 
+Spain, Jun., 2007, pp. 3019 – 3024. 
+[72] J. Morroni, A. Dolgov, R. Zane, D. Maksimović, “Online health monitoring in digitally controlled power 
+converters,” in Proc. IEEE Power Electron. Specialists Conf., Orlando, FL, Jun. 2007, pp. 112 – 118. 
+[73] M. Shirazi, L. Corradini, R. Zane, P. Mattavelli, D. Maksimović, “Autotuning techniques for digitally controlled 
+point-of-load converters with wide range of capacitive loads,” in Proc. IEEE Appl. Power Electron. Conf. Expo., 
+Anaheim, CA, Feb. 2007, pp. 14 – 20. 
+[74] M. Doshi, R. Zane, “Digital Architecture for Driving Large LED Arrays with Dynamic Bus Voltage Regulation 
+and Phase Shifted PWM,” in Proc. IEEE Appl. Power Electron. Conf. Expo., Anaheim, CA, Feb. 2007, pp. 287 – 
+293. 
+[75] A. Dolgov, R. Zane, “Low-power wireless medical sensor platform,” in Proc. IEEE Eng. in Medicine and 
+Biology Soc. Ann. Conf., New York City, NY, Aug. 2006, pp. 2067 – 2070. 
+[76] Y. Zhang, R. Zane, D. Maksimović, “Dynamic loop analysis for modular masterless multi-phase dc-dc 
+converters,” in Proc. IEEE Workshop Comput. Power Electron. (COMPEL), Troy, NY, Jul. 2006, pp. 22 – 28. 
+[77] X. Zhang, Y. Zhang, R. Zane, D. Maksimović, “Design and implementation of a wide-bandwidth digitally 
+controlled 16-phase converter,” in Proc. IEEE Workshop Comput. Power Electron. (COMPEL), Troy, NY, Jul. 
+2006, pp. 106 – 111. 
+[78] T. Carosa, R. Zane, D. Maksimović, “Implementation of a 16 phase digital modulator in a 0.35um process,” in 
+Proc. IEEE Workshop Comput. Power Electron. (COMPEL), Troy, NY, Jul. 2006, pp. 159-165. 
+[79] D. Maksimović, R. Zane, “Small-signal discrete-time modeling of digitally controlled DC-DC converters,” in 
+Proc. IEEE Workshop Comput. Power Electron. (COMPEL), Troy, NY, Jul. 2006, pp. 231 – 235. 
+[80] B. Miao, R. Zane, D. Maksimović, “FPGA-based digital network analyzer for digitally controlled SMPS,” in 
+Proc. IEEE Workshop Comput. Power Electron. (COMPEL), Troy, NY, Jul. 2006, pp. 240 – 245. 
+[81] A. Dolgov, B. Miao, R. Zane, D. Maksimović, “GUI-based laboratory architecture for teaching and research in 
+digital control of SMPS,” in Proc. IEEE Workshop Comput. Power Electron. (COMPEL), Troy, NY, Jul. 2006, 
+pp. 236 – 239. 
+[82] T. Carosa, R. Zane, D. Maksimović, “Digital multiphase modulator – A power D/A perspective,” in Proc. IEEE 
+Power Electron. Specialists Conf., Jeju, South Korea, Jun. 2006, pp. 1 – 6. 
+[83] T. Paing, R. Zane, “Resistor emulation approach to low-power energy harvesting,” in Proc. IEEE Power 
+Electron. Specialists Conf., Jeju, South Korea, Jun. 2006, pp. 1 – 7. 
+[84] M. Weimer, T. Paing, R. Zane, “Remote area wind energy harvesting for low-power autonomous sensors,” in 
+Proc. IEEE Power Electron. Specialists Conf., Jeju, South Korea, Jun. 2006, pp. 1 – 5. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+10 of 25 
+[85] Y. Zhang, R. Zane, D. Maksimović, “System modeling and digital control in modular masterless multiphase dc-
+dc converters,” in Proc. IEEE Power Electron. Specialists Conf., Jeju, Korea, Jun. 2006, pp. 1 – 7. 
+[86] Y. Zhang, X. Zhang, R. Zane, D. Maksimović, “Wide-bandwidth control for multi-phase converters,” in Proc. 
+IEEE Power Electron. Specialists Conf., Jeju, Korea, Jun. 2006, pp. 1 – 7. 
+[87] M. Doshi, R. Zane, F. Azcondo, “Low-frequency square-wave drive for large screen LCD-TV backlighting 
+systems,” in Proc. Soc. Inform. Display (SID) Int. Symp. Expo., Jun. 2006, San Francisco, CA, pp. 1238 – 1241. 
+[88] F. Azcondo, F. J. Diaz, R. Casanueva, C. Branas, R. Zane, “Low-frequency square-wave electronic ballast with 
+resonant ignition using digital mode and power control,” in Proc. IEEE Appl. Power Electron. Conf. Expo., 
+Dallas, TX, Mar. 2006, pp. 1044 – 1050. 
+[89] B. Miao, R. Zane, D. Maksimović, “Automated digital controller design for switching converters,” in Proc. IEEE 
+Power Electron. Specialists Conf., Recife, Brazil, Jun. 2005, pp. 2729 – 2735. 
+[90] Y. Zhang, R. Zane, D. Maksimović, “Current sharing in digitally controlled masterless multiphase DC-DC 
+converters,” in Proc. IEEE Power Electron. Specialists Conf., Recife, Brazil, Jun. 2005, pp. 2722 – 2728. 
+[91] R. Zane, Z. Popovic, “Efficient broadband RF energy harvesting for wireless sensors,” in Proc. Govern. 
+Microcircuit Appl. Critical Tech. Conf. (GOMACTech), Las Vegas, NV, Apr. 2005, pp. 1 – 4. 
+[92] M. Doshi, J. Bian, R. Zane, F.J. Azcondo, “Low Frequency Architecture for Multi-Lamp CCFL Systems with 
+Capacitive Ignition,” in Proc. IEEE Appl. Power Electron. Conf. Expo., Austin, TX, Mar. 2005, vol. 2, pp. 1072 – 
+1078. 
+[93] Y. Yin, R. Zane, “Integrated Results for Dual Low Voltage IC Based High and Low Side Gate Drive,” in Proc. 
+IEEE Appl. Power Electron. Conf. Expo., Austin, TX, Mar. 2005, vol. 2, pp. 759 – 765. 
+[94] Y. Yin, M. Shirazi, R. Zane, “Fully Integrated Ballast Controller with Digital Phase Control,” in Proc. IEEE 
+Appl. Power Electron. Conf. Expo., Austin, TX, Mar. 2005, vol. 2, pp. 1065 – 1071. 
+[95] B. Miao, R. Zane, D. Maksimović, “Practical On-Line Identification of Power Converter Dynamic Responses,” in 
+Proc. IEEE Appl. Power Electron. Conf. Expo., Austin, TX, Mar. 2005, vol. 2, pp. 57 – 62. 
+[96] B. Miao, R. Zane, D. Maksimović, “Detection of Instability and Adaptive Compensation of Digitally Controlled 
+Switched Mode Power Supplies,” in Proc. IEEE Appl. Power Electron. Conf. Expo., Austin, TX, Mar. 2005, vol. 
+2, pp. 63 – 69. 
+[97] F.J. Azcondo, R. Zane, Ch. Brañas, “Design of Resonant Inverters for Optimal Efficiency over Lamp Life in 
+Electronic Ballast with Phase Control,” in Proc. IEEE Appl. Power Electron. Conf. Expo., Austin, TX, Mar. 
+2005, vol. 2, pp. 1053 – 1059. 
+[98] R. Zane, B. Miao, D. Maksimović, “Active System Identification of a DC-DC Converter Using Digital Control,” 
+in Proc. Amer. Inst. Aeronaut. Astronaut. (AIAA) 2nd Int. Energy Convers. Eng. Conf. (IECEC), Providence, RI, 
+Aug. 2004, pp. AIAA 2004 – 5731. 
+[99] Y. Yin, R. Zane, “Digital Controller Design for Electronic Ballasts with Phase Control,” in Proc. IEEE Power 
+Electron. Specialists Conf., Aachen, Germany, Jun. 2004, pp. 1855 – 1860. 
+[100] B. Miao, R. Zane, D. Maksimović, “A modified cross-correlation method for system identification of power 
+converters with digital control,” in Proc. IEEE Power Electron. Specialists Conf., Aachen, Germany, Jun. 2004, 
+pp. 3728 – 3733. 
+[101] D. Maksimović, R. Zane, R. Erickson, “Impact of digital control in power electronics,” in Proc. IEEE Int. Symp. 
+Power Semicond. Dev. ICs, Kitakyushu, Japan, May 2004, pp. 13 – 22. 
+[102] S. Johnson, Y. Yin, R. Zane, “Custom spectral shaping for EMI reduction in electronic ballasts,” in Proc. IEEE 
+Appl. Power Electron. Conf. Expo., Anaheim, CA, Feb. 2004, pp. 137 – 142. 
+[103] Y. Yin, R. Zane, “Dual low voltage IC based high and low side gate drive,” in Proc. IEEE Appl. Power Electron. 
+Conf. Expo., Anaheim, CA, Feb. 2004, pp. 1033 – 1038. 
+[104] Y. Zhang, A. Prodic, R. Zane,  D. Maksimović, “On-line calibration of lossless current sensing,” in Proc. IEEE 
+Appl. Power Electron. Conf. Expo., Anaheim, CA, Feb. 2004, pp. 1345 – 1350. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+11 of 25 
+[105] Y. Yin, R. Zane, J. Glaser, R. Erickson, “Direct modeling of envelope dynamics in resonant inverters,” in Proc. 
+IEEE Power Electron. Specialists Conf., Acapulco, Mexico, Jun. 2003, pp. 1313 –1318. 
+[106] Y. Yin, R. Zane, J. Glaser, R. Erickson, “Dynamic analysis of frequency-controlled electronic ballasts,” in Proc. 
+IEEE Ind. Appl. Soc. Ann. Meeting, Pittsburgh, PA, Oct. 2002, vol. 1, pp. 685 – 691. 
+[107] R. Zane, D. Maksimović, “A mixed-signal ASIC power-factor-correction (PFC) controller for high frequency 
+switching rectifiers,” in Proc. IEEE Power Electron. Specialists Conf., Charleston, SC, Jun. 1999, pp. 117 – 122. 
+[108] R. Zane, D. Maksimović, “Frequency scalable non-linear waveform generator for mixed-signal power-factor-
+correction IC controller,” in Proc. IEEE Custom Integrated Circuits Conf., San Diego, CA, May 1999, pp. 609 – 
+612. 
+[109] R. Zane, D. Maksimović, “Modeling of high-power-factor rectifiers based on switching converters with 
+nonlinear-carrier control,” in Proc. IEEE Power Electron. Specialists Conf., Baveno, Italy, Jun. 1996, pp. 1105 – 
+1111. 
+[110] R. Zane, D. Maksimović, “Nonlinear-carrier control for high-power-factor rectifiers based on flyback, Cuk or 
+SEPIC converters,” in Proc. IEEE Appl. Power Electron. Conf. Expo., San Jose, CA, Mar. 1996, pp. 814 – 820. 
+Patents, Issued or allowed 
+[1] 
+R. Zane, D. Seltzer, D. Maksimovic, B. Jacobson, D. Desrosiers, “Multi-mode control for a dc-to-dc converter,” 
+US patent application filed Jun. 2015, allowed Jan 2017. 
+[2] 
+R. Zane, D. Seltzer, D. Maksimovic, B. Jacobson, D. Desrosiers, “Zero voltage switching operation of a 
+minimum current trajectory for a dc-to-dc converter,” US patent application filed Jun 2015, allowed Jan 2017. 
+[3] 
+D. Maksimovic, R. Zane, A. Carosa, “Multi-phase modulator,” US patent #8,384,365, Feb. 2013. 
+[4] 
+C. Hunt, R. Zane, R. Herring, “System and apparatus for cathodoluminescent lighting,” US patent #8,330,376, 
+Dec. 2012. 
+[5] 
+C. Hunt, R. Zane, R. Herring, “System and apparatus for cathodoluminescent lighting,” US patent #8,102,122, 
+Jan. 2012. 
+[6] 
+J. Morroni, D. Maksimovic, R. Zane, “Monitoring and control of power converters,” US patent #7,956,592, Jun. 
+2011. 
+[7] 
+R. Zane, Z. Popovic, “Systems and methods for receiving and managing power in wireless devices,” US patent 
+#7,956,572, Jun. 2011. 
+[8] 
+R. Zane, M. Doshi, “Systems and methods for driving multiple solid-state light sources,” US patent #7,948,468, 
+May 2011. 
+[9] 
+C. Hunt, R. Zane, R. Herring, “System and apparatus for cathodoluminescent lighting,” US patent #7,834,553, 
+Nov. 2010. 
+[10] R. Zane, “Capacitive coupling to aid ignition in discharge lamps,” US Patent #7,764,023. 
+[11] R. Zane, D. Maksimović, Y. Zhang, “Active current sharing multiphase DC-DC converter,” US Patent  
+#7,479,772, Jan. 2009. 
+[12] L. Stevanovic, R. Zane, “System and method for regulating resonant inverters,” US patent #7,262,981, Aug. 
+2007. 
+[13] J. Glaser, R. Zane, “Dimmable self-oscillating electronic ballast for fluorescent lamp,” US patent #6,815,908, 
+Nov. 2004. 
+[14] J. Glaser, R. Zane, “Non-synchronous control of self-oscillating resonant converters,” US Patent #6,407,514, Jun. 
+2002. 
+Patents, Filed, Pending 
+[1] 
+Y. Liang, M. Evzelman, M. Demers, J. Alvarado, A. Hosoi, K. Iagnemma, R. Zane, “Solid state pump using 
+electro-rheological fluid,” US patent application filed, Oct 2016. 
+[2] 
+R. Bohm, T. Gardner, M. Halling, B. Riar, R. Zane, “Concrete embedded wireless power transfer coils,” US 
+provisional patent application filed, Sep. 2016. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+12 of 25 
+[3] 
+R. Zane, D. Seltzer, D. Maksimovic, B. Jacobson, D. Desrosiers, “Assisted zero voltage switching for a dc-to-dc 
+converter,” US patent application filed, Jun. 2015. 
+[4] 
+R. Zane, M. Evzelman, D. Costinett, D. Maksimovic, Y. Levron, R. Anderson, K. Smith, M. Trimboli, G. Plett, 
+“Battery Control,” US patent filed Jan. 2015. 
+[5] 
+B. Jacobson, R. Zane, D. Seltzer, “High efficiency zero-voltage switching (ZVS) assistance circuit for power 
+converter,” US patent application filed, Aug. 2013. 
+[6] 
+D. Costinett, D. Maksimovic, R. Zane, “Automatic voltage and dead time control in a dual active bridge 
+converter,” US patent application filed, Feb. 2012. 
+Invited Presentations and Seminars 
+[1] 
+R. Zane, invited speaker and panelist, Transportation Solutions for Improved Air Quality, The Governor’s Utah 
+Energy Development Summit, Salt Lake City, UT, May 2017. 
+[2] 
+R. Zane, “A sustainable (electrified) future for roadway transportation,” Clean Energy Institute invited seminar, 
+University of Washington, Seattle, WA, Apr. 2017. 
+[3] 
+R. Zane, “Charging infrastructure for electric vehicles,” Rocky Mountain Power Electric Vehicle Technology 
+Workshop, Salt Lake City, UT, Jan. 2017. 
+[4] 
+R. Zane, “Electric roadways,” invited guest interview, Cool Science Radio hosted by Lynn Ware Peek and Chris 
+Cherniak, KPCW NPR radio, Dec. 2016. 
+[5] 
+R. Zane, “Modular battery systems,” IEEE ESARS / International Transportation Electrification Conference, 
+Toulouse, France, Nov 2-4, 2016. 
+[6] 
+R. Zane, “Technologies to accelerate electric vehicle adoption,” SAGE Westin Roundtable Series, University of 
+Wisconsin-Madison, WI, Nov. 2016. 
+[7] 
+R. Zane, “Wireless EV charging systems for electrified roadways,” Electric Vehicle Technology Conference 
+(EVTC), Cocoa, FL, Oct. 2016. 
+[8] 
+R. Zane, “Center for Sustainable Electrified Transportation (SELECT),” invited presentation, Federal Highway 
+Administration (FHWA), Salt Lake City, UT, Aug. 2016. 
+[9] 
+R. Zane, “Electrification: Sustainability for transportation systems,” invited presentation, Ben-Gurion University 
+of the Negev, Ben-Gurion, Israel, Jul 2016. 
+[10] R. Zane, “Electrification: Towards a sustainable future for our transportation system,” USU Sunrise Session, Salt 
+Lake City, UT, Jan. 2016 
+[11] R. Zane, “Sustainable electrified transportation,” Institute of Transportation Engineers (ITE) Annual Conference, 
+Salt Lake City, UT, Jan. 2016. 
+[12] R. Zane, “Center for Sustainable Electrified transportation Systems (SELECT),” USTAR confluence annual 
+conference, Salt Lake City, UT, Sept. 2015. 
+[13] R. Zane, “Rush Hour. Transportation solutions for a sustainable urban Salt Lake,” invited panelist, public event at 
+The Leonardo, Salt Lake City, Aug. 2015. 
+[14] R. Zane, “USTAR advanced transportation institute,” USTAR confluence annual conference, Salt Lake City, UT, 
+Nov. 3-4, 2014. 
+[15] R. Zane, “Vehicle power management: research advances for cost and weight reduction,” Battery Show and 
+Electric & Hybrid Vehicle Technology Conference, Novi, MI, Sep. 15 – 17, 2014. 
+[16] R. Zane, “Research directions at the USU Power Electronics Lab (UPEL),” invited presentation, University of 
+Cantabria, Santander, Spain, Jun. 26, 2014. 
+[17] R. Zane, “Advances in electrified transportation and power electronics at the USU Power Electronics Lab 
+(UPEL),” USU Foundation Board Meeting, Park City, May 7, 2014. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+13 of 25 
+[18] R. Zane, “High efficiency energy conversion for next generation energy systems and electronic loads,” National 
+Academy of Engineering (NAE), EU-US Frontiers of Engineering (FOE) Symposium, Beckman Center, Irvine, 
+CA, Nov. 3 – 5, 2011. 
+[19] R. Zane, Z. Popovic, “Low power RF energy harvesting,” invited presentation, MIT MTL/MITEI Workshop on 
+Next Generation u-Energy Systems, Cambridge, MA, Dec. 2010. 
+[20] Z. Popovic, R. Zane, “Integrated design of power management and RF powering,” invited presentation, Energy 
+challenges in RFIDs and wireless sensors, European microwave conference, Paris, France, Sep. 2010. 
+[21] R. Zane, D. Maksimovic, “Digital control of SMPS,” invited industry short course, Analog Devices, Inc., 
+Shanghai, China and San Jose, CA, Aug. 2010. 
+[22] R. Zane, “Energy harvesting & power electronics,” invited presentation and panel session on energy harvesting, 
+IEEE Appl. Power Electron. Conf. Expo., Palm Springs, CA, Feb. 2010. 
+[23] R. Zane, Z. Popovic, “RF energy harvesting: what, where, why and how,” invited presentation, IDTechEx Energy 
+Harvesting & Storage USA, Denver, CO, Nov. 2009. 
+*Hosted an invited laboratory tour for the conference at UCB. 
+[24] R. Zane, “Efficient low power energy harvesting for miniature wireless devices,” invited presentation, CMOS 
+Emerging Technologies Workshop, Vancouver, BC, Sep. 2009. 
+[25] R. Zane, “Efficient power management for low power energy harvesting,” invited presentation, Darnell 
+nanoPower Forum, San Jose, CA, May 2009. 
+[26] R. Zane, D. Maksimovic, J. Morroni, “Digital control of SMPS,” invited industry short course, Lockheed Martin, 
+Grand Prairie, TX, Mar. 2009. 
+[27] R. Zane, “Low Power Energy Harvesting -- Making the Difference with Efficient Power Management,” invited 
+presentation, Future of DC-DC Conversion, IEEE Applied Power Electronics Specialists Conference (APEC), 
+Washington D.C., Feb. 2009. 
+[28] R. Zane, “Towards externally powered telemetric chronic neural implants,” invited seminar as part of the NSF 
+international collaboration travel grant, Towards a Dynamic Brain Clamp, Federal University of Ceara, Sobral, 
+Brazil, Jan 2009. 
+[29] R. Zane, “Low power energy harvesting for wireless sensors,” Grainger invited seminar series, University of 
+Illinois, Champaign-Urbana, Dec. 2008.  
+[30] R. Zane, “Digital control in SMPS,” invited industry short course, On-semiconductor, Toulouse, France, May 
+2008. 
+[31] Z. Popovic, R. Zane, “RF energy harvesting,” invited presentation, Darnell nanoPower Forum, San Jose, CA, 
+Jun. 2008. 
+[32] R. Zane, “Digital auto-tuning and adaptive techniques for SMPS,” invited seminar, IEEE PELS-IES joint 
+technical session, Santander, Spain, Apr. 2008. 
+[33] J. Shin, R. Zane, Z. Popovic, “Batteryless microPower sensors for context aware technologies,” invited 
+presentation, RESNA 2007, sponsored by NSF Emerging Technology – Tools for the Future, Phoenix, AZ, Jun. 
+2007. 
+[34] R. Zane, Z. Popovic, “Efficient low power RF energy harvesting and power management,” invited presentation, 
+Darnell nanoPower Forum, San Jose, CA, Jun. 2007. 
+[35] R. Zane, “CAREER: Modeling, control and design of energy-efficient lighting systems,” invited presentation, 
+NSF 2004 Grantees workshop, Reno, NV, Apr. 2007. 
+[36] R. Zane, D. Maksimović, “Digital control of switch-mode power supplies,” on-site invited industry short course, 
+Analog Devices Inc., San Jose, CA, Jul. 2006. 
+[37] R. Zane, D. Maksimović, “Digital control of switched-mode power supplies,” professional educational seminar, 
+IEEE Applied Power Electronics Conference and Exposition, Dallas, TX, Mar. 2006. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+14 of 25 
+[38] R. Zane, Z. Popovic, “Harvesting ambient energy for low power sensors,” invited presentation, IEEE Presents 
+Innovation and Technology in Colorado, Colorado Technology Week, Denver, CO, Oct. 2005. 
+[39] R. Zane, Z. Popovic, “Batteryless MicroPower Sensors for Context Aware Technologies,” invited presentation, 
+Annual Coleman Institute Meeting, Oct. 2005. 
+[40] R. Zane, D. Maksimović, B. Miao, “Active identification and automated digital controller design in DC-DC 
+power converters,” invited presentation, Annual AFRL Space Power Workshop, Apr. 2005. 
+[41] T. Zhao, J. Israel, R. Zane, Z. Popovic, “Electronics for wireless neural sensors,” poster presentation, Coleman 
+Institute Annual Conference, Oct. 2004. 
+[42] R. Zane, “Digital control in switch mode power supplies,” on-site invited industry tutorial, Artesyn Technologies, 
+Framingham, MA, May 2004. 
+[43] D. Maksimović, A. Prodic, R. Zane, “Digital control of high-frequency switching power converters,” professional 
+educational seminar, IEEE Applied Power Electronics Conference and Exposition, Anaheim, CA, Feb. 2004. 
+[44] D. Restrepo, D. Finch, R. Zane, A. Sharp, “CEMS-based chronic brain implants,” poster presentation, Coleman 
+Institute Annual Conference, Oct. 2003. 
+[45] R. Zane, D. Maksimović, “Custom IC blocks for enabling digital control in switching power converters,” invited 
+lecture series, IEEE Solid-State Circuits Society, Denver chapter, Jul. 2003. 
+[46] R. Zane, D. Maksimović, “Digital control in switching converters,” Annual AFRL Space Power Workshop, Apr. 
+2003. 
+[47] D. Restrepo, D. Finch, R. Zane, M. Stowell, A. Sharp, “CEMS-based chronic brain implants,” poster 
+presentation, Coleman Institute Annual Conference, October 2002. 
+[48] D. Maksimović, R. Zane, “Scalable digital control for switching power converters,” invited presentation, Intel 
+Technology Symposium, Seattle, Aug. 2002. 
+[49] R. Zane, D. Maksimović “Intelligent control in power converters and systems” DARPA workshop on integrated 
+smart power, Arlington, VA, Nov. 2002. 
+RESEARCH GRANTS & CONTRACTS 
+Research Grants and Contracts Awarded 
+ 
+USTAR, “Thermal management test lab for high reliability energy storage systems,” USU total: $694,514. Role: PI. 
+May 2017 – Dec 2017. Investigators: R. Zane, (PI, USU). 
+ 
+NASA, “Active battery management system with physics based life modeling,” EP Systems prime contractor, 
+subcontract to USU. USU total: $29,252. Role: PI. Jun 2017 – Nov 2017. Investigators: R. Zane (PI, USU). 
+ 
+Raytheon Integrated Defense Systems, “Power system control,” USU total: $25,522. Role: PI. May 2017 – Sep 2017. 
+Investigators: R. Zane (PI, USU). 
+ 
+Electric Power Systems LLC, “Development of a passive battery management system for a silicon nanowire battery,” 
+USU total: $15,078. Role: PI. Mar 2017 – Aug 2017. Investigators: R. Zane (PI, USU). 
+ 
+Department of Energy, “WestSmartEV: Western Smart Plug-in Electric Vehicle Community Partnership,” Rocky 
+Mountain Power (RMP) prime contractor, subcontract to USU. Role: Co-PI. Jan 2017 - Dec 2019. USU total: 
+$596,824. Investigators: Z. Song (PI, USU), R. Zane (Co-PI, USU). 
+ 
+Raytheon Integrated Defense Systems, “Analysis and design of series resonant converter (SRC) prototype with digital 
+control,” USU total $149,998. Role: PI, Jan 2017 – Dec 2017. Investigators: R. Zane (PI, USU). 
+ 
+Colorado DOT, “Phase 1: Planning study for electric roadway pilot project,” AECOM prime contractor, subcontract to 
+USU. Role: PI. Jan 2017 – May 2017. USU Total: $90k. R. Zane (PI, USU). 
+ 
+
+-----
+R. Zane – CV  
+Dec 2017 
+15 of 25 
+USTAR Engineering Research Triangle, “Automated monitoring and control of electric vehicle charging 
+infrastructure,” USU total: $40k. Role: Co-PI. Jan 2017 – Dec 2017. Investigators: M. Parvania (UofU), R. Zane 
+(USU), J. Salmon (BYU). 
+ 
+NIDILRR, “Energy management system for battery powered mobility devices based on wireless power transfer concept 
+to promote community living and participation,” USU total: $599,077. Role: Co-PI. Sep 2016 – Sep 2019. 
+Investigators: Z. Pantic (PI, USU), R. Zane (Co-PI, USU), C. Bodine (Co-PI, UC-Denver), C. Coopmans (Co-PI, 
+USU). 
+ 
+Raytheon Integrated Defense Systems, “CHIPS: research, magnetics design, and breadboard,” USU total $73,080. Role: 
+PI, Oct 2016 – Mar 2017. Investigators: R. Zane (PI, USU). 
+ 
+ONR, “Robust plug-and-play expeditionary battery system,” Utah State University (USU). Total: $737,217. Role: PI, 
+Sep 2016 – Dec 2018. Investigators: R. Zane (PI, USU), K. Smith (Co-PI, NREL), S. Trimboli (Co-PI, UCCS), D. 
+Maksimovic (Co-PI, CU-Boulder), J. Pinon (Co-PI, HDS).  
+ 
+FTA Lo-No, “Utah’s Public/Public/Private Partnership for the Deployment of Electric Bus Technology: Downtown to 
+the University Connection,” Utah Transit Authority prime contract, subcontract to USU. USU total: $78k. 
+Investigators: R. Zane (PI, USU), Z. Song (Co-PI, USU), J. Quinn (Co-PI, CSU). 
+ 
+Raytheon Integrated Defense Systems, “Analysis and design of series resonant converter (SRC) prototype with digital 
+control,” USU total $149,044. Role: PI, Jun 2016 – Dec 2016. Investigators: R. Zane (PI, USU). 
+ 
+Department of Energy (DOE), ARPA-E AMPED, “Hybrid energy storage demonstration plus-up, advanced control of 
+large battery packs,” Utah State University (USU). Total: $500k. 
+ 
+Role: PI, Jan. 2016 – Mar. 2017. 
+ 
+Investigators: R. Zane (PI, USU), S. Trimboli (UCCS), D. Maksimovic (UCB), K. Smith (NREL). 
+ 
+USTAR, “Center for Sustainable Electrified Transportation Systems (SELECT),” Utah State University (USU). Total: 
+$750k. Role: PI, Jul. 2015 – Jun. 2016. Investigators: R. Zane (PI, USU), Z. Pantic (USU), J. Quinn (USU), R. 
+Gerdes (USU), R. Sharma (USU), P. Barr, (USU). 
+ 
+Department of transportation, “Advance Radar based low ground clearance vehicle detection and warning system,” 
+Intelligent Automation Inc (IAI) prime contractor, subcontract to USU. Role: PI, Sep. 2015 to Mar 2016. USU 
+Total: $10,350. 
+ 
+Peery Foundation, “Bidirectional three phase power inverter for dual purpose grid tied and grid forming applications,” 
+USU total: $150,000. 
+ 
+ Role: PI, Jan 2015 – Dec 2017. Investigators: R. Zane (PI, USU). 
+ 
+Utah State University, “Electric Vehicle and Roadway (EVR) Research Facility and Test Track,” R. Zane received 
+$2.4M award for EVR facility construction and selected as inaugural EVR Director. Construction Aug 2014 – Mar 
+2015. 
+ 
+Raytheon Integrated Defense Systems, “Analysis and design of series resonant converter (SRC) prototype with digital 
+control,” USU total $91,927. Role: PI, Jan 2015 – Dec 2015. Investigators: R. Zane (PI, USU). 
+ 
+Department of Energy (DOE), ARPA-E AMPED, “Tech-to-market plus-up, advanced control of large battery packs,” 
+Utah State University (USU). Total: $170k. 
+ 
+Role: PI, Jan. 2015 – Dec. 2015. 
+ 
+Investigators: R. Zane (PI, USU), S. Trimboli (UCCS), D. Maksimovic (UCB), K. Smith (NREL), D. 
+Anderson (Ford). 
+ 
+Office of Naval Research, “Phase I: Hybrid Energy Storage Modules (HESM), Advanced Bi-Directional Power 
+Conversion (BDPC) System,” subcontract to Raytheon, USU Total: $110K. 
+ 
+Role: PI, Aug 2014 – Jul 2015. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+16 of 25 
+ 
+ 
+Investigators: R. Zane (PI, USU). 
+Department of Transportation, “A Novel Multi-Sensor Wireless Network for Bridge Structural Health Monitoring,” 
+subcontract to Intelligent Automation, Inc. (IAI), USU total: $25K. Jan 2014 – May 2015. 
+ 
+ 
+Investigators: R. Zane (PI, USU). 
+National Institute on Disability Rehabilitation Research, RERC-ACT, “Wireless power system for socially interactive 
+robots,” subcontract to University of Colorado, USU total: $106K. Nov. 2013 – Dec. 2014. 
+ 
+Investigators: R. Zane (PI, USU), Z. Pantic (USU), R. Baktur (USU). 
+ 
+Raytheon Integrated Defense Systems, “High Power Series Resonant Converter (SRC) 32 kW prototype,” USU total 
+$99K. May 2013 – Dec. 2013. 
+ 
+ 
+Investigators: R. Zane (PI, USU). 
+Raytheon Integrated Defense Systems, “High Power Series Resonant Converter (SRC) Proof of Concept,” USU total 
+$30K. May 2013 – Dec. 2013. 
+ 
+ 
+Investigators: R. Zane (PI, USU). 
+DARPA, “Hydraulic actuation for micro-scale robots (HAMR),” subcontract to MIT, USU total: $252K. Role: Co-PI, 
+Mar 2013 – Aug 2015. 
+ 
+ 
+Investigators: A. Hosoi (PI, MIT), K. Iagnemma (MIT), R. Zane (USU). 
+ 
+Department of Energy (DOE), ARPA-E AMPED, “Robust cell-level modeling and control of large battery packs,” Utah 
+State University (USU) lead, team members: National Renewable Energy Labs (NREL), University of Colorado 
+Boulder and Colorado Springs, Ford. Total: $3.4M. 
+ 
+Role: PI, Jan. 2013 – Dec. 2015. 
+ 
+Investigators: R. Zane (PI, USU), S. Trimboli (UCCS), D. Maksimovic (UCB), K. Smith (NREL), D. 
+Anderson (Ford). 
+ 
+Office of Naval Research, “Support integration and test of power management controller (PMC) for Phase II compact 
+power conversion technology (CPCT) program,” subcontract to Raytheon, USU Total: $167K. 
+ 
+Role: PI, Aug 2012 – Apr 2013. 
+ 
+ 
+Investigators: R. Zane (PI, USU). 
+Department of Energy (DOE), ARPA-E Solar ADEPT, “Wafer-Level Sub-Module Integrated DC/DC Converter,” CU-
+Boulder (lead), team members Nuvotronics LLC, National Renewable Energy Labs (NREL), Total: $1.3M. 
+ 
+Role: Co-PI, Nov. 2011 – Oct. 2014. 
+ 
+Investigators: D. Maksimovic (Program PI, UCB), Z. Popovic (Co-PI, UCB), R. Zane (Co-PI, UCB), Jean 
+Marc Rollin (Co-PI, Nuvotronics), F. Patrick McCluskey (Co-PI, NREL). 
+ 
+Office of Naval Research, “Compact Power Conversion Technologies (CPCT) ONR Phase II: Bidirectional Power 
+Converter,” subcontract to Raytheon, Total: $542K. Program split between UCB and USU in 2012. 
+ 
+Role: PI, May 2011 – Dec 2012. 
+ 
+ 
+Investigators: R. Zane (PI, USU), D. Maksimovic (UCB). 
+Office of Naval Research, “Support on power converter controls: Compact Power Conversion Technologies (CPCT) 
+ONR Phase I PROGRAM,” subcontract to Raytheon, Total: $54K. 
+ 
+Role: PI, Jan 2010 – Jun 2010. 
+ 
+ 
+Investigators: R. Zane (PI, ECE, UCB), R. Erickson (ECE, UCB), D. Maksimovic (ECE, UCB). 
+Texas Instruments, “Power control and management for ultra high efficiency data servers,” $264K: 
+ 
+ 
+Role: Co-PI, Colorado Power Electronics Center (CoPEC), Jun 2010 – May 2013. 
+ 
+ 
+Investigators: D. Maksimovic (PI, ECE, UCB), R. Zane (Co-PI, ECE, UCB). 
+Analog Devices, Inc., “Specifications-driven design space boundaries for point-of-load converters,” Total award: $44K:  
+ 
+Role: PI, Colorado Power Electronics Center (CoPEC), Jan 2010 – Dec. 2010. 
+ 
+ 
+Investigators: R. Zane (PI, ECE, UCB), D. Maksimovic (ECE, UCB). 
+Raytheon Integrated Defense Systems, “Cascade operation of bi-directional power converter (BDPC) using digital 
+control and power factor corrected (PFC) rectifier,” Total: $18k. 
+ 
+Role: PI, Colorado Power Electronics Center (CoPEC), Jun 2010 – Dec 2010. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+17 of 25 
+ 
+ 
+Investigators: R. Zane (PI, ECE, UCB), D. Maksimovic (ECE, UCB) 
+Raytheon Integrated Defense Systems, “Power converter controls for 3-phase DC-AC inverter,” Total: $50k. 
+ 
+Role: PI, Colorado Power Electronics Center (CoPEC), Jan 2010 – Dec 2010. 
+ 
+ 
+Investigators: R. Zane (PI, ECE, UCB), R. Erickson (ECE, UCB), D. Maksimovic (ECE, UCB) 
+Department of Education, National Institute on Disability Rehabilitation Research, RERC-ACT, “Non-linear context-
+aware prompting system for adults with cognitive disabilities in the workplace,” Total: $1.1M. 
+ 
+ 
+Role: co-PI, subcontract to UCD, RERC-ACT “Rehabilitation Engineering Research Center on the 
+Advancement of Cognitive Technologies,” program period: Jan 2010 – Dec 2015. 
+Investigators: M. Melonis (PI, UCB), R. Zane (co-PI, ECE, UCB), Z. Popovic (co-PI, ECE, UCB), 
+A. Mihailidis (co-PI, UCD), S. Van Vuuren (Co-PI, UCB). Prime contract: C. Bodine (PI, 
+Assistive Technology Partners Director, Physical Medicine and Rehabilitation, UCHSC), M. 
+Lightner (ECE, UCB). 
+Department of Transportation, “A novel multi-sensor wireless network for bridge structural health 
+monitoring,” Total: $35K, subcontract to Intelligent Automation, Inc. 
+ 
+ 
+Role, PI, Jun. 2010 – Jul. 2011.  
+ 
+ 
+Investigators: R. Zane (ECE, UCB). 
+Northrop Grumman, “RF energy harvesting system miniaturization,” Total: $22k. 
+ 
+Role: PI, Colorado Power Electronics Center (CoPEC), Jan 2009 – Dec 2009. 
+ 
+ 
+Investigators: R. Zane (PI, ECE, UCB), Z. Popovic (ECE, UCB). 
+ 
+On-Semiconductor, “Digitally controlled Class-D audio amplifiers for portable applications,” Total: $44k 
+ 
+Role: PI, Colorado Power Electronics Center (CoPEC), Jan 2009 – Dec 2009. 
+ 
+ 
+Investigators: R. Zane (PI, ECE, UCB), L. Corradini (ECE, UCB), R. Erickson (ECE, UCB). 
+NSF, “Towards a Dynamic Brain Clamp,” International collaboration travel grant, Total: $30K. 
+ 
+Role: Co-PI; travel grant lead by PI D. Restrepo, UCHSC, UC-Denver; Travel to Federal University of Ceara, 
+Sobral, Brazil, Jan 2009. 
+ 
+Coleman Institute, “Low-power energy harvesting in cognitive disability applications,” Total: $77K 
+ 
+ 
+Sabbatical Faculty Fellowship, Fall 2008 – Spring 2009.  
+ 
+ 
+Investigators: R. Zane (Co-PI, ECE, UCB), Z. Popovic (Co-PI, ECE, UCB). 
+MSI/DARPA, “PPeC: Parasitically Powered embedded Communication,” Total: $88K 
+ 
+ 
+Role: Co-PI, subcontract to MicroSat Systems (MSI), Jan 2008 – Dec. 2008.  
+ 
+ 
+Investigators: R. Zane (Co-PI, ECE, UCB), Z. Popovic (Co-PI, ECE, UCB). 
+NASA, “Wireless Ultrasonic Transducer Network for Airframe Structure Health Management,” Total: 
+$100K, subcontract to Intelligent Automation, Inc. 
+ 
+ 
+Role, PI, Jan. 2008 – Dec. 2010.  
+ 
+ 
+Investigators: R. Zane (ECE, UCB). 
+NSF, “IREE: Modeling, control and design of energy efficient lighting systems,” Total: $44.5K 
+ 
+ 
+Role: PI, International Research and Education in Engineering (IREE) supplement on NSF CAREER 
+grant. Sep. 2007 – Jun. 2008. 
+ 
+ 
+Investigators: R. Zane (PI, ECE, UCB). 
+NSF CNS, “NOSS: An integrated power aware sensor-simulation network system for long-term 
+performance assessment of concrete infrastructures,” Total: $600K: 
+ 
+ 
+Role, Co-PI, Sep. 2007 – Aug. 2010. 
+ 
+ 
+Investigators: X.C. Cai (PI, CS, UCB), R. Zane (ECE, UCB), Y. Xi (Civil, UCB). 
+DOE, “Miasolé Solar America Initiative, SAI,” Total: $1,049,874 (Awarded by DOE, but later withdrawn by Miasole)  
+ 
+Role: Co-PI, DOE SAI, subcontract to Miasolé, Aug. 2007 – Jul. 2010. 
+ 
+ Investigators: M. Brandemuehl (PI, CEAE, UCB), R.W. Erickson (ECE, UCB), R. Zane (ECE, 
+UCB). 
+
+-----
+R. Zane – CV  
+Dec 2017 
+18 of 25 
+On-Semiconductor, “LED drives for general lighting applications,” Total award: $88K: 
+ 
+ 
+Role: PI, Colorado Power Electronics Center (CoPEC), Jan. 2007 – Dec. 2008. 
+ 
+ 
+Investigators: R. Zane (PI, ECE, UCB). 
+National Semiconductor, “System IC controls for backlighting in LCD HDTV,” Total: $326K: 
+ 
+ 
+Role: PI, Colorado Power Electronics Center (CoPEC), Aug. 2003 – July. 2009. 
+Investigators: R. Zane (PI, ECE, UCB). 
+Powercast Corp., “Integrated design of rectenna and power management circuit,” Total: $44K: 
+ 
+ 
+Role: PI, Colorado Power Electronics Center (CoPEC), Aug. 2007 – July. 2008. 
+Investigators: R. Zane (PI, ECE, UCB), Z. Popovic (ECE, UCB). 
+Analog Devices, Inc., “Digital control loops in SMPS,” Total award: $176K: 
+ 
+ 
+Role: PI, Colorado Power Electronics Center (CoPEC), Oct. 2006 – Dec. 2009. 
+ 
+ 
+Investigators: R. Zane (PI, ECE, UCB). 
+NASA Glenn, “Spacecraft Power Converter Health Monitoring and Prognostics,” Total: $137K: 
+ 
+ 
+Role: PI, program period: Apr. 2006 – Mar. 2009. 
+Investigators: R. Zane (PI, ECE, UCB), D. Maksimović (ECE, UCB). 
+Astec / Artesyn Technologies, “Auto-tuning controller for POL converters” Total: $88K 
+ 
+ 
+Role: PI, Colorado Power Electronics Center (CoPEC), Jan. 2006 – Dec. 2007. 
+Investigators: R. Zane (PI, ECE, UCB), D. Maksimović (ECE, UCB). 
+Luna Innovations, “Phase II SBIR: RF Power Scavenging for Wireless Sensors,” Total: $100K 
+ 
+ 
+Role: Co-PI, subcontract to Luna Innovations on US Navy/Air Force SBIR Contract No. N00164-
+05-C-6088, program period: Nov. 2005 – Mar. 2007. 
+Investigators: Z. Popovic (PI, ECE, UCB), R. Zane (ECE, UCB). 
+CU TTO, “Energy harvesting for maintenance free operation of wireless devices,” Total: $100K: 
+ 
+ 
+Role: PI, Proof-of-Concept (POC) competition, program period: July 2006 – May 2007. 
+Investigators: R. Zane (PI, ECE, UCB), Z. Popovic (ECE, UCB). 
+DARPA, “Planer Integrated Power Processor (PIPP),” Total: $320K: 
+ 
+ 
+Role: PI, Phase I: Robust Integrated Power Electronics (RIPE), subcontract to General Electric, 
+program period: Sep. 2005 – Aug. 2009. 
+Investigators: R. Zane (PI, ECE, UCB), D. Maksimović (ECE, UCB). 
+Intel, “High-frequency digital multi-phase controller and modulator,” Total: $186K 
+ 
+ 
+Role: Co-PI, Colorado Power Electronics Center, program period: Jan 2005 – Dec 2006. 
+Investigators: D. Maksimović (PI, ECE, UCB), R. Zane (ECE, UCB). 
+Department of Education, “Batteryless power supplies for sensor technologies,” Total: $150K: 
+ 
+ 
+Role: PI, subcontract to UCHSC, RERC-ACT “Rehabilitation Engineering Research Center on the 
+Advancement of Cognitive Technologies,” program period: Jan 2005 – May 2007. 
+Investigators: Subcontract: R. Zane (PI, ECE, UCB). Prime contract: C. Bodine (PI, Assistive 
+Technology Partners Director, Physical Medicine and Rehabilitation, UCHSC), M. Lightner (ECE, 
+UCB). 
+NSF Faculty Early Career Development (CAREER) Program, “CAREER: Modeling, Control, and Design 
+of Energy-Efficient Lighting Systems,” Total: $400K + $6K REU: 
+ 
+ 
+Role: PI, program period: Feb. 2004 – Jan. 2010. 
+Investigators: R. Zane (PI, ECE, UCB). 
+ 
+NSF, “SENSORS: Collaborative Research: Self-Configuring In Situ Wireless Sensor Networks for 
+Prescribed Fire Management,” Total: $300K:  
+ 
+ 
+Role: Co-PI, program period: Sept 2003 – May 2007. 
+Investigators: R. Han (PI, CS, UCB), R. Zane (ECE, UCB), L. Queen (School of Forestry, 
+University of Montana), C. Seielstad (School of Forestry, University of Montana). 
+NASA Glenn Research Center, “Stability Control in PMAD Systems through Power Converter Modules 
+with Direct Digital Control,” Total: $74K, 
+ 
+ 
+Role: PI, program period: Aug 2003 – Nov. 2005. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+19 of 25 
+Investigators: R. Zane (PI, ECE, UCB), D. Maksimović (ECE, UCB). 
+Artesyn Technologies, “Digital control in multiphase converters” Total: $74K 
+ 
+ 
+Role: PI, Colorado Power Electronics Center (CoPEC), Jan. 2003 – Dec. 2005. 
+Investigators: R. Zane (PI, ECE, UCB), D. Maksimović (ECE, UCB) 
+Coleman Institute, “Feasibility study for CEMS-based chronic brain implants,” Total: $370K: 
+ 
+ 
+Role: Co-PI, program period: Jan 2001 – Dec 2004. 
+Investigators: D. Restrepo (PI, Cell and Developmental Biology, Director Neuroscience, UCHSC), 
+R. Zane (ECE, UCB), A. Sharp (Integrative Physiology, UCB), D. Finch (Mechanical 
+Engineering, UCB). 
+DOE, “Modeling and IC-Control of High Frequency Electronic Ballasts,” Total: $154K: 
+ 
+ 
+Role: PI, subcontract to General Electric, program period: Aug 2001 – Jul 2004. 
+Investigators: R. Zane (PI, ECE, UCB). 
+CoPEC associate memberships, various companies, Total: $133K: 
+ 
+ 
+Role: Co-PI, Zilker Labs, 2003 – 2007, Intersil, 2003 – 2004, Northrop Grumman, 2005 – 2007. 
+ 
+ 
+Investigators: R. Erickson, D. Maksimović, R. Zane (all Co-PIs, ECE, UCB). 
+Philips Research, “Development of Solid-State LED Power Supply,” Total: $30K: 
+ 
+ 
+Role: Co-PI, Colorado Power Electronics Center, Aug 2001 – Jul 2002. 
+Investigators: R. Erickson (PI, ECE, UCB), R. Zane (ECE, UCB). 
+TEACHING ACCOMPLISHMENTS 
+Educational development and research grants 
+Department of Energy (DOE), “GATE Center of Excellence, in Innovative Drivetrains in Electric Automotive 
+Technology Education (IDEATE),” joint program with University of Colorado Colorado Springs, Total: $954K. 
+ 
+Role: PI (for CU-Boulder campus), Oct. 2011 – Sep. 2016. 
+ 
+ 
+Investigators: G. Plett (Program PI, UCCS), R. Zane (sub-contract PI, UCB/USU), D. Maksimovic (UCB). 
+ 
+Teaching – Courses Taught at Utah State University 
+� 
+Power Electronics for Electric Drive Vehicles, ECE 5930/6930, 3 credits. 
+o 
+Fall 2017, 2016, 2014, 2013, 2012: new course co-developed with CU-Boulder as part of the DOE 
+IDEATE GATE Center. Course was offered via distance learning with lectures, assignments and materials 
+shared between USU and CU-Boulder campuses.  
+� 
+Electric Vehicles Design Lab, ECE 5930/6930, 3 credits (pre-requisite is Power Electronics for Electric Drive 
+Vehicles theory course). 
+o 
+Spring 2018, 2017 and 2013: new laboratory course co-developed with visiting instructor, Daniel 
+Costinett. Redesigning course in Spring 2017 for new lab designs in Spring 2018. 
+� 
+Independent study, ECE 7930, Digital control of high frequency switched mode power supplies 
+o 
+Fall 2016 
+� 
+Independent study, ECE 7930, Resonant and soft switching techniques in power electronics 
+o 
+Summer 2017, Spring 2016 
+� 
+Independent study, ECE 7930, Modeling and control of power electronics systems 
+o 
+Summer 2017, Spring 2017, Spring 2015 
+� 
+Independent study, ECE 7930, Power electronics for grid-connected systems 
+o 
+Fall 2014 
+ 
+Teaching – Courses Taught at CU-Boulder 
+� 
+Electronics Design Laboratory, ECEN 2830, 3 credits. 
+o 
+Spring 2011: co-developed and co-taught this new sophomore level laboratory as part of a new 
+undergraduate curriculum development at CU-Boulder. 70 students. 
+o 
+Fall 2011: continued course development and taught course. 31 students. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+20 of 25 
+ 
+� 
+Renewable Sources and Efficient Electrical Energy Systems, ECEN 2060. 
+o 
+Spring 2008: co-developed and co-taught this new sophomore level course as a first step in developing a 
+new curriculum in energy and energy efficiency. 
+� 
+Circuits / Electronics III, Introduction to Microelectronic Circuits, ECEN 3250, 5 credits, combined lecture and 
+laboratory required core undergraduate course. 
+o 
+Fall 2006: 20 undergraduate. 
+o 
+Fall 2007: 33 undergraduate enrolled. 
+� 
+Received the 2008 John and Mercedes Peebles Innovation in Teaching Award, University of 
+Colorado 
+o 
+Fall 2011: 51 students. Developed and taught course as the first version within new undergraduate 
+curriculum as a 3 credit theory course. 
+� 
+Introduction to Power Electronics, dual-listed ECEN 4797/5797 + online CAETE remote delivery 
+o 
+Fall 2001: 19 undergraduate, 20 graduate 
+o 
+Fall 2009: 21 undergraduate, 54 graduate 
+� 
+Power Electronics Laboratory, dual-listed ECEN 4517/5517 
+o 
+Spring 2004: 54 undergraduate (lecture included 10 graduate) 
+o 
+Spring 2005: 10 graduate 
+o 
+Spring 2006: 46 undergraduate (lecture included 16 graduate) 
+o 
+Spring 2007: 42 undergraduate and 10 graduate 
+o 
+Spring 2008: Co-developed and co-taught a major modification to the laboratory, with the new name: 
+Power Electronics and Photovoltaic Power Systems Laboratory 
+� 
+Developed a mobile solar power system cart and re-designed the laboratory experiments to focus 
+on power electronic components in the solar power system. 
+� 
+Analog IC Design, dual-listed ECEN 4228/5228 – now ECEN 4827/5827 + online CAETE 
+o 
+Spring 2002: 12 undergraduate, 22 graduate 
+o 
+Spring 2003: 26 undergraduate, 37 graduate  
+o 
+Spring 2004: 22 undergraduate, 27 graduate 
+� 
+Developed detailed course notes, additional assignments, and adjusted course content to create a 
+two-semester sequence, with Analog IC as a prerequisite for Mixed-Signal IC. 
+o 
+Fall 2004: 14 undergraduate, 9 graduate 
+� 
+Detailed course notes posted online in place of a formal textbook. Additional changes made to 
+syllabus to coordinate with mixed-signal IC design. Submitted formal course proposals for the 
+two-semester IC design sequence. 
+o 
+Fall 2010: 3 undergraduate, 27 graduates 
+� 
+Mixed-Signal IC Design (new course developed in 2002), ECEN 5018 – Now ECEN 5837 
+o 
+Fall 2002: 15 graduate 
+� 
+Developed new course in Fall 2002, including detailed course notes (see website, 
+ece.colorado.edu/~ecen5007), assignments, on-line tutorials for Cadence tools, and final project 
+designs. Course notes are used in place of a formal text book. 
+o 
+Fall 2003: 22 graduate 
+o 
+Spring 2005: 21 graduate 
+� 
+Developed new on-line tutorials and two-week design assignments integrating theory and 
+extensive use of CAD tools for complete custom IC design. 
+o 
+Spring 2006: 16 graduate 
+o 
+Spring 2008: 16 graduate 
+o 
+Spring 2010: 5 graduate 
+� 
+Digital Control in SMPS, Industry Short Course, University of Colorado, Boulder, CO, July 2005, August 2006, 
+August 2007. Enrolled 28 industry participants in two sessions three days each. Instructors: R. Zane, D. 
+Maksimović, B. Miao. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+21 of 25 
+o 
+Materials on digital control of SMPS from this course have now been integrated into ECEN 5807: 
+Modeling and control of power electronic systems, with detailed notes, tutorials and simulation models 
+posted online: http://ece-www.colorado.edu/~ecen5807 
+� 
+Student evaluations on Faculty Course Questionnaire (FCQ) results for Instructor to date 
+a. 
+Fall 2006 and on: 6.0, 5.7, 5.5, 5.4, 5.2, 4.9, 4.3, 4.2 (out of 6) 
+b. Spring 2006 and before: 1 A+, 2 A, 1 A-, 4 B+, 3 B 
+Graduate Final Thesis Examinations – Serving as Primary Advisor 
+1. Warren Chen, Ph.D., “Bidirectional three-phase ac-dc power conversion using dc-dc converters and a three-phase 
+unfolder,” Nov 2017. Currently at United Technologies Research Center in Hartford, CT. 
+2. Hien Ngyuen, Ph.D., “Design and Control of a Modular Resonant DC-DC Converter for Point-of-Load 
+Applications,” July 2014. Currently at a start-up solar company in CA. 
+3. Daniel Seltzer, Ph.D., “Modeling and Control of the Dual Active Bridge Series Resonant Converter,” May 2014. 
+Currently employed at Space-X in Los Angeles, CA. 
+4. Daniel Costinett, Ph.D., “Analysis and Design of High Efficiency, High Conversion Ratio, DC-DC Power 
+Converters,” June 2013. Currently an Assistant Professor of ECE at University of Tennessee, Knoxville. 
+5. Qingcong Hu, Ph.D., “Techniques to improve LED drivers by reducing voltage stress and required energy storage,” 
+Sep. 2011. Current employed at CREE Semiconductor, Durham, NC. 
+6. Thurein Paing, Ph.D., “Power management techniques for micropower energy scavenging,” May, 2011. Currently 
+employed at Volterra Semiconductor Corporation, Fremont, CA. 
+7. Ryan Schnell, Ph.D., “Digital control of LFSW HID lamp drivers with soft saturation magnetic materials and 
+integrated resonant lamp ignition,” August, 2010. Currently employed at Analog Devices, Longmont, CO. 
+8. Jeffery Morroni, Ph.D., “Adaptive tuning and monitoring of digitally controlled switched mode power supplies,” 
+October, 2009. Currently employed at National Semiconductor Corporation, Santa Clara, CA and Longmont, CO. 
+9. Mariko Shirazi, Ph.D., “Embedded frequency response measurement capability for monitoring and tuning of 
+system dynamics in digitally-controlled DC-DC converters,” September, 2009. Currently employed at the National 
+Renewable Energy Lab (NREL), Golden, CO. 
+10. Montu Doshi, Ph.D., “Power control architectures for CCFL and HBLED based light sources,” August, 2009. 
+Currently employed at National Semiconductor Corporation, Longmont, CO. 
+11. Arseny Dolgov, M.S. Thesis, “Power management system for online low power RF energy harvesting 
+optimization,” May 2009. Currently employed at Ball Aerospace, Boulder, CO. 
+12. Yang Zhang, Ph.D., “Digital control in modular masterless multiphase microprocessor power supplies,” August, 
+2006. Currently employed at National Semiconductor Corporation in Santa Clara, CA. 
+13. Yan Yin, Ph.D., “Modeling and IC control of electronic ballasts,” June 2004. Currently employed at National 
+Semiconductor Corporation in Longmont, CO. 
+14. Preeti Bhandarkar, M.S. Thesis, “Design of a low-power sigma-delta A/D converter for chronic brain implants,” 
+April 2004. 
+Current Graduate Students – Serving as Primary Advisor (paid as RA or Fellowship) 
+1. Marium Rasheed, Ph.D. candidate, entered Aug 2017. 
+2. Rohail Hassan, Ph.D. candidate, entered Jun. 2017. 
+3. Dorai Yelaverthi, Ph.D. candidate, entered Aug. 2016. 
+4. Mohamed Ahmed Kamel, Ph.D. candidate, entered Jan. 2016. 
+5. Anindya Bagchi, Ph.D. candidate, entered Aug. 2015. 
+6. Anindya Ray, Ph.D. candidate, entered Aug. 2015. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+22 of 25 
+7. Tarak Saha, Ph.D. candidate, entered Aug. 2014. 
+8. Hongjie Wang, Ph.D. candidate, entered Aug. 2014. 
+9. Ahmed Azad, Ph.D. candidate, entered program Aug. 2013, co-advised with Prof. Pantic. 
+10. Muhammad Muneeb, Ph.D. candidate, entered program Aug. 2013. 
+Past Graduate Students, Non-Thesis MS – Serving as Primary Advisor 
+1. Aaron Mattmiller, M.S. graduate, Aug. 2010. 
+2. Jieyeon Choi, M.S. graduate, May 2010. 
+3. Jim Patterson, M.S. graduate, May 2008. 
+4. Jeffrey Israel, M.S. graduate, May 2007. 
+5. Michael Weimer, M.S. graduate, May 2006. 
+6. Tony Carosa, M.S. graduate, Spring 2006. 
+7. Kevin Lybarger, M.S., expected graduation: May 2007. 
+8. Steve Scroggs, M.S. graduate, Fall 2005. 
+9. Sandra Johnson, M.S. graduate, Spring 2004. 
+10. Jonathan Gray, M.S. graduate, Fall 2002. 
+Undergraduate Students Advised and Independent Study 
+1. Matthew Hansen, BS student, research on electric vehicle dynamic modeling, charging infrastructure, and electric 
+roadways, Jan 2017 – present. 
+2. Jacob Alder, BS student, research on solar power installation and support of SELECT research center, Oct 2016 – 
+present. 
+3. Justin Jones, BS student, research on bidirectional power supplies, Jan 2014 – 2015. 
+4. William Balling, BS student, research on high voltage, low power, pulse generation circuit for piezoelectric 
+structural health monitoring systems, Jan 2014 – 2015. 
+5. Justin Cox, BS student, research on high voltage, low power pulse power supply design for solid-state pumps and 
+valves, May 2013 – present. 
+6. Kelly Hathaway, MS/BS student, research on bidirectional DC-DC converter modules for battery management 
+systems in electric vehicles. May 2013 – 2015. 
+7. Kevin Kennedy, BS student, research on digital control of bidirectional resonant power converters, Aug 2012 – 
+2105. 
+8. Douglas Bloomquist, BS student, research on low power wireless sensor networks and energy harvesting, DLC 
+apprentice, Aug. 2009 – Aug. 2010. Continued on as a graduate research assistant. 
+9. Daniel Costinett, BS student, research on low power energy harvesting for wireless sensors, DLC apprentice, Aug. 
+2008 – 2009. Continued as a Ph.D. student. 
+10. Daniel Seltzer, MS/BS student, research on low power piezo-electric element drive circuit for aircraft wing 
+integrity monitoring, Mar. 2008 – 2009. Continued as a Ph.D. student. 
+11. Adam Bierman, MS/BS student, research on energy efficient lighting systems, Sep 2007 – present. Sponsored by 
+NSF REU and IREE supplements, including international exchange in Spain. 
+12. Ryan Dolan, MS/BS student, research on lighting electronics, Jun 2007 – Dec. 2007. 
+13. Carey Davis, BS student, research on energy efficient lighting systems, DLC apprentice, Jan 2007 – May 2008. 
+14. Michael Weimer, MS/BS student, independent study in 2005 on harvesting power and electronics design for NSF 
+Sensors project: Fire sensors. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+23 of 25 
+15. Arseny Dolgov, B.S. candidate, research work on an NSF REU project in lighting electronics and on a Coleman 
+Foundation project on wireless sensors, graduation: May 2007. 
+a. 
+Received the Dean’s Outstanding Graduate for Research award, May 2007. 
+16. Eric Hicks, independent study project, “A/D converter design and Cadence software tutorial development,” Fall 
+2002. 
+17. Deirdre Lynch, independent study project, “Electronics 4 laboratory,” Fall 2002. 
+18. Andrew Kowles, independent study project, “Analysis of resonant LCC circuits,” Spring 2002. 
+Postdoctoral Researchers Advised 
+1. Dr. Prasanth Thummala, Nov 2016 – Jun 2017. 
+2. Dr. Baljit Riar, Sep 2016 – present. 
+3. Dr. Shijie Zhou, Jun 2015 – May 2016. 
+4. Dr. Mehmed Celebi, Sep 2015 – Aug 2016. 
+5. Dr. Michael Evzelman, Sep 2013 – Sep 2016. 
+6. Dr. Tuba Yilmaz, Nov 2013 – Dec 2014. 
+7. Dr. Sara Dadras, Nov 2012 – Jun 2013. 
+8. Dr. Victor Manuel Lopez Martin, Jun 2012 – Dec 2012. 
+9. Dr. Luca Corradini, Jun 2009 – Dec 2011. 
+10. Dr. Botao Miao, Jun 2004 – Dec 2006. 
+SERVICE ACTIVITIES 
+Service – Editorial staff, conference committees 
+1. Associate Editor, IEEE Transactions on Power Electronics, Jan. 2006 – present. 
+2. Associate Editor, IEEE Journal of Emerging and Selected Topics in Power Electronics, 2013 – present. 
+3. General Co-Chair, Conference on Electric Roads and Vehicles, 2015 and 2016. 
+4. IEEE Power Electronics Society (PELS), Administrative Committee (AdCom), 2008 – 2014. 
+5. IEEE Applied Power Electronics Conference and Exposition (APEC) conference committee member (2001 – 2012) 
+and Topic Chair (2005-2006) 
+6. IEEE Power Electronics Specialists Conference (PESC) committee member (2001 – 2010) 
+7. IEEE Power Electronics Society (PELS) Simulation, Modeling, and Control Committee vice-chair 2006  
+8. IEEE Workshop on Control and Modeling for Power Electronics (COMPEL), Program Chair & Treasure, 
+COMPEL 2014, University of Oviedo, Spain; Program Chair, COMPEL 2010, hosted at the University of 
+Colorado, Boulder, CO 
+9. IEEE Energy Conversion Congress & Exposition (ECCE), Topic Chair, 2016 – present. 
+10. IEEE Standards Committee, PAR 1789, “Recommending practices for modulating current in High Brightness 
+LEDs for mitigating health risks to viewers,” Dec. 2008 – 2012. 
+ 
+Service – Major Internal, Utah State University 
+� 
+College of Engineering undergraduate research committee, 2013 – 2016. 
+� 
+ECE department graduate studies committee, 2013 – present. 
+� 
+Faculty search committee member, computer engineering, 2016-2017. 
+� 
+Faculty search committee chair, power / power electronics, 2012 – 2013. 
+� 
+Director, Center for Sustainable Electrified transportation (SELECT), 2015 – present. 
+a. 
+Founded new multi-campus research center, secured USTAR and industry funding, developed legal 
+framework, organized industry board 
+
+-----
+R. Zane – CV  
+Dec 2017 
+24 of 25 
+Service – Major Internal, University of Colorado Boulder 
+� 
+Faculty search committee chair, 2011 – 2012 
+a. 
+Led faculty search for energy engineering area faculty in the ECEE department. 
+� 
+Undergraduate curriculum committee, 2010 – 2012 
+a. 
+Participate in weekly department committee meetings and provide materials and updates on 
+curriculum for circuits, electronics and power courses. 
+� 
+Curriculum development 
+a. 
+Participated in new curriculum development teams for analog courses (3 core circuits courses, new 
+sophomore Electronics Design Lab, and sophomore elective on renewable energy) 
+� 
+Course assessment teams, 2004 – 2008 
+a. 
+Team member, ECEN 3250, Circuits III 
+b. Team member, ECEN 3100 Digital Logic 
+� 
+Internal review committee, 2003 
+a. 
+Participated in department review meetings, reviewed final committee report, participated in 
+discussions with external review board 
+� 
+Graduate studies committee, 2001-2010 
+a. 
+Participate annually in graduate student admissions, departmental teaching assistant (TA) offers and 
+fellowships; periodic meetings on graduate studies and curriculum 
+� 
+Chairman, power area Ph.D. preliminary examination committee 
+a. 
+Committee chairman in 2002, 2005, 2007; committee member in 2003, 2004, 2006. 
+� 
+Colorado power electronics center (CoPEC) faculty member 
+a. 
+Assist in hosting annual CoPEC industry sponsor meeting and laboratory exposition and coordinate 
+weekly group meetings with student presentations 
+b. Participate in student recruiting, curriculum development, and lab management 
+Service – Journal and Conference Paper Reviews 
+� 
+IEEE Journal of Emerging and Selected Topics in Power Electronics (~2 papers per year) 
+� 
+IEEE Transactions on Power Electronics (full papers and letters) (~ 6 papers per year) 
+� 
+IEEE Journal of Solid-State Circuits (~ 2 papers per year) 
+� 
+IEEE Transactions on Circuits and Systems, Parts I & II (~ 2 papers per year) 
+� 
+IEEE Industrial Applications Society Transactions (~ 1 paper per year) 
+� 
+IEEE Transactions on Industrial Electronics (~1 paper per year) 
+� 
+IEEE Transactions on Microwave Theory and Techniques (~1 paper per year) 
+� 
+IEEE Energy Conversion Congress & Exposition (ECCE) (~ 10 papers per year) 
+� 
+IEEE Applied Power Electronics Conference (APEC) (~ 10 papers per year) 
+� 
+IEEE Transportation Electrification Conference & Expo, ITEC (~10 papers per year) 
+� 
+IEEE Workshop on Control and Modeling for Power Electronics (COMPEL) (~10 papers per year) 
+� 
+IEEE International Symposium on Circuit and Systems (ISCAS) (~ 10 papers per year) 
+� 
+IEEE International Symposium on Industrial Electronics (ISIE) (~ 2 papers per year) 
+Service – Consulting Positions 
+� 
+Aug 2016 – present. Bristows LLP. Patent consultant and expert witness. 
+� 
+Jul 2016 – present. Friedman, Suder & Cooke. Patent consultant and expert witness. 
+� 
+Feb 2016 – Nov 16. Jenner & Block, LLP. Patent consultant and expert witness. 
+
+-----
+R. Zane – CV  
+Dec 2017 
+25 of 25 
+� 
+Jan 2015 – present. Finnegan, Henderson, Farabow, Garrett & Dunner, L.L.P., on behalf of Koninklijke Philips 
+N.V. and Philips Lighting North America Corporation. Patent consultant and expert witness. 
+� 
+Jan 2012 – Dec 2013. Institute for Defense Analysis (IDA). Selected as member of the 2012-2013 Defense 
+Sciences Study Group (DSSG), US Defense Advanced Research Projects Agency (DARPA). 
+� 
+Feb 2010 – Aug. 2011. Friedman, Suder & Cooke, patent consultant. Served as an expert witness on electronic 
+ballast case, including expert report, deposition, and testimony at trial. 
+� 
+May 2008 – Dec 2014: Intelligent Automation Inc., low power piezo-electric driver design consultant. 
+� 
+Nov 2008 – Nov 2009: Cymbet Corporation, low power energy harvesting design consultant. 
+� 
+Jun. 2006 – Nov 2009: Telegen / Vu1, electronic ballast design consultant. 
+� 
+Oct. 2005 – Mar. 2007: Luna Innovations, low power management design consultant. 
+� 
+Aug. 2005 – Dec. 2005: Intertainment, low power management design consultant. 
+� 
+June 2005 – Dec. 2006: Intelligent Automation Inc., power converter design consultant. 
+� 
+Dec. 2004 – May 2005: Cooley Godward LLP, patent consultant. 
+� 
+Nov. 2004 – Jan 2005:  ITU Ventures, technology consultant. 
+� 
+Nov. 2004 – Dec. 2006: Winstead Sechrest & Minick P.C., patent consultant. 
+� 
+May 2004: Zilker Labs, consultant on digital control and custom IC design in power converters. 
+� 
+May 2004: Artesyn Technologies, 3-day short course on digital control in switching power converters. 
+� 
+2002 – 2005: Jet Propulsion Labs, University of Washington, Neptune Project Power Group Review 
+Committee  
+� 
+2001 – 2005: General Electric Global Research, consulting on application of digital and custom mixed-signal 
+IC controls in lighting electronics and related applications 
+ 
+ 
+ 
+ 
+ 
+
+-----

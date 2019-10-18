@@ -1,0 +1,2462 @@
+Dennis Sylvester 
+Professor 
+ 
+2417B EECS 
+                     
+Department of Electrical Engineering and  
+   Computer Science 
+1301 Beal Ave. 
+Ann Arbor, MI 48109-2122 
+ 
+dennis@eecs.umich.edu 
+(734) 615-8783 (office) 
+(734) 763-9324 (fax) 
+http://www.eecs.umich.edu/~dennis 
+ 
+Professional Experience 
+ 
+Professor, University of Michigan, Ann Arbor 
+ 
+ 
+ 
+ 
+  2010 – present 
+Associate Professor  
+ 
+ 
+ 
+ 
+  
+       
+    
+     2005 – 2010  
+Assistant Professor  
+ 
+ 
+ 
+ 
+     
+       
+     
+     2000 – 2005 
+ Department of Electrical Engineering and Computer Science 
+ Director, Michigan Integrated Circuits Laboratory (MICL) 
+ 
+Visiting Professor, Nanyang Technological University, Singapore 
+ 
+ 
+   2013 - present 
+ 
+Co-founder, CubeWorks, Inc.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     2013 
+ 
+Co-founder, Ambiq Micro 
+ 
+  
+  
+ 
+ 
+ 
+  
+   
+     2010 
+ 
+Visiting Associate Professor, National University of Singapore 
+ 
+       
+      2006 – 2007 
+ 
+Department of Electrical and Computer Engineering 
+ 
+Senior R&D Engineer, Synopsys, Inc., Mountain View, CA 
+ 
+                      
+      1999 – 2000 
+ 
+TCAD Engineer, Hewlett-Packard Laboratories, Palo Alto, CA 
+                                1996 - 1998 
+Education 
+University of California, Berkeley, Berkeley, California 
+Ph.D. Electrical Engineering, 1999 
+Dissertation: Analytical Modeling and Characterization of Deep Submicron Interconnect 
+ 
+M.S. Electrical Engineering, 1997 
+Thesis: Interconnect Capacitance Characterization Using Charge-Based Capacitance Measurement 
+(CBCM) Technique 
+University of Michigan, Ann Arbor, Michigan 
+B.S. Electrical Engineering, 1995 
+Summa Cum Laude 
+
+-----
+Dennis Sylvester, p. 2 
+Honors and Awards 
+ 
+ 
+University of Michigan College of Engineering Innovation Excellence Award, joint with David 
+Blaauw, 2014. 
+ 
+ACM/IEEE Design Automation Conference 50th anniversary awards, DAC prolific author award (2nd 
+most prolific author in DAC 5th decade), DAC collaborative award (for publishing at least 20 papers 
+with Prof. David Blaauw), DAC most prolific author in a single year award (2004), and DAC prolific 
+author award (more than 35 papers at DAC), 2013. 
+ 
+University of Michigan Rackham Faculty Recognition Award, 2013. 
+ 
+Top Contributing Authors, IEEE International Solid-State Circuits Conference, 60th anniversary 
+celebration, named in top 10 authors in 2004-2013 timeframe. 
+ 
+University of Michigan Electrical Engineering and Computer Science Department Outstanding 
+Achievement Award, 2011. 
+ 
+IEEE Fellow, 2011, “for contributions to energy-efficient integrated circuits” 
+ 
+University of Michigan College of Engineering Ted Kennedy Family Team Excellence Award, 2009-
+2010 
+ 
+Best Paper Award, ACM/IEEE International Symposium on Low-Power Electronics and Design, 
+2009 
+ 
+University of Michigan College of Engineering Ted Kennedy Family Team Excellence Award, 2008-
+2009 
+ 
+Best Paper Award, IEEE International Symposium on Quality Electronic Design, 2006 
+ 
+Henry Russel Award, University of Michigan, given in recognition of distinguished scholarship and 
+conspicuous ability as a teacher, 2006 
+ 
+University of Michigan College of Engineering Vulcans Education Excellence Award, 2005-2006 
+ 
+Semiconductor Research Corporation Inventor Recognition Award, 2005 
+ 
+1938E Award, U-M College of Engineering, given for outstanding teaching, counseling, and 
+scholarly integrity, 2004 
+ 
+IBM Faculty Award, IBM Austin Center for Advanced Studies, 2004 
+ 
+Association for Computing Machinery (ACM) Special Interest Group on Design Automation 
+(SIGDA) Outstanding New Faculty Award, 2003 
+ 
+Ruth and Joel Spira Outstanding Teaching Award, U-M College of Engineering, 2003 
+ 
+NSF Faculty Early Career Development (CAREER) Award, 2002 
+ 
+David J. Sakrison Memorial Prize for best dissertation, UC-Berkeley EECS department, 2000 
+ 
+Beatrice Winner Award, IEEE International Solid-State Circuits Conference, 2000 
+ 
+Synopsys Special Recognition Award (for excellent performance and outstanding contribution to 
+Synopsys Engineering), 2000 
+ 
+Best Paper Award, Semiconductor Research Corporation Graduate Fellowship Program, 1999 
+ 
+Outstanding Research Presentation Award, Semiconductor Research Corporation Technical 
+Conference, 1998 
+ 
+Best Student Paper Award, IEEE International Semiconductor Device Research Symposium, 1997 
+ 
+Semiconductor Research Corporation Graduate Fellow, 1997 – 1999 
+ 
+
+-----
+Dennis Sylvester, p. 3 
+Research Interests 
+ 
+ 
+Low power integrated circuit design and design automation 
+ 
+Variation-tolerant circuit design styles 
+ 
+Near-threshold computing systems 
+ 
+Millimeter-scale computing systems 
+ 
+Professional Activities and Service 
+ 
+ 
+Advisory Board Member, DESIGN School, Kyoto University, 2013 – present 
+ 
+External Advisory Committee  Member, ATIC-SRC Center of Excellence on Energy-Efficient 
+Electronic Systems, United Arab Emirates, 2014 – present  
+ 
+Guest Editor, special issue on Circuits and Systems for Energy-Autonomous Microsystems, IEEE 
+Transactions on Circuits and Systems II: Express Briefs, 2013. 
+ 
+Associate Editor, IEEE Transactions on Computer-Aided Design, 2006 – 2011 
+ 
+Executive Committee member, ACM/IEEE Design Automation Conference, 2008 – 2009 
+ 
+Tutorials Chair, ACM/IEEE Design Automation Conference, 2009 
+ 
+Steering Committee member, ACM/IEEE International Symposium on Physical Design, 2006 – 2008 
+ 
+Co-organizer, ACM Workshop on Test Structure Design for Variability Characterization (TSD), 
+2008. 
+ 
+Associate Editor, IEEE Transactions on VLSI Systems, 2003 – 2007 
+ 
+Planning Committee member, Semiconductor Research Corporation Interconnect Forum, Santa Cruz, 
+CA, 2006 
+ 
+General Chair, ACM/IEEE International Workshop on Timing Issues in the Specification and 
+Synthesis of Digital Systems (TAU), 2005 
+ 
+Panel moderator 
+ 
+“Crystal ball on low power: limiting trends and strategic solutions,” ACM/IEEE Design 
+Automation Conference, 2011 
+ 
+“Who is responsible for design for manufacturability issues in the era of nanotechnologies?”, 
+ACM/IEEE Asia-South Pacific Design Automation Conference, 2005 
+ 
+Technical Program Committee co-Chair, ACM/IEEE International Workshop on Timing Issues in the 
+Specification and Synthesis of Digital Systems (TAU), 2004 
+ 
+Tutorials Chair, IEEE International Symposium on Quality Electronic Design (ISQED), 2004 
+ 
+Guest co-Editor, IEEE Transactions on VLSI Systems, special issue on System-Level Interconnect 
+Prediction, October 2004 
+ 
+General Chair, ACM/IEEE International Workshop on System-Level Interconnect Prediction (SLIP), 
+2003 
+ 
+Co-organizer, panel on low-power design automation tools, ACM/IEEE Design Automation 
+Conference (DAC), 2003 
+ 
+Co-organizer and co-chair, special session on nanoscale CMOS, ACM/IEEE Design Automation 
+Conference, 2002 
+ 
+Member, U.S. Design Technology Working Group (TWG) for the International Technology 
+Roadmap for Semiconductors (ITRS), 2001–2003  
+
+-----
+Dennis Sylvester, p. 4 
+ 
+Technical Program Committee Chair, ACM/IEEE International Workshop on System-Level 
+Interconnect Prediction (SLIP), 2001 (co-chair), 2002 
+ 
+Technical Program Committee member: 
+ IEEE International Solid-State Circuits Conference (ISSCC), 2015 – present  
+ IEEE Symposium on VLSI Circuits, 2014 – present 
+ ACM/IEEE Design Automation Conference (DAC), 2003–2006, sub-committee chair 2004–2006 
+ IEEE International Workshop on Design for Manufacturability and Yield (DFM&Y), 2006 
+ ACM/IEEE International Symposium on Low-Power Electronics Design (ISLPED), 2004–2005 
+ ACM/IEEE Asia-South Pacific Design Automation Conference (ASP-DAC), 2005 
+ IEEE International Symposium on Quality Electronic Design (ISQED), 2002–2003, chair of sub-
+committee on device, interconnect, and circuit-level modeling and analysis (2003) 
+ ACM/IEEE International Conference on Computer-Aided Design (ICCAD), 2000–2002 
+ IEEE International Conference on Computer Design (ICCD), 2001–2003, 2006 (Logic and 
+Circuits Track co-chair) 
+ ACM/IEEE International Workshop on Timing Issues in Digital Systems (TAU), 2002, 2006 
+ ACM/IEEE International Workshop on System-Level Interconnect Prediction (SLIP), 2000, 2004–
+2006 
+ IEEE International Symposium on Circuits and Systems (ISCAS), 2002–2003 
+ SPIE Design and Process Integration for Microelectronic Manufacturing Conference, 2005–2008  
+ IEEE International Conference on VLSI and System-on-Chip, 2010 
+ 
+Executive committee member, Fabless Semiconductor Association, 2000 
+ 
+Proposal reviewer for: 
+ National Science Foundation 
+ Portugal Foundation for Science and Technology (FCT) 
+ University of California MICRO program 
+ Netherlands Organization for Scientific Research 
+ 
+Reviewer for: 
+ IEEE Transactions on Computer-Aided Design, IEEE Transactions on VLSI Systems, IEEE 
+Journal of Solid-State Circuits, IEEE Transactions on Electron Devices, IEEE Transactions on 
+Computers, IEEE Design & Test of Computers, IEEE Transactions on Circuits and Systems, 
+Proceedings of the IEEE 
+ ACM Transactions on Design Automation of Electronic Systems 
+ Elsevier Integration: The VLSI Journal 
+University  Service 
+ 
+ 
+ECE executive committee member, 2014 – 2016 
+ 
+ECE faculty search committee member, 2012 – 2013 
+ 
+ECE: EE program PhD recruiting coordinator, 2011 – 2013 
+ 
+ECE graduate admissions committee member, 2009 – 2013 
+ 
+CSE chair search advisory committee member (ECE representative), 2010 – 2011 
+
+-----
+Dennis Sylvester, p. 5 
+ 
+ECE: EE undergraduate program advisor, 2010 – 2011 
+ 
+ECE financial aid strategy team member, 2009 
+ 
+ECE executive committee member, 2007 – 2009 
+ 
+ECE faculty search committee member, 2007 – 2009 
+ 
+CSE chair search advisory committee member (ECE representative), 2007 – 2008 
+ 
+VLSI graduate advisor (concurrently a member of EE graduate committee), 2000 – 2010 
+ 
+Computer Engineering Center task force member, 2006 
+ 
+ECE faculty search sub-committee chair (VLSI), 2004 – 2005 
+ 
+EECS strategic planning sub-committee on department structure and faculty environment, 2005 
+ 
+Eta Kappa Nu (HKN) faculty advisor, 2003 – 2006 
+ 
+EECS building renovation committee member, 2003 – 2006 
+ 
+ECE faculty search sub-committee member (RF circuits/MEMS), 2002–2003 
+ 
+Departmental Computing Organization (DCO) review committee member, 2002 
+ 
+Organizer, EECS Department VLSI seminar series (renamed the Micron Technology Foundation 
+VLSI Seminar Series), 2001 – 2006 
+ 
+Marshal, Spring 2002 Commencement Exercises 
+ 
+Computer Engineering degree program committee member, 2001 
+ 
+HKN Scholarship faculty reviewer, 2000, 2006 
+ 
+Promotion and tenure, and/or reappointment casebook committee member or chair, 2005, 2006, 
+2008, 2009, 2010 (chair), 2011 (chair), 2012, 2014 (chair) 
+ 
+Teaching 
+ 
+Courses Taught: 
+ 
+EECS 312, Digital Integrated Circuits 
+ 
+EECS 427, VLSI Design I 
+ 
+EECS 523, Digital Integrated Circuit Technology 
+ 
+EECS 627, VLSI Design II 
+ 
+EECS 628, Advanced High Performance VLSI Design 
+ 
+Courses Developed or Significantly Revised: 
+ 
+EECS 312, Digital Integrated Circuits (Developed) 
+ 
+EECS 427, VLSI Design I (Revised, Fall 2003) 
+ 
+EECS 628, Advanced High Performance VLSI Design (Co-developed) 
+ 
+Consulting  
+ 
+ 
+STMicroelectronics, Geneva, Switzerland, [Technology Council Member, 2006 – present] 
+ 
+Tela Innovations, Campbell, CA [Technical Advisory Board member, 2009 – 2011] 
+ 
+Sequence Design, Inc., Santa Clara, CA [Technical Advisory Board member, 2003 – 2009] 
+ 
+Blaze DFM, Inc., Sunnyvale, CA [Technical Advisory Board member, 2004 – 2008] 
+
+-----
+Dennis Sylvester, p. 6 
+ 
+Cadence Design Systems, San Jose, CA 
+ 
+Intel Corporation, Santa Clara, CA and Haifa, Israel 
+ 
+Rader, Fishman, and Grauer PLLC, Bloomfield Hills, MI 
+ 
+King Abdullah University of Science and Technology, Saudi Arabia 
+ 
+NEC Research Labs, Princeton, NJ 
+ 
+Grants and Contracts 
+ 
+ Microelectronics Advanced Research Corporation (MARCO) and Defense Advanced Research 
+Projects Agency (DARPA), “Circuits for spin-based devices,” through the Center for Spintronic 
+Materials, Interfaces and Novel Architectures (C-SPIN), 1/15/13 – 10/31/17, $766,400. 
+ Defense Advanced Projects Research Agency (DARPA), “Energy efficient 3D near-threshold 
+computing systems for future embedded applications,” 10/19/12 – 3/18/14, lead PI: Trevor Mudge, 
+$1,528,161. 
+ Advanced Micro Devices, gift funding to support research in CMOS aging, $50,000, 2012. 
+ US Air Force, “Sub-1mm electronics for actuating, controlling, and linking programmable matter,” 
+3/15/12 – 12/30/12, lead PI: David Wentzloff, $60,000. 
+ Defense Science and Technology Laboratory, “Dstl Sensor Development Kits,” 8/1/12 – 2/28/13, co-
+PI with David Blaauw, $160,000. 
+ Advanced Energy Consortium, “An autonomous microsystem test-bed for extreme environments,” 
+6/1/12 – 12/31/13, co-PI with Yogesh Gianchandani (lead), David Blaauw, $475,000. 
+ Semiconductor Research Corporation, “Shortstop: Fast power supply boosting for energy-efficient 
+high-performance processors,” 8/1/12 – 7/31/15, co-PI with David Blaauw, $360,000. 
+ National Science Foundation, “Minimally invasive error detection/correction for runtime margin 
+elimination,” 7/1/12 – 6/30/15, co-PI with David Blaauw, $450,000. 
+ University of Michigan Comprehensive Cancer Center, “Implantable biosensors for the tumor 
+microenvironment,” 12/1/11 – 11/30/12, $40,000. 
+ National Science Foundation, “Integrating Circuits, Sensing, and Software to Realize the Cubic-mm 
+Computing Class,” 08/15/11 – 07/31/16, lead PI: David Wentzloff, $2,533,000. 
+ Office of Naval Research, “Cognitive Ultra-low Power Sensor System (CUPSS),” STTR with 
+Intelligent Automation, Inc., 09/01/11 – 03/31/14, $195,000 (Phase I + Option + Phase II). 
+ National Science Foundation, “Collaborative Research: Variability Aware Software for Efficient 
+Computing with Nanoscale Devices ,” 09/01/2010 – 08/31/2015, co-PI under Director Rajesh Gupta, 
+UCSD, $10,000,000.   
+ Office of Naval Research, “A Hierarchical Wireless System for Distributed Strain Monitoring in 
+Naval Structures,” SBIR with Civionics, LLC, 05/10/2010 – 11/09/2010, $33,250. 
+ King Abdullah University of Science and Technology Saudi Arabia, “Toward efficient nanoelectronic 
+systems for biomedical sensing,” lead PI: Yogesh Gianchandani, 05/01/2010 – 04/30/2012, $680,000. 
+ Intel Corporation, “A confidence-driven model for predictable computing in future technologies,” PI: 
+Zhengya Zhang, co-PIs: Dennis Sylvester, David Blaauw, $249,000 (gift), 2010-2011.   
+ Google, gift to support research in energy-efficient memory and processor architectures, joint with 
+Professor Thomas Wenisch, David Blaauw, and Trevor Mudge, $100,000, 2009.  
+
+-----
+Dennis Sylvester, p. 7 
+ National Science Foundation, “Reclaiming Moore's Law through Ultra Energy Efficient Computing,” 
+08/01/2009 – 07/31/2014, co-PI with David Blaauw (lead PI, U-Michigan), Trevor Mudge (U-
+Michigan), Chaitali Chakrabarti (Arizona St.), and David Harris (Harvey Mudd), $2,778,507. 
+ Microelectronics Advanced Research Corporation (MARCO) and Defense Advanced Research 
+Projects Agency (DARPA), “Resiliency for ultra-low power platforms,” through the Gigascale 
+Systems Research Center (GSRC), 11/01/09 – 10/31/12, $315,250. 
+ Medical Innovation Center Innovation Grant, University of Michigan, “Brain Pressure Sensor – 
+Wireless,” co-PI with Dr. Lynda Yang and Mr. Alex Kim, $10,000, 2009. 
+ National Institute of Standards and Technology, “Cyber-enabled wireless monitoring systems for the 
+protection of deteriorating national infrastructure systems,” 02/01/2009 – 01/31/2014, $19,162,000. 
+ Army Research Laboratory, “COM-BAT: Center for Objective Microelectronics and Biomimetic 
+Advanced Technology,” Kamal Sarabandi (Director), Dennis Sylvester (Processing team leader), 
+04/01/08 – 03/31/13, $10,000,000. 
+ National Science Foundation, “An Engineering Research Center in Wireless Integrated 
+Microsystems,” Kensall D. Wise (Director), Dennis Sylvester (Micropower Circuits thrust leader, 
+02/01/05 – present), total thrust budget $417,000 (direct costs) in 2007-2008. 
+ National Science Foundation, “Probabilistic wearout in nanoscale CMOS: analysis, monitoring, and 
+optimization,” co-PI with David Blaauw, U-Michigan, 09/01/08 – 08/31/11, $300,000. 
+ Defense Advanced Research Projects Agency (DARPA), “Strained Si/SiGe/Ge HEterojunction 
+Tunneling Transistor (HETT) Technology with Steep Subthreshold Slope for Extremely Low Power 
+Electronics,” (IBM lead organization), 01/01/08 – 12/31/09, $444,000 (UM share). 
+ Semiconductor Technology Academic Research Center (Japan), “Low-cost body biasing and 
+reliability-aware CAD,” 01/01/08 – 12/31/08, $180,000. 
+ Semiconductor Technology Academic Research Center (Japan), “Soft-edge flip-flops for timing yield 
+and parametric yield budgeting across functional units,” 09/01/06 – 08/31/07, $180,000. 
+ Microelectronics Advanced Research Corporation (MARCO) and Defense Advanced Research 
+Projects Agency (DARPA), “ElastIC: An Adaptive Self-Healing Architecture for Unpredictable 
+Silicon,” 09/01/06 – 10/31/09, $378,000 
+ National Science Foundation, “Formal Design Techniques for Adaptive Circuit Fabrics,” co-PI with 
+Michael Orshansky, U-Texas, Austin, 09/01/06 – 08/31/09, $464,440 
+ Semiconductor Research Corporation, “A Design Optimization Framework for Process Variation 
+Tolerance,” co-PI with David Blaauw, U-Michigan, 09/01/06 – 12/31/09, $390,000 
+ Semiconductor Research Corporation, “CAD Solutions for Parametric Yield Optimization,” co-PI 
+with David Blaauw, U-Michigan, 09/01/05 – 08/31/08, $360,000 
+ Semiconductor Technology Academic Research Center (Japan), “Runtime leakage analysis and 
+statistical static timing analysis enhancements,” 09/01/05 – 08/31/06, $180,000. 
+ National Science Foundation and Semiconductor Research Corporation, “Communication Fabrics for 
+the Globally Asynchronous Network-on-Chip Era,” co-PI with Michael Flynn, U-Michigan, 9/01/04 – 
+08/31/07, $489,500 
+ Microelectronics Advanced Research Corporation (MARCO) and Defense Advanced Research 
+Projects Agency (DARPA), “System-Level Living Roadmap,” 09/01/03 – 08/31/06, $592,000 
+ National Science Foundation, “CAREER: Improving Technology-EDA Integration through 
+Interconnect Design Tools for Nanometer Design,” 01/01/02 – 12/31/08, $375,000 
+
+-----
+Dennis Sylvester, p. 8 
+ National Science Foundation, “ITR: Methodologies for Robust Design of Information Systems under 
+Multiple Sources of Uncertainty,” co-PI with David Blaauw, U-Michigan, Sachin Sapatnekar, U-
+Minnesota, and Sarma Vrudhula, U-Arizona, 09/01/02 – 08/31/08, $1,800,000 
+ Semiconductor Research Corporation, “Analysis and Reduction of Simultaneous Gate-Oxide 
+Tunneling and Subthreshold Leakage Current,” co-PI with David Blaauw, U-Michigan, 07/01/03 – 
+06/30/06, $360,000 
+ Semiconductor Research Corporation, “Algorithmic and Circuit-level Approaches to Leveraging 
+Multi-Vth processes,” co-PI with Kurt Keutzer, UC-Berkeley, 07/01/01 – 04/30/05, $490,000 
+ Semiconductor Research Corporation, “Layout Techniques for Cost-driven Control of Lithography-
+induced Variability,” co-PI with Andrew B. Kahng of UC-San Diego, 07/01/01 – 01/31/05, $420,000 
+ Defense Advanced Research Projects Agency (DARPA), “Complex Signal Processing Application 
+Specific Integrated Circuit Designs,” lead PI: Richard Brown, University of Michigan, subcontract of 
+BAE Systems, 09/18/01 – 03/15/03, $225,000 
+ Microelectronics Advanced Research Corporation (MARCO) and Defense Advanced Research 
+Projects Agency (DARPA), “GSRC Technology Extrapolation (GTX) Engine,” 01/01/01 – 08/31/03, 
+$285,000 
+ IBM Corporation, Austin Center for Advanced Studies, “Joint Statistical Optimization of Static Power 
+Consumption and Performance,” Faculty Award (gift), $40,000, 2004. 
+ Intel Corporation, “VLSI Design Curriculum,” co-PI with Richard Brown, David Blaauw, and 
+Michael Flynn, 09/01/03 – 08/31/04, $202,173. 
+ Intel Circuits Research Laboratory, gift to support research in the areas of global signaling and multi-
+Vdd circuit design, $120,000, 2003–2005. 
+ Intel Corporation, “Current Source Cell Models with Variability,” $20,000, 2005.  
+ Intel Corporation, “An Alternative Framework for Statistical Optimization Based on Variation Space 
+Sampling, including Current Source Models,” $10,000, 2006. 
+ NEC USA, gift to support research in the area of noise-aware timing analysis, $38,000, 2001. 
+ Mentor Graphics Corporation, gift to support research in the area of design for manufacturability, 
+$100,000, 2002–2005. 
+ Sun Microsystems Academic Equipment Grant, to support research in the area of multi-Vth and multi-
+Vdd circuit design, 2 Sun Blade 1000 workstations, $51,000, 2002. 
+ Intel Corporation, equipment donation to support research in global signaling and multi-Vdd circuit 
+design, $19,645, 2003. 
+ Intel Corporation, equipment donation to support research in current source modeling and statistical 
+optimization, $5,959, 2006. 
+ Intel Corporation, equipment donation to support the development of a showcase circuit design 
+graduate student office space, $66,878, 2009. 
+ Intel Corporation, cash donations to support the Michigan Integrated Circuits Laboratory, $50,000, 
+2009, 2011. 
+ U-M College of Engineering, to support the creation of a VLSI seminar series, 09/01/01 – 04/30/03, 
+$11,500 (supplemented with $3,500 of support from Solid-State Electronics Laboratory) 
+ Micron Technology Foundation, to support the VLSI seminar series, 09/01/03 – 04/30/06, $15,700 
+ 
+Selected Invited Talks and Tutorials 
+ 
+
+-----
+Dennis Sylvester, p. 9 
+ IEEE Solid-State Circuits Society, UAE chapter, “Ultra-low power IC design 101,” April 2014. 
+ Keynote speaker, “How to Design Nanowatt Microsystems,” IEEE International Conference on 
+Electronics, Circuits, and Systems, Abu Dhabi, UAE, December 2013. 
+ Kyoto University, “Ultra low power system design challenges and solutions,” June 2013. 
+ Broadcom low-power forum speaker, “Energy efficient circuit design: research overview at University 
+of Michigan,” April 2013. 
+ IEEE International Solid-State Circuits Conference (ISSCC), “An Energy-Centric Design Approach to 
+Achieve Nanowatt Microsystems,” Sunday night panelist, February 2013. 
+ Electrons to Electronics Symposium celebrating 65th birthday of Chenming Hu, “Towards Nanowatt 
+Computing,” Berkeley, CA, December 2012. 
+ Stanford University, “Millimeter-Scale Computing,” December 2012. 
+ National University of Singapore, Electrical and Computer Engineering Department Seminar, 
+“Enabling Millimeter-Scale Computing,” August 2012. 
+ Rice University ECE Colloquium, “Millimeter-Scale Computing,” November 2011. 
+ IEEE Central Texas Section Seminar, “Enabling Millimeter-Scale Computing,” September 2011. 
+ IEEE International Solid-State Circuits Conference (ISSCC), “Ultra-low power design for WSN,” 
+Sunday night panelist, February 2011. 
+ IEEE Circuits and Systems Forum on Emerging and Selected Topics (CAS-FEST), Variation-Aware 
+Design for Nanoscale VLSI, “Mitigating variability in near-threshold computing,” Athens, Greece, 
+December 2010. 
+ National Science Foundation Workshop on Interdisciplinary Challenges Beyond the Scaling Limits of 
+Moore’s Law, “Enabling Ubiquitous Computing with Ultra-Low Power Integrated Circuits,” 
+Arlington, VA, August 2010. 
+ Columbia University, “Enabling Ubiquitous Computing with Ultra-Low Power Integrated Circuits,” 
+Dean’s Distinguished Lecture, April 2010. 
+ University of Illinois, “Circuit design advances for ultra-low power sensing platforms,” ECE 
+Colloquium, April 2010. 
+ Michigan State University, “Low voltage circuits to enable widespread sensing applications,” East 
+Lansing, MI, October 2009. 
+ University of Texas VLSI seminar series, “Circuit design advances for wireless sensing applications,” 
+Austin, TX, September 2009. 
+ Panelist, “Steep slope or slippery slope,” IEEE Device Research Conference, State College, PA, June 
+2009. 
+ IEEE International Solid-State Circuits Conference (ISSCC), “Device sizing for variability in energy 
+constrained systems,” Low-voltage design forum speaker and panelist, February 2009. 
+ Electronic Design Systems Fair, System Design Forum, invited speaker, “Coping with variability in 
+nanoscale CMOS: analyze, sense, correct, exploit,” Yokohama, Japan, January 2009. 
+ IBM Design Automation Professional Interest Community Seminar, “Extending nanoscale CMOS: 
+analyze, sense, correct, and exploit,” Austin, TX, August 2008. 
+ Invited lecturer, EPFL summer school on Nanoelectronic Circuits and Tools, “Pushing nanoscale 
+CMOS: Design-related challenges,” and “Extending nanoscale CMOS: analyze, sense, correct, and 
+exploit,” Lausanne, Switzerland, July 2008. 
+ University of Waterloo, “Low-voltage circuit design for widespread sensing applications,” July 2008. 
+
+-----
+Dennis Sylvester, p. 10 
+ UCLA Departmental Seminar Series in Electrical Engineering, “Energy-driven circuit design for 
+ubiquitous sensing applications,” March 2008. 
+ Panelist, “Scaling the power wall,” IEEE International Symposium on System-on-Chip, Tampere, 
+Finland, November 2007. 
+ IBM Experts Workshop on Low Voltage CMOS, “Highly parallel adaptive systems for low voltage 
+operation,” Yorktown Heights, NY, November 2007. 
+ ST Microelectronics, “Low power circuit design research at the University of Michigan,” Crolles, 
+France, November 2006. 
+ Panelist, “How deep is it in here? Will variation-aware analysis be the savior for the nanometer era?”, 
+ACM/IEEE Design Automation Conference, July 2006. 
+ Intel Physical Verification and Physical Design (PVPD) research seminar, “Directions in low-power 
+CAD,” Haifa, Israel, July 2006. 
+ University of Utah, “IC design at ultra-low supply voltages,” February 2006. 
+ Georgia Tech Electrical and Computer Engineering Departmental Seminar, “IC design at a crossroads: 
+Enabling low-power and robust computing in nanometer CMOS,” November 2005 
+ International Conference on Computer-Aided Design, half-day tutorial co-presenter, “Gate 
+characterization and modeling for 90nm and below,” November 2005. 
+ Cadence Design Systems Distinguished Speaker Series, “IC design at a crossroads: Enabling low-
+power and robust computing in nanometer CMOS,” October 2005. 
+ Panelist, Manufacturing for Design meets Design for Manufacturing Forum, Semiconductor Research 
+Corporation, October 2005. 
+ Northwestern University Seminar Series in Computational Sciences, “New approaches to parametric 
+yield estimation and dual-Vth assignment,” October 2005. 
+ Invited lecturer, Mead Engineering short course, “Circuit design challenges in nanometer-scale 
+CMOS,” Lausanne, Switzerland, July 2005. 
+ Semiconductor Research Corporation e-Workshop, “Multiple supply and threshold voltage design: 
+guidelines, algorithms, and circuit solutions,” March 2005. 
+ Austin Center for Advanced Studies Annual Conference, “Parametric yield estimation considering 
+power/performance correlation,” February 2005. 
+ Asia-South Pacific Design Automation Conference, full-day tutorial co-presenter, “Power-aware 
+design for performance,” January 2005. 
+ International Symposium on Microarchitecture, full-day tutorial co-presenter, “Low-power robust 
+computing,” December 2004. 
+ Sequence Design NanoCool Low-power Design Initiative Seminar Keynote, “New approaches to total 
+power reduction including runtime leakage,” San Jose, CA, August 2004. 
+ Intel VLSI curriculum development two-day workshop, presenter, Hangzhou, China, and Penang, 
+Malaysia, July 2004. 
+ Design Automation Conference, full-day tutorial co-presenter, “Getting Your ‘Cool ASIC’ Up to 
+Speed: Practical Techniques and Tools to Achieve Custom-like Performance in a Power-Aware 
+Design Flow,” June 2004. 
+ Synopsys technology offsite, “EDA and Design Challenges with 45nm Devices,” Half Moon Bay, CA, 
+May 2004.  
+ IEEE Annual Workshop on Interconnections within High-Speed Digital Systems, “Modeling and 
+characterization of chip-level metal interconnects,” Santa Fe, NM, May 2004. 
+
+-----
+Dennis Sylvester, p. 11 
+ Panelist, “Buffering and Agony: What does the Future Hold?” ACM/IEEE International Symposium 
+on Physical Design, Phoenix, AZ, April 2004. 
+ University of California, Berkeley, Distinguished Lecture Series, “IC Design at a Crossroads: 
+Enabling Low-Power and Robust Computing in Nanometer CMOS,” April 2004. 
+ University of Texas, Austin VLSI seminar series, “New Approaches to Total Power Reduction 
+Including Runtime Leakage,” March 2004. 
+ IBM Austin Research Laboratories and T.J. Watson Research Center, “Multi-Vdd/Vth Design Space 
+and Early Algorithmic Results,” Austin, TX and Yorktown Heights, NY, August 2003. 
+ Advanced Micro Devices, “Minimum Cost of Correction and Related Design for Value Topics,” 
+Sunnyvale, CA, July 2003. 
+ Panelist, “Judgment Day for Power Management,” IEEE VLSI Symposium on Circuits, joint panel 
+with IEEE VLSI Symposium on Technology, Kyoto, Japan, June 2003. 
+ Fujitsu Laboratories, “Multi-Vdd/Vth Design and Interconnect Tuning Strategies,” Tokyo, Japan, June 
+2003. 
+ Mentor Graphics, “Towards Performance-driven Reduction of the Cost of RET-based Lithography 
+Control,” Wilsonville, OR, May 2003. 
+ Cypress Semiconductor, “Low-power Design for Global Interconnects and Dual-Supply Systems,” San 
+Jose, CA, March 2003. 
+ Panelist, 2002 International Technology Roadmap for Semiconductors conference, “Challenges and 
+opportunities for a low-power roadmap in consistence with ITRS CMOS scaling,” San Francisco, CA, 
+July 2002. 
+ IEEE Solid-State Circuits Society Kansai Chapter technical seminar, “High Performance Design in 
+Nanometer Technologies,” Kyoto, Japan, May 2002. 
+ Hitachi Central Research Laboratories, “High Performance Design in Nanometer Technologies,” 
+Tokyo, Japan, May 2002. 
+ Sequence Design NanoCool Low-power Design Initiative Seminar Keynote, “Power-driven 
+Challenges in Nanometer Design,” Ottawa, Canada, May 2002. 
+ Intel Physical Design Symposium, “Global Signaling Strategies for Nanometer CMOS,” Santa Clara, 
+CA, April 2002. 
+ University of California, Berkeley Electronics System Design (ESD) Seminar, “Global Signaling 
+Strategies for Nanometer CMOS,” April 2002. 
+ International Conference on Computer-Aided Design, full-day tutorial co-presenter, “Electrical 
+Integrity Design and Verification for Digital and Mixed-Signal Systems-on-a-chip,” November 2001. 
+ NEC Computers and Communications Research Labs (CCRL), “Approaches to Noise-Aware Static 
+Timing Analysis,” Princeton, NJ, December 2000. 
+ International Conference on Computer-Aided Design, full-day tutorial co-presenter, “Interconnect-
+centric Design and Analysis for Electrical Integrity in Systems-on-a-chip,” November 2000. 
+ University of California, Berkeley Solid-State Technology and Device Seminar, “Insights on Deep 
+Submicron Design: An EDA Perspective,” January 2000. 
+ Fabless Semiconductor Association Modeling Workshop, “The Role of Interconnect in System-Level 
+Performance: Delay, Power, Noise,” invited tutorial, San Jose, CA, May 1999 
+ IEEE Electron Devices Society Summer Symposium, “Interconnect Scaling: Signal Integrity and 
+Performance in Future High-Speed CMOS Designs,” Santa Clara, CA, June 1998 
+ 
+
+-----
+Dennis Sylvester, p. 12 
+Patents 
+Patents Issued 
+1. Dennis Sylvester and Himanshu Kaul, “Transition-aware signaling,” US patent 6,870,402, March 22, 
+2005. 
+2. Dennis Sylvester, Himanshu Kaul, and David Blaauw, “Actively shielded signal wires,” US patent 
+6,919,619, July 19, 2005. 
+3. Trevor Mudge, Todd Austin, David Blaauw, Dennis Sylvester, and Krisztian Flautner, “Memory 
+system having fast and slow data reading mechanisms,” US patent 6,944,067, September 13, 2005. 
+4. Todd Austin, David Blaauw, Trevor Mudge, Dennis Sylvester, and Krisztian Flautner, “Memory 
+system having fast and slow data reading mechanisms,” US patent 7,072,229, July 4, 2006. 
+5. Andrew B. Kahng, Puneet Gupta, Dennis Sylvester, and Jie Yang, “Method for correcting a mask 
+layout,” US patent 7,149,999, December 12, 2006. 
+6. Andrew B. Kahng, Puneet Gupta, Dennis Sylvester, and Jie Yang, “Method for correcting a mask 
+layout,” US patent 7,614,032, November 3, 2009. 
+7. Gregory Chen, Dennis Sylvester, and David Blaauw, “Integrated circuit memory access 
+mechanisms,” US patent 7,864,562, January 4, 2011. 
+8. Andrew B. Kahng, Puneet Gupta, Dennis Sylvester, and Jie Yang, “Tool for modifying mask design 
+layout,” US patent 8,103,981, January 24, 2012. 
+9. Yoonmyung Lee, Michael Wieckowski, David Blaauw, and Dennis Sylvester, “Memory cell 
+structure, a memory device employing such a memory cell structure, and an integrated circuit having 
+such a memory device,” US patent 8,107,290, January 31, 2012. 
+10. Sudhir Satpathy, David Blaauw, Trevor Mudge, Dennis Sylvester, and Ron Dreslinski, “Crossbar 
+circuitry and method of operation of such crossbar circuitry,” US patent 8,108,585, January 31, 2012. 
+11. Sudhir Satpathy, David Blaauw, Trevor Mudge, and Dennis Sylvester, “Crossbar circuitry and 
+method of operation of such crossbar circuitry,” US patent 8,230,152, July 24, 2012. 
+12. Sudhir Satpathy, David Blaauw, Trevor Mudge, and Dennis Sylvester, “Crossbar circuitry for 
+applying a pre-selection prior to arbitration between transmission requests and method of operation 
+of such crossbar circuitry,” US patent 8,255,610, August 28, 2012. 
+13. Matthew Fojtik, Dennis Sylvester, David Blaauw, David Fick, “Stalling synchronization circuits in 
+response to a late data signal,” US patent 8,276,014, September 25, 2012. 
+14. Ronald Dreslinski, Greg Chen, Trevor Mudge, David Blaauw, Dennis Sylvester, “Cache memory 
+system for a data processing apparatus,” US patent 8,335,122, December 18, 2012. 
+15. David Fick, Ronald Dreslinski, Trevor Mudge, David Blaauw, and Dennis Sylvester, “Vertical 
+interconnect patterns in multi-layer integrated circuits,” US patent 8,381,155, February 19, 2013. 
+16. David Blaauw, Dennis Sylvester, David Fick, Stuart Biles, Michael Wieckowski, Scott Hanson, 
+Gregory Chen, “Operating parameter control of an apparatus for processing data,” US patent 
+8,407,025, March 26, 2013. 
+17. Greg Chen, Dennis Sylvester, and David Blaauw, “Integrated circuit memory power supply,” US 
+patent 8,526,261, September 3, 2013. 
+18. Sudhir Satpathy, David Blaauw, Trevor Mudge, Dennis Sylvester, “Crossbar circuitry for applying 
+an adaptive priority scheme and method of operation of such crossbar circuitry,” US patent 
+8,549,207, October 1, 2013. 
+19. Mingoo Seok, Dennis Sylvester, David Blaauw, Scott Hanson, and Gregory Chen, “Reference 
+voltage generator having a two transistor design,” US patent 8,564,275, October 22, 2013. 
+20. Sudhir Satpathy, David Blaauw, Dennis Sylvester, “Apparatus and method for transferring a data 
+signal propagated along a bidirectional communication path within a data processing apparatus,” US 
+patent 8,713,232, April 29, 2014. 
+ 
+Students 
+
+-----
+Dennis Sylvester, p. 13 
+Ph.D. committees chaired: 
+Name 
+Project Area 
+ 
+ 
+ 
+ 
+Graduation/Status 
+ 
+Kanak Agarwal 
+On-chip interconnect modeling 
+ 
+ 
+2004 (IBM) 
+Himanshu Kaul 
+Global signaling strategies for nanometer VLSI 
+2004 (Intel) 
+Ashish Srivastava 
+Statistical CAD tools for low power 
+ 
+2005 (Synopsys) 
+Sarvesh Kulkarni 
+Multi-voltage CAD and design 
+  
+ 
+2006 (Intel) 
+Matt Guthaus 
+On-chip clock network optimization (co-chair) 
+2006 (UC-Santa Cruz) 
+Harmander Singh 
+Robust low-power design techniques 
+ 
+2006 (Intel) 
+Youngmin Kim 
+Exploiting design-process interactions 
+ 
+2007 (UNIST-Korea) 
+Saumil Shah 
+Parametric yield optimization tools 
+ 
+2007 (Synopsys) 
+Jie Yang 
+Design for manufacturability 
+ 
+ 
+2007 (Apple) 
+Eric Karl 
+Dynamic reliability management (co-chair) 
+2008 (Intel) 
+ 
+Yu-Shiang Lin 
+Ultra-low energy communication/computation 
+2008 (IBM) 
+Scott Hanson 
+Circuits for cubic millimeter computing 
+ 
+2008 (Ambiq Micro) 
+Jae-Sun Seo 
+Circuits for fast on-chip global signaling  
+2009 (Arizona St Univ) 
+Vineeth Veetil 
+Fast Monte Carlo-based statistical CAD 
+ 
+2010 (Applovin Corp) 
+Mingoo Seok 
+Extreme power-constrained IC design 
+ 
+2010 (Columbia) 
+Greg Chen 
+Millimeter-scale sensing systems  
+ 
+2011 (Intel) 
+Vivek Joshi 
+Variability-driven CAD  
+ 
+ 
+2011 (GLOBALFOUNDRIES) 
+Daeyeon Kim 
+Robust low-voltage memories 
+ 
+ 
+2012 (Intel) 
+Eric Marsman 
+Low power microcontrollers (co-chair) 
+ 
+2012 (Isocline) 
+Dave Fick 
+3D energy efficient computing (co-chair)  
+2012 (Isocline) 
+Matthew Fojtik 
+Adaptive error-correcting circuit design 
+ 
+2013 (Nvidia) 
+M. Hassan Ghaed 
+Wireless communication in implantable devices 
+2013 (Analog Devices) 
+Dongsuk Jeon 
+Energy efficient signal processing for VLSI 
+Candidate (expected 09/14) 
+Gyouho Kim 
+CMOS imaging in sensor nodes (co-chair)  
+Candidate (expected 08/14) 
+Yen-Po Chen 
+Low power analog building blocks 
+ 
+Pre-candidate (expected 05/15) 
+Suyoung Bang 
+Power management at nW scale  
+ 
+Pre-candidate (expected 05/15) 
+Laura Freyman 
+Low power embedded non-volatile memory 
+Pre-candidate (expected 05/16) 
+Seok Hyeon Jeong 
+Ultra-low power timers 
+ 
+ 
+ 
+Pre-candidate (expected 05/16) 
+Sechang Oh 
+Capacitance-to-digital conversion  
+ 
+Pre-candidate (expected 05/16) 
+Kaiyuan Yang 
+Circuits for security applications  
+ 
+Pre-candidate (expected 05/17) 
+Myungjoon Choi 
+Low power mixed-signal building blocks  
+Pre-candidate (expected 05/17) 
+Qing Dong 
+TBD 
+ 
+ 
+ 
+ 
+ 
+Pre-candidate (expected 05/18) 
+Yiqun Zhang 
+TBD 
+ 
+ 
+ 
+ 
+ 
+Pre-candidate (expected 05/18) 
+Jingcheng Wang 
+TBD 
+ 
+ 
+ 
+ 
+ 
+Pre-candidate (expected 05/19) 
+ 
+M.S. students supervised: 
+Robert Bai 
+Level-converting flip-flops for dual-Vdd CMOS 2003 (UBS bank) 
+Tejasvi Kachru 
+Statistical timing analysis of sequential elements 2006 (AMD) 
+Michelle Chang 
+Fast CAD algorithms using multi-processing 
+2010 (Peak6) 
+
+-----
+Dennis Sylvester, p. 14 
+Mahmood Barangi 
+Low-power analog/digital conversion 
+ 
+2011 
+Allan Wang 
+Fast voltage level conversion (co-chair) 
+ 
+2014 
+ 
+Ph.D. committees served on: 
+Hongtao Zhong 
+Multicore processing for single threaded apps 
+Candidate  
+Sujay Phadke 
+Heterogeneous memory design 
+ 
+ 
+Candidate 
+Inhee Lee 
+Power management circuits for sensor nodes 
+Candidate 
+Dongmin Yoon 
+Low power analog circuits for wireless sensing 
+Candidate 
+Puneet Gupta 
+Design-manufacturing interface 
+2006 (University of 
+  
+California, San Diego) 
+Bulusu Anand 
+DTMOS for scaled low-voltage circuits 
+2006 (External examiner, Indian 
+ 
+ 
+Institute of Tech., Bombay) 
+Ahmed Youssef 
+Power management for microprocessors 
+2008 (External examiner, 
+ 
+University of Waterloo) 
+Javid Jaffari 
+Statistical timing analysis 
+2010 (External examiner, 
+ 
+University of Waterloo) 
+Do Anh Tuan 
+Low voltage SRAM 
+2010 (External examiner, 
+ 
+Nanyang Technological 
+                     
+University) 
+Dandan Chen 
+Receivers for optical communication systems 
+2011 (External examiner, 
+ 
+Nanyang Technological 
+ 
+University) 
+Xiang Yi 
+mm-wave CMOS PLLs 
+2013 (External examiner, 
+ 
+Nanyang Technological 
+ 
+University) 
+Stevan Vlaovic 
+x86 microarchitecture performance simulation 
+2002 
+ 
+ 
+ 
+Mikhail Smelyanskiy Approaches to efficient software pipelining 
+2003 
+ 
+ 
+ 
+Koushik Das 
+Robust low-power circuits in PD-SOI 
+ 
+2003 
+ 
+ 
+ 
+Nam Sung Kim 
+Low-power cache architecture and design  
+2004 
+ 
+ 
+ 
+Conrad Zeisler 
+Energy recovering pipelines 
+ 
+ 
+2004 
+Saurabh Adya 
+Algorithms for VLSI layout design 
+ 
+2004 
+Rahul Rao 
+Low-power SOI VLSI design 
+ 
+ 
+2004 
+Erik Hallnor 
+Advanced cache architectures 
+ 
+ 
+2004 
+Aseem Agarwal 
+Statistical static timing analysis 
+ 
+ 
+2005 
+David Oehmke 
+Novel register file architectures 
+ 
+ 
+2005 
+Daniel Ernst 
+Virtual global communication 
+ 
+ 
+2005 
+Dongwoo Lee 
+Leakage current analysis and reduction 
+ 
+2005 
+R. Venkatasubramanium  Fault detection in wireless networks 
+ 
+2005 
+Alan Drake 
+Local resonant clocking for low-power 
+ 
+2005 
+Jay Sivagnaname 
+Pseudo-NMOS SOI circuit design  
+ 
+2005 
+Leyla Nazhandali 
+Architecture for sensor networks  
+ 
+2006 
+Allen Cheng 
+Application specific instruction sets 
+ 
+2006 
+Jia-Yi Chen 
+Low-power wireless transceivers  
+ 
+2006 
+
+-----
+Dennis Sylvester, p. 15 
+Rajeev Rao 
+Uncertainty-aware CAD tools 
+ 
+ 
+2006 
+Sunghyun Park 
+High-speed analog/digital converters 
+ 
+2006  
+Maher Mneimneh 
+Microprocessor verification 
+ 
+ 
+2006 
+Michael Geiger 
+Region-based caching 
+ 
+ 
+ 
+2006 
+Rajiv Ravindran 
+Compiler-driven memory power optimization  
+2007 
+Yoonna Oh 
+Constructive logic and layout synthesis 
+ 
+2007 
+Bo Zhai 
+Ultra-low power processors and memories  
+2007 
+Mini Nanua 
+Circuit modeling for signal integrity  
+ 
+2007 
+Taeho Kgil 
+Energy efficient servers using 3D integration 
+2007  
+Robert Senger 
+Micropower ASIC design techniques 
+ 
+2007 
+Sanjay Pant 
+On-chip power distribution networks  
+ 
+2008 
+Junyoung Park 
+High-speed CMOS serial links 
+ 
+ 
+2008 
+Jeff Ringenberg 
+Benchmarking for future microarchitectures 
+2008 
+Mark Ferriss 
+Low-power transmitters for sensor networks 
+2008 
+Debbie Marr 
+Simultaneous multithreading microarchitectures 
+2008 
+Stephen Plaza 
+Hierarchical logic synthesis and verification 
+2008 
+Kaviraj Chopra 
+Statistical CAD: Analysis and optimization 
+2008 
+Yuan Lin 
+Software-defined radio 
+ 
+ 
+ 
+2008 
+Smita Krishnaswamy Design and test of logic circuits under uncertainty 2008 
+Carlos Tokunaga 
+Circuit design for security applications 
+ 
+2008 
+Jaeyoung Kang 
+Successive-approximation ADCs  
+ 
+2008 
+Shidhartha Das 
+Variation-tolerant circuit design  
+ 
+2009 
+Ali Saidi 
+Full-system critical path analysis  
+ 
+2009 
+Shahrzad Naraghi 
+Analog/digital converters  
+ 
+ 
+2009 
+Jarrod Roy 
+Placement and routing in nanometer CMOS 
+2009 
+Ravi Gandikota 
+Crosstalk noise analysis in VLSI  
+ 
+2009 
+Lisa Hsu 
+Cache resource allocation in multiprocessors 
+2009 
+Chun Chieh Lee 
+Low-power analog/digital converters 
+ 
+2009 
+Brian Cline 
+Design for manufacturability 
+ 
+ 
+2010 
+David Papa 
+Physical synthesis tools 
+ 
+ 
+ 
+2010 
+Cheng Zhuo 
+CAD for reliability 
+ 
+ 
+ 
+2010 
+David Roberts 
+Fault-tolerant architectures 
+ 
+ 
+2010 
+Geoffrey Blake 
+Transactional memory 
+ 
+ 
+ 
+2011 
+Rach Liu 
+Integrated circuits for security 
+ 
+ 
+2011 
+Amir Hormati 
+Compilers for streaming applications 
+ 
+2011 
+Youngmin Park 
+Synthesizing analog/RF designs  
+ 
+2011 
+Prashant Singh 
+Reliability monitoring for nanoscale CMOS 
+2011 
+Ron Dreslinski 
+Low power microarchitecture 
+ 
+ 
+2011 
+Razi ul-Haque 
+Implantable microsystem design  
+ 
+2011 
+Dongjin Lee 
+Clock network optimization 
+ 
+ 
+2011 
+Wei-Hsiang Ma 
+Resonant clocking 
+ 
+ 
+ 
+2011 
+
+-----
+Dennis Sylvester, p. 16 
+Sudhir Satpathy 
+High-performance crossbar interconnect  
+2012 
+Yoonmyung Lee 
+Ultra-low power circuits for mm3 systems  
+2012 
+Biju Edamana 
+Control strategies for micro-robots 
+ 
+2012 
+Korey Sewell 
+Architectures for network processors 
+ 
+2012 
+Jonathan Brown 
+Receivers for wireless sensor nodes 
+ 
+2012 
+Jorge Pernillo 
+High-speed analog/digital converters 
+ 
+2012 
+Seunghyun Oh 
+Wireless body area networks 
+ 
+ 
+2013 
+Kuo-Ken Huang 
+Low power radios  
+ 
+ 
+ 
+2013 
+Bharan Giridhar 
+High performance circuits and SRAM 
+ 
+2014 
+ 
+Postdoctoral scholars supervised: 
+Dr. Mike Wieckowski Low-voltage memory and voltage regulators 
+2007-2010 
+Dr. Scott Hanson 
+Ultra-low power microcontrollers 
+ 
+2009-2010 
+Dr. David Fick 
+Energy efficient VLSI design 
+ 
+ 
+2012 - present 
+Dr. M. Khayatzadeh 
+Error resilient circuits 
+ 
+ 
+ 
+2013 - present 
+Professional and Honor Societies 
+ 
+ 
+Fellow, Institute of Electrical and Electronics Engineers (IEEE) 
+ 
+Member, Association for Computing Machinery (ACM) 
+ 
+Member, Eta Kappa Nu (HKN) 
+ 
+Publications 
+ 
+h-index = 57, total citations = 10613 (Google Scholar, May 2014) 
+Books and book chapters 
+1. 
+A. Srivastava, D. Sylvester, and D. Blaauw, Statistical Analysis and Optimization for VLSI: Timing 
+and Power, Springer Publishers, New York, 2005. 
+2. 
+D. Lee, B. Zhai, D. Blaauw, and D. Sylvester, “Static leakage reduction through simultaneous 
+Vt/Tox and state assignment,” in Ultra Low-Power Electronics and Design, E. Macii, Ed. Kluwer 
+Academic Publishers, Boston, 2004. 
+3. 
+L. Stok, R. Puri, S. Bhattacharya, J. Cohn, D. Sylvester, A. Srivastava, and S.H. Kulkarni, “Pushing 
+ASIC performance in a power envelope,” in Closing the Power Gap Between ASIC and Custom, D. 
+Chinnery and K. Keutzer, ed., Springer Publishers, New York, 2007.  
+4. 
+S.H. Kulkarni, A. Srivastava, D. Sylvester, and D. Blaauw, “Power optimization techniques using 
+multiple supply voltages,” in Closing the Power Gap Between ASIC and Custom, D. Chinnery and 
+K. Keutzer, ed., Springer Publishers, New York, 2007. 
+ 
+Journal publications 
+5. 
+I. Kwon, S. Kim, D. Fick, M. Kim, Y-P. Chen, and D. Sylvester, “Razor-Lite: A lightweight register 
+for error detection by observing virtual supply rails,” accepted for publication in IEEE Journal of 
+Solid-State Circuits. 
+
+-----
+Dennis Sylvester, p. 17 
+6. 
+S-H. Jeong, Z. Foo, Y. Lee, J-Y. Sim, D. Blaauw, and D. Sylvester, “A fully integrated 71nW 
+CMOS temperature sensor for low power wireless sensor nodes,” accepted for publication in IEEE 
+Journal of Solid-State Circuits. 
+7. 
+D. Jeon, M. Henry, Y. Kim, I. Lee, Z. Zhang, D. Blaauw, and D. Sylvester, “An energy efficient 
+full-frame feature extraction accelerator with shift-latch FIFO in 28nm CMOS,” accepted for 
+publication in IEEE Journal of Solid-State Circuits. 
+8. 
+Y-S. Park, D. Blaauw, D. Sylvester, and Z. Zhang, “Low-power high-throughput LDPC decoder 
+using non-refresh embedded DRAM,” accepted for publication in IEEE Journal of Solid-State 
+Circuits. 
+9. 
+Y. Lee, M. Seok, S. Hanson, D. Sylvester, and D. Blaauw, “Achieving ultra-low standby power with 
+an efficient SCCMOS bias generator,” accepted for publication in IEEE Transactions on Circuits 
+and Systems II. 
+10. C-H. Chen, D. Blaauw, D. Sylvester, and Z. Zhang, “Design and evaluation of confidence-driven 
+error-resilient systems,” accepted for publication in IEEE Transactions on VLSI Systems.  
+11. M.H. Ghaed, G. Chen, R-ul. Haque, M. Wieckowski, Y. Kim, G. Kim, Y. Lee, I. Lee, D. Fick, D. 
+Kim, M. Seok, K.D. Wise, D. Blaauw, and D. Sylvester, “Circuits for a cubic millimeter energy-
+autonomous wireless intraocular pressure monitor,” IEEE Transactions on Circuits and Systems I, 
+pp. 3152-3162, December 2013. 
+12. R.G. Dreslinski, D. Fick, B. Giridhar, G. Kim, S. Seo, M. Fojtik, S. Satpathy, Y. Lee, D. Kim, N. 
+Liu, M. Wieckowski, G. Chen, D. Sylvester, D. Blaauw, and T. Mudge, “Centip3De: A many-core 
+prototype exploring 3D integration and near-threshold computing,” Communications of the ACM, 
+pp. 97-104, November 2013. 
+13. Y. Lee, B. Giridhar, Z. Foo, D. Sylvester, and D. Blaauw, “A Sub-nW Multi-stage Temperature 
+Compensated Timer for Ultra-Low-Power Sensor Nodes,” IEEE Journal of Solid-State Circuits, pp. 
+2511-2521, October 2013. 
+14. N. Pinckney, R.G. Dreslinski, K. Sewell, D. Fick, T. Mudge, D. Sylvester, and D. Blaauw, “Limits 
+of Parallelism and Boosting in Dim Silicon,” IEEE Micro, pp. 30-37, Sept-Oct. 2013. 
+15. Y. Lee, D. Kim, J. Cai, I. Lauer, L. Chang, S.J. Koester, D. Blaauw, and D. Sylvester, “Low power 
+circuit analysis and design based on heterojunction tunneling transistors (HETTs),” IEEE 
+Transactions on VLSI Systems, pp. 1632-1643, Sept. 2013. 
+16. C. Zhuo, D. Sylvester, and D. Blaauw, “A statistical framework for post-fabrication oxide 
+breakdown reliability prediction and management,” IEEE Transactions on Computer-Aided Design, 
+pp. 630-643, April 2013. 
+17. R. Dreslinski, D. Fick, B. Giridhar, G. Kim, S. Seo, M. Fojtik, S. Satpathy, Y. Lee, D. Kim, N. Liu, 
+M. Wieckowski, G. Chen, D. Blaauw, D. Sylvester, T. Mudge, “Centip3De: A 64-Core, 3D Stacked, 
+Near-Threshold System,” IEEE Micro, pp. 8-16, March/April 2013. 
+18. M. Fojtik, D. Kim, G. Chen, Y-S. Lin, D. Fick, J. Park, M. Seok, M-T. Chen, Z. Foo, D. Blaauw, 
+and D. Sylvester, “A millimeter-scale energy-autonomous sensor system with stacked battery and 
+solar cells,” IEEE Journal of Solid-State Circuits, pp. 801-813, March 2013. 
+19. Y. Lee, D. Yoon, Y. Kim, D. Blaauw, and D. Sylvester, “Circuit and system design guidelines for 
+ultra-low power sensor nodes,” IPSJ Transactions on System LSI Design Methodology (T-SLDM), 
+pp. 17-26, February 2013. [invited paper] 
+20. P. Gupta, Y. Agarwal, L. Dolecek, N. Dutt, R. Gupta, R. Kumar, S. Mitra, A. Nicolau, T. Simunic 
+Rosing, M.B. Srivastava, S. Swanson, and D. Sylvester, “Underdesigned and opportunistic 
+computing in presence of hardware variability,” IEEE Transactions on Computer-Aided Design, pp. 
+8-23, January 2013 (invited keynote article). 
+
+-----
+Dennis Sylvester, p. 18 
+21. M. Fojtik, D. Fick, Y. Kim, N. Pinckney, D. Harris, D. Blaauw, and D. Sylvester, “Bubble Razor: 
+Eliminating timing margins in an ARM Cortex-M3 processor in 45nm CMOS using architecturally 
+independent error detection and correction,”  IEEE Journal of Solid-State Circuits, pp. 66-81, 
+January 2013. 
+22. D. Fick, R. Dreslinski, B. Giridhar, G. Kim, S. Seo, M. Fojtik, S. Satpathy, Y. Lee, D. Kim, N. Liu, 
+M. Wieckowski, G. Chen, T. Mudge, D. Blaauw, and D. Sylvester, “Centip3De: A cluster-based 
+NTC architecture with 64 ARM Cortex-M3 cores in 3D stacked 130nm CMOS,” IEEE Journal of 
+Solid-State Circuits, pp. 104-117, January 2013. 
+23. Y. Lee, G. Kim, S. Bang, Y. Kim, I. Lee, P. Dutta, D. Sylvester, and D. Blaauw, “A modular 1mm3 
+Die-Stacked Sensing Platform with Low Power I2C Inter-die Communication and Multi-Modal 
+Energy Harvesting,” IEEE Journal of Solid-State Circuits, pp. 229 - 243, January 2013. 
+24. D. Jeon, M. Seok, Z. Zhang, D. Blaauw, and D. Sylvester, “A design methodology for voltage 
+overscaled ultra-low power systems,” IEEE Transactions on Circuits and Systems II, pp. 952-956, 
+December 2012. 
+25. M. Seok, G. Kim, D. Blaauw, and D. Sylvester, “A portable 2-transistor picowatt temperature-
+compensated voltage reference operating at 0.5V,” IEEE Journal of Solid-State Circuits, pp. 2534-
+2545, October 2012. 
+26. P. Singh, E. Karl, D. Sylvester, and D. Blaauw, “Compact degradation sensors for monitoring NBTI 
+and oxide degradation,” IEEE Transactions on VLSI Systems, pp. 1645-1655, September 2012. 
+27. K. Sewell, R.G. Dreslinski, T. Manville, S. Satpathy, N. Pinckney, G. Blake, M. Cieslak, R. Das, T. 
+Wenisch, D. Sylvester, D. Blaauw, and T. Mudge, “Swizzle-switch networks for many-core 
+systems,” IEEE Journal on Emerging Topics in Circuits and Systems, pp. 278-294, June 2012. 
+28. A. DeOrio, D. Fick, V. Bertacco, D. Sylvester, D. Blaauw, J. Hu, and G. Chen, “A reliable routing 
+architecture and algorithm for NoCs,” IEEE Transactions on Computer-Aided Design, pp. 726-739, 
+May 2012. 
+29. M. Seok, S. Hanson, D. Blaauw, and D. Sylvester, “Sleep mode analysis and optimization with 
+minimal-sized power gating switch for ultra-low Vdd operation,” IEEE Transactions on VLSI 
+Systems, pp. 605-615, April 2012. 
+30. D. Jeon, M. Seok, C. Chakrabarti, D. Blaauw, and D. Sylvester, “A super-pipelined energy efficient 
+subthreshold 240MS/s FFT core in 65nm CMOS,” IEEE Journal on Solid-State Circuits, pp. 23-34, 
+January 2012. 
+31. J-S. Seo, D. Blaauw, and D. Sylvester, “Crosstalk-aware PWM-based on-chip links with self-
+calibration in 65nm CMOS,” IEEE Journal on Solid-State Circuits, pp. 2041-2052, September 
+2011. 
+32. P. Singh, E. Karl, D. Sylvester, and D. Blaauw, “Dynamic NBTI management using a 45nm multi-
+degradation sensor,” IEEE Transactions on Circuits and Systems I, pp. 2026-2037, September 2011. 
+33. C. Zhuo, K. Chopra, D. Sylvester, and D. Blaauw, “Process variation and temperature-aware full-
+chip oxide breakdown reliability analysis,” IEEE Transactions on Computer-Aided Design, pp. 
+1321-1334, September 2011. 
+34. M. Seok, D. Blaauw, and D. Sylvester, “Robust clock network design methodology for ultra-low 
+voltage operations,” IEEE Journal on Emerging Topics in Circuits and Systems, pp. 120-130, June 
+2011. [invited] 
+35. V. Veetil, K. Chopra, D. Blaauw, and D. Sylvester, “Fast statistical static timing analysis using 
+smart Monte Carlo techniques,” IEEE Transactions on Computer-Aided Design, pp. 852-865, June 
+2011.  
+
+-----
+Dennis Sylvester, p. 19 
+36. M. Seok, G. Chen, S. Hanson, M. Wieckowski, D. Blaauw, and D. Sylvester, “CAS-FEST 2010: 
+Mitigating variability in near-threshold computing,” IEEE Journal on Emerging Topics in Circuits 
+and Systems, pp. 42-49, March 2011. 
+37. J-S. Seo, D. Sylvester, D. Blaauw, H. Kaul, and R. Krishnamurthy, “A robust edge encoding 
+technique for energy-efficient multi-cycle interconnect,” IEEE Transactions on VLSI Systems, pp. 
+264-273, February 2011. 
+38. G.K. Chen, S. Hanson, D. Blaauw, and D. Sylvester, “Circuit design advances for wireless sensing 
+applications,” Proceedings of the IEEE, pp. 1808-1827, December 2010.  [invited] 
+39. G. Chen, D. Sylvester, D. Blaauw, and T. Mudge, “Yield-driven near-threshold SRAM design,” 
+IEEE Transactions on VLSI Systems, pp. 1590-1598, November 2010. 
+40. V. Joshi, B. Cline, D. Sylvester, D. Blaauw, and K. Agarwal, “Mechanical stress aware optimization 
+for leakage power reduction,” IEEE Transactions on Computer-Aided Design, pp. 722-736, May 
+2010. 
+41. S. Hanson, Z. Foo, D. Blaauw, and D. Sylvester, “A 0.5V sub-microwatt CMOS image sensor with 
+pulse-width modulation read-out,” IEEE Journal of Solid-State Circuits, pp. 759-767, April 2010. 
+42. R.G. Dreslinski, M. Wieckowski, D. Blaauw, D. Sylvester, and T. Mudge, “Near-threshold voltage 
+scaling for energy optimal systems,” Proceedings of the IEEE, pp. 253-266, February 2010.  
+[invited] 
+43. R. Gandikota, K. Chopra, D. Blaauw, and D. Sylvester, “Victim alignment in crosstalk-aware timing 
+analysis,” IEEE Transactions on Computer-Aided Design, pp. 261-274, February 2010. 
+44. H. Singh, R.M. Rao, D. Sylvester, R. Brown, and K. Nowka, “Dynamically pulsed MTCMOS with 
+bus encoding for total power and crosstalk minimization,” IEEE Transactions on VLSI Systems, pp. 
+166-170, January 2010. 
+45. R.R. Rao, V. Joshi, D. Blaauw, and D. Sylvester, “Circuit optimization techniques to mitigate the 
+effects of soft errors in combinational logic,” ACM Transactions on Design Automation of 
+Electronic Systems, pp. 5:1-5:27, December 2009. 
+46. P. Singh, C. Zhou, E. Karl, D. Blaauw, and D. Sylvester, “Sensor driven reliability and wearout 
+management,” IEEE Design & Test of Computers, pp. 40-49, Nov/Dec 2009.  [invited] 
+47. B. Zhai, S. Pant, L. Nazhandali, S. Hanson, J. Olson, A. Reeves, M. Minuth, R. Helfand, T. Austin, 
+D. Sylvester, and D. Blaauw, “Energy efficient subthreshold processor design,”  IEEE Transactions 
+on VLSI Systems, pp. 1127-1137, August 2009. [top 25 downloaded manuscripts, TVLSI 2009] 
+48. Y. Kim, D. Petranovic, and D. Sylvester, “Simple and accurate models for capacitance increment 
+due to metal fill insertion,” IEEE Transactions on VLSI Systems, pp. 1166-1170, August 2009. 
+49. S. Hanson, M. Seok, Y-S. Lin, Z. Foo, D. Kim, Y. Lee, N. Liu, D. Sylvester, and D. Blaauw, “A low 
+voltage processor for sensing applications with picowatt standby mode,” IEEE Journal of Solid-
+State Circuits, pp. 1145-1155, April 2009. 
+50. Y-S. Lin, D. Sylvester, and D. Blaauw, “Alignment independent chip-to-chip communication for 
+sensor applications using passive capacitive signaling,” IEEE Journal of Solid-State Circuits, pp. 
+1156-1166, April 2009. 
+51. F. Albano, Y-S. Lin, D. Blaauw, D. Sylvester, K.D. Wise, and A.M. Sastry, “A fully integrated 
+microbattery for an implantable microelectromechanical system,” Elsevier Journal of Power 
+Sources, 185 (2), pp.1524-1532, December 2008. 
+52. B. Zhai, S. Hanson, D. Blaauw, and D. Sylvester, “A variation-tolerant sub-200mV 6-T 
+subthreshold SRAM,” IEEE Journal of Solid-State Circuits, pp. 2338-2348, October 2008. 
+53. P. Singh, J-S. Seo, D. Blaauw, and D. Sylvester, “Self-timed regenerators for high-speed and low-
+power on-chip global interconnect,” IEEE Transactions on VLSI Systems, pp. 673-677, June 2008. 
+
+-----
+Dennis Sylvester, p. 20 
+54. D. Sylvester, K. Agarwal, and S. Shah, “Variability in nanometer CMOS: Impact, analysis, and 
+minimization,” Integration, the VLSI Journal, vol. 41, no. 3, pp. 319-339, May 2008. [invited] 
+55. S. Hanson, B. Zhai, M. Seok, B. Cline, K. Zhou, M. Singhal, M. Minuth, J. Olson, L. Nazhandali, T. 
+Austin, D. Sylvester, and D. Blaauw, “Exploring variability and performance in a sub-200mV 
+processor,” IEEE Journal of Solid-State Circuits, pp. 881-891, April 2008. 
+56. E-H. Toh, G. H. Wang, L. Chan, D. Sylvester, C.-H. Heng, G. Samudra, and Y.-C. Yeo, "Device 
+design and scalability of a double-gate tunneling field-effect transistor with silicon-germanium 
+source," Japanese Journal of Applied Physics, vol. 47, no. 4, pp. 2593-2597, April 2008. 
+57. E. Karl, D. Blaauw, D. Sylvester, and T. Mudge, “Multi-mechanism reliability modeling and 
+management in dynamic systems,” IEEE Transactions on VLSI Systems, pp. 476-487, April 2008. 
+58. S.H. Kulkarni, D. Sylvester, and D. Blaauw, “Design time optimization of post-silicon tuned circuits 
+using adaptive body bias,” IEEE Transactions on Computer-Aided Design, pp. 481-494, March 
+2008. 
+59. A. Srivastava, K. Chopra, S. Shah, D. Sylvester, and D. Blaauw, “A novel approach to perform gate-
+level yield analysis and optimization considering correlated variations in power and performance,” 
+IEEE Transactions on Computer-Aided Design, pp. 272-285, February 2008. 
+60. S. Hanson, M. Seok, D. Sylvester, and D. Blaauw, “Nanometer device scaling in subthreshold logic 
+and SRAM,” IEEE Transactions on Electron Devices, pp. 175-185, January 2008. 
+61. J. Lin, E.-H. Toh, C. Shen, D. Sylvester, C-H. Heng, G. Samudra, and Y-C. Yeo, "Compact HSPICE 
+model for IMOS device," IET Electronics Letters, vol. 44, no. 2, pp. 91-92, January 17 2008.  
+62. P. Gupta, A.B. Kahng, D. Sylvester, and J. Yang, “Performance-driven optical proximity correction 
+for mask cost reduction,” SPIE Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), pp. 
+031005-1 – 031005-8, July-September 2007. 
+63. H. Singh, K. Agarwal, D. Sylvester, and K. Nowka, “Enhanced leakage reduction techniques using 
+intermediate strength power gating,” IEEE Transactions on VLSI Systems, pp. 1215-1224, 
+November 2007.  [top 25 downloaded manuscripts, TVLSI 2008] 
+64. P. Gupta, A.B. Kahng, Y. Kim, and D. Sylvester, “Self-compensating design for reduction of timing 
+and leakage sensitivity to systematic pattern dependent variation,” IEEE Transactions on Computer-
+Aided Design, pp. 1614-1624, September 2007. 
+65. K. Agarwal, R.M. Rao, D. Sylvester, and R. Brown, “Parametric yield analysis and optimization in 
+leakage dominated technologies,” IEEE Transactions on VLSI Systems, pp. 613-623, June 2007. 
+66. F. Albano, M.D. Chung, D. Blaauw, D. Sylvester, K.D. Wise, and A.M. Sastry, “Design of an 
+implantable power supply for an intraocular sensor, using POWER (Power Optimization for 
+Wireless Energy Requirements),” Elsevier Journal of Power Sources, v. 170 (1), pp. 216-224, June 
+2007. 
+67. D. Sylvester and A. Srivastava, “Computer-aided design for low-power robust computing in 
+nanoscale CMOS,” Proceedings of IEEE, pp. 507-529, March 2007. [invited] 
+68. R.R. Rao, K. Chopra, D. Blaauw, and D. Sylvester, “Soft error rate computation of combinational 
+logic using parameterized descriptors,” IEEE Transactions on Computer-Aided Design, pp. 468-
+479, March 2007. 
+69. A. Srivastava, T. Kachru, and D. Sylvester, “Low-power design space exploration considering 
+process variation using robust optimization,” IEEE Transactions on Computer-Aided Design, pp. 
+67-79, January 2007. 
+70. D. Sylvester, D. Blaauw, and E. Karl, “ElastIC: An adaptive self-healing architecture for 
+unpredictable silicon,” IEEE Design & Test of Computers, special issue on process variation and 
+stochastic design and test, pp. 484-490, Nov/Dec 2006. 
+
+-----
+Dennis Sylvester, p. 21 
+71. D. Lee, D. Blaauw, and D. Sylvester, “Runtime leakage minimization through probability-aware 
+optimization,” IEEE Transactions on VLSI Systems, pp. 1075-1088, October 2006. 
+72. R.R. Rao, A. Devgan, D. Blaauw, and D. Sylvester, “Analytical yield prediction considering 
+leakage/performance correlation,” IEEE Transactions on Computer-Aided Design, pp. 1685-1695, 
+September 2006. 
+73. P. Gupta, A.B. Kahng, P. Sharma, and D. Sylvester, “Gate-length biasing for runtime leakage 
+control,” IEEE Transactions on Computer-Aided Design, pp. 1475-1485, August 2006. 
+74. S.H. Kulkarni and D. Sylvester, “Power distribution techniques for dual Vdd circuits,” Journal of 
+Low Power Electronics, pp. 217-229, August 2006. 
+75. K. Agarwal, M. Agarwal, D. Sylvester, and D. Blaauw, “Statistical modeling of VLSI interconnect 
+for physical design optimization,” IEEE Transactions on Computer-Aided Design, pp. 1273-1288, 
+July 2006. 
+76. S. Hanson, B. Zhai, K. Bernstein, D. Blaauw, A. Bryant, L. Chang, K. Das, W. Haensch, E. Nowak, 
+and D. Sylvester, “Ultra low-voltage, minimum energy CMOS”, IBM Journal of Research and 
+Development, pp. 469-490, July/September 2006. 
+77. K. Agarwal, D. Sylvester, and D. Blaauw, “Modeling and analysis of crosstalk noise in coupled 
+RLC interconnects,” IEEE Transactions on Computer-Aided Design, pp. 892-901, May 2006. 
+78. A. Sultania, D. Sylvester, and S. Sapatnekar, “Gate oxide leakage and delay tradeoffs for dual-Tox 
+circuits,” IEEE Transactions on VLSI Systems, pp. 1362-1375, December 2005. 
+79. R.R. Rao, H. Deogun, D. Blaauw, and D. Sylvester, “Bus encoding for total power reduction using a 
+leakage-aware buffer configuration,” IEEE Transactions on VLSI Systems, pp. 1376-1383, 
+December 2005. 
+80. H. Kaul, D. Sylvester, M. Anders, and R. Krishnamurthy, “Design and analysis of spatial encoding 
+circuits for peak power reduction in on-chip buses,” IEEE Transactions on VLSI Systems, pp. 1225-
+1238, November 2005. 
+81. B. Zhai, D. Blaauw, D. Sylvester, and K. Flautner, “The limit of dynamic voltage scaling and 
+extended DVS,” IEEE Transactions on VLSI Systems, pp. 1239-1252, November 2005. 
+82. Y. Cao, X. Yang, X. Huang, and D. Sylvester, “Switch-factor based loop RLC modeling for 
+efficient timing analysis,” IEEE Transactions on VLSI Systems, pp. 1072-1078, September 2005. 
+83. R.R. Rao, A. Devgan, D. Blaauw, and D. Sylvester, “Modeling and analysis of parametric yield 
+under power and performance constraints,” IEEE Design & Test of Computers, special issue on 
+design and test methodologies for scaled technologies, pp. 376-385, July-August 2005.  [invited] 
+84. D. Lee, D. Blaauw, and D. Sylvester, “Static leakage reduction through simultaneous Vt/Tox and 
+state assignment,” IEEE Transactions on Computer-Aided Design, pp. 1014-1029, July 2005. 
+85. Y. Cao, X. Huang, D. Sylvester, T-J. King, and C. Hu, “Impact of on-chip frequency-dependent R(f) 
+L(f) on digital and RF design,” IEEE Transactions on VLSI Systems, pp. 158-162, January 2005. 
+86. H. Kaul, D. Sylvester, and D. Blaauw, “Performance optimization of critical nets through active 
+shielding,” IEEE Transactions on Circuits and Systems I, pp. 2417-2435, December 2004. 
+87. S.H. Kulkarni and D. Sylvester, “Fast and energy-efficient asynchronous level converters for multi-
+Vdd design,” IEEE Transactions on VLSI Systems, pp. 926-936, September 2004. 
+88. K. Agarwal, D. Sylvester, and D. Blaauw, “A simple metric for slew rate of RC circuits based on 
+two circuit moments,” IEEE Transactions on Computer-Aided Design, pp. 1346-1354, September 
+2004. 
+89. A. Srivastava and D. Sylvester, “Minimizing total power by simultaneous Vdd/Vth assignment,” 
+IEEE Transactions on Computer-Aided Design, pp. 665-677, May 2004. 
+
+-----
+Dennis Sylvester, p. 22 
+90. H. Kaul and D. Sylvester, “Low-power global IC communication based on transition-aware global 
+signaling,” IEEE Transactions on VLSI Systems, pp. 464-476, May 2004. 
+91. D. Lee, D. Blaauw, and D. Sylvester, “Gate oxide leakage current analysis and reduction for VLSI 
+circuits,” IEEE Transactions on VLSI Systems, pp. 155-166, February 2004. 
+92. R.R. Rao, A. Srivastava, D. Blaauw, and D. Sylvester, “Statistical analysis of subthreshold leakage 
+current for VLSI circuits,” IEEE Transactions on VLSI Systems, pp. 131-139, February 2004. 
+93. K. Agarwal, D. Sylvester, and D. Blaauw, “Effective capacitance based driver output model for on-
+chip RLC interconnects,” IEEE Transactions on Computer-Aided Design, pp. 128-134, January 
+2004. 
+94. Y. Cao, M. Orshansky, D. Sylvester, T. Sato, and C. Hu, “SPICE up your MOSFET modeling: 
+presenting a new paradigm of predictive MOSFET modeling for early circuit design innovation,” 
+IEEE Circuits and Devices, pp. 17-23, July 2003. 
+95. T. Sato, Y. Cao, K. Agarwal, D. Sylvester, and C. Hu, “Bi-directional closed-form transformation 
+between on-chip coupling noise waveforms and interconnect delay change curves,” IEEE 
+Transactions on Computer-Aided Design, pp. 560-572, May 2003. 
+96. Y. Cao, C. Hu, X. Huang, A.B. Kahng, I. Markov, M. Oliver, D. Stroobandt, and D. Sylvester, 
+“Improved a priori interconnect predictions and technology extrapolation in the GTX system,” IEEE 
+Transactions on VLSI Systems, pp. 3-14, Feb. 2003. 
+97. Y. Cao, X. Huang, N. Chang, S. Lin, O.S. Nakagawa, W. Xie, D. Sylvester, and C. Hu, “Effective 
+on-chip inductance modeling for multiple signal lines and application to repeater insertion,” IEEE 
+Transactions on VLSI Systems, pp. 799-805, Dec. 2002. 
+98. D. Sylvester and H. Kaul, “Power-driven challenges in nanometer design,” IEEE Design & Test of 
+Computers, pp. 12-22, Nov/Dec. 2001.  
+  
+The above paper was also included in a 2002 special report on design and test strategies compiled 
+by the editors of IEEE Design and Test. 
+99. T. Sato, D. Sylvester, Y. Cao, and C. Hu, “Accurate in-situ measurement of peak noise and delay 
+change induced by interconnect coupling,” IEEE Journal of Solid-State Circuits, pp. 1587-1591, 
+Oct. 2001. 
+100. D. Sylvester and C. Hu, "Analytical modeling and characterization of deep submicron interconnect," 
+Proceedings of IEEE, pp. 634-664, May 2001. [invited] 
+101. D. Sylvester and K. Keutzer, "Microarchitectures for systems on a chip in small process 
+geometries," Proceedings of IEEE, pp. 467-489, April 2001.  [invited] 
+102. D. Sylvester and K. Keutzer, "A global wiring paradigm for deep submicron design," IEEE 
+Transactions on CAD, pp. 242-252, February 2000. 
+103. D. Sylvester and K. Keutzer, "Rethinking deep submicron circuit design," IEEE Computer, 
+November 1999, pp. 25-33. 
+104. O.S. Nakagawa, D. Sylvester, J.G. McBride, and S-Y. Oh, “Closed-form modeling of on-chip 
+crosstalk noise in deep-submicron ULSI interconnect,” Hewlett-Packard Journal, pp. 39-45, August 
+1998. 
+105. J.C. Chen, D. Sylvester, and C. Hu, “An on-chip interconnect capacitance characterization method 
+with sub-femto-farad resolution,” IEEE Transactions on Semiconductor Manufacturing, pp. 204-
+210, May 1998. 
+106. D. Sylvester, J.C. Chen, and C. Hu, “Investigation of interconnect capacitance using charge-based 
+capacitance measurement (CBCM) technique and 3-D simulation,” IEEE Journal of Solid-State 
+Circuits, pp. 449-453, March 1998. 
+
+-----
+Dennis Sylvester, p. 23 
+107. B.W. McGaughy, J.C. Chen, D. Sylvester, and C. Hu, “A simple method for on-chip sub-femto-
+farad interconnect capacitance measurement,” IEEE Electron Device Letters, pp. 21-23, January 
+1997. 
+ 
+Conference publications 
+108. M.H. Ghaed, S. Skrzyniarz, D. Blaauw, and D. Sylvester, “A 1.6nJ/bit, 19.9A peak current fully 
+integrated 2.5mm2 inductive transceiver for volume-constrained microsystems,” IEEE Custom 
+Integrated Circuits Conference, in press, 2014. 
+109. S-H. Jeong, I. Lee, D. Blaauw, and D. Sylvester, “A 5.8nW, 45ppm/°C on-chip CMOS wake-up 
+timer using a constant charge subtraction scheme,” IEEE Custom Integrated Circuits Conference, in 
+press, 2014. 
+110. I. Lee, Y. Kim, S. Bang, G. Kim, H. Ha, Y-P. Chen, D. Jeon, S. Jeong, W. Jung, M.H. Ghaed, Z. 
+Foo, Y. Lee, J-Y. Sim, D. Sylvester, and D. Blaauw, “Circuit techniques for miniaturized 
+biomedical sensors,” IEEE Custom Integrated Circuits Conference, in press, 2014. [invited] 
+111. D. Fick, G. Kim, A. Wang, D. Blaauw, and D. Sylvester, “Mixed-signal stochastic computation 
+demonstrated in an image sensor with integrated 2D edge detection and noise filtering,” IEEE 
+Custom Integrated Circuits Conference, in press, 2014. 
+112. M. Choi, I. Lee, T-K. Jang, D. Blaauw, and D. Sylvester, “A 23pW, 780 ppm/°C resistor-less 
+current reference using subthreshold MOSFETs,” IEEE European Solid-State Circuits Conference, 
+in press, 2014. 
+113. S. Oh, Y. Lee, J. Wang, Z. Foo, Y. Kim, D. Blaauw, and D. Sylvester, “A 9.7b, 0.85pJ/conv-step 
+dual-slope capacitance to digital converter integrated in an implantable pressure sensing system,” 
+IEEE European Solid-State Circuits Conference, in press, 2014. 
+114. D. Blaauw, D. Sylvester, P. Dutta, Y. Lee, I. Lee, S. Bang, Y. Kim, G. Kim, P. Pannuto, Y-S. Kuo, 
+D. Yoon, W. Jung, Z. Foo, Y-P. Chen, S. Oh, S. Jeong, M. Choi, “IoT design space challenges: 
+circuits and systems,” IEEE Symposium on VLSI Technology, 2014. [invited] 
+115. G. Kim, Y. Lee, Z. Foo, P. Pannuto, Y-S. Kuo, B. Kempke, M.H. Ghaed, S. Bang, I. Lee, Y. Kim, S-
+H. Jeong, P. Dutta, D. Sylvester, and D. Blaauw, “A millimeter-scale wireless imaging system with 
+continuous motion detection and energy harvesting,” IEEE Symposium on VLSI Circuits, 2014. 
+116. I. Lee, Y. Lee, D. Sylvester, and D. Blaauw, “Low power battery supervisory circuit with adaptive 
+battery health monitor,” IEEE Symposium on VLSI Circuits, 2014. 
+117. S. Oh, W. Jung, K. Yang, D. Blaauw, and D. Sylvester, “15.4b incremental sigma-delta capacitance-
+to-digital converter with zoom-in 9b asynchronous SAR,” IEEE Symposium on VLSI Circuits, 2014. 
+118. Y-P. Chen, D. Blaauw, and D. Sylvester, “A 266nW multi-chopper amplifier with 1.38 noise 
+efficiency factor for neural signal recording,” IEEE Symposium on VLSI Circuits, 2014. 
+119. Y. Wang, H. Yu, D. Sylvester, and P. Kong, “Energy efficient in-memory AES encryption based on 
+non-volatile domain-wall nanowire,” ACM/IEEE Design, Automation, and Test in Europe, 2014. 
+120. F. Frustaci, M. Khayatzadeh, D. Blaauw, D. Sylvester, and M. Alioto, “A 32kb SRAM for error-free 
+and error-tolerant applications with dynamic energy-quality management in 28nm CMOS,” IEEE 
+International Solid-State Circuits Conference, 2014. 
+121. H. Ha, D. Sylvester, D. Blaauw, and J-Y. Sim, “A 160nW 63.9fJ/conversion-step capacitance-to-
+digital converter for ultra-low power wireless sensor nodes,” IEEE International Solid-State 
+Circuits Conference, 2014. 
+122. K. Yang, D. Fick, M. Henry, D. Blaauw, and D. Sylvester, “A 23Mb/s, 23pJ/bit fully-synthesized 
+true random number generator in 28nm and 65nm CMOS,” IEEE International Solid-State Circuits 
+Conference, 2014. 
+
+-----
+Dennis Sylvester, p. 24 
+123. B. Giridhar, N. Pinckney, D. Sylvester, and D. Blaauw, “A reconfigurable sense amplifier design 
+with auto-zero calibration and pre-amplification in 28nm CMOS,” IEEE International Solid-State 
+Circuits Conference, 2014. 
+124. Y. Kim, W. Jung, I. Lee, Q. Dong, M. Henry, D. Sylvester, and D. Blaauw, “A static, contention-
+free, and single-phase clocked 24-T flip-flop in 45nm for low power applications,” IEEE 
+International Solid-State Circuits Conference, 2014. 
+125. W. Jung, S. Oh, S. Bang, D. Sylvester, and D. Blaauw, “A 3nW fully integrated energy harvester 
+based on self-oscillating switched capacitor DC-DC converter,” IEEE International Solid-State 
+Circuits Conference, 2014. 
+126. D. Jeon, Y-P. Chen, Y. Lee, Y. Kim, Z. Foo, G. Kruger, H. Oral, O. Berenfeld, Z. Zhang, D. 
+Blaauw, and D. Sylvester, “An implantable 64nW ECG monitoring mixed-signal SoC for 
+arrhythmia diagnosis,” IEEE International Solid-State Circuits Conference, 2014. 
+127. L. Freyman, D. Fick, D. Blaauw, D. Sylvester, and M. Alioto, “A 346m2 reference-free sensor 
+interface for highly constrained microsystems in 28nm CMOS,” IEEE Asian Solid-State Circuits 
+Conference, pp. 105-108, 2013. 
+128. Y-P. Chen, Y. Lee, J-Y. Sim, M. Alioto, D. Blaauw, and D. Sylvester, “45pW ESD clamp circuit for 
+ultra-low power applications,” IEEE Custom Integrated Circuits Conference, 2013. 
+129. S. Jeong, J-Y. Sim, D. Blaauw, and D. Sylvester, “A 65nW temperature sensor for ultra-low power 
+microsystems,” IEEE Custom Integrated Circuits Conference, 2013. 
+130. B. Giridhar, M. Fojtik, D. Fick, N. Abeyratne, R. Das, D. Sylvester, and D. Blaauw, “Pulse 
+amplification based dynamic synchronizers with metastability measurement using capacitance de-
+rating,” IEEE Custom Integrated Circuits Conference, 2013. 
+131. I. Lee, S. Bang, D. Yoon, M. Choi, S. Jeong, D. Sylvester, and D. Blaauw, “A ripple voltage sensing 
+MPPT circuit for ultra-low power microsystems,” IEEE Symposium on VLSI Circuits, 2013. 
+132. N. Pinckney, M. Fojtik, B. Giridhar, D. Sylvester, and D. Blaauw, “Shortstop: An on-chip fast 
+supply boosting technique,” IEEE Symposium on VLSI Circuits, 2013. 
+133. D. Jeon, Y. Kim, I. Lee, Z. Zhang, D. Blaauw, and D. Sylvester, “A low-power VGA full-frame 
+feature extraction processor,” IEEE International Conference on Acoustics, Speech, and Signal 
+Processing (ICASSP), 2013. 
+134. S. Bang, Y. Lee, I. Lee, Y. Kim, D. Blaauw, and D. Sylvester, “Fully integrated switched-capacitor 
+based PMU with adaptive energy harvesting technique for ultra-low power sensing applications,” 
+IEEE International Symposium on Circuits and Systems, 2013. 
+135. D. Jeon, Y. Kim, I. Lee, Z. Zhang, D. Blaauw, and D. Sylvester, “A 470mV 2.7mW feature 
+extraction accelerator for micro autonomous vehicle navigation in 28nm CMOS,” IEEE 
+International Solid-State Circuits Conference, 2013. 
+136. G. Kim, M. Barangi, Z. Foo, N. Pinckney, S. Bang, D. Blaauw, and D. Sylvester, “A 467nW CMOS 
+visual motion sensor with temporal averaging and pixel aggregration,” IEEE International Solid-
+State Circuits Conference, 2013. 
+137. S-J. Kim, I. Kwon, D. Fick, M. Kim, Y-P. Chen, and D. Sylvester, “Razor-Lite: A side-channel error 
+detection register for timing margin recovery in 45nm SOI CMOS,” IEEE International Solid-State 
+Circuits Conference, 2013. 
+138. S. Bang, A. Wang, B. Giridhar, D. Blaauw, and D. Sylvester, “A fully integrated successive-
+approximation switched-capacitor DC-DC converter with 31mV output voltage resolution,” IEEE 
+International Solid-State Circuits Conference, 2013. 
+139. S-K. Lee, S-H. Lee, D. Sylvester, D. Blaauw, and J-Y. Sim, “A 95fJ/b current-mode transceiver for 
+10mm on-chip interconnect,” IEEE International Solid-State Circuits Conference, 2013. 
+
+-----
+Dennis Sylvester, p. 25 
+140. D-W. Jee, D. Sylvester, D. Blaauw, and J-Y. Sim, “A 0.45V, 423nW, 3.2MHz multiplying DLL 
+with leakage-based oscillator for ultra-low power sensor platforms,” IEEE International Solid-State 
+Circuits Conference, 2013. 
+141. D. Blaauw, D. Sylvester, Y. Lee, I. Lee, S. Bang, Y. Kim, G. Kim, H. Ghaed, “From digital 
+processors to analog building blocks: enabling new applications through ultra-low voltage design,” 
+IEEE Subthreshold Microelectronics Conference, 2012. 
+142. Y. Kim, Y. Lee, D. Sylvester, and D. Blaauw, “SLC: Split-control level converter for dense and 
+stable wide-range voltage conversion,” IEEE European Solid-State Circuits Conference, 2012. 
+143. S. Bang, D. Blaauw, D. Sylvester, and M. Alioto, “Reconfigurable sleep transistor for GIDL 
+reduction in ultra-low standby power systems,” IEEE Custom Integrated Circuits Conference, 2012.  
+[Intel/Analog Devices/Catalyst Foundation CICC Student Scholarship Award] 
+144. G. Kim, Y. Lee, S. Bang, I. Lee, Y. Kim, D. Sylvester, and D. Blaauw, “A 695pW standby power 
+optical wake-up receiver for wireless sensor nodes,” IEEE Custom Integrated Circuits Conference, 
+2012. 
+145. R. Dreslinski, T. Manville, K. Sewell, R. Das, N. Pinckney, S. Satpathy, D. Blaauw, D. Sylvester, 
+and T. Mudge, “XPoint cache: scaling existing bus based coherence protocols for 2D and 3D many-
+core systems,” ACM/IEEE International Conference on Parallel Architectures and Compilation 
+Techniques, 2012. 
+146. D. Kim, V. Chandra, R. Aitken, D. Blaauw, and D. Sylvester, “An adaptive write word-length pulse 
+width and voltage modulation architecture for bit-interleaved 8T SRAMs,” ACM/IEEE 
+International Symposium on Low Power Electronics and Design, 2012. 
+147. N. Pinckney, K. Sewell, R.G. Dreslinski, D. Fick, D. Sylvester, T. Mudge, and D. Blaauw, 
+“Assessing the performance limits of parallelized near-threshold computing,” ACM/IEEE Design 
+Automation Conference, 2012. 
+148. Y. Lee, Y. Kim, D. Yoon, D. Blaauw, and D. Sylvester, “Circuit and system design guidelines for 
+ultra-low power sensor nodes,” ACM/IEEE Design Automation Conference, 2012. 
+149. S. Satpathy, R. Das, R.G. Dreslinski, T. Mudge, D. Sylvester, and D. Blaauw, “High radix self-
+arbitrating switch fabric with multiple arbitraction schemes and quality of service,” ACM/IEEE 
+Design Automation Conference, 2012. 
+150. S. Satpathy, D. Sylvester, and D. Blaauw, “A standard cell compatible bidirectional repeater with 
+thyristor assist,” IEEE Symposium on VLSI Circuits, pp. 174-175, 2012. 
+151. Y-S. Park, D. Blaauw, D. Sylvester, and Z. Zhang, “A 1.6mm2 38mW 1.5Gb/s LDPC decoder 
+enabled by refresh-free embedded DRAM,” IEEE Symposium on VLSI Circuits, pp. 114-115, 2012. 
+152. Y-P. Chen, M. Fojtik, D. Blaauw, and D. Sylvester, “A 2.98nW bandgap voltage reference using a 
+self-tuning low leakage sample and hold,”  IEEE Symposium on VLSI Circuits, pp. 200-201, 2012. 
+153. I. Lee, S. Bang, Y. Lee, Y. Kim, G. Kim, D. Sylvester, and D. Blaauw, “A 635pW battery voltage 
+supervisory circuit for miniature sensor nodes,” IEEE Symposium on VLSI Circuits, pp. 202-203, 
+2012. 
+154. M. Seok, D. Jeon, C. Chakrabarti, D. Blaauw, and D. Sylvester, “Extending energy-saving voltage 
+scaling in ultra low voltage integrated circuit designs,” IEEE International Conference on IC 
+Design & Technology, 2012. [invited] 
+155. P. Pannuto, Y. Lee, B. Kempke, D. Sylvester, D. Blaauw, and P. Dutta, “Ultra-constrained sensor 
+platform interfacing,” International Conference on Information Processing in Sensor Networks, pp. 
+147 - 148, 2012. 
+
+-----
+Dennis Sylvester, p. 26 
+156. M.H. Ghaed, M.M. Ghahramani, G. Chen. M. Fojtik, D. Blaauw, M.P. Flynn, and D. Sylvester, 
+“Low power wireless sensor networks for infrastructure monitoring,” SPIE Smart Structures and 
+Materials, 2012. [invited] 
+157. M. Fojtik, D. Fick, Y. Kim, N. Pinckney, D. Harris, D. Blaauw, and D. Sylvester, “Bubble Razor: 
+An architecture-independent approach to timing-error detection and correction,” IEEE International 
+Solid-State Circuits Conference, 2012. 
+158. Y. Lee, G. Kim, S. Bang, Y. Kim, I. Lee, P. Dutta, D. Sylvester, and D. Blaauw, “A modular 1mm3 
+die-stacked sensing platform with optical communication and multi-modal energy harvesting,” IEEE 
+International Solid-State Circuits Conference, 2012. 
+159. D. Yoon, D. Sylvester, and D. Blaauw, “A 5.58nW 32.768kHz DLL-assisted XO for real-time 
+clocks in wireless sensing applications,” IEEE International Solid-State Circuits Conference, 2012. 
+160. D. Fick, R. Dreslinski, B. Giridhar, G. Kim, S. Seo, M. Fojtik, S. Satpathy, Y. Lee, D. Kim, N. Liu, 
+M. Wieckowski, G. Chen, T. Mudge, D. Sylvester, and D. Blaauw, “Centip3De: A 3930 DMIPS/W 
+configurable near-threshold 3D stacked system with 64 ARM Cortex-M3 cores,” IEEE International 
+Solid-State Circuits Conference, 2012. 
+161. S. Satpathy, K. Sewell, T.  Manville, Y-P. Chen, R. Dreslinski, D. Sylvester, T. Mudge, and D. 
+Blaauw, “A 4.5Tb/s 3.4Tb/s/W 64x64 switch fabric with self-updating least-recently-granted 
+priority and quality-of-service arbitration in 45nm CMOS,” IEEE International Solid-State Circuits 
+Conference, 2012. 
+162. V. Joshi, K. Agarwal, and D. Sylvester, “Design-patterning co-optimization of SRAM robustness 
+for double patterning lithography,” ACM/IEEE Asia-South Pacific Design Automation Conference, 
+2012. 
+163. M.H. Ghaed, G. Chen, D. Blaauw, and D. Sylvester, “Analysis and measurement of the stability of 
+dual-resonator oscillators,” IEEE Radio and Wireless Symposium, 2012. 
+164. Y. Lee, D. Sylvester, and D. Blaauw, “Synchronization of ultra-low power wireless sensor nodes,” 
+IEEE International Midwest Symposium on Circuits and Systems, 2011. [invited] 
+165. D. Kim, V. Chandra, R. Aitken, D. Blaauw, and D. Sylvester, “Variation-aware static and dynamic 
+writability analysis for bit-interleaved SRAMs,” ACM/IEEE International Symposium on Low 
+Power Electronics Design, 2011. 
+166. S. Satpathy, R. Dreslinski, T-C. Ou, D. Sylvester, T. Mudge, and D. Blaauw, “SWIFT: A 2.1Tb/s 
+32x32 self-arbitrating cache-core interconnect fabric,” IEEE Symposium on VLSI Circuits, 2011. 
+167. B. Giridhar, D. Fick, M. Fojtik, S. Satpathy, D. Bull, D. Sylvester, and D. Blaauw, “Adaptive 
+robustness tuning for high performance domino logic,” IEEE Symposium on VLSI Circuits, 2011. 
+168. Y. Kim, D. Sylvester, and D. Blaauw, “LC2: limited contention level converter for robust wide-
+range voltage conversion,” IEEE Symposium on VLSI Circuits, 2011. 
+169. N. Liu, S. Hanson, N. Pinckney, D. Sylvester, and D. Blaauw, “A true random number generator 
+using time-dependent dielectric breakdown,” IEEE Symposium on VLSI Circuits, 2011. 
+170. M.H. Ghaed, D. Blaauw, and D. Sylvester, “A dual-passband filter architecture for dual-band 
+systems,” IEEE International Symposium on Antennas and Propagation, 2011. 
+171. M. Seok, D. Jeon, C. Chakrabarti, D. Blaauw, and D. Sylvester, “Pipeline strategy for improving 
+optimal energy efficiency in ultra-low voltage design,” ACM/IEEE Design Automation Conference, 
+2011. 
+172. D. Jeon, M. Seok, C. Chakrabarti, D. Blaauw, and D. Sylvester, “Energy-optimized high-
+performance FFT processor,” IEEE International Conference on Acoustics, Speech, and Signal 
+Processing, 2011.   
+
+-----
+Dennis Sylvester, p. 27 
+173. D. Fick, R.G. Dreslinski, B. Giridhar, G. Kim, S. Seo, M. Fojtik, S. Satpathy, Y. Lee, D. Kim, N. 
+Liu, M. Wieckowski, G. Chen, T. Mudge, D. Sylvester, and D. Blaauw, “Design and 
+Implementation of Centip3De, a 7-layer Many-Core System,” ACM/IEEE Design Automation 
+Conference, DAC/ISSCC student design contest award winner, 2011. 
+174. D. Kim, G. Chen, M. Fojtik, M. Seok, D. Blaauw, and D. Sylvester, “A 1.85fW/bit ultra low leakage 
+10T SRAM with speed compensation scheme,” IEEE International Symposium on Circuits and 
+Systems, 2011. 
+175. G. Chen, M. Wieckowski, D. Blaauw, and D. Sylvester, “A dense 45nm half-differential SRAM 
+with lower minimum operating voltage,” IEEE International Symposium on Circuits and Systems, 
+2011. 
+176. M. Wieckowski, G. Chen, D. Kim, D. Blaauw, and D. Sylvester, “A 128kb high density portless 
+SRAM using hierarchical bitlines and thyristor sense amplifiers,” IEEE International Symposium on 
+Quality Electronic Design, 2011. 
+177. C-H. Chen, Y. Kim, Z. Zhang, D. Blaauw, D. Sylvester, H. Naeimi, and S. Sandhu, “A confidence-
+driven model for error-resilient computing,” ACM/IEEE Design, Automation, and Test in Europe, 
+2011. 
+178. Y. Lee, B. Giridhar, Z. Foo, D. Sylvester, and D. Blaauw, “A 660pW multi-stage temperature 
+compensated timer for ultra-low power wireless sensor node synchronization,” IEEE International 
+Solid-State Circuits Conference, pp. 46-47, 2011. 
+179. M. Seok, D. Jeon, C. Chakrabarti, D. Blaauw, and D. Sylvester, “A 0.27V, 30MHz, 
+17.7nJ/transform 1024-pt complex FFT core with super-pipelining,” IEEE International Solid-State 
+Circuits Conference, pp. 342-343, 2011. 
+180. G. Chen, H. Ghaed, R. Ul-Haque, M. Wieckowski, Y. Kim, G. Kim, D. Fick, D. Kim, M. Seok, K. 
+Wise, D. Blaauw, and D. Sylvester, “A cubic millimeter energy-autonomous wireless intraocular 
+pressure monitor,” IEEE International Solid-State Circuits Conference, pp. 310-311, 2011. 
+181. Y. Lee, M-T. Chen, J. Park, D. Sylvester, and D. Blaauw, “A 5.42nW/kB retention power logic-
+compatible embedded DRAM with 2T dual-Vt gain cell for low power sensing applications,” IEEE 
+Asian Solid-State Circuits Conference, 2010. 
+182. V. Veetil, D. Blaauw, and D. Sylvester, “A lower bound computation method for evaluation of 
+statistical design techniques,” IEEE/ACM International Conference on Computer-Aided Design, pp. 
+562-569, 2010. 
+183. C. Zhuo, K. Agarwal, D. Sylvester, and D. Blaauw, “Active learning framework for post-silicon 
+variation extraction and test cost reduction,” IEEE/ACM International Conference on Computer-
+Aided Design, pp. 508-515, 2010. 
+184. V. Joshi, D. Blaauw, D. Sylvester, “Analysis and optimization of SRAM robustness for double 
+patterning lithography,” IEEE/ACM International Conference on Computer-Aided Design, pp. 25-
+31, 2010. 
+185. P. Singh, E. Karl, D. Sylvester, and D. Blaauw, “Dynamic NBTI management using a 45nm multi-
+degradation sensor,” IEEE Custom Integrated Circuits Conference, 2010. [Intel/CICC Student 
+Scholarship Award] 
+186. V. Joshi, M. Wieckowski, G.K. Chen, D. Blaauw, and D. Sylvester, “Analyzing the impact of 
+double patterning lithography on SRAM variability in 45nm CMOS,” IEEE Custom Integrated 
+Circuits Conference, 2010. [AMD/CICC Student Scholarship Award] 
+187. Y. Lee, G. Chen, S. Hanson, D. Sylvester, and D. Blaauw, “Ultra-low power circuit techniques for a 
+new class of sub-mm3 sensor nodes,” IEEE Custom Integrated Circuits Conference, 2010. [invited] 
+
+-----
+Dennis Sylvester, p. 28 
+188. G. Chen, M. Wieckowski, D. Blaauw, and D. Sylvester, “Crosshairs SRAM – an adaptive memory 
+for mitigating parametric failures,” IEEE European Solid-State Circuits Conference, pp. 366-369, 
+2010. 
+189. M. Seok, G. Kim, D. Blaauw, and D. Sylvester, “Variability analysis of a digitally trimmable ultra-
+low power voltage reference,” IEEE European Solid-State Circuits Conference, pp. 110-113, 2010. 
+190. M. Seok, D. Blaauw, and D. Sylvester, “Clock network design for ultra-low power applications,” 
+ACM/IEEE International Symposium on Low-Power Electronics Design, pp. 271-276, 2010. 
+191. S.K. Satpathy, Z. Foo, B. Giridhar, R. Dreslinski, D. Sylvester, T. Mudge, and D. Blaauw, “A 1.07 
+Tbit/s 128×128 swizzle network for SIMD processors,” IEEE Symposium on VLSI Circuits, pp. 81-
+82, 2010. 
+192. N. Liu, S. Hanson, D. Sylvester, and D. Blaauw, “OxID: on-chip one-time random ID generation 
+using oxide breakdown,” IEEE Symposium on VLSI Circuits, pp. 231-232, 2010. 
+193. M. Kurata, J.P. Lynch, T. Galchev, M.P. Flynn, P. Hipley, V. Jacob, G. van der Linden, A. 
+Mortazawi, K. Najafi, R.L. Peterson, L-H. Sheng, D. Sylvester, and E. Thometz, "Two-Tiered Self-
+Powered Wireless Monitoring System Architecture for Bridge Health Management," SPIE Smart 
+Structures and Materials, San Diego, CA, 2010. [invited] 
+194. V. Joshi, V. Suhkarev, A. Torres, K. Agarwal, D. Sylvester, and D. Blaauw, “Closed-form modeling 
+of layout-dependent mechanical stress,” ACM/IEEE Design Automation Conference, pp. 673-678, 
+2010. 
+195. V. Veetil, Y-H. Chang, D. Sylvester, and D. Blaauw, “Efficient smart Monte Carlo based SSTA on 
+graphics processing units with improved resource utilization,” ACM/IEEE Design Automation 
+Conference, pp. 793-798, 2010. 
+196. P. Singh, D. Sylvester, and D. Blaauw, “Reliability margin elimination using in situ oxide 
+degradation monitoring,” IEEE International Reliability Physics Symposium, 2010. [invited] 
+197. M. Seok, S. Hanson, M. Wieckowski, G. Chen, Y-S. Lin, D. Blaauw, and D. Sylvester, “Circuit 
+design advances to enable ubiquitous sensing environments,” IEEE International Symposium on 
+Circuits and Systems, 2010. [invited] 
+198. D. Sylvester, “Circuit design advances for ultra-low power sensing platforms,” SPIE DSS10 Micro-
+Nanotechnology Sensors, Systems, and Applications Conference, April 2010. [invited] 
+199. C. Zhuo, D. Blaauw, and D. Sylvester, “'Process variation and temperature-aware reliability 
+management,” ACM/IEEE Design, Automation, and Test in Europe, pp. 580-585, 2010. 
+200. M. Wieckowski, D. Sylvester, D. Blaauw, V. Chandra, S. Idgunji, C. Pietrzyk, and R. Aitken, “A 
+black box method for stability analysis of arbitrary SRAM cell structures,” ACM/IEEE Design, 
+Automation, and Test in Europe, pp. 795-800, 2010. 
+201. V. Joshi, K. Agarwal, D. Sylvester, and D. Blaauw, “Simultaneous extraction of effective gate 
+length and low-field mobility in non-uniform devices,” IEEE International Symposium on Quality 
+Electronics Design, pp. 158-162, 2010. 
+202. P. Singh, Z. Foo, M. Wieckowski, S. Hanson, M. Fojtik, D. Blaauw, and D. Sylvester, “Early 
+detection of oxide breakdown through in situ degradation sensing,” IEEE International Solid-State 
+Circuits Conference, pp. 190-191, 2010. 
+203. D. Fick, N. Liu, Z. Foo, M. Fojtik, J-S. Seo, D. Sylvester, and D. Blaauw, “In situ delay slack 
+monitor for high-performance processors using an all-digital, self-calibrating 5ps resolution time-to-
+digital converter,” IEEE International Solid-State Circuits Conference, pp. 188-189, 2010. 
+204. G. Chen, M. Fojtik, D. Kim, D. Fick, J. Park, M. Seok, M-T. Chen, Z. Foo, D. Sylvester, and D. 
+Blaauw, “A millimeter-scale nearly-perpetual sensor system with stacked battery and solar cells,” 
+IEEE International Solid-State Circuits Conference, pp. 288-289, 2010. 
+
+-----
+Dennis Sylvester, p. 29 
+205. J-S. Seo, R. Ho, J. Lexau, M. Dayringer, D. Sylvester, and D. Blaauw, “High bandwidth and low 
+energy on-chip signaling with adaptive pre-emphasis in 90nm CMOS,” IEEE International Solid-
+State Circuits Conference, pp. 182-183, 2010. 
+206. C. Zhuo, Y-H. Chang, D. Sylvester, and D. Blaauw, “Design time body bias selection for parametric 
+yield improvement,” ACM/IEEE Asia/South Pacific Design Automation Conference (ASPDAC), pp. 
+681-688, 2010. 
+207. V. Joshi, K. Agarwal, D. Sylvester, and D. Blaauw, “Analyzing electrical effects of RTA-driven 
+local anneal temperature variation,” ACM/IEEE Asia/South Pacific Design Automation Conference 
+(ASPDAC), pp. 739-744, 2010. 
+208. R. Dreslinski, M. Wieckowski, D. Blaauw, D. Sylvester, and T. Mudge, “Overcoming Moore's 
+curse: techniques for powering large transistor counts in sub-micron technologies", Workshop on 
+New Directions in Computer Architecture (in conjunction with IEEE/ACM International 
+Symposium on Microarchitecture), pp. 20-21, 2009. 
+209. C. Zhuo, D. Blaauw, and D. Sylvester, “Post-fabrication measurement-driven oxide breakdown 
+reliability prediction and management,” IEEE International Conference on Computer-Aided Design, 
+pp. 441-448, 2009. 
+210. R. Gandikota, D. Blaauw, and D. Sylvester, “Interconnect performance corners considering 
+crosstalk noise,” IEEE International Conference on Computer Design, pp. 231-237, 2009. 
+211. M. Seok, G. Kim, D. Sylvester, and D. Blaauw, “A 0.5V 2.2pW 2-transistor voltage reference,” 
+IEEE Custom Integrated Circuits Conference, pp. 577-580, 2009. [AMD/CICC Student 
+Scholarship Award] 
+212. Y-S. Lin, D. Sylvester, and D. Blaauw, “Near-field communication using phase-locking and pulse 
+signaling for millimeter-scale systems,” IEEE Custom Integrated Circuits Conference,  pp. 563-566, 
+2009. 
+213. D. Kim, Y. Lee, J. Cai, L. Chang, S.J. Koester, D. Sylvester, and D. Blaauw, “Low power circuit 
+design based on heterojunction tunneling transistors (HETTs),” ACM/IEEE International 
+Symposium on Low-Power Electronics Design, pp. 219-224, 2009. [best paper award] 
+214. V. Veetil, D. Sylvester, D. Blaauw, S. Shah, and S. Rochel, “Efficient smart sampling based full-
+chip leakage analysis for intra-die variation considering state dependence,” ACM/IEEE Design 
+Automation Conference, pp. 154-159, 2009. 
+215. D. Fick, A. DeOrio, J. Hu, V. Bertacco, D. Blaauw, and D. Sylvester, “Vicis: a reliable network for 
+unreliable silicon,” ACM/IEEE Design Automation Conference, pp. 812-818, 2009. 
+216. M. Seok, S. Hanson, Y-S. Lin, Z. Foo, D. Kim, Y. Lee, N. Liu, D. Sylvester, and D. Blaauw, 
+“Phoenix: an ultra-low power processor cubic millimeter sensor systems,” ACM/IEEE Design 
+Automation Conference, DAC/ISSCC student design contest award winner, 2009. 
+217. R. Dreslinski, D. Fick, D. Blaauw, D. Sylvester, and T. Mudge, “Reconfigurable multicore server 
+processors for low power operation,” 9th International Workshop on Systems, Architectures, 
+Modeling and Simulation (SAMOS), pp. 247-254, 2009. 
+218. S. Hanson and D. Sylvester, “A 0.45-0.7V sub-microwatt CMOS image sensor for ultra-low power 
+applications,” IEEE Symposium on VLSI Circuits, pp. 176-177, 2009. 
+219. M. Wieckowski, G.K. Chen, M. Seok, D. Blaauw, and D. Sylvester, “A hybrid DC-DC converter for 
+sub-microwatt sub-1V implantable applications,” IEEE Symposium on VLSI Circuits, pp. 166-167, 
+2009. 
+220. J-S. Seo, D. Sylvester, and D. Blaauw, “Crosstalk-aware pulse width modulation based on-chip 
+global signaling in 65nm CMOS,” IEEE Symposium on VLSI Circuits, pp. 88-89, 2009. 
+
+-----
+Dennis Sylvester, p. 30 
+221. D. Fick, A. DeOrio, G. Chen, V. Bertacco, D. Sylvester, and D. Blaauw, “A highly resilient routing 
+algorithm for fault-tolerant NoCs,” ACM/IEEE Design, Automation, and Test in Europe, pp. 21-26, 
+2009. 
+222. J.P. Lynch, K. Kamat, V.C. Li, M.P. Flynn, D. Sylvester, K. Najafi, T. Gordon, M. Lepech, A. 
+Emami-Naeini, A. Krimotat, M. Ettouney, S. Alampalli, and T. Ozdemir, “Overview of a Cyber-
+enabled Wireless Monitoring System for the Protection and Management of Critical Infrastructure 
+Systems,” SPIE Smart Structures and Materials, 2009. [invited] 
+223. Y-S. Lin, D. Sylvester, and D. Blaauw, “A 150pW program-and-hold timer for ultra-low power 
+sensor platforms,” IEEE International Solid-State Circuits Conference, pp. 326-327, 2009. 
+224. D. Sylvester, S. Hanson, M. Seok, Y-S. Lin, and D. Blaauw, “Designing robust ultra-low power 
+circuits,” IEEE International Electron Device Meetings, pp. 423, 2008. [invited] 
+225. R. Dreslinski, G. Chen, T. Mudge, D. Blaauw, D. Sylvester, and K. Flautner, “Reconfigurable 
+energy efficient near-threshold cache architectures,” International Symposium on Microarchitecture 
+(MICRO), pp. 459-470, 2008. 
+226. K. Chopra, C. Zhuo, D. Blaauw, and D. Sylvester, “A statistical approach for full-chip gate oxide 
+reliability analysis,” IEEE International Conference on Computer-Aided Design, pp. 698-705, 2008. 
+227. B. Cline, V. Joshi, D. Sylvester, and D. Blaauw, “STEEL: A technique for stress-enhanced standard 
+cell library design,” IEEE International Conference on Computer-Aided Design, pp. 691-697, 2008. 
+228. J-S. Seo, I. Markov, D. Sylvester, and D. Blaauw, “On the decreasing significance of large standard 
+cells in technology mapping,” IEEE International Conference on Computer-Aided Design, pp. 116-
+121, 2008. 
+229. M. Seok, S. Hanson, J-S. Seo, D. Sylvester, and D. Blaauw, “Robust ultra-low voltage ROM 
+design,” IEEE Custom Integrated Circuits Conference, pp. 423-426, 2008. 
+230. M. Wieckowski, Y-M. Park, C. Tokunaga, D-W. Kim, Z. Foo, D. Sylvester, and D. Blaauw, 
+“Timing yield enhancement through soft edge flip-flop based design,” IEEE Custom Integrated 
+Circuits Conference, pp. 543-546, 2008. 
+231. Y-S. Lin, D. Sylvester, and D. Blaauw, “An ultra-low power 1V, 220nW temperature sensor for 
+passive wireless applications,” IEEE Custom Integrated Circuits Conference, pp. 507-510, 2008. 
+232. Y. Lee, M. Seok, S. Hanson, D. Blaauw, and D. Sylvester, “Standby power reduction techniques for 
+ultra-low power processors,” IEEE European Solid-State Circuits Conference, pp. 186-189, 2008. 
+233. M. Seok, D. Sylvester, and D. Blaauw, “Optimal technology selection for minimizing energy and 
+variability in low voltage applications,” ACM/IEEE International Symposium on Low Power 
+Electronics and Design, pp. 9-14, 2008. 
+234. C. Zhuo, D. Blaauw, and D. Sylvester, “Variation-aware gate sizing and clustering for post-silicon 
+optimized circuits,” ACM/IEEE International Symposium on Low Power Electronics and Design, 
+pp. 105-110, 2008. 
+235. Y-S. Lin and D. Sylvester, “Single stage level shifter design for subthreshold to I/O voltage 
+conversion,” ACM/IEEE International Symposium on Low Power Electronics and Design, pp. 197-
+200, 2008. 
+236. M. Seok, S. Hanson, Y-S. Lin, Z. Foo, D. Kim, Y. Lee, N. Liu, D. Sylvester, and D. Blaauw, “The 
+Phoenix processor: a 30pW platform for sensor applications,” IEEE Symposium on VLSI Circuits, 
+pp. 188-189, 2008. 
+237. Y-S. Lin, D. Sylvester, and D. Blaauw, “Sensor data retrieval using alignment independent 
+capacitive signaling,” IEEE Symposium on VLSI Circuits, pp. 66-67, 2008. 
+238. V. Joshi, B. Cline, K. Agarwal, D. Sylvester, and D. Blaauw, “Leakage power reduction using 
+stress-enhanced layouts,” ACM/IEEE Design Automation Conference, pp. 912-917, 2008. 
+
+-----
+Dennis Sylvester, p. 31 
+239. V. Veetil, D. Sylvester, and D. Blaauw, “Efficient Monte Carlo based incremental statistical timing 
+analysis,” ACM/IEEE Design Automation Conference, pp. 676-681, 2008. 
+240. R. Gandikota, D. Blaauw, and D. Sylvester, “Modeling crosstalk in statistical static timing 
+analysis,” ACM/IEEE Design Automation Conference, pp. 974-979, 2008. 
+241. H. Kaul, J-S. Seo, M. Anders, D. Sylvester, and R. Krishnamurthy, “A robust alternate repeater 
+technique for high performance buses in the multi-core era,” IEEE International Symposium on 
+Circuits and Systems, 2008. 
+242. Y-S. Lin, S. Hanson, F. Albano, C. Tokunaga, R. Haque, K. Wise, A.M. Sastry, D. Blaauw, and D. 
+Sylvester, “Low-voltage circuit design for widespread sensing applications,” IEEE International 
+Symposium on Circuits and Systems, 2008. [invited] 
+243. V. Joshi, B. Cline, K. Agarwal, D. Sylvester, and D. Blaauw, “Stress aware layout optimization,” 
+ACM/IEEE International Symposium on Physical Design, pp. 168-174, 2008. 
+244. S. Hanson, B. Zhai, D. Blaauw, and D. Sylvester, “Energy-driven circuit design for ubiquitous 
+sensing applications,” Government Microcircuit Applications and Critical Technology Conference, 
+2008. [invited] 
+245. V. Veetil, D. Sylvester, and D. Blaauw, “Fast and accurate waveform analysis with current source 
+models,” IEEE International Symposium on Quality Electronic Design, pp. 53-56, 2008. 
+246. E. Karl, D. Sylvester, and D. Blaauw, “Analysis of system-level reliability factors and            
+implications on real-time monitoring methods for oxide breakdown device failures,” IEEE 
+International Symposium on Quality Electronic Design, pp. 391-395, 2008. 
+247. P. Gupta, A.B. Kahng, Y. Kim, S. Shah, and D. Sylvester, “Shaping gate channels for improved 
+devices,” SPIE Design for Manufacturability through Design-Process Integration II,  2008. 
+248. E. Karl, P. Singh, D. Blaauw, and D. Sylvester, “Compact in situ sensors for monitoring NBTI and 
+oxide degradation,” IEEE International Solid-State Circuits Conference, pp. 410-411, 2008. 
+249. M. Guthaus, D. Sylvester, and R.B. Brown, “Clock tree synthesis with datapath sensitivity 
+matching,” ACM/IEEE Asia/South-Pacific Design Automation Conference, pp. 498-503, 2008. 
+250. P. Gupta, A.B. Kahng, Y. Kim, S. Shah, and D. Sylvester, “Investigation of diffusion rounding for 
+post-lithography analysis,” ACM/IEEE Asia/South-Pacific Design Automation Conference, pp. 480-
+485, 2008. 
+251. E.-H. Toh, G. H. Wang, M. Zhu, C. Shen, L. Chan, G.-Q. Lo, C-H. Tung, D. Sylvester, C.-H. Heng, 
+G. Samudra, and Y.-C. Yeo, “Impact ionization nanowire transistor with multiple-gates, silicon-
+germanium impact ionization region, and sub-5mV/decade subthreshold swing,” IEEE International 
+Electron Device Meetings, pp. 195-198, 2007. 
+252. S. Hanson, B. Zhai, D. Blaauw, and D. Sylvester, “Energy-optimal circuit design,” IEEE 
+International Symposium on System-on-Chip, 2007. [invited] 
+253. G. Chen, N.S. Kim, D. Sylvester, and D. Blaauw, “Yield-driven near-threshold SRAM design,”  
+ACM/IEEE International Conference on Computer-Aided Design, pp. 660-666, 2007. 
+254. V. Joshi, D. Sylvester, and D. Blaauw, “Soft-edge flip-flops for improved timing yield: design and 
+optimization,” ACM/IEEE International Conference on Computer-Aided Design, pp. 667-673, 2007. 
+255. R. Gandikota, D. Blaauw, and D. Sylvester, “Aggressor-victim alignment for worst-case delay 
+noise,” ACM/IEEE International Conference on Computer-Aided Design, pp. 698-704, 2007. 
+256. C. Shen, E-H. Toh, J. Lin, C-H. Heng, D. Sylvester, G. Samudra, and Y-C. Yeo, “A physics-based 
+compact model for I-MOS transistors,” International Conference on Solid-State Devices and 
+Materials, 2007.  
+257. E.-H. Toh, G. H. Wang, L. Chan, D. Sylvester, C.-H. Heng, G. Samudra, and Y.-C. Yeo, "A double-
+gate tunneling field-effect transistor with silicon-germanium source for high-performance, low 
+
+-----
+Dennis Sylvester, p. 32 
+standby power, and low power technology applications," International Conference on Solid-State 
+Devices and Materials, 2007. 
+258. R. Dreslinski, B. Zhai, D. Sylvester, D. Blaauw, and T. Mudge, “An energy-efficient parallel 
+architecture using near-threshold operation,” ACM/IEEE International Conference on Parallel 
+Architectures and Compilation Technologies, pp. 175-188, 2007.  
+259. Y.S. Lin, D. Sylvester, and D. Blaauw, “A sub-pW timer using gate leakage for ultra low-power 
+sub-Hz monitoring systems,” IEEE Custom Integrated Circuits Conference, pp. 397-400, 2007. 
+260. E.-H. Toh, G. H. Wang, L. Chan, G.-Q. Lo, D. Sylvester, C.-H. Heng, G. Samudra, and Y.-C. Yeo, 
+"A complementary-I-MOS technology featuring SiGe channel and I-region for enhancement of 
+impact-ionization, breakdown voltage, and performance," IEEE European Solid-State Device 
+Research Conference, pp. 295-298, 2007.  
+261. J.S. Seo, D. Sylvester, D. Blaauw, H. Kaul, and R. Krishnamurthy, “A robust edge encoding 
+technique for energy-efficient multi-cycle interconnect,” ACM/IEEE International Symposium on 
+Low-Power Electronics Design, pp. 68-73, 2007. 
+262. B. Zhai, R. Dreslinski, T. Mudge, D. Blaauw, and D. Sylvester, “Energy efficient near-threshold 
+chip multi-processing,” ACM/IEEE International Symposium on Low-Power Electronics Design, 
+pp. 32-37, 2007. [best paper award nominee, 5 nominees out of 192 submissions] 
+263. S. Hanson, B. Zhai, M. Seok, B. Cline, K. Zhou, M. Singhal, M. Minuth, J. Olson, L. Nazhandali, T. 
+Austin, D. Sylvester, and D. Blaauw, “Performance and variability optimization strategies in a sub-
+200mV, 3.5pJ/inst, 11nW subthreshold processor,” IEEE Symposium on VLSI Circuits, pp. 152-153, 
+2007. 
+264. P. Gupta, A.B. Kahng, Y. Kim, S. Shah, and D. Sylvester, “Line end shortening is not always a 
+failure,” ACM/IEEE Design Automation Conference, pp. 270-271, 2007. 
+265. M. Seok, S. Hanson, D. Sylvester, and D. Blaauw, “Analysis and optimization of sleep modes in 
+subthreshold circuit design,” ACM/IEEE Design Automation Conference, pp. 694-699, 2007. 
+266. S. Hanson, D. Sylvester, and D. Blaauw, “Nanometer device scaling in subthreshold circuits,” 
+ACM/IEEE Design Automation Conference, pp. 700-705, 2007. 
+267. R. Gandikota, K. Chopra, D. Blaauw, D. Sylvester, and M. Becer, “Enumerating the top-k 
+aggressors set in delay-noise analysis,” ACM/IEEE Design Automation Conference, pp. 174-179, 
+2007. 
+268. J-S. Seo, P. Singh, D. Blaauw, and D. Sylvester, “Self-timed regenerators for high-speed and low-
+power interconnect,” ACM/IEEE International Symposium on Quality Electronic Design, pp. 621-
+626, 2007. [best paper award nominee] 
+269. B. Zhai, D. Blaauw, D. Sylvester, and S. Hanson, “A sub-200mV 6T SRAM in 130nm CMOS,” 
+IEEE International Solid-State Circuits Conference, pp. 332-333, 2007. 
+270. Y-S. Lin and D. Sylvester, “Runtime leakage power estimation technique for combinational 
+circuits,” ACM/IEEE Asia-South Pacific Design Automation Conference, pp. 660-665, 2007. 
+271. Y. Kim, D. Petranovic, and D. Sylvester, “Simple and accurate models for capacitance increment 
+due to metal fill insertion,” ACM/IEEE Asia-South Pacific Design Automation Conference, pp. 456-
+461, 2007. 
+272. R.R. Rao, D. Blaauw, and D. Sylvester, “Circuit optimization for soft error rate mitigation using 
+gate sizing and flipflop assignment,” ACM/IEEE International Conference on Computer-Aided 
+Design, pp. 502-509, 2006. 
+273. S.H. Kulkarni, D. Sylvester, and D. Blaauw, “Process variation aware body bias assignment based 
+on a statistical clustering approach,” ACM/IEEE International Conference on Computer-Aided 
+Design, pp. 39-46, 2006. 
+
+-----
+Dennis Sylvester, p. 33 
+274. K. Chopra, B. Zhai, D. Blaauw, and D. Sylvester, “A new statistical max operation for propagating 
+skewness in statistical timing analysis,” ACM/IEEE International Conference on Computer-Aided 
+Design, pp. 237-243, 2006. 
+275. D. Sylvester, S. Hanson, B. Zhai, and D. Blaauw, “Design strategies for ultra-low voltage circuits,” 
+IEEE International SoC Design Conference, 2006. [invited] 
+276. S. Hanson, B. Zhai,, D. Blaauw, D. Sylvester, A. Bryant, and X. Wang, “Achieving femto-Joule 
+operation: energy optimality and variability in subthreshold design,” ACM/IEEE International 
+Symposium on Low-Power Electronics Design, pp. 363-365, 2006. 
+277. H.S. Deogun, R. Senger, D. Sylvester, R. Brown, and K. Nowka “A dual-Vdd boosted pulsed bus 
+technique for low power and low leakage operation,” ACM/IEEE International Symposium on Low-
+Power Electronics Design, pp. 73-78, 2006. 
+278. S. Hanson, D. Sylvester, and D. Blaauw, “A new technique for jointly optimizing gate sizing and 
+supply voltage in ultra-low energy circuits,” ACM/IEEE International Symposium on Low-Power 
+Electronics Design, pp. 338-341, 2006. 
+279. M. Guthaus, D. Sylvester, and R.B. Brown, “Clock buffer and wire sizing using sequential 
+programming,” ACM/IEEE Design Automation Conference, pp. 1041-1046, 2006. 
+280. E. Karl, D. Sylvester, D. Blaauw, and T. Mudge, “Reliability modeling and management in dynamic 
+microprocessor-based systems,” ACM/IEEE Design Automation Conference, pp. 1057-1060, 2006. 
+281. H.S. Deogun, D. Sylvester, and K. Nowka, “Fine-grained multi-threshold CMOS for enhanced 
+leakage reduction,” IEEE International Symposium on Circuits and Systems, pp. 3850-3853, 2006. 
+282. V. Joshi, R.R. Rao, D. Blaauw, and D. Sylvester, “Logic SER reduction through flipflop redesign,” 
+ACM/IEEE International Symposium on Quality Electronic Design, pp. 611-616, 2006. 
+283. K. Agarwal, H.S. Deogun, D. Sylvester, and K. Nowka, “Power gating with multiple sleep modes,” 
+ACM/IEEE International Symposium on Quality Electronic Design, pp. 633-637, 2006. [best paper 
+award] 
+284. R.R. Rao, K. Chopra, D. Blaauw, and D. Sylvester, “Efficient static soft error rate analysis for 
+combinational circuits,” ACM/IEEE Design, Automation, and Test in Europe, pp. 164-169, 2006 
+285. P. Gupta, A.B. Kahng, Y. Kim, S. Shah, and D. Sylvester, “Modeling of non-uniform device 
+geometries for post-lithography circuit analysis,” SPIE Design and Process Integration for 
+Microelectronic Manufacturing V, 2006. 
+286. P. Gupta, A.B. Kahng, Y. Kim, and D. Sylvester, “Self-compensating design for reduction of timing 
+and leakage sensitivity to systematic pattern-dependent variation,” SPIE Design and Process 
+Integration for Microelectronic Manufacturing V, 2006. 
+287. J. Yang, L. Capodieci, and D. Sylvester, “Layout verification and optimization based on flexible 
+design rules,” SPIE Design and Process Integration for Microelectronic Manufacturing V, 2006. 
+288. S.H. Kulkarni and D. Sylvester, “Power distribution techniques for dual Vdd circuits,” IEEE/ACM 
+Asia-South Pacific Design Automation Conference, pp. 838-843, 2006. 
+289. M. Guthaus, R. Brown, and D. Sylvester, “Process-induced skew reduction in nominal zero-skew 
+clock trees,” IEEE/ACM Asia-South Pacific Design Automation Conference, pp. 84-89, 2006. 
+290. S. Shah, A. Srivastava, V. Zolotov, D. Sharma, D. Sylvester, and D. Blaauw, “Discrete Vt 
+assignment and gate sizing using a self-snapping continuous formulation,” ACM/IEEE International 
+Conference on Computer-Aided Design, pp. 705-711, 2005. 
+291. K. Chopra, S. Shah, A. Srivastava, D. Blaauw, and D. Sylvester, “Parametric yield maximization 
+using gate sizing based on efficient statistical power and delay gradient computation,” ACM/IEEE 
+International Conference on Computer-Aided Design, pp. 1023-1028, 2005. 
+
+-----
+Dennis Sylvester, p. 34 
+292. D. Sylvester, “Design for manufacturability: challenges and opportunities,” IEEE International 
+Conference on ASIC, 2005. 
+293. H. Deogun, R.M. Rao, D. Sylvester, and K. Nowka, “Adaptive MTCMOS for dynamic leakage and 
+frequency control using variable footer strength,” IEEE System-on-Chip Conference, pp. 147-150, 
+2005. 
+294. B. Zhai, S. Hanson, D. Blaauw, and D. Sylvester, “Analysis and mitigation of variability in 
+subthreshold design,” IEEE/ACM International Symposium on Low-Power Electronics Design, pp. 
+20-25, 2005. 
+295. P. Gupta, A.B. Kahng, Y. Kim, and D. Sylvester, “Self-compensating design for focus variation,” 
+ACM/IEEE Design Automation Conference, pp. 365-368, 2005. 
+296. J. Yang, L. Capodieci, and D. Sylvester, “Advanced timing analysis based on post-OPC extraction 
+of critical dimensions,” ACM/IEEE Design Automation Conference, pp. 359-364, 2005. [best paper 
+award nominee, 15 nominees out of 735 submissions] 
+297. A. Srivastava, S. Shah, K. Agarwal, D. Sylvester, D. Blaauw, and S. Director, “Accurate and 
+efficient parametric yield estimation considering correlated variations in leakage power and 
+performance,” ACM/IEEE Design Automation Conference, pp. 535-540, 2005. 
+298. D. Sylvester, H. Kaul, K. Agarwal, R.M. Rao, S. Nassif, and R.B. Brown, “Power-aware global 
+signaling strategies,” IEEE International Symposium on Circuits and Systems,  pp. 604-607, 2005. 
+[invited] 
+299. E. Karl, D. Sylvester, and D. Blaauw, “Timing error correction techniques for voltage-scalable on-
+chip memories,” IEEE International Symposium on Circuits and Systems, pp. 3563-3566, 2005. 
+300. M. Guthaus, N. Venkateswaran, D. Sylvester, R.B. Brown, and V. Zolotov, “Optimization 
+objectives and models of variation for statistical gate sizing,” ACM/IEEE Great Lakes Symposium 
+on VLSI, pp. 313-316, 2005. 
+301. H. Kaul and D. Sylvester, “A novel buffer circuit for energy efficient signaling in dual-Vdd 
+systems,” ACM/IEEE Great Lakes Symposium on VLSI, pp. 462-467, 2005. 
+302. R. Bai, N.S. Kim, D. Sylvester, and T. Mudge, “Total leakage optimization strategies for multi-level 
+caches,” ACM/IEEE Great Lakes Symposium on VLSI, pp. 381-384, 2005. 
+303. H. Deogun, D. Sylvester, and D. Blaauw, “Gate-level mitigation techniques for neutron-induced soft 
+error rate,” ACM/IEEE International Symposium on Quality Electronic Design, pp. 175-180, 2005. 
+304. P. Gupta, A.B. Kahng, D. Sylvester, and J. Yang, “Performance-driven OPC for mask cost 
+reduction,” ACM/IEEE International Symposium on Quality Electronic Design, pp. 270-275, 2005. 
+305. R.M. Rao, K. Agarwal, A. Devgan, K. Nowka, D. Sylvester, and R. Brown, “Parametric yield 
+analysis and constrained-based supply voltage optimization,” ACM/IEEE International Symposium 
+on Quality Electronic Design, pp. 284-290, 2005. [best paper award nominee] 
+306. H. Deogun, R.M. Rao, D. Sylvester, R. Brown, and K. Nowka, “Dynamically pulsed MTCMOS 
+with bus encoding for total power and crosstalk minimization,” ACM/IEEE International 
+Symposium on Quality Electronic Design, pp. 88-93, 2005. 
+307. R.R. Rao, D. Blaauw, D. Sylvester, C.J. Alpert, and S. Nassif, “An efficient surface-based low-
+power buffer insertion algorithm,” ACM/IEEE International Symposium on Physical Design, pp. 86-
+93, 2005. 
+308. H. Kaul, D. Sylvester, D. Blaauw, T. Austin, and T. Mudge, “DVS for on-chip bus designs based on 
+timing error correction,” ACM/IEEE Design, Automation, and Test in Europe, pp. 80-85, 2005. 
+309. R. Bai, N.S. Kim, T.H. Kgil, D. Sylvester, and T. Mudge, “Power-performance tradeoffs in 
+nanometer-scale multi-level caches considering total leakage,” ACM/IEEE Design, Automation, and 
+Test in Europe, pp. 650-651, 2005. 
+
+-----
+Dennis Sylvester, p. 35 
+310. J. Yang, L. Capiodieci, and D. Sylvester, “Advanced timing analysis based on post-OPC patterning 
+process simulations,” SPIE Design and Process Integration for Microelectronic Manufacturing III, 
+SPIE vol. 5756, pp. 189-197, 2005. 
+311. K. Agarwal, D. Sylvester, D. Blaauw, and A. Devgan, “Achieving continuous Vth performance in a 
+dual-Vth process,” ACM/IEEE Asia-South Pacific Design Automation Conference, pp. 393-398, 
+2005. 
+312. D. Lee, D. Blaauw, and D. Sylvester, “Runtime leakage minimization through probability-aware 
+dual-Vt or dual-Tox assignment,” ACM/IEEE Asia-South Pacific Design Automation Conference, 
+pp. 399-404, 2005. 
+313. M. Agarwal, K. Agarwal, D. Sylvester, and D. Blaauw, “Statistical modeling of cross-coupling 
+effects in VLSI interconnects,” ACM/IEEE Asia-South Pacific Design Automation Conference, pp. 
+503-506, 2005. 
+314. Y.-S. Lin and D. Sylvester, “A new asymmetric skewed buffer design for runtime leakage power 
+reduction,” ACM/IEEE International Conference on VLSI Design, pp. 824-827, 2005. 
+315. A. Srivastava and D. Sylvester, “A general framework for probabilistic low-power design space 
+exploration considering process variation,” ACM/IEEE International Conference on Computer-
+Aided Design, pp. 808-813, 2004. 
+316. A.K. Sultania, S.S. Sapatnekar, and D. Sylvester, “Transistor and pin reordering for gate oxide 
+leakage reduction in dual-Tox circuits,” IEEE International Conference on Computer Design, pp. 
+228-233, 2004. 
+317. S. Shah, K. Agarwal, and D. Sylvester, “A new threshold voltage assignment scheme for runtime 
+leakage reduction in on-chip repeaters,” IEEE International Conference on Computer Design, pp. 
+138-143, 2004. 
+318. P. Gupta, A.B. Kahng, C.-H. Park, P. Sharma, D. Sylvester, and J. Yang, “Joining the design and 
+mask flows for better and cheaper masks,” Proc. 24th BACUS Symposium on Photomask Technology 
+and Management, pp. 318-329, 2004. [invited] 
+319. B. Zhai, D. Blaauw, and D. Sylvester, “Extended dynamic voltage scaling for low-power design,” 
+IEEE International SOC Conference, pp. 389-394, 2004. [invited] 
+320. H. Kaul, D. Sylvester, M. Anders, and R. Krishnamurthy, “Spatial encoding circuit techniques for 
+peak power reduction of on-chip high-performance buses,” IEEE/ACM International Symposium on 
+Low-Power Electronics Design, pp. 194-199, 2004. 
+321. S.H. Kulkarni, A. Srivastava, and D. Sylvester, “A new algorithm for improved VDD assignment in 
+low power dual VDD systems,” IEEE/ACM International Symposium on Low-Power Electronics 
+Design, pp. 200-205, 2004. 
+322. R.M. Rao, K. Agarwal, D. Sylvester, R. Brown, K. Nowka, and S. Nassif, “Approaches to runtime 
+and standby mode leakage reduction in global buses,” IEEE/ACM International Symposium on Low-
+Power Electronics Design, pp. 188-193, 2004. 
+323. A.K. Sultania, D. Sylvester, and S.S. Sapatnekar, “Tradeoffs between gate oxide leakage and delay 
+for dual-Tox circuits,” IEEE/ACM Design Automation Conference, pp. 761-766, 2004. 
+324. P. Gupta, A.B. Kahng, P. Sharma, and D. Sylvester, “Selective gate-length biasing for cost-effective 
+runtime leakage control,” IEEE/ACM Design Automation Conference, pp. 327-330, 2004. 
+325. K. Agarwal, D. Sylvester, D. Blaauw, F. Liu, S. Nassif, and S. Vrudhula, “Variational delay metrics 
+for interconnect timing analysis,” IEEE/ACM Design Automation Conference, pp. 381-384, 2004. 
+326. H. Deogun, R.R. Rao, D. Sylvester, and D. Blaauw, “Crosstalk- and leakage-aware bus encoding for 
+total power reduction,” IEEE/ACM Design Automation Conference, pp. 779-782, 2004. 
+
+-----
+Dennis Sylvester, p. 36 
+327. R.R. Rao, A. Devgan, D. Blaauw, and D. Sylvester, “Parametric yield estimation considering 
+leakage variability,” IEEE/ACM Design Automation Conference, pp. 442-447, 2004. [best paper 
+award nominee, 16 nominees out of 785 submissions] 
+328. L. Capodieci, P. Gupta, A.B. Kahng, D. Sylvester, and J. Yang, “Toward a methodology for 
+manufacturability-driven design rule exploration,” IEEE/ACM Design Automation Conference, pp. 
+311-316, 2004. 
+329. A. Srivastava, D. Sylvester, and D. Blaauw, “Statistical optimization of leakage power considering 
+process variations using dual-Vth and sizing,” IEEE/ACM Design Automation Conference, pp. 773-
+778, 2004. 
+330. B. Zhai, D. Blaauw, D. Sylvester, and K. Flautner “Theoretical and practical limits of dynamic 
+voltage scaling,” IEEE/ACM Design Automation Conference, pp. 868-873, 2004. 
+331. A. Srivastava, D. Sylvester, and D. Blaauw, “Power minimization using simultaneous gate sizing, 
+dual-Vdd, and dual-Vth assignment,” IEEE/ACM Design Automation Conference, pp. 783-786, 
+2004. 
+332. R. Brown, D. Blaauw, M.P. Flynn, and D. Sylvester, “VLSI design curriculum,” American Society 
+for Engineering Education Annual Conference, 2004. 
+333. A. Srivastava, D. Sylvester, and D. Blaauw, “Concurrent sizing, Vdd and Vth assignment algorithm 
+for low-power design,” IEEE/ACM Design, Automation and Test in Europe, pp. 718-719, 2004. 
+334. D. Lee, H. Deogun, D. Blaauw, and D. Sylvester, “Simultaneous state, Vt and Tox assignment for 
+total standby power minimization,” IEEE/ACM Design, Automation and Test in Europe, pp. 494-
+499, 2004. 
+335. P. Gupta, A.B. Kahng, Y. Kim, and D. Sylvester, “Investigation of performance metrics for 
+interconnect stack architectures,” IEEE/ACM Workshop on System-Level Interconnect Prediction, 
+pp. 23-29, 2004. 
+336. K. Agarwal, D. Sylvester, and D. Blaauw, “A simplified transmission-line based crosstalk noise 
+model for on-chip RLC wiring,” IEEE/ACM Asia-South Pacific Design Automation Conference, pp. 
+859-865, 2004. 
+337. M. R. Bai and D. Sylvester, “Analysis and design of level-converting flip-flops for dual-Vdd/Vth 
+integrated circuits,” IEEE International Symposium on System-on-Chip, pp. 151-154, 2003. 
+338. K. Agarwal, D. Sylvester, and D. Blaauw, “Dynamic clamping: On-chip dynamic shielding and 
+termination for high-speed RLC buses,” IEEE International Symposium on System-on-Chip, pp. 97-
+100, 2003. 
+339. Y. Cao, X. Yang, X. Huang, and D. Sylvester, “Switch-factor based loop RLC modeling for 
+efficient timing analysis,” ACM/IEEE International Conference on Computer-Aided Design, pp. 
+848-853, 2003. 
+340. S. Das, K. Agarwal, D. Blaauw, and D. Sylvester, “Optimal inductance for on-chip RLC 
+interconnections,” IEEE International Conference on Computer Design, pp. 264-267, 2003. 
+341. S.H. Kulkarni and D. Sylvester, “New level converters and level converting logic circuits for multi-
+VDD low power design,” IEEE System-on-Chip (SOC) Conference, pp. 169-172, 2003. 
+342. H. Kaul, D. Sylvester, and D. Blaauw, “Active shielding of RLC global interconnects,” IEEE 
+European Solid-State Circuits Conference, pp. 265-268, 2003. 
+343. R.R. Rao, A. Srivastava, D. Blaauw, and D. Sylvester, “Statistical estimation of leakage current 
+considering inter- and intra-die process variation,” ACM/IEEE International Symposium on Low-
+Power Electronics Design, pp. 84-89, 2003. 
+344. K. Agarwal, D. Sylvester, and D. Blaauw, “Effective capacitance based driver output model for on-
+chip RLC interconnects,” ACM/IEEE Design Automation Conference, pp. 376-381, 2003. 
+
+-----
+Dennis Sylvester, p. 37 
+345. D. Lee, W. Kwong, D. Blaauw, and D. Sylvester, “Analysis and minimization techniques for total 
+leakage considering gate oxide leakage,” ACM/IEEE Design Automation Conference, pp. 175-180, 
+2003. 
+346. P. Gupta, A.B. Kahng, D. Sylvester, and J. Yang, “A cost-driven lithographic correction 
+methodology based on off-the-shelf sizing tools,” ACM/IEEE Design Automation Conference, pp. 
+16-21, 2003. 
+347. K. Agarwal, D. Sylvester, and D. Blaauw, “Simple metrics for slew rate of RC circuits based on two 
+circuit moments,” ACM/IEEE Design Automation Conference, pp. 950-953, 2003. 
+348. L. Stok, R. Puri, J. Cohn, D. Kung, D. Pan, D. Sylvester, A. Srivastava, and S.H. Kulkarni,, 
+“Pushing ASIC performance in a power envelope,” ACM/IEEE Design Automation Conference, pp. 
+788-793, 2003. 
+349. D. Rickard, R. Berger, E. Chan, B. Clegg, S. Patton, R. Anderson, R. Brown, D. Sylvester, M. 
+Guthaus, H. Deogun, K.J.R. Liu, C. Pandana, and N. Chandrachoodan, “BAE SYSTEMS Mission 
+Specific Processor Technology,” Government Microcircuit Applications and Critical Technology 
+Conference, 23.1, pp. 1-4, 2003. 
+350. D. Lee, W. Kwong, D. Blaauw, and D. Sylvester, “Simultaneous subthreshold and gate-oxide 
+tunneling leakage current analysis in nanometer CMOS design,” IEEE International Symposium on 
+Quality Electronic Design, pp. 287-292, 2003. 
+351. M.R. Bai, S. Kulkarni, W. Kwong, A. Srivastava, D. Sylvester, and D. Blaauw, “An implementation 
+of a 32-bit ARM processor using dual power supplies and dual threshold voltages,” IEEE 
+International Symposium on VLSI, pp. 149-154, 2003. 
+352. P. Gupta, A.B. Kahng, D. Sylvester, and J. Yang, “Toward performance-driven reduction of the cost 
+of RET-based lithography control,” SPIE Vol. 5043, Cost and Performance in Integrated Circuit 
+Creation, 2003. [invited] 
+353. A. Srivastava and D. Sylvester, “Minimizing total power by simultaneous Vdd/Vth assignment,” 
+IEEE/ACM Asia-South Pacific Design Automation Conference, pp. 400-403, 2003. 
+354. H. Kaul, D. Sylvester, and D. Blaauw, “Active shielding of RLC global interconnects,” ACM/IEEE 
+International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems, 
+2002, pp. 98-104. 
+355. K. Agarwal, D. Sylvester, and D. Blaauw, “A library compatible driving point model for on-chip 
+RLC interconnect,” ACM/IEEE International Workshop on Timing Issues in the Specification and 
+Synthesis of Digital Systems, 2002, pp. 63-69. 
+356. A. Srivastava, M.R. Bai, D. Sylvester, and D. Blaauw, “Modeling and analysis of leakage power 
+considering within-die process variations,” IEEE International Symposium on Low-Power 
+Electronics Design, pp. 64-67, 2002. 
+357. Y. Cao, X. Huang, D. Sylvester, H. Wan, T-J. King, and C. Hu, “Impact of on-chip frequency-
+dependent R(f) L(f) on digital and RF design,” IEEE International ASIC/SOC Conference, pp. 438-
+442, 2002. 
+358. X. Huang, Y. Cao, D. Sylvester, T-J. King, and C. Hu, “Analytical performance models for RLC 
+interconnects and application to clock optimization,” IEEE International ASIC/SOC Conference, pp. 
+353-357, 2002. 
+359. Y. Cao, P. Gupta, A.B. Kahng, D. Sylvester, and J. Yang, “Design sensitivities to variability: 
+Extrapolations and assessments in nanometer VLSI,” IEEE International ASIC/SOC Conference, 
+pp. 411-415, 2002. 
+360. H. Kaul, D. Sylvester, and D. Blaauw, “Active shielding: A new approach to shielding global 
+wires,” IEEE Great Lakes Symposium on VLSI, pp. 112-117, 2002. 
+
+-----
+Dennis Sylvester, p. 38 
+361. H. Kaul and D. Sylvester, “Transition-aware global signaling (TAGS),” IEEE International 
+Symposium on Quality Electronic Design, pp. 53-59, 2002. 
+362. K. Agarwal, Y. Cao, T. Sato, D. Sylvester, and C. Hu, “Efficient noise-aware timing analysis using 
+delay change curves,” IEEE/ACM VLSI Design/Asia-South Pacific Design Automation Conference, 
+pp. 87-94, 2002. 
+363. D. Sylvester and H. Kaul, “Future performance challenges in nanometer design,” ACM/IEEE Design 
+Automation Conference, pp. 3-8, 2001. [invited] 
+364. Y. Cao, X. Huang, D. Sylvester, and C. Hu, “A new analytical delay and noise model for on-chip 
+RLC interconnect,” International Electron Device Meetings, pp. 823-826, 2000. 
+365. X. Huang, Y. Cao, D. Sylvester, S. Lin, T.J. King, and C. Hu, “RLC signal integrity analysis of 
+high-speed global interconnect,” International Electron Device Meetings, pp. 731-734, 2000. 
+366. Y. Cao, T. Sato, X. Huang, C. Hu, and D. Sylvester, “New approaches to noise-aware static timing 
+analysis,” ACM/IEEE International Workshop on Timing Issues in the Specification and Synthesis 
+of Digital Systems, pp. 8-12, 2000. 
+367. Y. Cao, C. Hu, A. B. Kahng, S. Muddu, D. Stroobandt, and D. Sylvester, “Effects of global 
+interconnect optimizations on performance estimation of deep submicron designs,” International 
+Conference on Computer-Aided Design, pp. 56-61, 2000. 
+368. T. Sato, Y. Cao, D. Sylvester, and C. Hu, “Characterization of interconnect coupling noise using in-
+situ delay change curve measurements,” IEEE ASIC/SoC Conference, pp. 321-325, 2000. 
+369. A. Caldwell, Y. Cao, A.B. Kahng, F. Koushanfar, H. Lu, I. Markov, M. Oliver, D. Stroobandt, and 
+D. Sylvester, “GTX: The MARCO GSRC technology extrapolation system,” ACM/IEEE Design 
+Automation Conference, pp. 693-698, 2000. 
+370. Y. Cao, T. Sato, M. Orshansky, D. Sylvester, and C. Hu, “New paradigm of predictive MOSFET 
+and interconnect modeling for early circuit simulation,” IEEE Custom Integrated Circuits 
+Conference, pp. 201-204, 2000. 
+371. D. Sylvester, “Measurement techniques and interconnect estimation,” ACM System-Level 
+Interconnect Prediction Workshop, pp. 79-81, 2000. 
+372. T. Sato, D. Sylvester, Y. Cao, and C. Hu, "Accurate in-situ measurement of peak noise and signal 
+delay induced by interconnect coupling," IEEE International Solid-State Circuits Conference, pp. 
+226-227, 2000. 
+373. D. Sylvester and K. Keutzer, “Getting to the bottom of deep submicron II: the global wiring 
+paradigm,” ACM/IEEE International Symposium on Physical Design, pp. 193-200, 1999. 
+374. O.S. Nakagawa, N. Chang, S. Lin, and D. Sylvester, “Circuit impact and skew-corner analysis of 
+stochastic process variation in global interconnect," IEEE International Interconnect Technology 
+Conference, pp. 230-232, 1999. 
+375. D. Sylvester, O.S. Nakagawa, and C. Hu, “Modeling the impact of back-end process variation on 
+circuit performance,” IEEE International Symposium on VLSI Technology, Systems, and 
+Applications, pp. 58-61, 1999. 
+376. D. Sylvester and K. Keutzer, “System-level performance modeling with BACPAC – Berkeley 
+advanced chip performance calculator,” ACM International Workshop on System-Level Interconnect 
+Prediction (workshop notes), pp. 109-114, 1999. 
+377. K. Keutzer and D. Sylvester, “Chip level assembly is the key to DSM design,” ACM/IEEE 
+International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems, pp. 
+23-24, 1999. 
+378. D. Sylvester and K. Keutzer, “Getting to the bottom of deep submicron,” ACM/IEEE International 
+Conference on Computer-Aided Design, pp. 203-211, 1998. 
+
+-----
+Dennis Sylvester, p. 39 
+379. D. Sylvester, C. Hu, O.S. Nakagawa, and S-Y. Oh, “Interconnect scaling: signal integrity and 
+performance in future high-speed CMOS designs,” IEEE Symposium on VLSI Technology, pp. 42-
+43, 1998. 
+380. D. Sylvester, J.C. Chen, and C. Hu, “Measurement-based interconnect capacitance characterization 
+for circuit simulations,” IEEE International Semiconductor Device Research Symposium, pp. 67-70, 
+1997. [best student paper award] 
+381. D. Sylvester, J.C. Chen, B.W. McGaughy, and C. Hu, “Investigation of interconnect capacitance 
+using charge-based capacitance measurement (CBCM) technique and 3-D simulation,” IEEE 
+Custom Integrated Circuits Conference, pp. 491-494, 1997. 
+382. J.C. Chen, D. Sylvester, C. Hu, H. Aoki, O.S. Nakagawa, and S-Y. Oh, “An on-chip sub-femto-farad 
+interconnect charge-based capacitance measurement (CBCM) technique,” IEEE International 
+Conference on Microelectronic Test Structures, pp. 77-80, 1997. 
+383. J.C. Chen, B.W. McGaughy, D. Sylvester, and C. Hu, “An on-chip atto-farad interconnect charge-
+based capacitance measurement (CBCM) technique,” IEEE International Electron Device Meetings, 
+pp. 69-72, 1996. 
+ 
+Unpublished workshop notes (refereed) 
+1. R.G. Dreslinski, B. Giridhar, N. Pinckney, D. Blaauw, D. Sylvester, and T. Mudge “Reevaluating fast 
+dual-voltage power rail switching circuitry,” Workshop on Duplicating, Deconstructing, and 
+Debunking (WDDD), in conjunction with ISCA, pp. 1-7, 2012. 
+2. N. Pinckney, R. Dreslinski, K. Sewell, D. Fick, D. Blaauw, D. Sylvester, and T. Mudge, “Limits of 
+voltage-scaled parallel architectures to combat dark silicon,” Workshop on Sark Silicon (DaSi), 
+2012. 
+3. D. Fick, R.G. Dreslinski, B. Giridhar, G. Kim, S. Seo, M. Fojtik, S. Satpathy, Y. Lee, D. Kim, N. Liu, 
+M. Wieckowski, G. Chen, T. Mudge, D. Sylvester, and D. Blaauw, “Centip3De: A 7-layer 3D system 
+with 128 ARM Cortex-M3 cores and 256MB of DRAM,” Workshop on 3D Integration, held in 
+conjunction with ACM/IEEE Design, Automation, and Test in Europe, 2011. 
+4. V. Joshi, V. Sukharev, A. Torres, D. Sylvester, and D. Blaauw, “Closed-form modeling of layout-
+dependent mechanical stress,” IEEE International Workshop on Design for Manufacturability and 
+Yield (DFM&Y), 2009. 
+5. R. Dreslinski, M. Wieckowski, D. Blaauw, D. Sylvester, and T. Mudge, “Near threshold computing: 
+overcoming performance degradation from aggressive voltage scaling,” Workshop on Energy 
+Efficient Design, held in conjunction with ACM/IEEE International Symposium on Computer 
+Architecture, 2009 
+6. J-S. Seo, I. Markov, D. Sylvester, and D. Blaauw, “On the decreasing utility of technology mapping,” 
+IEEE International Workshop on Logic Synthesis, 2008. 
+7. R. Gandikota, D. Blaauw, and D. Sylvester, “Modeling crosstalk in statistical static timing analysis,” 
+ACM/IEEE International Workshop on Timing Issues in the Specification and Synthesis of Digital 
+Systems (TAU), 2008. 
+8. V. Veetil, D. Sylvester, and D. Blaauw, “Efficient Monte Carlo based incremental statistical timing 
+analysis,” ACM/IEEE International Workshop on Timing Issues in the Specification and Synthesis of 
+Digital Systems (TAU), 2008. 
+9. D. Roberts, R.G. Dreslinski, E. Karl, T. Mudge, D. Sylvester, and D. Blaauw, “When homogeneous 
+becomes heterogeneous,” Operating System Support for Heterogeneous Multicore Architectures 
+Workshop, 2007. 
+
+-----
+Dennis Sylvester, p. 40 
+10. V. Veetil, D. Sylvester, and D. Blaauw, “Criticality aware Latin Hypercube sampling for efficient 
+statistical timing analysis,” ACM/IEEE International Workshop on Timing Issues in the Specification 
+and Synthesis of Digital Systems (TAU), 2007. 
+11. V. Veetil, D. Sylvester, and D. Blaauw, “Fast and accurate waveform analysis with current source 
+models,” ACM/IEEE International Workshop on Timing Issues in the Specification and Synthesis of 
+Digital Systems (TAU), 2007. 
+12. R. Gandikota, K. Chopra, D. Blaauw, D. Sylvester, and M. Becer, “Enumerating the top-k aggressors 
+set in delay-noise analysis,” ACM/IEEE International Workshop on Timing Issues in the 
+Specification and Synthesis of Digital Systems (TAU), 2007. 
+13. F. Albano, D. Blaauw, D. Sylvester, and A.M. Sastry, “Design of hybrid implantable power systems 
+(HIPS): optimization based on fundamentals of materials and energetics,” 211th Electrochemical 
+Society Meeting, 2007. 
+14. F. Albano, D. Blaauw, D. Sylvester, and A.M. Sastry, “Design and optimization of hybrid power 
+systems for fully implantable medical devices,” Joint International Meeting of Electrochemical 
+Society, 2006. 
+15. Y. Kim, D. Petranovic, and D. Sylvester, “Simple and accurate models for capacitance increment due 
+to metal fill insertion,” IEEE International Workshop on Design for Manufacturability and Yield 
+(DFM&Y), 2006. 
+16. D. Sylvester, “IC design strategies at ultra-low voltages,” IEEE Austin Conference on Integrated 
+Systems and Circuits, 2006. [invited] 
+17. K. Chopra, B. Zhai, D. Blaauw, and D. Sylvester, “A new statistical max operation for propagating 
+skewness in statistical timing analysis,” ACM/IEEE International Workshop on Timing Issues in the 
+Specification and Synthesis of Digital Systems (TAU), 2006. 
+18. E. Karl, D. Blaauw, D. Sylvester, C. McDowell, F. Liu, and S. Nassif, “Measuring subthreshold 
+conduction variability,” IBM Austin Center for Advanced Studies Conference, 2003.   
+ 
+ 
+Papers under submission 
+ 
+Q. Dong, K. Yang, L. Freyman, D. Fick, D. Blaauw, and D. Sylvester, “Racetrack converter: low 
+power and compact ADC/TDC using racetrack spintronic devices,” submitted to ACM/IEEE 
+International Conference on Computer-Aided Design, 2014. 
+ 
+D. Yoon, H. Ha, D. Sylvester, and D. Blaauw, “A sub-nW 3.4fJ/conversion-step 8-bit 1kS/s SAR 
+ADC using a transistor-stack DAC,” to be submitted to IEEE Solid-State Circuits Conference, 2015. 
+ 
+L. Freyman, D. Fick, D. Blaauw, D. Sylvester, and M. Alioto, “A 346um2 VCO-based, reference-
+free, self-timed sensor interface for cubic-millimeter sensor nodes in 28nm CMOS,” submitted to 
+IEEE Journal of Solid-State Circuits. 
+ 
+W. Jung, S. Oh, S. Bang, Y. Lee, Z. Foo, G. Kim, Y. Zhang, D. Sylvester, and D. Blaauw, “An ultra-
+low power fully integrated energy harvester based on self-oscillating switched-capacitor voltage 
+doubler,” submitted to IEEE Journal of Solid-State Circuits. 
+ 
+Y-P. Chen, D. Jeon, Y. Lee, Y. Kim, Z. Foo, I. Lee, G. Kruger, H. Oral, O. Berenfeld, Z. Zhang, D. 
+Blaauw, and D. Sylvester, “An injectable 64nW ECG mixed-signal SoC in 65nm for arrhythmia 
+monitoring,” submitted to IEEE Journal of Solid-State Circuits. 
+ 
+M. Cochet, B. Pelloux-Prayer, M. Saligane, S. Clerc, P. Roche, J-L. Autran, and D. Sylvester, 
+“Experimental model of adaptive body biasing for energy efficiency in 28nm UTBB FD-SOI,” 
+submitted to IEEE SOI-3D-Subthreshold Microelectronics Technology Unified Conference, 2014. 
+
+-----

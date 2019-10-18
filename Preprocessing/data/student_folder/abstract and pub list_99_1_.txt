@@ -1,0 +1,122 @@
+Thesis Title
+Reliability Analysis and Improvement of Multilevel Converters
+Thesis
+Abstract
+Power converter based variable-frequency drive is much more energy efficient than the traditional
+fixed-speed motor. It can reduce the drive system operating cost significantly. However, the
+reliability of a power converter is a big concern for both manufacturers and end users as high
+failure rate will incur additional repairing cost.
+In high power drive applications, multilevel
+converters which utilize mature power semiconductors are superior to conventional two-level
+converters in efficiency and power quality. But the reliability problem of multilevel converters is
+even more serious due to a large number of vulnerable power semiconductors used. Therefore,
+reliability analysis and improvement of multilevel converters are indispensable for popularization
+and application of variable-frequency drive.
+Traditionally, there are two branches in reliability modeling: failure rate methods and Physics-
+of-Failure methods. The data-driven statistical failure rate methods are widely used in power
+system for their simplicity and effectiveness. There is a crucial assumption that the failure rate is
+constant during equipment useful lifetime. The assumption is reasonable in power system where
+equipment is operating in a relatively stable condition and under good maintenances. However,
+due to the harsh environment and variable load in drive systems, the equipment stress change
+severely and rapidly. It makes the crucial constant failure assumption questionable.
+A load-dependent failure rate method is proposed to model the variable load. In the proposed
+method, the failure rate can be represented as an equivalent constant value or a time-varying
+function depends on the application. In traditional failure rate methods, the reliability index,
+Mean Time to Failure (MTTF), is widely used to give a life expectancy. MTTF is the reciprocal
+of the system failure rate in the condition that the system has a constant failure rate. With a
+time-varying failure rate, MTTF is almost impossible to calculate in practice. A new reliability
+index, MTTF consumption is proposed to describe the state of health of a power converter.
+Multilevel converters with modular design have inherent redundancy which gives them fault-
+tolerance capability. The network reliability techniques, combinatorics and stochastic process,
+are used to model the inherent redundancy in multilevel converters. With the aforementioned
+techniques, the complete and systematic load-dependent failure rate method can be applied to
+analyze multilevel converter reliability. The Monte Carlo simulation is used to verify the reliability
+results of the load-dependent failure rate method.
+On the other hand, the Physics-of-Failure methods which model failure mechanisms draw lots
+of attention in the power electronics community recently. These methods calculate components
+lifetime consumption under a mission profile with pre-established life-stress models. The converter
+system lifetime is determined by the weakest component. The Physics-of-Failure methods give a
+deterministic lifetime with clear physics-based models. However, multilevel converter redundancy
+and system-level reliability are hard to model as there is no component lifetime distribution. The
+randomness of failure and probabilistic property of reliability are lost.
+A probabilistic Physics-of-Failure method is developed by including uncertainty of component
+parameters and life-stress model parameters.
+An assumption that parameters follow normal
+distributions is used in the proposed method to simulate the manufacturing process. Component
+lifetime distribution can be obtained by repetitive Physics-of-Failure analysis or a Monte Carlo
+simulation.
+The component reliability function can be extracted by probability distribution
+fitting.
+The multilevel converter redundancy and system-level reliability can be modeled by
+well-established statistical techniques.
+This thesis provides reliability analysis methods for power converters and especially, multilevel
+converters and explores possible measures to improve the reliability and reduce the cost. The
+thesis has three parts. Part 1 has two chapters with chapter 1 introducing the multilevel converters
+and its reliability problems, and chapter 2 reviewing reliability modeling history and methods.
+The second part discusses the two proposed reliability modeling methods with case studies.
+Improving reliability in component level by switching loss optimization is also presented in this
+part. The last part draws the conclusions and proposes some future works.
+Journal
+Publications
+1. P. Tu, S. Yang, and P. Wang, “Reliability and cost based redundancy design for modular
+multilevel converter,” IEEE Transactions on Industrial Electronics, 2018.
+1 of 2
+
+-----
+2. S. Yin, P. Tu*, P. Wang, K. J. Tseng, C. Qi, X. Hu, M. Zagrodnik, and R. Simanjorang,
+“An accurate subcircuit model of sic half-bridge module for switching-loss optimization,”
+IEEE Transactions on Industry Applications, 2017.
+3. C. Qi, X. Chen, P. Tu, and P. Wang, “Cell-by-cell-based finite-control-set model predictive
+control for a single-phase cascaded h-bridge rectifier,” IEEE Transactions on Power Electronics,
+2018.
+4. D. Zhou, P. Tu, and Y. Tang, “Multivector model predictive power control of three-phase
+rectifiers with reduced power ripples under nonideal grid conditions,” IEEE Transactions
+on Industrial Electronics, 2018.
+5. C. Qi, C. Xiyou, P. Tu, and P.Wang, “Deadbeat control for a single-phase cascaded h-bridge
+rectifier with voltage balancing modulation,” IET Power Electronics, 2017.
+6. C. Qi, P. Tu, P. Wang, and M. Zagrodnik, “Predictive current control for multilevel
+cascaded h-bridge inverters based on a deadbeat solution,” Journal of Power Electronics,
+2017.
+7. S. Yin, K. J. Tseng, R. Simanjorang, and P. Tu, “Experimental comparison of high-speed
+gate driver design for 1.2-kv/120-a si igbt and sic mosfet modules,” IET Power Electronics,
+2017.
+8. Q. Xu, X. Hu, P. Wang, J. Xiao, P. Tu, C. Wen, and M. Y. Lee, “A decentralized dynamic
+power sharing strategy for hybrid energy storage system in autonomous dc microgrid,”
+IEEE Transactions on Industrial Electronics, 2017.
+9. C. Dong, H. Jia, Q. Xu, J. Xiao, Y. Xu, P. Tu, P. Lin, X. Li, and P. Wang, “Time-
+delay stability analysis for hybrid energy storage system with hierarchical control in dc
+microgrids,” IEEE Transactions on Smart Grid, 2017.
+10. C. Qi, P. Tu, P. Wang, and M. A. Zagrodnik, “Random nearest level modulation strategy
+of multilevel cascaded h-bridge inverters,” IET Power Electronics, 2016.
+Conference
+Publications
+1. P. Tu, P. Wang, X. Hu, C. Qi, S. Yin, and M. A. Zagrodnik, “Analytical evaluation of igbt
+turn-on loss with double pulse testing,” in Industrial Electronics and Applications (ICIEA),
+2016
+2. P. Tu, S. Yang, P. Wang, Q. Xu, and C. Qi, “Analytical averaged loss model of half-bridge
+modular multilevel converters,” in Future Energy Electronics Conference and ECCE Asia
+(IFEEC 2017-ECCE Asia), 2017
+3. P. Tu, S. Yin, P.Wang, K. Tseng, C. Qi, X. Hu, M. Zagrodnik, and R. Simanjorang, “An
+accurate subcircuit model of sic half bridge module for switching loss optimization,” in
+Energy Conversion Congress and Exposition (ECCE), 2016
+4. Q. Xu, P. Tu*, C. Dong, C. Qi, S. Yang, S. Yao, and P. Wang, “Pof based reliability
+prediction for cascaded h-bridge converter in drive application,” in Future Energy Electronics
+Conference and ECCE Asia (IFEEC 2017-ECCE Asia), 2017
+5. S. Yang, Y. Tang, P. Tu, and P. Wang, “A fault-tolerant operation scheme for a modular
+multilevel converter with a distributed control architecture,” in Energy Conversion Congress
+and Exposition (ECCE), 2017
+6. C. Qi, X. Chen, P. Tu, and P. Wang, “Low-complexity two-voltage-based model predictive
+control for a single-phase cascaded h-bridge inverter,” in Future Energy Electronics Conference
+and ECCE Asia (IFEEC 2017-ECCE Asia), 2017
+7. P. Lin, C. Zhang, P.Wang, X. Li, J. Xiao, P. Tu, and C. F. Hoong, “A global robust output
+regulation method for grid-connected inverter with lcl
+filter in weak grid condition,” in Industrial Electronics and Applications (ICIEA), 2017
+8. C. Qi, P. Tu, D. Shi, P. Wang, M. A. Zagrodnik, and G. Amit, “An efficient fpga-based
+implementation of predictive current control algorithms for an indirect matrix converter,”
+in Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), 2016,
+9. S. Yin, K. Tseng, P. Tu, R. Simanjorang, and A. K. Gupta, “Design considerations
+and comparison of high-speed gate drivers for si igbt and sic mosfet modules,” in Energy
+Conversion Congress and Exposition (ECCE), 2016
+2 of 2
+
+-----

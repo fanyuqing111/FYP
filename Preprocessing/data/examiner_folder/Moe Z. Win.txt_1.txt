@@ -1,0 +1,194 @@
+Moe Win | MIT LIDS
+https://lids.mit.edu/people/facultypi/moe-win[7/9/2018 3:55:57 PM]
+LABORATORY FOR INFORMATION & DECISION SYSTEMS
+Home
+Contact Us
+Give to LIDS
+Moe Z. Win
+Professor, Aeronautics and Astronautics
+LIDS Faculty/PI
+Ph.D. in Electrical Engineering, University of Southern California, 1998.
+M.S. in Applied Mathematics, University of Southern California, 1998.
+B.S. in Electrical Engineering, Texas A&M University, 1987.
+BRIEF BIOGRAPHY
+Moe Win is a Professor at the Massachusetts Institute of Technology (MIT) and the
+founding director of the Wireless Communication and Network Sciences
+Laboratory. Prior to joining MIT, he was with AT&T Research Laboratories for
+five years and with the Jet Propulsion Laboratory for seven years. His research
+encompasses fundamental theories, algorithm design, and experimentation for a
+broad range of real-world problems. His current research topics include network
+localization and navigation, network interference exploitation, intrinsic wireless
+secrecy, adaptive diversity techniques, ultra-wide bandwidth systems, optical
+transmission systems, and space communication systems.
+Professor Win was honored with two IEEE Technical Field Awards: the IEEE Kiyo
+Tomiyasu Award and the IEEE Eric E. Sumner Award. He received the Copernicus
+Fellowship, the Royal Academy of Engineering Distinguished Visiting Fellowship,
+the Fulbright Fellowship, the IEEE Communications Society Edwin H. Armstrong
+Achievement Award, the International Prize for Communications Cristoforo
+Colombo, the Laurea Honoris Causa from the University of Ferrara, the Technical
+Recognition Award of the IEEE ComSoc Radio Communications Committee, and
+32-D658
+phone: 617-253-9341
+fax: 617-253-3578
+moewin@mit.edu
+Research Group Website
+Related Research:
+Network Localization and Navigation
+Related News Articles:
+Location detection when GPS doesn’t
+Home / People / Facultypi / Win
+
+-----
+Moe Win | MIT LIDS
+https://lids.mit.edu/people/facultypi/moe-win[7/9/2018 3:55:57 PM]
+the U.S. Presidential Early Career Award for Scientists and Engineers. He is elected
+Fellow of the AAAS, the IEEE, and the IET, and served as an IEEE Distinguished
+Lecturer. 
+Professor Win was an elected Member-at-Large on the IEEE Communications
+Society Board of Governors (2011-2013). He was the Chair (2004-2006) and
+Secretary (2002-2004) for the Radio Communications Committee of the IEEE
+Communications Society. He is currently an Editor-at-Large for the IEEE Wireless
+Communications Letters. He served as Editor (2006–2012) for the IEEE
+Transactions on Wireless Communications, and served as Area Editor (2003-2006)
+and Editor (1998-2006) for the IEEE Transactions on Communications.
+RESEARCH AREAS
+Network localization and navigation
+Network interference exploitation
+Intrinsic wireless secrecy 
+Adaptive diversity techniques
+Ultra-wideband systems
+SELECTED PUBLICATIONS
+S. Bartoletti, W. Dai, A. Conti, and M. Z. Win, “A mathematical model for
+wideband ranging,” IEEE J. Sel. Topics Signal Process., vol. 9, no. 2, pp. 216–
+228, Mar. 2015. 
+A. Rabbachin, A. Conti, and M. Z. Win, “Wireless network intrinsic
+secrecy,” IEEE/ACM Trans. Netw., vol. 23, no. 1, pp. 56–69, Feb. 2015. 
+A. Conti, M. Guerra, D. Dardari, N. Decarli, and M. Z. Win, “Network
+experimentation for cooperative localization,” IEEE J. Sel. Areas Commun.,
+vol. 30, no. 2, pp. 467–475, Feb. 2012. 
+M. Z. Win, A. Conti, S. Mazuelas, Y. Shen, W. M. Gifford, D. Dardari, and
+M. Chiani, “Network localization and navigation via cooperation,” IEEE
+Commun. Mag., vol. 49, no. 5, pp. 56–62, May 2011.
+Y. Shen and M. Z. Win, “Fundamental limits of wideband localization – Part I:
+A general framework,” IEEE Trans. Inf. Theory, vol. 56, no. 10, pp. 4956–
+4980, Oct. 2010.
+M. Chiani, M. Z. Win, and H. Shin, “MIMO networks: The effects of
+interference,” IEEE Trans. Inf. Theory, vol. 56, no. 1, pp. 336–349, Jan. 2010. 
+A. Conti, W. M. Gifford, M. Z. Win, and M. Chiani, “Optimized simple bounds
+for diversity systems,” IEEE Trans. Commun., vol. 57, no. 9, pp. 2674–2685,
+Sep. 2009. 
+M. Z. Win, P. C. Pinto, and L. A. Shepp, “A mathematical theory of network
+interference and its applications,” Proc. IEEE, vol. 97, no. 2, pp. 205–230, Feb.
+2009. 
+D. Dardari, A. Conti, U. J. Ferner, A. Giorgetti, and M. Z. Win, “Ranging with
+ultrawide bandwidth signals in multipath environments,” Proc. IEEE, vol. 97,
+work
+Can you find me now?
+
+-----
+Moe Win | MIT LIDS
+https://lids.mit.edu/people/facultypi/moe-win[7/9/2018 3:55:57 PM]
+no. 2, pp. 404–426, Feb. 2009.
+W. P. Tay, J. N. Tsitsiklis, and M. Z. Win, “Data fusion trees for detection:
+Does architecture matter?” IEEE Trans. Inf. Theory, vol. 54, no. 9, pp. 4155–
+4168, Sep. 2008. 
+W. Suwansantisuk and M. Z. Win, “Multipath aided rapid acquisition: Optimal
+search strategies,” IEEE Trans. Inform. Theory, vol. 52, no. 1, pp. 174–193,
+Jan. 2007.
+A. Bletsas, H. Shin, and M. Z. Win, “Cooperative communications with outage-
+optimal opportunistic relaying,” IEEE Trans. Wireless Commun., vol. 6, no. 9,
+pp. 3450–3460, Sep. 2007.
+A. Conti, M. Z. Win, and M. Chiani, “Slow adaptive M-QAM with diversity in
+fast fading and shadowing,” IEEE Trans. Commun., vol. 55, no. 5, pp. 895–
+905, May 2007.
+M. Z. Win, N. C. Beaulieu, L. A. Shepp, B. F. Logan, and J. H. Winters, “On
+the SNR penalty of MPSK with hybrid selection/maximal ratio combining over
+IID Rayleigh fading channels,” IEEE Trans. Commun., vol. 51, no. 6, pp.
+1012–1023, June 2003.
+M. Z. Win and J. H. Winters, “Virtual branch analysis of symbol error
+probability for hybrid selection/maximal ratio combining in Rayleigh fading,”
+IEEE Trans. Commun., vol. 49, no. 11, pp. 1926–1934, Nov. 2001.
+M. Chiani, M. Z. Win, and A. Zanella, “On the capacity of spatially correlated
+MIMO Rayleigh fading channels,” IEEE Trans. Inform. Theory, vol. 49, no. 10,
+pp. 2363–2371, Oct. 2003.
+D. Cassioli, M. Z. Win, and A. F. Molisch, “The ultra-wide bandwidth indoor
+channel: From statistical model to simulations,” IEEE J. Select. Areas
+Commun., vol. 20, no. 6, pp. 1247–1257, Aug. 2002.
+M. Z. Win, G. Chrisikos, and N. R. Sollenberger, “Performance of Rake
+reception in dense multipath channels: Implications of spreading bandwidth and
+selection diversity order,” IEEE J. Select. Areas Commun., vol. 18, no. 8, pp.
+1516–1525, Aug. 2000. 
+M. Z. Win and R. A. Scholtz, “Ultra-wide bandwidth time-hopping spread-
+spectrum impulse radio for wireless multiple-access communications,” IEEE
+Trans. Commun., vol. 48, no. 4, pp. 679–691, Apr. 2000.
+S. W. Golomb and M. Z. Win, “Recent results on polyphase sequences,” IEEE
+Trans. Inform. Theory, vol. 44, no. 2, pp. 817–824, Mar. 1998. 
+M. Z. Win and R. A. Scholtz, “Impulse radio: How it works,” IEEE Commun.
+Lett., vol. 2, no. 2, pp. 36–38, Feb. 1998.
+SELECTED AWARDS
+International Prize for Communications Cristoforo Colombo, 2013.
+IEEE Communications Society Stephen O. Rice Prize in the Field of
+Communications Theory, 2012.
+IEEE Communications Society William R. Bennett Prize in the Field of
+Communications Networking, 2012.
+
+-----
+Moe Win | MIT LIDS
+https://lids.mit.edu/people/facultypi/moe-win[7/9/2018 3:55:57 PM]
+IEEE Kiyo Tomiyasu Award  for “fundamental contributions to high-speed
+reliable communications over optical and wireless channels,” 2011. 
+IEEE Aerospace and Electronic Systems Society M. Barry Carlton
+Award, 2011. 
+IEEE Communications Society Leonard G. Abraham Prize in the Field of
+Communications Systems, 2011.
+Laurea Honoris Causa, Università degli Studi di Ferrara, 2008. 
+Technical Recognition Award of the IEEE ComSoc Radio Communications
+Committee “for exceptional technical contributions to radio communications,”
+2008. 
+IEEE Guglielmo Marconi Prize Paper Award in Wireless Communications,
+2008. 
+IEEE Eric E. Sumner Award, the IEEE Technical Field Award “for pioneering
+contributions to ultra-wide band communications science and technology,”
+2006. 
+Fulbright Foundation Senior Scholar Fellowship Award, 2004. 
+AIAA New England Section’s Young Aerospace Engineer of the Year, 2004. 
+Presidential Early Career Award for Scientists and Engineers (PECASE) from
+the United States White House, 2004.
+IEEE Antennas and Propagation Society Sergei A. Schelkunoff Transactions
+Prize Paper Award, 2003. 
+SELECTED PATENTS
+M. Z. Win, S. Mazuelas, and Y. Shen, “Tracking a body by nonlinear and non-
+Gaussian parametric filtering,” U.S. Patent 9,062,978, Jun. 23, 2015.
+W. Suwansantisuk and M. Z. Win, “Method and apparatus for signal
+searching,” U.S. Patent 8,565,690, Oct. 22, 2013.
+A. F. Molisch, M. V. Clark, H. Dai, M. Z. Win, and J. H. Winters, “Method and
+apparatus for reducing interference in multiple-input-multiple-output (MIMO)
+systems,” U.S. Patent 7,912,014, Mar. 22, 2011. 
+J. H. Winters, Y.-S. Choi, B.-J. J. Kim, A. F. Molisch, M. Z. Win, and H. Luo,
+“Method of selecting receive antennas for MIMO systems,” U.S. Patent
+7,006,810, Feb. 28, 2006.
+M. Z. Win and J. H. Winters, “Methods and systems for spatial processing,”
+U.S. Patent 6,804,312, Oct. 12, 2004.
+Leadership
+Faculty and PIs
+
+-----
+Moe Win | MIT LIDS
+https://lids.mit.edu/people/facultypi/moe-win[7/9/2018 3:55:57 PM]
+HOME
+ABOUT
+RESEARCH
+LABS AND GROUPS
+CONTACT US
+SITE LOGIN
+Laboratory for Information and Decision Systems
+Massachusetts Institute of Technology
+77 Massachusetts Avenue
+Room 32-D608
+Cambridge, MA 02139
+Administrative Staff
+Research Staff
+Students
+Affiliates
+
+-----

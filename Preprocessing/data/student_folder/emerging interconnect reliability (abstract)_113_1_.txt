@@ -1,0 +1,119 @@
+Emerging Interconnect Reliability 
+Abstract 
+Interconnects are essential for the electrical connection of integrated circuits (IC), therefore 
+its quality and reliability are of utmost importance. The continued scaling of devices and the 
+desire for higher functionality and capability has led to the exploration for new interconnect 
+technologies and new materials in order to enhance chip performances. One of the most widely 
+used interconnect method by the IC manufacturing industry is wire bonding. In order to remain 
+competitive and remain as one of the key interconnect technologies available, copper (Cu) 
+wires have recently been adopted to replace gold (Au) due to its lower costs and more desirable 
+material properties. Apart from Cu wire bonding, through silicon via (TSV) technology has 
+also in recent years, been actively pursued and has become one of the key enablers for three 
+dimensional (3D) IC. It allows for vertical interconnection of dies, which not only overcome 
+spatial limitations, but also enables the possibility of heterogeneous integration to enhance 
+functionality and performance. Apart from all the advantages that Cu wire bonding and TSV 
+interconnect technology has to offer, there are also several reliability concerns that have not 
+been well addressed and require further study. Therefore, the reliability of Cu wire bonding and 
+the reliability of Cu TSV will be studied in this work.  
+ 
+In the first part, wire bonding and its reliability are discussed. The migration to Cu wire 
+from Au has resulted in more stringent and narrower process window. During the wire bonding 
+process, several parameters need to be well controlled in order to achieve a well-bonded wire. 
+Current industrial practices to evaluate wire bond quality after the packaging and assembly 
+process are either done destructively which may result in loss of critical information, or non-
+destructively which are limited by resolution, cost and time. In this work, Cu wire bonds are 
+subjected to accelerated stress test of temperature cycling (TC) -65/175°C up to 700 cycles. 
+The quality and reliability of the bonded Cu wires are then being evaluated by electrical means 
+which are non-destructive, fast and accurate. This makes it suitable for use in the production 
+line for wire bond quality evaluation. Based on electrical measurement results, the change in 
+resistance increases with temperature cycles, and it is significant between 600 and 700 cycles 
+with a percentage increase of more than 300%. Cu wires evaluated using the electrical 
+measurement results also show that there is a good correlation with the conventional pull test 
+wire assessment method, where an increase in resistance resulted with a decrease in pull 
+strength. However, the rate of change in pull strength was found to be more than 2 times slower 
+for wires breaking at the span as compared to wires breaking at the neck region. This suggests 
+that the electrical method could be more sensitive to detect degradation at the wire span region 
+as compared to the pull test wire method. The electrical method was also able to detect 
+degraded wires, which is verified with failure analysis results. On the other hand, there is no 
+degradation on the bond pad interface observed after 700 cycles of TC test as Cu remnant was 
+left behind on the pad after shear test. 
+ 
+In the second part, TSV interconnect technology and its reliability is discussed. Currently, 
+most studies concentrate on reliability studies under mild and less harsh stress conditions as 
+compared to the automotive stress test standards. In this work, qualification stress test of 
+automotive standards were performed on TSV structures that are fabricated using optimized 
+processes. Experimental results reveal that the leakage current performance after accelerated 
+stress test was dependent on the dielectric liner material, as well as the presence of silicon 
+nitride (Si3N4) deposition above the TSV structures which was used to emulate die stacking. 
+
+-----
+Preliminary results show that the leakage current is higher for low-k liner TSV structures as 
+compared to the plasma enhanced tetraethylorthosilicate (PETEOS) liner TSV structures. This 
+is expected due to the higher porosity of low-k dielectric. Results also reveal that permanent 
+dielectric breakdown was observed for TSV structures that were suppressed by a layer of Si3N4 
+after accelerated stress test. On the other hand, no breakdown was observed for TSV structures 
+without the existence of the Si3N4 layer suggesting that there might be thermomechanical stress 
+induced on the suppressed TSV structure. Failure analysis was done on a PETEOS liner TSV 
+sample with decreasing leakage trend after HTS 225 °C for 1000hrs. It was found that there 
+was severe Cu protrusion as much as 4.7 um above the wafer surface, causing voids within the 
+TSV, in the dielectric layer, as well as delamination between the Cu TSV and dielectric liner 
+interface. As Cu diffuses readily in dielectric layer and the silicon substrate, a non-destructive 
+electrical characterization was performed to detect copper migration in a degraded TSV 
+structure after various stress conditions such as at an elevated temperature, temperature cycling 
+and electrical biasing. The stress test were performed either independently without electrical 
+bias or in a combination with electrical bias for comparison. Variations in the electrical 
+characteristics in the form of a change in the inversion capacitance of a C-V curve reflects the 
+presence of copper ions within the dielectric layer. Physical failure analysis was performed and 
+verified the presence of migrated copper, correlating to the changes observed in the electrical 
+characteristics. Various conduction mechanisms were fitted with experimental data before and 
+after degradation and it was deduced that the Poole-Frenkel conduction mechanism is the 
+dominant mechanism. However, this is dependent on the oxidation state of copper, which was 
+verified to change over time from Cu2O to CuO by x-ray photoelectron spectroscopy (XPS).  
+ 
+In the third part, with the understanding of the change in the non-destructive electrical 
+characteristics when Cu ions are present in the dielectric layer, attempts were made to 
+demonstrate the ability to monitor and control the transport of Cu ions by applying an 
+appropriate E-field, which is useful for subsequent reliability assessment. Time dependent 
+dielectric breakdown (TDDB) experiments were then performed and found that the presence 
+of copper could play different roles in the dielectric and may accelerate or decelerate time to 
+failure. TDDB lifetime models were fitted experimentally and is found to be in good agreement 
+to the √𝐸 model. The √𝐸 model was verified experimentally by measuring the time to failure 
+at low E-field, rather than extrapolating data from high E-field. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-----
+Publication List / International Conference 
+[1] J.M. Chan, C.M. Tan, K.C. Lee, C.S. Tan “Non-Destructive Degradation Study of Copper 
+Wire Bond for Its Temperature Cycling Reliability Evaluation”, 8th International 
+Conference on Materials for Advanced Technologies (ICMAT), 28 June – 03 July 2015, 
+Singapore. 
+[2] J.M. Chan, C.M. Tan, K.C. Lee, C.S. Tan “Non-Destructive Degradation Study of Copper 
+Wire Bond for Its Temperature Cycling Reliability Evaluation”, Microelectronics 
+Relibaility, vol. 61, pp. 56-63, June 2016. 
+[3] J.M. Chan, X. Cheng, K.C. Lee, W. Kanert, C.S. Tan "Reliability Evaluation of Copper 
+(Cu) Through-Silicon Via (TSV) Barrier and Dielectric Liner by Electrical 
+Characterization," in 2016 IEEE 18th Electronics Packaging Technology Conference 
+(EPTC), Singapore. 
+[4] J.M. Chan, X. Cheng, K.C. Lee, W. Kanert, C.S. Tan "Reliability Evaluation of Copper 
+(Cu) Through-Silicon Via (TSV) Barrier and Dielectric Liner by Electrical 
+Characterization and Physical Failure Analysis (PFA)," in 2017 IEEE 67th Electronic 
+Components and Technology Conference (ECTC), USA. 
+[5] J.M. Chan, C.S. Tan, K.C. Lee, X. Cheng, and W. Kanert, “Observations of copper (Cu) 
+transport in through-silicon vias (TSV) structure by electrical characterization for its 
+reliability evaluation,” in Proc. 2017 IEEE IRPS, Monterey, CA, USA, 2017, pp. 4A3.1-
+4A3.6. 
+[6] J.M. Chan, K.C. Lee, C.S. Tan “Effects of Copper Migration on the Reliability of Through-
+Silicon Via (TSV)”, IEEE Transactions on Device and Materials Reliability, vol. 18, pp. 
+520-528, Nov 2018. 
+ 
+ 
+
+-----

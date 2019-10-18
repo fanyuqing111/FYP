@@ -1,0 +1,123 @@
+Thesis: Evaluation of Key Indexes and Characteristics of 
+Lithium-Ion Battery for Management in Building Smart Grid  
+Li Kaiyuan G1401060E 
+Abstract 
+Energy storage has been considered as an imperative enabling technology to 
+improve the energy sustainability in the traditional building power grids. Among all 
+the energy storage techniques, Li-ion based rechargeable batteries are recognized to 
+be the most promising solution, due to their outperformed performance such as high 
+gravimetric and volumetric energy density, great cycle life, enhanced safety and low 
+self-discharge rate. With the increasing vehicle-to-grid synergy and renewable 
+energy sources imports, Li-ion batteries are positioned uniquely to act a crucial role. 
+Despite the remarkable progress achieved in the material and chemistry of Li-ion 
+batteries, that battery systems are always oversized and underused still remains a 
+problem, i.e., 20%-40% excess energy and capacity was idle, and evoking 
+superfluous weight and volume augment, as well as purchasing costs. Attenuation 
+of this conservatism has necessitated and efficient and intelligent battery 
+management system (BMS), where the key indexes, e.g., state of charge (SOC), 
+state of health (SOH), state of energy (SOE), are monitored precisely on the fly. In 
+particular, proper BMSs facilitate avoiding premature battery failure and 
+catastrophic hazards, and therefore enhancing the durability, efficiency, and 
+reliability of Li-ion battery systems. 
+Motivation of this research work is to scrutinize and to achieve a holistic 
+understanding of the characteristics and electrical behaviors of Li-ion type battery 
+utilized as energy storage applications in the building environment, and the overall 
+challenge the author trying to solve is to design and develop an intelligent and 
+efficient battery management system for Li-ion batteries used as energy storage 
+devices in built environment, thus propelling the thriving development of the energy 
+
+-----
+sustainability as a pivotal pillar. In the past three years’ research, characteristics of 
+the Li-ion batteries such as the energy efficiency, modelling, estimations of SOC, 
+SOE, SOH, and instantaneous terminal voltage responses were studied. 
+Additionally, the author also paid attention to fast charging technique of Li-ion 
+batteries as an emerging technology. 
+Chapter 1 is an introduction of the energy storage technology, battery energy 
+storage systems, and Li-ion battery. Chapter 2 is the literature review part and 
+introduces the related research and engineering proceedings of Li-ion battery as 
+energy storage device in grid applications. In specific, related works of energy 
+efficiency, modelling, estimation of SOC, SOH, SOE of Li-ion battery are reviewed 
+in detail. Meanwhile, as a promising and booming technique, fast charging 
+technique for Li-ion battery is also reviewed. 
+In Chapter 3 the energy efficiency of Li-ion battery used as energy storage 
+systems in built environment is investigated based on electrical and electrochemical 
+theory, for both single cell and a 10-cell battery pack. The equations and the 
+calculation procedures of the energy efficiency of Li-ion battery are provided. The 
+proposed method and the results could be used for the determination of the energy 
+efficiency of the Li-ion battery in the cases of high-current fast charging 
+applications. This chapter serves as a preliminary study of the electrical 
+characteristics and behaviors of Li-ion batteries. 
+Chapter 4 investigates the estimation of the online SOH of Li-ion batteries 
+exploited as energy storage devices in a practical smart grid. Realistic profiles of 
+the smart grid such as load current and temperature are utilized in this study. Two 
+approaches for online SOH estimation are developed and the validation tests verify 
+the good efficacy and robustness of both the approaches. Moreover, we also study 
+the capacity degradation of the Li-ion batteries from the electrical perspective and 
+the experimental results show that, at least for the type of Li-ion batteries that are 
+tested, their capacity fade extent is not correlated with the ageing conditions, which 
+is generally in line with the conclusion of some research works in the literature 
+emphasizing on electro-chemistry. This inference is of great significance in both the 
+
+-----
+industrial and research work on the capacity degradation of Li-ion batteries, in light 
+of that almost all the ageing models of Li-ion battery use the accelerated ageing test 
+profile for cycling. 
+Chapter 5 focuses on another two critical indexes of the battery system, i.e., the 
+SOC and SOE. SOC depicts the residual available capacity of the battery, while 
+SOE is introduced recently for better description of the battery residual assessable 
+energy and energy state. SOE generally differs from SOC by considering energy 
+throughput of the battery more directly. In actual battery operations, the dramatic 
+variation of load current puts forward challenges to the energy management of 
+batteries. In the SOE estimation, energy loss in the electrochemical reactions, the 
+internal resistance, and the decrease of battery’s open circuit voltage are considered 
+more comprehensively. It is suggested, therefore, that a better analogue to the extent 
+of the energy throughout and runtime of the practical battery-based energy storage 
+devices is perhaps the measure of battery energy, thus the index of SOE. Three 
+hybrid battery models of Li-ion batteries, one for online SOE and SOC estimation 
+based on the kinetic and electrical circuit battery models, one aiming at prediction 
+of the terminal voltage responses and the SOE via the combination of an analytical 
+and an electrical battery model, another for terminal voltage and SOE estimation by 
+combining an electrochemical and an electrical model are presented. All the three 
+models are capable of estimating the SOE and residual endurance time of the Li-ion 
+batteries with high accuracy and reliability, based on the results of the validation 
+tests. 
+Last but not least in Chapter 6, a charger for fast charging a lithium titanate (LTO) 
+type battery cell (or cell strings connected in series and parallel) with accurate 
+estimation of online SOC is disclosed. The charge system includes: a circuit for 
+charging the LTO battery via the traditional constant current constant voltage 
+(CCCV) way, and the monitor system includes monitoring of cell’s voltage, current, 
+surface temperature and particularly the online SOC based on a previously unknown 
+feature in LTO cell’s surface temperature-SOC characteristic which is discovered 
+recently. Differentiating from the prior arts, the invented fast charger is able to 
+
+-----
+provide precious estimation of the cell’s online SOC, and the LTO batteries are 
+expected to be fast charged safely to at least 90% SOC with precious online SOC 
+identification, thus providing more confidence and better user friendliness for 
+consumers in utilizing fast charging on their energy storage devices. 
+Finally, the conclusion is given in Chapter 7 and the future work is also addressed. 
+After the careful scrutinization of the related literature, the electrical characteristic 
+and behaviors of Li-ion batteries utilized as energy storage devices in built 
+environment such as, study on energy efficiency, online estimation of SOH, SOC, 
+SOE, and terminal voltage responses, are deeply investigated. Plenty of cells have 
+been cycled in the laboratory under realistic load condition and large amounts of 
+experimental data of diverse load and ambient temperature profile were collected in 
+the laboratory for model construction and validation processes. This multi-cell 
+setting provides a more valuable and significant scenario than the conventional 
+single-cell setting. The author has basically realized the objectives of the holistic 
+understanding and the design of the intelligent and efficient battery management 
+system. Furthermore, the study and the demonstration of the novel fast charger for 
+the LTO type batteries in Chapter 6 helps to propel the development of the fast 
+charge technique of Li-ion batteries as a thriving area of research in both academic 
+and industrial sectors.  
+The proposed future work includes the development of the online battery 
+estimators for SOH, SOE, and SOC with less computational burdens and higher 
+precision. Further, influences on the battery behaviors and characters of the factors 
+such as the ageing extent of the battery, the temperature, the initial status, and the 
+load condition will be studied more thoroughly. The influencing factors for cycle-
+ageing of Li-ion batteries will be explored, such as the battery chemistry, type, rated 
+capacity and voltage, rest time, etc. In addition, other brands of LTO batteries and 
+other types of Li-ion batteries will also be tested in future work in terms of fast 
+charging technique and applications. 
+
+-----

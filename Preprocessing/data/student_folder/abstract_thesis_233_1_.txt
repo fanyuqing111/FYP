@@ -1,0 +1,55 @@
+Grid Impact Analysis and Interval Forecasting of
+Solar PV generation
+Jatin Verma
+Abstract
+Solar PV is renowned all around the world, but its prevalence varies with a
+country’s solar profile. Singapore is an island country which has solar energy
+as the only promising renewable energy option. On the UN’s request to sub-
+mit the Intended Nationally Determined Contribution (INDC) against carbon
+emissions, Singapore, as a promoter of efficient energy, has come up with an
+elaborate Climate Action Plan towards carbon emission reduction. An aspiring
+leap by Singapore towards 350MWp PV capacity by 2020 is on trial, which
+would involve numerous PV installation projects.
+The thesis at one end demonstrates the quantitative impact of PV installa-
+tion on long-length transmissions, while at the other end, it showcases the use of
+intelligent algorithms for forecasting future PV power output. Chapter ?? deals
+with a 3.3MWp PV installation in the low voltage side of the Jurong Port distri-
+bution grid, providing comprehensive steady-state analyses in different loading
+scenarios. Comparison of different configurations of PV and ESS is done and it
+is found that the PV installation improves the bus voltage profile, reduces line
+congestion and circumvents substantial transmission losses. Moreover, during
+the light loading scenario, it sends 1296A back to the grid.
+Accurate predictions of solar power are important to the grid operator for
+ensuring energy management from multiple sources without jeopardizing sta-
+bility and to the PV plant owner for scheduling plant maintenance periods and
+avoiding penalties imposed by the grid operators due to power imbalance costs.
+It is evident that meteorological data like solar irradiance is more readily avail-
+able than historical PV power output series with hourly samples. In this case,
+indirect forecasting can be utilized where solar irradiation is predicted first,
+which is followed by obtaining the PV power output using a PV performance
+model of the plant. Since PV series during the day experiences lots of variations,
+point forecasting can be quite uncertain. The inherent uncertainty in the point
+forecasts can be quantified by associating them with a probability distribution
+to form prediction intervals (PIs) which is a more interpretable representation
+of uncertainty. This paper presents a probabilistic forecasting approach using
+a nonparametric PI formation method based on Extreme Learning Machine.
+No prior assumption on the error distribution is required for the PI forma-
+1
+
+-----
+tion. Solar irradiance data from NUS geography weather station, Singapore, is
+analyzed and assembled into two separate sets for better model performance.
+Cross-validation and Grid search followed by Differential Evolution are utilized
+to tune the hyper-parameters of the proposed model. Coverage probability and
+interval scores are evaluated for the resulting PIs which show promising results.
+List of Publications
+1. Verma, Jatin, et al. ”Impact Study for PV and ESS integration in Jurong
+Port Distribution Grid.” 2018 Asian Conference on Energy, Power and
+Transportation Electrification (ACEPT). IEEE, 2018.
+2. Verma, J. & Xu, Y. (2018, Nov.). ”Short Term PV Power Forecasting
+using ELM and Probabilistic Prediction Interval Formation”. Paper pre-
+sented at the 9th International Conference on Extreme Learning Machines
+(ELM2018), Singapore.
+2
+
+-----

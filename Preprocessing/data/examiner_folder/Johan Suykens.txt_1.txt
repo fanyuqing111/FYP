@@ -1,0 +1,139 @@
+Link to homepage Johan Suykens at KU Leuven STADIUS
+Personal Homepage
+Johan Suykens Homepage
+Biography
+Johan A.K. Suykens was born in Willebroek Belgium, May 18 1966. He received the master degree in 
+Electro-Mechanical Engineering and the PhD degree in Applied Sciences from the Katholieke Universiteit 
+Leuven, in 1989 and 1995, respectively. In 1996 he has been a Visiting Postdoctoral Researcher at the 
+University of California, Berkeley. He has been a Postdoctoral Researcher with the Fund for Scientific 
+Research FWO Flanders and is currently a full Professor with KU Leuven. He is author of the books 
+"Artificial Neural Networks for Modelling and Control of Non-linear Systems" (Kluwer Academic 
+Publishers) and "Least Squares Support Vector Machines" (World Scientific), co-author of the book 
+"Cellular Neural Networks, Multi-Scroll Chaos and Synchronization" (World Scientific) and editor of the 
+books "Nonlinear Modeling: Advanced Black-Box Techniques" (Kluwer Academic Publishers), "Advances 
+in Learning Theory: Methods, Models and Applications" (IOS Press) and "Regularization, Optimization, 
+Kernels, and Support Vector Machines" (Chapman & Hall/CRC). In 1998 he organized an International 
+Workshop on Nonlinear Modelling with Time-series Prediction Competition. He has served as associate 
+editor for the IEEE Transactions on Circuits and Systems (1997-1999 and 2004-2007), the IEEE 
+Transactions on Neural Networks (1998-2009) and the IEEE Transactions on Neural Networks and 
+Learning Systems (from 2017). He received an IEEE Signal Processing Society 1999 Best Paper Award and 
+several Best Paper Awards at International Conferences. He is a recipient of the International Neural 
+Networks Society INNS 2000 Young Investigator Award for significant contributions in the field of neural 
+networks. He has served as a Director and Organizer of the NATO Advanced Study Institute on Learning 
+Theory and Practice (Leuven 2002), as a program co-chair for the International Joint Conference on 
+Neural Networks 2004 and the International Symposium on Nonlinear Theory and its Applications 2005, as 
+an organizer of the International Symposium on Synchronization in Complex Networks 2007, a co-organizer 
+of the NIPS 2010 workshop on Tensors, Kernels and Machine Learning, and chair of ROKS 2013. He has 
+been awarded an ERC Advanced Grant 2011 and has been elevated IEEE Fellow 2015 for developing least 
+squares support vector machines.
+ERC Advanced Grant A-DATADRIVE-B
+"Deep Restricted Kernel Machines": 
+- LICT Workshop Deep Learning, Leuven June 2017 [pdf]
+- Stadius seminar, Leuven June 2017 [pdf]
+- related paper [pdf] (open access)
+"Learning with primal and dual model representations: new extensions": invited talk at MFO Oberwolfach 2016, Workshop on Learning Theory and 
+Approximation: [pdf]
+"Learning with primal and dual model representations: a unifying picture": plenary talk ICASSP 2016, Shanghai: [pdf] [youtube]
+"SVD meets LS-SVM: a unifying picture": invited seminar at UCL, LLN 2015: [pdf]
+"Learning with primal and dual model representations": invited lecture at CIMI Workshop, Toulouse 2015: [pdf]
+"Kernel methods for complex networks and big data": invited lecture at Statlearn 2015, Grenoble 2015: [pdf]
+"Fixed-size Kernel Models for Big Data": invited lectures at BigDat 2015, International Winter School on Big Data, Tarragona, Spain 2015: 
+- Part I: Support vector machines and kernel methods: an introduction [pdf]
+- Part II: Fixed-size kernel models for mining big data [pdf] [video]
+- Part III: Kernel spectral clustering for community detection in big data networks [pdf]
+"Fixed-size kernel methods for data-driven modelling": plenary talk at ICLA 2014, International Conference on Learning and Approximation, 
+Shanghai China 2014 [pdf]
+"Kernel-based modelling for complex networks": plenary talk at NOLTA 2014, International Symposium on Nonlinear Theory and its Applications, 
+Page 1 of 3
+Johan Suykens' Homepage
+14/8/2017
+http://www.esat.kuleuven.be/sista/members/suykens.html
+
+-----
+Luzern Switzerland 2014 [pdf]
+"Learning with matrix and tensor based models using low-rank penalties": invited talk at Workshop on Nonsmooth optimization in machine learning, 
+Liege Belgium 2013 [pdf]
+Invited lecture series - Leerstoel VUB 2012 [pdf]
+◦ Advanced data-driven black-box modelling - inaugural lecture [pdf]
+◦ Support vector machines and kernel methods in systems, modelling and control [pdf]
+◦ Data-driven modelling for biomedicine and bioinformatics [pdf]
+◦ Kernel methods for exploratory data analysis and community detection [pdf]
+◦ Complex networks, synchronization and cooperative behaviour [pdf]
+"Models from Data: a Unifying Picture": invited talk at Workshop on Grand Challenges of Computational Intelligence, Nicosia, Cyprus 2012 
+[youtube]
+Invited talk at ICCHA4 2011, Hong Kong [pdf]
+Tutorial at IEEE World Congress on Computational Intelligence WCCI 2010, Barcelona Spain [Part I - pdf] [Part II - pdf]
+Invited talk at SYNCLINE 2010, Bad Honnef Germany [pdf1] [paper-pdf]
+Semi-plenary talk at Symposium on System Identification SYSID 2009, Saint-Malo [pdf]
+Plenary talk at International Conference on Multivariate Approximation, 2008 Bommerholz [pdf-1/page] [pdf-4/page]
+Plenary talk at MFO Workshop on Learning Theory and Approximation, 2008 Oberwolfach (organizers: K. Jetter, S. Smale, D.-X. Zhou) 
+[pdf-1/page] [pdf-4/page] [paper-pdf]
+Invited tutorial: Johan Suykens, International Conference on Artificial Neural Networks ICANN 2007 Porto Portugal: "Support Vector Machines and 
+Kernel Based Learning" [pdf-1/page] [pdf-4/page]
+Invited talk at International Conference on Computational Harmonic Analysis 2007 Shanghai China: "Data visualization and dimensionality 
+reduction using kernel maps with a reference point" [pdf] [paper-pdf]
+Invited talk at International Workshop on Current Challenges in Kernel Methods CCKM 2006 Brussels Belgium: "Engineering Kernel 
+Machines" [pdf-1/page] [pdf-4/page]
+Series of lectures SCCB2006 Modena Italy: 
+Parts I, II "Support Vector Machines and Kernel Based Learning" [pdf-1/page] [pdf-4/page]
+Part III "Ovarian cancer studies" [pdf]
+Part IV "Complex networks, synchronization and cooperative behaviour" [pdf-1/page] [pdf-4/page]
+Books and edited books
+J.A.K. Suykens, J.P.L. Vandewalle, B.L.R. De Moor, Artificial Neural Networks for Modeling and Control of 
+Non-Linear Systems, Springer, 1996 (ISBN 0792396782) [more information]
+J.A.K. Suykens, T. Van Gestel, J. De Brabanter, B. De Moor, J. Vandewalle, Least Squares Support Vector 
+Machines, World Scientific, Singapore, 2002 (ISBN 981-238-151-1) [more information]
+M.E. Yalcin, J.A.K. Suykens, J.P.L. Vandewalle, Cellular Neural Networks, Multi-Scroll Chaos and 
+Synchronization, World Scientific Series on Nonlinear Science, Series A - Vol. 50, Singapore, 2005 (ISBN 981-
+256-161-7) [more information]
+J.A.K. Suykens, J.P.L. Vandewalle (Eds.) Nonlinear Modeling : Advanced Black-Box Techniques, Springer, 
+1998 (ISBN 0792381955) [more information]
+J.A.K. Suykens, G. Horvath, S. Basu, C. Micchelli, J. Vandewalle (Eds.) Advances in Learning Theory: 
+Methods, Models and Applications, NATO Science Series III: Computer & Systems Sciences, Volume 190, IOS 
+Press Amsterdam, 2003, 436pp. (ISBN: 1 58603 341 7) [more information]
+Page 2 of 3
+Johan Suykens' Homepage
+14/8/2017
+http://www.esat.kuleuven.be/sista/members/suykens.html
+
+-----
+J.A.K. Suykens, M. Signoretto, A. Argyriou (Eds.) Regularization, Optimization, Kernels, and Support Vector 
+Machines, Chapman & Hall/CRC, Machine Learning & Pattern Recognition Series, Boca Raton US, 2014, 
+525 pp (ISBN 9781482241396) [more information]
+Publications: Complete List
+Publications: Support vector machines and kernel-based learning
+Publications: Deep learning
+Publications: Chaos, synchronization, complex networks
+Publications: Systems and control, nonlinear signal processing
+Publications: Biomedical applications and bioinformatics
+Publications: Optimization
+Publications: Quantum mechanics
+Publications at Google Scholar
+LS-SVMlab
+Chaoslab
+◦ TCMM 2014 (September 8-12, 2014 Leuven) 
+International Workshop on Technical Computing for Machine Learning and Mathematical Engineering 
+◦ ROKS 2013 (July 8-10, 2013 Leuven) 
+International workshop on advances in 
+Regularization, Optimization, Kernel Methods and Support Vector Machines: theory and applications 
+[Videolectures]
+◦ SynCoNet2007 (July 2-4, 2007 Leuven) 
+International Symposium on Synchronization in Complex Networks 
+◦ NATO-ASI 2002 (July 8-19, 2002 Leuven) 
+Advanced Study Institute on Learning Theory and Practice 
+Contact address
+        Prof. Dr. ir. Johan Suykens 
+        Katholieke Universiteit Leuven  
+        Department of Electrical Engineering, ESAT-STADIUS  
+        Kasteelpark Arenberg 10 
+        B-3001 Leuven (Heverlee), Belgium 
+        Tel : +32-16-32 18 02 - Fax : +32-16-32 19 70  
+        Email: Johan dot Suykens at esat.kuleuven.be 
+Back to the STADIUS homepage 
+disclaimer
+Page 3 of 3
+Johan Suykens' Homepage
+14/8/2017
+http://www.esat.kuleuven.be/sista/members/suykens.html
+
+-----

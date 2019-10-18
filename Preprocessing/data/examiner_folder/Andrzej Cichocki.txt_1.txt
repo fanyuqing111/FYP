@@ -1,0 +1,454 @@
+Andrzej CICHOCKI  (Ph.D. Dr.Sc.)                            
+ 
+ 
+Positions 
+ 
+Actual Status: Head of Laboratory for Advanced Brain Signal Processing and Team 
+Leader of Noninvasive BMI in BSI-Toyota Cooperation Center. 
+BRAIN SCIENCE INSTITUTE, RIKEN, Saitama 351-01, Wako-shi, JAPAN, 
+Tel. +81 48 467 9668, e-mail: cia@brain.riken.jp  www.bsp.brain.riken.go.jp 
+ 
+Education and Degrees 
+ 
+• 
+M.Sc. in Electrical Engineering (Control and System Theory and Electronics), 
+1972 
+• 
+Ph.D. in Electrical Engineering and Computer Science 1976 
+• 
+Dr.Sc. (habilitation) in Electrical Engineering and Computer Science (Theory of 
+nonlinear circuits and systems) 1982  
+• 
+Title of Full Professor awarded by president of the state. 
+(All from the Warsaw University of Technology, Poland)  
+ 
+Employments - Professional Experience 
+ 
+• 2000- till now: Head of the Laboratory for Advanced Brain Signal Processing, Brain 
+Science Institute, Riken, Japan 
+• 1998-2000 Head of the Laboratory for Open Information Systems, Brain Science 
+Institute, Riken, Japan 
+• 1995-97 Team Leader of the Laboratory for Artificial Brain Systems, Frontier Research 
+Program, Riken, Japan 
+• 1992-94 Visiting Guest Professor, at University Erlangen-Nuernberg and Principal Co-
+investigator of several DFG research projects, Germany 
+• 1992 – 1996 Full Professor, at Warsaw University of Technology 
+• 1986-1991 Associate Professor, Department of Electrical Engineering, Warsaw  
+University of Technology 
+• 1983–1985 Alexander von Humboldt Research Fellowship, Germany 
+• 1972-86 Teaching Assistant  and Assistant Professor, Department of Electrical 
+Engineering Warsaw University of Technology 
+ 
+Honors and Awards 
+
+-----
+• M.Sc. Diploma with distinction, 1972, Ph.D. Thesis, 1976, Doctor of Science 
+(habilitation) 1982. 
+• Alexander von Humboldt Research Fellowship, Germany, April 1984–Sept. 1985. 
+• Several Awards and Prizes by by a Minister of Higher Education and Research in 
+Poland and a Rector of the Warsaw University of Technology for Scientific 
+Achievements, best  books, for teaching excellence in the University and best papers 
+published in Neural Networks Journal by Neural Network Society. 
+ 
+Professional Activities 
+• Editor in Chief of Journal Computational Intelligence and Neuroscience 
+•  Associate editor of IEEE Transaction on Neural Networks 2003-2007 
+ 
+Guest co-editor of  special issue of the IEEE Transactions on Neural Networks on 
+Information Theoretic Learning, March 2004 and IEEE Journal of Selected Topics in 
+Signal Processing 2008 on the Special Issue  fMRI Analysis for  Human Brain Mapping, Co-
+editors of four special Issues Journal of Computational Intelligence and Neuroscience. 
+ 
+•  Reviewer of many international journals and conferences 
+• Supervisor of 6 PhD thesis and 25 Master of Science thesis. 
+ 
+Member of Scientific and Program Technical Committees 
+• Chair- of IEEE Circuits and Systems Technical Committee for Blind Signal 
+Processing http://cil.ece.uic.edu/BSP/ 2007-2008. 
+• Member of IEEE MLSP (Machine Learning for Signal Processing) Technical 
+Committee, 1998-2000 and since 2008. 
+ 
+Conference Program Committees 
+• Co-chairman of the International Program Committee ICA-2003, Nara, Japan, April 
+2003, 
+• Member of the International Program Committee ICASSP Conferences 1997-2008 
+• Member of the International Program Committee ICONIP Conferences 1998-2008 
+• Member of the International Program Committee NNSP and MLSP Workshops  
+• Member of the International Program Committee ICA Workshops 1999-2009. 
+• Member of the International Program Committee and International Liaison EUSIPCO 
+2002, 2006. 
+ 
+Selected  List of Publications of A. Cichocki  
+ 
+Research Monographs 
+ 
+• A. Cichocki, R. Zdunek A.H Phan and S. Amari:  Nonnegative Matrix and Tensor 
+Factorizations: Applications to Multi-way Exploratory Analysis and Blind Source 
+Separation, Wiley,  September 2009. 
+ 
+• A. Cichocki and S. Amari:  Adaptive Blind Signal and Image Processing: Learning 
+Algorithms and Applications  (extended edition),   Wiley, April 2003. 
+ 
+
+-----
+• A. Cichocki and R. Unbehauen: Neural Networks for Optimizations and Signal 
+Processing (Corrected and extended edition), John Wiley and Teubner, Nov. 1994. 
+ 
+• R. Unbehauen and A. Cichocki:  CMOS Switched-Capacitor and Continuous-Time 
+Integrated Circuits and Systems, Springer-Verlag, 1989. 
+ 
+Peer-reviewed journals 
+ 
+2009 
+[1] C. Caiafa, and A. Cichocki. “Estimation of Sparse Non-negative Sources from Noisy 
+Overcomplete Mixtures using MAP”, Neural Computation (in press 2009). 
+[2] A. Cichocki, and A-H Phan. “Fast Local Algorithms for Large Scale Nonnegative 
+Matrix and Tensor Factorizations” IEICE Trans. Fundamentals, E92-A(3), 708-721, 
+(invited paper) (2009).  
+[3] J. Dauwels, F. Vialatte, T. Weber, and A. Cichocki. “Quantifying Statistical 
+Interdependance by Message Passing on Graphs, PART I: Algorithms and 
+Applications to Neural Signals”, Neural Computation (in press 2009) 
+[4] J. Dauwels, F. Vialatte, T. Weber, and A. Cichocki. “Quantifying Statistical 
+Interdependance by Message Passing on Graphs, PART II: Multi-Dimensional Point 
+Processes”, Neural Computation (in press 2009). 
+[5] Z. He, A. Cichocki, R. Zdunek, and SL. Xie. “Improved FOCUSS Methods with 
+Conjugate Gradient Iterations”, IEEE Trans. Signal Processing, 57(1), 399-404 
+(2009). 
+[6] Z. He, A. Cichocki, YQ. Li, SL. Xie, and S. Sanei. “K-hyperline Clustering Learning 
+for Sparse Component Analysis”, Signal Processing, 89, 1011-1022 (2009). 
+[7] I. Kopriva, I. Jeric, and A. Cichocki. “Blind Decomposition of Infrared Spectra Using 
+Flexible Component Analysis”, Chemometrics and Intelligent Laboratory Systems, 97, 
+170-178  (2009). 
+[8] T. Rutkowski, A. Cichocki, T. Tanaka, A. Ralescu, and D. Mandic. “Clustering of 
+Spectral Patterns Based on EMD Components of EEG Channels with Applications to 
+Neurophysiological Signals Separation”, Lectures Notes in Computer Science, 
+Springer LNCS-5506, 452-259 (2009).  
+[9] B. Swiderski, S. Osowski, A. Cichocki A, and A. Rysz. “Single-class SVM and 
+Directed Transfer Function Approach to the Localization of the Region Containing 
+Epileptic Focus”, Neurocomputing, 72, 1575-1583 (2009). 
+[10] F. Vialatte, H. Bakardjian, R. Prasad, and A. Cichocki. “EEG Paroxysmal Gamma 
+Waves during Bhramari Pranayama: a Yoga Breathing Technique”, Consciousness 
+and Cognition (in press 2009). 
+[11] F. Vialatte, J. Sole-Casals, J. Dauwels, M. Maurice, and A. Cichocki. “Bump Time-
+Frequency Toolbox: a Toolbox for Time-Frequency Oscillatory Bursts Extraction in 
+Electrophysiological Signals”, BMC Neuroscience (in press 2009). 
+[12] F. Vialatte, J. Dauwels, M. Maurice, Y. Yamaguchi, and A. Cichocki. “On the 
+Synchrony of Steady State Visual Evoked Potentials and Oscillatory Burst Events”, 
+Cognitive Neurodynamics (in press 2009). 
+[13] Q. Zhao, L. Zhang L, and A. Cichocki. “EEG-based Asynchronous BCI Control of a 
+Car in 3D Virtual Reality Environments”, Chinese Science Bulletin, 54, 78-87 (2009). 
+2008 
+[14] Z. Chen, J. Cao, Y. Cao, Y. Zhang, F. Gu, G. Zhu, Z. Hong, B. Wang, and A. 
+Cichocki. “An Empirical EEG Analysis in Brain Death Diagnosis for Adults”,  
+Cognitive Neurodynamics, 2, 257-271 (2008). 
+
+-----
+[15] A. Cichocki, M. Jankovic, R. Zdunek, and S. Amari. “Sparse Super Symmetric 
+Tensor Factorization”, Lecture Notes in Computer Science, Neural Information 
+Processing, Springer LNCS-4984, 781-790 (2008). 
+[16] A. Cichocki, A-H. Phan, R. Zdunek, and L.Q. Zhang. “Flexible Component Analysis 
+for Sparse, Smooth, Nonnegative Coding or Representation”, Lecture Notes in 
+Computer Science, Neural Information Processing, Springer, LNCS-4984, 811-820 
+(2008). 
+[17] A. Cichocki, R. Zdunek, and S. Amari. “Nonnegative Matrix and Tensor 
+Factorization”, IEEE Signal Processing Magazine, January, 142-145 (2008). 
+[18] A. Cichocki A, H.K. Lee, Y.D. Kim, and S. Choi. “Nonnegative Matrix Factorization 
+with Alpha-divergence”, Pattern Recognition Letters, 29(9), 1433-1440 (2008). 
+[19] A. Cichocki, Y. Washizawa, T. Rutkowski, H. Bakardjian, A-H. Phan, S. Choi, H. Lee, 
+Q. Zhao, Z. Liqing, and Y. Li. “Noninvasive BCIs: Multiway Signal-processing Array 
+Decompositions”, Computer, (invited paper), 41 (10), 34-42 (2008). 
+[20] J. Dauwels, F. Vialatte, and A. Cichocki. “A Comparative Study of Synchrony 
+Measures for the Early Detection of Alzheimer’s Disease Based on EEG”, Lecture 
+Notes in Computer Science, Neural Information Processing, Springer, LNCS-4984, 
+112-125 (2008). 
+[21] Z. He, S. Xie, L. Zhang, and A. Cichocki. “A note on Lewicki-Sejnowski Gradient for 
+Learning Overcomplete Representations”, Neural Computation, 20(3), 636-643 
+(2008). 
+[22] Z. He, A. Cichocki, R. Zdunek, and J. Cao. “CG-M-FOCUSS and Its Application to 
+Distributed Compressed Sensing”, Lecture Notes in Computer Science, Advances in 
+Neural Networks, Springer LNCS-5263, 237-245 (2008). 
+[23] M. Jankovic, P. Martinez, Z. Chen, and A. Cichocki. “Modified Modulated Hebb-Oja 
+Learning Rule: A Method for Biologically Plausible Principal Component Analysis”, 
+Lecture Notes in Computer Science, Neural Information Processing, Springer LNCS-
+4984, 527-536 (2008). 
+[24] YQ. Li, A. Cichocki, S. Amari, SL. Xie, and SL. Guan. “Equivalence Probability and 
+Sparsity of Two Sparse Solutions in Sparse Representation”, IEEE Trans. Neural 
+Networks, 19(12), 2009-2021 (2008). 
+[25] P. Martinez, H. Bakardjian, M. Vallverdu, and A. Cichocki. “Fast Multi-command 
+SSVEP Brain Machine Interface without Training”, Lecture Notes in Computer 
+Science, Artificial Neural Networks, Springer LNCS-5164, 300-307 (2008). 
+[26] M. Mouri, A. Funase, A. Cichocki, I. Takumi, H. Yasukawa, and M. Hata. “Global 
+Signal Elimination and Local Signals Enhancement from EM Radiation Waves Using 
+Independent Component Analysis”, IEICE Transactions on Fundamentals of 
+Electronics”, Communications and Computer Sciences, 91(8), 1875-1882 (2008). 
+[27] A-H. Phan, and A. Cichocki. “Fast and Efficient Algorithms for Nonnegative Tucker 
+Decomposition”, Lecture Notes in Computer Science, Advances in Neural Networks, 
+Springer, LNCS-5264, 772-782 (2008). 
+[28] T. Rutkowski, D. Mandic, A. Cichocki, and A. Przybyszewski. “EMD Approach to 
+Multichannel EEG Data – The Amplitude and Phase Synchrony Analysis Technique”, 
+Lecture Notes in Computer Science, Advanced Intelligent Computing Theories and 
+Applications, Springer, LNCS-5226, 122-129 (2008). 
+[29] F. Vialatte, and A. Cichocki. “Split-Test Bonferroni Correction for QEEG Statistical 
+Maps”, Biological Cybernetics, 98, 295-303 (2008). 
+[30] F. Vialatte, J. Solé-Casals, and A. Cichocki. “EEG Windowed Statistical Wavelet 
+Scoring for Evaluation and Discrimination of Muscular Artifacts”, Physiological 
+Measurement, 29, 1435-1452 (2008). 
+
+-----
+[31] Y. Washizawa, and A. Cichocki. “Sparse Blind Identification and Separation by 
+Using Adaptive K-orthodrome Clustering”, Neurocomputing, 71, 2321-2329 (2008). 
+[32] J. Xu, H. Bakardjian, A. Cichocki, and J. Principe. “A New Nonlinear Similarity 
+Measure for Multichannel Signals”, Neural Networks, 21, 222-231 (2008). 
+[33] R. Zdunek, and A. Cichocki. “Nonnegative Matrix Factorization with Quadratic 
+Programming”, Neurocomputing, 71, 2309-2320 (2008). 
+[34] R. Zdunek, and A. Cichocki. “Blind Image Separation Using Nonnegative Matrix 
+Factorization with Gibbs Smoothing”, Lecture Notes in Computer Science, Neural 
+Information Processing, Springer, LNCS-4985, 519-528 (2008). 
+[35] R. Zdunek, and A. Cichocki. “Improved M-FOCUSS Algorithm with Overlapping 
+Blocks for Locally Smooth Sparse Signals”, IEEE Trans. Signal Processing, 56(10), 
+Part 1, 4752-4761 (2008). 
+ 
+2007 
+[36] A. Cichocki, R. Zdunek, S. Choi, R. Plemmons, and S. Amari: ”Novel Multi-layer 
+Non-negative Tensor Factorization with Sparsity Constraints”, Lecture Notes in 
+Computer Science, Springer, LNCS-4432, 271-280 (2007). 
+[37] A. Cichocki, and R. Zdunek: ”Regularized Alternating Least Squares Algorithms for 
+Non-negative Matrix/Tensor Factorization”, Lecture Notes in Computer Science, Vol. 
+Springer, LNCS-4493, 793-802 (2007). 
+[38] A. Cichocki, R. Zdunek, and S. Amari: ”Hierarchical ALS Algorithms for Nonnegative 
+Matrix and 3D Tensor Factorization”, Lecture Notes in Computer Science, Springer, 
+LNCS-4666, 169-176 (2007). 
+[39] A. Cichocki, and R. Zdunek.: ”Multilayer Nonnegative Matrix Factorization using 
+Projected Gradient Approaches”, International Journal of Neural Systems, Vol. 17, 
+No. 6, 431-446 (2007). 
+[40] L. Astolfi, H. Bakardjian, F. Cincotti, D. Mattia, M. Marciani, F. Fallani, A. Colosimo, 
+S. Salinari, F. Miwakeichi, Y. Yamaguchi, P. Martinez, A. Cichocki, A. Tocci, F. 
+Babiloni: ”Estimate of Causality between Independent Cortical Spatial Patterns 
+during Movement Volition in Spinal Cord Injured Patients”, Brain Topography, 2007 
+Spring; 19(3):107-23 (2007). 
+[41] Z. Chen, S. Ohara, J. Cao, F.B. Vialatte, F.A. Lenz and A. Cichocki, ”Statistical 
+modeling and analysis of laser-evoked potentials of electrocorticogram recordings 
+from awake humans”, Journal of Computational Intelligence and Neuroscience, 24 
+pages. 
+[42] F. Fallani, L. Astolfi, F. Cincotti, D. Mattia, M. Marciani, S. Salinari, J. Kurths, S. Gao, 
+A. Cichocki, A. Colosimo, and F. Babioni: ”Cortical Functional Connectivity Networks 
+in Normal and Spinal Cord Injured Patients: Evaluation by Graph Analysis”, Human 
+Brain Mapping, Vol. 28, Issue 12, 1334-1346 (2007). 
+[43] D. Feng, W. Zheng, and A. Cichocki: ”Matrix-Group Algorithm via Improved 
+Whitening Process for Extracting Statistically Independent Sources from Array 
+Signals”, IEEE Transactions on Signal Processing, Vol. 55, No.3, 962-977 (2007). 
+[44] P. Georgiev, P. Pardalos, and A. Cichocki, ”Algorithms with High Order 
+Convergence Speed for Blind Source Extraction”, Journal of Computational 
+Optimization and Applications, Vol. 38, No. 1, Vol. 38, No. 1, 123-131 (2007) 
+[45] Z. He, S. Xie, S. Ding, and A. Cichocki, ”Convolutive Blind Source Separation in the 
+Frequency Domain Based on Sparse Representation”, IEEE Transactions on Audio, 
+Speech, and Language Processing, Vol. 15, No. 5, July 2007, pp. 1551-1563 
+[46] Z. He, and A. Cichocki: ”An Efficient K-Hyperplane Clustering Algorithm and Its 
+Application to Sparse Component Analysis”, Lecture Notes in Computer Science, 
+Springer, LNCS-4492, 1032-1041 (2007). 
+
+-----
+[47] H. Lee, Y.-D. Kim, A. Cichocki, and S. Choi, ”Nonnegative Tensor Factorization for 
+Continuous EEG Classification,” International Journal of Neural Systems, Vol. 17, No. 
+4, pp. 1-13, (2007). 
+[48] W. Liu, D.P. Mandic, and A. Cichocki: ”Blind Source Extraction Based on a Linear 
+Predictor”, IET Signal Processing, Vol. 1, No. 1, 29-34 (2007). 
+[49] W. Liu, D. Mandic, and A. Cichocki: ”Analysis and Online Realization of the CCA 
+Approach for Blind Source Separation”, IEEE Transactions of Neural Networks, Vol. 
+8, No. 5, 1505-1510 (2007). 
+[50] P. Martinez, H. Bakardjian and A Cichocki, ”Fully-Online, Multi-Command Brain 
+Computer Interface with Visual Neurofeedback Using SSVEP Paradigm”, Journal of 
+Computational Intelligence and Neuroscience, 2007. 
+[51] S. Osowski, B. Swiderski, A. Cichocki, and A. Rysz: ”Epileptic Seizure 
+Characterization by Lyapunov exponent of EEG signal”, Compel, Vol. 26, No. 6 , 
+1226-1287 (2007). 
+[52] T.M. Rutkowski, R. Zdunek, and A. Cichocki, ”Multichannel EEG Brain Activity 
+Pattern Analysis in Time-Frequency Domain with Nonnegative Matrix Factorization 
+Support”, International Congress Series, Elsevier, Vol. 1301, 2007, pp. 266-269 
+[53] A. Seghouane, and A. Cichocki: ”Bayesian estimation of the number of principal 
+components”, Signal Processing, Vol. 87, 562-568 (2007). 
+[54] H. Takeichi, S. Koyama, A. Matani, and A. Cichocki, ”Speech Comprehension 
+Assessed by Electroencephalography: A New Method using m-sequence 
+Modulation”, Neuroscience Research, Vol. 57, 2007, pp. 314-318. 
+[55] F. Theis, P. Georgiev, and A. Cichocki: ”Robust Sparse Component Analysis Based 
+on a Generalized Hough Transform”, EURASIP Journal on Advances in Signal 
+Processing (2007). 
+[56] Y. Washizawa, and A. Cichocki: ”Sparse Blind Identification and Separation by 
+Using Adaptive K-orthodrome Clustering”, Neurocomputing (2007). 
+[57] W.L. Woon and A. Cichocki, ”Novel Features for Brain Computer Interfaces”, 
+Journal of Computational Intelligence and Neuroscience (2007). 
+[58] W.L. Woon, A. Cichocki, F. Vialatte, and T. Musha, ”Techniques for Early Detection 
+of Alzheimer’s Disease Using Spontaneous EEG Recordings”, Physiological 
+Measurements, Vol. 28, No. 4, April 2007, pp. 335-347. 
+[59] R. Zdunek, and A. Cichocki: ”Nonnegative Matrix Factorization with Constrained 
+Second-order Optimization”, Signal Processing, Vol. 87, No.8, 1904--1916 (2007). 
+[60] J-H. Park, S. Kim, Ch-H. Kim, A. Cichocki, and K. Kim: ”Multiscale Entropy Analysis 
+of EEG from Patients under Different Pathological Conditions”, Fractals, Vol. 15, No. 
+4, 399-404 (2007).  
+2006 
+[61] A. Cichocki and R. Zdunek, ”Multilayer Nonnegative Matrix Factorization”, 
+Electronics Letters, Vol. 42, No. 16 (2006), pp. 947-948. 
+[62] Y. Li, A. Cichocki, and S. Amari, ”Blind Estimation of Channel Parameters and 
+Source Components for EEG Signals: A Sparse Factorization Approach”, IEEE 
+Transactions on Neural Networks, Vol. 17, No. 2, March 2006, pp. 419-431. 
+[63] Y. Li, S. Amari, A. Cichocki, D. W. C. Ho, and S. Xie, ”Underdetermined Blind 
+Source Separation Based on Sparse Representation”, IEEE Transactions On Signal 
+Processing, Vol. 54, No. 2, February 2006, pp 423-437. 
+[64] Y. Li, S. Amari, A. Cichocki, and C. Guan, ”Probability Estimation for Recoverability 
+Analysis of Blind Source Separation Based on Sparse Representation”, IEEE 
+Transactions on Information Theory52(7),  pp. 3139-3152 (2006). 
+[65] S. Ding, J. Huang, D. Wei, and A. Cichocki, ”A Near Real-Time Approach for 
+Convolutive Blind Source Separation”, IEEE Transactions on Circuits And Systems I, 
+
+-----
+Vol. 53, No. 1, January 2006, pp. 114-128. 
+[66] S. Ding, A. Cichocki, J. Huang, and D.Wei, ”Blind Source Separation of Acoustic 
+Signals in Realistic Environments Based on ICA in the Time-Frequency Domain”, 
+Journal of Pervasive Computing and Communications, Vol. 1, No. 2, June 2005, pp. 
+89-99. 
+[67] M.G. Jafari, W. Wang, J.A. Chambers, T. Hoya, and A. Cichocki, ”Sequential Blind 
+Source Separation Based Exclusively on Second-Order Statistics Developed for a 
+Class of Periodic Signals”, IEEE Transactions On Signal Processing, Vol. 54, No. 3, 
+March 2006, pp. 1028-1040. 
+2005 
+[68] S. Choi, A. Cichocki, H.M. Park and S.-Y. Lee, ”Blind Source Separation and 
+Independent Component Analysis: A Review”, Neural Information Processing - 
+Letters and Reviews, Vol. 6, No.1, pp.1-57, January 2005. 
+[69] A. Cichocki, S. L. Shishkin, T. Musha, Z. Leonowicz, T. Asada, and T. 
+Kurachi: ”EEG Filtering Based on Blind Source Separation (BSS) for Early Detection 
+of Alzheimer’s Disease”, Clinical Neurophysiology, Vol. 116, 2005, pp. 729737. 
+[70] T. Hoya, T. Tanaka, A. Cichocki, T. Murakami, G. Hori, and J. A. Chambers: 
+Stereophonic Noise Reduction Using A Combined Sliding Subspace Projection and 
+Adaptive Signal Enhancement, IEEE Transactions on Speech and Audio Processing, 
+Vol. 13, No. 3, pp. 309-320, May 2005. 
+2004 
+[71] A. Cichocki. Blind Signal Processing Methods for Analyzing Multichannel Brain 
+Signals. International Journal of Bioelectromagtism, 6(1), 2004. 
+[72] S. A. Crucez-Alvarez, A. Cichocki, and S. Amari: ”From Blind Signal Extraction to 
+Blind Instantaneous Signal Separation: Criteria, Algorithms and Stability”, IEEE 
+Transactions on Neural Networks, Special issue on Information Theoretical Learning, 
+Vol. 15, No. 4, pp. 859-873, 2004. 
+[73] Y. Li, A. Cichocki, and S. Amari: ”Analysis of Sparse Representation and Blind 
+Source Separation”, Neural Computation, Vol. 16, No. 6, pp. 1193-1234, June 2004. 
+[74] Y. Li, A. Cichocki, and L. Zhang, ”Blind Source Estimation of FIR Channels for 
+Binary Sources:  Grouping Decision Approach,” Signal Processing, 84, 2245-2263 
+(2004). 
+[75] Y. Li, J. Wang, and A. Cichocki ”Blind Source Extraction from Convolutive Mixtures 
+in Ill-conditioned Multi-Input Multi-Output Channels,” IEEE Trans. on Circuits and 
+Systems, Vol.51, No.9. pp.1814-1822, Sept. 2004. 
+[76] L. Zhang, A. Cichocki, and S. Amari, ”Multichannel Blind Deconvolution of 
+Nonminimum-phase Systems Using Filter Decomposition,” IEEE Transactions on 
+Signal Processing, vol. 52, no. 5, pp. 1430-1442, 2004. 
+[77] L. Zhang, A. Cichocki, and S. Amari, ”Self-adaptive Blind Source Separation Based 
+on Activation Functions Adaptation,” IEEE Transactions on Neural Networks, vol. 15, 
+no. 2, pp. 233-244, 2004.  
+2003 
+[78] A. Cichocki and P. Georgiev: Blind source separation with matrix constraints, IEICE 
+Trans. Fundamentals, vol. E86-A, no. 3, March 2003. 
+[79] R.R Gharieb and A. Cichocki: Second-order statistics based blind source separation 
+using a bank of subband filters, Digital Signal Processing, vol.13, pp. 252-274, 2003. 
+[80] S. Choi, A. Cichocki, L. Zhang and S. Amari: Approximate maximum likelihood 
+source separation using the natural gradient, IEICE Trans. Fundamentals, vol. E86-A, 
+No. 1, Jan. 2003. 
+ 
+2002 
+
+-----
+[81] S. Cruces-Alvarez, A. Cichocki and S. Amari: On a new blind signal extraction 
+algorithm: Different criteria and stability analysis, IEEE Signal Processing Letters, vol. 
+9 No.8, August 2002, pp. 233-236. 
+[82] J. Cao, N. Murata, S. Amari, A. Cichocki and T. Takeda: Independent component 
+analysis for single-trial MEG data decomposition and single-dipole source 
+localization, Neurocomputing, vol.49, 2002, pp. 255-277. 
+[83] S. Choi, A. Cichocki and S. Amari: Equivariant nonstationary source separation, 
+Neural Networks, vol.15, 2002, pp.121-130. 
+[84] S. Choi, A. Cichocki and A. Beluochrani: Second order non-stationary source 
+separation, Journal of VLSI Signal Processing, 2002, vol. 32, no. 1-2, Aug. 2002, pp. 
+93-104. 
+[85] S. Cruces, L. Castedo and A. Cichocki: Robust blind source separation algorithms 
+using cumulants, Neurocomputing, vol. 49, Dec. 2002, pp.87-118. 
+[86] S. A. Vorobyov and A. Cichocki: Blind noise reduction for multi-sensory signals 
+using ICA and subspace filtering with application to EEG analysis, Biological 
+Cybernetics, Vol. 86, No. 4, April 2002, pp.293-303. 
+[87] L. Zhang, A. Cichocki and S. Amari: Geometrical structures of FIR manifold and 
+their application to multichannel blind deconvolution, Journal of VLSI for Signal 
+Processing, Vol. 31, 2002, pp.31-44. 
+2001 
+[88] A. K. Barros and A. Cichocki: Extraction of specific signals with temporal structure, 
+Neural Computation, Vol. 13, No. 9, September 2001, pp. 1995-2000. 
+[89] S. Choi and A. Cichocki: Blind equalization via approximate maximum likelihood 
+source separation, Electronics Letters, Vol. 37, No. 1, January 27, 2001, pp. 61-62. 
+[90] S. Choi and A. Cichocki : Algebraic differential decorrelation for non-stationary 
+source separation, Electronics Letters, vol. 37, no. 23, November 18, 2001, pp. 
+1414-1415, 
+[91] R. R. Gharieb and A. Cichocki: Noise reduction in brain evoked potentials based on 
+third-order correlations, IEEE Transactions on Biomedical Engineering, Vol. 48, 2001, 
+pp. 501-512. 
+[92] R. R. Gharieb and A. Cichocki: Segmentation and tracking of EEG signal using an 
+adaptive recursive bandpass filter, International Federation for Medical & Biological 
+Engineering & Computing, Vol. 39, 2001, pp. 237-248. 
+[93] R. Rosipal, M. Girolami, L.J. Trejo and A. Cichocki: Kernel PCA for feature 
+extraction and de-noising in non-linear regression, Neural Computing and 
+Applications, Vol. 10, pp. 231-243. 
+[94] S.A. Vorobyov and A. Cichocki: Hyper radial basis function neural networks for 
+interference cancellation with nonlinear processing of reference signal, Digital Signal 
+Processing, Academic Press, Vol. 11, No. 3, July 2001, pp. 204-221. 
+[95] S.A. Vorobyov, A. Cichocki and Ye.V. Bodyanskiy: Adaptive noise cancellation for 
+multi-sensory signals, Journal of Fluctuation and Noise Letters, Vol. 1, No. 1, 2001, 
+pp.12-24. 
+[96] L. Zhang, S. Amari and A. Cichocki: Semiparametric model and super-efficiency in 
+blind deconvolution, Signal Processing, Vol. 81, 2001, pp. 2535-2553.  
+2000 
+[97] S. Amari, , T.-P. Chen and A. Cichocki: Nonholonoimic orthogonal learning 
+algorithms for blind source separation. Neural Computation, Vol. 12, 2000, pp.1463-
+1484. 
+[98] A. Belouchrani and A. Cichocki: Robust whitening procedure in blind source 
+separation context, Electronics Letters, Vol. 36, No. 24, 2000, pp. 2050-2053. 
+[99] J. Cao, A. Cichocki and S. Tanaka: Self-scaling and self-adaptive compact time-
+
+-----
+delay neural network for dynamical nonlinear and nonstationary system identification, 
+Journal of Signal Processing, Vol. 4, No. 1, 2000, pp. 37-43. 
+[100] J. Cao, N. Murata and A. Cichocki: Independent component analysis algorithm for 
+on-line blind separation and blind equalization systems, Journal of Signal Processing, 
+Vol. No. 2, March, 2000, pp.131-140. 
+[101] J. Cao, N. Murata, S. Amari, A. Cichocki, T. Takeda, H. Endo and N. Harada: 
+Single-trail magnetoencephalographic data decomposition and localization based on 
+independent component analysis approach. IEICE Transactions on Fundamentals of 
+Electronics, Communications and Computer Sciences, No. 9, 2000, pp.1757-1766. 
+[102] S. Choi, S. Amari and A. Cichocki: Natural gradient learning for spatio-temporal 
+deceleration: recurrent network, IEICE Trans. Fundamentals, vol. E83-A, no. 12, Dec. 
+2000, pp. 2715-2722. 
+[103] S. Choi and A. Cichocki: Blind separation of non-stationary sources in noisy 
+mixtures, Electronics Letters, Vol. 36, No. 9, April, 2000, pp. 848-849. 
+[104] S. Choi, A. Cichocki and S. Amari. Flexible independent component analysis. 
+Journal of VLSI Signal Processing, Vol. 26, 2000, pp. 25-38. 
+[105] A. Cichocki and R. Thawonmas: On-line algorithm for blind signal extraction of 
+arbitrarily distributed, but temporally correlated sources using second order statistics. 
+Neural Processing Letters, Vol. 12, August 2000, pp.91-98. 
+[106] S. Cruces, A. Cichocki and L. Castedo: An iterative inversion approach to blind 
+source separation . IEEE Transactions on Neural Networks, Vol. 11, No. 6, 2000, 
+pp.1423-1437. 
+[107] L. Zhang and A. Cichocki: Blind deconvolution of dynamical systems: A state space 
+approach, (invited paper), Journal of Signal Processing, Vol. 4, No. 2, Mar. 2000, pp. 
+111-130. 
+1999 
+[108] S. Choi and A. Cichocki: An unsupervised hybrid network for blind separation of 
+independent non-Gaussian source signals in multi-path environment, Journal of 
+Communications and Networks, Vol. 1, No. 1, March 1999, pp. 19-25. 
+[109] S. Choi and A. Cichocki: Hybrid learning approach to blind deconvolution of linear 
+MIMO systems, Electronics Letters, Vol. 35, No. 17, 1999, pp. 1429-1430. 
+[110] A. Cichocki, J. Karhunen, W. Kasprzak and R. Vigario: Neural networks for blind 
+separation with unknown number of sources, Neurocomputing, Vol. 24, 1999, pp. 55-
+93. 
+[111] S.C. Douglas, A. Cichocki and S. Amari: Self-whitening algorithms for adaptive 
+equalization and deconvolution, IEEE Trans. on Signal Processing, Vol. 47, No. 4, 
+April 1999, pp. 1161-1165. 
+[112] S. Osowski, A. Cichocki: Learning in dynamic neural networks using signal flow 
+graphs, Int. Journal of Circuit Theory and Applications, Vol. 27, 1999, pp. 209-228. 
+[113] R. Thwanomas and A. Cichocki: Blind signal extraction of arbitrary distributed but 
+temporally correlated signals - neural network approach, IEICE Transactions, 
+Fundamentals, vol. E82 A, No.9, Sept. 1999, pp. 1834-1844. 
+ 
+
+-----

@@ -1,0 +1,114 @@
+About Me
+http://www.ece.ust.hk/~mchan/aboutme/aboutme.html[9/6/2018 10:05:08 AM]
+Disclaimer: While I try to keep the information
+update and accurate, there is no guarantee that
+the material provided here is absolutely accurate
+and error free.
+About Me
+Home
+About me
+Teaching
+Research
+Publications
+Collections
+Links
+Professional Duty
+Professor, Department Electronic and Computer Engineering, 
+Hong Kong University of Science & Technology (HKUST)
+Adjunct Professor, Peking University Shenzhen Graduate School
+Visiting Professor, University of California at Berkeley
+Board of Director, Institute of Electrical & Electronic Engineer (IEEE)
+Distinguished Lecturer of EDS, Institute of Electrical & Electronic Engineer (IEEE)
+Fellows of IEEE, IET and HKIE
+Serving in the Board of Directors in a number of Startup Companies
+Education
+PhD, Electrical Engineering, University of California at Berkeley
+M.Sc., Electrical Engineering, University of California at Berkeley
+B.Sc., Electrical Engineering & Computer Science
+University of California at San Diego
+Secondary School: St. Paul's Co-educational College, Hong Kong
+Religion
+ A Christian since 1988, 
+Currently with All Virtues Baptist Church 
+But I seldom go to church these days with some good reasons
+(Don't ask me why). 
+What I used to do?
+Fooling around with people; enjoying the fresh air in the countryside, windsurfing, painting,
+photography, ballroom dancing, chess playing, bridge, video gaming ...
+What I am currently doing?
+My daily routine now compose of teaching classes, drafting proposals, writing reports,
+talking to business people, preparing presentations, meeting with government officials in
+order to get money to support my research projects and students ...
+What I will be doing?
+I will be stuck in the current busy schedule for a while and in the future, I hope to
+contribute to the education activities for young children in the rural area, especially in
+China ...
+General
+Technical Biography
+Resume
+Photos
+Interests
+
+-----
+Research
+http://www.ece.ust.hk/~mchan/research/research.html[9/6/2018 10:05:54 AM]
+Disclaimer: While I try to keep the information
+update and accurate, there is no guarantee that
+the material provided here is absolutely accurate
+and error free.
+Projects
+Home
+About me
+Teaching
+Research
+Publications
+Collections
+Links
+Emerging Device Simulation Platform
+The goal of this project is to develop an interactive Modeling and Online Simulation (i-
+MOS) platform with extend functionality for model developers to release their most
+updated model to the public. At the same time, users can visit i-MOS to gain access to the
+most update device model and perform circuit simulation on the platform. More detail
+description of the project can be found on the i-MOS website (http://i-mos.org).
+Emerging Transistor Design & Fabrication
+The objective is to design and fabricate transistors with emerging
+technology (including carbon nanotube and organic transistors)
+using top-down manufacturing approach (in contrast to the bottom-
+up self-assembly approach developed by Chemist and Physicists)
+to provide diversity of CMOS technology according to the ITRS
+Roadmap.
+ 
+Emerging Device Modeling and Circuit Design
+With the large number of new device structures proposed in the post-Moore era, a lot of
+modeling work is required to describe the operations of these devices and put them into a
+circuit simulator to perform circuit simulation. In addition, new circuit techniques have to be
+developed to optimize the performance of circuits designed using these device.
+Carbon Based Interconnect Technology
+With the technology scaling entering the sub-20nm regime, the interconnect technology
+becomes the bottleneck due to the increasing resistivity with dimension scaling and
+eletromigration concerns under high current density. This project to study the integration of
+CNT as a via filling material into the mainstream CMOS technology. A systematic study on
+methodologies to achieve high areal CNT density, small tube diameter, and low CNT-
+metal contact at a temperature below the melting point of the interconnect metal is being
+pursued.
+Phase-Change Memory Characterization and Modeling
+This project is to study and model the physical mechanism of resistive memory inclduing
+the driving device. In addition, a complete simulation tool is expected to be developed for
+studying the behavior of phase-change memory swithcing including a full simulation with
+various driving device such as diode circuit, double gate, multiple-gate and surrounding
+gate MOSFETs.
+Bio-MEMS technology for DNA and Cell signal detection
+This project is to develop IC based technology to interact with biological material. The
+technology can be used in Lab-on-a-chip technology to extract cell contents and detect the
+existance of certain DNA fragment. In addition non-invasive cell based technology to
+extract cell level signa for drug profiling is also being pursued.
+
+-----
+Research
+http://www.ece.ust.hk/~mchan/research/research.html[9/6/2018 10:05:54 AM]
+ Projects 
+ Group Members 
+ Alumni 
+ Research Labs 
+
+-----

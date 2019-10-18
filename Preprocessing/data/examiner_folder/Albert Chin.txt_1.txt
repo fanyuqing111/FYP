@@ -1,0 +1,94 @@
+Biographical Summary: Albert Chin 
+Current Status 
+ Distinguished Professor, Electronics Eng. Dept., National Chiao Tung University, Hsinchu, Taiwan 
+http://eds.ieee.org/technical-committees/eds-compound-semiconductor-devices-and-circuits-technical-committee.html  
+Education 
+ Ph.D., M.S., University of Michigan, Ann Arbor, USA, 1989, 1986, Electrical Engineering    
+(Advisor: Professor Pallab K. Bhattacharya, National Academy of Engineering Fellow, USA) 
+ B.S., National Tsing Hua University, 1982, Electrical Engineering 
+Expertise  
+High-κ CMOS, Flash Memory, RF Si devices/IC, Opto-electronics, Thin-Film devices, GaN MOSFET 
+Industry & Academia Experiences 
+ Consultant at IC fabs (CTO office-TSMC, 2003~2004; Senior Director TSMC, 2005~2006) 
+ Consultant at Solar Cells company, Hsinchu Taiwan, 2006~2007 
+ RF IC Design House co-founder, 2000   
+ Texas Instruments-Dallas USA, 1996-1997, Visiting Scientist 
+ General Electric Electronics Lab., 1990-1992, Senior Engineer, RF III-V HEMT 
+ AT&T Bell Labs., 1989-1990, Post-Doc MTS, Opto-electronics  
+ National Univ. of Singapore, EE Dept. & SNDL, 2002~2003 summer, 2004~2005, Visiting Professor 
+ National Chiao Tung Univ. (NCTU), Associate Professor, 1992~1996; Professor, 1997~ 
+ Deputy Director of Multi-Disciplinary Research Center; Vice CEO of Diamond Project, NCTU, 2010 
+Editorial & EDS Committee Services 
+ Member, Conference Meetings Committee, IEEE JEDS, 2016~ 
+ Vice Chair, IEEE EDS Subcommittee for Regions/Chapters Region 10, 2015~ 
+ Editor, IEEE Electron Devices Letters 2012~ 
+ Chair, Compound Semiconductor Devices & Circuits Technical Committee, IEEE ED Society, 2016~ 
+ Chair, Electronic Materials Technical Committee, IEEE ED Society, 2014~2015 
+ Guest Editor & Editor-in-Chief, Special Issue on “Advanced Technology for Ultra-Low Power 
+Electronic Devices”, IEEE JEDS, 2016 
+Conference Services 
+ Intl. Advisory Committee, IEEE Electron Devices Tech. & Manufacturing Conf. (EDTM), 2017 
+ IEEE IEDM Executive Committee, Asian Arrangements Co-Chair, 2009~2010 
+ IEEE IEDM Sub-Committee Chair, 2008  
+ IEEE IEDM Technical Committee Member & section chair, 2006~2007  
+ Rump section panelist, 62th Device Research Conference (DRC), 2004  
+ Panelist, New Channel Materials for Future MOSFET Technology Workshop (SEMATECH), 2005  
+ Panelist, Silicon Nanoelectronics Workshop (SNW), 2011 
+ Panelist, IEEE International Conf. on Solid-State & IC Technology (ICSICT), 2012 
+ Tutorial, Materials Research Society (MRS), 2010 
+ Organizer, ElectroChemical Society (ECS), 2005 
+ General Chair, Energy, Materials & Nanotechnology (EMN) Open Access Week, 2014 
+ Keynote Speaker, Annual World Congress of Nano Science & Technology (Nano S&T), 2015, 2017  
+Chapter Services 
+ Vice Chair, IEEE EDS Region 10 Subcommittee for Regions/Chapters, 2015~ 
+ Member, IEEE ED Society Meetings Committee, 2016~ 
+ IEEE EDS Distinguished Lecturer, 2009~ 
+
+-----
+ Vice President, Asia-Pacific Academy of Materials Taiwan Section, 2013~ 
+Seminar & Conference Talk Services  
+ Seminar in major IC companies: IBM, Sept. 2013, Oct. 2011; SanDisk, May 2011; Toshiba, Feb. 
+2011; TI, Sept. 2009; Samsung, Nov. 2013, Nov. 2009 (EVP), Dec. 2003; TSMC, UMC, SMIC etc. 
+ Seminar in major Universities: Stanford, Berkeley, UIUC, UC-San Diego, U. of Michigan, U. of 
+Florida, Tokyo Inst. of Tech., U. of Tokyo, Tohuku Univ., Seoul National Univ., Peking Univ., Tsing 
+Hua Univ., Fudan Univ., National Univ. of Singapore, etc.  
+ Invited talk in major semiconductor conferences:  
+IEDM, European Solid State Device Research Conf. (ESSDERC), European Materials Research 
+Society (E-MRS), Materials Research Society (MRS), Ge Technology Workshop (IMEC), 16th 
+Insulating Films on Semiconductors (INFOS) Cambridge UK, Intl. Solid-State Devices & Materials 
+Conf. (SSDM), Intl Conf. on Materials for Advanced Technologies (ICMAT), Intl. Symp. Advanced 
+Gate Stack Tech. (ISAGST), 3D Transistor Workshop (Director Yoshiro Nishi, Stanford Univ.), 
+ElectroChemical Society (ECS), Electron Devices & Solid-State Circuit (EDSSC), etc. 
+Society Fellow 
+ IEEE Fellow 2011 (for contribution to  high-κ dielectric and metal gate electrodes for CMOS)  
+ OSA Fellow 2013 (for contribution to resonantly enhanced photodiodes, sub-ps photo-response 
+applications, and display devices)  
+ Asia-Pacific Academy of Materials Academician 2013  
+Research Field & Contribution (Ultra-low-power & Energy-Efficient Green Electronic Devices) 
+ Pioneering low DC-power high- gate dielectric MOSFET used for CMOS manufacturing (Symp. on 
+VLSI 1999, 2000, 2003, 2004, 2006, 2008; IEDM 2004, 2005, 2006, 2007, 2010). 
+ Pioneering planar high-Flash memory and used for 128 GB memory array production (Symp. on 
+VLSI 2005, 2006; IEDM 2005, 2006, 2008, 2010). 
+ Invented low AC-power high-mobility Ge-On-Insulator (GeOI) CMOS (Symp. on VLSI 2003; IEDM 
+2003, 2004, 2010; cited by Intl. Tech. Roadmap for Semiconductors (ITRS)). 
+ Pioneering low-power Steep Turn-On CMOS (SS<60mV/dec) & 1-Transistor ferro DRAM (EDL 2014 
+& TECHNICAL BRIEFS, “Green Electronic Devices-Recent Trends,” IEEE Electron Device Society 
+Newsletter, vol. 21, no. 3, 2014. (published quarterly) eds.ieee.org/eds-newsletters.html). 
+ High-mobility, wide-energy-bandgap material MOSFET to lower quantum-mechanical direct 
+tunneling leakage in Si FinFET and useful for brain-mimicking 3D IC (IEDM 2015 & 
+www.semiconductor-today.com/news_items/2011/DEC/NCTU_201211.html).  
+ Low power high-display TFT & Flexible Electronics (IEDM 2015, Adv. Materials 2011, Impact 
+Factor=18.96).  
+ Invented the III-V resonant cavity photo-detector with high gain-bandwidth product (IEEE JWT, 1992). 
+Citation & Report 
+ Co-authored 7 “Highly Cited Papers” (top 1% in Engineering worldwide, ISI Web of Knowledge SM) 
+ Worldwide Citation Ranking in Engineering 2010: #400 (ISI Web of Knowledge SM) 
+ Reported by “The New York Times”   
+bits.blogs.nytimes.com/2008/12/15/for-chip-makers-hybrids-may-be-a-way-forward/ 
+Publication 
+ 251 Journal papers: 113 IEEE papers & 54 papers in APL, JAP, PR.   
+ 240 Conference papers: 24 papers in IEDM, 16 in Symp. on VLSI Tech. & 17 in Intl. Microwave Symp. 
+ 3 Book Chapters published by American Scientific Publishers (ASP), 2009, INTECH Publisher, April 
+2010 (>8000 downloads), and Wiley-VCH publishers, 2012.   
+
+-----

@@ -1,0 +1,43 @@
+Abstract
+Hollow core photonic crystal fibers (HC-PCFs) have promising applications in high
+power beam delivery, chemical sensing and gas-based nonlinear optics. According
+to the waveguide mechanism, HC-PCFs are typically classified into two kinds. One
+kind guide light via a two dimensional photonic bandgap while the other through
+anti-resonant reflection. The former one is so called hollow core photonic bandgap
+fibers (HC-PBGFs) while the latter is commonly named hollow core anti-resonant
+fibers (HAFs).Compared to HC-PBGFs, HAFs can have much broader transmission
+windows and more flexible fiber designs.
+As a result, HAFs are currently more
+popular than HC-PBGFs. Hence the topic of this thesis is focused on HAFs.
+HAFs have already been demonstrated to have potential on the application of gas
+filled fiber lasers. In 2002, the first demonstration of the Raman scattering emis-
+sion had been observed with an H2 filled HAF. During the past decades, a lot of
+efforts have been devoted to the gas filed HAF laser. However, so far there is no
+demonstration of an all HAF based fiber laser because there exist two restrictions.
+The first restriction is that hollow core fibers are favored in long wavelength regions
+where solid core glass fibers suffer high material loss, besides, a small cavity cross
+section (i.e., fiber core size) is preferred to reduce the lasing threshold. However,
+the confinement loss of a HAF (i.e., cavity loss) increases fastly when core size gets
+smaller or wavelength gets longer. The second restriction is there is no hollow core
+fiber based fiber coupler to build an all hollow core fiber based laser ring cavity.
+Therefore, the task of this thesis is to get rid of these two restrictions to make our
+contributions to all HAF based fiber lasers.
+Nanyang Technological University
+Singapore
+
+-----
+ii
+Firstly, we develop the hollow core fiber fabrication technique based on our local
+facilities which is the prerequisite to come true any hollow core fiber design. Sec-
+ondly, we design, fabricate, and characterize a HAF which can have relatively low
+transmission loss in small core and long wavelength conditions. Thirdly, we design,
+fabricate, and characterize a HAF based fiber coupler whose power splitting ratio is
+tunable by adjusting the fiber strain. At last, we used the HAF based fiber coupler
+to build a ring cavity in a fiber laser system, where the tunable feature of the fiber
+coupler helps to optimize the conversion efficiency. Moreover, the HAF based fiber
+coupler is experimentally proved to be able to split and deliver the ultra fast laser
+pulse without degradation.
+Nanyang Technological University
+Singapore
+
+-----

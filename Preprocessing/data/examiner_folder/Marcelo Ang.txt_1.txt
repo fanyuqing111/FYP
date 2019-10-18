@@ -1,0 +1,194 @@
+ANG Jr, Marcelo H - NUS Mechanical Engineering
+https://www.eng.nus.edu.sg/me/staff/ang-jr-marcelo-h/[5/21/2019 10:07:06 AM]
+Home / ME / About Us / People / Academic Staff / ANG Jr, Marcelo H
+ANG Jr, Marcelo H
+Associate Professor
+Control & Mechatronics
+Contact
+6516 2555
+mpeangh@nus.edu.sg
+Website
+Google Scholar
+Location
+E3A-04-09
+His work experience include heading the Tech. Training Div of Intel Phils, research positions
+at the East West Center in Hawaii and at the Mass Inst of Tech, and Asst Prof of EE at the
+Univ of Roch, NY. Marcelo joined NUS in 1989. His research span robotics, automation,
+computer control, and artificial intelligence and he is actively involved in the Singapore
+Robotic Games as its founding chairman.
+Qualification
+Ph. D. EE, MSc EE Univ of Rochester; MSc ME, University of Hawaii; BSc ME and Indl Mgt
+Eng, De La Salle Univ
+Research Interests
+
+Department of Mechanical Engineering
+
+
+-----
+ANG Jr, Marcelo H - NUS Mechanical Engineering
+https://www.eng.nus.edu.sg/me/staff/ang-jr-marcelo-h/[5/21/2019 10:07:06 AM]
+Robotics, Mechatronics, Intelligent Systems
+Link: http://guppy.mpe.nus.edu.sg/~mpeangh/research.htm
+Selected Publications
+R.O. Atienza, and M.H. Ang Jr., “A Flexible Control Architecture for Mobile Robots: An
+Application for a Walking Robot,” Journal of Intelligent and Robotic Systems, 30: 29-48,
+2001.
+D. Oetomo, M H Ang Jr., and S Y Lim, “Singularity Handling on Puma in Operational Space
+Formulation,” Experimental Robotics VII, LNCIS (Lecture Notes in Control and Information
+Sciences) 271, March 2001.
+NUS Mechanical Engineering
+
+ 
+9 Engineering Drive 1
+Block EA #07-08
+Singapore 117575
+
++65 65162210
+© National University of Singapore. All Rights Reserved.
+
+-----
+Research Interests
+http://guppy.mpe.nus.edu.sg/marcelo/research.htm[5/21/2019 10:08:15 AM]
+Key Words: robotics, robot design, neural networks, fuzzy reasoning, task planning, robot compliance, flexible robots,
+hybrid force and position control, walking robots, mobile robots, autonoumous navigation.
+Research Interests
+1. Man-Machine User Interface
+2. Control of Dynamic Behavior of Robot Manipulators
+3. Passive Compliance and Flexible Robots
+4. Mobile Robotics
+5. Intelligent Control
+Currently Funded Research Projects
+1. Man-Machine User Interface
+For a robot to perform its task, it is imperative to have a complete and unambiguous description of the workcell
+environment as well as of the robot itself. In addition, the robot must be capable of geometric reasoning in order for it to
+be able to accomplish its tasks. External sensors are required to account for any uncertainties and/or inaccuracies in the
+workcell environment. The robot must be able to update its knowledge of not only its environment but of itself. We
+refer to a roboti c system as intelligent if it possesses the two important capabilities of geometric reasoning and
+environment adaptation.
+The first phase of the project involves the integration of a geometric (solid) modeling system into the robot controller
+architecture as a necessary first step towards intelligent robotic system design. The study involves: (i) the design and
+synthesis of an friendly user-interface for robot offline programming (ii) robotic task planning; (iii) task-level languages
+and task-based control;and (iv) robot simulator design for program verification and analysis.
+Possible research projects include the following:
+Motion Planning of Robots in a Known Environment
+Local Planning for Sensor-Based Mobile Robotic Systems
+Walk-Through Robot Programming System
+Force and Position Control of Telerobotic Systems
+Task Planning for Constrained Motion Tasks
+Specification of Manipulator End-Point Compliance According to the Task
+These projects can have scope for M.Eng or Ph.D. work.
+2. Control of Dynamic Behavior of Robot Manipulators
+Active control can make a robot manipulator behave with a different dynamics in response to external forces exterted on
+the end-effector. The apparent mass, damping, and stiffness of the robot as seen from its end-effector can be achieved
+using advanced control strategies.
+Impedance Control has been achieved using the basic formulation of Hogan. Current work addresses improvement of
+the performance for
+- force control
+- motion control
+- hybrid force/position control
+- impact and contact task control
+- walkthrough programming
+3. Passive Compliance and Flexible Robots
+Current robot manipulators possess inherently stiff and massive structures, and are primarily designed to be positioning
+(and orienting) devices. This design philosophy has severely limited robotic applications. The payload to mass ratio of
+
+-----
+Research Interests
+http://guppy.mpe.nus.edu.sg/marcelo/research.htm[5/21/2019 10:08:15 AM]
+current manipulators are indeed very low and the justification of robot usage against automatic machine tools (i.e., hard
+automation) is unclear. Furthermore, many manipulation tasks require compliance, the ability to accomplish force as
+well as position control. For example, constrained motion movement and many tasks associated with touch or feel in
+fine assembly require compliance. The rigid structure of current manipulators have made compliance impossible and
+have made robotics use difficult in automation tasks. Only a few of the compliance related tasks have been automated,
+and usually by means of compliance devices as end-effectors rather than in the structure of the manipulator itself.
+In order for a manipulator to be useful, improvements are required in two areas: (1) manipulators must be smaller and
+lighter in weight for what they do, and (2) manipulator must be able to do force as well as position control. This
+research addresses the aforementioned two areas. Future generation manipulators would consist of not only rigid but
+also compliant limbs capable both of force and position control. Positioning accuracy will no longer be the only primary
+concern and lighter manipulators can be built. Such manipulators would have high payload to mass ratios since the
+flexible limbs would be much lighter. Manipulator tasks would constitute not only position commands but also the
+associated compliance required for the task.
+The research objective is to design a robotic manipulator with programmable passive compliance structure that
+possesses the following characteristics: (i) capable of force and position control, (ii) consisting of compliant (flexible)
+limbs, (iii) high payload to mass ratio, (iv) end-point compliance can be actively controlled.
+The other research objective is the specification of the desired dynamic behavior, e.g. compliance, needed for a specific
+task. This is related to task planning. The apparent mass is desired to be small when impact is expected. Desired
+compliance can be specified by appropriately choosing appropriate stiffness values to describe the desired motion/force
+interrelationships, and to be consistent with force and motion control directions.
+The methodology would include both theoretical work and experimental work. Actual devices would be built together
+with the required computer-interface hardware. Powerful computers would be required to control these future generation
+robots. Promising new technologies would be explored for application to the control of these robots. These technologies
+include neural networks, fuzzy reasoning, and artificial intelligence techniques.
+Possible research projects include the following:
+Vibration Control of Robots with Flexible Limbs
+Pose Compensation of Robots with Flexible Limbs
+Visual-Based Feedback Control of Robot Manipulators
+Control of the Dynamic Behavior of Robotic Manipulators
+Force and Position Control for Constrained Motion Tasks
+These projects can have scope for M.Eng or Ph.D. work.
+4. Mobile Robotics
+Robots are finding increasing applications in the manufacturing and service industry. Their usefulness, however, has
+been limited by their non-mobility. Some mobile robots, such as the automated guided vehicles, are very constrained in
+their movements and lack the intelligence to move freely, planning their paths intelligently taking into consideration the
+environment they are in, and avoiding obstacles in their paths.
+Once imbued with the capabilities to roam freely, robots will be capable of performing a much greater variety of tasks
+not now possible. With greater intelligence incorporated, they will also be able to perform more intricate tasks and
+negotiate obstacles without endangering people around them or causing damage to themselves or the things in their
+paths.
+Research work can be classified into hardware and software. Hardware work includes the design of mobile robots
+capable of operation in uneven terrain with full dexterity. Issues to be addressed include design and analysis of different
+gaits for walking, energy efficiency and dexterity, sensors, and arms and end-effectors. In the software aspects, research
+issues addressed will include autonomous navigation, path planning and motion control, task execution software, visual
+and location information capture and processing.
+
+-----
+Research Interests
+http://guppy.mpe.nus.edu.sg/marcelo/research.htm[5/21/2019 10:08:15 AM]
+There are many potential applications to intelligent autonomous mobile robots. Among these are the intelligent
+autonomous motor car, intelligent patrol and surveillance robot, intelligent material transporters for factories or the
+hospitals, intelligent submerged or surface vehicles, and various types of service robots.
+Current research projects include the design of a quadrupedal walking robot, and the research and development of a
+patrol and surveillance robot.
+5. Intelligent Control
+Neural networks offer several potential advantages over conventional computer architectures. Calculations can be
+carried out in parallel yielding speed advantages, and programming can be done by training using examples rather than
+defining explici t instructions. Neural networks are modeled to emulate the human brain while a robotic manipulator
+tries to duplicate the dexterity of the human body. It is therefore natural to explore neural network applications in
+robotics.
+Neural networks may address current limitations of robotic systems. The inherently parallel architecture make neural
+networks ideal for real-time implementations requiring fast speed, such as inside robot control servo loops. Their
+training capabilities can be exploited for the development of adaptive and self-learning systems, such as in adaptive
+robot control wherein the neural network continuously learns the robot dynamic model.
+Research interests in neural networks include the theoretical and experimental studies of neural network architectures
+with the objective of gaining insight into the their "trainability" and structural functionalities.This research also,
+explores the pos sibilities of using neural networks in robotics, the ultimate objective is to use them to control future
+generation robots whose structures are made deliberately and variably compliant.
+The theoretical framework provided by fuzzy sets and fuzzy logic allows analysis and synthesis of intelligent systems
+capable of fuzzy reasoning. Indeed, a characteristic of intelligence is the ability to reason and make decisions using
+fuzzy or inexact information. Providing a machine with intelligence therefore means incorporating fuzzy reasoning.
+Research in fuzzy reasoning aims at the study of several paradigms for fuzzy logic control of robotic manipulators. In
+addition, we are exploring the possibilities of using fuzzy reasoning in robotic task planning. One objective to to create a
+knowledge base capable of fuzzy reasoning. Such a knowledge base, for example, can be used to help specify the end-
+effector compliance required for different families of robotic tasks.
+It is our belief that intelligent systems will be hybrid systems incorporating neurocomputing as well as fuzzy reasoning
+to conventional computing techniques. Each of these has distinct roles to play in a structured intelligent system.
+Possible research projects include the following:
+Neural Network Based Learning - Algorithms and Architectures
+Neural Networks for Robot Motion Control
+Neural Networks for Control of Dynamic Behavior of Robotic Manipulators
+Learning Based on Hybrid (Neuro-Fuzzy-Genetic) Systems
+These projects can have scope for M.Eng or Ph.D. work.
+Currently Funded Projects (PI: Marcelo H. Ang Jr.)
+1. "Integration of Solid Modeling Systems and Robot Controller Architectures Towards Intelligent Robotic Systems",
+funded by the National University of Singpapore, Project Number RP890659, $267,150 (MOE), 1990-1995.
+2. "Management of Manufacturing Technologies: Trends in Technological Development - Identification, Infusion and
+Education," funded by the National University of Singapore, Project Number RP910708, $33,000 (NUS), 1993-1995.
+3. "Research and Development of a Ship-Welding Robot," funded by the National Science and Technology Board,
+
+-----
+Research Interests
+http://guppy.mpe.nus.edu.sg/marcelo/research.htm[5/21/2019 10:08:15 AM]
+Singapore, Project Number GR6253, $1,651,200 (NSTB), $60,000 (FELS), 1994-1997.
+Back to Home Page of Marcelo
+
+-----

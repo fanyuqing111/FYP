@@ -1,0 +1,441 @@
+Welcome to Enrique Miranda's homepage  
+About
+Teaching
+Research
+Publications
+Links
+I am an Associate Professor at the Department of Statistics and Operations Research of the University of Oviedo.  Between 
+2003 and 2008, I was an assistant Professor at Rey Juan Carlos University.  
+Contact address: Universidad de Oviedo  
+                             Dpto. de Estadística e I.O. y D.M.  
+                             C/ Calvo Sotelo s/n                              
+                             33007 Oviedo, Asturias
+Office: Campus de Llamaquique: despacho 5-12, edificio de Geología. 
+Phone: (+34) 985102955/985186464
+Fax: (+34) 985103354.     
+e-mail:   mirandaenrique@uniovi.es
+Education:
+• Bs.C. degree in Mathematics by the University of Oviedo (July 1999) 
+• PhD degree in Mathematics by the University of Oviedo (September 2003). 
+PhD Thesis: "Análisis de la información probabilística de los conjuntos aleatorios". Promotors: Inés Couso Blanco and 
+Pedro Gil Álvarez. 
+Courses, 2016/2017:
+1. Procesos Estocásticos (4º Matemáticas).
+2. Statistics (1º del Grado en Ingeniería de Tecnologías Industriales).
+3. Estadística (1º del Grado en Ingeniería en Tecnologías y Servicios de Telecomunicación)
+4. Procesos Estocásticos (Máster en Análisis de Datos para la Inteligencia de Negocios).
+Tutorías, segundo cuatrimestre: 
+Lunes, 12:30-13:30h, Martes, 16-17h, Jueves 9-11h: despacho 5.1.01, E.P. de Ingeniería, Gijón.
+ Martes, 9-11h: despacho 5-12, Facultad de Geología, Oviedo. 
+Research interests:
+My research has focused on different aspects of imprecise probability theory. Imprecise probabilities arise in situations where 
+the existence of imprecise or vague information makes it unadvaisable to work with a precise and unique probability 
+distribution. In those situations, it may be useful (and more reasonable) to consider alternative models, such as sets of 
+probability measures, upper and lower probabilities, Choquet capacities, etc. You can find a nice review on imprecise 
+probabilities at Matthias Troffaes' homepage, and at the wesite of the Society for Imprecise Probability: Theories and 
+Applications (SIPTA).    
+The main idea of my PhD thesis, which I carried out under the guidance of Inés Couso and Pedro Gil, was to compare the 
+different imprecise probability models that we may consider when we regard random sets as imprecise random variables. You 
+can see a summary of my dissertation here. 
+I have also made some research on the behavioral theory of imprecise probabilities. This theory unifies the different imprecise 
+probability models under the concepts of coherent lower and upper previsions, and was developed mainly by Peter Walley, 
+with a strong influence of de Finetti's previous work on coherent previsions. My reserach in this topic has focused on some of 
+the theoretical challenges, and I have done most of it in collaboration with Gert de Cooman and Marco Zaffalon. You can find 
+here a survey of the theory.   
+Publications:
+Page 1 of 6
+Enrique Miranda.
+23/3/2017
+http://bellman.ciencias.uniovi.es/~emiranda/
+
+-----
+BOOKS
+JOURNAL PAPERS
+CONFERENCE PAPERS
+ONGOING
+ACTIVITIES
+1. Books, papers in books:
+1.
+Enrique Miranda, Análisis de la información probabilística de los conjuntos aleatorios. Tesis Doctoral. 
+Servicio de Publicaciones de la Universidad de Oviedo, ISBN: 84-8317-376-X, pp.1—331, 2003. Summary. .
+2. Gert de Cooman and Enrique Miranda, Symmetry of models versus models of symmetry. In: Probability and 
+Inference: Essays in Honour of Henry E. Kyburg, (W. Harper and G. Wheeler, eds.), pages 67--149. 
+College Publications, 2007. Abstract and full paper.
+3.
+Enrique Miranda, Gert de Cooman and Erik Quaeghebeur, The moment problem for finitely additive 
+probabilities. In: Uncertainty and Intelligent Information Systems, (B. Bouchon-Meunier, R. R. Yager, C. 
+Marsala and M. Rifqi, eds.), pages 33--45. World Scientific, 2008. Abstract.
+4. Enrique Miranda, A comparison of conditional coherence concepts for finite spaces. In Foundations of 
+Reasoning under Uncertainty. Studies and Fuzziness and Soft Computing, vol. 249, pages 223-246 (B. 
+Bouchon-Meunier, L. Magdalena, M. Ojeda-Aciedo, J.L. Verdegay, R.R. Yager, eds). Springer, 2010. 
+Abstract.
+5.
+Enrique Miranda and Gert de Cooman, Lower previsions. Chapter 2 in An Introduction to Imprecise 
+Probabilities (T. Augustin, F. Coolen, G. de Cooman, M. Troffaes, eds.), pages 28-55. Wiley, 2014. 
+6. Enrique Miranda and Gert de Cooman, Structural judgements. Chapter 3 in An Introduction to Imprecise 
+Probabilities (T. Augustin, F. Coolen, G. de Cooman, M. Troffaes, eds.), pages 56-78. Wiley, 2014. 
+7. Enrique Miranda, Susana Montes, Susana Díaz. Statistics for Engineers. Exercises with solutions. University of 
+Oviedo, 2016.
+2.  Papers in journals. 
+If you want to browse by topic (note that some papers may appear in more than one category): 
+Random sets
+1,4,5,6,7,22
+Coherent lower previsions
+5,8,10,11,12,13,14,16,17,18,20,23,24,25,27,31, 33, 35, 44
+Non-additive measures 
+1,2,3,4,8,15,29, 38, 39
+Updating
+19,30, 36
+Independence
+2,21,26,28, 40, 42
+Distribution functions
+9,12,32,34, 37, 41
+Stochastic orders
+32, 34, 43
+(The available full papers constitute earlier versions of the published ones).
+1.
+Enrique Miranda, Inés Couso and Pedro Gil,  Relationships between possibility measures and nested random 
+sets. International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems, Vol 10 (1), pp. 1--15, 
+2002. Abstract and full paper.
+2.
+Enrique Miranda and Gert de Cooman,  Epistemic independence in numerical possibility theory.  International 
+Journal of Approximate Reasoning, Vol.32(1), pp. 23--42, 2003. Abstract and full paper.
+3.
+Enrique Miranda, Inés Couso and Pedro Gil, Extreme points of credal sets generated by 2-alternating 
+capacities. International Journal of Approximate Reasoning, Vol 33(1), pp. 95--115, 2003. Abstract and full 
+paper.
+4.
+Enrique Miranda, Inés Couso and Pedro Gil, A random set characterisation of possibility measures. 
+Information Sciences, Vol 168(1--4), pp. 51--75, 2004. Abstract and full paper.
+5. Enrique Miranda, Gert de Cooman and Inés Couso, Lower previsions induced by multi-valued mappings. 
+Journal of Statistical Planning and Inference, Vol 133(1), pp. 173-197, 2005. Abstract and full paper.
+6.
+Enrique Miranda, Inés Couso and Pedro Gil, Random sets as imprecise random variables. Journal of 
+Mathematical Analysis and Applications, Vol 307(1), pp. 32-47, 2005. Abstract and full paper. 
+7. Enrique Miranda, Inés Couso and Pedro Gil, Random intervals as a model for imprecise information. Fuzzy 
+Sets and Systems, Vol 154(3), pp. 386-412, 2005. Abstract and full paper.
+8. Gert de Cooman, Matthias Troffaes and Enrique Miranda. n-monotone lower previsions. Journal of Intelligent 
+and Fuzzy Systems, Vol 16(4) (Special Issue dedicated to the 60th birthday of Etienne E. Kerre), pp. 253-263, 
+2005. Abstract and full paper.
+9.
+Enrique Miranda, Gert de Cooman and Erik Quaeghebeur,  The Hausdorff moment problem under finite 
+additivity. Journal of Theoretical Probability, Vol 20(3), 663-693, 2007. Abstract and full paper.
+10. Enrique Miranda and Gert de Cooman,  Marginal extension in the theory of coherent lower previsions. 
+International Journal of Approximate Reasoning, Vol 46(1), 188-225, 2007. Abstract and full paper.
+11. Gert de Cooman, Matthias Troffaes and Enrique Miranda, A unifying approach to integration for bounded 
+positive charges. Journal of Mathematical Analysis and Applications, 340 (2), 982-999, 2008. Abstract and 
+full paper.
+Page 2 of 6
+Enrique Miranda.
+23/3/2017
+http://bellman.ciencias.uniovi.es/~emiranda/
+
+-----
+12. Enrique Miranda, Gert de Cooman and Erik Quaeghebeur, Finitely additive extensions of distribution functions 
+and moment sequences: the coherent lower prevision approach. International Journal of Approximate 
+Reasoning, 48(1), 132-155, 2008. Abstract, full paper and errata.
+13. Enrique Miranda, A survey of the theory of coherent lower previsions. International Journal of Approximate 
+Reasoning,  48(2), 628-658, 2008. Abstract and full paper.
+14. Gert de Cooman  and Enrique Miranda, Weak and strong laws of large numbers for coherent lower previsions. 
+Journal of Statistical Planning and Inference, 138(8), 2409-2432, 2008. Abstract and full paper.
+15. Gert de Cooman, Matthias Troffaes and Enrique Miranda. n-Monotone exact functionals. Journal of 
+Mathematical Analysis and Applications, 347(1), 143--156, 2008. Abstract and full paper.
+16. Enrique Miranda and Marco Zaffalon. Coherence graphs. Artificial Intelligence, 173(1), 104--144, 2009. 
+Abstract and full paper.
+17. Gert de Cooman and Enrique Miranda, Forward irrelevance. Journal of Statistical Planning and Inference, 
+139(2), 256-276, 2009. Abstract and full paper.
+18. Gert de Cooman, Enrique Miranda and Erik Quaeghebeur,  Representation insensitivity in immediate 
+prediction. International Journal of Approximate Reasoning, 50(2), special issue on the Imprecise Dirichlet 
+Model, 204-216, 2009. Abstract and full paper.
+19. Enrique Miranda, Updating coherent previsions on finite spaces. Fuzzy Sets and Systems, 160(9), 1286-1307, 
+2009. Abstract and full paper.
+20. Marco Zaffalon and Enrique Miranda. Conservative inference rule for uncertain reasoning under 
+incompleteness. Journal of Artificial Intelligence Research, 34, 757-821, 2009. Abstract and full paper.
+21. Gert de Cooman, Erik Quaeghebeur and Enrique Miranda, Exchangeable lower previsions. Bernoulli, 15(3), 
+721-735, 2009. Abstract and full paper.
+22. Enrique Miranda, Inés Couso and Pedro Gil. Approximation of upper and lower probabilities by measurable 
+selections. Information Sciences, 180(8), 1407-1417, 2010. Abstract and full paper. 
+23. Enrique Miranda and Marco Zaffalon, Conditional models: coherence and inference through sequences of 
+joint mass functions. Journal of Statistical Planning and Inference, 140(7), 1805-1833, 2010. Abstract and full 
+paper.
+24. Enrique Miranda and Marco Zaffalon. Notes on desirability and conditional lower previsions. Annals of 
+Mathematics and Artificial Intelligence, 60(3-4), 251-309, 2010. Abstract and full paper.
+25. Alessio Benavoli, Marco Zaffalon and Enrique Miranda, A new robust approach to filtering based on coherent 
+lower previsions. IEEE Transactions on Automatic Control, 56(7), 1567--1581, 2011. Abstract and full paper. 
+26. Gert de Cooman, Enrique Miranda and Marco Zaffalon. Independent natural extension. Artificial Intelligence, 
+175(12-13), 1911--1950, 2011. Abstract and full paper.
+27. Enrique Miranda, Marco Zaffalon and Gert de Cooman. Conglomerable natural extension. International 
+Journal of Approximate Reasoning, 53(8), 1200--1227, 2012. Abstract and full paper.
+28. Gert de Cooman and Enrique Miranda. Irrelevant and independent natural extension for sets of desirable 
+gambles. Journal of Artificial Intelligence Research, 45, 601--640, 2012. Abstract and full paper.
+29. Matthias Troffaes, Enrique Miranda and Sébastien Destercke. On the connection between probability boxes 
+and possibility measures. Information Sciences, 224, 88--108, 2013. Abstract and full paper.
+30. Marco Zaffalon and Enrique Miranda. Probability and time. Artificial Intelligence, 198, 1--51, 2013. Abstract
+and full paper.
+31. Enrique Miranda and Marco Zaffalon. Conglomerable coherence. International Journal of Approximate 
+Reasoning, 54(9), 1322--1350, 2013. Abstract and full paper.
+32. Ignacio Montes, Enrique Miranda and Susana Montes. Stochastic dominance with imprecise information. 
+Computational Statistics and Data Analysis, 71(C), 867-885, 2014. Abstract and full paper.
+33. Gert de Cooman and Enrique Miranda. Lower previsions induced by filter maps. Journal of Mathematical 
+Analysis and Applications, 410(1), 101--116, 2014. Abstract and full paper.
+34. Ignacio Montes, Enrique Miranda and Susana Montes. Decision making with imprecise utilities and beliefs by 
+means of statistical preference and stochastic dominance. European Journal of Operational Research, 234(1), 
+209--220, 2014. Abstract and full paper.
+35. Enrique Miranda, Marco Zaffalon. On the problem of computing the conglomerable natural extension. 
+International Journal of Approximate Reasoning, 56(A), 1--27, 2015. Abstract and full paper.
+36. Enrique Miranda, Ignacio Montes. Coherent updating of non-additive measures. International Journal of 
+Approximate Reasoning(B), 56, 159-177, 2015. Abstract and full paper.
+37.Ignacio Montes, Enrique Miranda, Renato Pelessoni, Paolo Vicig. Sklar's theorem in an imprecise setting. 
+Fuzzy Sets and Systems, 278C, 48-66, 2015. Abstract and full paper.
+38. Enrique Miranda, Matthias Troffaes, Sébastien Destercke. A geometric and game-theoretic study of the 
+conjunction of possibility measures. Information Sciences, 298, 373-389, 2015. Abstract and full paper. 
+39. Enrique Miranda, Sébastien Destercke. Extreme points of the credal sets generated by comparative 
+probabilities. Journal of Mathematical Psychology, 64/65, 44-57, 2015. Abstract and full paper. 
+40. Enrique Miranda, Marco Zaffalon. Independent products in infinite spaces. Journal of Mathematical Analysis 
+and Applications, 425/1, 460-488, 2015. Abstract and full paper. 
+41. Renato Pelessoni, Paolo Vicig, Ignacio Montes, Enrique Miranda. Bivariate p-boxes. International Journal of 
+Uncertainty, Fuzziness and Knowledge-Based Systems, 24/2, 229-263, 2016. Abstract and full paper. 
+42. Enrique Miranda, Marco Zaffalon. Conformity and independence with coherent lower previsions. International 
+Journal of Approximate Reasoning, 78/C, 125-137, 2016. Abstract and full paper. 
+43. Ignacio Montes, Enrique Miranda, Susana Montes. Imprecise stochastic orders and fuzzy rankings. Fuzzy 
+Optimization and Decision Making, to appear. Abstract and full paper. 
+44. Enrique Miranda, Marco Zaffalon. Full conglomerability. Journal of Statistical Theory and Practice, to appear. 
+Abstract and full paper. 
+44. Ignacio Montes, Enrique Miranda. Bivariate p-boxes and maxitive functions. International Journal of General 
+Systems, to appear. Abstract and full paper. 
+3.  Papers in Proceedings of conferences. 
+Page 3 of 6
+Enrique Miranda.
+23/3/2017
+http://bellman.ciencias.uniovi.es/~emiranda/
+
+-----
+1. Enrique Miranda and Gert de Cooman, Independent products of numerical possibility measures.   Proceedings 
+of the 2nd International Symposium on Imprecise Probabilities and Their Applications (ISIPTA'01). Ithaca 
+(New York), June 2001. Abstract. 
+2. Enrique Miranda, Inés Couso and Pedro Gil, On the probabilities dominated by a 2-alternating capacity on a 
+separable metric space. Proceedings of the International Summer School on Aggregation Operators and Their 
+Applications (AGOP'01). Oviedo (Spain), July 2001. Abstract. 
+3. Enrique Miranda, Gert de Cooman and Inés Couso, Imprecise probabilities induced by multi-valued mappings. 
+Proceedings of the Ninth International Symposium on Information Processing and Management of Uncertainty 
+(IPMU'2002). Annecy (France), July 2002. Abstract.  
+4. Enrique Miranda, Inés Couso and Pedro Gil, Upper probabilities and selectors of random sets. Presented at the 
+First International Workshop on Soft Methods in Probability and Statistics (SMPS'02). Warsaw (Poland), 
+September 2002. Included in Soft methods in Probability, Statistics and Data-Analysis (P. Grzegorzewski, O. 
+Hryniewicz, M. A. Gil, eds), pages 126--133. Physica-Verlag, 2002. Abstract.
+5. Enrique Miranda, Inés Couso and Pedro Gil, Relaciones entre medidas de posibi-lidad y capacidades maxitivas. 
+Actas del XI Congreso Español en Tecnologías y Lógica Fuzzy (ESTYLF'2002). León (Spain), September 
+2002. Abstract.  
+6. Enrique Miranda, Estudio de la información probabilística de los intervalos aleatorios. Actas del 27 Congreso 
+Nacional de Estadística e Investigación Operativa (SEIO'2003). Lleida (Spain), April 2003. Abstract.  
+7.
+Enrique Miranda, Inés Couso and Pedro Gil, Study of the probabilistic information of a random set. 
+Proceedings of the Third International Symposium on Imprecise Probabilities and Their Applications 
+(ISIPTA'03). Lugano (Switzerland), July 2003. Abstract. 
+8. Gert de Cooman and Enrique Miranda, A weak law of large numbers for coherent lower previsions. Proceedings of 
+the Tenth International Symposium on Information Processing and Management of Uncertainty (IPMU'2004). Perugia 
+(Italy), July 2004. Abstract.
+9. Inés Couso, Enrique Miranda and Gert de Cooman, A possibilistic interpretation of the expectation of a fuzzy 
+random variable. Presented at the Second International Conference on Soft Methods in Probability and 
+Statistics (SMPS'2004). Oviedo (Spain), September 2004. Included in Soft Methodology and Random 
+Information Systems (M. López Díaz, M. A. Gil, P. Grzegorzewski, O. Hryniewicz, J. Lawry, eds), pages 133--
+140. Springer, 2004. Abstract  and full paper.
+10. Enrique Miranda, Consonant random sets: structure and properties. Presented at the Eighth European 
+Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty (ECSQARU'2005). 
+Barcelona (Spain), July 2005. Included in Lecture Notes in Artificial Intelligence (L. Godó, ed.), Vol. 3571, 
+pages 860--871. Springer, 2005.  Abstract and full paper. 
+11. Gert de Cooman, Matthias Troffaes and Enrique Miranda, n-Monotone lower previsions and lower integrals.
+Proceedings of the Fourth International Symposium on Imprecise Probabilities and Their Applications 
+(ISIPTA'05). Pittsburgh (Pennsylvania), July 2005. Abstract.
+12. Enrique Miranda, Gert de Cooman and Erik Quaeghebeur, The moment problem for finitely additive 
+probabilities. Proceedings of the Eleventh International Symposium on Information Processing and 
+Management of Uncertainty (IPMU'2006). Paris (France), July 2006. Abstract.
+13. Enrique Miranda and Marco Zaffalon, Coherence graphs. Proceedings of the Fifth International Symposium on 
+Imprecise Probabilities and Their Applications (ISIPTA'07). Prague (Czech Republic), July 2007. Abstract.
+14. Gert de Cooman, Enrique Miranda and Erik Quaeghebeur, Immediate prediction with representation 
+insensitivity. Proceedings of the Fifth International Symposium on Imprecise Probabilities and Their 
+Applications (ISIPTA'07). Prague (Czech Republic), July 2007. Abstract.
+15. Gert de Cooman, Erik Quaeghebeur and Enrique Miranda, Representing and assessing exchangeable lower 
+previsions. Proceedings of the 56th Session of the International Statistical Institute. Lisbon (Portugal), August 
+2007. Abstract.
+16. Gert de Cooman and Enrique Miranda, El teorema de representación de Riesz y la extensión de probabilidades 
+finitamente aditivas.  Actas del XXX Congreso Nacional de Estadística e Investigación Operativa. Valladolid 
+(Spain), September 2007. Abstract.
+17. Enrique Miranda, Coherent updating on finite spaces. Proceedings of the  Twelfth  International Symposium 
+on Information Processing and Management of Uncertainty (IPMU'2008). Málaga (Spain), June 2008. 
+Abstract.
+18. Gert de Cooman and Enrique Miranda, The F. Riesz representation theorem and finite additivity.  Proceedings 
+of the Fourth International Conference on Soft Methods in Probability and Statistics. Toulouse (France), 
+September 2008. Abstract.
+19. Enrique Miranda, Matthias Troffaes and Sébastien Destercke, Generalised p-boxes on totally ordered spaces.  
+Proceedings of the Fourth International Conference on Soft Methods in Probability and Statistics. Toulouse 
+(France), September 2008. Abstract.
+20. Enrique Miranda, Inés Couso and Pedro Gil, Upper probabilities attainable by distributions of measurable 
+selections. Presented at the Tenth European Conference on Symbolic and Quantitative Approaches to 
+Reasoning with Uncertainty (ECSQARU'2009). Verona (Italy), July 2009. Included in Lecture Notes in 
+Artificial Intelligence, Vol. 5590 (C. Sossai and G. Chemello, eds.), pages 335-346. Abstract
+21. Alessio Benavoli, Marco Zaffalon and Enrique Miranda, Reliable hidden Markov model filtering thorugh 
+coherent lower previsions. Presented at the 12th International Conference on Information Fusion 
+(FUSION'2009). Seattle (Washington), July 2009. Abstract.
+22. Enrique Miranda and Marco Zaffalon, Natural extension as a limit of regular extensions. Proceedings of the 
+Sixth International Symposium on Imprecise Probabilities and Their Applications (ISIPTA'09). Durham 
+(England), July 2009. Abstract. 
+23. Gert de Cooman, Enrique Miranda and Marco Zaffalon, Independent natural extension. Proceedings of the 
+Thirteenth International Conference on Information Processing and Management of Uncertainty (IPMU'2010). 
+Dortmund (Germany), June 2010. Abstract.  
+24. Gert de Cooman, Enrique Miranda and Marco Zaffalon, Factorisation properties of the strong product. 
+Proceedings of the  Fifth International Conference on Soft Methods in Probability and Statistics (SMPS'2010). 
+Oviedo (Spain), September 2010. Abstract. 
+Page 4 of 6
+Enrique Miranda.
+23/3/2017
+http://bellman.ciencias.uniovi.es/~emiranda/
+
+-----
+25. Matthias Troffaes, Enrique Miranda and Sébastien Destercke, On the connection between probability boxes 
+and possibility measures. Proceedings of the Seventh Conference of the European Society for Fuzzy Logic and 
+Tecnology (EUSFLAT'2011). Aix le Bains (France), July 2011. Abstract
+26. Gert de Cooman and Enrique Miranda. Independent natural extension for sets of desirable gambles. 
+Proceedings of the  Seventh Conference on Imprecise Probability: Theories and Applications (ISIPTA'2011). 
+Innsbruck (Austria), July 2011. Abstract. 
+27. Enrique Miranda, Marco Zaffalon and Gert de Cooman. Conglomerable natural extension. Proceedings of the 
+Seventh Conference on Imprecise Probability: Theories and Applications (ISIPTA'2011). Innsbruck (Austria), 
+July 2011. Abstract.
+28. Ignacio Montes, Enrique Miranda and Susana Díaz. Imprecise preferences by means of probability boxes. 
+Proceedings of the 4th International Conference of the ERCIM Working Group on Computing and Statistics 
+(ERCIM'2011). London (United Kingdom), December 2011. Abstract. 
+29. Gert de Cooman and Enrique Miranda. Lower previsions induced by filter maps. Proceedings of the Fourteenth 
+International Conference on Information Processing and Management of Uncertainty (IPMU'2012). Catania 
+(Italy), July 2012. Abstract.
+30. Enrique Miranda and Marco Zaffalon, Conglomerable coherent lower previsions. Proceedings of the Sixth 
+International Conference on Soft Methods in Probability and Statistics (SMPS'2012). Konstanz (Germany), 
+October 2012. Abstract. 
+31. Enrique Miranda and Alejandro García Huergo, Stochastic dominance with non-additive measures. 5th 
+International Conference of the ERCIM Working Group on Computing and Statistics. (ERCIM'2012). Oviedo 
+(Spain), December 2012. Abstract. 
+32. Ignacio Montes, Enrique Miranda and Susana Montes, Imprecise statistical preferences. 5th International 
+Conference of the ERCIM Working Group on Computing and Statistics. (ERCIM'2012). Oviedo (Spain), 
+December 2012. Abstract. 
+33. Enrique Miranda and Sebastien Destercke, Extreme points of the credal sets generated by elementary 
+comparative probabilities. 12th European Conference on Symbolic and Quantitative Approaches to Reasoning 
+under Uncertainty (ECSQARU'2013). Utrecth (The Netherlands), July 2013. Abstract.
+34. Enrique Miranda and Ignacio Montes, Coherent updating of 2-monotone previsions. 8th International 
+Symposium on Imprecise Probability: Theories and Applications (ISIPTA'2013). Compiègne (France), July 
+2013. Abstract.
+35. Enrique Miranda and Marco Zaffalon, Computing the conglomerable natural extension. 8th International 
+Symposium on Imprecise Probability: Theories and Applications (ISIPTA'2013). Compiègne (France), July 
+2013. Abstract.
+36. Renato Pelessoni, Paolo Vicig, Ignacio Montes and Enrique Miranda, Imprecise copulas and bivariate 
+stochastic orders. Proceedings of the EUROFUSE Workshop on Uncertainty and Imprecision Modelling in 
+Decision Making (EUROFUSE'2013). Oviedo (Spain), December 2013. Abstract. 
+37. Ignacio Montes, Enrique Miranda and Susana Montes, Connecting interval-valued fuzzy sets with imprecise 
+probabilities. Proceedings of the 7th International Conference on Soft Methods in Probability and Statistics 
+(SMPS'2014). Warsaw (Poland), September 2014. Abstract. 
+38. Ignacio Montes, Enrique Miranda and Susana Montes, Stochastic orders for fuzzy random variables. 
+Proceedings of the 7th International Conference on Soft Methods in Probability and Statistics (SMPS'2014). 
+Warsaw (Poland), September 2014. Abstract. 
+39. Ignacio Montes, Enrique Miranda and Susana Montes, Ranking fuzzy sets and fuzzy random variables by means 
+of stochastic orders. Proceedings of IFSA-EUSFLAT 2015. Gijón (Spain), July 2015. Abstract. 
+40. Enrique Miranda and Marco Zaffalon, Conformity and independence for coherent lower previsions. 
+Proceedings of the 9th International Conference on Imprecise Probability: Theories and Applications 
+(ISIPTA'2015). Pescara (Italy), July 2015. Abstract. 
+41. Arthur van Camp, Gert de Cooman, Enrique Miranda and Erik Quaeghebeur, Modelling indifference with 
+choice functions. Proceedings of the 9th International Conference on Imprecise Probability: Theories and 
+Applications (ISIPTA'2015). Pescara (Italy), July 2015. Abstract. 
+42. Ignacio Montes, Enrique Miranda, Bivariate p-boxes and maxitive functions. Proceedings of the 16th 
+International Conference on Information Processing and Management of Uncertainty (IPMU'2016). Eindhoven 
+(The Netherlands), June 2016. Abstract.
+43. Enrique Miranda and Marco Zaffalon, Full conglomerability, continuity and marginal extension. Proceedings 
+of the 8th International Conference on Soft Methods in Probability and Statistics (SMPS'2016). Rome (Italy), 
+September 2016. Abstract.
+44. Arthur van Camp, Enrique Miranda and Gert de Cooman, Lexicographic choice functions without 
+archimedeanicity. Proceedings of the 8th International Conference on Soft Methods in Probability and 
+Statistics (SMPS'2016). Rome (Italy), September 2016. Abstract.
+45. Ignacio Montes, Enrique Miranda, Extreme points of the set of probabilities associated with a possibility 
+measure. Actas del XXXVI Congreso Nacional de Estadística e Investigación Operativa (SEIO'2016). Toledo 
+(Spain), September 2016. Abstract.
+4. Miscelaneous work. Papers under revision, technical reports... 
+Technical reports (downloadable)
+1. Enrique Miranda and Gert de Cooman. Coherence and independence in non-linear spaces. Abstract. 
+Papers under revision
+1. Marco Zaffalon, Enrique Miranda. Desirability and the birth of incomplete preferences. Abstract.
+2. Ignacio Montes, Enrique Miranda. Extreme points of the core of possibility measures and maxitive p-boxes. Abstract.
+3. Arthur van Camp, Gert de Cooman, Enrique Miranda, Erik Quaeghebeur. Coherent choice functions, desirability and 
+indifference. Abstract.
+Page 5 of 6
+Enrique Miranda.
+23/3/2017
+http://bellman.ciencias.uniovi.es/~emiranda/
+
+-----
+Other research work
+�
+Master Thesis: Modelos de Probabilidades Imprecisas para Conjuntos Aleatorios. Supervised by Inés Couso and 
+Pedro Gil. University of Oviedo, July 2001.
+�
+Graduate Thesis: Relaciones entre conjuntos aleatorios consonantes y medidas de posibilidad. Supervised by Inés 
+Couso and Pedro Gil. University of  Oviedo, July 2002.  
+5.  Other research activities. 
+Editorial work
+1.
+Co-editor (with J. Lawry, A. Bugarín, S. Li, M.A. Gil, P. Grzegorzewski, O. Hryniewicz) of the book Soft methods 
+for integrated uncertainty modelling. 414 pages. Springer, 2006. 
+2.
+Co-editor (with H.T. Nguyen) of the special issue on random sets and imprecise probabilities for the International 
+Journal of Approximate Reasoning, 46(1), 1-73, 2007.
+3.
+Co-editor (with T. Augustin and J. Vejnarova) of the special issue on ISIPTA'2007 for the International Journal of 
+Approximate Reasoning, 56(4), 581-694, 2009.
+4.
+Co-editor (with S. Díaz and S. Montes) of the special issue on EUROFUSE'2013 for Fuzzy Sets and Systems, 
+278C, 1--118, 2015.
+5.
+Co-editor (with T. Augustin, S. Doria and E. Quaeghebeur) of the Proceedings of ISIPTA'2015. 359 pages. Aracne, 
+2015.
+6.
+Member of the editorial board of the Journal of Uncertain Systems and the International Journal of Approximate 
+Reasoning. Formerly in the editorial board of the ISRN on Probability and Statistics.  
+Organisation of research activities
+� 2nd SIPTA school on imprecise probabilities. Madrid, July 2006.  
+� Special sessions on imprecise probabilities at SMPS'2006, IPMU'2010, IPMU'2012, ERCIM'2012, IPMU'2014,  
+SMPS'2016.
+�
+Research kitchen en imprecision modelling in decision analysis within the COST IC062 action. Madrid, 
+November 2007.
+�
+EUROFUSE Workshop on Imprecision and Uncertainty in Preference Modelling and Decision Making 
+(EUROFUSE'2013). Oviedo, December 2013.
+� 9th International Conference on Imprecise Probability: Theories and Applications (ISIPTA'2015). Pescara, July 
+2015.
+Some links 
+�
+SIPTA. Homepage of the Society for Imprecise Probabilities and Their Applications, with lots of interesting
+information and links. 
+�
+The Probability Web. Information on journals, conferences, jobs and many other aspects of probability theory.  
+�
+Mathworld. Information and mathematical news. 
+�
+MacTutor. Website dedicated to the history of Mathematics.  
+�
+I have made research stays at the SYSTeMS Group from Ghent University and at the IDSIA institute in Lugano.
+�
+I am a member of the UNIMODE research group at the University of Oviedo. 
+Homepages of some of my co-authors:
+Alessio Benavoli
+Gert de Cooman
+Sébastien Destercke
+Ignacio Montes
+Renato Pelessoni
+Matthias Troffaes
+Erik Quaeghebeur
+Arthur van Camp
+Marco Zaffalon
+...And if you've come this far, you may still be wondering why my name is familiar to you.
+Well, here is the answer, some testimony, and what Wikipedia says...
+Page 6 of 6
+Enrique Miranda.
+23/3/2017
+http://bellman.ciencias.uniovi.es/~emiranda/
+
+-----

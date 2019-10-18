@@ -1,0 +1,54 @@
+Implementation of Full Carbon-Based Three-Dimensional Interconnects 
+Abstract 
+As the scaling of device size is reaching to the fundamental physical limitations, the escalating 
+cost of following Moore’s Law has pivoted the semiconductor industry’s focus to More-than-
+Moore (MtM) technologies. Supported by advanced packaging solutions, high-density 
+heterogeneous integration of analog/mixed-signal, RF, MEMS and image sensing with CMOS in 
+a variety of 2.5D and 3D architectures at system level is expected to be one of the main driving 
+forces for the future growth of electronic products.  
+Carbon nanomaterials, graphene and carbon nanotubes (CNTs) emerge as promising materials 
+for the integration in the next-generation advanced packaging technologies in recent years. The 
+main benefits of carbon nanomaterials lie in their excellent electrical, mechanical and thermal 
+properties: i.e. their low resistivity, high current density, low coefficient of thermal expansion 
+(CTE) and high thermal conductivity. These advantages enable carbon nanomaterials to be a 
+highly attractive candidate as both on-chip and off-chip interconnects in 3D integrations.  
+Most recently, full carbon-based three-dimensional (3D) interconnects through an integration of 
+one-dimensional (1D) carbon nanotubes and two-dimensional (2D) graphene were proposed, 
+expected to have better out-of-plane and in-plane properties than their metal counterparts. In this 
+thesis, we designed and developed the fabrication process flow to implement CNT-graphene 
+heterostructure as filler of through silicon vias (TSVs) for novel 3D interconnects. In this 
+approach, vertical-aligned CNTs replaced the conventional metals in TSVs, while the traditional 
+horizontal metal lines were replaced by graphene. The key challenges include, but are not limited 
+to (1) process development of high density CNT bundles growth within TSVs on the bottom 
+graphene electrodes, (2) transfer process of a top graphene layer onto the as-grown CNT bundles 
+and (3) electrical studies of the contact formed between CNTs and top graphene layer after the 
+assembly process.  
+One of the significant outcomes of this thesis is to successfully demonstrate the growth of CNTs 
+within TSVs on the bottom graphene electrodes. Firstly, the fabrication processes of top wafer 
+with TSVs of various diameters (5-50μm) and bottom wafer with patterned graphene electrodes 
+and catalyst deposition were successfully developed. Next, top TSV wafer and bottom graphene 
+
+-----
+wafer were bonded and manually ground, followed by wet and dry etching to completely remove 
+the handling wafer and buried oxide to expose the underlying TSVs. CNT growth was conducted 
+successfully both within TSVs and free-standing on the graphene layer. However, compared to 
+the free-standing growth with sufficient length (~334μm) and high density estimated as ~1011 
+cm-2, there were few CNTs grown within the via holes. The inhibited growth of CNTs within the 
+unfilled-TSV can possibly be attributed to several process-engineering steps involved e.g. wafer-
+bonding, grinding and wet/dry etching.  
+On the other hand, transfer process of a top graphene layer onto the as-grown CNT bundles was 
+successfully performed with direct graphene-to-CNT contact at the interface. Four-point-probe 
+(4PP) I-V characterization suggests that an ohmic contact was achieved between the graphene 
+and CNTs. Low CNT bump resistance of 2.1Ω for 90,000 µm2 CNT area including the 
+CNT/graphene contact resistance was obtained, demonstrating reduction of contact resistance 
+between CNT and Au under the same fabrication and measurement conditions. This part of the 
+thesis presents the preliminary results for the assembly process of top-transferred graphene on 
+CNTs and the electrical property of direct CNT/graphene contact, paving the way for the 
+implementation of full carbon-based 3D interconnects. 
+For the future work, further modification and optimization of the process steps need to be done 
+in order to attain higher CNT fillings within the TSVs on the bottom graphene electrodes. 
+Moreover, fusion of the graphene and CNTs with carbon covalent bonds needs to be explored in 
+order to further decrease the contact resistance and enhance the reliability of the carbon-based 
+3D interconnects. 
+
+-----

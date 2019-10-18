@@ -1,0 +1,108 @@
+Abstract 
+Broadband supercontinuum (SC) generation is of great scientific and technical interest, and 
+emerged as one of the best broadband light sources in a range of applications including 
+optical communication, precision spectroscopy, optical coherence tomography (OCT), optical 
+frequency metrology, hyperspectral imaging, light detection and ranging (LIDAR) and, 
+chemical and remote sensing. Hence the broadband SC generation is of strong motivation. 
+     Supercontinuum (SC), is a process of generating broadband optical spectrum by launching 
+optical pulses into a nonlinear medium, continuous interaction of laser pulses with nonlinear 
+optical medium leads to the emission of a wider optical spectrum with a bandwidth many 
+times greater than the bandwidth of the launched pulses. The key nonlinear physical 
+phenomena involved in this processes are stimulated Raman scattering (SRS), modulation 
+instability (MI), cross-phase modulation (XPM), self-phase modulation (SPM), four-wave 
+mixing (FWM) and soliton related dynamics. The SC generation compromises of two parts: a 
+seed laser and a nonlinear medium. The seed laser can generate femtosecond (short) pulses, 
+picosecond or nanosecond (long) pulses or even continuous-wave (CW) laser. The nonlinear 
+media such as normal single-mode-fiber (SMF) or specialty fibers such as highly nonlinear 
+fiber (HNLF), highly nonlinear photonic crystal fiber (PCF), tapered fibers and soft-glass fibers 
+like ZBLAN (ZrF4-BaF2-LaF3-AlF3-NaF). In this project, the carbon-nanotube (CNT) based 
+saturable absorber (SA) is used for the realization of passively mode-locked femtosecond 
+erbium-doped fiber laser (EDFL) as a seed to the specialty fibers, to generate the broadband 
+SC generation and also to study the different aspects of spectral broadening phenomena 
+inside each specialty fiber. Therefore, this thesis focuses on the generation of CNT-SA-based 
+passively mode-locked femtosecond EDFL and generation of broadband SC spectrum from 
+specialty fiber. 
+
+-----
+     The CNT-SA based passively mode-locked EDFL has achieved a pulse width of 620 fs with a 
+pulse repetition rate of 18 MHz at a centre wavelength of 1565 nm with a 3-dB bandwidth of 
+5 nm. The mode-locked 10 % output pulse peak and average power are observed as 0.21 mW 
+and 18.5 W respectively at the stable mode-locked condition. Throughout this project, the 
+CNT-SA based passively mode-locked femtosecond EDFL is used as seed laser to broadband 
+SC spectrum from all the all specialty fibers.  For efficient activation of nonlinear phenomena 
+inside each specialty fiber and, also to study the variation of spectral broadening with respect 
+to the variation in input pulse power, the pulse power is further boosted through the 
+amplification using a pulsed erbium-doped fiber amplifier (EDFA).  
+     The spectral broadening inside a 60-meter-long PCF with respect to the variation in input 
+pulse power is observed. The input power to the PCF is varied from 0 dBm to 20 dBm and 
+achieved a maximum SC spectrum bandwidth of 1050 nm from the output of PCF spanning 
+from 1080 nm to 2130 nm.  In the next step, the spectral broadening inside the HNLF is studied 
+with respect to the variation in input pulse power from 0 dBm to 20 dBm and obtained a 
+maximum SC spectrum bandwidth of 1400 nm covering from 1100 nm to 2500 nm. In addition 
+to input pulse power variation, here the length of HNLF is also varied and studied the effect 
+of the length variation on spectral broadening and SC spectrum bandwidth.  
+     In order to overcome the limitations of silica-based fibers and to extend the SC spectrum 
+further towards mid-infrared (mid-IR) side, soft-glass ZBLAN fiber is considered. The input 
+pulse power to a 25-meter-long ZBLAN fiber is varied from 0 dBm to 25 dBm. A maximum SC 
+bandwidth of 2000 nm spectrum extending from 1100 nm to 3100 nm is observed from the 
+output of ZBLAN fiber. The SC spectrum variation in the new kind of fiber i.e. in the tapered 
+fibers is studied by applying to taper to the HNLF. 
+
+-----
+Publications List 
+Journal Publications 
+1. Sivasankara Rao Yemineni, W. J. Lai, A. Alphones and P. Shum “Mid-IR 
+supercontinuum generation in a single-mode ZBLAN fiber by erbium-doped fiber 
+laser” [Accepted with minor revisions, Journal of Optical Engineering]. 
+2. Sivasankara Rao Yemineni, W. J. Lai, A. Alphones, P. Shum and Betty Meng Zhang, 
+“Broadband supercontinuum generation in PCF, HNLF and ZBLAN fiber with a carbon-
+nanotube-based passively mode-locked erbium-doped fiber laser,” [Under review, 
+JOSA-B]. 
+3. Sivasankara Rao Yemineni, W. J. Lai, A. Alphones and P. Shum, “Broadband 
+supercontinuum generation in sub-meter length of HNLF with a carbon-nanotube 
+based passively mode-locked femtosecond fiber laser,” [ Under revisions]. 
+4. Sivasankara Rao Yemineni, W. J. Lai, A. Alphones and P. Shum, “Tapered fibers for flat 
+and broad supercontinuum generation”, [Under preparation] 
+Conference Publications 
+5. Sivasankara Rao Yemineni, W. J. Lai, A. Alphones, and P. Shum, "Mid-IR 
+supercontinuum generation in a single-mode ZBLAN fiber pumped by a carbon-
+nanotube-based passively mode-locked erbium-doped femtosecond fiber laser ", 
+Proc. SPIE 10516, Nonlinear Frequency Generation and Conversion: Materials and 
+Devices XVII, 105160N (15 February 2018); doi: 10.1117/12.2285315. 
+6. Sivasankara Rao Yemineni, W. J. Lai, A. Alphones, and P. Shum, "Flat broadband 
+supercontinuum generation in a short length of highly nonlinear fiber pumped by a 
+femtosecond carbon-nanotube based passively mode-locked erbium-doped fiber 
+laser", Proc. SPIE 10516, Nonlinear Frequency Generation and Conversion: Materials 
+and Devices XVII, 105160A (15 February 2018); doi: 10.1117/12.2283385. 
+7. Sivasankara Rao Yemineni, W. J. Lai, A. Arokiaswami and P. Shum, "Broadband 
+supercontinuum generation in photonics crystal fiber pumped by femtosecond 
+carbon-nanotube-based passively mode-locked erbium-doped fiber laser," 2017 
+Progress in Electromagnetics Research Symposium - Fall (PIERS - FALL), Singapore, 
+2017, pp. 2993-2995.doi: 10.1109/PIERS-FALL.2017.8293647. 
+
+-----
+8. Sivasankara Rao Yemineni, A. Alphones and P. Shum, "Broadband supercontinuum 
+generation in highly nonlinear fiber with carbon-nanotube-based passively mode-
+locked erbium-doped fiber laser," 2017 IEEE Photonics Conference (IPC), Orlando, FL, 
+2017, pp.263-264. doi: 10.1109/IPCon.2017.8116097. 
+9. Sivasankara Rao Yemineni, A. Alphones and P. Shum, "All-fiber femtosecond laser 
+pulse generation at 1.55 μm and 2 μm using a common carbon-nanotube based 
+saturable absorber," 2017 Conference on Lasers and Electro-Optics Pacific Rim (CLEO-
+PR), Singapore, 2017, pp. 1-2.  
+10. Sivasankara Rao Yemineni, H. H. Liu and K. K. Chow, "Carbon-nanotube-based 
+passively mode-locked erbium-doped fiber laser for broadband supercontinuum 
+generation," 2015 10th International Conference on Information, Communications 
+and 
+Signal 
+Processing 
+(ICICS), 
+Singapore,2015, 
+pp.1-4.doi: 
+10.1109/ICICS.2015.7459877. 
+11. Sivasankara Rao Yemineni, W. J. Lai, A. Alphones and P. Shum, “Tapered fibers for flat 
+and broad supercontinuum generation”, 2017 IEEE Photonics Conference (IPC), 
+Orlando, Florida, USA-2017 [Non-Archived poster presentation]. 
+ 
+ 
+
+-----

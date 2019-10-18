@@ -1,0 +1,53 @@
+ 
+ 
+ABSTRACT 
+This PhD thesis pertains to the investigation, design, and realization of CMOS-based 
+GHz digital-to-analog converters (DACs).   The GHz DAC is one of the critical circuit blocks 
+in high-speed data communication systems including the emerging cognitive ultra-wideband 
+radio, millimeter wave transmitter, unmanned aerial vehicle real-time surveillance system, 
+etc. 
+Reported state-of-the-art DACs relies heavily on complex digital approaches for 
+improved linearity and/or time-interleaving.  However, these DACs undesirably have 
+inherent drawbacks such as a high digital switching noise, long (time) latency, and complex 
+GHz synchronization.  In view of these, high-speed DACs with innate accuracy (without 
+complex digital blocks and digital calibrations) are particularly attractive for some 
+applications that require short latency, less hardware overheads, and wider bandwidth analog 
+output.  Put simply, the design of the DAC with innate accuracy is extremely difficult as it 
+usually involves numerous fine-tuning due to sophisticated design tradeoffs and the degraded 
+transistor performance at GHz.    Further, it is extremely challenging to test the GHz DAC 
+largely because of the difficulty associated with the generation of high-speed digital input 
+patterns.    
+To resolve the aforesaid DAC design challenges, we investigate, on the basis of 
+fundamental analytical derivations and comprehensive computer simulations, the 
+relationships between the critical linearity parameters (e.g., integral nonlinearity (INL), 
+spurious-free dynamic range (SFDR), etc.) and the design parameters (e.g., output 
+impedance, transistor sizes, etc.).  We subsequently propose a design technique that provides 
+accurate estimation of available design headroom for critical parameters and hence reduces 
+design iterations and effort.  Further, we propose a novel technique to ease the aforesaid 
+design tradeoffs, leading to the optimized DAC designs with innate accuracy.  To facilitate 
+the high-speed DAC testing, we also propose a custom built-in digital pattern generator 
+(DPG) that capable of generating periodic pattern up to 10GBaud/s for each DAC bit.   
+On the basis of the abovementioned design techniques, in this thesis, we present two 
+GHz DAC designs.   The first DAC design is a 10GS/s 4-bit current-steering DAC (CS-DAC) 
+realized in 65nm CMOS featuring 0.16LSB INL, 0.12LSB DNL, and >23dBc SFDR (up to 
+4.53GHz) with 30mW power dissipation.  These high linearity and wide bandwidth attributes 
+are achieved primarily by means of our proposed optimization technique based on the 
+comprehensive analysis of the relationship between INL and the current-source output 
+impedance.   We propose a high-speed deglitcher circuit herein to further improve the 
+linearity by lowering the DAC output glitch energy.  To assist the 10GS/s DAC speed, a 
+custom built-in digital pattern generator (DPG) is designed to enable the generation up to 
+4×10GBaud/s periodic patterns. 
+The second DAC design is a 2.4GS/s 8-bit CS-DAC realized in 65nm CMOS 
+featuring ±0.097LSB INL, 0.05/-0.15LSB DNL, and >47.8dBc SFDR (up to 1.13GHz) with 
+26.4mW power dissipation.  The high linearity attribute is achieved without complex 
+calibration/dynamic-element-matching.  In this DAC design, we propose a novel distributed 
+biasing scheme.  This scheme offers two attractive attributes.   First, it innately eases a couple 
+of critical design tradeoffs, hence leading the simultaneous high linearity and wide 
+bandwidth.  Second, it allows efficient compensation of the gradient errors without excessive 
+overheads.  To facilitate the DAC tests, the similar DPG design for the first DAC design is 
+adopted to generate 8×2.4GBaud/s periodic data patterns.  
+In summary, our two DAC designs offer competitive/better performance compared to 
+state-of-the-art designs, and our proposed design techniques can be applied to various high-
+speed DAC designs.   
+
+-----

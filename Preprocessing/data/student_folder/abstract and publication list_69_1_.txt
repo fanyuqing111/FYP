@@ -1,0 +1,79 @@
+Abstract 
+Frequency response of critical electrical system is an important measurement to visualize the 
+characteristic of electrical system for condition monitoring purpose. An off-line frequency 
+response analysis method is commonly adopted as a diagnostic technique for transformer’s 
+winding deformation and displacement detection. Defects of a transformer can be detected by 
+comparing the impedance frequency response of each phase of the winding of the 
+transformer-under-monitored with respect to the measured impedance frequency response of 
+the same winding of the same transformer during the factory test. Due to off-line nature of 
+frequency response analysis, it does not allow real-time condition monitoring of a 
+transformer under its powered up operating condition. Several methods have been proposed 
+for on-line frequency response analysis but the additional circuitries for injecting and 
+receiving signals require some forms of electrical contacts to the high-voltage transformer, 
+which can pose safety hazards to personnel who installs the instrument on-site. Also, 
+additional circuitry to establish the electrical contact has an effect on the frequency response 
+of the transformer, which can affect the diagnosis accuracy. In this thesis, an on-line 
+frequency response extraction technique which is based on fully two-probe inductive 
+coupling approach is introduced and explored. As opposed to capacitive coupling method, no 
+direct electrical contact with the transformer to be monitored is needed and it eliminates the 
+safety hazards concern. Also, the implementation is relatively easy and does not need to cut-
+off the power supply to the transformer. Proposed method is demonstrated experimentally for 
+on-line condition monitoring of a transformer and an induction motor for early detection of 
+winding defects. 
+ 
+
+-----
+ 
+Publication List 
+Journal Papers 
+1. Sooriya Bandara Rathnayaka, See Kye Yak and Li Kangrong, “On-line impedance 
+monitoring of transformer based on inductive coupling approach”, IEEE Trans. 
+Dielectr. 
+Electr. 
+Insul., 
+vol. 
+24, 
+no. 
+2, 
+pp. 
+1273–1279, 
+2017, 
+DOI: 
+10.1109/TDEI.2017.006111. 
+2. Sooriya Bandara Rathnayaka, See Kye Yak and Li Kangrong, “Inductively coupled 
+on-line impedance measurement for condition monitoring of electrical equipment”, 
+IET Science, Measurement & Technology, 2017 (accepted with major revision). 
+3. Sooriya Bandara Rathnayaka, See Kye Yak, Manish Prajapati, Fei Fan, Kangrong 
+Li, Nishshanka Bandara Narampanawe and Chua Eng Kee, “Non-Intrusive 
+Inductively Coupled Method for Winding Defects Detection of 3-Phase Induction 
+Motor”, IEEE Trans. Ind. Electron., 2017 (under review). 
+4. Li Kangrong, See Kye Yak, and Sooriya Bandara Rathnayaka, “Impact analysis of 
+conducted emission measurement without LISN”, IEEE Trans. Electromagn. 
+Compat., vol. 58, no. 3, pp. 776–783, 2016, DOI: 10.1109/TEMC.2016.2533539. 
+Conference Papers 
+5. Sooriya Bandara Rathnayaka and See Kye Yak, “Early detection of induction 
+motor’s defects using an inductively coupled impedance extraction method”, IEEE 
+International Electric Machines and Drives Conference (IEMDC) USA, 2017, pp. 1-6, 
+DOI: 10.1109/IEMDC.2017.8002000. 
+
+-----
+6. See Kye Yak and Sooriya Bandara Rathnayaka, “Early detection of inter-turn stator 
+winding short of an induction motor using an online frequency response method”, in 
+First World Congress on Condition Monitoring (WCCM) UK, 2017 (presented). 
+7. Sooriya Bandara Rathnayaka, See Kye Yak, Manish Prajapati, Kangrong Li, 
+Nishshanka Bandara Narampanawe and Fei Fan “Inductive Coupling Method for On-
+line Frequency Response Analysis (FRA) for Transformer Winding Diagnostic”, 
+IEEE premier international technical conference of IEEE Region 10 (TENCON) 
+Malaysia, 2017 (presented). 
+8. Sooriya Bandara Rathnayaka, See Kye Yak, Manish Prajapati, Kangrong Li and 
+Nishshanka Bandara Narampanawe “Influence of Temperature on Transformer's 
+Winding Defect Analysis Using Inductive Probes”, Progress in Electromagnetics 
+Research Symposium   (PIERS) Singapore, 2017 (accepted). 
+9. Nishshanka Bandara Narampanawe, See Kye Yak, Sooriya Bandara Rathnayaka, 
+Jie Zhang, Kangrong Li, Eng Kee Chua and Wei Peng Goh “An Empirical 
+Characterization of a Flexible Current Probe for In-Circuit Impedance Measurement”, 
+Progress in Electromagnetics Research Symposium (PIERS) Singapore, 2017 
+(accepted). 
+ 
+
+-----

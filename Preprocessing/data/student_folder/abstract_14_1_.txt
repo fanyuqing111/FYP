@@ -1,0 +1,37 @@
+This thesis focuses on Boron Nitride (BN) and Carbon Nitride (CN) thin film nanostructuring. Inspired 
+from its carbon counterpart, BN and CN nanocrystal orientation can be tailored in order to align 
+themselves in the vertical direction. This material “texturing” at the nanoscale opens new interesting 
+properties in materials and the synthesis and properties of textured BN and CN is studied in this work. 
+Firstly, a new growth method based on High Power Impulse Magnetron Sputtering (HiPIMS) was 
+created in order to growth BN thin films: A Lanthanum Hexaboride (LaB6) target was reactively 
+sputtered in argon and nitrogen gas. Under specific growth conditions, dependant on temperature 
+and sputtering power density, h-BN nanocrystals with the basal planes aligned in the vertical direction 
+were obtained. The growth mechanism involving the change in alignment to produce vertically 
+ordered BN (voBN) was studied and attributed to the compressive stress applied on the film during 
+growth, where the maximum amount of stress would produce the best alignment. This novel 
+crystalline structure displayed an improvement in thermal conductivity (TC) in the through plane 
+direction by a factor 3 (at 5.1 W.m-1.K-1) compared to a randomly aligned BN film (1.7 W.m-1.K-1), and 
+it was attributed to the vertical texturing, which facilitates the phonon transport in the through film 
+direction. 
+In order to verify the assumption that the phonons move preferentially along the basal planes in the 
+vertical direction, additional thermal characterization was performed using 3 omega, ascertaining an 
+anisotropy in thermal transport with an in plane TC of 0.26 W.m-1.K-1, while the through plane TC was 
+found to be 16 times greater at 4.26 W.m-1.K-1. Molecular Dynamics (MD) simulations was used to 
+successfully re-enact the TC anisotropy observed experimentally, attributing the difference to the 
+many interfaces between crystalline and amorphous regions and the preferential phonon propagation 
+along the vertically ordered crystalline basal planes. COMSOL Multiphysics simulations were used to 
+quantify the performance of voBN at preventing heat cross talk, allowing an increase by a factor 4 in 
+hot spot density compared to SiO2, without inducing any temperature increase. 
+
+-----
+Finally, a similar nanostructuring tuning was accomplished with CN, using reactive HiPIMS of a carbon 
+target in argon and nitrogen atmosphere. The phonon response depending on the film structure was 
+studied using Transient Grating Spectroscopy (TGS) to locally excite the material and study its thermal 
+response. Pure carbon films, together with CN films where produced with amorphous and vertically 
+ordered structure in order to compare their phonon response. Vertically ordered CN (voCN) exhibited 
+and enhanced through plane TC compared to a-CN with a greater value by a factor 10 (1.5 W.m-1.K-1). 
+This increase in TC can be linked to both the increased graphitic structure of the films, which facilitates 
+the phonon transport as well as the vertical ordering of the planes helping to focus the phonon 
+propagation in the through plane direction. 
+
+-----

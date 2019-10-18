@@ -1,0 +1,122 @@
+ 
+1 
+Chang-Tsun Li 
+Professor, EU Marie Curie Fellow, Fellow of the British Computer Society 
+(FBCS)  
+CONTACT 
+Computer Science  
+Room CS228  
+Department of Computer Science  
+University of Warwick  
+Coventry  CV4 7AL 
+Tel: 024 7657 3794  
+Email: C-T.Li@warwick.ac.uk 
+Background 
+Chang-Tsun Li received the B.E. degree in electrical engineering from Chung-
+Cheng Institute of Technology (CCIT), National Defense University, Taiwan, 
+in 1987, the M.S. degree in computer science from U.S. Naval Postgraduate 
+School, USA, in 1992, and the Ph.D. degree in computer science from the 
+University of Warwick, UK, in 1998. He was an associate professor of the 
+Department of Electrical Engineering at CCIT during 1998-2002 and a visiting 
+professor of the Department of Computer Science at U.S. Naval 
+Postgraduate School in the second half of 2001. He is currently a professor of 
+the Department of Computer Science at the University of Warwick, UK. He 
+was Editor-in-Chief of the International Journal of Digital Crime and Forensics 
+(2009 ? 2013) and is currently Associate Editor of the EURASIP Journal of 
+Image and Video Processing (JIVP), Associate Editor-in-Chief of International 
+Journal of Biometrics and Bioinformatics (IJBB) and Associate of Editor of 
+Human-centric Computing and Information Sciences (HCIS). He has involved 
+in the organization of a number of international conferences and workshops 
+and also served as member of the international program committees for 
+several international conferences. He is also the coordinator of the 
+international joint project entitled Digital Image and Video Forensics funded 
+through the Marie Curie Industry-Academia Partnerships and Pathways 
+(IAPP) under the EU's Seventh Framework Programme (FP7) from June 
+2010 to May 2014. His research interests include digital forensics, biometrics, 
+multimedia security, bioinformatics, computer vision, image processing, 
+pattern recognition, evolutionary computation, machine learning and content-
+based image retrieval.  
+ 
+Citation Index: 1480 
+Publication List (with citations from Google scholar) [CITATION]  
+ 
+Trademark image retrieval using synthetic features for describing global 
+shape and interior structure 
+CH Wei, Y Li, WY Chau, CT Li - Pattern Recognition, 2009 - Elsevier 
+A trademark image retrieval (TIR) system is proposed in this work to deal with the vast  
+number of trademark images in the trademark registration system. The proposed approach  
+commences with the extraction of edges using the Canny edge detector, performs a shape ... 
+Cited by 114   
+Source camera identification using enhanced sensor pattern noise 
+CT Li - Information Forensics and Security, IEEE Transactions …, 2010 - ieeexplore.ieee.org 
+Abstract—Sensor pattern noises (SPNs), extracted from digital images to serve as the  
+fingerprints of imaging devices, have been proved as an effective way for digital device  
+identification. However, as we demonstrate in this work, the limitation of the current ... 
+Cited by 112   
+
+-----
+ 
+2 
+ 
+A class of discrete multiresolution random fields and its application to 
+image segmentation 
+R Wilson, CT Li - Pattern Analysis and Machine Intelligence, …, 2003 - ieeexplore.ieee.org 
+Abstract—In this paper, a class of Random Field model, defined on a multiresolution array is  
+used in the segmentation of gray level and textured images. The novel feature of one form of  
+the model is that it is able to segment images containing unknown numbers of regions, ... 
+Cited by 88   
+Semi-fragile watermarking scheme for authentication of JPEG images 
+CK Ho, CT Li - … and Computing, 2004. Proceedings. ITCC 2004. …, 2004 - 
+ieeexplore.ieee.org 
+Abstract With the increasing popularity of JPEG images, a need arises to devise effective  
+watermarking techniques which consider JPEG compression as an acceptable  
+manipulation. In this paper, we present a semi-fragile watermarking scheme which ... 
+Cited by 80   
+Image authentication and integrity verification via content-based 
+watermarks and a public key cryptosystem 
+CT Li, DC Lou, TH Chen - Image Processing, 2000. …, 2000 - ieeexplore.ieee.org 
+ABSTRACT A technique using the inherent feature map of the underlying image as the  
+watermark is proposed in this work. First, the binary feature map is extracted as watermark  
+and partitioned into blocks. Secondly, neighboring feature map block are blended and ... 
+Cited by 58   
+Oblivious fragile watermarking scheme for image authentication 
+CT Li, FM Yang, CS Lee - Acoustics, Speech, and Signal …, 2002 - ieeexplore.ieee.org 
+ABSTRACT An efficient. fragile watermarking scheme intended for image authentication and  
+integrity verification is proposed in this work. To watermark the underlying image, the gray  
+scale of each pixel is adjusted by an imperceptible quantity according to the consistency ... 
+Cited by 45   
+A contrast-sensitive reversible visible image watermarking technique 
+Y Yang, X Sun, H Yang, CT Li… - Circuits and Systems for …, 2009 - ieeexplore.ieee.org 
+Abstract—A reversible (also called lossless, distortion-free, or invertible) visible  
+watermarking scheme is proposed to satisfy the applications, in which the visible watermark  
+is expected to combat copyright piracy but can be removed to losslessly recover the ... 
+Cited by 57   
+ 
+Wavelet-based fragile watermarking scheme for image authentication 
+CT Li, H Si - Journal of Electronic Imaging, 2007 - electronicimaging.spiedigitallibrary. … 
+Abstract. We propose a fragile watermarking scheme in the wavelet transform domain that is  
+sensitive to all kinds of manipulations and has the ability to localize the tampered regions.  
+To achieve high transparency (ie, low embedding distortion) while providing protection to ... 
+Cited by 43   
+ 
+One-dimensional neighborhood forming strategy for fragile 
+watermarking 
+CT Li, FM Yang - Journal of Electronic Imaging, 2003 - electronicimaging.spiedigitallibrary. … 
+Abstract. It is recognized that block-wise dependence is a key requirement for fragile  
+watermarking schemes to thwart vector quantization attack. It has also been proved that  
+dependence with deterministic or limited context is susceptible to transplantation attack or ... 
+Cited by 38   
+A content-based approach to medical image database retrieval 
+CH Wei, CT Li, R Wilson - Database Modeling for Industrial Data …, 2005 - 
+books.google.com 
+
+-----
+ 
+3 
+Abstract Content-based image retrieval (CBIR) makes use of image features, such as color  
+and texture, to index images with minimal human intervention. Content-based image  
+retrieval can be used to locate medical images in large databases. This chapter ... 
+Cited by 32   
+ 
+
+-----

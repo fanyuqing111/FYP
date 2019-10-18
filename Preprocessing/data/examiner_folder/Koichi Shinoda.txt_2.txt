@@ -1,0 +1,305 @@
+ The Scopus Author Identifier assigns a unique number to groups of documents written by the same author via an algorithm that matches authorship based on a certain criteria. If a document canno
+confidently matched with an author identifier, it is grouped separately. In this case, you may see more than 1 entry for the same author. 
+Search
+Sources
+Alerts
+Lists
+Help
+SciVal ↗
+Author details
+Shinoda, Koichi 
+Tokyo Institute of Technology, Tokyo, Japan 
+Author ID: 7102950364
+Other name formats: Shinoda, Kouichi
+About Scopus Author Identifier | View potential author matches 
+Documents:
+Analyze author output
+Citations:
+View citation overview
+h-index: 
+View h-graph
+Co-authors:
+Subject area:
+View docum
+View docum
+View docum
+Follow this Author
+Receive emails when this author 
+publishes new articles
+Get citation alerts 
+Add to ORCID
+Request author detail corrections
+Author History 
+Publication range: 1991 - Present 
+References: 1312
+Source history:
+13th Annual Conference of the International Speech 
+Communication Association 2012, INTERSPEECH 2012 
+Acoustical Science and Technology
+CEUR Workshop Proceedings
+View More 
+Show Related Affiliations
+Back to results |
+1 of 9 Next >
+Print |
+E-mail 
+109 
+818 total citations by 695 documents 
+13 
+94
+Computer Science ,  Engineering View More
+109 documents
+Export all |
+Add all to list
+|
+Set document alert |
+Set document feed 
+109 Documents | Cited by 695 documents | 94 co-authors
+View all in search results format 
+Sort on: Date Cited by
+...
+Graph regularized implicit pose for 3D human action 
+recognition
+Kerola, T., Inoue, N., 
+Shinoda, K. 
+2017 2016 Asia-Pacific Signal 
+and Information 
+Processing Association 
+Annual Summit and 
+Conference, APSIPA 
+2016 
+View at Publisher
+Cross-view human action recognition from depth maps 
+using spectral graph sequences
+Kerola, T., Inoue, N., 
+Shinoda, K. 
+2017 Computer Vision and 
+Image Understanding 
+View at Publisher
+Boredom recognition based on users’ spontaneous 
+behaviors in multiparty human-robot interactions
+Shibasaki, Y., 
+Funakoshi, K., 
+Shinoda, K. 
+2017 Lecture Notes in 
+Computer Science 
+(including subseries 
+Lecture Notes in 
+Artificial Intelligence and 
+Lecture Notes in 
+Bioinformatics) 
+View at Publisher
+Wise teachers train better DNN acoustic models
+Price, R., Iso, K.-I., 
+Shinoda, K. 
+2016 Eurasip Journal on 
+Audio, Speech, and 
+Music Processing 
+Open Access
+View at Publisher
+Adaptation of word vectors using tree structure for visual 
+semantics
+Inoue, N., Shinoda, K. 
+2016 MM 2016 - Proceedings 
+of the 2016 ACM 
+Multimedia Conference 
+View at Publisher
+Robust discriminative training against data insufficiency 
+in PLDA-based speaker verification
+Rohdin, J., Biswas, S., 
+Shinoda, K. 
+2016 Computer Speech and 
+Language 
+View at Publisher
+Fast Coding of Feature Vectors Using Neighbor-to-
+Neighbor Search
+Inoue, N., Shinoda, K. 
+2016 IEEE Transactions on 
+Pattern Analysis and 
+Machine Intelligence 
+View at Publisher
+New Materials for Spoofing Touch-Based Fingerprint 
+Scanners
+Spurný, J., Doležel, M., 
+Kanich, O., 
+Drahanskyˇ, M., 
+Shinoda, K. 
+2016 Proceedings - 2015 
+International Conference 
+on Computer Application 
+Technologies, CCATS 
+2015 
+View at Publisher
+0
+1
+0
+3
+0
+0
+2
+0
+Years
+Documents
+Citations
+2007
+2017
+0
+16
+Register
+Login
+Page 1 of 3
+Scopus - Author details (Shinoda, Koichi)
+8/25/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7102950364
+
+-----
+The data displayed above is compiled exclusively from articles published in the Scopus database. To request corrections to any inaccuracies or provide any further feedback, please contact us (registration required). 
+The data displayed above is subject to the privacy conditions contained in the privacy policy . 
+Top of page 
+Display: 
+results per page
+Page 1
+Semantic indexing for large-scale video retrieval
+Inoue, N., Shinoda, K. 
+2016 ITE Transactions on 
+Media Technology and 
+Applications 
+View at Publisher
+Recurrent out-of-vocabularyword detection using 
+distribution of features
+Asami, T., Masumura, 
+R., Aono, Y., Shinoda, 
+K. 
+2016 Proceedings of the 
+Annual Conference of 
+the International Speech 
+Communication 
+Association, 
+INTERSPEECH 
+View at Publisher
+TokyoTech at MediaEval 2016 Multimodal Person 
+Discovery in Broadcast TV task
+Nishi, F., Inoue, N., 
+Iwano, K., Shinoda, K. 
+2016 CEUR Workshop 
+Proceedings 
+Error correction using long context match for smartphone 
+speech recognition
+Liang, Y., Iwano, K., 
+Shinoda, K. 
+2015 IEICE Transactions on 
+Information and 
+Systems 
+View at Publisher
+Vocabulary expansion using word vectorsfor video 
+semantic indexing
+Inoue, N., Shinoda, K. 
+2015 MM 2015 - Proceedings 
+of the 2015 ACM 
+Multimedia Conference 
+View at Publisher
+Autonomous selection of i-vectors for PLDA modelling in 
+speaker verification
+Biswas, S., Rohdin, J., 
+Shinoda, K. 
+2015 Speech Communication 
+View at Publisher
+Combining audio features and visual I-vector @ 
+MediaEval 2015 multimodal person discovery in 
+broadcast TV
+Nishi, F., Inoue, N., 
+Shinoda, K. 
+2015 CEUR Workshop 
+Proceedings 
+Spectral graph skeletons for 3D action recognition
+Kerola, T., Inoue, N., 
+Shinoda, K. 
+2015 Lecture Notes in 
+Computer Science 
+(including subseries 
+Lecture Notes in 
+Artificial Intelligence and 
+Lecture Notes in 
+Bioinformatics) 
+View at Publisher
+Speaker adaptation of deep neural networks using a 
+hierarchy of output layers
+Price, R., Iso, K.-I., 
+Shinoda, K. 
+2014 2014 IEEE Workshop on 
+Spoken Language 
+Technology, SLT 2014 - 
+Proceedings 
+View at Publisher
+An efficient error correction interface for speech 
+recognition on mobile touchscreen devices
+Liang, Y., Iwano, K., 
+Shinoda, K. 
+2014 2014 IEEE Workshop on 
+Spoken Language 
+Technology, SLT 2014 - 
+Proceedings 
+View at Publisher
+Event detection by velocity pyramid
+Liang, Z., Inoue, N., 
+Shinoda, K. 
+2014 Lecture Notes in 
+Computer Science 
+(including subseries 
+Lecture Notes in 
+Artificial Intelligence and 
+Lecture Notes in 
+Bioinformatics) 
+View at Publisher
+N-gram models for video semantic indexing
+Inoue, N., Shinoda, K. 
+2014 MM 2014 - Proceedings 
+of the 2014 ACM 
+Conference on 
+Multimedia 
+View at Publisher
+0
+0
+0
+0
+2
+1
+0
+2
+14
+1
+1
+3
+20
+Back to results |
+1 of 9 Next >
+Page 2 of 3
+Scopus - Author details (Shinoda, Koichi)
+8/25/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7102950364
+
+-----
+About Scopus
+What is Scopus
+Content coverage
+Scopus blog
+Scopus API
+Privacy matters
+Language
+日本語に切り替える
+切换到简体中文
+切換到繁體中文
+Русский язык
+Customer Service
+Help
+Contact us
+Terms and conditions
+Privacy policy
+Copyright © 2017 Elsevier B.V. All rights reserved. Scopus® is a registered trademark of Elsevier B.V.
+Cookies are set by this site. To decline them or learn more, visit our Cookies page.
+Page 3 of 3
+Scopus - Author details (Shinoda, Koichi)
+8/25/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7102950364
+
+-----

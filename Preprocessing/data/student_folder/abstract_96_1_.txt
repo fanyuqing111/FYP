@@ -1,0 +1,93 @@
+Abstract
+The advent of enabling smart grid technologies has resulted in the prolifera-
+tion of heterogeneous power generation networks. In this context, the concept of
+microgrids has gained popularity in recent years due to their ability to integrate
+renewable energy sources with the power system. As such, many industrial units
+are increasingly displaying characteristics similar to grid-connected microgrids.
+Moreover, large industrial parks such as Singapore’s Jurong Island can also be
+considered as grid-connected microgrids with multiple energy streams. Conse-
+quently, the traditional day-ahead scheduling (unit commitment) problem solved
+in power systems needs to account for the increasingly heterogeneous nature of
+the generators. Furthermore, the deregulation of modern electricity markets
+has also introduced concepts such as demand side management which need to
+be accounted for by the scheduling problem. As such, there exists a need to for-
+mulate optimization models for modern energy systems which can account for
+the heterogeneity in the generation and the flexibility in the load. This becomes
+even more complex from the perspective of developing eco-industrial parks due
+to the presence of multiple energy streams.
+This thesis primarily aims at developing optimal scheduling models for the
+participation of energy systems in the electricity market. The models devel-
+oped in this thesis can be included as a part of an energy management system
+package. The energy systems in this thesis consider heterogeneous power gen-
+eration sources including conventional combined cycle power plants, renewable
+energy sources and diesel generators. Apart from these, the presence of flexible
+elements such as battery energy storage systems, thermal energy storage sys-
+tems, interruptible loads and schedulable loads make the energy management
+problem non-trivial.
+The energy system models in this thesis are developed
+using a component-wise approach to account for the intricacies involved in the
+operation of each individual component. The utility of the optimal scheduling
+problem formulations proposed in this thesis is primarily demonstrated through
+the prism of load management scenarios.
+This thesis is broadly divided into four parts. The first part focuses on the
+development of accurate optimal scheduling models for the components which
+constitute the energy systems considered in the later chapters of the thesis. The
+hybrid systems based mixed logical dynamical modelling framework is used to
+develop optimal scheduling models of the gas turbines, steam turbines, boilers,
+diesel generators, battery energy storage systems, thermal energy storage sys-
+tems and interruptible loads used in this thesis. The optimal scheduling models
+of the gas turbines, steam turbines and boilers include the power trajectories
+followed by these components while undergoing the hot, warm and cold start-up
+processes. The shutdown power trajectories are also included in the scheduling
+1
+
+-----
+models of the gas turbines, steam turbines and boilers. A detailed treatment of
+the modelling of an exemplar conventional fossil fuel based generating unit using
+the mixed logical dynamical framework is provided. The conventional generator
+scheduling model is subsequently used in a typical self-scheduling problem and
+a unit commitment problem involving five generators.
+The second part of this thesis proposes a shipyard energy management sys-
+tem (SEMS) to optimize the cost of operating a typical shipyard drydock. The
+SEMS comprises three modules - load forecasting, contracted capacity optimiza-
+tion and optimal scheduling. The load forecasting module uses artificial neural
+networks (ANN) to generate short-term and medium-term load forecasts. His-
+torical load demand data and ship arrival schedules are provided as inputs to
+the ANN. The inclusion of the ship arrival schedule as an input to the ANN
+enhances the accuracy of the load forecast.
+The optimal scheduling module
+minimizes the electricity cost incurred by the drydock operator. The optimal
+scheduling problem includes a pump scheduling optimization model which mini-
+mizes the uncontracted capacity cost incurred by the drydock operator. Illustra-
+tive case studies are performed using data from a local shipyard to demonstrate
+the efficacies of the proposed load forecasting and optimal scheduling modules.
+The third part of the thesis enhances the features of the optimal scheduling
+module proposed in the aforementioned SEMS. The microgrid considered in this
+context comprises diesel generators, battery energy storage systems, renewable
+energy sources, flexible pump loads and interruptible loads. A two-stage energy
+management system architecture is proposed wherein an optimal, day-ahead
+scheduling problem similar to the SEMS is solved in the first stage.
+Subse-
+quently, the results from the first stage are used to solve an optimal power flow
+problem in the second stage. This is done to account for the network losses and
+to verify the feasibility of the optimal schedule generated in the first stage with
+respect to the network constraints. Thereafter, the two stages are coordinated
+using an iterative procedure. The utility of the proposed optimization model is
+demonstrated using illustrative case studies.
+The final part of this thesis proposes a detailed optimal scheduling model for
+an exemplar multi-energy system comprising combined cycle power plants (each
+constituted by one gas turbine and one steam turbine), battery energy storage
+systems, renewable energy sources, boilers, thermal energy storage systems,
+electric loads and thermal loads. The proposed model considers the detailed
+start-up and shutdown power trajectories of the gas turbines, steam turbines
+and boilers. Furthermore, a practical, multi-energy load management scheme
+is proposed within the framework of the optimal scheduling problem. The pro-
+posed load management scheme utilizes the flexibility offered by system compo-
+nents such as the flexible electrical pump loads, electrical interruptible loads and
+a lumped flexible thermal load to reduce the overall energy cost of the system.
+The efficacy of the proposed model in reducing the energy cost of the system
+is demonstrated in the context of a day-ahead scheduling problem using four
+illustrative scenarios.
+2
+
+-----

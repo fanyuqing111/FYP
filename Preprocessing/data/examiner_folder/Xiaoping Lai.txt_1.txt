@@ -1,0 +1,265 @@
+ The Scopus Author Identifier assigns a unique number to groups of documents written by the same author via an algorithm that matches authorship based on a certain criteria. If a document cannot be 
+confidently matched with an author identifier, it is grouped separately. In this case, you may see more than 1 entry for the same author. 
+Lai, Xiaoping 
+Hangzhou Dianzi University, Institute of Information 
+and Control, Hangzhou, China 
+Author ID: 12545697200
+Other name formats: Lai, Xiao Ping
+About Scopus Author Identifier | View potential author matches 
+Documents:
+Analyze author output
+Citations:
+View citation overview
+h-index: 
+View h-graph
+Co-authors:
+Subject area:
+View documents 
+View documents 
+View documents 
+Follow this Author
+Receive emails when this author 
+publishes new articles
+Get citation alerts 
+Add to ORCID
+Request author detail corrections
+Author History 
+Publication range: 1998 - Present 
+References: 590
+Source history:
+IEEE Transactions on Circuits and Systems II: Express Briefs
+ISSCAA2010 - 3rd International Symposium on Systems and 
+Control in Aeronautics and Astronautics  
+Chinese Journal of Electronics
+View More 
+Show Related Affiliations
+Back to results |
+< Previous
+2 of 30 Next >
+Print |
+E-mail 
+90 
+379 total citations by 225 documents 
+10 
+57
+Computer Science ,  Engineering View More
+90 documents
+Export all |
+Add all to list
+|
+Set document alert |
+Set document feed 
+90 Documents | Cited by 225 documents | 57 co-authors
+View in search results format 
+Sort on: Date Cited by
+...
+A matrix iterative algorithm for the WLS design of 
+variable fractional delay FIR filters
+Zhao, R., Lai, X., Lin, 
+Z., Hong, X. 
+2017 International Conference 
+on Digital Signal 
+Processing, DSP 
+View at Publisher
+A Sequential Partial Optimization Algorithm for Minimax 
+Design of Separable-Denominator 2-D IIR Filters
+Lai, X., Meng, H., Cao, 
+J., Lin, Z. 
+2017 IEEE Transactions on 
+Signal Processing 
+View at Publisher
+Ensemble extreme learning machine and sparse 
+representation classification
+Cao, J., Hao, J., Lai, 
+X., Vong, C.-M., Luo, 
+M. 
+2016 Journal of the Franklin 
+Institute 
+View at Publisher
+An improved sequential minimization method for minimax 
+design of stable IIR filters
+Meng, H., Lai, X. 
+2016 Chinese Control 
+Conference, CCC 
+View at Publisher
+An iterative constrained Lp design algorithm for 
+minimum-phase FIR filters with RUL reweighting
+Wu, Q., Niu, J., Meng, 
+H., Lai, X. 
+2016 Chinese Control 
+Conference, CCC 
+View at Publisher
+MVDR beamformer analysis of acoustic vector sensor 
+with single directional interference
+Cao, J., Lai, X. 
+2016 Proceedings - IEEE 
+International Symposium 
+on Circuits and Systems 
+View at Publisher
+A matrix-based algorithm for the CLS design of centrally 
+symmetric 2-D FIR filters
+Hong, X., Zhao, R., Lai, 
+X., Cao, J. 
+2016 Proceedings - IEEE 
+International Symposium 
+on Circuits and Systems 
+View at Publisher
+Iterative Reweighted Minimax Phase Error Designs of IIR 
+Digital Filters with Nearly Linear Phases
+Lai, X., Lin, Z. 
+2016 IEEE Transactions on 
+Signal Processing 
+View at Publisher
+0
+1
+3
+0
+0
+0
+0
+1
+Years
+Documents
+Citations
+Documents
+Documents
+Citations
+Citations
+2007
+2017
+0
+12
+0
+70
+Page 1 of 3
+Scopus - Author details (Lai, Xiaoping)
+9/4/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=12545697200
+
+-----
+The data displayed above is compiled exclusively from articles published in the Scopus database. To request corrections to any inaccuracies or provide any further feedback, please contact us (registration required). 
+The data displayed above is subject to the privacy conditions contained in the privacy policy . 
+Top of page 
+Display: 
+results per page
+Page 1
+Weighted least squares design of 2-D FIR filters using a 
+matrix-based generalized conjugate gradient method
+Zhao, R., Lai, X., Lin, 
+Z. 
+2016 Journal of the Franklin 
+Institute 
+View at Publisher
+A fast design algorithm for elliptic-error and phase-error 
+constrained LS 2-D FIR filters
+Hong, X., Lai, X., Zhao, 
+R. 
+2016 Multidimensional 
+Systems and Signal 
+Processing 
+View at Publisher
+Feature selection for SAR images using the hybrid 
+intelligent optimization algorithm
+Zhang, Q., Gu, Y., Xu, 
+Y., Lai, X. 
+2016 Yaogan Xuebao/Journal 
+of Remote Sensing 
+View at Publisher
+An Iterative Constrained Minimax Approach to Magnitude 
+Response Design of FIR Evidence Filters
+Liu, J., Guo, Y., Xue, 
+A., Lai, X. 
+2015 Circuits, Systems, and 
+Signal Processing 
+View at Publisher
+A matrix-based constrained minimax design of 2-D FIR 
+filters with reduced group delay error
+Hong, X., Zhao, R., Lai, 
+X. 
+2015 International Conference 
+on Digital Signal 
+Processing, DSP 
+View at Publisher
+Landmark recognition via sparse representation
+Cao, J., Zhao, Y., Lai, 
+X., (...), Mirza, B., Lin, 
+Z. 
+2015 International Conference 
+on Digital Signal 
+Processing, DSP 
+View at Publisher
+Sparse FIR filter design using iterative reweighted 
+1-norm minimization and binary search
+Liu, L., Lai, X. 
+2015 Chinese Control 
+Conference, CCC 
+View at Publisher
+Voting based weighted online sequential extreme 
+learning machine for imbalance multi-class classification
+Mirza, B., Lin, Z., Cao, 
+J., Lai, X. 
+2015 Proceedings - IEEE 
+International Symposium 
+on Circuits and Systems 
+View at Publisher
+Ensemble based constrained-optimization extreme 
+learning machine for landmark recognition
+Zhao, Y., Cao, J., Lai, 
+X., Yin, C., Chen, T. 
+2015 Chinese Control 
+Conference, CCC 
+View at Publisher
+Landmark recognition with sparse representation 
+classification and extreme learning machine
+Cao, J., Zhao, Y., Lai, 
+X., (...), Koh, Z.X., Liu, 
+N. 
+2015 Journal of the Franklin 
+Institute 
+View at Publisher
+Optimal design of constrained FIR filters without phase 
+response specifications
+Lai, X., Lin, Z. 
+2014 IEEE Transactions on 
+Signal Processing 
+View at Publisher
+Minimax phase error design of stable IIR filters using a 
+sequential minimization method
+Qiao, H., Lai, X., 
+Zhang, L. 
+2014 Proceedings of the 33rd 
+Chinese Control 
+Conference, CCC 2014 
+View at Publisher
+0
+0
+0
+0
+0
+2
+1
+4
+0
+30
+6
+0
+20
+Back to results |
+< Previous
+2 of 30 Next >
+Page 2 of 3
+Scopus - Author details (Lai, Xiaoping)
+9/4/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=12545697200
+
+-----
+日本語に切り替える
+切换到简体中文
+切換到繁體中文
+Русский язык
+Page 3 of 3
+Scopus - Author details (Lai, Xiaoping)
+9/4/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=12545697200
+
+-----

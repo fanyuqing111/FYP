@@ -1,0 +1,173 @@
+Sergio Vazquez (S’04–M’08–SM’14) was born in Seville, Spain, in 1974. He received the M.S. and 
+Ph.D. degrees in industrial engineering from the University of Seville (US), Spain, in 2006 and 2010, 
+respectively. Since 2002, he has been with the Power Electronics Group working on R&D projects. He 
+is an Associate Professor with the Department of Electronic Engineering, US. His research interests 
+include power electronics systems, modeling, modulation, and control of power electronics 
+converters applied to renewable energy technologies. Dr. Vazquez received (as a coauthor) the 2012 
+Best Paper Award of the IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS and the 2015 Best Paper 
+Award of the IEEE Industrial Electronics Magazine. He is a member of the Energy Storage Technical 
+Committee of the IEEE Industrial Electronics Society. He is an Associate Editor of the IEEE 
+TRANSACTIONS ON INDUSTRIAL ELECTRONICS. 
+
+-----
+2/5/2018
+Universidad de Sevilla :: VAZQUEZ PEREZ, SERGIO
+http://www.us.es/acerca/directorio/ppdi/personal_6608
+1/1
+Actualizado el 05/02/2018 01:41
+ 
+ 
+ 
+Aviso legal
+ Condiciones de uso
+ Copyright
+ [ W3C WAI-AA ]
+ [ W3C XHTML 1.0 ]
+ [ W3C CSS 2.1 ]
+VAZQUEZ PEREZ, SERGIO
+Categoría:
+Profesor Titular de Universidad
+Area de Conocimiento:
+Tecnología Electrónica
+Teléfono:
+954486179
+ 
+Ubicación geográfica
+Correo Electrónico:
+sergi@us.es
+Departamento:
+INGENIERÍA ELECTRÓNICA
+Centro(s):
+ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA
+Asignaturas:
+Electrónica de Potencia
+Integración de Energías Renovables
+Electrónica de Potencia
+Electrónica y Control de Sistemas de Energía
+Sistemas Electrónicos para Gestión de Energías Renovables
+Sistemas Electrónicos para Smart Grids
+Sistemas Electrónicos para Gestión de Energías Renovables
+Sistemas Electrónicos para Smart Grids
+     Universidad de Sevilla. C/ S. Fernando, 4, C.P. 41004-Sevilla, España. Centralita exterior: 954551000
+
+-----
+2/5/2018
+Sergio Vazquez - Google Scholar Citations
+https://scholar.google.com/citations?user=h9hPvFMAAAAJ
+1/2
+GET MY OWN PROFILE
+All
+Since 2013
+Citations
+3737
+3026
+h-index
+25
+22
+i10-index
+38
+33
+Sergio Vazquez
+Profesor Contratado Doctor (US)
+Power Electronics
+TITLE
+CITED BY
+YEAR
+Energy storage systems for transport and grid applications
+S Vazquez, SM Lukic, E Galvan, LG Franquelo, JM Carrasco
+IEEE Transactions on Industrial Electronics 57 (12), 3881-3895
+722
+2010
+Model predictive control of an inverter with output $ LC $ filter for UPS applications
+P Cortés, G Ortiz, JI Yuz, J Rodríguez, S Vazquez, LG Franquelo
+IEEE Transactions on Industrial Electronics 56 (6), 1875-1883
+350
+2009
+Guidelines for weighting factors design in model predictive control of power converters and drives
+P Cortés, S Kouro, B La Rocca, R Vargas, J Rodríguez, JI León, ...
+Industrial Technology, 2009. ICIT 2009. IEEE International Conference on, 1-7
+272
+2009
+Model predictive control: A review of its applications in power electronics
+S Vazquez, JI Leon, LG Franquelo, J Rodriguez, HA Young, A Marquez, ...
+IEEE Industrial Electronics Magazine 8 (1), 16-31
+211
+2014
+Enhanced decoupled double synchronous reference frame current controller for unbalanced grid-voltage conditions
+M Reyes, P Rodriguez, S Vazquez, A Luna, R Teodorescu, JM Carrasco
+IEEE Transactions on power electronics 27 (9), 3934-3943
+158
+2012
+A model-based direct power control for three-phase power converters
+S Vazquez, JA Sanchez, JM Carrasco, JI Leon, E Galvan
+IEEE Transactions on Industrial Electronics 55 (4), 1647-1657
+156
+2008
+Feed-forward space vector modulation for single-phase multilevel cascaded converters with any DC voltage ratio
+JI Leon, S Vazquez, AJ Watson, LG Franquelo, PW Wheeler, JM Carrasco
+IEEE Transactions on Industrial Electronics 56 (2), 315-325
+139
+2009
+DC-voltage-ratio control strategy for multilevel cascaded converters fed with a single DC source
+S Vazquez, JI Leon, LG Franquelo, JJ Padilla, JM Carrasco
+IEEE Transactions on Industrial Electronics 56 (7), 2513-2521
+131
+2009
+Conventional space-vector modulation techniques versus the single-phase modulator for multilevel converters
+JI Leon, S Vazquez, JA Sanchez, R Portillo, LG Franquelo, JM Carrasco, ...
+IEEE Transactions on Industrial Electronics 57 (7), 2473-2482
+114
+2010
+Analysis of the power balance in the cells of a multilevel cascaded H-bridge converter
+S Vazquez, JI Leon, JM Carrasco, LG Franquelo, E Galvan, M Reyes, ...
+IEEE Transactions on Industrial Electronics 57 (7), 2287-2296
+113
+2010
+Multidimensional modulation technique for cascaded multilevel converters
+JI Leon, S Kouro, S Vazquez, R Portillo, LG Franquelo, JM Carrasco, ...
+IEEE Transactions on Industrial Electronics 58 (2), 412-420
+108
+2011
+Predictive optimal switching sequence direct power control for grid-connected power converters
+S Vazquez, A Marquez, R Aguilera, D Quevedo, JI Leon, LG Franquelo
+IEEE Transactions on Industrial Electronics 62 (4), 2010-2020
+106
+2015
+Simple unified approach to develop a time-domain modulation strategy for single-phase multilevel converters
+JI Leon, R Portillo, S Vazquez, JJ Padilla, LG Franquelo, JM Carrasco
+IEEE Transactions on Industrial Electronics 55 (9), 3239-3248
+105
+2008
+Three-dimensional feedforward space vector modulation applied to multilevel diode-clamped converters
+JI Leon, S Vazquez, R Portillo, LG Franquelo, JM Carrasco, PW Wheeler, ...
+IEEE Transactions on Industrial Electronics 56 (1), 101-109
+96
+2009
+Extended state observer-based sliding-mode control for three-phase power converters
+J Liu, S Vazquez, L Wu, A Marquez, H Gao, LG Franquelo
+IEEE Transactions on Industrial Electronics 64 (1), 22-31
+95
+2017
+Predictive control of a three-phase UPS inverter using two steps prediction horizon
+P Cortes, J Rodriguez, S Vazquez, LG Franquelo
+Industrial Technology (ICIT), 2010 IEEE International Conference on, 1283-1288
+66
+2010
+Adaptive vectorial filter for grid synchronization of power converters under unbalanced and/or distorted grid conditions
+S Vazquez, JA Sanchez, MR Reyes, JI Leon, JM Carrasco
+IEEE Transactions on Industrial Electronics 61 (3), 1355-1367
+63
+2014
+Unidimensional modulation technique for cascaded multilevel converters
+JI Leon, S Vazquez, S Kouro, LG Franquelo, JM Carrasco, J Rodriguez
+IEEE Transactions on Industrial Electronics 56 (8), 2981-2986
+63
+2009
+Model predictive control with constant switching frequency using a discrete space vector modulation with virtual state
+vectors
+S Vazquez, JI Leon, LG Franquelo, JM Carrasco, O Martinez, J Rodriguez, ...
+Industrial Technology, 2009. ICIT 2009. IEEE International Conference on, 1-6
+62
+2009
+
+-----

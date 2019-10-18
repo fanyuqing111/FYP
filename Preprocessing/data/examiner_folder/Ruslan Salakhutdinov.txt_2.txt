@@ -1,0 +1,152 @@
+All
+Since 2014
+Citations
+49032
+43623
+h-index
+69
+65
+i10-index
+116
+115
+Ruslan Salakhutdinov
+Associate Professor, Machine 
+Learning Department, 
+CMU
+Machine Learning
+Statistics
+Hierarchical Models
+Deep Learning
+Markov Chain Monte Carlo
+TITLE
+CITED BY
+YEAR
+Dropout: a simple way to prevent neural networks from overfitting
+N Srivastava, G Hinton, A Krizhevsky, I Sutskever, R Salakhutdinov
+The Journal of Machine Learning Research 15 (1), 1929-1958
+10148
+2014
+Reducing the dimensionality of data with neural networks
+GE Hinton, RR Salakhutdinov
+science 313 (5786), 504-507
+8571
+2006
+Improving neural networks by preventing co-adaptation of feature 
+detectors
+GE Hinton, N Srivastava, A Krizhevsky, I Sutskever, RR Salakhutdinov
+arXiv preprint arXiv:1207.0580
+3416
+2012
+Show, attend and tell: Neural image caption generation with 
+visual attention
+K Xu, J Ba, R Kiros, K Cho, A Courville, R Salakhutdinov, RS Zemel, ...
+International Conference on Machine Learning (ICML) 2 (3), 5
+2683
+2015
+Probabilistic matrix factorization
+A Mnih, RR Salakhutdinov
+Advances in neural information processing systems, 1257-1264
+2628
+2008
+Probabilistic matrix factorization
+R Salakhutdinov, A Mnih
+Neural Information Processing Systems 21
+2628
+2007
+Efficient Learning of Deep Boltzmann Machines.
+R Salakhutdinov, H Larochelle
+International Conference on Artificial Intelligence and Statistics (AISTATS …
+1924
+2010
+Deep Boltzmann Machines.
+R Salakhutdinov, GE Hinton
+International Conference on Artificial Intelligence and Statistics (AISTATS …
+1923
+2009
+Neighbourhood components analysis
+J Goldberger, GE Hinton, ST Roweis, RR Salakhutdinov
+Advances in neural information processing systems, 513-520
+1394
+2005
+Restricted Boltzmann machines for collaborative filtering
+R Salakhutdinov, A Mnih, G Hinton
+Proceedings of the 24th international conference on Machine learning, 791-
+798
+1356
+2007
+*
+*
+Page 1 of 2
+Ruslan Salakhutdinov - Google Scholar Citations
+1/30/2019
+https://scholar.google.com.sg/citations?user=ITZ1e7MAAAAJ&hl=en
+
+-----
+TITLE
+CITED BY
+YEAR
+Bayesian probabilistic matrix factorization using Markov chain 
+Monte Carlo
+R Salakhutdinov, A Mnih
+Proceedings of the 25th international conference on Machine learning, 880-
+887
+1108
+2008
+Bayesian probabilistic matrix factorization using Markov chain 
+Monte Carlo
+R Salakhutdinov, A Mnih
+Proceedings of the 25th international conference on Machine learning, 880-
+887
+1086
+2008
+Bayesian probabilistic matrix factorization using Markov chain 
+Monte Carlo
+R Salakhutdinov, A Mnih
+Proceedings of the 25th international conference on Machine learning, 880-
+887
+1086
+2008
+Multimodal learning with deep boltzmann machines
+N Srivastava, RR Salakhutdinov
+Advances in neural information processing systems, 2222-2230
+1032
+2012
+Skip-thought vectors
+R Kiros, Y Zhu, RR Salakhutdinov, R Zemel, R Urtasun, A Torralba, ...
+Advances in neural information processing systems, 3294-3302
+886
+2015
+Semantic hashing
+R Salakhutdinov, G Hinton
+International Journal of Approximate Reasoning 50 (7), 969-978
+886
+2009
+Unsupervised learning of video representations using lstms
+N Srivastava, E Mansimov, R Salakhutdinov
+International Conference on Machine Learning (ICML) 2
+852
+2015
+Unifying visual-semantic embeddings with multimodal neural 
+language models
+R Kiros, R Salakhutdinov, RS Zemel
+Transactions of the Association for Computational Linguistics (TACL)
+794
+2014
+Multimodal Neural Language Models.
+R Kiros, R Salakhutdinov, RS Zemel
+International Conference on Machine Learning (ICML) 14, 595-603
+789
+2014
+Human-level concept learning through probabilistic program 
+induction
+BM Lake, R Salakhutdinov, JB Tenenbaum
+Science 350 (6266), 1332-1338
+663
+2015
+*
+Page 2 of 2
+Ruslan Salakhutdinov - Google Scholar Citations
+1/30/2019
+https://scholar.google.com.sg/citations?user=ITZ1e7MAAAAJ&hl=en
+
+-----

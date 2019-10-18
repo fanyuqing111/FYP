@@ -1,0 +1,515 @@
+NICOLÒ CESA
+NICOLÒ CESA-BIANCHI
+BIANCHI
+PROFESSOR OF
+ROFESSOR OF C
+ COMPUTER
+OMPUTER S
+ SCIENCE
+CIENCE
+Dipartimento di Informatica 
+Università degli Studi di Milano
+Dipartimento di Informatica 
+Università degli Studi di Milano
+via Comelico 39 
+20135 Milano, Italy 
+Phone:   +39-02-503-16280   (fax:   -16253) 
+Email:   nicolo.<last-name>@unimi.it 
+RESEARCH
+EVENTS
+RESEARCH
+EVENTS
+• Design and analysis of machine learning algorithms, 
+especially in the online learning model. 
+• Algorithms for multiarmed bandit problems, with 
+applications to personalized recommendations and online 
+auctions. 
+• Graph analytics, with applications to social networks and 
+bioinformatics. 
+Papers
+Perdition, burning, and flames
+Papers
+Perdition, burning, and flames (a hell of a book) 
+I am a recipient of the 2017 Criteo Faculty Research Award
+Criteo Faculty Research Award
+I am member of the EUROPEAN NETWORK FOR GAME 
+THEORY
+Workshop on Multi-Armed Bandits and Learning 
+Algorithms
+EUROPEAN NETWORK FOR GAME 
+THEORY
+Workshop on Multi-Armed Bandits and Learning 
+Algorithms. May 24-25, 2018. Rotterdam, The 
+Netherlands 
+Paris Symposium on Games
+Paris Symposium on Games. June 11-15, 2018. Paris, 
+France 
+The 29th International Conference on Game Theory
+The 29th International Conference on Game Theory. 
+July 16-20, 2018. Ney York, USA 
+GAMENET Conference
+GAMENET Conference. September 17-21, 2018. 
+Kraków, Poland 
+PROFESSIONAL ACTIVITIES
+TEACHING
+PROFESSIONAL ACTIVITIES
+TEACHING
+Associate editor: Information and Inference
+COLT 2018
+Information and Inference
+COLT 2018 PC member 
+AISTATS 2018
+AISTATS 2018 Area chair 
+WWW 2018
+WWW 2018 PC member Web Search and Mining track 
+NIPS 2018
+NIPS 2018 Co-chair 
+Metodi statistici per l'apprendimento
+Metodi statistici per l'apprendimento
+(2009- , magistrale Informatica) 
+Complementi di Algoritmi e Strutture Dati
+Complementi di Algoritmi e Strutture Dati
+(2016- , triennale Informatica) 
+Machine learning with experts and bandits
+Machine learning with experts and bandits
+(2017, Dottorato in Informatica) 
+Teoria dell'Informazione e della Trasmissione
+Teoria dell'Informazione e della Trasmissione
+Page 1 of 1
+Nicolò Cesa-Bianchi
+8/6/2018
+http://cesa-bianchi.di.unimi.it/
+
+-----
+NICOLÒ CESA
+NICOLÒ CESA-BIANCHI
+BIANCHI - 
+ - SELECTED PAPERS
+SELECTED PAPERS
+"These scientific products take of course some time to fructuate." - V. Nabokov 
+Prediction with Expert Advice and Game-Theoretic Learning
+Prediction with Expert Advice and Game-Theoretic Learning
+• N. Cesa-Bianchi, O. Dekel, O Shamir 
+Online learning with switching costs and other adaptive adversaries
+Online learning with switching costs and other adaptive adversaries
+Advances in Neural Information Processing Systems 26. Pages 1160-1168, 2013. 
+• E. Gofer, N. Cesa-Bianchi, C. Gentile, and Y. Mansour 
+Regret minimization for branching experts 
+Regret minimization for branching experts 
+Proceedings of the 26th Conference on Learning Theory. JMLR Workshop and Conference Proceedings, 30
+30:618-638, 2013. 
+• N. Cesa-Bianchi, P. Gaillard, G. Lugosi, and G. Stoltz 
+Mirror Descent meets Fixed Share (and feels no regret) 
+Mirror Descent meets Fixed Share (and feels no regret) 
+Advances in Neural Information Processing Systems 25. Pages 989-997, 2012. 
+• N. Cesa-Bianchi, Y. Mansour, and G. Stoltz 
+Improved second-order bounds for prediction with expert advice 
+Improved second-order bounds for prediction with expert advice 
+Machine Learning, 66
+66(2/3):321-352, 2007. 
+• N. Cesa-Bianchi, G. Lugosi, and G. Stoltz 
+Regret minimization under partial monitoring 
+Regret minimization under partial monitoring 
+Mathematics of Operations Research, 31
+31(3):562-580, 2006. 
+Slides 
+Slides presented at the IEEE 2006 Information Theory Workshop. 
+• N. Cesa-Bianchi, G. Lugosi, and G. Stoltz 
+Minimizing regret with label efficient prediction 
+Minimizing regret with label efficient prediction 
+IEEE Transactions on Information Theory, 51
+51(6):2152-2162, 2005. 
+• N. Cesa-Bianchi and G. Lugosi 
+Potential-based algorithms in on-line prediction and game theory
+Potential-based algorithms in on-line prediction and game theory
+Machine Learning, 51
+51(3):239-261, 2003. 
+• N. Cesa-Bianchi 
+Universal prediction
+Universal prediction
+In: Principles of Nonparametric Learning
+Springer (CISM courses and lectures no. 434), 2002. 
+• N. Cesa-Bianchi and G. Lugosi 
+Worst-case bounds for the logarithmic loss of predictors
+Worst-case bounds for the logarithmic loss of predictors
+Machine Learning, 43
+43(3):247-264, 2001. 
+• N. Cesa-Bianchi and G. Lugosi 
+On prediction of individual sequences
+On prediction of individual sequences
+Annals of Statistics, 27
+27(6):1865-1895, 1999. 
+• N. Cesa-Bianchi, D.P. Helmbold, and S. Panizza 
+On Bayes methods for on-line boolean prediction
+On Bayes methods for on-line boolean prediction
+Algorithmica, 22
+22(1/2):112-137, 1998. 
+• N. Cesa-Bianchi, Y. Freund, D.P. Helmbold, D. Haussler, R. Schapire, and M.K. Warmuth 
+How to use expert advice
+How to use expert advice
+Journal of the ACM, 44
+44(3):427-485, 1997. 
+• N. Cesa-Bianchi, Y. Freund, D.P. Helmbold, and M.K. Warmuth 
+On-line prediction and conversion strategies
+On-line prediction and conversion strategies
+Machine Learning, 25
+25:71-110, 1996. 
+Bandit Problems
+Bandit Problems
+• N. Cesa-Bianchi, C. Gentile, and Y. Mansour 
+Nonstochastic bandits with composite anonymous feedback
+Nonstochastic bandits with composite anonymous feedback
+Proceedings of the 31st Conference on Learning Theory (COLT). JMLR Workshop and Conference Proceedings, 2018. To appear. 
+• N. Cesa-Bianchi and O. Shamir 
+Bandit regret scaling with the effective loss range
+Bandit regret scaling with the effective loss range
+Proceedings of the 29th International Conference on Algorithmic Learning Theory (ALT). PMLR 83
+83:128-151, 2018. 
+• N. Cesa-Bianchi, C. Gentile, G. Lugosi, G. Neu 
+Boltzmann exploration done right
+Boltzmann exploration done right
+Advances in Neural Information Processing Systems 31 (NIPS 2017). Pages 6284-6293, 2017. 
+• N. Alon, N. Cesa-Bianchi, C. Gentile, S. Mannor, Y. Mansour, and O. Shamir 
+Nonstochastic multi-armed bandits with graph-structured feedback
+Nonstochastic multi-armed bandits with graph-structured feedback
+SIAM Journal on Computing. 46
+46(6):1785-1826, 2017. 
+• N. Cesa-Bianchi, P. Gaillard, C. Gentile, and S. Gerchinovitz 
+Algorithmic chaining and the role of partial feedback in online nonparametric learning
+Algorithmic chaining and the role of partial feedback in online nonparametric learning
+Proceedings of the 30th Conference on Learning Theory (COLT). PMLR 65
+65:465-481, 2017. 
+• N. Cesa-Bianchi, C. Gentile, Y. Mansour, and A. Minora 
+Delay and cooperation in nonstochastic bandits
+Delay and cooperation in nonstochastic bandits
+Proceedings of the 29th Conference on Learning Theory (COLT). JMLR Workshop and Conference Proceedings, 49
+49:605-622, 2016. 
+Full paper
+Full paper. Submitted for journal publication, 2017. 
+• N. Cesa-Bianchi 
+Multi-armed bandit problem
+Multi-armed bandit problem
+Encyclopedia of Algorithms. Pages 1356-1359, 2016. 
+• N. Alon, N. Cesa-Bianchi, O. Dekel, and T. Koren 
+Online learning with feedback graphs: beyond bandits
+Online learning with feedback graphs: beyond bandits
+Proceedings of the 28th Conference on Learning Theory (COLT). JMLR Workshop and Conference Proceedings, 40
+40:23-35, 2015. 
+• N. Cesa-Bianchi, C. Gentile, and Y. Mansour 
+Regret minimization for reserve prices in second-price auctions 
+Regret minimization for reserve prices in second-price auctions 
+IEEE Transactions on Information Theory, 61
+61(1):549-564, 2015. 
+Page 1 of 4
+Nicolò Cesa-Bianchi - Selected papers
+8/6/2018
+http://cesa-bianchi.di.unimi.it/papers.html
+
+-----
+• N. Cesa-Bianchi, C. Gentile, and G. Zappella 
+A gang of bandits
+A gang of bandits
+Advances in Neural Information Processing Systems 26. Pages 737-745, 2013. 
+• S. Bubeck, N. Cesa-Bianchi, and G. Lugosi 
+Bandits with heavy tail
+Bandits with heavy tail
+IEEE Transactions on Information Theory, 59
+59(11):7711-7717, 2013. 
+• S. Bubeck and N. Cesa-Bianchi 
+Regret analysis of stochastic and nonstochastic multi-armed bandit problems
+Regret analysis of stochastic and nonstochastic multi-armed bandit problems
+Foundations and Trends in Machine Learning, 5(1)1-122, 2012. 
+• S. Bubeck, N. Cesa-Bianchi, and S. Kakade 
+Towards minimax policies for online linear optimization with bandit feedback
+Towards minimax policies for online linear optimization with bandit feedback
+Proceedings of the 25th Annual Conference on Learning Theory (COLT). JMLR Workshop and Conference Proceedings, 23
+23:41.1-41.14, 2012. 
+• N. Cesa-Bianchi and G. Lugosi 
+Combinatorial bandits 
+Combinatorial bandits 
+Journal of Computer and Systems Sciences, 78
+78:1404-1422, 2012. 
+• P. Auer, N. Cesa-Bianchi, and P. Fischer 
+Finite-time analysis of the multiarmed bandit problem
+Finite-time analysis of the multiarmed bandit problem
+Machine Learning, 47
+47(2/3):235-256, 2002. 
+• P. Auer, N. Cesa-Bianchi, Y. Freund, and R.E. Schapire 
+The nonstochastic multiarmed bandit problem
+The nonstochastic multiarmed bandit problem
+SIAM Journal on Computing, 32
+32(1):48-77, 2002. 
+Learning on Graphs
+Learning on Graphs
+• G. Le Falher, N. Cesa-Bianchi, C. Gentile, F. Vitale 
+On the troll-trust model for edge sign prediction in social networks
+On the troll-trust model for edge sign prediction in social networks
+Proceedings of the 20th International Conference on Artificial Intelligence and Statistics (AISTATS 2017). JMLR Workshop and Conference Proceedings, 54
+54:4
+• N. Cesa-Bianchi, C. Gentile, F. Vitale, and G. Zappella 
+A linear time active learning algorithm for link classification
+A linear time active learning algorithm for link classification
+Advances in Neural Information Processing Systems 25 (NIPS 2012). Pages 1619-1627, 2012. 
+• N. Cesa-Bianchi, C. Gentile, F. Vitale, and G. Zappella 
+A correlation clustering approach to link classification in signed networks
+A correlation clustering approach to link classification in signed networks
+Proceedings of the 25th Annual Conference on Learning Theory. JMLR Workshop and Conference Proceedings, 23
+23:34.1-34.20, 2012. 
+• F. Vitale, N. Cesa-Bianchi, C. Gentile, and G. Zappella 
+See the tree through the lines: the Shazoo algorithm
+See the tree through the lines: the Shazoo algorithm
+Advances in Neural Information Processing Systems 24 (NIPS 2011). Pages 1584-1592, 2011. 
+Full paper.
+Full paper.
+• N. Cesa-Bianchi, C. Gentile, F. Vitale, and G. Zappella 
+Active learning on trees and graphs
+Active learning on trees and graphs
+Proceedings of the 23rd Conference on Learning Theory. Omnipress, 2010. 
+• N. Cesa-Bianchi, C. Gentile, F. Vitale, and G. Zappella 
+Random spanning trees and the prediction of weighted graphs
+Random spanning trees and the prediction of weighted graphs
+Journal of Machine Learning Research, 14
+14:1251-1284, 2013. 
+• N. Cesa-Bianchi, C. Gentile, and F. Vitale 
+Predicting the labels of an unknown graph via adaptive exploration 
+Predicting the labels of an unknown graph via adaptive exploration 
+Theoretical Computer Science, 412
+412(19):1791-1804, 2011. 
+• N. Cesa-Bianchi, C. Gentile, and F. Vitale 
+Fast and optimal prediction on a labeled tree 
+Fast and optimal prediction on a labeled tree 
+Proceedings of the 22nd Conference on Learning Theory. Omnipress, 2009. 
+Pattern Classification and Regression
+Pattern Classification and Regression
+• I. Kuzborskij and N. Cesa-Bianchi 
+Nonparametric online regression while learning the metric
+Nonparametric online regression while learning the metric
+Advances in Neural Information Processing Systems 31 (NIPS 2017). Pages 667-676, 2017. 
+• R. De Rosa and N. Cesa-Bianchi 
+Confidence decision trees via online and active learning for streaming data
+Confidence decision trees via online and active learning for streaming data
+Journal of Artificial Intelligence Research, 60
+60:1031-1055, 2017. 
+• R. De Rosa, I. Gori, F. Cuzzolin, and N. Cesa-Bianchi 
+Active incremental recognition of human activities in a streaming context
+Active incremental recognition of human activities in a streaming context
+Pattern Recognition Letters. 99
+99:48-56, 2017. 
+• H. Luo, A. Agarwal, N. Cesa-Bianchi, and J. Langford 
+Efficient second order online learning by sketching
+Efficient second order online learning by sketching
+Advances in Neural Information Processing Systems 30 (NIPS 2016). Pages 902-910, 2016. 
+• R. De Rosa, F. Orabona, and N. Cesa-Bianchi 
+The ABACOC algorithm: A novel approach for nonparametric classification of data streams
+The ABACOC algorithm: A novel approach for nonparametric classification of data streams
+Proceedings of the IEEE International Conference on Data Mining (ICDM). Pages 733-738, 2015. 
+Long version
+Long version. 
+• F. Orabona, K. Crammer, and N. Cesa-Bianchi 
+A generalized online mirror descent with applications to classification and regression
+A generalized online mirror descent with applications to classification and regression
+Machine Learning, 99
+99(3):411-435, 2015. 
+• N. Cesa-Bianchi and O. Shamir 
+Efficient transductive online learning via randomized rounding
+Efficient transductive online learning via randomized rounding
+In: Empirical Inference, Festschrift in Honor of Vladimir N. Vapnik. Springer, 2013. 
+(A preliminary version Efficient online learning via randomized rounding
+Efficient online learning via randomized rounding appeared in: Advances in Neural Information Processing Systems 24 (NIPS 2011). P
+• F. Orabona, N. Cesa-Bianchi, and C. Gentile 
+Beyond logarithmic bounds in online learning
+Beyond logarithmic bounds in online learning
+Proceedings of the 15th International Conference on Artificial Intelligence and Statistics. JMLR Workshop and Conference Proceedings, 22
+22:823-831, 2012. 
+Page 2 of 4
+Nicolò Cesa-Bianchi - Selected papers
+8/6/2018
+http://cesa-bianchi.di.unimi.it/papers.html
+
+-----
+• F. Orabona and N. Cesa-Bianchi 
+Better algorithms for selective sampling
+Better algorithms for selective sampling
+Proceedings of the 28th International Conference on Machine Learning. Omnipress, 2011. 
+• N. Cesa-Bianchi, S. Shalev-Shwartz, and O. Shamir 
+Quantity makes quality: learning with partial views
+Quantity makes quality: learning with partial views
+Proceedings of the 25th AAAI Conference on Artificial Intelligence (Nectar Program). AAAI Press, 2011. 
+• N. Cesa-Bianchi, S. Shalev-Shwartz, and O. Shamir 
+Online learning of noisy data with kernels
+Online learning of noisy data with kernels
+IEEE Transaction on Information Theory, 57(12):7907-7931, 2011. 
+• L. Jie, F. Orabona, M. Fornoni, B. Caputo, and N. Cesa-Bianchi 
+OM-2: An online multi-class multi-kernel learning algorithm
+OM-2: An online multi-class multi-kernel learning algorithm
+Proceedings of the 4th IEEE Online Learning for Computer Vision Workshop. IEEE Press, 2010. 
+• N. Cesa-Bianchi, S. Shalev-Shwartz, and O. Shamir 
+Efficient learning with partially observed attributes
+Efficient learning with partially observed attributes
+Journal of Machine Learning Research, 12:2857-2878, 2011. 
+• G. Cavallanti, N. Cesa-Bianchi, and C. Gentile 
+Linear algorithms for online multitask classification 
+Linear algorithms for online multitask classification 
+Journal of Machine Learning Research, 11
+11:2901-2934, 2010. 
+• N. Cesa-Bianchi, C. Gentile, and F. Orabona 
+Robust bounds for classification via selective sampling
+Robust bounds for classification via selective sampling
+Proceedings of the 26th International Conference on Machine Learning. Omnipress, 2009. 
+• G. Cavallanti, N. Cesa-Bianchi, and C. Gentile 
+Tracking the best hyperplane with a simple budget Perceptron 
+Tracking the best hyperplane with a simple budget Perceptron 
+Machine Learning, 69
+69(2/3):143-167. Springer, 2007. 
+• N. Cesa-Bianchi 
+Applications of regularized least squares to pattern classification 
+Applications of regularized least squares to pattern classification 
+Theoretical Computer Science, 382
+382(3):221-231. Elsevier, 2007. 
+• N. Cesa-Bianchi, C. Gentile, and L. Zaniboni 
+Worst-case analysis of selective sampling for linear classification 
+Worst-case analysis of selective sampling for linear classification 
+Journal of Machine Learning Research, 7:1205-1230, 2006. 
+• N. Cesa-Bianchi, C. Gentile, and L. Zaniboni 
+Hierarchical classification: combining Bayes with SVM
+Hierarchical classification: combining Bayes with SVM
+Proceedings of the 23rd International Conference on Machine Learning, 2006. 
+• N. Cesa-Bianchi, C. Gentile, and L. Zaniboni 
+Incremental algorithms for hierarchical classification 
+Incremental algorithms for hierarchical classification 
+Journal of Machine Learning Research, 7:31--54, 2006. 
+• N. Cesa-Bianchi, A. Conconi, and C. Gentile 
+A second-order Perceptron algorithm 
+A second-order Perceptron algorithm 
+SIAM Journal on Computing, 34
+34(3):640-668. SIAM, 2005. 
+• P. Auer, N. Cesa-Bianchi, and C. Gentile 
+Adaptive and self-confident on-line learning algorithms
+Adaptive and self-confident on-line learning algorithms
+Journal of Computer and System Sciences, 64
+64(1):48-75, 2002. 
+• N. Cesa-Bianchi 
+Analysis of two gradient-based algorithms for on-line regression
+Analysis of two gradient-based algorithms for on-line regression
+Journal of Computer and System Sciences, 59
+59(3):392-411, 1999. 
+• N. Cesa-Bianchi, P.M. Long, and M.K. Warmuth 
+Worst-case quadratic loss bounds for prediction using linear functions and gradient descent
+Worst-case quadratic loss bounds for prediction using linear functions and gradient descent
+IEEE Transactions on Neural Networks, 7(3):604-619, 1996. 
+Statistical Learning Theory
+Statistical Learning Theory
+• N. Cesa-Bianchi, Y. Mansour, and O. Shamir 
+On the complexity of learning with kernels
+On the complexity of learning with kernels
+Proceedings of the 28th Annual Conference on Learning Theory. JMLR Workshop and Conference Proceedings, 40
+40:297-325, 2015. 
+• G. Cavallanti, N. Cesa-Bianchi, and C. Gentile 
+Learning noisy linear classifiers via adaptive and selective sampling
+Learning noisy linear classifiers via adaptive and selective sampling
+Machine Learning, 83
+83:71-102, 2011. 
+• N. Cesa-Bianchi and C. Gentile 
+Improved risk tail bounds for on-line algorithms
+Improved risk tail bounds for on-line algorithms
+IEEE Transactions on Information Theory, 54
+54(1):386-390, 2008. 
+• N. Cesa-Bianchi, A. Conconi, and C. Gentile 
+On the generalization ability of on-line learning algorithms
+On the generalization ability of on-line learning algorithms
+IEEE Transactions on Information Theory, 50
+50(9):2050-2057, 2004. 
+• N. Cesa-Bianchi, E. Dichterman, P. Fischer, E. Shamir, and H.U. Simon 
+Sample-efficient strategies for learning in the presence of noise
+Sample-efficient strategies for learning in the presence of noise
+Journal of the ACM, 46
+46(5):684-719, 1999. 
+• N. Alon, S. Ben-David, N. Cesa-Bianchi, and D. Haussler 
+Scale-sensitive dimensions, uniform convergence, and learnability
+Scale-sensitive dimensions, uniform convergence, and learnability
+Journal of the ACM, 44
+44(4):615-631, 1997. 
+• S. Ben-David, N. Cesa-Bianchi, D. Haussler, and P.M. Long 
+Characterizations of learnability for classes of {0,..,n}-valued functions
+Characterizations of learnability for classes of {0,..,n}-valued functions
+Journal of Computer and System Sciences, 50
+50(1):74-86, 1995. 
+Boolean Learning and Learning with Queries
+Boolean Learning and Learning with Queries
+• P. Auer and N. Cesa-Bianchi 
+On-line learning with malicious noise and the closure algorithm
+On-line learning with malicious noise and the closure algorithm
+Annals of AI and Mathematics, 23
+23(1/2):83-99, 1998. 
+Page 3 of 4
+Nicolò Cesa-Bianchi - Selected papers
+8/6/2018
+http://cesa-bianchi.di.unimi.it/papers.html
+
+-----
+• A. Bertoni, N. Cesa-Bianchi e G. Fiorino 
+Efficient learning with equivalence queries of conjunctions of modulo functions
+Efficient learning with equivalence queries of conjunctions of modulo functions
+Information Processing Letters, 56
+56:15--17, 1995. 
+Bioinformatics
+Bioinformatics
+• M. Frasca and N. Cesa-Bianchi 
+Multitask protein function prediction through task dissimilarity
+Multitask protein function prediction through task dissimilarity
+IEEE/ACM Transactions on Computational Biology and Bioinformatics. To appear. 
+An extended abstract was presented at the 15th International Workshop on Data Mining in Bioinformatics (BIOKDD'16). 
+• N. Cesa-Bianchi, M. Re, and G. Valentini 
+Synergy of multilabel hierarchical ensembles, data fusion, and cost-sensitive methods for gene functional inference
+Synergy of multilabel hierarchical ensembles, data fusion, and cost-sensitive methods for gene functional inference
+Machine Learning, 88
+88:209-241, 2012. 
+• N. Cesa-Bianchi and G. Valentini 
+Hierarchical cost-sensitive algorithms for genome-wide gene function prediction
+Hierarchical cost-sensitive algorithms for genome-wide gene function prediction
+Proceedings of the 3rd International Workshop on Machine Learning in Systems Biology, JMLR Workshop and Conference Proceedings, 8:14-29, 2010. 
+• G. Valentini and N. Cesa-Bianchi 
+HCGene: a software tool to support the hierarchical classification of genes
+HCGene: a software tool to support the hierarchical classification of genes
+Bioinformatics, 24
+24(5):729-731, 2008. 
+Other Areas
+Other Areas
+• Y. Seldin, F. Laviolette, N. Cesa-Bianchi, J. Shawe-Taylor, and P. Auer 
+PAC-Bayesian Inequalities for Martingales
+PAC-Bayesian Inequalities for Martingales
+IEEE Transactions on Information Theory, 58
+58(12):7086-7093, 2012. 
+• P. Auer and N. Cesa-Bianchi 
+A distributed voting scheme to maximize preferences
+A distributed voting scheme to maximize preferences
+RAIRO - Theoretical Informatics and Applications, 40
+40:389-403, 2006. 
+• N. Cesa-Bianchi and G. Lugosi 
+Minimax values and metric entropy bounds for portfolio selection problems
+Minimax values and metric entropy bounds for portfolio selection problems
+Communicated at the First World Congress of the Game Theory Society (Games 2000). 
+• N. Cesa-Bianchi and D. Haussler, 
+A graph-theoretic generalization of the Sauer-Shelah lemma
+A graph-theoretic generalization of the Sauer-Shelah lemma
+Discrete Applied Mathematics, 86
+86(1):27-35, 1998. 
+• N. Cesa-Bianchi, A. Krogh and M.K. Warmuth 
+Bounds on approximate steepest descent for likelihood maximization in exponential families 
+Bounds on approximate steepest descent for likelihood maximization in exponential families 
+IEEE Transactions on Information Theory, 40
+40(4):1215-1218, 1994. 
+• B. Apolloni, N. Cesa-Bianchi, and D. De Falco 
+A numerical implementation of quantum annealing
+A numerical implementation of quantum annealing
+Stochastic Processes, Physics and Geometry: Proceedings of the Ascona-Locarno Conference, pages 97-111, 1988. 
+• G. Cattaneo and N. Cesa-Bianchi 
+Microcanonical annealing on neural networks
+Microcanonical annealing on neural networks
+Proceedings of the First Annual Meeting of the International Neural Network Society, page 81, 1988. 
+Page 4 of 4
+Nicolò Cesa-Bianchi - Selected papers
+8/6/2018
+http://cesa-bianchi.di.unimi.it/papers.html
+
+-----

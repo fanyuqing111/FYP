@@ -1,0 +1,513 @@
+Welcome!
+Yong Ping XU (许永平）
+许永平）
+Associate Professor
+Department of Electrical & 
+Computer Engineering
+National University of 
+Singapore
+Email: yongpingxu@nus.edu.sg
+(mailto:yongpingxu@nus.edu.sg) or yongping@ieee.org
+(mailto:yongping@ieee.org)
+Favourite Quote:
+"Leave the beaten track behind occasionally and dive into the woods. Every time you 
+do, you will be certain to find something you have never seen before"
+- Alexander Graham Bell
+(/uploads/7/7/9/5/77955514/7509632_orig.jpg)
+HOME (/)
+ABOUT (/ABOUT.HTML)
+PROFESSIONAL 
+(/PROFESSIONAL.HTML)
+PUBLICATIONS 
+(/PUBLICATIONS.HTML)
+INERTIAL SENSOR SURVEY 
+(/INERTIAL-SENSOR-
+SURVEY.HTML)
+Page 1 of 2
+Yong Ping Xu's website
+2/1/2018
+http://www.yongpingxu.com/
+
+-----
+About
+Yong Ping Xu graduated from Nanjing University China and received his PhD 
+in Electronics from University of New South Wales (UNSW), Australia, in 1994. 
+He joined University of South Australia in 1996 as a Lecturer. Since 1998, he 
+has been with the Department of Electrical and Computer Engineering, 
+National University of Singapore and is currently an Associate Professor. Prior 
+to his PhD, he worked for Qingdao Semiconductor Research Institute as a 
+design engineer, R&D manager and Director from 1978 to 1987.
+He has been involved in the research of integrated circuit design, currently 
+focusing on applications in biomedical devices and MEMS/sensor interfaces. 
+He has served the International Technical Program Committee of IEEE 
+International Solid-State Circuits Conference (ISSCC) since 2014 and Technical 
+Program Committee of VLSI Circuits Symposium since 2017. He also served 
+Technical Program Committee of IEEE Asian Solid-State Circuits Conference 
+(A-SSCC) from 2009-2013 and Technical Program Committee Co-Chairs of IEEE 
+Symposium on Radio Frequency Integration Technology (RFIT) in 2007 and 
+2009. He is the Organizing Committee Chair of 2013 IEEE Asian Solid-State 
+Circuits Conference (A-SSCC). He is currently a Distinguished Lecturer of IEEE 
+Solid-State Circuits Society.
+Research Interests:
+Integrated Circuits for   
+HOME (/)
+ABOUT (/ABOUT.HTML)
+PROFESSIONAL 
+(/PROFESSIONAL.HTML)
+PUBLICATIONS 
+(/PUBLICATIONS.HTML)
+INERTIAL SENSOR 
+SURVEY (/INERTIAL-
+SENSOR-SURVEY.HTML)
+Page 1 of 2
+About
+2/1/2018
+http://www.yongpingxu.com/about.html
+
+-----
+GOOGLE SCHOLAR
+(https://scholar.google.com.sg/citations?
+user=U5zc3uoAAAAJ&hl=en)
+Selected Publications
+Conference Papers:
+•
+J. Zhao, X. Wang, Y. Zhao, G.M. Xia, A. Qiu, Y. Su, and Y.P. Xu, "A 0.23 
+micro‐g Bias Instability and 1.6 micro‐g/rt(Hz) Resolution Silicon 
+Oscillating Accelerometer with Build‐in Sigma‐Delta Frequency‐to‐
+Digital Converter," 
+, Hawaii, 
+USA, 14 - 17 June 2016, pp. 190-191.
+•
+Y. Zhao, X. Wang, J. Zhao, G.M. Xia, A. Qiu, Y. Su, and Y.P. Xu, "A 0.5˚/h 
+Bias Instability 0.067˚/√h Angle Random Walk MEMS Gyroscope with 
+CMOS Readout Circuit," 
+, China, 9 - 11 Nov 2015, pp. 57-60.
+•
+C. Yuan, K.A. Ng. Y.P. Xu, S-C Yen, and N.V. Thakor, "A 1-V 9.8-ENOB 
+100-kS/s Single-Ended SAR ADCWith Symmetrical DAC Switching 
+Technique forNeural Signal Acquisition," 
+, China, 9 - 11 Nov 2015, pp. 73-76.
+•
+K.A. Ng and Y.P. Xu, "A multi-channel neural-recording amplifier system 
+with 90dB CMRR employing CMOS-inverter-based OTAs with CMFB 
+through supply rails in 65nm CMOS," 
+. San Francisco, California, USA, 22 - 26 
+February 2015, pp.206-207.
+•
+X. Wang, J. Zhao, Y. Zhao, G.M. Xia, A. Qiu, Y. Su, and Y.P. Xu, "A 1.2μg/√
+Hz-resolution 0.4μg-bias-instability MEMS silicon oscillating 
+accelerometer with CMOS readout circuit,"
+ San Francisco, California, USA, 
+22 - 26 February 2015, pp.476-477.
+The 2016 Symposium on VLSI Circuits (VLSI)
+2015 IEEE Asian Solid-State Circuits Conference 
+(A-SSCC)
+2015 IEEE Asian Solid-State 
+Circuits Conference (A-SSCC)
+2015 IEEE International Solid-State 
+Circuits Conference (ISSCC)
+2015 IEEE International 
+Solid-State Circuits Conference (ISSCC),
+HOME (/)
+ABOUT (/ABOUT.HTML)
+PROFESSIONAL 
+(/PROFESSIONAL.HTML)
+PUBLICATIONS 
+(/PUBLICATIONS.HTML)
+INERTIAL SENSOR 
+SURVEY (/INERTIAL-
+SENSOR-SURVEY.HTML)
+Page 1 of 7
+yong ping xu's publications
+2/1/2018
+http://www.yongpingxu.com/publications.html
+
+-----
+•
+L. Yao, J. Zhao, P. Li, R. Xue, Y.P. Xu, and M. Je, "A 20V-compliance 
+implantable neural stimulator IC with closed-loop power control, active 
+charge balancing, and electrode impedance check," 
+, Singapore, 10 - 12 Nov 2014, 
+pp.201-204.
+•
+R. Pan, D. Chua, JS Pathmasuntharam, and Y.P. Xu, "A WBAN Based 
+Cabeless ECG Acquisition System,"
+, Chicago, Mexico, 26 - 30 August, 2014.
+•
+J. Pathrose, L. Zou, K. Chai, M. Je and Y.P. Xu, "A Time-Domain Smart 
+Temperature Sensor without an Explicit Bandgap Reference in SOI 
+CMOS Operating up to 225oC," 
+, Singapore, 11 - 13 Nov 2013, pp. 173-176.
+•
+J. Zhao, L. Yao, R. Xue, P. Li, M. Je and Y.P. Xu, "A Wireless Power 
+Management and Data Telemetry Circuit Module for High Compliance 
+Voltage Electrical Stimulation Applications," 
+, Singapore, 11 - 13 Nov 2013, pp.253-256.
+•
+K. A. Ng and Y. P. Xu, "A Compact, Low Input Capacitance Neural 
+Recording Amplifier with Cin/Gain of 20fF.V/V," 
+, Hsinchu, Taiwan, 28 - 30 
+Nov 2012
+•
+K. A. Ng, X. Liu, J. Zhao, X. Li, S-C Yen, M. Je, Y. P. Xu, T. C. Tan, "A 
+Inductively Powered CMOS Multichannel Bionic Neural Link for 
+Peripheral Nerve Function Restoration," 
+, Kobe, Japan, 12 - 14 Nov 2012, pp.181-184.
+•
+Y. P. Xu, S-C Yen, K.A. Ng, X Liu, T. C. Tan, "A Bionic Neural Link for 
+Peripheral Nerve Repair," 
+, San Diego, 
+USA, 28 Aug - 1 Sept, 2012.
+•
+J. Tan, X. Liu, K.H.Wee, S-C Yen, Y.P. Xu, and T.C.Tan, "A Monolithic 
+Programmable Nerver/Muscle Stimulator,"
+, Cancun, Mexico, 27 April - 2 
+May, 2011.
+2014 IEEE Asian 
+Solid-State Circuits Conference (A-SSCC)
+2014 36th International Annual 
+Conference of the IEEE Engineering in Medicine & Biology Society 
+(EMBC)
+2013 IEEE Asian Solid-State Circuits 
+Conference (A-SSCC)
+2013 IEEE Asian Solid-State 
+Circuits Conference (A-SSCC)
+2012 IEEE Biomedical 
+Circuits and Systems Conference (BioCAS)
+2012 IEEE Asian Solid-State 
+Circuits Conference (A-SSCC)
+34th International Annual Conference of the 
+IEEE Engineering in Medicine & Biology Society (EMBC)
+2011 5th International IEEE 
+EMBS Conference on Neural Engineering
+HOME (/)
+ABOUT (/ABOUT.HTML)
+PROFESSIONAL 
+(/PROFESSIONAL.HTML)
+PUBLICATIONS 
+(/PUBLICATIONS.HTML)
+INERTIAL SENSOR 
+SURVEY (/INERTIAL-
+SENSOR-SURVEY.HTML)
+Page 2 of 7
+yong ping xu's publications
+2/1/2018
+http://www.yongpingxu.com/publications.html
+
+-----
+•
+J. Tan, X. Liu, K.H.Wee, S-C Yen, Y.P. Xu,  "A Programmable Muscle 
+Stimulator Based on Dual-Slope Charge Balance," 
+. Korea, 14-18 November, 2011, 
+pp.197-200.
+•
+Y.P. Xu, "Silicon Resonant Accelerometer for Inertial Navigation 
+Systems",
+, Vancouver, 
+Canada,  23 - 25 September 2009 (Invited)
+•
+K. R. Muthusamy and Y.P. Xu,  "A 52 pJ/bit OOK Transmitter with 
+adaptable data rate," 
+. Fukuoka, Japan, 3-5 November, 2008, pp.341-344.
+•
+L. He, Y. P. Xu, and M. Palaniapan, "A CMOS Readout Circuit for Silicon 
+Resonant Accelerometer with 32-ppb bias stability," 
+, Kyoto, Japan, 14 - 16 June 2007, 
+pp.146-147.
+•
+J. Chen and Y.P. Xu, "A 94dB SFDR 78dB DR 2.2MHz BW Multi-bit Delta-
+Sigma Modulator with Noise Shaping DAC," 
+, San Jose, California, USA, 16 - 19 
+September 2007, pp.69-72. (AMD/CICC Student Scholarship Award for 
+one of the highest rated student papers submitted to CICC'07)
+•
+R. Yu and Y.P. Xu, "A 65-dB DR 1-MHz BW 110-MHz IF Bandpass SD 
+Modulator Employing Electromechanical Loop Filter,"
+, San Jose, California, USA, 16-19 
+September 2007, pp.205-208
+•
+J. Chen and Y. P. Xu, "A 94dB SFDR 78dB DR 2.2MHz BW Multi-bit Delta-
+Sigma Modulator with Noise Shaping," 
+, 2007. (DAC/ISSCC Student Design Contest Winner - Operation 
+category).
+•
+H. Wu and Y.P. Xu, "A 1V 2.3mW Biomedical Signal Acquisition IC," 
+. San 
+Francisco, California, USA, 5 - 9 February 2006, pp.58-59.
+•
+Y. Zheng, Y. Tong, C.W. Ang, Y.P. Xu, W.G.Yeoh, F. Lin, and R. Singh, "A 
+CMOS Carrierless UWB Transceiver for WPAN Applications," 
+, San Francisco, 
+California, USA, 5 - 9 February 2006, pp.116-117.
+2011 IEEE Asian Solid-
+State Circuits Conference (A-SSCC)
+The CMOS Emerging Technology Workshop
+2008 IEEE Asian Solid-State Circuits Conference 
+(A-SSCC)
+The 2007 
+Symposium on VLSI Circuits (VLSI)
+2007 IEEE Custom 
+Integrated Circuits Conference (CICC)
+2007 IEEE Custom 
+Integrated Circuits Conference (CICC)
+Design Automation Conference 
+(DAC)
+2006 
+IEEE International Solid-State Circuits Conference (ISSCC)
+2006 IEEE 
+International Solid-State Circuits Conference (ISSCC)
+HOME (/)
+ABOUT (/ABOUT.HTML)
+PROFESSIONAL 
+(/PROFESSIONAL.HTML)
+PUBLICATIONS 
+(/PUBLICATIONS.HTML)
+INERTIAL SENSOR 
+SURVEY (/INERTIAL-
+SENSOR-SURVEY.HTML)
+Page 3 of 7
+yong ping xu's publications
+2/1/2018
+http://www.yongpingxu.com/publications.html
+
+-----
+•
+Y.P. Xu, R. Yu, W-T Hsu, and A. R. Brown,  "A Silicon Micromechanical 
+Resonator Based CMOS Bandpass Sigma-Delta Modulator," 
+. Hongzhou, China, 13 - 15 
+November 2006, pp.143-146.
+•
+R. Yu and Y.P. Xu, "A 47.3-MHz SAW Resonator Based CMOS Second-
+Order Bandpass Sigma-Delta Modulator with 54-dB Peak 
+SNDR," 
+, San 
+Jose, California, USA, 18 - 21 September 2005, pp.203-20
+•
+L. He, Y.P. Xu and A.Qiu, "Folded Silicon Resonant Accelerometer with 
+Temperature Compensation," 
+, Vienna, 
+Austria, 24-27 October 2004, pp. 512-515.
+Journal Papers:
+•
+J Zhao, X Wang, Y Zhao, GM Xia, AP Qiu, Y Su, YP Xu, "A 0.23-μg Bias 
+Instability and 1-μg/√ Hz Acceleration Noise Density Silicon 
+Oscillating Accelerometer With Embedded Frequency-to-Digital 
+Converter in PLL (https://scholar.google.com.sg/scholar?
+oi=bibs&cluster=16355599538797352049&btnI=1&hl=en)," 
+, Vol.52, No.4, pp. 1053-1065, April 2017.
+•
+X. Wang, J. Zhao, Y. Zhao, G.M. Xia, A. Qiu, Y. Su, and Y.P. Xu, "A 0.4μg 
+Bias-Instability and 1.2μg/√Hz Noise Floor MEMS Silicon Oscillating 
+Accelerometer with CMOS Readout Circuit," 
+, Vol.52, No.2, pp. 472-482, February 2017.
+•
+J. Zhao, Y. Zhao, X. Wang, G.M. Xia, A. Qiu, Y. Su, and Y.P. Xu, "A System 
+Decomposition Model for Phase Noise in Silicon Oscillationg 
+Accelerometers," 
+Vol.16, No.13, pp. 5259-5269, July 
+2016.
+•
+K.A. Ng and Y.P. Xu, " "A Low Power, High CMRR Neural amplifier 
+system employing CMOS inverter-based OTAs with CMFB through 
+Supply Rails," 
+. Vol. 51, No. 3, pp. 724 
+- 737, March 2016.
+•
+J. Zhao, L.Yao, R. Xue, P. Li, M. Je, and Y.P. Xu, "An Integrated Wireless 
+Power Management and Data Telemetry IC for High-Compliance-
+2006 IEEE 
+Asian Solid-State Circuits Conference (A-SSCC)
+2005 IEEE Custom Integrated Circuits Conference (CICC)
+Proceedings of IEEE Sensor 2004
+IEEE 
+Journal of Solid-State Circuits
+IEEE Journal of Solid-State 
+Circuits
+IEEE Sensors Journal, 
+IEEE Journal of Solid-State Circuits
+HOME (/)
+ABOUT (/ABOUT.HTML)
+PROFESSIONAL 
+(/PROFESSIONAL.HTML)
+PUBLICATIONS 
+(/PUBLICATIONS.HTML)
+INERTIAL SENSOR 
+SURVEY (/INERTIAL-
+SENSOR-SURVEY.HTML)
+Page 4 of 7
+yong ping xu's publications
+2/1/2018
+http://www.yongpingxu.com/publications.html
+
+-----
+Voltage Electrical Stimulation Applications", 
+. Vol. 10, No. 1, pp. 113 - 124, February 
+2016.
+•
+K. A. Ng, E Greenwald, Y. P. Xu, and N. Thakor, "Implantable 
+Neurotechnologies: A Review of Integrated Circuit Neural 
+Amplifiers," 
+, January 2016, Vol. 54, No. 1,
+(http://link.springer.com/journal/11517/54/1/page/1) pp 45-62,
+•
+Y. Zhao, J. Zhao, X. Wang, G.M. Xia, A. Qiu, Y. Su, and Y.P. Xu, "A sub-
+μg Bias Instability and 2μg/√ Hz-resolution MEMS oscillating 
+accelerometer with an Ultra Low Noise readout circuit in CMOS," 
+, Vol. 50, No. 9, pp. 2113 - 2126, Sept 2015.
+•
+J. Pathrose, C. Liu, K. T. C. Chai, and Y. P. Xu, "A Time-Domain Bandgap 
+Temperature Sensor in SOI CMOS for High Temperature 
+Applications,"
+: 
+, vol. 
+62, pp. 436-440, 2014.
+•
+J. Pathrose, L. Zou, K. T. C. Chai, M. Je, and Y. P. Xu, "Temperature 
+Sensor Front End in SOI CMOS Operating up to 250 oC,"
+: 
+, vol. 61, pp. 496-500, 
+2014.
+•
+K. A. Ng and Y.P Xu, "A Compact, Low Input Capacitance Neural 
+Recording Amplifier," 
+, Vol. 
+7, No. 5, pp. 610-620, October 2013
+•
+L. Zou, J. Pathrose, K. T. C. Chai, M. Je, and Y. P. Xu, "Sample-and-Hold 
+Circuit with Dynamic Switch Leakage Compensation,"
+, Vol. 49, pp. 1323-1325, 2013.
+•
+K. R. Muthusamy, D. Chua and Y.P. Xu,  "A 52 pJ/bit 433-MHz Low Power 
+OOK Transmitter," 
+, Vol 
+70, pp.57-67, 2012.
+•
+L. He, Y.P. Xu, and M. Palanianpan, "A State-Space Phase Noise Model 
+for Nonlinear MEMS Oscillators Employing Automatic Amplitude 
+Control," 
+ . Vol.57, No.1, 
+pp.189-199, January 2010.
+IEEE Transaction on 
+Biomedical Circuits and Systems
+Medical & Biological Engineering & Computing
+(http://link.springer.com/journal/11517)
+IEEE 
+Journal of Solid-State Circuits
+IEEE Transactions on Circuits and Systems II Express
+IEEE 
+Transactions on Circuits and Systems II Express
+IEEE Trans. Biomedical Circuits and Systems
+Electronics 
+Letters
+Analog Integrated Circuit and Signal Processing
+IEEE Transactions on Circuits and Systems - I
+HOME (/)
+ABOUT (/ABOUT.HTML)
+PROFESSIONAL 
+(/PROFESSIONAL.HTML)
+PUBLICATIONS 
+(/PUBLICATIONS.HTML)
+INERTIAL SENSOR 
+SURVEY (/INERTIAL-
+SENSOR-SURVEY.HTML)
+Page 5 of 7
+yong ping xu's publications
+2/1/2018
+http://www.yongpingxu.com/publications.html
+
+-----
+•
+A. J. Chen and Y.P. Xu, "Multi-bit Delta-Sigma Modulator with Noise 
+Shaping Dynamic Element Matching," 
+ . Vol.56, No.6, pp.1125-1133, June 2009.
+•
+Y. Zheng, J. Yan and Y.P. Xu, "A CMOS VGA with DC Offset Cancellation 
+for Direct-Conversion Receivers," 
+ . Vol.56, No.1, pp.103-113, January 2009.
+•
+R. Yu and Y.P. Xu, "Electromechanical Filter Based Bandpass Sigma-
+Delta Modulator,"  
+. Vol.56, No.7, pp.550-554, July 2009.
+•
+L. He, Y.P. Xu, and M. Palanianpan, "A CMOS Readout Circuit for SOI 
+Resonant Accelerometer with 4-mg bias stability and 20-
+mg/Hz1/2 resolution," 
+, Vol. 43, No. 6, 
+pp. 1480-1490, June 2008.
+•
+R. Yu and Y.P. Xu, "Bandpass Sigma-Delta Modulator Employing SAW 
+Resonator as Loop Filter,"  
+ . Vol.54, No.4, pp.723-735, April 2007.
+•
+J. Chen and Y.P. Xu, "A Novel Noise Shaping DAC for Multi-bit Sigma-
+Delta Modulator,"  
+, Vol. 53, No.5, pp. 344-348, May 2006.
+•
+X, Qian, Y.P. Xu, and X.P. Li, "A CMOS Continuous-time Low-pass Notch 
+Filter for EEG Systems,"  Analog Integrated Circuit and Signal 
+Processing, Vol 44, No.3, pp.231-238, September 2005
+•
+X, Qian, X. Li, Y.P. Xu, and Fan, J, "Integrated Driving and Readout 
+Circuits for Orthogonal Fluxgate Sensors,"
+, Vol. 41, No.10, pp.3715-3717, October 2005.
+•
+X, Qian, Y.P. Xu, and G. Karunasiri, "Self-heating Cancellation Circuits 
+for Microbolometer," 
+, Vol. 111, No.2, 
+pp.196-202, 2004.
+Book chapters:
+•
+Y.P. Xu, "Uncooled Infrared Detectors", Chapter in 
+, Vol. 10, pp.375-390, American Scientific Publishers, 2005.
+IEEE Transactions on Circuits and 
+Systems - I
+IEEE Transactions on Circuits and 
+Systems - I
+IEEE Transactions on Circuits and Systems II -
+Express
+IEEE Journal of Solid-State Circuits
+IEEE Transactions on Circuits and Systems -
+I
+IEEE Transactions on Circuits and Systems II -
+Express
+IEEE Transactions on 
+Magnetics
+Sensors and Actuators A: Physical
+Encyclopedia of 
+Sensors
+HOME (/)
+ABOUT (/ABOUT.HTML)
+PROFESSIONAL 
+(/PROFESSIONAL.HTML)
+PUBLICATIONS 
+(/PUBLICATIONS.HTML)
+INERTIAL SENSOR 
+SURVEY (/INERTIAL-
+SENSOR-SURVEY.HTML)
+Page 6 of 7
+yong ping xu's publications
+2/1/2018
+http://www.yongpingxu.com/publications.html
+
+-----
+•
+Y. Zheng, R. Singh, and Y.P. Xu, "Pulse-Based UWB Integrated 
+Transceiver Circuits and Systems," 
+, pp. 153-193, Springer US, 2008
+Ultra Wideband: Circuits, 
+Architectures and Systems
+HOME (/)
+ABOUT (/ABOUT.HTML)
+PROFESSIONAL 
+(/PROFESSIONAL.HTML)
+PUBLICATIONS 
+(/PUBLICATIONS.HTML)
+INERTIAL SENSOR 
+SURVEY (/INERTIAL-
+SENSOR-SURVEY.HTML)
+Page 7 of 7
+yong ping xu's publications
+2/1/2018
+http://www.yongpingxu.com/publications.html
+
+-----

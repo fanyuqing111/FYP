@@ -1,0 +1,43 @@
+Author’s Publications 
+ 
+Journal Papers 
+ 
+[1] Dongyun Lin, Lei Sun, Kar-Ann Toh, Jing Bo Zhang, and Zhiping Lin. Twin SVM 
+with a reject option through ROC curve. Journal of the Franklin Institute, 355(4):1710 
+– 1732, 2018. Special Issue on Recent advances in machine learning for signal 
+analysis and processing. 
+ 
+[2] Dongyun Lin, Lei Sun, Kar-Ann Toh, Jing Bo Zhang, and Zhiping Lin. Biomedical 
+image classification based on a cascade of an SVM with a reject option and 
+subspace analysis. Computers in Biology and Medicine, 96:128 – 140, 2018. 
+ 
+ 
+Conference Papers 
+ 
+[1] Dongyun Lin, Zhiping Lin, Ramraj Velmurugan, and Raimund J Ober. Automatic 
+endosomal structure detection and localization in fluorescence microscopic images. 
+In Circuits and Systems (ISCAS), 2017 IEEE International Symposium on, pages 1–
+4. IEEE, 2017. 
+ 
+[2] Dongyun Lin, Zhiping Lin, Lei Sun, Kar-Ann Toh, and Jiuwen Cao. LLC encoded 
+BoW features and softmax regression for microscopic image classification. In 
+Circuits and Systems (ISCAS), 2017 IEEE International Symposium on, pages 1–4. 
+IEEE, 2017. 
+ 
+[3] Dongyun Lin, Zhiping Lin, Shakeela Sothiharan, Lei Lei, and Jingbo Zhang. An 
+SVM based scoring evaluation system for fluorescence microscopic image 
+classification. In Digital Signal Processing (DSP), 2015 IEEE International 
+Conference on, pages 543–547. IEEE, 2015. 
+ 
+[4] Xu Zhang, Yunfeng Liang, Dongyun Lin, Zhiping Lin, Steven Tien Guan Thng, 
+Emily Yiping Gan, and Evelyn Yuxin Tay. Reaction-diffusion based level set method 
+with local entropy thresholding for melasma image segmentation. In Control, 
+Automation, Robotics and Vision (ICARCV), 2016 14th International Conference on, 
+pages 1–5. IEEE, 2016. 
+ 
+[5] Long D. Nguyen, Dongyun Lin, Zhiping Lin, and Jiuwen Cao. Deep CNNs for 
+microscopic image classification by exploiting transfer learning and feature 
+concatenation. In Circuits and Systems (ISCAS), 2018 IEEE International 
+Symposium on. IEEE, Accepted, 2018. 
+
+-----

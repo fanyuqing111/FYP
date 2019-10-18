@@ -1,0 +1,51 @@
+Abstract 
+In recent years, the wavelength range over which silicon photonics can operate has been 
+extended to the mid-infrared (IR) regions (2 to 20 µm). Since many molecules and substances 
+have their specific absorption peaks in the mid-IR range, this has provided us with a good 
+opportunity to use silicon photonic device as a sensor of trace elements of chemicals in either 
+gaseous, liquid or solid phases. In addition, Mid-IR also has many potential applications in free 
+space data communication, IR imaging of biological tissues, spectroscopy and many.  
+Conventional Germanium (Ge) on Silicon (Si) structure (GOS) has a small core/clad 
+refractive index contrast which makes a compact design of sensing devices difficult to realize. 
+The silicon on insulator (SOI) structure is a very mature and well established platform. However, 
+SiO2 is only transparent up to about 3.8 µm. When Ge on SiO2 structure is used for sensing, 
+absorption by the SiO2 layer degrades the performance of such devices. Therefore, the main 
+objective of this PhD work is to realize a scalable and CMOS compatible germanium-on-
+insulator platform with wide transparency range in mid-IR as well as a large core-clad refractive 
+index contrast in order to realize high performance and compact devices at low cost. Silicon 
+Nitride (SiNx) is known to be transparent up to 9µm and it can provide a significant refractive 
+index contrast with Ge. Therefore, Ge on SiNx (GON) is proposed as a possible structure for 
+sensing application in the mid-IR range. However, high-quality single crystal Ge cannot be 
+directly deposited on buried SiNx layer as SiNx is an amorphous material. In this thesis, a novel 
+method enabled by wafer bonding and layer transfer is used to obtain a high quality Ge on SiNx 
+structure. The fabrication processes have been discussed and optimized to obtain a Ge layer with 
+low defect level (Threading Dislocation Density<5×106 cm-2) and an inherent tensile strain of 
+0.13%. In order to characterize the passive devices fabricated on GON, an optical testing 
+platform has been built up exclusively for mid-IR applications ranging from 3.65 to 3.9 µm. 
+After the preparation of the new structure wafer and the built-up of testing platform, systematical 
+studies consist of modeling by finite difference time domain (FDTD) method, fabrication and 
+characterization of the strip waveguides and bending waveguides on GON and on GOS wafer, 
+respectively, have been carried out. The simulation results show that the performance gap 
+becomes larger as the radius of the bending waveguide decreases. In addition, the experimental 
+results demonstrate that the propagation loss of the strip waveguide on GON is 3.35dB/cm at the 
+
+-----
+wavelength of 3.8µm and the bend loss of the bending waveguide is 0.14dB/bend at the radius of 
+5 µm while the bend loss of the bending waveguide on GOS is 2.54dB/bend at the same radius, 
+which proves the proposal that GON platform can provide us with a more compact design of 
+devices.  
+Mid-IR sensing applications have been explored using this novel GON platform as optical 
+chemical detection is a fast growing market in many fields of use. The principle of the Mid-IR 
+waveguide sensor is evanescent field sensing which is based on the interaction of the evanescent 
+field of a waveguide mode with the surrounding substances and the resulting perturbation of the 
+intensity of the mode at the output end of the waveguide. In order to improve the sensitivity, two 
+strategies have been applied. One is to increase the length of waveguides thus to increase the 
+interaction area with the surrounding chemicals. Another is to extend the evanescent field to 
+enhance the absorption. Thus different structures of waveguides have been studied like spiral, 
+pedestal, and slot waveguide either to increase the length or to extend the evanescent field. This 
+thesis provides deep insights, with experimental results, into the design and optimization of the 
+Mid-IR waveguide sensors on germanium-on-silicon nitride as well as germanium-on-silicon 
+dioxide platforms. 
+ 
+
+-----

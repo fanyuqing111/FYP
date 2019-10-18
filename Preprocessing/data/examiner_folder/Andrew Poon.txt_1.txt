@@ -1,0 +1,841 @@
+Photonic Device Laboratory - Hong Kong University of Science and Technology
+http://www.ee.ust.hk/~pdl/[6/18/2018 2:49:51 PM]
+Contact Us | ECE | HKUST  
+ 
+ 
+ Introduction
+Research
+Publications
+Presentations
+Undergraduate
+research
+Theses
+Awards
+People
+News
+Photo
+album
+Links
+ PEOPLE
+  
+ 
+Faculty | Group Members | Former Members | Distinguished FYP Graduates
+  
+ 
+ 
+ Faculty
+ 
+Andrew W. Poon received his B.A. degree (with Hons.) in Physics
+from The University of Chicago, Illinois, in 1995, M.Phil. and Ph.D.
+degrees in Physics from Yale University, New Haven, Connecticut in
+1998 and 2001, respectively. In 2001, he joined the Department of
+Electronic and Computer Engineering, The Hong Kong University of
+Science and Technology, as an Assistant Professor. He is currently a
+Professor and Director of the Nanosystem Fabrication Facility (NFF).
+He has authored or coauthored 180 papers in journals and international
+conferences, co-authored three book chapters, co-edited one book and
+awarded two patents. He has served as the chair of The IEEE Photonics
+Society, Hong Kong Chapter (2008–2009). During his second-term
+tenure, the Hong Kong Chapter was awarded the Society “Chapter of
+the Year” Award 2009. He has served on and chaired various technical
+program committees of international conferences, and as a guest editor
+of the IEEE Journal of Selected Topics in Quantum Electronics. He is
+currently a Senior Editor and an Associate Editor of the IEEE Photonics
+Technology Letters. His current research interest includes silicon
+photonics, heterogeneous integrated III-V-on-silicon photonics, optical
+microresonators, on-chip optical interconnects, integrated nonlinear and
+quantum photonics, optical manipulation of particles/cells and
+biosensing.
+ 
+ 
+Website: http://www.ece.ust.hk/~eeawpoon
+BACK
+ Group members
+ 
+Bo Xue Tan received his B.Sc. (with Hons.) degree in Physics from
+National University of Singapore in 2016. He is now studying for the
+Ph.D. degree in the Department of Electronic and Computer
+Engineering, The Hong Kong University of Science and Technology,
+Hong Kong.
+
+-----
+Photonic Device Laboratory - Hong Kong University of Science and Technology
+http://www.ee.ust.hk/~pdl/[6/18/2018 2:50:27 PM]
+Contact Us | ECE | HKUST  
+ 
+ 
+ Introduction
+Research
+Publications
+Presentations
+Undergraduate
+research
+Theses
+Awards
+People
+News
+Photo
+album
+Links
+ PUBLICATIONS
+ 
+ 
+Book Chapters| 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 | 2011 | 2010 | 2009 |
+2008 | 2007 | 2006 | 2005 | 2004 | 2003
+ Book
+Chapters
+ 
+T. Lei, S. Feng, A. Sayarath, J. Song, X. Luo, G.-Q. Lo, and A. W. Poon
+ 
+"Multichannel Silicon Photonic Devices "
+ 
+a chapter in Handbook of Silicon Photonics, Ed. Laurent Vivien and Lorenzo Pavesi,
+Taylor and Francis Group, 2013.
+ 
+ 
+ 
+ 
+ 
+ 
+X. Luo and A. W. Poon
+ 
+"Microspiral and Double-Notch-Shaped Resonators for Integrated Photonics "
+ 
+a chapter in Optical Processes in Microparticles and Nanostructures, Ed. Ali
+Serpengüzel and Andrew W Poon, World Scientific, 2011.
+ 
+ 
+ 
+A. W. Poon, X. Luo, L. Zhou, C. Li, J. Y. Lee, F. Xu, H. Chen, and N. K. Hon
+ 
+"Microresonator-based devcies on a silicon chip: novel shaped cavities and
+resonance coherent interference "
+ 
+a chapter in Practical Applications of Microresonators in Optics and Photonics, Ed.
+Andrey Matsko, Taylor and Francis Group, 2009.
+ 
+ 
+ 
+ 
+ 
+ 
+BACK
+
+-----
+Photonic Device Laboratory - Hong Kong University of Science and Technology
+http://www.ee.ust.hk/~pdl/[6/18/2018 2:50:27 PM]
+ 
+2018
+ 
+ 
+Z. Yao and A. W. Poon
+ 
+ 
+"Optical lattice generation using vertically embedded multimode-interference
+squarecore polymer waveguides on a silicon chip "
+ 
+ 
+Optics Express Vol. 26, Issue 11, pp. 14752-14767 (2018)
+ 
+ 
+ 
+ 
+BACK
+ 
+2017
+ 
+ 
+ 
+ 
+BACK
+ 
+2016
+ 
+Y. Li and A. W. Poon
+ 
+ 
+"Actively stabilized silicon microrings with integrated surface-state-absorption
+photodetectors using a slope-detection method "
+ 
+ 
+Optics Express Vol. 24, Issue 19, pp. 21286-21300 (2016)
+ 
+BACK
+ 
+2015
+ 
+Y. Li, Y. Zhang, L. Zhang and A. W. Poon
+ 
+ 
+"Silicon and hybrid silicon photonic devices for intra-datacenter applications:
+state of the art and perspectives "
+ 
+ 
+Photonics Research, Vol 3, 5, B10 (2015)
+ 
+ 
+ 
+ 
+J. Wang, Z. Yao and A. W. Poon
+ 
+ 
+"Silicon-nitride-based integrated optofluidic biochemical sensors using a coupled-
+resonator optical waveguide"
+ 
+ 
+Frontiers in Materials, 2, 34 (2015)
+ 
+ 
+ 
+ 
+Y. Li and A. W. Poon
+ 
+ 
+"Active resonance wavelength stabilization for silicon microring resonators with
+an in-resonator defect-state-absorption-based photodetector"
+ 
+ 
+Optics Express, Vol. 23 Issue 1, pp.360-372 (2015)
+ 
+BACK
+ 
+2014
+ 
+J. Wang, Z. Yao, T. Lei and A. W. Poon
+ 
+ 
+"Silicon coupled-resonator optical-waveguide-based biosensors using light-
+scattering pattern recognition with pixelized mode-field-intensity distributions"
+ 
+ 
+Scientific Reports, Vol. 4, 7528 (2014)
+ 
+ 
+ 
+ 
+Y.-D. Yang, Y. Li, Y.-Z. Huang and A. W. Poon
+ 
+ 
+"Silicon nitride three-mode division multiplexing and wavelength-division
+multiplexing using asymmetrical directional couplers and microring resonators"
+ 
+ 
+Optics Express, Vol. 22 Issue 18, pp.22172-22183 (2014)
+ 
+ 
+ 
+
+-----
+Photonic Device Laboratory - Hong Kong University of Science and Technology
+http://www.ee.ust.hk/~pdl/[6/18/2018 2:50:27 PM]
+ 
+Q. Pan, Z. Hou, Y. Li, A. W. Poon and C. P. Yue
+ 
+ 
+"A 0.5-V P-Well/Deep N-Well Photodetector in 65-nm CMOS for Monolithic 850-nm
+Optical Receivers "
+ 
+ 
+IEEE Photon. Technol. Lett., Vol. 26, No. 12, pp. 1184 - 1187 (2014)
+ 
+ 
+ 
+ 
+Y. Geng, S. Feng, A. W. Poon and K. M. Lau
+ 
+ 
+"High-Speed InGaAs Photodetectors by Selective-Area MOCVD Toward
+Optoelectronic Integrated Circuits"
+ 
+ 
+IEEE J. Selected Topics in Quantum Electronics, Vol. 20, Issue: 6, pp.3801807 (2014)
+ 
+ 
+ 
+ 
+J. Wang and A. W. Poon
+ 
+ 
+"Unfolding a design rule for microparticle buffering and dropping in microring-
+resonator-based add-drop devices"
+ 
+ 
+Lab on a Chip, Issue 14, pp.1426-1436 (2014)
+ 
+ 
+ 
+ 
+Y. Zhang, Y. Li, S. Feng and A. W. Poon
+ 
+ 
+"Towards adaptively tuned silicon microring resonators for optical networks-on-
+chip applications"
+ 
+ 
+IEEE J. Selected Topics in Quantum Electronics, Vol. 20, Issue: 4, pp.5900514 (2014)
+ 
+ 
+ 
+ 
+Y.-D. Yang, Y. Zhang, Y.-Z. Huang and A. W. Poon
+ 
+ 
+"Direct-modulated waveguide-coupled microspiral disk lasers with spatially
+selective injection for on-chip optical interconnects"
+ 
+ 
+Optics Express, Vol. 22, Issue 1, pp. 824-838 (2014)
+ 
+BACK
+ 
+2013
+ 
+Y. Li, S. Feng, Y. Zhang and A. W. Poon
+ 
+ 
+"Sub-bandgap linear-absorption-based photodetectors in avalanche mode in PN-
+diode-integrated silicon microring resonators"
+ 
+ 
+Optics Letters, Vol. 38 Issue 23, pp.5200-5203 (2013)
+ 
+ 
+ 
+ 
+T. Lei and A. W. Poon
+ 
+ 
+"Silicon-on-insulator multimode-interference waveguide-based arrayed optical
+tweezers (SMART) for two-dimensional microparticles trapping and manipulation"
+ 
+ 
+Optics Express, Vol. 21, Issue 2, pp. 1520-1530 (2013)
+ 
+ 
+ 
+2012
+ 
+S. Feng, Y. Geng, K. M. Lau, and A. W. Poon
+ 
+ 
+"Epitaxial III-V-on-silicon waveguide butt-coupled photodetectors"
+ 
+ 
+Optics Letters, Vol. 37, Issue 19, pp. 4035-4037 (2012)
+ 
+ 
+ 
+ 
+H. Cai and A. W. Poon
+"Optical trapping of microparticles using silicon nitride waveguide junctions and
+
+-----
+Photonic Device Laboratory - Hong Kong University of Science and Technology
+http://www.ee.ust.hk/~pdl/[6/18/2018 2:50:27 PM]
+ 
+ 
+tapered-waveguide junctions on an optofluidic chip"
+ 
+ 
+Lab on a Chip, Issue 19, 12, pp. 3803-3809 (2012)
+ 
+ 
+ 
+ 
+H. Cai and A. W. Poon
+ 
+ 
+"Planar optical tweezers using tapered-waveguide junctions"
+ 
+ 
+Optics Letters, Vol. 37, Issue 14, pp. 3000-3002 (2012)
+ 
+ 
+ 
+ 
+A. W. Poon and H. Cai
+ 
+ 
+"Adapting optical fields for particle manipulation on a chip"
+ 
+ 
+SPIE Newsroom, 15 May 2012
+ 
+ 
+ 
+ 
+X. Luo, J. Song, S. Feng, A. W. Poon, T.Y. Liow, M. Yu, G. Q. Lo and D. L. Kwong
+ 
+ 
+"Silicon high-order coupled-microring-based electro-optical switches for on-chip
+optical interconnects"
+ 
+ 
+IEEE Photon. Technol. Lett., Vol. 24, No. 10, pp. 821-823 (2012)
+ 
+ 
+ 
+ 
+S. Feng, T. Lei, H. Chen, H.Cai, X. Luo and A. W. Poon
+ 
+ 
+"Silicon photonics: from a microresonator perspective"
+ 
+ 
+Laser & Photon. Rev., Vol. 6, No. 2, pp. 145–177 (2012)
+ 
+ 
+ 
+ 
+Y. Gao, Z. Zhong, S. Feng, Y. Geng, H. Liang, A.W. Poon and K. M. Lau
+ 
+ 
+"High-Speed Normal-Incidence p-i-n InGaAs Photodetectors Grown on Silicon
+Substrates by MOCVD"
+ 
+ 
+IEEE Photon. Technol. Lett., Vol. 24, No. 4, pp. 237 - 239 (2012)
+ 
+ 
+BACK
+2011
+ 
+H. Cai and A. W. Poon
+ 
+ 
+"Optical manipulation of microparticles using whispering-gallery modes in a
+silicon nitride microdisk resonator"
+ 
+ 
+Optics Letters, Vol. 36, Issue 21, pp. 4257-4259 (2011)
+ 
+ 
+ 
+ 
+T. Lei and A. W. Poon
+ 
+ 
+"Modeling of coupled-resonator optical waveguide (CROW) based refractive index
+sensors using pixelized spatial detection at a single wavelength"
+ 
+ 
+Optics Express, Vol. 19, Issue 22, pp. 22227-22241 (2011)
+ 
+ 
+ 
+ 
+A. W. Poon, L. Zhou, J. Chen, Y. Z. Huang, J. Yu, J. J. He and H. K. Tsang
+ 
+ 
+"Integrated Photonics Research in China"
+ 
+ 
+Optics & Photon. News, Vol. 22, Issue 9, pp. 22-29 (2011)
+ 
+ 
+ 
+ 
+S.Feng, X. Luo, S. Du and A. W. Poon
+ 
+ 
+"Electro-optical tunable time delay and advance in a silicon feedback-microring
+
+-----
+Photonic Device Laboratory - Hong Kong University of Science and Technology
+http://www.ee.ust.hk/~pdl/[6/18/2018 2:50:27 PM]
+ 
+resonator"
+ 
+ 
+Optics Letters, Vol. 36, Issue 7, pp. 1278-1280 (2011)
+ 
+BACK
+ 
+2010
+ 
+X. Luo, H. Chen and A. W. Poon
+ 
+ 
+"Electro-optical tunable time delay and advance in silicon microring resonators"
+ 
+ 
+Optics Letters, Vol. 35, Issue 17, pp. 2940-2942 (2010)
+ 
+ 
+ 
+ 
+H. Cai and A. W. Poon
+ 
+ 
+"Optical manipulation and transport of microparticles on silicon nitride microring-
+resonator-based add–drop devices"
+ 
+ 
+Optics Letters, Vol. 35, Issue 17, pp. 2855-2857 (2010)
+ 
+ 
+ 
+ 
+Y. Liu and A. W. Poon
+ 
+ 
+"Flow-assisted Single-beam Optothermal Manipulation of Microparticles"
+ 
+ 
+Optics Express, Vol. 18, Issue 17, pp. 18483-18491 (2010)
+ 
+ 
+Virtual Journal for Biomedical Optics, Vol. 5, Issue 13, pp. 18483-18491 (2010)
+ 
+ 
+ 
+ 
+H. Chen and A. W. Poon
+ 
+ 
+"Two-photon absorption photocurrent in p-i-n diode embedded silicon microdisk
+resonators"
+ 
+ 
+Appl. Phys. Lett. 96, 191106, May 2010
+ 
+BACK
+ 
+2009
+ 
+X. Luo and A. W. Poon
+ 
+ 
+"Many-element coupled-resonator optical waveguides using gapless-coupled
+microdisk resonators"
+ 
+ 
+Optics Express, Vol. 17, Issue 26, pp. 23617-23628, December 2009 
+ 
+ 
+ 
+ 
+H. Chen, X. Luo, and A. W. Poon
+ 
+ 
+"Cavity-enhanced photocurrent generation by 1.55  µm wavelengths linear
+absorption in a p-i-n diode embedded silicon microring resonator"
+ 
+ 
+Appl. Phys. Lett. 95, 171111, October 2009
+ 
+ 
+ 
+ 
+A. W. Poon, X. Luo, F. Xu, and H. Chen
+ 
+ 
+"Cascaded microresonator-based matrix switch for silicon on-chip optical
+interconnection"
+ 
+ 
+Proceedings of the IEEE, Volume: 97, Issue 7, pp. 1216-1238(2009).
+ 
+ 
+ 
+X. Luo and A. W. Poon
+ 
+ 
+"Double-notch-shaped microdisk resonator devices with gapless coupling on a
+silicon chip"
+ 
+ 
+Chinese Optics Letters, Vol.07, Issue 04, pp. 296-298, Apr. 2009.
+
+-----
+Photonic Device Laboratory - Hong Kong University of Science and Technology
+http://www.ee.ust.hk/~pdl/[6/18/2018 2:50:27 PM]
+ 
+BACK
+ 
+2008
+ 
+A. W. Poon, X. Luo, H. Chen, G. E. Fernandes and R. K. Chang
+ 
+ 
+"Microspiral resonators for integrated photonics "
+ 
+Optics & Photonics News, Vol. 19, No. 10, October 2008
+ 
+ 
+ 
+ 
+L. Zhou, H. Chen, and A. W. Poon
+ 
+ 
+"On-chip NRZ-to-PRZ format conversion using narrow-band silicon microring
+resonator-based notch filters"
+ 
+ 
+J. Lightwave Techonol. 26, pp. 1950-1955, July 2008.
+ 
+ 
+ 
+ 
+F. Xu and A. W. Poon
+ 
+ 
+"Silicon cross-connect filters using microring resonator coupled multimode-
+interference-based waveguide crossings"
+ 
+ 
+Opt. Express 16, pp. 8649-8657, June 2008
+ 
+ 
+ 
+C. Li, X. Luo, and A. W. Poon
+ 
+ 
+"Dual-microring-resonator electro-optic logic switches on a silicon chip"
+ 
+ 
+Semicond. Sci. Technol. 23 064010, May 2008
+ 
+ 
+ 
+X. Luo, H. Chen, and A. W. Poon
+ 
+ 
+"Reciprocal transmissions and asymmetric modal distributions in waveguide-
+coupled spiral-shaped microdisk resonators: Reply"
+ 
+ 
+Opt. Express 16, pp. 5876-5877, April 2008
+ 
+ 
+ 
+A. W. Poon, L. Zhou, F. Xu, C. Li, H. Chen, T. Liang, Y. Liu, H. Tsang 
+ 
+ 
+"Silicon Photonics Research in Hong Kong: Microresonator Devices and Optical
+Nonlinearities"
+ 
+ 
+IEICE TRANSACTIONS on Electronics, Vol.E91-C, No.2, pp.156-166, Feb. 2008
+ 
+BACK
+ 
+2007
+ 
+X. Luo and A. W. Poon
+ 
+ 
+"Coupled spiral-shaped microdisk resonators with non-evanescent asymmetric
+inter-cavity coupling"
+ 
+ 
+Opt. Express, 15, pp. 17313-17322, Dec 2007
+ 
+ 
+ 
+ 
+J. Y. Lee, X. Luo and A. W. Poon
+ 
+ 
+"Reciprocal transmissions and asymmetric modal distributions in waveguide-
+coupled spiral-shaped microdisk resonators"
+ 
+ 
+Opt. Express, 15, pp. 14650-14666, Oct 2007
+ 
+ 
+ 
+ 
+N. K. Hon and A. W. Poon
+ 
+"Surface plasmon resonance-assisted coupling to whispering-gallery modes in
+
+-----
+Photonic Device Laboratory - Hong Kong University of Science and Technology
+http://www.ee.ust.hk/~pdl/[6/18/2018 2:50:27 PM]
+micropillar resonators"
+ 
+J. Opt. Soc. Am. B, 24, pp. 1981 - 1986, Aug 2007
+ 
+ 
+ 
+ 
+L. Zhou and A. W. Poon
+ 
+"Electrically reconfigurable silicon microring resonator-based filter with
+waveguide-coupled feedback"
+ 
+Opt. Express, 15 , pp. 9194 - 9204, July 2007
+ 
+ 
+ 
+ 
+C. Li, L. Zhou and A. W. Poon
+ 
+"Silicon microring carrier-injection-based modulators/switches with tunable
+extinction ratios and OR-logic switching by using waveguide cross-coupling"
+ 
+Opt. Express, 15 , pp. 5069 - 5076, April 2007
+ 
+ 
+L. Zhou and A. W. Poon
+ 
+"Fano resonance-based electrically reconfigurable add-drop filters in silicon
+microring resonator-coupled Mach-Zehnder interferometers"
+ 
+Opt. Lett., 32 , pp. 781 - 783, April 2007
+ 
+BACK
+ 
+2006
+ 
+C. Li, L. Zhou, S. Zheng and A. W. Poon
+ 
+"Silicon Polygonal Microdisk Resonators"
+ 
+IEEE J. Selected Topics in Quantum Electronics, Vol. 12, Issue: 6, Part 2, pp. 1438 -
+1449, Nov.-dec. 2006
+ 
+ 
+ 
+S. Zheng, H. Chen and A. W. Poon
+ 
+"Microring-Resonator Cross-Connect Filters in Silicon Nitride: Rib Waveguide
+Dimensions Dependence"
+ 
+IEEE J. Selected Topics in Quantum Electronics, Vol. 12, Issue: 6, Part 2, pp. 1380 -
+1387, Nov.-dec. 2006
+ 
+ 
+ 
+H. Chen and A. W. Poon
+ 
+"Low-Loss Multimode-Interference-Based Crossings for Silicon Wire Waveguides"
+ 
+IEEE Photon. Technol. Lett., Vol. 18, pp. 2260 - 2262, Nov. 2006
+ 
+ 
+ 
+H. Chen, K. K. Tsia and A. W. Poon
+ 
+"Surface modes in two-dimensional photonic crystal slabs with a flat dielectric
+margin"
+ 
+Opt. Express, 14, pp. 7368 - 7377, Aug. 2006
+ 
+ 
+ 
+L. Zhou and A. W. Poon
+ 
+"Silicon electro-optic modulators using p-i-n diodes embedded 10-micron-
+diameter microdisk resonators"
+ 
+Opt. Express, 14, pp. 6851- 6857, July 2006
+
+-----
+Photonic Device Laboratory - Hong Kong University of Science and Technology
+http://www.ee.ust.hk/~pdl/[6/18/2018 2:50:27 PM]
+ 
+BACK
+ 
+2005
+ 
+H. T. Lee, L. Zhou, and A. W. Poon
+ 
+"Fano resonances in prism-coupled multimode square micropillar resonators"
+ 
+Opt. Lett., 30 , pp. 1527 - 1529, June 2005
+ 
+ 
+ 
+C. Li and A. W. Poon
+ 
+"Experimental demonstration of waveguide-coupled round-corner octagonal
+microresonators in silicon nitride"
+ 
+Opt. Lett. 30 , pp. 546-548, Mar. 2005
+BACK
+ 
+2004
+ 
+K. K. Tsia and A. W. Poon
+ 
+"Dispersion-guided resonances in two-dimensional photonic-crystal-embedded
+microcavities"
+ 
+Opt. Express, 12, pp. 5711 - 5723, Nov. 2004
+ 
+ 
+ 
+N. Ma, C. Li, and A. W. Poon
+ 
+"Laterally coupled hexagonal micropillar resonator add-drop filters in silicon
+nitride"
+ 
+IEEE Photon. Technol. Lett., Vol. 16, pp. 2487- 2489, Nov. 2004
+ 
+ 
+ 
+C. Y. Fong and A. W. Poon
+ 
+"Planar corner-cut square microcavities: ray optics and FDTD analysis"
+ 
+Opt. Express, Vol. 12, pp. 4864 - 4874, Oct. 2004
+ 
+ 
+ 
+H. Chen, A. W. Poon and X. R. Cao
+ 
+"Transparent monitoring of rise-time using asynchronous amplitude histograms in
+optical transmission systems"
+ 
+J. Lightwave Technol., Vol. 22, pp. 1661-1667, July 2004
+ 
+ 
+ 
+A. W. Poon, C. Li, N. Ma, S. L. Lau, D. T. K. Tong, V. G. Chigrinov
+ 
+"Photonics filters, switches and subsystems for next-generation optical networks"
+ 
+HKIE Transactions, Vol. 11 - Specialized Section on Photonics and Optical
+Communications, pp. 60- 67, June 2004
+ 
+ 
+ 
+C. Li, N. Ma and A. W. Poon
+ 
+"Waveguide-coupled octagonal microdisk channel add-drop filters"
+ 
+Opt. Lett., Vol. 29, pp. 471 - 473, March 2004
+ 
+ 
+ 
+H. T. Lee and A. W. Poon
+ 
+"Fano resonances in prism-coupled square micropillars"
+ 
+Opt. Lett., Vol. 29, pp. 5 -7, Jan. 2004
+
+-----
+Photonic Device Laboratory - Hong Kong University of Science and Technology
+http://www.ee.ust.hk/~pdl/[6/18/2018 2:50:27 PM]
+BACK
+ 
+2003
+ 
+C. Y. Fong and A. W. Poon
+ 
+"Mode field patterns and preferential mode coupling in planar waveguide-coupled
+square microcavities"
+ 
+Opt. Express, Vol. 11, pp. 2897- 2904, Nov. 2003
+ 
+BACK
+ 
+© 2016 Photonic Device Laboratory, HKUST.
+
+-----
+Photonic Device Laboratory - Hong Kong University of Science and Technology
+http://www.ee.ust.hk/~pdl/[6/18/2018 2:50:27 PM]
+
+-----

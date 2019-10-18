@@ -1,0 +1,72 @@
+Abstract
+Classical control theory assumes that the communication links connecting plants,
+sensors and controllers are perfect. However, this is not true in practical applica-
+tions. The imperfection of communication channels would introduce uncertainties
+into feedback control systems, which might impact the stability and performance of
+the corresponding control system. Different issues arise when different communica-
+tion channels are used in control systems, such as the minimal data rate, tolerable
+time delay and minimal signal-to-noise ratio (SNR), etc. This thesis focuses on the
+fading phenomenon in wireless communications and study how the fading affects
+the stability of the feedback control system.
+In the first part of this thesis, we consider the mean square stabilization problem
+of discrete-time linear time invariant (LTI) systems controlled over fading chan-
+nels. Firstly, we consider the power constrained fading channel, which suffers from
+both SNR constraint and time-varying i.i.d. channel fading. We try to character-
+ize the channel requirement for the existence of sensing and control policies that
+can mean square stabilize the linear system. We firstly show that there is a fun-
+damental limitation on the mean square stabilizability obtained via information
+theoretic arguments. For scalar systems and two-dimensional systems, necessary
+and sufficient conditions for the mean square stabilizability are provided. More-
+over, time division multiple access (TDMA) and adaptive TDMA communication
+schemes are designed for high-dimensional systems, which are proved to be optimal
+under certain situations. Then we proceed to study the mean square stabilization
+problem over Gaussian finite-state Markov channels, which suffer from both SNR
+Nanyang Technological University
+Singapore
+
+-----
+iv
+constraints and the correlated channel fading modeled by a Markov chain. Similarly,
+the existence of a fundamental limitation for mean square stabilization is proved.
+Sufficient stabilization conditions achieved with TDMA communication schemes are
+derived in terms of the stability of a Markov jump linear system (MJLS). Besides,
+for the networked control over power constrained Markov lossy channels, one special
+kind of Gaussian finite-state Markov channels, we present a necessary and sufficient
+condition for the mean square stabilization of two-dimensional systems. Moreover,
+improved sufficient stabilization conditions are derived based on an adaptive TDMA
+communication scheme for general high-dimensional systems, which achieves larger
+stabilization regions than the TDMA communication scheme.
+In the second part of this thesis, we study the distributed consensus problem of
+linear multi-agent system (MAS) over fading networks with both undirected com-
+munication topology and directed communication topology. The agents in the MAS
+communicate with each other through fading channels.
+We try to derive condi-
+tions on the agent dynamics, the fading networks and the communication graphs
+to guarantee the existence of a distributed consensus controller. First of all, we
+study the consensus problem under an undirected graph setting. Sufficient condi-
+tions to guarantee mean square consensus are derived with both identical fading
+networks and non-identical fading networks. It is proved that the sufficient condi-
+tion is also necessary for scalar systems. The results imply that the consensusability
+is closely related to the statistics of the fading networks, the eigenratio of the graph,
+and the instability degree of the dynamical system. Then, we consider the mean
+square consensus problem over fading networks with directed graphs.
+Sufficient
+conditions are firstly provided for mean square consensus over identical fading net-
+works with directed graphs. For consensus over non-identical fading networks with
+directed graphs, compressed in-incidence matrix (CIIM), compressed incidence ma-
+trix (CIM) and compressed edge Laplacian (CEL) are proposed to facilitate the
+modeling and consensus analysis. It is shown that the mean square consensusability
+is solely determined by the edge state dynamics on a directed spanning tree. As a re-
+sult, sufficient conditions are provided for mean square consensus over non-identical
+Nanyang Technological University
+Singapore
+
+-----
+v
+fading networks with directed graphs in terms of fading parameters, the network
+topology and the agent dynamics. Moreover, the role of network topology on the
+mean square consensusability is discussed.
+Nanyang Technological University
+Singapore
+
+-----

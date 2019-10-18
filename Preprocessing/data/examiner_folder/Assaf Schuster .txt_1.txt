@@ -1,0 +1,1683 @@
+July 2017
+RESUME
+assaf schuster
+Born: 6 July, 1958, Kibutz Givat Brenner.
+Academic Degrees
+Sep 87 – Aug 91: Ph.D., Computer Science, Hebrew University.
+Sep 86 – Jul 87: Graduate student (No-fee No-degree program), Computer Science, UC Berkeley.
+Jul 86: M.Sc. (Cum Laude), Computer Science, Hebrew University.
+Aug 84: B.Sc. (Cum Laude), Computer Science and Mathematics, Hebrew University.
+Academic Appointments
+Aug 07 – present: Professor, Computer Science, Technion.
+Summer 07, 09, 10, 11, 12, 13, 15, 16: Visiting Scientist, Microsoft Research, Redmond, WA.
+Feb 00 – Jul 07: Associate Professor, Computer Science, Technion.
+Summers 06, 05, 04, 03: Visiting Professor, Computer Science, Madison, WI.
+Mar 99: Tenure, Computer Science, Technion.
+Feb 96 – Jan 00: Senior Lecturer, Computer Science, Technion.
+Sep 91 – Jan 96: Lecturer, Computer Science, Technion.
+Oct 87 – May 91: Teaching Assistant, Computer Science, Hebrew University.
+Jan 87 – May 87: Teaching Assistant, Computer Science, UC Berkeley.
+Sep 83 – Aug 86: Teaching Assistant, Computer Science, Hebrew University.
+Research Interests
+Distributed and Scalable Data Mining. Monitoring Distributed Data Streams. Big Data Tech-
+nologies and Analytics. Privacy Preserving. Security and System Vulnerabilities. Cloud Man-
+agement and Resource as a Service (RaaS). Local Algorithms for Very Large-Scale (peer-to-peer)
+Distributed Networks. Grid Software and Opportunistic Computing. Data-Race Detection. Mul-
+tilevel Caching and Selfish Collaborative Caching Schemes. Shared Memory Models and Software
+Distributed Shared Memory.
+1
+
+-----
+Teaching Experience
+Computer Architecture – graduate level.
+Parallel and Distributed Computation – graduate level.
+Parallel Architectures – graduate level.
+Parallel Algorithms – graduate level.
+Operating Systems – graduate level.
+Data Structures – undergraduate level.
+Assembly Language – undergraduate level.
+Automatic Deduction – undergraduate level.
+Pascal, C – undergraduate level.
+Public Professional Activities
+2015 – current Member of the Steering Committee, Ben Gurion University Center for Cyber Security.
+2015 – current Member of the Scientific Committee, Technion Center for Cyber Security.
+2014 – current European Commission H2020-ICT Committee.
+2014 – current Member of the National Committee for Cyber Security R&D.
+2010 – 2014: Established and headed the Technion Computer Engineering Center, aka TCE (EE+CS)
+http://tce.technion.ac.il
+1996 – 2012: Established and served as head of the Computer Systems Laboratory (CSL). Essentially
+all the systems research in the CS department at the Technion is carried in the scope of CSL, where
+eight faculty members and dozens of graduate students are involved. Over the years, by using resources
+collected through various grants, industry connections, and by employing grid-based resource allocation
+technology, CSL grew to be a major center for scalable systems research.
+2008 – present: Member of the executive board of the Association for Knowledge Discovery in Distributed
+and Ubiquitous (KDD&U) Environments.
+2005 – 2008: Leading the Ubiquitous Technology workgroup of the KD-Ubiq coordinated action (A Euro-
+pean Commission project: KD-ubiq - a blueprint for ubiquitous knowledge discovery systems).
+2004 – 2008: Associate Editor, IEEE Transactions on Computers (IEEE TC).
+2000 – 2009: Subject Area Editor, Journal of Parallel and Distributed Computing (JPDC).
+2000 – present: Member of the following IEEE Computer Society’s Technical Committees: Computer
+Architecture (TCCA), Computer Communication (TCCC), Fault-Tolerant Computing (TCFT), and
+Parallel Processing (TCPP).
+2001 – present: Member of the Advisory Committee of the IEEE Technical Committee on Parallel Pro-
+cessing (TCPP).
+2004 – 2008: Member of the Steering Committee of the Israeli Academic Grid (IAG).
+1999 – 2000 and 2005 – 2009: Member of the Technion committee for Information Technology.
+2
+
+-----
+2005 – 2008: Member of MALAG review committee for Hebrew University program in Computer Engi-
+neering.
+Public Professional Activities – Workshops and Conferences
+• PC Chair Industry Track, Conference on Information and Knowledge Management (CIKM), Turin,
+Italy, 2018.
+• Vice Program Chair for Applications area, Intl. Parallel and Distributed Processing Symp. (IPDPS),
+April 2013, Boston.
+• Member of the TCPP Outstanding Service Award Committee, 2007.
+• Organizer and Co-Chair (together with Ran Wolff) Workshop on Data Mining and the Grid: 1st
+DM-Grid (in conjunction with ICDM), Brighton UK, November 2004.
+• Vice Program Chair for Algorithms area, Intl. Conf. on High Performance Computing, 7th HiPC,
+December 2000, Bangalore.
+• Member of the steering committee for the Intl.
+Conf.
+on High Performance Computing (HIPC),
+1998–2005.
+• Co-Chair for the Reconfigurable Architectures Workshop, 3rd WAR, April 1996, Hawaii.
+• Vice Chair for Jerusalem Symposium on Parallel and Distributed Systems, 1st JPDPS, November 2001,
+Jerusalem.
+• Meeting Chair, 12th Israeli National Systems & Engineering Seminar, December 1997, Tel-Aviv.
+• Co-Chair, Workshop on Distributed, High-Performance and Grid Computing in Computational Biol-
+ogy, 1st GCCB, September 2006, Eilat. Werner Dubitzky, Assaf Schuster, Peter M. A. Sloot, Michael
+Schroeder, Mathilde Romberg: “Distributed, High-Performance and Grid Computing in Computational
+Biology”. International Workshop, GCCB 2006, Eilat, Israel, January 21, 2007. Proceeding Springer
+2007.
+• Guest Editor, Parallel Processing Letters. Special Issue on Dynamically Reconfigurable Architectures.
+Vol. 5, No. 1, March 1995.
+Member of the Program Committee for the following workshops and conferences:
+World Wide Web Conference
+26th WWW, April 2017, Perth, Australia.
+ACM Conference on Distributed and Event-Based Systems:
+10th ACM DEBS, June 2016, Irvine.
+11th ACM DEBS, June 2017, Barcelona.
+12th ACM DEBS, June 2018, Hamilton, New Zealand.
+Conference on Knowledge Discovery and Data Mining:
+22nd ACM KDD, August 2016, San Francisco.
+23rd ACM KDD, August 2017, Halifax.
+International Conference on Data Engineering:
+18th ICDE, May 2016, Helsinki, Finland.
+20th ICDE, April 2018, Paris.
+3
+
+-----
+Extending Database Technology:
+18th EDBT/ICDT, March 2015, Brussels.
+19th EDBT/ICDT, March 2016, Bordeaux.
+IEEE Conference on Big Data:
+1st BigData, October 2013, San Francisco.
+5th BigData, December 2017, Boston.
+Intl. Workshop on Parallel and Distributed Methods in verification:
+6th PDMC, July 2007, Berlin.
+IEEE Intl. Symp. on Data Mining and Information Retrieval:
+21st DMIR, June 2007, Niagara Falls.
+ACM Symposium on Parallelism in Algorithms and Architectures:
+20st SPAA, June 2008, Munich.
+European Systems Conference:
+2nd EuroSys, Lisbon, March, 2007.
+7th EuroSys, Bern, April, 2012.
+Workshop on Parallel Data Mining:
+PDM, Berlin, September 2006.
+High Performance Computing Conference:
+1st HPCC, Sorrento (Naples), Italy, September 2005.
+2nd HPCC, Munich, September 2006.
+3rd HPCC, Houston, September 2007.
+IEEE International Conference on Data Mining:
+5th ICDM, Houston, Texas, November 2005.
+6th ICDM, Hong Kong, December 2006.
+7th ICDM, Omaha NE, October 2007.
+8th ICDM Piza, December 2008.
+SIAM International Conference on Data Mining:
+5th SDM, Newport Beach, CA, April 2005.
+8th SDM, Atlanta, Georgia, April 2008.
+Workshop on High-Performance and Distributed Data Mining:
+8th HPDM (in conjunction with SDM), April 2005.
+Workshop on Data Mining and the Grid:
+1st DM-Grid, November 2004.
+Workshop on Operating Systems, Programming Environments and Management Tools for High-Performance Computing on Clusters:
+1st COSET, June 2004, St Malo.
+2nd COSET, June 2005, Cambridge.
+Workshop on Architectural Support for Security and Anti-Virus:
+1st WASSA, October 2004, Boston.
+Symposium on High-Performance Distributed Computing:
+13th HPDC, June 2004, Honolulu.
+Workshop on the Grid and Web Intelligence:
+1st GRaWI, June 2004, Cracow.
+4
+
+-----
+ACM International Conference on Supercomputing:
+18th ICS, July 2004, St. Malo.
+22nd ICS, June 2008, Iland of Kos, Greece.
+Workshop on Parallel and Distributed Systems - Testing and Debugging:
+1st PADTAD, April 2003, Nice.
+2nd PADTAD, April 2004, Santa Fe.
+3rd PADTAD, November 2005, Haifa.
+4th PADTAD, July 2006, Portland.
+Annual International Systems and Storage Conference:
+1st SYSTOR, October 2007, Haifa.
+4th SYSTOR, May 2010, Haifa.
+IBM Haifa Research Labs Verification Conference:
+1st Verification Conference, November 2005, Haifa.
+2nd Verification Conference, November 2006, Haifa.
+Workshop on Languages, Compilers, and Run-Time Systems for Scalable Computers: 6th LCR,
+March 2002, Washington DC.
+Workshop on Java for High-Performance Computing:
+2nd Workshop, May 2000, Santa Fe.
+Workshop on Software Distributed Shared Memory:
+2nd WSDSM, May 2000, Santa Fe.
+Intl. Symposium on Distributed Computing:
+14th DISC, September 2000, Toledo.
+Intl. Parallel Processing Symposium:
+7th IPPS, April 1993, Los Angeles.
+9th IPPS, April 1995, Santa Barbara.
+10th IPPS, April 1996, Hawaii.
+11th IPPS, April 1997, Geneva.
+13th IPPS/SPDP, April 1999, San Juan.
+Intl. Conf. on Parallel Processing:
+27th ICPP. August 1998, Minneapolis.
+31st ICPP, August 2002, Vancouver .
+36th ICPP, September 2007, XiAn, China.
+Intl. Conf. on Computing and Information:
+8th ICCI, June 1996, Waterloo.
+9th ICCI, 1998, Winnipeg.
+Intl. Conf. on Parallel and Distributed Computing Systems (ISCA):
+10th PDCS, September 1997, New Orleans.
+17th PDCS, September 2004, San Francisco.
+Intl. Conf. on High Performance Computing:
+4th HiPC, December 1997, Bangalore,
+5th HiPC, December 1998, Madras,
+6th HiPC, December 2001, Hyderabad.
+Reconfigurable Architectures Workshop:
+2nd WAR, April 1995, Santa Barbara.
+3rd WAR, April 1996, Hawaii.
+5
+
+-----
+Intl. Symp. on Automotive Technology and Automation:
+29th ISATA, June 1996, Florence.
+Workshop on Optical Interconnections for High Speed Communications:
+1st WOC, April 1997, Geneva.
+Intl. Conf. on Parallel and Distributed Computing and Systems:
+9th PDCS, October 1997, Washington D.C.
+10th PDCS, October 1998, Las Vegas.
+11th PDCS, October 1999, Boston.
+Intl. Conf. on Parallel and Distributed Computing and Networks:
+22nd PDCN, February 2004, Innsbruck, Austria.
+23rd PDCN, February 2005, Innsbruck, Austria.
+24rd PDCN, February 2006, Innsbruck, Austria.
+25rd PDCN, February 2007, Innsbruck, Austria.
+Myrinet User Group Conference:
+1st meeting, September 2000, Lyon.
+Workshop on Biologically Inspired Solutions to Parallel Processing Problems:
+1st BioSP3, April 1998, Orlando.
+2nd BioSP3, April 1999, San Juan.
+3rd BioSP3, April 2000, Cancun,
+4rth BioSP3, April 2001, San Francisco.
+Workshop on Distributed Shared Memory:
+1st DSM, May 2001, Brisbane.
+2nd DSM, May 2002, Berlin.
+3rd DSM, May 2003, Tokyo.
+4th DSM, May 2004, Chicago.
+5th DSM, May 2005, Cardiff.
+6th DSM, May 2006, Singapore.
+Workshop on Distributed Data Mining in Life Science:
+1st DDMLS, September 2005, Konstanz.
+International Symposium on Parallel Architectures, Algorithms, and Networks:
+7th I-SPAN, December 2005, Las-Vegas.
+International Conference Applied Computing:
+3rd AC, February 2006, San-Sebastian.
+Algorithmic Techniques for Data Mining:
+2nd ATDM, June 2006, Beer sheva.
+Distributed, High-Performance and Grid Computing in Computational Biology:
+1st GCCB, September 2006, Eilat.
+IEEE Symposium Series on Computational Intelligence:
+1st SSCI, April 2007, Hawaii.
+6
+
+-----
+Professional Experience
+March 2016 – present: Co-Founder and CTO, CyIoT.
+Oct 2013 – Sep 2016: Advisory Board, ExShake.
+Feb 2007 – Oct 2012: Consultant, PineApp, Haifa.
+Jan 2012 – Aug 2013: Consultant, Microsoft, Haifa.
+Aug 2011 – Jan 2013: Consultant, Verint, Herzlia.
+Sep 2000 – Sep 2012: Advisory Board, GigaSpaces, Herzlia.
+Sep 2001 – Sep 2005: Advisory Board, Qlusters, Tel-Aviv.
+Mar 2006 – Jun 2006: Consultant, Qumranet, Netania.
+Apr 2004 – Dec 2005: Advisory board, Netillion, Palo Alto.
+Oct 2003 – Mar 2006: Consultant, Lenslet, Herzlia.
+Jul 2001 – Dec 2003: Consultant, HP Research Labs, Technion.
+Jun 2002 – Jul 2002: Consultant, Mercury, Yahood.
+Aug 2000 – Jun 2001: Parallel Program Manager, BellMind, Haifa.
+May 1998 – Jul 2000: Consultant, IBM Haifa Research Lab, Haifa.
+Jul 1984 – Feb 1986: System Programmer, Fritz Haber Institute, Hebrew University.
+Jun 1980 – Sep 1981: Software Engineer, “Gavish” Software team, Kibutz Givat-Brenner.
+Honors
+2017: IEEE Fellow. “For Contributions to Cloud Computing”.
+2016: “Taking the Blame Game out of Data Centers Operations with NetPoirot.” Presented at SIGCOMM
+2016.
+Chosen as highlight paper of the 9th ACM International Systems and Storage Conference
+(SYSTOR). Behnaz Arzani, Selim Ciraci, Boon Thau Loo, Assaf Schuster, Geoff Outhred.
+2016: The Henry Taub Prize for Academic Excellence.
+2015: ACM Fellow. “For Contributions to Cloud Computing”.
+2015: Phd thesis of Nadav Amit “Alleviating Virtualization Bottlenecks”. Honorable Mention for the Denis
+M. Ritchie SIGOPS Thesis Award.
+2015: Google Security Vulnerability Award (for the discovery of more than hundred bugs and six security
+vulnerabilities in Linux/KVM). “Virtual CPU Validation.” Nadav Amit, Dan Tsafrir, Assaf Schuster,
+Ahmad Ayoub, Eran Shlomo. The 25th ACM Symposium on Operating Systems Principles (SOSP).
+2015: Best Research Paper Award. “Lazy Evaluation Methods for Detecting Complex Events”. Ilya Kolchin-
+sky, Tsachi Sharfman, and Assaf Schuster. The 9th ACM International Conference on Distributed
+Event-Based Systems (DEBS).
+2015: “Write Once, Get 50% Free: Saving SSD Erase Costs Using WOM.” Presented at FAST 2015.
+Chosen as highlight paper of the 8th ACM International Systems and Storage Conference (SYSTOR).
+Gala Yadgar, Eitan Yaakobi, Assaf Schuster.
+7
+
+-----
+2014: Phd thesis of Nadav Amit “Alleviating Virtualization Bottlenecks” won 2014 SPEC Distinguished
+Dissertation Award.
+2014: HiPEAC Paper Award. “VSwapper: a memory swapper for virtualized environments.” Presented at
+ASPLOS 2014. Also chosen as highlight paper of the 7th ACM International Systems and Storage
+Conference (SYSTOR). Nadav Amit, Assaf Schuster, and Dan Tsafrir.
+2014: Joseph and Sadie Danciger Chair in Engineering.
+2013: Phd thesis of Orna Agmon Ben-Yehuda “Efficient, Non-Cooperative Sharing of Computing Resources”
+Thesis won Excellence Award by the Amnon Pazi Fund for 2013.
+2013: IBM Research’s 2012 Pat Goldberg Memorial Best Paper Award in Computer Science, Electrical
+Engineering and Math. “ELI: Bare-metal Performance for I O Virtualization” presented at ASPLOS
+2012. Abel Gordon, Nadav Amit, Nadav HarEl, Muli Ben-Yehuda, Alex Landau, Assaf Schuster, and
+Dan Tsafrir.
+2012: HiPEAC Paper Award. “ELI: Bare-metal Performance for I O Virtualization” presented at ASPLOS
+2012. Abel Gordon, Nadav Amit, Nadav HarEl, Muli Ben-Yehuda, Alex Landau, Assaf Schuster, and
+Dan Tsafrir.
+2010: Second Prize Winner, IEEE International Scalable Computing Challenge (SCALE 2010).
+IEEE
+Computer Society Technical Committee on Scalable Computing. “A System for Efficient Execution
+of Bags of Tasks in Multiple Grids and Clouds”. Mark Silberstein, Artyom Sharov, Dan Geiger, and
+Assaf Schuster.
+2009: George Michael Memorial HPC Award Honorable Mention (in conjunction with SC’09). “A System
+for Efficient Execution of Bags of Tasks in Multiple Grids and Clouds”. Mark Silberstein, Artyom
+Sharov, Dan Geiger, and Assaf Schuster.
+2008: Technion Best Graduate Student Paper Award.
+A Geometric Approach to Monitoring Threshold
+Functions Over Distributed Data Streams. Danny Keren, Tsachi Scharfman, and Assaf Schuster. ACM
+Transactions on Database Systems (TODS).
+2006: PKDD Best Student Paper Award.
+2006: SIGMOD Best Paper Award Honorable Mention.
+2005: ATVA Best Paper Award.
+2005: Kaplan Prize - for the best commercial plan.
+2004: Hershel Rich Innovation Award.
+2001: IBM Research’s 2000 Pat Goldberg Memorial Best Paper Award in Computer Science, Electrical
+Engineering and Math. Y. Aridor, T. Eilam, M. Factor, A. Schuster and A. Teperman. “A High
+Performance Cluster JVM Presenting a Pure Single System Image”.
+JavaGrande Conference, pp.
+168-177, June 2000, San Francisco.
+2001: IPDPS Best Paper Award. N. Niv and A. Schuster. “Transparent Adaptation of Sharing Granularity
+in MultiView-Based DSM Systems”. Intl. Conf. on Parallel and Distributed Processing Symposium,
+San Francisco, April 2001.
+1999: Ray and Miriam Klein Research Award.
+1996: Gutwirth Award.
+1988: Wolf Foundation Scholarship.
+1986/7: Hebrew University – U. of California exchange program.
+8
+
+-----
+1985: I.B.M. Scholarship.
+1983: Hebrew University Dean’s honors list.
+Graduate Students
+Completed Theses - PhD
+(SP-1) October 1999. Ayal Itzkovitz. “Distributed Shared Memory - Bridging the Granularity Gap”.
+(SP-2) December 2003. Tamir Heyman (O. Grumberg main advisor). “Distributed Algorithms for Symbolic
+Model Checking”.
+(SP-3) October 2004. Ran Wolff. “Data Mining in Large Scale Distributed Systems”.
+(SP-4) September 2006. Recommended for Distinction by the School for Graduate Students.
+Liran Liss (Tzachi Birk main advisor).
+“Realizing the Performance of Contemporary Parallel and
+Distributed Systems: Theoretical and Systems Perspectives.”.
+(SP-5) August 2007. Alex Gontmakher. “An Architecture and Programming Model for Extremely Fine-
+Grain Parallelism”.
+(SP-6) November 2008. Tsachi Sharfman. (Daniel Keren additional advisor). “Geometric Monitoring of
+Data Streams”.
+(SP-7) February 2009. Konstantin Shagin (Michael Factor additional advisor). ”High-Performance Fault-
+Tolerant Wide-Area Computing with Java”.
+(SP-8) October 2009. Valentin Kravtchov. “Service-based Resource Brokering for Grid-based Applications”.
+(SP-9) March 2010. Avi Yadgar. (Orna Grumberg main advisor). “New Approaches to Model Checking
+and to 3-Valued Abstraction and Refinement.”
+(SP-10) June 2010. Mark Silberstein. (Dan Geiger main advisor). “A Distributed System for Genetic
+Linkage Analysis.” (His research won Honorable Mention for HPC Award in SC09)
+(SP-11) November 2010. Arik Friedman. (Ran Wolff additional advisor). ”Privacy Preserving Data Min-
+ing”.
+(SP-12) June 2012. Gala Yadgar (Golan) (Michael Factor additional advisor). “Multilevel Cache Manage-
+ment Based on Application Hints”.
+(SP-13) May 2012. Guy Sagi. (Daniel Keren additional advisor). “Geometric Distributed Data Mining.”
+(SP-14) June 2013. Orna Agmon Ben-Yehuda. “Efficient, Non-Cooperative Sharing of Computing Re-
+sources.” Excellence Award by the Amnon Pazi Fund for 2013.
+(SP-15) July 2014. Nadav Amit. “Alleviating Virtualization Bottlenecks.” 2014 SPEC Distinguished
+Dissertation Award. 2015 Honorable Mention for the Denis M. Ritchie SIGOPS Thesis
+Award.
+(SP-16) December 2015. Uri Verner. “Processing Real-time Data Streamson GPU-based System.”
+(SP-17) July 2017. Mickey (Moshe) Gabel. “Distributed Monitoring with the Geometric Method.”
+9
+
+-----
+Theses in Progress - PhD
+(SP-18) Expected 2017. Arnon Lazerson. ”Scalable Monitoring with the Geometric Methos”.
+(SP-19) Expected 2018. Liran Funaro. “Memory-Elastic Applications”.
+(SP-20) Expected 2018. Ilya Kolchinsky. “Scalability in Distributed CEP Systems”.
+(SP-21) Expected 2018. Gal Yehuda. “Monitoring Data Streams”.
+Completed Theses - MSc
+(SM-1) 1994. Shai Halevi. Thesis title: “On Greedy Hot-Potato Routing”.
+(SM-2) 1995. Galit Shemesh. “Bounds on parallel computation by reconfigurable networks”.
+(SM-3) 1995. Ishai Ben-Aroya. “Algorithms and Bounds for Deflection Routing”.
+(SM-4) 1996. Maxim Goldin. “Weak Consistency Distributed Shared Memory System Design”.
+(SM-5) 1996. Alex Dubrovsky. “Load-Balancing in Distributed Shared Memory Systems”.
+(SM-6) 1997. Gadi Pesach. “Transparent Access to Pointer Parameters and Global Variables in Remote
+Procedures”.
+(SM-7) 1997. Amit Reisman (Craig Gotsman main advisor). “Parallel Adaptive Ray Tracing on IBM’s
+SP/2”.
+(SM-8) 1998. Sasha Basonov. “Parallel DSM Implementation of Binary Decision Diagrams”.
+(SM-9) 1998. Lea Wolfovitch. “Load Sharing and Locality in Distributed Shared Memory Systems”.
+(SM-10) 1999. Dmitry Kogan. “Garbage Collection in Multithreaded Distributed Shared Memory Systems”.
+(SM-11) 2000. Nitzann Niv. “Dynamic Adaptation of Sharing Granularity in Distributed Shared Memory
+Systems”.
+(SM-12) 2001. Oren Zeev Ben-Mordechai. “On-The-Fly Data-Race Detection in Distributed Shared Mem-
+ory Systems”.
+(SM-13) 2002. Vladislav Kalinovsky (Roy Friedman additional advisor). “The Symphony Project - Man-
+aging Virtual Servers”.
+(SM-14) 2002. Vadim Gleizer. “Optimizing Sharing Patterns and Locality via Thread Migration”.
+(SM-15) 2002. Emil Cohn-Dan. “A Transparent Software Distributed Shared Memory System”.
+(SM-16) 2002.
+Sergey Polyakov.
+“Testability and Non-Operational Characterization of Java Memory
+Model”.
+(SM-17) 2003. Eli Poznianski. “Efficient On-the-Fly Data Race Detection in Multithreaded C++ Pro-
+grams”.
+(SM-18) Vadim Iosevitch. “Software Distribted Shared Memory: to Relax or not to Relax?”.
+(SM-19) January 2003. Dan Trock. “Sampling-Based Distributed Mining of Association Rules”.
+(SM-20) Avi Yadgar (Orna Grumberg main advisor). “A Memory-Efficient All-SAT Solver.”.
+(SM-21) May 2004. Yoram Talmor. “Higher Performance DSMs by Peaking Network Utilization”.
+10
+
+-----
+(SM-22) July 2004. Amir Baror. “Hierarchical Decision Tree Induction for Highly Dimensional Data in
+Large-Scale Distributed Systems”.
+(SM-23) August 2004. Baruch (Bobi) Gilburd. “A Privacy Model and Privacy-Preserving Algorithms for
+Data Mining in Large-Scale Distributed Systems”.
+(SM-24) January 2005. Ohad Shacham. (Tel Aviv Univ., Mooly Sagiv main advisor). “Scaling Model
+Checking of Dataraces Using Dynamic Information.”
+(SM-25) April 2005. Nili Ifergan (Informal advisor. Orna Grumberg main advisor). “Asynchronous Scal-
+able Distributed Symbolic Model Checking”.
+(SM-26) June 2006. Denis Krivitsky. “A Local Facility Location Algorithm for Large-Scale Distributed
+Systems”.
+(SM-27) November 2006. Oren Katzengold (Avi Mendelson additional advisor). “Fully informed processor
+execution”.
+(SM-28) May 2007. Gregory Shklover. “Compiling sequential code into fine-grain parallel Intrathreads”.
+(SM-29) June 2007. Noam Palatin. (Arie Leizarovitz main advisor). “Monitoring Distributed Grid Batch
+Systems Via Data Mining”.
+(SM-30) August 2008. Tal zamir. (Michael Factor additional advisor). “Speculative computing for a Java
+distributed run-time”.
+(SM-31) August 2008. Benjamin Yoshpa. (Ariel Orda additional advisor). “Game Theory Aspects in QoS
+Grid Computing”.
+(SM-32) August 2009. Kfir Karmon. “Quota in Grid Systems.”
+(SM-33) June 2010. Avishay Livne. “Monitoring distributed data streams.”
+(SM-34) June 2012. David Ben-David. “Violation Recovery in Geometric Distributed Monitoring.”
+(SM-35) July 2012. Amir Abboud. “Monitoring General Functions in a Distributed Systems with Minimal
+Communication.” Summa Cum Laude.
+(SM-36) May 2013. Eyal Posener. “Dynamic Memory Allocation in Cloud Computers Using Progressive
+Second Price Auctions”.
+(SM-37) July 2013. Mickey (Moshe) Gabel. “Unsupervised Anomaly Detection in Large Data Centers”.
+(SM-38) March 2017. Ran Bernstein. “Distributed Monitoring of Machine Models”.
+(SM-39) June 2017. Matan Liram. “Enhancing SSDs using Erasure Codes”. July 2017.
+(SM-40) July 2017. Roman Shor. “Enhancing SSDs using WOM Codes”.
+(SM-41) October 2017. Boris Pismenny. ”Auction-based Resource Allocation in the Cloud”.
+Theses in Progress - MSc
+(SP-42) Expected 2018. Shay Nachum. ”Attack techniques as a new approach to detect malware infection”.
+(SP-43) Expected 2018. Shunit Agmon. ”Security in RaaS Clouds.”.
+11
+
+-----
+Research Grants
+2017–2021 “ODYSSEA - Operating a Network of Integrated Observatory Systems in The Mediteranian
+Sea”. Horizon 2020. Group share: 380K Euro.
+2016–2019 “Not Just Ones and Zeroes: Bridging the Gap between the Theory of WOM Codes and the
+Practice of Flash Storage”. German-Israeli Fund. Together with Eitan Yaakobi and Gala Yadgar and
+Andre Brinkmann from Mainz Uni. Group share: 200K Euro.
+2016–2018. Mellanox. “Tools for cloud resource management using game theoretic approach -II.” Total
+budget over 2 years: $100K. Together with Dan Tsafrir. Group share: 50K Euro.
+2015–2018 ”VaVel: Variety, Veracity, VaLue: Handling the Multiplicity of Urban Sensors”. EC H2020-
+ICT.16a BigDataResearch RIA. With Ethniko Athinon, TU Dortmund, Fraunhofer, IBM Ireland,
+AGT GMBH, Orange Polska, Dublin city, Miasto Stoleczne Warszawa, Politechnika Warszawska. EC
+contribution over 3 years: 3,999,668 Euro. Group share: 100K Euro.
+2015–2017. Mellanox. “Tools for cloud resource management using game theoretic approach - I.” Total
+budget over 2 years: $100K. Together with Dan Tsafrir. Group share: 50K Euro.
+2014–2017. Kibernetic Office Research grant.
+“Data leakage prevention from cellular phones.”.
+Total
+budget over 3 years: 1.8M NIS. Together with Yuval Elovici and Assaf Shabtai from BGU. Group
+share: 500K NIS.
+2014–2017 Pazi grant. ”Ginseng: Dynamic resource allocation in the Cloud”. Together with Orna Agmon
+Ben-Yehuda. 1M NIS over 4 years.
+2013–2016 ”FERRARI: Flexible event processing for big data architectures”. STREP, FP7-ICT-2013-11.
+With Fraunhofer, IBM, TU Crete, Poslovna Inteligencija, HRVATSKI Telekom. EC contribution over
+3 years: 2,954,091 Euro. Group share: 570K Euro.
+2013–2016 ”SPEEDD: Scalable ProactivE Event-Driven Decision making.” STREP, FP7-ICT-2013-11.
+With Greek National Center for Scientific Research, IBM Israel, EPFL, U Birmingham, Feedzai, and
+Centre National de la Recherche Scientific France.
+EC contribution over 3 years: 3,074,505 Euro.
+Group share: 400K Euro.
+2013–2014. “RaaS: Market Driven Resource Allocation”.
+Technion-Microsoft Electronic-Commerce Re-
+search Center Grant. Budget: $20K.
+2012–2016. “Bare metal performance for fully virtualized guests”. Israeli Science Foundation. Budget over
+four years: $250K. With Dan Tsafrir. Group share: $125K.
+2013–2015. Kibernetic Office Research grant. “CYBER-SECURE COMPUTER SYSTEMS: REFACTOR-
+ING COMPUTER SYSTEMS FOR THE CYBER ERA.”. Total budget over 2 years: 2M NIS. To-
+gether with Eran Yahav, Yoav Etzion, Dan Tsafrir, and Eran Tromer. Group share: 400K NIS.
+2012–2013. Mafaat research grant. “Laboratory for Cyber Security.”. Total budget over 2 years: $230K.
+2012–2015 European Commission, STREP, FP7-ICT-2011-8.
+“INtelligent Synthesis and Real-tIme Re-
+sponse using Massive StreaminG of HeTerogeneous Data”. With U. of Athens, IBM Ireland, Fraun-
+hofer, U. of Dortmund, Dublin City Council, and BBK Germany. EC contribution over three years:
+2,787,720 Euro. Group share: 180K Euro.
+2012–2017. Ministry of Industry and Commerce, Metro450 Industry Consortium. “Checking chips in 450
+nanometer technology”. With Avi Mendelson. Budget over three years: $600K.
+2011–2014 European Commission, FET open, FP7-ICT-2009-C. “DATA SIM: Data Science for Simulating
+the Era of Electric Vehicles”. With U. Hasselt, Fraunhofer, CNR (Pisa), BPGE (Hungary), UP Madrid,
+and Pireus Research Center. EC contribution over three years: 2,368,270 Euro. Group share: 255,600
+Euro.
+12
+
+-----
+2010–2013 European Commission, FET open, FP7-ICT-2009.8.0-C. “LIFT: Using Local Inference in Mas-
+sively Distributed Systems”. With Haifa University, Fraunhofer, CNR (Pisa), and Technical Institute
+of Crete. EC contribution over three years: 1,891,268 Euro. Group share: 395,200 Euro.
+2010 Amazon cloud Services. $ 4,000.
+2010–2013 European Commission, STREP, FP7-ICT-2009-4. “ENCORE - ENabling technologies for a
+programmable many-CORE”. With Barcelona Supercomputing Center, Technische Universiteit Delft,
+FORTH Greece, Kungliga Tekniska Hoegskolan Sweden, ARM Limited. EC contribution over three
+years: 3,552,574 Euro. Group share: 408,413 Euro.
+2009–2013 US–Israel Binational Science Foundation. “Local Inference in Massively Distributed Systems”.
+With Daniel Keren (Haifa U) and Hillol Kargupta (UMBC). Budget over four years: $76K. Group
+share: $44K.
+2009–present. Technion Hasso-Plattner-Institut on Scalable Computing - Software and Architecture. Fund-
+ing for 15 PhD students every year. Together with faculty members from EE and CS departments.
+Was in charge of compiling and submitting the proposal.
+2009–2013. Ministry of Industry and Commerce, HD-Net Consortium. “Multi-Level Caching for Video
+Streaming”. Group share over five years: $400K.
+2009. IBM Innovation Award. Budget: $20K. “Monitoring Distributed Data Streams.”
+2008. Intel grant to the Distributed Systems and Data Mining Laboratory (DSL). Budget: $20K.
+2008. SUN donation to student education on parallel programming. A Niagara server worth $32K.
+2007–2008. Google Award. Budget: $40K. “Communication-Efficient Map-Reduce.” With Daniel Keren
+from Haifa U.
+2007. IBM Faculty Award. Budget: $20K. “Monitoring Distributed Data Streams.”
+2007–2008. “European Grid Equipement”. Israeli Science Foundation Basic Equipement. $100K. With
+Technion Physics and CS researchers.
+2007–2010. “Geometric Monitoring of Distributed Data Streams”. Israeli Science Foundation. Budget over
+three years: $150K. With Daniel Keren, Haifa U.
+2007–2009. “Software and system for genetic linkage analysis of SNP data for large families”. Microsoft
+TCI grant. Budget over two years: $500K. Together with Dan Geiger.
+2007–2009. “Algorithms for Wireless Sensor Networks”. Israeli Ministry of Industry and Commerce. Bud-
+get for first year: $250K ($50K Technion budget). With Elbit Systems LTD and Haifa University.
+2012–2013. Mafaat research grant. “Communication Minimization in Ad-Hoc Sensor Systems.”. Total
+budget over 1 years: $60K. (Declined).
+2003–2018. Mafaat research grants: Big Data Research. “Data, Analytics, and Privacy in Large-Scale
+Distributed Systems”. Aggregate budget: $650K.
+2006–2007. “A Grid System Personalization Service”. Intel Grant. Budget: $21K.
+2006–2007. “Using Explicit Fine-Granularity Parallelization for Power Efficient Computing”. Intel Grant.
+Budget: $20K.
+2006–2008. “EGEE-II - Enabling Grids for E-sciencE II”, European Commission mega project. Technion
+budget – 45K Euro.
+13
+
+-----
+2006–2009. European Commission, FP6 (Call 5) – IST, Grid Track. “QosCosGrid: Quasi-Opportunistic
+Supercomputing for Complex Systems in Grid Environments”. Budget over 2.5 years: 2,800K Euro
+(Technion share: 441K Euro). With University of Ulster (UK), University of Qweensland (Australia),
+Cranfield University (UK), Universitat Pompeu Fabra (Spain), Etvs Lorand University (Hungary), In-
+stitut National de Recherche en Informatique et Automatique (France), INSTYTUT CHEMII BIOOR-
+GANICZNEJ PAN (Poland), Universiteit van Amsterdam (Netherlands), Platform Computing SARL
+(France).
+2005. IBM Faculty Award. Budget: $7.5K. “Multi-level Caching for Storage Systems.”
+2005. Intel equipment grant. Budget: $42K. For the Distributed Systems Laboratory.
+2005–2006. EGEE - Enabling Grids for E-sciencE, European Commission mega project. Technion budget
+– 18K Euro.
+2005–2007. Israeli Ministry of Science. “Energy Saving Protocols in Sensor Networks by Localizing Data
+Computing and Transmissions”. With Shai Kuttin, David Peleg, and Boaz Patt-Shamir. Budget for
+the first two years: $200K.
+2005–2007. Israeli Ministry of Science. “National computational grid-based center for the analysis of family
+data of genetic diseases”. With Dan Geiger, Tzipi Falik, Ohad Birk, and Motti Shochat. Budget:
+$500K.
+2004. IBM Shared University Relations grant. Grid Laboratory and a National Grid Node. Budget: $250K.
+With Dan Geiger.
+2004. Intel Microcomputers Research grant. Intrathreads Implementation and Code Generation. Budget
+$10K.
+2004. IBM Faculty Award. “A framework for information sharing between the application and file system
+layers and the storage system.” Budget $20K.
+2004. Intel equipement donation, Itanium processors for DSL. Budget $10K.
+2004–2006. European Commission, FP6 – IST. “Data Mining Tools and Services for Grid Computing
+Environments”. Budget over 2 years: 1,883K Euro (Technion share: 400K Euro). With W. Dubitzky
+(U. Ulster), M. May (Fraunhofer), J. Franke (DaimlerChrysler), and V. Stankovski (U. Ljubljana).
+2004. Intel academic research support. “Data Mining in Very Large-Scale Distributed and Peer-to-Peer
+Systems”. Budget: $20K.
+2003. Intel academic education grant. $4K in software for the new operating systems course.
+2003. Voltair academic donation. $10K in communication equipment.
+2003. Intel Microarchitecture Academic Grant. “Intrathreads – Techniques for Parallelization of Sequential
+Code”. Budget for one year: $10K.
+2001–2005. Israel Science Foundation. “Highly Scalable Model Checking”. Budget over four years: $255K.
+With O. Grumberg.
+2001–2003. Intel Microarchitecture Academic Grant. “Parallel and Distributed Model Checking”. Budget
+over two years: $100K.
+2000–2004. Ministry of Industry and Commerce, LSRT Consortium. “Cheap Scalable Servers for Telephony
+Services”. Budget over four years: $335K.
+2000–2003. Microsoft Academic Grants. “Distributed Active Systems”. Budget over three years: $90K.
+2000. Software Technology Laboratory. Budget for one year: $25K. “Hierarchies of Memory Models”.
+14
+
+-----
+2000–2003. Intel equipment grant. Budget over three years: $120K. For the Distributed Systems Labora-
+tory.
+2000–2003. Ministry of Science – Infrastructure Project. Budget over three years: $500K. “Efficient Trans-
+mission of Multimedia Over High-Speed Access Network”. With R. Cohen and R. Friedman (Technion),
+O. Hadar and S. Greenberg (Ben-Gurion U.).
+1999 . Software Technology Laboratory. Budget for one year: $25K. Implementing a Distributed Java
+Virtual Machine.
+1999–2001. Ministry of Science – Infrastructure Project. Budget over three years: $970K. “The Wide
+Area Cluster Computing (WACC) Project: Infrastructure for National-Scale High-Performance Parallel
+Computing”.
+With A. Barak (Hebrew U.), and N. Fraenkel (Inter-University Computing-Center –
+Israeli MACHBA).
+1998. Arc-En-Ciel project. Travel budget for one year: $10K. “LIPTech: Parallel Virtual Machines for
+High Performance Computing on Commodity Clusters: Programming Environments”. With L. Bouge
+(ENS, Lyon).
+1998–2000 (Project Manager). Ministry of Science – Infrastructure Project. Budget over three years:
+$900K ($370K to Technion group). “Virtual Servers - Dynamic Access Infrastructure to Global Infor-
+mation”. With M. Rodeh, E. Biham, R. Friedman (Technion), D. Feitelson, D. Dolev (Hebrew U.), Y.
+Ben-Asher (Haifa U.).
+1997–1998. French-Israeli Joint Research. Travel budget: $40K over two years. “Communication Algo-
+rithms in Optical Networks”. With E. Upfal, D. Peleg, U. Feige (Weizmann Inst.), S. Kutten (Tech-
+nion), A. Ferreira (ENS Lyon), F. Chavel (IOTA Orsay), P. Berthom´
+e, C. Laforest, D. Barth (LRI
+Orsay) F. Clerot, F. Tillerot (CNET), J-C. Bermond, S. Perennes, M. Syska, J. Bond (INRIA, Sophia
+Antipolis).
+1997–1998. French-Israeli Joint Research. Travel budget: $24K over two years. “Towards Global Comput-
+ing in the Global Village: Computing in Distributed Environments”. With N. Nisan (Hebrew U.) and
+M. Shapiro (Inria, Paris.)
+1996–1997. Ministry of Science. Budget over two years: $66K. “Parallel Rendering Algorithms for Com-
+puter Graphics and Visualization”. With C. Gotsman (Technion.)
+1995–1996. Ministry of Industry and Commerce. Budget: $39K. “The Millipede Project”.
+1993–1996. Ministry of Science. Total budget over 3 years: $70K. “Routing Models for Fast Optical Com-
+munication Networks”. With I. Newman (Haifa U.)
+1992–1994. French-Israeli Joint Research.
+Budget over two years: $72K. “Optical Models for Parallel
+Computers”. With A. Ferreira (ENS, Lyon).
+1995–1997. Intel Academic Grant. Budget over three years: $45K. “Parallel Binary Decision Diagrams on
+Milipede”. In addition to Intel Academic Product Grants 1993–5 for the Millipede project: Worksta-
+tions and Communication.
+1995–1999 Microsoft R&D Donation. Budget: $25K. Support for the Millipede project. In addition to
+Microsoft Product Donation for the Distributed Systems Laboratory: full MSDN Subscription, software
+and books.
+120-830 Haifa University – Technion, 1994. $5K, with I. Newman.
+1996–1998. Mitchell-Soref Entrepreneurial Program. Budget: $15K. “The Millipede Project: Parallel Com-
+puting in Distributed Environments”.
+1996. Ministry of Industry and Commerce. Budget: $23.2K. “Parallel Information Services on a Cluster
+of Workstations”.
+15
+
+-----
+Significant Professional Projects
+2010 – : Ginseng – resource allocation in cloud servers. Ginseng is an implementation of a negoti-
+ation agent using which elastic applications and services will be able to take part in auctions for
+resources in cloud servers hosting multiple guests. Ginseng uses and implements game theoretic ideas
+to encourage the guests to bid truthfully, and to make the resulting allocation of resources maximize
+system utilization and owner’s revenue.
+2003 – 2008: Gozal – realizing dependable grids. Gozal is a collaboration with the Condor team from
+Madison, Wisconsin. Condor is one of the most popular grid batch systems in use today, with a world-
+wide installation base of thousands resource pools. The Gozal team has developed a high availability
+(HA) library for mission-critical grid services, and for Condor’s matchmaker and submission queues in
+particular.
+The special characteristics of the grid environment make the building of highly available services
+unusually difficult.
+The Gozal approach is unique in providing HA functionality itself as a set of
+configurable services, which can be used by transparently decorating, but not changing, the original
+services.
+Gozal HA is used by the Condor matchmaker without changing even a single line of Condor soft-
+ware code. Effective as of version 6.8, the Gozal software is incorporated into the standard Condor
+distribution, which is used by thousands large-scale high-throughput Condor installations worldwide.
+2000 – 2008: cJVM and JavaSplit – transparent distributed run-time for Java. The cJVM project
+was originally carried out at IBM’s Haifa Research Laboratory, with the goal of transparently executing
+multithreaded programs in parallel on distributed clusters. The cJVM project won several best paper
+awards.
+A follow-up project, called JavaSplit, was initiated at the Technion in collaboration with IBM. JavaS-
+plit goals go beyond those of cJVM while exploiting a different set of technologies. In addition to
+cJVM’s transparency, JavaSplit also achieves portability by using bytecode-level instrumentation and
+distributed shared memory. Various optimization techniques are implemented for improved perfor-
+mance. However, JavaSplit’s most unique property is high availability (HA), which is efficiently ob-
+tained through novel replication protocols that extend the underlying memory model. Furthermore,
+JavaSplit employs a novel speculation mechanism which is based on the HA rollback capabilities. This
+mechanism boosts overall system performance, effectively nullifying the overhead of the HA protocols.
+2005 – 2008: GridLogMiner – mining to improve large distributed systems. The GridLogMiner project
+uses distributed data mining to improve large-scale grid batch systems. Mining job execution logs for
+thousands of resources can improve user experience with the system, better match jobs to resources,
+and help identify sources of malfunctions of all kinds. Moreover, resource misbehaviors such as black
+and white holes can be pinpointed, while job misbehaviors such as attacks on resources and DDOS
+attacks can also be detected and avoided.
+In GridLogMiner, the execution logs at every resource are collected into local databases and transformed
+into a system-independent representation using a specialized batch system ontology. The data is then
+mined using a centralized control, whereas the queries to the local databases are piggybacked on the
+underlying batch system mechanism itself. The GridLogMiner implementation can be downloaded as
+an add-on to the Condor batch system.
+The GridLogMiner ideas were taken up by Intel, resulting in an Intel-internal $3M project to collect
+and mine the logs of NetBatch, Intel’s global batch system.
+2004 – 2007: DataMiningGrid – data mining in grid environments. This EC funded project de-
+velops tools and services for deploying highly demanding data mining tasks on grid environments.
+The DataMiningGrid architecture employs a high-level workflow editor that utilizes Web services for
+mining functionality and utilizes grid services for resource allocation and data movement. At the same
+time. this architecture places a special emphasis on maintaining data privacy. To demonstrate the
+16
+
+-----
+developed technology, the DataMiningGrid project implements a range of demonstrator applications
+in e-science and e-business, including parallel and scalable mining of large, distributed datasets.
+2006 – 2009: QosCosGrid – quasi-opportunistic supercomputing. The goal of this EC funded project,
+is to develop core grid infrastructure capable of providing quasi-opportunistic supercomputing (QOS)
+grid services and technology. It will enable users to develop applications with supercomputing re-
+quirements without having to actually purchase and deploy supercomputers.
+The technology will
+be validated in the areas of stellar dynamics and evolution, biochemistry, ecological evolution, gene
+regulation networks, and business supply chains.
+1996 – 2004: Millipede – fine-grain software distributed shared memory. The goal in the original
+Millipede project was to develop a single system image environment for parallel programming on top of
+non-dedicated distributed networks of Windows workstations. An early version of Millipede provided a
+virtual parallel machine with a high-level interface, including software distributed shared memory (the
+first ever SDSM using Windows). It presented novel optimization techniques such as multi-protocol
+weak-consistency for shared variables. This work was the first to discuss, implement, and use page
+and thread migration for adaptive load-sharing, dynamic avoidance of false-sharing, and ping-pong
+situations. The system analyzed the communication pattern during run-time and – via dynamic page
+and thread migration – remapped the work accordingly. An article on Millipede was published in
+BYTE Magazine.
+A later version of Millipede presented a high-performance software distributed shared memory (OSDI
+1999). By employing special memory mappings it was able to demonstrate the first fine-grain page-
+based SDSM. Millipede avoided false sharing by adapting the sharing granularity to the native object
+granularity as declared by the application. The sharing granularity was dynamically adapted on-the-
+fly according to an autonomic run-time optimization mechanism, the only one of its kind (best paper
+award, IPDPS 2001).
+A recent version of Millipede uses Infiniband interconnections and in-kernel
+processing to reach high-performance with Linux OS (Hot Interconnects 2003). Another version of
+Millipede is fully transparent at the binary level, using Windows OS.
+2004 – 2011: SuperLink Online. Online System for Faster Multipoint Linkage Analysis via Parallel Ex-
+ecution on Thousands of Personal Computers (in collaboration with Mark Silberstein, Danny Geiger
+and Miron Livny). Computation of LOD scores is a valuable tool for mapping disease-susceptibility
+genes in the study of Mendelian and other complex diseases. SuperLink Online is a distributed system
+for the computation of multipoint LOD scores of large inbred pedigrees-a task which is often beyond
+the capabilities of a single computer when there is extensive missing data. The system achieves high
+performance via efficient parallelization, a state-of-the-art serial program, and the use of the idle cycles
+of thousands of personal computers. The main algorithmic challenge has been to efficiently split a large
+task for distributed execution in a highly dynamic, nondedicated, hierarchical running environment.
+The system is available online, facilitating the performance of computationally intensive analyses with-
+out the need to install software or maintain a complicated distributed environment. The system is now
+used extensively by hundreds of collaborating medical centers around the world. Access to the sys-
+tem’s main computational power-tens of thousands of PCs- is in collaboration with the Condor team in
+Madison, WI, the European Commission EGEE-II (Enabling Grids for E-sciencE), OSG (Open Science
+Grid), and a home-grown community grid comprising 100K registered home PCs (20K active ones).
+A note on SuperLink Online was published in the Science Magazine (under NetWatch Best of the Web
+in science. Science 19 May 2006: 977). Several magazine articles were published during 2008-9.
+2003 – 2008: MultiRace – data race detection in multithreaded code. MultiRace employs a com-
+bination of the vector clocks paradigm, special memory mapping configurations, and transparent in-
+strumentation in order to detect data races on-the-fly. MultiRace imposes negligible overhead on most
+programs and can thus be switched on even in production mode.
+MultiRace is unique in its matching of the detection granularity to the native object granularity of the
+tested program. Automatic granularity refinement takes place whenever an alarm is generated. If the
+17
+
+-----
+alarm is determined false, automatic aggregation reduces the overhead. MultiRace uses the same log-
+ging mechanism for the implementation of improved versions of two different detection algorithms, thus
+improving coverage with no false positives. MultiRace can be used to detect races on any reasonable
+memory model.
+The MultiRace vector clocks algorithm was implemented in Intel’s ThreadChecker, which is one of the
+most important debugging tools for multithreaded programs.
+1986: The Batch System. A distributed cycle steeling system in the UNIX BSD domain (together with
+Gil Schwed, Checkpoint CEO and President, and Michael Berman, CEO BioMediCom).
+Publications
+Theses
+(T-1) “The Construction and Analysis of a new Communication Network, based on Properties of the Pro-
+jective Space”, M.Sc. Thesis, Computer Science Department, Hebrew University, Israel, July 1986.
+Thesis advisor: Prof. E. Shamir.
+(T-2) “Dynamic Reconfiguring Networks for Parallel Computation: Algorithms and Complexity Bounds”,
+Ph.D. Thesis, Computer Science Department, Hebrew University, Israel, December 1991. Thesis advi-
+sor: Prof. E. Shamir.
+Journals
+(J-1) E. Shamir and A. Schuster, “Communication Aspects of Networks Based on Geometric Incidence
+Relations”, Theoretical Computer Science, Vol. 64 No. 1, pp. 83–96, April 1989.
+(J-2) Y. Aumann and A. Schuster, “Improved Memory Utilization in Deterministic PRAM Simulation”,
+Journal of Parallel and Distributed Computing. Special issue on Shared-Memory Multiprocessors, Vol.
+12, pp. 146–151, 1991.
+(J-3) Y. Ben-Asher, D. Peleg, R. Ramaswami and A. Schuster, “The Power of Reconfiguration”, Journal
+of Parallel and Distributed Computing, Special issue on Massively Parallel Computation, Vol. 13, pp.
+139–153, 1991.
+(J-4) Y. Ben-Asher and A. Schuster, “Ranking on Reconfigurable Networks”, Parallel Processing Letters,
+Vol. 1, no. 2, pp. 149–156, December 1991.
+(J-5) Y. Ben-Asher, D. Egosi and A. Schuster, “2-D SIMD Algorithms for Perfect Shuffle Networks”,
+Journal of Parallel and Distributed Computation, Vol. 16, pp. 250–257, 1992.
+(J-6) Y. Ben-Asher and A. Schuster, “The Complexity of Data-Reduction on the Reconfigurable Linear
+Array”, Journal of Algorithms. Vol. 18, pp. 322–357, 1995.
+(J-7) Y. Ben-Asher, A. Schuster and J.F. Sibeyn, “Load Balancing: A Programmer’s Approach or The
+Impact of Task-Length Parameters on the Performance of the Random Load-Balancing Algorithm”,
+International Journal of High Speed Computing, pp. 303–325, Vol. 7, No. 2, 1995.
+(J-8) I. Ben-Aroya, T. Eilam and A. Schuster, “Greedy Hot-Potato Routing on the Two-Dimensional Mesh”,
+Distributed Computing, pp. 3–19, Vol. 9, No. 1, 1995.
+(J-9) Y. Ben-Asher, K.-J. Lange, D. Peleg and A. Schuster, “The Complexity of Reconfiguring Network
+Models”, Information and Computation, Vol. 121, No. 1, pp. 41–58, August 1995.
+18
+
+-----
+(J-10) I. Newman and A. Schuster, “Hot-Potato Worm Routing via Store-and-Forward Packet Routing”,
+Journal of Parallel and Distributed Computing, Vol. 30, pp. 76–84, 1995.
+(J-11) Y. Ben-Asher, D. Gordon and A. Schuster, “Efficient Self Simulation Algorithms in Reconfigurable
+Arrays”, Journal of Parallel and Distributed Computing, Vol. 30, pp. 1–22, 1995.
+(J-12) Y. Ben-Asher, G. R¨
+unger, A. Schuster and R. Wilhelm, “2DT-FP: An FP Based Programming
+Language for Efficient Parallel Programming of Multiprocessor Networks”, Intl. Journal of Parallel
+Programming, Vol. 23, No. 5, October 1995, pp. 389–422.
+(J-13) I. Newman and A. Schuster, “Hot-Potato Algorithms for Permutation Routing”, IEEE Trans. on
+Parallel and Distributed Systems, Vol. 6, No. 11, November 1995, pp. 1168–1176.
+(J-14) Y. Matias and A. Schuster, “Fast, Efficient Mutual and Self Simulations for Shared Memory and
+Reconfigurable Mesh”, Parallel Algorithms and Architectures, Vol. 8, pp. 195–221, 1996. Special issue
+on Enhanced Mesh Architectures, S. Olariu Ed.
+(J-15) Y. Ben-Asher and A. Schuster, “Low Crosstalk Address Encodings for Optical Message Switching
+Systems”, Parallel Processing Letters, Vol. 6, No. 1, Feb. 1996, pp. 87–100.
+(J-16) Y. Ben-Asher and A. Schuster, “Time – Size Tradeoffs for Reconfigurable Meshes”, Parallel Process-
+ing Letters, Vol. 6, No. 2, pp. 231–245, June 1996.
+(J-17) I. Ben-Aroya, I. Newman and A. Schuster, “Randomized Single-Target Hot-Potato Routing”, Journal
+of Algorithms, Vol. 23, pp. 101–120, 1997.
+(J-18) R. Friedman, M. Goldin, A. Itzkovitz and A. Schuster, “Millipede: Easy Parallel Programming in
+Available Distributed Environments”, Software: Practice & Experience, Vol. 27, No. 8, pp. 929–965,
+August 1997.
+(J-19) A. Itzkovitz, A. Schuster, and L. Wolfovich, “Thread Migration and its Applications in Distributed
+Shared Memory Systems”, The Journal of Systems and Software. vol. 42, No. 1, pp. 71–87, 1998.
+(J-20) A. Ben-Dor, S. Halevi and A. Schuster, “Potential Function Analysis of Greedy Hot-Potato Routing”.
+Theory of Computing Systems, Vol. 31, pp. 41–62, 1998.
+(J-21) A. Dubrovsky, R. Friedman and A. Schuster, “Load Balancing in Distributed Shared Memory Sys-
+tems”. International Journal of Applied Software Technology, Vol. 3, March 1998, pp. 167–202.
+(J-22) I. Ben-Aroya, D. Chinn and A. Schuster, “A Lower Bound for Nearly Minimal Adaptive and Hot
+Potato Algorithms”, Algorithmica. Vol. 21, pp. 347–376, 1998.
+(J-23) Y. Ben-Asher and A. Schuster, “Single Step Undirected Reconfigurable Networks”. VLSI Design, Vol.
+9, No. 1, pp. 17–28, 1999. Special issue on High Performance Bus-Based Architectures, S. Olariu Ed.
+(J-24) M. Golin and A. Schuster, “Optimal Point-to-Point Broadcast Algorithms via Lopsided Trees”, Dis-
+crete Applied Mathematics. Vol. 93, pp. 233–263, August 1999.
+(J-25) P. Berthom´
+e, T. Hagerup, I. Newman and A. Schuster, “Self-Simulation for the Passive Optical
+Star”. Journal of Algorithms, Vol. 34, pp. 128–147, January 2000.
+(J-26) A. Itzkovitz, A. Schuster and O. Zeev Ben-Mordechai. “Towards Integration of Data-Race Detection
+in DSM Systems”. Journal of Parallel and Distributed Computing. Special issue on software support
+for distributed computing. I. Ahmad and F. Lau Ed’s.
+(J-27) A. Gontmakher and A. Schuster. “Java Consistency: Non-Operational Characterizations for Java
+Memory Behavior”.
+ACM Transactions on Computer Systems.
+vol.
+18, No.
+4, Nov.
+2000, pp.
+333–386.
+19
+
+-----
+(J-28) A. Itzkovitz, N. Niv and A. Schuster. “Dynamic Adaptation of Sharing Granularity in DSM Sys-
+tems”. The Journal of Systems and Software. Vol. 55, pp. 19–32, 2000. ((C-37)).
+(J-29) C. Gotsman, A. Reisman, and A. Schuster. “Parallel Progressive Rendering of Animation Sequences
+at Interactive Rates on Distributed-Memory Machines”. ((C-28)). Journal of Parallel and Distributed
+Computing. Volume 60, pp. 1074–1102, 2000.
+(J-30) Dmitry Kogan and Assaf Schuster. “Remote Reference Counting: Distributed Garbage Collection
+with Low Communication and Computation Overhead”. ((C-27)). Journal of Parallel and Distributed
+Computing. Special Issue – Java on Clusters (E. Dekel Ed.). Vol. 60, No. 10, pp. 1260–1292, October
+2000.
+(J-31) Y. Aridor, T. Eilam, M. Factor, A. Schuster and A. Teperman. “Transparently Obtaining Scalability
+for a Cluster Java Virtual Machine”. Journal of Parallel and Distributed Computing. Special Issue –
+Java on Clusters (E. Dekel Ed.). Vol. 60, No. 10, pp. 1159–1193, October 2000. (C-41). IBM Pat
+Goldberg memorial award for best computer science paper published in 2000.
+(J-32) R. Friedman, E. Biham, A. Itzkovitz and A. Schuster. “Symphony: An Infrastructure for Managing
+Virtual Servers”. ((C-36)). Cluster Computing, Vol. 4, pp. 221–233, 2001.
+(J-33) N. Niv and A. Schuster. “Transparent Adaptation of Sharing Granularity in Multiview-Based DSM
+Systems”. Software: Practice & Experience. ((C-44)). Vol. 31, pp. 1439 – 1459, October 2001.
+(J-34) T. Heyman, D. Geist, O. Grumberg, and A. Schuster. “A Scalable Parallel Algorithm for Reachability
+Analysis of Very Large Circuits”. ((C-42)). Formal Methods in Systems Design. Vol. 21, pp. 317–338,
+2002.
+(J-35) S. Ben-David, T. Heyman, O. Grumberg, and A. Schuster. “Scalable Distributed On-The-Fly Sym-
+bolic Model Checking”. ((C-43)). Software Tools for Technology Transfer. Vol. 4, No. 4, pp. 496–504,
+November 2003.
+(J-36) A. Schuster and Ran Wolff. “Communication-Efficient Distributed Mining of Association Rules”.
+Data Mining and Knowledge Discovery. No. 8, pp. 171–196, 2004.
+(J-37) A. Gontmakher, S. Polyakov, and A. Schuster.
+“Complexity of Verifying Java Shared Memory
+Execution”. Parallel Processing Letters. Vol. 13, No. 4, pp. 721–733, December 2003.
+(J-38) A. Schuster and R. Wolff. “Association Rule Mining in Peer-to-Peer Systems”. Special Issue on
+Distributed and Mobile Data Mining, IEEE Transactions on System, Man, and Cybernetics (Part B:
+Cybernetics). Pp. 2426–2438, Vol. 34, No. 6, December 2004.
+(J-39) T. Heyman, O. Grumberg and A. Schuster. “Distributed Model Checking for µ-Calculus”. ((C-46)).
+Formal Methods in Systems Design. Vol. 26, No. 2, pp. 197–219, March 2005.
+(J-40) A. Bar-Or, D. Keren, A. Schuster, and R. Wolff. Hierarchical Decision Tree Induction in Distributed
+Genomic Databases.” IEEE Transactions on Knowledge and Data Engineering. pp. 1138–1151, Vol.
+18, No. 8, August 2005. Invited (but refereed) paper.
+(J-41) A. Schuster, D. Trock and R. Wolff. “A High-Performance Distributed Algorithm for Mining Asso-
+ciation Rules”. Knowledge and Information Systems. Vol. 7, No. 4, pp. 458–475, 2005.
+(J-42) V. Iosevitch and A. Schuster. “Software Distributed Shared Memory: a VIA-based implementation
+and comparison of sequential consistency with home-based lazy release consistency”. Software, Practice
+and Experience. Volume 35, Issue 8, pp. 755-786, July 2005.
+(J-43) T. Birk, L. Liss and A. Schuster. “Efficient Exploitation of Kernel Access to Infiniband: a Software
+DSM Example”. IEEE Trans. on Parallel and Distributed Systems, vol. 16 (9), pp. 830-840, Sep.
+2005.
+20
+
+-----
+(J-44) Silberstein M., Tzemach A., Dovgolevsky N., Fishelson M., Schuster A., Geiger D. “On-line Sys-
+tem for Faster Linkage Analysis via Parallel Execution on Thousands of Personal Computers”. The
+American Journal of Human Genetics. Vol. 78, pp. 922–935, June 2006.
+(J-45) M. Factor, A. Schuster and K. Shagin. “A Platform-Independent Distributed Runtime for Standard
+Multithreaded Java”. International Journal of Parallel Programming. Special issue on Systems and
+Storage. Vol. 34, No. 2, pp. 113–142, May 2006.
+(J-46) T. Heyman, O. Grumberg and A. Schuster. “A Work-Efficient Distributed Algorithm for Reachability
+Analysis”. Formal Methods in System Design. Special Issue on Parallel and Distributed Methods in
+Verification. Volume 29, Number 2, September 2006, pages 157-176.
+(J-47) L. Fix, O. Grumberg, T. Heiman, A. Schuster. “Verifying Very Large Industrial Circuits Using
+100 Processes and Beyond.” International International Journal of Foundations of Computer Science
+(IJFCS). Special Issue for ATVA05. Volume 18, No. 1, February 2007, pp. 45–62.
+(J-48) E. Pozniansky and A. Schuster. “MultiRace: efficient on-the-fly data race detection in multithreaded
+C++ programs”. Concurrency and Computation: Practice and Experience. Volume 19, pp. 327–340,
+2007.
+(JS-49) M. Sagiv, A. Schuster, and O. Shacham. “Scaling Model Checking of Dataraces Using Dynamic
+Information.” Journal of Parallel and Distributed Computing (JPDC). Volume 67, pp. 537–550, 2007.
+(J-50) Denis Krivitski, Assaf Schuster, Ran Wolff: “A Local Facility Location Algorithm for Large-scale
+Distributed Systems”. J. Grid Comput. 5(4) 361-378, 2007.
+(J-51) Arik Friedman, Ran Wolff, Assaf Schuster: “Providing k-anonymity in data mining”.
+VLDB J.
+17(4): 789-804, 2008.
+(J-52) Izchak Sharfman, Assaf Schuster, Daniel Keren: “A geometric approach to monitoring threshold
+functions over distributed data streams”. ACM Transactions on Database Systems. 32(4), 2007. In-
+vited refereed paper. Technion Best Graduate Student Paper Award for 2008.
+(J-53) Kfir Karmon, Liran Liss, Assaf Schuster: “GWiQ-P: an efficient decentralized grid-wide quota en-
+forcement protocol”. Operating Systems Review 42(1): 111-118, 2008.
+(J-54) Vlado Stankovski, Martin Swain, Valentin Kravtsov, Thomas Niessen, Dennis Wegener, M. Rohm,
+Jernej Trnkoczy, Michael May, Ju”rgen Franke, Assaf Schuster, Werner Dubitzky: “Digging Deep into
+the Data Mine with DataMiningGrid”. IEEE Internet Computing. 12(6): 69-76, 2008.
+(J-55) Avi Yadgar, Orna Grumberg, Assaf Schuster. “Hybrid BDD and All-SAT Method for Model Check-
+ing”. Languages: From Formal to Natural. 2009, pages 228-244.
+(J-56) Pavel Bar, David Carmeli, Valentin Kravtsov, Martin Swain, Assaf Schuster. “A scheduling frame-
+work for large-scale, parallel, and topology-aware applications.” Journal of Parallel and Distributed
+Computing. 70(9): 983-992, 2010.
+(J-57) Guy Sagy, Daniel Keren, Izhak Sharfman, Assaf Schuster.
+“Distributed Threshold Querying of
+General Functions by a Difference of Monotonic Representation.” Procedings of the VLDB Endowment
+(PVLDB). Vol. 4, No. 2, November 2010.
+(J-58) Guy Sagy, Daniel Keren, Izhak Sharfman, Assaf Schuster. “Top-k Aggregation Queries in a Dis-
+tributed Environment.” Journal of Parallel and Distributed Computing (JPDC). 71(2): 302-315, 2011.
+(J-59) Gala Yadgar, Michael Factor, Kai Li and Assaf Schuster. “Management of Multilevel, Multi-Client
+Cache Hierarchies with Application Hints”. ACM Transactions on Computer Systems (TOCS). Vol
+29, Issue 2, May 2011.
+(J-60) Daniel Keren, Tsachi Sharfman, Assaf Schuster, and Avishay Livne. Shape Sensitive Geometric
+Monitoring. Transactions on Knowledge and Data Engineering (TKDE). Vol 24, No 8, August 2012.
+21
+
+-----
+(J-61) Orna Agmon Ben-Yehuda, Muli Ben-Yehuda, Assaf Schuster, and Dan Tsafrir. “Deconstructing
+Amazon EC2 Spot Instance Pricing”. ACM Transactions on Economics and Computation. 2013.
+(J-62) Luk Knapen, Ansar Yasar, Sungjin Cho, Daniel Keren, Abed Abu Dbai, Tom Bellemans, Davy
+Janssens, Geert Wets, Assaf Schuster, Izchak Sharfman, Kanishka Bhaduri.
+“Exploiting Graph-
+theoretic Tools for Matching in Carpooling Applications”. Journal of Ambient Intelligence and Hu-
+manized Computing. 2013.
+(J-63) Orna Agmon Ben-Yehuda, Muli Ben-Yehuda, Assaf Schuster, Dan Tsafrir. ”The rise of RaaS: the
+Resource as a Service Cloud.” Communication of the ACM. 2014.
+(J-64) Daniel Keren and Guy Sagy and Amir Abboud and David Ben-David and Assaf Schuster and
+Ischak Sharfman and Antonis Deligiannakis. “Geometric Monitoring of Heterogeneous Streams”. IEEE
+Transactions on Knowledge and Data Engineering (TKDE), 2014.
+(J-65) Nikos Giatrakos, Antonios Deligiannakis, Minos Garofalakis, Izchak Sharfman, Assaf Schuster. “Dis-
+tributed Geometric Query Monitoring using Prediction Models.” ACM Transactions on Database Sys-
+tems (TODS). Vol. 39, Issue 2, May 2014.
+(J-66) “Monitoring Distributed Streams using Convex Decompositions.” Arnon Lazerson, Izchak Sharfman,
+Daniel Keren, Assaf Schuster, Minos Garofalakis and Vasilis Samoladas. Proceedings of the VLDB
+Endowment (PVLDB). Vol 9. August 2015.
+(J-67) “ELI: Bare-Metal Performance for I/O Virtualization.” Abel Gordon, Nadav Amit, Nadav HarEl,
+Muli Ben-Yehuda, Alex Landau, Assaf Schuster, Dan Tsafrir ”Research Highlights” (RH) section of
+the CACM. Invited paper. December 2015.
+(J-68) Uri Verner, Avi Mendelson, Assaf Schuster: “Extending Amdahl’s Law for Multicores with Turbo
+Boost.” Computer Architecture Letters 16(1): 30-33, 2017.
+(J-69) ”Experience from Two Years of Visualizing Flash with SSDPlayer”. Gala Yadgar, Roman Shor,
+Eitan Yaakobi, Assaf Schuster. ACM Transactions on Storage. 2017.
+Magazines
+(M-1) “The Millipede Runtime.” BYTE Magazine (International Bits), May 1998, pp. 3–4.
+(M-2) A. Gontmakher, A. Mendelson, and A. Schuster. “Inthreads - a Low Granularity Parallelization
+Model”. ACM SIGARCH Computer Architecture News newsletter, Vol. 34, No. 1, pp. 77–80, 2006.
+(M-3) “There Goes the (Genetic) Neighborhood.” NetWatch Best of the Web in science. Science 19 May
+2006: 977.
+(M-4) “The rise of RaaS: the Resource as a Service Cloud.” Orna Agmon Ben-Yehuda, Muli Ben-Yehuda,
+Assaf Schuster, Dan Tsafrir. Communication of the ACM. July 2014.
+(M-5) “Scalable Proactive Event-Driven Decision-Making.” Alexander Artikis, Chris Baber, Pedro Bizarro,
+Carlos Canudas-de-Wit, Opher Etzion, Fabiana Fournier, Paul Goulart, Andrew Howes, John Lygeros,
+Georgios Paliouras, Izchak Sharfman, and Assaf Schuster. The IEEE Technology and Society Magazine.
+2014.
+(M-6) “The rise of RaaS: the Resource as a Service Cloud”. Orna Agmon Ben-Yehuda, Muli Ben-Yehuda,
+Assaf Schuster. Haaretz Cloud Magazine (in Hebrew). August 2014.
+22
+
+-----
+Electronic Publications
+(E-1) Idit Keidar and Assaf Schuster. “Want Scalable Computing? Speculate!” SIGACT News Distributed
+Computing Column. Volume 37, Number 3, (Whole Number 140), September 2006.
+Books and Book Chapters
+(B-1) A. Schuster.
+“Bounds and Analysis Techniques for Greedy Hot-Potato Routing”.
+Chapter 11 in
+“Optical Interconnections and Parallel Processing: Trends at the Interface”, pp. 283–354. Kluwer
+Academic Publishers. ISBN 0-7923-4817-6 P. Berthom´
+e and A. Ferreira Ed’s. November 1997.
+(B-2) A. Cohen, Y. Rabinovich, A. Schuster, and H. Shachnai. “Optimal Bounds on Tail Probabilities -
+A Simplified Approach”. Chapter 1 in “Combinatorial Optimization: Advances in Randomized Par-
+allel Computing”, pp. 1–24. Kluwer Academic Publishers. ISBN 0-7923-5714-0 P. Pardalos and S.
+Rajasekaran Ed’s. April 1999.
+(B-3) Alex Gontmakher, avi Mendelson, and Assaf Schuster. “A Programming Model and Architectural
+Extensions for Fine-Grain Parallelism”. Parallel Computing: Models, Algorithms, and Applications.
+CRC Press, 2006. John Reif and Sanguthevar Rajasekaran Ed’s. Computer and Information Science
+Series, Sartaj Sahni chief-editor.
+(B-4) Michael Factor, Kfir Karmon, Assaf Schuster, Konstantin Shagin, and Tal Zamir. “A Transparent
+Distributed Runtime for Java”. Parallel Computing: Models, Algorithms, and Applications. CRC
+Press, 2006. John Reif and Sanguthevar Rajasekaran Ed’s. Computer and Information Science Series,
+Sartaj Sahni chief-editor.
+(B-5) N. Palatin, A. Schuster, and R. Wolff. “Mining for Misconfigured Machines in Grid Systems.” In:
+Data Mining in Grid Computing Environments. Werner Dubitzky Ed. Wiley, November 2008.
+(B-6) A. Schuster and R. Wolff. “Ubiquitous Technologies.” pages 19–39. Ubiquitous knowledge discovery:
+challenges, techniques, applications. Editors: M. May and L. Saitta. Springer, 2010.
+(B-7) Izchak Sharfman, Assaf Schuster and Daniel Keren. “A Geometric Approach to Monitoring Thresh-
+old Functions over Distributed Data Streams.” pages 163–186. Ubiquitous knowledge discovery: chal-
+lenges, techniques, applications. Editors: M. May and L. Saitta. Springer, 2010.
+(B-8) Mark Silberstein, Assaf Schuster, John Owens. “Applying software managed caching and CPU-GPU
+scheduling for accelerating sum-product computations.” GPU Computing GEMS, Volume 2, 2011.
+(B-9) Arik Friedman, Ran Wolff, and Assaf Schuster. “Embedding Privacy in Data Mining”. LAMBERT
+Academic Publishing. 2012.
+Patents
+(PT-1) Sold to Sanborn Research, March 2007. A. Itzkovitz and A. Schuster. “Memory for Accom-
+plishing Lowered Granularity of a Distributed Shared Memory”. US patent No. 6/263,414. Filed Sep.
+28, 1998. Issued July 17, 2001. Expires 2018.
+(PT-2) Sold to Sanborn Research, March 2007. A. Schuster and A. Itzkovitz. “Distributed Shared
+Memory with Variable Granularity”. US patent No. 6/591,355. Filed 2001, issued 8 July 2003. Expires
+2020.
+23
+
+-----
+(PT-3) IBM Patent. Y. Aridor, T. Eilam, M. Factor, A. Schuster and A. Teperman. “Speculative Caching
+of Individual Fields in a Distributed Object System”. US patent No. 6/618,737. Submitted December
+1999. Issued 9/9/03.
+(PT-4) A. Schuster and R. Wolff. “Distributed Mining of Association Rules”. US patent No. 6,952,693.
+Issued October 4, 2005.
+(PT-5) A. Schuster and R. Wolff. “Association Rule Mining in Peer-to-Peer Systems”. US patent No.
+7,680,757 B2 issued March 16, 2010.
+(PT-6) D. Keren, T. Scharfmann and A. Schuster. “Monitoring Multi-variate Threshold Functions over
+Distributed Data Streams.” PCT Patent Application, March 2007. US patent No. 8,332,458 issued
+December 11, 2012.
+(PT-7) Daniel Keren, Guy Sagy, Assaf Schuster. “Method and system of managing and/or monitoring dis-
+tributed computing based on geometric constraints.” Patent Application US20100325265 A1, December
+2010.
+(PT-8) Microsoft patent. N. Bjorner, R. Gilad-Bachrach, M. Gabel, A. Schuster. “Early Detection Of
+Failing Computers.” Patent Application, November 2010. Docket No. 331170.01.
+(PT-9) Gala Yadgar, Eitan Yaakobi, Assaf Schuster. “Improving SSDs using Polar WOM codes.” Patent
+Application. December 2014.
+(PT-10) Nadav Amit, Dan Tsafrir, Assaf Schuster. Memory swapper for virtualized environments. Pending
+Patent Application Number: PCT/IL2015/050172. February, 2014.
+(PT-11) Arnon Lazerson, Izchak Sharfman, Daniel Keren, Assaf Schuster. “Monitoring Distributed Streams
+using Convex Decompositions.” Patent Application. 2015.
+(PT-12) Daniel Moscovici, Natan Bandler, Assaf Schuster. “DISTRIBUTED TECHNIQUES FOR DE-
+TECTING ATYPICAL OR MALICIOUS WIRELESS COMMUNICATIONS ACTIVITY”. US Patent
+Application No.: 15407,886. Filed: January 17, 2017.
+Invited Talks, Keynotes
+(I-1) “Greedy Hot-Potato Routing”. ALTEC IV Workshop, Prague, March 1995.
+(I-2) “Optical Communication - A call for Algorithmic and Theoretical Study”. Workshop on Optics and
+Computer Science, Metz, December 1995.
+(I-3) “Millipede: A Happy Hour for Parallel Computing”, 9th Seminar Artzi on Computer Systems and
+Computer Engineering, Tel-Aviv, July 1996.
+(I-4) “Optimal Bounds on Tail Probabilities - A Simplified Approach”, 3rd Workshop on Randomized Par-
+allel Computing (WRPC 98), April 1998, Orlando.
+(I-5) “Shared Memory Models: Java, DSMs, Spaces, and beyond”. Keynote. 6th Intl. Workshop on High-
+Level Parallel Programming Models and Supportive Environments (HIPS), April 2001, San Francisco.
+(I-6) “Software Distributed Shared Memory: Will It Ever Prevail?”. 1st Jerusalem Symposium on Parallel
+and Distributed Systems. November 2001, Jerusalem.
+(I-7) “Experiences and Directions in Scalable Distributed Model Checking”. Learning and Formal Verifica-
+tion: A Workshop in Honor of Eli Shamir. May 2002, Jerusalem.
+24
+
+-----
+(I-8) “MultiRace – Efficient on-the-fly data-race detection in C++ programs”.
+IBM annual seminar on
+Software Testing, December 2002, Haifa Research Lab.
+(I-9) “Intrathreads – Techniques for Parallelization of Sequential Code”. IBM annual seminar on Compilers
+and Computer Architecture. December 2002, Haifa Research Lab.
+(I-10) “Efficient On-The-Fly Detection of Data-Races.” Keynote. Workshop on Parallel and Distributed
+Systems: Testing and Debugging (PADTAD), In conjusnction with IPDPS. April 2003, Nice.
+(I-11) “Scalable Distributed Model Checking: Experiences, Lessons, and Expectations”. Workshop on Paral-
+lel and Distributed Model Checking (in conjunction with CAV). Keynote. July 2003, Kolorado. Electr.
+Notes Theor. Comput. Sci. 89(1).
+(I-12) “Comparing Apples and Bananas: Relaxed vs. Strict Models for Distributed Shared Memory.” Sem-
+inar on Hardware and Software Consistency Models: Programability and Performance. October 2003,
+Dagstuhl.
+(I-13) “Efficient on-the-fly data-race detection”. Seminar on Hardware and Software Consistency Models:
+Programability and Performance. October 2003, Dagstuhl.
+(I-14) “JavaSplit - A Runtime for Transparent Distributed Execution of Multithreaded Java Code”. IBM
+annual seminar on Compilers and Architecture, November 2003, Haifa Research Lab.
+(I-15) “Data-Mining in Large-Scale Distributed Systems”. IBM annual seminar on Storage and Systems,
+December 2003, Haifa Research Lab.
+(I-16) “Data-Mining in Peer-to-Peer Systems”.
+3rd Jerusalem Symposium on Parallel and Distributed
+Systems. Tel-Aviv, December 2003.
+(I-17) “Single System Image: the MultiView approach”. First International Workshop on Operating Sys-
+tems, ProgrammingEnvironments and Management Tools for High-Performance Computing on Clus-
+ters (COSET-1). June 2004, St. Malo, France.
+(I-18) “Multilevel Cache Management Based on Application Hints”. IBM annual seminar on Storage and
+Systems, December 2004, Haifa Research Lab.
+(I-19) “Large-Scale Distributed Data Mining.” Conference on Information Management, May 2005, Tel
+Aviv.
+(I-20) “Challenges and Issues in Ubiquitous and Large-Scale Distributed Data Mining”. KD-Ubiq Kickoff
+meeting. Bonn, November 2005.
+(I-21) “Software for MultiCore Chips.” Intel Multicore conference. Portland, December 2005.
+(I-22) “Managing Data in Large-Scale Distributed Environments”. The Israeli Association of Grid Tech-
+nologies Annual Event. December 2005, Tel Aviv.
+(I-23) “Monitoring Distributed Streams”. Israel Innovation Summit. April 2006, Haifa.
+(I-24) “Data Mining in Large-Scale Distributed Systems”. Keynote. Italian conference on Data Bases. June
+2006, Ancona, Italy.
+(I-25) “Ubiquitous and Distributed Data Mining.” International Conference on 21st Century: Robotics and
+Artificial Intelligence. December 2006, Athens, Greece.
+(I-26) “Monitoring Threshold Functions in Distributed Streams.” Keynote. ECML-PKDD Workshop on
+Parallel Data Mining. September 2006, Berlin.
+(I-27) “Efficient Distributed Collaboration via Geometric Constraints”. Large-Scale Distributed Systems
+and Middleware (LADIS). March 2007, IBM-HRL, Haifa.
+25
+
+-----
+(I-28) “Towards a Quiescent World: Local Inference in Complex Systems.” September 2008, Intel DTTC
+conference, Haifa.
+(I-29) “Superlink-Online: Large-Scale Distributed Genetic Linkage Analysis”. Keynote. BIT’s 3rd Annual
+World Congress of BioSoft. March 2011, Beijing.
+(I-30) Invited talk. “Monitoring Data Streams.” Conference on Embedded and Microprocessors by New-
+Tech Magazine. Tel Aviv. September 2012.
+(I-31) “Scalable Data Stream Processing”.
+Keynote.
+Second International Conference on Parallel, Dis-
+tributed and Grid Computing (PDGC). December 2012. JUIT Campus, Solan, Himachal Pradesh,
+INDIA.
+(I-32) “The Geometric Method for Distributed Monitoring of Threshold Functions”. NII Shonan meeting
+on Large Scale Distributed Computation. January 2012, Japan. Invited talk.
+(I-33) “On-the-Fly Processing of Big, Distributed, Streaming Data”. SWSTE Symposium, June 2012, Her-
+zlia. Plenary talk.
+(I-34) “Big Data”. Invited talk, Israel Machine Vision Conference (IMVC). Tel Aviv, February 2013.
+(I-35) ”Huge data collection and fast decision”. METRO450 conference. Technion, January 2014. Plenary
+talk.
+(I-36) “On-the-Fly Processing of Big, Distributed, Streaming Data”. International Conference on Applied
+Algorithms. January 2014. Kolkata, India. Keynote.
+(I-37) Plenary Keynote. “Monitoring Distributed Streaming Data”. 14th International Conference on Run-
+time Verification. September 2014. Toronto, Canada.
+(I-38) Invited talk. “Discovering Weaknesses in Virtual Systems.” The 4th Annual International Cyberse-
+curity Conference. Tel Aviv. September 2014.
+(I-39) Plenary Keynote and Invited Talk.
+“Monitoring Big, Distributed, Streaming Data”.
+XIV Inter-
+national conference on High-performance Parallel Calculations on Cluster Systems (PNRPU). Perm,
+Russia. November 2014.
+(I-40) Invited talk. “Economic Tools for Cloud Resource Management”. International Conference on Data,
+Digital Business Models, Cloud Computing and Organizational Design. Paris. November 2014.
+(I-41) Invited talk. “Monitoring Distributed Data Streams”. International Conference on “Cloud Comput-
+ing. Education. Research. Development”. December 2014, Moscow.
+(I-42) Invited talk. “RaaS and Ginseng: The Resource as a Service Cloud”. Moscow Technical University,
+High School of Economics. December 2014, Moscow.
+(I-43) Keynote.
+“RaaS and Ginseng: The Resource as a Service Cloud”.
+12th International Confer-
+ence on Distributed Computing and Internet Technology (ICDCIT), January 2016. KIIT University,
+Bhubaneswar, Odisha, India.
+(I-44) Invited talk. “Monitoring Big, Distributed, Streaming Data”. Data Mining and Business Intelligence
+(DMBI). May 2016. Beer Sheba.
+(I-45) Invited talk. “Lazy Evaluation of Data Streams.” Workshop on Distributed Monitoring and Big
+Data. June 2016, Munchen, Germany.
+(I-46) Keynote. “Monitoring Big, Distributed, Streaming Data”. 7th International Conference on MO-
+BILe Wireless MiddleWARE, Operating Systems, and Applications (MOBILWARE). December 2016.
+Naples, Italy.
+26
+
+-----
+(I-47) Invited series of talks. “Handling Big, Streaming Data”. Data Mining Workshop organized by the
+University of Buenos Aires (UBA). October 2016, Buenos Aires, Argentina.
+(I-48) Invited series of talks. “Handling Big, Streaming Data”. Institute of advances in Cloud Computing
+(the GIAN project). December 2017, Allahabad, India.
+(I-49) Invited talk. “Efficient Processing of Big, Streaming Data”. 3rd International Conference on Com-
+putational Models, Cyber Security & Computational Intelligence (ICC3). December 2017, Coimbatore,
+India.
+Contributed Talks
+(L-1) “SIMD Algorithms for 2-D Arrays in the Perfect Shuffle Network”. 16th Symp. on Computer Archi-
+tecture, Jerusalem, May 1989.
+(L-2) “Algorithms and Optic Implementation for Reconfigurable Networks”. 5th Jerusalem Conf. on Infor-
+mation Technology, Jerusalem, October 1990.
+(L-3) “The Power of Reconfiguration”. 18th International Colloquium on Automata, Languages, and Pro-
+gramming, Madrid, July 1991.
+(L-4) “The Complexity of Reconfiguring Network Models”. 1st Israeli Symp. on Theory of Computing and
+Systems, Haifa, May 1992.
+(L-5) “Efficient Address Decoding for Fast Packet Switching Systems”. 7th Intl. Parallel Processing Symp.,
+Newport Beach, LA, April 1993.
+(L-6) “Hot-Potato Worm Routing is almost as easy as Store-and-Forward Packet Routing”. 2nd Israeli
+Symp. on Theory of Computing and Systems, Natanya, June 1993.
+(L-7) “The Impact of Hardware Restrictions on the Power of the Reconfigurable Mesh”. 1st Reconfigurable
+Architecture Workshop, Cancun, April 1994.
+(L-8) “Greedy Hot-Potato Routing on the Two-Dimensional Mesh”. 2nd European Symp. on Algorithms,
+Papendal, September 1994.
+(L-9) “General Tradeoffs Between Size and Time in Reconfigurable Meshes”. Reconfigurable Architecture
+Workshop, Santa Barbara, April 1995.
+(L-10) “Self-Simulation for the Passive Optical Star Model”, 3rd European Symp. on Algorithms, Corfu,
+September 1995.
+(L-11) “A Lower Bound for Nearly Minimal Adaptive and Hot Potato Algorithms”, 4th European Symp.
+on Algorithms, Barcelona, September 1996.
+(L-12) “Optimal Point-to-Point Broadcast Algorithms via Lopsided Trees”, 5th Israeli Symp. on the Theory
+of Computing and Systems, Ramat-Gan, June 1997.
+(L-13) “Vertex-to-Vertex Parallel Radiosity on a Cluster of PCs”, 1st Workshop on Algorithm Engineering,
+Venice, September 1997.
+(L-14) “Single Step Undirected Reconfigurable Networks”. 4th Intl. Conf. on High Performance Computing,
+Bangalore, December 1997.
+(L-15) “Broadcasting on a Budget in the Multi-Service Communication Model”. 5th Intl. Conf. on High-
+Performance Computing, Madras, December 1998.
+27
+
+-----
+(L-16) “A Distributed Runtime for Java: Yesterday and Today”. 6th Java for Parallel and Distributed
+Computing Workshop, Santa Fe, April 2004.
+(L-17) “Multithreaded Home-based Lazy Release Consistency over VIA”. Intl.
+Parallel and Distributed
+Processing Symp. (IPDPS), April 2004, Santa Fe.
+(L-18) “A Comparison of Sequential Consistency with Home-Based Lazy Release Consistency for Software
+Distributed Shared Memory”. 18th International Conference on Supercomputing (ICS), pp. 306–315.
+June 2004, St. Malo, France.
+(L-19) “Large-Scale Distributed Data Mining”. 5th Haifa Workshop on Interdisciplinary Applications of
+Graph theory, Combinatorics, and Algorithms. May 2005, Haifa.
+(L-20) “Monitoring Threshold Functions in Sensor Networks”. 21st IEEE Parallel & Distributed Processing
+Symposium (IPDPS). March 2007, Long Beach, CA.
+Demonstrations
+(D-1) “The Millipede System”. Usenix-NT, Seattle, August 1997.
+(D-2) “Gait analysis using the Kinect sensor”. NIPS, Lake Tahoe, December 2012.
+(D-3) “SSD Player”. Online at http://ssdplayer.cswp.cs.technion.ac.il/ In conjunction with C-134.
+Posters
+(P-1) “Execution of Monolithic Java Programs on Large Non-Dedicated Collections of Commodity Work-
+stations”, Java Grande/ISCOPE, 227. Seattle, November 2002.
+(P-2) Mark Silberstein, Anna Tzemach, Nikolay Dovgolevsky, Maayan Fishelson, Assaf Schuster, Dan
+Geiger.
+“Superlink online: distributed system for linkage analysis of large inbred pedigrees”, Israel
+Bioinformatics Symposium, Tel Aviv, May 2005.
+Refereed Papers in Conference Proceedings
+(C-1) Y. Aumann and A. Schuster, “Deterministic PRAM Simulation with Constant Memory Blow-Up and
+No Time-Stamps”, 3rd Symp. on the Frontiers of Massively Parallel Computation, October 1990.
+(C-2) Y. Ben-Asher, D. Egosi and A. Schuster, “SIMD Algorithms for 2-D Arrays in the Perfect Shuffle
+Network”, 16th Symp. on Computer Architecture, May 1989.
+(C-3) Y. Ben-Asher and A. Schuster, “Optical Splitting Graphs: Fast Technology for Massive Parallel
+Computation”, 4th Intl. Topical Meeting on Optical Computing, April 1990.
+(C-4) Y. Ben-Asher and A. Schuster, “Algorithms and Optic Implementation for Reconfigurable Networks”,
+5th Jerusalem Conf. on Information Technology, October 1990.
+(C-5) Y. Ben-Asher, D. Peleg, R. Ramaswami and A. Schuster, “The Power of Reconfiguration”, 18th Intl.
+Colloquium on Automata, Languages, and Programming (ICALP), July 1991.
+28
+
+-----
+(C-6) Y. Ben-Asher, A. Cohen, A. Schuster and J.F. Sibeyn, “The impact of Task-Length Parameters on the
+Performance of the Random Load-Balancing Algorithm”, 6th Intl. Parallel Processing Symp., March
+1992.
+(C-7) Y. Ben-Asher and A. Schuster, “The Bus-Usage Method for the analysis of Reconfiguring Networks
+Algorithms” 6th Intl. Parallel Processing Symp., March 1992.
+(C-8) Y. Ben-Asher, D. Peleg and A. Schuster, “The Complexity of Reconfiguring Network Models”, Proc.
+1st Israeli Symp. on Theory of Computing and Systems, pp. 79–90, May 1992.
+(C-9) Y. Ben-Asher, A. Cohen and A. Schuster, “Efficient Address Decoding for Fast Packet Switching
+Systems”, 7th Intl. Parallel Processing Symp., April 1993.
+(C-10) Y. Ben-Asher, G. R¨
+unger, A. Schuster and R. Wilhelm, “2DT-FP: an FP based programming lan-
+guage”, Conf. on Parallel Architectures and Languages, June 1993.
+(C-11) I. Newman and A. Schuster, “Hot-Potato Worm Routing is almost as easy as Store-and-Forward
+Packet Routing”, 2nd Israeli Symp. on Theory of Computing and Systems, June 1993.
+(C-12) Y. Ben-Asher, D. Gordon and A. Schuster, “Optimal Simulations in Reconfigurable Arrays”, 1st
+European Symp. on Algorithms, September 1993.
+(C-13) Y. Ben-Asher, G. R¨
+unger, A. Schuster and R. Wilhelm, “Implementing 2DT on a Multiprocessor”,
+Intl. Conf. on Compiler Construction, 1994.
+(C-14) A. Schuster and G. Shemesh, “Restricted Reconfiguring Meshes and Global Sensitive functions”,
+Reconfigurable Architecture Workshop, April 1994.
+(C-15) A. Ben-Dor, S. Halevi and A. Schuster, “Potential Function Analysis of Greedy Hot Potato Routing”,
+13th ACM Symp. on Principles of Distributed Computing, August 1994, pp. 225–234.
+(C-16) I. Ben-Aroya and A. Schuster, “Greedy Hot-Potato Routing on the Two-Dimensional Mesh”, 2nd
+European Symp. on Algorithms, September 1994, pp. 365–376.
+(C-17) I. Ben-Aroya, I. Newman and A. Schuster, “Randomized Single-Target Hot-Potato Routing”, 3rd
+Israeli Symp. on Theory of Computing and Systems, January 1995, pp. 20–29.
+(C-18) Y. Ben-Asher, A. Cohen and A. Schuster, “General Tradeoffs Between Size and Time in Reconfig-
+urable Meshes”, Reconfigurable Architecture Workshop, April 1995, pp. 1–13.
+(C-19) P. Berthom´
+e, T. Duboux, T. Hagerup, I. Newman and A. Schuster, “Self-Simulation for the Passive
+Optical Star Model”, 3rd European Symp. on Algorithms, Corfu, September 1995, pp. 369–380.
+(C-20) Y. Matias and A. Schuster, “Fast, Efficient Mutual and Self Simulations for Shared Memory and
+Reconfigurable Mesh”, 7th Symp. on Parallel and Distributed Processing, San Antonio, October 1995,
+pp. 239–246.
+(C-21) R. Friedman, M. Goldin, A. Itzkovitz and A. Schuster, “Millipede: Easy Parallel Programming in
+Available Distributed Environments”, Euro–Par (Vol. 1 of proceedings), Lyon, August 1996, pp. 84–87.
+(C-22) I. Ben-Aroya, D. Chinn and A. Schuster, “A Lower Bound for Nearly Minimal Adaptive and Hot
+Potato Algorithms”, 4th European Symp. on Algorithms, Barcelona, September 1996, pp. 471–485.
+(C-23) C. Gotsman, A. Reisman, and A. Schuster, “Parallel Progressive Ray-Tracing for Visualization on
+the IBM SP2”, SUP’EUR 96, CYFRONET, Krakow, September 1996, pp. 131–141.
+(C-24) A. Itzkovitz, A. Schuster, and L. Shalev (Wolfovich), “Supporting Multiple Parallel Programming
+Paradigms on top of the Millipede Virtual Parallel Machine”, 2nd Intl.
+Workshop on High Level
+Parallel Programming Models and Supportive Environments, Geneva, April 1997, pp. 25–34.
+29
+
+-----
+(C-25) M. Golin and A. Schuster, “Optimal Point-to-Point Broadcast Algorithms via Lopsided Trees”, 5th
+Israeli Symp. on the Theory of Computing and Systems, Ramat-Gan, June 1997, pp. 63–73.
+(C-26) A. Itzkovitz, A. Schuster, and L. Shalev, “Millipede: a User-Level NT–Based Distributed Shared
+Memory System with Thread Migration and Dynamic Run-Time Optimization of Memory References”.
+USENIX Windows NT Workshop, August 1997, Seattle, pp. 148.
+(C-27) D. Kogan and A. Schuster, “Collecting Garbage Pages in a Distributed Shared Memory System”.
+5th European Symp. on Algorithms, Graz, September 1997, pp. 308–325.
+(C-28) C. Gotsman, A. Reisman, and A. Schuster. “Parallel Progressive Rendering of Animation Sequences
+at Interactive Rates on Distributed-Memory Machines”. Parallel Rendering, Phoenics, October 1997,
+pp. 39–47.
+(C-29) Y. Ben-Asher and A. Schuster, “Single Step Undirected Reconfigurable Networks”. 4th Intl. Conf.
+on High Performance Computing, Bangalore, December 1997, pp. 284–289.
+(C-30) A. Bar-Lev, A. Itzkovitz, A. Raviv, and A. Schuster. “A Vertex-to-Vertex Parallel Radiosity on a
+Cluster of PCs”. Workshop on Algorithm Engineering, Venice, September 1997.
+(C-31) A. Gontmakher and A. Schuster. “Java Consistency: Non-Operational Characterizations for Java
+Memory Behavior”. 12th Intl. Parallel Processing Symp. (merged IPPS/SPDP), Orlando, March
+1998, pp. 682–687.
+(C-32) A. Bar-Lev, A. Itzkovitz, A. Raviv, A. Schuster. “Vertex-To-Vertex Parallel Radiosity on Clusters
+of PCs”. 5th Intl. Symp. on Solving Irregularly Structured Problems in Parallel, Berkeley, August
+1998, pp. 238–250.
+(C-33) A. Schuster and L. Shalev. “Using Remote Access Histories for Thread Scheduling in Distributed
+Shared Memory Systems”. 12th Intl. Symp. on Distributed Computing, Andros, September 1998, pp.
+347–362.
+(C-34) I. Newman, G. Itkis, and A. Schuster. “Broadcasting on a Budget in the Multi-Service Commu-
+nication Model”.
+5th Intl.
+Conf.
+on High-Performance Computing, Madras, December 1998, pp.
+163–170.
+(C-35) A. Itzkovitz and A. Schuster.
+“MultiView and MilliPage – Fine-Grain Sharing in Page-Based
+DSMs”. 3rd Symp. on Operating Systems Design & Implementation (OSDI), February 1999, New
+Orleans, pp. 215–228.
+(C-36) E. Biham, R. Friedman, A. Itzkovitz and A. Schuster. “Symphony: Managing Virtual Servers in
+the Global Village”. Euro-Par, August 1999, Toulouse. LNCS 1685, pp. 777–785.
+(C-37) A. Itzkovitz, N. Niv and A. Schuster. “Dynamic Adaptation of Sharing Granularity in DSM Sys-
+tems”. Proc. 28th Intl. Conf. on Parallel Processing (ICPP), pp. 220–227. September 1999, Aizu,
+Japan.
+(C-38) A. Itzkovitz, A. Schuster and Y. Talmor. “Harnessing the Power of Fast Low-Latency Networks for
+Software DSMs”. 1st Workshop on Software Distributed Shared Memory (WSDSM). In conjunction
+with 13th ACM-SIGARCH Intl. Conf. on Supercomputing (ICS), June 1999, Rhodes. pp. 63 – 70.
+(C-39) A. Itzkovitz and A. Schuster. “Distributed Shared Memory: Bridging the Granularity Gap”. 1st
+Workshop on Software Distributed Shared Memory (WSDSM), June 1999, Rhodes. pp. 89 – 94.
+(C-40) A. Gontmakher and A. Schuster. “Java Memory Model: Precise Characterizations”. Workshop
+on Java for High-Performance Computing. In conjunction with 13th ACM-SIGARCH Intl. Conf. on
+Supercomputing (ICS), June 1999, Rhodes.
+30
+
+-----
+(C-41) Y. Aridor, T. Eilam, M. Factor, A. Schuster and A. Teperman.
+“A High Performance Cluster
+JVM Presenting a Pure Single System Image”. JavaGrande Conference, pp. 168-177, June 2000, San
+Francisco. IBM Pat Goldberg memorial award for best computer science paper published
+in 2000.
+(C-42) T. Heyman, D. Geist, O. Grumberg, and A. Schuster. “Achieving Scalability in Parallel Reachability
+Analysis of Very Large Circuits”. Conference on Computer Aided Verification, Chicago, July 2000,
+pp. 20–34.
+(C-43) S. Ben-David, T. Heyman, O. Grumberg, and A. Schuster. “Scalable Distributed On-The-Fly Sym-
+bolic Model Checking”. Conference on Formal Methods in Computer-Aided Design, Austin, Texas,
+November 2000.
+(C-44) N. Niv and A. Schuster. “Transparent Adaptation of Sharing Granularity in MultiView-Based DSM
+Systems”. Intl. Conf. on Parallel and Distributed Processing Symposium, San Francisco, April 2001.
+Best Paper Award.
+(C-45) A. Schuster and R. Wolff.
+“Communication-Efficient Distributed Mining of Association Rules”.
+ACM SIGMOD, Santa-Barbara, May 2001.
+(C-46) T. Heyman, O. Grumberg and A. Schuster. “Distributed Model Checking for µ-Calculus”. Confer-
+ence on Computer Aided Verification, Paris, July 2001.
+(C-47) A. Gontmakher and A. Schuster.
+“Intrathreads: Techniques for Parallelizing Sequential Code.”
+6th Workshop on Multithreaded Execution, Architecture, and Compilation (MTEAC-6), Istanbul,
+November 2002, (in conjunction with Micro 35).
+(C-48) E. Pozniansky and A. Schuster.
+“MultiRace: Efficient On-The-Fly Detection of Data-Races in
+C++ Programs.” ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
+(PPoPP), pp. 179–190. June 2003, San Diego.
+(C-49) T. Heyman, O. Grumberg and A. Schuster. “A Work-Efficient Distributed Algorithm for Reacha-
+bility Analysis”. Conference on Computer Aided Verification (CAV), pp. 54–66. July 2003, Colorado.
+(C-50) E. Cohn-Dan and A. Schuster. “A Transparent Software Distributed Shared Memory”. Intl. Conf.
+on Parallel and Distributed Computing (EuroPar), pp. 1180–1189. August 2003, Klagenfurt, Austria.
+(C-51) T. Birk, L. Liss and A. Schuster. “Efficient Exploitation of Kernel Access to Infiniband: a Software
+DSM Example”. Hot Interconnects, August 2003, Stanford, California.
+(C-52) A. Schuster and R. Wolff. “Association Rule Mining in Peer-to-Peer Systems”. IEEE International
+Conference on Data Mining (ICDM), pp. 363–370. November 2003, Melbourne, Florida.
+(C-53) A. Schuster, D. Trock and R. Wolff. “A High-Performance Distributed Algorithm for Mining Asso-
+ciation Rules”. IEEE International Conference on Data Mining (ICDM), November 2003, Melbourne,
+Florida.
+(C-54) M. Factor, A. Schuster and K. Shagin. “JavaSplit: A Runtime for Execution of Monolithic Java
+Programs on Heterogenous Collections of Comodity Workstations”. IEEE Intl. Conference on Cluster
+Computing (CLUSTER), pp. 110–117. December 2003, Hong Kong.
+(C-55) Vadim Iosevitch and Assaf Schuster. “Multithreaded Home-based Lazy Release Consistency over
+VIA”. Intl. Parallel and Distributed Processing Symp. (IPDPS), April 2004, Santa Fe.
+(C-56) Bobi Gilburd, Assaf Schuster, and Ran Wolff.
+“Privacy-Preserving Association Rule Mining in
+Large-Scale Distributed Systems”. 4th IEEE/ACM International Symposium on Cluster Computing
+and the Grid (CCGRID). Pp. 411–418, April 2004, Chicago.
+(C-57) Michael Factor, Assaf Schuster, and Konstantin Shagin. “A Distributed Runtime for Java: Yesterday
+and Today”. 6th Java for Parallel and Distributed Computing Workshop, Santa Fe, April 2004.
+31
+
+-----
+(C-58) Bobi Gilburd, Assaf Schuster, and Ran Wolff. “Privacy-Preserving Data Mining on Data Grids in
+the Presence of Malicious Participants”. 13th Symposium on High Performance Distributed Computing
+(HPDC), pp. 225–234. June 2004, Hawaii.
+(C-59) Vadim Iosevitch and Assaf Schuster. “A Comparison of Sequential Consistency with Home-Based
+Lazy Release Consistency for Software Distributed Shared Memory”. 18th International Conference on
+Supercomputing (ICS). June 2004, St. Malo, France.
+(C-60) Vadim Iosevitch and Assaf Schuster. “Distributed Shared Memory: to Relax or not to Relax?”.
+Euro-Par, July 2004, pp. 198–205, Pisa, Italy.
+(C-61) Michael Factor, Assaf Schuster, and Konstantin Shagin. “Instrumentation of standard libraries in
+object-oriented languages: the twin class hierarchy”.
+19th ACM SIGPLAN Conference on Object-
+Oriented Programming Systems, Languages, and Applications (OOPSLA), pp. 288–300, Vancouver,
+BC, Canada, October 2004.
+(C-62) Vlado Stankovski, Michael May, Jrgen Franke, Assaf Schuster, Damian McCourt, and Werner Dub-
+itzky. “A Service-Centric Perspective for Data Mining in Complex Problem Solving Environments”. In-
+ternational Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA),
+pp. 780–787, Las Vegas, Nevada, June 2004.
+(C-63) Bobi Gilburd, Assaf Schuster, and Ran Wolff.
+“k-TTP: A New Privacy Model for Large-Scale
+Distributed Environments”. 10th ACM KDD International Conference on Knowledge Discovery and
+Data Mining (KDD), pp. 563–568, Seattle, WA, August 2004.
+(C-64) Orna Grumberg, Assaf Schuster, and Avi Yadgar. “Memory Efficient All-Solutions SAT Solver and
+its Application for Reachability Analysis”. 5th Intl. Conf. on Formal Methods in Computer-Aided
+Design (FMCAD). Pp. 275–289, Austin, Texas, November 2004.
+(C-65) Tzachi Birk, Liran Liss, Assaf Schuster, and Ran Wolff. “A Local Algorithm for Ad Hoc Majority
+Voting via Charge Fusion.” 18th International Symposium on Distributed Computing (DISC). Pp.
+275–289, Amsterdam, October, 2004.
+(C-66) Amir Bar-Or, Danny Keren, Assaf Schuster, and Ran Wolff. “Hierarchical Decision Tree Induction
+in Distributed Genomic Databases.” 1st workshop on Grid Data Mining (DM-Grid. In conjunction
+with ICDM). Brighton UK, November, 2004.
+(C-67) Amir Bar-Or, Danny Keren, Assaf Schuster, and Ran Wolff. “Decision Tree Induction in High
+Dimensional, Hierarchically Distributed Databases.”
+5th SIAM Intl.
+Conference on Data Mining
+(SDM). Newport Beach, April 2005.
+(C-68) Ohad Shacham, Mooly Sagiv and Assaf Schuster. “Scaling Model Checking of Dataraces Using Dy-
+namic Information”. ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
+(PPoPP). Chicago, June 2005. Pp. 107–118.
+(C-69) Denis Krivitski, Assaf Schuster, and Ran Wolff. “Local Hill Climbing in Sensor Networks”. Work-
+shop on Data Mining in Sensor Netowrks. Newport Beach, April 2005.
+(C-70) Denis Krivitski, Assaf Schuster, and Ran Wolff. “A Local Facility Location Algorithm for Sensor
+Networks”. International Conference on Distributed Computing in Sensor Systems (DCOSS). Marina
+del Rey, June 2005. Pp. 368–375.
+(C-71) Kfir Karmon, Liran Liss and Assaf Schuster.
+”GWiQ-P: An Efficient Decentralized Grid-Wide
+Quota Enforcement Protocol.” The 14th IEEE Intl Symposium on High Performance Distributed Com-
+puting (HPDC). Research Triangle Park, NC, July 2005.
+(C-72) Nili Ifergan, Tamir Heiman, Orna Grumberg, Assaf Schuster. “Achieving Speedups in Distributed
+Symbolic Reachability Analysis through Asynchronous Computation.” The 13th Advanced Research
+Working Conference on Correct Hardware Design and Verification Methods (CHARME). Saarbrcken
+(Germany), October 2005. Pp. 129–145.
+32
+
+-----
+(C-73) Limor Fix, Orna Grumberg, Tamir Heiman, Assaf Schuster. “Verifying Very Large Industrial Cir-
+cuits Using 100 Processes and Beyond.” Third International Symposium on Automated Technology for
+Verification and Analysis (ATVA). Taipei, Taiwan, October 2005. Best Paper Award. Pp. 11–25.
+(C-74) Sergey Polyakov and Assaf Schuster. “Verification of the Java Causality Requirements”. IBM veri-
+fication conference (3rd PADTAD track – Parallel and Distributed Systems: Testing and Debugging).
+November 2005, Haifa. Pp. 224–246.
+(C-75) Alex Gontmakher, Gregory Kovriga, Avi Mendelson, Assaf Schuster. “Speculative Synchronization
+and Thread Management for Low Granularity Threads.”
+12th International Symposium on High-
+Performance Computer Architecture (HPCA), Austin, Texas, February 2006.
+(C-76) Alex Gontmakher, Gregory Kovriga, Avi Mendelson, Assaf Schuster.
+“Register Allocation for
+Lightweight Shared-Context Parallel Architectures”. The 10th IEEE Annual Workshop on Interaction
+between Compilers and Computer Architectures (INTERACT). Austin, Texas, February 2006.
+(C-77) Danny Keren, Tsachi Scharfman, and Assaf Schuster.
+“A Geometric Approach to Monitoring
+Threshold Functions Over Distributed Data Streams.” ACM Intl.
+Conf.
+on Management of Data
+(SIGMOD). Chicago, June 2006. SIGMOD Best Paper Award Honorable Mention).
+(C-78) Dan Geiger, Miron Livny, Assaf Schuster, Mark Silberstein. “Scheduling Mixed Workloads In Multi-
+grid Environments.” 15th IEEE International Symposium on High Performance Distributed Comput-
+ing (HPDC). Paris, june 2006.
+(C-79) Sharov Artyom, Gabi Kliot, Miron Livny, Mark Silberstein, Assaf Schuster. “Materializing Highly
+Available Grids”. 15th IEEE International Symposium on High Performance Distributed Computing
+(HPDC). Hot Topics. Paris, june 2006.
+(C-80) Valentin Kravtsov, Thomas Niessen, Vlado Stankovski and Assaf Schuster. “Service-based Resource
+Brokering for Grid-based Data Mining”. International Conference on Grid Computing and Applications
+(GCA). Las Vegas, June 2006.
+(C-81) Tsachi Birk, Idit Keidar, Liran Liss, Assaf Schuster, Ran Wolff. “Veracity Radius - Capturing the
+Locality of Distributed Computations.” Twenty-Fifth Annual ACM SIGACT-SIGOPS Symposium on
+Principles of Distributed Computing (PODC). Denver, July 2006.
+(C-82) Arie Leizarowitz, Noam Palatin, Assaf Schuster, Ran Wolff. “Mining for Misconfigured Machines
+in Grid Systems.” Twelfth ACM KDD International Conference on Knowledge Discovery and Data
+Mining (KDD). Philadelphia, August 2006.
+(C-83) Arik Friedman, Assaf Schuster, and Ran Wolff. “k-Anonymous Decision Tree Induction.” The 10th
+European Conference on Principles and Practice of Knowledge Discovery in Databases (PKDD). Best
+Student Paper Award. Berlin, September 2006.
+(C-84) Tsachi Birk, Idit Keidar, Liran Liss, Assaf Schuster. “Efficient Dynamic Aggregation.” 20th Inter-
+national Symposium on Distributed Computing (DISC). Stockholm, September 2006.
+(C-85) Marc Silberstein, Dan Geiger and Assaf Schuster.
+“A Distributed System for Genetic Linkage
+Analysis.” Intl. Workshop on Distributed, High-Performance and Grid Computing in Computational
+Biology (GCCB). Eilat, January 2007.
+(C-86) Alex Gontmakher, Avi Mendelson, and Assaf Schuster.
+“Using Fine Grain Multithreading for
+Energy Efficient Computing”.
+ACM SIGPLAN Symposium on Principles and Practice of Parallel
+Programming (PPOPP). March 2007, San Jose.
+(C-87) Gala Yadgar, Michael Factor, and Assaf Schuster. “Karma: Know-it-All Replacement for a Multi-
+level cAche”. 5th USENIX Conference on File and Storage Technologies (FAST). February 2007, San
+Jose.
+33
+
+-----
+(C-88) Tsachi Sharfman, Daniel Keren and Assaf Schuster. “Aggregate Threshold Queries in Sensor Net-
+works.” 21st IEEE International Parallel & Distributed Processing Symposium (IPDPS). March 2007,
+Long Beach.
+(C-89) Alex Gontmakher, Gregory Shklover, Vladimir Zdorov, Assaf Schuster, and Avi Mendelson. “Code
+Compilation for an Explicitely Parallel Register-Sharing Architecture”. Intl. Conference on Parallel
+Processing (ICPP). September 2007, XiAn, China.
+(C-90) Valentin Kravtsov, David Carmeli, Werner Dubitzky, Assaf Schuster, Mark Silberstein, Benny
+Yoshpa. “Quasi-Opportunistic Supercomputing in Grids”. 16th IEEE International Symposium on
+High Performance Distributed Computing (HPDC). Hot Topics. June 2007, Monterey, CA.
+(C-91) Kfir Karmon, Liran Liss and Assaf Schuster.
+“GWiQ-P: An Efficient Decentralized Grid-Wide
+Quota Enforcement Protocol”. Haifa Systems and Storage Conference (SYSTOR), October 2007, IBM
+Haifa Research Lab.
+(C-92) Orna Grumberg, Assaf Schuster, Avi Yadgar.
+“3-Valued Circuit SAT for STE with Automatic
+Refinement.” Fifth International Symposium on Automated Technology for Verification and Analysis
+(ATVA), 457-473, October 2007, Japan.
+(C-93) Michael Factor, Kai Li, Assaf Schuster and Gala Yadgar. “MC2: Multiple Clients on a Multilevel
+Cache.” The 28th International Conference on Distributed Computing Systems (ICDCS). June 2008,
+Beijing.
+(C-94) Valentin Kravtsov, Uri Dubin, Werner Dubitzky, Assaf Schuster. “A Fast and Efficient Algorithm
+for Topology-Aware Coallocation.” International Conference on Computational Science (ICCS). May
+2008, Reading UK.
+(C-95) Daniel Keren, Assaf Schuster and Tsachi Sharfman. “Shape Sensitive Geometric Monitoring.” 27th
+ACM Symposium on Principles of Database Systems (PODS). June 2008, Vancouver.
+(C-96) Valentin Kravtsov, David Carmeli, Werner Dubitzky, Ariel Orda, Assaf Schuster, Mark Silberstein
+and Benny Yoshpa. “Quasi-Opportunistic Supercomputing in Grid Environments.” Intl. Conference
+on Algorithms and Architectures (ICA3PP). June 2008, Cyprus.
+(C-97) Mark Silberstein, Assaf Schuster, Dan Geiger, Anjul Patney, John D. Owens. “Efficient computation
+of sum-products on GPUs through software-managed cache.” 22nd ACM International Conference on
+Supercomputing (ICS). June 2008, Island of Kos - Aegean Sea - Greece.
+(C-98) Valentin Kravtsov, Assaf Schuster, David Carmeli, Krzysztof Kurowski, and Werner Dubitzky.
+“Grid-Enabling Complex System Applications with QosCosGrid: An Architectural Perspective.” Inter-
+national Conference on Grid Computing and Applications (GCA). July 2008, Las-Vegas.
+(C-99) Mark Silberstein, Dan Geiger and Assaf Schuster. “Harnessing the world’s computers to hunt for
+disease-provoking genes.” Microsoft eScience Workshop. December 2008, Indianapolis.
+(C-100) Mark Silberstein, Artyom Sharov, Dan Geiger and Assaf Schuster. “GridBot: Execution of Bags
+of Tasks in Multiple Grids.” SuperComputing. Portland, Oragon, November 2009.
+(C-101) Michael Factor, Assaf Schuster, Konstantin Shagin, Tal Zamir: “Optimistic concurrency for clus-
+ters via speculative locking”. SYSTOR - The Israeli Experimental Systems Conference, Haifa, May
+2009.
+(C-102) Pavel Bar, Camille Coti, Derek Groen, Thomas Herault, Valentin Kravtsov, Martin Swain, Assaf
+Schuster: “Running parallel applications with topology-aware grid middleware”. Fifth IEEE Interna-
+tional Conference on e-Science, December 2009, Oxford, UK.
+(C-103) Pavel Bar, David Carmeli, Valentin Kravtsov, Martin Swain, Assaf Schuster: “A scheduling frame-
+work for large-scale, parallel, and topology-aware applications.” 24th IEEE International Parallel &
+Distributed Processing Symposium (IPDPS). April 2010, Atlanta, USA.
+34
+
+-----
+(C-104) Arik Friedman and Assaf Schuster: “Data Mining with Differential Privacy.” 16th ACM Confer-
+ence on Knowledge Discovery and Data Mining (KDD). July 2010, Washington DC.
+(C-105) Guy Sagy, Daniel Keren, Izhak Sharfman, Assaf Schuster. “Distributed Threshold Querying of
+General Functions by a Difference of Monotonic Representation.”
+37th Conference on Very Large
+Databases (VLDB), Seattle, August 2011.
+(C-106) Uri Verner, Mark Silberstein, Assaf Schuster. “Processing data streams with hard real-time con-
+straints on heterogeneous systems.” International Conference on Supercomputing (ICS), Tucson, May
+2011.
+(C-107) Nadav Amit, Muli Ben-Yehuda, Dan Tsafrir, and Assaf Schuster. “vIOMMU: Efficient IOMMU
+Emulation.” USENIX Annual Technical Conference (USENIX ATC), Portland 2011.
+(C-108) Orna Ben-Yehuda, Muli Ben-Yehuda, Dan Tsafrir, and Assaf Schuster. “Deconstructing Amazon
+EC2 Spot Instance Pricing.” IEEE CloudCom, Athens, November 2011.
+(C-109) Nadav Amit, Muli Ben-Yehuda, Abel Gordon, Nadav HarEl, Alex Landau, Dan Tsafrir, Assaf
+Schuster. “ELI: Bare-Metal Performance for I/O Virtualization.” Seventeenth International Confer-
+ence on Architectural Support for Programming Languages and Operating Systems (ASPLOS). March
+2012, London. HiPEAC Paper Award and IBM Research’s 2012 Pat Goldberg Memorial
+Best Paper Award in Computer Science, Electrical Engineering and Math.
+(C-110) Orna Ben-Yehuda, Muli Ben-Yehuda, Alex Iosup, Assaf Schuster, Mark Silberstein, Artiom Sharov,
+and Dan Tsafrir. “ExPERT: Pareto-Efficient Task Replication on Grids and a Cloud.” IPDPS, Shang-
+hai, May 2012.
+(C-111) Antonis Deligiannakis, Minos Garofalakis, Tsachi Sharfman, Assaf Schuster. “Prediction-Based
+Geometric Monitoring over Distributed Data Streams”. SIGMOD, Scottsdale, Arizona, May 2012.
+(C-112) Moshe Gabel, Ran Gilad-Bachrach, Nikolaj Bjorner, Assaf Schuster. “Latent Fault Detection in
+Large Scale Services”. Dependable Computing and Communications Symposium, Boston, June 2012.
+(C-113) Uri Verner, Assaf Schuster, Mark Silberstein, Avi Mendelson. “Processing of real-time data streams
+on multi-GPU systems”. Systor, Haifa, June 2012.
+(C-114) Orna Agmon Ben-Yehuda, Muli Ben Yehuda, Assaf Schuster, Dan Tsafrir. “The Resource-as-a-
+Service (RaaS) Cloud”. HotCloud, Boston, June 2012.
+(C-115) Daniel Keren, Ansar-Ul-Haque Yasar, Luk Knapen, Sungjin Cho, Tom Bellemans, Davy Janssens,
+Geert Wets, Assaf Schuster, Izchak Sharfman. ”Exploiting Graph-theoretic Tools for Matching and
+Partitioning of Agent Population in an Agent-based Model for Traffic and Transportation Applications.”
+Procedia CS 10: 833-839 (2012).
+(C-116) Moshe Gabel, Erin Renshaw, Assaf Schuster and Ran Gilad-Bachrach. “Full Body Gait Analysis
+with Kinect”.
+Annual International Conference of the IEEE Engineering in Medicine and Biology
+Society (EMBC). 2012.
+(C-117) Gala Yadgar, Michael Factor and Assaf Schuster. “Cooperative Caching with Return on Invest-
+ment.”. IEEE Conference on Massive Data Storage (MSST). Los Angeles, May 2013.
+(C-118) Mickey Gabel, Danny Keren, Assaf Schuster. ”Communication-Efficient Outliers for scale-Out
+Systems.” BD3 - 1st intl. Workshop on Big Dynamic Distributed Data. August 30th, 2013, Trento,
+Italy (in conjunction with VLDB 2013).
+(C-119) Daniel Keren, Guy Sagy, Amir Abboud, David Ben-David, Izchak Sharfman, Assaf Schuster. ”
+Safe-Zones for Monitoring Distributed Streams.” BD3 - 1st intl. Workshop on Big Dynamic Distributed
+Data. August 30th, 2013, Trento, Italy (in conjunction with VLDB 2013).
+35
+
+-----
+(C-120) Mario Boley, Michael Kamp, Daniel Keren, Assaf Schuster, Izchak Sharfman. “Communication-
+Efficient Distributed Online Prediction using Dynamic Model Synchronizations.” BD3 - 1st intl. Work-
+shop on Big Dynamic Distributed Data. August 30th, 2013, Trento, Italy (in conjunction with VLDB
+2013).
+(C-121) Uri Verner, Avi Mendelson, Assaf Schuster.
+”Batch Method for Efficient Resource Sharing in
+Real-time Multi-GPU Systems.” ICDCN, January 2014, Coimbatore, India.
+(C-122) Daniel Keren and Guy Sagy and Amir Abboud and David Ben-David and Assaf Schuster and
+Ischak Sharfman and Antonis Deligiannakis. ”Monitoring Distributed, Heterogeneous Data Streams:
+the Emergence of Safe Zones.” International Conference on Applied Algorithms (ICAA). Kolkata,
+India. January 2014.
+(C-123) Nadav Amit, Dan Tsafrir, Assaf Schuster. ”VSwapper: A Memory Swapper for Virtualized Envi-
+ronments.” 19th Intl. Conference on Architectural Support for Programing Languages and Operating
+Systems (ASPLOS). Salt Lake City, March 2014. HiPEAC Paper Award Chosen as highlight
+paper of the 7th ACM International Systems and Storage Conference (SYSTOR). May
+2014, Haifa.
+(C-124) Arik Friedman, Izchak Sharfman, Daniel Keren, Assaf Schuster. “Privacy-Preserving Distributed
+Stream Monitoring”, Network and Distributed System Security Symposium (NDSS). San Diego, Febru-
+ary 2014.
+(C-125) Mickey (Moshe) Gabel, Danny Keren, Assaf Schuster. “Communication-efficient Distributed Vari-
+ance Monitoring and Outlier Detection for Multivariate Time Series.” 28th IEEE International Parallel
+and Distributed Processing Symposium (IPDPS). PHOENIX, Arizona, May 2014.
+(C-126) Orna Agmon Ben-Yehuda, Eyal Posener, Muli Ben-Yehuda, Assaf Schuster, Ahuva Mualem. “Gin-
+seng: Market-Driven Memory Allocation.” 10th ACM SIGPLAN/SIGOPS International Conference
+on Virtual Execution Environments (VEE). Salt Lake City, March 2014.
+(C-127) Uri Verner, Avi Mendelson, Assaf Schuster. “Scheduling Periodic Real-Time Communication in
+Multi-GPU Systems.” The 23rd International Conference on Computer Communications and Networks
+(ICCCN). Shanghai, August 2014.
+(C-128) “Communication-Efficient Distributed Online Prediction by Decentralized Variance Monitoring.”
+Michael Kamp, Mario Boley, Daniel Keren, Assaf Schuster, and Izchak Sharfman. ECML/PKDD.
+Nancy, France, September 2014.
+(C-129) “Adaptive Communication Bounds for Distributed Online Learning.” Michael Kamp, Mario Boley,
+Daniel Keren, Assaf Schuster, and Izchak Sharfman. OPT workshop at NIPS, Montreal, December
+2014.
+(C-130) “Monitoring Distributed Streams using Convex Decompositions.” Arnon Lazerson, Izchak Sharf-
+man, Daniel Keren, Assaf Schuster, Minos Garofalakis and Vasilis Samoladas. 41st Conference on Very
+Large Data Bases (VLDB). Hawaii, Aug 2015.
+(C-131) “Write Once, Get 50% Free: Saving SSD Erase Costs Using WOM.” Gala Yadgar, Eitan Yaakobi,
+Assaf Schuster. Usenix FAST. Santa Clara, CA. February 2015. Chosen as highlight paper of the
+8th ACM International Systems and Storage Conference (SYSTOR). May 2015, Haifa.
+(C-132) Ran Bernstein, Tal Shafir, Rachelle Tsachor, Karen Studd, and Assaf Schuster. “Laban Movement
+Analysis using Kinect”.
+ICACII International Conference on Affective Computing and Intelligent
+Interaction. May 2015, Paris, France.
+(C-133) Moshe Gabel, Kento Sato, Daniel Keren, Satoshi Matsuoka, Assaf Schuster. “Latent Fault Detec-
+tion With Unbalanced Workloads.” EPForDM - Event Processing, Forecasting and Decision-Making
+in the Big Data Era. EDBT 2015 Workshop. Brussels, March 2015.
+36
+
+-----
+(C-134) Gala Yadgar, Roman Shor, Eitan Yaakobi, Assaf Schuster. “It’s Not Where Your Data Is, It’s How
+It Got There”. The 7th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage).
+Santa Clara, July 2015.
+(C-135) “Lazy Evaluation Methods for Detecting Complex Events”. Ilya Kolchinsky, Tsachi Sharfman, and
+Assaf Schuster. The 9th ACM International Conference on Distributed Event-Based Systems (DEBS).
+Oslo, July 2015. Best Research Paper Award.
+(C-136) “Monitoring Least Squares Models of Distributed Streams.”
+Mickey Gabel, Daniel Keren, and
+Assaf Schuster.
+21st ACM Conference on Knowledge Discovery and Data Mining (KDD). August
+2015, Sydney.
+(C-137) “Multitask Learning for LMA”. Ran Bernstein, Tal Shafir, Rachelle Tsachor, Assaf Schuster, Karen
+Studd. 2nd Intl. Workshop on Moving and Computing (MOCO). August 2015, Vancouver.
+(C-138) “Virtual CPU Validation.”
+Nadav Amit, Dan Tsafrir, Assaf Schuster, Ahmad Ayoub, Eran
+Shlomo. The 25th ACM Symposium on Operating Systems Principles (SOSP). October, 2015, Mon-
+terey, California.
+(C-139) “Attacks in the Resource-as-a-Service (RaaS) Cloud Context.”
+Danielle Movsowitz, Orna Ag-
+mon Ben-Yehuda and Assaf Schuster. 12th Intl. Conference on Distributed Computing and Internet
+Technology (ICDCIT). Bhubaneswar, Odisha, India. January 2016.
+(C-140) “The Devil is in the Details: Implementing Flash Page Reuse with WOM Codes.” Fabio Margaglia,
+Gala Yadgar, Eitan Yaakobi, Yue Li, Assaf Schuster, Andre Brinkmann. 14th USENIX Conference on
+File and Storage Technology (FAST). Santa Clara, February 2016.
+(C-141) “The Devil is in the Details: Implementing Flash Page Reuse with WOM Codes.” Fabio Margaglia,
+Gala Yadgar, Eitan Yaakobi, Yue Li, Assaf Schuster, Andre Brinkmann. Non-Volatile Memories Work-
+shop (NVMW), March 2016.
+(C-142) “Ginseng: Market-Driven LLC Allocation.” Liran Funaro, Orna Agmon Ben-Yehuda, Assaf Schus-
+ter. Usenix Annual Technical Conference (USENIX ATC), June 2016, Denver.
+(C-143) “Taking the Blame Game out of Data Centers Operations with NetPoirot.” Behnaz Arzani, Selim
+Ciraci, Boon Thau Loo, Assaf Schuster, Geoff Outhred. ACM Conference on Communication and
+Computer Networks (SIGCOMM), Florianopolis, Brasil. August 2016. Chosen as highlight paper
+of the 9th ACM International Systems and Storage Conference (SYSTOR). June 2016,
+Haifa.
+(C-144) “Lightweight Monitoring of Distributed Streams”. Arnon leiserson, Daniel Keren and Assaf Schus-
+ter. 22nd ACM KDD Conference on Knowledge Discovery and Data Minin (KDD). August 2016, San
+Francisco.
+(C-145) “One for All and All for One: Simultaneous Approximation of Multiple Functions over Distributed
+Streams”. Arnon Leiserson, Mickey Gabel, Daniel Keren and Assaf Schuster. The 11th ACM Interna-
+tional Conference on Distributed and Event-Based Systems (DEBS). June, 2017 Barcelona.
+(C-146) “Anarchists, Unite: Practical Entropy Approximation for Distributed Streams.”. Mickey Gabel,
+Daniel Keren, Assaf Schuster. 23nd ACM SIGKDD Conference on Knowledge Discovery and Data
+Mining (KDD). Halifax, Nova Scotia - Canada, August, 2017
+(C-147) “Detection in the Dark - Exploiting XSS Vulnerability in C&C Panels as a New Technique to
+Detect Malwares.”. Shay Nachum, Assaf Schuster, Opher Etzion. 12th Intl. Conference on Malicious
+and Unwanted Software (MALCON). October 2017, Fajardo, Puerto Rico.
+37
+
+-----

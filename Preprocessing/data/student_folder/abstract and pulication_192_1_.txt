@@ -1,0 +1,150 @@
+Active noise control algorithm and
+implementation on overcoming the practical
+issue
+SHI DONGYUAN (G1500076L)
+Aug 2018– Aug 2019
+1
+Abstract
+Noise control attracts more and more attention, as the rapid advance of hu-
+man’s urbanization. Compared to traditional passive noise control approach,
+the active noise control (ANC) technique only utilizes the sensor to acquire
+the information of the noise and synthesizes the anti-noise driving the actu-
+ator to cancel the noise. Therefore, the ANC technique shows the apparent
+advantages of the cost, size, and easy deployment. With these advantages,
+ANC is widely used in active control headphone, duct noise control fields
+and so on. However, the ANC technique still meets many practical chal-
+lenges, such as the output nonlinearity of the secondary path, no place to
+settle the error sensor, and the soaring computations as the increasing scale
+of the multichannel active noise control (MCANC) system. For effectively
+solving these practical issues, the paper reviews several techniques and pro-
+poses many innovative algorithms and methods. The distortion coming from
+the saturation audio amplifier plays a central role in the output nonlinearity
+on the secondary path. The distortion seriously influences the noise reduc-
+tion performance and even results in the divergence of the adaptive ANC
+algorithm. One of the most effective ways is to constrain the power of the
+output signal so that the audio amplifier can work under the linear model and
+avoids the saturation. For guaranteeing the ANC system to achieve the opti-
+mal noise reduction performance under output constraint, the paper proposes
+two-gradient direction FxLMS algorithm￿ The algorithm will automatically
+1
+
+-----
+change the gradient direction to reduce the power gain of the control filter
+when the ANC system exceeds the constraint of the output power. The alter-
+native method is to utilize the leaky FxLMS algorithm adaptively restraining
+the magnitude of the control filter. With the assistance of the optimal leak
+factor suggested in this paper, the leaky FxLMS algorithm can also gain
+optimal control under output constraint. The performances of these two al-
+gorithms are verified by the numerical simulation and the experiment in the
+paper.
+In some ANC applications, its impractical to place the error sensor in
+the desired location. Hence, the paper revisits the virtual sensing ANC tech-
+nique that is capable to project the quiet zoom to the desired position from
+the location of the physical microphone. Furthermore, the paper extends the
+single channel version sensing ANC to multichannel version sensing ANC
+(MVANC). The frequency domain and time domain prove the MVANC can
+achieve the same noise reduction performance as the MCANC, which places
+the real error sensors in desired positions. The analysis of the sensor-actuator
+configuration exhibits the physical limitation of the MVANC. A four-channel
+MVANC is implemented in a small noise chamber, and its experimental re-
+sults validate these analyses. Selective active noise control (SANC) approach
+proposed in the paper obtains a series of filters and stores into a database in
+the preliminary stage. When dealing with a specific type of primary noise,
+the SANC algorithm will select out a suitable pre-trained filter from the
+database based on the frequency-band-match method.
+The paper proves
+that the selected filter chosen by the frequency-band-match method can ob-
+tain a satisfying noise reduction performance. Without the adaptive update
+progress, SANC saves a considerable amount of computation and has higher
+robustness.
+Finally, the paper summaries a series of approaches, which can optimize
+the structure of the digital processing algorithm implemented on FPGA. By
+using these methods, the paper proposes the systolic FxLMS, which sig-
+nificantly increase the sampling rate and throughput rate of the ANC sys-
+tem. For realizing a large scale MCANC on FPGA, the paper introduces a
+Multiple-parallel-branch with folding structure. This architecture is used to
+implement a 24-channel MCANC and successfully balances the computation
+resource consummation and the maximum running speed. This 24-channel
+MCANC is deployed in an open window whose noise reduction performance
+sufficiently validates the effectiveness of the proposed architecture.
+2
+
+-----
+2
+Publication
+I have published two journal papers [1, 2], four ICASSP papers [3–6], two
+APSIPA papers [7,8], one ICA paper [9], other papers [10–16].
+References
+[1] Shi, DongYuan, et al. ”Two-gradient direction FXLMS: An adaptive ac-
+tive noise control algorithm with output constraint.” Mechanical Systems
+and Signal Processing 116 (2019): 651-667.
+[2] Shi, Dongyuan, et al. ”Optimal Leak Factor Selection for the Output-
+constrained Leaky Filtered-Input Least Mean Square Algorithm.” IEEE
+Signal Processing Letters (2019).
+[3] Shi, Dong Yuan, and Woon-Seng Gan. ”Comparison of different develop-
+ment kits and its suitability in signal processing education.” 2016 IEEE
+International Conference on Acoustics, Speech and Signal Processing
+(ICASSP). IEEE, 2016.
+[4] Shi, Dongyuan, et al. ”Multiple parallel branch with folding architec-
+ture for multichannel filtered-x least mean square algorithm.” 2017 IEEE
+International Conference on Acoustics, Speech and Signal Processing
+(ICASSP). IEEE, 2017.
+[5] Shi, Dong Yuan, Bhan Lam, and Woon-Seng Gan. ”A Novel Selective
+Active Noise Control Algorithm to Overcome Practical Implementation
+Issue.” 2018 IEEE International Conference on Acoustics, Speech and
+Signal Processing (ICASSP). IEEE, 2018.
+[6] Shi, Dongyuan, Bhan Lam, and Woon-seng Gan. ”Analysis of Multichan-
+nel Virtual Sensing Active Noise Control to Overcome Spatial Correlation
+and Causality Constraints.” ICASSP 2019-2019 IEEE International Con-
+ference on Acoustics, Speech and Signal Processing (ICASSP). IEEE,
+2019.
+[7] Shi, Dongyuan, Chuang Shi, and Woon-Seng Gan. ”A systolic fxlms
+structure for implementation of feedforward active noise control on fpga.”
+2016 Asia-Pacific Signal and Information Processing Association Annual
+Summit and Conference (APSIPA). IEEE, 2016.
+3
+
+-----
+[8] Shi, Dongyuan, Chuang Shi, and Woon-Seng Gan. ”Effect of the au-
+dio amplifier’s distortion on feedforward active noise control.” 2017 Asia-
+Pacific Signal and Information Processing Association Annual Summit
+and Conference (APSIPA ASC). IEEE, 2017.
+[9] Dongyuan Shi, Woon-Seng Gan, Bhan Lam, and Shulin Wen. Practical
+consideration and implementation for avoiding Saturation of large am-
+plitude Active Noise Control. 23th Intl. Congress on Acoustics, SEPT.
+09-13, 2019.
+[10] Hasegawa, Rina, Dongyuan Shi, Yoshinobu Kajikawa, and Woon-Seng
+Gan. ”Window Active Noise Control System with Virtual Sensing Tech-
+nique.” In INTER-NOISE and NOISE-CON Congress and Conference
+Proceedings, vol. 258, no. 1, pp. 6004-6012. Institute of Noise Control
+Engineering, 2018.
+[11] Shi, Chuang, Huiyong Li, Dongyuan Shi, Bhan Lam, and Woon-Seng
+Gan. ”Understanding multiple-input multiple-output active noise control
+from a perspective of sampling and reconstruction.” In 2017 Asia-Pacific
+Signal and Information Processing Association Annual Summit and Con-
+ference (APSIPA ASC), pp. 124-129. IEEE, 2017.
+[12] Shi, Chuang, Nan Jiang, Huiyong Li, Dongyuan Shi, and Woon-Seng
+Gan. ”On algorithms and implementations of a 4-channel active noise
+canceling window.” In 2017 International Symposium on Intelligent Signal
+Processing and Communication Systems (ISPACS), pp. 217-221. IEEE,
+2017.
+[13] Shi, Chuang, Tatsuya Murao, Dongyuan Shi, Bhan Lam, and Woon-
+Seng Gan. ”Open loop active control of noise through open windows.” In
+Proceedings of Meetings on Acoustics 172ASA, vol. 29, no. 1, p. 030007.
+ASA, 2016.
+[14] Lam, Bhan, Woon Seng Gan, Dongyuan Shi, and Stephen Elliott.
+”HYBRID SOURCE ARRANGEMENT FOR ACTIVE CONTROL OF
+NOISE THROUGH APERTURES AT OBLIQUE INCI-DENCES: A
+PRELIMINARY INVESTIGATION.” (2018): 739-746.
+[15] He, Jianjun, Bhan Lam, Dongyuan Shi, and Woon Seng Gan. ”Exploit-
+ing the Underdetermined System in Multichannel Active Noise Control
+for Open Windows.” Applied Sciences 9, no. 3 (2019): 390.
+4
+
+-----
+[16] Lam, Bhan, Chuang Shi, Dongyuan Shi, and Woon-Seng Gan. ”Active
+control of sound through full-sized open windows.” Building and Envi-
+ronment 141 (2018): 16-27.
+5
+
+-----

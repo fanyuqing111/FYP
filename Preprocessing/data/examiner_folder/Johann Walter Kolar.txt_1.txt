@@ -1,0 +1,141 @@
+Johann Kolar
+Professor für Leistungselektronik, ETH Zürich
+Leistungselektronik, Mechatronik
+Google Scholar
+Citation indices
+All
+Since 2012
+Citations
+22356
+15883
+h­index
+75
+64
+i10­index
+428
+339
+Title
+1–20
+Cited by
+Year
+Influence of the modulation method on the conduction and switching losses of a
+PWM converter system
+JW Kolar, H Ertl, FC Zach
+IEEE Transactions on Industry Applications 27 (6), 1063­1075
+456
+1991
+A novel three­phase utility interface minimizing line current harmonics of high­
+power telecommunications rectifier modules
+JW Kolar, FC Zach
+IEEE Transactions on Industrial Electronics 44 (4), 456­467
+406
+1997
+Novel three­phase AC–AC sparse matrix converters
+JW Kolar, F Schafmeister, SD Round, H Ertl
+IEEE Transactions on Power Electronics 22 (5), 1649­1661
+365
+2007
+Novel three­phase AC­DC­AC sparse matrix converter
+JW Kolar, M Baumann, F Schafmeister, H Ertl
+Applied Power Electronics Conference and Exposition, 2002. APEC 2002 ...
+336
+2002
+An isolated three­port bidirectional DC­DC converter with decoupled power flow
+management
+C Zhao, SD Round, JW Kolar
+IEEE transactions on power electronics 23 (5), 2443­2453
+316
+2008
+A review of control and modulation methods for matrix converters
+J Rodriguez, M Rivera, JW Kolar, PW Wheeler
+IEEE transactions on industrial electronics 59 (1), 58­70
+300
+2012
+Review of three­phase PWM AC–AC converter topologies
+JW Kolar, T Friedli, J Rodriguez, PW Wheeler
+IEEE Transactions on Industrial Electronics 58 (11), 4988­5006
+282
+2011
+SiC versus Si—Evaluation of potentials for performance improvement of inverter
+and DC–DC converter systems by SiC power semiconductors
+J Biela, M Schweizer, S Waffler, JW Kolar
+IEEE transactions on industrial electronics 58 (7), 2872­2882
+261
+2011
+PWM converter power density barriers
+JW Kolar, U Drofenik, J Biela, ML Heldwein, H Ertl, T Friedli, SD Round
+Power Conversion Conference­Nagoya, 2007. PCC'07, P­9­P­29
+259
+2007
+Design and implementation of a highly efficient three­level T­type converter for
+low­voltage applications
+M Schweizer, JW Kolar
+IEEE Transactions on Power Electronics 28 (2), 899­907
+229
+2013
+Efficiency­optimized high­current dual active bridge converter for automotive
+applications
+F Krismer, JW Kolar
+IEEE Transactions on Industrial Electronics 59 (7), 2745­2760
+218
+2012
+
+-----
+Title
+1–20
+Cited by
+Year
+A novel multicell DC­AC converter for applications in renewable energy systems
+H Ertl, JW Kolar, FC Zach
+IEEE Transactions on industrial Electronics 49 (5), 1048­1057
+215
+2002
+Analytical calculation of the RMS current stress on the DC­link capacitor of
+voltage­PWM converter systems
+JW Kolar, SD Round
+IEE Proceedings­Electric Power Applications 153 (4), 535­543
+214
+2006
+Model for power cycling lifetime of IGBT modules­various factors influencing
+lifetime
+R Bayerer, T Herrmann, T Licht, J Lutz, M Feller
+Integrated Power Systems (CIPS), 2008 5th International Conference on, 1­6
+199
+2008
+Accurate power loss model derivation of a high­current dual active bridge
+converter for an automotive application
+F Krismer, JW Kolar
+IEEE Transactions on Industrial Electronics 57 (3), 881­891
+197
+2010
+The essence of three­phase PFC rectifier systems—Part I
+JW Kolar, T Friedli
+IEEE Transactions on Power Electronics 28 (1), 176­198
+183
+2013
+Performance optimization of a high current dual active bridge with a wide
+operating voltage range
+F Krismer, S Round, JW Kolar
+Proc. 37th IEEE PESC, 1­7
+183
+2006
+Core losses under the DC bias condition based on Steinmetz parameters
+J Muhlethaler, J Biela, JW Kolar, A Ecklebe
+IEEE Transactions on Power Electronics 27 (2), 953­963
+180
+2012
+A modified direct power control strategy allowing the connection of three­phase
+inverters to the grid through $ LCL $ filters
+LA Serpa, S Ponnaluri, PM Barbosa, JW Kolar
+IEEE Transactions on Industry Applications 43 (5), 1388­1400
+178
+2007
+A general scheme for calculating switching­and conduction­losses of power
+semiconductors in numerical circuit simulations of power electronic systems
+U Drofenik, JW Kolar
+Proceedings of the 2005 International Power Electronics Conference (IPEC’05 ...
+178
+2005
+Dates and citation counts are estimated and are determined automatically by a computer program.
+
+-----

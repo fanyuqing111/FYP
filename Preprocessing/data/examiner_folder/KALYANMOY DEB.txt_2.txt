@@ -1,0 +1,2952 @@
+Kalyanmoy Deb
+1
+KALYANMOY DEB, PhD, FIEEE, FASME, FNA, FASc, FNAE
+Koenig Endowed Chair Professor
+Department of Electrical and Computer Engineering
+Department of Computer Science and Engineering
+Department of Mechanical Engineering
+Michigan State University
+428 S. Shaw Lane, Room 2120 Engg. Building
+East Lansing, MI 48824, USA
+Tel: 517 432 2144 (office), 517 930 0846 (cell)
+Email: kdeb@egr.msu.edu
+http://www.egr.msu.edu/˜kdeb/
+Research Interests: Optimization, Computational intelligence, Evolutionary computation, Ma-
+chine learning, Soft computing, Applied optimization, Modeling, Multi-criterion decision
+analysis, Optimal design
+Teaching Interests: Computational Optimization, Evolutionary Computation, Natural Com-
+putation, Computational Intelligence Methodologies, Multi-Criterion Optimization, Pro-
+gramming and Numerical Methods, Mathematics for Engineers, software engineering, search
+algorithms, Design Methodologies, Electrical Circuits and Systems
+Education:
+Doctor of Philosophy in Engineering Mechanics, University of Alabama, Tuscaloosa,
+USA, May 1991
+‘
+Boolean and floating-point function optimization using messy genetic algorithms’
+Master of Science in Engineering Mechanics, University of Alabama, Tuscaloosa, USA
+May 1989
+‘
+Multi-modal function optimization using genetic algorithms’
+Bachelor of Technology in Mechanical Engineering
+Indian Institute of Technology Kharagpur, India
+May 1985
+Work Experience:
+Professor and Koenig Endowed Chair, Department of Electrical and Computer En-
+gineering, Michigan State University, East Lansing, USA
+Professor, Department of Computer Science and Engineering, Michigan State University,
+East Lansing, USA
+Professor, Department of Mechanical Engineering, Michigan State University, East Lans-
+ing, USA
+International Visiting Professor, Department of Mechanical Engineering and De-
+partment of Computer Science and Engineering, Indian Institute of Technology Kharagpur,
+India
+Visiting Professor, Department of Information and Service Economy, Aalto University
+School of Business, Helsinki, Finland
+Visiting Professor, Department of Automation Engineering, University of Sk¨
+ovde, Swe-
+den
+
+-----
+Kalyanmoy Deb
+2
+Professor, Department of Mechanical Engineering, IIT Kanpur, India
+December 1999 till July 2013
+Associate Professor, Department of Mechanical Engineering, IIT Kanpur, India
+June 1997 till November 1999
+Assistant Professor, Department of Mechanical Engineering, IIT Kanpur, India
+January 1993 till May 1997
+Visiting research assistant professor, Department of General Engineering
+University of Illinois at Urbana-Champaign, USA
+April 1991 till November 1992
+Assistant Engineer, Engineers India Limited, New Delhi
+June 1985 till July 1987
+Significant Positions in Foreign Universities:
+Finland Distinguished Professor (FiDiPro), Helsinki School of Economics, Finland
+June 2007 till May 2009
+Supported by Academy of Finland
+Visiting Chair Professor of Applied Computing, University of Birmingham, United
+Kingdom
+May 2007 till June 2008
+Visiting Professor, Nanyang Technological University, Singapore
+May 2006 till July 2007
+Supported by a Collaborative A-Star Project
+Fredrick Wilhelm Bessel Award Professor, University of Karlsruhe, Germany
+June 2003 till November 2003
+Supported by Alexander von Humboldt Foundation
+Visiting Professor, University of Birmingham, United Kingdom
+May 2002 till July 2002
+Visiting Professor, ETH, Zurich, Switzerland
+February 2001 till July 2001
+Supported by ETH, Zurich
+Humboldt Fellow, University of Dortmund, Germany
+June 1998 till July 1999
+Supported by Alexander von Humboldt Foundation
+Major Awards/Honors:
+SIGEVO Impact Award, Special Interest Group on Evolutionary Computation, ACM,
+2016
+Best Paper Award, Genetic Algorithms Track at Genetic and Evolutionary Computation
+Conference (GECCO-2016)
+JC Bose Memorial Lecture Award, Indian National Science Academy (INSA). 2016
+Eminent Engineer Award, Tripura State Centre for The Institution of Engineers (India),
+2015
+
+-----
+Kalyanmoy Deb
+3
+Honorary Life Member of the Soft Computing Research Society, 2015
+Distinguished Professor Visitation Program, Mexican Academy of Sciences (AMC)
+and United States-Mexico Foundation for Science (FUMEC), 2014-15
+ASME Fellow, American Society of Mechanical Engineers, 2014
+IEEE CIS Distinguished Lecturer Award, IEEE Computational Intelligence Society,
+2014–2016
+Honorary Doctorate Degree, Faculty of Information Technology, University of Jyv¨
+askyl¨
+a,
+Finland, 2013
+Wiley Practice Prize, International Society on Multi-Criterion Decision Making (MCDM),
+2013
+TWAS Prize in Engineering Sciences, Third World Academy of Sciences (TWAS),
+Italy, 2012
+Infosys Prize, Infosys Science Foundation, Bangalore, India, 2011
+J. C. Bose National Fellowship, Department of Science and Technology, Ministry of
+Science and Technology, Government of India, New Delhi, India, 2011
+Cajastur Mamdani Prize, European Centre for Soft Computing, Spain, 2011
+Distinguished Alumnus Award, Indian Institute of Technology Kharagpur, 2011
+VELUX Foundation Guest Professorship at Technical University of Denmark (DTU),
+2011–2012
+MCDM Edgeworth-Pareto Award
+by International Society on Multiple Criteria Decision Making (MCDM), 2008
+Thomson Citation Laureate Award in Computer Science,
+Thomson Reuters, 2006
+Shanti Swarup Bhatnagar Prize in Engineering Sciences,
+Council for Scientific and Industrial Research (CSIR), Government of India, 2005
+Deva Raj Endowed Chair Professor at Indian Institute of Technology Kanpur, India,
+2007–2010
+Gurmukh and Veena Mehta Endowed Chair Professor at Indian Institute of Tech-
+nology Kanpur, India, 2011–2013
+Finland Distinguished Professor (FiDiPro) at Helsinki School of Economics, Academy
+of Finland, 2007-2009
+Fellow, Institute of Electrical and Electronics Engineers (IEEE), 2012
+Fellow, Indian National Science Academy (INSA), 2011
+Fellow, Indian Academy of Sciences (IASc), 2006
+Fellow, Indian National Academy of Engineering (INAE), 2004
+Fellow, International Society for Genetic and Evolutionary Algorithms (ISGEC), 2003
+
+-----
+Kalyanmoy Deb
+4
+Friedrich Wilhelm Bessel Research Award,
+Alexander von Humboldt Foundation, Germany, 2002
+Humboldt Fellow, Alexander von Humboldt Foundation, Germany
+June 1998–July 1999
+IEEE CIS Teaching Award, IEEE Computational Intelligence Society, 2009
+Most Highly Cited and Current Classic Paper: 2002 IEEE TEC paper on NSGA-II
+Essential Science Indicators, Thomson Reuters, 2010
+Fast Breaking Paper Award in Engineering: 2002 IEEE TEC paper on NSGA-II
+ISI Web of Science’
+s Essential Science Indicators (ESI), Feb 2004
+Best Paper Award, ’
+Multi-Criterion Decision Making (MCDM-2011)’Conference, Jyv¨
+askyl¨
+a,
+Finland, 2011
+Best Paper Award, ‘
+Evolution Artificielle’Conference, Marseille, France, 2003
+Senior Member, IEEE, since 2002
+Area Editor, Journal of Multi-Criteria Decision Analysis, Wiley, 2009
+Associate Editor, IEEE Transaction on Evolutionary Computation. IEEE Press,
+Since 1999
+Associate Editor, Applied Soft Computing, Elsevier
+Since 2009
+Associate Editor, Pacific Journal of Optimization, Yokohama Publishers, Since 2010
+Advisory Board Member, Evolutionary Computation Journal, MIT Press,
+Since 2002
+Editorial Board Member, Journal of Optimization, Hindawi Publishing Corporation,
+2013
+Editorial Board Member, Journal of Smart Grid Frontier (SGF), American V-King
+Scientific Publishing (AVS), 2013
+Editorial Board Member, Handbook of Natural Computing, Springer, 2012
+Editorial Board Member, Environment, Systems, and Decisions, Springer, 2012
+Editorial Board Member, European Journal of Operations Research, Elsevier, 2008
+Editorial Advisory Board Member, Recent Patents on Computer Science,
+Bentham Science Publishers, Since 2007
+Editorial Board Member, Operations Research Perspectives (ORP),
+Elsevier, Since 2013
+Editorial Board member, Studies in Engineering and Technology,
+Redfame Publishing Inc., Since 2013
+Editorial Board member, The Scientific World Journal,
+Hindawi Publishing Corporation, Since 2013
+Editorial Board member, Swarm and Evolutionary Computation, Elsevier, Since 2010
+
+-----
+Kalyanmoy Deb
+5
+Editorial Board Member, Journal of The Franklin Institute, Elsevier, Since 2010
+Editorial Board Member, Smart Grid and Renewable Energy, Scientific Research Pub-
+lishing, Inc. USA, Since 2010
+Editorial Board Member, Journal of Industrial and Management Optimization (JIMO),
+American Institute of Mathematical Sciences, Since 2008
+Editorial Board Member, International Journal of Systems, Signals, Control and En-
+gineering Applications,
+Medwell Journals, Since 2008
+Editorial Board Member, International Journal of Soft Computing and Bioinformatics,
+Scientific International Publisher, Since 2008
+Editorial Advisory Board Member, International Journal for Simulation,
+Multidisciplinary Design Optimization, EDP Sciences, Since 2007
+Editorial Board Member, Engineering Optimization Journal, Tailor and Francis, Since
+2003
+Editorial Board Member, Genetic Programming and Evolvable Machines,
+Springer, Since 2003
+Editorial Board Member, Journal of Evolutionary Optimization,
+Polish Academy of Sciences, Since 1998
+Editorial Board Member, Human Systems Management, IOS Press, Since 2006
+Editorial Board Member, Journal of Memetic Computing,
+Springer, Since 2007
+SIGEVO Executive Committee Member, ACM Special Interest Group on Evolution-
+ary Computation, 2007–2013
+Executive Council Member, International Society on Genetic and Evolutionary Algo-
+rithms (ISGEC) (one of 15 members worldwide and alone from India), Since 1999
+INAE Young Engineer Award, Indian National Academy of Engineering, 1996
+AICTE Career Award for Young Teachers, All India Council for Technical Educa-
+tion, 1996-97
+DST Young Scientist Project Award, Department of Science and Technology, India,
+June 1994
+Graduate Research Council Fellowship, University of Alabama, Tuscaloosa, USA
+August 1989 - May 1991 (2 consecutive years)
+Jefferson Goblet Student Award (April 1990)
+31st Structures, Structural Dynamics, and Materials Conference
+AIAA/ASME/ASCE/ASC/AHS, Long Beach, California
+Outstanding Graduate Research Assistant
+Department of Engineering Mechanics, University of Alabama, Tuscaloosa, USA
+1989-1990, 1990-1991
+Outstanding Master’
+s Thesis Award (1989-1990)
+
+-----
+Kalyanmoy Deb
+6
+College of Engineering and Department of Engineering Mechanics
+University of Alabama, Tuscaloosa, USA
+First prize in All India Students Design Competition (August, 1995)
+Institution of Engineers, India
+‘
+Design a machine to drill polygonal (square, hexagonal) holes’
+Best Student in Mechanical Engineering (Amlan Sen Memorial Award) (1985)
+Best Student in Industrial Management Program (1985)
+Indian Institute of Technology Kharagpur
+Citations and Journal Records:
+Google Scholar Citations (10 August 2016): 89,288
+H-Index: 98
+Google Scholar Rankings:
+Highest Cited Researcher in ‘
+Evolutionary Computation’
+Highest Cited Researcher in ’
+Multi-objective Optimization’
+Third Most-Cited Researcher in ‘
+Optimization’
+10th Most-Cited Researcher in ‘
+Machine Learning’
+IEEE Transactions on Evolutionary Computation (IF: 3.654): Rank 1 and Rank
+4 Popular Papers of the journal (2002 NSGA-II paper and 2014 NSGA-III paper)
+Evolutionary Computation Journal, MIT Press (IF: 2.366):
+Two Highest Cited Papers of the journal (1994 NSGA paper and 2000 ZDT paper)
+Four (#1, #2, #8, and #9) of the top 10 Most Cited papers of the journal
+Two (#4 and #7) of the top 10 Most Downloaded papers of the journal
+Engineering Optimization Journal, Taylor & Francis (IF: 1.076): Second highest
+Most-Read paper (2013 constrained handling paper) of the journal
+Research Achievements:
+• Written two text books on optimization:
+1. Deb, K. (2001). Multi-objective optimization using evolutionary algorithms. Chich-
+ester, London: Wiley, (Third Print, 517 pages). Also available as a Wiley Singapore
+Edition in India.
+(3,301 ISI Citations)
+2. Deb, K. (1995). Optimization for engineering design: Algorithms and examples. New
+Delhi: Prentice-Hall, (Seventh Print, 382 pages).
+(393 ISI Citations)
+• Published 173 international journal papers and 264 international conference papers (total
+437 articles) till to date.
+• Published 18 edited books. Also written one Encyclopedia article on genetic algorithms.
+• Thomson Citation Laureate Award for having the highest ISI Web of Science citation
+counts in Computer Science category from India during 1996–2005
+• Highest Citation in India by any researcher and in any field during 2000-2010 recognized
+by Thomson Reuters based on citations on all publications.
+• Invited to deliver 63 keynote/plenary lectures in major international conferences and sym-
+posia in the past 15 years (See page 44).
+• Presented 39 invited tutorials on ‘
+Evolutionary multi-objective optimization’ and 92 in-
+vited lectures on ‘
+evolutionary algorithms’
+, lists of which are appended at the end of this
+document.
+
+-----
+Kalyanmoy Deb
+7
+• Major industrial projects: Dow Chemicals, Volvo Car Corporation Sweden, General Motors
+(GM) USA and India Science Lab. Bangalore, General Electric (GE) USA and Bangalore,
+Honda R&D Japan, STMicroelectronics Italy, Orelogy, Australia.
+Other collaborations:
+Tata Steel Jamshedpur, Tata Engg. and Locomotive Company Pune, Hindustan Aeronau-
+tics Limited Bangalore etc.
+• Funded Research Projects with foreign universities (partial list):
+– Alexander von Humboldt Foundation project on ‘
+Real-parameter evolutionary opti-
+mization’with Hans-Paul Schwefel, University of Dortmund, Germany, 1998-1999
+– Asia-ITC funded MSc. Programme in Natural Computation at the computer science
+department with Xin Yao, University of Birmingham, UK (2001-02)
+– Alexander von Humboldt Foundation funded Bessel Reseach Award project on ‘
+Evo-
+lutionary multi-criterion optimization’ with Juergen Branke and Hartmut Schmeck,
+University of Karlsruhe, Germany, May-November, 2003
+– A-STAR project entitled ‘
+Evolutionary optimization in data-mining’with P. N. Sugan-
+than, Nanyang Technological University, Singapore, 2005-2007
+– Indo-Portugese S&T Bilateral Govt. project with Carlos Fonseca, University Algarve,
+2003–2006
+– Indo-Swiss S&T Bilateral Govt. project with Eckart Zitzler and Lothar Thiele, ETH
+Zurich, Switzerland, 2006–2008
+– Academy of Finland funded ‘
+Finland Distinguished Professor (FiDiPro)’ project with
+Kaisa Miettinen, Helsinki School of Economics, Finland, 2007-2009
+– Indo-Portugese S&T Bilateral Govt. project with Gaspar Cunha, University Minho,
+2010–2012
+– VINNOVA funded project on ‘
+Simulation based Innovization of Production Systems
+(SIPS)’with Amos Ng, University of Sk¨
+ode, Sweden, 2009–2012
+– Academy of Finland project on ‘
+Automated Innovization’with Pekka Korhonen, Aalto
+University School of Economics, Finland, 2010-2012
+– Danish Council for Strategic Research project entitled ‘
+REWIND: Knowledge based
+engineering for improved reliability of critical wind turbine components’ with Jesper
+Hattel, Technical University of Denmark (DTU), 2011–2016
+• Recipient of commendation certificates for excellence in teaching in various courses at IIT
+Kanpur from the Director of the institute.
+Further details can be found in my web site http://www.egr.msu.edu/~kdeb.
+Kalyanmoy Deb
+
+-----
+Kalyanmoy Deb
+8
+KALYANMOY DEB, PhD, FIEEE, FASME, FNA, FASc, FNAE
+Koenig Endowed Chair Professor
+Michigan State University
+East Lansing, MI 48824, USA
+Email: kdeb@egr.msu.edu
+http://www.egr.msu.edu/˜kdeb/
+Publication Record
+Total Google Scholar Citation is 89,288 with a h-index of 98 (10 August, 2016).
+Journal Papers:
+173
+Conference Papers:
+264
+Text Books:
+2
+Edited Books:
+18
+Books
+1. Deb, K. (2001). Multi-objective optimization using evolutionary algorithms. Chichester,
+London: Wiley, (Third Print, 517 pages). Also available as a Wiley Singapore Edition in
+India.
+2. Deb, K. (1995).
+Optimization for engineering design: Algorithms and examples.
+New
+Delhi: Prentice-Hall, (Seventh Print, 382 pages).
+Papers in Journals (PUBLISHED)
+1. Ahrari, A. and Deb, K. (2016). An Improved Fully Stressed Design Evolution Strategy for
+Layout Optimization of Truss Structures. Computers and Structures, 164, 127–144.
+2. Ahmed, F., Bhattachariya, B. and Deb, K. (2016).
+Structural Topology Optimization
+using Multi-objective Genetic Algorithm with Constructive Solid Geometry Representation.
+Applied Soft Computing, 39, 240–250.
+3. Padhye, N., Mittal, P., and Deb, K. (2015). Feasibility preserving constraint handling
+strategies for real-parameter evolutionary optimization. Computational Optimization and
+Applications, 62(3), 851–890.
+4. Sahin, D., Kessentini, M., Wimmer, M. and Deb, K. (2015). Model Transformation Test-
+ing: A Bi-Level Search-based Software Engineering Approach. Journal of Software: Evolu-
+tion and Process, 27(11), 821–837.
+5. Li, K., Deb, K., Zhang, Q. and Kwong, S. (2015). An evolutionary many-objective opti-
+mization algorithm based on dominance and decomposition. IEEE Transactions on Evolu-
+tionary Computation, 19(5). 694–716.
+6. Tutum, C. C., Deb, K.. and Baran, I. (2015). Constrained Efficient Global Optimization
+for Pultrusion Process. Journal of Materials and Manufacturing Processes, 30, 538–551.
+
+-----
+Kalyanmoy Deb
+9
+7. Li, K., Zhang, Q., Kwong, S., and Deb, K. (2015). Inter-Relationship Based Selection for
+Decomposition Multiobjective Optimization. IEEE Transactions on Cybernetics, 45(10).
+2076–2088.
+8. Mansoor, U., Kessentini, M., Langer, P., Wimmer M., Bechikh, S. and Deb, K. (2015).
+MOMM: Multi-Objective Model Merging. Journal of Systems and Software, 103. 423–439.
+9. Ahrari, A., Atai, A. A., and Deb, K. (2015). Simultaneous Topology, Shape, and Size
+Optimization of Truss Structures by Fully Stressed Design Based on Evolution Strategy
+(FSD-ES). Engineering Optimization, 47(8). 1063–1084.
+10. Chikumboo, O., Goodman, E., Deb, K. (2015). Triple bottomline many-objective-based
+decision making for a land use management problem. Journal of Multi-Criterion Decision
+Analysis, 22(3-4), 133–159.
+11. Bandaru, S., Gaur, A., Deb, K., Khare, V., Chougule, R. and Bandyopadhyay, P. (2015).
+Development, analysis and applications of a quantitative methodology for assessing customer
+satisfaction using evolutionary optimization. Applied Soft Computing Journal, 30. 265–278.
+12. Bandaru, S., Aslam, T., Ng, A. and Deb, K. (2015). Generalized Higher-level Automated
+Innovization with Application to Inventory Management. European Journal of Operational
+Research, 243, 480–496.
+13. Li, K., Kwong, S., and Deb, K.. (2015). A Dual Population Paradigm for Evolutionary
+Multiobjective Optimization. Information Sciences, 309(10), 50–72.
+14. Mkaouer, W., Kessentini, M., Shaout, A., Koligheu, P., Bechikh, S., Deb, K., and Ouni, A.
+(2015). Many-Objective Software Remodularization using NSGA-III. ACM Transactions on
+Software Engineering and Methodology (TOSEM), 24(3). 17.1–17:44 (DOI: 10.1145/2729974)
+15. Sahin, D., Kessentini, M., Bechikh, S., and Deb, K. (2014). Code-Smells Detection as a
+Bi-Level Problem. ACM Transactions on Software Engineering and Methodology (TOSEM),
+24(1). 6:2–6:44. (DOI: 10.1145/2675067)
+16. Deb, K. and Jain, H. (2014). Evolutionary Many-Objective Optimization Algorithm Using
+Reference-point Based Non-dominated Sorting Approach, Part I: Solving Problems with Box
+Constraints. IEEE Transactions on Evolutionary Computation, 18(4), 577–601.
+17. Jain, H. and Deb, K. (2014). An Evolutionary Many-Objective Optimization Algorithm
+Using Reference-point Based Non-dominated Sorting Approach, Part II: Handling Con-
+straints and Extending to an Adaptive Approach.
+IEEE Transactions on Evolutionary
+Computation, 18(4), 602–622.
+18. Deb, K. and Deb, D. (2014).
+Analysing mutation schemes for real-parameter genetic
+algorithms. Int. J. Artificial Intelligence and Soft Computing, 4(1), Inderscience Enterprises
+Ltd., 1–28 (DOI: 10.1504/IJAISC.2014.059280)
+19. Deb, K. and Padhye, N. (2014). Enhancing Performance of Particle Swarm Optimization
+Through an Algorithmic Link with Genetic Algorithms. Computational Optimization and
+Applications, 57(3), Springer, 761–794.
+20. Deb, K., Bandaru, S., Greiner, D., Gaspar-Cunha, A., and Tutum, C. C. (2014).
+An
+Integrated Approach to Automated Innovization for Discovering Useful Design Principles:
+Case Studies from Engineering. Applied Soft Computing, 15, Elsevier, 42–56.
+
+-----
+Kalyanmoy Deb
+10
+21. Sinha, A., Malo, P. and Deb, K. (2014). Test Problem Construction for Single-Objective
+Bilevel Optimization. Evolutionary Computation Journal, 22(3), 439–477, MIT Press.
+22. Sinha, A., Malo, P., Frantsev, A., and Deb, K. (2014). Finding Optimal Strategies in a
+Multi-Period Multi-Leader-Follower Stackelberg Game Using an Evolutionary Algorithms.
+Computers & Operations Research, 41(1), Elsevier, 374–385.
+23. Sinha, A., Korhonen, P., Wallenius, J., and Deb, K. (2014). An Interactive Evolutionary
+Multi-objective Optimization Algorithm with a Limited Number of Decision Maker Calls.
+European Journal of Operational Research, 233(3). Elsevier, 674–688.
+24. Tutum, C.C., Baran, I., and Deb, K. (2014). Optimum Design of Pultrusion Process via
+Evolutionary Multi-Objective Optimization. International Journal of Advanced Manufac-
+turing Technology, 72(9-12), 1205–1217, Springer.
+25. Dashora, A., Lohani, B. and Deb, K. (2014).
+A New Method of Flight Planning for
+Airborne LiDAR using Genetic Algorithms.
+SPIE Journal of Applied Remote Sensing,
+8(1). 083576 DOI: 10.1117/1.JRS.8.083576, Bellingham, WA: SPIE.
+26. Sharma, D., Deb, K. and Kishore, N. N. (2014). Customized Evolutionary Optimization
+Procedure for Generating Minimum Weight Compliant Mechanisms. Engineering Optimiza-
+tion, 46(1), 39–60, Taylor and Francis.
+27. Hamza, N. M., Sarker, R., Essam, D., Deb, K., and Elsayed, S. (2014). A Constraint
+Consensus Memetic Algorithm for Solving Constrained Optimization Problems. Engineering
+Optimization, 46(11), 1447–1464, Taylor and Francis.
+28. Srivastava, R., Deb, K., and Tushyan, R. (2013). An Evolutionary Algorithm based Ap-
+proach to Design Optimization using Evidence Theory. ASME Journal of Mechanical De-
+sign,135(8), 081003-1-12. DOI: 10.1115/1.4024223
+29. Deb, K., Gupta, S., Dutta, J. and Ranjan, B. (2013). Solving Dual Problems Using a
+Coevolutionary Optimization Algorithm. Journal of Global Optimization, 57. 891–933.
+30. Bandaru, S. and Deb, K. (2013). Higher and Lower-level Knowledge Discovery from Pareto-
+optimal Sets. Journal of Global Optimization, 57. 281–298.
+31. Tutum, C. C., Deb, K., and Hattel, J. (2013). Multi-Criteria Optimization in Friction Stir
+Welding Using a Thermal Model with Prescribed Material Flow. Materials and Manufac-
+turing Processes, 28, 816–822.
+32. Dashora, A., Lohani, B. and Deb, K. (2013). Two-Step Procedure of Optimization for
+Flight Planning Problem for Airborne LiDAR Data Acquisition. International Journal of
+Mathematical Modelling and Numerical Optimisation, 4(4), 323–350, Inderscience Publish-
+ers Ltd.
+33. Sindhya, K., Miettinen, K., and Deb, K. (2013). A Hybrid Framework for Evolutionary
+Multi-Objective Optimization. IEEE Transactions on Evolutionary Computation, 17(4).
+495–511.
+34. Deb, K. and Datta, R. (2013). A Bi-Objective Constrained Optimization Algorithm Using
+a Hybrid Evolutionary and Penalty Function Approach. Engineering Optimization, 45(5),
+503–527.
+35. Dutta, J., Deb, K., Tulshyan, R. and Arora, R. (2013). Approximate KKT points and a
+proximity measure for termination. Journal of Global Optimization, 56(4), 1463–1499.
+
+-----
+Kalyanmoy Deb
+11
+36. Ahmed, F. and Deb, K. (2013).
+Multi-objective Optimal Path Planning Using Elitist
+Non-dominated Sorting Genetic Algorithms. Journal of Soft Computing, 17(7), 1283–1299.
+37. Li, D., Das, S., Pahwa, A., Deb, K. (2013). A multi-objective evolutionary approach for
+generator scheduling. Expert Systems with Applications, 40(18), pp. 7647–7655.
+38. Nandi, A. K., Deb, K. and Datta, S. (2013). Genetic Algorithm-Based Design and De-
+velopment of Particle-Reinforced Silicone Rubber for Soft Tooling Process. Material and
+Manufacturing Processes, 28(7), pp. 753–760.
+39. Saxena, D., Duro, J. A., Tiwari, A., Deb, K., and Zhang, Q. (2013). Objective Reduction
+in Many-objective Optimization: Linear and Nonlinear Algorithms. IEEE Transactions on
+Evolutionary Computation, 17(1), 77-99.
+40. Padhye, N., Bhardwaj, P., Deb, K. (2013). Improving Performance of Differential Evo-
+lution Through A Unified Approach to Key Evolutionary Algorithms. Journal of Global
+Optimization, 55(4), 771–799.
+41. Ahmed, F., Deb, K. and Jindal, A. (2013). Multi-Objective Optimization and Decision
+Making Approaches to Cricket Team Selection. Applied Soft Computing, 13(1), 402–414.
+42. Srivastava, R. and Deb, K. (2013). An Evolutionary Based Bayesian Design Optimization
+Approach Under Incomplete Information. Engineering Optimization, 45(2), 141–165.
+43. Dasgupta, B., Divya, K., Mehta, V. K. and Deb, K. (2013). RePAMO: Recursive Perturba-
+tion Approach for Multimodal Optimization, Engineering Optimization, 45(9), 1073–1090.
+44. Deb, K., Ruiz, F., Tewari, R., Cabello, J. M., and Cejudo, J. M. (2012). On the Sizing of a
+Solar Thermal Electricity Plant for Multiple Objectives Using Evolutionary Optimization.
+Applied Soft Computing, 12(10), 3300–3311.
+45. Deb, K. and Srivastava, S. (2012). A Genetic Algorithm Based Augmented Lagrangian
+Method for Constrained Optimization. Computational Optimization and Applications, 53(3),
+869–902.
+46. Nandi, A., Datta, S., Deb, K. (2012). Design of particle reinforced polyurethane mould
+materials for soft tooling process using Multi-objective Evolutionary Algorithms. Soft Com-
+puting, 16(6), 989–1008.
+47. Sinha, A., Saxena, D. K., Deb, K., and Tiwari, A. (2013).
+Using objective reduction
+and interactive procedure to handle many-objective optimization problems. Applied Soft
+Computing, 13(1), 415–427.
+48. Deb, K. and Datta, R. (2012). Hybrid Evolutionary Multi-Objective Optimization and
+Analysis of Machining Operations. Engineering Optimization, 44(6), 685–706.
+49. Deb, K. and Saha, A. (2012). Multimodal Optimization Using a Bi-Objective Evolutionary
+Algorithms. Evolutionary Computation Journal, 20(1), 27–62.
+50. Nandi, A. K., Deb, K., Ganguly, S. and Datta, S. (2012). Investigating the role of metal-
+lic fillers in particulate reinforced flexible mould material composites using evolutionary
+algorithms. Applied Soft Computing, 12(1), 28–39.
+51. Deb, K. and Gupta, S. (2011). Understanding Knee Points in Bicriteria Problems and Their
+Implications as Preferred Solution Principles.
+Engineering Optimization, 43(11).
+1175–
+1204.
+
+-----
+Kalyanmoy Deb
+12
+52. Bandaru, S. and Deb, K. (2011). Towards automating the discovery of certain innovative
+design principles through a clustering based optimization technique. Engineering Optimiza-
+tion, 43(9), 911–941.
+53. Sindhya, K., Deb, K. and Miettinen, K. (2011). Improving Convergence of Evolutionary
+Multi-Objective Optimization with Local Search: A Concurrent-Hybrid Algorithm. Natural
+Computation, 10. 1407–1430.
+54. Sharma, D., Deb, K. and Kishore, N. N. (2011). Domain-Specific Initial Population Strat-
+egy for Compliant Mechanisms Using Customized Genetic Algorithm. Structural and Mul-
+tidisciplinary Optimization, 43(4). 541–554.
+55. Padhye, N. and Deb, K. (2011). Multi-objective Optimisation and Multi-criteria Decision
+Making in SLS Using Evolutionary Approaches. Rapid Prototyping Journal, 17(6). 458–478.
+56. Nicolini, M., Giacomello, C. and Deb, K. (2011). Calibration and optimal leakage man-
+agement for a real water distribution network. ASCE Journal of Water Resource Planning
+and Management, 137(1). 134–142.
+57. Tiwari, S., Fadel, G. and Deb, K. (2011). AMGA2: Improving the performance of the
+archive-based micro-genetic algorithm for multi-objective optimization. Engineering Opti-
+mization, 43(4). 377–401.
+58. Nandi, A. K., Deb, K., Datta, S., and Orkas, J. (2011).
+Studies on effective thermal
+conductivity of particle-reinforced polymeric flexible mould material composites. Journal
+of Materials Design and Applications, 225(L3), 149–159.
+59. Cabello, J. M., Cejudo, J. M., Luque, M. M., Ruiz, R. Deb, K., Tewari, R. (2011). Op-
+timization of the size of a solar thermal electricity plant by means of genetic algorithms.
+Renewable Energy, 36(11). Elsevier, 3146–3153.
+60. Nandi, A., Datta, S. and Deb, K. (2011). Investigating the Role of Non-metallic Fillers
+in Particulate-Reinforced Mould Composites using EAs. Materials and Manufacturing Pro-
+cesses, 26(3). Taylor and Francis. 541–549.
+61. Deb, K., Miettinen, K. and Chaudhuri, S. (2010). Towards an Estimation of Nadir Objec-
+tive Vector Using a Hybrid of Evolutionary and Local Search Approaches. IEEE Transaca-
+tions on Evolutionary Computation. IEEE Press. 821–841.
+62. Deb, K. and Sinha, A. (2010). An Efficient and Accurate Solution Methodology for Bilevel
+Multi-Objective Programming Problems Using a Hybrid Evolutionary-Local-Search Algo-
+rithm. Evolutionary Computation Journal, 18(3). 403–449.
+63. Deb, K., Sinha, A., Korhonen, P., and Wallenius, J. (2010). An Interactive Evolutionary
+Multi-Objective Optimization Method Based on Progressively Approximated Value Func-
+tions. IEEE Transactions on Evolutionary Computation, 14(5). 723–739.
+64. Deb, K. and K¨
+oksalan, M. (2010). Guest Editorial: Special Issue on Preference-Based
+Multiobjective Evolutionary Algorithms. IEEE Transcations on Evolutionary Computation,
+14(5), 669–670.
+65. Chaudhuri, S. and Deb, K. (2010). An Interactive Evolutionary Multi-Objective Opti-
+mization and Decision Making Procedure. Applied Soft Computing Journal, 10, 496–511.
+66. Deb, K., Gupta, S., Daum, D., Branke, J., Mall, A., and Padmanabhan, D. (2009).
+Reliability-Based Optimization Using Evolutionary Algorithms.
+IEEE Transacations on
+Evolutionary Computation, 13(5), 1054–1074.
+
+-----
+Kalyanmoy Deb
+13
+67. Kudikala, R., Deb, K., and Bhattacharya, B. (2009). Multi-Objective Optimization of
+Piezoelectric Actuator Placement for Shape Control of Plates Using Genetic Algorithms.
+ASME Journal of Mechanical Design, 131(9), 091007-1–11.
+68. Mittal, S. and Deb, K. (2009). Optimal strategies of the iterated prisoner’
+s dilemma prob-
+lem for multiple conflicting objectives. IEEE Transactions on Evolutionary Computation,
+13(3), 554–565.
+69. Pettersson, F., Sax´
+en, H. and Deb, K. (2009). Genetic algorthm based multicriteria op-
+timization of ironmaking in the blast furnace.
+Journal of Materials and Manufacturing
+Processes, 24(3), 343–349.
+70. Branke, J., Scheckenbach, B. Stein, M., Deb, K. and Schmeck, H. (2009). Portfolio op-
+timization with an envelope based evolutionary multi-objective optimization.
+European
+Journal on Operations Research (EJOR), 199(3), 684–693.
+71. Deb, K. (2008). Scope of stationary multi-objective evolutionary optimization: A case
+study on a hydro-thermal power dispatch problem. Journal of Global Optimization, 41(4),
+479–515.
+72. Dyer, J. S., Fishburn, P. C., Steuer, R. E., Wallenius, J., Zionts, S. and Deb, K. (2008).
+Multiple criteria decision making, multiattribute utility theory: Recent accomplishments
+and what lies ahead. Management Science, 54(7), 1336–1349.
+73. Bandyopadhyay, S., Saha, S., Maulik, U. and Deb, K. (2008). A simulated annealing-
+based multiobjective optimization algorithm: AMOSA, IEEE Transactions on Evolutionary
+Computation, 12(3), 269–283.
+74. Bui, L. T., Deb, K., Abbass, H. A. and Essam, D. (2008).
+Interleaving guidance in
+evolutionary multiobjective optimization. Journal of Computer Science and Technology,
+23(1), 44–63.
+75. Deb, K. and Tiwari, S. (2008).
+Omni-optimizer: A generic evolutionary algorithm for
+global optimization. European Journal of Operational Research (EJOR), 185(3), 1062–1087.
+76. Datta, D., Fonseca, C. M. and Deb, K. (2008). A multi-objective evolutionary algorithm
+to exploit the similarities of resource allocation problems. Journal of Scheduling, 11(6),
+405–419.
+77. Deb, K. (2007). Current Trends in Evolutionary Multi-objective Optimization. Interna-
+tional Journal for Simulation and Multidisciplinary Optimisation, 1(1), 1–8.
+78. Datta, D. and Deb, K., Fonseca, C. M., Lobo, F. G., Condado, P. A. and Seixas, J. (2007).
+Multi-objective evolutionary algorithm for land-use management problem, International
+Journal of Computational Intelligence Research (IJCIR), 3(4).
+79. Shukla, P. and Deb, K. (2007).
+On Finding Multiple Pareto-Optimal Solutions Using
+Classical and Evolutionary Generating Methods. European Journal of Operational Research
+(EJOR), 181(3), 1630–1652.
+80. Sengupta, T. K., Deb, K., Talla, S. B. (2007). Control of flow using genetic algorithm for
+a circular cylinder executing rotary oscillation. Computers & Fluids, 36(3), 578–600.
+81. Jain, N. K., Jain, V. K. and Deb, K. (2007). Optimization of process parameters of me-
+chanical type advanced machining processes using genetic algorithms. International Journal
+of Machine Tools and Manufacture, 47(6), 900–919.
+
+-----
+Kalyanmoy Deb
+14
+82. Deb, K. and Gupta, H. (2006). Introducing robustness in multi-objective optimization.
+Evolutionary Computation Journal, 14(4), 463–494.
+83. Deb, K., Sundar, J., Reddy, Uday, B., and Chaudhuri, S. (2006). Reference point based
+multi-objective optimization using evolutionary algorithms. International Journal of Com-
+putational Intelligence Research (IJCIR), 2(6), 273–286.
+84. Deb, K., Mohan, M., and Mishra, S. (2005). Evaluating the �-domination based multi-
+objective evolutionary algorithm for a quick computation of Pareto-optimal solutions. Evo-
+lutionary Computation Journal, 13(4), 501–525.
+85. Deb, K. (2005). A population-based algorithm-generator for real-parameter optimization.
+Soft Computing Journal, 9, 236–253.
+86. Deb, K. and Tiwari, S. (2005). Multi-objective optimization of a leg mechanism using
+genetic algorithms. Engineering Optimization, 37(4), 325–350.
+87. Agrawal, S., Dhande, S. G., Deb, K., de Beer, D. J., and Truscott, M. (2005). Synthesis of
+mechanical error in rapid prototyping processes using stochastic approach. New Generation
+Sciences, 3(1). 1–19.
+88. Deb, K., Jain, P., Gupta, N., and Maji, H. (2004). Multi-Objective placement of elec-
+tronic components using evolutionary algorithms. IEEE Transactions on Components and
+Packaging Technologies, 27(3), 480–492.
+89. Deb, K. (2004).
+An ideal evolutionary multi-objective optimization procedure.
+IPSJ
+Transactions on Mathematical Modeling and Its Applications, 45(SIG 2), 1–11.
+90. Deb, K., Mitra, K., Dewri, R. and Majumdar, S. (2004). Towards a better understanding of
+the epoxy polymerization process using multi-objective evolutionary computation. Chemical
+Engineering Science, 59(20), 4261–4277.
+91. Farina, M., Deb, K., Amato. P. (2004). Dynamic multiobjective optimization problems:
+Test cases, approximations, and applications. IEEE Transactions on Evolutionary Compu-
+tation, 8(5), 425–442.
+92. Deb, K. (2003). Unveiling innovative design principles by means of multiple conflicting
+objectives. Engineering Optimization, 35(5), 445-470.
+93. Deb, K. and Reddy, A. R. (2003). Reliable classification of two-class cancer data using
+evolutionary algorithms. BioSystems, 72(1-2), 111-129.
+94. Deb, K. and Jain, S. (2003). Multi-speed gearbox design using multi-objective evolutionary
+algorithms. ASME Transactions on Mechanical Design, 125(3). 609–619.
+95. Deb, K., Reddy, A. R. and Singh, G. (2003). Optimal scheduling of casting sequence using
+genetic algorithms. Journal of Materials and Manufacturing Processes, 18(3). 409–432.
+96. Deb, K., Anand, A., and Joshi, D. (2002). A computationally efficient evolutionary algo-
+rithm for real-parameter optimization. Evolutionary Computation Journal, 10(4), 371–395.
+97. Deb, K., Pratap. A, Agarwal, S., and Meyarivan, T. (2002). A fast and elitist multi-
+objective genetic algorithm: NSGA-II. IEEE Transaction on Evolutionary Computation,
+6(2), 181–197.
+
+-----
+Kalyanmoy Deb
+15
+98. Pratihar, D. K., Deb, K., Ghosh, A. (2002). Optimal path and gait generations simultane-
+ously of a six-legged robot using a GA-fuzzy approach. Robotics and Autonomous Systems,
+41, 1–21.
+99. Mukherjee, A., Biswas, R., Deb, K., and Mathur, A. P. (2002). Multi-objective evolu-
+tionary algorithms for the risk-return trade-off in bank loan management. International
+Transactions in Operations Research, 9, 583–597.
+100. Laumanns, M., Thiele, L., Deb, K. and Zitzler, E. (2002). Combining convergence and
+diversity in evolutionary multiobjective optimization. Evolutionary Computation Journal,
+10(3), 263–282.
+101. Deb, K. (2001). Nonlinear goal programming using multi-objective genetic algorithms.
+Journal of the Operational Research Society, 52(3), 291–302.
+102. Deb, K. and Gulati, S. (2001). Design of truss-structures for minimum weight using genetic
+algorithms. Journal of Finite Elements in Analysis and Design, 37(5), 447–465.
+103. Deb, K. and Beyer, H.-G. (2001). Self-adaptive genetic algorithms with simulated binary
+crossover. Evolutionary Computation Journal, 9(2), 197–221.
+104. Beyer, H.-G. and Deb, K. (2001). On self-adaptive features in real-parameter evolutionary
+algorithms. IEEE Transactions on Evolutionary Computation, 5(3). 250–270.
+105. Chakroborty, P., Deb, K., and Sharma, R. K. (2001).
+Optimal fleet size distribution
+and scheduling of transit systems using genetic algorithms. Transportation Planning and
+Technology, 24(3), 209–226.
+106. Deb, K. (2000). An efficient constraint handling method for genetic algorithms. Computer
+Methods in Applied Mechanics and Engineering, 186, 311–338.
+107. Deb, K. and Horn. J. (2000). Introduction to the special issue: Multicriterion optimization.
+Evolutionary Computation Journal, 8(2), iii-iv.
+108. Goldberg, D. E. and Deb, K. (Eds.)
+(2000).
+Special issue: Genetic and evolutionary
+computation - Preface. Computer Methods in Applied Mechanics and Engineering, 186(2-
+4). 121–124.
+109. Pratihar D. K., Deb K., Ghosh A. (2000). Optimal turning gait of a six-legged robot using
+GA-Fuzzy approach, Artificial Intelligence for Engineering Design, Analysis and Manufac-
+turing (AIEDM) Journal, (14), 207–219.
+110. Chakraborti, N., Deb, K., and Jha, A. (2000). A genetic algorithm based heat transfer
+analysis of a bloom re-heating furnace. Steel Research, 71, 396–402.
+111. Michalewicz, Z., Deb, K., Schmidt, M., and Stidsen, T. (2000). Test-case generator for
+nonlinear continuous parameter optimization techniques.
+IEEE Trans. on Evolutionary
+Computation, 4(3), 197–215.
+112. Zitzler, E., Deb, K., and Thiele, L. (2000). Comparison of multiobjective evolutionary
+algorithms: Empirical results. Evolutionary Computation Journal, 8(2), 173–195.
+113. Sivakumar, K., Iyengar, N. G. R., and Deb, K. (2000). Optimum design of laminated
+composite plates with cut-outs using genetic algorithm (GA), variable metric method (DFP)
+and complex search methods. Engineering Optimization, 32, 635–657.
+114. Deb, K. (1999). An introduction to genetic algorithms. S¯
+adhan¯
+a, 24(4), 293–315.
+
+-----
+Kalyanmoy Deb
+16
+115. Deb, K. (1999). Multi-objective genetic algorithms: Problem difficulties and construction
+of test problems. Evolutionary Computation Journal, 7(3), 205–230.
+116. Deb, K. and Agrawal, S. (1999).
+Understanding interactions among genetic algorithm
+parameters. Foundations of Genetic Algorithms V, 265–286.
+117. Pratihar, D., Deb, K., and Ghosh, A. (1999). Fuzzy-genetic algorithms and time-optimal
+obstacle-free path generation for mobile robots. Engineering Optimization, 32, 117–142.
+118. Pratihar D., Deb, K., and Ghosh A. (1999). Design of a genetic-fuzzy system for planning
+crab gaits of a six-legged robot, Journal of Computing and Information Technology, 7(1),
+93–101.
+119. Pratihar, D., Deb, K., and Ghosh, A. (1999). A genetic-fuzzy approach for mobile robot
+navigation among moving obstacles.
+International Journal of Approximate Reasoning,
+20(2), 145–172.
+120. Sivakumar, K., Iyengar, N. G. R., and Deb, K. (1999). Free vibration of laminated com-
+posite plates with cutout. Journal of Sound and Vibration, 221(3), 443-470.
+121. Sivakumar, K., Iyengar, N. G. R., and Deb, K. (1999). Optimum design of laminated
+composite plates with cutouts undergoing large amplitude oscillation, Advanced Composite
+Materials, 8(4), 295–316.
+122. Sivakumar, K., Iyengar, N. G. R., and Deb, K. (1999). Optimum design of laminated
+composite plates undergoing large amplitude oscillations, Applied Composite Materials, 6(2),
+87–98.
+123. Deb, K. (1998). A quick computation of factor of safety for biaxial stress states. Transac-
+tions of ASME: Journal of Mechanical Design, 120, 721-726.
+124. Deb, K. and Chakroborty, P. (1998). Time scheduling of transit systems with transfer
+considerations using genetic algorithms. Evolutionary Computation Journal, 6(1), 1–24.
+125. Deb, K. and Goyal, M. (1998). A flexible optimization procedure for mechanical component
+design based on genetic adaptive search. Transactions of the ASME: Journal of Mechanical
+Design, 120(2), 162–164.
+126. Mitra, K., Deb, K., and Gupta, S. K. (1998). Multiobjective dynamic optimization of an
+industrial Nylon 6 semibatch reactor using genetic algorithms. Journal of Applied Polymer
+Science, 69(1), 69–87.
+127. Sen, S., Narshimhan, S. and Deb, K. (1998). Sensor network design of linear processes
+using genetic algorithms. Computers & Chemical Engineering, 22(3), 385–390.
+128. Chakroborty, P., Deb, K., and Srinivas, B. (1998). Network-wide optimal scheduling of
+transit systems using genetic algorithms. Computer Aided Civil and Infrastructure Engi-
+neering, 13, 363–376.
+129. Deo, B., Deb, K., Jha, S., Sudhakar, V., and Sridhar, N. V. (1998). Optimal operating
+conditions for the primary end of an integrated steel plant: Genetic adaptive search and
+classical techniques. ISIJ International, 38(1), 98–105.
+130. Sivakumar, K., Iyengar, N. G. R., and Deb, K. (1998). Optimum design of laminated
+composite plates with cutouts using a genetic algorithm, Journal of Composite Structures,
+42(3), 265–279.
+
+-----
+Kalyanmoy Deb
+17
+131. Upreti, S. and Deb, K. (1997). Optimal design of an ammonia synthesis reactor using genetic
+algorithms. Computers & Chemical Engineering, 21(1), 87–92.
+132. Sivakumar, K., Iyenger, N. G. R., and Deb, K. (1997). Optimum design of laminated
+composite rectangular plates with cutouts using genetic algorithms. Indian Journal of En-
+gineering and Materials Science, 4, 189–195.
+133. Chakraborty, U., Deb, K., and Chakraborty, M. (1996). Analysis of selection algorithms:
+A Markov chain approach. Evolutionary Computation Journal, 4(2), 132–167.
+134. Deb, K., and Goyal. M. (1996). A combined genetic adaptive search (GeneAS) for engi-
+neering design. Computer Science and Informatics, 26(4), 30–45.
+135. Bagchi, T. and Deb, K. (1996). Calibration of GA Parameters: The design of experiments
+approach. Computer Science and Informatics, 26(4), 46–56.
+136. Mahesh, K., Kishore, N. N., and Deb, K. (1996). Optimal design of composite turbine
+blade using genetic algorithms. Adv. Composite Materials, 5(2), 87–98.
+137. Deb, K. and Kumar, A. (1995).
+Real-coded genetic algorithms with simulated binary
+crossover: Studies on multimodal and multiobjective problems. Complex Systems, 9(6),
+431–454.
+138. Deb, K. and Agrawal, R. B. (1995).
+Simulated binary crossover for continuous search
+space. Complex Systems, 9, 115–148.
+139. Chakroborty, P., Deb, K., and Subrahmanyam, P. S. (1995). Optimal scheduling of ur-
+ban transit scheduling systems using genetic algorithms. ASCE Journal of Transportation
+Engineering, 121(6), 544–553.
+140. Srinivas, N. and Deb, K. (1995). Multiobjective function optimization using nondominated
+sorting genetic algorithms, Evolutionary Computation Journal, 2(3), 221–248.
+141. Rastogi, R., Deb, K., Deo, B., and Boom, R. (1994). Genetic Adaptive Search (GAS)
+Model of Hot Metal Desulphurization, Steel Research, 65(11), 472–478.
+142. Deo, B., Datta, A., Kukreja, B., Rastogi, R., and Deb, K. (1994). Optimization of back
+propagation algorithm and GAS-assisted ANN models for hot metal desulphurization. Steel
+Research, 65 (12), 528–533.
+143. Deb, K. and Goldberg, D. E. (1994). Sufficient conditions for deception in arbitrary binary
+functions. Annals of Mathematics and Artificial Intelligence, 10, 385–408.
+144. Horn, J., Goldberg, D. E., and Deb, K. (1994). Implicit niching in a learning classifier
+system: Nature’
+s way. Evolutionary Computation Journal, 2(1), 37–66.
+145. Deb, K., Horn, J., and Goldberg, D. E. (1993). Multimodal deceptive functions. Complex
+Systems, 7, 131–153.
+146. Goldberg, D. E., Deb, K., and Theirens, D. (1993). Toward a better understanding of
+mixing in genetic algorithms. Journal of SICE, 32(1), 10–16.
+147. Deb, K. and Goldberg, D. E. (1992). Analyzing deception in trap functions. Foundations
+of Genetic Algorithms II, 93–108.
+148. Goldberg, D. E., Deb, K., and Clark, J. H. (1992). Accounting for the noise in the sizing
+of populations. Foundations of Genetic Algorithms II, 127–140.
+
+-----
+Kalyanmoy Deb
+18
+149. Goldberg, D. E., Deb, K., and Clark, J. H. (1992). Genetic algorithms, noise, and the
+sizing of populations. Complex Systems, 6, 333–362.
+150. Wilson, H., Deb, K. and Singh, D. (1992). Numerical accuracy in the integration of cable
+dynamics equations. International Journal of Nonlinear Mechanics, 27(5), 795–804.
+151. Deb, K. (1991). Optimal design of a welded beam structure via genetic algorithms, AIAA
+Journal, 29(11), 2013–2015.
+152. Goldberg, D. E. and Deb, K. (1991). A comparison of selection schemes used in genetic
+algorithms, Foundations of Genetic Algorithms, I, 69-93.
+153. Goldberg, D. E., Deb, K. and Korb, B. (1990). Messy genetic algorithms revisited: Studies
+in mixed size and scale. Complex Systems, 4, 415–444.
+154. Goldberg, D. E., Korb, B., and Deb, K. (1989). Messy genetic algorithms: Motivation,
+analysis, and first results, Complex Systems, 3, 493–530.
+155. Wilson, H. and Deb, K. (1990). Evaluation of high order single step integrators for struc-
+tural response calculations, Journal of Sound and Vibration, 141(1), 55–70.
+156. Wilson, H. and Deb, K. (1989). Inertial properties of tapered cylinders and partial volumes
+of revolution, Computer Aided Design, 21(7), 456–462.
+Papers in Journals (ACCEPTED)
+1. Sinha, A., Malo, P., and Deb, K. (in press). Evolutionary Algorithm for Bilevel Opti-
+mization using Approximations of the Lower Level Optimal Solution Mapping. European
+Journal of Operational Research. Taylor & Francis.
+2. Sinha, A. , Malo, P., and Deb, K. (in press). Approximated Set-valued Mapping Approach
+for Handling Multiobjective Bilevel Problems. Computers & Operations Research. Springer.
+3. Deb, K. and Abouhawwash, M. (in press). An Optimality Theory Based Proximity Mea-
+sure for Set Based Multi-Objective Optimization. IEEE Transactions on Evolutionary Com-
+putation. IEEE Press. (DOI: 10.1109/TEVC.2015.2483590)
+4. Altinoz, T. O. and Deb, K. (in press). Late Parallelization and Feedback Approaches for
+Distributed Computation of Evolutionary Multiobjective Optimization Algorithms. Neural
+Computing and Applications. Springer.
+5. J. A. H. Mej´
+ı
+a and O. Sch¨
+utze, O. Cuate, A. Lara and K. Deb (in press). RDS-NSGA-II:
+A memetic algorithm for reference point based multi-objective optimization. Engineering
+Optimization. Taylor & Francis. (DOI: 10.1080/0305215X.2016.1211127)
+6. Seada, H. and Deb, K. (in press). A Unified Evolutionary Optimization Procedure for
+Single, Multiple, and Many Objectives. IEEE Transactions on Evolutionary Computation.
+IEEE Press. (DOI: 10.1109/TEVC.2015.2459718)
+7. Seada, H., Abouhawwash, M., and Deb, K. (in press). Towards Faster Convergence of Evo-
+lutionary Multi-Criterion Optimization Algorithms using Karush-Kuhn-Tucker Optimality
+Based Local Search. Computers & Operations Research. Elsevier.
+8. Li, X. and Deb, K. (in press). Multi-Objective Optimization of Operation Scheduling for
+Micro-Grid Systems. Engineering Optimization, Taylor & Francis.
+
+-----
+Kalyanmoy Deb
+19
+9. Ahrari, A., Deb, K., and Pruess, M. (in press). Multimodal Optimization by Covariance
+Matrix Self-Adaptation Evolution Strategy with Repelling Subpopulations. Evolutionary
+Computation Journal, MIT Press.
+10. Ahrari, A., Hong, L., Montassar, A. S., Deb, K., and Tan, X. (in press). Design Opti-
+mization of an Artificial Lateral Line System Incorporating Flow and Sensor Uncertainties.
+Engineering Optimization. Elsevier.
+11. Sinha, A., Malo, P., Deb, K., Korhonen, P., and Wallenius, J. (in press). Solving Bilevel
+Multi-criterion Optimization Problems with Lower Level Decision Uncertainty. IEEE Trans-
+actions on Evolutionary Computation. IEEE Press. (DOI: 10.1109/TEVC.2015.2443057)
+12. Mansoor, U., Kessentini, M., Langer, P., Mayerhofer, T., Wimmer, M., Deb, K. (in press).
+Multi-View Refactoring of Class and Activity Diagrams using a Multi-Objective Evolution-
+ary Algorithm. Software Quality Journal, Springer. (DOI: 10.1007/s11219-015-9284-4)
+13. Ali, O., Kessentini, M., Sahraoui, H., Inoue, K., and Deb, K. (in press). Multi-criteria
+Code Refactoring using Search-Based Software Engineering: An Industrial Case Study.
+ACM Transactions on Software Engineering and Methodology (TOSEM). ACM Press.
+14. Datta, R. and Deb, K. (in press). Uniform Adaptive Scaling of Equality and Inequality
+Constraints Within Hybrid Evolutionary-cum-Classical Optimization Soft Computing. Soft
+Computing Journal. Springer. (DOI: 10.1007/s00500-015-1646-0)
+15. Bandaru, S., Bittermann, M. S. and Deb, K. (in press). Discovering Design Principles
+for Soft Multi-objective Decision Making.
+Journal of Multi-Criteria Decision Analysis:
+Optimization, Learning and Decision Support. Wiley.
+16. Mkaouer, W., Kessentini, M., Bechikh, S., and Cinn´
+eide, M. ´
+O, and Deb, K. (in press). On
+the Use of Many Quality Attributes for Software Refactoring: A Many-Objective Search-
+Based Software Engineering Approach. Empirical Software Engineering. Springer.
+17. Mansoor, U., Kessentini, M., Ouni, A., Wimmer. M. and Deb, K. (in press). Detection
+of High-level Model Changes Using Multi-Objective Search-Based Software Engineering.
+Empirical Software Engineering. Springer.
+Papers Published in Conference Proceedings
+1. Deb, K., Siegmund, F., and Ng, A. H. C. (2015). R-HV: A Metric for Computing Hyper-
+volume for Reference Point Based EMOs. Proceedings of Swarm, Evolutionary and Memetic
+Computing Conference (SEMCCO-2014). Springer, (pp. 98–110).
+2. Altinoz, T. and Deb, K. (2015). Late Parallelization and Feedback Approaches for Dis-
+tributed Computation of Evolutionary Multiobjective Optimization Algorithm. Proceed-
+ings of the Second International Conference on Soft Computing and Machine Intelligence
+(ICSMI-2015), (Hong Kong), IEEE Press, (pp. 40-44)
+3. Deb, K., Abouhawwash, M., and Dutta, J. (2015). A KKT Proximity Measure for Evolu-
+tionary Multi-Objective and Many-Objective Optimization. Proceedings of Eighth Confer-
+ence on Evolutionary Multi-Criterion Optimization (EMO-2015). Springer. (pp. 18–33).
+4. Tutum, C. C. and Deb, K. (2015).
+A Multimodal Approach for Evolutionary Multi-
+objective Optimization (MEMO): Proof-of-Principle Results. Proceedings of Eighth Confer-
+ence on Evolutionary Multi-Criterion Optimization (EMO-2015). Springer, (pp. 3–18).
+
+-----
+Kalyanmoy Deb
+20
+5. Byers, C., Chang, B., and Deb, K. (2015). Unwanted Feature Interactions Between the
+Problem and Search Operators in Evolutionary Multi-objective Optimization. Proceedings
+of Eighth Conference on Evolutionary Multi-Criterion Optimization (EMO-2015). Springer.
+(pp. 19–33).
+6. Seada, H. and Deb, K. (2015). U-NSGA-III: A Unified Evolutionary Optimization Proce-
+dure for Single, Multiple, and Many Objectives – Proof-of-Principle Results. Proceedings of
+Eighth Conference on Evolutionary Multi-Criterion Optimization (EMO-2015). Springer.
+(pp. 34–49).
+7. Siegmund, F., Ng, A., and Deb, K. (2015). Hybrid Dynamic Resampling for Guided Evo-
+lutionary Multi-Objective Optimization. Proceedings of Eighth Conference on Evolutionary
+Multi-Criterion Optimization (EMO-2015). Springer. (pp. 366–380).
+8. Bandaru, S. and Deb, K. (2015). Temporal Innovization: Evolution of Design Principles
+in Multi-objective Optimization. Proceedings of Eighth Conference on Evolutionary Multi-
+Criterion Optimization (EMO-2015). Springer. (pp. 79–93).
+9. Sinha, A. and Deb, K. (2015). Towards Understanding Bilevel Multi-objective Optimiza-
+tion with Deterministic Lower Level Decisions. Proceedings of Eighth Conference on Evolu-
+tionary Multi-Criterion Optimization (EMO-2015). Springer. (pp. 426–444).
+10. Gaur, A. and Deb, K. (2015). Towards An Automated Innovization Method for Handling
+Discrete Search Spaces. Proceedings of the 2015 Congress on Evolutionary Computation
+(CEC-2015). Piscatway, NJ: IEEE press, (pp. 2899–2906).
+11. Seada, H. and Deb, K. (2015). Effect of Selection Operator on NSGA-III in Single, Multi,
+and Many-Objective Optimization. Proceedings of the 2015 Congress on Evolutionary Com-
+putation (CEC-2015). Piscatway, NJ: IEEE press, (pp. 2915–2922).
+12. Tutum, C. C., Guber, A., Deb, K., Smucker, A., Nejadhashemi, A. P., and Kiraz, B.
+(2015). An Integrated Approach Involving EMO and HYDRUS-2D Software for SWRT-
+based Precision Irrigation. Proceedings of the 2015 Congress on Evolutionary Computation
+(CEC-2015). Piscatway, NJ: IEEE press, (pp. 885–892).
+13. Deb, K., Lu, Z., McKesson, C., Trumbach, C. C., DeCan, L. (2015). Optimal Ship De-
+sign and Valuable Knowledge Discovery Under Uncertain Conditions. Proceedings of the
+2015 Congress on Evolutionary Computation (CEC-2015). Piscatway, NJ: IEEE press, (pp.
+1815–1822)
+14. Deb, K., Zhu, L., and Kulkarni, S. (2015). Multi-Scenario, Multi-Objective Optimiza-
+tion Using Evolutionary Algorithms: Initial Results. Proceedings of the 2015 Congress on
+Evolutionary Computation (CEC-2015). Piscatway, NJ: IEEE press. 2601–2608.
+15. Altinoz, T. and Deb, K. (2015). Reference Point based Distributed Computing for Mul-
+tiobjective Optimization. Proceedings of the 2015 Congress on Evolutionary Computation
+(CEC-2015). Piscatway, NJ: IEEE press, (pp. 1877–1884)
+16. Porokka, A., Sinha, A., Malo P. and Deb, K. (2015). Unconstrained Robust Optimization
+using a Descent-based Crossover Operator. Proceedings of the 2015 Congress on Evolution-
+ary Computation (CEC-2015). Piscatway, NJ: IEEE press, (pp. 85–92).
+17. Sinha, A., Malo, P. and Deb, K. (2015). Transportation Policy Formulation as a Multi-
+objective Bilevel Optimization Problem. Proceedings of the 2015 Congress on Evolutionary
+Computation (CEC-2015). Piscatway, NJ: IEEE press, (pp. 1651–1658)
+
+-----
+Kalyanmoy Deb
+21
+18. Lu, Z., Deb, K., and Sinha, A. (2015). Handling Decision Variable Uncertainty in Bilevel
+Optimization Problems. Proceedings of the 2015 Congress on Evolutionary Computation
+(CEC-2015). Piscatway, NJ: IEEE press, (pp. 1683-1690).
+19. Ali. A., Lei, H., Sharif. M. A., Deb, K., Tan, X. (2015). Design Optimization of Artificial
+Lateral Line System under Uncertain Conditions.
+Proceedings of the 2015 Congress on
+Evolutionary Computation (CEC-2015). Piscatway, NJ: IEEE press, (pp. 1807–1814).
+20. Li, K., Deb, K. and Zhang, Q. (2015). Evolutionary Multiobjective Optimization With
+Hybrid Selection Principles. Proceedings of the 2015 Congress on Evolutionary Computation
+(CEC-2015). Piscatway, NJ: IEEE press, (pp. 900–907).
+21. Mohammadi, A., Omidvar, M. N., Li, X., and Deb, K. (2015). Sensitivity Analysis of
+Penalty-based Boundary Intersection on Aggregation-based EMO Algorithms. Proceedings
+of the 2015 Congress on Evolutionary Computation (CEC-2015).
+Piscatway, NJ: IEEE
+press, (pp. 2891-2898).
+22. Srikrishna, V., Ghosh, R., Ravi, V. and Deb, K. (2015). Elitist Quantum-Inspired Dif-
+ferential Evolution based Wrapper for Feature Subset Selection.
+Proceedings of Nineth
+Multi-Disciplinary International Workshop on Artificial Intelligence (MIWAI-2015). Lec-
+ture Notes in Artificial Intelligence (LNAI), Springer. (pp. 113–124).
+23. Ouni, A., Kessentini, M. Sahraouic, H., Cinn´
+eide, M. O., Deb, K., and Inou, K. (2015). A
+Multi-Objective Refactoring Approach to Introduce Design Patterns and Fix Anti-Patterns.
+Proceedings of North American Search Based Software Engineering Symposium (NASBASE-
+2015), Elsevier. (pp. 1–15).
+24. Myburgh, C. A., Deb, K., and Craig, S. (2014). Applying Modern Heuristics to Maximising
+Net Present Value through Cut-off Grade Optimisation. Proceedings of Orebody Modelling
+and SMP 2014, Australasian Institute of Mining and Metallurgy (AusIMM). (pp. 155–164).
+25. Nag, A. K., Dasgupta, D., and Deb, K. (2014). An Adaptive Approach for Active Multi-
+Factor Authentication. Proceedings of 9th Annual Symposium on Information Assurance
+(ASIA). Albany, NY. (pp. 39–47).
+26. Hernandez, A., Schuetze, O. and Deb, K. (2014). A Memetic Variant of R-NSGA-II for
+Reference Point Problems.
+Proceedings of EVOLVE-2014 Conference: A bridge between
+Probability, Set Oriented Numerics and Evolutionary Computation V. Advances in Intelli-
+gent Systems and Computing (AISC), Vol. 288, Springer. (pp. 247–260).
+27. Mkaouer, W., Kessentini, M., Bechikh, S., Cinn´
+eide, M. O., Deb, K. (2014). Software
+Refactoring Under Uncertainty: A Robust Multi-Objective Approach. Proceedings of Ge-
+netic and Evolutionary Computation Conference (GECCO-2014), Heidelberg: Springer.
+(pp. 187–188).
+28. Mkaouer, W., Kessentini, M., Bechikh, S., Deb, K., and Cinn´
+eide, M. O. (2014). High
+Dimensional Search-based Software Engineering: Finding Tradeoffs Among 15 Objectives for
+Automating Software Refactoring Using NSGA-III. Proceedings of Genetic and Evolutionary
+Computation Conference (GECCO-2014), Heidelberg: Springer. (pp. 1263–1270).
+29. Sinha, A., Malo, P., Xu, P., and Deb, K. (2014). A Bilevel Optimization Approach to
+Automated Parameter Tuning. Proceedings of Genetic and Evolutionary Computation Con-
+ference (GECCO-2014), Heidelberg: Springer. (pp. 847–854).
+
+-----
+Kalyanmoy Deb
+22
+30. Sinha, A., Malo, P. and Deb, K. (2014). An Improved Bilevel Evolutionary Algorithm
+based on Quadratic Approximations.
+Proceedings of World Congress on Computational
+Intelligence (WCCI-2014), Piscataway, NJ: IEEE Press. (pp. 1870–1877).
+31. Purshouse, R. C. and Deb, K., Mansor, M. M., Mostaghim, S. and Wang, R. (2014). A
+Review of Hybrid Evolutionary Multiple Criteria Decision Making Methods. Proceedings of
+World Congress on Computational Intelligence (WCCI-2014), Piscataway, NJ: IEEE Press.
+(pp. 1147–1154).
+32. Bandaru, S., Ng, A., and Deb, K. (2014). On the Performance of Classification Algorithms
+for Learning Pareto-Dominance Relations. Proceedings of World Congress on Computational
+Intelligence (WCCI-2014), Piscataway, NJ: IEEE Press. (pp. 1139–1146).
+33. Zhu, L., Deb, K. and Kulkarni, S. (2014).
+Multi-Scenario Optimization Using Multi-
+Criterion Methods: A Case Study on Byzantine Agreement Problem. Proceedings of World
+Congress on Computational Intelligence (WCCI-2014), Piscataway, NJ: IEEE Press. (pp.
+2601–2608)
+34. Dhebar, Y., Deb, K. and Bandaru, S. (2014). Non-Uniform Mapping in Real-Coded Ge-
+netic Algorithms. Proceedings of World Congress on Computational Intelligence (WCCI-
+2014), Piscataway, NJ: IEEE Press. (pp. 2237–2244).
+35. Enaya, Y. and Deb, K. (2014). Network Path Optimization Under Dynamic Conditions.
+Proceedings of World Congress on Computational Intelligence (WCCI-2014), Piscataway,
+NJ: IEEE Press. (pp. 2977–2984).
+36. Mohammadi, A., Omidvar, M. N., Li, X. and Deb, K. (2014). Integrating User Prefer-
+ences and Decomposition methods for Many-objective Optimization. Proceedings of World
+Congress on Computational Intelligence (WCCI-2014), Piscataway, NJ: IEEE Press. (pp.
+421–428).
+37. Deb, K., Srivastava, S. and Chawla, A. (2013). Metamodeling and Optimization for Vary-
+ing Dimensional Search Space. Proceedings of Swarm, Evolutionary and Memetic Comput-
+ing Conference (SEMCCO-2013), LNCS-8297, (Chennai, India). Heidelberg: Springer, (pp.
+13–23).
+38. Bandaru, S. and Deb, K. (2013). Parameterless-Niching-Assisted Bi-objective Approach
+to Multimodal Optimization. Proceedings of Congress on Evolutionary Computation (CEC-
+13). Piscatway, NJ: IEEE Press, (pp. 95–102).
+39. Sinha, A., Malo, P., Frantsev, A. and Deb, K. (2013). Multi-objective Stackelberg Game
+Between a Regulating Authority and a Mining Company: A Case Study in Environmental
+Economics. Proceedings of Congress on Evolutionary Computation (CEC-13). Piscatway,
+NJ: IEEE Press, (pp. 4778–485).
+40. Datta, R., Deb, K., Costa, F. and Gaspar Cunha, A. (2013). An Evolutionary Algorithm
+based Pattern Search Approach for Constrained Optimization. Proceedings of Congress on
+Evolutionary Computation (CEC-13). Piscatway, NJ: IEEE Press, (pp. 1355–1362).
+41. Siegmund, F., Ng A. H. C. and Deb, K. (2013). Comparative Study of Dynamic Resampling
+Strategies for Guided Evolutionary Multi-Objective Optimization. Proceedings of Congress
+on Evolutionary Computation (CEC-13). Piscatway, NJ: IEEE Press, (pp. 1826–1835).
+42. Padhye, N., Mittal, P. and Deb, K. (2013).
+Differential Evolution: Performances and
+Analyses.
+Proceedings of Congress on Evolutionary Computation (CEC-13).
+Piscatway,
+NJ: IEEE Press, (pp. 1960–1967).
+
+-----
+Kalyanmoy Deb
+23
+43. Datta, R. and Deb, K. (2013). Penalty Based Constraint handling Using a Hybrid Bi-
+Objective and Penalty Function Approach. Proceedings of Congress on Evolutionary Com-
+putation (CEC-13). Piscatway, NJ: IEEE Press, (pp. 2720–2727).
+44. Recio, G. and Deb, K. (2013). Solving Clustering Problems Using Bi-Objective Evolution-
+ary Optimisation and Knee Finding Algorithms. Proceedings of Congress on Evolutionary
+Computation (CEC-13). Piscatway, NJ: IEEE Press, (pp. 2848–2855).
+45. Bandaru, S., and Deb, K. (2013). A Dimensionally-Aware Genetic Programming Archi-
+tecture for Automated Innovization. Proceedings of the Seventh International Conference
+on Evolutionary Multi-Criterion Optimization (EMO-13), LNCS 7811, (Sheffield, UK). Hei-
+delberg: Springer, (pp. 513–527).
+46. Jain, H., and Deb, K. (2013). An Improved Adaptive Approach for Elitist Nondominated
+Sorting Genetic algorithm for Many-Objective Optimization. Proceedings of the Seventh
+International Conference on Evolutionary Multi-Criterion Optimization (EMO-13), LNCS
+7811, (Sheffield, UK). Heidelberg: Springer, (pp. 307–321).
+47. Ng, A., Dudas, C., Bostr¨
+om, H. and Deb, K. (2012).
+Interleaving Innovization with
+Evolutionary Multi-Objective Optimization in Production System Simulation for Faster
+Convergence. Proceedings of Learning and Intelligent Optimization Conference (LION 7).
+Heidelberg: Springer. (Best Paper Award), (pp. 1–18).
+48. Deb, K., Dhebar, Y. and Pavan, N. V. R. (2012). Optimization for Variable-Size Prob-
+lems Using Genetic Algorithms.
+Proceedings of the Seventh Intenational Conference on
+Bio-Inspired Computing: Theories and Applications (BIC-TA 2012). (Gwalior, India), Hei-
+delberg: Springer, (pp. 133-144).
+49. Padhye, N., Deb, K., and Mittal, P. (2012).
+Boundary Handling Approaches in Par-
+ticle Swarm Optimization.
+Proceedings of the Seventh Intenational Conference on Bio-
+Inspired Computing: Theories and Applications (BIC-TA 2012). (Gwalior, India), Heidel-
+berg: Springer. (pp. 287–298).
+50. Ahmed, F., Bhattacharya, B., and Deb, K. (2012). Constructive Solid Geometry based
+Topology Optimization using Evolutionary Algorithms. Proceedings of the Seventh Intena-
+tional Conference on Bio-Inspired Computing: Theories and Applications (BIC-TA 2012).
+(Gwalior, India), Heidelberg: Springer, (pp. 227-238).
+51. Gaur, A., Bandaru, S., Khare, V., Chougule, R. and Deb, K. (2012). Identification and
+Impact Assessment of High Priority Field Failures in Passenger Vehicles using Evolutionary
+Optimization. Proceedings of the Seventh Intenational Conference on Bio-Inspired Com-
+puting: Theories and Applications (BIC-TA 2012). (Gwalior, India), Heidelberg: Springer,
+(pp. 111-122).
+52. Ryerkerk, M., Averill, R., Deb, K., and Goodman, E. (2012). Optimization for Variable-
+Size Problems Using Genetic Algorithms. Proceedings of the 14th AIAA/ISSMO Multidis-
+ciplinary Analysis and Optimization Conference. (Indianapolis, USA). AIAA 2012-5569,
+Reston, VA: AIAA.
+53. Deb, D. and Deb, K. (2012). Investigation of Mutation Schemes in Real-Parameter Ge-
+netic Algorithms. Proceedings of Swarm, Evolutionary and Memetic Computing Conference
+(SEMCCO-2012), (Bhubaneswar, India). LNCS 7677. Heidelberg: Springer-Verlag, (pp.
+1–8).
+
+-----
+Kalyanmoy Deb
+24
+54. Achariya, A. and Deb, K. (2012). Associated and Assorted Recombination in SBX Opera-
+tor for Problems with Linkages. Proceedings of Swarm, Evolutionary and Memetic Comput-
+ing Conference (SEMCCO-2012), LNCS 7677. (Bhubaneswar, India). Heidelberg: Springer,
+(pp 484–491).
+55. Siegmund, F., Bernedixen, J., Pehrsson, L., Ng, A. H. C., and Deb, K. (2012). Reference
+point based evolutuonary multi-objective optimization for industrial systems simulation. In
+C. Laroque, J. Himmelspach, R. Pasupathy, O. Rose, and A.M. Uhrmacher (Eds.) Proceed-
+ings of the 2012 Winter Simulation Conference. Article Number 130. ACM SIGSIM.
+56. Deb, K., Bandaru, S., and Tutum, C. C. (2012). Temporal Evolution of Design Principles in
+Engineering Systems: Analogies with Human Evolution. Proceedings of the Twelfth Parallel
+Problem Solving from Nature Conference (PPSN-2012), Lecture Notes in Computer Science
+(LNCS) 7492, (pp. 1–10).
+57. Deb, K. (2012).
+Advances in Evolutionary Multi-Objective Optimization.
+Proceedings
+of the Symposium on Search Based Software Engineering (SSBSE-2012), Lecture Notes in
+Computer Science (LNCS) 7515. (pp. 1–26).
+58. Ng. A. H. C., Dudas, C., Pehrsson, L. and Deb, K. (2012). Knowledge discovery in produc-
+tion simulation by interleaving multi-objective optimization and data mining. Proceedings
+of the Fifth Swedish Production Symposium (SPS12), Swedish Production Academy. (pp.
+461–472). (Received Best Paper Award).
+59. Ryerkerk, M., Averill, R., Deb, K., and Goodman, E. (2012). Determining Optimal Num-
+ber of Components using Variable-Length Genomes. Proceedings of Genetic and Evolution-
+ary Computation Conference (GECCO-2012). ACM Press. (pp. 1471–1472).
+60. Datta, R. and Deb, K. (2012). An Adaptive Normalization based Constrained Handling
+Methodology with Hybrid Bi-Objective and Penalty Function Approach.
+Proceedings of
+Congress on Evolutionary Computation (CEC-2012), (pp. 1-8).
+61. Datta, R., Bittermann, M. S., Deb, K., and Ciftcioglu, O. (2012). Probabilistic Constraint
+Handling in the Framework of Joint Evolutionary-Classical Optimization with Engineering
+Applications. Proceedings of Congress on Evolutionary Computation (CEC-2012), (pp. 1–8)
+.
+62. Sinha, A., Pandey, A. and Deb, K. (2012). Solving High Objective Problems in Fixed In-
+teractions with the Decision Maker. Proceedings of Congress on Evolutionary Computation
+(CEC-2012), (pp. 1–8).
+63. Sinha, A., Malo, P. and Deb, K. (2012). Unconstrained Scalable Test Problems for Single-
+Objective Bilevel Optimization.
+Proceedings of Congress on Evolutionary Computation
+(CEC-2012), (pp. 1–8).
+64. Chikumbo, O., Goodman, E. and Deb, K. (2012). Approximating a multi-dimensional
+Pareto front for a land use management problem: A modified MOEA with an epigenetic
+silencing metaphor. Proceedings of Congress on Evolutionary Computation (CEC-2012),
+(pp. 1–8).
+65. Siegmund, F., Ng, A. H. C. and Deb, K. (2012). Finding a preferred diverse set of Pareto-
+optimal solutions for a limited number of function calls. Proceedings of Congress on Evolu-
+tionary Computation (CEC-2012), (pp. 1–8).
+
+-----
+Kalyanmoy Deb
+25
+66. Deb, K. and Jain, H. (2012).
+Handling Many-Objective Problems Using an Improved
+NSGA-II Procedure. Proceedings of Congress on Evolutionary Computation (CEC-2012),
+(Brisbane, Australia). (pp. 1–8). DOI: 10.1109/CEC.2012.6256519
+67. Ahmed, F., Jindal, A., and Deb, K. (2011). Cricket Team Selection Using Evolutionary
+Multi-Objective Optimization. Proceedings of the International Conference on Swarm Intel-
+ligence and Evolutionary Computing (SEMCCO-2011), (LNCS 7077), Heidelberg: Springer.
+(pp. 71–78).
+68. Ahmed, F. and Deb, K. (2011). Multi-Objective Path Planning using Spline Represen-
+tation.
+Proceedings of the IEEE International Conference on Robotics and Biomimetics
+(IEEE-ROBIO 2011), Piscatway, NJ: IEEE Press. (pp. 1047–1052).
+69. Jain, H. and Deb, K. (2011). Parent to Mean-Centric Self-Adaptation in SBX Operator for
+Real-Parameter Optimization. Proceedings of the International Conference on Swarm Intel-
+ligence and Evolutionary Computing (SEMCCO-2011), (LNCS 7077), Heidelberg: Springer.
+(pp. 299–306).
+70. King, R. T. F., Rughooputh, H. C. S. and Deb, K. (2011). Solving the Multiobjective
+Environmental/Economic Dispatch Problem with Prohibited Operating Zones using NSGA-
+II, Proceedings of 2011 IEEE Pacific Rim Conference on Communications, Computers and
+Signal Processing (PacRim 2011). Piscatway, NJ: IEEE Press. (pp. 298-303).
+71. Bandaru, S., Deb, K., Khare, V. and Chougule, R. (2011).
+Quantitative Modeling of
+Customer Perception from Service Data using Evolutionary Optimization. Proceedings of
+Genetic and Evolutionary Computation Conference (GECCO-2011).
+ACM Press.
+(pp.
+1763–1770).
+72. Datta, R. and Deb, K. (2011). Multi-Objective Design and Analysis of Robot Gripper
+Configurations Using an Evolutionary-Classical Approach. Proceedings of Genetic and Evo-
+lutionary Computation Conference (GECCO-2011). ACM Press. (pp. 1843–1850).
+73. Srivastava, R. and Deb, K. (2011). An EA-based Approach to Design Optimization us-
+ing Evidence Theory. Proceedings of Genetic and Evolutionary Computation Conference
+(GECCO-2011). ACM Press. (pp. 1139–1146).
+74. Tulshyan, R., Deb, K. and Bandaru, S. (2011). KKT Proximity Measure for Testing Con-
+vergence in Smooth Multi-objective Optimization. Proceedings of Genetic and Evolutionary
+Computation Conference (GECCO-2011). ACM Press. (pp. 93-94).
+75. Deb, K., Steuer, R., Tiwari, R. and Tiwari, R. (2011). Bi-objective Portfolio Optimization
+Using a Customized Hybrid NSGA-II Procedure. Proceedings of Sixth International Confer-
+ence on Evolutionary Multi-Criterion Optimization (EMO-2011). LNCS 6576, Heidelberg,
+Springer, (pp. 358–373).
+76. Datta, R. and Deb, K. (2011). A Bi-Objective Based Hybrid Evolutionary-Classical Algo-
+rithm for Handling Equality Constraints. Proceedings of Sixth International Conference on
+Evolutionary Multi-Criterion Optimization (EMO-2011). Springer. (pp. 313–327).
+77. Bandaru, S. and Deb, K. (2011). Automated Innovization for Simultaneous Discovery of
+Multiple Rules in Bi-objective Problems. Proceedings of Sixth International Conference on
+Evolutionary Multi-Criterion Optimization (EMO-2011). Springer. (pp. 1–15).
+78. Bandaru, S., Tutum, C. C. and Deb, K., and Hattel, J. (2011). Higher-level innovization:
+A case study from friction stir welding process optimization. Proceedings of Congress on
+Evolutionary Computation (CEC-2011), IEEE Press. (pp.2782–2789).
+
+-----
+Kalyanmoy Deb
+26
+79. Bandaru, S., Tulshyan, R. and Deb, K. (2011). Modified SBX and Adaptive Mutation
+for Real World Single Objective Optimization. Proceedings of Congress on Evolutionary
+Computation (CEC-2011), IEEE Press. (pp. 1335–1342).
+80. Deb, K. (2010). Evolutionary Multi-Objective Optimization: Principles, Procedures, and
+Practices. International Conference on Modelling, Optimization and Computing (ICMOC-
+2010). Durgapur, India: American Institute of Physics (AIP), Volume 1298, (Durgapur,
+India), (pp. 12–17).
+81. Bandaru, S. and Deb, K. (2010). Automated Discovery of Vital Knowledge from Pareto-
+optimal Solutions: First Results from Engineering Design. Proceedings of the IEEE World
+Congress on Computational Intelligence (WCCI-2010), Barcelona, Spain: IEEE Press. (pp.
+1224-1231).
+82. Deb, K. and Datta, R. (2010). A Fast and Accurate Solution of Constrained Optimization
+Problems Using a Hybrid Bi-Objective and Penalty Function Approach.
+Proceedings of
+the IEEE World Congress on Computational Intelligence (WCCI-2010), Barcelona, Spain:
+IEEE Press, (pp. 165–172).
+83. Arora, R., Tulshyan, R. and Deb, K. (2010). Parallelization of Binary and Real-Coded
+Genetic Algorithms on CUDA. Proceedings of the IEEE World Congress on Computational
+Intelligence (WCCI-2010), Barcelona, Spain: IEEE Press, (pp. 3680–3687).
+84. Saha, A., Datta, R. and Deb, K. (2010). An Adaptive Mutation based Constrained Opti-
+mization Methodology Using a Real-Coded Genetic Algorithm. Proceedings of the IEEE
+World Congress on Computational Intelligence (WCCI-2010), Barcelona, Spain:
+IEEE
+Press, (pp. 2851-2858).
+85. Sinha, A., Deb, K., Korhonen, P. and Wallenius, J. (2010).
+Progressively Interactive
+Evolutionary Multi-Objective Optimization Method Using Generalized Polynomial Value
+Functions. Proceedings of the IEEE World Congress on Computational Intelligence (WCCI-
+2010), Barcelona, Spain: IEEE Press. (pp. 3860–3867).
+86. Nandi, A. K., Datta, S., Deb, K., and Orkus, J. (2010).
+Studies on effective thermal
+conductivity of particle reinforced polymertic flexible mould material composites: A genetic
+fuzzy based approach. Proceedings of Third International Conference on Recent Advances
+in Composite Materials (ICRACM-3), Limoges, France. (pp. 1–6)
+87. Sinha, A., Korhonen, P., Wallenius, J. and Deb, K. (2010). An interactive evolutionary
+multi-objective optimization method based on polyhedral cones.
+Proceedings of the 4th
+international conference on Learning and intelligent optimization (LION’10), (LNCS 6073),
+Heidelberg: Springer. (pp. 318–332).
+88. Srivatava, R. and Deb, K. (2010). Bayesian Reliability Analysis under Incomplete Informa-
+tion Using Evolutionary Algorithms. Proceedings of the Eighth International Conference on
+Simulated Evolution and Learning (SEAL-2010), (Kanpur, India), Berlin: Springer-Verlag,
+(pp. 435–444).
+89. Saha, A. and Deb, K. (2010).
+A Bi-criterion Approach to Multimodal Optimization:
+Self-adaptive Approach. Proceedings of the Eighth International Conference on Simulated
+Evolution and Learning (SEAL-2010), (Kanpur, India), Berlin: Springer-Verlag, (pp. 95–
+104).
+90. Tutum, C, C., Deb, K., and Hattel, J. (2010). Hybrid Search for Faster Production and
+Safer Process Conditions in Friction Stir Welding. Proceedings of the Eighth International
+
+-----
+Kalyanmoy Deb
+27
+Conference on Simulated Evolution and Learning (SEAL-2010), (Kanpur, India), Berlin:
+Springer-Verlag, (pp. 603–612).
+91. Padhye, N., Bhardawaj, P., and Deb, K. (2010).
+Improving Differential Evolution by
+Altering Steps in EC. Proceedings of the Eighth International Conference on Simulated
+Evolution and Learning (SEAL-2010), (Kanpur, India), Berlin: Springer-Verlag, (pp. 146–
+155).
+92. Deb, K. and Gupta, S. (2010). Towards a link between knee solutions and preferred solution
+methdologies. Proceedings of the First International Conference on Swarm, Evolutionary
+and Memetic Computing (SEMCCO 2010). (Chennai, India), Berlin: Springer-Verlag, (pp.
+330–337).
+93. Srivastava, S. and Deb, K. (2010).
+A genetic algorithm based augmented Lagrangian
+method for computationally fast constraint optimization. Proceedings of the First Inter-
+national Conference on Swarm, Evolutionary and Memetic Computing (SEMCCO 2010).
+(Chennai, India), Berlin: Springer-Verlag, (pp. 27–189).
+94. Nain, P. K. S., Giri, J. M., Sharma, S. and Deb, K. (2010). Multi-objective performance
+optimization of thermo-electric coolers using dimensional structural parameters. Proceedings
+of the First International Conference on Swarm, Evolutionary and Memetic Computing
+(SEMCCO 2010). (Chennai, India), Berlin: Springer-Verlag, (pp. 607–614).
+95. Li, X. and Deb, K. (2010). Comparing lbest PSO Niching algorithms Using Different Posi-
+tion Update Rules. Proceedings of the IEEE World Congress on Computational Intelligence
+(WCCI-2010), (Barcelona, Spain), IEEE Press, (pp. 1564–1571).
+96. Deb, K. and Padhye, N. (2010). Development of Efficient Particle Swarm Optimizers by
+Using Concepts from Evolutionary Algorithms. Proceedings of Genetic and Evolutionary
+Algorithms Conference (GECCO-2010). (Portland, USA), ACM Press, (pp. 55-62).
+97. Deb, K. and Saha, A. (2010). Finding Multiple Solutions for Multimodal Optimization
+Problems Using a Multi-Objective Evolutionary Approach.
+Proceedings of Genetic and
+Evolutionary Algorithms Conference (GECCO-2010). (Portland, USA), ACM Press, (pp.
+447–454).
+98. Myburgh, C. and Deb, K. (2010). Evolutionary Algorithms in Large-Scale Open Pit Mine
+Scheduling.
+Proceedings of Genetic and Evolutionary Algorithms Conference (GECCO-
+2010). (Portland, USA), ACM Press, (pp. 1155-1162).
+99. Tulshyan, R., Arora, R., Deb, K. and Dutta, J. (2010). Investigating EA Solutions for Ap-
+proximate KKT Conditions for Smooth Problems. Proceedings of Genetic and Evolutionary
+Algorithms Conference (GECCO-2010). (Portland, USA), ACM Press, (pp. 689–696).
+100. Padhye, N. and Deb, K. (2010). Evolutionary Multi-objective Optimization and Decision
+Making for Selective Laser Sintering. Proceedings of Genetic and Evolutionary Algorithms
+Conference (GECCO-2010). (Portland, USA), ACM Press, (pp. 1259–1266).
+101. Deb, K. and Miettinen, K. (2009). A Review of Nadir Point Estimation Procedures Using
+Evolutionary Approaches: A Tale of Dimensionality Reduction. Proceedings of the Multiple
+Criterion Decision Making (MCDM-2008) Conference. Lecture Notes in Economics and
+Mathematical Systems, 634. Heidelberg, Germany: Springer, (pp. 339–354).
+102. Sinha, A. and Deb, K. (2009). Towards understanding evolutionary bilevel multi-objective
+optimization algorithm, IFAC Workshop on Control Applications of Optimizaton (IFAC-
+2009), 7(1), Elsevier. (pp. 1–6).
+
+-----
+Kalyanmoy Deb
+28
+103. Datta, R. and Deb, K. (2009). A classical-cum-evolutionary multi-objective optimization
+for optimal machining parameters. Proceedings of International Conference on Nature and
+Biologically Inspired Computing (NaBIC), (pp. 607–612).
+104. Kodali, S. P., Deb, K., Bandaru, S., Munshi, P., and Kishore, N. N. (2009). Simulation
+studies on a genetic algorithm based tomographic reconstruction using time-of-flight data
+from ultrasound transmission tomography. Proceedings of the International Conference on
+Adaptive and Natural Computing Algorithms (ICANNGA-09) (LNCS 5495), (pp. 253–262).
+105. Bader, J., Deb, K., and Zitzler, E. (2009). Faster hypervolume-based search using Monte
+Carlo sampling. Proceedings of the Multiple Criterion Decision Making (MCDM-2008) Con-
+ference. Lecture Notes in Economics and Mathematical Systems, 634. Heidelberg, Germany:
+Springer, (pp. 313–326).
+106. Ng, A., Deb, K., and Dudas, C. (2009). Simulation-based Innovization for production
+systems improvement: An industrial case study.
+Proceedings of the Third International
+Conference on Swedish Production Symposium (SPS), Swedish Production Academy, (pp.
+278–286).
+107. Srivastava, K., Srivastava, S., Pathak, B. K. and Deb, K. (2009). Discrete time-cost tradeoff
+with a novel hybrid meta heuristic. Proceedings of the Multiple Criterion Decision Making
+(MCDM-2008) Conference. Lecture Notes in Economics and Mathematical Systems, 634.
+Heidelberg, Germany: Springer, (pp. 177–188).
+108. Sinha, A., Korhonen, P., Wallenius, J. and Deb, K. (2009). An Interactive Evolutionary
+Multi-Objective Optimization Method Based on Polyhedral Cones, Proceedings of Learning
+and Intelligent Optimization Conference (LION-2010), Venice, Italy. (pp. 318–332).
+109. Deb, K. and Sinha, A. (2009). Constructing test problems for bilevel evolutionary multi-
+objective optimization. Proceedings of the Congress on Evolutionary Computation (CEC-
+2009). Piscatway, NJ: IEEE Press. (pp. 1153–1160).
+110. Sindhya, K., Deb, K., and Miettinen, K. (2009). Search based evolutionary multi-objective
+optimization algorithm for constrained and unconstrained problems.
+Proceedings of the
+Congress on Evolutionary Computation (CEC-2009).
+Piscatway, NJ: IEEE Press.
+(pp.
+2919–2626).
+111. Kodali, S., Deb, K., Munshi, P., and Kishore, N. N. (2009). Comparing GA with MART
+to tomographic reconstruction of ultrasound images With and without noisy input data.
+Proceedings of the Congress on Evolutionary Computation (CEC-2009).
+Piscatway, NJ:
+IEEE Press. (pp. 2963–2970).
+112. Saxena, D., Deb, K., and Ray, T. (2009). Constrained many-objective optimization: A way
+forward. Proceedings of the Congress on Evolutionary Computation (CEC-2009). Piscatway,
+NJ: IEEE Press. (pp. 545–552).
+113. Cabello, J. M., Cejudo, J. M., Luque, M., Ruiz, F., Deb, K. Tewari, R. (2009). Optimiza-
+tion of the sizing of a solar thermal electricity plant: Mathematical programming versus
+genetic algorithms, Proceedings of the Congress on Evolutionary Computation (CEC-2009).
+Piscatway, NJ: IEEE Press. (pp. 1193–1200).
+114. Tiwari, S., Fadel, G., Koch, P. and Deb, K. (2009). Performance assessment of the hybrid
+archive-based micro genetic algorithm (AMGA) on the CEC09 test problems. Proceedings
+of the Congress on Evolutionary Computation (CEC-2009). Piscatway, NJ: IEEE Press.
+(pp. 1935–1942).
+
+-----
+Kalyanmoy Deb
+29
+115. Deb, K. and Sinha, A. (2009). Solving multi-objective bilevel optimization problems using
+evolutionary algorithms. Proceedings of Fifth International Conference on Multi-Criterion
+Optimization (EMO-2009). Heidelberg: Springer. (pp. 110–124).
+116. Deb, K., Miettinen, K., and Sharma, D. (2009). A hybrid integrated multi-objective opti-
+mization procedure for estimating nadir point. Proceedings of Fifth International Conference
+on Multi-Criterion Optimization (EMO-2009). Heidelberg: Springer. (pp. 569–583).
+117. Deb, K. and Sinha, A. (2009). An evolutionary approach for bilevel multi-objective prob-
+lems. Proceedings of 20th International Conference on Multiple Criteria Decision Making
+(MCDM-09), (Also Communications in Computer and Infomation Science No. 35 entitled
+’
+Cutting-Edge Research Topics on Multiple Criteria Decision Making’
+) Berlin: Springer,
+(Chengdu, China). (pp. 17–24).
+118. Deb, K. (2008). Evolutionary multi-objective optimization and decision making. Proceed-
+ings of the Bioinspired Optimization Methods and Their Applications, Ljubljana, Slovenia:
+Jozef Stefan Institute Press. (Ljubljana, Slovenia). (pp. 3–15).
+119. Deb, K. (2008). A robust evolutionary framework for multi-objective optimization. Pro-
+ceedings of Genetic and Evolutionary Computation conference (GECCO-2008), (Atlanta,
+USA). (pp. 633–640).
+120. Sindhya, K., Deb, K., and Miettinen, K. (2008). A local search based evolutionary multi-
+objective optimization technique for fast and accurate convergence. Proceedings of the Par-
+allel Problem Solving From Nature (PPSN-2008), (Dortmund, Germany), Berlin, Germany:
+Springer-Verlag, (pp. 815–824). (11)
+121. Kodali, S. P., Bandaru, S., Deb, K., Munshi, P., and Kishore, N. N. (2008). Applicability
+of Genetic Algorithms to Reconstruction of Projected Data from Ultrasonic Tomography.
+Proceedings of Genetic and Evolutionary Computation conference (GECCO-2008), (Atlanta,
+USA). (pp. 1705–1706).
+122. Bhatt, A., Varshney, P., and Deb, K. (2008). In search of no-loss strategies for the game of
+Tic-Tac-Toe using a customized genetic algorithm. Proceedings of Genetic and Evolutionary
+Computation conference (GECCO-2008), (Atlanta, USA). (pp. 889–896).
+123. Tiwari, S., Koch, P., Fadel, G. and Deb, K. (2008).
+AMGA: An archive-based micro
+genetic algorithm for multi-objective optimization. Proceedings of Genetic and Evolutionary
+Computation conference (GECCO-2008), (12-16 July, 2008, Atlanta, USA). (pp. 729–736).
+124. Sharma, D. and Deb, K., and Kishore, N. N. (2008). A domain-specific crossover and
+a helper objective for generating minimum weight compliant mechanisms. Proceedings of
+Genetic and Evolutionary Computation conference (GECCO-2008), (Atlanta, USA). (pp.
+1723–1724).
+125. Madetoja, E., Ruotsalainen, H., Mnkknen, V.-M., Hmlinen, J., and Deb, K. (2008). Visu-
+alizing multi-dimensional Pareto-optimal fronts with a 3D virtual reality system. Proceed-
+ings of the International Multiconference on Computer Science and Information Technology,
+Volume 3. (Wisa, Poland). (pp.907–913).
+126. Deb, K. and Sindhya, K. (2008).
+Deciphering innovative principles for optimal elec-
+tric brushless D.C. permanent magnet motor design. Proceedings of the World Congress
+on Computational Intelligence (WCCI-2008), (Hong Kong), Piscatway: IEEE Press, (pp.
+2283–2290).
+
+-----
+Kalyanmoy Deb
+30
+127. Saxena, D. and Deb, K. (2008). Dimensionality reduction of objectives and constraints
+in multi-objective optimization problems: A system design perspective. Proceedings of the
+World Congress on Computational Intelligence (WCCI-2008), (Hong Kong), Piscatway:
+IEEE Press, (pp. 3203-3210).
+128. Sharma, D. and Deb, K., and Kishore, N. N. (2008). Towards generating diverse topologies
+of path tracing compliant mechanisms using a local search based multi-objective genetic
+algorithm procedure.
+Proceedings of the World Congress on Computational Intelligence
+(WCCI-2008), (Hong Kong), Piscatway: IEEE Press, (pp. 2004–2011).
+129. Sathe, M., Rudolph, G. and Deb, K. (2008). Design and validation of a hybrid interactive
+reference point method for multi-objective optimization. Proceedings of the World Congress
+on Computational Intelligence (WCCI-2008), (Hong Kong), Piscatway: IEEE Press, (pp.
+2914–2921).
+130. Deb, K., Tiwari, R., Dixit, M., and Dutta, J. (2007). Finding trade-off solutions close to
+KKT points using evolutionary multi-objective optimisation. Proceedings of the Congress
+on Evolutionary Computation (CEC-2007), (Singapore), (pp. 2109–2116).
+131. Deb, K. and Kumar, A. (2007). Light beam search based multi-objective optimisation
+using evolutionary algorithms. Proceedings of the Congress on Evolutionary Computation
+(CEC-2007), (Singapore), (pp. 2125–2132).
+132. Mittal, S. and Deb, K. (2007).
+Three-dimensional offline path planning for UAVs us-
+ing multi-objective evolutionary algorithms. Proceedings of the Congress on Evolutionary
+Computation (CEC-2007), (Singapore), (pp. 3195–3202).
+133. Avigad, G. and Deb, K. (2007). The sequential optimisation-constraint multi-objective
+problem and its applications for robust planning of robot paths. Proceedings of the Congress
+on Evolutionary Computation (CEC-2007), (Singapore), (pp. 2101–2108).
+134. Sharma, D., Kumar, A., Sindhya, K., and Deb, K. (2007). Hybridization of SBX based
+NSGA-II and sequential quadratic programming for solving multi-objective optimisation
+problems. Proceedings of the Congress on Evolutionary Computation (CEC-2007), (Singa-
+pore), (pp. 3003–3010).
+135. Kumar, A., Sharma.
+D., and Deb, K. (2007).
+A hybrid multi-objective optimisation
+procedure using PCX based NSGA-II and sequential quadratic programming. Proceedings
+of the Congress on Evolutionary Computation (CEC-2007), (Singapore), (pp. 3010–3018).
+136. Anand, A., Suganthan, P., and Deb, K. (2007). A novel fuzzy and multi-objective evo-
+lutionary algorithm based gene assignment for clustering short time series expression data.
+Proceedings of the Congress on Evolutionary Computation (CEC-2007), (Singapore), (pp.
+297–304).
+137. Daum, D., Deb, K., and Branke, J. (2007).
+Reliability-based optimisation for multi-
+ple constraints with evolutionary algorithms. Proceedings of the Congress on Evolutionary
+Computation (CEC-2007), (Singapore), (pp. 911–918).
+138. Saxena, D. and Deb, K. (2007). Trading on infeasibility by exploiting constraint’
+s criticality
+through multi-objectivization: A system design perspective. Proceedings of the Congress on
+Evolutionary Computation (CEC-2007), (Singapore), (pp. 919–926).
+
+-----
+Kalyanmoy Deb
+31
+139. Garrett, A., Deb, K., and Dozier, G. (2007).
+NEMO: Neural enhancement for multi-
+objective optimisation. Proceedings of the Congress on Evolutionary Computation (CEC-
+2007), (Singapore), (pp. 3108–3113).
+140. Deb, K., Padhye, N., and Neema, G. (2007). Interplanetary Trajectory Optimization with
+Swing-bys Using Evolutionary Multi-Objective Optimization. In L. Kang, Y. Liu, and S.
+Zeng (eds.) Proceedings of the Second International Symposium on Intelligence Computation
+and Application (ISICA-2007), LNCS 4683, (Wuhan, China). (pp. 26–35).
+141. Deb, K., Lele, S., and Datta, R. (2007).
+A Hybrid Evolutionary Multi-objective and
+SQP Based Procedure for Constrained Optimization.
+In L. Kang, Y. Liu, and S. Zeng
+(eds.) Proceedings of the Second International Symposium on Intelligence Computation and
+Application (ISICA-2007), LNCS 4683, (Wuhan, China). (pp. 36–45).
+142. Deb, K. and Kumar, A. (2007). Interactive evolutionary multi-objective optimization and
+decision-making using reference direction method. Proceedings of the Genetic and Evolution-
+ary Computation Conference (GECCO-2007), New York: The Association of Computing
+Machinery (ACM), (London, UK), (pp. 781–788).
+143. Deb, K., Karthik, S. and Okabe, T. (2007). Self-adaptive simulated binary crossover for
+real-parameter optimization.
+Proceedings of the Genetic and Evolutionary Computation
+Conference (GECCO-2007), UCL London (July 7-11, 2007). New York: The Association
+of Computing Machinery (ACM), (London, UK), (pp. 1187–1194).
+144. Deb, K. and Chaudhuri, S. (2007). I-MODE: An Interactive Multi-Objective Optimization
+and Decision-Making using Evolutionary Methods, Proceedings of the Fourth International
+Conference on Evol. Multi-Criterion Optimization (EMO-2007), 5-8 March, Sendai, Japan.
+(LNCS, Springer) (pp. 788–802)
+145. Deb, K., Rao, U. B. and Karthik, S. (2007).
+Dynamic Multi-Objective Optimization
+and Decision-Making Using Modified NSGA-II: A Case Study on Hydro-Thermal Power
+Scheduling Bi-Objective Optimization Problems. Proceedings of the Fourth International
+Conference on Evol. Multi-Criterion Optimization (EMO-2007), 5-8 March, Sendai, Japan.
+(LNCS, Springer) (pp. 803–817)
+146. Deb, K., Padmanabhan, D., Gupta, S. and Mall, A. K. (2007). Reliability-Based Multi-
+Objective Optimization Using Evolutionary Algorithms. Proceedings of the Fourth Interna-
+tional Conference on Evol. Multi-Criterion Optimization (EMO-2007), 5-8 March, Sendai,
+Japan. (LNCS, Springer) (pp. 66–80)
+147. Datta, D., Deb, K. and Fonseca, C. M. (2007). Multi-Objective Evolutionary Algorithms
+for Resource Allocation Problems. Proceedings of the Fourth International Conference on
+Evol. Multi-Criterion Optimization (EMO-2007), 5-8 March, Sendai, Japan. (LNCS 4403,
+Springer) (pp. 401–416)
+148. Saxena, D. K. and Deb, K. (2007). Non-linear Dimensionality Reduction Procedures for
+Certain Large-Dimensional Multi-Objective Optimization Problems: Employing Corren-
+tropy and a Novel Maximum Variance Unfolding. Proceedings of the Fourth International
+Conference on Evol. Multi-Criterion Optimization (EMO-2007), 5-8 March, Sendai, Japan.
+(LNCS, Springer) (pp. 772–787)
+149. Deb, K. and Saxena, D. (2006). Searching For Pareto-Optimal Solutions Through Dimen-
+sionality Reduction for Certain Large-Dimensional Multi-Objective Optimization Problems.
+Proceedings of the World Congress on Computational Intelligence (WCCI-2006) (IEEE
+Press). Vancouver, Canada. (pp. 3352–3360)
+
+-----
+Kalyanmoy Deb
+32
+150. Sinha, A., Srinivasan, A. and Deb, K. (2006). A Population-Based, Parent Centric Pro-
+cedure for Constrained Real-Parameter Optimization. Proceedings of the World Congress
+on Computational Intelligence (WCCI-2006) (IEEE Press). Vancouver, Canada. (pp. 943–
+949).
+151. Deshwal, P. and Deb, K. (2006). Ergonomic Design of an Optimal Hindi Keyboard for
+Convenient Use. Proceedings of the World Congress on Computational Intelligence (WCCI-
+2006) (IEEE Press). Vancouver, Canada. (pp. 7951–7958).
+152. King, R. T., Rughooputh, H. C. S. and Deb, K. (2006).
+Reliability-Based Stochastic
+Evolutionary Multi-Objective Environmental/Economic Dispatch. Proceedings of the World
+Congress on Computational Intelligence (WCCI-2006) (IEEE Press). Vancouver, Canada.
+(pp. 3369–3376).
+153. Kukkonen, S. and Deb, K. (2006). Improved Pruning of Non-Dominated Solutions Based
+on Crowding Distance for Bi-Objective Optimization Problems. Proceedings of the World
+Congress on Computational Intelligence (WCCI-2006) (IEEE Press). Vancouver, Canada,
+(pp. 3905–4002).
+154. Bui L. T, Deb K., Abbass H. A. (2006). Dual guidance in evolutionary multi-objective
+optimization by localization Proceedings of the Simulated Evolution and Learning. Lecture
+Notes in Computer Science (LNCS) 4247. (pages 384–391).
+155. Kukkonen S. and Deb K. (2006). A fast and effective method for pruning of non-dominated
+solutions in many-objective problems.
+Proceedings of the Parallel Problem Solving from
+Nature (PPSN) Conference, Lecture Notes in Computer Science (LNCS) 4193. (pages 553–
+562).
+156. Deb, K., Chaudhuri, S. and Miettinen, K. (2006). Towards estimating nadir objective
+vector using evolutionary approaches. Proceedings of the Genetic and Evolutionary Com-
+putation Conference (GECCO-2006), New York: The Association of Computing Machinery
+(ACM), (pp. 643–650).
+157. Deb, K. and Srinivasan, A. (2006). Innovization: Innovating design principles through opti-
+mization. Proceedings of the Genetic and Evolutionary Computation Conference (GECCO-
+2006), New York: The Association of Computing Machinery (ACM), (pp. 1629–1636)
+158. Deb, K. and Sundar, J. (2006). Reference point based multi-objective optimization using
+evolutionary algorithms. Proceedings of the Genetic and Evolutionary Computation Con-
+ference (GECCO-2006), New York: The Association of Computing Machinery (ACM), (pp.
+635–642)
+159. Deb, K., Sinha, A. and Kukkonen, S. (2006).
+Multi-objective test problems, linkages
+and evolutionary methodologies. Proceedings of the Genetic and Evolutionary Computation
+Conference (GECCO-2006), New York: The Association of Computing Machinery (ACM),
+(pp. 1141–1148)
+160. Singh, G. and Deb, K. (2006). Comparison of multi-modal optimization algorithms based
+on evolutionary methodologies. Proceedings of the Genetic and Evolutionary Computation
+Conference (GECCO-2006), New York: The Association of Computing Machinery (ACM),
+(pp. 1305–1312).
+161. Mittal, S. and Deb, K. (2006).
+Optimal strategies of the iterated prisoner’
+s dilemma
+problem for multiple conflicting objectives. 2006 IEEE Symposium on Computational In-
+telligence and Games, Piscataway, NJ: IEEE Press, (pp. 197–204).
+
+-----
+Kalyanmoy Deb
+33
+162. Deb, K. (2006). Practical optimization using evolutionary methods. International Work-
+shop on Neural Networks and Genetic Algorithm in Material Science and Engineering, New
+Delhi: Tata-McGraw-Hill. (pp. 26–43).
+163. Deb, K. and Chaudhuri, S. (2005). I-EMO: An interactive evolutionary multi-objective
+optimization tool. Proceedings of the First International Conference on Pattern Recognition
+and Machine Intelligence (PReMI’05). Berlin: Springer, (pp. 690–695).
+164. Gupta, H. and Deb, K. (2005). Handling constraints in robust multi-objective optimiza-
+tion. Proceedings of the Congress on Evolutionary Computation (CEC-05). IEEE Press.
+(pp. 25–32).
+165. Sinha, A., Tiwari, S., and Deb, K. (2005). A population-based, steady-state procedure
+for real-parameter optimization. Proceedings of the Congress on Evolutionary Computation
+(CEC-05). IEEE Press. (pp. 514–521).
+166. Deb, K. and Tiwari, S. (2005). Omni-Optimizer: A procedure for single and multi-objective
+optimization.
+Proceedings of the Third International Conference on Evolutionary Multi-
+Criterion Optimization (EMO-2005). Guanajuato, Mexico. Lecture Notes on Computer
+Science 3410, (pp. 41–65).
+167. Deb, K. and Gupta, H. (2005). Searching for robust Pareto-optimal solutions in multi-
+objective optimization. Proceedings of the Third International Conference on Evolutionary
+Multi-Criterion Optimization (EMO-2005). Guanajuato, Mexico. Lecture Notes on Com-
+puter Science 3410, (pp. 150–164).
+168. Shukla, P. and Deb, K. (2005). Comparing classical generating methods with an evolution-
+ary multi-objective optimization method. Proceedings of the Third International Conference
+on Evolutionary Multi-Criterion Optimization (EMO-2005). Guanajuato, Mexico. Lecture
+Notes on Computer Science 3410, (pp. 311-325).
+169. King, R. T. F., Rughooputh, H. C. S. and Deb, K. (2005). Evolutionary multi-objective
+environmental/economic dispatch: Stochastic versus deterministic approaches. Proceedings
+of the Third International Conference on Evolutionary Multi-Criterion Optimization (EMO-
+2005). Guanajuato, Mexico. Lecture Notes on Computer Science 3410, (pp. 677-691).
+170. Datta, D. and Deb, K. (2005). Design of optimum cross-sections for load-carrying members
+using multi-objective evolutionary algorithms, Proceedings of International Conference on
+Systemics, Cybernetics and Informatics (ICSCI), Vol. 1, (pp. 571–577).
+171. Branke, J., Deb, K., Dierolf, H., and Osswald, M. (2004). Finding knees in multi-objective
+optimization, In Parallel Problem Solving from Nature (PPSN-VIII), LNCS 3242, Springer,
+(pp. 722–731).
+172. Deb, K. and Pal. K. (2004). Solving large-scale integer linear programs using a customized
+genetic algorithm. Proceedings of the Genetic and Evolutionary Computation Conference,
+GECCO-2004. Seattle, 26-30 June, (pp. 1054–1065). (Also Lecture Notes in Computer
+Science (LNCS) 3102).
+173. Deb, K. and Gupta, N. (2004). Optimal operating conditions for overhead crane maneu-
+vering using multi-objective evolutionary algorithms. Proceedings of the Genetic and Evo-
+lutionary Computation Conference, GECCO-2004. Seattle, 26-30 June, (pp. 1042–1053).
+(Also Lecture Notes in Computer Science (LNCS) 3102).
+
+-----
+Kalyanmoy Deb
+34
+174. Deb, K., Mitra, K., Dewri, R. and Majumdar, S. (2004). Unveiling optimal operating con-
+ditions for an epoxy polymerization process using multi-objective evolutionary computation.
+Proceedings of the Genetic and Evolutionary Computation Conference, GECCO-2004. Seat-
+tle, 26-30 June, (pp. 920–931). (Also Lecture Notes in Computer Science (LNCS) 3102).
+175. Branke, J., Schmeck, H., Deb, K. and Reddy. M. (2004). Parallelizing multi-objective
+evolutionary algorithms: Cone separation.
+Proceedings of the Congress on Evolutionary
+Computation (CEC-2004). (pp. 1952–1957).
+176. Stanley Y. M. Shi, Suganthan, P. N. and Deb, K. (2004). Multi-class protein fold recog-
+nition using multi-objective evolutionary algorithms. Proceedings of the IEEE Conference
+on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB’04),
+(pp. 61–66).
+177. Deb, K. and Reddy, A. R. (2003). Large-Scale Scheduling of Casting Sequences Using a
+Customized Genetic Algorithm. Proceedings of the 6th International Conference on Artifi-
+cial Evolution (EA-2003). Marseille, France. (pp. 248–259). (Also appeared in LCNS-2936:
+pages 141-152, 2004)
+178. Nain, P. K. S. and Deb, K. (2003). Computationally effective search and optimization
+procedure using coarse to fine approximations. Proceedings of the Congress on Evolutionary
+Computation (CEC-2003), Canberra, Australia, (pp. 2081–2088).
+179. Deb, K., Chaudhuri, S., Jain, P., Naveen, G., and Maji, H. (2003).
+Revealing useful
+design principles by means of multiple conflicting objectives.
+International Congress on
+Evolutionary Methods for Design, Optimization and Control with Applications to Industrial
+Problems (EUROGEN 2003). Barcelona, Spain.
+180. Meena, B. R., Gupta, H., Bandyopadhyay, P., Deb, K. and Adimurthy, V. (2003). Ro-
+bust estimation of aerospace propulsion parameters using optimization techniques based
+on evolutionary algorithms. 54th International Astronautical Congress of the International
+Astronautical Federation, the International Academy of Astronautics, and the International
+Institute of Space Law, Bremen, Germany.
+181. Deb, K. , Zope, P. and Jain, A. (2003). Distributed Computing of Pareto-Optimal Solutions
+Using Multi-Objective Evolutionary Algorithms. Proceedings of the Second Evolutionary
+Multi-Criterion Optimization (EMO-03) Conference, 8-11 April, Faro, Portugal. (pp. 535–
+549). (Also Lecture Notes in Computer Science (LNCS) 2632). (18)
+182. Deb, K., Mohan, M. and Mishra, S. (2003). Towards a quick computation of well-spread
+Pareto-optimal solutions. Proceedings of the Second Evolutionary Multi-Criterion Optimiza-
+tion (EMO-03) Conference, 8-11 April, Faro, Portugal. (pp. 222–236). (Also Lecture Notes
+in Computer Science (LNCS) 2632). (58)
+183. Reddy, A. R. and Deb, K. . (2003). Identification of Multiple Gene Clusters Using Multi-
+Objective Evolutionary Algorithms. Proceedings of the Second Evolutionary Multi-Criterion
+Optimization (EMO-03) Conference, 8-11 April, Faro, Portugal.
+(pp.
+623–637).
+(Also
+Lecture Notes in Computer Science (LNCS) 2632).
+184. Khare, V., Yao, X. and Deb, K. . (2003). Performance Scaling of Multi-objective Evolu-
+tionary Algorithms. Proceedings of the Second Evolutionary Multi-Criterion Optimization
+(EMO-03) Conference, 8-11 April, Faro, Portugal. (pp. 376–390). (Also Lecture Notes in
+Computer Science (LNCS) 2632). (67)
+
+-----
+Kalyanmoy Deb
+35
+185. Farina, M., Deb, K., and Amato, P. (2003) Dynamic multiobjective optimization problems:
+Test cases, approximation and applications. Proceedings of the Second Evolutionary Multi-
+Criterion Optimization (EMO-03) Conference, 8-11 April, Faro, Portugal. (pp. 310–324).
+(Also Lecture Notes in Computer Science (LNCS) 2632).
+186. Abbass, H. and Deb, K. (2003). Searching under multi-evolutionary pressures. Proceedings
+of the Second Evolutionary Multi-Criterion Optimization (EMO-03) Conference, 8-11 April,
+Faro, Portugal. (pp. 391–405). (Also Lecture Notes in Computer Science (LNCS) 2632).
+187. Deb, K. and Jain, S. (2002). Running performance metrics for evolutionary multi-objective
+optimization. Proceedings of the Fourth Asia-Pacific Conference on Simulated Evolution and
+Learning (SEAL’02), (Singapore). (pp. 13–20).
+188. Goel, T. and Deb, K. (2002). Hybrid methods for multi-objective evolutionary algorithms.
+Proceedings of the Fourth Asia-Pacific Conference on Simulated Evolution and Learning
+(SEAL’02). (Singapore), (pp. 188–192).
+189. Deb, K., Joshi, D., and Anand, A. (2002). Real-coded evolutionary algorithms with parent-
+centric recombination. Proceedings of the Congress on Evolutionary Computation (CEC-
+2002). (Honolulu, USA). (pp. 61–66).
+190. Deb, K., Thiele, L., Laumanns, M. and Zitzler, E. (2002). Scalable multi-objective opti-
+mization test problems. Proceedings of the Congress on Evolutionary Computation (CEC-
+2002). (Honolulu, USA). (pp. 825–830).
+191. Laumanns, M., Thiele, L., Zitzler, E., Welzl, E. and Deb, K. (2002). Running time analysis
+of a multi-objective evolutionary algorithm on a simple discrete optimization problem. Pro-
+ceedings of Parellel Problem Solving from Nature (PPSN-VII) Conference, (LNCS 2439),
+(pp. 44–53).
+192. Jim´
+enez, F., G´
+omez-Skarmeta, A. F., S´
+anchez, G. and Deb, K. (2002). An evolutionary
+algorithm for constrained multi-objective optimization.
+Proceedings of the Congress on
+Evolutionary Computation (CEC-2002). (Honolulu, USA). (pp. 1133–1138).
+193. Mohan, A. and Deb, K. (2002). Genetic-fuzzy approach in robot motion planning revis-
+ited: Rigorous testing and towards an implementation. Proceedings of the Advances in Soft
+Computing Conference (AFSS-2002), 3–6 February. (Calcutta, India), (pp. 414–420).
+194. Deb, K. and Goel, T. (2001) Controlled elitist non-dominated sorting genetic algorithms
+for better convergence. Proceedings of the First International Conference on Evolutionary
+Multi-Criterion Optimization (EMO-2001), 7–9 March. (Z¨
+urich, Switzerland), (Also LNCS
+1993) (pp. 67–81).
+195. Deb, K., Pratap, A., and Meyarivan, T. (2001).
+Constrained test problems for multi-
+objective evolutionary optimization. Proceedings of the First International Conference on
+Evolutionary Multi-Criterion Optimization (EMO-2001), 7–9 March. (Z¨
+urich, Switzerland),
+(Also LNCS 1993) (pp. 284–298).
+196. Deb, K. and Goel, T. (2001). A hybrid multi-objective evolutionary approach to engi-
+neering shape design. Proceedings of the First International Conference on Evolutionary
+Multi-Criterion Optimization (EMO-2001), 7–9 March. (Z¨
+urich, Switzerland), (Also LNCS
+1993) (pp. 385–399).
+
+-----
+Kalyanmoy Deb
+36
+197. Deb, K., Pratap, A., Moitra, S. (2000). Mechanical component design for multiple objec-
+tives using elitist non-dominated sorting GA. Proceedings of the Parallel Problem Solving
+from Nature VI Conference, 16-20 September. (Paris, France), (pp. 859–868).
+198. Deb, K., Agrawal, S., Pratap, A., Meyarivan, T. (2000). A Fast Elitist Non-dominated
+sorting genetic algorithm for multi-objective optimization: NSGA-II. Proceedings of the
+Parallel Problem Solving from Nature VI Conference, 16-20 September. (Paris, France),
+(pp. 849–858).
+199. Beyer, H.-G. and Deb, K. (2000). On the desired behaviors of self-adaptive evolutionary
+algorithms. Proceedings of the Parallel Problem Solving from Nature VI Conference, 16-20
+September. (Paris, France), (pp. 59–68).
+200. Deb, K. (2000). Multi-objective Evolutionary Algorithms: Past, present, and future. Pro-
+ceedings of the Fourth Advanced Computing in Design and Manufacture (ACDM-2000) Con-
+ference, 26-28 April. (Plymouth, UK), (pp. 225–236).
+201. Deb, K. (2000).
+Multi-objective evolutionary algorithms.
+Tenth National Seminar on
+Aerospace Structures, 8–10 December 2000. (Kanpur, India), (pp. 116–130).
+202. Goel, T. and Deb, K. (2000). Optimal shape design using a hybrid genetic algorithms.
+Tenth National Seminar on Aerospace Structures, 8–10 December 2000. (Kanpur, India),
+(pp. 138–152).
+203. Deb, K., Khan, N. and Jindal, S. (2000). Optimal truss-structure design for multiple ob-
+jectives. Tenth National Seminar on Aerospace Structures, 8–10 December 2000. (Kanpur,
+India), (pp. 168–180).
+204. Deb, K. (1999). Construction of test problems for multi-objective optimization. Proceed-
+ings of the Genetic and Evolutionary Computation Conference. 13-17 July 1999. (Orlando,
+USA), (pp. 164–171). (4)
+205. Deb, K. (1999). Solving goal programming problems using multi-objective genetic algo-
+rithms. Proceedings of Congress on Evolutionary Computation, 6-9 July (Washington DC,
+USA), (pp. 77–84).
+206. Deb, K. (1999). Evolutionary Algorithms for Multi-Criterion Optimization in Engineering
+Design. In K. Miettinen, M. M¨
+akel¨
+a, P. Neittaanm¨
+aki, and J. P´
+eriaux (Eds.) Proceedings of
+Evolutionary Algorithms in Engineering and Computer Science (EUROGEN-99), 29 May –
+03 June 1999. (Jyv¨
+askyl¨
+a, Finland), (pp. 135–161).
+207. Deb, K. and Agrawal, S. (1999). A niched-penalty approach for constraint handling in
+genetic algorithms. Proceedings of the International Conference on Artificial Neural Net-
+works and Genetic Algorithms (ICANNGA-99). 6–9 April, 1999. (Portoroz, Slovenia), (pp.
+235–243).
+208. Deb, K. and Beyer, H.-G. (1999). Self-adaptation in real-parameter genetic algorithms
+with simulated binary crossover. Proceedings of the Genetic and Evolutionary Computation
+Conference (GECCO). 13–17 July 1999. (Orlanda, USA) (pp. 172–179).
+209. Michalewicz, Z., Deb, K., Schmidt, M., and Stidsen, T. (1999). Towards Understanding
+Constrained-Handling Methods in Evolutionary Algorithms, Proceedings of the Congress on
+Evolutionary Computation, CEC’99, (pp. 581–588).
+
+-----
+Kalyanmoy Deb
+37
+210. Michalewicz, Z., Deb, K., Schmidt, M, and Stidsen, T. (1999). Evolutionary Algorithms
+Engineering applications. In K. Miettinen, M. M¨
+akel¨
+a, P. Neittaanm¨
+aki, and J. P´
+eriaux
+(Eds.) Proceedings of Evolutionary Algorithms in Engineering and Computer Science (EUROGEN-
+99). 29 May – 03 June 1999. (Jyv¨
+askyl¨
+a, Finland), (pp. 73–94).
+211. Pratihar, D. K., Deb, K., and Ghosh, A. (1999). Design of a Genetic-Fuzzy System for
+Planning Optimal Path and Gait Simultaneously of a Six-legged Robot. Proceedings of the
+Genetic and Evolutionary Computation Conference (GECCO). 13–17 July 1999. (Orlando,
+USA), (pp. 1678–1684).
+212. Pratihar, D.K., Deb, K., Ghosh, A. (1999). Path and gait generation of a six-legged robot—
+A genetic-fuzzy approach.
+Proceedings of the International Conference on Mathematical
+Modeling of Non-linear Systems, ICOMMONS99, (pp. 86–100).
+213. Pratihar, D. K., Deb, K., and Ghosh, A. (1999). Fuzzy-genetic algorithms and mobile robot
+navigation among static obstacles. Proceedings of Congress on Evolutionary Computation,
+6-9 July (Washington DC, USA), (pp. 327–334). (5)
+214. Pratihar, D. K., Deb, K., Ghosh, A. (1999).
+Mobile robot navigation among moving
+obstacles using GA-fuzzy approaches. Proceedings of the National Conference on Machines
+and Mechanisms, NACOMM-99 (pp. 394–403).
+215. Pratihar, D. K., Deb, K., Ghosh, A. (1999). Design of a genetic-fuzzy system for planning
+optimal turning gait of a six-legged robot. Proceedings of the International Conference on
+Information Technology, ICIT-99, (pp. 109–114).
+216. Oyman, A. I., Deb, K., and Beyer, H.-G. (1999).
+An alternative constraint handling
+method for evolution strategies. Proceedings of Congress on Evolutionary Computation, 6-9
+July (Washington DC, USA), (pp. 612–619).
+217. Chakraborty, S., De, S., and Deb, K. (1999).
+Model-based object recognition from a
+complex binary imagery using genetic algorithms. In R. Poli, H.-M. Voigt, S. Cagnoni, D.
+Corne, G. D. Smith, and T. C. Fogarty (Eds.) Evolutionary Image Analysis and Signal
+Processing and Telecommunications, (EvoIASP’99), Lecture Notes in Computer Science,
+Springer Verlag, 1596, (pp. 150–161).
+218. Deb, K., Pratihar. D. K., and Ghosh, A. (1998). Learning to avoid moving obstacles
+optimally for mobile robots using a genetic-fuzzy approach. Parallel Problem Solving From
+Nature V, (Amsterdam, The Netherlands), (pp. 583–592).
+219. Chakraborty, S. and Deb, K. (1998). Analytic curve detection from a noisy binary edge
+map using genetic algorithms. Parallel Problem Solving From Nature V, (Amsterdam, The
+Netherlands), (pp. 129–138).
+220. Deb, K. and Chakraborti, N. (1998). A combined heat transfer and genetic algorithm mod-
+eling of an integrated steel plant bloom re-heating furnace. EUFIT’98, (Aachen, Germany),
+(pp. 439–443). (9)
+221. Pratihar, D. K., Deb, K., and Ghosh, A. (1998). Planning crab gaits of a six-legged robot
+using a GA-Fuzzy approach. In R. N. Mahapatra (Ed.): Proceedings of the International
+Conference on Information Technology, (Bhubaneswar, India), New Delhi: Tata-McGraw-
+Hill, (pp. 221-226).
+222. Deb, K. and Gulati, S., and Chakraborti, S. (1998). Optimal truss-structure design using
+real-coded genetic algorithms. Symposium on Genetic Algorithms, (Madison, USA), San
+Mateo: Morgan Kaufmann. (pp. 479–486).
+
+-----
+Kalyanmoy Deb
+38
+223. Lobo, F., Deb, K., Goldberg, D. E., Harik, G. R., and Wang, L. (1998). Compressed introns
+in a linkage learning genetic algorithm. Symposium on Genetic Algorithms, (Madison, USA),
+San Mateo: Morgan Kaufmann. (pp. 551–558).
+224. Deb, K. (1998). Genetic algorithms in search and optimization: The technique and appli-
+cations. Proceedings of International Workshop on Soft Computing and Intelligent Systems,
+(ISI, Calcutta, India), (pp. 58–87).
+225. Deb, K. (1997). Genetic algorithms as an optimization tool for engineering design. Pro-
+ceedings of the Eighth National Conference on Machines and Mechanisms (NACOMM-97).
+(IIT Kanpur, India), (pp. C-119–130).
+226. Chakroborty, P. and Deb, K. (1997). A genetic algorithm based procedure for optimal
+transit systems scheduling. Proceedings of Fifth International Conference on Computers in
+Urban Planning and Urban Management, (IIT Mumbai, India), (pp. 330-341).
+227. Deb, K. and Saxena, V. (1997). Car suspension design for comfort using genetic algorithms.
+In Thomas Back (Ed.)
+Proceedings of the Seventh International Conference on Genetic
+Algorithms, (East Lansing, USA), (pp. 553–560).
+228. Deb, K. and Goyal, M. (1997). Optimizing engineering designs using a combined genetic
+search.
+In Thomas Back (Ed.)
+Proceedings of the Seventh International Conference on
+Genetic Algorithms, (East Lansing, USA), (pp. 521–528).
+229. Deb, K. (1997). Optimizing Engineering Designs: A need of time for Indian industries.
+Young Scientists Session at the 84th Indian Science Congress, (New Delhi, India), (pp.
+36–37).
+230. Sivakumar, K., Iyenger, N. G. R., and Deb, K. (1997). Optimum design of laminated
+composite plates undergoing large amplitude vibration using genetic algorithms. Fourth
+International Conference on Composite Engineering (ICCE), (Kona, Hawaii).
+231. Deb, K. (1997). Parallel genetic algorithms: Past, present, and future. Parallel Computing
+Conference, (IIT Kanpur, India).
+232. Deb, K. (1995). When will genetic algorithms work? In P. K. Roy and S. D. Mehta (Eds.),
+Proceedings of the Symposium on Genetic Algorithms, (Dehradun, India), (pp. 5–22).
+233. Srinivas. N. and Deb, K. (1995). Comparative study of vector evaluated GA and NSGA
+applied to multiobjective optimization. In P. K. Roy and S. D. Mehta (Eds.), Proceedings
+of the Symposium on Genetic Algorithms, (Dehradun, India), (pp. 83–90).
+234. Chaturvedi, D., Deb, K., and Chakrabarty, S. K. (1995). Structural optimization using
+real-coded genetic algorithms. In P. K. Roy and S. D. Mehta (Eds.), Proceedings of the
+Symposium on Genetic Algorithms, (Dehradun, India), (pp. 73–82).
+235. Agrawal, R. B., Mukherjee, A., and Deb, K. (1995). Modelling of inexact 2D shapes using
+real-coded genetic algorithms. In P. K. Roy and S. D. Mehta (Eds.), Proceedings of the
+Symposium on Genetic Algorithms, (Dehradun, India), (pp. 41–50).
+236. Horn, J., Goldberg, D. E., Deb, K. (1995). Long path problems. Proceedings of Parallel
+Problem Solving from Nature, III, (Jerusalem, Israel), (pp. 149–158).
+237. Rao, T. S., Bose, S. K., Srivathsan, K. R., and Deb, K. (1995). A new approach to network
+topology optimization.
+In S. V. Raghavan and B. N. Jain (Eds.)
+Computer Networks,
+Architecture and Applications, (Bangalore, India), (pp. 358–371).
+
+-----
+Kalyanmoy Deb
+39
+238. Deb, K. (1993). Genetic algorithms in engineering design optimization. In J. N. Reddy
+et al. (Eds.), Proceedings of the Advanced Study Institute on Computational Methods for
+Engineering Analysis and Design, (IIT Chennai, India), (pp. 12.1–12.25). (5)
+239. Deb, K. (1993). Genetic algorithms in optimal optical filter design. In E. Balagurusamy
+and B. Sushila (Eds.), Proceedings of the International Conference on Computing Congress,
+(Hyderabad, India), (pp. 29–36).
+240. Goldberg, D. E., Deb. K., Kargupta, H, and Harik, G. (1993). Rapid, accurate optimization
+of difficult problems using messy genetic algorithms. In S. Forrest (Ed.), Proceedings of the
+Fifth International Conference on Genetic Algorithms, (Urbana, USA), (pp. 56–64).
+241. Kargupta, H., Deb, K., and Goldberg, D. E. (1992). Ordering genetic algorithms and
+deception. In R. Manner and B. Manderick (Eds.), Parallel Problem Solving from Nature
+II, (Brussels, Belgium), (pp. 47–56).
+242. Goldberg, D. E., Deb, K., and Horn, J. (1992). Massive multimodality, deception, and
+genetic algorithms. In R. Manner and B. Manderick (Eds.), Parallel Problem Solving from
+Nature II, (Brussels, Belgium), (pp. 37–46).
+243. Goldberg, D. E., Deb, K., and Korb, B. (1991). Don’
+t worry, be messy. In R. Belew and
+L. Booker (Eds.), Proceedings of the Fourth International Conference in Genetic Algorithms
+and their Applications, (San Diego, USA), (pp. 24–30).
+244. Parker, J. K., Tan, C., and Deb, K. (1991). Determining PID control gain by genetic al-
+gorithms, Twentysecond Annual Pittsburgh Conference on Modeling and Simulation, (Pitts-
+burgh, USA).
+245. Deb, K. and Goldberg, D. E. (1990). Natural frequency calculation using genetic algo-
+rithms. In S. V. Hanagud et al. (Eds.), Proceedings of the Fifteenth Southeastern Conference
+on Theoretical and Applied Mechanics, (Atlanta, USA), (pp. 94–101).
+246. Deb, K. (1990). Optimal design of a welded beam via genetic algorithms, Proceedings of
+the 31st AIAA/ASME /ASCE/AHS/ASC Structures, Structural Dynamics and Materials
+Conference (CP-902), (Long Beach, CA, USA), (pp. 444-453).
+247. Gupta, S. and Deb, K. (1990). Strength-to-weight ratio optimization of laminated com-
+posite plates under inplane loading, In S. V. Hanagud et al.
+(Eds.), Proceedings of the
+Fifteenth Southeastern Conference on Theoretical and Applied Mechanics, (Atlanta, USA),
+(pp. 127–134).
+248. Deb, K. and Goldberg, D. E. (1989). An investigation of niche and species formation in
+genetic function optimization, In J. D. Schaffer (Ed.), Proceedings of the Third International
+Conference on Genetic Algorithms, (Washington DC, USA), (pp. 42–50).
+249. Wilson, H. and Deb, K. (1989). Numerical accuracy in cable dynamics equations, Proceed-
+ings of Twelfth Canadian Congress of Applied Mechanics, (Toronto, Canada), (pp. 385-386).
+250. Samanta, B., Mukherjee, A., and Deb, K. (1987). Bond graph adapted modular approach
+to analysis of planar mechanisms, Proceedings of Seventh World Congress on the Theory of
+Machines and Mechanisms, (Sevilla, Spain), (pp. 439-442).
+Papers to be Published in Conference Proceedings
+
+-----
+Kalyanmoy Deb
+40
+1. Deb, K. and Myburgh, C. (in press). Breaking the Billion Variable Barrier in Real-World
+Optimization Using a Customized Evolutionary Algorithm. Proceedings of the Genetic and
+Evolutionary Computation Conference (GECCO-2016). 20-24 July, Denver, USA.
+2. Abouhawwash, M. and Deb, K. (in press). Karush-Kuhn-Tucker Proximity Measure for
+Multi-Objective Optimization Based on Numerical Gradients. Proceedings of the Genetic
+and Evolutionary Computation Conference (GECCO-2016). 20-24 July, Denver, USA.
+3. Zhichao, L., Deb, K. and Sinha, A. (in press).
+Finding Reliable Solutions in Bilevel
+Optimization Problems Under Uncertainties. Proceedings of the Genetic and Evolutionary
+Computation Conference (GECCO-2016). 20-24 July, Denver, USA.
+4. Hessein, R. and Deb, K. (in press).
+A Generative Kriging Surrogate Model for Con-
+strained and Unconstrained Multi-objective Optimization. Proceedings of the Genetic and
+Evolutionary Computation Conference (GECCO-2016). 20-24 July, Denver, USA.
+5. Ibrahim, A., Rahnamayan, S., Martin, M. G., and Deb, K. (in press). EliteNSGA-III:
+An Improved Evolutionary Many-Objective Optimization Algorithm.
+Proceedings of the
+World Congress on Computational Intelligence (WCCI-2016). 25-29 July, 2016, Vancouver,
+Canada.
+6. Roy, P. and Deb, K. (in press). High Dimensional Model Representation for solving Ex-
+pensive Multi-objective Optimization Problems.
+Proceedings of the World Congress on
+Computational Intelligence (WCCI-2016). 25-29 July, 2016, Vancouver, Canada.
+7. Ibrahim, A., Rahnamayan, S., Martin, M. G., and Deb, K. (in press). 3D-RadVis: Visual-
+ization of Pareto Front in Many-Objective Optimization Proceedings of the World Congress
+on Computational Intelligence (WCCI-2016). 25-29 July, 2016, Vancouver, Canada.
+8. Liu, H.-L., Chen, L., and Zhang, Q. and Deb, K. (in press). Many Objective Optimisation
+Using an Evolutionary Algorithm with Adaptive Region Decomposition. Proceedings of the
+World Congress on Computational Intelligence (WCCI-2016). 25-29 July, 2016, Vancouver,
+Canada.
+9. Sinha, A., Malo, P. and Deb, K. (in press). Solving Optimistic Bilevel Programs by It-
+eratively Approximating Lower Level Optimal Value Function. Proceedings of the World
+Congress on Computational Intelligence (WCCI-2016). 25-29 July, 2016, Vancouver, Canada.
+10. Helbig, M., Deb, K. and Engelbrecht, A. (in press). Key Challenges and Future Directions
+of Dynamic Multi-objective Optimisation. Proceedings of the World Congress on Compu-
+tational Intelligence (WCCI-2016). 25-29 July, 2016, Vancouver, Canada.
+11. Siegmund, F., Ng, A., and Deb, K. (in press).
+A Ranking and Selection Strategy for
+Preference-based Evolutionary Multi-objective Optimization of Variable-Noise Problems.
+Proceedings of the World Congress on Computational Intelligence (WCCI-2016).
+25-29
+July, 2016, Vancouver, Canada.
+12. Suryan, V., Sinha, A., Malo, P. and Deb, K. (in press). Handling Inverse Optimal Control
+Problems using Evolutionary Bilevel Optimization. Proceedings of the World Congress on
+Computational Intelligence (WCCI-2016). 25-29 July, 2016, Vancouver, Canada.
+13. Toscano, G. and Deb, K. (in press). Study of the Approximation of the Fitness Landscape
+and the Ranking Process of Scalarizing Functions for Many-objective Problems. Proceed-
+ings of the World Congress on Computational Intelligence (WCCI-2016). 25-29 July, 2016,
+Vancouver, Canada.
+
+-----
+Kalyanmoy Deb
+41
+14. Mahdavi, S., Shahryar, R. and Deb K. (in press). Center-Based Initialization of Coop-
+erative Co-evolutionary Algorithm for Large-scale Optimization. Proceedings of the World
+Congress on Computational Intelligence (WCCI-2016). 25-29 July, 2016, Vancouver, Canada.
+Edited Books
+1. Mkaouer. M. W., Kessentini, K., Cinn´
+eide, M. O., Hayashi, S., and Deb, K. (in press).
+A Robust Multi-Objective Approach to Balance Severity and Importance of Refactoring
+Opportunities. Empirical Software Engineering, Springer.
+2. Mansoor, U., Kessentini, M., Maxim, B., and Deb, K. (in press). Multi-Objective Code-
+Smells Detection using Good and Bad Design Examples. Software Quality Journal, Springer.
+3. Datta, R. and Deb, K. (eds.) (2015). Evolutionary Constrained Optmization. New Delhi:
+Springer (Infosys Science Foundation Series).
+4. Wang, L., Ng, A. and Deb, K. (eds.) (2011). Multi-Objective Evolutionary Optimisation
+for Product Design and Manufacturing. London: Springer-Verlag.
+5. Takahashi, R. H. C., Deb, K., Wanner, E. F., Greco, S. (eds.) (2011). Proceedings of the
+Sixth International Conference on Evolutionary Multi-Criterion Optimization (EMO-2011),
+Ouro Preto, Brazil (Lecture Notes in Computer Science 6576), Heidelberg: Springer.
+6. Deb, K., Bhattacharya, A., Chakraborti, N., Chakroborty, P., Das, S., Dutta, J., Gupta, S.
+K., Jain, A., Aggarwal, V., Branke, J., Louis, S. J., and Tan, K. C. (eds.) (2010). Proceedings
+of Eighth International Conference on Simulated Evolution and Learning. Kanpur, India.
+(Lecture Notes in Computer Science 6457), Heidenberg: Springer.
+7. Branke, J., Deb, K., Mietinnen, K. and Slowinski, R. (Eds.)
+(2008).
+Multiobjective
+optimization: Interactive and evolutionary approaches. Hiedelberg, Germany: Springer.
+8. Knowles, J., Corne, D. and Deb, K. (Eds.) (2008). Multiobjective Problem Solving from
+Nature: From Concepts to Applications. Berlin, Germany: Springer.
+9. Keijzer, M., Antoniol, G., Congdon, C. B., Deb, K., Doerr, B., Hansen, N., Holmes, J.
+H., Hornby, G. S., Howard, D., Kennedy, J., KUmar, S., Lobo, F. G., Miller, J. F., Moore,
+J., Neumann, F., Pelikan, M., Pollack, J., Sastry, K., Stanley, K., Stoica, A., Talbi, E.-
+G., Wegener, I. (2008). Proceedings of the Tenth International Conference on Genetic and
+Evolutionary Computation Conference (GECCO-2008), New York: ACM Press.
+10. Obayashi, S., Deb, K., Poloni, C., Hiroyasu, T., Murata, T. (Eds.) (2007). Proceedings of
+the Evolutionary Multi-Criterion Optimization: 4th International Conference (EMO-2007),
+(LNCS 4403), Berlin, Germany: Springer.
+11. Thierens, D., Beyer, H.-G., Bongard, J., Branke, J., Clark J. A., Cliff, D., Congdon, C. B.,
+Deb, K., Doerr, B., Kovacs, T., Kumar, S. Miller, J. F., Moore, J., Neumann, F., Pelikan,
+M., Poli, R., Sastry, K., Stanley, K. O., Stutzle, T., Watson, R. A. and Wegener, I. (eds.)
+(2007). Proceedings of the Nineth International Conference on Genetic and Evolutionary
+Computation Conference (GECCO-2007), New York: ACM Press.
+12. Deb, K., Chakroborty, P., Iyenger, N. G. R. and Gupta, S. K. (2007). Advances in Com-
+putational Optimization and its Applications. Delhi: Universities Press.
+
+-----
+Kalyanmoy Deb
+42
+13. Deb, K., Poli, R., Banzhaf, W., Beyer, H.-G., Burke, E. K., Darwen, P. J., Dasgupta, D.,
+Floreano, D., Foster, J. A., Harman, M., Holland, O., Lanzi, P. L., Spector, L., Tettamanzi,
+A., Thierens, D., and Tyrrell, A. M. (Eds.) (2004). Proceedings of the Sixth International
+Conference on Genetic and Evolutionary Computation (GECCO-2004). (Lecture Notes in
+Computer Science (LNCS 3102 and 3103)), Heidelberg, Germany: Springer.
+14. Cant-Paz, E., Foster, J. A., Deb, K. and Lawrence, D., Roy, R., O’
+Reilly, U.-M., Beyer, H.-
+G., Standish, R., Kendall, G., Wilson, S., Harman, M., Wegener, J., Dasgupta, D., Potter,
+M. A., Schultz, A. C. (Eds.) (2003). Proceedings of the Fifth International Conference on
+Genetic and Evolutionary Computation (GECCO-2003). Berlin, Germany: Springer-Verlag.
+15. Fonseca, C., Fleming, P., Zitzler E., Deb, K., and Thiele, L. (Eds.) (2003). Proceedings
+of the Second Evolutionary Multi-Criterion Optimization (EMO-03) Conference (Lecture
+Notes in Computer Science (LNCS) 2632), Heidelberg: Springer.
+16. Zitzler, E., Deb, K., Thiele, L., Coello, C. and Corne, D. (Eds.) (2001). Evolutionary multi-
+criterion optimization (Lecture Notes in Computer Science 1993). Heidelberg: Springer.
+17. Schoenauer, M., Deb, K., Rudolph, G., Yao, X., Lutton, E., Merelo, J. J., Schwefel, H.-P.
+(Eds.) (2000). Parallel Problem Solving from nature VI (Lecture Notes in Computer Science
+1917). Heidelberg: Springer.
+18. Koza, J., Banzhaf, W., Chellapilla, K., Deb, K. Dorigo, M. Fogel, D., Garzon, M. Goldberg,
+D., Iba, H. (Eds) (1998).
+Proceedings of the 1998 genetic programming conference and
+symposium on genetic algorithms. San Mateo, CA: Morgan Kaufmann.
+19. Deb, K. (Ed.), (1998). Genetic algorithms, A special issue of the Computer Science and
+Informatics, 26(4).
+20. Koza, J, Deb, K., Dorigo, M., Fogel, D., Garzon, M., Iba, H., and Riolo, R. (Eds.) (1997).
+Proceedings of the 1997 genetic programming conference. San Mateo, CA: Morgan Kauf-
+mann.
+Book Chapters and Society Magazines
+1. Deb, K. (2011). Multi-objective optimisation using evolutionary algorithms: An introduc-
+tion. In L. Wang, A. Ng, and K. Deb (eds.) Multi-Objective Evolutionary Optimisation for
+Product Design and Manufacturing, London: Springer. (pp. 3–34).
+2. Dabbeeru, M. M., Deb, K., Mukherjee, A. (2011). Product portfolio selection of designs
+through an analysis of lower-dimensional manifolds and identification of common proper-
+ties. In L. Wang, A. Ng, and K. Deb (eds.) Multi-Objective Evolutionary Optimisation for
+Product Design and Manufacturing, London: Springer. (pp. 161–187).
+3. Padhye, N. and Deb, K. (2011). Multi-objective optimisation and multi-criteria decision
+making for FDM using evolutionary approaches. In L. Wang, A. Ng, and K. Deb (eds.)
+Multi-Objective Evolutionary Optimisation for Product Design and Manufacturing, London:
+Springer. (pp. 219–247).
+4. Deb, K. (2010). Recent Developments in Evolutionary Multi-Objective Optimization, In S.
+Greco, M. Ehrgott and J. R. Figueira (Eds.) “Trends in Multiple Criteria Decision Analysis
+Trends in Multiple Criteria Decision Analysis”, International Series in Operations Research
+& Management Science, Volume 142, Springer, (pp. 339-368).
+
+-----
+Kalyanmoy Deb
+43
+5. Deb, K. (2009). Evolution’
+s Niche in Multi-Criterion Problem Solving. In A. Lewis, S.
+Mostaghim and M. Randall (eds.) Biologically-inspired Optimisation Methods: Parallel Al-
+gorithms, Systems and Applications.Studies in Computational Intelligence, 210. Heidelberg:
+Springer. (pp. 1–21).
+6. Deb, K. (2008). Evolutionary design in engineering. In P. F. Hingston, L. C. Barone, and
+Z. Michalewicz (Eds.) Design by Evolution. Berlin: Springer-Verlag. (pp. 267–271).
+7. Deb, K. (2008). Engineering optimization using evolutionary algorithms. In P. F. Hingston,
+L. C. Barone, and Z. Michalewicz (Eds.) Design by Evolution. Berlin: Springer-Verlag. (pp.
+273–296).
+8. Deb, K. (2008). Introduction to Evolutionary Multi-Objective Optimization. In J. Branke,
+K. Deb, K. Miettinen and R. Slowinski (Eds.) Multiobjective Optimization: Interactive and
+Evolutionary Approaches (LNCS 5252). Berlin: Springer-Verlag. (pp. 59–96).
+9. Miettinen, K., Deb, K., John.
+J., Ogryczak, W., Shimoyama, K., and Vetschera, R.
+(2008). Future challanges. In J. Branke, K. Deb, K. Miettinen and R. Slowinski (Eds.)
+Multiobjective Optimization: Interactive and Evolutionary Approaches (LNCS 5252). Berlin:
+Springer-Verlag. (pp. 435–461).
+10. Deb, K. and Srinivasan, A. (2008). Innovization: Discovery of innovative design principles
+through multiobjective evolutionary optimization. In J. Knowles, D. Corne and K. Deb
+(eds.) Multiobjective Problem Solving from Nature: From Concepts to Applications. Berlin:
+Springer, (pp. 243–262).
+11. Knowles, J., Corne, D. and Deb, K. (2008). Introduction: Problem Solving, EC, and EMO.
+In J. Knowles, D. Corne and K. Deb (eds.) Multiobjective Problem Solving from Nature:
+From Concepts to Applications. Berlin: Springer, (pp. 1–28).
+12. Brockhoff, D., Saxena, D., Deb, K., Zitzler, E. (2008). On handling a large number of
+objectives: A posteriori and during optimization. In J. Knowles, D. Corne and K. Deb
+(eds.) Multiobjective Problem Solving from Nature: From Concepts to Applications. Berlin:
+Springer, (pp. 377–403).
+13. Deb, K. (2007). Evolutionary multi-objective optimization without additional parameters.
+In F. Lobo, C. F. Lima abd Z. Michalewicz (eds.)
+Parameter Setting in Evolutionary
+Algorithms, Volume 54 (pp. 241–257).
+14. Deb, K. and Nain, P. K. S. (2007). An evolutionary multi-objective meta-modeling proce-
+dure using artificial neural networks. In S. Yang, Y.-S. Ong, and Y. Jin (eds.) Evolutionary
+Computation in Dynamic and Uncertain Environments. Springer, (pp. 297–322).
+15. Deb, K. (2006). Multi-objective optimization. In E. Burke, G. Kendall, Search Method-
+ologies: Introductory Tutorials in Optimization and Decision Support Techniques, Springer,
+(pp. 273–316).
+16. Deb, K. and Chaudhuri, S. (2005).
+Automated discovery of innovative designs of me-
+chanical components using evolutionary multi-objective algorithms. In N. Nedjah and L.
+Mourelle (eds.) Evolutionary Machine Design: Methodology & Applications, Hauppauge,
+NY: Nova Science Publishers, (pp. 139-164).
+17. Deb, K., Thiele, L., Laumanns, M. and Zitzler, E. (2005).
+Scalable test problems for
+evolutionary multi-objective optimization. In A. Abraham, L. Jain and R. Goldberg (eds.)
+Evolutionary Computation Based Multi-Criteria Optimization: Theoretical Advances and
+
+-----
+Kalyanmoy Deb
+44
+Applications under the book series ‘
+Advanced Information and Knowledge Processing’
+, Lon-
+don, UK: Springer-Verlag. (pp. 105–145).
+18. Deb, K. and Jain, S. (2004). Evaluating evolutionary multi-objective optimization algo-
+rithms using running performance metrics. In K. C. Tan, M. H. Lim, X. Yao, and L. Wang
+(eds.) Recent Advances in Simulated Evolution and Learning, Singapore: World Scientific
+Publishers. (pp. 307–326).
+19. Deb, K. (2004). Genetic algorithms for optimization. In D. Kundu and A. Basu (eds.) Sta-
+tistical Computing: Existing Methods and Recent Developments. New Delhi, India: Narosa
+Publishing House, (pp. 85–123).
+20. Branke, J. and Deb, K. (2004).
+Integrating user preferences into evolutionary multi-
+objective optimization.
+In Y. Jin (ed.)
+Knowledge Incorporation in Evolutionary Com-
+putation under the book series on ‘
+Studies in Fuzziness and Soft Computing, Vol. 167’
+,
+Heidelberg: Springer-Verlag, (pp. 461–477).
+21. Deb, K. (2003). An introduction to genetic algorithms for engineering optimization. In G.
+C. Onwubolu and B. V. Babu (eds.) New Optimization Techniques in Engineering (NOTIE),
+Springer.
+22. Corne, D.W., Deb, K., Fleming, P.J., Knowles, J.D. (2003). The Good of the Many Out-
+weights the Good of the One: Evolutionary Multiobjective Optimization, IEEE Newsletter:
+coNNectionS, 1(1), (pp. 9–13).
+23. Deb, K. (2003). Multi-objective evolutionary algorithms: Introducing bias among Pareto-
+optimal solutions. In A. Ghosh and S. Tsutsui (Eds.) Advances in Evolutionary Computing:
+Theory and Applications, Chapter 10. London: Springer-Verlag. (pp. 263–292).
+24. Deb, K. and Goel, T. (2002). Multi-objective evolutionary algorithms for engineering shape
+design. In R. Sarker, M. Mohammadian and X. Yao (Eds.) Evolutionary Optimization,
+Kluwer Academic Press. 147–175.
+25. Deb, K. (2000). Multi-objective evolutionary optimization: Past, present and future. In I.
+C. Parmee (ed.) Evolutionary Design and Manufacture, London: Springer, (pp. 225–236).
+26. Deb, K. (1999). Genetic algorithms. In John G. Webster (Ed.) Encyclopedia of Electrical
+and Electronics Engineering, Vol. 8. New York: Wiley, (pp. 308–320).
+27. Deb, K. (1997).
+Mechanical component design using genetic algorithms.
+Evolutionary
+algorithms in engineering applications (Eds. Dipankar Dasgupta and Z. Michalewicz) New
+York: Springer-Verlag (pp. 495–512).
+28. Deb, K. (1997). Speciation methods. In T. B¨
+ack and D. Fogel and Z. Michalewicz Hand-
+book of Evolutionary Computation, Bristol: Institute of Physics Publishing and New York:
+Oxford University Press, (pp. C.6.2:1–C.6.2:4)
+29. Deb, K. (1996). Genetic algorithms for function optimization. Genetic algorithms and Soft
+Computing. (Eds. F. Herrera and J. L. Verdegay) Physica-Verlag (pp. 3–29).
+Keynote/Plenary Lectures on Genetic and Evolutionary Algorithms
+
+-----
+Kalyanmoy Deb
+45
+1. 26 April, 2000: Keynote lecture at the Advanced Computation in Design and Manufactur-
+ing Conference (ACDM-2000) in the University of Plymouth, UK entitled ‘
+Multi-objective
+evolutionary optimization: Past, present, and future’
+.
+2. 16 January, 2003: Keynote lecture on ‘
+Evolutionary Algorithms for Single and Multiple
+Objective Optimization’ during the Symposium on Evolutionary Algorithms at Doshisha
+University, Kyoto, Japan.
+3. 17 September, 2003: Plenary lecture on ‘
+Recent Advances on Evolutionary Multi-Objective
+Optimization’during EUROGEN-2003 conference in Barcelona, Spain.
+4. 8 December, 2003: Keynote lecture during ‘
+CEC-2003’conference entitled ‘
+Multi-Objective
+Evolutionary Optimization’in Canberra, Australia.
+5. 23 June, 2004: Keynote lecture during ‘
+Hydroinformatics’Conference entitled ‘
+Single and
+Multi-Objective Optimization Using Evolutionary Algorigthms’held in Singapore.
+6. 7 August, 2004: Premier Plenary Lecture entitled ‘
+Evolutionary Multi-Criterion Opti-
+mization’ during the 17h International Conference on Multiple Criteria Decision Analysis
+held in Whistler, British Columbia, Canada.
+7. 12 December, 2005: Keynote lecture at GM Symposium entitled ‘
+Practical Optimization
+Methods’held in Bangalore, India.
+8. 12 January, 2006: Plenary lecture at International workshop on Neural Networks and
+Genetic Algorithms in Materials Science and Engineering entitled ‘
+Practical Optimization
+Methods in Engineering Design’held in Kolkata, India.
+9. 3 August, 2006: Keynote lecture at Second South-Asia Altair CAE Users Conference-
+2006 entitled ‘
+Deciphering Innovative Design Principles Through Optimization’to be held
+in Bangalore, India.
+10. 18 September, 2006: Plenary lecture at Bio-inspired Computing: Theory and Applications
+(BIC-TA)’entitled ‘
+Evolutionary Multi-Objective Optimization (EMO): An Emerging Field
+of Computing for Practical Problem-Solving’to be held in Wuhan, China.
+11. 3 November, 2006: Keynote lecture at the 2006 International Conference on Compu-
+tational Intelligence and Security (CIS) entitled ’
+Evolutionary Optimization for Practical
+Problem-Solving’to be held in Guangzhou, China.
+12. 12 February, 2007: Keynote lecture at the Water Resources Workshop at the University
+of Adelaide, Australia entitled ‘
+Evolutionary optimization for engineering systems’
+.
+13. 23 February, 2007: Keynote lecture at the Conference on Current Trends in Computing
+& Bioinformatics at CSJM University, Kanpur entitled ‘
+Soft Computing Methodologies and
+Their Potential in Science and Technology’
+.
+14. 24 February, 2007: Vision talk at the Indo-US Workshop on Soft, Quantum and Nano
+Computing (SQUAN-2007) at Dayalbagh University, Agra entitled ‘
+Evolutionary Comput-
+ing for Practical Optimization’
+.
+15. 23 March, 2007: Keynote lecture at Global Conference on Production and Industrial
+Engineering at National Institute of Technology, Jalandhar entitled ‘
+Computational opti-
+mization: An indespensible companion to scientists and practitioners’
+.
+
+-----
+Kalyanmoy Deb
+46
+16. 17 April, 2007: Keynote lecture at the First international Conference Multidisciplinary
+Design Optimization and Applications entitled ’
+Evolutionary Multi-Objective Optimization
+and Applications’held in Besanon, France.
+17. 30 August, 2007: Plenary Talk on the ‘
+Research Day’ at Helsinki School of Economics,
+Finland, entitled ’
+Multi-Criterion Optimization and Decision-Making Using Darwinian Evo-
+lutionary Principles: Research and Practices of the Past Decade’
+.
+18. 21 September, 2007: Keynote lecture at Symposium on Intelligence Computation and
+Applications (ISICA 2007) to be held in Wuhan, China.
+19. 12 December, 2007: Plenary talk at 7th International Conference on Optimization: Tech-
+niques and Applications (ICOTA-07) held in Kobe, Japan entitled ’
+Evolutionary Multiob-
+jective Optimization and Decision Making’
+.
+20. 09 January, 2008: Keynote lecture at 19th International Conference on Multiple Criteria
+Decision Making (MCDM) held in Auckland, New Zealand entitled ’
+Evolution’
+s Niche in
+Multi-Criterion Optimization’
+.
+21. 30 September, 2008: Keynote lecture at Rolls-Royce Aerodynamic Design optimization
+Seminar (RR-ADOS) to be held in Rolls-Royce in Derby, UK entitled ’
+Evolutionary Opti-
+mization for Practical Problem Solving’
+.
+22. 13 October, 2008: Keynote lecture at the 3rd International Conference on Bioinspired Op-
+timization Methods and their Applications (BIOMA-2008) to be held in Ljubliana, Slovenia
+entitled ’
+Evolutionary Multi-Objective Optimization and Decision Making’
+.
+23. 07 December, 2008: Keynote lecture at the Seventh International Conference on Sim-
+ulated Evolution And Learning (SEAL’
+08) to be held in Melbourne, Australia entitled
+’
+Evolutionary Multi-Objective Optimization and Decision Making’
+.
+24. 12 February, 2009: Keynote lecture at the Sixth Spanish Conference on Metaheuristics
+entitled ’
+Evolutionary Multi-objective Optimization’
+.
+25. 19 May, 2009: Keynote lecture at the IEEE Congress on Evolutionary Computation
+(CEC-2009) to be held in Trondheim, Norway entitled ’
+Evolution’
+s Niche in Applied Opti-
+mization and Informatics’
+.
+26. 4 June, 2009: Keynote lecture at Papermaking Research Symposium in Kuopio, Finland
+entitled ’
+Evolutionary Optimization in Practice’
+.
+27. 24 April, 2010: Keynote lecture at a workshop on ‘
+The Art and Science of Product
+Development’ at General Motors, Bangalore entitled ‘
+Innovization and its application in
+product design and development’
+.
+28. 15 September, 2010: Keynote lecture at 15th FIRA Robot World Cup and Congress at
+Bangalore, India entitled ’
+Evolutionary Multi-Objective Optimization and Applications in
+Games and Robotics’
+.
+29. 24 October, 2010: Two Invited lectures at International Workshop on Nature Inspired
+Computation and Applications (IWNICA’
+10) in Hefei, China, entitled ’
+Evolutionary Multi-
+Objective Optimization’
+.
+30. 29 October, 2010: Invited lecture at International Conference on Modeling Optimization
+and Computing, NIT Durgapur, India, entitled ’
+Evolutionary Multi-Objective optimization’
+.
+
+-----
+Kalyanmoy Deb
+47
+31. 16 December, 2010: Keynote lecture at International conference on Swarm, Evolutionary
+and Memetic Computing (SEMCCO 2010) in Chennai, India, entitled ’
+Evolutionary Multi-
+Objective Optimization’
+.
+32. 23 March, 2011: Keynote lecture at the National Conference on Operations Research
+Applications in G. L. Bajaj Institute of Technology and Management, Greater Noida, India,
+entitled ’
+Evolutionary Optimization in Operations Research’
+.
+33. 14 September 2011: Plenary lecture at the International Conference on Evolutionary
+and Deterministic Methods for Design, Optimization and Control with Applications to
+Industrial and Societal Problems (EUROGEN-2011), Italian Aerospace Research Center
+(CIRA), Capua, Italy, entitled ’
+Multi-Objective Optimization for Engineering Design’
+.
+34. 04 November, 2011: Plenary lecture at the Optimization Seminar organized by Vander-
+platts Inc. in Detroit, USA entitled ‘
+Evolutionary optimization and its scope in practical
+problem solving’
+.
+35. 09 November, 2011: Plenary lecture at Users’group meeting of ModeFrontier at Detroit,
+USA entitled ‘
+Innovization: Revealing innovative design principles through multi-objective
+optimization’
+.
+36. 25 January, 2012: Keynote lecture at Dagstuhl Seminar on “Pratical Multi-objective Op-
+timization” entitled ‘
+Innovization: Learning Problem Knowledge Through Multi-Objective
+Optimization’held at Schloss Dagstuhl, Saarbrucken, Germany.
+37. 26 February, 2012: Guest of Honor Lecture at Central Mechanical and Electrical Re-
+search Institute (CMERI), Durgapur, India on ‘
+An Introduction to Evolutionary Multi-
+objective Optimization’
+.
+38. 17 March, 2012: Keynote lecture at the Students Conference on Engineering and Systems
+(SCES-2012) held at MNNIT, Allahabad, India entitled ‘
+Niches of Evolutionary Optimiza-
+tion in Practice’
+.
+39. 10 July, 2012: Keynote lecture at the 14th IPMU conference (International Conference
+on Information Processing and Management of Uncertainty in Knowledge-Based Systems)
+at Catania, Italy on ‘
+Evolutionary Multi-Objective Optimization’
+.
+40. 29 September, 2012: Keynote lecture at Fourth Symposium on Search Based Software
+Engineering (SSBSE 2012) in Riva del Garda, Italy entitled ‘
+Recent Advancements in Evo-
+lutionary Multi-objective Optimization’
+.
+41. 20 March, 2013: Keynote lecture at Seventh International Conference on Evolutionary
+Multi-Criterion Optimization (EMO-13) held at University of Sheffield, UK entitled ‘
+Many-
+Objective Evolutionary Optimization’
+.
+42. 11 January 2014: Keynote Lecture at University of Pune, India entitled ‘
+Applied opti-
+mization with single and multiple conflicting criteria’
+.
+43. 24 January 2014: Invited Lecture at Computer Science and Information Department,
+University of Michigan, Dearborn entitled ‘
+Evolutionary Multi-Criterion Optimization for
+Engineering Problem Solving’
+.
+44. 11 April 2014: Invited Lecture at University of Memphis Computer Science Colloquium
+entitled ‘
+Innovative Solution Principles Throigh Multi-Objective Optimization’
+.
+
+-----
+Kalyanmoy Deb
+48
+45. 29 May 2014: Keynote Lecture at International Workshop on Optimization in Engineering
+held at Bankura, India entitled ‘
+Role of optimization in engineering problem solving’
+.
+46. 1 July 2014: Keynote Lecture at International Conference on EVOLVE held in Beijing,
+China entitled ‘
+Uncertainty handling using evolutionary multi-objective optimization’
+.
+47. 8 July 2014: Invited Lecture at World Congress on Computational Intelligence (WCCI-
+2014) held at Beijing, China entitled ‘
+EVolutionary Multi-objective optimization: Two
+eventful decades and beyond’
+.
+48. 24 September 2014: Keynote Lecture at Numerical and Evolutionary Optimization (NEO-
+2014) Conference held at Mexico City, Mexico entitled ‘
+How Useful Theoretical Optimality
+Conditions Are in Assessing Numerical and Evolutionary Optimization Algorithms?’
+.
+49. 3 October 2014: Keynote Lecture at INFORMS Southeast Michigan Symposium held at
+Kellogg Center, East Lansing, USA entitled ‘
+Evolutionary multi-criterion optimization and
+decision-making’
+.
+50. 15 October 2014: Keynote Lecture at ‘
+Optimize This!’ – Red Cedar Technology Soft-
+ware User’
+s group meeting to be held at Detroit, USA entitled ‘
+Recent developments in
+evolutionary multi-objective optimization’
+.
+51. 10 December 2014: Keynote Lecture at Third International Conference on the Theory
+and Practice of Natural Computing (TPNC 2014) to be held at Granada, Spain entitled
+‘
+Evolutionary multi-criterion optimization and decision-making’
+.
+52. 12 December 2014: IEEE Distinguished Lecture at IIT Kanpur, India entitled ’
+Evolu-
+tionary multi-criterion optimization: Introduction to Theories and Applications’
+.
+53. 26 February 2015: Keynote Lecture at North American Search Based Software Engi-
+neering Symposium (NasBASE-2015) entitled ‘
+Recent Advancement and Applications of
+Evolutionary Multi-Criterion Optimization in SBSE’
+.
+54. 18 June 2015: Keynote Lecture at EVOLVE Conference at Iasi, Romania entitled ‘
+Evo-
+lutionary Multi-Objective Optimization and Its Applications’
+.
+55. 22 July 2015: Institute Lecture at Indian Institute of Technology Kharagpur, India enti-
+tled ‘
+Evolutionary Optimization for Engineering Problem Solving’
+.
+56. 24 July 2015: Keynote Lecture at 30th National Convention of Production Engineers
+and organised by Tripura State Centre of The Institution of Engineers (India) at National
+Institute of Technology Agartala, India entitled ‘
+Nature’
+s Niche in Applied Problem Solving’
+.
+57. 7 August 2015: Infosys Lecture at Indraprastha Institute of Information Technology
+(IIIT-D), Delhi entitled ‘
+Nature’
+s Niche in Multi-criterion Design and Optimization’
+.
+58. 18 September 2015: Invited Lecture during Big Data Analytics conference entitled ‘
+A
+Dynamic Optimization Framework for Practical Problem Solving’ organized by Quicken
+Loan and Title Source.
+59. 25 September 2015: Ezra Roundtable Systems Engineering Lecture at Cornell Uni-
+versity entitled ‘
+Nature’
+s Niche in Multi-criterion Design and Optimization’
+.
+60. 23 November 2015: IEEE Distinguished Lecture at City University of Hong Kong enti-
+tled ‘
+Recent Advances in Evolutionary Many-Criterion Optimization’
+.
+
+-----
+Kalyanmoy Deb
+49
+61. 24 November 2015: Keynote Lecture at Second International Conference on Soft Comput-
+ing & Machine Intelligence (ISCMI-2015) entitled ‘
+Evolutionary Optimization for Practical
+Problem Solving’
+.
+62. 26 November 2015: IEEE Distinguished Lecture at USTC, Heifei, China entitled ‘
+Ad-
+vances in Evolutionary Multi-Criterion Optimization and Decision-Making’
+.
+63. 4 February 2016: Keynote Lecture at ACALCI, organized by University of New South
+Wales, Canberra, Australia entitled ‘
+A Theoretical Convergence Meaure for Multi-Objective
+Optimization Algorithms’
+.
+64. 23 September, 2016: Keynote Lecture at IEEE International Conference on Research in
+Computational Intelligence and Communication Networks (ICRCICN 2016) to be held at
+Kolkata, India entitled ‘
+Multi-objective optimization for Computational Intelligence’
+.
+65. 26 September, 2016: Institute Lecture at Indian Institute of Technology Guwahati, India
+entitled ‘
+Nature Inspired Methods for Optimization’
+.
+66. 12 October 2016, Keynote lecture at ‘
+Optimize This!’ Heeds Users Conference entitled
+‘
+Visualizing Many-Objective Optimal Solutions for an Informed Decision-Making’
+.
+67. 23 November 2016, IEEE Distinguished Lecture at RMIT, Australia and University
+of Melbourne entitled ‘
+Theoretical Termination Condition for Evolutionary Optimization
+Algorithms for Guaranteed Convergence’
+.
+Invited Tutorials/Workshops on Multi-Objective Optimization (July’98 – Present)
+1. 26 September 1998: Parallel Problem Solving from Nature-98, Amsterdam, The Netherlands
+2. 6 April 1999: International Conference on Artificial Neural Networks and Genetic Algo-
+rithms (ICANNGA-99), Portoroz, Slovenia
+3. 15 April 1999: ACDM/EvoDES Workshop, University of Bath, United Kingdom
+4. 3 May 1999: French JET (Journees Evolutionaires Trimestrielles), University of Paris,
+France
+5. 2 June 1999: EUROGEN Workshop, ‘
+Evolutionary Algorithms for Multi-Criterion Opti-
+mization in Engineering Design’
+, University of Jyv¨
+askyl¨
+a, Finland
+6. 13 July 1999: Workshop at Genetic and Evolutionary Computation Conference (GECCO),
+Omni Rosen Hotel, Orlando, USA
+7. 14 July 1999: ‘
+Messy Genetic Algorithms and Linkage Learning’
+, Genetic and Evolutionary
+Computation Conference, Orlando, USA
+8. 10 April 2001: An invited lecture at the Colliquium organized by the Biology-Inspired
+Computation Group, ETH, Z¨
+urich, Switzerland entitled ‘
+An Introduction on Evolutionary
+Multi-Criterion Optimization’
+.
+9. 27 May 2001: An invited tutorial given at the ‘
+International Conference on Multi-Criterion
+Decision Making’ held in Cairo, Egypt entitled ‘
+An Introduction to Evolutionary Multi-
+Objective Optimization’
+.
+
+-----
+Kalyanmoy Deb
+50
+10. 8 July 2001: An invited tutorial given at the GECCO-2001 Conference held in San Fransisco,
+USA in July 2001 entitled ‘
+Multi-Criterion Optimization’
+.
+11. 10 July 2002: Invited to present a tutorial during CEC-2002 Conference held in Honolulu,
+USA entitled ‘
+Recent Trends in Evolutionary Multi-Criterion Optimization’
+.
+12. 18 November, 2002: Invited to present a tutorial during SEAL-2002 Conference to be held
+in Singapore entitled ‘
+Multi-Criterion Evolutionary Optimization’
+.
+13. 17 August, 2003:
+Invited to present a tutorial during ‘
+Multi-disciplinary International
+Scheduling Conference (MISTA)’under the theme ‘
+Tutorials in Modern Optimization Meth-
+ods’at the University of Nottingham, UK.
+14. 26 June, 2004: Invited to deliver a tutorial on Evolutionary Multi-Objective Optimization
+during Genetic and Evolutionary Computation Conference (GECCO) 2004 conference held
+in Seattle, USA.
+15. 8 November, 2004: A tutorial entitled ‘
+Evolutionary Multi-objective Optimization’at Schloss
+Dagstuhl, Germany.
+16. 7 February 2005: Workshop on ‘
+Evolutionary Optimization Techniques’ at GE’
+s John F.
+Welch Technology Centre, Bangalore.
+17. 10 January, 2006: Tutorial entitled ‘
+An Introduction to Genetic Algorithms’held in Bengal
+Engineering and Science College, Kolkata, India.
+18. 2-15 July, 2006: Tutorial entitled ‘
+Evolutionary Methods to Multi-Criterion Optimization’
+at the 2006 MCDM Summer School held in Kainan University of Taiwan.
+19. 9 July, 2006: Tutorial entitled ’
+Evolutionary Practical Optimization’ at the 2006 Genetic
+and Evolutionary Computation Conference (GECCO-2006) held in Seattle, USA.
+20. 16 July, 2006: Tutorial entitled ’
+Evolutionary Multi-Objective Optimization’at the World
+Congress on Computatinal Intelligence (WCCI-2006) held in Vancouver, Canada.
+21. 18 July, 2006: Organizer of the Panel Discussion on ’
+Evolutionary Multi-Objective Opti-
+mization’held during WCCI Conference in Vancouver, Canada.
+22. 7 July, 2007: Tutorial at GECCO-2007 in University College London entitled ‘
+Evolutionary
+Practical Optimization’
+23. 8 July, 2007: Tutorial at GECCO-2007 in University College London entitled ‘
+Evolutionary
+Multi-Criterion Optimization’(along with Eckart Zitzler)
+24. 20 September, 2007: Tutorial delivered at the Seventh International Conference on Evolv-
+able Systems – From Biology to Hardware (ICES 2007) held in Wuhan, China entitled
+’
+Evolutionary Multi-Objective Optimization (EMO)’
+.
+25. 25 September, 2007: Tutorial delivered entitled ’
+Evolutionary Multi-Criterion Optimiza-
+tion (EMO): Fundamentals, State-of-the-art Methodologies and Future Challenges’during
+Congress on Evolutionary Computation (CEC-2007) in Singapore.
+26. 12 July, 2008: Tutorial delivered at GECCO-2008 in Renaissance Atlanta Hotel, USA,
+entitled ‘
+Evolutionary Multi-Criterion Optimization’(along with Eckart Zitzler).
+27. 13 July, 2008: Tutorial delivered at GECCO-2008 in Renaissance Atlanta Hotel, USA,
+entitled ‘
+Evolutionary Practical Optimization’
+.
+
+-----
+Kalyanmoy Deb
+51
+28. 07 December, 2008: Tutorial delivered at SEAL-2008 Conference in Melbourne, Australia
+entitled ‘
+Evolutionary Multi-Objective Optimization (EMO)’
+.
+29. 18 May, 2009: Tutorial delivered at CEC-2009 Conference in Trondheim, Norway entitled
+’
+Recent Challenges to Evolutionary Multi-Criterion Optimization (EMO)’
+.
+30. 12 June, 2009: Tutorial delivered at ACM SIGEVO sponsored Genetic and Evolutionary
+Computation (GEC-Summit) in Shanghai, China entitled ’
+Evolutionary Multi-Objective
+Optimization: Current Approaches and Future Directions’
+.
+31. 21 June, 2009: Tutorial at Multiple Criterion Decision Making (MCDM) Conference in
+Chengdu, China entitled ’
+Evolutionary Multi-Criterion Optimization and Its Applications’
+.
+32. 14 September, 2009: CSIRO Multiobjective Optimisation Workshop entitled ’
+Introduction
+to Multi-Objective Optimization’ and ’
+Introduction to NSGA-II’ at CSIRO, New Castle,
+Australia.
+33. 8 July, 2010: Tutorial delivered at GECCO-2010 Conference in Portland, USA entitled
+‘
+Evolutionary Multi-Criterion Optimization’
+.
+34. 10 June, 2012: Tutorial delivered at WCCI-2012 conference in Brisbane, Australia entitled
+‘
+Evolutionary Multi-Criterion Optimization’
+.
+35. 20 June, 2013: Tutorial delivered at CEC-13 conference in Cancun, Mexico entitled ‘
+Evolu-
+tionary Multi-Criterion Optimization’
+.
+36. 14 July, 2014: Tutorial delivered at GECCO-2014 conference in Vancouver, Canada entitled
+‘
+Evolutionary Bilevel Optimization’
+.
+37. 20 September 2014: Tutorial delivered at School for Advanced Studies in Automation and
+Control, 20-21 September 2014, Belo Horizonte, Brazil entitled ‘
+Introduction to evolutionary
+optimization’
+.
+38. 20 September 2014: Tutorial delivered at School for Advanced Studies in Automation and
+Control, 20-21 September 2014, Belo Horizonte, Brazil entitled ‘
+Evolutionary Optimization
+for Multi-Objective Optimization and Knowledge Creation’
+.
+39. 25 May, 2015: Tutorial delivered at Congress on Evolutionary Computation (CEC-2015) at
+Sendai, Japan entitled ‘
+Evolutionary Bilevel Optimization’
+.
+Invited Talks on Genetic and Evolutionary Algorithms (Since Jan’98)
+1. 12 January 1998: ‘
+An Introduction to Genetic Algorithms’
+, International Workshop on Soft
+Computing and Intelligent Systems, Indian Statistical Institute, Calcutta, India
+2. 4 May 1998: ‘
+An Introduction to Genetic Algorithms’
+, National Remote Sensing Agency,
+Hyderabad, India
+3. 15 July 1998: ‘
+An Introduction to Genetic Algorithms’
+, University of Braga, Portugal
+4. 15 July 1998:
+‘
+Multi-Objective Optimization Using Genetic Algorithms’
+, University of
+Braga, Portugal
+5. 16 July 1998: ‘
+Messy Genetic Algorithms: An Introduction’
+, University of Braga, Portugal
+
+-----
+Kalyanmoy Deb
+52
+6. 17 July 1998: ‘
+An Introduction to Genetic Algorithms’
+, University of Porto, Portugal
+7. 20 July 1998: ‘
+An Introduction to Multi-Objective Optimization Using Genetic Algorithms’
+,
+University of Coimbra, Portugal
+8. 26 October 1998: ‘
+Real-parameter Genetic Algorithms Using Simulated Binary Crossover’
+,
+University of Dortmund, Germany
+9. 28 October 1998: ‘
+An Overview of Genetic Algorithms’
+, Swiss Federal Institute of Technol-
+ogy, ETH, Z¨
+urich, Switzerland
+10. 12 November 1998: ‘
+Genetic Algorithms in Engineering Design’
+, University of Mainz, Ger-
+many
+11. 20 November 1998: ‘
+Real-Parameter Genetic Algorithms with Simulated Binary Crossover’
+,
+Technical University of Berlin, Germany
+12. 1 December 1998: ‘
+Multi-Objective Genetic Algorithms with Non-Dominated Sorting’
+, Cen-
+trum voor Wiskunde en Informatica (CWI), Amsterdam, The Netherlands
+13. 17 March 1999: ‘
+Real-parameter Genetic Algorithms for Engineering Design’
+, GMD, St.
+Augustin, Bonn, Germany
+14. 8 April 1999: ‘
+Multi-Objective Genetic Algorithms’
+, University of Ljubljana, Slovenia
+15. 9 April 1999: ‘
+Introduction to Genetic Algorithms and Multi-Objective Optimization’
+, Uni-
+versity of Trieste, Italy
+16. 16 April 1999: ‘
+Self-Adaptation in Real-Parameter Genetic Algorithms’
+, Plymouth Engi-
+neering Design Centre, University of Plymouth, United Kingdom
+17. 3 May 1999: ‘
+An Overview of Multi-Objective Genetic Algorithms’
+, University of Paris,
+France
+18. 22 May 1999: ‘
+Multi-Criterion Optimization Using Evolutionary Algorithms’
+, University of
+Karlsruhe, Germany
+19. 31 May 1999: ‘
+Real-Parameter Genetic Algorithms in Engineering Design’
+, EUROGEN-99,
+University of Jyv¨
+askyl¨
+a, Finland
+20. 9 July 1999: ‘
+An Introduction to Multi-Objective Evolutionary Algorithms’
+, Department of
+Computer Science, University of Missouri at St. Louis, USA
+21. 12 July 1999: ‘
+Multi-Objective Genetic Algorithms’
+, Air Force Institute of Technology,
+Wright-Patterson Research Laboratory, Ohio, USA
+22. 16 February 2000: ‘
+Real-Coded Genetic Algorithms’
+, Dagstuhl Seminar, at Schloss Dagstuhl,
+Saarbr¨
+ucken, Germany.
+23. 22 September 2000: ‘
+An Introduction to Genetic Algorithms’
+, ABB Heidelberg, Germany.
+24. 9 December 2000: ‘
+Non-dominated Sorting Genetic Algorithms for Multi-Objective Opti-
+mization’
+, Tenth NASAS Conference, IIT Kanpur.
+25. 6 July 2001: ‘
+Evolutionary Multi-Objective Optimization’ at National Institute for Stan-
+dards and Technology (NIST), Gaithersburg, USA.
+
+-----
+Kalyanmoy Deb
+53
+26. 14 January 2002:
+‘
+Test Problem Design for Multi-Objective Evolutionary Algorithms’
+,
+Dagstuhl Seminar, at Schloss Dagstuhl, Saarbr¨
+ucken, Germany.
+27. 25 February 2002: Invited to present a lecture on ‘
+An Introduction to Evolutionary Multi-
+Criterion Optimization’at Vikram Sarabhai Space Research Centre, Trivandram, India.
+28. 17 June, 2002: ‘
+An Introducton to Multi-objective Evolutionary Algorithms’ at Univesity
+of Essex, UK.
+29. 21 June, 2002: ‘
+Real-Parameter Genetic Algorithms’at University of Birmingham, UK.
+30. 24 June, 2002: ‘
+An Introduction to Multi-Objective Evolutionary Algorithms’at the Uni-
+versity of West of England, UK.
+31. 21 November, 2002: ‘
+Evolutionary Multi-Objective Optimization’delivered at National Uni-
+versity of Singapore (NUS).
+32. 4 December, 2002: ‘
+Evolutionary Algorithms Pattern Recognition and Image Proceesing’
+,
+CIMPA (International Center for Pure and Applied Mathematics, France) School on Soft
+computing approach to pattern recognition and image processing at Indian Statistical In-
+stitute, Kolkata, India.
+33. 14 January, 2003: ‘
+Evolutionary Multi-Objective Optimization’ at Osaka Prefecture Uni-
+versity, Japan.
+34. 24 June, 2004: ‘
+Advances on Evolutionary Multi-Objective Optimization’ at Nang Yang
+Technological University (NTU) in Singapore.
+35. 6 August, 2004: ‘
+Single and Multi-Objective Evolutionary Optimization’ at Simon Fraser
+University, Surrey Campus in Vancouver, Canada.
+36. 17 May, 2005: ‘
+Single and Multi-Objective Evolutionary Optimization for Engineering Prob-
+lem Solving’at University of Pavia, Italy.
+37. 18 May, 2005: ‘
+Evolutionary Multi-Objective Optimization: A Decade of Research and
+Applications’at University of Pavia, Italy.
+38. 27 July, 2005: ‘
+Innovization: Innovative Designs Through Optimization’ at University of
+Algarve, Portugal.
+39. 5 September, 2005: ‘
+Innovization: Innovating Design Principles Through Optimization’at
+University of Aalborg, Denmark.
+40. 3 October, 2005: ‘
+Optimization: A Indespensible Companion to Engineers and Scientists’
+,
+N. Rama Rao Distinguished Lecture at CSE, IIT Kanpur.
+41. 13 December, 2005: ‘
+Multi-Objective Optimization Using Evolutionary Methods’at Post-
+SAROD Coference in IISc, Bangalore.
+42. 9 January, 2006: ‘
+Practical Methods of Optimization’at Tata Steel, Jamshedpur, India.
+43. 7 February, 2006: ‘
+Functional Decomposition of NSGA-II for Various Problem Solving
+Tasks’
+, Schloss Dagstuhl, Germany.
+44. 11 February, 2006: ‘
+Hans-Paul, Predator-Prey and Multi-Objective Optimization’
+, Collo-
+quium at University of Dortmund, Germany.
+
+-----
+Kalyanmoy Deb
+54
+45. 14 February, 2006: ‘
+Practical Optimization Using Evolutionary Optimization’
+, General Mo-
+tors, Warren, USA.
+46. 15 February, 2006: ‘
+Discovering Important Design Principles Using Multi-Objective Opti-
+mization’
+, Clemson University, USA.
+47. 28 February, 2006: ‘
+Evolutionary Optimization for Problem Solving and Knowledge Discov-
+ery’
+, CNR Rao Distinguished Lecture, IIT Kanpur.
+48. 24 May, 2006: ’
+Unveiling Innovative Design Principles Using Multi-Objective Optimiza-
+tion’
+, Department of Electrical and Computer Engineering, National University of Singapore
+(NUS).
+49. 8 June, 2006: ’
+Innovization: Innovating Design Principles Through Optimization’
+, School of
+Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore.
+50. 4 August, 2006: Invited lecture entitled ’
+Evolutionary Practical Optimization’during Altair
+CAE User’
+s Conference held in Bangalore.
+51. 6 January, 2007: ’
+Non-linear Multi-Objective Optimization using Evolutionary Algorithms’
+,
+IIT Kharagpur during ORSI Convention.
+52. 8 February, 2007: ’
+Optimization Research at IIT Kanpur’
+, during Indo-US Workshop on
+Computational Optimization and Analysis of Systems (COSA-2007)’at IIT Kanpur.
+53. 06 July 2007: ’
+Innovization: Unveiling Design Principles Using Optimization’ at the De-
+partment of Mechanical Enginerring, Helsinki University of Technology, Espoo, Finland.
+54. 06 September 2007: ’
+Evolutionary Practical Optimization’ at the Systems Analysis Labo-
+ratory, Helsinki University of Technology, Espoo, Finland.
+55. 14 September 2007: ’
+Introduction to Evolutionary Optimization’at Department of Business
+Technology, Helsinki School of Economics.
+56. 18 September 2007: ’
+Introduction to Evolutionary Optimization’ at the Department of
+Mathematical Information Technology, University of Jyvskyl
+57. 24 October 2007: ’
+Evolutionary Optimization for Practical Problem Solving’ at Nokia,
+Espoo, Finland.
+58. 8 November 2007: ’
+Evolutionary Optimization for Practical Problem Solving’ at the De-
+partment of Physics, University of Kuopio
+59. 22 November 2007: ’
+Evolutionary Optimization: Introduction and Applications’ at the
+Department of Mechanical Engineerng, University of Turku
+60. 05 December, 2007: ’
+Evolutionary Computing for Applied Single and Multi-Criterion Op-
+timization’– an invited lecture at University of Skovde, Sweden
+61. 31 January 2008: ’
+Evolutionary computation for applied single and multi-criterion opti-
+mization’at University of Nantes, France.
+62. 10-12 February 2008: Short course on ’
+Evolutionary Computation’ delivered for PhD stu-
+dents at University of Carlos III, Madrid, Spain.
+63. 12 March 2008: ’
+Higher Education in India’at the Doctoral Studies Centre, Helsinki School
+of Economics, Finland.
+
+-----
+Kalyanmoy Deb
+55
+64. 19 March 2008: ’
+Practical Optimization Using Evolutionary Methods’ at KONE, Espoo,
+Finland.
+65. 28 March 2008: ’
+Innovization: Innovation through Multi-Criterion Optimization’ at the
+Department of Mathematical Information Technology, University of Jyvskyl
+66. 4 April 2008: ’
+Evolutionary Practical Optimization’at the Ship Laboratory, Helsinki Uni-
+versity of Technology, Espoo, Finland
+67. 9-11 April 2008: Master’
+s Course on ’
+Evolutionary Computation’delivered at University of
+Pavia, Italy.
+68. 07 May 2008: ’
+Computational Optimization for Innovative Knowledge Discovery’at MASI
+Technology programme, Finnish Funding Agency for Technology and Innovation (TEKES),
+Finland
+69. 22 May 2008: ’
+Knowledge Discovery Through Multi-Criterion Optimization’
+, Invited Boat
+Seminar organized by Helsinki School of Economics
+Invited talks after 22 May 2008 are not updated.
+
+-----

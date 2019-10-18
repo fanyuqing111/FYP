@@ -1,0 +1,49 @@
+Abstract 
+ 
+In air-conditioned buildings, the problem of minimizing energy consumptions while maintaining 
+occupants' comfort levels is of significant topical interest in reducing energy wastage. The solutions to the 
+problem could benefit from the use of occupant sensing, which leverages sensors to obtain valuable and 
+relevant occupant information. For example, the number of occupants and their behaviors can be 
+recognized based on sensor data by using machine learning algorithms. In this dissertation, we studied 
+the problem of occupant sensing by considering two important aspects: occupancy prediction and 
+behavior recognition. 
+Existing methods for occupant sensing is to extract features that are fed into the classifiers training 
+processes. In general, basic feature extraction methods are based on the simple statistics of the signals, 
+both from time and frequency domains. However, the features that lead to satisfactory results require 
+certain tricks or skills in designing them. Existing literature has emphasized on well-designed features to 
+enhance the performance of the recognition system in distinguishing different classes from the varied 
+occupants' information. But empirically extracted features normally rely too much on the expert 
+knowledge. Consequently, there is a lack of guidelines in feature extraction and it is hard to ameliorate 
+the classification performances to some extent. 
+In this thesis, we proposed four feature representation learning frameworks to solve the occupant sensing 
+problem in terms of occupancy prediction and activity recognition. We studied the feature learning 
+algorithms that allow them to find better representations automatically with minimal domain knowledge 
+in occupant sensing area. For occupancy prediction perspective, we proposed a neural network 
+framework with convolutional calculations on the environmental data, especially for CO2 information. 
+Furthermore, when the time domain data is combined with frequency domain one, it can provide much 
+valuable information in the feature extraction process to improve the classification performance. From 
+the occupancy behavior recognition perspective, we proposed frameworks of deep learning approach, 
+dictionary learning method, as well as feature learning with local receptive fields based on neural 
+networks. We showed that unlabeled data combined with labeled data can indeed further enrich the 
+feature learning in a semi-supervised scheme. We firstly proposed a temporal ensemble deep 
+Bidirectional Long Short-Term Memory method for simple activity recognition based on Inertial 
+Measurement Unit. The proposed approach could leverage unlabeled data to enhance the performance, 
+thereby removing the burden of intensive labor in annotations. Besides, we also proposed a feature 
+extraction framework using a dictionary learning method for the classification of occupants' activities. We 
+also proposed a feature extraction framework for energy-related activities based on the audio information. 
+With learning in the spectrogram using local receptive fields, the features learned from the neural 
+networks are capable of capturing the scale invariance and local patterns in the sound signals. 
+The proposed frameworks have been evaluated in conducted real experiments. We expect that, through 
+our results, the performances of occupancy behavior recognition system could be improved based on 
+learned features when comparing to engineered features. Features are learned or extracted to offer 
+solutions to the occupant sensing problem. While the results of the-state-of-art are satisfactory, our 
+feature learning methods can further explore the distinguishable patterns automatically because they 
+could learn the valuable information from historical data based on the statistics. The sensing solutions are 
+
+-----
+also non-intrusive to occupants while obtaining accurate active status of them. By accurately mining the 
+information of occupants, ranging from general and coarse to individual and fine information, we can use 
+this information to design proper control and strategy decisions to save building energy consumption 
+while ensuring that the occupants indoor have a comfortable environment. 
+
+-----

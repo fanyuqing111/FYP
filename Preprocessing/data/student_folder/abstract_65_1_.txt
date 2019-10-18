@@ -1,0 +1,69 @@
+Abstract 
+ 
+This thesis is a reconciliation between multiple bodies of work with one 
+common objective which is to “identify the support” under unfavourable environment 
+with main focus on DOA estimation and EIT application. The term “support” is 
+commonly used in the compressed sensing and sparse signal recovery communities 
+which essentially means the “active parameters” in a system of linear equations. It 
+is important to note that a technique that is used to identify a set of active support 
+under unfavourable environment should have a robust characteristic. Although with 
+one common theme shared among the works done within this thesis, this thesis can 
+be divided into two major parts based on the applications’ environment. 
+ 
+ 
+The first part is the support identification under a process expressible by 
+Fredholm integral equation of the first kind. For this problem, a research topic which 
+is known as “Electrical impedance tomography (EIT),” is chosen as a representative 
+application for a collection of problems expressible by the Fredholm integral equation 
+of the first kind. The Physics of EIT can be explained by Maxwell's equations under 
+Quasi-Static environment. Under such a scenario, the energy dissipated from the 
+source is spread throughout the region (domain) in a non-linear fashion, which leads 
+to low signal-to-noise-ratio (SNR) and support ambiguity issues. Multiple real-life 
+applications fall under this type of problem such as medical and geophysical 
+subsurface imaging, deconvolution, and image deblurring.  
+ 
+The EIT is an imaging technique which estimates internal impedance distribution of 
+a “subject under test (SUT)” that sometimes called “medium” based on data collected 
+from the medium's boundary. The “tomographic reconstruction” or “the process of 
+estimating the medium's internal impedance distribution" can be accomplished 
+through solving a mathematical problem known as an “inverse problem.” Due to 
+Quasi-Static nature of this modality, the image reconstruction of the EIT is known 
+to be one of the most severely ill-posed inverse problems. The image reconstruction 
+problem in EIT will be analyzed from two different perspectives. Firstly, this problem 
+will be analyzed through the lens of a discrete ill-posed inverse problem from an 
+applied Mathematics community perspective. Secondly, this problem will be re-
+analyzed through the lens of array signal processing/beamforming framework from 
+the signal processing community perspective. While exploring the EIT image 
+reconstruction techniques, we also observed that although the EIT system can be 
+implemented economically, the implementation process is not completely 
+straightforward. Therefore, we had also implemented an EIT prototyping system to 
+experiment with different data format. A robust, economical, and uncomplicated 
+implementation framework was developed with the hope that it will be beneficial for 
+those who are interested in image reconstruction task without the access to a full 
+functioning commercialized EIT system.   
+ 
+ 
+ 
+The second part is the support identification under α-stable distributed 
+noise, which is not uncommon in the real-life scenario. In this case, the additive 
+noise is a cause of the issue as opposed to the previous case where the environment 
+itself is the issue. Additionally, several improvements of a beamforming technique 
+called MUSIC-like algorithm will be explored under both Gaussian and α-stable 
+distributed noise. The signal model used in this part is based on the solution of a 
+wave function impinging on sensor array located at different locations. The main 
+focus of this part is performance improvement of the beamforming framework for 
+DOA estimation under different noise scenarios. Three different approaches for 
+estimating a relaxation parameter (an essential parameter used in the MUSIC-like 
+
+-----
+algorithm) are presented. By experimenting with different approaches, an adaptive 
+framework for relaxation parameter was observed to have potential for further 
+investigation. Hence, the performance improvement of the MUSIC-like algorithm was 
+further explored through the directional adaptive framework under both Gaussian 
+and α-stable distributed noise. It was also compared with the conventional MUSIC 
+algorithm coupled pre-conditioned covariance matrix.  
+ 
+ 
+ 
+
+-----

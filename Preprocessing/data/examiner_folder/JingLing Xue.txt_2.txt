@@ -1,0 +1,132 @@
+Jingling Xue
+Professor, School of Computer Science and
+Engineering, UNSW Australia
+Programming Languages, Compilers,
+Program Analysis, Parallel Computing,
+Embedded Systems
+Google Scholar
+Citation indices
+All
+Since 2012
+Citations
+2912
+1716
+h-index
+26
+21
+i10-index
+79
+55
+Title
+1–20
+Cited by
+Year
+Loop tiling for parallelism
+J Xue
+Kluwer Academic Publishers
+198
+2000
+Data cache locking for higher program predictability
+X Vera, B Lisper, J Xue
+ACM SIGMETRICS Performance Evaluation Review 31 (1), 272-282
+153
+2003
+Memory coloring: A compiler approach for scratchpad memory management
+L Li, L Gao, J Xue
+Parallel Architectures and Compilation Techniques, 2005. PACT 2005. 14th ...
+111
+2005
+Communication-minimal tiling of uniform dependence loops
+J Xue
+Journal of Parallel and Distributed Computing 42 (1), 42--59
+92
+1997
+Data caches in multitasking hard real-time systems
+X Vera, B Lisper, J Xue
+Real-Time Systems Symposium, 2003. RTSS 2003. 24th IEEE, 154-165
+89
+2003
+On tiling as a loop transformation
+J Xue
+Parallel Processing Letters 7 (04), 409-424
+85
+1997
+Level by level: making flow-and context-sensitive pointer analysis scalable for
+millions of lines of code
+H Yu, J Xue, W Huo, X Feng, Z Zhang
+Proceedings of the 8th annual IEEE/ACM international symposium on Code ...
+83
+2010
+Let's study whole-program cache behaviour analytically
+X Vera, J Xue
+High-Performance Computer Architecture, 2002. Proceedings. Eighth ...
+82
+2002
+An intra-chip free-space optical interconnect
+J Xue, A Garg, B Ciftcioglu, J Hu, S Wang, I Savidis, M Jain, R Berman, ...
+ACM SIGARCH Computer Architecture News 38 (3), 94-105
+73
+2010
+Automating non-unimodular loop transformations for massive parallelism
+J Xue
+Parallel Computing 20 (5), 711-728
+66
+1994
+The reliability wall for exascale supercomputing
+X Yang, Z Wang, J Xue, Y Zhou
+IEEE Transactions on Computers 61 (6), 767-779
+64
+2012
+Data cache locking for tight timing calculations
+*
+*
+
+-----
+X Vera, B Lisper, J Xue
+ACM Transactions on Embedded Computing Systems (TECS) 7 (1), 4
+57
+2007
+Static memory leak detection using full-sparse value-flow analysis
+Y Sui, D Ye, J Xue
+Proceedings of the 2012 International Symposium on Software Testing and ...
+56
+2012
+ACCULOCK: Accurate and Efficient Detection of Data Races
+X Xie, J Xue
+9th Annual IEEE/ACM International Symposium on Code Generation and ...
+47
+2011
+On-demand dynamic summary-based points-to analysis
+L Shang, X Xie, J Xue
+Proceedings of the Tenth International Symposium on Code Generation and ...
+45
+2012
+Optimal and efficient speculation-based partial redundancy elimination
+Q Cai, J Xue
+Code Generation and Optimization, 2003. CGO 2003. International Symposium on ...
+43
+2003
+Compiler-directed scratchpad memory management via graph coloring
+L Li, H Feng, J Xue
+ACM Transactions on Architecture and Code Optimization (TACO) 6 (3), 9
+40
+2009
+Reuse-driven tiling for improving data locality
+J Xue, CH Huang
+International Journal of Parallel Programming 26 (6), 671-696
+40
+1998
+Efficient and accurate analytical modeling of whole-program data cache
+behavior
+J Xue, X Vera
+IEEE Transactions on Computers 53 (5), 547-566
+39
+2004
+An incremental points-to analysis with CFL-reachability
+Y Lu, L Shang, X Xie, J Xue
+International Conference on Compiler Construction, 61-81
+33
+2013
+Dates and citation counts are estimated and are determined automatically by a computer program.
+
+-----

@@ -1,0 +1,81 @@
+Near-IR and Mid-IR (1.55 μm – 2 μm) Silicon Photonics 
+Devices on Silicon-on-Insulator (SOI) Platform 
+Abstract 
+In the last several decades, there has been considerable research interest in silicon 
+photonics based on silicon-on-insulator (SOI) platform. Many useful applications 
+have been developed in the near-infrared (NIR) data- and tele- communication band 
+(1.3-1.6 µ
+m), such as sensors, switches, modulators, and various passive devices. 
+Furthermore, the mid-infrared (MIR, 2-15 μm) band is also very crucial as many 
+gases and molecules have unique absorption fingerprints in this regime. Hence there is 
+enormous interest in practical realization of passive and optoelectronic devices 
+operating in the MIR range, including optical sensing and environmental monitoring, 
+free-space communications, bio-medical and thermal imaging. Besides, 2 µ
+m 
+wavelength is a promising solution to extend the operating wavelength of 
+communication system to short MIR wavelengths. The objective of this project is to 
+develop SOI platform-based on-chip photonic devices including passive devices, 
+sensors and optical modulators operating in the NIR and MIR bands.  
+In order to build various photonic systems, several key on-chip fundamental passive 
+components operating at 2 µ
+m wavelength are developed and analyzed at the 
+beginning of this project. These fundamental building blocks include waveguides, 
+grating couplers, and microresonators. These components are successfully fabricated 
+with good performance. For example, the grating coupler operating at 2 µ
+m 
+
+-----
+wavelength was firstly fabricated and experimentally measured as 6.5 dB, which is 
+comparable to the widely used grating couplers operating at 1.55 µ
+m communication 
+band. The extinction ratio (ER) and the quality factor (Q factor) of the compact 
+microring resonator (radius = 10 µ
+m) integrated with above grating couplers were 
+firstly measured as 12 dB and 11200 respectively. 
+As a practical method to improve the performance of sensors and modulators, Fano 
+devices with a sharp asymmetric transmission lineshape and electromagnetically 
+induced transparency (EIT) devices with time delay at the narrow optical transparency 
+peak residing in a broader transmission absorption valley are designed, fabricated and 
+characterized. In this work, an EIT transmission lineshape was experimentally 
+generated with an all-pass microring-Bragg grating coupled resonant system for the 
+first time. Based on the same system, the conversion between EIT and Fano 
+transmissions was experimentally verified and the inner mechanism was discussed in 
+detail. Subsequently, tunable and convertible EIT and Fano transmissions were 
+experimentally 
+realized 
+in 
+a 
+Mach–Zehnder 
+interferometer 
+(MZI)-assisted 
+microring-Bragg grating based coupling resonant system, which is believed to be the 
+first report of its kind. 
+Optical filters are also vital for modulators. For the dual-band optical filter (DBOF), 
+since it can double the available modulating channels, it is also an effective solution 
+to improve the efficiency of signal processing. In this work, two types of DBOFs 
+based on partial-reflective-element-embedded microring resonators were theoretically 
+and experimentally demonstrated for the first time. As measured, the separation 
+
+-----
+between two resonance dips and the insertion loss are 0.5 nm and <0.5 dB 
+respectively. The Q factors of the two dips achieve 30900 and 34400 respectively. The 
+performance is comparable to the up-to-date reported works. 
+By utilizing the fundamental building blocks and taking the advantages of suspended 
+structure, the bio-chemical sensor operating at 2 μm wavelength based on a suspended 
+microracetrack resonator with sub-wavelength-grating (SWG) lateral metamaterial 
+cladding is designed, fabricated and characterized for the first time. The expected 
+sensitivities of the fundamental TE and the fundamental TM mode were calculated as 
+203 nm/RIU and 592.5 nm/RIU respectively. This is believed to be the first 
+demonstration of on-chip photonic bio-chemical sensor operating at 2 μm wavelength 
+with sensitivities comparable to the latest reported results at 1.55 μm wavelength. 
+With additional implantation and electrode fabrication processes, thermal-optical (TO) 
+and electro-optical (EO) modulators operating at 2 μm wavelength were also 
+experimentally demonstrated for the first time in this work. The DC shifting rate and 
+the 3 dB bandwidth of the TO modulator are measured as 0.05 nm/V and ~30.8 KHz 
+respectively. The 3 dB bandwidth of the EO modulator is measured as ~5GHz. 
+Although the preliminary performance of these modulators is not as good as the latest 
+reported modulators operating in the NIR communication band, they pave the way for 
+extending the operating wavelength of communication system to short MIR 
+wavelengths. 
+
+-----

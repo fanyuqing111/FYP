@@ -1,0 +1,37 @@
+Abstract 
+Conventional Fast Fourier Transform (FFT) using Radix-22 brought a significant 
+improvement in FFT implementation to reduce circuit complexity and computational power. The 
+most famous architecture in Radix-22 is Single-path Delay Feedback (SDF) which requires the 
+smallest amount of memory however, low throughput due to single data line is its major drawback. 
+In the first part of this thesis, a Radix-22 Multiple-path Delay Commutator (MDC) architecture is 
+proposed to achieve higher throughput and reduce energy per conversion. In addition, a new input 
+scheduling algorithm, parallel-pipelined architecture together with ultra-low power circuit design 
+techniques are employed to increase the speed and minimize the total power consumption.  A 
+1024-point high speed, ultra-low power Fast Fourier Transform (FFT) was fabricated using STM 
+65nm technology. The chip consumes 76.8 nJ/FFT with clock frequency of 400 MHz at 0.6V 
+supply and it is able to operate up to 600MHz at VDD=1V yielding 1.2 Gsample/s. 
+ 
+Apart from the FFT design, an ultra-low power hand gesture recognition processor is 
+designed and implemented in this research. In the past, many hand gesture recognition systems 
+have been invented both for research interest and market demand. These systems require a great 
+amount of power because of using active devices such as active IR sensor, RF sensor or Ultrasonic 
+sensor which are not suitable for low power and portable applications. In our research, passive 
+infrared (PIR) sensor is proposed to avoid high power demand. New algorithms for gesture 
+recognitions including sweeping, zooming and wake-up gesture detection is also presented and 
+verified with real time input from a customized analog front end as well as recorded input from a 
+Heiman sensor. To further reduce power consumption, the algorithm is able to put the system into 
+standby mode which operates at lower frequencies. Upon sensing a wake up gesture, active mode 
+
+-----
+will be triggered to recover full operation. The completed hand gesture recognition SoC which 
+includes analog front end to process readings from IR sensor array together with two digital signal 
+processors was fabricated in TSMC 65nm. The whole chip occupies an area of 8.1 mm2 in which 
+the 16×4 input array DSP takes 580×300 µm and the 16×16 input version uses 580×300 µm. Test 
+chips demonstrate successfully gesture detections for 8 sweeping directions, zooming action and 
+a wake-up gesture. In active mode, the total power consumption of the SoC is 260 µW and it is 46 
+µW in idle mode. The DSP consumes 28.6 µW for detecting 16×4 input and 66.8 µW for 16×16 
+input. Power and area specifications of the proposed SoC is suitable for mobile and smart device 
+applications. 
+ 
+
+-----

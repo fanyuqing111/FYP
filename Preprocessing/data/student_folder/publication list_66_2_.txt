@@ -1,0 +1,150 @@
+ Publication 
+06/2015− 12 Journals + 14 Conferences   
+ 
+Peer-Reviewed Journal Papers (First Author) 
+ 
+1   J. Fang, H. Li, Y. Tang, and F. Blaabjerg, “Distributed power system virtual inertia 
+implemented by grid-connected power converters,” IEEE Trans. Power Electron., in 
+press. 
+ 
+2   J. Fang, X. Li, H. Li, and Y. Tang, “Stability improvement for three-phase grid-
+connected converters through impedance reshaping in quadrature-axis,” IEEE Trans. 
+Power Electron., in press. 
+ 
+3   J. Fang, Y. Tang, H. Li, and X. Li, “A battery/ultracapacitor hybrid energy storage 
+system for implementing the power management of virtual synchronous 
+generators,” IEEE Trans. Power Electron., vol. 33, no. 4, pp. 2820−2824, Apr. 2018. 
+ 
+4   J. Fang, X. Li, X. Yang, and Y. Tang, “An integrated trap−LCL filter with reduced 
+current harmonics for grid-connected converters under weak grid conditions,” IEEE 
+Trans. Power Electron., vol. 32, no. 11, pp. 8446–8457, Nov. 2017. 
+ 
+5   J. Fang, X. Yang, L. Zhang, and Y. Tang, “An optimal digital pulse-width-modulated 
+dither technique to enhance the resolution of high frequency power converters,” 
+IEEE Trans. Power Electron., vol. 32, no. 9, pp. 7222–7232, Sep. 2017. 
+ 
+6   J. Fang, H. Li, and Y. Tang, “A magnetic integrated LLCL filter for grid-connected 
+voltage-source converters,” IEEE Trans. Power Electron., vol. 32, no. 3, pp. 1725–
+1730, Mar. 2017. 
+ 
+7   J. Fang, G. Xiao, X. Yang, and Y. Tang, “Parameter design of a novel series-parallel-
+resonant LCL filter for single-phase half-bridge active power filters,” IEEE Trans. 
+Power Electron., vol. 32, no. 1, pp. 200–217, Jan. 2017. 
+ 
+ 
+ 
+Peer-Reviewed Journal Papers (Co-Author) 
+ 
+ 
+ 
+8   H. Li, K. Wang, J. Fang, and Y. Tang, “Pulse density modulated ZVS full-bridge 
+converters for wireless power transfer systems,” IEEE Trans. Power Electron., in 
+press. 
+ 
+9   H. Li, J. Fang, S. Chen, K. Wang, and Y. Tang, “Pulse density modulation for 
+maximum efficiency point tracking of wireless power transfer systems,” IEEE Trans. 
+Power Electron., in press. 
+ 
+10   X. Li, J. Fang, P. Lin, and Y. Tang, “Active magnetic decoupling for improving the 
+performance of integrated LCL-filters in grid-connected converters,” IEEE Trans. Ind. 
+Electron., in press. 
+ 
+11   X. Li, J. Fang, Y. Tang, and X. Wu, “Robust design of LCL filters for single-current-
+loop controlled grid-connected power converters with unit PCC voltage 
+feedforward,” IEEE J. Emerg. Sel. Topics Power Electron., in press. 
+ 
+12   X. Li, J. Fang, Y. Tang, X. Wu, and Y. Geng, “Capacitor-voltage feedforward with 
+full delay compensation to improve weak grids adaptability of LCL-filtered grid-
+connected converters for distributed generation systems,” IEEE Trans. Power 
+Electron., vol. 33, no. 1, pp. 749–764, Jan. 2018. 
+ 
+ 
+ 
+Peer-Reviewed Conference Papers (First Author) 
+ 
+ 
+ 
+1   J. Fang, X. Li, Y. Tang, and H. Li, "Design of virtual synchronous generators with 
+enhanced frequency regulation and reduced voltage distortions", in Proc. IEEE APEC, 
+accepted, San Antonio, TEXAS, USA, 4–8 Mar. 2018. 
+ 
+2   J. Fang, X. Li, Y. Tang, and H. Li, "Power management of virtual synchronous 
+generators through using hybrid energy storage systems", in Proc. IEEE APEC, 
+accepted, San Antonio, TEXAS, USA, 4–8 Mar. 2018. 
+ 
+3   J. Fang, X. Li, Y. Tang, and H. Li, “Improvement of frequency stability in power 
+electronics-based power systems,” in Proc. ACEPT, pp. 1–6, Singapore, 24–26 Oct. 
+2017. (Best Paper Award). 
+
+-----
+ 
+4   J. Fang, X. Li, and Y. Tang, “Grid-connected power converters with distributed 
+virtual power system inertia,” in Proc. IEEE Energy ECCE, pp. 4267–4273, Cincinnati, 
+USA, 1–5 Oct. 2017. 
+ 
+5   J. Fang, X. Li, and Y. Tang, "A novel LCL-filtered single-phase half-bridge distributed 
+static compensator with DC-link filter capacitors and reduced passive component 
+parameters", in Proc. IEEE APEC, pp. 3279–3285, Tampa, Florida, USA, 26–30 Mar. 
+2017. 
+ 
+6   J. Fang, X. Li, and Y. Tang, “A review of passive power filters for voltage-source 
+converters,” in Proc. ACEPT, pp. 1–6, Singapore, 25–27 Oct. 2016. 
+ 
+7   J. Fang, L. Zhang, Y. Tang, and X. Yang, “An optimal digital pulse-width-modulated 
+dither technique to enhance the resolution of wide bandgap device-based high 
+frequency power converters,” in Proc. IPEMC 2016 – ECCE Asia, pp. 589–596, Hefei, 
+China, 22–25 May 2016. 
+ 
+8   J. Fang, G. Xiao, and Y. Zhang, “An LCCL filter and its application to a half-bridge 
+APF,” in Proc. ICPE 2015 – ECCE Asia, pp. 2566–2573, Seoul, Korea, 1–5 Jun. 2015. 
+ 
+ 
+ 
+Peer-Reviewed Conference Papers (Co-Author) 
+ 
+ 
+ 
+9   H. Li, J. Fang, and Y. Tang, “Delta-sigma modulation for maximum efficiency point 
+tracking of wireless power transfer systems,” in Proc. IFEEC 2017 – ECCE Asia, pp. 
+434–437, Kaohsiung, Taiwan, 3–7 Jun. 2017. 
+ 
+10   X. Li, J. Fang, Y. Tang, and X. Wu, “Robust LCL filter design for grid-side current 
+single-loop controlled grid-connected converters under weak power grids,” in Proc. 
+IFEEC 2017 – ECCE Asia, pp. 477–482, Kaohsiung, Taiwan, 3–7 Jun. 2017. 
+ 
+11   Y. Qi, J. Fang, and Y. Tang, “Frequency-dependent droop control for distributed 
+generation in microgrids,” in Proc PCIM Asia 2017, pp. 1–7, Shanghai, China, 27–29 
+Jun. 2017. 
+ 
+12   X. Li, J. Fang, P. Lin, and Y. Tang, “A common magnetic integration method for 
+single-phase LCL filters and LLCL filters,” in Proc. IEEE ECCE, pp. 5595–5600, 
+Cincinnati, USA, 1–5 Oct. 2017. 
+ 
+13   X. Li, J. Fang, Y. Tang, Y. Geng, and X. Wu, "Improving weak grids adaptability of 
+LCL-filtered grid-connected converters with delay-compensated capacitor-voltage 
+feedforward control", in Proc. IEEE APEC, pp. 2618–2624, Tampa, Florida, USA, 26–
+30 Mar. 2017. 
+ 
+14   X. Zhou, C. Dong, J. Fang, and Y. Tang, “Enhancement of load frequency control 
+by using a hybrid energy storage system,” in Proc. ACEPT, pp. 1–6, Singapore, 24–26 
+Oct. 2017. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-----

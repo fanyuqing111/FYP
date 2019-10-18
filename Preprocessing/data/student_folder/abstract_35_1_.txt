@@ -1,0 +1,38 @@
+Modeling and optimization of thermoelectric generator for waste heat recovery 
+PhD student: Ji Dongxu 
+Supervisor: Associate Professor Josep Pou 
+Co-supervisor: Assistant Professor Alessandro Romagnoli (MAE) 
+Abstract:  
+Tremendous energy is dissipated as waste heat during industrial process. Many waste heat recovery 
+technologies have been proposed to recover those waste heat to energy. Among those waste heat 
+recovery technology, thermoelectric generator (TEG) has its distinct advantage of directly 
+converting heat into electricity and reliability, long lifetime, no moving parts and no gas emissions. 
+The thermoelectric material has been investigated extensively in recent decades and the figure of 
+merit ZT has been continuously enhanced. However, the thermoelectric module (TEM) and system 
+development is rather stagnant and the overall efficiency is quite low for practical applications. 
+This has raised urgent need for development of simulation and design tools of TEG.  
+Design and optimization relies on effective simulation tool development. However, the simulation 
+of TEG (consists of TEM and HEX) is a complex problem as it involves thermo-electric coupling 
+effect, solid state heat transfer and convective heat transfer as heat exchangers are usually adopted. 
+To address this issue, the first part of this thesis proposes a numerical model to simulate the TEM 
+and its heat transfer system. 3-D CFD model and 1-D numerical model are both developed and 
+validated against experiments and the models prove to be accurate enough. After the numerical 
+model is developed and validated by experiments, the optimization and design work is conducted 
+on TEM and TEG.  
+Many previous optimization works assume fixed temperature boundary condition, but this 
+assumption is only applicable to limited practical circumstance. The effect of different boundary 
+condition is rarely investigated. This thesis investigated the effect of different type of boundary 
+condition on the optimization of TEM and TEG, and it is found that the optimized geometry 
+parameter, thermoelectric (TE) elements height, cross-section area vary significant significantly 
+under different boundary condition assumption. With this finding, the TEM and HEX are 
+optimized simultaneously by Taguchi method to take into consider the interactive effect in the last 
+
+-----
+part of this thesis. And the contribution of each factor to the power output variance are quantified.  
+This thesis provides a set of numerical models for TEG simulation, and optimization method by 
+Taguchi method for preliminary design of TEG for waste heat recovery from exhaust gas. As low 
+computation cost is required and the ability of consider different boundary conditions, the proposed 
+model and optimization method can be generalized to a broad range of waste heat recovery 
+applications. 
+
+-----

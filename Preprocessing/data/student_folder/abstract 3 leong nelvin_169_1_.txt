@@ -1,0 +1,42 @@
+Abstract 
+Solar energy have a huge the potential to cut the world’s reliance on fossil fuels. Multi-junction 
+photovoltaic (PV) cell has the potential to reach 50% of energy conversion efficiency. However, the 
+efficiency of typical lattice-matched triple-junction (InGaP/Ga(In)As/Ge) PV cell can only reach 41% 
+under concentrated suns. This is due to the excess current wasted by the Ge sub-cell. With an 
+addition of a 1-eV sub-cell between Ga(In)As and Ge sub-cell, it has been predicted to achieve an 
+efficiency of 50% under concentrated suns. In this work, high efficiency PV cells were grown on a 
+silicon substrate to increase the conversion efficiency and reduce the PV production cost. 
+We have demonstrated a 1-eV GaNAsSb PV cell on Si-Ge/Si substrate using molecular beam epitaxy 
+(MBE). The cell exhibited the lowest ever reported Eg/q-VOC value of 0.50 eV. This indicated that the 
+1-eV GaNAsSb layer has high crystalline quality with long carrier lifetime. Growth conditions of 
+GaNAsSb layer was optimised by varying As/Ga ratio, growth temperature and annealing 
+temperature and annealing duration. As/Ga ratio was found to affect the concentration of arsenic 
+anti-site defects and nitrogen related defects. On the other hand, growth temperature was found to 
+affect nitrogen phase separation or segregation. Annealing at 700°C for 5 mins is capable of 
+improving the performance of the PV cell by removing non-radiative defects. However, annealing at 
+temperature exceeding optimal temperature of 700°C for more than 5 mins severely deteriorates 
+the PV cell performance. 
+Previous modelling works assumed an ideal QE for all the sub-cells. However, experimental quantum 
+efficiency of 1-eV GaNAsSb was well below ideal condition. Modelling work was carried out to 
+optimise the bandgap energies of top two sub-cells using published experimental quantum efficiency 
+(QE) of InGaP, GaAs, 1-eV GaNAsSb and Ge.  The bandgap energies of bottom two sub-cells was fixed 
+at 1.03 eV and 0.66 eV, which represented GaNAsSb and Ge sub-cell, respectively. The model 
+showed that optimised bandgap energy of first and second sub-cells were 2.00 eV and 1.56 eV, 
+respectively. These bandgap energies are higher compared to bandgap energies of top two sub-cells 
+in typical triple-junction  cells, which are 1.86 eV (InGaP) and 1.42 eV (Ga(In)As), respectively. 
+
+-----
+Increase in bandgap energy in top two sub-cells allows more light to be transmitted to the third sub-
+cell.  With the optimised bandgap of 2.00/1.56/1.03/0.66 eV in a quadruple junction cell, energy 
+conversion efficiency at one sun condition can be up to 38.8%.  Energy conversion efficiency can be 
+boosted to 49% under 500 suns condition.  Under this configuration, a short circuit current density 
+of 11.8 mA/cm2, open circuit voltage of 3.65 V and a fill factor of 90% can be achieved in a 
+photovoltaic cell. 
+1.56 eV PV cells were also grown and fabricated using AlGaAs on Si-Ge/Si substrate. Material quality 
+of AlGaAs layer was optimised by varying V/III ratio, growth temperature and base thickness to 
+obtain maximum performance in PV cell. This growth process is important in showing the potential 
+of the 1.56 eV AlGaAs PV cell on Si-Ge/Si substrate and future integration with 1-eV GaNAsSb PV cell 
+as well as the 2.0 eV sub-cell (AlGaInP) and Ge sub-cell. The four materials are closely lattice 
+matched with GaAs and can be grown directly on the Si-Ge/Si substrate.  
+
+-----

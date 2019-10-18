@@ -1,0 +1,34 @@
+Project Title: A CMOS Low Dropout Regulator for Internet of Things 
+Abstract: 
+With the growing demand of portable devices or the emergence of Internet-of-Things (IoT) 
+applications, the push for small-size and ultra-low-power Low Dropout (LDO) Regulators 
+becomes the key design agenda. Unfortunately, when approaching ultra-low power, the 
+transient performance metrics of the regulator are often significantly reduced. Moreover, the 
+parasitic poles of regulator’s devices, which are located at low frequencies, can lead to the 
+instability issue. As such, these undesirable effects pose the serious design challenges in the 
+context of ultra-low quiescent power design constraints.  
+To tackle the stated problems, an ultra-low quiescent power capacitorless LDO regulator is 
+proposed with employment of the transistor degeneration frequency compensation (TDFC) in 
+the adaptive frequency compensation scheme. It can deliver a full loading current range from 
+0 to 100 mA and provide a 1 V output voltage from a 1.2 V power supply at a capacitive load 
+of 100 pF whilst consuming only 407 nA for the entire regulator architecture. The total on-chip 
+capacitance is 6.5 pF. On top of that, a distributed overshoot reduction (DOVSR) topology is 
+also proposed to tackle the overshoot reduction problem under ultra-low quiescent circuit 
+design. By incorporating the TDFC scheme and the feedforward biasing design, this results in 
+reduced settling time and overshoot voltage with respect to that of the conventional circuit 
+technique.  
+The proposed design was fabricated using CMOS 0.18 µm technology for proof of concept. 
+The measurement results have shown that the regulator output can settle within 1.56 μs with 
+35.33 mV in overshoot voltage at a load current transition step from 0 A to 100 mA. Besides, 
+through the use of adaptively-biased design in conjunction with multiple loop feedback 
+architecture, the undershoot voltage attains 117 mV despite of very limited regulator’s system 
+bandwidth at ultra-low quiescent biasing state. The regulator has achieved the output-
+capacitorless based transient Figure-of-Merit (FOM) of 1.42 mV and output capacitor based 
+transient FOM of 0.475 fs, demonstrating that it can offer excellent transient performance even 
+under ultra-low quiescent biasing condition and zero minimum load current. Furthermore, the 
+proposed work also achieves comparable result in terms of undershoot/overshoot voltage, 
+settling time, PSR and so forth. The performance comparison has validated that the regulator 
+outperforms that of the representative reported works, advancing state-of-the-art result.  
+ 
+
+-----

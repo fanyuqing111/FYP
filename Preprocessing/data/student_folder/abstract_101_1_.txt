@@ -1,0 +1,41 @@
+ABSTRACT 
+Nowadays, the power management unit (PMU) plays an essential role in electronic and 
+communication devices and their reliability. More challenges for the power management 
+industries are proposed from the increasing of low-voltage portable devices and growing 
+requirements of complex functionalities. One of the limitations on the overall performance and 
+the lifetime of these battery-powered devices is the limited capacity of the finite power source. 
+The process of collecting and converting minute amount of unharnessed energy from 
+surrounding environment into usable electrical energy is called energy harvesting. There are 
+plenty of ambient energy sources ranging from the most common sources such as heat, solar 
+energy, and mechanical vibrations to new-developed sources like microwave, bioenergy, etc. 
+As energy harvesting raises the possibility of self-powered devices, which are truly 
+autonomous, efficient energy harvesting circuit design has become increasingly important and 
+has gained immense popularity.  
+Scavenging energy from solar is a good solution to address the increase of power consumption 
+in electronic devices. Modern circuits and systems require multiple voltage supplies to provide 
+different functionalities. For example, 2.2-3V supplies power RF and antenna circuit, while 
+analog circuit and digital circuit operate using different voltage supplies ranging from 0.7V to 
+1.8V. Using multiple voltage supplies can improve the overall performance while reducing the 
+power consumption of the devices.  
+In this research, an energy harvesting system is proposed to extract photovoltaic (PV) energy 
+and deliver energy to application of Internet of Things (IOT). The main part of the system 
+consists of a single-inductor H-bridge configuration DC-DC converter connecting with two 
+inputs and two outputs. It regulates a constant 1V output voltage for several applications such 
+as sensor and signal transmitters. The surplus energy is stored in a rechargeable battery. The 
+
+-----
+battery also serves as a secondary input source. The most critical issue in energy harvesting 
+applications is maximum power extracting. In order to maximize power extraction under all 
+conditions, a digital-controlled feed-forward maximum power point tracking (MPPT) system 
+is implemented. An input approximation method is proposed to quickly predict the change in 
+input power and shift the PV system to the maximum power point (MPP). Pulse-width 
+modulation (PWM) and pulse-frequency modulation (PFM) are then used to regulate the output 
+voltage at the MPP.  
+The PV system is designed using 0.18um technologies. The controller is mainly designed using 
+digital circuit to enhance stability, reliability, and controllability. The system is able to extract 
+energy from a single solar cell and deliver to multiple outputs loads. The proposed system 
+achieves above 60% of conversion efficiency with a peak efficiency of 84.1% while driving 
+1uA to 1mW load current. 
+ 
+
+-----

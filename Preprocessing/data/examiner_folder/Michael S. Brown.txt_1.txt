@@ -1,0 +1,424 @@
+Dr. Michael S. Brown
+Professor
+Dept. of Electrical Engineering and Computer Science
+Lassonde School of Engineering
+York University, Toronto, Canada 
+Email: mbrown@eecs.yorku.ca
+Biography 
+Michael S. Brown obtained his BS and PhD in Computer Science from the University of
+Kentucky in 1995 and 2001 respectively.  He was a visiting PhD student at the University
+of North Carolina at Chapel Hill from 1998-2000.  Dr. Brown has held positions at the Hong
+Kong University of Science and Technology (2001-2004), California State University –
+Monterey  Bay  (2004-2005),  and  Nanyang  Technological  University  (2005-2007).   He
+joined the School of Computing at the National University of Singapore in 2007 where he
+is currently an associate professor and vice dean (corporate relations).  Dr. Brown’s
+research interests include computer vision, image processing and computer graphics. He
+has served as an area chair for CVPR, ICCV, ECCV, and ACCV and is currently an
+associate editor for the IEEE Transactions on Pattern Analysis and Machine Intelligence
+(TPAMI) and the International Journal of Computer Vision (IJCV). Dr. Brown received the
+HKUST Faculty Teaching Award (2002), the NUS Young Investigator Award (2008), the
+NUS Faculty Teaching Award (for AY08/09, AY09/10, AY10/11), and the NUS Annual
+Teaching Excellence Award (ATEA) for AY09/10.  
+Total citations: 3642
+h-index: 31
+Publications
+BOOK
+[B-5] “Practical Multi-Projector Display Design”
+Majumder/Brown, AK Peters, USA, 2007
+BOOK CHAPTER
+
+-----
+[B-4] Chapter 3, “Hybrid-imaging for Motion Deblurring” - Moshe Ben-Ezra, Yu-Wing Tai,
+Michael S. Brown and Shree Nayar
+[B-3] Chapter 5, “Richardson–Lucy Deblurring for Scenes Under a Projective Motion Path”
+-  Yu-Wing Tai and Michael S. Brown
+Book: Motion Deblurring, Algorithms and Systems, Cambridge University Press (for B-4 &
+B-3)
+Editors: A. N. Rajagopalan and Rama Chellappa
+[B-2] Chapter 12, “Correction of Spatially Varying Image and Video Motion Blur Using a
+Hybrid Camera” – Yu-Wing Tai and Michael S. Brown
+Book: Image Restoration: Fundamentals and Advances, CRC Press, 2012
+Editor: Gunturk, Li
+[B-1] Chapter 11, “Digital Libraries” – Michael S. Brown
+Book: Multimedia Information Retrieval and Management, Springer, 2002
+Editors: Feng, Siu, Zhang 
+JOURNAL/PERIODICAL
+[J-38] Paknezhad M., Marchessseau S., Brown M. S. (2016) “Automatic Basal Slice Detection for
+Cardiac Analysis”, Journal of Medical Imaging (JMI), [accepted – pdf coming soon]
+[J-37]  Park J., Kim H., Tai Y-W., Brown M. S., Kweon I.S. (2014) “High Quality Depth Map
+Upsampling and Completion for RGB-D Cameras”, IEEE Transactions on Image Processing (TIP),
+23(12), Dec 2014 [preprint pdf]
+[J-36] Nguyen R., Kim S. J., Brown M. S. (2014) “Iluminant Aware Gamut-Based Color
+Transfer”, Computer Graphics Forum (Proc. Pacific Graphics), 33(7), Oct 2014 [preprint
+pdf]
+[J-35]  Prasad  D.,  Leung  M.,  Quek  C.,  and  Brown  M.S.  (2014)  “DEB:  Definite  error
+bounded tangent estimator for digital curves”,  IEEE Transactions on Image Processing 
+(TIP), 23(10), Oct 2014 (accepted) [preprint pdf]
+[J-34] Roy S., Chi Y., Liu J., Venkatesh S., Brown M. S. (2014) “Three-Dimensional Spatio-
+Temporal  Features  for  Fast  Content-based  Retrieval  of  Focal  Liver  Lesions”,  IEEE
+Transactions on Biomedical Engineering (TMBE),  [preprint pdf]
+[J-33]  Zaragoza J., Chin T.-J., Tran Q.-H., Brown M. S., Suter D. (2014) “As-Projective-As-
+Possible  Image  Stitching  with  Moving  DLT”,  IEEE  Transactions  on  Pattern  Analysis
+and Machine Intelligence (TPAMI), 36(7), July 2014 [preprint pdf]
+[J-32]  Cheng  D.L.,  Prasad  D.,  Brown  M.  S.  (2014)  “Illuminant  Estimation  for  Color
+Constancy: why spatial domain methods work and the role of the color distribution”, 
+Journal of Optical Society of America – A (JOSA), 31(5), May 2014 [preprint pdf]
+[J-31] Roy S., Brown M. S., Shih G. (2014) "Visual Interpretation with Three-Dimensional
+Annotations  (VITA):  Three-Dimensional  Image  Interpretation  Tool  for  Radiological
+
+-----
+Reporting”, Journal of Digital Imaging (JDI), 27(1), Feb 2014 [pdf]
+[J-30]  Prasad  D.  K.,  and  Brown,  M.S.  (2014)  “Design  of  macro-filter-lens  with
+simultaneous chromatic and geometric aberration correction,” Applied Optics (OSA), 53(1),
+Jan 2014 [pdf]
+[J-29] Tai Y.-W. , Chen X., Kim S., Kim S. J, Li F., Yang J., Yu J., Matsushita Y., Brown M.
+S. (2013) "Nonlinear Camera Response Functions and Image Deblurring: Theoretical
+Analysis and Practice", IEEE Transactions on Pattern Analysis and Machine Intelligence
+(TPAMI), 35(10), Oct 2013 [pdf]
+[J-28]  Cheng D.L., Prasad D. K., Brown M. S. (2013) “Online tracking of deformable
+objects under occlusion using dominant points”,  Journal of Optical Society of America – A
+(JOSA), 30(8), Aug 2013 (source code)
+[J-27]  Lu  Z.,  Tai  Y.-W.,  Deng  F.,  Ben-Ezra  M.,  Brown  M.S.  (2012)  “A 3D  Imaging
+Framework Based on High-Resolution Photometric-Stereo and Low-Resolution Depth”, 
+International Journal of Computer Vision (IJCV),  102(1-3), Mar 2013 [pdf]
+[J-26] Kim S. J.,  Lin H.T., Lu Z, Susstrunk S, Lin S., Brown M. S. (2012) “A New In-
+Camera Imaging Model for Color Computer Vision and its Application”, IEEE Transactions
+on Pattern Analysis and Machine Intelligence (T-PAMI), 34(12), Dec 2012 [pdf]
+[J-25] Gao J. H., Kim S. J., Brown M. S. (2012) “Creating Picture Legends for Group
+Photos”, Computer Graphics Forum (Proc. of Eurographics Conference), May, 2012 [pdf]
+[J-24] Lu Z.,  Luo W., Sun Z., Ben-Ezra M., Brown M.S. (2012) “Imaging Buddhist Art with
+a Digital Large-Format Camera: A Field Study Report from the Dunhuang Caves,” ACM
+Journal on Computing and Cultural Heritage (JOCCH), 5(3), Oct 2012 [pdf]
+[J-23] Lin H-T., Tai Y-W., Brown M. S. (2011) “Motion Regularization for Matting Motion
+Blurred Objects”,  IEEE Transactions on Pattern Analysis and Machine Intelligence (T-
+PAMI), 33(11), Nov 2011 [pdf]
+[J-22] Tai Y-W., Tan P., Brown M. S. (2011) “Richardson-Lucy Deblurring for Scenes under
+Projective Motion Path”, IEEE Transactions on Pattern Analysis and Machine Intelligence
+(T-PAMI), 33(8), Aug 2011 [pdf]
+[J-21] Kim S. J., Deng F.B., Brown M. S.  (2011) “Visual Enhancement of Old Documents
+with Hyperspectral Imaging”, Elsevier Pattern Recognition, Jan 2011 [pdf]
+[J-20] Yeung S.-K., Tang C.-K., Brown M. S., Kang S. B. (2011) “Matting and Compositing
+of Transparent and Refractive Objects”, ACM Transactions on Graphics (ToG), 30(1), Jan
+2011  [pdf]
+[J-19]  Kim  S.  J.,  Zhou  S.J.,  Deng  F.B.,  Fu  C.W.,  Brown  M.  S.  (2010)  “Interactive
+Visualization of Hyperspectral Images of Historical Documents”,  IEEE Transactions on
+Visualization and Computer Graphics (T-VCG) (Proc. of IEEE Visualization Conference),
+16(6), Nov-Dec 2010 [pdf]
+[J-18] Amans M. R., Shih G., Lu Z., Yeh C., Brown M. S. (2010) “Wiimote viewer enhances
+
+-----
+resident case conferences”,  Journal of the American College of Radiology, 7(10), Oct
+2010 [pdf]
+[J-17] Huang Yi., Xu D., Brown M.S. (2010) “User-assisted Ink-Bleed Reduction”,  IEEE
+Transactions on Image Processing (T-IP), 19(10), Oct 2010 [pdf]
+[J-16] Shan Q., Jia J-Y., Brown M.S. (2010) “Globally Optimized Linear Windowed Tone-
+Mapping”, IEEE Transactions on Visualization and Computer Graphic (T-VCG), 16(4), July-
+Aug, 2010. [pdf]
+[J-15]  Tai Y.W., Hao D., Brown M. S., and Lin S.  (2010) “Correction of Spatially Varying
+Image and Video Motion Blur using a Hybrid Camera”, IEEE Trans. on Pattern Analysis
+and Machine Intelligence (T-PAMI), 32(6),  Jun 2010 [pdf]
+ 
+[J-14]  Zhang L., Yip A. M., Brown M. S., Tan C. L. (2009) “A Unified Framework for
+Document  Restoration  using  Inpainting  and  Shape-from-Shading”,  Elsevier  Pattern
+Recognition, 42(11), Nov 2009 [pdf]
+ 
+[J-13]  Tai Y.W., Tang  H.X., Brown M.S., Lin S. (2009) “Detail Recovery from Single-image
+Defocus Blur”, IJSP Transactions on Computer Vision and Applications,  vol 1, Mar 2009 
+[pdf]
+[J-12]   Tai  Y.W.,  Brown  M.S.,  Tang  C.K.,  Shum  H.Y. (2008)  “Texture  Amendment:
+Reducing Texture Distortion in Constrained Parameterizations”,  ACM Transactions on
+Graphics (ToG-SIGGRAPH-Asia’08), 27(5), Dec 2008 [pdf]
+ 
+[J-11]   Wu T.P., Tang C.K., Brown M.S., Shum H.Y. (2007) “Shape-Palette:  Interactive
+Normal Transfer via Sketching”,  ACM Transactions on Graphics (ToG-SIGGRAPH’07),
+26(3), Aug 2007  [pdf]
+[J-10]   Brown M.S., Sun M., Yang R.G., Lin Y., Seales B. (2007) “Restoring 2D Content
+from Distorted Documents,” IEEE Trans. on Pattern Analysis and Machine Intelligence (T-
+PAMI), 29(11), Nov 2007 [pdf]
+ 
+[J-9]   Wu T.P., Tang C.K., Brown M.S., Shum H.Y. (2007) “Natural Shadow Matting,” ACM
+Transactions on Graphics (ToG), 26(2), Jun 2007 [pdf]
+ 
+[J-8]  Brown  M.S.,  Tsoi  Y.-C.  (2006)  “Geometric  and  Shading  Correction  of  Printed
+Materials”, IEEE Transactions on Image Processing (T-IP), 15(6), Jun 2006 [pdf]
+ 
+[J-7]   Brown  M.  S.,  Majumder  A.,  Yang  R.  G.  (2005)  “Camera-Based  Calibration
+
+-----
+Techniques for Seamless Multi-Projector Displays”,  IEEE Transactions on Visualization
+and Computer Graphics (T-VCG), 11(2), Mar-Apr 2005 [pdf]
+ 
+[J-6]   Brown M.S., Tsoi Y.-C. (2005) “Distortion removal for camera-imaged print materials
+using boundary interpolation”, International Journal of Image an Graphics, 5(2), Apr 2005
+ 
+[J-5]   Brown  M.  S.,  Seales  W.  B.  (2004)  “Image  Restoration  of  Arbitrarily  Warped
+Documents”, IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), 26(10),
+Oct 2004 [pdf]
+[J-4]   Brown M. S., Seales W. B. (2004) “Incorporating Geometric Registration with PC-
+Cluster  Rendering  for  Flexible  Tiled  Displays”,  International  Journal  of  Image  and
+Graphics, 4(4), Oct 2004 (invited submission)
+[J-3]  Brown M. S.  Seales W. B., Jaynes C. O. and Griffioen J. (2001) “Building Large
+Format Displays for Digital Libraries,”  Communications of the ACM Special Issue on
+Digital Libraries (CACM), 44(5), May 2001
+ 
+[J-2]   Brown M. S., Seales W. B., Kiernan K., and Griffioen J. (2001) “3D Acquisition and
+Restoration of Medieval Manuscripts,”  Communications of the ACM Special Issue on
+Digital Libraries (CACM), 44(5), May 2001
+[J-1]   Welch G., Fuchs H., Raskar R., Brown M. S., and Towles H. (2000). “Projected
+Imagery In Your Office in the Future,” IEEE Computer Graphics and Applications (CGA),
+20(4), Jul 2000 [pdf]
+ 
+CONFERENCE/WORKSHOP
+[C-74] Karaimer H. and Brown M.S.  (2016) “A Software Platform for Manipulating the
+Camera Imaging Pipeline”, European Conference on Computer Vision (ECCV’16), Jun
+2016 [pdf]
+[C-73] Li Y., Tan R., Guo X.J., Lu J., Brown M.S.  (2016) “Rain Streak Removal Using
+Layer Priors”, IEEE Computer Vision and Pattern Recognition (CVPR’16), Jun 2016 [pdf]
+[C-72]  Nguyen  R.,  Brown  M.  S.  (2016)  “RAW  Image  Reconstruction  using  a  Self-
+Contained sRGB-JPEG Image with only 64 KB Overhead”, IEEE Computer Vision and
+Pattern Recognition (CVPR’16), Jun 2016 [pdf]
+[C-71] S. W. Oh, M. S. Brown, M. Pollefeys, S. J. Kim (2016) “Do It Yourself Hyperspectral
+Imaging with Everyday Digital Cameras”, IEEE Computer Vision and Pattern Recognition
+(CVPR’16), Jun 2016  [pdf]
+[C-70] Cheng D. L., Kamel A., Price B., Cohen S., Brown M. S. (2016) “Two Illuminant
+Estimation  and  User  Correction  Preference”,  IEEE  Computer  Vision  and  Pattern
+
+-----
+Recognition (CVPR’16), Jun 2016 [pdf]
+[C-69] Zakizadeh R, Brown M. S., Finlayson, G. (2015) “A Hybrid Strategy For Illuminant
+Estimation  Targeting  Hard  Images”,  5th Color  and  Photometry  in  Computer  Vision
+Workshop (at ICCV’15), Dec 2015 [pdf]
+[C-68] Nguyen R., Brown M. S. (2015) “Fast and Effective L_0 Gradient Minimization by
+Region Fusion”, IEEE International Conference on Computer Vision (ICCV’15), Dec 2015
+[pre-print] [project page]
+[C-67] Li Y., Tan R., Brown M.S. (2015) “Nighttime Haze Removal with Glow and Multiple
+Light Colors”, IEEE International Conference on Computer Vision (ICCV’15), Dec 2015
+[pre-print]
+[C-66] Cheng D. L., Price B., Cohen S., Brown M. S. (2015) “Beyond White: Ground Truth
+Colors for  Color Constancy Correction”,  IEEE International  Conference  on  Computer
+Vision (ICCV’15), Dec 2015 [pre-print]  [project page]
+[C-65] Li Y., Min D., Lu J., Brown M. S., Minh N. D. (2015) “SPM-BP: Sped-up PatchMatch
+Belief Propagation for Continuous MRFs”, IEEE International Conference on Computer
+Vision (ICCV’15), Dec 2015 [pdf] [project page]
+[C-64] Cheng D. L., Price B., Cohen S., Brown M. S. (2015) “Effective Learning-Based
+Illuminant  Estimation  Using  Simple  Features”,  IEEE  Computer  Vision  and  Pattern
+Recognition (CVPR’15), Jun 2015 [pdf] [project page]
+[C-63] Nguyen R., Prasad D., Brown M. S. (2013) “Training-Based Spectral Reconstruction
+from a Single RGB image”, European Conference on Computer Vision (ECCV’14),  Sep
+2014 [pdf]
+[C-62] Li Y., Guo F.F.,  Tan R., Brown M.S. “A Contrast Enhancement Framework with
+JPEG Artifacts Suppression”, European Conference on Computer Vision (ECCV’14),  Sep
+2014 [pdf]
+[C-61]  Li  Y.,  Brown  M.  S.  (2014)  “Single  Image  Layer  Separation  using  Relative
+Smoothness”, IEEE Computer Vision and Pattern Recognition (CVPR’14), Jun 2014 [pdf] 
+[C-60] Nguyen R., Prasad D., Brown M. S. (2013) “Raw-to-raw: Mapping between image
+sensor color responses”, IEEE Computer Vision and Pattern Recognition (CVPR’14), Jun
+2014 [pdf]
+[C-59] Chin T.-J., Bustos A. P., Brown M. S., Suter D. (2014) “Fast rotation search for real-
+time interactive point cloud registration”, ACM SIGGRAPH Symposium on Interactive 3D
+Graphics and Games (I3D), Mar 2014 [pdf]
+[C-58] Li Y., Brown M. S. (2013) “Exploiting Reflection Change for Automatic Reflection
+Removal”, IEEE International Conference on Computer Vision (ICCV’13), Dec 2013 [pdf]
+[C-57] Panda J. G., Jawahar C. V., Brown M. S. (2013) “Offline Mobile Instance Retrieval
+with  a  Small  Memory  Footprint”,  IEEE  International  Conference  on  Computer  Vision
+(ICCV’13), Dec 2013 [pdf]
+
+-----
+[C-56]  Choi I.C., Kim S.Y., Brown M. S.,  Tai Y. W. (2013) “A Learning-Based Approach to
+Reduce JPEG Artifacts in Image Matting”,  IEEE International Conference on Computer
+Vision (ICCV’13), Dec 2013 [pdf]
+[C-55]   Guo G., Li Y., Kankanhalli M., Brown M.S. (2013)  “An Evaluation of Wearable
+Activity  Monitoring  Devices”,  ACM  Multimedia  -  Workshop  on  Personal  Data  Meets
+Distributed, Oct 2013 [pdf]
+[C-54]  Roy  S.,  Liang  X.,  Kitamoto  A.,  Tamura  M.,  Shiroishi  T.,  Brown  M.  S.  (2013)
+"Phenotype Detection in Morphological Mutant Mice using Deformation Features", Medical
+Image Computing and Computer Assisted Intervention (MICCAI'13), Sep 2013 [pdf]
+[C-53] Zaragoza J., Chin T.-J., Brown M. S., Suter D. (2013) “Projective-as-Possible Image
+Stitching  with  Moving  DLT”,  IEEE  Conference  on  Computer  Vision  and  Pattern
+Recognition (CVPR’13), June 2013 [pdf] [code available on Mathworks]
+[C-52] Gao J. H., Yu L., Chin T.-J., Brown M. S. (2013) “Seam-Driven Image Stitching”,
+Eurographics 2013, May 2013 [pdf]
+[C-51] Gao J. H., Brown M. S. (2012) “An Interactive Image Editing Tool for Correcting
+Panoramas”, Siggraph Asia’12 (Technical Brief), Dec 2012 [pdf]
+[C-50] Deng F., Kim S. J., Tai Y.W., Brown  M. S. (2012) “Color-aware Regularization for
+Gradient  Domain  Image  Manipulation”,  Asian  Conference  on  Computer  Vision
+(ACCV’12), Nov 2012 [pdf]
+[C-49] Tran Q.H., Chin T.-J., Carneiro, G., Brown M. S., Suter, D. “In Defence of RANSAC
+for Outlier Rejection in Deformable Registration”, European Conference on Computer
+Vision (ECCV’12), Oct 2012 [pdf]
+[C-48] Lin  H.T,  Lu  Z., Kim S. J.,  Brown, M. S. “Nonuniform  Lattice  Regression  for
+Modeling  the  Camera  Imaging  Pipeline”,  European  Conference  on  Computer  Vision
+(ECCV’12), Oct 2012 [pdf]
+[C-47]  Kim S.Y., Tai Y.W., Kim S. J., Brown M. S., Matsushita Y. (2012), “Nonlinear
+Camera Response Functions and Image Deblurring”,  IEEE Conference on Computer
+Vision and Pattern Recognition (CVPR’12), June 2012 [pdf]
+[C-46]  Wei  Luo,  Lu  Z.,  Xu  Y.-Q.,  Wang  X.G.,  Ben-Ezra  M.,  Brown  M.  S.(2012)
+“Synthesizing Oil Painting Surface Geometry from a Single Photograph”, IEEE Conference
+on Computer Vision and Pattern Recognition (CVPR’12), June 2012 [pdf]
+[C-45] Lin H.T., Kim S. J.,  Susstrunk S, Brown M. S. (2011) “Revisiting Radiometric
+Calibration for Color Computer Vision”, IEEE International Conference on Computer Vision
+(ICCV’11),  Nov 2011 [pdf]
+[C-44] Park J., Kim H., Tai Y.W.,  Brown M. S., Kweon I. (2011) “High Quality Depth Map
+Upsampling for 3D-TOF Cameras”,  IEEE International Conference on Computer Vision
+(ICCV’11), Nov 2011 [pdf]
+[C-43] Gao J.H., Kim S. J., Brown M. S. (2011) “Constructing Image Panoramas using
+
+-----
+Dual-Homography Warping”, IEEE Computer Vision and Pattern Recognition (CVPR’11),
+Jun 2011 [pdf]
+[C-42] Liu S.C., Brown M. S., Kim S. J., Tai Y.W. (2010) “Colorization for Single Image
+Super Resolution”, European Conference on Computer Vision (ECCV’10), Oct 2010 [pdf]
+[C-41] Deng F.B., Wu Z., Lu Z., Brown M.S. (2010) “BinarizationShop: A User-Assisted
+Software  Suite  for  Converting  Old  Documents  to  Black-and-White”,  IEEE/ACM  Joint
+Conference on Digital Libraries (JCDL’10), Jun 2010 [pdf]
+ 
+[C-40] Tai Y.W., Liu S.C., Brown M. S., Lin S. (2010) “Super Resolution using Edge Prior
+and  Single  Image  Detail  Synthesis”,  IEEE  Computer  Vision  and  Pattern  Recognition
+(CVPR’10), Jun 2010 [pdf]
+[C-39] Lu Z., Tai Y.W., Ben-Ezra M., Brown M.S. (2010) “A Framework for Ultra High
+Resolution 3D Imaging”, IEEE Computer Vision and Pattern Recognition (CVPR’10), Jun
+2010 [pdf]
+[C-38]  G.  A.  Hanasusanto,  Wu  Z.,  Brown  M.S.  (2010)  “Ink-Bleed  Reduction  using
+Functional Minimization”, IEEE Computer Vision and Pattern Recognition (CVPR’10), Jun
+2010 [pdf]
+[C-37]   Lu  Z.,  Wu  Z.,  Brown  M.S.  (2009)  “Interactive  Binarization  for  Degraded
+Documents”, Workshop on Applications of Computer Vision (WACV’09), Dec 2009 [pdf]
+[C-36] Tai Y.W., Brown M.S.  (2009) “Single Image Defocus Map Estimation using Local
+Contrast Prior”, IEEE International Conference on Image Processing (ICIP’09), Nov 2009
+[pdf]
+[C-35] Wang J., Brown M. S., Tan C. L. (2009) “Automatic corresponding control points
+selection  for  historical  document  image  registration”,  International  Conference  on
+Document Analysis and Recognition (ICDAR’09), Jul 2009 [pdf]
+[C-34]   Lu Z., Wu Z., Brown M.S. (2009) “Directed Assistance for Ink-Bleed Reduction in
+Old Documents”,  IEEE Computer Vision and Pattern Recognition (CVPR’09), Jun 2009
+[pdf]
+[C-33]   Wang J., Brown M. S., Tan C. L.  (2008) “Accurate Alignment of Double-sided
+Manuscripts for Bleed-through Removal”, 8th IAPR International Workshop on Document
+Analysis Systems (DAS’08), Sep 2008
+[C-32]  Tai Y. W., Hao D., Brown M. S., Lin S.  (2008) “Image/Video Deblurring using a
+Hybrid Camera”,  IEEE Computer Vision and Pattern Recognition (CVPR’08), Jun 2008
+[pdf]
+[C-31]   Huang Y., Brown M. S.,  Xu D.  (2008) “A Framework for Reducing Ink-Bleed in
+Old Documents”,  IEEE Computer Vision and Pattern Recognition (CVPR’08), Jun 2008
+[pdf]
+
+-----
+[C-30]  Huang Y.,  Brown M. S  (2008) “User-Assisted Ink-Bleed Correction for Handwritten
+Documents”, IEEE and ACM Joint Conference on Digital Libraries (JCDL’08), Jun 2008
+[Best Student Paper Award] [pdf]
+[C-29]   Tong W.S., Tang C. K., Brown M. S., Xu Y.Q.  (2007) “Example-Based Cosmetic
+Transfer”, Pacific Graphics (PG’07), Oct 2007 [pdf]
+[C-28]   Tai  Y. W.,  Brown  M.  S.,Tang  C.  K.  (2007)  “Robust  Texture  Distortion  Flow
+Estimation via Dense Feature Sampling”, IEEE Computer Vision and Pattern Recognition
+(CVPR’07), Jun 2007 [pdf]
+ 
+[C-27]   Tsoi  Y.C.  and  Brown  M.  S.  (2007)  “Multi-view  Document  Restoration  using
+Boundary”, IEEE Computer Vision and Pattern Recognition (CVPR’07), Jun 2007 [pdf]
+ 
+[C-26]   Brown M. S., Song P., Cham T.J. (2006) “Image Preconditioning for Out-of-Focus
+Projector Blur”, IEEE Computer Vision and Pattern Recognition (CVPR’06), Jun 2006 [pdf]
+ 
+[C-25]   Sun M., Yang, R. Y. Lin Y., Landon G., Seales, B., Brown M. S. (2005) “Geometric
+and Photometric Restoration of Distorted Documents”, IEEE International Conference on
+Computer Vision (ICCV’05), Oct 2005 [pdf]
+[C-24]   Brown  M.  S.  and  Pisula  C.  J.  (2005)  “Conformal  Deskewing  of  Non-planar
+Documents”, IEEE Computer Vision and Pattern Recognition (CVPR’05), Jun 2005 [pdf]
+[C-23]   Brown M.S., Tsoi D. (2004) “Geometric and Shading Correction of Imaged Print
+Materials:  A Unified  Approach  Using  Boundary”,  IEEE Computer Vision  and  Pattern
+Recognition (CVPR’04), Jul 2004 [pdf]
+ 
+[C-22]   Yang R.D., Brown M.S. (2004) "Emulating Short GOPs in MPEG with Fewer I-
+frames", IEEE International Conference on Multimedia Expo (ICME’04), Jul 2004 [pdf]
+ 
+[C-21]   Yang R.D., Brown M.S. (2004) "A Scalable Video Error Concealment Technique
+Using DMVC",  IEEE International Conference on Multimedia Expo (ICME’04), Jul 2004
+[pdf]
+[C-20]  Yang R.D.,  Brown M.S. (2004) "Music Query using Syntheisa", IEEE International
+Conference on Multimedia Expo (ICME’04), Jul 2004 [pdf]
+[C-19]  Yang  R. G., Majumder A.,  Brown  M. S. (2004) “Camera-Based  Calibration  -
+Techniques  for  Seamless  Multi-Projector  Displays”,  Workshop  on  Computer  Vision
+Applications, Part of European Conference on Computer Vision, May 2004
+ 
+
+-----
+[C-18]   Tsoi D., Brown M. S. (2004) “Removal of Dynamic Blemishes from Video,” Asian
+Conference on Computer Vision (ACCV’04), Jan 2004
+[C-17]   Brown M. S., Tsoi D. (2004) “Undistorting Imaged Print Materials Using Boundary
+Information”, Asian Conference on Computer Vision (ACCV’04), Jan 2004
+ 
+[C-16]   Brown M. S., Yang R. D. (2003) “Computer-Assisted Visualization and Analysis of
+Scholarly Manuscripts,” IS&T Visualization and Data Analysis, Jan 2004
+[C-15]   Brown M. S., Tsoi D. (2003) “Correcting Common Distortions in Camera-Imaged
+Library Materials,” IEEE and ACM Joint Conference on Digital Libraries (JCDL’03), May
+2003 [pdf]
+ 
+[C-14]   Brown M. S., Yang R. D. (2003) “Fast Half-toning of MPEG Video for Bi-Tonal
+Displays,” IEEE International Conference on Image Processing (ICIP’03), Sep 2003 
+[C-13]   Brown M. S., Wong W. (2003) “Laser Pointer Interaction For Camera-Registered
+Multi-Projector Displays,” IEEE International Conference on Image Processing (ICIP’03),
+Sep 2003
+[C-12]   Brown M. S., Seales W. B.(2002) “A Practical and Flexible Tiled Display System,”
+Pacific Graphics (PG’02), Oct 2002 [pdf]
+[C-11]   Yang. R.G., Gotz D., Hensley J., Towles H., Brown M. S. (2001) “PixelFlex:  A
+Reconfigurable, Multi-projector Display System,”  IEEE Visualization (VIS’01), Oct 2001
+[pdf]
+ 
+[C-10]   Jaynes C. O., Webb S. B., Seales, W. B.,  Brown M. S., and Steel R. W. (2001)
+“Dynamic Shadow Removal from Front Projection Display,”  IEEE Visualization (VIS’01),
+Oct 2001 [pdf]
+ 
+[C-9]   Brown  M.  S.,  Seales  W.  B.  (2001)  “Digital  Atheneum:  New  Approaches  for
+Preserving,  Restoring,  and  Analyzing  Damaged  Manuscripts,”  IEEE  and  ACM  Joint
+Conference on Digital Libraries (JCDL’01), Jun 2001 [pdf]
+[C-8]   Brown M. S.,  Seales W. B.  (2001) “Document Restoration using 3D Shape,” IEEE
+International Conference on Computer Vision (ICCV’01), Jul 2001 [pdf]
+[C-7]   Brown M. S., Seales W. B. (2001) “3D Imaging of Humanities Texts,” Association of
+Computing and the Humanities Conference (ACH/ALLC), Jun 2001
+ 
+[C-6]   Brown M. S.,  Seales W. B. (2000)  “Beyond 2D Images: Effective 3D Imaging for
+Library Materials,”  ACM Conference on Digital Libraries (ACM DL’00  [later to become
+
+-----
+JCDL]), Jun 2000
+ 
+[C-5]   Yang  R.,  Brown  M.S.,  Seales  W.B.,  Fuchs  H.  (1999).  “Geometrically  Correct
+Imagery for Teleconferencing,” ACM Multimedia (ACM-MM’99), Nov 1999 [pdf]
+ 
+[C-5]   Raskar R., Brown M. S., Yang R.G, Chen W.C., Welch, G., Towles H., Seales W.B.,
+Fuchs  H.  (1999) “Seamless  Camera-Registered  Multi-Projector Display over  Irregular
+Surfaces,” IEEE Visualization (VIS’99), Oct 1999 [pdf]
+ 
+[C-3]   Elsayed E. , Brown M.S., Seales W. B. (1999) “Cooperative Stereo: Combining
+Edge-Based and Area-Based Stereo,” IEEE Aerospace Conference, Feb 1999
+ 
+[C-2]   Brown M.S., Seales W. B. (1998) “Fast Stereo Matching in Compressed Video”,
+Asian Conference on Computer Vision (ACCV’98), Jan 1998
+[C-1]  Seales  W.  B,  Yuan  C.J.,  Brown  M.S.  (1997)  “Efficient  Content  Extraction  In
+Compressed Images,”  IEEE Workshop on Content-Based Access of Image and Video
+Libraries, Part of IEEE Computer Vision and Pattern Recognition, Jun 1997
+OTHERS PUBLICATIONS 
+(The  following  are  notable  peer reviewed  abstracts  for presentation  at the  American
+Roentgen  Ray  Society  (ARRS)  and  Radiological  Society  of  North  America  (RSNA),
+medical conferences for radiologists. This work is in partnership with colleague and senior
+author from Cornell University, Asst Prof. George Shih, MD, at the Weill Cornell Medical
+Center in New York.)
+ 
+[A-5]   Roy S.,  M.S. Brown, Shih G. (2012) “Retina Displays: Image Interpolation Methods
+for Resizing Medical Images for Tablets”, RSNA Annual Meeting, Chicago, Nov 2012
+[A-4]   Roy S.,  M.S. Brown, Shih G. (2012) “Automatic 3D Volume Extraction from 2D
+Annotations”, RSNA Annual Meeting, Chicago, Nov 2012 [Winner of the RSNA Trainee
+Research Prize]
+[A-3]   Roy S., Yao, M. J.,  M.S. Brown, Shih G. (2011) “Visual Interpretation with Three-
+Dimensional Annotations (VITA): Open Source Automated 3D Visual Summary Application
+Using  Annotation  Imaging  Markup  (AIM)  Enabled  PACS  Based  On  Radiologist
+Annotations”, RSNA Annual Meeting, Chicago, Nov 2011
+[A-2]  Amans M., Yeh  C.,  Brown  M.S.,  Zheng  L., Shih  G.  (2009) “Wireless Devices
+Enhances Resident Case Conferences”, ARRS Annual Meeting, Boston, Apr 2009
+[A-1]   Yeh C., Amans M., Shih G., Kutch F., Brown M.S., Zheng L. (2009) “Nintendo Wii
+
+-----
+Remote (Wiimote) as Alternative Input Device for Reviewing Radiology Exams”,  ARRS
+Annual Meeting, Boston, Apr 2009
+(Back to Home)
+
+-----

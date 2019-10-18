@@ -1,0 +1,36 @@
+Abstract
+Fractional differential equations have received much attention in recent decades likely due to
+its powerful ability in modeling ‘memory’ processes, which are mostly observed in real world.
+Fractional models have been widely investigated and applied in many fields such as physics, bio-
+chemistry, electrical engineering, continuum and statistical mechanics. It is shown by many re-
+searchers that fractional derivatives can provide more accurate models than integer order deriva-
+tives do. However, for most models involving fractional operators, it is very challenging if
+not impossible to get analytical solutions. This motivates us to propose numerical techniques,
+especially those that can obtain numerical approximations both efficiently and effectively.
+In this thesis, we aim to construct high order accuracy numerical scheme for two categories:
+(i) four classes of typical fractional problems, and (ii) some classes of generalized fractional
+problems. In tackling the first category, we focus on the improvement of the theoretical spatial
+convergence order mainly using parametric quintic spline. The parametric spline method has
+been used in previous work and has been numerically shown to get satisfying performance.
+Unfortunately, no strict theoretical result is established and we note that the analysis is not
+trivial. Due to this reason, we are greatly motivated to further investigate this method and
+provide strict analysis which is extremely important for a numerical method. Our contributions
+for topics in the first category mainly lies in two aspects: 1) we first apply the parametric quintic
+spline method to the fractional problems; 2) we succeed to establish the solvability, stability and
+convergence results of the proposed methods that are not given in previous work relating to
+parametric spline method.
+The other category is about numerical treatment on some classes of generalized fractional prob-
+lems. As the name suggests, the generalized fractional problems include typical fractional prob-
+lems as special cases and may represent even more: both existing and non existing cases. In fact,
+it is shown that many integral equations can be solved in a much elegant way using generalized
+fractional operators and it can somehow blur the distinction between the differential and integral
+equations. For this topic, the numerical investigations are very scarce and the temporal conver-
+gence order of the existing work is not so satisfying and may not meet the demand in reality.
+Motivated by these two observations, we shall construct some new approximations of gener-
+alized fractional derivatives through generalizations of some typical techniques, e.g. L2 − 1σ
+method and weighted shifted Gr¨
+unwald-Letnikov method to improve the temporal convergence
+order. This will help to solve this kind of problems more efficiently and effectively.
+i
+
+-----

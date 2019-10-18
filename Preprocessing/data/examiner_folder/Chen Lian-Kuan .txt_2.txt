@@ -1,0 +1,145 @@
+All
+Since 2014
+Citations
+3271
+785
+h-index
+29
+15
+i10-index
+81
+21
+Lian-Kuan Chen
+Department of Information Engineering, The
+Chinese University of Hong Kong
+Optical Communications
+Optical Networks
+TITLE
+CITED BY
+YEAR
+An optical network unit for WDM access networks with downstream DPSK and
+upstream re-modulated OOK data using injection-locked FP laser
+W Hung, CK Chan, LK Chen, F Tong
+Optical Fiber Communication Conference, TuR2
+244
+2003
+Upstream traffic transmitter using injection-locked Fabry-Perot laser diode as
+modulator for WDM access networks
+LY Chan, CK Chan, DTK Tong, F Tong, LK Chen
+Electronics Letters 38 (1), 43-45
+156
+2002
+Theory of burst-mode receiver and its applications in optical multiaccess
+networks
+C Su, LK Chen, KW Cheung
+Journal of lightwave technology 15 (4), 590-606
+129
+1997
+Demonstration of 20-Gb/s all-optical XOR gate by four-wave mixing in
+semiconductor optical amplifier with RZ-DPSK modulated inputs
+K Chan, CK Chan, LK Chen, F Tong
+IEEE Photonics Technology Letters 16 (3), 897-899
+120
+2004
+An all-optical XOR logic gate for high-speed RZ-DPSK signals by FWM in
+semiconductor optical amplifier
+N Deng, K Chan, CK Chan, LK Chen
+IEEE journal of selected topics in quantum electronics 12 (4), 702-707
+113
+2006
+A self-protected architecture for wavelength-division-multiplexed passive
+optical networks
+TJ Chan, CK Chan, LK Chen, F Tong
+IEEE photonics technology letters 15 (11), 1660-1662
+113
+2003
+A multicast WDM-PON architecture using DPSK/NRZ orthogonal modulation
+Y Zhang, N Deng, CK Chan, LK Chen
+Photonics Technology Letters, IEEE 20 (17), 1479-1481
+65
+2008
+Fiber-fault identification for branched access networks using a wavelength-
+sweeping monitoring source
+CK Chan, F Tong, LK Chen, KP Ho, D Lam
+Photonics Technology Letters, IEEE 11 (5), 614-616
+64
+1999
+A survivable WDM-PON architecture with centralized alternate-path protection
+switching for traffic restoration
+X Sun, CK Chan, LK Chen
+Photonics Technology Letters, IEEE 18 (4), 631-633
+59
+2006
+
+-----
+TITLE
+CITED BY
+YEAR
+A novel centrally controlled protection scheme for traffic restoration in WDM
+passive optical networks
+Z Wang, X Sun, C Lin, CK Chan, LK Chen
+Photonics Technology Letters, IEEE 17 (3), 717-719
+59
+2005
+A WDM passive optical network with centralized light sources and multicast
+overlay
+N Deng, CK Chan, LK Chen, C Lin
+Photonics Technology Letters, IEEE 20 (2), 114-116
+58
+2008
+An all-optical packet header recognition scheme for self-routing packet
+networks
+K Chan, F Tong, CK Chan, LK Chen, W Hung
+Optical Fiber Communication Conference
+54
+2002
+A practical passive surveillance scheme for optically amplified passive
+branched optical networks
+CK Chan, F Tong, LK Chen, J Song, D Lam
+Photonics Technology Letters, IEEE 9 (4), 526-528
+53
+1997
+Data remodulation on downstream OFSK signal for upstream transmission in
+WDM passive optical network
+N Deng, CK Chan, LK Chen, F Tong
+Electronics Letters 39 (24), 1741-1743
+50
+2003
+Use of Downstream Inverse-RZ Signal for Upstream Data Re-Modulation in a
+WDM Passive Optical Network
+G Lu, N Deng, CK Chan, LK Chen
+Optical Fiber Communication Conference
+47
+2005
+On the Performance of Adaptive MIMO-OFDM Indoor Visible Light
+Communications
+Y Hong, LK Chen
+IEEE Photonics Technology Letters 28 (8), 907-910
+46
+2016
+Exact analysis of homodyne crosstalk induced penalty in WDM networks
+KP Ho, CK Chan, F Tong, LK Chen
+Photonics Technology Letters, IEEE 10 (3), 457-458
+46
+1998
+Performance analysis of multicast traffic over spectrum elastic optical
+networks
+Q Wang, LK Chen
+Optical Fiber Communication Conference and Exposition (OFC/NFOEC), 2012 and …
+45
+2012
+A bit-serial optical packet label-swapping scheme using DPSK encoded labels
+W Hung, CK Chan, LK Chen, F Tong
+Photonics Technology Letters, IEEE 15 (11), 1630-1632
+42
+2003
+On architecture and limitation of optical multiprotocol label switching (MPLS)
+networks using optical-orthogonal-code (OOC)/wavelength label
+YG Wen, Y Zhang, LK Chen
+Optical Fiber Technology 8 (1), 43-70
+41
+2002
+
+-----
+
+-----

@@ -1,0 +1,944 @@
+Duncan S. Callaway
+Contact
+Information
+Energy and Resources Group, University of California
+310 Barrows Hall, Berkeley CA 94720-3050
+dcal@berkeley.edu
+(510) 543-5288
+Education
+Ph.D. Cornell University, Ithaca, New York, Theoretical and Applied Mechanics.
+Minor in Applied Mathematics. Thesis advisor: Steven Strogatz.
+B.S. University of Rochester, Rochester, New York, Mechanical Engineering.
+Research
+Interests
+Demand response in buildings; large data problems in energy systems; grid integra-
+tion of renewable electricity; control and economics of spatially distributed energy
+resources.
+Positions
+Visiting Professor, Power Systems Laboratory, Swiss Federal Institute of Technol-
+ogy Z¨
+urich (Spring 2018)
+Associate Professor, Energy and Resources Group, University of California, Berke-
+ley (2016-present)
+Affiliated Faculty, Department of Electrical Engineering and Computer Science,
+University of California, Berkeley (2016-present)
+Faculty Scientist, Environmental Energy Technologies Division, Lawrence Berkeley
+National Laboratory (2010-present)
+Affiliated Faculty, Department of Mechanical Engineering, University of California,
+Berkeley (2009-2016)
+Assistant Professor, Energy and Resources Group, University of California, Berke-
+ley (2009-2016)
+Visiting Scholar, Department of Mechanical Engineering, University of California,
+Berkeley (Fall 2008)
+Assistant Research Scientist, School of Natural Resources and Environment and
+Department of Mechanical Engineering (by courtesy), University of Michigan
+(2008-2009)
+Research Investigator, School of Natural Resources and Environment and Depart-
+ment of Mechanical Engineering (by courtesy), University of Michigan (2006-
+2008)
+Senior Design Engineer, PowerLight Corporation, Berkeley, CA (2005-2006)
+Senior Engineer, Davis Energy Group, Davis, CA (2003-2005)
+Fellowships &
+Awards
+NSF Faculty Early Career Development (CAREER) Award
+Hellman Faculty Fellow (UC Berkeley)
+NSF Postdoctoral Fellow
+NSF IGERT Fellow (Program focus: nonlinear systems)
+NSF Predoctoral Fellow
+General Motors Scholar (full tuition undergraduate academic scholarship)
+Duncan Callaway CV, July 2018, p. 1
+
+-----
+Publications &
+Patents
+Peer-Reviewed Journals,
+55. Deshmukh, R., Wu, G., Phadke, A. and Callaway, D.S. “Opportunities and
+constraints for wind and solar resources in India: A techno-economic geospatial
+analysis,” (in preparation)
+54. Lee, Jonathan T. and Callaway, D.S., “The cost of reliability in decentralized
+solar power systems in sub-Saharan Africa,” (in review)
+53. Liu, M., Peeters, S., Callaway, D.S., Claessens, B.J. “Trajectory tracking
+with an aggregation of domestic hot water heaters: Combining model-based
+and model-free control in a commercial deployment,” (in review).
+52. Castro, F.A. and Callaway, D.S., “Optimal electricity tariff design with demand-
+side investments” (in review).
+51. Tabone, M.D. and Callaway, D.S. “Disaggregating cooling energy use and
+learning indoor temperature schedules from AMI data.” (in review).
+50. Dobbe, R., Sondermeijer, O., Fridovich-Keil, D., Arnold, D.B., Callaway,
+D.S. and Tomlin, C.J., “Data-Driven Decentralized Optimal Power Flow” (in
+review).
+49. Dobbe, R., van Westering, W., Liu, S.X., Arnold, D.B., Callaway, D.S. and
+Tomlin, C.J., “Forecasting-Based State Estimation for Three-Phase Distribu-
+tion Systems with Limited Sensing” (in review).
+48. Liu, M., Phanivong, P.K., Shi, Y. and Callaway, D.S., “Decentralized Charg-
+ing Control of Electric Vehicles in Residential Distribution Networks,” IEEE
+Transactions on Control Systems Technology (2018). DOI: 10.1109/TCST.2017.2771307
+47. Ponce de Leon, D., Suffian, S., Kammen, D.M. and Callaway, D.S., “Oppor-
+tunities for Behavioral Energy Efficiency and Flexible Demand in Data-Limited
+Low-Carbon Resource Constrained Environments,” Applied Energy (2018),
+https://doi.org/10.1016/j.apenergy.2018.06.115
+46. Kara, E.C., Roberts, C.M., Tabone, M.D., Alvarez, L., Callaway, D.S. and
+Stewart, E.M. “Disaggregating solar generation from feeder-level measure-
+ments,” Sustainable Energy, Grids and Networks (2018). https://doi.org/10.1016/j.segan.2017.11.001
+45. Arnold, D.B., Sankur, M.D., Negrete-Pincetic, M. and Callaway, D.S., “Model-
+Free Optimal Coordination of Distributed Energy Resources for Provisioning
+Transmission-Level Services,” IEEE Transactions on Power Systems (2018).
+DOI: 10.1109/TPWRS.2017.2707405
+44. Wu, G.C., Deshmukh, R., Ndhlukula, K., Radojicic, T., Reilly-Moman, J.,
+Phadke, A., Kammen, D.M. and Callaway, D.S., “Strategic siting and re-
+gional grid interconnections key to low-carbon futures in African countries,”
+Proceedings of the National Academy of Sciences, (2017). https://doi.org/10.1073/pnas.1611845114
+43. Wenzel, G., Negrete-Pincetic, M., MacDonald, J. and Callaway, D.S., “Real-
+time Scheduling of Electric Vehicles for Ancillary Services,” IEEE Transactions
+on Smart Grid (2017). DOI: 10.1109/TSG.2017.2681961
+Duncan Callaway CV, July 2018, p. 2
+
+-----
+42. Callaway, D.S., Fowlie, M.L. and McCormick, G., “Location, location, loca-
+tion: The variable value of renewable energy and demand-side efficiency re-
+sources,” Journal of the Association of Environmental and Resource Economists
+(2017). https://doi.org/10.1086/694179.
+41. Tabone, M. ,Goebel, C., and Callaway, D.S., “The effect of PV siting on
+power system flexibility needs,” Solar Energy (2016).
+https://doi.org/10.1016/j.solener.2016.10.018
+40. Vrettos, E., Kara, E.C., MacDonald, J. S., Andersson, G. and Callaway, D.S.
+“Experimental Demonstration of Frequency Regulation by Commercial Build-
+ings Part I: Modeling and Hierarchical Control Design,” IEEE Transactions
+on Smart Grid (2016). DOI: 10.1109/TSG.2016.2628897
+39. Vrettos, E., Kara, E.C., MacDonald, J. S., Andersson, G. and Callaway,
+D.S.“Experimental Demonstration of Frequency Regulation by Commercial
+Buildings Part II: Results and Performance Evaluation,” IEEE Transactions
+on Smart Grid (2016). DOI: 10.1109/TSG.2016.2628893
+38. Cohen, M.A., Niemeyer, G., and Callaway, D.S., “Griddle: Video Gaming
+for Power System Education,” IEEE Transactions on Power Systems (2016).
+DOI: 10.1109/TPWRS.2016.2618887.
+37. Yang, I., Callaway, D.S., and Tomlin, C.J., “Variance-Constrained Risk Shar-
+ing in Stochastic Systems,” IEEE Transactions on Automatic Control (2017).
+DOI: 10.1109/TAC.2016.2599581
+36. Taylor, J.A. and Dhople, S.V. and Callaway, D.S., “Power Systems without
+Fuel,” Renewable and Sustainable Energy Reviews 57, pp 1322-1336 (2016).
+https://doi.org/10.1016/j.rser.2015.12.083
+35. Taylor, J.A. and Mathieu, J.L and Callaway, D.S. and Poolla, K., “Price
+and capacity competition in energy storage and demand response markets,”
+Energy Systems (2017).
+https://doi.org/10.1007/s12667-016-0193-9
+34. Solomon, A.A. and Kammen, D.M. and Callaway, D.S., “Investigating the
+impact of wind-solar complementarities on energy storage requirement and the
+corresponding supply reliability criteria,” Applied Energy, pp 130-145 (2016).
+https://doi.org/10.1016/j.apenergy.2016.01.070
+33. Sanchez, D.L. and Callaway, D.S.,“Optimal Scale of Carbon-Negative Energy
+Facilities” Applied Energy 170, pp 437-444 (2016). https://doi.org/10.1016/j.apenergy.2016.02.134
+32. Arnold, D.B., Negrete-Pincetic, M., Auslander D.M., and Callaway, D.S.,
+“Model-Free Optimal Control of VAR Resources in Distribution Systems: An
+Extremum Seeking Approach” IEEE Transactions on Power Systems (2016).
+31. Xu, Z., Callaway, D.S., Hu, Z. and Song, Y. “Real-time Scheduling of Gen-
+eralized Flexible Loads” IEEE Transactions on Power Systems Vol. 31, No.
+6, pp 4206-4216 (2016).
+Duncan Callaway CV, July 2018, p. 3
+
+-----
+30. Cohen, M.A. and Callaway, D.S., “Effects of Distributed PV Generation
+on Californias Distribution System, Part 1: Engineering Simulations,” Solar
+Energy (2016).
+29. Cohen, M.A. and Kauzmann P.A. and Callaway, D.S., “Effects of Distributed
+PV Generation on Californias Distribution System, Part 2: Economic Analy-
+sis,” Solar Energy (2016).
+28. Ponce de Leon, D and Johnston, J. and Moncada, M.V. and Callaway, D.S.
+and Kammen, D.M., “Evidence and Future Scenarios of a Low-Carbon Energy
+Transition in Central America,” Environmental Research Letters (2015)
+27. Tabone, M. and Callaway, D.S., “Modeling distributed photovoltaic produc-
+tion: A hidden state, spatio-temporal approach,” IEEE Transactions on Power
+Systems (2015).
+26. Addy, N., Kiliccote, S., Callaway, D.S. and Mathieu, J.L. “How Baseline
+Model Implementation Choices Affect Demand Response Assessments” Jour-
+nal of Solar Energy Engineering - Including Wind Energy and Building Energy
+Conservation vol 137.2 (2015).
+25. Mathieu, J.L , Dyson, M.E , Callaway, D.S. “Resource and revenue potential
+of California residential load participation in ancillary services,” Energy Policy
+80, pp. 76-87 (2015).
+24. Raichur, V., Callaway D.S., and Skerlos S.J., “Estimating Emissions from
+Electricity Generation Using Electricity Dispatch Models: The Importance of
+System Operating Constraints,” Journal of Industrial Ecology, (2015).
+23. Mathieu, J.L. and Kamgarpour, M. and Lygeros, J. and Andersson, G. and
+Callaway, D.S., “Arbitraging Intraday Wholesale Energy Market Prices with
+Aggregations of Thermostatic Loads,” IEEE Transactions on Power Systems,
+(2015).
+22. Solomon, A.A. and Kammen, D.M. and Callaway, D.S., “The role of large-
+scale energy storage design and dispatch in the power grid: A study of very
+high grid penetration of variable renewable resources,” Applied Energy, DOI:
+10.1016/j.apenergy.2014.07.095 (2014).
+21. Dyson, M.E. and Borgeson S. and Tabone, M. and Callaway, D.S., “Using
+smart meter data to estimate demand response potential, with application to
+solar energy integration,” Energy Policy, DOI: 10.1016/j.enpol.2014.05.053
+(2014).
+20. Goebel, C and Callaway D.S., and Jacobsen, H.A. “The Impact of State of
+Charge Management when Providing Regulation Power with Energy Storage,”
+IEEE Power Engineering Letters (2014).
+19. Taylor, J.A., Nayyar, A., Callaway D.S. and Poolla, K. “Consolidated Dy-
+namic Pricing of Power System Regulation,” IEEE Transactions on Power
+Systems (2013).
+Duncan Callaway CV, July 2018, p. 4
+
+-----
+18. Subramanian, A., Garcia, A.M., Callaway, D.S., Poolla, K.P, Varaiya, P.
+“Real-time Scheduling of Distributed Resources,” IEEE Transactions on Smart
+Grid (2013).
+17. Goebel, C and Callaway D.S., “Using ICT-Controlled Plug-in Electric Vehicles
+to Supply Grid Regulation in California at Different Renewable Integration
+Levels,” IEEE Transactions on Smart Grid (2013).
+16. Taylor, J.A., Callaway D.S. and Poolla, K. “Competitive energy storage in
+the presence of renewables,” IEEE Transactions on Power Systems (2013).
+15. Mathieu, J.L., Koch, S and Callaway D.S. “State Estimation and Control of
+Electric Loads to Manage Real-Time Energy Imbalance,” IEEE Transactions
+on Power Systems (2013).
+14. Ma, Zhongjing, Callaway, D.S. and Hiskens I.A. “Decentralized Charging
+Control of Large Populations of Plug-in Electric Vehicles,” IEEE Transactions
+on Control Systems Technology (2013).
+13. Mathieu, J.L., Callaway, D.S. and Kiliccote, S. “Variability in Automated
+Responses of Commercial Buildings and Industrial Facilities to Dynamic Elec-
+tricity Prices,” Energy and Buildings, Volume 43, Issue 12, Pages 3322-3330
+(2011).
+12. Moura, S.J., Fathy, H.K., Callaway, D.S., Stein, J.L. “A Stochastic Optimal
+Control Approach for Power Management in Plug-in Hybrid Electric Vehicles,”
+IEEE Transactions on Control Systems Technology, 19(3): 545-555, (2011)
+11. Callaway, D.S. and Hiskens, I. A., “Achieving Controllability of Electric
+Loads,” Proceedings of the IEEE, Volume 99, Number 1, pp 184 - 199, (2011).
+10. Callaway, D.S. “Sequential reliability forecasting for wind energy: Tempera-
+ture dependence and probability distributions,” IEEE Transactions on Energy
+Conversion, Volume 25, Issue 2, pp 577-587 (2010).
+9. Moura, S.J., Callaway, D.S., Fathy, H.K., Stein, J.L. “Tradeoffs between
+Battery Energy Capacity and Stochastic Optimal Power Management in Plug-
+in Hybrid Electric Vehicles,” Journal of Power Sources, Volume 195, Issue 9,
+Pages 2979-2988 (2010).
+8. Callaway D.S. “Tapping the energy storage potential in electric loads to
+deliver load following and regulation, with application to wind energy,” Energy
+Conversion and Management, 50, 1389-1400 (2009).
+7. Callaway D.S., Hastings A. “Consumer movement through differentially sub-
+sidized habitats creates a spatial food web with unexpected results,” Ecology
+Letters, 5 (3): 329-332 (2002).
+6. Girvan M., Callaway D.S., Newman M.E.J., Strogatz S.H. “Simple model
+of epidemics with pathogen mutation” Physical Review E, 65 (3): Art. No.
+031915 Part 1 (2002).
+Duncan Callaway CV, July 2018, p. 5
+
+-----
+5. Callaway D.S., Perelson A.S. “HIV-1 infection and low steady state viral
+loads” Bulletin of Mathematical Biology, 64 (1): 29-64 (2002).
+4. Callaway D.S., Hopcroft J.E., Kleinberg J.M., Newman M.E.J., Strogatz
+S.H. “Are randomly grown graphs really random?” Physical Review E, 64
+(4): Art. No. 041902 Part 1 Oct (2001).
+3. Callaway D.S., Newman M.E.J., Strogatz S.H., Watts D.J. “Network robust-
+ness and fragility: Percolation on random graphs.” Physical Review Letters,
+85 (25): 5468-5471 Dec 18 (2000).
+2.
+Callaway D.S., Ribeiro R.M., Nowak M.A. “Virus phenotype switching and
+disease progression in HIV-1 infection,” Proceedings of the Royal Society of
+London Series B-Biological Sciences 266 (1437): 2523-2530 Dec 22 (1999).
+1. Furtado M.R., Callaway D.S., Phair J.P., Kunstman K.J., Stanton J.L.,
+Macken C.A., Perelson A.S., Wolinsky S.M. “Persistence of HIV-1 transcrip-
+tion in peripheral-blood mononuclear cells in patients receiving potent an-
+tiretroviral therapy,” New England Journal of Medicine 340 (21): 1614-1622
+May 27 (1999).
+Book Chapters
+1. Ma, Z, Callaway, D.S. and Hiskens, “Optimal Charging Control for Plug-In
+Electric Vehicles,” in: Control and Optimization Methods for Electric Smart
+Grids, A. Chakrabortty and M.D. Ilic (editors), Springer, 2012.
+Other Technical Reports and Conference Proceedings:
+9. Deshmukh, R., Callaway, D.S., Abhyankar, N. and Phadke, A. “Cost and
+Value of Wind and Solar in Indias Electric System in 2030,” First International
+Conference on Large Scale Grid Integration of Renewable Energy India (2017).
+8. Yang, I., Callaway, D.S., and Tomlin, C., “Risk-Limiting Dynamic Contracts
+for Direct Load Control,” Proceedings of Allerton Conference on Communi-
+cation, Control, and Computing, Monticello, IL, (2014).
+7. Anuradha M. Annaswamy (lead), Jacob Aho, Massoud Amin, George Arnold,
+Andrew Buckspan, Angela Cadena, Duncan Callaway, Eduardo Camacho,
+Michael Caramanis, Aranya Chakrabortty, Amit Chakraborty, Joe Chow, Munther
+Dahleh, Christopher L. DeMarco, Alejandro Dominguez-Garcia, Daniel Dotta,
+Amro Farid, Paul Flikkema, Dennice Gayme, Sahika Genc, Merce Griera i
+Fisa, Ian Hiskens, Paul Houpt, Gabriela Hug, Pramod Khargonekar, Himanshu
+Khurana, Arman Kiani, Steven Low, John McDonald, Eduardo Mojica-Nava,
+Alexis Legbedji Motto, Lucy Pao, Alessandra Parisio, Adrian Pinder, Michael
+Polis, Mardavij Roozbehani, Zhihua Qu, Nicanor Quijano, Tariq Samad, Jakob
+Stoustrup, “IEEE Vision for Smart Grid Controls: 2030 and Beyond,” (2014)
+Duncan Callaway CV, July 2018, p. 6
+
+-----
+6. Callaway, D.S., and Mathieu, J.L., and Dyson, M.E., and Kamgarpour,
+Maryam, and Koch, Stephan and Lygeros, John, “Mitigating Renewables In-
+termittency Through Nondisruptive Load Control ,” Power Systems Engineer-
+ing Research Center Technical Report (2013)
+5. Taylor, J.A., Mathieu, J.L., Callaway, D.S., and Poolla, K., “Price and capac-
+ity competition in storage and zero-mean energy markets,” to appear in the
+Proceedings of Allerton Conference on Communication, Control, and Com-
+puting, Monticello, IL (2012).
+4. S. Oren, D. Callaway, J.L. Mathieu, A. Papavasilou, T. Mount, M. Zhang,
+R. Thomas, G. Gross, A. Dominguez-Garcia, 2012. “Renewable Energy Inte-
+gration and the Impact of Carbon Regulation on the Electric Grid.” PSERC
+Future Grid Initiative White Paper, Part 3.
+3. Mathieu, J.L. and Callaway, D.S., “The Value of Real-Time Data in Con-
+trolling Electric Loads for Demand Response.” Submitted as a supplement to
+an invited presentation at the Carnegie Mellon Conference on the Electricity
+Industry, 13-14 Mar 2012.
+2. Callaway, D.S. Fueling the Biodiesel Debate. Solar Today, Jan/Feb 2006
+1. Callaway, D.S. Solving the Biodiesel Equation. Solar Today, p. 32. Nov/Dec
+2005
+Peer-Reviewed Conference Proceedings
+42. Hidalgo-Gonzalez, P., Dobbe, R. Henriquez-Auba, R.,
+Callaway, D.S. and
+Tomlin, C.J. “Frequency Regulation in Hybrid Power Dynamics with Variable
+and Low Inertia due to Renewable Energy,” 2018 IEEE Conference on Decision
+and Control (to appear).
+41. Henriquez-Auba, R., Pauli, R., Kalathil, D, Callaway, D.S. and Kameshwar
+Poolla, ”The Sharing Economy for Residential Solar Generation,” 2018 IEEE
+Conference on Decision and Control (to appear).
+40. Noah Klugman, Veronica Jacome, Meghan Clark, Matthew Podolsky, Patrick
+Pannuto, Neal Jackson, Aley Soud Nassor, Catherine Wolfram, Duncan Call-
+away, Jay Taneja, Prabal Dutta, “Experience: Android Resists Liberation from
+Its Primary Use Case,” The 24th Annual International Conference on Mobile
+Computing and Networking, 2018 (to appear).
+39. Avila, N., Callaway, D.S. and Kammen, D.M., ”Generation expansion anal-
+ysis in low data settings”, PowerAfrica 2018 (to appear)
+38. Sunter, D.A., Dees, J., Castellanos, S, Callaway, D.S., and Kammen, D.M.
+“Political Affiliation and Rooftop Solar Adoption in New York and Texas,”
+2018 IEEE 45th Photovoltaic Specialists Conference (to appear).
+37. Liu, M., Phanivong, P. and Callaway, D.S., “Customer- and Network-Aware
+Decentralized EV Charging Control,” 20th Power Systems Computation Con-
+ference (to appear).
+Duncan Callaway CV, July 2018, p. 7
+
+-----
+36. Liu, M., Phanivong, P.K., and
+Callaway, D.S. “Electric vehicle charging
+control in residential distribution network: A decentralized event-driven re-
+alization,” IEEE 56th Annual Conference on Decision and Control, 214-219
+(2017)
+35. Dobbe, R., Arnold, D., Liu, S.
+Callaway, D.S. and Claire Tomlin, “Real-
+Time Distribution Grid State Estimation with Limited Sensors and Load Fore-
+casting,” 2016 ACM/IEEE 7th International Conference on Cyber-Physical
+Systems.
+34. Juul, F., Negrete-Pincetic, M., MacDonald, J. and Callaway, D.S., “Real-
+time Scheduling of Electric Vehicles for Ancillary Services” Proceedings of the
+IEEE Power and Energy Society General Meeting, (2015).
+33. Arnold, D.B., Negrete-Pincetic, M., Stewart, E., Auslander, D.M. and Call-
+away, D.S., “Extremum Seeking Control of Smart Inverters for VAR Compen-
+sation,” Proceedings of the IEEE Power and Energy Society General Meeting,
+(2015).
+32. Yang, I. and Callaway, D.S. and Tomlin, C.J. “Indirect Load Control for
+Financial Risk Management in Electricity Markets via Risk-Limiting Dynamic
+Contracts,” Proceedings of 2015 American Control Conference (ACC), Chicago,
+IL (2015).
+31. Kara, E.C., Tabone, M.D., MacDonald, J.S., Callaway, D.S., and Kiliccote,
+S., “Quantifying flexibility of residential thermostatically controlled loads for
+demand response: a data-driven approach,” Proceedings of the 1st ACM
+Conference on Embedded Systems for Energy-Efficient Buildings (2014).
+30. Maasoumy, M., Rosenberg, C. and Sangiovanni-Vincentelli, A. and Call-
+away, D.S., “Model Predictive Control Approach to Online Computation of
+Demand-Side Flexibility of Commercial Buildings HVAC System for Supply
+Following,” 2014 American Control Conference.
+29. Yang, I. and Callaway, D.S. and Tomlin, C.J., “Dynamic Contracts with
+Partial Observations,” 2014 American Control Conference.
+28. Addy, N., Mathieu, J.L., Kiliccote, S., and Callaway, D.S. “Understanding
+the Effect of Baseline Modeling Implementation Choices on Analysis of De-
+mand Response Performance”, Proceedings fo the ASME 2013 International
+Mechanical Engineering Congress & Exposition (2013).
+27. Cohen, M.A. and Callaway, D.S., “Modeling the Effect of Geographically Di-
+verse PV Generation on California’s Distribution System,” IEEE International
+Conference on Smart Grid Communications (2013).
+26. Kamgarpour, M. and Ellen, C. and Soudjani, S. and Gerwinn, S. and Mathieu,
+J.L. and M¨
+ullner, N. and Abate, A. and Callaway, D.S. and Fr¨
+anzle, M and
+Lygeros, J., “Modeling Options for Demand Side Participation of Thermo-
+statically Controlled Loads,” IREP Symposium-Bulk Power System Dynamics
+and Control, Rethymnon, Greece (2013).
+Duncan Callaway CV, July 2018, p. 8
+
+-----
+25. Tabone, M.D. and Callaway, D.S. “Parameterizing Fluctuations in Solar Pho-
+tovoltaic Generation Using Hidden Markov Models,” Proceedings of the IEEE
+Power and Energy Society General Meeting, Vancouver Canada (2013).
+24. Mathieu, J.L. and Kamgarpour, M. and Lygeros, J. and Callaway, D.S.,
+“Energy Arbitrage with Thermostatically Controlled Loads,” Proceedings of
+the European Control Conference, Z¨
+urich, Switzerland (2013).
+23. Taylor, J.A. and Nayyar, A. and Callaway, D.S. and Poolla, K., “Dynamic
+Pricing in Consolidated Ancillary Service Markets,” Proceedings of the Euro-
+pean Control Conference, Z¨
+urich, Switzerland (2013).
+22. MacDonald, J. and Cappers, P and Callaway, D.S. and Kiliccote, S. “De-
+mand Response Providing Ancillary Services: A Comparison of Opportunities
+and Challenges in the US Wholesale Markets” Proceedings of the GridInterop
+Forum, 11 pages (2012)
+21. Subramanian, A. and Taylor, J.A. and Bitar, E. and Callaway, D.S. and
+Poolla, K. and Varaiya, P. “Optimal power and reserve capacity procurement
+policies with deferrable loads,” IEEE 51st Annual Conference on Decision and
+Control, (2012).
+20. Mathieu, J.L , Dyson, M.E , Callaway, D.S. “Using Residential Electric Loads
+for Fast Demand Response: The Potential Resource and Revenues, the Costs,
+and Policy Recommendations,” ACEEE Summer Study on Energy Efficiency
+in Buildings (2012).
+19. Taylor, J.A., Callaway, D.S., Poolla, K., “Inventory control of storage in dis-
+tribution systems,” Proceedings of the American Control Conference (2012).
+18. Subramanian, A., Garcia, A.M., Dominguez-Garcia, A., Callaway, D.S., Poolla,
+K.P, Varaiya, P. “Real-time Scheduling of Deferrable Electric Loads” Proceed-
+ings of the American Control Conference (2012).
+17. Mathieu, J.L. and Callaway, D.S. “State Estimation and Control of Heteroge-
+neous Thermostatically Controlled Loads for Load Following,” Proceedings of
+the 45 th Hawaii International Conference on System Sciences, Manoa Hawai’i
+(2012).
+16. Mathieu, J.L. , Callaway, D.S. and Kiliccote, S. “Examining Uncertainty in
+Demand Response Baseline Models and Variability in Automated Responses
+to Dynamic Pricing,” Proceedings of the IEEE Conference on Decision and
+Control, Orlando Florida (2011).
+15. Alizadeh, M., Scaglione, A. ,Thomas R.J. and Callaway, D.S. “Information
+Infrastructure for Cellular Load Management in Green Power Delivery Sys-
+tems,” Proc. IEEE SmartGridComm (2011).
+14. Ma, Z, Callaway, D.S. and Hiskens, I.A. , “Distributed MPC Methods in
+Charging Control of Large Populations of Plug-in Electric Vehicles,” Proceed-
+ings of the 18 th IFAC World Congress, (2011).
+Duncan Callaway CV, July 2018, p. 9
+
+-----
+13. Koch, S. , Mathieu, J.L., and Callaway, D.S. “Modeling and Control of
+Aggregated Heterogeneous Thermostatically Controlled Loads for Ancillary
+Services,” Proceedings of the 17th Power Systems Computation Conference,
+(2011).
+12. Keep, T.M., Sifuentes, F.E., Auslander, D.M. and Callaway D.S.
+“Using
+load switches to control aggregated electricity demand for load following and
+regulation,” Proceedings of the IEEE Power & Energy Society General Meet-
+ing, Detroit MI (2011).
+11. Callaway, D.S. , “Can smaller loads be profitably engaged in power system
+services?” Proceedings of the IEEE Power & Energy Society General Meeting,
+Detroit MI (2011).
+10. Ma, Z, Callaway, D.S. and Hiskens, I.A., “Decentralized Charging Control
+for Large Populations of Plug-in Electric Vehicles,” Proceedings of the IEEE
+Conference on Decision and Control, Atlanta Georgia, (2010).
+9. Ma, Zhongjing , Callaway, D.S. and Hiskens, I.A., “Decentralized Charging
+Control for Large Populations of Plug-in Electric Vehicles: Application of
+the Nash Certainty Equivalence Principle.”
+Proceedings of the 2010 IEEE
+Multi-Conference on Systems and Control Yokohama, Japan, September 8-
+10, (2010).
+8. Kashyap, A. and Callaway, D.S. , “Controlling distributed energy constrained
+resources for power system ancillary services,” Proceedings of the 11 th In-
+ternational Conference for Probabilistic Methods Applied to Power Systems,
+(2010).
+7. Kashyap, A. and Callaway, D.S. , “Estimating the probability of load curtail-
+ment in power systems with responsive distributed storage,” Proceedings of
+the 11 th International Conference for Probabilistic Methods Applied to Power
+Systems, (2010).
+6. Mathieu, J.L. , Gadgil, A.J., Callaway, D.S., Price, P.N., Kiliccote, S. “Char-
+acterizing the Response of Commercial and Industrial Facilities to Dynamic
+Prices from the Utility” Proceedings of ASME 2010 4th International Confer-
+ence on Energy Sustainability (2010).
+5. Hiskens, I.A. and Callaway, D.S., “Achieving Controllability of Plug-in Elec-
+tric Vehicles,” 5 th International IEEE Vehicle Power and Propulsion Confer-
+ence, Dearborn, Michigan, September (2009).
+4. Moura, S.J., Fathy, H.K., Callaway, D.S., Stein, J.L., "A Stochastic Optimal
+Control Approach for Power Management in Plug-in Hybrid Electric Vehicles,"
+ASME 2008 Dynamic Systems and Control Conference, Ann Arbor, Michigan,
+October 20-22, (2008).
+3. Moura, S.J., Callaway, D.S., Fathy, H.K., Stein, J.L. “Impact of Battery
+Sizing on Stochastic Optimal Power Management in Plug-in Hybrid Electric
+Vehicles,” 2008 IEEE International Conference on Vehicular Electronics and
+Safety, Columbus, Ohio, September 22-24, (2008).
+Duncan Callaway CV, July 2018, p. 10
+
+-----
+2. Bourne D., Callaway D., Dwiggins H., and Lee E. Durability Testing of a Low
+Cost ICS Solar Water Heater. Solar 2004, Proceedings, 33rd American So-
+lar Energy Society Annual Conference, Portland, OR, American Solar Energy
+Society, (2004).
+1. Bourne D., Callaway D., Lee E. and Plaisted J., Design and Development of
+a Low Cost ICS Solar Water Heater, Solar 2003, Proceedings, 32nd American
+Solar Energy Society Annual Conference, Austin, TX, American Solar Energy
+Society, (2003).
+Patents:
+2. Bourne R.C., Lee B.E., Callaway D.S. Vertical counterflow evaporative cooler.
+U.S. Patent Number 6,845,629, January 25, 2005
+1. Bourne R.C., Lee B.E., Callaway D.S. Two stage indirect evaporative cooling
+system. US Patent Number 6,931,883, August 23, 2005
+Invited talks
+Zanzibar Electric Corporation, “Reliability in Unjuga” July 12, 2018.
+Power Systems Laboratory, ETH Z¨
+urich, “Decentralization in Energy Systems: Ab-
+sorbing Solar and Storage into Grids.” May 16, 2018.
+Oxford University Control Group, “Model free control and optimization in electric
+distribution systems.” April 30, 2018.
+UC Louvain (Belgium), “Model free control and optimization in electric distribution
+systems.” March 20 2018.
+Institute for Automation, ETH Z¨
+urich, “Model free control and optimization in
+electric distribution systems.” March 8 2018.
+Western Interstate Energy Board, “Locational Value of Distributed Solar: Engineer-
+ing and Economic Considerations”, October 26 2017.
+National Resources Defense Council San Francisco office, “Electrifying Loads in
+California,” June 19, 2017.
+More than Smart Initiative, Oakland. “Electrifying Loads in California,” June 19,
+2017.
+MIT Laboratory for Information and Decision Systems, “Distributed Energy Re-
+source Control and Network Optimization,” February 28, 2017.
+MIT Energy Initiative Grad Lunch “Quantifying and Mitigating the Impacts of PV
+in Distribution Systems,” February 28, 2017.
+KU Leuven (Belgium) – Energyville, “Distributed Energy Resource Control and Net-
+work Optimization,” December 7, 2016.
+Pontificia Universidad Catolica de Chile, Santiago, “Distributed Energy Resource
+Control and Network Optimization,” November 21, 2016.
+Princeton University, Vincent Poor Research Group, “Integrating Distributed Solar
+into Electric Power Systems,” November 18, 2015.
+Stanford Energy Resources Engineering, “Integrating Distributed Solar into Electric
+Power Systems,” October 12, 2015.
+UC Berkeley Electrical Engineering and Computer Science, “Integrating Distributed
+Solar into Electric Power Systems,” October 8, 2015.
+Duncan Callaway CV, July 2018, p. 11
+
+-----
+California Energy Commission, “Resource and Revenue Potential of California Res-
+idential Load Participation in Ancillary Services,” at the IEPR Commissioner
+Workshop on the State of the Science on Scenarios to Deeply Reduce Green-
+house Gas Emissions from Californias Energy System, July 24, 2015.
+UC San Diego Mechanical and Aerospace Engineering, “Forecasting the reserve re-
+quirements of power systems with high PV penetrations: does PV plant location
+matter?” May 13, 2015.
+Los Alamos National Lab Grid Science Winter School, “Stochastic Models of Load
+and Renewables,” January 14, 2015.
+Keynote speaker at SinBerBEST Annual Symposium, National University of Singa-
+pore, “Coupling building systems with electric power system operations,” Jan-
+uary 6, 2015.
+Cornell Center for Applied Math, “Models, Contracts and Control That Help Elec-
+tricity Consumers to Help the Grid,” November 21, 2014.
+Power Systems Engineering Research Center public webinar, “Quantifying and Mit-
+igating the Impacts of PV in Distribution Systems,” November 18, 2014.
+2014 Allerton Conference, “Risk-Limiting Dynamic Contracts for Direct Load Con-
+trol,” October 1, 2014
+2014 IEEE PES General Meeting “Demand Response for Ancillary Services.” July
+28, 2014.
+State of California Assembly Staff Seminar Series, “Physical and Economic Effects
+of Distributed PV Generation on Californias Distribution System,” (with student
+Michael Cohen), May 9, 2014.
+Humboldt State University Schatz Energy Research Center, “Leveraging large data
+sets and control to enable low carbon power systems,” April 10, 2014.
+2014 EI@Haas POWER Conference, “Physical and Economic Effects of Distributed
+PV Generation on Californias Distribution System,” (with student Michael Co-
+hen), March 21, 2014.
+2014 Information Theory and Applications Workshop, “Leveraging large data sets
+and control to enable low carbon power systems,” February 13, 2014.
+Columbia University Mechanical Engineering, “Leveraging large data sets and control
+to enable low carbon power systems,” December 6, 2013.
+Carnegie Mellon University Electrical and Computer Engineering, “Leveraging large
+data sets and control to enable low carbon power systems,” December 4, 2013.
+University of Texas at Austin Energy Symposium, “Leveraging large data sets: de-
+mand side models and control in low carbon power systems,” November 7, 2013.
+Texas A&M Electrical and Computer Engineering, “Quantifying and managing the
+impacts of large scale solar electricity generation,” September 11, 2013.
+Semi-plenary speaker on Energy Systems, European Control Conference, “Demand-
+side modeling, estimation and control in electric power systems,” July 18, 2013.
+European Control Conference Tutorial Session on Control in Electric Power Systems,
+“Demand Response for Enhanced Control of Electric Power Systems.” July 18,
+2013.
+Stanford Atmosphere and Energy Seminar Series, “Large-scale penetration of pho-
+tovoltaics: impacts distribution systems and ancillary services,” May 21, 2013.
+University of Michigan Electrical and Computer Engineering, “Large-scale penetra-
+tion of photovoltaics: impacts distribution systems and ancillary services,” May
+3, 2013.
+Duncan Callaway CV, July 2018, p. 12
+
+-----
+University of California, Los Angeles Smart Energy Research Center, “Responsive
+Load and Distributed Storage,” Training workshop, March 19, 2013
+Energy and Environmental Economics, Inc, “Quantifying and lowering the cost of
+fast demand response resources for renewables integration,” Lunch Seminar,
+Nov 2, 2013.
+Carnegie Mellon University Electrical and Computer Engineering Department, “Quan-
+tifying and lowering the cost of fast demand response resources for renewables
+integration,” October 5, 2012.
+Arizona State University Electrical, Computer and Energy Engineering Department,
+“Quantifying and lowering the cost of fast demand response resources for re-
+newables integration” August 24, 2012.
+American Control Conference Workshop on Green Buildings (Montreal), “Building-
+to-Grid Fundamentals,” June 26, 2012.
+32nd Center for Nonlinear Studies Annual Conference (Los Alamos), “Distributed
+coordination for demand response,” May 24, 2012.
+UC Berkeley Center for Built Environment Industry Advisory Board Conference,
+“Feedback control in grid responsive buildings,” April 12, 2012.
+Massachusetts Institute of Technology, Laboratory for Information and Decision Sys-
+tems Special Seminar, “Distributed computation in complex energy networks”
+April 12, 2012.
+University of Illinois at Urbana Champaign, ECE Colloquium, “Mining for demand
+response resources: lowering extraction costs and examining the resource po-
+tential for non-disruptive load control” February 23, 2012.
+ETH Z¨
+urich, EEH Colloquium, “Aggregation models and feedback control for de-
+mand side flexibility in power systems” November 29, 2011.
+Forty-Ninth Annual Allerton Conference on Communication, Control, and Comput-
+ing, “Decentralized electric vehicle charge coordination with constrained com-
+munications,” September 29, 2011.
+American Control Conference Workshop on Control, Modeling and Optimization
+Challenges in the Smart Grid (San Francisco), “Responsive Load and Distributed
+Storage,” June 28, 2011.
+SIAM Conference on Dynamical Systems (Snowbird, Utah), “Engaging the Demand
+Side in Renewables Integration,” May 25, 2011.
+Connectivity Week Conference (San Jose CA), “Addressing Fast DR Metering and
+Control Challenges,” May 23, 2011.
+Beijing Institute of Technology, School of Automation, “The Role of the Demand
+Side in Renewables Integration,” March 4, 2011.
+National Science Foundation Pre-conference on Dynamical Systems: New Directions
+in Dynamical Systems, “Dynamics, Electric Power, and the Smart Grid,” January
+4, 2011.
+UC Berkeley, i4energy Seminar Series, “The Role of Demand Response in Renewables
+Integration” November 12, 2010.
+National Academy of Engineering German-American Frontiers of Engineering Sym-
+posium, “Coupling systems with electric vehicles for sustainability, security and
+grid reliability,” April 23-25 2010.
+Los Alamos National Laboratory, Center for Nonlinear Studies, “Aggregated Elec-
+tricity Load Modeling & Control for Fast Ancillary Services” April 6, 2010.
+Duncan Callaway CV, July 2018, p. 13
+
+-----
+Power Systems Engineering Research Center public webinar, “Aggregated Electricity
+Load Modeling & Control for Regulation and Load Following Ancillary Services.”
+November 3 2009.
+20th International Symposium on Mathematical Programming “Aggregated Elec-
+tricity Load Modeling & Control for Regulation and Load Following Ancillary
+Services” August 26, 2009.
+University of California, Berkeley Energy and Resources Group Colloquium, “Exam-
+ining energy storage and its alternatives in sustainable energy systems.” February
+11 2009.
+Group for Research in Decision Analysis (GERAD, a multi-university research center),
+Montreal. “Statistical mechanical representations of distributed energy storage
+devices to facilitate sustainable energy production,” January 16, 2009.
+Western Electricity Coordinating Council, Modeling Coincident Energies to pro-
+duce Coincident Dispatch Seminar, “Wind Forecasting for System Reliability
+and Emissions Reduction from Wind Energy,” November 6, 2008.
+University of California, Berkeley: Renewable and Appropriate Energy Laboratory,
+Energy and Resources Group, “Greenhouse Gas Emissions Reductions from Wind
+Energy: Location, Location, Location?” October 29, 2008.
+University of California, Berkeley: Berkeley Manufacturing Institute, Department of
+Mechanical Engineering, “Tapping the energy storage potential in electric loads
+with PCTs” September 22, 2008.
+University of Michigan, CARSS / MMPEI Workshop on Energy and Social Science:
+Challenges and Opportunities, “Greenhouse Gas Emissions Reductions and Wind
+Energy Deployment” May 6, 2008.
+University of Michigan Systems Science Seminar, “Reliability and Storage in Sus-
+tainable Energy Systems,” February 2, 2008.
+Cornell University Sibley School of Mechanical and Aerospace Engineering, “Engi-
+neering Sustainable Energy Systems,” February 21, 2006.
+University of Wisconsin, Madison: Energy Institute, “Engineering Sustainable En-
+ergy Systems,” February 20 2006.
+University of California, Davis, Dept of Mechanical and Aeronautical Engineering,
+“Engineering Sustainable Energy Systems,” February, 2006.
+Building Industry Research Alliance Annual Review, “Cutting Edge Heating and
+Cooling: OASys & NightBreeze,” July 28, 2005.
+Sacramento Municipal Utilities District Innovative Speaker Series, “Market Rate
+Zero Energy Homes.” May, 2005.
+Canadian Net Zero Energy Home Coalition Workshop. “Market Rate Zero Energy
+Homes” January 19th, 2005.
+SIAM Conference on Dynamical Systems, “Random growing graphs.” May 20-25,
+2001
+Princeton University: Levin-Pacala Labtea, “A simple epidemic model,” June 18,
+2000.
+7th Annual International Discussion Meeting on HIV Dynamics and Evolution, “In-
+termittent viremia in HIV infection,” April 30, 2000
+Nonlinear Sciences Informal Seminar, Cornell University. “HIV phenotype switch-
+ing.” October 18, 2000.
+Mathematical Biology Group Seminar, Department of Zoology, Oxford University,
+“HIV phenotype switching.” October, 1998.
+Duncan Callaway CV, July 2018, p. 14
+
+-----
+Mathematical Association of America, Seaway Section semi-annual meeting, “Math-
+ematics in medicine.” April, 1999
+Student /
+Postdoc
+Supervision
+Former Postdocs:
+Mingxi Liu (University of Victoria ME PhD). 2016-2018, now Assistant Professor of
+Electrical and Computer Engineering, University of Utah.
+Matias Negrete-Pincetic (UIUC EECS PhD). 2012-2014, now Assistant Professor of
+Electrical Engineering, Pontifical Catholic University of Chile.
+Joshua Taylor (MIT ME PhD). 2011-2012, now Associate Professor, Electrical and
+Computer Engineering, University of Toronto
+Zhongjing Ma (McGill ECE Ph.D), 2009-2010, now Associate Professor, Department
+of Automation, Beijing Institute of Technology
+Current Ph.D.
+Anna Brockway (Berkeley ERG)
+Jonathan Lee (Berkeley ERG)
+Phillippe Phanivong (Berkeley ERG)
+Ciaran Roberts (Berkeley EECS)
+Froy Sifuentes (Berkeley ERG)
+Former Ph.D.:
+Felipe Castro (Berkeley ERG, 2017), now Economist at Fiscala Nacional Econmica
+de Chile
+Imran Sheikh (Berkeley ERG, 2017) now Assistant Professor at Western Washington
+University
+Ranjit Deshmukh (Berkeley ERG, 2016), now Assistant Professor of Environmental
+Science, UC Santa Barbara
+Michael Cohen (Berkeley ERG, 2016), now at Lead Developer at New Sun Road
+Daniel Arnold (Berkeley ME; co-Chair with David Auslander, 2016), now Research
+Scientist, Lawrence Berkeley National Lab.
+Michaelangelo Tabone (Berkeley ERG, 2016), now at Energy Algorithms Engineer
+at Nest.
+Autumn Preskill (Berkeley ERG, 2015), Lead Software Developer at Transfix
+Sam Borgeson (Berkeley ERG, 2014), now at Convergence Data Analytics.
+Johanna Mathieu (Berkeley ME), graduated 2012, now Assistant Professor, Univer-
+sity of Michigan ECE.
+Richard Chen (Michigan IOE; co-chair with Amy Cohn) 2010.
+Now Operations
+Research Scientist at Sandia National Lab
+Teaching
+Michigan
+NRE 580: Environmental Integrated Assessment (co-taught), Winter 2009
+Berkeley
+Buildings
+Energy Efficiency Technology in Buildings, Fa2010, Sp2012.
+Assessing Building Energy Use and Indoor Environmental Quality (co-taught with
+Stefano Schiavon, Architecture). Fa2013, Fa2014, Fa2015
+Power systems
+Duncan Callaway CV, July 2018, p. 15
+
+-----
+Electric Power Systems. Fa2009, Fa2011, Fa2012, Fa2013, Fa2014, Fa2015, Sp2017
+Power Systems Engineering (co-taught with Kameshwar Poolla in Electrical Engi-
+neering). Fa2010.
+Data
+Statistical Learning Applied to Energy and Environmental Justice, Fa2017
+Statistical Learning for Energy ad Environment, Fa2018
+Other
+Energy and Society, Fa2016
+Energy Analysis Classics, Sp2012
+Tools of the Trade, Fa2017
+Second semester ERG Master’s Seminar. Sp2012, Sp2014, Sp2015
+Third Semester ERG Master’s Seminar. Fa2011, Fa2013, Fa2014, Fa2015, Fa2016
+Fourth Semester ERG Master’s Seminar. Sp2014, Sp2015, Sp2016, Sp2017
+Service
+Journal referee: Applied Energy, Energy Conversion and Management, Energy
+Economics, Energy Policy, Environmental Research Letters, IEEE Systems Jour-
+nal, IEEE Transactions on Control of Networked Systems, IEEE Transactions on
+Control Systems Technology, IEEE Transactions on Energy Conversion, IEEE
+Transactions on Power Electronics, IEEE Transactions on Power Systems, IEEE
+Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, Nature
+Climate Change, Nature Energy, Physical Review E, Physical Review Letters,
+Physics Letters A, Proceedings of the National Academy of Sciences, Proceed-
+ings of the Royal Society of London Series B, Solar Energy, Utilities Policy
+Conference referee:
+American Control Conference, Conference on Decision
+and Control, European Control Conference, Hawaii International Conference
+on Systems Science, IEEE Power and Energy Society General Meeting, IEEE
+SmartGridComm, IEEE Vehicle Power and Propulsion Conference, IFAC World
+Congress, Power Systems Computation Conference, PowerAfrica
+Proposal referee:
+Cal Energy Corps, CITRIS Big Ideas, France-Berkeley Fund,
+Natural Sciences and Engineering Research Council of Canada, Power Systems
+Engineering Research Center, Research Grants Council of Hong Kong, Siebel
+Energy Institute, Sloan Foundation, Swiss National Science Foundation, US
+National Science Foundation,
+White paper referee:
+Lawrence Berkeley National Laboratory, Union of Concerned
+Scientists
+Departmental Service:
+Admissions Chair, UC Berkeley Energy and Resources Group (2013-2017).
+Departmental Colloquium Organizer, UC Berkeley Energy and Resources Group
+(2013-2017).
+Member, ERG Faculty Search Committee, (2012-2013, 2015-2016).
+Campus Service
+UC Berkeley:
+Chair, College of Natural Resources Executive Committee (2018-2019)
+Member, College of Natural Resources Executive Committee (2017)
+Duncan Callaway CV, July 2018, p. 16
+
+-----
+Chair, College of Natural Resources Student Faculty Relations Committee (2016-
+2017)
+Member, Graduate Division Fellowships Selection Committee (2017)
+Faculty Liaison, The Green Initiative Fund (2015-2017)
+Member, Chancellor’s Advisory Committee on Dependent Care. (2010-2011)
+Faculty Investigator, Center for Information Technology Research in the Interests of
+Society, UC Berkeley, (2010-present)
+Member, Scientific Advisory Board, i4Energy Center, UC Berkeley Center for Infor-
+mation Technology Research in the Interests of Society (2009-2012).
+Michigan:
+Faculty Adviser, University of Michigan MSA Environmental Issues Committee,
+(2006-2008)
+Faculty Fellow, Michigan Memorial Phoenix Energy Institute, (2007-2009)
+Affiliate, Michigan Climate Action Council and Michigan Climate Action Technical
+Working Group on Cross-cutting Issues (2008).
+Community Service
+Editor in Chief, Current Sustainable/Renewable Energy Reports (2018-present)
+Board of Editors, Energy Informatics (2017-present)
+Member, Technical Committee on Smart Grids, IEEE Control Systems Society
+(2014-present)
+Science Adviser for K-8 curriculum on energy, Learning Design Group at the Lawrence
+Hall of Science (2014-2015)
+Co-chair, Working Group on Dynamic Performance of Cyber-Physical Energy Sys-
+tems, IEEE Power and Energy Society (2013-present).
+Guest Editor, IEEE Transactions on Smart Grid, special edition on Control Systems
+(2013).
+Symposium Chair, “Demand Side Management, Demand Response, Dynamic Pric-
+ing,” 2013 IEEE SmartGridComm (2012-2013).
+Guest Editor, Annual Review of Environment and Resources (2012 edition).
+Funding
+24. “Deep Electrification of Transport in India”
+Sponsor: John D and Catherine T MacArthur Foundation
+PI: Duncan Callaway (as administrative director)
+Co-PIs: Amol Phadke, LBNL (research director)
+Period: 11/2017-10/2020
+Amount: $900,000
+23. “Empirical Assessment of Distributed Energy Resources Impacts on California
+Utility Distribution Systems”
+Sponsor: Sloan Foundation
+PI: Jim Bushnell (UC Davis) (Callaway as sub-contractor)
+Period: 8/2017-10/2020
+Amount: $159,804 (subcontract amount)
+Duncan Callaway CV, July 2018, p. 17
+
+-----
+22. “CPS: Synergy: Collaborative Research: The Sharing Economy for Electricity
+Services in Connected Communities”
+Sponsor: National Science Foundation
+PI: Kameshwar Poolla (Callaway as co-PI)
+other Co-PIs: Michael Jordan
+Period: 08/2016-07/2019
+Amount: $900,000
+21. “Community Control of Distributed Resources”
+Sponsor: Department of Energy Office of Electricity
+PI: Duncan Callaway (as LBNL Faculty Scientist)
+Co-PIs: Yashen Lin (NREL), Jay Johnson (Sandia)
+Period: 04/2016-04/2019
+Amount: $3,000,000
+20. “An Open-source Open-architecture Software Platform for Plug-in Electric
+Vehicle Smart Charging in California Residential and Small Commercial Set-
+tings.”
+Sponsor: California Energy Commission
+PI: Tim Lipmann (Callaway as co-PI)
+Period: 04/2016-01/2019
+Amount: $1,500,000
+19. “CyberSEES Type 2: Achieving Clean Power System Flexibility: Sensing,
+Modeling, and Optimal Control”
+Sponsor: National Science Foundation (recommended for funding)
+PI: Duncan Callaway
+Co-PIs: Daniel Kammen and Eric Brewer, UC Berkeley
+Period: 09/2015-08/2019
+Amount: $1,199,914
+18. “FEW: Developing Intelligent Food, Energy,and Water Systems (DIFEWS)”
+Sponsor: National Science Foundation
+PI: Matthew Potts, UC Berkeley
+Period: 09/2015-09/2016
+Amount: $49,863
+17. “Smart Charging of Plug-in Vehicles and Driver Engagement for Demand
+Management and Participation in Electricity Markets”
+Sponsor: California Energy Commission Electric Program Investment Charge
+PI: Doug Black, LBNL
+Duncan Callaway CV, July 2018, p. 18
+
+-----
+Period: 07/2015-06/2018
+Amount: $1,993,355
+16. “End-to-end Testing of Commercial Building End-Uses for Regulation”
+Sponsor: Consortium for Electric Reliability Technology Solutions (CERTS)
+PI: Duncan Callaway
+Period: 07/2014-06/2016
+Amount: $385,000
+15. “CAREER: Aggregation, estimation and control of distributed energy resources”
+Sponsor: National Science Foundation
+PI: Duncan Callaway
+Period: 06/2014-05/2019
+Amount: $400,000
+14. “Exploiting Renewable Energies for a Sustainable Power Grid: A generalized
+aggregate modeling and control architecture for distributed energy resources”
+Sponsor: Tsinghua-Berkeley Fund
+PIs: Duncan Callaway and Qinglai Guo
+Co-PIs: Hongbin Sun and He Hao
+Period: 5/2014-5/2015
+Amount: $50,000 ($25k to Berkeley)
+13. “Coordinated Resource Management of Cyber-Physical-Social Power Systems”
+Sponsor: National Science Foundation, Cyber-Physical Systems Program
+PI: Duncan Callaway
+Co-PIs: Eilyan Bitar, Pramod Khargonekar, Kameshwar Poolla, Pravin Varaiya
+Period: 11/2012-10/2015
+Amount: $1,121,717 ($560k to Berkeley)
+12. “Coordinated aggregation of distributed resources for the smart grid”
+Sponsor: Bosch Energy Network Research Grant Program
+PI: Kameshwar Poolla
+Co-PI: Pravin Varaiya
+Period: 01/2012-12/2013
+Amount: $200,000 with $200,000 match from UC Berkeley Vice Chancellor
+for Research
+11. “How big is the efficiency resource? Scalable evaluation of building energy
+efficiency potential and performance.”
+Sponsor: UC Berkeley Hellman Faculty Fund
+Duncan Callaway CV, July 2018, p. 19
+
+-----
+PI: Duncan Callaway
+Period: 07/2011-06/2012
+Amount: $50,000
+10. “Using Existing Metering to Identify Energy Waste in Buildings.”
+Sponsor: Center for Information Technology Research in the Interests of
+Society
+PIs: Ram Akella and Duncan Callaway
+Period: 07/2011-06/2012
+Amount: $75,000
+9. “Mitigating renewables intermittency through nondisruptive distributed load
+control”
+Sponsor: Power Systems Engineering Research Center FutureGrid Initiative
+PI: Duncan Callaway
+Period: 01/2011-12/2012
+Amount: $110,000
+8. “Advanced Grid-Interactive Distributed PV and Storage”
+Sponsor: California Solar Initiative (California Public Utilities Commission)
+Joint proposal with SolarCity (lead), Tesla Motors and UC Berkeley
+Berkeley PI: Duncan Callaway,
+Co-PI: Daniel Kammen
+Period: 01/2011-12/2013
+Amount: $1.8M (total), $378,800 (to UC Berkeley)
+7. “Modeling of Load Control Strategies to Augment Aggregated Wind Re-
+sources.”
+Sponsor: California Energy Commission
+PIs: David Auslander and Duncan Callaway
+Period: 10/2010-12/2011
+Amount: $96,000
+6. “Modeling of Load Control Strategies to Augment Aggregated Wind Re-
+sources.”
+Sponsor: California Energy Commission
+PIs: David Auslander and Duncan Callaway
+Period: 08/2009-06/2010
+Amount: $200,000
+Duncan Callaway CV, July 2018, p. 20
+
+-----
+5. “EFRI-RESIN: A Multi-Scale Design and Control Framework for Dynamically
+Coupled Sustainable and Resilient Infrastructures, with Application to Vehicle-
+to-Grid Integration.”
+Sponsor: National Science Foundation
+PI: Jeff Stein (Callaway as participating investigator)
+Period: 09/2008-08/2012
+Amount: $2,000,000 (approximately $350,000 to Callaway)
+4. “PHEV Pilot Proposal,” with DTE Energy and General Motors.
+Sponsor: Michigan Public Service Commission
+U-M PI: Ian Hiskens (Callaway as participating investigator)
+Period: 09/2008-08/2010
+Amount: $5,000,000 ($278,140 subcontract to Callaway)
+3. “A Design Science Framework for Measuring Future GHG Emissions in the
+Energy Sector.”
+Sponsor: Michigan Memorial Phoenix Energy Institute
+PI: Steven Skerlos (Callaway as Co-PI)
+Period: 09/2008-08/2009
+Amount: $298,692 ($7,583 to Callaway)
+2. “Wind Energy Resource Utilization: An Interdisciplinary Investigation of the
+Interaction Between Atmosphere and Technology.”
+Sponsor: Gilbert Whitaker Fund for the Improvement of Teaching
+PIs: Gerald Keeler and Duncan Callaway
+Period: 05/2008 - 05/2009
+Amount: $10,000
+1. “Integrating Resource Assessment, Economics and Public Policy to Optimize
+Renewable Electricity Generation.”
+Sponsor: Michigan Memorial Phoenix Energy Institute
+PI: Duncan Callaway
+Co-PIs: Meredith Fowlie, Greg Keoleian, Tom Lyon, Michael Moore
+Period: 02/2007-05/2009
+Amount: $266,550
+Duncan Callaway CV, July 2018, p. 21
+
+-----

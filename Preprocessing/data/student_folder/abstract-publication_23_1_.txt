@@ -1,0 +1,104 @@
+Medical Image Segmentation Based on Deep 
+Feature Learning and Multistage Classification 
+ 
+WANG XIAOHONG 
+ 
+Abstract 
+ 
+Automatic segmentation of objects in medical image plays a crucial role in the 
+computer-aided diagnosis of human diseases, like retinal vessel from fundus image, 
+and melanoma from dermoscopic image. Manual segmentation of those tissues is a 
+time consuming and labour intensive task that is not feasible for clinicians to detect a 
+large amount of medical images by hand. Thus, a reliable medical image 
+segmentation system with lower cost and less human interaction than the observed-
+based techniques is attractive in the field of medical image analysis area. This thesis 
+investigates medical image segmentation architectures through deep feature learning 
+and multistage classification. Specifically, we proposed two novel multistage 
+classification schemes for retinal vessel segmentation. For more complex and large 
+dermoscopic image data analysis issue, we proposed a novel deep feature learning 
+scheme for skin lesion segmentation.  Details of the completed works are summarized 
+follows: 
+In the first scheme, a novel and robust retinal vessel segmentation framework is 
+proposed, which envelops a set of computationally efficient Mahalanobis distance 
+classifiers to form a highly nonlinear decision. Different from other nonlinear 
+classifiers that need a predefined nonlinear kernel or need iterative training, the 
+proposed cascade classification framework is trained by a one-pass feed forward 
+process. Thus, the degree of nonlinearity of the proposed classifier is not predefined, 
+but determined by the complexity of the data structure. Experimental evaluations on 
+three publicly available databases show that the proposed cascade classification 
+framework achieves high vessel segmentation accuracy consistently on all three 
+diverse databases. 
+In the second scheme, a hierarchical architecture for retinal vessel segmentation based 
+on a divide-and-conquer strategy is designed. Current works for retinal vessel 
+segmentation typically train a global discriminative model for retinal vessel 
+classification that is still not sufficiently to fit the complex pattern of vessel structure. 
+In fact, the large geometrical structure difference among retinal vessels with different 
+
+-----
+scale and position greatly limits the precision of the decision boundary of the global 
+discriminative model. To overcome this problem, an efficient dividing algorithm, 
+named multiplex vessel partition (MVP), is proposed to divide the retinal vessel into 
+well constrained subsets where vessel samples with the same geometrical property are 
+assigned together. Then, a set of homogeneous classifiers are trained in parallel to 
+form discriminative decision for each subset. Moreover, a funnel-structured vessel 
+segmentation (FsVS) framework is proposed to link the classification results from 
+each disjoint subset, which reduces the probability of poor partition at the dividing 
+phase and further enhances the complexity and discriminative capability of the 
+decision model. Both quantitative and qualitative experimental comparisons on three 
+publicly databases demonstrate the flexibility and efficiency of the proposed work on 
+retinal vessel segmentation. 
+In the last scheme, a bi-directional feature dermoscopic learning framework with 
+multiscale consistent decision fusion is proposed for skin lesion segmentation. 
+Previously published skin lesion segmentation works enhance lesion detection 
+performance by using deep learning based methods like fully convolutional network 
+(FCN). Nevertheless, relationship between skin lesions and their informative context, 
+as well as the consistency of the decision from multiple classification layers, have not 
+yet been well explored by these previous studies. Different from the naive way of 
+FCN learning an abstract feature representation of image, this thesis proposes a bi-
+directional dermoscopic feature learning (biDFL) framework that produces more 
+meaningful dermoscopic feature maps by controlling information propagation from 
+two complementary directions at high level parsing layer. With the integration of both 
+directional feature information passing, the proposed biDFL module gives better 
+insight to the network about the complex structure of the skin lesion. Furthermore, 
+this thesis proposes a multiscale consistent decision fusion (mCDF) that is capable of 
+selectively focusing on the informative decisions generated from multiple 
+classification layers. By analysis of the consistency of the decision at each position, 
+mCDF automatically adjusts the reliability of decisions and thus allows a more 
+insightful skin lesion delineation. With the embedding of consistency analysis to the 
+decisions from each classification layer, the proposed mCDF assists the network to 
+learn better about which scales of features are more desirable for each individual pixel. 
+The comprehensive experimental results show the effectiveness of the proposed 
+method on skin lesion segmentation, achieving the state-of-the-art performance 
+consistently on two publicly available dermoscopic image databases. 
+ 
+ 
+ 
+ 
+
+-----
+ 
+Publications 
+ 
+Journal papers: 
+[J1] X. Wang, X. Jiang, and J. Ren. Blood vessel segmentation from fundus image      
+by a cascade classification framework, Pattern Recognition, 88: 331–341, 2019. 
+[J2] X. Wang, X. Jiang. Retinal vessel segmentation by a divide-and-conquer funnel-
+structured classification framework, Signal Processing, 165: 104-114, 2019. 
+[J3] X. Wang, X. Jiang, H. Ding, J. Liu. Bi-directional dermoscopic feature learning 
+network with multi-scale consistent decision fusion for skin lesion segmentation, 
+(submitted to IEEE transaction on image processing)  
+Conference papers: 
+[C1] X. Wang, H. Ding and X. Jiang. Dermoscopic image segmentation through the 
+enhanced high-level parsing and class weighted loss, in Proc. 26th IEEE International 
+Conference on Image Processing (ICIP), 2019.  
+[C2] X. Wang and X. Jiang. Post-processing for retinal vessel detection, in Proc. 10th 
+International Conference on Digital Image Processing (ICDIP), p.1080656, 2018. 
+[C3] X.  Wang and X. Jiang. Enhancing retinal vessel segmentation by color fusion, 
+in Proc. 42nd IEEE International Conference on Acoustics, Speech and Signal 
+Processing (ICASSP), pp. 891–895, 2017.   
+[C4] X. Wang and X. Jiang. Nonlinear retinal image enhancement for vessel 
+detection, in Proc. 9th International Conference on Digital Image Processing 
+(ICDIP), p. 104202M, 2017. 
+ 
+
+-----

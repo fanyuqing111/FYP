@@ -1,0 +1,60 @@
+Abstract 
+Digital filters can be classified into two categories, finite impulse response (FIR) filters and 
+recursive infinite impulse response (IIR) digital filters. For applications where exactly linear 
+phase is not required, IIR filters are attractive option since IIR filters require much fewer 
+multipliers than FIR filters for the same design specifications. The length of a linear phase FIR 
+filter is inversely proportional to the width of its transition band. Thus, the number of 
+multipliers of very sharp FIR filter is enormous. The frequency response masking (FRM) 
+technique is a very efficient technique to design very sharp FIR filters with very low complexity. 
+The basic idea of FRM technique is to synthesize a very sharp filter using a network of low 
+complexity bandedge shaping filters and masking filters. The design of FIR filters using FRM 
+technique has been investigated extensively in the past decades. However, reports on the 
+design of IIR filters using FRM technique are rare.  
+This thesis presents methods for designing IIR filters using FRM technique. The work presented 
+in the thesis can be divided into two parts. In the first part, the design of pipelined, high-speed 
+IIR filters using FRM technique is investigated. For the FRM-based pipelined IIR filters, the 
+bandedge shaping filters are IIR filters and the masking filters are FIR filters. The bandedge 
+shaping IIR filters are naturally pipelined because its feedback loop contains several delays. 
+First, we propose a two-stage FRM approach where the bandedge shaping filters in the second 
+stage are power complementary IIR filters consisting of a parallel connection of two allpass 
+filters. For a given magnitude response specification and a given number of pipeline stages in 
+the feedback loop, our two-stage FRM approach requires fewer multipliers than the one-stage 
+FRM approach if the number of pipeline stages is larger than four. Second, we consider the 
+design of FRM-based pipelined IIR filter with approximately linear phase where the bandedge 
+shaping filters are general IIR filter and its delay complementary filter. We present a 
+constrained optimization method where the passband phase error and magnitude error are 
+independently controlled.   
+In the second part, we investigate the design of IIR filters using FRM technique where all the 
+subfilters are IIR filters. In our design, the bandedge shaping filters are power complementary 
+filters realized as a parallel connection of two allpass filters and the masking filters are 
+approximately linear phase IIR filters realized as a parallel connection of a delay line and an 
+allpass filter. Compared to FIR masking filters, IIR masking filters require fewer multipliers. A 
+joint optimization approach is adopted to optimize all the IIR subfilters simultaneously. We 
+demonstrate that the coefficient sensitivity and roundoff noise performance of the IIR filters 
+designed using FRM technique are much superior to classical IIR filters.     
+ 
+ 
+ 
+
+-----
+Publication List 
+1. Q. Liu, Y. C. Lim, and Z. Lin, X. Lai, “Design of IIR frequency-response masking filters with near 
+linear phase using constrained optimization,” Proceedings of the 2017 IEEE International 
+Symposium on Circuits and Systems, Baltimore, US, May 2017. 
+2. Q. Liu, Y. C. Lim, and Z. Lin, "Design of Sparse Frequency-Response Masking Filters with 
+Arbitrary Delay Using l1-Minimization," Proceedings of the 2017 IEEE International Conference 
+on Digital Signal Processing, London, Aug. 2017. 
+3. Q. Liu, Y. C. Lim and Z. Lin, “Design of recursive filters using frequency-response masking 
+technique”, Proceedings of the 2018 IEEE International Conference on Digital Signal 
+Processing, Shanghai, China, Nov 2018. 
+4. Q. Liu, Y. C. Lim, and Z. Lin, “Design of Pipelined IIR Filters Using Two-Stage Frequency-
+Response Masking Technique,” IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 
+66, no. 5, pp. 873–877, May 2019. 
+5. Q. Liu, Y. C. Lim and Z. Lin, “Joint optimization of subfilters for the design of IIR filters 
+synthesized using frequency-response masking technique”, to be submitted.  
+ 
+ 
+ 
+ 
+
+-----

@@ -1,0 +1,319 @@
+Hong Yan
+Chair Professor of Computer Engineering
+Phone: +852-3442-4889, Email: h.yan (AT) cityu.edu.hk 
+Office: B6518, Yeung Kin Man Academic Building (AC1)
+Postal Address: Department of Electronic Engineering, City 
+University of Hong Kong, 83 Tat Chee Avenue, Kowloon, 
+Hong Kong 
+Research Areas: Bioinformatics, Image processing, Pattern 
+recognition
+Hong Yan received his Ph.D. degree from Yale University. He was professor of imaging 
+science at the University of Sydney and currently is chair professor of computer engineering 
+at City University of Hong Kong (CityU). He is a former Dean of the College of Science and 
+Engineering at CityU. 
+Professor Yan was elected an IAPR fellow for contributions to document image analysis and 
+an IEEE fellow for contributions to image recognition techniques and applications. He 
+received the 2016 Norbert Wiener Award from IEEE SMC Society for contributions to image 
+and biomolecular pattern recognition techniques.
+Professor Yan has over 600 journal and conference publications, and his research interests 
+include:
+• Bioinformatics: Genomic data analysis; Structural biology
+• Image processing: Biomedical imaging; Document imaging
+• Pattern recognition: Clustering and biclustering; Human face recognition and 
+animation
+Web Links
+• Bioinformatics software
+• Human face animation movies for digital entertainment
+Selected Publications
+• C. Cui, Q. Li, L. Qi, and H. Yan, "A quadratic penalty method for hypergraph matching," 
+Journal of Global Optimization, 70(1):237-259, 2018. 
+• L. Sun, B. Zheng, J. Zhou, and H. Yan, "Some inequalities for the Hadamard product of 
+tensors," Linear and Multilinear Algebra, 66(6):1199-1214, 2018. 
+• J. Chang, W. Ding, L. Qi, and H. Yan, "Computing the p-spectral radii of uniform 
+hypergraphs with applications," Journal of Scientific Computing, 75(1):1-25, 2018. 
+• H. Kuang, K. F. Yang, L. Chen, Y. J. Li, L. L. H. Chan, and H Yan, "Bayes saliency-
+based object proposal generator for nighttime traffic images," IEEE Transactions on 
+Intelligent Transportation Systems, 9(3):14-825, 2018. 
+• T. D. Pham and H. Yan, "Tensor decomposition of gait dynamics in Parkinson's 
+disease," IEEE Transactions on Biomedical Engineering, 65:(8):1820-1827, 2018. 
+Page 1 of 6
+Professor H. Yan
+4/29/2019
+https://www.ee.cityu.edu.hk/~hpyan/
+
+-----
+• L. Ma, D. D. Wang, B. Zou, and H. Yan, "An eigen-binding site based method for the 
+analysis of anti-EGFR drug resistance in lung cancer treatment," IEEE/ACM 
+Transactions on Computational Biology and Bioinformatics , 14(5):1187-1194, 2017. 
+• B. Zou, V. H. F. Lee, L. Chen, L. C. Ma, D. D. Wang, and H. Yan, "Deciphering 
+mechanisms of acquired T790M mutation after EGFR inhibitors for NSCLC by 
+computational simulations," Scientific Reports, 7(1):6595:1-13, 2017. 
+• S. Khan, G. Xu, R. Chan, and H. Yan, "An online spatio-temporal tensor learning 
+model for visual tracking and its applications to facial expression recognition," Expert 
+Systems With Applications, 90:427-438, 2017. 
+• H. Yan, "Co-clustering of multidimensional big data, a useful tool for genomic, financial 
+and other data analysis," IEEE Systems, Man and Cybernetics Magazine, 3(2):23-30, 
+2017. 
+• X. L. Xu, C. X. Ren, R. C. Wu, and H. Yan, "Sliced inverse regression with adaptive 
+spectral sparsity for dimension reduction," IEEE Transactions on Cybernetics, 47
+(3):759-771, 2017. 
+• L. Ou-Yang, H. Yan, and X. Zhang, "Identifying differential networks based on multi-
+platform gene expression data," Molecular BioSystems, 13:183-192, 2017. (Open 
+Access) 
+• H. Kuang, X. Zhang, Y. J. Li, L. L. H. Chan, and H. Yan, "Nighttime vehicle detection 
+based on bio-inspired image enhancement and weighted score-level feature fusion," 
+IEEE Transactions on Intelligent Transportation Systems, 18(4):927-936, 2017. 
+• X. T. Huang, Y. Zhu, L. H. L. Chan, Z. Zhao, and H. Yan, "Inference of cellular level 
+signaling networks using single-cell gene expression data in Caenorhabditis elegans 
+reveals mechanisms of cell fate specification," Bioinformatics, 33(10):1528-1535, 2016. 
+(Open Access) 
+• X. Zhang, L. Ou-Yang, X. M. Zhao, and H. Yan, "Differential network analysis from 
+cross-platform gene expression data," Scientific Reports, 6:34112:1-12, 2016. (Open 
+Access) 
+• H. Zhao, D. D. Wang, L. Chen, X. Liu, and H. Yan, "Identifying multi-dimensional co-
+clusters in tensors based on hyperplane detection in singular vector spaces," PLOS 
+ONE, 11(9): e0162293:1-27, 2016. (Open Access) 
+• M. Y. Wu, X. Zhang, D. Q. Dai, L. Ou-Yang, Y. Zhu, and H. Yan, "Regularized logistic 
+regression with network-based pairwise interaction for biomarker identification in breast 
+cancer," BMC Bioinformatics, 17:108:1-18, 2016. (Open Access) 
+• L. Ou-Yang, X. Zhang, D. Q. Dai, M. Y. Wu, Y. Zhu, Z. Liu, and H. Yan, "Protein 
+complex detection based on partially shared multi-view clustering," BMC 
+Bioinformatics, 17:371:1-15, 2016. (Open Access) 
+• L. Ou-Yang, M. Wu, X. Zhang, D. Q. Dai, X. L. Li, and H. Yan, "A two-layer integration 
+framework for protein complex detection," BMC Bioinformatics, 17:100:1-14, 2016. 
+(Open Access) 
+• X. Zhang, L. Ou-Yang, D. Dai, M. Wu, Y. Zhu, and H. Yan, "Comparative analysis of 
+housekeeping and tissue-specific driver nodes in human protein interaction networks," 
+BMC Bioinformatics, 17:358:1-14, 2016. (Open Access) 
+• L. Ma, B. Zou, and H. Yan, "Identifying EGFR mutation-induced drug resistance based 
+on alpha shape model analysis of the dynamics," Proteome Science, 14:12:1-9, 2016. 
+(Open Access) 
+• L. Chen, X. Mao, and H. Yan, "Text-independent phoneme segmentation combining 
+egg and speech data," IEEE/ACM Transactions on Audio, Speech, And Language 
+Processing, 24(6):1029-1037, 2016. 
+• L. Chen, Z. Zhao, H. Yan, "A probabilistic relaxation labeling (PRL) based method for 
+c. elegans cell tracking in microscopic image sequences," IEEE Journal of Selected 
+Topics in Signal Processing, 10(1):185-192, 2016. 
+Page 2 of 6
+Professor H. Yan
+4/29/2019
+https://www.ee.cityu.edu.hk/~hpyan/
+
+-----
+• Z. Shen, D. D. Wang, L. Ma, H. Yan, M. P. Wong, and V. H. F. Lee, "A computational 
+study of three frequent mutations of EGFR and their effects on protein dimer formation 
+and non-small cell lung cancer drug resistance," Current Bioinformatics, 11(3):382-391, 
+2016. 
+• D. D. Wang, V. H. F. Lee, G. Zhu, B. Zou, L. Ma, and H. Yan, "Selectivity profile of 
+afatinib for EGFR-mutated non-small-cell lung cancer," Molecular BioSystems, 12
+(5):1552:1-12, 2016. (Open Access)
+• X. T. Huang, Y. Zhu, L. L. H. Chan, Z. Zhao, and H. Yan, "An integrative C. elegans 
+protein–protein interaction network with reliability assessment based on a probabilistic 
+graphical model," Molecular BioSystems, 12:85-92, 2016. (Open Access)
+• H. Yan, "Engineering education in China," International Conference on Interactive 
+Collaborative Learning, 1098-1101, 2015. 
+• V. W. S. Ho, M. K. Wong, X. An, D. Guan, J. Shao, K. He, J. Liao, L. Chen, X. Huang, 
+Y. Xia, L. L. H. Chan, K. L. Chow, H. Yan, and Z. Zhao, "Systems-level quantification of 
+division timing reveals a common genetic architecture controlling asynchrony and fate 
+asymmetry," Molecular Systems Biology, 11:814, 2015. (Open Access) 
+• D. D. Wang, L. Ma, M. P. Wong, V. H. F. Lee, and H. Yan, "Contribution of EGFR and 
+ErbB-3 heterodimerization to the EGFR mutation-induced gefitinib- and erlotinib-
+resistance in non-small-cell lung carcinoma treatment," PLOS ONE, 10(5):e0128360, 
+2015. (Open Access) 
+• L. Ma, D. D. Wang, Y. Huang, H. Yan, M. P. Wong, and V. H. F. Lee, "EGFR Mutant 
+Structural Database: computationally predicted 3D structures and the corresponding 
+binding free energies with gefitinib and erlotinib," BMC Bioinformatics, 16:85, 2015. 
+(Open Access) 
+• B. B. Liu, C. W. Yu, D. Z. Wang, R. C. C. Cheung, and H. Yan, "Design exploration of 
+geometric biclustering for microarray data analysis in data mining," IEEE Transactions 
+on Parallel and Distributed Systems, 25(10):2540-2550, 2014. 
+• X. F. Zhang, D. Q. Dai and H. Yan, "Detecting overlapping protein complexes based on 
+a generative model with functional and topological properties," BMC Bioinformatics, 
+15:186, 2014. (Open Access) 
+• D. D. Wang, R. Wang and H. Yan, "Fast prediction of protein-protein interaction sites 
+based on extreme learning machines," Neurocomputing, 128:258-266, 2014. 
+• L. Ma, D. D. Wang, Y. Huang, M. P. Wong, V. H. F. Lee, and H. Yan, "Decoding the 
+EGFR mutation-induced drug resistance in lung cancer treatment by local surface 
+geometric properties," Computers in Biology and Medicine, 2014. 
+• J. Mazgut, P. Tino, M. Boden, and H. Yan, "Dimensionality reduction and topographic 
+mapping of binary tensors," Pattern Analysis and Applications, 17(3):497-515, 2014. 
+• L. Chen, L. L. H. Chan, Z. Zhao, and Hong Yan, "A novel cell nuclei segmentation 
+method for 3D C. elegans embryonic time-lapse images," BMC Bioinformatics, 14:328, 
+2013. (Open Access) 
+• Y. Zhu, W. Zhou, D. Q. Dai, and H. Yan, "Identification of DNA-binding and protein-
+binding proteins using enhanced graph wavelet features," IEEE/ACM Transactions on 
+Computational Biology and Bioinformatics, 10(4):1017-1031, 2013. 
+• D. D. Wang, W. Zhou, H. Yan, M. Wong, and V. Lee, "Personalized prediction of EGFR 
+mutation-induced drug resistance in lung cancer," Scientific Reports, 3:2855, 2013. 
+(Open Access) 
+• B. Min, R. C. C. Cheung, and H. Yan, "A flexible and customizable architecture for the 
+relaxation labeling algorithm," IEEE Transactions on Circuits and Systems, 60(2):106-
+110, 2013. 
+• N. Y. Song and H. Yan, "Autoregressive and iterative hidden Markov models for 
+periodicity detection and solenoid structure recognition in protein sequences," IEEE 
+Journal of Biomedical and Health Informatics, 17(2):436-441, 2013. 
+Page 3 of 6
+Professor H. Yan
+4/29/2019
+https://www.ee.cityu.edu.hk/~hpyan/
+
+-----
+• D. Z. Wang and H. Yan, "A graph spectrum based geometric biclustering algorithm," 
+Journal of Theoretical Biology, 317:200-211, 2013. 
+• C. X. Ren, D. Q. Dai, and H. Yan, "Coupled kernel embedding for low resolution face 
+image recognition," IEEE Transactions on Image Processing, 21(8):3770-3783, 2012. 
+• M. Y. Wu, D. Q. Dai, Y. Shi, H. Yan, and X. F. Zhang, "Biomarker identification and 
+cancer classification based on microarray data using Laplace naive Bayes model with 
+mean shrinkage," IEEE/ACM Transactions on Computational Biology and 
+Bioinformatics, 9(6):1649-1662, 2012. 
+• M. Y. Wu, D. Q. Dai, and H. Yan, "PRL-Dock: protein-ligand docking based on 
+hydrogen bond matching and probabilistic relaxation labeling," Proteins: Structure, 
+Function and Bioinformatics, 80:2137-2153, 2012. 
+• X. Yang and H. Yan, "Analysis of DNA deformation patterns in nucleosome core 
+particles based on isometric feature mapping and continuous wavelet transform," 
+Chemical Physics Letters, 547:73-81, 2012. 
+• W. F. Zhang and H. Yan, "Exon prediction using empirical mode decomposition and 
+Fourier transform of structural profiles of DNA sequences," Pattern Recognition, 45
+(3):947-955, 2012. 
+• P. Tino, H. Y. Zhao, and H. Yan, "Searching for coexpressed genes in three-color 
+cDNA microarray data using a probabilistic model-based Hough transform," IEEE/ACM 
+Transactions on Computational Biology and Bioinformatics, 8(4):1093-1107, 2011. 
+• J. Zeng, X. Y. Zhao, X. Q. Cao, and H. Yan, "SCS: Signal, context, and structure 
+features for genome-wide human promoter recognition," IEEE/ACM Transactions on 
+Computational Biology and Bioinformatics, 7(3):550-562, 2011. 
+• A. W. C. Liew, N. F. Law, and H. Yan, "Missing value imputation for gene expression 
+data: computational techniques to recovermissing data from available information," 
+Briefings in Bioinformatics, 12(5):498-513, 2011. (Review paper) 
+• W. H. Yang, D. Q. Dai, and H. Yan, "Finding correlated biclusters from gene 
+expression data," IEEE Transactions on Knowledge and Data Engineering, 23(4):568-
+584, 2011. 
+• W. Q. Zhou and H. Yan, "A discriminatory function for prediction of protein-DNA 
+interactions based on alpha shape modeling," Bioinformatics, 26(20):2541-2548, 2010.
+• W. Q. Zhou and H. Yan, "Relationship between periodic dinucleotides and the 
+nucleosome structure revealed by alpha shape modeling," Chemical Physics Letters, 
+489(4-6):225-228, 2010.
+• W. F. Zhang, D. Q. Dai, and H. Yan, "Framelet kernels with applications to support 
+vector regression and regularization networks," IEEE Transactions on Systems, Man, 
+and Cybernetics, Part B, 40(4): 1128-1144, 2010.
+• W. F. Zhang, C. C. Liu, and H. Yan, "Clustering of temporal gene expression data by 
+regularized spline regression and an energy based similarity measure," Pattern 
+Recognition, 43:3969-3976, 2010.
+• J. Zeng, S. Zhu, A. W. C. Liew, and H. Yan, "Multiconstrained gene clustering based 
+on generalized projections," BMC Bioinformatics, 11:164.1-164.13, 2010.
+• J. Zeng, S. Zhu, and H. Yan, "Towards accurate human promoter recognition: A review 
+of currently used sequence features and classification methods," Briefings in 
+Bioinformatics, 10(5):498-508, 2009. (Review paper)
+• X. Cao, J. Zeng and H. Yan, "Physical signals for protein-DNA recognition," Physical 
+Biology, 6(3):036012.1-036012-10, 2009.
+• M. A. Amin and H. Yan, "An empirical study on the characteristics of Gabor 
+representations for face recognition," International Journal of Pattern Recognition and 
+Artificial Intelligence, 23(3):401-431, 2009.
+• H. X. Zhou, L. Du, and H. Yan, "Detection of tandem repeats in DNA sequences based 
+on parametric spectral estimation," IEEE Transactions on Information Technology in 
+Biomedicine, 13(5):747-755, 2009.
+Page 4 of 6
+Professor H. Yan
+4/29/2019
+https://www.ee.cityu.edu.hk/~hpyan/
+
+-----
+• M. K. Choong, M. Charbit and and H. Yan, "Autoregressive model based missing value 
+estimation for DNA microarray time series data," IEEE Transactions on Information 
+Technology in Biomedicine, 13(1):131-137, 2009.
+• B. S. Y. Lam and H. Yan, "A novel vessel segmentation algorithm for pathological 
+retinal images based on the divergence of vector fields," IEEE Transactions on Medical 
+Imaging, 27(2):237-246, 2008. 
+• W. H. Yang, D. Q. Dai and H. Yan, "Feature extraction and uncorrelated discriminant 
+analysis for high-dimensional data," IEEE Transactions on Knowledge and Data 
+Engineering, 20(5):601-614, 2008. 
+• X. Q. Cao, J. Zeng and and H. Yan, "Structural property of regulatory elements in 
+human promoters," Physical Review E, 77:041908:1-7, 2008.
+• R. Jiang and H. Yan, "Studies of spectral properties of short genes using the wavelet 
+subspace Hilbert-Huang transform (WSHHT)," Physica A, 387:4223-4247, 2008.
+• H. Zhao, A. W. C. Liew, X. Xie and H. Yan, "A new geometric biclustering algorithm 
+based on the Hough transform for analysis of large-scale microarray data," Journal of 
+Theoretical Biology, 251(3):264-274, 2008. 
+• H. Zhao and H. Yan, "HoughFeature, a novel method for assessing drug effects in 
+three-color cDNA microarray experiments," BMC Bioinformatics, 8:256, 2007.
+• H. Yan and T. Pham, "Spectral estimation techniques for DNA sequence and 
+microarray data analysis," Current Bioinformatics, 2(2):145-156, 2007.
+• C. C. Liu, D. Q. Dai, and H. Yan, "Local discriminant wavelet packet coordinates for 
+face recognition," Journal of Machine Learning Research, 8:1165-1195, 2007.
+• S. Wu, X. Xie, A. Liew and H. Yan, "Eukaryotic promoter prediction based on relative 
+entropy and positional information," Physical Review E, 75:041908:1-7, 2007.
+• A. Liew, J. Xian, S. Wu, D. Smith, and H. Yan, "Spectral estimation in unevenly 
+sampled space of periodically expressed microarray time series data," BMC 
+Bioinformatics, 8:137:1-19, 2007.
+• L. Du, H. Zhou and H. Yan, "OMWSA: detection of DNA repeats using moving window 
+spectral analysis," Bioinformatics, 23(5):631-633, 2007.
+• X. Xie, S. Wu, K. Lam and H. Yan, "PromoterExplorer: an effective promoter 
+identification method based on the AdaBoost algorithm," Bioinformatics, 22(22):2722-
+2728, 2006.
+• B. S. Y. Lam and H. Yan, "Subdimension-based similarity measure for DNA microarray 
+data clustering," Physical Review E, 74:041906:1-8, 2006.
+• T. D. Pham, D. Beck, and H. Yan, "Spectral pattern comparison methods for cancer 
+classification based on microarray gene expression data," IEEE Transactions on 
+Circuits and Systems I, 53(11):2425-2430, 2006.
+• X. Gan, A. Liew and H. Yan, "Microarray missing data imputation based on a set 
+theoretic framework and biological knowledge," Nucleic Acids Research, 34(5):1608-
+1619, 2006.
+• M. Sakalli, K. Lam, and H. Yan, "A faster converging snake algorithm to locate object 
+boundaries," IEEE Transactions on Image Processing, 15(5):1182-1191, 2006.
+• H. Yan, "Efficient matching and retrieval of gene expression time series data based on 
+spectral information," in Lecture Notes in Computer Science, Volume 3482, Osvaldo 
+Gervasi, Marina L. Gavrilova, Vipin Kumar (eds), 357-373, Springer-Verlag GmbH, 
+2005.
+• L. K. Yeung, L. K. Szeto, A. W. C. Liew and H. Yan, "Dominant spectral component 
+analysis for transcriptional regulations using microarray time-series data," 
+Bioinformatics, 20(5):742-749, 2004.
+• S. Wu, A. W. C. Liew, H. Yan and M. Yang, "Cluster analysis of gene expression data 
+based on self-splitting and merging competitive learning,", IEEE Transactions on 
+Information Technology in Biomedicine, 8(1):5- 15, 2004.
+Page 5 of 6
+Professor H. Yan
+4/29/2019
+https://www.ee.cityu.edu.hk/~hpyan/
+
+-----
+• H. Yan, "Convergence condition and efficient implementation of the FCT algorithm," 
+IEEE Transactions on Systems, Man and Cybernetics B, 34(1):210-221, 2004.
+• Y. Xiao and H. Yan, "Text extraction in document images based on Delaunay 
+triangulation," Pattern Recognition, 36(3):799-809, 2003.
+• Y. Wu, A. W. C. Liew, H. Yan and M. Yang, "Classification of short human exons and 
+introns based on statistical features," Physical Review E, 67:061916:1-7, 2003.
+• C. Weerasinghe, A. Liew and H. Yan, "Artifact reduction in compressed images based 
+on region homogeneity constraints using projection on to convex sets algorithm," IEEE 
+Transactions on Circuits and Systems for Video Technology, 12(10):891-897, 2002.
+• H. Yan (ed.), Signal Processing for Magnetic Resonance Imaging and Spectroscopy, 
+Marcel Dekkek Inc., 2002.
+• H. Yan, "Human face image processing techniques," International Journal of Image 
+and Graphics, 1(2):197-215, 2001.
+• H. Yan, "Image analysis for digital media applications," IEEE Computer Graphics and 
+Applications, 21(1):18-26, 2001.
+• P. E. Mitchell and H. Yan, "Document page segmentation based on pattern spread 
+analysis," Optical Engineering, 39(3):724-734, 2000.
+• T. Kondo and H. Yan, "Automatic human face detection and recognition under non-
+uniform illumination," Pattern Recognition, 3(10), 1707-1718, 1999.
+• H. H. Chang and H. Yan, "Analysis of stroke structure of handwritten Chinese 
+characters," IEEE Transactions on Systems, Man and Cybernetics, 29(1):47-61, 1999.
+• K. Lam and H. Yan, "An analytic-to-holistic approach for face recognition based on a 
+single frontal view," IEEE Transactions on Pattern. Analysis and Machine Intelligence, 
+20(7):673-686, 1998.
+• A. R Mirhosseini, H. Yan, K. Lam, and T. Pham, "Human face image recognition: An 
+evidence aggregation approach," Computer Vision and Image Understanding, 71
+(2):213-230, 1998.
+• H. Hu and H. Yan, "Polygonal approximation of digital curves based on the principles 
+of perceptual organization," Pattern Recognition, 30(5):701-718, 1997.
+• D. Popescu and H. Yan, "A non-linear model for fractal image coding," IEEE 
+Transactions on Image Processing, 6(3):373-382, 1997.
+• K. Lam and H. Yan, "Locating and extracting the eye in human face images," Pattern 
+Recognition, 29(5):771-779, 1996.
+• Z. Chi, M. Suters, and H. Yan, "Separation of single-and double-touching handwritten 
+numeral strings," Optical Engineering, 34(4):1159-1166, 1995.
+Last updated: 09/01/2019 
+Page 6 of 6
+Professor H. Yan
+4/29/2019
+https://www.ee.cityu.edu.hk/~hpyan/
+
+-----

@@ -1,0 +1,36 @@
+ABSTRACT 
+ 
+Energy efficient semiconductor chips are in high demand to cater the needs of today’s smart 
+products. Advanced technology node designs insert higher design margins to deal with rising 
+variations at the cost of power, area and performance. Existing run time resilience techniques 
+are designed for worst case and are not cost effective due to the additional circuits involved. 
+In-situ error correction and Dynamic Voltage Scaling (DVS) for power aware variation 
+tolerance incur huge cost overheads for error recovery.  Moreover, such techniques are prone 
+to meta-stability issues due to run time design margining.  We propose four resilient processor 
+subsystems which incorporates slack balancing circuits to relax the timing margins of a 
+processor pipeline together with logic under design for power and area savings while still 
+ensuring correct functionality at worst operating conditions. The first subsystem utilizes 
+positive slack available in the pipeline stages and re-distributes it to the preceding error-prone 
+critical paths using Slack Balancing Flip-Flops (SBFFs) which has a redundant latch to sample 
+the late arriving data. We use cell downsizing to reshape the SBFF fan-in cone to get power 
+and area savings of 12% and 8% respectively compared to the worst-case design. The second 
+subsystem uses library based power optimization techniques together with SBFFs. Here we 
+prune the SBFF standard cell library to filter out the power-hungry cells. In addition to this, we 
+use Better than Worst Case (BTWC) sigma corner library to under design the logic whose slack 
+margins are relaxed by the SBFFs. This gave a power and area savings of 47% and 3% 
+respectively in the execute pipeline stage. The third subsystem proposes a Clock Stretching 
+Flip-Flop (CSFF) to remove the redundancy inside SBFFs which leads to better power and area 
+savings. Also, we use multi-bit flipflops here to simplify the design and a combination of logic 
+reshaping and BTWC sigma corner libraries to get a power and area savings of 32% and 16% 
+respectively in the fetch pipeline stage and 69% and 15% respectively in the execute pipeline 
+stage compared to the traditional worst case design. In the fourth subsystem, we use Data 
+Dependent Clock Stretching Flip-Flop (DDCSFF) in addition to simple CSFFs to replace the 
+critical endpoints with sufficiently low activity rates. Here we use logic reshaping for power 
+optimization together with CSFFs and DDCSFFs. Experiment results show that we get power 
+and area savings of 70% and 9.5% respectively in the execute pipeline stage with respect to 
+worst case design. For all the proposed subsystems, the design time resilience approach using 
+opportunistic slack and the logic under design eliminates error handling overheads, latency 
+overheads, critical operating point behaviour, meta-stability issues and hold buffer overheads 
+encountered in existing run time resilience techniques. 
+
+-----

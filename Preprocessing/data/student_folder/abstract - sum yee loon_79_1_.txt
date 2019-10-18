@@ -1,0 +1,48 @@
+Abstract 
+Globally, governments are building smarter, greener and more sustainable buildings with the help 
+of technological innovations. Deploying embedded WSN in buildings is one of the promising 
+technologies that enables such a vision. However, such sensors face challenges in sourcing long 
+term power, and transmission of wireless signals in and out of building materials. One way to 
+source power is from the ambient RF signals. To harvest such energy, RF energy harvesting 
+antenna is an important component in embedded WSN systems. This antenna can also be 
+responsible for wireless communications. In addition, building materials enclosing the embedded 
+antenna also affects the transmission of RF power that for harvesting and communications. 
+In this thesis, a study on the concepts of metamaterial and electrically small antennas is performed 
+to combine both concepts in the design of an electrically small antenna, and a scalable antenna 
+array suitable for RF energy harvesting and wireless communications. Another aspect affecting 
+RF energy harvesting and wireless communications indoors is also investigated in this thesis. 
+Analysis into some commonly used admixtures to compare the effects on the embedded arrays and 
+the resulting materials is done. 
+Combining concepts from metamaterials and electrically small antenna, an electrically small 
+metaresonator is designed. This antenna has a maximum dimension of one-tenth the wavelength 
+of WiFi spectrum at channel 13. Using the stubbed design, the resonant frequency can be tuned to 
+the required centre frequency at channel 7. The resulting antenna has a S11 of −25 dB, gain of −16 
+dB and an efficiency of −9 dB, within expectations of an ESA. 
+This electrically small metaresonator is then used as an array element to form into an array using 
+DC combiner topology. Due to its geometry and combining the concepts of metamaterials, the 
+
+-----
+resulting metaresonator array achieves close cell separation distance of 0.0165 λ. The S11 of this 
+array is also able to achieve −25 dB, a gain of −4 dB and an efficiency of −6 dB. Furthermore, an 
+analysis of feeding the array at different feed points also demonstrates the flexibility of this array, 
+making it suitable for embedded WSN in buildings.  
+Next, an investigation into the common building material, cement is done. Comparing admixture 
+pigments typically used in the building industry for colouring of mortar and concrete, the results 
+indicate that cement paste enhanced with 4% micro-sized particles of iron (III) oxide 1) improves 
+the S11 of the embedded array by as much as 20 dB, 2) increases its bandwidth while maintaining 
+the overall shape of the S11, and 3) produces a lesser shift in resonant frequency than cement paste 
+alone. Further analysis into S21 shows that adding micro-sized iron (III) oxide into cement paste 
+improves the RF power transmission into the material compared to cement paste only sample by 
+as much as 10 dB.  
+Further investigations into the application of plaster is done to develop an understanding of certain 
+applications in buildings. The results obtained shows that plaster samples are the same or worse 
+than cement paste samples. Furthermore, the findings suggest that embedding the metaresonator 
+array in between a layer of plaster (enhanced or not) and mortar is not suitable for wireless 
+applications as the S11 is significantly distorted to an unacceptable range. Analysing S21, it is also 
+observed that plaster enhanced with iron (III) oxide layered on mortar also does not significantly 
+change the RF transmission property of the material. These findings indicate that embedding the 
+metaresonator array in plaster or plaster layer on mortar is not suitable for embedded WSN 
+applications. 
+ 
+
+-----

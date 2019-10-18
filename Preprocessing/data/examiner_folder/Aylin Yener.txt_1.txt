@@ -1,0 +1,1346 @@
+AYLIN YENER
+Department of Electrical Engineering
+School of Electrical Engineering and Computer Science, The Pennsylvania State University
+121 Electrical Engineering East, University Park, PA 16802
+Cell: 814-321-4452
+Office: 814-865-4337
+E-mail: yener@engr.psu.edu
+Web: http://wcan.ee.psu.edu
+Research group: Wireless Communications and Networking Laboratory (WCAN@PSU)
+Experience
+Professor, Electrical Engineering, Penn State University, PA
+July 2010-present
+Associate Professor, Electrical Engineering, Penn State University, PA
+July 2006-July 2010
+Visiting Associate Professor, Electrical Engineering, Stanford University, CA
+Oct 2008- Aug 2009
+Assistant Professor, Electrical Engineering, Penn State University, PA
+Jan 2002-July 2006
+Assistant Professor, Electrical and Computer Engineering, Lehigh University, PA
+Aug 2000- Dec 2001
+Graduate Research Assistant, WINLAB, Rutgers University, NJ,
+Sept 1993-Aug 2000
+Member of Technical Staff (Summer Internship), LUCENT Technologies, NJ
+June 1997- Sept 1997
+Education
+PhD, WINLAB, Electrical and Computer Engineering Dept., Rutgers University, NJ
+May 2000
+MS, WINLAB, Electrical and Computer Engineering Dept., Rutgers University, NJ,
+Oct 1994
+BS, Electrical and Electronics Engineering Dept., Bogazici University, Istanbul, Turkey
+June 1991
+BS, Physics Dept., Bogazici University, Istanbul, Turkey
+June 1991
+Awards and Honors
+IEEE Fellow for contributions to wireless communication theory and wireless information security
+IEEE Communications Society Marconi Prize Paper Award (2014)
+Best Paper Award, Communication Theory, IEEE International Conference on Communications (2010)
+DARPA Young Investigator Team Award for ITMANET Program (2006)
+National Science Foundation CAREER Award (2003)
+Penn State Engineering Alumni Society (PSEAS) Premier Research Award (2014)
+Penn State Engineering Alumni Society (PSEAS) Outstanding Research Award (2010)
+Leonard A. Doggett Award for Outstanding Writing in Electrical Engineering, Penn State (2014)
+P.C. Rossin Endowed Assistant Professorship, Lehigh University (2001)
+Graduation Honor List, Bogazici University (1991)
+Ranked 71st from 800,000 students in the National University Placement Exam (1987)
+
+-----
+A. Yener
+2
+Research Focus
+My research area is in Networked Systems broadly defined. The focus is on system level design insights
+drawn from characterization of fundamental performance limits of such systems. Core research disciplines and
+tools that we engage include information theory, optimization, communication theory and signal processing. We
+are generally interested in systems consisting of multiple entities that communicate, network and compute. We
+are also interested in developing algorithms approaching or achieving optimal design criteria. There are diverse
+applications of our research in multi-genre networks (for example social communication networks and tactical
+networks), as well as wired and wireless communication networks of the future (for example Internet of Things
+(IoT) and sustainable networking). More specifics topics are:
+• Energy-Conscious Communications
+– Wireless networks with energy harvesting nodes
+– Energy and signal cooperation in communication networks
+– Green distributed storage
+• Information Security
+– Information Theoretic Security
+– Secure Communication over multi-terminal wireless networks
+– New models and information theoretic guarantees for powerful adversaries
+– Integrating information theoretic security to other security mechanisms for the IoT era
+• Network Science
+– New performance metrics emphasizing information content and semantics
+– Fundamental limits of reliable information flow over social communication networks
+– Methods for influence and trust optimization over signed/unsigned social networks
+• Multiterminal Information Theory
+– Information theory of wireless networks: capacity of models with state, feedback, and cooperation
+– Interactive compression and function computation
+– Compression of remotely observed sources
+• Wireless Communication Theory
+– Interference management for heterogenous wireless networks
+– Resource allocation for multi-terminal wireless communication systems
+– Cognitive wireless communication systems
+Research Related Statistics
+Number of publications: 71 journal, 3 book chapters, 175 conference.
+Citation count: 6514, h-index: 39 (Google Scholar)
+Research supervision: Postdoc: 2 previous, 2 current; PhD: 10 graduated, 6 current; MS: 9 graduated.
+Research Funding:
+– 14 NSF grants
+– 2 DARPA grants: ITMANET, CBMANET
+– 1 ARL Network Science CTA
+– 9 Industrial/Other grants
+
+-----
+A. Yener
+3
+Publications
+Citation Numbers Source: Google Scholar
+h-index: 39 (32 since 2011); i10-index: 109 (91 since 2011); citations: 6514 (4725 since 2011)
+Book Chapters
+[3] M. Nafea and A. Yener, “MIMO Wire-tap Channels”, Information Theoretic Security and Privacy of
+Information Systems, Editors: H. Boche, R. Schafer, A. Khisti, H. V. Poor, forthcoming 2016.
+[2] X. He and A. Yener, “Secrecy and Feedback”, Physical Layer Security in Wireless Communications,
+Editors: X. Zhou, L. Song, Y. Zhang, CRC Press 2013.
+[1] X. He and A. Yener, “Cooperative Jamming: The Tale of Friendly Interference for Secrecy”, Securing
+Wireless Communications at the Physical Layer, Editors: R. Liu and W. Trappe, Springer 2009.
+Journal Articles in Review
+[71] B. Guler, I. MolavianJazi, and A. Yener, “The Role of Side Information in Lossy Compression of
+Remote Sources,” IEEE Transactions on Information Theory, submitted Dec. 2015.
+[70] B. Guler, I. MolavianJazi, A. Yener, P. Basu, A. Swami and C. Andersen, “Interactive Function
+Computation with Mismatched Information,” IEEE Transactions on Information Theory, submitted
+Nov. 2015.
+[69] M. Nafea and A. Yener, “Secure Degrees of Freedom for the MIMO Wire-tap Channel with a Multi-
+antenna Cooperative Jammer,” IEEE Transactions on Information Theory, submitted Nov. 2015.
+[68] A. Ibrahim, A. Zewail and A. Yener, “Green Distributed Storage Using Energy Harvesting Nodes,”
+IEEE Journal on Selected Areas in Communications: Series on Green Communications and Net-
+working, submitted Aug. 15 (in revision, revised Dec. 2015).
+[67] B. Varan and A. Yener, ”Delay Constrained Energy Harvesting Networks with Limited Energy and
+Data Storage,” IEEE Journal on Selected Areas in Communications: Series on Green Communica-
+tions and Networking, submitted Aug. 15 (in revision, revised Dec. 2015).
+[66] K. Tutuncuoglu, O. Ozel, A. Yener and S. Ulukus, “ The Binary Energy Harvesting Channel with a
+Unit-Sized Battery,” IEEE Transactions on Information Theory, submitted Aug. 2014 (in revision,
+revised Nov. 2015).
+Journal Articles Published
+[65] B. Varan and A. Yener, ”Incentivizing Signal and Energy Cooperation in Wireless Networks,” IEEE
+Journal on Selected Areas in Communications: Series on Green Communications and Networking,
+33(12), pp. 2554-2566, Dec. 2015.
+[64] K. Tutuncuoglu and A. Yener, ”Energy Harvesting Networks with Energy Cooperation: Procrastinat-
+ing Policies,” IEEE Transactions on Communications, 63(11), pp. 4525-4538, Nov. 2015.
+[63] A. Yener and S.Ulukus, ”Wireless Physical Layer Security: Lessons Learned from Information The-
+ory,” Proceedings of the IEEE, 103(10), pp. 1814-1825, Oct. 2015.
+[62] K. Tutuncuoglu, B. Varan, and A. Yener, ”Throughput Maximization for Two-way Relay Channels
+with Energy Harvesting Nodes: The Impact of Relaying Strategies,” IEEE Transactions on Commu-
+nications, 63(6), pp. 2081-2093, Jun. 2015.
+[61] O. Ozel, K. Tutuncuoglu, S. Ulukus, and A. Yener, ”Fundamental Limits of Energy Harvesting Com-
+munications,” IEEE Communications Magazine, 53(4), pp. 126-132, Apr. 2015.
+
+-----
+A. Yener
+4
+[60] K. Tutuncuoglu, A. Yener, and S. Ulukus, ”Optimum Policies for an Energy Harvesting Transmitter
+Under Energy Storage Losses,” IEEE Journal on Selected Areas in Communications: Wireless Com-
+munications Powered by Energy Harvesting and Wireless Energy Transfer, 33(3), pp. 467-481, Mar.
+2015.
+[59] S. Ulukus, A. Yener, E. Erkip, O. Simeone, M. Zorzi, P. Grover, and K. Huang, ”Energy Harvest-
+ing Wireless Communications: A Review of Recent Advances,” IEEE Journal on Selected Areas
+in Communications: Wireless Communications Powered by Energy Harvesting and Wireless Energy
+Transfer, 33(3), pp. 360-381, Mar. 2015.
+[58] Y. Tian and A. Yener, “Relaying for Multiuser Networks in the Absence of Codebook Information,”
+IEEE Transactions on Information Theory, 61(3), pp. 1247-1256, Mar. 2015.
+[57] B. Guler, B. Varan, K. Tutuncuoglu, M. Nafea, A. Zewail, A. Yener, and D. Octeau, ”Using So-
+cial Sensors for Influence Propagation in Networks with Positive and Negative Relationships,” IEEE
+Journal of Selected Topics in Signal Processing: Signal Processing for Situational Awareness from
+Networked Sensors and Social Media, 9(2), pp. 360-373, Mar. 2015.
+[56] B. Varan and A. Yener, ”The Energy Harvesting Multi-Way Relay Channel with Intermittent Data:
+The Impact of Buffer Sizes,” EURASIP Journal on Wireless Communications and Networking Special
+Issue on Energy Harvesting Wireless Communications, 2015(63), pp. 1-15, Mar. 2015.
+[55] E. N. Ciftcioglu, A. Michaloliakos, A. Yener, K. Psounis, T. F. La Porta, and R. Govindan, ”Opera-
+tional Information Content Sum Capacity: From Theory to Practice,” Elsevier Journal of Computer
+Networks, 75(A), pp. 1-17, Dec. 2014.
+[54] X. He and A. Yener, “MIMO Wiretap Channels with Arbitrarily Varying Eavesdropper Channel
+States”, IEEE Transactions on Information Theory, 60(11), pp. 6844-6869, Nov. 2014.
+[53] Y. Tian and A. Yener, “ Degrees of Freedom for the MIMO Multi-way Relay Channel,” IEEE Trans-
+actions on Information Theory, 60(5), pp. 2495-2511, May. 2014.
+[52] B. Guler and A. Yener, “Uplink Interference Management for Coexisting MIMO Femtocell and
+Macrocell Networks: An Interference Alignment Approach,” IEEE Transactions on Wireless Com-
+munications, 13(4), pp. 2246-2257, Apr. 2014.
+[51] X. He and A. Yener, “Providing Secrecy With Structured Codes: Tools and Applications to Two-User
+Gaussian Channels”, IEEE Transactions on Information Theory, 60(4), pp. 2121-2138, Apr. 2014.
+[50] B. Guler and A. Yener, “Selective Interference Alignment for MIMO Cognitive Femtocell Networks,”
+IEEE Journal in Selected Areas in Communications: Cognitive Radio Series, 32(3), pp. 439-450,
+Mar. 2014.
+[49] X. He, A. Khisti and A. Yener, “MIMO Broadcast Channel with an Unknown Eavesdropper: Secrecy
+Degrees of Freedom,” IEEE Transactions on Communications, 62(1), pp. 246-255, Jan. 2014.
+[48] M. Li, O. Simeone and A. Yener, “Degraded Broadcast Diamond Channels with Non-Causal State
+Information at the Source,” IEEE Transactions on Information Theory, 59(12), pp. 8210-8223, Dec.
+2013.
+[47] X. He and A. Yener, “The Role of Feedback in Two-way Secure Communications”, IEEE Transac-
+tions on Information Theory, 59(12), pp. 8115-8130, Dec. 2013.
+[46] G. Xiong, S. Kishore and A. Yener, “Spectrum Sensing in Cognitive Radio Networks: Performance
+Evaluation and Optimization,” Physical Communication (PHYCOM) Special Issue on Cognitive Ra-
+dio, Volume 9, pp. 171-183, December 2013.
+[45] E. N. Ciftcioglu, A. Yener and M. J. Neely, “Maximizing Quality of Information from Multiple Sen-
+sor Devices: The Exploration vs Exploitation Tradeoff,” IEEE Journal of Selected Topics in Signal
+
+-----
+A. Yener
+5
+Processing, Special issue on Learning-Based Decision Making in Dynamic Systems under Uncer-
+tainty, 7(5), pp. 883-894, October 2013.
+[44] R. Bassily, E. Ekrem, X. He, E. Tekin, J. Xie, M. Bloch, S. Ulukus and A. Yener, “Cooperative
+Security at the Physical Layer,”IEEE Signal Processing Magazine, 30(5), pp. 16-28, September
+2013.
+[43] Y. Tian and A. Yener, “Guiding Blind Transmitters: Degree of Freedom Optimal Interference Align-
+ment Using Relays,” IEEE Transactions on Information Theory, 59(8), pp. 4819-4832, August 2013.
+[42] X. He, A. Khisti and A. Yener, “MIMO Multiple Access Channel with an Arbitrarily Varying Eaves-
+dropper,” IEEE Transactions on Information Theory, 59(8), pp. 4733-4745, August 2013.
+[41] M. Li, O. Simeone and A. Yener, “Multiple Access Channels with States Causally Known at Trans-
+mitters”, IEEE Transactions on Information Theory, 59(3), pp. 1394-1404, March 2013.
+[40] X. He and A. Yener, “Strong Secrecy and Reliable Byzantine Detection in the Presence of an Un-
+trusted Relay”, IEEE Transactions on Information Theory, 59(1), pp. 177-192, January 2013.
+[39] D. Gunduz, A. Yener, A. Goldsmith, and H. V. Poor, “The Multi-way Relay Channel”, IEEE Trans-
+actions on Information Theory, 59(1), pp. 51-63, January 2013.
+[38] I. Stanojev and A. Yener, “Improving Secrecy Rate via Spectrum Leasing for Friendly Jamming,”
+IEEE Transactions on Wireless Communications, 12(1), pp. 134-145, January 2013.
+[37] X. He and A. Yener, “End-to-end Secure Multi-hop Communication with Untrusted Relays”, IEEE
+Transactions on Wireless Communications, 12(1), pp. 1-11, January 2013.
+[36] Y. Tian and A. Yener, “Symmetric Capacity of the Gaussian Interference Channel with an Out-of-
+Band Relay to within 1.15 Bits”, IEEE Transactions on Information Theory, 58(8), pp. 5151-5171,
+August 2012.
+[35] K. Tutuncuoglu and A. Yener, “Sum-Rate Optimal Power Policies for Energy Harvesting Transmitters
+in an Interference Channel,” Journal of Communications and Networks (JCN) Special issue on Energy
+Harvesting in Wireless Networks (Invited), April 2012.
+[34] K. Tutuncuoglu and A. Yener, “Optimum Transmission Policies for Battery Limited Energy Harvest-
+ing Nodes”, IEEE Transactions on Wireless Communications,vol. 11, no. 3, pp. 1180-1189, March
+2012. (IEEE 2014 Marconi Prize Paper Award)
+[33] E. N. Ciftcioglu, Y. E. Sagduyu, R. A. Berry, and A. Yener, “Cost-Delay Tradeoffs for Two-Way Re-
+lay Networks”, IEEE Transactions on Wireless Communications, 10(12), pp. 4100-4109, December
+2011.
+[32] O. Ozel, K. Tutuncuoglu, J. Yang, S. Ulukus and A. Yener, “Transmission with Energy Harvesting
+Nodes in Fading Wireless Channels: Optimal Policies”, IEEE Journal on Selected Areas in Com-
+muncations, Special Issue on Energy-Efficient Wireless Communications, 29(8), pp. 1732-1743,
+September 2011.
+[31] S. Goel, V. Aggarwal, A. Yener and A. R. Calderbank, “The Effect of Eavesdroppers on Network
+Connectivity: A Secrecy Graph Approach”, IEEE Transactions on Information Forensics and Secu-
+rity, Special Issue on Using the Physical Layer for Securing the Next Generation of Communication
+Systems, 6(3), pp. 712-724, September 2011.
+[30] Y. Tian and A. Yener, “The Gaussian Interference Relay Channel: Improved Achievable Rates and
+Sum Rate Upperbounds Using a Potent Relay”, IEEE Transactions on Information Theory, Special
+Issue on Interference Networks, 57(5), pp. 2865-2879, May 2011.
+[29] X. He and A. Yener, “The Gaussian Many-to-One Interference Channel with Confidential Messages”,
+IEEE Transactions on Information Theory, Special Issue on Interference Networks, 57(5), pp. 2730-
+2745, May 2011.
+
+-----
+A. Yener
+6
+[28] X. He and A. Yener, “Cooperation with an Untrusted Relay: A Secrecy Perspective”, IEEE Transac-
+tions on Information Theory, August 2010, 56(8), pp. 3801-3827.
+[27] K. Lee, X. He and A. Yener, “Resource Allocation for the Multi-Band Relay Channel: A Building
+Block for Hybrid Wireless Networks”, EURASIP Journal on Communications and Networking, vol.
+2010, Article ID 792410, 13 pages, 2010. doi:10.1155/2010/792410.
+[26] M. Chen and A. Yener, “Power Allocation for F/TDMA Multiuser Two-way Relay Networks”, IEEE
+Transactions on Wireless Communications, February 2010, 9(2), pp. 546 - 551.
+[25] X. He and A. Yener, “Two-hop Secure Communication Using an Untrusted Relay”, EURASIP Journal
+on Communications and Networking- Special Issue on Physical Layer Security, vol. 2009, Article ID
+305146, 13 pages, 2009. doi:10.1155/2009/305146.
+[24] M.Chen and A. Yener, “Multiuser Two-Way Relaying: Detection and Interference Management
+Strategies”, IEEE Transactions on Wireless Communications, August 2009, 8(8), pp. 4296 - 4305.
+[23] E. Tekin and A. Yener, “ The Gaussian Multiple-Access Wire-Tap Channel”, IEEE Transactions on
+Information Theory, December 2008, 54(12), pp. 5747 - 5755.
+[22] J. Andrews, N. Jindal, M. Haenggi, R. Berry, S. Jafar, D. Guo, S. Shakkottai, R. Heath, M. Neely, S.
+Weber and A. Yener, “Rethinking Information Theory for Mobile Ad Hoc Networks”, IEEE Commu-
+nications Magazine, December 2008, 46(12), pp. 94 - 101.
+[21] J. Eom, T. Lee, R. Rietman and A. Yener, “An Efficient Framed-Slotted ALOHA Algorithm with
+Pilot Frame and Binary Selection for Anti-Collision of RFID Tags”, IEEE Communications Letters,
+November 2008, 12(11), pp. 861 - 863.
+[20] E. Tekin and A. Yener, “The General Gaussian Multiple-Access and Two-way Wire-Tap Channels:
+Achievable Rates and Cooperative Jamming”, IEEE Transactions on Information Theory, June 2008,
+54(6), pp. 2735 - 2751.
+[19] S. Serbetli and A. Yener, “Relay Assisted F/TDMA Ad Hoc Networks: Node Classification, Power
+Allocation and Relaying Strategies”, IEEE Transactions on Communications, June 2008, 56(6), pp.
+937 - 947.
+[18] M. Chen, S. Serbetli, and A. Yener, “Distributed Power Allocation Strategies for Parallel Relay Net-
+works”, IEEE Transactions on Wireless Communications, February 2008, 7(2), pp. 552 - 561.
+[17] C. Oh and A. Yener, “Power Controlled CDMA Cell Sectorization with Multiuser Detection: A
+Comprehensive Analysis of Uplink and Downlink”, EURASIP Journal on Communications and Net-
+working, October 2007, Vol. 2007, Article ID 62379, 13 pages, 2007. doi:10.1155/2007/62379.
+[16] C. Oh and A. Yener, “Downlink Throughput Maximization for Interference Limited Systems: TDMA
+versus CDMA”, IEEE Transactions on Wireless Communications, July 2007, 6(7), pp. 2454 - 2463.
+[15] G. Khandelwal, K. Lee, A. Yener, and S. Serbetli, “ASAP : A MAC Protocol for Dense and Time
+Constrained RFID Systems”, EURASIP Journal on Communications and Networking, June 2007,
+Vol. 2007, Article ID 18730, 13 pages, 2007. doi:10.1155/2007/18730.
+[14] S. Serbetli and A. Yener, “MMSE Transmitter Design for Correlated MIMO Systems with Imperfect
+Channel Estimates: Power Allocation Trade-offs”, IEEE Transactions on Wireless Communications,
+August 2006, 5(8), pp. 2295 - 2304.
+[13] J. Shin, K. Lee, A. Yener, and T. F. La Porta, “On Demand Diversity Wireless Relay Networks,”ACM
+Transactions on Mobile Networking and Applications (MONET) Special Issue On Soft Radio-Enabled
+Heterogeneous Wireless Networks, August 2006, 11(4), pp. 593 - 611.
+[12] S. Serbetli and A. Yener, “MIMO-CDMA Systems: Signature and Beamformer Design with Various
+Levels of Feedback”, IEEE Transactions on Signal Processing, July 2006, 54(7), pp. 2758 - 2772.
+
+-----
+A. Yener
+7
+[11] S. Serbetli and A. Yener, “ Time Slotted Multiuser MIMO Systems: Beamforming and Schedul-
+ing Strategies,” EURASIP Journal on Wireless Communications and Networking, Special Issue on
+Multiuser MIMO Networks, December 2004, Volume 2004, pp. 286-296.
+[10] O. Filiz and A. Yener, “Rank Constrained Temporal-Spatial Filters for CDMA Systems ,” IEEE
+Transactions on Wireless Communications, November 2004, 3(6), pp. 1974-1979.
+[9] S. Ulukus and A. Yener, “Iterative Transmitter and Receiver Optimization for CDMA Networks,”
+IEEE Transactions on Wireless Communications, November 2004, 3(6), pp. 1879-1884.
+[8] S. Serbetli and A. Yener, “ Transceiver Optimization for Multiuser MIMO Systems”, IEEE Transac-
+tions on Signal Processing, January 2004, 52(1), pp. 214-226.
+[7] R. Sinha, A. Yener and R. D. Yates, “Noncoherent Multiuser Communications: Multistage Detection
+and Selective Filtering,” EURASIP Journal on Applied Signal Processing, Special Issue on Multiuser
+Detection and Blind Estimation, December 2002, Volume 2002, No. 12, pp. 1415-1426.
+[6] A. Yener, R. D. Yates and S. Ulukus, “Combined Multiuser Detection and Beamforming for CDMA
+Systems: Filter Structures”, IEEE Transactions on Vehicular Technology, September 2002, 51(5), pp.
+1087-1095.
+[5] A. Yener, R. D. Yates and S. Ulukus, “CDMA Multiuser Detection: A Nonlinear Programming
+Approach,” IEEE Transactions on Communications, June 2002, 50(6), pp. 1016-1024.
+[4] A. Yener, R. D. Yates and S. Ulukus, “Interference Management through Power Control, Multiuser
+Detection and Beamforming for CDMA Systems”, IEEE Transactions on Communications, July
+2001, 49(7), pp. 1227-1239.
+[3] C. U. Saraydar and A. Yener, “Adaptive Cell Sectorization for CDMA Systems”, IEEE Journal on
+Selected Areas in Communications, Wireless Communications Series, June 2001, 19(6), pp. 1041-
+1051.
+[2] A. Yener and C. Rose, “Highly Mobile Users and Paging: optimal polling strategies”, IEEE Transac-
+tions on Vehicular Technology, November 1998, 47(4), pp. 1251-1257.
+[1] A. Yener and C. Rose, “Genetic Algorithms Applied to Cellular Call Admission Problem: Local
+Policies”, IEEE Transactions on Vehicular Technology, February 1997, 46(1), pp. 72-79.
+Conference Publications
+[175] B. Guler, A. Yener, E. MolavianJazi, P. Basu, A. Swami, ”Interactive Function Compression with
+Asymmetric Priors ,” IEEE Data Compression Conference, DCC’16, Snowbird, UT, Mar. 2016.
+[174] E. MolavianJazi and A. Yener, ”Low-Latency Communications over Zero-Battery Energy Harvesting
+Channels,” IEEE Global Communications Conference, Globecom’15, San Diego, CA, Dec. 2015.
+[173] B. Varan and A. Yener, ”Auction Schemes for Energy and Signal Cooperation in Two-Hop Networks,”
+IEEE Global Communications Conference, Globecom’15, San Diego, CA, Dec. 2015.
+[172] A. Ibrahim, A. Zewail and A. Yener, ”Towards Green Distributed Storage Systems,” 49th Asilomar
+Conference on Signals, Systems and Computers, Asilomar’15, Pacific Grove, CA, Nov. 2015.
+[171] A. Zewail and A. Yener, ”The Interference Untrusted-Relay Channel with Confidential Messages,”
+Information Theory Workshop, ITW’15, Jeju Island, South Korea, Oct. 2015.
+[170] B. Guler, K. Tutuncuoglu, and A. Yener, ”Maximizing Recommender’s Influence in a Social Net-
+work: An Information Theoretic Perspective,” Information Theory Workshop, ITW’15, Jeju Island,
+South Korea, Oct. 2015.
+[169] E. MolavianJazi and A. Yener, ”Subset Source Coding,” 53rd Annual Allerton Conference on Com-
+munication, Control, and Computing, Allerton’15, Monticello, IL, Sep. 2015.
+
+-----
+A. Yener
+8
+[168] M. Nafea and A. Yener, ”Wiretap Channel II with a Noisy Main Channel,” IEEE International Sym-
+posium on Information Theory, ISIT’15, Hong Kong, Jun. 2015.
+[167] B. Guler, E. MolavianJazi, and A. Yener, ”Remote Source Coding with Two-Sided Information,”
+IEEE International Symposium on Information Theory, ISIT’15, Hong Kong, Jun. 2015.
+[166] O. Ozel, K. Tutuncuoglu, S. Ulukus, and A. Yener, ”The Binary Energy Harvesting Channel with
+On-Off Fading,” IEEE International Symposium on Information Theory, ISIT’15, Hong Kong, Jun.
+2015.
+[165] M. Nafea and A. Yener, ”Secure Degrees of Freedom of N N M Wiretap Channel with a K-Antenna
+Cooperative Jammer,” IEEE International Conference on Communications, ICC’15, London, UK,
+Jun. 2015.
+[164] A. Yener, ”New Directions in Information Theoretic Security: Benefits of Bidirectional Signaling,”
+Information Theory Workshop, ITW’15, Jerusalem, Israel, Apr. 2015.
+[163] C. Andersen, P. Basu, B. Guler, A. Yener and E. Molavianjazi, ”Protocols for Efficient Inference
+Communication,” Seventh International Workshop on Information Quality and Quality of Service for
+Pervasive Computing (IQ2S’15) in Conjunction with IEEE PERCOM 2015, St. Louis, MO, Mar.
+2015.
+[162] B. Varan and A. Yener, ”Throughput Maximizing Games in the Two-Hop Relay Channel with Energy
+Cooperation,” 49th Annual Conference on Information Sciences and Systems, CISS’15, Baltimore,
+MD, Mar. 2015.
+[161] K. Tutuncuoglu and A. Yener, ”The Energy Harvesting and Energy Cooperating Two-way Channel
+with Finite-Sized Batteries,” IEEE Global Communications Conference, Globecom’14, Austin, TX,
+Dec. 2014.
+[160] B. Varan and A. Yener, ”Energy Harvesting Communications with Energy and Data Storage Limita-
+tions,” IEEE Global Communications Conference, Globecom’14, Austin, TX, Dec. 2014.
+[159] B. Guler, A. Yener, P. Basu, C. Andersen and A. Swami, ”A Study on Compressing Graphical Struc-
+tures,” IEEE GlobalSIP Symposium on Network Theory, GlobalSIP’14, Atlanta, GA, Dec. 2014.
+[158] B. Guler, B. Varan, K. Tutuncuoglu, M. Nafea, A. Zewail, A. Yener and D. Octeau, ”Communicat-
+ing in a Socially-Aware Network: Impact of Relationship Types,” IEEE GlobalSIP Symposium on
+Network Theory, GlobalSIP’14, Atlanta, GA, Dec. 2014.
+[157] A. Zewail and A. Yener, ”The Multiple Access Channel with an Untrusted Relay,” Information Theory
+Workshop, ITW’14, Hobart, Tasmania, Australia, Nov. 2014.
+[156] M. Nafea and A. Yener, ”Secure Degrees of Freedom for the MIMO Wiretap Channel with a Multi-
+antenna Cooperative Jammer,” Information Theory Workshop, ITW’14, Hobart, Tasmania, Australia,
+Nov. 2014.
+[155] K. Tutuncuoglu, O. Ozel, A. Yener and S. Ulukus, ”State Amplification and State Masking for the
+Binary Energy Harvesting Channel,” Information Theory Workshop, ITW’14, Hobart, Tasmania, Aus-
+tralia, Nov. 2014.
+[154] O. Ozel, K. Tutuncuoglu, S. Ulukus and A. Yener, ”Capacity of the Energy Harvesting Channel
+with Energy Arrival Information at the Receiver,” Information Theory Workshop, ITW’14, Hobart,
+Tasmania, Australia, Nov. 2014.
+[153] B. Varan and A.Yener, ”Energy Harvesting Two-Way Communications with Limited Energy and Data
+Storage,” 48th Asilomar Conference on Signals, Systems and Computers, Asilomar’14, Pacific Grove,
+CA, Nov. 2014.
+
+-----
+A. Yener
+9
+[152] A. Zewail, M. Nafea and A. Yener, ”Multi-terminal Networks with an Untrusted Relay,” 52nd Annual
+Allerton Conference on Communication, Control, and Computing, Allerton’14, Monticello, IL, Oct.
+2014.
+[151] B. Guler, B. Varan, K. Tutuncuoglu, M. Nafea, A. Zewail, A. Yener and D. Octeau, ”Optimal Strate-
+gies for Targeted Influence in Signed Networks,” IEEE/ACM International Conference on Advances
+in Social Networks Analysis and Mining, ASONAM’14, Beijing, China, Aug. 2014.
+[150] K. Tutuncuoglu, O. Ozel, A. Yener, and S. Ulukus, ”Improved Capacity Bounds for the Binary Energy
+Harvesting Channel,” IEEE International Symposium on Information Theory, ISIT’14, Honolulu, HI,
+Jul. 2014.
+[149] O. Ozel, K. Tutuncuoglu, S. Ulukus, and A. Yener, ”Capacity of the Discrete Memoryless Energy
+Harvesting Channel with Side Information,” IEEE International Symposium on Information Theory,
+ISIT’14, Honolulu, HI, Jul. 2014.
+[148] E. N. Ciftcioglu, A. Michaloliakos, K. Psounis, T. F. La Porta and A. Yener, ”Power Minimization
+with Quality-of-Information Outages,” IEEE Wireless Communications and Networking Conference,
+WCNC’14, Istanbul, Turkey, Apr. 2014.
+[147] B.Guler and A. Yener, ”Semantic Index Assignment,” Sixth International Workshop on Information
+Quality and Quality of Service for Pervasive Computing (IQ2S’14) in Conjunction with IEEE PER-
+COM 2014, Budapest, Hungary, Mar. 2014.
+[146] B. Guler and A. Yener, ”Compressing Semantic Information with Varying Priorities,” IEEE Data
+Compression Conference, DCC’14, Snowbird, UT, Mar. 2014.
+[145] B. Varan, K. Tutuncuoglu and A. Yener, ”Energy Harvesting Communications with Continuous En-
+ergy Arrivals,” Information Theory and Applications Workshop, ITA’14, San Diego, CA, Feb. 2014.
+[144] M. Nafea and A. Yener, “Degrees of Freedom of the Single Antenna Gaussian Wiretap Channel with
+a Helper Irrespective of the Number of Antennas at the Eavesdropper,” IEEE GlobalSIP Symposium
+on Cyber-Security and Privacy, GlobalSIP’13, Austin, TX, Dec. 2013.
+[143] B. Guler, A. Yener and P. Basu, “A Study of Semantic Data Compression,” IEEE GlobalSIP Sympo-
+sium on Network Theory, GlobalSIP’13, Austin, TX, Dec. 2013.
+[142] B. Varan and A. Yener, “Two-Hop Networks with Energy Harvesting: The (Non-)Impact of Buffer
+Size,” IEEE GlobalSIP Symposium on Energy Harvesting and Green Wireless Communications,
+GlobalSIP’13, Austin, TX, Dec. 2013.
+[141] B. Varan and A. Yener, “The Energy Harvesting Two-Way Decode-and-Forward Relay Channel with
+Stochastic Data Arrivals,” IEEE GlobalSIP Symposium on Energy Harvesting and Green Wireless
+Communications, GlobalSIP’13, Austin, TX, Dec. 2013.
+[140] B. Varan and A. Yener, “Multi-pair and Multi-way Communications Using Energy Harvesting Nodes,”
+47th Asilomar Conference on Signals, Systems and Computers, Asilomar’13, Pacific Grove, CA,
+November 2013.
+[139] M. Nafea and A. Yener, “How Many Antennas Does a Cooperative Jammer Need for Achieving the
+Degrees of Freedom of Multiple Antenna Gaussian Channels in the Presence of an Eavesdropper?”,
+51st Annual Allerton Conference on Communication, Control, and Computing, Allerton’13, Monti-
+cello, IL, October 2013.
+[138] K. Tutuncuoglu and A. Yener, “Cooperative Energy Harvesting Communications with Relaying and
+Energy Sharing,” Information Theory Workshop, ITW’13, Seville, Spain, September 2013.
+[137] K. Tutuncuoglu, O. Ozel, A. Yener and S. Ulukus, “Binary Energy Harvesting Channel with Finite
+Energy Storage,” IEEE International Symposium on Information Theory, ISIT’13, Istanbul, Turkey,
+Jul. 2013.
+
+-----
+A. Yener
+10
+[136] Y. Tian and A. Yener, “Degrees of Freedom for the MIMO Multi-way Relay Channel,” IEEE Inter-
+national Symposium on Information Theory, ISIT’13, Istanbul, Turkey, July 2013.
+[135] K. Tutuncuoglu, B. Varan and A. Yener, “Energy Harvesting Two-Way Half-Duplex Relay Channel
+with Decode-and-Forward Relaying: Optimum Power Policies”, IEEE International Conference on
+Digital Signal Processing, DSP’13, Santorini, Greece, July 2013.
+[134] Y. Tian and A. Yener, “Degrees of Freedom Optimal Transmission for the Two-Cluster MIMO Multi-
+way Relay Channel,” IEEE International Conference on Communications, ICC’13, Budapest, Hun-
+gary, June 2013.
+[133] B. Guler and A. Yener, “Selective Interference Alignment for MIMO Femtocell Networks,” IEEE
+International Conference on Communications, ICC’13, Budapest, Hungary, June 2013.
+[132] I. Stanojev and A. Yener, “Relay Selection for Flexible Multihop Communication via Competitive
+Spectrum Leasing”, IEEE International Conference on Communications, ICC’13, Budapest, Hun-
+gary, June 2013.
+[131] K. Tutuncuoglu, B. Varan and A. Yener, “Optimum Transmission Policies for Energy Harvesting
+Two-way Relay Channels,” IEEE ICC’13 Workshop on Green Broadband Access: Energy Efficient
+Wireless and Wired Network Solutions, Budapest, Hungary, June 2013.
+[130] K. Tutuncuoglu and A. Yener, “Multiple Access and Two-way Channels with Energy Harvesting and
+Bidirectional Energy Cooperation,” Information Theory and Applications Workshop, ITA’13, San
+Diego, CA, Feb. 2013.
+[129] M. Li, O. Simeone and A. Yener, “The State-Dependent Degraded Broadcast Diamond Channel,”
+14th annual Australian Communications Theory Workshop, AusCTW’13, Adelaide, Australia, Jan-
+uary 2013.
+[128] K. Tutuncuoglu and A. Yener, “Energy Harvesting Broadcast Channel with Inefficient Energy Stor-
+age,” Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, November 2012.
+[127] X. He and A. Yener, “The Interference Wiretap Channel with an Arbitrarily Varying Eavesdropper:
+Aligning Interference with Artificial Noise,” 50th Annual Allerton Conference on Communication,
+Control, and Computing, Allerton’12, Monticello, IL, October 2012.
+[126] I. Stanojev and A. Yener, “Facilitating Flexible Multihop Communication via Spectrum Leasing”,
+IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, PIMRC’12,
+Sydney, Australia, September 2012.
+[125] K. Tutuncuoglu and A. Yener, “The Energy Harvesting Multiple Access Channel with Energy Storage
+Losses,” Information Theory Workshop, ITW 2012, Lausanne Switzerland, September 2012.
+[124] Y. Tian and A. Yener, “Signal Space Alignment and Degrees of Freedom for the Two-Cluster Multi-
+way Relay Channel,” International Conference on Communications in China, Beijing, China, August
+2012.
+[123] F. Saremi, P. Jayachandran, F. Iandola, Md Y. SarwarUddin, T. Abdelzaher and A. Yener, “On
+Schedulability and Time Composability of Data Aggregation Networks,” ISIF International Con-
+ference on Information Fusion, Fusion’12, July 2012.
+[122] Y. Tian and A. Yener, “Guiding Blind Transmitters: Relay-aided Interference Alignment for the X
+channel,” IEEE International Symposium on Information Theory, ISIT’12, Cambridge, Massachusetts,
+July 2012.
+[121] X. He and A. Yener, “The Gaussian Interference Wiretap Channel When the Eavesdropper Channel
+is Arbitrarily Varying,” IEEE International Symposium on Information Theory, ISIT’12, Cambridge,
+Massachusetts, July 2012.
+
+-----
+A. Yener
+11
+[120] Y. Tian and A. Yener, “Relays Can Provide Alignment for the K-user Interference Channel without
+Channel State Information at the Transmitters,”IEEE International Workshop on Signal Processing
+Advances in Wireless Communications, SPAWC’12, esme, Turkey, June 2012.
+[119] Y. Tian and A. Yener, “Relay-aided Interference Alignment for the X Channel with Limited CSI,”
+IEEE Wireless Communications and Networking Conference, WCNC’12, Paris, France, April 2012.
+[118] E. N. Ciftcioglu and A. Yener, “Maximizing Credibility-based Network Utility via Power Allocation,”
+The Fourth International Workshop on Information Quality and Quality of Service for Pervasive
+Computing (IQ2S) in Conjunction with IEEE PERCOM 2012, Lugano, Switzerland, March 2012.
+[117] K. Tutuncuoglu and A. Yener, “Optimal Power Policy for Energy Harvesting Transmitters with In-
+efficient Energy Storage,” 46th Annual Conference on Information Sciences and Systems, CISS’12,
+Princeton, NJ, March 2012.
+[116] K. Tutuncuoglu and A. Yener, “Communicating with Energy Harvesting Transmitters and Receivers,”
+Information Theory and Applications Workshop, ITA’12, San Diego, CA, February 2012.
+[115] K. Tutuncuoglu and A. Yener, “Transmission Policies for Asymmetric Interference Channels with
+Energy Harvesting Nodes,” International Workshop on Computational Advances in Multi-Sensor
+Adaptive Processing, CAMSAP’11, San Juan, Puerto Rico, December 2011.
+[114] B. Guler and A. Yener, “Interference Alignment for Cooperative MIMO Femtocell Networks,” IEEE
+Global Telecommunications Conference, Globecom’11, Houston, Texas, December 2011.
+[113] X. He, A. Khisti and A. Yener, “MIMO Broadcast Channel with Arbitrarily Varying Eavesdrop-
+per Channel: Secrecy Degrees of Freedom,” IEEE Global Telecommunications Conference, Globe-
+com’11, Houston, Texas, December 2011.
+[112] X. He and A. Yener, “Gaussian Two-way Wiretap Channel with an Arbitrarily Varying Eavesdropper,”
+IEEE Global Telecommunications Conference Workshop on Physical Layer Security, Globecom’11,
+Houston, Texas, December 2011.
+[111] S. T. Rager, E. N. Ciftcioglu, A. Yener, T. F. La Porta, and M. Neely, “Distributed Backpressure
+Protocols with Limited State Feedback,” IEEE Military Communications Conference, MILCOM’11,
+Baltimore, MD, November 2011.
+[110] E. N. Ciftcioglu and A. Yener, “Quality-of-Information Aware Transmission Policies with Time-
+Varying Links,” IEEE Military Communications Conference, MILCOM’11, Baltimore, MD, Novem-
+ber 2011.
+[109] Y. Tian and A. Yener, “Relaying for Multiple Sources in the Absence of Codebook Information,”
+Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, November 2011.
+[108] K. Tutuncuoglu and A. Yener, “Optimal Power Control for Energy Harvesting Transmitters in an
+Interference Channel,” Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA,
+November 2011.
+[107] X. He, A. Khisti and A. Yener, “MIMO Multiple Access Channel with an Arbitrarily Varying Eaves-
+dropper,” 49th Annual Allerton Conference on Communication, Control, and Computing, Allerton’11,
+Monticello, IL, September 2011.
+[106] A. Yener and I. Stanojev, “Recruiting Multi-Antenna Transmitters as Cooperative Jammers: An
+Auction-Theoretic Approach,” 49th Annual Allerton Conference on Communication, Control, and
+Computing, Allerton’11, Monticello, IL, September 2011.
+[105] X. He and A. Yener, “Secrecy When the Eavesdropper Controls its Channel States,” IEEE Interna-
+tional Symposium on Information Theory, ISIT’11, Saint Petersburg, Russia, July 2011.
+
+-----
+A. Yener
+12
+[104] M. Li, O. Simeone and A. Yener, “Leveraging Strictly Causal State Information at the Encoders for
+Multiple Access Channels,” IEEE International Symposium on Information Theory, ISIT’11, Saint
+Petersburg, Russia, July 2011.
+[103] E. N. Ciftcioglu, A. Yener, R. Govindan, and K. Psounis, “Operational Information Content Sum
+Capacity: Formulation and Examples,” ISIF International Conference on Information Fusion, Fu-
+sion’11, Chicago, IL, July 2011.
+[102] F. Iandola, L. Saremi, T. Abdelzaher, P. Jayachandran and A. Yener, “Real-Time Capacity of Net-
+worked Data Fusion,” ISIF International Conference on Information Fusion, Fusion’11, Chicago,
+IL, July 2011.
+[101] Y. Tian and A. Yener, “Harnessing Interference with an Out-of-Band Relay: an Approximate Capacity
+Result”, IEEE International Conference on Communications, ICC’11, Kyoto, Japan, June 2011.
+[100] K. Tutuncuoglu and A. Yener, “Short-Term Throughput Maximization for Battery Limited Energy
+Harvesting Nodes”, IEEE International Conference on Communications, ICC’11, Kyoto, Japan, June
+2011.
+[99] I. Stanojev and A. Yener, “Cooperative Jamming via Spectrum Leasing,” International Symposium
+of Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks, WiOpt’11, Princeton, NJ,
+May 2011.
+[98] R. Urgaonkar, E. N. Ciftcioglu, A. Yener, and M.Neely, “Quality of Information Aware Scheduling
+in Task Processing Networks,” 7th International Workshop on Resource Allocation and Cooperation
+in Wireless Networks (RAWNET), in conjunction with IEEE WiOpt 2011, Princeton, NJ, May 2011.
+[97] O. Ozel, K. Tutuncuoglu, J. Yang, S. Ulukus and A. Yener, “Resource Management for Fading Wire-
+less Channels with Energy Harvesting Nodes”, The 30th IEEE International Conference on Computer
+Communications - Mini Conference, INFOCOM’11, Shanghai, China, April 2011.
+[96] O. Ozel, K. Tutuncuoglu, J. Yang, S. Ulukus and A. Yener, “ Adaptive Transmission Policies for
+Energy Harvesting Wireless Nodes in Fading Channels,” Conference of Information Sciences and
+Systems, CISS’11, Baltimore, MD, March 2011.
+[95] A. Bar-Noy, G. Cirincione, R. Govindan, S. Krishnamurthy, T. F. LaPorta, P. Mohapatra, M. Neely,
+and A. Yener, “Quality-of-Information Aware Networking for Tactical Military Networks”, The Third
+International Workshop on Information Quality and Quality of Service for Pervasive Computing,
+IQ2S 2011, Seattle, WA, March 2011.
+[94] M. Li, O. Simeone and A. Yener, “Message and State Cooperation in a Relay Channel When the Relay
+Has Strictly Causal State Information,” Information Theory and Applications Workshop, ITA’11, San
+Diego, CA, Feb. 2011.
+[93] G. Xiong, C. Chen, S. Kishore and A. Yener, “Smart (In-home) Power Scheduling for Demand Re-
+sponse on the Smart Grid”, IEEE Power and Energy Society (PES) Conference on Innovative Smart
+Grid Technologies, Anaheim, CA, January 2011.
+[92] X. He and A. Yener, “Providing Secrecy Irrespective of Eavesdropper’s Channel State”, IEEE Global
+Telecommunications Conference, Globecom’10, Miami, Florida, December 2010.
+[91] X. He and A. Yener, “Providing Secrecy When the Eavesdropper Channel Is Arbitrarily Varying:
+A Case for Multiple Antennas”, 48th Annual Allerton Conference on Communication, Control, and
+Computing, Allerton’10, Monticello, IL, September 2010.
+[90] Y. Tian and A. Yener, “Sum Capacity of the Deterministic Interference Channel with an Out-of-Band
+Half-Duplex Relay”, 48th Annual Allerton Conference on Communication, Control, and Computing,
+Allerton’10, Monticello, IL, September 2010.
+
+-----
+A. Yener
+13
+[89] X. He and A. Yener, “The Role of Channel States in Secret Key Generation”, IEEE International
+Symposium on Personal, Indoor and Mobile Radio Communications, PIMRC’10, Istanbul, Turkey,
+September 2010.
+[88] S. Goel and A. Yener, “Connectivity in Wireless Networks with Dynamic Key Compromise and
+Recovery”, IEEE International Symposium on Personal, Indoor and Mobile Radio Communications,
+PIMRC’10, Istanbul, Turkey, September 2010.
+[87] S. Goel, V. Aggarwal, A. Yener and A. R. Calderbank, “Modeling Location Uncertainty for Eaves-
+droppers: A Secrecy Graph Approach”, IEEE International Symposium on Information Theory,
+ISIT’10, Austin, Texas, June 2010. (Best Student Paper Award Finalist)
+[86] Y. Tian and A. Yener, “The Ergodic Fading Interference Channel with an On-and-Off Relay”, IEEE
+International Symposium on Information Theory, ISIT’10, Austin, Texas, June 2010.
+[85] X. He and A. Yener, “A New Outer Bound for the Secrecy Capacity Region of the Gaussian Two-Way
+Wiretap Channel”, IEEE International Conference on Communications, ICC’10, Cape Town, South
+Africa, May 2010. (Best Paper Award, ICC 2010 Communication Theory Symposium)
+[84] Y. Tian and A. Yener, “Improved Achievable Rates for the Gaussian Interference Relay Channel”,
+IEEE International Conference on Communications, ICC’10, Cape Town, South Africa, May 2010.
+[83] E. N. Ciftcioglu, Y. E. Sagduyu, A. Yener, and R. Berry, “Queue Based Compression in a Two-Way
+Relay Network”, Conference on Information Sciences and Systems, CISS’09, Princeton, NJ, March
+2010.
+[82] G. Xiong, S. Kishore and A. Yener, “Cost Constrained Spectrum Sensing in Cognitive Radio Net-
+works”, Conference on Information Sciences and Systems, CISS’09, Princeton, NJ, March 2010.
+[81] G. Xiong, S. Kishore and A. Yener, “On Performance Evaluation of Cooperative Spectrum Sensing in
+Cognitive Radio Networks”, Conference on Information Sciences and Systems, CISS’09, Princeton,
+NJ, March 2010.
+[80] X. He and A. Yener, “Secrecy and Reliable Byzantine Detection in a Gaussian Untrusted Two-Hop
+Link”, IEEE Information Theory Workshop, ITW’10, Cairo, Egypt, January 2010.
+[79] X. He and A. Yener, “Secure Degrees of Freedom for Gaussian Channels with Interference: Struc-
+tured Codes Outperform Gaussian Signaling”, IEEE Global Telecommunications Conference, Globe-
+com’09, Honolulu, Hawaii, December 2009.
+[78] Y. Tian and A. Yener, “The Gaussian Interference Relay Channel with a Potent Relay”, IEEE Global
+Telecommunications Conference, Globecom’09, Honolulu, Hawaii, December 2009.
+[77] G. Xiong, S. Kishore and A. Yener, “On Low Complexity Cooperative Spectrum Sensing for Cogni-
+tive Networks,” IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive
+Processing, CAMSAP’09, Aruba, Dutch Antilles, Dec. 2009.
+[76] A. Yener and X. He, “Interference Channels with Strong Secrecy”, 47th Annual Allerton Conference
+on Communication, Control, and Computing, Allerton’09, Monticello, IL, September 2009.
+[75] E. N. Ciftcioglu, Y. E. Sagduyu, R. Berry, and A. Yener, “Cost Sharing with Network Coding in Two-
+Way Relay Networks”, 47th Annual Allerton Conference on Communication, Control, and Comput-
+ing, Allerton’09, Monticello, IL, September 2009.
+[74] X. He and A. Yener, “Secure Communication with a Byzantine Relay”, IEEE International Sympo-
+sium on Information Theory, ISIT’09, Seoul, Korea, June 2009.
+[73] X. He and A. Yener, “The Gaussian Many-to-One Interference Channel with Confidential Messages”,
+IEEE International Symposium on Information Theory, ISIT’09, Seoul, Korea, June 2009.
+
+-----
+A. Yener
+14
+[72] D. Gunduz, A. Yener, A. Goldsmith and H. V. Poor, “The Multi-way Relay Channel”, IEEE Interna-
+tional Symposium on Information Theory, ISIT’09, Seoul, Korea, June 2009.
+[71] M. Chen and A. Yener, “Power Allocation for Multi-Access Two-Way Relaying”, IEEE International
+Conference on Communications, ICC’09, Dresden, Germany, June 2009.
+[70] X. He and A. Yener, “K-user Interference Channels: Achievable Secrecy Rate and Degrees of Free-
+dom,” IEEE Information Theory Workshop on Networking and Information Theory, ITW’09, Volos,
+Greece, June 2009.
+[69] X. He and A. Yener, “A New Outer Bound for the Gaussian Interference Channel with Confidential
+Messages”, Conference on Information Sciences and Systems, CISS’09, Baltimore, MD, March 2009.
+[68] O. Simeone and A. Yener, “The Cognitive Multiple Access Wire-tap Channel”, Conference on Infor-
+mation Sciences and Systems, CISS’09, Baltimore, MD, March 2009.
+[67] X. He and A. Yener, “Two-hop Secure Communication Using an Untrusted Relay: A Case for Coop-
+erative Jamming,” IEEE Global Telecommunications Conference, Globecom’08, New Orleans, LA,
+December 2008.
+[66] E. N. Ciftcioglu, A. Yener and R. Berry, “Stability Regions for Two-Way Relaying with Network
+Coding,” Wireless Internet Conference, WICON’08, Maui, HI, November 2008.
+[65] X. He and A. Yener, “On the Role of Feedback in Two-way Secure Communication,” 42nd Asilomar
+Conference on Signals, Systems and Computers, Pacific Grove, CA, October 2008.
+[64] X. He and A. Yener, “End-to-end Secure Multi-hop Communication with Untrusted Relays is Pos-
+sible,” 42nd Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, October
+2008.
+[63] X. He and A. Yener, “Providing Secrecy with Lattice Codes”, 46th Annual Allerton Conference on
+Communications, Control, and Computing, Allerton’08, Monticello, IL, September 2008.
+[62] X. He and A. Yener, “The Role of an Untrusted Relay in Secret Communication,” IEEE International
+Symposium on Information Theory, ISIT’08, Toronto, Canada, July 2008.
+[61] M. Chen and A. Yener, “Multiuser Two-Way Relaying for Interference Limited Systems,” IEEE
+International Conference on Communications, ICC’08, Beijing, China, May 2008.
+[60] L. Huie, X. He and A. Yener, “Joint Power Scheduling and Estimator Design for Sensor Networks
+Across Parallel Channels,” IEEE International Conference on Communications, ICC’08, Beijing,
+China, May 2008.
+[59] E. N. Ciftcioglu, A. Yener and R. Berry, “Stability of Bi-Directional Cooperative Relay Networks,”
+IEEE Information Theory Workshop, ITW’08, Porto, Portugal, May 2008.
+[58] M. Chen and A. Yener, “Interference Management for Multiuser Two-Way Relaying,” Conference on
+Information Sciences and Systems, CISS’08, Princeton, NJ, March 2008.
+[57] X. He and A. Yener, “On the Energy Delay Trade-off of a Two-Way Relay Network,” Conference on
+Information Sciences and Systems, CISS’08, Princeton, NJ, March 2008.
+[56] X. He and A. Yener, “Rate Equivocation Region of a Class of Relay Channels with Orthogonal
+Components,” 41st Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA,
+November 2007 (Invited Paper).
+[55] K. Lee and A. Yener, “Throughput Enhancing Cooperative Spectrum Sensing Strategies for Cog-
+nitive Radios,” 41st Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA,
+November 2007 (Invited Paper).
+
+-----
+A. Yener
+15
+[54] Y. Li, Z. Shen, S. Kishore, and A. Yener, “Distributed and Collaborative Primary Signal Feature
+Estimation for Cognitive Radios under Communication Constraints,” 41st Asilomar Conference on
+Signals, Systems and Computers, Pacific Grove, CA, November 2007 (Invited Paper).
+[53] E. Tekin and A. Yener, “ Secrecy Sum-Rates for the Multiple-Access Wire-Tap Channel with Er-
+godic Block Fading,” 45th Annual Allerton Conference on Communication, Control, and Computing,
+Monticello, IL, September 2007.
+[52] E. Tekin and A. Yener, “Achievable rates for Two-way Wire-Tap Channels,” IEEE International
+Symposium on Information Theory, ISIT’07, Nice, France, June 2007.
+[51] E. Tekin and A. Yener, “The Multiple Access Wire-Tap Channel: Wireless Secrecy and Cooperative
+Jamming,” Information Theory and Applications Workshop, ITA’07, San Diego, CA, January 2007.
+(Invited Paper).
+[50] K. Lee and A. Yener, “Outage Performance of Cognitive Wireless Relay Networks,” IEEE Global
+Telecommunications Conference, Globecom’06, San Francisco, CA, November 2006.
+[49] K. Lee and A. Yener, “Spectrum-Sensing Opportunistic Wireless Relay Networks: Outage and Di-
+versity Performance,” 40th Asilomar Conference on Signals, Systems and Computers, Pacific Grove,
+CA, November 2006.
+[48] E. Tekin and A. Yener, “ Achievable Rates for the General Gaussian Multiple Access Wire-Tap Chan-
+nel with Collective Secrecy,” 44th Annual Allerton Conference on Communication, Control, and
+Computing, Monticello, IL, September 2006.
+[47] M. Chen, C. Oh and A. Yener, “ Efficient Scheduling for Delay Constrained CDMA Wireless Sen-
+sor Networks,” IEEE Vehicular Technology Conference, VTC’06 Fall, Montreal, Canada, September
+2006.
+[46] M. Chen, C. Oh and A. Yener, “ Efficient Scheduling for Delay Constrained Multi-Rate CDMA
+Systems,” IEEE 9th International Symposium on Spread Spectrum Techniques and Applications,
+ISSSTA’06, Manaus, Brazil, August 2006.
+[45] E. Tekin and A. Yener, “ The Gaussian Multiple Access Wire-Tap Channel with Collective Secrecy
+Constraints,” IEEE International Symposium on Information Theory, ISIT’06, Seattle, WA. July 2006.
+[44] S. Serbetli and A. Yener, “Power Allocation and Hybrid Relaying Strategies for F/TDMA Ad Hoc
+Networks,” IEEE International Conference on Communications, ICC’06, Istanbul, Turkey, June
+2006.
+[43] G. Khandelwal, A. Yener, K. Lee and S. Serbetli, “ASAP: A MAC Protocol for Dense and Time
+Constrained RFID Systems,” IEEE International Conference on Communications, ICC’06, Istanbul,
+Turkey, June 2006.
+[42] G. Khandelwal, A. Yener and M. Chen, “ OPT: Optimal Protocol Tree for Efficient Tag Identification
+in Dense RFID Systems,” IEEE International Conference on Communications, ICC’06, Istanbul,
+Turkey, June 2006.
+[41] K. Lee and A. Yener, “Iterative Power Allocation Algorithms for Amplify/Estimate/Compress-and-
+Forward Multi-Band Relay Channels,” Conference on Information Sciences and Systems, CISS’06,
+Princeton, NJ, March 2006.
+[40] M. Chen, S. Serbetli, and A. Yener, “Distributed Power Allocation for Parallel Relay Networks,”
+IEEE Global Telecommunications Conference, Globecom’05, St. Louis, MO, November 2005.
+[39] E. Tekin, S. Serbetli and A. Yener, “On Secure Signaling for the Gaussian Multiple Access Wire-
+Tap Channel,” 39th Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA,
+November 2005.
+
+-----
+A. Yener
+16
+[38] K. Lee and A. Yener, “On the Achievable Rate of Three-Node Cognitive Hybrid Wireless Networks,”
+International Conference on Wireless Networks, Communications, and Mobile Computing, Wireless-
+Com’05, Maui, HI, June 2005.
+[37] S. Serbetli and A. Yener, “Optimum Power Allocation for Relay Assisted F/TDMA Ad Hoc Net-
+works,” International Conference on Wireless Networks, Communications, and Mobile Computing,
+WirelessCom’05, Maui, HI, June 2005.
+[36] S. Serbetli and A. Yener, “Transmission Strategies for Correlated MIMO Links with Imperfect Chan-
+nel Estimates,” IEEE International Conference on Communications, ICC’05, Seoul, South Korea,
+May 2005.
+[35] K. Lee and A. Yener, “On Resource Allocation for the Multi-band Relay Channel,” Conference on
+Information Sciences and Systems, CISS’05, Baltimore, MD, March 2005.
+[34] S. Serbetli and A. Yener, “Optimum Power Allocation for Multiuser Relay Networks,” Conference
+on Information Sciences and Systems, CISS’05, Baltimore, MD, March 2005.
+[33] C. Oh and A. Yener, “Downlink Throughput Maximization: TDMA vs CDMA,” Conference on
+Information Sciences and Systems, CISS’05, Baltimore, MD, March 2005.
+[32] S. Serbetli and A. Yener, “Beamforming and Scheduling Strategies for Time Slotted Multiuser MIMO
+Systems,” 38th Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, Novem-
+ber 2004.
+[31] A. Yener and S. Kishore, “Distributed Power Control and Routing for Clustered CDMA Wireless Ad
+Hoc Networks,” IEEE Vehicular Technology Conference, VTC’04 Fall, Los Angeles, CA, September
+2004.
+[30] H. Zhu, G. Cao, A. Yener and A.D. Mathias, “EDCF-DM: A Novel Enhanced Distributed Coordina-
+tion Function for Wireless Ad Hoc Networks,” IEEE International Conference on Communications,
+ICC’04, Paris, France, June 2004.
+[29] S. Serbetli and A. Yener, “Signature Sequence Selection for CDMA Systems with Multiple Receiver
+Antennas,” IEEE International Conference on Communications, ICC’04, Paris, France, June 2004.
+[28] S. Serbetli, S. Bethanabhotla and A. Yener, “The Effect of Channel Estimation on Transceiver De-
+sign for MIMO Systems with QoS Constraints,” Conference on Information Sciences and Systems,
+CISS’04, Princeton, NJ, March 2004.
+[27] S. Serbetli and A. Yener, “Signature and Beamformer Design for MIMO-CDMA with Various Levels
+of Feedback,” Conference on Information Sciences and Systems, CISS’04, Princeton, NJ, March
+2004.
+[26] A. Yener and O. Filiz, “Rank Constrained Temporal-Spatial Filters for CDMA Systems in Multi-
+path Channels,” IEEE Global Telecommunications Conference, Globecom’03, San Francisco, CA,
+December 2003.
+[25] C. Oh and A. Yener, “Further Results on Adaptive CDMA Cell Sectorization with Linear Mul-
+tiuser Detection,” 37th Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA,
+November 2003 (Invited Paper).
+[24] C. Oh and A. Yener, “Adaptive CDMA Cell Sectorization with Linear Multiuser Detection,” IEEE
+Vehicular Technology Conference, VTC’03 Fall, Orlando, FL, October 2003.
+[23] S. Serbetli and A. Yener, “Signature and Beamformer Optimization for MIMO-CDMA Based on the
+Mean Squared Error Criterion,” Conference on Information Sciences and Systems, CISS’03, Balti-
+more, MD, March 2003.
+
+-----
+A. Yener
+17
+[22] O. Filiz and A. Yener, “Rank Constrained Temporal-Spatial Filters for CDMA Systems with Base
+Station Antenna Arrays,” Conference on Information Sciences and Systems, CISS’03, Baltimore,
+MD, March 2003.
+[21] S. Serbetli and A. Yener, “ Iterative Transceiver Optimization for Multiuser MIMO Systems,” 40th
+Allerton Conf. on Communications, Control and Computing, Monticello, Illinois, October 2002.
+[20] A. Yener and S. Serbetli, “ Transmitter Optimization for Multiuser MIMO Systems,” IEEE Inter-
+national Symposium on Advances in Wireless Communications, ISWC’02, Victoria, BC, Canada,
+September 2002 (Invited Paper).
+[19] S. Ulukus and A. Yener, “Iterative Transmitter and Receiver Optimization for Synchronous CDMA
+Systems,” IEEE International Symposium on Information Theory, ISIT’02, Lausanne, Switzerland,
+June 2002.
+[18] S. Ulukus and A. Yener, “Iterative Joint Optimization of CDMA Signature Sequences and Receiver
+Filters,” Conference on Information Sciences and Systems, CISS’02, Princeton, NJ, March 2002.
+[17] P. Spasojevic and A. Yener, “Constrained Slowest Descent Detectors for Multiuser CDMA Systems,”
+IEEE International Symposium on Information Theory, ISIT’01, Washington D.C., June 2001.
+[16] P. Spasojevic and A. Yener, “Improved Soft Interference Cancellation for CDMA Systems,” IEEE
+International Conference on Communications, ICC’01, Helsinki, Finland, June 2001.
+[15] A. Yener and S. Ulukus, “On the Fading Channel Performance of Temporal–Spatial Filters for
+CDMA,” IEEE Vehicular Technology Conference, VTC’01, Rhodes, Greece, May 2001.
+[14] A. Yener, “Nonlinear Programming Based Detectors for Multiuser Systems,” International Confer-
+ence on Information Technology: Coding and Computing, ITCC’01, Las Vegas, NV, April 2001,
+(Invited Paper).
+[13] R. Sinha, A. Yener and R. D. Yates, “Constrained Detection for Noncoherent Nonlinear Multiuser
+Communications,” 34th Asilomar Conference on Signals, Systems and Computers, Pacific Grove,
+CA, October 2000.
+[12] A. Yener and R. D. Yates, “Acquisition Dependent Random Access for Connectionless CDMA
+Systems,” IEEE Wireless Communications and Networking Conference, WCNC’00, Chicago, IL,
+September 2000 (Invited Paper).
+[11] A. Yener, R. D. Yates and S. Ulukus, “Combined Temporal and Spatial Filter Structures for CDMA
+Systems,” IEEE Vehicular Technology Conference, Boston, MA, September 2000.
+[10] A. Yener and R. D. Yates, “Decorrelating Acquisition and Access for Connectionless CDMA,” Sym-
+posium for Interference Rejection and Signal Separation, IRSS’00, Newark, NJ, March 2000 (Invited
+Paper).
+[9] A. Yener, R. D. Yates and S. Ulukus, “A Nonlinear Programming Approach to CDMA Multiuser
+Detection,” 33rd Asilomar Conf. on Signals, Systems and Computers, Pacific Grove, CA, Oct. 1999.
+[8] C. U. Saraydar and A. Yener, “Capacity Enhancement for CDMA Systems Through Adaptive Cell
+Sectorization,” IEEE Wireless Communications and Networking Conference, WCNC’99, New Or-
+leans, LA, September 1999.
+[7] A. Yener and R. D. Yates, “Multiuser Access Capacity of Packet Switched CDMA Systems,” IEEE
+Vehicular Technology Conference, VTC’99, Houston, TX, May 1999.
+[6] A. Yener, R. D. Yates and S. Ulukus, “Joint Power Control, Multiuser Detection and Beamforming
+for CDMA Systems,” IEEE Vehicular Technology Conference, VTC’99, Houston, TX, May 1999.
+[5] A. Yener and R. D. Yates, “Multiuser Access Detection for CDMA Systems,” Conference on Infor-
+mation Sciences and Systems, CISS’98, Princeton, NJ, March 1998.
+
+-----
+A. Yener
+18
+[4] A. Yener, C. Rose and R. D. Yates, “Optimum Power Scheduling for CDMA Access Channels,”
+IEEE Global Telecommunications Conference, Globecom’97, Phoenix, AZ, November 1997. Also
+presented in INFORMS Spring’98 Meeting (Invited Talk), Montreal, Canada, April 1998.
+[3] A. Yener and C. Rose, “Paging Strategies for Highly Mobile Users,” IEEE Vehicular Technology
+Conference, VTC’96, Atlanta, GA, April 1996.
+[2] A. Yener and C. Rose, “Local Call Admission Policies for Cellular Networks Using Genetic Algo-
+rithms,”Conference on Information Science and Systems, CISS’95, Baltimore, MD, March 1995.
+[1] A. Yener and C. Rose, “Near-Optimal Call Admission Policies for Cellular Networks Using Genetic
+Algorithms,” IEEE Wireless’94, Calgary, Canada, July 1994.
+Funded Research Grants
+NSF
+• Rechargeable Networks with Energy Cooperation (10/2015-10/2018), NSF-CNS, $460,000 (PI, with S.
+Ulukus, UMD).
+• Optimizing Communications with Harvested Energy in Energy Starved Environments: A Tailored Fit for
+Healthcare Monitoring (01/2016-09/2016), Seed Funding within NSF-ERC Advanced Self-Powered Sys-
+tems of Integrated Sensors and Technologies (ASSIST), $75,000 (PI, Penn State PI S. Troiller-McKinstry).
+• Foundations of Energy Harvesting Wireless Communications (7/2014-7/2017), NSF-CCF, $496,942 (PI,
+with S. Ulukus, UMD).
+• Support for North American School for Information Theory (05/2014-05/2015), NSF-CIF, $20,000 (PI).
+• Incentive Compatible Security (10/2013-10/2017), NSF-SaTC, $1,200,000 (PI, with R. Berry, Northwest-
+ern and S. Ulukus, UMD).
+• Realizing the Vision of Information-Theoretic Security for Wireless Communications (09/2013-09/2016),
+NSF-CCF, $500,000 (PI, with M. Bloch, Georgia Tech.).
+• Interactive Security (05/2010-05/2015), NSF-CCF, $1,200,000 (PI, with S. Ulukus, UMD and K. Ram-
+chandran, UC Berkeley).
+• Rechargeable Networks (03/2010-02/2015), NSF-CNS, $900,000 (PI, with S. Ulukus, UMD and R. Yates,
+Rutgers).
+• Cognition, Collaboration, and Competition in Hybrid Wireless Networks (09/2007-06/2012), NSF-CNS,
+$300,000 (PI, with S. Kishore Lehigh).
+• Secure Capacity of Wireless Networks (09/2007-08/2011), NSF-Cybertrust, $250,000 (PI, with S. Ulukus,
+ECE, UMD).
+• Multi-tier Hybrid Wireless Networks (10/2006-09/2008), NSF-CNS, $143,416 (PI, with S. Kishore, Lehigh).
+• Multiuser Wireless Security (07/2005-06/2010), NSF-CCF, $240,000 (PI, with S. Ulukus, ECE, UMD).
+• Exploratory Research in Relay Networks of Agile Radios (04/2005-09/2006), NSF-CNS, $95,018 (co-PI,
+with PI T. La Porta, CSE, PSU).
+• CAREER: Signal Processing for Multiuser Multiantenna Wireless Communications (02/2003-01/2010),
+NSF-CCR, $406,000 (PI).
+
+-----
+A. Yener
+19
+DoD
+• Quality-of-Information-Aware Networks for Tactical Applications (QUANTA) (10/2009-09/2019),
+US Army Research Laboratory: Network Science Collaborative Science Alliance (CTA), Communica-
+tion Network Center, 10-year estimated budget $35,000,000 (co-PI, PI:T. La Porta). Current role (years 6
+and 7): Task Lead (Q1, interdisciplinary team from BBN and ARL); task co-PI (I2, lead: T. Abdelzaher
+(UIUC), interdisciplinary team from UIUC, IBM and ARL).
+• Rethinking Mobile Ad Hoc Networks: A Non-equilibrium Information Theory (11/2006-5/2011),
+DARPA ITMANET: Information Theory for Mobile Ad Hoc Networks Program, $6,500,000 (Team:
+D. Katabi, MIT; R. Berry, D. Guo, Northwestern; M . Haenggi, Notre Dame; A. Yener, PSU; S. Jafar,
+University of California Irvine; N. Jindal, Minnesota; M. Neely, USC; J. Andrews (PI), R. Heath, S.
+Shakkottai, UT Austin; S. Weber, Drexel).
+• Control Over Network Coding for Enhanced Radio Transmission Optimization (07/2006-12/2007), DARPA
+CBMANET: Control Based Mobile Ad Hoc Networks Program, $303,000 (co-PI, with PI T. La Porta,
+CSE, PSU. Other PIs/co-PIs of CONCERTO team (budgets not shown): G. Lauer, R. Ghanadan, BAE
+Systems; M. Effros, T. Ho, CalTech; P. Francis, Z. Haas, Cornell; M. Medard, A. Ozdaglar, MIT; M.
+Steenstrup, Stow Research; R. Koetter, UIUC; J. Kurose, D. Towsley, UMass).
+• Enabling Logistics with Portable and Wireless Technology (07/2003-08/2004), USMC, $510,000, (Team:
+D.Hall, S. Purao, I. Petrick, School of IST, PSU; S. Kumara, N. Gautam, T. Kim, Industrial Engineering,
+PSU; Z. Rado, PTI, PSU; R. Gray, Penn State Erie; A. Yener, EE, PSU, A. Garga, ARL).
+Industry&State
+• Networking and Security Research Center Designation (01/2007-07/2008), Ben Franklin Technology
+Partners, $100,000, (co-PI, with PI T. La Porta, co-PIs R. Acharya, G. Cao, T. Jaeger, P. McDaniel).
+• Sustainable Wireless Networks (01/2007-10/2007), Raytheon (via Networking and Security Research
+Center, PSU), $50,000 (PI with T. Jeager and T. La Porta, CSE, PSU).
+• Technology RoadMap for 3G and Beyond (05/2006-12/2006), Raytheon (via Networking and Security
+Research Center, PSU), $50,000 (PI with T. La Porta, CSE, PSU).
+• Clustering for Wireless Ad Hoc Networks: A Joint Physical Layer, Multiple Access, and Routing Perspec-
+tive (07/2005-06/2006), Pennsylvania Infrastructure Technology Alliance, $60,000 (co-PI, with PI S.
+Kishore, ECE, Lehigh).
+• Design of Efficient RFID Systems (01/2005-12/2005), Pittsburgh Digital Greenhouse (The Tech Collab-
+orative) , $144,000 (PI).
+• Lifetime Optimization of Ad Hoc Sensor Networks (06/2005-12/2005), Telcordia (via Networking and
+Security Research Center, PSU), $50,000 (PI, with G. Cao, T. La Porta, CSE, PSU).
+• Center of Excellence in Wireless Communications and Networking at Lehigh University (05/2001-05/2003),
+AT&T Foundation, $200,000 (PI with R. Blum, T. Boult, J. Hwang, EECS, Lehigh).
+• Advances in Wireless Networking (Lehigh University) (09/2001-09/2002), PADCOM and Ben Franklin
+Technology Partners, $90,000 (co-PI, with PI T. Boult, EECS, Lehigh).
+
+-----
+A. Yener
+20
+Research Supervision
+Current Postdoctoral Researchers
+- Remi A. Chou (PhD, Georgia Tech 2015): 9/2015-Present
+- Ebrahim MolavianJazi (PhD, Notre Dame 2014): 8/2014-Present
+Current Doctoral Students
+- Burak Varan: Energy and Signal Cooperation in Competitive Wireless Networks with Energy Harvesting
+(Post-comprehensive, 05/2015)
+- Basak Guler: Interaction, Communication and Computation in Information and Social Networks (Post-
+comprehensive, 06/2015)
+- Mohamed Nafea: TBD (Start date: 08/2012)
+- Ahmed Zewail: TBD (Start date: 08/2013)
+- Abdelrahman Ibrahim: TBD (Start date: 08/2014)
+- Shiyang Vicky Leng: TBD (Start date: 08/2015)
+Previous Postdoctoral Researchers
+- Igor Stanojev (PhD, Politechnico di Milano and NJIT 2010): 11/2010-8/2012 (Assistant Professor, Uni-
+versity of Wisconsin, Plattville)
+- Satashu Goel (PhD, Carnegie Mellon 2009): 07/2009-10/2010 (Qualcomm)
+Graduated Doctoral Students
+- Kaya Tutuncuoglu PhD, 08/2015: Energy Harvesting Wireless Networks: Transmission Policies and Cod-
+ing Schemes (Facebook, Menlo Park, CA)
+- Ye Tian PhD, 05/2013 : Interference and Cooperation in Wireless Networks (Broadcom, Santa Clara, CA)
+- Min (Michael) Li, PhD, 08/2012: Information Theoretic Limits of Interactive Multi-user Communication
+Channels (Postdoc, Macquarie University, Sydney, Australia)
+- Ertugrul Ciftcioglu, PhD, 08/2012: Wireless Relay Networks with Stochastic Arrivals (Research Asso-
+ciate, IBM/ARL, Adelphi MD)
+- Xiang He, PhD, 08/2010: Cooperation and Information Theoretic Security in Wireless Networks (Mi-
+crosoft, Seattle, WA)
+- Min Chen, PhD, 09/2009: Resource Management for Wireless Ad Hoc Networks (Microsoft, Seattle, WA)
+- Ender Tekin, PhD, 08/2008: Information Theoretic Secrecy for Some Multiuser Wireless Communication
+Channels (Associate scientist, Tekin Lab Director, Smith-Kettlewell Eye Research Institute, Rehabilitation
+Engineering Research Center, San Francisco, CA)
+- Kyounghwan Lee, PhD, 12/2007: Cognitive Hybrid Wireless Relay Networks (Sprint, VA)
+
+-----
+A. Yener
+21
+- Changyoon Oh, PhD, 08/2005: Resource Allocation Techniques for Improved Performance of Multiuser
+Systems (Assistant Professor, Inha Technical College, Korea)
+- Semih Serbetli, PhD, 08/2005: Efficient Transmit Strategies for Multiuser Multiple Antenna Systems
+(Senior Research Scientist, Nexp, Eindhoven, The Netherlands)
+Graduated M.S. and B.S. Honor’s Thesis Students
+- Basak Guler, MS (Thesis) 08/2012: Interference Management for Femtocell Networks (current PhD stu-
+dent)
+- Lauren Huie, MS (Thesis), 08/2007: Joint Temporal Power Scheduling and Estimator Optimization for
+Sensor Networks (Air Force Research Lab, Rome, NY)
+- Sandeep Bethanabhotla, MS (Thesis), 12/2005: Transmission Strategies for Lifetime Maximization of
+Sensor Networks (Broadcom, Irvine, CA)
+- Girish Khandelwal, MS (Thesis), 08/2005: Efficient Design of Dense and Time Constrained RFID Systems
+(Qualcomm, San Diego, CA)
+- Onder Filiz, MS (Thesis), 07/2003: Rank Constrained Temporal-Spatial Receivers for CDMA Systems
+(Turkcell, Istanbul, Turkey)
+- Chien-Jen Huang, MS (Paper), 12/2007: Multiuser Competition in Cognitive Radio
+- Sungmin Bae, MS (Paper), 12/2005: The Listing Protocol for the RFID Reader Collision Problem
+- Atul Divakaran, MS (Paper), 09/2003: An Adaptive Channel Allocation Strategy for Wireless Multimedia
+QoS (T-Mobile)
+- Battal Ozdemir, MS (Paper), 05/2003: Adaptive Probing Based Medium Access Control for Ad-Hoc Net-
+works (Sabanci University and Tubitak, Istanbul, Turkey)
+- Michael Wang, BS (Honor’s Thesis), 05/11: MIMO Ad Hoc Networks (PhD Student, Princeton)
+- Mikhail Lisovich, BS (Honor’s Thesis), 05/2006: Capacity Scaling Laws in Ad-Hoc Networks (PhD 2010,
+Cornell)
+- Chip McArtor, BS (Honor’s Thesis), 05/2005: Lifetime Optimization of Sensor Networks: A Network
+Layer Approach
+Previous Visiting Professors
+- Insoo Koo, Associate Professor, University of Ulsan, South Korea (01/2012-12/2012).
+- Tae-Jin Lee, Associate Professor, Sungkyunkwan University Suwon, South Korea (08/2007-08/2008).
+- Yeonho Chung, Associate Professor, Pukyong National University, Busan, South Korea (09/2006-08/2007).
+Selected Invited Talks and Tutorials (since 2011)
+[20] “Information Theoretic Security,” Invited Lecture, 9th Annual North American School of Informa-
+tion Theory, June 2016, Duke University, Durham, NC (forthcoming).
+
+-----
+A. Yener
+22
+[19] “MIMO Wiretap Channel with a Cooperative Jammer,” Invited Talk, Mathematical Tools of In-
+formation Theoretic Security Workshop, Huawei Technologies/Centrale Supelec, September 2015,
+Paris, France.
+[18] “Security by the Physical Layer: A Promising Direction for Next Generation Wireless Network De-
+sign,” Invited Lecture, Gray Communications Advances in Information Theory Workshop, London
+Probability Seminar, Imperial College, June 2015, London, England.
+[17] “Energy Harvesting Wireless Communications,” Tutorial, IEEE International Conference on Com-
+munications, ICC’15, June 2015, London, England.
+[16] “Design Principles for Energy Harvesting Wireless Communication Networks,” Invited Talk, Ana-
+lytical Tools for Next Generation Heterogeneous Wireless Networks Workshop, Macquarie Univer-
+sity, June 2015, Sydney, Australia.
+[15] “Security by the Physical Layer: A Promising Direction for Next Generation Wireless Network De-
+sign,” Keynote, ICC 2014 Workshop on Physical Layer Security, June 2014, Sydney, Australia.
+[14] “Energy Harvesting Wireless Communications,” Tutorial, IEEE Wireless Communications and Net-
+working Conference, WCNC’14, April 2014, Istanbul, Turkey.
+[13] “Energy Harvesting Wireless Communication Networks,” Invited Talk, ISL Colloquium, Electrical
+Engineering Department, Stanford University, March 2014, Stanford, CA.
+[12] “Energy Harvesting Wireless Communications,” Tutorial, IEEE Global Communications Confer-
+ence, Globecom’13, December 2013, Atlanta, GA.
+[11] “Wireless Networks and Information Security: Models and Metrics,” Invited Talk, Workshop on
+Multi spectrum metrics for Cyber Defense, MIT, October 2013, Cambridge, MA.
+[10] “Two-way Green Cooperative Networking with Energy Harvesting,” Invited Talk, IEEE Communi-
+cation Theory Workshop, June 2013, Phuket, Thailand.
+[9] “Energy Harvesting Wireless Networks,” Invited Talk, Wireless Communications and Economics
+Workshop, June 2013, Chinese University of Hong Kong, Hong Kong.
+[8] “Energy Harvesting Wireless Communications,” Tutorial, IEEE International Conference on Com-
+munications, ICC’13, June 2013, Budapest, Hungary.
+[7] “Green Wireless Communications,” Tutorial, IEEE International Symposium on Personal, Indoor
+and Mobile Radio Communications, PIMRC’12, September 2012,Sydney, Australia.
+[6] “Green Wireless Networking with Energy Harvesting Nodes,” Invited Talk, Workshop on Method-
+ological Foundations of Green Radio, June 2012, Paris, France.
+[5] “Multiuser Wireless Secrecy: Lessons Learned from Information Theory,” Invited Talk, June 2012,
+Supelec, France.
+[4] “Secrecy: Benefits of Interaction,” Invited Talk, Banff Internationational Research Station (BIRS)
+Workshop on Interactive Information Theory, January 2012, Banff, Canada.
+[3] “Interference, Structured Random Codes and Secrecy,” Invited Talk, Banff Internationational Re-
+search Station (BIRS) Workshop on Algebraic Structure in Information Theory, August 2011, Banff,
+Canada.
+[2] “Energy Efficiency of Future Networks,” Invited Lecture, Wireless Information Theory Summer
+School, July 2011, Oulu, Finland.
+[1] “Cooperation, Interference and Secrecy: Lessons Learned from Information Theory,” Keynote, ICC
+2011 Workshop on Physical Layer Security, June 2011, Kyoto, Japan.
+
+-----
+A. Yener
+23
+Professional Activities
+Elected/Appointed Positions
+Member of the Board of Governors, IEEE Information Theory Society, elected for the term 2015-2017.
+Chair of the Information Theory School Sub-committee, IEEE Information Theory Society, 2014-2016.
+Treasurer, Member of the Board of Governors, IEEE Information Theory Society, 2012-2014.
+Chair of the Student Committee, IEEE Information Theory Society, 2007-2011.
+Editorial Advisory Board Member, IEEE Transactions on Wireless Communications, 2011-2013.
+Editorships
+Editor, IEEE Transactions on Wireless Communications, 2001-2010.
+Editor, IEEE Transactions on Communications, 2009-2012.
+Guest Editor, IEEE Journal on Selected Areas in Communications (JSAC), Special Issue on Wireless
+Communications Powered by Energy Harvesting and Wireless Energy Transfer, 2015.
+Guest Editor, IEEE Transactions on Information Forensics and Security, Special Issue on Using the Phys-
+ical Layer for Securing the Next Generation of Communication Systems, 2011.
+Conference Chair Positions
+General Chair, Third Annual School of Information Theory, Evanston, IL, August 2010. (with Gerhard
+Kramer of USC)
+General Chair, Second Annual School of Information Theory, Evanston, IL, August 2009. (with Gerhard
+Kramer of USC)
+Organizer and General Chair, First Annual School of Information Theory, University Park, PA, June
+2008. (with Gerhard Kramer of Bell Labs)
+Co-Chair, Wireless of the Students, by the Students, for the Students workshop (3S), to be held in con-
+junction with WiOpt’11, Princeton, NJ, May 2011.
+Technical Program Committee (TPC) Chair, Communication Theory Symposium, IEEE International
+Conference on Communications (ICC’09), Dresden, Germany, June 2009.
+TPC Chair, Communication Track, 42nd Asilomar Conference on Signals, Systems and Computers, Pa-
+cific Grove, Pacific Grove, October 2008.
+TPC Co-chair, Green Networks (GREENNET) Workshop, 14th International Symposium on Modeling
+and Optimization in Mobile, Ad Hoc and Wireless Networks (WiOpt’16), Tempe, AZ, May 2016.
+TPC Co-chair, 2nd Workshop on Green Broadband access: energy efficient wireless and wired network
+solutions, IEEE Global Telecommunications Conference 2014, Austin, TX, December 2014.
+TPC Co-chair, PHY and Fundamentals Track, IEEE Wireless communications and Networking Confer-
+ence (WCNC’14), Istanbul, Turkey, April 2014.
+TPC Co-chair, Workshop on Energy Harvesting and Green Wireless Communications, IEEE Global Signal
+and Information Processing Conference (GlobalSIP’13), Austin, TX, Dec. 2013.
+
+-----
+A. Yener
+24
+TPC Co-chair, Workshop on Green Broadband access: energy efficient wireless and wired network solu-
+tions, IEEE International Conference on Communications (ICC’13), Budapest, Hungary, June 2013.
+TPC Co-chair, Cognitive Radio and Spectrum Sensing Track, IEEE Vehicular Technology Conference
+(VTC’12-Spring), Yokohama, Japan, May 2012.
+TPC Co-chair, Track 2: MAC and Cross-Layer Design, 21st Annual IEEE International Symposium on
+Personal Radio and Mobile Communications (PIMRC’10), Istanbul, Turkey, September 2010.
+TPC Co-chair, Wireless Communications Symposium, IEEE International Conference on Communica-
+tions (ICC’08), Beijing, China, May 2008.
+TPC Co-chair, Communications and Networking Track, 39th Asilomar Conference on Signals, Systems
+and Computers, Pacific Grove, Pacific Grove, November 2005.
+TPC Co-chair, Symposium on Information Theory, IEEE WirelessCom 2005, Maui, HI, June 2005.
+Recent Results Chair, IEEE International Symposium on Information Theory (ISIT’13), Istanbul, Turkey,
+July 2013.
+Tutorial Chair, IEEE International Symposium on Information Theory (ISIT’12), Boston, MA,
+June 2012.
+Publications Co-chair, IEEE International Symposium on Information Theory (ISIT’11), St. Petersburg,
+Russia, July 2011.
+Conference Technical Program Committee Membership
+Technical Program Committee (TPC) member, IEEE International Symposium on Information Theory,
+ISIT’16, Barcelona July 2016.
+TPC Member, Communication Theory Symposium, IEEE International Conference on Communications
+2016, Kuala Lumpur, Malaysia, May 2016.
+TPC Member, Communication Theory Symposium, IEEE Global Telecommunications Conference 2015,
+San Diego, CA, December 2015.
+TPC Member, IEEE International Symposium on Information Theory, ISIT’15, Hong Kong June 2015.
+TPC Member, Communication Theory Symposium, IEEE International Conference on Communications
+2015, London, England, June 2015.
+TPC Member, 13th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and
+Wireless Networks, WiOpt’15, Mumbai, India, May 2015.
+TPC Member, Communication Theory Symposium, IEEE Global Telecommunications Conference 2014,
+Austin, TX, December 2014.
+TPC Member, Signal Processing for Communications Symposium, IEEE Global Telecommunications
+Conference 2014, Austin, TX, December 2014.
+TPC Member, Energy Efficiency and Energy Harvesting Related Signal Processing and Communications,
+IEEE Global Conference on Signal and Information Processing, Atlanta, GA, December 2014.
+TPC Member, IEEE International Symposium on Information Theory, ISIT’14, Honolulu, HI, July 2014.
+TPC Member, Communication Theory Symposium, IEEE International Conference on Communications
+2014, Sydney, Australia, June 2014.
+
+-----
+A. Yener
+25
+TPC Member, Ad Hoc and Sensor Networks Symposium, IEEE International Conference on Communica-
+tions 2014, Sydney, Australia, June 2014.
+TPC Member, 12th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and
+Wireless Networks, WiOpt’14, Hammamet, Tunisia, May 2014.
+TPC Member, IEEE Military Communications Conference, Baltimore, MD, November 2013.
+TPC Member, IEEE Conference on Communications and Network Security, CNS’13, Washington, D.C.,
+October 2013.
+TPC Member, IEEE International Symposium on Information Theory, ISIT’13, Istanbul, July 2013.
+TPC Member, Communication Theory Symposium, IEEE International Conference on Communications
+2012, Budapest, Hungary, June 2013.
+TPC Member, 11th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and
+Wireless Networks, WiOpt’13, Tsukuba Science City, Japan, May 2013.
+TPC Member, IEEE Military Communications Conference, Orlando, FL, November 2012.
+TPC Member, IEEE Information Theory Workshop, ITW’12, Lausanne, Switzerland, September 2012.
+TPC Member, IEEE Ninth International Symposium on Wireless Communication Systems, ISWCS’12,
+Paris, France, August 2012.
+TPC Member, IEEE International Symposium on Information Theory, ISIT’12, Boston, MA July 2012.
+TPC Member, Communication Theory Symposium, IEEE International Conference on Communications
+2012, Ottawa, Canada, June 2012.
+TPC Member, Wireless Communications Symposium, IEEE International Conference on Communications
+2012, Ottawa, Canada, June 2012.
+TPC Member, Ad Hoc and Sensor Networks Symposium, IEEE International Conference on Communica-
+tions 2012, Ottawa, Canada, June 2012.
+TPC Member, 10th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and
+Wireless Networks, WiOpt’12, Paderborn, Germany, May 2012.
+TPC Member, IEEE Fourth International Workshop on Computational Advances in Multi-Sensor Adap-
+tive Processing, CAMSAP 2011, San Juan, Puerto Rico, December 2011.
+TPC Member, Wireless Communications Symposium, IEEE Global Telecommunications Conference 2011,
+Houston, TX, December 2011.
+TPC Member, IEEE Eighth International Symposium on Wireless Communication Systems, ISWCS’11,
+Aachen, Germany, November 2011.
+TPC Member, Symposium on Architectures and Models for the Smart Grid, IEEE Second International
+Conference on Smart Grid Communications 2011, Brussels, Belgium, October 2011.
+TPC Member, 22nd Annual IEEE International Symposium on Personal, Indoor and Mobile Radio Com-
+munications, PIMRC’11, Toronto, Canada, September 2011.
+TPC Member, Communication Theory Symposium, IEEE International Conference on Communications
+2011, Kyoto, Japan, June 2011.
+
+-----
+A. Yener
+26
+TPC Member, Wireless Communications Symposium, IEEE International Conference on Communications
+2011, Kyoto, Japan, June 2011.
+TPC Member, 9th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and
+Wireless Networks, WiOpt’11, Princeton, NJ, May 2011.
+TPC Member, Wireless Communications Symposium, IEEE Global Telecommunications Conference 2010,
+Miami, FL, December 2010.
+TPC Member, IEEE International Symposium on Information Theory, ISIT’10, Austin, TX, June 2010.
+TPC Member, Wireless Communications Symposium, IEEE International Conference on Communications
+2010, Cape Town, South Africa, May 2010.
+TPC Member, Communication Theory Symposium, IEEE International Conference on Communications
+2010, Cape Town, South Africa, May 2010.
+TPC Member, Wireless Communications Symposium, IEEE Global Telecommunications Conference 2009,
+Honolulu, HI, December 2009.
+TPC Member, Ad Hoc and Sensor Networks Track, IEEE Vehicular Technology Conference, VTC’09-
+Fall, Anchorage, AK, September 2009.
+TPC Member, Communication Theory Symposium, IEEE Global Telecommunications Conference 2008,
+New Orleans, LA, November 2008.
+TPC Member, Conference on Information Theory and Statistical Learning (ITSL’08), Las Vegas, NV,
+June 2008.
+TPC Member, IEEE Information Theory Workshop (ITW), Porto, Portugal, May 2008.
+TPC Member, IEEE Wireless Communications and Networking Conference, Las Vegas, NV, March 2008.
+TPC Member, Communication Theory Symposium, IEEE Global Telecommunications Conference 2007,
+Washington D.C., November 2007.
+TPC Member, IEEE Vehicular Technology Conference, Baltimore, MD, September 2007.
+TPC Member, International Conference on Computer Communications and Networks, Communication
+and Information Theory Symposium, Honolulu, HI, August 2007.
+TPC Member, IEEE Wireless Communications and Networking Conference, Hong Kong, March 2007.
+TPC Member, Communication Theory Symposium, IEEE Global Telecommunications Conference 2006,
+San Francisco, CA, November 2006.
+TPC Member, Communication Theory Symposium, IEEE Global Telecommunications Conference 2005,
+St.Louis, MO, December 2005.
+TPC Member, Communication Theory Symposium, IEEE International Conference on Communications,
+Seoul, Korea, May 2005.
+TPC Member, ACM SIGCOMM 2005 Asia Workshop, Beijing, China, April 2005.
+TPC Member, General Conference, IEEE Global Telecommunications Conference 2004, Dallas, TX,
+November 2004.
+TPC Member, IEEE Vehicular Technology Conference, Los Angeles, CA, September 2004.
+
+-----
+A. Yener
+27
+TPC Member, Wireless Networking Symposium, IEEE International Conference on Communications,
+Paris, France, June 2004.
+TPC Member, IEEE Vehicular Technology Conference, Genova, Italy, May 2004.
+TPC Member, Wireless Communications Symposium, IEEE Global Telecommunications Conference 2003,
+San Francisco, CA, November 2003.
+TPC Member, IEEE Vehicular Technology Conference, Orlando, FL, September 2003.
+TPC Member, Communication Theory Symposium, IEEE International Conference on Communications,
+Anchorage, AK, May 2003.
+TPC Member, Advanced Signal Processing for Communications Symposium, IEEE International Confer-
+ence on Communications, Anchorage, AK, May 2003.
+TPC Member, Communication Theory Symposium, IEEE Global Telecommunications Conference 2002,
+Taipei, Taiwan, November 2002.
+TPC Member, IEEE Vehicular Technology Conference, Vancouver, Canada, September 2002.
+TPC Member, Advanced Wireless Communications Systems Symposium, IEEE International Conference
+on Communications, New York, NY , April 2002.
+Member, International Program Committee, IASTED International Conference on Wireless and Optical
+Communications, Banff, Canada, July 2002, July 2003.
+Selected Activities as Session or Panel Chair/Organizer,
+IEEE Communication Theory Workshop, CTW’15, Session Organizer: Energy Harvesting Communica-
+tions, Dana Point, CA, May 2015.
+Asilomar Conference on Signals, Systems and Computers, Invited session organizer: Green Radio, Pa-
+cific Grove, CA, November 2012.
+IEEE Fourth International Workshop on Computational Advances in Multi-Sensor Adaptive Processing,
+CAMSAP’11, Special Session Organizer: Energy Harvesting Wireless Networks, San Juan, Puerto Rico,
+December 2011.
+IEEE Communication Theory Workshop, CTW’11, Session Organizer: Security, Sitges, Spain, June
+2011.
+47th Annual Allerton Conference on Communication, Control and Computing, Invited session organizer:
+Information Security, Monticello, IL, September 2009.
+Organizer and Chair, Panel on Cooperative Communication for Future Wireless Systems, IEEE Wireless
+Communications and Networking Conference, WCNC’07, Hong Kong, March 2007.
+Asilomar Conference on Signals, Systems and Computers, Invited session organizer: Network Informa-
+tion Theory, Pacific Grove, CA, November 2007.
+Asilomar Conference on Signals, Systems and Computers, Invited session organizer: Adaptive Commu-
+nication Systems, Pacific Grove, CA, November 2003.
+Chapter Chair, IEEE Lehigh Valley Signal Processing Society, 2001.
+
+-----
+A. Yener
+28
+Research Evaluation Activities
+NSF Review Panelist- In CCF, NeTS, ECCS, SaTC, CCR, FMF, ITR programs in years 2001-2015.
+Reviewer
+IEEE Transactions on Information Theory
+IEEE Transactions on Communications
+IEEE Transactions on Wireless Communications
+IEEE Journal on Selected Areas in Communications
+IEEE Transactions on Signal Processing
+IEEE Transactions on Vehicular Technology
+IEEE/ACM Transactions on Networking
+IEEE Communications Letters
+IEEE Transactions on Circuits and Systems I
+EURASIP Journal on Wireless Communications and Networking
+ISIT, ITW, ICC, GLOBECOM, WCNC, PIMRC, INFOCOM, Percom, MOBICOM, VTC
+Thesis Committee Membership
+Completed
+∗ Dissertation Committee Member: Michael Lin, 2015, Penn State, Advisor: T. LaPorta
+∗ External examiner: Rajitha Senanayake, University of Melbourne, 2015, Advisor: J. Evans
+∗ Dissertation Committee Member: Sakib Chowhudry, 2014, Penn State, Advisor: M. Kavehrad
+∗ Dissertation Committee Member: Srikar Tati, 2014, Penn State, Advisor: T. LaPorta
+∗ Dissertation Committee Member: Qinghua Li, 2013, Penn State, Advisor: G. Cao
+∗ Dissertation Committee Member: Gang Xiong, 2011, Lehigh University, Advisor: S. Kishore
+∗ Dissertation Committee Member: Raju Kumar, 2010, Advisor: T. LaPorta
+∗ Dissertation Committee Member: Jack Chuang, 2008, Advisor: R. Narayanan
+∗ Dissertation Committee Member: Gyoughwan Kim, 2008, Carnegie Mellon, Advisor: R. Negi
+∗ Dissertation Committee Member: Patrick Traynor, 2008, Advisor: P. McDaniel
+∗ Dissertation Committee Member: Sangwoo Lee, 2007, Advisor: M. Kavehrad
+∗ Dissertation Committee Member: Ozcan Ozturk, 2007, Advisor: M. Kandemir
+∗ Dissertation Committee Member: Jaesheung Shin, 2007, Advisor: T. La Porta
+∗ Dissertation Committee Member: Matthew Pirretti, 2006, Advisor: N. Vijaykrishnan
+∗ Dissertation Committee Member: Hendra Saputra, 2005, Advisor: M. Kandemir
+∗ Dissertation Committee Member: Wensheng Zhang, 2005, Advisor: G. Cao
+∗ Dissertation Committee Member: Liangzhong Yin, 2004, Advisor: G. Cao
+∗ Dissertation Committee Member: Hao Zhu, 2004, Penn State, Advisor: G. Cao
+∗ Dissertation Committee Member: Byungtae Kang, 2004, Penn State, Advisor: J. Irwin
+∗ Dissertation External Committee Member: Rajnish Sinha, Rutgers, 2003, Advisor: R. Yates
+∗ MS Thesis Committee Member: Hao-Ting Lin, Penn State, 2003, Advisor: D. Miller
+∗ MS Paper Committee Member: Manuel Mendoza, Penn State, 2002, Advisor: J. Breakall
+∗ Dissertation Committee Member: Xiang Gao, Lehigh University, 2002, Advisor: T. Boult
+∗ External examiner: L. G. F. Trichard, Univ. of Sydney, 2002, Advisors: J. Evans and I. Collings
+In Progress
+∗ Dissertation Committee Member: Zhijie Ren, TU Delft, Advisors: M. Gastpar and J. Weber
+∗ Dissertation Committee Member: Zhichao Zhu, Penn State, Advisor: G. Cao
+
+-----
+A. Yener
+29
+Teaching
+Penn State, EE 360: Communication Systems
+Semesters taught: Spring 2003, Spring 2008, Fall 2012, Spring 2014
+Enrollment: 32, 23, 43, 35
+Description: Junior level communications course emphasizing analog/digital modulation techniques.
+Penn State, EE 497A: Fundamentals of Wireless Communications
+Semesters taught: Spring 2004, Spring 2005, Spring 2007.
+Enrollment: 35, 17, 13
+Description: Senior elective, introductory wireless communications. Developed by Prof. Yener.
+Student Rating of Teaching Effectiveness 6.04 over 7.
+Penn State, EE 497B: Probability and Random Processes for Electrical and Computer Engineers
+Semesters taught: Spring 2016.
+Enrollment: 29
+Description: Junior/senior level statistics elective.
+Penn State, EE 560: Stochastic Processes and Estimation
+Semesters taught: Fall 2006, Fall 2010
+Enrollment: 57, 39
+Description: Graduate level probability, random variables and random processes. Core course for the
+PhD candidacy exam for the following sub-areas of the Signals and Systems Area: Communications,
+Networking, Signal Processing, Image Processing.
+Penn State, EE 561: Information Theory
+Semesters taught: Fall 2007, Fall 2009, Spring 2011, Spring 2015
+Enrollment: 15, 17, 12, 9
+Description: Graduate level information theory.
+Penn State, EE 562: Detection and Estimation Theory
+Semester taught: Fall 2002
+Enrollment: 10
+Description: Graduate level detection and estimation theory.
+Penn State, EE 568: Digital Communications-I
+Semesters taught: Fall 2003, Fall 2004, Fall 2005
+Enrollment: 21, 18, 11
+Description: Graduate level digital communications.
+
+-----
+A. Yener
+30
+Penn State, EE 569: Digital Communications-II
+Semesters taught: Spring 2012
+Enrollment: 5
+Description: Advanced graduate level digital communications.
+Penn State, EE 597C: Emerging Topics in Networked Systems
+Semester taught: Fall 2013
+Enrollment: 5
+Description: Graduate level (advanced); heavy research component. Developed by Prof. Yener.
+Student Rating of Teaching Effectiveness 6.80 over 7.
+Penn State, EE 597E: Multiuser Wireless Communications
+Semester taught: Spring 2006
+Enrollment: 17
+Description: Graduate level (advanced); heavy research component. Developed by Prof. Yener.
+Student Rating of Teaching Effectiveness 6.71 over 7.
+Penn State, EE 597J: Spread Spectrum Communications
+Semester taught: Spring 2002
+Enrollment: 25
+Description: Graduate level course emphasizing the principles and performance of spread spectrum
+based communication systems.
+Lehigh, ECE 341: Fundamentals of Wireless Communications
+Semester taught: Fall 2000
+Enrollment: 16
+Description: Senior/First-year graduate course. Developed by Prof. Yener. Course taught as ECE
+350 & ECE 450 (Special Topics) in Fall 2000, subsequently named ECE 341 as a permanent course.
+Lehigh, ECE 450: Code Division Multiple Access Systems
+Semester taught: Spring 2001
+Enrollment: 11
+Description: Advanced graduate course emphasizing physical layer techniques for CDMA systems.
+University Service
+School of EECS Strategic Committee (2015-present)
+School of EECS Head Search Committee (2015-present)
+EE Department Search Committee (2015-present)
+EE Department Search Committee (2014-2015)
+
+-----
+A. Yener
+31
+Networked Systems Faculty Position Search Committee (2013-2014)
+Cyber-Physical Systems Faculty Position Search Committee (2012-2013)
+School of EECS study committee (2011)
+EE Department SysAdmin Search Committee (2011)
+Administrative Review Committee of Civil Engineering Dept Head Post, College of Engineering (2010-
+2011)
+EE Department Head Search Committee (2010-2011)
+Sabbatical Review Committee for College of Engineering (chair) (2009-2010)
+EE Department AA Search Committee (2009-2010)
+Coordinator of PhD Candidacy Exam for Signals and Systems (2009-2011)
+Member of the Strategic Planning Task Force on Information Technologies and Cyber Infrastructure, Col-
+lege of Engineering (2007-2008)
+Organizer of the Signals and Systems Area Seminars, EE Department (2006-2007)
+Graduate Council, alternate (elected), College of Engineering (2004-2006)
+Colloquium Organizing Committee, EE Department (2003-2006)
+Undergraduate Curriculum Committee, EE Department (2002-2012)
+Last updated, February 15, 2016.
+
+-----

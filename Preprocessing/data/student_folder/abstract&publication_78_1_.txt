@@ -1,0 +1,65 @@
+A Unified Control Framework for Human-robot
+Interaction
+Shangke Lyu
+Abstract:
+Co-existence of human and robot in the same workspace requires the robot to perform robot
+tasks such as trajectory tracking and also interaction tasks such as keeping a safe distance
+from human. According to various human-robot interaction scenarios, different interaction tasks
+usually require different task requirements or specifications, leading to different control strategies.
+Besides, due to different natures of the robot tasks and interaction tasks, different controllers
+may be required when the task is switched from one to another. So far, there is no theoretical
+framework which integrates different robot and interaction task requirements into a unified robot
+control strategy.
+In this research, a general human-robot interaction control framework is proposed for the
+scenario of human and robot coexisting in the same workspace. We propose a general potential
+energy function which can be used to derive a stable and unified controller for various robot
+tasks and human-robot interaction tasks. Instead of designing a particular task function formalism
+for each subtask requirement, various tasks can be specified and achieved by using a single
+controller at a user level through simply adjusting certain task parameters. Interactive weights
+are also defined to specify the interaction behaviours of robots according to different human-
+robot interaction applications. Specific interaction modes such as human-dominant interaction and
+robot-dominant interaction are given in details to demonstrate the applications of the proposed
+control method. We show how the control framework can be applied to existing robot control
+systems with velocity control or torque control mode by developing a joint velocity reference
+command and an adaptive controller.
+Typically, industrial manipulators have closed architecture control systems and do not come
+with external sensors. During human-robot interaction, robots are operated in an uncertain
+
+-----
+environment with presence of humans and are required to adjust the behaviours according
+to human’s intentions. Hence, external sensors such as vision systems must be added and
+integrated into the robots to improve their capabilities in perception and reaction. Since different
+configurations and types of sensors result in different sensory transformation or Jacobian matrices
+and thus lead to different models, it is in general difficult for operators or users in factory to
+model the sensory systems and deploy the robots according to various human-robot interaction
+applications. In this thesis, a new learning algorithm is derived and employed in the proposed
+control framework to estimate the unknown kinematics such that various external sensors can
+be easily integrated into the proposed framework to perform interaction tasks without modeling
+the kinematics.
+In the proposed framework, the robot’s behaviours during the interaction can be varied by
+manually adjusting the task parameters. As some of the task parameters do not correspond
+to any physical meaning, it is in general difficult for normal non-expert users to set the task
+parameters according to a specific interaction task. On the other hand, it is anticipated that task
+specification through human’s demonstration would be one of the effective ways for robots to
+understand or imitate human’s behaviours, especially during human-robot interactions. Therefore,
+a task requirement learning algorithm is proposed where the motion behaviours demonstrated
+by human can be acquired or learned by the robot systems in a unified way.
+
+-----
+Publications:
+[1] S. Lyu and C. C. Cheah, “Adaptive robot control for human-dominant interactions using a
+general task function,” IEEE International Conference on Real-time Computing and Robotics,
+39-44, 2016. (Best paper award)
+[2] S. Lyu and C. C. Cheah, “Human-Robot Interaction Control based on a General Energy
+Shaping Method,” Automatica, (under review).
+[3] Q. M. Ta, S. Lyu and C. C. Cheah, “Human-guided Optical Manipulation of Multiple Micro-
+scopic Objects,” IEEE International Conference on Robotics and Automation, 2018, (accepted).
+[4] S. Lyu, and C. C. Cheah, “Human-robot Interaction Control through Demonstration,” 26th
+Mediterranean Conference on Control and Automation, 2018, (accepted).
+[5] S. Lyu, and C. C. Cheah, “Vision based Neural Network Control of Robot Manipulators
+with Unknown Sensory Jacobian Matrix,” IEEE/ASME International Conference on Advanced
+Intelligent Mechatronics, 2018, (accepted).
+[6] S. Lyu, and C. C. Cheah, “Intention based Control for Physical Human-robot Interaction,”
+IEEE International Conference on Real-time Computing and Robotics, 2018, (accepted).
+
+-----

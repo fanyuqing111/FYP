@@ -1,0 +1,141 @@
+RANGING-BASED ADAPTIVE NAVIGATION FOR AUTONOMOUS
+MICRO AERIAL VEHICLES
+THESIS ABSTRACT
+Nguyen Pham Nhat Thien Minh
+School of Electrical and Electronic Engineering
+Nanyang Technological University
+50 Nanyang Avenue, Singapore, 639798
+May 16, 2019
+Recent decade has witnessed a surge in popularity of Micro Aerial Vehicles (MAVs) with applica-
+tions in many civilian, industrial and military applications. Essentially, for successful maneuver of
+MAVs, or mobile robots in general, two problems need to be adequately addressed: localization and
+navigation, or estimation and control in a more general sense. Most commonly we find that these
+two problems are addressed in separate manner, whereas localization capability is usually the primal
+assumption, upon which different navigation strategies can be developed. While this approach may
+facilitate convenient solution and analysis, it also brings about several limitations. On one hand, for
+long-range operations of MAVs, or cooperative operations involving a large number of MAVs, while
+the most viable option for localization would be some artificially installed localization infrastructure,
+applications based on these system have low adaptability to different and complex environments. On
+the other hand, by employing only onboard sensors, visual navigation techniques can offer a much
+more flexible method for MAV localization in GPS-denied environments. However, vision-based
+techniques tend to suffer from long-term estimation drift. Moreover, they are only effective for
+single MAV application. In multi-MAVs operations, since each visual localization system uses a
+different frame of reference, collaborative operations between the MAVs wouldn’t be possible if
+there is no prior knowledge to convert the position information from one frame to another. These
+imitations motivate the research in this thesis to seek new methods for operation of MAVs with
+minimal deployment cost and adequate flexibility.
+Inspired by the aforementioned issues, the objective of this thesis is to develop an integrated
+estimation-control scheme that can achieve a high level of flexibility, portability and practicality for
+autonomous navigational tasks of MAVs in GPS-denied environment. As a first expedition into this
+direction, a sensor fusion scheme is proposed to achieve relative positioning and tracking of a target
+by MAV using Ultra-wideband (UWB) ranging sensors strategically installed on both the MAV and
+the target. To achieve robust localization for autonomous flight even with uncertainty in the speed
+of the target, two main features are developed. First, an estimator based on Extended Kalman Filter
+(EKF) is developed to fuse UWB ranging measurements with data from onboard sensors including
+inertial measurement unit (IMU), altimeters and optical flow. Second, to properly handle the coupling
+of the target’s orientation with the range measurements, UWB based communication capability is
+utilized to transfer the target’s orientation to the quadcopter. Experiment results demonstrate the
+ability of the quadcopter to control its position relative to the target autonomously in both cases when
+the target is static and moving.
+While the aforementioned sensor fusion scheme can offer reliable and robust target tracking
+capability, it may not be effective for long range navigation task. Thus a new problem with the
+objective of navigating a MAV to desired location while estimating its position relative to a single
+static landmark is studied. In this investigation a relative localization algorithm was developed to
+estimate the position of the MAV relative to the landmark by using only distance and displace-
+ment measurements. Since these measurements can be easily obtained from generic but efficient
+
+-----
+MAY 16, 2019
+ranging and vision-based self-localization techniques, the estimation-control scheme can achieve
+independence from extensive external localization system, thus can be adopted in many environments
+(portability) without incurring high setup and maintenance cost (flexibility). Based on this estimation,
+a control scheme is delicately designed to ensure asymptotic convergence of the estimation as well
+as the docking objectives. Regarding practicality, to ensure maximal compatibility with real-world
+implementation, all dynamics, estimation and control processses are directly formulated and analysed
+under a discrete-time framework. Moreover, to avoid overburdening the physical system, constraint on
+bounded control input is also considered in the design of the control law. By employing discrete-time
+LaSalle’s invariance principle, asymptotic convergence of the navigation task can be established in
+the noise-free case, and the stability under distance measurement noise is also investigated. Compre-
+hensive simulation and real-world experiments are conducted to demonstrate the efficiency of our
+method.
+Based on the investigations on sensor fusion for target tracking and single landmark navigation, the
+two ranging-based relative localization scheme is further extended and combined in an autonomous
+docking of MAV on moving target. Though vision-based techniques have become quite popular
+for autonomous docking of MAVs, due to limited field of view (FOV), the MAV must rely on
+other methods to detect and approach the target before vision can be used. A method combining
+sequential ranging of Ultra-wideband sensor with vision-based techniques is developed to achieve both
+autonomous approaching and landing capabilities in GPS-denied environments. In the approaching
+phase, an exponentially convergent recursive least-square optimization algorithm is proposed to
+estimate the position of the MAV relative to the target by using the distance and relative displacement
+measurements. Using this estimate, MAV is able to efficiently approach the target until the landing
+pad is detected by an onboard vision system, then UWB measurements and vision-derived poses
+are fused with onboard sensor of MAV to facilitate an accurate landing maneuver. Real-world
+experiments are conducted to demonstrate the efficiency of our method.
+So far the aforementioned problems only focus on navigation of single MAV. However, compared
+with a single MAV, a team of MAVs will increase the efficiency in carrying out cooperative tasks
+such as mapping, inspection or coverage. In logistics, a MAV team can also be used to transport a
+payload to some locations that ground robots cannot access. While there are many works discussing
+multi-UAV navigation and coordination strategies using relative position or bearing measurements,
+the practicality of these strategies is uncertain as direct measurement of relative states is a strong
+assumption from a technological point of view. This motivated us to apply the distance-displacement
+based relative localization technique to such cooperative multi-robot schemes. Specifically, we
+investigate the problem of controlling a multi-robot team to follow a leader in formation, supported
+by relative position estimate derived from distance and self-displacement measurements. The main
+challenge of the problem, which is to simultaneous fulfill both relative localization and control tasks, is
+efficiently resolved by embedding a distance-based persistently excited adaptive relative localization
+technique into a time-varying formation with bounded control input (PEARL-TVF). By assuming
+that the leader is globally reachable and selecting proper parameters, it is shown that PEARL-TVF
+ensures exponentially convergent localization, which leads to exponentially convergent formation
+when the leader’s behavior is deterministic, and bounded formation error for a non-deterministic
+leader. Extensive numerical simulations and real-world implementations are carried out to verify the
+theoretical results and demonstrate the efficacy as well as effectiveness of the proposed method.
+Publications
+[1] Thien-Minh Nguyen, Zhirong Qiu, Muqing Cao, Thien Hoang Nguyen, and Lihua Xie. Single Landmark
+Distance-based Navigation. IEEE Transactions on Control Systems Technology, 2019.
+[2] Thien-Minh Nguyen, Zhirong Qiu, Thien Hoang Nguyen, Muqing Cao, and Lihua Xie. Distance-based cooperative
+relative localization for leader-following control of aerial robots. IEEE Robotics and Automation Letters (Under
+Review), 2019.
+[3] Thien-Minh Nguyen, Zhirong Qiu, Thien Hoang Nguyen, Muqing Cao, and Lihua Xie. Persistently-excited
+adaptive relative localization and time-varying formation of robotic swarms. IEEE Transactions on Robotics
+(Under Review), 2019.
+[4] Thien-Minh Nguyen, Thien Hoang Nguyen, Muqing Cao, Zhirong Qiu, and Lihua Xie. Integrated UWB-
+Vision Approach for Autonomous Docking of UAVs in GPS-Denied Environments. In 2019 IEEE International
+Conference on Robotics and Automation (ICRA), Montreal, QC, Canada, May 2019. IEEE.
+2
+
+-----
+MAY 16, 2019
+[5] Thien-Minh Nguyen, Zhirong Qiu, Muqing Cao, Thien Hoang Nguyen, and Lihua Xie. An integrated localization-
+navigation scheme for distance-based docking of uavs. In 2018 IEEE/RSJ International Conference on Intelligent
+Robots and Systems (IROS), pages 5245–5250, Madrid, Spain, 2018. IEEE.
+[6] Thien-Minh Nguyen, Abdul Hanif Zaini, Chen Wang, Kexin Guo, and Lihua Xie.
+Robust target-relative
+localization with ultra-wideband ranging and communication. In 2018 IEEE International Conference on Robotics
+and Automation (ICRA), pages 2312–2319, Brisbane, QLD, Australia, 2018. IEEE.
+[7] Chen Wang, Tete Ji, Thien-Minh Nguyen, and Lihua Xie. Correlation flow: robust optical flow using kernel
+cross-correlators. In 2018 IEEE International Conference on Robotics and Automation (ICRA), pages 836–841,
+Madrid, Spain, 2018. IEEE.
+[8] Chen Wang, Handuo Zhang, Thien-Minh Nguyen, and Lihua Xie. Ultra-wideband aided fast localization and
+mapping system. In 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pages
+1602–1609, Vancouver, BC, Canada, 2017. IEEE.
+[9] Thien Hoang Nguyen, Muqing Cao, Thien-Minh Nguyen, and Lihua Xie. Post-mission autonomous return and
+precision landing of uav. In 2018 15th International Conference on Control, Automation, Robotics and Vision
+(ICARCV), pages 1747–1752, Singapore, 2018. IEEE.
+[10] Xu Fang, Chen Wang, Thien-Minh Nguyen, and Lihua Xie. Model-free approach for sensor network localization
+with noisy distance measurement. In 2018 15th International Conference on Control, Automation, Robotics and
+Vision (ICARCV), pages 1973–1978, Singapore, 2018. IEEE.
+[11] Thien Minh Nguyen, Abdul Hanif Zaini, Kexin Guo, and Lihua Xie. An ultra-wideband-based multi-uav
+localization system in gps-denied environments. In 2016 International Micro Air Vehicle Competition and
+Conference (IMAV), Beijing, China, 2016.
+[12] Kexin Guo, Zhirong Qiu, Wei Meng, and Lihua Xie. Relative localization for quadcopters using ultra-wideband
+sensors. In 2016 International Micro Air Vehicle Competition and Conference (IMAV), Beijing, China, 2016.
+[13] Thien-Minh Nguyen, Xiuxian Li, and Lihua Xie. Barrier coverage by heterogeneous sensor network with input
+saturation. In 11th Asian Control Conference (ASCC), pages 1719–1724, Gold Coast, QLD, Australia, 2017.
+IEEE.
+[14] Thien-Minh Nguyen and Lihua Xie.
+Least-square based recursive optimization for distance-based source
+localization. In 2018 14th IEEE International Conference on Control and Automation (ICCA), pages 75–80,
+Anchorage, AK, USA, 2018. IEEE.
+3
+
+-----

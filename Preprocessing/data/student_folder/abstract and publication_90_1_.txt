@@ -1,0 +1,69 @@
+Abstract 
+Air conditioning and mechanical ventilation (ACMV) system, which determines the 
+indoor thermal comfort and the total building energy efficiency, attracts increasing 
+popularity throughout the world.  In modern society, a series of problems such as sick 
+building syndrome (SBS), sensation of draught and energy waste arise with the massive 
+usage of air conditioning. Prioritizing green building-ACMV system can improve 
+occupants fitness level and deliver dramatic energy saving. Among the various ACMV 
+schemes, the active beams (active chilled beam and active thermosiphon beam), as 
+typical kinds of air-water configuration ACMV system, have outstanding performance on 
+energy saving, indoor air quality improvement and space saving. However, the existing 
+research is still inadequate and some technical difficulties stand as major obstacles for 
+application of the air terminals especially in tropical regions. To fulfil the gaps, this thesis 
+focuses on the mechanical design, modeling and performance optimization of the active 
+beam terminal units. The contributions of this thesis are summarized as follows: 
+1. 
+A simple yet accurate hybrid model of active chilled beam terminal is 
+developed with respect to air buoyancy. The model demonstrates the air 
+entrainment characteristics in air chamber and the heat transfer process in 
+cooling coil. Compared with the existing active chilled beam (ACB) model, 
+the proposed model captures the effects of air buoyancy and further reduces 
+the complexity of cooling coil model. The ACB model requires only two 
+equations with nine unknown model parameters that can be identified by 
+Levenberg-Marquardt method with experimental measurements. Experimental 
+validation in the thermal room proves that the model is effective to predict the 
+supply air flow rate and heat transfer process in a wide range of operating 
+conditions. The proposed model is expected to be further examined in 
+optimization and performance evaluation applications for ACB system. 
+2. 
+To improve the heat transfer efficiency and eliminate the condensation 
+problem of the traditional ACB, the mechanical design of the terminal unit is 
+optimized. Combining air entrainment effect and displacement ventilation, the 
+active thermosiphon beam (ATB) is developed with innovative nozzle 
+arrangement, cooling coil placement and air chamber configuration. An 
+experimental comparison of ATB is conducted under a wide range of 
+
+-----
+operating conditions to estimate its thermodynamic and hydrodynamic 
+performances. The comparison results indicate that 1) the cooling capacity of 
+ATB is around 40% higher than ACB and PDV; 2) the ATB has better 
+dehumidification ability with the sensible heat ratio of 0.42; 3) the initial cost 
+of ATB system is the lowest under same cooling load requirement. More 
+importantly, the experimental findings provide a guideline for the design and 
+operation of ATB system.  
+3. 
+A model-based optimization approach for ATB system is developed to 
+minimize the total energy consumption and maintain indoor thermal comfort. 
+The thermal models of the terminal unit and the energy consumption models 
+of the energy consuming components are established based on the 
+experimental results. Accordingly, the global optimization strategy is 
+formulated to find the optimal setting points of the ATB system with regard of 
+total energy consumption and operating constraints. The experimental results 
+indicate that the optimized operating parameters obtained by the GA can 
+significantly reduce the total energy consumption while maintain the indoor 
+thermal comfort. The obtained findings demonstrate that the ATB system is a 
+promising ACMV system in terms of cost, thermal comfort and energy saving 
+for a variety of applications. 
+Publication 
+Ke Ji, Wenjian Cai, Bingjie Wu, Xin Zhang, Modelling and validation of an active 
+chilled beam terminal unit, Journal of Building Engineering, under review. 
+Ke Ji, Wenjian Cai, Fuzzy model based predictive control for active chilled beam 
+systems, in 12th IEEE Conference on Industrial Electronics and Applications (ICIEA), 
+2017, pp.807-812. 
+Ke Ji, Wenjian Cai, Bingjie Wu, Performance analysis of heat transfer rate and negative 
+air ion application for passive thermosiphon beam system, in 13th IEEE Conference on 
+Industrial Electronics and Applications (ICIEA), 2018, pp.1609-1614. 
+Bingjie Wu, Wenjian Cai, Ke Ji, Heat source effects on thermal comfort for active chilled 
+beam systems, Building and Environment, 141 (2018) 91-102. 
+
+-----

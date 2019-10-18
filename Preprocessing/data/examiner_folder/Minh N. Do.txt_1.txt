@@ -1,0 +1,431 @@
+Minh N. Do
+Professor
+Department of Electrical and Computer Engineering
+University of Illinois at Urbana-Champaign
+Office: 113 Coordinated Science Laboratory
+Tel: (217) 244-4782
+Email: minhdo@illinois.edu
+Biography
+Minh N. Do was born in Thanh Hoa, Vietnam in 1974. He received the B.Eng. degree in
+Computer Engineering from the University of Canberra, Australia in 1997, and the Dr.Sci.
+degree  in  Communication  Systems  from  the  Swiss  Federal  Institute  of  Technology
+Lausanne (EPFL), Switzerland in 2001. Since 2002, he has been on the faculty at the
+University of Illinois at Urbana-Champaign, where he  is currently a  Professor in the
+Department of Electrical and Computer Engineering, and holds joint appointments with the
+Coordinated  Science  Laboratory,  the  Beckman  Institute  for  Advanced  Science  and
+Technology, the Advanced Digital Sciences Center, and the Department of Bioengineering.
+His current research interests include signal processing, computational imaging, geometric
+vision, and data science.
+He received a Silver Medal from the 32nd International Mathematical Olympiad in 1991, a
+University Medal from the University of Canberra in 1997, a Doctorate Award from the
+Swiss Federal Institute of Technology Lausanne in 2001, and a CAREER Award from the
+National Science Foundation in 2003. He co-authored on two papers with Arthur L. da
+Cunha  and  Ha  T. Nguyen  that  received  Best  Student  Paper  Awards  at  the  IEEE
+International Conference on Acoustics, Speech, and Signal Processing (ICASSP) in 2005,
+a paper with Yue Lu that received a Most Innovative Paper Award at the IEEE International
+Conference on Image Processing (ICIP) in 2006, and a paper with Yue Lu that received a
+Student Paper Award at ICIP in 2007. He received a Young Author Best Paper Award from
+the IEEE Signal Processing Society in 2008 for a paper with Martin Vetterli.
+He was named a Beckman Fellow at the Center for Advanced Study, UIUC in 2006, and
+received a Xerox Award for Faculty Research, College of Engineering, UIUC, in 2007. He
+was a member of the IEEE Signal Processing Theory and Methods and Image, Video, and
+Multidimensional Signal Processing Technical Committees, and an Associate Editor of the
+IEEE Transactions on Image Processing. He was elevated as an IEEE Fellow in 2014 for
+contributions to image representation and computational imaging. 
+Total citations: 22156
+h-index: 44
+
+-----
+Selected publications:
+Book Chapters
+1. M.  N.  Do  and  M.  Vetterli,  Contourlets,  Beyond  Wavelets,  G.  V. Welland  ed.,
+Academic Press, 2003. PDF | Postcript
+Journal Papers
+1. L. Wang, D. Tang, Y. Guo, and M. N. Do,  Common visual pattern discovery via
+nonlinear mean shift clustering, IEEE Transactions on Image Processing, vol. 24,
+no. 12, pp. 5442-5454, Dec. 2015.
+2. V.-A. Nguyen, J. Lu, S. Zhao, D. T. Vu, H. Yang, D. L. Jones, and M. N. Do, ITEM:
+Immersive Telepresence for Entertainment and Meetings - A Practical Approach,,
+IEEE Journal of Selected Topics in Signal Processing, vol.9, no.3, pp.546-561, April
+2015.
+3. H. Q. Bui, C. N. H. La, and M. N. Do, A fast tree-based algorithm for compressed
+sensing with sparse-tree prior, Signal Processing, pp. 628-641, vol. 108, Mar. 2015.
+4. H. Q. Nguyen and M. N. Do,  Downsampling of signals on graphs via maximum
+spanning trees, IEEE Transactions on Signal Processing, pp. 182-191, vol. 63, Jan.
+2015.
+5. H. Q. Nguyen and  M. N. Do,  Inverse  rendering of Lambertian  surfaces using
+subspace methods, IEEE Transactions on Image Processing, pp. 5545-5558, Dec.
+2014.
+6. D. Min, S.  Choi,  J.  Lu, B.  Ham, K. Sohn,  and  M. N. Do,  Fast  global  image
+smoothing  based  on  weighted  least  squares,  IEEE  Transactions  on  Image
+Processing, pp. 5638-5653, Dec. 2014.
+7. V. A. Nguyen, J. Lu, S. Zhao, D. L. Jones, and M. N. Do, Teleimmersive audio-visual
+communication  using  commodity  hardware,  IEEE  Signal  Processing  Magazine,
+Nov. 2014.
+
+-----
+8. S. D. Babacan, S. Nakajima, and M. N. Do, Bayesian group-sparse modeling and
+variational inference, IEEE Transactions on Signal Processing, vol. 62, no. 11, pp.
+2906-2921, Nov. 2014.
+9. D. T. Vu, B. Chidester, H. Yang, M. N. Do, and J. Lu,  Efficient hybrid tree-based
+stereo  matching  with  applications  to  postcapture  image  refocusing,  IEEE
+Transactions on Image Processing, vol. 23, no. 8, pp. 3428-3442, Aug. 2014.
+10.A. L. N. Targino da Costa and M. N. Do, A retina-based perceptually lossless limit
+and a Gaussian foveation scheme with loss control,  IEEE Journal of Selected
+Topics in Signal Processing, vol. 8, no. 3, pp. 438-453, 2014.
+11.B. Ham, D. Min, C. Oh, M. N. Do, and K. Sohn, Probability-based rendering for view
+synthesis,  IEEE Transactions on Image Processing, vol. 23, no. 2, pp. 870-884,
+2014.
+12.D. Min, J. Lu, and M. N. Do,  Joint histogram-based cost aggregation for stereo
+matching, IEEE Transactions on Pattern Analysis and Machine Intelligence,, vol. 35,
+no. 10, pp. 2539-2545, 2013.
+13.H. M. Nguyen, X. Peng, M. N. Do, and Z.-P. Liang, Denoising MR spectroscopic
+imaging  data  with  low-rank  approximations,  IEEE  Trans.  on  Biomedical
+Engineering, vol. 60, no. 1, pp. 78-89, 2013.
+14.V.-A.  Nguyen,  D.  Min,  and  M.  N.  Do,  Efficient  techniques  for  depth  video
+compression using weighted mode filtering,  IEEE Transactions on Circuits and
+Systems for Video Technology, vol. 23, no. 2, pp. 189-202, 2013.
+15.M. N. Do and Y. M. Lu,  Multidimensional filter banks and multiscale geometric
+representations, Foundations and Trends in Signal Processing, vol. 5, issue. 3, pp.
+157-264, 2012.
+16.M.  Mir, S. D. Babacan,  M. Bednarz,  M.  N.  Do,  I.  Golding, and  G.  Popescu,
+Visualizing Escherichia coli sub-cellular structure using sparse deconvolution spatial
+light interference tomography, PLoS ONE, vol. 7, June 2012.
+17.D. Min, J. Lu, and M. N. Do, Depth video enhancement based on weighted mode
+filtering,  IEEE Transactions on Image Processing, vol. 21, no. 3, pp. 1176-1190,
+Mar. 2012.
+18.M. N. Do, D. Marchand-Maillet, and M. Vetterli, On the bandwidth of the plenoptic
+function, IEEE Transactions on Image Processing, vol. 21, no. 2, pp. 708-717, Feb.
+2012. 
+19.S.  D.  Babacan,  Z.  Wang,  M.  Do,  and  G.  Popescu,  Cell  imaging  beyond  the
+diffraction limit using sparse deconvolution spatial light interference microscopy,
+Biomedical Optics Express, vol. 2, no. 7, pp. 1815-1827, July 2011. 
+20.H. Pham, H. Ding, N. Sobh, M. Do, S. Patel, and G. Popescu, Off-axis quantitative
+phase imaging processing using CUDA: toward real-time applications, Biomedical
+Optics Express, vol. 2, no. 7, pp. 1781-1793, July 2011. 
+
+-----
+21.A. J. Dapore, M. R. King, J. Harter, S. Sarwate, M. L. Oelze, J. A. Zagzebski, M. N.
+Do, T. J. Hall, and W. D. O'Brien, Analysis of human fibroadenomas using three-
+dimensional impedance maps, IEEE Transactions on Medical Imaging, vol. 30, no.
+6, pp. 1206-1213, June 2011. 
+22.M. N. Do, Q. H. Nguyen, H. T. Nguyen, D. Kubacki, and Sanjay J. Patel, Immersive
+visual communication with depth cameras and parallel computing,  IEEE Signal
+Processing Magazine, vol. 28, pp. 58-66, Jan. 2011. 
+23.K. L. Law and M. N. Do,  Multidimensional filter bank signal reconstruction from
+multichannel acquisition, IEEE Transactions on Image Processing, vol. 20, pp. 317-
+326, Feb. 2011. 
+24.M.  Maitre  and  M. N. Do,  Depth  and  depth-color coding  using  shape-adaptive
+wavelets,  Journal of Visual Communication and Image Representation, Special
+Issue on Multicamera Imaging, pp. 513-522, July 2010. 
+25.A. L. Cunha, M. N. Do, and M. Vetterli, On the information rates of the plenoptic
+function,  IEEE Transactions on Information Theory, vol. 56, pp. 1306-1321, Mar.
+2010. 
+26.D. Lin, X. Huang, Q. Nguyen, J. Blackburn, C. Rodrigues, T. Huang, M. N. Do, S.
+Patel,  and  W.-M.  Hwu,  Parallelization  of  video  processing:  from  programming
+models to applications, IEEE Signal Processing Magazine, pp. 103-112, Nov. 2009. 
+27.K. L. Law, R. M. Fossum, and M. N. Do, Generic invertibility of multidimensional FIR
+filter banks and MIMO systems, IEEE Transactions on Signal Processing, vol. 57,
+no. 11, pp. 4282-4291, Nov. 2009. 
+28.Y. M. Lu, M. N. Do, and R. S. Laugesen, A computable Fourier condition generating
+alias-free sampling lattices, IEEE Transactions on Signal Processing, vol. 57, no. 5,
+pp. 1768-1782, May 2009. 
+29.R. L. Morrison, M. N. Do, and D. C. Munson, MCA: a multichannel approach to SAR
+autofocus,  IEEE Transactions on Image Processing, vol. 18, no. 4, pp. 840-853,
+Apr. 2009.
+30.H. T. Nguyen and M. N. Do, Error analysis for image-based rendering with depth
+information, IEEE Transactions on Image Processing, vol. 18, no. 4, pp. 703-716,
+Apr. 2009.
+31.H. M. Nguyen, B. P. Sutton, R. L. Morrison, and M. N. Do,  Joint estimation and
+correction of geometric distortions for EPI functional MRI using harmonic retrieval,
+IEEE Transactions on Medical Imaging, vol. 28, no. 3, pp. 423-434, Mar. 2009. 
+32.H. T. Nguyen and M. N. Do,  Hybrid filter banks with fractional delays: Minimax
+design  and application  to  multichannel sampling,  IEEE Transactions on Signal
+Processing, vol. 56, no. 7, pp. 3180-3190, July 2008.
+33.M.  Maitre,  Y. Shinagawa,  and  M.  N.  Do,  Wavelet-based  joint  estimation  and
+encoding of depth-image-based representations for free-viewpoint rendering, IEEE
+
+-----
+Transactions on Image Processing, vol. 17, no. 6, pp. 946-957, June 2008. 
+34.Y. M. Lu and M. N. Do, A theory for sampling signals from a union of subspaces,
+IEEE Transactions on Signal Processing, vol. 56, no. 6, pp. 2334-2345, June 2008. 
+35.Y. M. Lu and M. N. Do, A mapping-based design for nonsubsampled hourglass filter
+banks in arbitrary dimensions, IEEE Transactions on Signal Processing, vol. 56, no.
+4, pp. 1466-1478, Apr. 2008. 
+36.Y. M. Lu and M. N. Do, Sampling signals from a union of subspaces, IEEE Signal
+Processing Magazine, Special Issue on Compressive Sampling, vol. 25, no. 2, pp.
+41-47, Mar. 2008. 
+37.R. L. Morrison, M. N. Do, and D. C. Munson, SAR image autofocus by sharpness
+optimization: a theoretical study, IEEE Transactions on Image Processing, vol. 16,
+no. 9, pp. 2309-2321, Sep. 2007. 
+38.A. L. Cunha and M. N. Do, On two-channel filter banks with directional vanishing
+moments, IEEE Transactions on Image Processing, vol. 16, no. 5, pp. 1207-1219,
+May 2007. 
+39.Y. M. Lu and M. N. Do,  Multidimensional directional filter banks and surfacelets,
+IEEE Transactions on Image Processing, vol. 16, no. 4, pp. 918-931, Apr. 2007.
+Surfacelet movie (Animated GIF file showing surfacelet atoms in 3D as videos). 
+40.D. Xu and M. N. Do, On the number of rectangular tilings, IEEE Transactions on
+Image Processing, vol. 15, no. 10, pp. 3225-3230, Oct. 2006. 
+41.J. Zhou and M. N. Do,  Multidimensional multichannel FIR deconvolution using
+Grobner bases, IEEE Transactions on Image Processing, vol. 15, no. 10, pp. 2998-
+3007, Oct. 2006. 
+42.A. L. Cunha, J. Zhou, and M. N. Do,  The nonsubsampled contourlet transform:
+Theory, design, and applications, IEEE Transactions on Image Processing, vol. 15,
+no. 10, pp. 3089-3101, Oct. 2006. 
+43.Y.  Huang,  I.  Pollak,  M.  N.  Do,  and  C.  A.  Bouman,  Fast  search  for  best
+representations in multitree dictionaries, IEEE Transactions on Image Processing,
+vol. 15, no. 7, pp. 1779-1793, July 2006. 
+44.D. D.-Y. Po and M. N. Do,  Directional multiscale modeling of images using the
+contourlet transform,  IEEE Transactions on Image Processing, vol. 15, no. 6, pp.
+1610-1620, June 2006. 
+45.Y. Huang, I. Pollak, C.A. Bouman, and M. N. Do,  Best basis search in lapped
+dictionaries, IEEE Transactions on Signal Processing, vol. 54, no. 2, pp. 651-664,
+Feb. 2006. 
+46.J.  Zhou,  M.  N.  Do,  and  J.  Kovacevic,  Special  paraunitary  matrices,  Cayley
+transform,  and  multidimensional  orthogonal  filter  banks,  IEEE  Transactions  on
+Image Processing, vol. 15, no. 2, pp. 511-519, Feb. 2006. 
+
+-----
+47.M.  N.  Do  and  M.  Vetterli,  The  contourlet  transform:  an  efficient  directional
+multiresolution image representation, IEEE Transactions Image on Processing, vol.
+14, no. 12, pp. 2091-2106, Dec. 2005. Contourlet toolbox (Matlab source code that
+implements  the  contourlet  transform  and  its  utility  functions).
+Contourlet  movie [QuickTime  video  compares  non-linear  approximations  using
+wavelets (DWT2) and contourlets (PDFB)]. 
+48.J.  Zhou,  M.  N.  Do,  and  J.  Kovacevic,  Multidimensional  orthogonal  filter  bank
+characterization and design using the Cayley transform,  IEEE Transactions on
+Image Processing, vol. 14, no. 6, pp. 760-769, June 2005. 
+49.R. Shukla, P. L. Dragotti, M. N. Do and M. Vetterli, Rate-distortion optimized tree
+structured  compression  algorithms  for  piecewise  smooth  images,
+ IEEE
+Transactions on Image Processing, vol. 14, pp. 343-359, Mar. 2005. 
+50.C. Xu, D. L. Marks, M. N. Do, and S. A. Boppart,  Separation of absorption and
+scattering profiles in spectroscopic optical coherence tomography using a least-
+squares algorithm, Optics Express, vol. 12, no. 20, pp. 4790-4803, Oct. 2004. 
+51.M.  N.  Do  and  M.  Vetterli,  Framing  pyramids,  IEEE  Transactions  on  Signal
+Processing,  vol.  51,  pp.  2329-2342,  Sep.  2003.  
+PDF 
+|
+ Postscript 
+Laplacian  pyramid  toolbox [Matlab  source  code  that implements the  Laplacian
+pyramid (in any dimension) with the new reconstruction method in the paper].
+52.M. N. Do,  Fast approximation of Kullback-Leibler distance for dependence trees
+and hidden Markov models, IEEE Signal Processing Letters, vol. 10, pp. 115-118,
+Apr. 2003.  PDF | Postscript 
+53.M. N. Do and M. Vetterli,  The finite ridgelet transform for image representation,
+IEEE Transactions on Image Processing, vol. 12, pp. 16-28, Jan. 2003.  PDF |
+Postscript 
+FRIT Toolbox (Matlab source code that implements the transforms in the paper). 
+FRIT movie (QuickTime video compares non-linear approximations using wavelets
+and ridgelets). 
+54.M. N. Do and M. Vetterli, Rotation invariant texture characterization and retrieval
+using  steerable  wavelet-domain  hidden  Markov  models,  IEEE  Transactions  on
+Multimedia, vol. 4, pp. 517-527, Dec. 2002.  PDF | Postscript 
+55.M.  N.  Do  and  M.  Vetterli,  Wavelet-based  texture  retrieval  using  generalized
+Gaussian  density  and  Kullback-Leibler  distance,  IEEE  Transactions  on  Image
+Processing,  vol.  11,  pp.  146-158,  Feb.  2002.  
+PDF 
+|
+ Postscript 
+WaveTex (Matlab source code that implements the algorithms and experiments in
+the paper). 
+Selected Conference Papers
+1. J. Lu, H. Yang, D. Min, and M. N. Do,  PatchMatch filter: Efficient edge-aware
+
+-----
+filtering meets randomized search for fast correspondence field estimation,  IEEE
+Int. Conf. Computer Vision and Pattern Recognition (CVPR), Portland, 2013. 
+2. S.  D.  Babacan,  S.  Nakajima,  and  M.  N.  Do,  Probabilistic  low-rank  subspace
+clustering, Neural Information Processing Systems (NIPS), Lake Tahoe, 2012. 
+3. S.  D.  Babacan,  R.  Molina,  M.  N.  Do,  and  A.K.  Katsaggelos,  Bayesian  blind
+deconvolution  with  general  sparse  image  priors,  European  Conference  on
+Computer Vision (ECCV), Firenze, 2012. 
+4. J. Lu, K. Shi, D. Min, L. Lin, and M. N. Do, Cross-based local multipoint filtering,
+IEEE Int. Conf. Computer Vision and Pattern Recognition (CVPR), Providence,
+2012. 
+5. D. Min, J. Lu, and M. N. Do, A revisit to cost aggregation in stereo matching: How
+far can we reduce its computational redundancy?, IEEE International Conference in
+Computer Vision (ICCV), Barcelona, 2011. 
+6. H. M. Nguyen, Z. J. Gahvari, J. P. Haldar, M. N. Do, and Z.-P. Liang, Cramer-Rao
+bound analysis of echo time selection for 1H-MR spectroscopy,  Proc. of IEEE
+Engineering in Medicine and Biology Society Conference (EMBC), Minneapolis,
+2009. 
+7. K. L. Law, R. Fossum, and M. N. Do,  Multidimensional signal acquisition from
+multichannel  acquisition,  Proc. of IEEE International  Conference  on  Acoustics,
+Speech, and Signal Processing (ICASSP), Taipei, Taiwan, 2009. 
+8. K. L. Law, R. Fossum, and M. N. Do, Generic invertibility of multidimensional FIR
+multirate systems and filter banks,  IEEE International Conference on Acoustics,
+Speech, and Signal Processing (ICASSP), Taipei, Taiwan, 2009. 
+9. M. Maitre and M. N. Do, Joint encoding of the depth image based representation
+using  shape-adaptive  wavelets,  IEEE  International  Conference  on  Image
+Processing, San Diego, 2008.
+10.H. T. Nguyen and M. N. Do,  Robust multichannel sampling,  IEEE International
+Conference on Image Processing, San Diego, 2008.
+11.M. Maitre, Y. Shinagawa, and M. N. Do, Symmetric multi-view stereo reconstruction
+from planar camera arrays,  IEEE Conference on Computer Vision and Pattern
+Recognition, Anchorage, Alaska, 2008. 
+12.M. N. Do and C. N. H. La, Tree-based majorize-minimize algorithm for compressed
+sensing with sparse-tree prior,  Computational Advances in Multi-Sensor Adaptive
+Processing, U.S. Virgin Islands, 2007. 
+13.C.  Nguyen,  R.  L.  Morrison,  and  M.  N.  Do,  Reduction  of  spatial  sampling
+requirement in sound-based synthesis,  Computational Advances in Multi-Sensor
+Adaptive Processing, U.S. Virgin Islands, 2007. 
+14.Y. Lu and M. N. Do,  A computational procedure for finding minimum sampling
+
+-----
+lattices  of  a  given  frequency  support  in  multidimensions,  IEEE  International
+Conference on Image Processing, San Antonio, 2007 (Student Paper Award). 
+15.M. Maitre, Y. Shinagawa, and M. N. Do, Rate-distortion optimal depth maps in the
+wavelet domain for free-viewpoint rendering,  IEEE International Conference on
+Image Processing, San Antonio, 2007. 
+16.R. L. Morrison, M. Jacob, and M. N. Do, Multichannel estimation of coil sensitivities
+in parallel MRI,  IEEE International Symposium on Biomedical Imaging, Arlington,
+2007. 
+17.A. L. da Cunha, M. N. Do, and M. Vetterli,  A stochastic model for video and its
+information rates, IEEE Data Compression Conference, Snowbird, 2007. 
+18.N. Mueller, Y. Lu, and M. N. Do,  Image interpolation using multiscale geometric
+representations, SPIE Symposium on Electronic Imaging, San Jose, 2007. 
+19.H. T. Nguyen and M. N. Do, Signal reconstruction from a periodic nonuniform set of
+samples using H_infinity optimization, SPIE Symposium on Electronic Imaging, San
+Jose, 2007. 
+20.Y. Lu and M. N. Do, A new contourlet transform with sharp frequency localization,
+IEEE International Conference on Image Processing, Atlanta, 2006 (Most Innovative
+Paper Award). 
+21.A. L. da Cunha, M. N. Do, and M. Vetterli, On the information rate of the plenoptic
+function, IEEE International Conference on Image Processing, Atlanta, 2006. 
+22.R. L. Morrison, Jr. and M. N. Do,  Multichannel autofocus algorithm for synthetic
+aperture radar, IEEE International Conference on Image Processing, Atlanta, 2006. 
+23.H. T. Nguyen and M. N. Do, Error analysis for image-based rendering with depth
+information, IEEE International Conference on Image Processing, Atlanta, 2006. 
+24.C. La and M. N. Do, Tree-based orthogonal matching pursuit algorithm for signal
+reconstruction, IEEE International Conference on Image Processing, Atlanta, 2006. 
+25.H. M. Nguyen, R. L. Morrison, Jr., B. P. Sutton, and M. N. Do, Joint estimation in
+MRI  using  harmonic  retrieval  methods,  IEEE  International  Symposium  on
+Biomedical Imaging, Arlington, USA, 2006.
+26.R. L. Morrison, Jr., and M. N. Do, A multichannel approach to metric-based SAR
+autofocus, IEEE International Conference on Image Processing, Genoa, Italy, Sep.
+2005.
+27.M. N. Do, D. Marchand-Maillet, and M. Vetterli,  On the bandlimitedness of the
+plenoptic function,  IEEE International Conference on Image Processing, Genoa,
+Italy, Sep. 2005.
+28.Y. Huang,  I.  Pollak,  M.N.  Do,  and  C.A.  Bouman,  Optimal  representations  in
+multitree dictionaries with application to compression,  Proc. of IEEE International
+Conference on Image Processing, Genoa, Italy, Sep. 2005.
+
+-----
+29.J. Zhou, A. L. da Cunha, and M. N. Do,  Nonsubsampled contourlet transform:
+construction and application in enhancement,  IEEE International Conference on
+Image Processing, Genoa, Italy, Sep. 2005.
+30.A. L. da Cunha, J. Zhou, and M. N. Do, Nonsubsampled contourlet transform: filter
+design and application in image denoising, IEEE International Conference on Image
+Processing, Genoa, Italy, Sep. 2005.
+31.Y. Lu and M. N. Do, 3-D directional filter banks and surfacelets, SPIE Conference
+on Wavelet Applications in Signal and Image Processing XI, San Diego, USA, Jul.
+2005. 
+32.C. La and M. N. Do, Signal reconstruction using sparse tree representations, SPIE
+Conference on Wavelet Applications in Signal and Image Processing XI, San Diego,
+USA, Jul. 2005. 
+33.A.  L.  da  Cunha  and  M.  N.  Do,  Linear-phase  filter  design  for  directional
+multiresolution decompositions, SPIE Conference on Wavelet Applications in Signal
+and Image Processing XI, San Diego, USA, Jul. 2005. 
+34.J. Zhou and M. N. Do,  Two-dimensional orthogonal filter banks with directional
+vanishing moments, SPIE Conference on Wavelet Applications in Signal and Image
+Processing XI, San Diego, USA, Jul. 2005. 
+35.J. Zhou and M. N. Do, Multidimensional oversampled filter banks, SPIE Conference
+on Wavelet Applications in Signal and Image Processing XI, San Diego, USA, Jul.
+2005. 
+36.A. L. da Cunha and M. N. Do, Biorthogonal filter banks with directional vanishing
+moments,  IEEE  International  Conference  on  Acoustics,  Speech,  and  Signal
+Processing (ICASSP), Philadelphia, March 2005 (Best Student Paper Award). 
+37.H. T. Nguyen and M. N. Do, Image-based rendering with depth information using
+the propagation algorithm,  IEEE International Conference on Acoustics, Speech,
+and Signal Processing (ICASSP), Philadelphia, March 2005 (Best Student Paper
+Award). 
+38.Y. Lu and M. N. Do,  The finer directional wavelet transform,  IEEE International
+Conference on Acoustics, Speech, and Signal Processing (ICASSP), Philadelphia,
+March 2005. 
+39.J. Zhou and M. N. Do, Multichannel FIR exact deconvolution in multiple variables,
+IEEE  International  Conference  on  Acoustics,  Speech,  and  Signal  Processing
+(ICASSP), Philadelphia, March 2005. 
+40.M. N. Do,  Toward sound-based synthesis: the far-field case,  IEEE International
+Conference  on  Acoustics, Speech, and  Signal Processing (ICASSP), Montreal,
+Canada, May 2004. 
+41.Y. Lu and M. N. Do, A geometrical approach to sampling signals with finite rate of
+innovation,  IEEE  International  Conference  on  Acoustics,  Speech,  and  Signal
+
+-----
+Processing (ICASSP), Montreal, Canada, May 2004. 
+42.Y. Huang, I. Pollak, C. A. Bouman, and M. N. Do,  New algorithms for best local
+cosine basis search,  IEEE International Conference on Acoustics, Speech, and
+Signal Processing (ICASSP), Montreal, Canada, May 2004. 
+43.Y. Huang, I. Pollak, M. N. Do, and C. A. Bouman,  Optimal tilings and best basis
+search in large dictionaries,  the 37th Asilomar Conference on Signals, Systems,
+and Computers, Pacific Grove, USA, Nov. 2003. 
+44.R. L. Morrison, Jr., D. C. Munson, Jr., and M. N. Do,  Avoiding local minima in
+entropy-based SAR autofocus, IEEE Workshop on Statistical Signal Processing, St.
+Louis, USA, Sep. 2003. 
+45.M. N. Do,  Contourlets and sparse image representations,  SPIE Conference on
+Wavelet Applications in Signal and Image Processing X, San Diego, USA, August
+2003. 
+46.Y.  Lu  and  M.  N.  Do,  CRISP-contourlets:  a  critically  sampled  directional
+multiresolution image representation, SPIE Conference on Wavelet Applications in
+Signal and Image Processing X, San Diego, USA, August 2003. 
+47.J. Zhou, M. N. Do, and J. Kovacevic, New design of orthogonal filter banks using
+the Cayley transform,  SPIE Conference on Wavelet Applications in Signal and
+Image Processing X, San Diego, USA, August 2003. 
+48.D. Xu and M. N. Do, Anisotropic 2-D wavelet packets and rectangular tiling: theory
+and algorithms,  SPIE Conference on Wavelet Applications in Signal and Image
+Processing X, San Diego, USA, August 2003. 
+49.D. D.-Y. Po and M. N. Do,  Directional multiscale statistical modeling of images,
+SPIE Conference on Wavelet Applications in Signal and Image Processing X, San
+Diego, USA, August 2003. 
+50.I.  Atkinson,  F.  Kamalabadi,  D.  L.  Jones,  and  M.  N.  Do,  Adaptive  wavelet
+thresholding  for  multichannel  signal  estimation,  SPIE  Conference  on  Wavelet
+Applications in Signal and Image Processing X, San Diego, USA, August 2003. 
+51.M.  N.  Do  and  M.  Vetterli,  Contourlets:  A  Directional  Multiresolution  Image
+Representation,  Proc.  of  IEEE  International  Conference  on  Image  Processing
+(ICIP), Rochester, September 2002.  PDF | Postscript 
+52.M. N. Do, P. L. Dragotti, R. Shukla, and M. Vetterli,  On compression of two-
+dimensional piecewise smooth functions, IEEE International Conference on Image
+Processing  (ICIP),  Thessaloniki,  Greece,  October  2001  (invited  paper).  PDF  |
+Postscript 
+53.M. N. Do and M. Vetterli,  Pyramidal directional filter banks and curvelets,  IEEE
+International  Conference  on  Image  Processing  (ICIP),  Thessaloniki,  Greece,
+October 2001.  PDF | Postscript 
+
+-----
+54.M. N. Do and M. Vetterli,  Frame reconstruction of the Laplacian pyramid,  IEEE
+International Conference on Acoustics, Speech, and Signal Processing (ICASSP),
+Salt Lake City, USA, May 2001.  PDF | Postscript 
+55.Z. Pecenovic, M. N. Do, M. Vetterli and P. Pu, Integrated browsing and searching of
+large  image  collections,  4th  International  Conference  on  Visual  Information
+Systems, Lyon, France, November 2000.  PDF | Postscript 
+56.M.  N.  Do  and  M.  Vetterli,  Orthonormal  finite  ridgelet  transform  for  image
+compression, IEEE  International  Conference  on  Image  Processing  (ICIP),
+Vancouver, Canada, September 2000.  PDF | Postscript 
+57.M. N. Do and M. Vetterli,  Texture similarity measurement using Kullback-Leibler
+distance  on  wavelet  subbands,  IEEE  International  Conference  on  Image
+Processing (ICIP), Vancouver, Canada, September 2000.  PDF | Postscript 
+58.M.  N.  Do  and  M.  Vetterli,  Image  denoising  using  orthonormal  finite  ridgelet
+transform,  SPIE  Conference  on  Wavelet  Applications  in  Signal  and  Image
+Processing VIII, San Diego, USA, August 2000.  PDF | Postscript 
+59.M. N. Do, A. C. Lozano and M. Vetterli,  Rotation invariant texture retrieval using
+steerable wavelet-domain hidden Markov models,  SPIE Conference on Wavelet
+Applications in Signal and Image Processing VIII, San Diego, USA, August 2000. 
+PDF | Postscript 
+60.M. N. Do, S. Ayer and M. Vetterli, Invariant image retrieval using wavelet maxima
+moment, 3rd International Conference on Visual Information Systems, Amsterdam,
+The Netherlands, June 1999.  PDF | Postscript 
+61.Z. Pecenovic, M. N. Do, S. Ayer and M. Vetterli, New methods for image retrieval,
+ICPS'98 Congress on Exploring New Tracks in Imaging, pp. 242-246, Antwerp,
+Belgium, September 1998.  PDF | Postscript 
+62.D. Tran, M. N. Do, M. Wagner and T.V. Le, A proposed decision rule for speaker
+identification  based  on  a  posteriori  probability,  Speaker  Recognition  and  Its
+Commercial and Forensic Applications, pp. 85-88, Avignon, France, April 1998. 
+PDF | Postscript 
+63.M. N. Do and M. Wagner,  Speaker recognition with small training requirements
+using a combination of VQ and DHMM, Speaker Recognition and Its Commercial
+and  Forensic  Applications,  pp.  169-172,  Avignon,  France,  April  1998.  PDF |
+Postscript
+
+-----

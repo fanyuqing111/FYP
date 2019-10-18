@@ -1,0 +1,343 @@
+Professor Xiaojun Qiu 
+  
+ 
+Professor and Centre Director 
+E: xiaojun.qiu@uts.edu.au 
+T: 02 9514 2425 
+Centre for Audio, Acoustics and Vibration 
+University of Technology Sydney 
+PO Box 123 
+Broadway NSW 2007 
+Australia 
+Research Expertise 
+Active Noise Control 
+Application of active noise control (ANC) in the reduction of noise using controllable 
+secondary sources to affect generation, radiation, transmission, and reception of the 
+original primary noise source. Use of ANC to reduce low frequency noise problems 
+where current passive noise control methods do not work because of weight and 
+volume constraints. Development of alternative noise control solutions where current 
+passive noise control methods cannot be applied. 
+Projects include ANC barriers, windows, and headsets, as well as the active control 
+of range hood noise and transformer noise, ANC in rooms and the design of an 
+active noise controller. Collaborations include KCGM, Transurban, Huawei, and 
+several electric power companies. 
+Integrated Passive and Active Control of Humming Noise from KCGM's Haul Trucks 
+
+-----
+Acoustic design innovations for managing motorway traffic noise by cancellation and 
+transformation 
+Communication Acoustics 
+Analysis of the transmission, reception, and processing of speech and 
+music.  Project include the development of microphone arrays, adaptive echo 
+cancellation, adaptive noise suppression, adaptive howling control, audio coding, 3D 
+playback with headphones and loudspeaker arrays, and video conference systems. 
+Collaborations include telecommunication companies, such as Huawei, ZTE, 
+Samsung, Polycom.  
+Ultrosound technology cooperation project 
+Development of audio characterisation algorithms and prototype acoustic software 
+tools 
+Noise Control 
+Reduction of noise pollution and the impact noise.  Projects include development of 
+factory noise plans and control systems, low noise vacuum cleaner and washing 
+machine design, and car noise reduction.  Collaborations with companies in the 
+manufacturing, building, car, ship and aircraft sectors, including Johnson & Johnson, 
+Bissell, LG, Midea, Philips, Guangxu, Zisen, and Changrong. 
+A compact microphone array system for outdoor low frequency noise measurements 
+Integrated Passive and Active Control of Humming Noise from KCGM's Haul Trucks 
+Electro Acoustics 
+Transformation of acoustic energy into electric energy, and vice versa.  Projects 
+include microphone design, loudspeaker design, and receiver design, as well as the 
+development of software for micro-dynamic loudspeakers and receivers, and 
+measurement systems for MEMS microphones.  Collaborations include AAC, 
+Harman and Plantronics. 
+A compact microphone array system for outdoor low frequency noise measurements 
+Room Acoustics 
+Measurement and analysis of sound fields in long narrow spaces, such as tunnels 
+and corridors, as well as flat rooms such as canteens and factory 
+workshops.  Acoustical design of auditoria and gymnasiums, and the measurement 
+and design of sound absorption materials and structures.  Development of new 
+sound insulation materials and structures for us in the control of sound fields in 
+rooms.  
+Professional 
+
+-----
+Director, International Institute of Acoustics and Vibration, 2014–present 
+Vice President, Acoustical Society of China, 2014–present 
+Associate Editor, Journal of Audio Engineering Society, 2013–present 
+Member, Editorial Board, Chinese Journal of Acoustics, 2011–Present 
+Member, Editorial Board, Acta Acustica (in Chinese), 2011–Present 
+Member, Editorial Board, Applied Acoustics (in Chinese), 2011–Present 
+Guest Editor, Asian Journal of Control, 2011–2012 
+Member, Audio Engineering Society, 2004–present 
+Biography 
+Xiaojun Qiu received his Bachelor and Master degrees from Peking University in 
+1989 and 1992, and his PhD from Nanjing University in 1995, all majoring in 
+Acoustics. He worked in the University of Adelaide, Australia, as a Research Fellow 
+in the field of active noise control with Professor Colin Hansen from 1997 to 2002, 
+and has been with the Institute of Acoustics of Nanjing University as a professor on 
+Acoustics and Signal processing since 2002. He visited the Institute of Technical 
+Acoustics (RWTH Aachen), Germany, as a Humboldt Research Fellow in 2008, 
+working in the field of sound field reproduction with Professor Michael Vorländer. He 
+worked at RMIT University as a Professor of Design on Audio Engineering from 2013 
+to 2016, and now he is a Professor in Audio, Acoustics and Vibration in University of 
+Technology Sydney. 
+His main research areas include noise and vibration control, room acoustics, electro-
+acoustics and audio signal processing, particularly applications of active control 
+technologies. He is a member of Audio Engineering Society and an elected director 
+of the international Institute of Acoustics and Vibration, and serves as an Associate 
+Technical Editor for the Journal of Audio Engineering Society. He has published 2 
+books, 5 book chapters and more than 350 technique papers, and has been the 
+principal investigator for numerous projects. He has also applied more than 90 
+patents on audio acoustics and audio signal processing. 
+ 
+About UTS 
+ 
+ 
+Xiaojun Qiu Google Scholar Citations 
+University of Technology Sydney 
+Verified email at uts.edu.au 
+Audio AcousticsSignal Processing 
+
+-----
+ 
+ 
+ 
+TITLE  
+CITED 
+BY
+ 
+YEAR 
+Active control of noise 
+and vibration 
+H Colin, S Snyder, X Qiu, L 
+Brooks, D Moreau 
+CRC Press 
+950*  
+2013 
+声学理论与工程应用 
+何琳， 朱海潮， 邱小军， 
+杜功焕 
+北京: 科学出版社 2 (06) 
+84  
+2006 
+Active noise 
+attenuation in 
+ventilation windows 
+H Huang, X Qiu, J Kang 
+The Journal of the 
+Acoustical Society of 
+America 130 (1), 176-188 
+69  
+2011 
+An active impulsive 
+noise control algorithm 
+with logarithmic 
+transformation 
+L Wu, H He, X Qiu 
+IEEE Transactions on 
+Audio, Speech, and 
+Language Processing 19 
+(4), 1041-1044 
+61  
+2010 
+Analysis of heartbeat 
+asymmetry based on 
+multi-scale time 
+irreversibility test 
+F Hou, J Zhuang, C Bian, T 
+Tong, Y Chen, J Yin, X Qiu, 
+X Ning 
+Physica A: Statistical 
+Mechanics and its 
+Applications 389 (4), 754-
+760 
+47  
+2010 
+A note on the prediction 
+method of 
+reverberation 
+absorption coefficient of 
+double layer micro-
+perforated membrane 
+J Zou, Y Shen, J Yang, X 
+Qiu 
+Applied acoustics 67 (2), 
+106-111 
+46  
+2006 
+
+-----
+ 
+ 
+ 
+TITLE  
+CITED 
+BY
+ 
+YEAR 
+A waveform synthesis 
+algorithm for active 
+control of transformer 
+noise: implementation 
+X Qiu, X Li, Y Ai, CH 
+Hansen 
+Applied Acoustics 63 (5), 
+467-479 
+45  
+2002 
+An algorithm for active 
+control of transformer 
+noise with on-line 
+cancellation path 
+modelling based on the 
+perturbation method 
+X Qiu, CH HANSEN 
+Journal of Sound and 
+Vibration 240 (4), 647-665 
+44  
+2001 
+A comparison of near-
+field acoustic error 
+sensing strategies for 
+the active control of 
+harmonic free field 
+sound radiation 
+X Qiu, CH Hansen, X Li 
+Journal of Sound and 
+Vibration 215 (1), 81-103 
+40  
+1998 
+Near-field sensing 
+strategies for the active 
+control of the sound 
+radiated from a plate 
+A Berry, X Qiu, CH Hansen 
+The Journal of the 
+Acoustical Society of 
+America 106 (6), 3394-3406 
+38  
+1999 
+Sound absorption of a 
+finite micro-perforated 
+panel backed by a 
+shunted loudspeaker 
+J Tao, R Jing, X Qiu 
+The Journal of the 
+Acoustical Society of 
+America 135 (1), 231-238 
+35  
+2014 
+An improved active 
+noise control algorithm 
+without secondary path 
+identification based on 
+34  
+2008 
+
+-----
+ 
+ 
+ 
+TITLE  
+CITED 
+BY
+ 
+YEAR 
+the frequency-domain 
+subband architecture 
+M Wu, G Chen, X Qiu 
+IEEE transactions on audio, 
+speech, and language 
+processing 16 (8), 1409-
+1419 
+A study of time-domain 
+FXLMS algorithms with 
+control output 
+constraint 
+X Qiu, CH Hansen 
+The Journal of the 
+Acoustical Society of 
+America 109 (6), 2815-2823 
+33  
+2001 
+Hierarchical audio 
+coding, decoding 
+method and system 
+LIN Zhibin, Z Deng, H Yuan, 
+J Lu, X Qiu, J Li, G Chen, K 
+Peng, K Liu 
+US Patent 8,694,325 
+29  
+2014 
+An intuitive approach 
+for feedback active 
+noise controller design 
+L Zhang, L Wu, X Qiu 
+Applied Acoustics 74 (1), 
+160-168 
+28  
+2013 
+Active control of 
+transformer noise with 
+an internally 
+synthesized reference 
+signal 
+L Zhang, J Tao, X Qiu 
+Journal of Sound and 
+Vibration 331 (15), 3466-
+3475 
+28  
+2012 
+Stereo acoustic echo 
+cancellation employing 
+frequency-domain 
+preprocessing and 
+adaptive filter 
+S Wu, X Qiu, M Wu 
+IEEE Transactions on 
+Audio, Speech, and 
+language processing 19 (3), 
+614-623 
+27  
+2010 
+
+-----
+ 
+ 
+ 
+TITLE  
+CITED 
+BY
+ 
+YEAR 
+A study of sound 
+intensity control for 
+active noise barriers 
+N Han, X Qiu 
+Applied Acoustics 68 (10), 
+1297-1306 
+27  
+2007 
+An adaptive speech 
+enhancement method 
+for siren noise 
+cancellation 
+H Ding, J Lu, X Qiu, B Xu 
+Applied Acoustics 65 (4), 
+385-399 
+26  
+2004 
+Lattice form adaptive 
+infinite impulse 
+response filtering 
+algorithm for active 
+noise control 
+J Lu, C Shen, X Qiu, B Xu 
+The Journal of the 
+Acoustical Society of 
+America 113 (1), 327-335 
+25  
+2003 
+ 
+
+-----

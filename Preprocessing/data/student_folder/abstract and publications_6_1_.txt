@@ -1,0 +1,42 @@
+DESIGN OF CLASS-E RF POWER AMPLFIER 
+ 
+Abstract 
+With wireless communication moving from the 4th  to the 5th generation and beyond, mobile 
+equipment with a high data rate, low cost and full integration will be in great need. Unfortunately, 
+PA efficiency is a significant issue for the overall performance of most wireless system in term 
+of area, cost, battery lifetime and output power. Therefore, the design of a high-efficiency PA is 
+the most obvious solution to overcoming the battery lifetime limitation in the wireless systems.  
+The complementary Metal-Oxide-Semiconductor (CMOS) technology features low cost, low 
+power consumption and high integration. With a scaled fabrication process, it has been proven to 
+be capable of offering promising RF performance comparable to that of III-V technology. As a 
+result, there is increasing interest in using CMOS technology to realize transceiver building 
+blocks such as power amplifier (PAs). Nevertheless, due to CMOS device limitations such as a 
+low cut-off frequency and high parasitic capacitance, the circuit performance is limited.  
+In spite of its limitation, sub-micron CMOS prove to be the best process to implement the PA 
+operating at frequency up to few GHz range. Therefore, the focus of this project is to design a 
+high efficiency class-E PA which meets the output power, linearity and gain requirements of a 
+mobile communication system and at the same time integrated in CMOS technology without any 
+need for off-chip components. To achieve this goal, a theoretical foundation is first developed. It 
+investigates the consequence of CMOS integration with respect to power amplification. 
+ 
+
+-----
+Publications 
+Alfred Lim, Aaron Tan, Zhi Hui Kong, Kaixue Ma, Kiat Seng Yeo, “A 2.4-Ghz 
+Transformer-Based Class-E Power Amplifier in 65nm CMOS Technology” Submitted 
+A. Lim, K. Ma, Z. H. Kong and K. S. Yeo, "Transformer-based class-E CMOS PA 
+with shunt LC network," 2015 International SoC Design Conference (ISOCC), 
+Gyungju, 2015, pp. 205-206. 
+Alfred Lim, Kaixue Ma, and Yeo Kiat Seng, “Transformer-Based Class-E CMOS 
+Power Amplifiers”, 4th IEEE International Symposium on Next-Generation 
+Electronics (IEEE ISNE 2015), May, 2015. 
+Alfred Lim, Aaron Tan, Zhi Hui Kong, Kaixue Ma, Kiat Seng Yeo, “Theoretical 
+Analysis of Transformer-Based Class-E Power Amplifier in 65nm CMOS Technology” 
+Pending Submission 
+Aaron Tan, Rui Tze Toh, Yongfu Li, Alfred Lim, Zhi Hui Kong, Kaixue Ma, Kiat 
+Seng Yeo, “A Methodology To Evaluate Circuit Complexity: Doherty Power 
+Amplifier As A Case Study” Submitted 
+ 
+ 
+
+-----

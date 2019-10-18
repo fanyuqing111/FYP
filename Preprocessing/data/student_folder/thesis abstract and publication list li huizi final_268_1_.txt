@@ -1,0 +1,77 @@
+Investigation on Photodarkening in Silica Optical Fibers for High Performance 
+Fiber Devices  
+Abstract 
+Photodarkening (PD) is the phenomenon that induces optical power loss, related to material 
+defects activated in a silica glass, when the glass is irradiated at wavelengths resonant to the 
+defects. The PD can lead to serious performance degradations and lifetime limitations of optical 
+devices such as fiber laser and fiber amplifier, and its suppression requires optimization of 
+materials and device operation conditions. In particular, the PD can notably take place in an 
+ytterbium (Yb)-doped fiber when the fiber is pumped at the wavelength corresponding to Yb 
+absorption band or visible wavelength. PD in Yb-doped fiber induces a broad excess optical 
+loss peaking at visible wavelengths, and extending to the Yb emission band in the near infrared 
+(NIR) range. The induced loss is a detectable problem for high power operation. More seriously, 
+the PD influences pump efficiency and impairs the Yb-doped fiber laser performances together 
+with the excess loss. Therefore, PD should not be simply treated as an excess background loss, 
+but ought to be explicated together with pumping efficiency for the power decay in both Yb-
+doped fiber laser and amplifier.  
+This thesis investigates on improving of performance of Yb-doped fiber laser through PD 
+reduction spanning laser cavity design to material engineering. Firstly, I investigate device 
+level PD suppression. It is found that the significance of PD is dependent of pump wavelength 
+selection. It has been known that the Yb inversion is the only decisive factor considered for the 
+PD. I show in this thesis that a pumping wavelength of Yb ions is another non-negligible factor 
+to determine the PD effects. My experimental results indicate that under the same inversion 
+level, a 976 nm pumping leads to more significant PD than 916 nm pumping. Therefore, 
+provided that other conditions are invariant, selecting 916 nm as the pump wavelength is 
+beneficial to supress the PD effect in laser or amplifier operations.  
+Besides the pump wavelength selections, the output coupling ratio of Yb-doped fiber laser 
+has to be elaborately selected when the PD factor is considered. Output power as function of 
+cavity reflectivity has been investigated without considering PD effects. However, the extra 
+cavity loss induced by PD is dependent on the selection of cavity reflectivity due to the 
+variation of population inversion in cavity. Therefore, in this thesis I firstly point out that once 
+the PD induced loss is considered, the optimal coupling out ratio has to be adjusted. This 
+finding delivers non-trivial impact in fiber laser cavity improvement and guide more 
+appropriate cavity parameter selection.  
+
+-----
+In a material level PD suppression, I report a method of suppressing PD while increasing 
+Yb concentration. An equi-molar aluminium: phosphorus (Al:P) composition has been known 
+to suppress the PD, but the realization of the equi-molar Al:P with very high Yb concentration 
+has been hindered by complexity in fabrication process. A highly Yb doped Al:P fiber was 
+fabricated at NTU, and I report its characteristics and PD suppression behavior.  
+Finally, this study led to investigation of new material for saturable absorber to build a 1 μm 
+pulsed fiber laser. I adopted a novel carbon based material called carbon nanoparticles (CNPs), 
+as a modulator in passive Q-switched Yb-doped fiber laser. Different from any other reported 
+optical materials working as saturable absorber, CNPs can be efficiently obtained via a simple 
+and low-cost flame synthesis process in-house without heavy equipment. I report this new 
+finding in the context of demonstration of Q-switched fiber laser.  
+The works presented in this thesis provide a comprehensive analysis on impacts of the laser 
+cavity structure and introduce a novel PD-free highly Yb-doped fiber with high lasing 
+efficiency. Thus, this thesis contributes to technology progress on fiber lasers and devices 
+adopting fiber lasers.  
+ 
+Journal publications: 
+1. Huizi Li, Liling Zhang, Raghuraman Sidharthan, Daryl Ho, Xuan Wu, Nalla Venkatram, 
+Handong Sun, Tianye Huang, and Seongwoo Yoo*, “Pump Wavelength Dependence of 
+Photodarkening in Yb-Doped Fibers,” J. Lightwave Technol. 35, 2535-2540 (2017).  
+2. Huizi Li, Jie Ma, Jun Wang, Dingyuan Tang and Seongwoo Yoo*, “Carbon Nanoparticles 
+as a Novel Optical Modulator for Pulsed Fiber Laser,” (Submitted to Optics Express) 
+3. Huizi Li, Jie Ma, Jun Wang, Dingyuan Tang and Seongwoo Yoo*, “Photodarkening Impact 
+on Laser Cavity Design with Output Coupler adjustment,” (In preparation) 
+ 
+Conferencen publications: 
+1. Huizi Li, Liling Zhang, Raghuraman Sidharthan, Daryl Ho, Xuan Wu, Seongwoo Yoo* 
+“Dependence of photodarkening under different wavelength pumping.” SPIE paper 9728-
+110, 2016  
+2. Huizi Li†, Jie Ma†, Mengying Zhang, Jun Wang, Dingyuan Tang, and Seongwoo Yoo* 
+“Carbon Nanoparticles as an Optical Modulator for Passively Q-switched Fiber Laser.” in 
+Conference on Lasers and Electro-Optics, OSA Technical Digest (online) (Optical Society 
+
+-----
+of America, 2018), paper JTu2A.174. 
+3. R. Sidharthan, S. H. Lim, K. J. Lim, D. Ho, C. H. Tse, J. Ji, H. Li, Y. M. Seng, S. L. Chua, 
+and S. Yoo, "Fabrication of Low Loss Low-NA Highly Yb-doped Aluminophosphosilicate 
+Fiber for High Power Fiber Lasers," in Conference on Lasers and Electro-Optics, OSA 
+Terchnical Digest (online) (Optical Society of America, 2018), paper JTh2A.129. 
+ 
+
+-----

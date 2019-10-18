@@ -1,0 +1,137 @@
+Yu Yajun 
+Department of Electrical and Electronic Engineering 
+Southern University of Science and Technology 
+No 1088, xueyuan Rd., Xili,  
+Nanshan District, Shenzhen, 
+Guangdong, China 518055 
+Email: yuyj@sustc.edu.cn 
+ 
+Research Interests：  
+     ◆ Digital Signal Processing, Filter Design 
+     ◆ VLSI for Signal Processing 
+  
+Educational Background：  
+◆  2004, PhD in Electrical & Computer Engineering, National University of Singapore, 
+Singapore 
+◆  1997, Master of Engineering in Biomedical Engineering, Zhejiang University, PRChina 
+◆  1994, Bachelor of Science in Biomedical Engineering, Zhejiang University, PRChina 
+  
+Professional Experience：  
+◆ 12.2005 ~ 02.2016: Assistant Professor, School of Electrical & Electronics Engineering, 
+Nanyang Technological University, Singapore 
+◆  07.2009 ~ 07.2009: Visiting Professor, Department of Mathematics & Statistics, Curtin 
+University of Technology, Perth, Australia 
+◆ 01.2004 ~ 11.2005: Research Fellow, Temasek Laboratories, Nanyang Technological 
+University, Singapore 
+◆ 10.2002 ~ 07.2003: Visiting Researcher, Department of Applied Mathematics, Hong Kong 
+Polytechnic University, Hong Kong, PRC 
+◆ 06.2002 ~ 09.2002: Visiting Researcher, Digital Media Institute, Tampere University of 
+Technology, Tampere, Finland 
+◆ 05.1998 ~ 01.2004: Research Engineer, Department of Electrical & Computer Engineering, 
+National University of Singapore, Singapore 
+◆ 07.1997 ~ 04.1998: Instructor, Department of Biomedical Engineering, Zhejiang University, 
+Hangzhou, PRC 
+  
+Honors & Awards：  
+     ◆ 2011: Silver Leaf Certificate received by Ph.D student, Ye Wenbin, at 2011 Asia Pacific 
+Conference on Postgraduate Research in Microelectronics & Electronics (PrimeAsia 2011) for the 
+
+-----
+paper “An algorithm for the design of low power linear phase FIR filters”. The Silver Leaf 
+Certificate recognizes the top 20% papers presented in the conference. 
+     ◆ 2009: IEEE Circuits and Systems Singapore Chapter Graduate Student Award with a cash 
+prize of S$200 received by Ph.D student Shi Dong. 
+     ◆ 1997: Recipient of the 1997 Scientific and Technological Progress Award of Zhejiang 
+Province, PRC - Bronze.  The award is to recognize the highest scientific and technological 
+achievements in relevant areas in Zhejiang Province during the calendar year preceding the 
+award. The award is based on the general quality, promotion to the scientific and technological 
+progress, and social and economic impacts. 
+  
+Brief Introduction：  
+       Dr. Yu Yajun’s main research areas are (1) Energy-efficient VLSI digital signal processing 
+(DSP) system and (2) DSP for communications and Biomedical Engineering. She has a publication 
+record with more than 30 internal SCI indexed journal papers, and more than 30 international 
+conference papers.  She is a committee member of IEEE Circuits & Systems Society, Digital Signal 
+Processing Technical Committee. 
+  
+Selected Publications：  
+       [1].     X. Lou, Y. J. Yu and P. K. Meher, “Analysis and Optimization of Product-Accumulation 
+Section for Efficient Implementation of FIR Filters”, accepted by IEEE Trans. Circuits, Syst. I. 
+       [2].    X. Lou, Y. J. Yu and P. K. Meher, “Lower Bound Analysis and Perturbation of Critical 
+Path for Area-Time Efficient Multiple Constant Multiplications”, accepted by IEEE Trans. 
+Computer-Aided Design of Integrated Circuits and Systems. 
+       [3].    X. Lou, Y. J. Yu and P. K. Meher, “New Approach to the Reduction of Sign-extension 
+Overhead for Efficient Implementation of Multiple Constant Multiplications”, IEEE Trans. Circuits, 
+Syst. I., vol. 62, no. 11, pp. 2695-2705, Nov. 2015. 
+       [4].    R. Fan, Y. J. Yu and Y. L. Guan, “Generalization of Orthogonal Frequency Division 
+Multiplexing with Index Modulation”, IEEE Trans. Wireless Communications, vol. 14, no. 10, pp. 
+5350-5359, Oct. 2015. 
+       [5].   W. B. Ye and Y. J. Yu, “Two-step Optimization Approach for the Design of 
+Multiplierless Linear-Phase FIR Filters”, IEEE Trans. Circuits, Syst. I., vol. 62, no. 5, pp. 1279-1287, 
+May 2015. (Invited paper for special issue of IEEE TCAS-I on best papers selected from 
+ISCAS’14.) 
+       [6].    X. Lou, Y. J. Yu and P. K. Meher, “Fine-Grained Critical Path Analysis and Optimization 
+for Area-Time Efficient Realization of Multiple Constant Multiplications”, IEEE Trans. Circuits, 
+Syst. I., vol. 62, no. 3, pp. 863-872, March 2015. 
+
+-----
+       [7].    W. B. Ye, and Y. J. Yu, “Bit-level Multiplierless FIR Filter Optimization Incorporating 
+Sparse Filter Technique”, IEEE Trans. Circuits, Syst. I., vol. 61, no. 11, pp. 3206-3215, Nov. 2014. 
+       [8].    W. J. Xu, Y. J. Yu, and H. Johansson, “Improved Filter Bank Approach for the Design of 
+Variable Bandedge and Fractional Delay Filters”, IEEE Trans. Circuits, Syst. I., vol. 61, no. 3, pp. 
+764-777, March 2014. 
+       [9].    W. B. Ye, and Y. J. Yu, “Single Stage and Cascade Design of High Order Multiplierless 
+linear phase FIR Filters Using Genetic Algorithm”, IEEE Trans. Circuits, Syst. I., vol. 60, no. 11, pp. 
+2987-2997, Nov. 2013. (Invited paper for special issue of IEEE TCAS-I on best papers selected 
+from ISCAS’12.) 
+       [10]. Y. J. Yu, and W. J. Xu, “Investigation on the Optimization Criteria for the Design of 
+Variable Fractional Delay Filters”, IEEE Trans. Circuits, Syst. II., vol. 60, no. 8, pp. 522-526, Aug. 
+2013. 
+       [11]. S. Y. Park, and Y. J. Yu, “Fixed-Point Analysis and Parameter Selections of MSR-CORDIC 
+with Applications to FFT Designs”, IEEE Trans. Signal Processing, vol. 60, no. 12, pp.6245-6256, 
+Dec. 2012. 
+       [12]. Y. J. Yu, and W. J. Xu, “Mixed-Radix Fast Filter Bank Approach for the Design of 
+Variable Digital Filters with Simultaneously Tunable Bandedge and Fractional Delay”, IEEE Trans. 
+Signal Processing, vol. 60, no. 1, pp.100-111, Jan. 2012. 
+       [13]. D. Shi, and Y. J. Yu, “Design of Discrete-valued Linear Phase FIR Filters in Cascade 
+Form”, IEEE Trans. Circuits, Syst. I. vol. 58, no. 7, pp.1627-1636, July 2011. (Invited paper for 
+special issue of IEEE TCAS-I on best papers selected from ISCAS’10.) 
+       [14]. R. Bregovic, Y. J. Yu, T. Saramäki, and Y. C. Lim, “Implementation of Linear-Phase FIR 
+Filters for a Rational Sampling Rate Conversion Utilizing the Coefficient Symmetry”, IEEE Trans. 
+Circuits, Syst. I. vol. 58, no. 3, pp. 548-561, Mar. 2011. 
+       [15]. D. Shi, and Y. J. Yu, “Design of Linear Phase FIR Filters with High Probability of 
+Achieving Minimum Number of Adders”, IEEE Trans. Circuits, Syst. I. vol. 58, no. 1, pp. 126-136, 
+Jan. 2011. 
+       [16]. R. Bregovic, Y. J. Yu, A. Viholainen and Y. C. Lim, “Implementation of Linear-Phase FIR 
+Nearly Perfect-Reconstruction Cosine-Modulated Filterbanks Utilizing the Coefficient 
+Symmetry”, IEEE Trans. Circuits, Syst. I. vol. 57, no. 1, pp. 139-151, Jan. 2010. 
+       [17]. Y. J. Yu, D. Shi, and Y. C. Lim, “Design of Extrapolated Impulse Response FIR Filters with 
+Residual Compensation in Subexpression Space”, IEEE Trans. Circuits, Syst. I, vol. 56, no. 12, pp. 
+2621-2633, Dec. 2009. 
+       [18]. Y. J. Yu, Y. C. Lim and D. Shi, “Low Complexity Design of Variable Bandedge Linear 
+Phase FIR filters with Sharp Transition Band”, IEEE Trans. Signal Processing, vol. 57, no. 4, pp. 
+1328-1338, April 2009. 
+
+-----
+       [19]. Y. J. Yu and Y. C. Lim, “Design of Linear Phase FIR Filters in Subexpression Space Using 
+Mixed Integer Linear Programming”, IEEE Trans. Circuits, Syst. I, vol. 54, no. 10, pp. 2330-2338, 
+Oct. 2007. 
+  
+Book and Book Chapters： 
+       [1].        L. Wanhammar, and Y. J. Yu, “Digital Filter Structures and Their Implementation” 
+Academic Press Library in Signal Processing: Volume 1: Signal Processing Theory and Machine 
+Learning, (Editor-in-Chief: Sergios Theodoridis and Rama Chellappa, Publisher: Academic Press), 
+2013. 
+  
+Service as editor 
+       ◆     Associate Editor 
+2009 -                Circuit Systems and Signal Processing. 
+2010 - 2013       IEEE Trans. on Circuits and Systems II. 
+       ◆     Editorial Board Member (equivalent to Associate Editor) 
+2015 -               Digital Signal Processing, Elsevier 
+       ◆     Co-Guest Editor 
+       2007 - 2009       Circuits Systems and Signal Processing, special issue on “Low Power Digital 
+Filter Design Techniques and Their Applications”, Jan. 2010. 
+ 
+
+-----

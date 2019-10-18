@@ -1,0 +1,49 @@
+ABSTRACT 
+ 
+Wireless communications is ubiquitous nowadays. Global information exchange between 
+users and/or machines becomes very common. Mobile devices such as smart phones, iPAD and 
+laptops are used for these purposes. With the increasing demand for high speed wireless 
+communication system to support consumers’s needs for real time streaming of high definition 
+(HD) video and fast file transfers, high data rate is required in the radio systems. In addition, the 
+radio system must be compact, low cost and low power for especially for commercial wireless 
+application. 
+Six-port receivers have been attracting attention at the mm-wave frequencies. They offered 
+many advantages as compared to the conventional receiver architecture at the mm-wave 
+frequencies in terms of bandwidth, size and power consumption. Six-port receiver consists of 
+three building blocks namely six-port correlator, power detection and baseband recovery. The 
+six-port correlator is the fundamental building block of a six-port receiver. However, it suffers 
+from non-ideal effects such as amplitude imbalance and phase imbalance contribute by its 
+building blocks.  
+In this thesis, analysis had been done on non-ideal effects such as the amplitude and phase 
+imbalance of the two of the literature six-port correlators. Through the analysis, two novel six-
+port correlators were designed and sent for fabrication. Eventually, the two proposed six-port 
+correlators were simulated together with the power detectors and amplifiers to demonstrate its 
+intended operation as six-pot receivers. 
+ 
+ 
+ 
+
+-----
+List of Publications 
+ 
+Journal 
+ 
+P. S. Chew, K. Ma, Z. H. Kong, and K. S. Yeo, "Miniaturized Wideband Coupler for 60-GHz 
+Band in 65-nm CMOS Technology," IEEE Microwave and Wireless Components Letters, vol. 28, 
+pp. 1089-1091, 2018.  
+ 
+P. S. Chew, Z. H. Kong, B. Liu, C. C. Boon, "A Compact Rat-race Coupler for 60-GHz Band in 
+40-nm CMOS Technology," IEEE Microwave and Wireless Components Letters (To be 
+submitted) 
+ 
+P. S. Chew, Z. H. Kong, B. Liu, C. C. Boon, " Two Six Port Correlators Utilizing Multi-layer 
+Hybrid Coupler, Rat Race Coupler and Wilkinson Power Divider with Complete Coverage of 
+60GHz Band," IEEE Transactions on Microwave Theory and Techniques (To be submitted) 
+ 
+Conference 
+ 
+P. S. Chew, K. S. Yeo, K. Ma, and Z. H. Kong, "A 57 to 66 GHz novel six-port correlator," in 
+2015 IEEE 11th International Conference on ASIC (ASICON), 2015, pp. 1-4.  
+ 
+
+-----

@@ -1,0 +1,49 @@
+Abstract 
+Adopting more efficient electric technologies in the aircraft industry has been gaining 
+attention with the objectives to decrease fuel consumption and reduce environmental impact. The 
+backbones of more electric technologies are power converters to interface between loads and 
+power grids. For aerospace applications, these power converters must be both compact and light, 
+and hence, realization of high power density converter (HPDC) is necessary. Pulse width 
+modulation (PWM) technique with high switching frequency is commonly employed in HPDC 
+design but it results in large harmonic contents. To achieve high power density, increasing the 
+switching frequency of the power converter has also become a necessity. Hence, practically all 
+HPDCs require passive filters to meet the stringent power quality requirements. For all the filter 
+configurations, LCL filter is the most popular choice in grid-connected power converter systems 
+for its excellent performance. However, it is also a major contributor of the overall weight of a 
+HPDC, especially the inverter-side inductor, which requires to suppress higher frequency 
+harmonic contents at the inverter side. The main focuses of this thesis are to explore various design 
+techniques in size and weight reduction of passive filters. 
+This thesis is divided into six chapters. Chapter 1 describes the research motivation and 
+objective. Chapter 2 reviews the output harmonic filter in power inverter, with emphasis of HPDC 
+in aerospace applications, total harmonic distortion (THD), output harmonic filter, magnetic 
+components design and thermal management. Then the design challenges are summarized.  
+Chapter 3 describes a comprehensive design flow of the LCL filter for a 50-kW, 60-kHz two-
+level Silicon Carbide (SiC) inverter for high-power aerospace applications where space constraint 
+and harsh ambient temperature environment are critical. To meet the space constraint requirement, 
+reduction of the inductor size is necessary. Specific design attention is made on a customized 
+
+-----
+amorphous cored inductor with a detailed study of on the relationships of inductor weight, core 
+width and total surface area with respect to air-gap length. To overcome the harsh ambient 
+temperature environment, a liquid cooling system of the amorphous cored inductor is also carefully 
+designed. 
+Chapter 4 explores and investigates magnetic integration of inductors for a three-phase LCL 
+filter on delta yoke composite core. Using the conventional rectangular core as the baseline design 
+reference, the proposed delta yoke core achieved a weight reduction of close to 10% without 
+affecting the filter’s performance. The inductances based on both shapes were calculated and 
+verified through magnetic circuit analysis and 3-D finite element analysis (FEA) simulation. 
+Hardware prototypes of the integrated inductor with both the conventional rectangular and the 
+proposed delta yoke cores were fabricated and tested with a three-phase inverter circuit to verify 
+the design validity.   
+Chapter 5 presents the benefits of interleaving three phase voltage source converters (VSCs) 
+to improve the power density. Then, to further improve power density of HPDC, different levels 
+with power converter includes 2-level, 3-level, and 5-level configurations will be investigated, 
+with two types of 3-phase power grids, the 3-phase 3-wire and 3-phase 4-wire power grids.  
+Chapter 6 analyses the common mode inductor, includes the extraction of common mode 
+(CM) and differential mode (DM) inductances of a common mode choke (CMC) using 3D finite 
+element method (FEM). The effects of CM and DM currents on the magnetic core saturation, the 
+parasitic capacitance of a CMC, and different core structures on the performance are evaluated.   
+Finally, chapter 7 concludes the thesis, and recommends the future work.  
+ 
+
+-----

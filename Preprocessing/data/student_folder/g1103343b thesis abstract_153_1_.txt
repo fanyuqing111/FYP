@@ -1,0 +1,46 @@
+Region-based Urban Traffic Management 
+ 
+Abstract 
+Quality of life in cities, especially for vehicle owners, can be associated with the delay experienced by 
+drivers, a direct consequence of congestion. Costs associated with delays incurred to travelers during 
+peak periods include the loss of man-hours, increased vehicle emissions, increased fuel consumption 
+and more. The magnitude of the socio-economic impact of congestion is so great, that the European 
+Commission stated in a White Paper that the annual costs associated with congestion will accumulate 
+to $102 billion in the European Community alone. According to Bloomberg, traffic congestion in the 
+United States in 2009 costs the economy $114.8 billion. Unfortunately, due to limited space availability 
+in modern urban regions, infrastructure upgrade and extension costs are prohibitive, with optimal 
+utilization of available infrastructure being the only viable alternative. This work includes 
+implementations of several modules of a proposed Region-based Urban Traffic Simulation and 
+Management Framework, which takes advantage of the Urban-scale Macroscopic Fundamental 
+Diagram concept. Concretely, weighted feature extensions of center-based clustering methods are 
+introduced and compared with an implementation of normalized spectral clustering. The weighted 
+$k$-harmonic means clustering outperforms all other methods when applied to an urban traffic 
+network encapsulating Singapore's Central Business District, and can be used as part of the 
+partitioning system module. The partitioning of the urban traffic network into homogeneously 
+congested regions is an essential requirement for the existence and validity of Urban-scale 
+Macroscopic Fundamental Diagram. Subsequently, as part of the macroscopic dynamics module, a 
+multi-class extension of a regional dynamic traffic model, the Network Transmission Model, is 
+introduced and subsequently used to simulate regional traffic dynamics. Two innovative region-based 
+prescriptive route guidance approaches, as part of the centralized optimization module, are 
+introduced, a non-predictive strategic learning-based routing method and a predictive simulation-
+based routing method. They are applied on a 16-region, diamond grid network which makes use of 
+the Network Transmission Model to simulate the regional traffic dynamics. Their performance is 
+compared to multinomial logit routing, a realistic reference case which models self-interested traveler 
+route choice behavior. It should be noted that, all routing methods come integrated with a Public 
+Transit Diversion mechanism. As expected, the predictive routing method outperforms all other 
+routing methods. A market penetration scheme is introduced and three traveler classes are defined, 
+the 1st traveler class making use of autonomous vehicles, the 2nd traveler class making use of 
+conventional vehicles equipped with Route Guidance and Information System and the 3rd traveler class 
+making use of unequipped conventional vehicles. The 1st class is represented by the predictive routing 
+method with full compliance and under two information provision scenarios S1 (imperfect 
+information), S2 (perfect information), that affect travel time prediction accuracy. The 2nd class is 
+represented by the non-predictive routing method with the possibility of non-compliance. The 3rd  
+class is represented by multinomial logit routing, modeling route choice under imperfect travel time 
+perception. Regional traffic dynamics for simultaneous application of all aforementioned routing 
+methods are simulated, for various combinations of traveler class market penetration rates and non-
+compliance rates. An analysis of overall network performance gains, as well as individual performance 
+metric results was conducted for each market penetration rate combination with promising results 
+regarding the potential impact autonomous vehicles will have on overall network performance, as 
+well as the individual benefits provided to all other traveler classes. 
+
+-----

@@ -8,13 +8,7 @@ nltk.download('punkt')
 nltk.download('wordnet')
 
 
-def read_file():
-    with open("./school_project_test_file/student_folder/publication_1_.txt", "r") as f:
-        data = f.read()
-        return data
-
-
-def filter_ascii(inp_str):
+def normalize_string(inp_str):
     inp_str = inp_str.lower()
     
     # remove line breaks
@@ -50,20 +44,18 @@ def filter_ascii(inp_str):
 
 
 if __name__ == '__main__':
-    data = read_file()
-    res = filter_ascii(data)
+	with open("/Users/pangyujin/Development/FYP_project/Preprocessing/school_project_test_file/student_folder/publication_1_.txt", "r") as f:
+		res = normalize_string(f.read())
+    	# # detect stop words
+    	# from nltk.tokenize import word_tokenize
+    	# tokens = word_tokenize(res)
+    	# res = ' '.join([i for i in tokens if not i in ENGLISH_STOP_WORDS])
 
-    # # detect stop words
-    # from nltk.tokenize import word_tokenize
-    # tokens = word_tokenize(res)
-    # res = ' '.join([i for i in tokens if not i in ENGLISH_STOP_WORDS])
-
-    # detect if word is in english
-    # english_vocab = set(w.lower() for w in nltk.corpus.words.words())
-    # for word in res.split():
-    #     if(word in english_vocab):
-    #         print(word + ': ' + 'True')
-    #     else:
-    #         print(word + ': ' + 'False')
-    
-    print(res)
+    	# detect if word is in english
+    	# english_vocab = set(w.lower() for w in nltk.corpus.words.words())
+    	# for word in res.split():
+    	#     if(word in english_vocab):
+    	#         print(word + ': ' + 'True')
+    	#     else:
+    	#         print(word + ': ' + 'False')
+		print(res)

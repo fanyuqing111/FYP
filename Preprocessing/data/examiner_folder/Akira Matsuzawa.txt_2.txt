@@ -1,0 +1,357 @@
+Brought to you by
+Nanyang Technological University Library
+Search
+Alerts
+My list
+My Scopus
+Scopus
+SciVal
+Help
+Print |
+E-mail
+Matsuzawa, Akira
+Tokyo Institute of Technology, Department 
+of Physical Electronics, Tokyo, Japan
+Author ID: 7102714965
+Other name formats:Matsuzawa
+About Scopus Author Identifier | View potential author matches 
+Documents:
+Citations:
+h-index:
+Analyze author output
+View citation overview
+View h-graph
+Co-authors:
+Subject area:
+Follow this Author
+View documents
+View documents
+View documents
+Receive emails when this author 
+publishes new articles
+Get citation alerts
+Add to ORCID
+Request author detail corrections
+Author History
+Publication range: 1982 - Present
+References: 1568
+Source history:
+Midwest Symposium on Circuits and Systems
+IEEE Transactions on Microwave Theory and Techniques
+Proceedings - IEEE International Symposium on Circuits and 
+Systems
+View More
+Show Related Affiliations
+233
+1193 total citations by 948 documents
+16
+150(maximum 150 co-authors can be displayed)
+Engineering ,  Computer Science View More
+233 documents
+Export all |
+Add all to my list |
+Set document alert
+|
+Set document feed
+233 Documents | Cited by 948 documents | 150 co-authors
+View all in search results format
+Sort on: Date Cited by ...
+A fully synthesizable all-digital pll with 
+interpolative phase coupled oscillator, current-
+output DAC, and fine-resolution digital varactor 
+using gated edge injection technique
+Deng, W., Yang, 
+D., Ueno, T., (...), 
+Okada, K., 
+Matsuzawa, A.
+2015 IEEE Journal of 
+Solid-State Circuits
+View at Publisher
+Characterization of crossing transmission line 
+using two-port measurements for millimeter-
+wave CMOS circuit design
+Tokgoz, K.K., Lim, 
+K., Kawai, S., (...), 
+Okada, K., 
+Matsuzawa, A.
+2015 IEICE Transactions 
+on Electronics
+View at Publisher
+Ultralow-Voltage High-Speed Flash ADC 
+Design Strategy Based on FoM-Delay Product
+Lin, J., Mano, I., 
+Miyahara, M., 
+Matsuzawa, A.
+2014 IEEE Transactions 
+on Very Large Scale 
+Integration (VLSI) 
+Systems
+Article in Press
+View at Publisher
+Extension method of tolerance to voltage and 
+temperature variations in an injection-locked 
+PLL
+Han, J., Miyahara, 
+M., Matsuzawa, A.
+2014 IEICE Electronics 
+Express
+View at Publisher
+15.1 A 0.0066mm2 780μW fully synthesizable 
+PLL with a current-output DAC and an 
+interpolative phase-coupled oscillator using 
+edge-injection technique
+Deng, W., Yang, 
+D., Ueno, T., (...), 
+Okada, K., 
+Matsuzawa, A.
+2014 Digest of Technical 
+Papers - IEEE 
+International Solid-
+State Circuits 
+Conference
+View at Publisher
+20.3 A 64-QAM 60GHz CMOS transceiver with 
+4-channel bonding
+Okada, K., Minami, 
+R., Tsukui, Y., (...), 
+Miyahara, M., 
+Matsuzawa, A.
+2014 Digest of Technical 
+Papers - IEEE 
+International Solid-
+State Circuits 
+Conference
+View at Publisher
+0
+0
+0
+0
+2
+1
+Years
+Documents
+Documents
+Citations
+Citations
+2005
+2015
+0
+33
+0
+236
+Register Login
+Page 1 of 5
+Scopus - Author details (Matsuzawa, Akira)
+27/1/2015
+http://www.scopus.com.ezlibproxy1.ntu.edu.sg/authid/detail.url?origin=resultslist&authorId=7102714...
+
+-----
+22.6 A 2.2GS/s 7b 27.4mW time-based folding-
+flash ADC with resistively averaged voltage-to-
+time amplifiers
+Miyahara, M., 
+Mano, I., 
+Nakayama, M., 
+Okada, K., 
+Matsuzawa, A.
+2014 Digest of Technical 
+Papers - IEEE 
+International Solid-
+State Circuits 
+Conference
+View at Publisher
+A swing-enhanced current-reuse class-C VCO 
+with dynamic bias control circuits
+Siriburanon, T., 
+Deng, W., Okada, 
+K., Matsuzawa, A.
+2014 Proceedings of the 
+Asia and South 
+Pacific Design 
+Automation 
+Conference, ASP-
+DAC
+View at Publisher
+A dual-loop injection-locked PLL with all-digital 
+background calibration system for on-chip clock 
+generation
+Deng, W., Musa, 
+A., Siriburanon, T., 
+(...), Okada, K., 
+Matsuzawa, A.
+2014 Proceedings of the 
+Asia and South 
+Pacific Design 
+Automation 
+Conference, ASP-
+DAC
+View at Publisher
+A variable-supply-voltage 60-GHz PA with 
+consideration of HCI issues for TDD operation
+Wu, R., Tsukui, Y., 
+Minami, R., Okada, 
+K., Matsuzawa, A.
+2014 IEICE Transactions 
+on Electronics
+View at Publisher
+A 7-bit 1-GS/s flash ADC with background 
+calibration
+Tsukamoto, S., 
+Miyahara, M., 
+Matsuzawa, A.
+2014 IEICE Transactions 
+on Electronics
+View at Publisher
+High-Q inductors on locally semi-insulated Si 
+substrate by helium-3 bombardment for RF 
+CMOS integrated circuits
+Li, N., Okada, K., 
+Inoue, T., (...), 
+Sakane, H., 
+Matsuzawa, A.
+2014 Digest of Technical 
+Papers -
+Symposium on VLSI 
+Technology
+View at Publisher
+A compact, low-power and low-jitter dual-loop 
+injection locked pll using all-digital pvt 
+calibration
+Musa, A., Deng, 
+W., Siriburanon, T., 
+(...), Okada, K., 
+Matsuzawa, A.
+2014 IEEE Journal of 
+Solid-State Circuits
+View at Publisher
+A pulse-driven LC-VCO with a figure-of-merit of 
+-192dBc/Hz
+Narayanan, A.T., 
+Kimura, K., Deng, 
+W., Okada, K., 
+Matsuzawa, A.
+2014 European Solid-
+State Circuits 
+Conference
+View at Publisher
+Picosecond resolution time-to-digital converter 
+using Gm-C integrator and SAR-ADC
+Xu, Z., Miyahara, 
+M., Matsuzawa, A.
+2014 IEEE Transactions 
+on Nuclear Science
+View at Publisher
+Injection locked charge-pump PLL with a replica 
+of the ring oscillator
+Han, J., Miyahara, 
+M., Matsuzawa, A.
+2014 IEICE Transactions 
+on Electronics
+View at Publisher
+A 60-GHz sub-sampling frequency synthesizer 
+using sub-harmonic injection-locked quadrature 
+oscillators
+Siriburanon, T., 
+Ueno, T., Kimura, 
+K., (...), Okada, K., 
+Matsuzawa, A.
+2014 Digest of Papers -
+IEEE Radio 
+Frequency 
+Integrated Circuits 
+Symposium
+View at Publisher
+0
+0
+0
+0
+0
+0
+3
+0
+0
+1
+0
+Page 2 of 5
+Scopus - Author details (Matsuzawa, Akira)
+27/1/2015
+http://www.scopus.com.ezlibproxy1.ntu.edu.sg/authid/detail.url?origin=resultslist&authorId=7102714...
+
+-----
+Top of page
+The data displayed above is compiled exclusively from articles published in the Scopus database. To request corrections to any 
+inaccuracies or provide any further feedback, please contact us (registration required).
+The data displayed above is subject to the privacy conditions contained in the privacy policy .
+Display 
+results per page
+Page
+A compact and low-power fractionally injection-
+locked quadrature frequency synthesizer using 
+a self-synchronized gating injection technique 
+for software-defined radios
+Deng, W., Hara, S., 
+Musa, A., Okada, 
+K., Matsuzawa, A.
+2014 IEEE Journal of 
+Solid-State Circuits
+View at Publisher
+A 17-mW 5-Gb/s 60-GHz CMOS transmitter 
+with efficiency-enhanced on-chip antenna
+Wu, R., Deng, W., 
+Sato, S., (...), 
+Okada, K., 
+Matsuzawa, A.
+2014 Digest of Papers -
+IEEE Radio 
+Frequency 
+Integrated Circuits 
+Symposium
+View at Publisher
+A 13.2% locking-range divide-by-6, 3.1mW, 
+ILFD using even-harmonic-enhanced direct 
+injection technique for millimeter-wave PLLs
+Siriburanon, T., 
+Deng, W., Musa, 
+A., Okada, K., 
+Matsuzawa, A.
+2013 European Solid-
+State Circuits 
+Conference
+View at Publisher
+0
+0
+1
+About Scopus
+What is Scopus
+Content coverage
+Language
+日本語に切り替える
+切换到简体中文
+切換到繁體中文
+Customer Service
+Help and Contact
+Live Chat
+About
+Elsevier
+Terms and Conditions
+Privacy Policy
+Copyright © 2015 Elsevier B.V. All rights reserved.Scopus® is a registered trademark of Elsevier B.V.
+Cookies are set by this site. To decline them or learn more, visit our Cookies page.
+Page 3 of 5
+Scopus - Author details (Matsuzawa, Akira)
+27/1/2015
+http://www.scopus.com.ezlibproxy1.ntu.edu.sg/authid/detail.url?origin=resultslist&authorId=7102714...
+
+-----
+Page 4 of 5
+Scopus - Author details (Matsuzawa, Akira)
+27/1/2015
+http://www.scopus.com.ezlibproxy1.ntu.edu.sg/authid/detail.url?origin=resultslist&authorId=7102714...
+
+-----
+Page 5 of 5
+Scopus - Author details (Matsuzawa, Akira)
+27/1/2015
+http://www.scopus.com.ezlibproxy1.ntu.edu.sg/authid/detail.url?origin=resultslist&authorId=7102714...
+
+-----

@@ -1,0 +1,75 @@
+ 
+Abstract 
+ 
+This thesis pertains to the analysis and design of switching amplifiers with substantially 
+improved specifications over the state-of-the-art for smartphones, including higher power-
+efficiency to address the short battery lifespan, lower noise, and wider bandwidth.  The specific 
+switching amplifiers are the Class D amplifier (CDA) for audio applications and the hybrid CDA 
+for supply modulators for envelope tracking power amplifiers.  For the former, we investigate 
+and derive the mechanisms of the AC ground and their ensuing effects on Power-Supply-
+Rejection-Ratio and Power-Supply-Induced-Intermodulation.  For the latter, we investigate the 
+power mechanisms thereto and propose two architectures – the first with a novel delay-based 
+hysteresis controller and Class AB amplifier, and the second with a novel dual-mode Sigma-
+Delta control and adaptive biasing Class AB amplifier.  The proposed two architectures were 
+monolithically realized.  The mechanisms of the former and functionality of proposed 
+architectures of the latter are verified experimentally, and the measurements depict improved 
+specifications thereto. 
+ 
+ 
+ 
+ 
+
+-----
+ 
+Publication List 
+ 
+Journal Publications 
+1. Huiqiao He, Tong Ge, Linfei Guo and Joseph S. Chang, “3-state BTL Closed-loop PWM Class D 
+Amplifiers”, Analog Integrated Circuits and Signal Processing, Volume 88, Issue 2, pp 255-266. 
+2. Huiqiao He, Yang Kang, Tong Ge, Linfei Guo and Joseph S. Chang, “A 2.5W 40MHz-Bandwidth 
+Hybrid Supply Modulator with 91% Peak Efficiency, 3V Output Swing and 4mV Output Ripple at 
+3.6V Supply”, IEEE Transactions on Power Electronics, under revision.   
+3. Huiqiao He, Tong Ge, Yang Kang, Linfei Guo and Joseph S. Chang, “A 40MHz Dual-mode Sigma-
+Delta Control based Supply Modulator for Multi-standard Applications”, Journal of Solid-State 
+Circuits, in preparation. 
+4. Tong Ge, Huiqiao He, Linfei Guo and Joseph S. Chang, “A Direct Battery Hookup Filterless PWM 
+Class D Amplifier with >100dB PSRR for 100Hz to 1kHz, 0.005% THD+N and 16µV noise”, IEEE 
+Transactions on Power Electronics, submitted.   
+ 
+Conference Publications 
+5. Huiqiao He, Tong Ge and Joseph S. Chang, “A Review on Supply Modulators for Envelope-
+Tracking Power Amplifiers”, IEEE International Symposium on Integrated Circuits (ISIC), 2016. 
+6. Huiqiao He, Yang Kang, Jia Yu, Linfei Guo, Tong Ge and Joseph S. Chang, “A Novel Low-Power 
+High-Efficiency 3-State Filterless Bang-Bang Class D Amplifier”, IEEE International Conference on 
+Electronics, Circuits, and Systems (ICECS), 2015. 
+7. Huiqiao He, Tong Ge, Linfei Guo and Joseph S. Chang, “An Investigation into the Effect of Carrier 
+Generators on Power Supply Noise in PWM Class D Amplifiers”, IEEE Midwest Symposium on 
+Circuit and Systems (MWSCAS), 2014. 
+8. Tong Ge, Huiqiao He, Jia Zhou, Yang Kang and Joseph S. Chang, “An Investigation of THD of a 
+BTL Class D Amplifier”, IEEE International Symposium on Circuit and Systems (ISCAS), 2016. 
+9. Yu Jia, Ge Tong, He Huiqiao and Joseph S. Chang. “Substrate Thickness Effect on Transformer”, 
+IEEE International Symposium on Integrated Circuits (ISIC), 2016. 
+
+-----
+10. Yang Kang, Tong Ge, Huiqiao He, and Joseph S. Chang, “A Review of Audio Class D Amplifiers”, 
+IEEE International Symposium on Integrated Circuits (ISIC), 2016. 
+11. Tong Ge, Linfei Guo, Huiqiao He, Yang Kang, Jia Yu, Joseph S. Chang, “Envelope Tracking RF 
+Power Amplifiers: Fundamentals, Design, Challenges, and Unique Opportunities Offered by LEES-
+SMART InGaAs-on-CMOS Process”, International Conference on Materials for Advanced 
+Technologies (ICMAT), 2015. 
+12. Jia Zhou, Tong Ge, Linfei Guo, Eileen Pei Jian Ng, Huiqiao He and Joseph S. Chang, “A High Power 
+Driver IC for Electroluminescent Panel: Design Challenges and Advantages of Using the Emerging 
+LEES-SMART GaN-on-CMOS Process”, International Conference on Materials for Advanced 
+Technologies (ICMAT), 2015 
+13. Tong Ge, Linfei Guo, Yang Kang, Jia Zhou, Huiqiao He, Pei Jian Eileen Ng, Eugene A. Fitzgerald 
+and Joseph S. Chang ,“A Driver Circuit based on the emerging GaN-on-CMOS Process for the 
+emerging Electroluminescent Panels”, IEEE Midwest Symposium on Circuit and Systems (MWSCAS), 
+2015. 
+14. Linfei Guo, Tong Ge, Yang Kang, Huiqiao He and Joseph S. Chang, “Analysis and design of PWM-
+in-PWM-out Class D Amplifiers”, IEEE Midwest Symposium on Circuit and Systems (MWSCAS), 
+2014. 
+ 
+ 
+ 
+
+-----

@@ -1,0 +1,25 @@
+Title: DC Fault Detection Method and Clearance in VSC-HVDC system 
+Author: Yeap Yew Ming 
+Abstract: 
+Today’s electric grid is mostly based on alternating current (AC), as well as the loads. 
+The advancement of voltage source converter (VSC) has paved way for the emergence of 
+VSC-HVDC transmission system opening up the possibility to build a multi-terminal HVDC 
+grid. For this reason, DC grid is an important technology that deserves consideration, but 
+there are a lot of open points to be answered. One of the critical topics for such DC grid is the 
+protection. 
+In this thesis, three fault detection methods are proposed. The first method involves 
+wavelet transform. Because the DC fault can happen anytime and is unpredictable, the signal 
+processing technique can work on the non-stationary fault signal and identify the presence of 
+high frequency content caused by fault. The second method is to monitor the behaviour of 
+DC-link capacitor in VSC. In the event of fault, the DC-link capacitor will discharge 
+contributing to high fault current. The third method uses short-time Fourier transform (STFT). 
+It will be studied how the distortion in frequency spectrum shows the indication of DC fault 
+occurrence. These methods are able to detect the fault within 1 ms and differentiate DC fault 
+from external fault. The simulation model is built in PSCAD/EMTDC, supported by the 
+results from scaled-down DC experimental hardware. 
+It is also equally important to address the issue of fault clearance in DC system. This 
+thesis will discuss and analyse three protection schemes. Each scheme will be assessed based 
+on how fast they clear the fault and achieve smooth recovery. For this study, it is entirely 
+done in PSCAD/EMTDC. 
+
+-----

@@ -1,0 +1,26 @@
+List of Publications
+Journal Paper
+(1) Dipu Manandhar, Kim-Hui Yap, Zhenwei Miao, and Lap-Pui Chau. ”Lattice-
+Support repetitive local feature detection for visual search”, Pattern Recog-
+nition Letters 98 (2017): 123-129.
+(2) Dipu Manandhar, and Kim-Hui Yap.
+”Feature Repetitiveness Similarity
+Metrics in Visual Search”, IEEE Signal Processing Letters 24, no. 9 (2017):
+1368-1372.
+Conference Paper
+(1) Dipu Manandhar, Kim-Hui Yap, Muhammet Bastan, Zhao Heng, ”Brand-
+Aware Fashion Clothing Search using CNN Feature Encoding and Re-ranking”,
+International Symposium on Circuits & Systems (ISCAS), 2018. (Accepted)
+(2) Dipu Manandhar, Kim-Hui Yap, Muhammet Bastan, ”Deep Metric Learn-
+ing with Attribute Supervised Triplet Loss.” In European Conference on
+Computer Vision, 2018. (Under review)
+(3) Wen Zhang, Anu Susan Skaria, Dipu Manandhar, Kim-Hui Yap, and Zhen-
+wei Miao. ”Augmented visual phrase in mobile product recognition.” 10th
+IEEE International Conference on Information, Communications and Signal
+Processing (ICICS), pp. 1-5, 2015.
+(4) Zhao Heng, Dipu Manandhar, Kim-Hui Yap, ”Hybrid Supervised Deep
+Learning for Ethnicity Classification using Face Images”, International Sym-
+posium on Circuits & Systems (ISCAS), 2018. (Accepted)
+1
+
+-----

@@ -1,0 +1,51 @@
+Development of low power asset tracking system with precise 
+location 
+ 
+Global Positioning System (GPS) and Global Navigation Satellite System (GNSS) are currently 
+widely used for measurement of real time location of assets in tracking applications. However, in 
+indoor dense cluttered environments, the direct line of sight signal from the satellite is weak and 
+the received signal is dominated by reflected signals (multi-path signal). This causes the receiver 
+to track the multi-path signal resulting in degraded position information or the signal may be so 
+heavily attenuated that it goes below the noise floor of the receiver and makes it difficult for the 
+receiver to detect the signal. There is also strong demand for indoor positioning applications 
+driving the need for indoor localization. The goal for this thesis is to develop the low power asset 
+tracking system for the indoor applications. 
+ 
+ 
+The thesis is commenced with the design of the energy efficient tags that will be carried by the 
+people or objects to be tracked in the indoor environment. The design of tags includes the hardware 
+and firmware code development with the aim of achieving energy efficiency as the tags are 
+powered by coin size battery. The tags transmit the Ultra-Wideband (UWB) signal for the purpose 
+of localization and are commanded through a sub-1 GHz wireless data link. The tags designed to 
+be used in this system are UWB transmit only. This is done to achieve the low power design 
+parameter for the system as the UWB receivers are likely to consume higher power and the tags 
+are powered by a coin size battery leading to the less operational hours. For the purpose of 
+commands and control along with the consideration of the low power design parameter, an ultra-
+low power sub-1 GHz wireless data link is used in comparison to the 2.4 GHz band, which is used 
+in many applications resulting into the difficulty of achieving the reliable data link. The firmware 
+code is developed for the tags to perform sub-1 GHz wireless communication. The three design 
+strategies are presented and implemented in the design of the tags which aid in achieving the longer 
+battery life. The current measurement results are presented along with the battery life computation. 
+The development of indoor localization system is accomplished with the design of the 
+reader/sensor system which include the hardware and firmware code development. The reader 
+systems are distributed in the indoor environment to receive the UWB signal for the purpose of 
+the localization. The localization technique used in the system is based on time difference of arrival 
+(TDOA). The sub-1 GHz wireless data link is used by the reader systems for the intent of 
+commands & control. The firmware code is developed for the reader systems to achieve the control 
+over the whole process of indoor localization using the sub-1 GHz wireless data link. The reader 
+cape hardware is designed to mount along with the BeagleBoneBlack (BBB) board. The equivalent 
+time sampling is performed in the reader system with the help of low cost ADC to sample the 
+UWB signals transmitted by the tags. The sampled UWB signals are processed in BBB board to 
+find time of arrival (TOA). The TOA data from all readers is transmitted to central server where 
+TDOA is computed and localization is performed using difference of TDOA’s. 
+
+-----
+In the last, the energy efficient Medium Access Control (MAC) Scheme is designed and 
+implemented for the multi tag indoor localization environment with the centralized architecture 
+controlled by the master reader system by using sub-1 GHz wireless data link. To perform 1D 
+ranging between the readers, the range equation using TDOA is derived in consideration with the 
+clock skew and the clock offset at each of the devices. The measurement set up is developed 
+including 2 reader systems and 2 reference tags (co-located at readers) for performing 1D range 
+measurement between the two reader systems along with the implementation of MAC scheme. 
+
+-----

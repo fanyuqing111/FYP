@@ -1,0 +1,63 @@
+Ph.D. Thesis Title  
+High Precision Biomedical Sensor Readout Circuits Design for Wearable Health Monitoring 
+System  
+Abstract  
+With the increasing size of aging population, there has been a rising need to monitor the vital 
+physical parameters of individuals in their daily life. Conventional sensing devices for health 
+monitoring are usually bulky, expensive, and power-hungry, making it cumbersome for daily 
+use. A miniaturized wearable biomedical signal monitoring system can certainly be a game 
+changing technology to enable remote monitoring and diagnosis for personalized home 
+healthcare.  
+Challenges such as the elevated compatibility of readout circuit with different types of 
+sensors, the low power consumption requirement, high output resolution, and high output 
+stability against environment changes are all popular research topics. In this project, the RC 
+relaxation oscillator is explored as an alternative time domain frontend sensor readout circuit. 
+Three designs have been proposed and fabricated. All designs are compatible with both the 
+capacitive and resistive sensors. The first design achieves high energy efficiency and low 
+phase noise, while the second realizes high output stability against environment changes. The 
+third design combines verified ideas from the previous two, attaining a frontend with all 
+advantages of the previous two designs. Meanwhile, the readout circuit for neuro signal is 
+also researched in this project. The challenge comes from the large noises called artifacts, 
+which are superposed with the neuro signal. The large artifacts cause the frontend to saturate 
+easily, resulting in fail data conversion. A VCO-based Deep Sub Micron (DSM) readout 
+circuit is proposed and fabricated in CMOS 40-nm process. It can operate under large input 
+range of up to 100-mVpp with high output resolution.  
+Despite of the work done, challenges lying ahead are still exciting. These challenges can be 
+viewed in two ways, the integration of my existing frontends into systems, and the creation 
+for even better readout circuits. Plans to deal with them are constantly being generated and 
+more contributions to the subject matter will certainly be made in the near future.  
+ 
+
+-----
+ 
+ 
+ 
+ 
+ 
+List of Scientific Publications 
+ 
+1. W. Zhou, W. L. Goh, and Y. Gao, “A 1.6 MHz Swing-Boosted Relaxation Oscillator with 
+±0.15%/V 23.4 ppm/°C Frequency Inaccuracy using Voltage-to-Delay Feedback,” 2019 
+IEEE International Symposium on Circuits and Systems (ISCAS), Accepted, to be 
+presented in IEEE ISCAS 2019. 
+2. W. Zhou, W. L. Goh, and Y. Gao, “Biomedical Temperature Sensor System with 
+Relaxation-Oscillator-based Sensor Interface for High Precision Sensing,” 3rd Electron 
+Devices Technology and Manufacturing (EDTM) Conference 2019, Accepted, to be 
+published in IEEE EDTM 2019 proceedings. 
+3. W. Zhou, W. L. Goh, J. H. Cheong and Y. Gao, "A 16.6 µW 3.12 MHz RC Relaxation 
+Oscillator with 160.3 dBc/Hz FOM," 2018 IEEE International Symposium on Circuits and 
+Systems (ISCAS), Florence, Italy, 2018, pp. 1-5. 
+4. W. Zhou, W. L. Goh, and Y. Gao, “A 3-MHz 17.3-μW 0.015% Period Jitter Relaxation 
+Oscillator with Energy Efficient Swing Boosting,” IEEE Transactions on Circuits and 
+Systems II: Express Briefs (TCAS-II), Submitted, under review. 
+5. W. Zhou, W. L. Goh, and Y. Gao, “A 100-mVpp Input Range 10-kHz BW VCO-based 
+DSM Neuro-Recording Interface in 40-nm CMOS,” 2019 32nd IEEE International System-
+on-Chip Conference (SOCC), Submitted, decision pending. 
+6. W. Zhou, W. L. Goh, and Y. Gao, “A 1.6 MHz Swing Boosted Relaxation Oscillator with 
+Voltage-to-Delay Feedback,” IEEE Transactions on Circuits and Systems I: Regular 
+Papers (TCAS-I), To be submitted by Aug 2019. 
+7. W. Zhou, Y, Chen, W. L. Goh, and Y. Gao, “A delta-sigma modulator for high dynamic 
+range biomedical sensor interfaces with current re-use Gm-CCO integrator and differential 
+phase quantizer,” to be submitted as a journal paper. 
+
+-----

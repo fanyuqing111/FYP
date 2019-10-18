@@ -1,0 +1,58 @@
+Professor Guang-Hong Yang
+Northeastern University, China
+Email: Prof. Guang-Hong Yang
+Biography
+Professor Guang-Hong Yang received the B.S. and M.S. degrees in 
+mathematics from Northeast University of Technology, China, in 1983 and 1986, 
+respectively, and the Ph.D. degree in control engineering from Northeastern 
+University, China (formerly, Northeast University of Technology), in 1994. He was 
+a Lecturer/Associate Professor with Northeastern University from 1986 to 1995. He 
+joined the Nanyang Technological University in 1996 as a Postdoctoral Fellow. 
+From 2001 to 2005, he was a Research Scientist/Senior Research Scientist with 
+the National University of Singapore. He is currently a Professor and Director of the 
+Institute of Control Theory and Navigation technology, at the College of 
+Information Science and Engineering, Northeastern University, China. His current 
+research interests include fault tolerant control, fault detection and isolation, 
+robust control, nonlinear control and flight control systems design.
+Dr. Yang has published over 300 fully-refereed papers in technical journals and 
+conference proceedings that include 155 fully-refereed high quality journal articles, 
+and 3 monographs. He is an Associate Editor for the IET Control Theory & 
+Applications, the IEEE Transactions on Fuzzy Systems, the International Journal of 
+Control, Automation, and Systems (IJCAS), and the International Journal of 
+Systems Science (IJSS). He is the Chair of the IEEE Harbin Section Control 
+Systems Society Chapter, and has been General Chair/Program Chair of the 
+Chinese Control and Decision Conference (CCDC) since 2008.
+Title 
+Fault detection for T-S fuzzy systems with unknown membership 
+functions: a switching technique based approach
+Abstract 
+Fault detection (FD) filter design problems for T-S fuzzy systems with known 
+membership functions have been widely studied in recent years by using parallel 
+distributed compensator (PDC) strategy. Note that, if the membership functions 
+Page 1 of 2
+Professor Guang-Hong Yang
+15/5/2017
+http://ieeeiciea.org/2014/Prof.Guang-HongYang.html
+
+-----
+are allowed to be unknown, then a fuzzy system may describe a wide class of 
+nonlinear systems. However, in this case, PDC strategy based FD schemes cannot 
+be applied. On the other hand, index and norm are always used to characterize the 
+fault sensitivity performance and disturbance attenuation performance, and the 
+maximization of index can lead to matrix inequalities that are nonconvex in the FD 
+filter parameters. Therefore, how to design / FD filters for T-S fuzzy systems with 
+unknown membership functions is a major challenge. In this talk, a switching 
+technique based / FD filter design method is introduced for T-S fuzzy systems with 
+unknown membership functions. First, based on some time-domain inequalities, a 
+novel weighting matrix design criterion is provided to transform the fault sensitivity 
+specification into an constraint. Then, a switching mechanism that depends on the 
+lower and upper bounds of the unknown membership functions is given to 
+construct an FD filter with varying gains. It is shown that the switching-type FD 
+filter with varying gains can achieve a better FD performance than the linear FD 
+filter with fixed gains.
+Page 2 of 2
+Professor Guang-Hong Yang
+15/5/2017
+http://ieeeiciea.org/2014/Prof.Guang-HongYang.html
+
+-----

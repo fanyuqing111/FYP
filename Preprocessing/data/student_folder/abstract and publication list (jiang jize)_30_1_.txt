@@ -1,0 +1,83 @@
+Abstract 
+ 
+This Ph.D. program pertains to the design and realization of two fundamental 
+analog circuits in deep-submicron CMOS – a Low DropOut voltage regulator (LDO) 
+and a voltage reference. The targeted applications for the LDO and voltage reference 
+are respectively the emerging Internet-of-Things (IoT) and the both IoT and satellites. 
+Some of the most imperative considerations for the design of Integrated Circuits (ICs) 
+and Systems-on-Chip (SoC) for IoTs include a small form factor, complex 
+functionalities, low power and low cost. These attributes are often realized by 
+employing deep-submicron CMOS processes, e.g., 65nm, resulting in a somewhat 
+challenging operating environment, including a low supply voltage, large thermal 
+gradient, severe noise (coupling), etc. For satellites operating in an extra-terrestrial 
+environment, the operating environment for ICs/SoCs is even challenging due to the 
+extended temperature range and various radiation effects. In the perspective of these 
+challenging operating environments, our design of an LDO and a voltage reference are 
+as follows. 
+ 
+For the LDO design for IoTs, the most critical and challenging attribute is 
+arguably the high Power Supply Rejection Ratio (PSRR), not only over a wide 
+frequency range but also over a large load current range. In this Ph.D. program, we 
+propose an LDO, realized in 65nm CMOS, featuring the highest PSRR reported in the 
+literature to date – specifically including >60dB over 10MHz frequency range, and 
+100mA large load current range. The high PSRR is achieved by a proposed Feed 
+Forward Ripple Cancellation (FFRC) technique embodying an adaptive load current 
+tracking scheme. In addition, by means of embodying an nMOS-based power stage, the 
+
+-----
+proposed LDO also achieves very low dropout voltage of 80mV and features very small 
+overshoot and undershoot of 2mV and 4mV, respectively.  
+ 
+For the design of voltage reference for both IoTs and satellites, a low 
+Temperature Coefficient (TC) over a wide temperature range achieved with a low 
+supply voltage is increasingly preferable. In this Ph.D. program, we propose a sub-1V 
+MOSFET-only voltage reference realized in 65nm CMOS featuring a low Temperature 
+Coefficient (TC) of 5.6ppm/°C over a wide temperature range from -40°C to 125°C and 
+a high PSRR over a wide frequency range (87dB to 800kHz, and 75dB at 1MHz). The 
+low TC attributes are achieved by a novel curvature-compensation technique based on 
+a comprehensive investigation into the mechanism of the Zero Temperature Coefficient 
+(ZTC) point of an nMOS transistor – our discovery of a new phenomenon of the effect 
+of the drain-to-source voltage of an nMOS on TC. The proposed MOSFET-only voltage 
+reference is arguably hitherto the only MOSFET-only voltage reference to-date 
+embodying curvature compensation. The high PSRR is obtained by means of utilizing 
+an active attenuator and the impedance adapting frequency compensation. Further, by 
+exploiting the inherent immunity of the ZTC point against radiation effect, the proposed 
+MOSFET-only voltage reference is a paradigm of the Radiation Hardened By Design 
+(RHBD) approach for analog circuits. A prototype design realized in 130nm CMOS 
+tested under irradiation conditions feature very high radiation hardness. Specifically, 
+under 1Mrad Total Ionizing Dosage, it features <1.5% output variation and is error-free 
+under Linear Energy Transfer of 77MeVcm2/mg. To the best of our knowledge, our 
+proposed voltage reference is the only reported MOSFET-only voltage reference 
+featuring full radiation hardness. This feature is particularly imperative for the design 
+of MOSFET-only radiation-hardened ICs/SoCs for satellites and IoTs for extra- 
+terrestrial applications. 
+
+-----
+Publication List 
+Journal publications 
+[1] 
+J. Jiang, W. Shu and J. S. Chang, "A 5.6 ppm/°C Temperature Coefficient, 87-dB 
+PSRR, Sub-1-V Voltage Reference in 65-nm CMOS Exploiting the Zero-
+Temperature-Coefficient Point," in IEEE Journal of Solid-State Circuits, vol. 52, 
+no. 3, pp. 623-633, March 2017. 
+[2] 
+J. Jiang, W. Shu and J. S. Chang, "A 65nm CMOS Low DropOut Regulator 
+featuring >60dB PSRR over 10MHz frequency Range and 100mA Load Current 
+Range," in IEEE Journal of Solid-State Circuits (minor review).  
+Conference publications 
+[1] 
+J. Jiang, W. Shu, J. Chang and J. Liu, "A novel subthreshold voltage reference 
+featuring 17ppm/°C TC within −40°C to 125°C and 75dB PSRR," 2015 IEEE 
+International Symposium on Circuits and Systems (ISCAS), Lisbon, 2015, pp. 
+501-504. 
+[2] 
+J. Jiang, W. Shu, K. S. Chong, T. Lin, N. Lwin, J. Chang, and J. Liu, "Total 
+Ionizing Dose (TID) effects on finger transistors in a 65nm CMOS process," 2016 
+IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, 
+2016, pp. 5-8. 
+[3] 
+J. Jiang, W. Shu, Y. Qu, K. S. Chong, and J. Chang, "Design and Test of a RHBD 
+CMOS-only Voltage Reference," 2018 IEEE Nuclear and Space Radiation Effects 
+Conference (accepted). 
+
+-----

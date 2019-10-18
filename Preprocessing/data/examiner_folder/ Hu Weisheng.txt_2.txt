@@ -1,0 +1,196 @@
+…, MY Wu, Y Jin, W Guo, W Sun, W Hu - Journal of Optical …, 2007 - osapublishing.org
+Optical networking technologies are expected to play an important role in creating an 
+efficient infrastructure for supporting advanced grid applications. Since both the scheduling 
+methods in grid computing and optical networks are limited to be directly used to achieve …
+ 
+ Cited by 78
+ Related articles
+ All 9 versions
+H Ren, C Jiang, W Hu, M Gao, J Wang - Optics Express, 2006 - osapublishing.org
+In the paper, a novel three-port channel drop filter in two dimensional photonic crystals (2D 
+PCs) with a wavelength-selective reflection micro-cavity is proposed. In the structure, two 
+micro-cavities are used. One is used for a resonant tunneling-based channel drop filter. The …
+ 
+ Cited by 136
+ Related articles
+ All 6 versions
+…, L Kong, N Yang, Y Wang, R Chen, W Hu… - Laser Physics …, 2015 - iopscience.iop.org
+Liquid-phase exfoliated 2D material multilayer MoS 2 is transferred onto a gold mirror and its 
+saturable absorption at the 2 µm wavelength region is experimentally observed. This 
+transferred MoS 2 saturable absorber has a modulation depth of 13.6% and a saturation …
+ 
+ Cited by 97
+ Related articles
+ All 5 versions
+…, Y Jin, W Sun, W Guo, W Hu - Optical Fiber …, 2010 - osapublishing.org
+Fig. 1 Spectral resource allocation on link CD: BV-OOFDM network (a) Vs. MLR WDM network 
+(b) Another property that OFDM brings needs to be noticed. In fixed data rate WDM 
+networks, conventional ITU-T frequency grid has rigid channel spacing, say 25GHz, 50GHz or …
+ 
+ Cited by 68
+ Related articles
+ All 4 versions
+…, Y Jin, W Guo, W Sun, W Hu - IEEE Communications …, 2011 - ieeexplore.ieee.org
+In the field of grid computing over optical networks, joint scheduling of computing and 
+network resources is an important issue. However previous research efforts were static 
+approaches, which are difficult to implement in multidomain optical networks, especially in …
+ 
+ Cited by 23
+ Related articles
+ All 4 versions
+W Wei, L Yi, Y Jaouën, W Hu - Optics express, 2014 - osapublishing.org
+We propose a rectangular optical filter based on stimulated Brillouin scattering (SBS) in 
+optical fiber with bandwidth tuning from 50 MHz to 4 GHz at less than 15-MHz resolution. 
+The rectangular shape of the filter is precisely achieved utilizing digital feedback control of …
+ 
+ Cited by 65
+ Related articles
+ All 7 versions
+Y Hou, S Xiao, H Zheng, W Hu - Journal of optical …, 2015 - osapublishing.org
+In view of the application of a visible light positioning system in a public indoor environment 
+with numerous light emitting diodes (LEDs), a long delay is one of the main factors that limits 
+the performance of the positioning system with a moving device. To solve this problem, a …
+ 
+ Cited by 36
+ Related articles
+ All 3 versions
+M Gao, C Jiang, W Hu, J Wang - Optics express, 2004 - osapublishing.org
+A new two-pump fiber optical parametric amplifier (FOPA) is presented, which is composed 
+of two-section high nonlinear fibers (HNLFs). Genetic algorithm (GA), a multivariate 
+stochastic optimization algorithm is applied to optimize parameters of two fiber segments …
+ 
+ Cited by 47
+ Related articles
+ All 6 versions
+Joint scheduling for optical grid applications
+Photonic crystal channel drop filter with a wavelength-selective reflection micro-cavity
+Mode-locked thulium fiber laser with MoS2
+On the spectrum-efficiency of bandwidth-variable optical OFDM transport networks
+Virtualized optical network services across multiple domains for grid applications
+Bandwidth-tunable narrowband rectangular optical filter based on stimulated Brillouin
+scattering in optical fiber
+Multiple access scheme based on block encoding time division multiplexing in an indoor
+positioning system using visible light
+Optimized design of two-pump fiber optical parametric amplifier with two-section nonlinear
+fibers using genetic algorithm
+
+-----
+W Guo, W Sun, Y Jin, W Hu… - IEEE Communications …, 2010 - ieeexplore.ieee.org
+Currently, optical networks have been employed to meet the ever-increasing data transfer 
+demands of distributed scientific applications. In order to provide better performance and 
+achieve higher resource utilization, a new networking solution and resource scheduling …
+ 
+ Cited by 14
+ Related articles
+ All 4 versions
+L Zhang, L Chang, Y Dong, W Xie, H He, W Hu - Optics letters, 2011 - osapublishing.org
+In this Letter, we propose a phase drift cancellation method for remote radio frequency 
+transfer. Phase fluctuation along the transmission fiber, which is induced by temperature and 
+pressure changes, is measured and compensated by a heterodyne optoelectronic delay …
+ 
+ Cited by 40
+ Related articles
+ All 4 versions
+Demonstration of joint resource scheduling in an optical network integrated computing
+environment [topics in optical communications]
+Phase drift cancellation of remote radio frequency transfer using an optoelectronic delay-
+locked loop
+
+-----
+…, Z Xing, K Kang, Y Jin, W Guo, W Hu… - IEEE …, 2012 - ieeexplore.ieee.org
+Given the fact that control channels in GMPLS/MPLS-TE networks use packet-based 
+forwarding, and the processing of control messages may be subject to various factors, the 
+provisioning delay of an LSP could be highly random. To bridge the gap between the …
+ 
+ Cited by 13
+ Related articles
+ All 5 versions
+H Yang, W Sun, J Li, W Hu - IEEE/OSA Journal of Optical …, 2014 - ieeexplore.ieee.org
+Power consumption in current communication networks including the access networks is 
+increasing rapidly; energy efficiency is therefore one of the key design considerations in the 
+next generation passive optical networks (PONs). In this paper, we investigate how a …
+ 
+ Cited by 23
+ Related articles
+ All 3 versions
+M Bi, S Xiao, L Yi, H He, J Li, X Yang, W Hu - Optics express, 2014 - osapublishing.org
+We propose a symmetric 40-Gb/s time and wavelength division multiplexed passive optical 
+network (TWDM-PON) system with directly modulated laser (DML) as both downstream and 
+upstream transmitters. A single bi-pass delay interferometer (DI), deployed in the optical line …
+ 
+ Cited by 23
+ Related articles
+ All 6 versions
+J Luo, Z Zhang, W Sun, W Hu - Asia Communications and …, 2012 - osapublishing.org
+Flexible grid optical networks were recently proposed to achieve high spectral utilization and 
+efficiency [1]. In the flexible grid networks, it can allocate spectrums with speeds ranging from 
+Gb/s up to Tb/s at tighter channel spacing based on the demands and reach requirements …
+ 
+ Cited by 35
+ Related articles
+ All 6 versions
+W Sun, G Xie, Y Jin, W Guo, W Hu, X Lin… - IEEE …, 2008 - ieeexplore.ieee.org
+Using circuit-switched optical networks for next generation e-science applications is gaining 
+increasing interest. In such applications, circuits are provisioned for end hosts to accomplish 
+data-intensive or QoS-stringent communication tasks. Existing provisioning methods provide …
+ 
+ Cited by 17
+ Related articles
+ All 9 versions
+C Jiang, W Hu, Q Zeng - IEEE journal of quantum electronics, 2005 - ieeexplore.ieee.org
+The rate equations and power evolution equations of erbium/ytterbium codoped phosphate 
+fiber amplifiers are solved numerically and its results are compared with measured data in 
+literature. Based on the numerical analysis, optimal erbium and ytterbium codoping …
+ 
+ Cited by 20
+ Related articles
+ All 3 versions
+…, S Xiao, H Feng, L Zhang, Z Zhou, W Hu - Optics express, 2015 - osapublishing.org
+In this paper, we design a self-interference cancellation (SIC) scheme for in-band full-duplex 
+(IBFD) radio-over-fiber (RoF) systems based on wavelength division multiplexing passive 
+optical network (WDM-PON) architectures. By using a single dual-drive Mach-Zehnder …
+ 
+ Cited by 31
+ Related articles
+ All 6 versions
+Z Li, L Yi, H Ji, W Hu - Optics express, 2016 - osapublishing.org
+High speed data modulation based on bandwidth limited devices has been considered as a 
+cost-effective way to upgrade 10G-EPON to the next generation 100G-EPON. In this paper, 
+we experimentally demonstrate the modulation, fiber transmission and reception of 25-Gb/s …
+ 
+ Cited by 30
+ Related articles
+ All 4 versions
+Performance of label switched path dynamic provisioning in GMPLS networks
+Energy efficient TWDM multi-PON system with wavelength relocation
+Power budget improvement of symmetric 40-Gb/s DML-based TWDM-PON system
+Partial defragmentation in flexible grid optical networks
+A cross-layer optical circuit provisioning framework for data intensive IP end hosts
+Improved gain performance of high concentration Er/sup 3+/-Yb/sup 3+/-codoped
+phosphate fiber amplifier
+Self-interference cancellation using dual-drive Mach-Zehnder modulator for in-band full-
+duplex radio-over-fiber system
+100-Gb/s TWDM-PON based on 10G optical devices
+
+-----
+W Guo, Y Jin, W Sun, W Hu, X Lin… - OFC/NFOEC 2008 …, 2008 - ieeexplore.ieee.org
+2. TONICE Framework TONICE is a large-scale interdisciplinary project to address a framework 
+of distributed computing over optical network. The project focuses on coordinated management 
+of both computational resources and optical network resources. It also focuses on designing …
+ 
+ Cited by 19
+ Related articles
+ All 7 versions
+Z Li, L Yi, X Wang, W Hu - Optics express, 2015 - osapublishing.org
+In this paper, we demonstrate the direct modulation and direct detection of 28-Gb/s 
+duobinary signal for the future downstream capacity upgrade in next generation passive 
+optical network (PON). Commercial 10-GHz directly modulated laser (DML) and PIN with a …
+ 
+ Cited by 44
+ Related articles
+ All 6 versions
+Distributed computing over optical networks
+28 Gb/s duobinary signal transmission over 40 km based on 10 GHz DML and PIN for 100
+Gb/s PON
+
+-----

@@ -1,0 +1,19 @@
+PUBLICATIONS 
+1. A. K. Bui, Z. Xiao, and L. Siek, “A Digitally-Controlled DC-DC Converter with Fast 
+Predictive MPPT for PV Energy Harvesting System” to be submitted to IEEE 
+Transactions on Very Large Scale Integration (VLSI) Systems. 
+2. A. K. Bui, Z. Xiao, and L. Siek, "Digitally-Controlled H-Bridge DC-DC Converter for 
+Micropower PV Energy Harvesting System," in 15th Int. Symp. Integrated Circuits 
+(ISIC), 2016.  
+3. Z. Xiao, A. K. Bui, and L. Siek, " A Hysteretic Switched-Capacitor DC-DC Converter 
+with Optimal Output Ripple and Fast Transient Response," in IEEE Transactions on 
+Very Large Scale Integration (VLSI) Systems (Volume: 25, Issue: 11, Nov. 2017) 
+4. Z. Xiao, A. K. Bui, and L. Siek, " On-chip reconfigurable switched-capacitor DC-DC 
+converter for indoor PV energy harvesting," Electronics Letters. Available: 
+http://digital-library.theiet.org/content/journals/10.1049/el.2016.3018.  
+5. Z. Xiao, A. K. Bui, and L. Siek, "A Switched-Capacitor DC-DC Converter with 
+Embedded Fast NMOS-LDOs Achieving Low Noise, Low Output Voltage Ripple and 
+Fast Response," in 15th Int. Symp. Integrated Circuits (ISIC), 2016.  
+ 
+
+-----

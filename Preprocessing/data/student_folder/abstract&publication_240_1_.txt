@@ -1,0 +1,21 @@
+Abstract 
+In order to overcome the ever-challenging environmental issues such as the greenhouse 
+gas emission, traditional energy sources are gradually being replaced by renewable 
+energy sources. However, the increasing penetration of renewable energy sources leads 
+to the decrease of power system inertia, as renewable sources barely contribute to 
+inertial response. To tackle this problem, a hybrid energy storage system (HESS), which 
+is composed of a battery and a supercapacitor, is proposed to enhance frequency control 
+and optimize the system performance in this project. Besides, a sizing method for the 
+HESS under contingencies is presented with the consideration of system cost and 
+operation. Furthermore, the battery used for improving secondary frequency control 
+performance is also considered. The effectiveness of the proposed HESS control 
+method is verified through both short-term and long-term simulation results. 
+ 
+Publication 
+Xiangyu Zhou, Chaoyu Dong, Jingyang Fang, Yi Tang*, “Enhancement of Load 
+Frequency Control through Using a Hybrid Energy Storage System”, Energy, Power 
+and Transportation Electrification (ACEPT), 2017 Asian Conference. IEEE, 2017. 
+ 
+ 
+
+-----

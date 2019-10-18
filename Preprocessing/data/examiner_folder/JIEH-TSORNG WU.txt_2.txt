@@ -1,0 +1,190 @@
+JIEH-TSORNG WU
+PROFESSOR, NATIONAL CHIAO-TUNG UNIVERSITY
+Publication
+Journal Papers
+1. C-M Chang and J-T Wu, "A 95-dBA DR Digital Audio Class-D Amplifier Using a Calibrated 
+Digital-to-Pulse Converter," IEEE Transactions on Circuits and Systems - I: Regular 
+Papers, Vol. 64, No. 5, pp. 1106-1117, May 2017. [PDF]
+2. S-H Wu and J-T Wu, "Background Calibration of Integrator Leakage in Discrete-Time 
+Delta-Sigma Modulators," Analog Integrated Circuits and Signal Processing, Vol. 81, No. 
+3, pp. 645-655, Dec. 2014. [PDF]
+3. S-H Wu and J-T Wu, "A 81-dB Dynamic Range 16-MHz Bandwidth DS Modulator Using 
+Background Calibration," IEEE Journal of Solid-State Circuits, Vol. 48, No. 9, pp. 2170-
+2179, Sept. 2013. [PDF]
+4. B-N Fang and J-T Wu, "A 10-Bit 300-MS/s Pipelined ADC with Digital Calibration and 
+Digital Bias Generation," IEEE Journal of Solid-State Circuits, Vol. 48, No. 3, pp. 670-683, 
+March 2013. [PDF]
+5. Y Chai and J-T Wu, "A CMOS 5.37-mW 10-Bit 200-MS/s Dual-Path Pipelined ADC," IEEE 
+Journal of Solid-State Circuits, Vol. 47, No. 12,, pp. 2905-2915, Dec. 2012. [PDF]
+6. J-T Wu, C-C Huang, and C-Y Wang, "CMOS Ultra-High-Speed Time-Interleaved ADCs," 
+Nyquist AD Converters, Sensor Interfaces, and Robustness (Advances in Analog Circuit 
+Design, 2012), Chapter 5, pp. 73-96, April 2012. [PDF]
+7. W-H Tseng, C-W Fan, and J-T Wu, "A 12-Bit 1.25-GS/s DAC in 90 nm CMOS With >70 dB 
+SFDR up to 500 MHz," IEEE Journal of Solid-State Circuits, Vol. 46, No. 12, pp. 2845-2856, 
+Dec. 2011. [PDF]
+8. C-C Huang, C-Y Wang, and J-T Wu, "A CMOS 6-Bit 16-GS/s Time-Interleaved ADC Using 
+Digital Background Calibration Techniques," IEEE Journal of Solid-State Circuits, Vol. 46, 
+No. 4, pp. 848-858, April 2011. [PDF]
+9. W-H Tseng, J-T Wu, and Y-C Chu, "A CMOS 8-Bit 1.6-GS/s DAC with Digital Random 
+Return-to-Zero," IEEE Transactions on Circuits and Systems II: Express Briefs, Vol.58, 
+No.1, pp. 1-5, Jan. 2011. [PDF]
+10. Y-H Chung and J-T Wu, "A CMOS 6-mW 10-bit 100-MS/s Two-Step ADC," IEEE Journal 
+of Solid-State Circuits, Vol. 45, No. 11, pp. 2217-2226, Nov. 2010. [PDF]
+HOME
+PUBLICATION
+RESEARCH
+TEACHING
+MEMBERS
+Page 1 of 5
+Publication
+2/1/2018
+http://www.alab.ee.nctu.edu.tw/wpjtwu/publication/
+
+-----
+11. C-W Fan and J-T Wu, "Jitter Measurement and Compensation for Analog-to-Digital 
+Converters," IEEE Transactions on Instrumentation and Measurement, Vol. 58, No. 11, pp. 
+3874-3884, Nov. 2009. [PDF]
+12. C-Y Wang and J-T Wu, "A Multiphase Timing-Skew Calibration Technique Using Zero-
+Crossing Detection," IEEE Transactions on Circuits and Systems - I: Regular Papers, Vol. 
+56, No. 6, pp. 1102-1114, June 2009. [PDF]
+13. Z-M Lee, C-Y Wang, and J-T Wu, "A CMOS 15-bit 125-MS/s Time-Interleaved ADC With 
+Digital Background Calibration," IEEE Journal of Solid-State Circuits, Vol. 42, No. 10, pp. 
+2149-2160, Oct. 2007. [PDF]
+14. J-L Fan, C-Y Wang, and J-T Wu, "A Robust and Fast Digital Background Calibration 
+Technique for Pipelined ADCs," IEEE Transactions on Circuits and Systems - I: Regular 
+Papers, Vol. 54, No. 6, pp. 1213-1223, June 2007. [PDF]
+15. J-M Chou, Y-T Hsieh, and J-T Wu, "Phase Averaging and Interpolation Using Resistor 
+Strings or Resistor Rings for Multi-Phase Clock Generation," IEEE Transactions on Circuits 
+and Systems - I: Regular Papers, Vol. 53, No. 5, pp. 984-991, May 2006. [PDF]
+16. C-Y Wang and J-T Wu, "A Background Timing-Skew Calibration Technique for Time-
+Interleaved Analog-to-Digital Converters," IEEE Transactions on Circuits and Systems - II: 
+Express Briefs, Vol. 53, No. 4, pp. 299-303, April 2006. [PDF]
+17. C-C Huang and J-T Wu, "A Background Comparator Calibration Technique for Flash 
+Analog-to-Digital Converters," IEEE Transactions on Circuits and Systems - I: Regular 
+Papers, Vol. 52, No. 9, pp. 1732-1740, Sept. 2005. [PDF]
+18. H-C Liu, Z-M Lee, and J-T Wu, "A 15-b 40-MS/s CMOS Pipelined Analog-to-Digital 
+Converter with Digital Background Calibration," IEEE Journal of Solid-State Circuits, Vol. 
+40, No. 5, pp. 1047-1056, May 2005. [PDF]
+19. C-C Hsu and J-T Wu, "A CMOS 33-mW 100-MHz 80-dB SFDR Sample-and-Hold 
+Amplifier," IEICE Transactions on Electronics, Vol. E86-C, No. 10, pp. 2122-2128, Oct. 2003. 
+[PDF]
+20. C-C Hsu and J-T Wu, "A Highly Linear 125-MHz CMOS Switched-Resistor 
+Programmable-Gain Amplifier," IEEE Journal of Solid-State Circuits, Vol. 38, No. 10, pp. 
+1663-1670, Oct. 2003. [PDF]
+21. W-Z Chen and J-T Wu, "A 2 V 1.8 GHz BJT Phase-Locked Loop," IEEE Journal of Solid-
+State Circuits, Vol. 34, No. 6, pp. 784-789, June 1999. [PDF]
+22. W-Z Chen and J-T Wu, "A 2 V 2 GHz BJT Variable-Frequency Oscillator," IEEE Journal of 
+Solid-State Circuits, Vol. 33, No. 9, pp. 1406-1410, Sept. 1998. [PDF]
+23. J-T Wu and K-L Chang, "MOS Charge Pumps for Low-Voltage Operation," IEEE Journal 
+of Solid-State Circuits, Vol. 33, No. 4, pp. 592-597, April 1998. [PDF]
+24. R. Walker, C. Stout, J-T Wu, B. Lai, C-S Yen, T. Hornak, P. Petruno, "A Two-Chip 1.5-GBd 
+Serial Link Interface," EEE Journal of Solid-State Circuits, Vol. 27, No. 6, pp. 1805-1811, 
+Dec. 1992. [PDF]
+25. J-T Wu and B. Wooley, "A 100-MHz Pipelined CMOS Comparator," IEEE Journal of Solid-
+State Circuits, Vol. 23, No. 6, pp. 1379-1385, Dec. 1988. [PDF]
+Conference Papers
+Page 2 of 5
+Publication
+2/1/2018
+http://www.alab.ee.nctu.edu.tw/wpjtwu/publication/
+
+-----
+1. C-M Chang and J-T Wu, "A Computationally-E 
+fficient PWM Technique for Digital Class-D 
+Amplifiers," 2016 IEEE International Symposium on Circuits and Systems, pp. 1946-1949, 
+May 2016. [PDF]
+2. S-H Wu and J-T Wu, "Background Calibration of Integrator Leakage in Discrete-Time 
+Delta-Sigma Modulators," The 11th IEEE New Circuits and Systems Conference, pp. 1-4, 
+June 2013. [PDF]
+3. C-L Chang and J-T Wu, "A 1-V 100-dB Dynamic Range 24.4-kHz Bandwidth Delta-Sigma 
+Modulator," 2013 IEEE International Symposium on Circuits and Systems, pp. 813-816, 
+May 2013. [PDF]
+4. Y Chai and J-T Wu, "A 5.37mW 10b 200MS/s Dual-Path Pipelined ADC," 2012 IEEE 
+International Solid-State Circuits Conference, pp. 462-463, Feb. 2012. [PDF]
+5. Y-H Chung and J-T Wu, "A 16-mW 8-Bit 1-GS/s Subranging ADC in 55nm CMOS," 2011 
+Symposium on VLSI Circuits, pp. 128-129, June 2011. [PDF]
+6. W-H Tseng, C-W Fan, and J-T Wu, "A 12b 1.25GS/s DAC in 90nm CMOS with >70dB 
+SFDR up to 500MHz," 2011 IEEE International Solid-State Circuits Conference, pp. 192-
+193, Feb. 2011. [PDF]
+7. C-C Huang, C-Y Wang, and J-T Wu, "A CMOS 6-Bit 16-GS/s Time-Interleaved ADC with 
+Digital Background Calibration," 2010 Symposium on VLSI Circuits, pp. 159-160, June 
+2010. [PDF]
+8. Y-H Chung and J-T Wu, "A CMOS 6-mW 10-bit 100-MS/s Two-Step ADC," 2009 IEEE 
+Asian Solid-State Circuits Conference, pp. 137-140, Nov. 2009. [PDF]
+9. Z-M Lee, C-Y Wang, and J-T Wu, "A CMOS 15-Bit 125-MS/s Time-Interleaved ADC with 
+Digital Background Calibration," 2006 IEEE Custom Integrated Circuits Conference, Sept. 
+2006. [PDF]
+10. J-L Fan and J-T Wu, "A Robust Background Calibration Technique for Switched-
+Capacitor Pipelined ADCs," 2005 IEEE International Symposium on Circuits and Systems,
+May 2005. [PDF]
+11. C-C Huang and J-T Wu, "A Statistical Background Calibration Technique for Flash 
+Analog-to-Digital Converters," 2004 IEEE International Symposium on Circuits and 
+Systems, pp. I-125 - I-128, May 2004. [PDF]
+12. H-C Chang, C-C Lin, T-Y Hsia, J-T Wu, and T-H Wang, "Multi-Level Memory Systems 
+Using Error Control Codes," 2004 IEEE International Symposium on Circuits and Systems,
+pp. II-393 - II-396, May 2004. 
+13. H-C Liu, Z-M Lee, and J-T Wu, "A 15-Bit 20MS/s CMOS Pipelined ADC with Digital 
+Background Calibration," 2004 IEEE International Solid-State Circuits Conference, pp. 
+454-455, Feb. 2004. [PDF]
+14. C-C Hsu and J-T Wu, "A CMOS 33-mW 100-MHz 80-dB SFDR Sample-and-Hold 
+Amplifier," 2003 Symposium on VLSI Circuits, June 2003. [PDF]
+15. H-C Liu, Z-M Lee, and J-T Wu, "A Digital Background Calibration Technique for Pipelined 
+Analog-to-Digital Converters," 2003 IEEE International Symposium on Circuits and 
+Systems, pp. I-881 - I-884, May 2003. [PDF]
+16. J-M Chou, Y-T Hsieh, and J-T Wu, "A 125MHz 8b Digital-to-Phase Converter," 2003 IEEE 
+International Solid-State Circuits Conference, pp. 436-437, Feb. 2003. [PDF]
+Page 3 of 5
+Publication
+2/1/2018
+http://www.alab.ee.nctu.edu.tw/wpjtwu/publication/
+
+-----
+17. C-C Hsu and J-T Wu, "A 125 MHz -86 dB IM3 Programmable-Gain Amplifier," 2002 
+Symposium on VLSI Circuits, pp. 32-34, June 2002. [PDF]
+18. W-Z Chen and J-T Wu, "A 2 V 150 MHz CMOS Digital Phase Modulator for Fast-Switching 
+Frequency Synthesis," 1999 Symposium on VLSI Circuits, pp. 121-122, June 1999. [PDF]
+19. Hsi-Yuan Wang and Jieh-Tsorng Wu, "A Novel Delta-Sigma Time-to-Digital Converter 
+Using Delay Line," 1999 International Analog VLSI Workshop, pp. 25-27, May 1999. 
+20. J-T Wu, M-J Chen, and C-C Hsu, "A 2 V 900 MHz CMOS Phase-Locked Loop," 1998 
+Symposium on VLSI Circuits, pp. 52-53, June 1998. [PDF]
+21. W-Z Chen and J-T Wu, "A 2 V 1.6 GHz BJT Phase-Locked Loop," 1998 IEEE Custom 
+Integrated Circuits Conference, pp. 26.3.1-26.3.4, May 1998. 
+22. W-Z Chen and J-T Wu, "A 2 V 2 GHz BJT Variable-Frequency Oscillator," 1997 
+Bipolar/BiCMOS Circuits and Technology Meeting, pp. 61-63, Sept. 1997. [PDF]
+23. J-T Wu and K-L Chang, "Low Supply Voltage CMOS Charge Pumps," 1997 Symposium 
+on VLSI Circuits, pp. 81-82, June 1997. [PDF]
+24. J-T Wu, H-D Chang, and P-F Chen, "A 2 V 100 MHz CMOS Vector Modulator," 1997 IEEE 
+International Solid-State Circuits Conference, pp. 80-81, Feb. 1997. [PDF]
+25. J-T Wu, Y-H Chang, and K-L Chang, "1.2 V CMOS Switched-Capacitor Circuits," 1996 IEEE 
+International Solid-State Circuits Conference, pp. 388-389, Feb. 1996. [PDF]
+26. J-T Wu and R. Walker, "A Bipolar 1.5 Gb/s Monolithic Phase-Locked Loop for Clock and 
+Data Extraction," 1992 Symposium on VLSI Circuits, pp. 70-71, June 1992. 
+27. R. Walker, J-T Wu, C. Stout, B. Lai, C-S Yen, T. Hornak, P. Petruno, "A 2-Chip 1.5 Gb/s Bus-
+Oriented Serial Link Interface," 1992 IEEE International Solid-State Circuits Conference,
+pp. 226-227, Feb. 1992. 
+28. J-T Wu, "A Bipolar 1-GHz Multi-Decade Monolithic Variable-Frequency Oscillator," 1990 
+IEEE International Solid-State Circuits Conference, pp. 106-107, Feb. 1990. 
+29. J-T Wu and B. Wooley, "A 100-MHz Pipelined CMOS Comparator for Flash A/D 
+Converson," 1988 IEEE Custom Integrated Circuits Conference, pp. 18.3.1-18.3.4, May 
+1988. 
+CONTACT
+email: jt.wu@g2.nctu.edu.tw
+Tel: +886-3-5731840
+Fax: +886-3-5715412
+Page 4 of 5
+Publication
+2/1/2018
+http://www.alab.ee.nctu.edu.tw/wpjtwu/publication/
+
+-----
+BLOGROLL
+› The 307 Laboratory
+› Dept. of Electronics Engr.
+› National Chiao-Tung University
+Jieh-Tsorng Wu · Copyright © 2018 · Log in
+Page 5 of 5
+Publication
+2/1/2018
+http://www.alab.ee.nctu.edu.tw/wpjtwu/publication/
+
+-----

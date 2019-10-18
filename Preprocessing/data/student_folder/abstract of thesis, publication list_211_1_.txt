@@ -1,0 +1,36 @@
+Abstract 
+Frequency-selective scattering of light can be achieved by metallic nanoparticle’s 
+localized surface plasmon resonance (LSPR). And this property may find application 
+in transparent projection display: ideally, specially designed metallic nanoparticles 
+dispersed in a transparent matrix only selectively scatter red, green and blue light and 
+transmit the visible light of other colors. In this thesis, general properties of LSPR is 
+first reviewed. Then, selective scattering achieved by spherical core-shell structure of 
+Ag@TiO2 (core@shell) is presented. Since metallic nanoparticle’s size is comparable 
+to free electrons’ mean free path in bulk metal, size effect of metallic nanoparticle on 
+optical scattering and absorption is investigated. After that, selective scattering 
+properties of silver and gold nanocubes placed on dielectric substrate is studied. Finally, 
+the possibility to achieve ultra-sharp scattering peaks (i.e., strong frequency-selectivity 
+of scattering) by combining metallic nanoparticles with gain materials is discussed. 
+Future work includes finding ways to experimentally realize metallic nanoparticles with 
+ultra-sharp scattering peaks, and lowering its cost. 
+ 
+Publication list 
+[1] 
+Y. Ye, T. Chen, J. Zhen, C. Xu, J. Zhang, and H. Li, "Resonant scattering of green light 
+enabled by Ag@TiO2 and its application in a green light projection screen," Nanoscale, 
+vol. 10, pp. 2438-2446, 2018. 
+[2] 
+Y. Ye, T. P. Chen, Z. Liu, and X. Yuan, "Effect of Surface Scattering of Electrons on Ratios 
+of Optical Absorption and Scattering to Extinction of Gold Nanoshell," Nanoscale research 
+letters, vol. 13, pp. 299-299, 2018. 
+[3] 
+Y. Ye, R. Liu, Z. Song, Z. Liu, and T. P. Chen, "Sharp selective scattering of red, green, and 
+blue light achieved via gain material's loss compensation," Optics Express, vol. 27, pp. 
+9189-9204, 2019/03/18 2019. 
+[4] 
+Y. Ye and T. P. Chen, "Selective Scattering of Blue and Red Light Based on Silver and Gold 
+Nanocubes," ECS Journal of Solid State Science and Technology, vol. 8, pp. R51-R57, 
+January 1, 2019 2019. 
+ 
+
+-----

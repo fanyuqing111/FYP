@@ -1,0 +1,1101 @@
+ 
+ 
+Curriculum Vitae 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dr. Farid Boussaid 
+School of Electrical, Electronic and Computer 
+Engineering 
+The University of Western Australia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+35 Stirling Highway, Crawley, WA, 6009, AUSTRALIA 
+Tel: +61 8 6488 3749     Fax: +61 8 6488 1065 
+Email: farid.boussaid@uwa.edu.au 
+ 
+ 
+ 
+ 
+2015 
+ 
+
+-----
+Curriculum Vitae 
+ 
+Professional Experience 
+ 
+ 
+Sept. 2014 − date 
+Head of School  
+School of Electrical, Electronic and Computer Engineering 
+The University of Western Australia 
+Perth, Australia 
+ 
+ 
+Aug. 2014 − date 
+Professor  
+School of Electrical, Electronic and Computer Engineering 
+The University of Western Australia 
+Perth, Australia 
+ 
+ 
+Feb. 2008 − Aug. 2014 
+Associate Professor  
+School of Electrical, Electronic and Computer Engineering 
+The University of Western Australia 
+Perth, Australia 
+ 
+ 
+Jan. 2005 − Feb. 2008 
+Assistant Professor 
+School of Electrical, Electronic and Computer Engineering 
+The University of Western Australia 
+Perth, Australia 
+ 
+Jan. 2002 − Dec. 2004 
+Australian Post Doctoral Fellow (APD) 
+Centre for Very High Speed Microelectronic Systems 
+Edith Cowan University 
+Perth, Australia 
+ 
+Mar. 2000 − Dec. 2001 
+Post Doctoral Fellow 
+Centre for Very High Speed Microelectronic Systems 
+Edith Cowan University 
+Perth, Australia 
+ 
+ 
+ 
+Education 
+ 
+ 
+May 1999 
+Ph.D. in Microelectronics  
+National Institute of Applied Science of Toulouse (INSAT)  
+LAAS-CNRS Research Laboratory 
+Toulouse, France 
+ 
+July 1996 
+Master in Microelectronics  
+National Institute of Applied Science of Toulouse (INSAT)  
+LAAS-CNRS Research Laboratory 
+Toulouse, France 
+ 
+June 1995 
+Bachelor of Electronic Engineering  
+University of Science and Technology Houari Boumedienne 
+(USTHB), Algiers, Algeria. 
+ 
+
+-----
+Curriculum Vitae 
+ 
+Research experience & expertise 
+ 
+ 
+• Integrated Circuit design of single-chip smart sensors − Full-cycle development of mixed-
+mode analog/digital circuit designs such as: (i) miniature CMOS cameras integrating on-chip 
+early vision processing capabilities including dynamic range compression, edge detection, 
+image enhancement, and real-time detection of human skin for subsequent face detection, 
+gesture recognition, lip reading, monitoring driver's hypo-vigilance or tracking a person in a 
+crowd. Developed prototypes were optimized for power consumption and silicon area; and (ii) 
+bio-inspired electronic nose CMOS chip with an integrated gas recognition circuitry, which 
+examines the pattern of relative excitations across the population of gas sensors and looks for a 
+“match” within a library of spatio-temporal gas fingerprints. 
+ 
+• Microelectronics Fabrication Technology − (i) Contribution to the development of 
+European semiconductor industry standard 0.18µm CMOS process through the fabrication 
+of high performance ultra-thin p+n junctions for ULSI PMOS transistors. This was carried out 
+by investigating three crucial technological steps, namely a low-energy B+ implantation, a BF2
++ 
+implantation and a germanium preamorphization of Si-substrates; (ii) fabrication of tin oxide 
+SnO2 gas sensor arrays for electronic nose chips. A microhotplate heater was integrated with 
+each sensor to enable adsorption at high temperature; and (iii) development of novel high-
+resolution micropolarizer array fabrication technologies enabling the concept of a fully 
+integrated polarization camera-on-chip. The developed technologies exploit the well-
+controlled process of ultraviolet photolithography to define the orientation of the micropolarizer 
+elements covering individual photosensitive pixels. In contrast, prior works exhibit poor yield 
+because they all rely on the relatively complex process of selective etching, which is difficult to 
+control at the micrometer-scale pixel pitch. 
+ 
+• Signal and image processing − (i) Development of robust 3D object and face recognition 
+algorithms for machine vision and robotics; (ii) Development of image restoration 
+algorithms for paper-thin vision sensors modeled after the compound eye of insects. These 
+biomimetic sensors are half a millimeter thick and can generate a high-resolution image from 
+the simultaneous acquisition of a mosaic of low resolution images; (iii) Implementation of 
+robust image processing algorithms based on shunting inhibitory cellular neural networks. 
+This networks possess interesting adaptive characteristics akin to those of natural vision 
+systems. (iv) Implementation of compressive sensing for CMOS cameras to enable the signal 
+to be sampled (and simultaneously compressed) at a greatly reduced rate. The energy and 
+computation consumption associated to sensor nodes can thus be dramatically reduced by 
+shifting the computational cost of compressive sampling to the decoder in the base station; and 
+(v) Development of bio-inspired gas recognition mimicking the key signal processing 
+mechanisms occurring in the olfactory pathway. This approach constitutes a unique 
+departure from the current practice of processing multivariate gas sensor array data through the 
+direct application of computationally expensive statistical/pattern recognition techniques. 
+ 
+• Semiconductor Characterization − Development of a novel high resolution method to 
+determine the physical parameters of deep levels and interface states in semiconductors. 
+The proposed method, named (MP-DLTS), exploits Matrix Pencil (MP) spectrum estimation to 
+process the multi-exponential capacitance transients that arise in Deep Level Transient 
+Spectroscopy (DLTS). This novel approach has been found to consistently extend the linear 
+regions and resolve closely spaced activation energies on Arrhenius plots. Another important 
+feature of the developed technique is that it does not require prior knowledge of the number of 
+discrete electronically active traps.  
+
+-----
+Curriculum Vitae 
+ 
+Research Funding 
+ 
+ 
+Competitive external funding grants  
+ 
+1. Smart CMOS Vision Sensors in Deep Sub-0.25µm CMOS Technologies, Australian Research 
+Council Postdoctoral Fellowship, $222,932, 2002-2004, Chief investigator: F. Boussaid 
+ 
+2. A Skin Detection Micro-Sensor for Face Identification using Color and Stereo Information, 
+Australian Discovery Project, $150,000, 2004-2006, Chief investigators: A. Bouzerdoum, F. 
+Boussaid, D. Chai 
+ 
+3. Biomimetic Ultra-Thin Compound Eye Vision Sensor, Australian Research Council Discovery 
+Project, $162,000, 2006-2008, Chief investigator: F. Boussaid, Partner investigator: R. 
+Etienne-Cummings 
+ 
+4. 3D Scanning and Printing Facilities (3DSPF), Australian Research Council Linkage 
+Infrastructure Equipment Facilities, $150,000, 2007, Chief investigators: M. Bennamoun, R. 
+Owens, D. Lichti, M. Stewart, A. Rohl, M. Spackman, G. Parkinson, M. Ogden, D. Sampson, J. 
+Trevelyan, K. Haines, F. Boussaid, S. Worden, I. Fitzsimons 
+ 
+5. Power System Emulation Hardware Platform with Interactive Student Interface, Australian 
+Power Institute, $38,123, 2012-2013, Chief investigators: V. Sreeram, F. Boussaid, G. Crebbin 
+ 
+6. Bio-Inspired Sniffer Chips, Australian Research Council Discovery Project, $210,000, 2013-
+2015, Chief investigator: F. Boussaid, Partner investigator: A. Bermak 
+ 
+7. Advanced Vision System for Automatic Shark Detection and Tracking, Western Australia Office 
+of Science Applied Research Program ARP Shark Hazard Mitigation, $203,234, 2013-2014, 
+Chief investigators: M. Bennamoun, F. Sohel, F. Boussaid, S. An  
+ 
+8. Development and Testing of Novel Shark Deterrents, Western Australia Office of Science 
+Applied Research Program ARP Shark Hazard Mitigation, $222,221, 2013-2014, Chief 
+investigators: N. Hart, S. Collin, R. McCauley, F. Boussaid  
+ 
+9. Advanced Computer Vision Techniques for Marine Ecology, Australian Research Council 
+Discovery Project, $614,700, 2015-2019, Chief investigators:  M. Bennamoun, F. Boussaid, G. 
+Kendrick, R. Fisher. 
+ 
+Internal funding schemes  
+ 
+10. Towards Advanced CMOS Imaging Technology, Faculty Grant scheme, Edith Cowan 
+University, $5,092, 2001, Chief investigator: F. Boussaid  
+ 
+11. IC Design Research Laboratory (ICLAB), Faculty Start-up Grant, The University of Western 
+Australia, $35,000, 2006, Chief investigator: F. Boussaid  
+ 
+12. Development of Universal Power Flow Converter to increase the capacity of Single-Wire Earth 
+Return”, Faculty Research Development Grant, The University of Western Australia, $20,000, 
+2013, Chief investigators: V. Sreeram and F. Boussaid  
+
+-----
+Curriculum Vitae 
+ 
+Research Supervision and Training 
+ 
+ 
+ 
+Higher Degree by Research (HDR) Completions 
+ 
+To date, I have supervised 5 PhD students to completion:  
+ 
+• Said Elaiwat, Engineered and learned features for face and facial expression recognition, PhD 
+Thesis, 2015 
+ 
+• Yan Wang, On-chip focal-plane compression for CMOS image sensors, PhD Thesis, 2012 
+ 
+• Xiaoxiao Zhang, Power consumption optimization in digital image processing modules for 
+image sensor applications, PhD Thesis, 2011 
+ 
+• Kwan Ting Ng, Gas recognition circuits for integrated CMOS electronic noses, PhD Thesis, 
+2011 
+ 
+• Xiaojin Zhao, Micropolarizing Devices for CMOS Polarization Image Sensors, PhD Thesis, 
+2010  
+ 
+ 
+Excellence in Postgraduate Research Supervision 
+ 
+My PhD students have been well received both nationally and internationally, as evidenced by: 
+ 
+• 
+Kwan Ting Ng was the recipient of a Best paper Award at the IEEE International 
+Symposium on Circuits and Systems (ISCAS), in Paris, France, 2010.  
+ 
+• 
+Xiaojin Zhao was awarded distinction for his PhD thesis. This distinction is only awarded 
+to the top 5% of UWA theses. 
+ 
+• 
+Jaber Al-Yamani received a Best poster Award at the Postgraduate Electrical Engineering 
+and Computing Symposium (PEECS’12), Perth, Australia, 2012.  
+ 
+• 
+Mohamad Susli received a Best paper Award at the IEEE International Conference on 
+Circuits and Systems (ICCAS’13), in Kuala Lumpur, Malaysia, 2013.  
+ 
+ 
+Supervision of Postdoctoral Research Fellows 
+ 
+• 
+Dr. Amar El-Sallam (2007-2008) involved in the development of super-resolution image 
+restoration algorithms for vision sensors modeled after the compound eye found in insects and 
+in many other arthropods. This research was funded by a Discovery grant (DP0664909) from the 
+Australian Research Council. 
+ 
+• 
+Dr. Senjian An (2013-2015) involved in the development of advanced image processing 
+algorithms for automatic real-time recognition and tracking of sharks along Western Australia 
+coastline. This research was funded by a grant from the Western Australia Office of Science, 
+Applied Research Program ARP Shark Hazard Mitigation. 
+
+-----
+Curriculum Vitae 
+ 
+Teaching Experience 
+ 
+ 
+ 
+Courses Taught at The University of Western Australia 
+ 
+ 
+ 
+Unit Code 
+ 
+ 
+Unit Name 
+ 
+Level 
+ 
+Year 
+ 
+Roles 
+ 
+ 
+ELEC1300 
+ 
+Computer Engineering 
+ 
+ 
+1st year 
+ 
+2005−06 
+2012 
+ 
+Lecturer, Unit Coordinator (UC) 
+ 
+ 
+ELEC1301 
+ 
+Computer Hardware 
+ 
+ 
+1st year 
+ 
+2005−06 
+2012 
+ 
+Lecturer, UC 
+ 
+ 
+ 
+GENG1003 
+ 
+Introduction to 
+Professional Engineering 
+ 
+ 
+ 
+1st year 
+ 
+ 
+2005 
+ 
+ 
+Lecturer,  
+ 
+ 
+ELEC2301 
+ 
+Digital System Design 
+ 
+ 
+2nd year 
+ 
+2008−13 
+ 
+Lecturer, UC 
+ 
+ 
+ 
+GENG2140 
+ 
+Modeling & Computing 
+Analysis for Engineers 
+ 
+ 
+ 
+2nd year 
+ 
+ 
+2009 
+ 
+ 
+Lecturer 
+ 
+ 
+ 
+ELEC3301 
+ 
+Circuits & Electronic 
+Systems 
+ 
+ 
+ 
+3rd year 
+ 
+ 
+2005−07 
+ 
+ 
+Lecturer, UC 
+ 
+ 
+ 
+ELEC4302 
+ 
+Digital Microelectronic 
+System Design 
+ 
+ 
+ 
+4th year 
+ 
+ 
+2005−14 
+ 
+ 
+Lecturer, UC 
+ 
+ 
+ 
+ELEC8320 
+ 
+Advanced Digital VLSI 
+Design 
+ 
+ 
+ 
+Master 
+ 
+ 
+2007−11 
+ 
+ 
+Lecturer, UC 
+ 
+ 
+ 
+ELEC8323 
+ 
+Analog Integrated Circuit 
+Design 
+ 
+ 
+ 
+Master 
+ 
+ 
+2007−11 
+ 
+ 
+Lecturer, UC 
+ 
+ 
+ENSC3017 
+ 
+Circuits & Electronics  
+ 
+3rd year 
+ 
+2013-14 
+ 
+Lecturer, UC 
+ 
+ 
+ 
+ELEC5503 
+ 
+Digital Microelectronic 
+System Design 
+ 
+ 
+ 
+Master 
+ 
+ 
+2015 
+ 
+Lecturer, UC 
+ 
+ 
+ 
+Curriculum and Course Development 
+ 
+• Undergraduate unit Circuits and Electronics (ENSC3017) and master unit Digital 
+Microelectronics System Design (ELEC5503) developed for the new 2012 UWA streamlined 
+course structure. This includes developing the course outline and designing lecture material and 
+new laboratory classes. 
+ 
+ 
+• Advanced Digital VLSI Design (ELEC8320) and Analog Integrated Circuit Design (ELEC8323) 
+developed (2007) for the Master of Engineering in Microelectronics, which offers an advanced 
+qualification in the specialist area of integrated circuit design, targeting the growing 
+international student markets in India and China.  
+ 
+ 
+ 
+ 
+
+-----
+Curriculum Vitae 
+ 
+Awards and Distinctions 
+ 
+ 
+• University of Western Australia Award for Excellence in Teaching,  2014 
+ 
+• University of Western Australia Student Guild Students’ Choice, 2014 
+ 
+• Teaching Excellence Award, Individual Teaching Category, Faculty of Engineering, 
+Computing and Mathematics, The University of Western Australia, 2012 
+ 
+• Best Paper Award at the IEEE International Conference on Circuits and Systems (ICCAS’13), 
+in Kuala Lumpur, Malaysia, 2013 
+ 
+• Best Poster Award at the Postgraduate Electrical Engineering and Computing Symposium 
+(PEECS’12), Perth, Australia, 2012 
+ 
+• Best Paper Award at the IEEE International Symposium on Circuits and Systems (ISCAS’10), 
+Paris, 2010 
+ 
+• IEEE Chester Sall Award given to recognize the best papers published in the IEEE 
+Transactions on Consumer Electronics, Las Vegas, USA, 2007 
+ 
+• Nominated as “Expert of international standing” by the Australian Research Council, 2007 
+ 
+• Best Paper Award at the 5th IEEE International Workshop on System-On-Chip for Real-Time 
+Applications, held in Banff, Alberta, Canada, 2005 
+ 
+• Senior Member of the Institute of Electrical and Electronics Engineers (IEEE), 2004 
+ 
+• Visiting Professor Fellowship from the Tokyo University of Science to carry out 
+collaborative work on “biologically inspired smart vision sensors” within the Department of 
+Electrical engineering, January-March 2004 
+ 
+• Australian Patent Application No. 2003900109, "Method and Apparatus for Current Reset 
+and Readout of CMOS Imagers" sponsored by Edith Cowan University, 2004 
+ 
+• Executive Dean’s list of top ten researchers at Edith Cowan University, 2002 
+ 
+• Fellowship from the American National Science Foundation (NSF) to participate at the 
+summer workshop on "Neuromorphic Engineering" held in Telluride, Colorado, USA, 2001. 
+ 
+• Special Distinction “avec les Felicitations du Jury1” awarded by the PhD jury for outstanding 
+PhD thesis, Toulouse, France, 1999 
+ 
+• Rector’s Award for excellence in studies for the top electronic engineering student at USTHB 
+University, Algiers, 1995  
+ 
+• Excellence postgraduate Scholarship awarded by the French government for a period of 5 
+years, 1995 
+                                                          
+ 
+1 Highest distinction given for a PhD award in France. 
+
+-----
+Curriculum Vitae 
+ 
+University Service 
+ 
+ 
+• 
+Elected member (2010-2014) of the University of Western Australia Academic Board, 
+which recommends to the Senate the making, amending and repealing of regulations relating to 
+courses, scholarships, prizes and other awards and to all other academic-related matters. 
+ 
+• 
+Elected member (2013-14) of the University of Western Australia Academic Council, 
+which is the Executive Committee of the Academic Board. The Council determines all matters 
+which by statute, regulation, or custom are the Board's responsibility. 
+ 
+• 
+Elected member of the University of Western Australia Scholarships Committee (2013-
+16), which advises on policy matters relating to the establishment, funding and administration 
+of undergraduate/postgraduate coursework scholarships and postgraduate research awards. 
+ 
+• 
+University of Western Australia Representative (2005-2012) on the Board of Directors of 
+the National Networked Teletest Facility for Integrated Systems (NNTTF), The University of 
+Western Australia. 
+ 
+• 
+Node manager and member of the Technical Advisory of the National Networked Teletest 
+Facility for Integrated Systems (NNTTF). 
+ 
+• 
+University of Western Australia representative (2005-date) on the organizing committee of 
+the Postgraduate Electrical Engineering and Computing Symposium (PEECS). 
+ 
+• 
+Programme coordinator (2008-11) and Course advisor (2008-date) for the Bachelor of 
+Electrical & Electronic Engineering, The University of Western Australia. 
+ 
+• 
+Coordinator, undergraduate queries (2012-2014) for the School of Electrical, Electronic & 
+Computer Engineering, The University of Western Australia. 
+ 
+• 
+Final year Project Coordinator and organizer (2007-2014) of the final year project 
+symposium, School of Electrical, Electronic & Computer Engineering, The University of 
+Western Australia. 
+ 
+• 
+Membership (2006-2014) of the School Teaching and learning Committee and Education 
+Committee, The University of Western Australia. 
+ 
+• 
+Active Promotion of the School of Electrical, Electronic & Computer Engineering and 
+The University of Western Australia, during open days, demonstrations and tours for visitors 
+and prospective students. 
+ 
+• 
+Community activities with ongoing IEEE Western Australia Section programme of seminars, 
+workshops in the fields of Communication, Computer and Power engineering to promote the 
+various engineering disciplines. 
+ 
+• 
+Consulting for DigiSensory Technologies Pty Ltd to develop distributed smart camera 
+networks through an integrated exploration of distributed algorithms, embedded architectures 
+and software synthesis techniques”. 
+ 
+• 
+Consulting for Caltex Petroleum Australia to help identifying the risk of ignition during the 
+fuel tanker delivery process. This project with UWA was initiated in response to some isolated 
+incidents across Caltex fuel delivery system. 
+ 
+
+-----
+Curriculum Vitae 
+ 
+• 
+Consulting for the Royal Perth Yacht Club to help build a computerized pneumatic flag 
+raising system for the selection series that determined the competitors for the 2012 London 
+Olympic Games. 
+ 
+ 
+ 
+Professional Activities 
+ 
+ 
+• 
+Technical Program Committee membership for the following events: Conference on 
+Optoelectronic and Microelectronic Materials and Devices (COMMAD), 2006; International 
+Symposium on Electronic Design, Test & Applications (DELTA), 2008 & 2010; 3rd 
+international conference on Signals, Circuits, and Systems (SCS), 2009; Asia Symposium on 
+Quality Electronic Design (ASQED), 2010-2013; 18th International Mixed-signals, sensors, 
+and systems Test Workshop (IMS3TW’12); Interdisciplinary Engineering Design Education 
+Conference (IEDEC), 2013-2014, 7th Australian Workshop on Computational Neuroscience 
+(NeuroEng2014). 
+ 
+• 
+Tutorial Chair for the 2009 IEEE Biomedical Circuits and Systems Conference. 
+ 
+• 
+Session Chair for: 8th International Symposium on Signal Processing and its Applications 
+(ISSPA), International Symposium on Electronic Design, Test & Applications (DELTA), 2008; 
+and Asia Symposium on Quality Electronic Design (ASQED), 2011. 
+ 
+• 
+Chair (2007) and Vice-Chair (2005-2006) of the Signal processing Chapter, IEEE Western 
+Australia Section. 
+ 
+• 
+Secretary (2010-2013) of the Electron Devices, Solid-State Circuits, & Photonics Societies 
+Chapter, IEEE Western Australia Section. 
+ 
+• 
+SAMIEEE database officer (2004-date) for the IEEE Western Australia Section. 
+ 
+• 
+Reviewer for the following journals: IEEE Journal of Solid-State Circuits, IEEE 
+Transactions on Very Large Scale Integration (VLSI) Systems, IEEE Transactions on Circuits 
+and Systems Part I & Part II, IEEE Sensors Journal, IEEE Transactions on Biomedical Circuits 
+and Systems, Sensors. 
+ 
+• 
+Examiner of PhD and master theses from Australia (e.g. University of Wollongong, Edith 
+Cowan University) and abroad (e.g. Auckland University of Technology, NANYANG 
+Technological University, University of Auckland). 
+ 
+• 
+Reviewer of books for Cambridge University Press and World Scientific Publishing. 
+ 
+• 
+Assessor of research grant applications for the Australian Research Council, Qatar Foundation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-----
+Curriculum Vitae 
+ 
+List of fully refereed Publications 
+ 
+ 
+Book Chapters 
+ 
+1. X. Zhao, A. Bermak, F. Boussaid, "A Low Cost CMOS Polarimetric Ophthalmoscope 
+Scheme for Cerebral Malaria Diagnostics", in VLSI-SoC: The Advanced Research for 
+Systems on Chip, IFIP Advances in Information and Communication Technology, Vol. 379, 
+Springer Verlag,  2012 
+ 
+2. M. Susli, F. Boussaid, C. Shoushun, and A. Bermak, "Arbitrated AER Image Coding 
+Schemes", in Signal Processing for Image Enhancement and Multimedia Processing, 
+Multimedia Systems and Applications Series, vol. 34, Chapter 27, Springer Verlag,  2007 
+ 
+3. A. Bouzerdoum, D. Chai and F. Boussaïd, "Analog Signal Processing", in UNESCO 
+Encyclopedia Of Life Support Systems (EOLSS), 2003 
+      Link to EOLSS web site: http://www.eolss.net/ 
+ 
+4. F. Boussaïd, A. Bermak and A. Bouzerdoum, "A current mode CMOS imager using 
+shunting inhibition-based dynamic range compression," in Recent Advances in Circuits, 
+Systems and Signal Processing, edited by N. Mastorakis and G. Antoniou, WSEAS Press, 
+2002 
+ 
+5. F. Boussaïd, F. Olivié, M. Benzohra, D. Alquier, A. Claverie and A. Martinez, "Electrical 
+active defects in the band-gap induced by Ge-preamrphization of Si-substrates," in Silicon 
+Front-End Technology-Materials Processing and Modeling, vol. 532, edited by N.E.B. 
+Cowern and Dale C. Jacobson, Materials Research Society, 1998 
+ 
+ 
+ 
+Journal Papers 
+ 
+ 
+6. S. Lu, F. Boussaid, "A Self-Resetting Piezoelectric Energy Harvesting Rectifier",  IEEE 
+Transactions on Power Electronics, vol. 30, no. 10, pp. 5364 - 5369, 2015  
+ 
+7. S. Lu, F. Boussaid, " An Inductorless Self-Controlled Rectifier for Piezoelectric Energy 
+Harvesting",  Sensors, vol. 15, no. 11, pp. 29192-29208, 2015  
+ 
+8. S.A.A. Shah, M. Bennamoun, F. Boussaid, "A novel 3D vorticity based approach for 
+automatic registration of low resolution range images", Pattern Recognition, vol. 48, no. 9, 
+pp. 2859-2871, 2015 
+ 
+9. X. Zhang, C. Nansen, N. Aryamanesh, G. Yan, F. Boussaid, "Importance of spatial and 
+spectral data reduction in detection of internal defects in food products", Applied 
+Spectroscopy, vol. 69, no. 4, pp. 473-480, 2015 
+ 
+10. S. An, F. Boussaid, M. Bennamoun, F.A. Sohel, "Quantitative error analysis of bilateral 
+filtering", IEEE Signal Processing Letters, vol. 22, no. 2, pp. 202-206, 2015 
+ 
+11. S. Elaiwat, M. Bennamoun, F. Boussaid, A. El-Sallam, "A Curvelet-based approach for 
+textured 3D face recognition", Pattern Recognition, vol. 48, no. 4, pp. 1231-1242, 2015 
+
+-----
+Curriculum Vitae 
+ 
+ 
+12. S. Elaiwat, M. Bennamoun, F. Boussaid, A. El-Sallam, "3D Face Recognition Using 
+Curvelet Local Features," IEEE Signal Processing Letters, vol. 21, no. 2, pp. 172-175, 2014  
+ 
+13. X. Zhang, F. Boussaid, A. Bermak, "32 Bit×32 Bit Multiprecision Razor-Based Dynamic 
+Voltage Scaling Multiplier With Operands Scheduler," IEEE Transactions on Very Large 
+Scale Integration (VLSI) Systems, vol. 22, no. 4, pp. 759-770, 2014 
+ 
+14. J. Al Yamani, F. Boussaid, A. Bermak, D. Martinez, "Glomerular latency coding in 
+artificial olfaction," Frontiers in Neuroengineering, vol. 4, Article 18, pp. 1-9, 2012 
+ 
+15. K. Ng, F. Boussaid, A. Bermak, "A CMOS single-chip gas recognition circuit for metal 
+oxide gas sensor arrays," IEEE Transactions on Circuits and Systems I, vol. 58, no. 7, pp. 
+1569-1580, 2011 
+ 
+16. X. Zhao, F. Boussaid, A. Bermak, V. G. Chigrinov, "High-resolution thin “guest-host” 
+micropolarizer arrays for visible imaging polarimetry," Optics Express, vol. 19, issue 6, pp. 
+5565-5573, 2011 
+ 
+17. X. Zhao, A. Bermak, F. Boussaid, V. G. Chigrinov, "Liquid-crystal micropolarimeter array 
+for full Stokes polarization imaging in visible spectrum," Optics Express, vol. 18, issue 17, 
+pp. 17776-17787, 2010 
+ 
+18. X. Zhao, A. Bermak, F. Boussaid, T. Du, V. G. Chigrinov, "High-resolution photo-aligned 
+liquid-crystal micropolarizer array for polarization imaging in visible spectrum," Optics 
+Letters, vol. 34, issue 23, pp. 3619-3621, 2009 
+ 
+19. Z. Xiaojin, F. Boussaid, A. Bermak, V. Chigrinov, “Thin Photo-Patterned Micropolarizer 
+Array for CMOS Image Sensors,” IEEE Photonics Letters, vol. 21, no. 12, pp. 805–807, 
+2009 
+ 
+20. A. El-Sallam, F. Boussaid, “A High Resolution Color Image Restoration Algorithm for 
+Thin TOMBO Imaging Systems Sensors,” Sensors, vol. 9, pp. 4649-4668, 2009 
+ 
+21. A. El-Sallam, F. Boussaid, “Spectral-based blind image restoration method for thin 
+TOMBO imagers,” Sensors, vol. 8, pp. 6108-6124, 2008 
+ 
+22. S. Chen, F. Boussaid and A. Bermak, “Robust Intermediate Read-Out for Deep Submicron 
+Technology CMOS Image Sensors,” IEEE Sensors Journal, pp. 286-294, 2008  
+ 
+23. Z. Xiaojin, F. Boussaid and A. Bermak, “Characterization of a 0.18µm CMOS color 
+processing scheme for skin detection,” IEEE Sensors Journal, pp. 1471-1474, 2007 
+ 
+24. S. Chen and A. Bermak and F. Boussaid, "A Compact Reconfigurable Counter Memory for 
+Spiking Pixels," IEEE Electron Device Letters, vol. 27, no. 4, pp. 255- 257, 2006. 
+ 
+25. F. Boussaïd, A. Bermak and A. Bouzerdoum, "An Ultra-Low power operating technique for 
+Mega-pixels current-mediated CMOS imagers," IEEE transactions on Consumer 
+Electronics, vol. 50, no. 1, pp.46-53, 2004 (Recipient of the IEEE CHESTER SALL Best 
+Paper Award)  
+ 
+
+-----
+Curriculum Vitae 
+ 
+26. A. Bermak, F. Boussaïd and A. Bouzerdoum, "A CMOS imager with on-chip processing for 
+image enhancement and edge detection," Canadian Journal of Elect. & Comp. Eng., vol. 26, 
+no.3/4, pp 153–157, 2001 
+ 
+27. L. Soliman, M. Benzohra, M. Masmoudi, K. Ketata, F. Boussaïd, A. Martinez and M. 
+Ketata, "Secondary defect Profile related to low energy Implanted boron measured up to 
+3.5µm depth into Si-substrates," Journal of electronic materials, vol. 28, No. 12, pp. 1353-
+1357, 1999 
+ 
+28. F. Boussaïd, F. Olivié, M. Benzohra and A. Martinez, "On the use of the Matrix Pencil 
+Method for Deep Level Transient Spectroscopy: MP-DLTS," IEEE Transactions on 
+Instrumentation and Measurement, vol. 47, No. 3, pp. 692-697, 1998 
+ 
+29. F. Boussaïd, M. Benzohra, F. Olivié, D. Alquier and A. Martinez, "Electrically active 
+defects in BF2
++ implanted and germanium preamorphized silicon," Nuclear Instruments and 
+Methods in Physics Research B, vol. 134, pp. 195-201, 1998 
+ 
+30. M. Benzohra, F. Olivié, F. Boussaïd, D. Alquier and A. Martinez, "Electronic Defect Levels 
+in Ultra-Shallow p+n Junctions Formed by Boron Implantation into Ge-preamorphized Si-
+substrates," Jpn. J. Appl. Phys., vol. 36, Part 1, No. 7A, pp. 4346-4350, 1997 
+ 
+ 
+Fully Refereed Conference Papers  
+ 
+31. S. An, F. Boussaid, M. Bennamoun, "How Can Deep Rectifier Networks Achieve Linear 
+Separability and  Preserve Distances?", International Conference on Machine Learning 
+(ICML), Lille, France, 2015 
+ 
+32. S. An, M. Hayat, S. Khan, M. Bennamoun, F. Boussaid, and F. Sohel, "Contractive Rectifier 
+Networks for Nonlinear Maximum Margin Classification", International Conference on 
+Computer Vision (ICCV 2015), Santiago, Chile, 2015 
+ 
+33. S.An, Q. Ke, M. Bennamoun, F. Boussaid, F. Sohel, "Sign Constrained Rectifier Networks 
+with Applications to Pattern Decompositions", European Conference on Machine Learning 
+and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), Porto, 
+Portugal, 2015 
+ 
+34. S.A.A. Shah, M. Bennamoun, F. Boussaïd, "A Novel Algorithm for Efficient Depth 
+Segmentation Using Low Resolution (Kinect) Images", 10th IEEE Conference on Industrial 
+Electronics and Applications (ICIEA), Auckland, New Zealand, pp. 603 – 607, 2015 
+ 
+35. S. Freedman, F. Boussaïd, " A high dynamic range CMOS image sensor with a novel pixel-
+level logarithmic counter memory", IEEE 2nd International Conference on Knowledge-
+Based Engineering and Innovation (KBEI), Tehran, Iran, 2015 
+ 
+36. L. White, L. While, B. Deeks, F. Boussaïd, "Transistor Sizing Using Particle Swarm 
+Optimisation", IEEE Symposium Series on Computational Intelligence, Cape Town, South 
+Africa, 2015 
+ 
+
+-----
+Curriculum Vitae 
+ 
+37. S.A.A. Shah, M. Bennamoun, F. Boussaïd, "Automatic 3D Face Landmark Localization 
+Based on 3D Vector Field Analysis", Image and Vision Computing New Zealand (IVCNZ), 
+Auckland, New Zealand, 2015 
+ 
+38. S.A.A. Shah, M. Bennamoun, F. Boussaïd, "Performance evaluation of 3D local surface 
+descriptors for low and high resolution range image registration", Digital Image Computing 
+Techniques and Applications, Wollongong, Australia, pp. 1-7, 2014 
+ 
+39. J.S. Sankaran Kutty, F. Boussaid, A. Amira, "A high speed configurable FPGA architecture 
+for bilateral filtering", IEEE International Conference on Image Processing (ICIP), Paris, 
+France, pp. 1248-1252, 2014 
+ 
+40. M. Susli, F. Boussaid, "Transient Compact Model of Fixed-Fixed Beams with Dielectric 
+Charging", Conference on Optoelectronic and Microelectronic Materials & Devices 
+(COMMAD 2014), Perth, pp. 101-104, 2014 
+ 
+41. S. Lu, F. Boussaid, "A Self-Resetting Piezoelectric Energy Harvesting Rectifier",  
+Conference on Optoelectronic and Microelectronic Materials & Devices (COMMAD 2014), 
+Perth, pp. 181-184, 2014  
+ 
+42. S. Lu, F. Boussaid, "A self-controlled piezoelectric energy harvesting interface circuit," 
+IEEE International Conference on Circuits and Systems (ICCAS’13), Kuala Lumpur, pp. 71-
+74, 2013 
+ 
+43. M. Susli, F. Boussaid, K. Silva, L. Faraone, J. Dell, "Macromodel for the transient 
+simulation of electrostatically actuated fixed-fixed beams," IEEE International Conference 
+on Circuits and Systems (ICCAS’13), Kuala Lumpur, pp. 130-134, 2013 (Best Paper 
+Award) 
+ 
+44. S. Shah, M. Bennamoun, F. Boussaid, A. El-Sallam, " A Novel Local Surface Description 
+for Automatic 3D Object Recognition in Low Resolution Cluttered Scenes”, International 
+Conference on Computer Vision (ICCV) workshop, Sydney, 2013 
+ 
+45. J. S. Sankaran Kutty, F. Boussaid, A. Amira, "A High Speed Configurable FPGA 
+Architecture for K-Mean Clustering," IEEE International Symposium on Circuits and 
+Systems (ISCAS'13), Beijing, pp. 1801-1804, 2013 
+ 
+46. S. Lu, F. Boussaid, M. K. Law, "Efficient Parallel-SSHI Interface Circuit for Piezoelectric 
+Energy Harvesting," IEEE 11th International New Circuits and Systems Conference 
+(NEWCAS), Paris, pp. 1-4, 2013 
+ 
+47. S. Elaiwat, F. Boussaid, M. Bennamoun, A. El-Sallam, "3D Face Identification Using 
+Curvelet Transform," International Conference on Communications, Signal Processing, and 
+their Applications (ICCSPA'13), Sharjah, pp. 1-6, 2013 
+ 
+48. S. Shah, M. Bennamoun, F. Boussaid, A. El-Sallam, "3D-DIV: A Novel Local Surface 
+Descriptor for Feature Matching and Pairwise Image Registration”, IEEE International 
+Conference on Image Processing (ICIP), Melbourne, 2013 
+ 
+49. S. Shah, M. Bennamoun, A. El-Sallam, F. Boussaid, "Automatic Object Detection Using 
+Objectness Measure," International Conference on Communications, Signal Processing, and 
+their Applications (ICCSPA'13), Sharjah, pp. 1-6, 2013 
+
+-----
+Curriculum Vitae 
+ 
+ 
+50. J. Al Yamani, F. Boussaid, A. Bermak, D. Martinez, "Experimental Evaluation of Latency 
+Coding for Gas Recognition," 7th IEEE International Design and Test Symposium (IDT), 
+Doha, 2013 
+ 
+51. J. Al Yamani, F. Boussaid, A. Bermak, D. Martinez, " Bio-Inspired Gas Recognition Based 
+on the Organization of the Olfactory Pathway," IEEE International Symposium on Circuits 
+and Systems (ISCAS), Seoul, pp. 1391-1394, 2012 
+ 
+52. X. Zhao, A. Bermak, F. Boussaid, “A low cost CMOS polarimetric ophthalmoscope scheme 
+for cerebral malaria diagnostics”, IEEE/IFIP 19th International Conference on VLSI and 
+System-on-Chip, Hong Kong, pp. 1-4, 2011 
+ 
+53. Yan Wan, Amine Bermak, F. Boussaid, "VPIC-based image compression technique for 
+sensor network applications," Asia Symposium on Quality Electronic Design (ASQED), pp. 
+254-257, Kuala Lumpur, 2011  
+ 
+54. Yan Wan, Amine Bermak, F. Boussaid, "Reduced dimension Vector Quantization encoding 
+method for image compression," IEEE 6th International Design and Test Workshop (IDT), 
+pp. 110-113, Beirut, 2011  
+ 
+55. X. Zhao, A. Bermak, F. Boussaid, “Achromatic micropolarizing filters for visible circular 
+polarization bio-imaging”, IEEE 54th International Midwest Symposium on Circuits and 
+Systems (MWSCAS), Seoul, pp. 1-4, 2011 
+56. Jaber Al Yamani, F. Boussaid, Amine Bermak, "Robust Gas  Recognition  using  Adaptive  
+Thresholding," Asia Symposium on Quality Electronic Design (ASQED), pp. 258-261, Kuala 
+Lumpur, 2011  
+ 
+57. K. Ng, F. Boussaid, A. Bermak, "A frequency-based signature gas identification circuit for 
+SnO2 gas sensors," IEEE International Symposium on Circuits and Systems (ISCAS), pp. 
+2275-2278, Paris, 2010 (Best Paper Award) 
+ 
+58. Y. Wang, A. Bermak, F. Boussaid, "FPGA implementation of compressive sampling for 
+sensor network applications," Asia Symposium on Quality Electronic Design (ASQED), 
+Kuala Lumpur,  pp. 5-8, 2010 
+ 
+59. X. Zhao, A. Bermak, F. Boussaid, V. G. Chigrinov, "Liquid-crystal micropolarimeter array 
+for visible linear and circular polarization imaging," IEEE International Symposium on 
+Circuits and Systems (ISCAS), pp. 45-48, Paris, 2010 
+ 
+60. X. Zhang, A. Bermak, F. Boussaid, "Dynamic voltage and frequency scaling for low-power 
+multi-precision reconfigurable multiplier," IEEE International Symposium on Circuits and 
+Systems (ISCAS), pp. 637-640, Paris, 2010 
+ 
+61. X. Zhao, A. Bermak, F. Boussaid, L. Yao and V. G. Chigrinov, “A High-Resolution Micro-
+Circular-Polarization-Analyzer Array for Real-Time Active Circular Polarization Imaging”, 
+IEEE Biomedical Circuits and Systems Conference, Beijing, pp.49-52, 2009 
+ 
+62. X. Wu, X. Zhao, A. Bermak and F. Boussaid, “An AER based CMOS polarization image 
+sensor with photo-aligned micropolarizer array”, Asia Symposium on Quality Electronic 
+Design, Kuala Lumpur, pp. 126-130, 2009 
+ 
+
+-----
+Curriculum Vitae 
+ 
+63. K. Ng, H. Chen, F. Boussaid, A. Bermak, and D. Martinez, “A Robust Spike-Based Gas 
+Identification Technique for SnO2 Sensors,” IEEE International Symposium on Circuits and 
+Systems, ISCAS2009, Taipei, Taiwan, pp. 553-556, 2009 
+ 
+64. X. Zhang, A. Bermak, and F. Boussaid, “Power optimization in multipliers using multi-
+precision combined with voltage scaling techniques”, Asia Symposium on Quality Electronic 
+Design, Kuala Lumpur, pp. 79-82, 2009 
+ 
+65. K. Ng, B. Guo, A. Bermak, D. Martinez and F. Boussaid, “Characterization of a logarithmic 
+spike timing encoding scheme for a 4×4 tin oxide gas sensor array,” The 8th IEEE 
+conference on Sensors, IEEE Sensors 2009, Christchurch, New Zealand, pp. 731-734, 2009  
+ 
+66. X. Zhao, A. Bermak and F. Boussaid, “A CMOS Digital Pixel Sensor with Photo-patterned 
+Micropolarizer Array for Real-Time Focal-Plane Polarization Imaging,” IEEE Biomedical 
+Circuits and Systems Conference, pp.145-148, 2008 
+ 
+67. K. Ng, B. Guo, D. Martinez, F. Boussaid, and A.  Bermak, "A 4×4 tin oxide gas sensor 
+array based on spike sequence matching,” 2nd International Conference on Signals, Circuits 
+and Systems, SCS 2008, pp.1-5, 2008 
+ 
+68. X. Zhang, A. Bermak, and F. Boussaid, and A. Bouzerdoum, “A Compact CMOS Face 
+Detection Architecture Based on Shunting Inhibitory Convolutional Neural Networks,” 4th 
+IEEE International Symposium on Electronic Design, Test and Applications, DELTA 2008. 
+pp. 374 – 377, Hong Kong, 2008 
+ 
+69. K. Ng, S. Chen, F. Boussaid, and A.  Bermak, “Compact Gray-Code Counter/Memory 
+Circuits for Spiking Pixels,” 4th IEEE International Symposium on Electronic Design, Test 
+and Applications, DELTA 2008, pp. 506-511, Hong Kong, 2008 
+ 
+70. A. El-Sallam, F. Boussaid, “Restoration of a High Resolution Image from Multiple Blurred, 
+Low Resolution and Noisy Images,”4th Cairo International Biomedical Engineering 
+Conference, pp.1-6, Cairo, Egypt, 2008 
+ 
+71. Z. Xiaojin, F. Boussaid and A. Bermak, “A 0.18µm CMOS on-chip skin detection scheme 
+based on NPNP-triple-junction structure,”. International Symposium on Integrated Circuits 
+(ISIC’07), pp. 333–336, Singapore, 2007 
+ 
+72. M. Susli, F. Boussaid, S. Chen, and A .Bermak, “Efficient Event-Driven Frame capture for 
+CMOS imagers,” 9th International Symposium on Signal Processing and its Applications 
+(ISSPA2007), pp.1-4, Sharjah, UAE, 2007 
+ 
+73. F. Boussaid, S. Chen and A. Bermak, “A Novel Scalable spiking pixel architecture for deep 
+submicron technologies," IEEE International Conference on Design and Test of Integrated 
+Systems in Nanoscale Technology (DTIS2006), pp.131-135, Tunisia, 2006 
+ 
+74. M. Susli, F. Boussaid, S. Chen, and A .Bermak, “Arbitrated AER imaging coding schemes,”  
+International Conference on Signal Image Technology and Internet-Based Systems, pp.512-
+520, Tunisia, 2006 
+ 
+75. F. Boussaid, S. Chen and A. Bermak, “A scalable low power imager architecture for 
+compound-eye vision sensors," 5th IEEE International Workshop on System on Chip for 
+
+-----
+Curriculum Vitae 
+ 
+Real-Time Systems, IWSOC05, pp. 203-206, Banff, Alberta, Canada, July 2005. (Best 
+Paper Award) 
+ 
+76. C. K. Wah, A. Bermak and F. Boussaid, “A Second Generation Current Mode Active Pixel 
+Sensor," IEEE Conference on Electron Devices and Solid-State Circuits, pp. 713-716, Hong 
+Kong, Dec 2005 
+ 
+77. F. Boussaid, S. Chen and A. Bermak, “Versatile on-chip read-out for compound-eye image 
+sensor array," 8th International Symposium on signal processing and its applications, vol. 1, 
+pp. 327-330, Sydney, Australia, August 2005 
+ 
+78. F. Boussaid, A. Bouzerdoum and D. Chai, "VLSI implementation of a skin detector based 
+on a neural network," 5th International Conference on Information, Communications and 
+Signal Processing (ICICS'2005), pp. 1605-1608, Bangkok, Thailand, Dec. 2005 
+ 
+79. A. Bermak, F. Boussaïd and A. Bouzerdoum, “A Low power current-mode pixel with on-
+chip FPN cancellation and digital shutter,” Proceedings of the IEEE International 
+Symposium on Circuits and Systems ISCAS2004, vol. II, pp.345-348, Vancouver, Canada, 
+2004 
+ 
+80. F. Boussaïd, D. Chai and A. Bouzerdoum, “On-chip skin detection using a triple-well 
+CMOS process,” Proceedings of SPIE, Microelectronics: Design, Technology, and 
+Packaging, vol. 5274, pp.206-214, Perth, Australia, 2004 
+ 
+81. A. Bermak, F. Boussaïd and A. Bouzerdoum, “A New read-out circuit for low power 
+current and voltage mediated integrating CMOS imager,” Proceedings of the Second IEEE 
+International Workshop on Electronic Design, Test and Applications (DELTA 2004), pp. 
+35–40, Perth, Australia, 2004 
+ 
+82. F. Boussaïd, A. Bermak and A. Bouzerdoum, "A novel ultra-low power reset/read-out 
+technique for Megapixels current-mode CMOS imagers, Proceedings of the European Solid-
+State Devices Research Conference (ESSDERC 2003), pp. 59-62, Estoril, Portugal, 2003 
+ 
+83. F. Boussaïd, D. Chai and A. Bouzerdoum, "On-Chip Skin Detection For Color CMOS 
+Imagers," Proceedings of the 2003 International Conference on MEMS, NANO, and Smart 
+Systems, pp. 357-361, Banff, Canada, 2003 
+ 
+84. F. Boussaïd, A. Bermak and A. Bouzerdoum, "Programmable Multi-Task On-Chip 
+Processing For CMOS Imagers," Proceedings of the 2003 International Conference on 
+MEMS, NANO, and Smart Systems, pp. 227-232, Banff, Canada, 2003 
+ 
+85. F. Boussaïd, D. Chai and A. Bouzerdoum, "A Current-Mode VLSI Architecture For Skin 
+Detection," Proceedings of the 7th International Symposium on Signal Processing and its 
+Applications, pp. 629–632, Paris, France, 2003 
+ 
+86. F. Boussaïd, A. Bermak and A. Bouzerdoum, "Shunting Inhibition-Based On-Chip 
+Processing for CMOS imagers," Proceedings of the 9th International Conference on Neural 
+Information Processing ICONIP’02, pp. 1310-1314, Singapore, 2002 
+ 
+87. F. Boussaïd and A. Bouzerdoum, "On The Scalability Of CMOS Imager In-Pixel 
+Architectures," Proceedings of the 2002 International Workshop on System on Chip for 
+Real-time Applications, pp. 487-496, Banff, Canada, 2002 
+
+-----
+Curriculum Vitae 
+ 
+ 
+88. T. Hammadou, F. Boussaïd and M. Nilsson, "Low cost single chip CMOS camera for 
+automotive application," Proceedings of the 2002 IEEE International Conference on 
+Consumer Electronics, pp. 44-45, Los Angeles, USA, 2002 
+ 
+89. A. Bermak, F. Boussaïd and A. Bouzerdoum, "A CMOS vision chip with real-time image 
+processing capabilities," Proceedings of the 5th World Multiconference on Systemics, 
+Cybernetics and Informatics, Vol. XV, pp. 479-484, Orlando, Florida, USA, 2001 
+ 
+90. F. Boussaïd, A. Bermak and A. Bouzerdoum, "A wide dynamic range CMOS imager with 
+extended shunting inhibition image processing capabilities," Proceedings of the IEEE 
+International Symposium on Circuits and Systems ISCAS2001, vol. III, pp. 620-623, Sydney, 
+Australia, 2001 
+ 
+91. T. Hammadou, A. Bouzerdoum, F. Boussaïd, A. Bermak, M. Biglari and K. Eshraghian, 
+"Novel VLSI architecture for edge detection and image enhancement on a single-chip video 
+camera," Sensors and Camera Systems for Scientific, Industrial and Digital Photography 
+Application II 2001 SPIE, vol. 4306, pp. 393-402, San Jose, California, USA, 2001 
+ 
+92. A. Bermak, F. Boussaïd and A. Bouzerdoum, "A digitally programmable current mode 
+analog shunting inhibition cellular neural network," Proceedings of the 7th IEEE 
+International Conference on Electronics, Circuits and Systems ICECS’2000, pp. 962-965, 
+Kaslik, Lebanon, 2000 
+ 
+93. D. Alquier, M. Benzohra, F. Boussaïd, F. Olivié et A. Martinez, "Electrical defects of 
+shallow p+n junctions formed by boron implantation into Ge-preamorphized Si-substrates," 
+Materials Research Society Spring Meeting, San Francisco, USA, Symposium Proceedings, 
+vol. 469, pp. 413-418, 1997 
+ 
+
+-----

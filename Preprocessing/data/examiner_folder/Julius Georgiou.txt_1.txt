@@ -1,0 +1,1018 @@
+ 
+1 
+Julius Georgiou 
+ 
+75 Kallipoleos Str., PO Box 20537 
+1678 Nicosia 
+Cyprus 
+ 
+ 
+Phone: + 357 22 892264 
+Fax: +357 22 892260 
+Email: julio@ucy.ac.cy 
+ 
+EDUCATION 
+Imperial College of Science, Technology and Medicine, University of London, U.K. 
+Degree:  
+Master of Engineering in Electrical and Electronic Engineering 
+Thesis Title: 
+Analogue Modeling of the Nerve Axon Membrane  
+Department: 
+Electrical and Electronic Engineering  
+Years:  1994-1998 
+Imperial College of Science, Technology and Medicine, University of London, U.K. 
+Degree:  
+Doctor in Philosophy (PhD) 
+Thesis Title: 
+Micropower Electronics for Neural Prosthetics  
+Department: 
+Electrical and Electronic Engineering  
+Years:  1998-2003 
+ 
+ 
+RESEARCH AND TEACHING INTERESTS 
+Research Interests 
+Biomedical Circuits and Systems, bioinspired electronic systems, low-power mixed-signal ASICs, 
+radiation tolerant electronics, sensors and related systems, electronic prosthetics, medical 
+instrumentation.  
+Teaching Interests 
+Analog/Digital Circuit design and Instrumentation (including MEMS design). The aim here is to 
+provide students with fundamental skills required to enable the start of an international design 
+services industry and well as to provide the foundations to create a high-tech industry in Cyprus. 
+ 
+EMPLOYMENT 
+ 
+2015-to date: Associate Professor, ECE Department, University of Cyprus. 
+2009-2015: Assistant Professor, ECE Department, University of Cyprus. 
+2005-2009: Lecturer, ECE Department, University of Cyprus. 
+Contributing to the growth and visibility of the Department at the University of Cyprus as well as 
+working on the establishment of a research laboratory in the area of mixed-signal integrated system 
+design and sensors. 
+2004-2005: Postdoctoral Research Fellow, Johns Hopkins University, USA 
+Worked with Prof Andreas Andreou in the Sensory Communication and Microsystems Laboratory 
+on the development of neuromorphic systems with the use of an experimental 3-D technology, 
+provided by MIT Lincoln Labs. The objective of the project was to develop and construct a 
+prototype imager/ image transceiver with pixel-level parallel feature extraction. 
+2001-2003: Head of Design, Micropower Division, Toumaz Technology Ltd., U.K. 
+Being one of the first employees of Toumaz Technology gave me the opportunity to interact with 
+customers, manage small design teams and continue my research activities, through an honorary 
+research position at Imperial College. This enabled me to lecture a 4th year and M.Sc course, in 
+addition to co-supervising postgraduate students at Imperial College, who were sponsored by 
+Toumaz. 
+ 
+ 
+
+-----
+ 
+2 
+ 
+RESEARCH GRANTS  
+External Funding 
+Total External Funding: € 1,545,058 (~US$ 1,958,442) 
+Mar 15-Oct 15,  “An Ultra-low-Power Bioinspired Microfluidic Gyroscope –Phase II”, €20,000, MED-EL 
+Elektromedizinische Geräte GmbH, Principle Investigator. 
+Dec 14-Dec 18, ~ €129,000/year “Memristors-Devices, Models, Circuits, Systems and Applications 
+(MemoCiS)”, COST Action IC1401, Action Proposer and Management Committee Chair. 
+Oct 11-April 14,  “Development of Rad Hard non-volatile Flash Memories for Space Applications”, 
+€134,000 of €1M, Seventh EU Framework Program, Co-Principle Investigator. 
+Dec 12-Aug 14,  “An Ultra-low-Power Bioinspired Microfluidic Gyroscope – Phase I”, €36,480, MED-EL 
+Elektromedizinische Geräte GmbH, Principle Investigator. 
+Nov 10-Oct 13,  “Memristors for Bioinspired Circuit Design”, €104,840 
+Cyprus Research Promotion Foundation, Project Coordinator. 
+Sept 10-Aug 14,  “KIOS Research Center for Intelligent Systems and Networks”, €137,500 of €1.1M 
+Cyprus Research Promotion Foundation, Co-Principle Investigator. 
+Mar 09-Mar 12,  “Acoustic Scene Analysis for Detecting Living Entities”, €649,760 of €2.65M 
+Seventh EU Framework Program, Co-Principal Investigator.  
+Dec 08- Dec 11, “Monitoring of Awareness During Anaesthesia”, €134,856 
+Cyprus Research Promotion Foundation, Project Coordinator. 
+Feb 06- May 07 “A Biomimetic Micro-Imager for Neural Vision Systems”, €29,300 
+Cyprus Research Promotion Foundation, Principal Investigator. 
+Dec 05-Dec 08, “Towards a MEMS Based Vestibular Implant for Balance Restoration”, €169,322 
+Cyprus Research Promotion Foundation, Principal Investigator.  
+Internal Funding 
+Total Internal Funding: € 161,400 (~US$ 211,466) 
+May 10-May 13, “Improving the Performance of Hybrid Photovoltaic/Thermal Solar Systems”, €76,000 
+Feb 06- Feb 08,  “Start-up funding for VLSI laboratory”,  € 85,400 from UCY 
+ 
+TEACHING EXPERIENCE  
+Imperial College London  
+E4.17/AO4 – High Performance Analogue Electronics (2002) 
+This is a dual-level 4th year / MSc course in advanced electronic circuit techniques with emphasis 
+on system-level design for wireless receiver architectures. It covered noise analysis, low-noise 
+design, CMOS and BJT linearization, integrate-continuous time filters, analogue mixers and 
+multipliers and integrated oscillators. 
+http://www3.imperial.ac.uk/electricalengineering/internal/curriculum  
+Johns Hopkins University  
+520/580.725 – Medical Microsystems (Guest Lecturer -2004) 
+I was invited to give a few lectures on implantable stimulators and cochear implants as 
+contributions to this course that was given by Prof Andreas Andreou and Prof NitishThakor of the 
+ECE Dept and Biomedical Engineering Dept respectively.  
+http://www.ece.jhu.edu/Graduate/grad_desc.shtml  
+University of Cyprus 
+ECE202 – Principles of Microelectronic Devices  
+This is an introductory course to Microelectronic Devices focused on the essentials that an engineer 
+requires to understand the underlying principles of device operation. 
+http://www.ece.ucy.ac.cy/courses/ece202/index.html  
+ECE305 – Electronic Devices and Circuits II  
+This is an electronics course given to 3rd year EE students, which looks at secondary effects in MOS 
+devices, single-stage amplifiers, differential amplifiers, current mirrors, frequency response, noise, 
+feedback, op-amp design, stability and compensation, and reference circuits.   
+
+-----
+ 
+3 
+http://www.eng.ucy.ac.cy/ece305/index.html  
+ 
+ECE306 –Electronic Circuits Laboratory  
+In this laboratory students initially conduct experiments with discrete components to illustrate their 
+limitations. The rest of the course involves using the skills acquired in ECE 305 to design and 
+layout, in the Cadence Environment,  a circuit in a commercially available process (AMS 0.35u). In 
+2006 the best two designs were fabricated through sponsorship from Cyprus Telecom.   
+http://www.ece.ucy.ac.cy/courses/ece306  
+ECE665 –Instrumentation and Sensors  
+This is a graduate level course that covers basic measurement theory, sensor principles, MEMS 
+sensors, signals and noise, amplifiers, signal connections and shielding, data converters and 
+collection and safety in medical instrumentation. 
+http://www.ece.ucy.ac.cy/courses/ece473X665/index.html  
+ECE659 – VLSI Design  
+This is a graduate level elective digital circuit design class, with particular emphasis on both circuit 
+and systems perspective. The course material is reinforced with lab work within the Cadence design 
+environment. 
+http://www.ece.ucy.ac.cy/courses/ece659/index.html 
+ 
+RESEARCH GROUP 
+Postdoctorate Researchers  
+1. Panayiota Demosthenous, “Mixed-signal Electronic Design”. 
+Completed PhD Students  
+1. Christoph Beck, “Accident and Emergency Center Intelligent Monitoring Systems”, (May 
+2016). 
+2. Charalambos Andreou “High-performance, Low-Power Integrated Reference Circuits and 
+Reference Circuits for Space Applications”, (May 2015) 
+3. Panayiota Demosthenous “A Fluoroscopic Cancer Screening Capsule For The Small Intestine”, 
+Feb 2015- Currently postdoc at UCY. 
+4. Garreau Guillame “Acoustic scene analysis for detecting living entities”, June 2014 – Currently 
+employed at Johns Hopkins University, USA. 
+ 
+International Interships/Visitors at Holistic Electronics Research Laboratory 
+1. Stavros Stavrinides  
+Visiting Faculty 
+ Sept 2012 – June 2013 
+2. Joe Lin 
+ 
+ 
+Placement   
+July-Aug 2010 (from Johns Hopkins, USA) 
+3. Cyrille D’Urbal 
+ 
+Master Thesis - May-Oct 2010  (from Grenoble INP – MINATEC) 
+4. Charalambos Andreou  
+Summer Intern- July-Sept 2007 (from Grenoble INP – MINATEC) 
+ 
+Alumni 
+1. Nicoletta Nicolaou,  
+postdoctoral researcher  
+Mar 2007- Jun 2014 
+2. Adrian Rominski 
+ 
+postdoctoral researcher  
+Sept 2011-Dec 2012 
+3. Horacio Rostro-Gonzalez 
+postdoctoral researcher  
+Feb 2011-Feb 2012 
+4. Constantinos Hadjistassou postdoctoral researcher  
+May 2010-May 2013 
+5. Nikolaos Archondas  
+postdoctoral researcher  
+May 2009-May 2011 
+6. Philippe Pouliquen   
+postdoctoral researcher  
+May 2009-Feb 2012 
+7. Timothy Constandinou,  
+postdoctoral researcher  
+Dec. 2005- Dec 2009  
+8. Andrew Cassidy 
+ 
+researcher 
+ 
+ 
+May 2009 – Jan 2011 
+9. Guillermo Stuarts 
+ 
+researcher 
+ 
+ 
+May 2009 – May 2010 
+10. Evdokia Pilavaki 
+ 
+researcher 
+ 
+ 
+Jan 2013 – July 2013 
+11. Yiannis Pahitas  
+ 
+researcher 
+ 
+ 
+July 2013.- Feb 2014 
+12. Evripides Kyriakides 
+researcher 
+ 
+ 
+Oct 2010 – Apr 2014 
+ 
+
+-----
+ 
+4 
+CONSULTING, PROPOSAL EVALUATIONS AND INDUSTRIAL EXPERIENCE 
+• 
+PLSense Ltd 
+ 
+- Low-power subthreshold analog circuit design (consulting) 
+• 
+Epic Biosonics Inc.  
+- Cochlear Implant development  
+• 
+ESA / SEA  
+ 
+- Subthreshold circuits for space applications (consulting) 
+• 
+QinetiQ 
+ 
+ 
+- Low-power passive sonar systems (consulting) 
+• 
+Applied Bionics 
+ 
+- Subthreshold hearing aids (consulting) 
+• 
+Cerbomed GmBH  
+- Low-power design for vagus nerve stimulation (consulting) 
+• 
+European Commission, Information Society & Media Directorate Generale, Future and Emerging 
+Technologies Programme – Expert reviewer for projects RAMP & CAVIAR. 
+• 
+Swiss National Science Foundation – Expert reviewer 
+• 
+KU Leuven Industrial Research Fund – Expert advisor 
+• 
+The Research Foundation Flanders (FWO) – Expert advisor 
+• 
+Natural Sciences and Engineering Research Council of Canada (NSERC)- Expert reviewer 
+ 
+PROFESSIONAL ACTIVITIES 
+Memberships 
+Institute of Electrical and Electronic Engineers (IEEE), 
+Senior Member: 2008 
+Member:            1999 
+Service at IEEE 
+IEEE BioCAS Technical Committee Chair (2016-2018) 
+IEEE BioCAS Technical Committee Chair Elect (2014-2016) 
+IEEE BioCAS Technical Committee Secretary (2012-2014) 
+IEEE BioCAS Conference 2010, Cyprus, Organizing Committee - General Chair  
+IEEE BioCAS Conference 2008, USA, Organizing Committee - Special Session Chair 
+IEEE BioCAS Conference Steering Committee Member (2009-2012) 
+IEEE ISCAS 2010 – Best demo award judge 
+IEEE CAS Sensory Systems Technical Committee (2011-present) 
+IEEE CAS Society, BioCAS Technical Committee member (2002-present) 
+IEEE CAS Society, Analog Signal Procession Technical Committee member since 2001 
+ 
+Editorial Roles  
+IEEE TBioCAS Associate Editor, (2011-present) 
+Frontiers in Neuromorphic Engineering Journal Associate Editor (Jan 2011- present) 
+IEEE TBioCAS Journal Guest Editor, 2010-2011 
+ 
+Reviewer for: 
+IEEE Proceedings, IEEE Trans. on Circuits and Systems, IEEE Trans. on Neural Networks, IEEE 
+Trans. On Nuclear Science, IEE Electronic letters, IEEE Sensors Journal, IEEE Trans. In 
+Biomedical Engineering, IEEE Trans. on Biomedical Circuits and Systems, IEEE Trans. in Electron 
+Devices, ASP Journal of Low Power Electronics, Elsevier Journal of Neuroscience Methods, 
+Nanoscale Research Letters, IOP Bioinspiration and Biomimetics Journal, Elsevier 
+Microelectronics Journal, IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 
+Applied Physics Letters. 
+Other Workshops/ Conferences: 
+• 
+General Chair of International Conference on Memristive Systems (MEMRISYS 2015), 8-10 
+November 2015,  Paphos Cyprus, General Chair and main organizer 
+• 
+Local organizer of one of the STIMESI MEMS Workshops (http://www.stimesi.org) at 
+University of Cyprus. This FP6 sponsored program aims to “stimulate European universities 
+and research institutes to adopt MEMS and SiP technologies”, April 21st-24th , 2008.  
+SERVICE WITHIN UCY 
+• 
+Europractice Representative for UCY (2005-present) 
+• 
+UCY Patent Committee (2012- present) 
+
+-----
+ 
+5 
+• 
+Member of Departmental IT committee     (2008-2012) (2013-2014) 
+• 
+ECE departmental representative for UCY Library (2006-2010) 
+• 
+Member of ECE Dept “Postgraduate Program Committee”  (2006-2008) 
+• 
+Undergraduate Committee (2013-2014) 
+• 
+Chair of ECE Dept “Office Space and Lab Allocation Committee” (2006-2008) 
+SCHOLARSHIPS / PRIZES / AWARDS 
+• 
+IEEE CAS Society Distinguished Lecturer (2016-2018) 
+• 
+Received the 2015 ONE Award from the Republic of Cyprus President for Research 
+• 
+Int. Sym. on Circuits and Systems (ISCAS) 2011 Sensory Systems Best Paper Award 
+• 
+Winner of Advanced Category of 2008 STIMESI MEMS European-wide Design Contest  
+• 
+Int. Conf. of Biomedical Electronics and Devices (BIODEVICES) 2008 Best Paper Award  
+• 
+Johns Hopkins University Fellowship 
+• 
+Doctoral Dissertation Commendation by Armstrong Prize Committee  
+• 
+CVCP Overseas Research Students Award for 3 years 
+• 
+Electrical and Electronic Eng Dept, Imperial College 3 year departmental scholarship for Ph.D.  
+• 
+Nicholas Battersby Prize for MEng final year project. 
+• 
+Full four year Commonwealth scholarship for studying at Imperial College, 
+• 
+Full six-year scholarship for “The English School Nicosia” 
+ 
+PHD DISSERTATION REFEREE (BEYOND UNIVERSITY OF CYPRUS) 
+• 
+Karim El-Laithy : Universität Leipzig, Germany, 2011: advisor Prof Martin Bogdan 
+ 
+PUBLICATIONS  
+ 
+Refereed Journal Papers 
+ 
+1. C. Beck and J.Georgiou, “A Wearable, Multimodal, Vitals Acquisition Unit for Intelligent 
+Field Triage”, IET Healthcare Technology Letters,  in Press, 2016. 
+2. C. Andreou and J. Georgiou, “A 0.75V, 4μW, 15ppm°C, 190°C Temperature Range, Voltage 
+Reference”, International Journal of Circuit Theory and Applications, 11th August 2015. 
+DOI: 10.1002/cta.2122 
+3. P. Demosthenous, C. Pitris and J. Georgiou, “Infrared fluorescence-based Cancer Screening 
+Capsule for the Small Intestine”, IEEE Transactions on Biomedical Circuits and Systems, 2015, 
+DOI:10.1109/TBCAS.2015.2449277 
+4. K.N. Hageman, Z.K. Kalayjian, F. Tejada, B.Chiang, M.A. Rahman, G.Y. Fridman, C. Dai, 
+P.O. Pouliquen, J. Georgiou, C.C. Della Santina, and A.G. Andreou, “A CMOS Neural 
+Interface for a Multichannel Vestibular Prosthesis”, IEEE Transactions on Biomedical Circuits 
+and Systems, 2015, DOI:10.1109/TBCAS.2015.2409797 
+5. E. Kyriakides and J. Georgiou, “A compact, low-frequency, memristor-based oscillator”, 
+International Journal of Circuit Theory and Applications, 8th Oct. 2014, DOI: 10.1002/cta.2030. 
+6. N. Nicolaou and J. Georgiou, “The Study of EEG Dynamics During Anesthesia with Cross-
+Recurrence Rate”, Cureus 6(8): e195, August 2014, doi:10.7759/cureus.195 
+7. C. Andreou, Y. Pahitas and J. Georgiou, “Bio-inspired micro-fluidic angular-rate sensor for 
+vestibular prostheses”, Sensors 2014, 14, 13173-13185; July 2014, doi:10.3390/s140713173  
+8. L. Shestopalova, T. M. B¨ohm, A. Bendixen, A. G. Andreou, J. Georgiou, G. Garreau, B. 
+Hajdu, S. L. Denham and I. Winkler, “Do Audio-Visual Motion Cues Promote Segregation of 
+Auditory Streams?,” Frontiers in Neuroscience, Vol. 8, No. 64, 1-11, April 2014. 
+9. N. Nicolaou and J. Georgiou, “Spatial Analytic Phase Difference of EEG activity during 
+anesthetic-induced unconsciousness”, Clinical Neurophysiology, February 2014, DOI: 
+10.1016/j.clinph.2014.02.011 
+10. N. Nicolaou and J. Georgiou,  “Global Field Synchrony during general anaesthesia”, British 
+Journal of Anaesthesia, 29th Oct 2013, DOI:10.1093/bja/aet350  
+
+-----
+ 
+6 
+11. S. Dura-Bernal, G. Garreau, J. Georgiou, A.G.Andreou, S.L. Denham and T. Wennekers, 
+“Multimodal Integration Of Micro-Doppler Sonar And Auditory Signals For Behavior 
+Classification With Convolutional Networks”, International Journal of Neural Systems, Vol.23, 
+No. 5 (2013)(15 pages), DOI: 10.1142/S0129065713500214 
+12. N. Nicolaou and J. Georgiou,  “Neural Network based classification of anesthesia/awareness 
+using Granger Causality features”, Journal of Clinical EEG and Neuroscience, July 2013, 
+http://dx.doi.org/10.1177/1550059413486271  
+13. A. S. Cassidy, J. Georgiou and A.G. Andreou, “Design of silicon brains in the nano-CMOS 
+era: Spiking neurons, learning synapses and neural architecture optimization”, Neural 
+Networks, Available online 6 June 2013, ISSN 0893-6080, 
+http://dx.doi.org/10.1016/j.neunet.2013.05.011. 
+14. T. M. Bőhm, L. Shestopalova, A. Bendixen, A. G. Andreou, J. Georgiou, G. Garreau, P. 
+Pouliquen, A. Cassidy, S. L. Denham and I. Winkler, “The role of perceived source location in 
+auditory stream segregation: Distance affects sound organization, common fate does not!”, 
+Learning & perception, 5(2):55-72, June 2013,  http://dx.doi.org/10.1556/LP.5.2013.Suppl2.5 
+15. D. Welch, J. Georgiou and J. Blain Christen, “Fully-differential current-mode MEMS dual-
+axis optical inclination sensor”, Sensors and Actuators A: Physical, Vol. 192, pp. 133-139, 
+April 2013, doi:10.1016/j.sna.2012.12.001. 
+16. C. Hadjistassou, E. Kyriakides and J. Georgiou, “Designing High Efficiency Concentrator 
+Thermoelectric Generators”, Energy Conversion and Management, Vol.66, pp165-172, 
+February 2013; DOI: http://dx.doi.org/10.1016/j.enconman.2012.07.030  
+17. E. Kyriakides, S. Carrara, G. De Micheli and J. Georgiou, “A low-cost, CMOS compatible 
+TaOx hemi-memristor for neuromorphic circuits”, IEE Electronics Letters, Vol. 48, No. 14, pp. 
+1451-1452, November 2012.  
+18. J. Georgiou, E. Kyriakides and C. Hadjistassou, "NiTi Smart Alloys for Memristors with 
+Multi-time-scale Volatility," IEE Electronics Letters, Vol. 48, No. 14, pp. 877-879, July 2012.  
+19. N. Nicolaou, S. Houris, P. Alexandrou, and J. Georgiou, 'Permutation Entropy: a reliable 
+measure for automatic monitoring of anesthetic depth during surgery?', Engineering Intelligent 
+Systems Journal, Special Issue: Timely developments in Artificial Intelligence Applications, L. 
+Iliadis, I. Maglogiannis (eds.), 20(1/2):1-10, 2012.  
+20. N. Nicolaou, S. Hourris, P. Alexandrou and J. Georgiou, “EEG-based Automatic Classification 
+of 'Awake' versus 'Anesthetized' State in General Anesthesia Using Granger Causality”, PLoS 
+ONE Vol. 7, Issue 3, March 2012,  doi:10.1371/journal.pone.0033869 
+21. C.  M. Andreou, S. Koudounas and J. Georgiou, “A Novel wide-temperature-range, 3.9 
+ppm/°C CMOS Bandgap Reference Circuit”, IEEE Journal of Solid-State Circuits, Vol. 47, No. 
+2 , pp. 574 – 581, February 2012 
+22. N. Nicolaou and J. Georgiou, “Detection of epileptic electroencephalogram based on 
+Permutation Entropy and Support Vector Machines”, Expert Systems with Applications,  39(1) 
+Jan 2012, Available online 19 July 2011, ISSN 0957-4174, DOI: 10.1016/j.eswa.2011.07.008. 
+(http://www.sciencedirect.com/science/article/pii/S0957417411009705) 
+23. N. Nicolaou and J. Georgiou, “The Use of Permutation Entropy to Characterise Sleep 
+Encephalograms”, Journal of Clinical EEG and Neuroscience, Vol. 42, No. 1,  pp 24-28, 
+January 2011 
+24. T. Constandinou and J. Georgiou, “A Micropower Tilt Processing Circuit”, IEEE Transactions 
+on Biomedical Circuits and Systems”, Vol.3, Issue 6, pp 363-369, December 2009. 
+25. T. Constandinou and J. Georgiou, “A Micropower Arcsine Circuit for Tilt Processing”, IEE 
+Electronics Letters, Vol. 44, No. 23, pp. 1336-1338, November 2008. 
+26. T. Constandinou, J. Georgiou and C. Toumazou, “Towards an Integrated, Fully-Implantable 
+Vestibular Prosthesis for Balance Restoration”, Journal of Advances in Science and 
+Technology, Vol. 57, pp 210-215, August 2008. 
+27. J. Georgiou, “An Ultra-compact, Low-power Reference Circuit/Dosimeter for Space 
+Environments”, IEEE Transactions on Nuclear Science, Vol. 55, No. 4. pp 2385-2388, August 
+2008.  
+
+-----
+ 
+7 
+28. T.G. Constandinou, J. Georgiou, C. Toumazou, "A Partial-Current-Steering Biphasic 
+Stimulation Driver for Neural Prostheses," IEEE Transactions on Biomedical Circuits and 
+Systems, Vol. 2, No. 2, p106-113, June 2008  
+29. T. Constandinou and J. Georgiou, “Micro-optoelectromechanical Tilt Sensor”, Journal of 
+Sensors, Vol. 2008, Article ID 782764, 7 pages, April 2008 
+30. T.G. Constandinou, J. Georgiou, C. Toumazou, "Micropower Front-end Interface for 
+Differential-Capacitive Sensor Systems," IEE Electronics Letters, Vol. 44, pp. 470-472, March 
+2008. 
+31. J. Georgiou and A.G. Andreou, “Address-Data Event Representation (ADER) for 
+Communication in Multichip Neuromorphic System Architectures”, IEE Electronics Letters, 
+Vol. 43, Issue 14, pp 767-769, July 2007. 
+32. J. Georgiou and A.G. Andreou, “High-speed, address-encoding arbiter architecture”, IEE 
+Electronics Letters, Vol. 42,  pp 170-171, February 2006 
+33. J. Georgiou and C. Toumazou ,“A 126-µW Cochlear Chip For a Totally Implantable System,”  
+IEEE Journal of Solid-State Circuits, Vol. 40 , No. 2 , pp. 430 – 443, February 2005  
+34. T.G. Constandinou, J. Georgiou, C. Toumazou, "Nano-power Mixed-signal Tunable Edge-
+detection Circuit for Pixel-level Processing in Next Generation Vision Systems," IEE 
+Electronics Letters, Vol. 39, No. 25, pp. 1774-1775, December 2003.  
+35. C. Toumazou, J. Georgiou and E.M. Drakakis, “Current-mode analogue circuit representation 
+of Hodgkin and Huxley neuron equations”, IEE Electronics Letters Vol. 34, No. 14, pp. 1376 –
+1377, July 1998 
+ 
+Other Journal Papers 
+1. J. Georgiou and A. G. Andreou, “Guest Editorial—Special Issue on Selected Papers From 
+BioCAS 2010,” IEEE Transaction on Biomedical Circuits and Systems, vol. 5, no. 5, pp. 401–
+402, 2011. 
+ 
+ 
+Refereed International Conference Proceedings Papers  
+ 
+1. D. Biolek, S. Carrara, E. Chicca, F. Corinto, J. Georgiou, B. Linares-Barranco, T. Prodromakis, 
+S. Spiga and R. Tetzlaff, “Pushing the Frontiers of Memristive Devices to Systems (EU COST 
+Action IC1401)”, 18th Mediterranean Electrotechnical Conference – Melecon 2016, Limassol, 
+Cyprus, April 18-20, 2016. 
+2. C. Beck and J. Georgiou, “A Body-worn multi-parameter monitoring platform for human vital 
+signs acquisition”, XIV Mediterranean Conference on Medical and Biological Engineering and 
+Computing (MEDICON 2016), Paphos, Cyprus, March 31st –April 2nd, 2016. 
+3. C. Beck and J. Georgiou, “A Wearable, Multimodal, Vitals Acquistion Unit for Intelligent 
+Field Triage”, 2016 IEEE Int'l Symposium on Circuits and Systems (ISCAS), pp.1530-1533, 
+Montreal, Canada, May 22-25, 2016. 
+4. P. Demosthenous and J. Georgiou, “An Ingestible, NIR-Fluorometric, Cancer-Screening 
+Capsule” Proc. of 37th Annual Int. Conf. of IEEE Engineering in Medicine and Biology 
+Society (EMBC’15), pp2143-2146, 25-29th Aug, Milan, Italy 
+5. P. Demosthenous and J. Georgiou, “A Fluorescence Based Endoscopic Microcancer Detection 
+Capsule”, 2015 IEEE Int'l Symposium on Circuits and Systems (ISCAS), pp.1626-1629, 
+Lisbon, Portugal, May 24-27, 2015. 
+6. C.M. Andreou , A. Paccagnella, D. M. Gonzalez-Castano, F. Gomez, V. Liberali, A.V. 
+Prokofiev, C. Calligaro, A. Javanainen, A. Virtanen, D. Nahmad and J. Georgiou, “A 
+Subthreshold, Low-Power, RHBD Reference Circuit, for Earth Observation and 
+Communication Satellites”, 2015 IEEE Int'l Symposium on Circuits and Systems (ISCAS), 
+pp.2245-2248, Lisbon, Portugal, May 24-27, 2015. 
+7. E. Demarchou, J. Georgiou, N. Nicolaou and T. Constandinou, “Anesthetic-induced changes in 
+EEG activity: a graph theoretical approach”, BioCAS 2014, pp. 45-48, Lausanne, Switzerland, 
+2014. 
+
+-----
+ 
+8 
+8. P. Demosthenous and J. Georgiou, “Towards a Fluoroscopic Cancer Screening Capsule for the 
+Small Intestine” Proc. of 36th Annual Int. Conf. of IEEE Engineering in Medicine and Biology 
+Society (EMBC’14), pp3122-3125, 26-30th Aug, Chicago, USA. 
+9. C. M. Andreou, Y. Pahitas, E. Pilavaki and J. Georgiou, “Bio-Mimetic Gyroscopic Sensor for 
+Vestibular Prostheses”, BioCAS 2013, pp.17-20, 31st Oct – 2nd Nov, Rotterdam, Netherlands 
+10. N. Nicolaou and J. Georgiou, “Towards Automatic Sleep Staging via Cross-Recurrence Rate 
+of EEG and ECG Activity” BioCAS 2012, pp 198-201, 31st Oct – 2nd Nov, Rotterdam, 
+Netherlands. 
+11. N. Nicolaou and J. Georgiou, “Autoregressive model order estimation criteria for monitoring 
+awareness during anaesthesia”, AIAI2013, 9th Int. Conf. on Artificial Intelligence Applications 
+and Innovations, pp. 71-80, Sept 30th-Oct 2nd,Paphos, Cyprus. 
+12. N. Nicolaou and J. Georgiou, “Monitoring Depth of Hypnosis under Propofol General 
+Anaesthesia: Granger Causality and Hidden Markov Models ”, Neurotechnix 2013, 18th-20th 
+Sept 2013,Vilamoura, Portugal.  
+13. C. M. Andreou and J. Georgiou, “An All-Subthreshold, 0.75V Supply, 2ppm/°C, CMOS 
+Voltage Reference", 2013 IEEE International Symposium on Circuits and Systems (ISCAS 
+2013), May 19th -23rd, 2013, Beijing, China. 
+14. G. Garreau, E. Proxenou, A. G. Andreou and J. Georgiou, “Person Localization Through 
+Ground Vibrations using a Sand-scopion inspired Spiking Neural Network”, 47th Annual 
+Conference on Information Sciences and Systems (CISS 2013), Mar 20th-22nd, 2013, 
+Baltimore, USA. 
+15. P. Demosthenous and J. Georgiou, “Acceleration-dependent Sampling for Ingestible 
+Endoscopic Imaging Capsule”, Proc. of the IEEE Biomedical Circuits and Systems Conference 
+(BioCAS’12), 28th -30th Nov 2012, Hsinchu, Taiwan. DOI:10.1109/BioCAS.2012.6568556 
+16. G. Garreau, N. Nicolaou and J. Georgiou, “Individual Classification Through Autoregressive 
+Modelling of Micro-Doppler Signatures”, Proceedings of the IEEE Biomedical Circuits and 
+Systems Conference (BioCAS’12), pp. 312-315, 28th -30th Nov 2012, Hsinchu, Taiwan. 
+17. J. Georgiou and E. Kyriakides, “Memristors for Energy-Efficient, Bioinspired Processing, 
+Proceedings of the 2012 IEEE 27th Convention of Electrical and Electronics Engineers in Israel, 
+14th-17th Nov 2012, Eilat, Israel. 
+18. C. Hadjistassou, J. Georgiou, and E. Kyriakides, “Improving vehicle fuel economy using 
+19. thermoelectric devices,” Power Options for the Eastern Mediterranean Region (POEM 2012), 
+Limassol, Cyprus, pp. 1-6, Nov. 2012. 
+20. N. Nicolaou, A. Dionysiou and J. Georgiou “Temporal dynamics of EEG during anesthesia”, 
+2012 IEEE 12th International Conference on Bioinformatics & Bioengineering (BIBE 2012), 
+11th-13th Nov 2012, Larnaca, Cyprus. 
+21. E. Kyriakides, C. Hadjistassou and J. Georgiou, “A New Memristor based on NiTi Smart 
+Alloys”, 2012 IEEE International Symposium on Circuits and Systems (ISCAS 2012), pp.1403-
+1406, May 20th -23rd, 2012, Seoul, Korea. 
+22. H. Rostro-Gonzalez, G. Garreau, A. Andreou, J. Georgiou, J.H. Barron-Zambrano and C. 
+Torres-Huitzil, “An FPGA-based approach for parameter estimation in spiking neural 
+networks”, 2012 IEEE International Symposium on Circuits and Systems (ISCAS 2012), 
+pp.1403-1406, May 20th -23rd, 2012, Seoul, Korea. 
+23. C. M. Andreou and J. Georgiou, “A 200°C temperature range, 13.7ppm/°C CMOS Bandgap 
+Reference Circuit with Curvature Compensation”, CDNLive, Cadence User Conference 2012, 
+14th-16th May, Munich, Germany. 
+24. G. Garreau, C. M. Andreou, A. G. Andreou and J. Georgiou / S. Dura-Bernal, T. Wennekers 
+and S. Denham, “Gait-Based Person and Gender Recognition Using Micro-Doppler Signatures” 
+Proceedings of the IEEE Biomedical Circuits and Systems Conference (BioCAS’11), 10th -12th 
+Nov 2011, San Diego, USA. 
+25. N. Nicolaou and J. Georgiou / S. Hourris and P. Alexandrou “Cross-Recurrence Rate for 
+Discriminating ‘Concious’ and ‘Unconcious’ State in Propofol General Anesthesia”, 
+Proceedings of the IEEE Biomedical Circuits and Systems Conference (BioCAS’11), 10th -12th 
+Nov 2011, San Diego, USA. 
+
+-----
+ 
+9 
+26. S. Dura-Bernal, G. Garreau, C. Andreou, A. Andreou, J. Georgiou, T. Wennekers and S. 
+Denham, “Human action categorization using ultrasound micro-Doppler signatures”, 2nd 
+International Workshop on Human Behaviour Understanding, pp.18-29, 16th Nov, 2011, 
+Amsterdam, Netherlands. 
+27. N. Nicolaou, S. Houris, P. Alexandrou and J. Georgiou, “Permutation Entropy for 
+discriminating of ‘conscious’ Vs ‘unconscious’ state in of general anesthesia”, 12th 
+Engineering Applications of Neural Networks Conference/ 7th Artificial Intelligence 
+Applications and Innovations Conference, 15th-18th Sept, 2011, Corfu, Greece. 
+28. N. Nicolaou, S. Houris, P. Alexandrou and J. Georgiou, “Entropy measures for discrimination 
+of ‘awake’ Vs ‘anaesthetized’ state in recovery of general anesthesia”, 33rd Annual 
+International Conference of the IEEE Engineering in Medicine and Biology Society 
+(EMBC’11), Aug 30-Sep 3, 2011, Boston, USA. 
+29. A.S. Cassidy, J. Georgiou, A.G. Andreou, “A combinational digital logic approach to STDP”, 
+2011 IEEE International Symposium on Circuits and Systems (ISCAS 2011), pp.673-676, 
+May 15th -18th, 2011, Rio de Janeiro, Brazil. 
+30. A. Cassidy, T. Murray,  J. Georgiou, A.G. Andreou “Evaluating on-chip interconnects for 
+low operating frequency silicon neuron arrays”, 2011 IEEE International Symposium on 
+Circuits and Systems (ISCAS 2011), pp.2437-2440, May 15th -18th, 2011, Rio de Janeiro, 
+Brazil. 
+31. J. Lin, R. Ozgun, P.O. Pouliquen, A.G. Andreou, C. M. Andreou and J. Georgiou, “A 3-pin 
+1V 115µW 176x144 Autonomous Active Pixel Image Sensor in 0.18µm CMOS”, 2011 IEEE 
+International Symposium on Circuits and Systems (ISCAS 2011), pp.1568-1571, May 15th -
+18th, 2011, Rio de Janeiro, Brazil. (BEST PAPER AWARD). 
+32. C. Hadjistassou, J. Georgiou and E. Kyriakides, “Novel Hybrid Photovoltaic-Thermal Solar 
+Cells”, 3rd International Conference on Renewable Energy Sources and Energy Efficiency, 
+Nicosia, Cyprus,  19-20 May 2011. 
+33. J. Georgiou, P. O. Pouliquen, A. S. Cassidy, G. Garreau, C. Andreou, G. Stuarts, C. d'Urbal, 
+S. Denham, T. Wennekers, R. Mill, I. Winkler, T. Bohm, O. Szalardy, G. Klump, S. Jones, A. 
+Bendixen and A. G. Andreou, “A multimodal-corpus data collection system for cognitive 
+acoustic scene analysis”, 45th Annual Conference on Information Sciences and Systems (CISS 
+2011), IEEE DOI:10.1109/CISS.2011.5766101, Mar 23rd -25th, 2011, Baltimore, USA. 
+34. A. Cassidy, A.G. Andreou and J. Georgiou, “Design of a one million neuron single FPGA 
+neuromorphic system for real-time multimodal scene analysis”, 45th Annual Conference on 
+Information Sciences and Systems (CISS 2011), IEEE DOI:10.1109/CISS.2011.5766099, Mar 
+23rd -25th, 2011, Baltimore, USA. 
+35. P. O. Pouliquen, A. Cassidy, G. Garreau, J. Georgiou and A. G. Andreou, “A wireless 
+architecture for distributed sensing/actuation and pre-processing with microsecond 
+synchronization”, 45th Annual Conference on Information Sciences and Systems (CISS 2011), 
+IEEE DOI:10.1109/CISS.2011.5766100, Mar 23rd -25th, 2011, Baltimore, USA. 
+36. G. Garreau, N. Nicolaou, C. Andreou, C. D'Urbal, G. Stuarts and J. Georgiou 
+“Computationally efficient classification of human transport mode using micro-Doppler 
+signatures”, 45th Annual Conference on Information Sciences and Systems (CISS 2011), DOI: 
+10.1109/CISS.2011.5766136, Mar 23rd -25th, 2011, Baltimore, USA. 
+37. N. Nicolaou, S. Houris and J. Georgiou, “Using Granger Causality to Characterise 
+Bidirectional Interactions in the Human Brain During Induction of Anaesthesia”, International 
+Conference on Bio-Inspired Systems and Signal Processing, Jan 26th -29th 2011, Rome Italy 
+38. N. Nicolaou and J. Georgiou, “Permutation Entropy: a new feature for Brain-Computer 
+Interfaces”, Proceedings of the IEEE Biomedical Circuits and Systems Conference 
+(BioCAS’10), Nov 3rd -5th , 2010, Paphos, Cyprus 
+39. P. Demosthenous, N. Nicolaou and J. Georgiou, “A Hardware-Efficient Low-pass Filter 
+Technique for Biomedical Applications”, Proceedings of the IEEE Biomedical Circuits and 
+Systems Conference (BioCAS’10), Nov 3rd -5th, 2010, Paphos, Cyprus 
+40. S. Koudounas, C.M. Andreou and J. Georgiou, “A Novel CMOS Bandgap Reference Circuit 
+with Improved High-Order Temperature Compensation” Proceedings of the 2010 IEEE 
+
+-----
+ 
+10 
+International Symposium on Circuits and Systems (ISCAS’10), pp.4073-4076, 30th May-2nd 
+June, 2010, Paris, France. 
+41. N. Archontas, J. Georgiou, M. Haykel Ben Jamaa, S. Carrara and G. De Micheli, 
+“Characterization of Memristive Poly-Si Nanowires via Empirical Physical Modelling” 
+Proceedings of the 2010 IEEE International Symposium on Circuits and Systems (ISCAS’10), 
+pp.1675-1678, 30th May-2nd June, 2010, Paris, France. 
+42. D. Welch, S. Herman, S. Sen, J.B. Christen and J. Georgiou, “An Optoelectronic /Microfluidic 
+Inclination Sensor for Vestibular Implants”, Proceedings of the IEEE Biomedical Circuits and 
+Systems Conference (BioCAS 2009),  Nov 26th-28th, 2009, Beijing, China. 
+43. M. Haykel Ben Jamaa, S. Carrara, J. Georgiou, N. Archontas, and G. De Micheli, “Fabrication 
+of Memristors with Poly-Crystalline Silicon Nanowires”, 9th International Conference on 
+Nanotechnology, IEEE Nano 2009, July 26-30, Genoa, Italy 
+44. T.G. Constandinou, J. Georgiou and C. Toumazou,  “A neural implant ASIC for the restoration 
+of balance in individuals with vestibular dysfunction”, Proceedings of the 2009 IEEE 
+International Symposium on Circuits and Systems (ISCAS’09), pp.641-644, 24th-27th May 
+2009, Taipei, Taiwan. 
+45. T.G. Constandinou and J. Georgiou, “A Micropower Tilt Processing Circuit”, Proceedings of 
+IEEE Biomedical Circuits and Systems Conference (BioCAS 2008), pp 197-200, Nov 20-22, 
+2008, Baltimore, USA. 
+46. T.G. Constandinou, J. Georgiou and C. Toumazou, “A Fully-Integrated Semicircular Canal 
+Processor for an Implantable Vestibular Prosthesis”, Proceedings of the IEEE International 
+Conference on Electronics, Circuits and Systems (ICECS 2008), pp. 81-84, 31st Aug - 3rd Sept 
+2008, Malta. 
+47. N. Nicolaou, S. Petroudi, J. Georgiou, M. Polycarpou and M. Brady, “Digital Mammography: 
+Towards Pectoral Muscle Removal via Independent Component Analysis”, Proceedings of the 
+IET 4th International Conference On Advances in Medical and Signal Processing (MEDSIP 
+2008), pp. 1-4, 14th-16th July 2008, Ligure, Italy. 
+48. S. Petroudi, M. Brady, N. Nicolaou and J. Georgiou, “Breast Abnormality Detection 
+incorporating Breast Density Information based on Independent Component Analysis”, 
+Proceedings of the 9th International Workshop on Digital Mammography, IWDM 2008, p667-
+673, 20-23 July, 2008, Tucson AZ, USA.  
+49. T. Constantinou, J. Georgiou and C. Toumazou, “Towards an Integrated, Fully-Implantable 
+Vestibular Prosthesis for Balance Restoration”, 3rd International Conference “Smart materials, 
+Structures and Systems”, CIMTEC 2008, pp 210-215, 8th-13th June 2008, Acireale, Sicily, Italy. 
+50. T.G. Constandinou, J. Georgiou and C. Andreou,  “An Ultra-Low-Power Micro-
+Optoelectromechanical Tilt Sensor”, Proceeding of the 2008 IEEE International Symposium on 
+Circuits and Systems (ISCAS’08), pp.3158-3161, 18th-21st May 2008, Seattle, USA. 
+51. T.G. Constandinou, J. Georgiou and C. Toumazou, “A Micropower Front-end Interface for 
+Differential-Capacitive Sensor Systems”, Proceeding of the 2008 IEEE International 
+Symposium on Circuits and Systems (ISCAS’08), pp.2474-2477, 18th-21st May 2008, Seattle, 
+USA. 
+52. T.G. Constandinou, J. Georgiou and C. Toumazou, “A Partial-Current-Steering Biphasic 
+Stimulation Driver for Neural Prostheses”, Proceeding of the 2008 IEEE International 
+Symposium on Circuits and Systems (ISCAS’08), pp.2506-2509, 18th-21st May 2008, Seattle, 
+USA. 
+53. N. Nicolaou, J. Georgiou and S.J. Nasuto, “Single-Trial Event-Related Potential Analysis for 
+Brain-Computer Interfaces”, Proceedings of BCI & HCI Symposium, AISB 2008, Vol.5, p13-
+19, 1st-4th April 2008, Aberdeen, UK. 
+54. N. Nicolaou, J. Georgiou, and M. Polycarpou, “Autoregressive features for a thought-to-
+speech converter”, Proceedings of the International Conference on Biomedical Electronics and 
+Devices, (BIODEVICES ’08), pp.11-16, Vol. 1, 28-31 January 2008, Madeira, Portugal, 
+(BEST PAPER AWARD). 
+55. S. Koudounas and J. Georgiou, “A Reduced Area, Low-Power CMOS Bandgap Reference 
+Circuit”, Proceeding of the 2007 IEEE International Symposium on Circuits and Systems 
+(ISCAS’07), pp. 3832-3835 May 2007, New Orleans, USA. 
+
+-----
+ 
+11 
+56. T.G. Constantinou, J. Georgiou, C.C. Doumanides and C. Toumazou, “Towards and 
+Implantable Vestibular Prosthesis: The Surgical Challenges”, Proceedings of 3rd International 
+IEEE/EMBS Conference Neural Engineering, 2007, CNE’07, pp. 40-43, 2nd-5th May 2007, 
+Hawaii, USA.  
+57. J. Georgiou and A.G. Andreou, “Address Data Event Representation (ADER) for Efficient 
+Neuromorphic Communication”, 2007 Conference on Information Sciences and Systems, CISS 
+2007, pp755-758, March 14-16, 2007, Baltimore, USA. 
+58. J. Georgiou, A.G. Andreou and Philippe O. Pouliquen, “A Mixed Analog/Digital Processor 
+For Cortical Computations in 3D SOI-CMOS”, Proceeding of the 2006 IEEE International 
+Symposium on Circuits and Systems (ISCAS’06), pp4955-4958, 21-24 May, Kos, Greece. 
+59. T. G. Constandinou, J. Georgiou, C. Toumazou, "Towards a Bio-inspired Mixed-signal Retinal 
+Processor," Proceeding of the 2004 IEEE International Symposium on Circuits and Systems 
+(ISCAS’04), Vol. 5, pp. 493-496, 23-26 May, 2004, Vancouver, Canada. 
+60. T.G. Constandinou, J. Georgiou, C. Toumazou, "A nanopower tuneable edge detection 
+circuit," Proceeding of the 2004 IEEE International Symposium on Circuits and Systems 
+(ISCAS’04), Vol. 1, pp. 449-452, 23-26 May 2004, Vancouver, Canada.  
+61. T.G. Constandinou, J. Georgiou and C. Toumazou, “An Auto-input-offset Floating-gate 
+Pseudo Differential Transconductor,” Proceeding of the 2003 IEEE International Symposium 
+on Circuits and Systems (ISCAS’03), Vol. 1, pp. 169-172, 25-28 May 2003, Bangkok, 
+Thailand. 
+62. J. Georgiou and C. Toumazou, “A Micropower Cochlear Prosthesis System,” Proceeding of 
+the 2003 IEEE International Symposium on Circuits and Systems (ISCAS’03), Vol. 3, pp. 834-
+837, 25-28 May 2003, Bangkok, Thailand. 
+63. J. Georgiou and C. Toumazou, “A Resistorless Low Current Reference Circuit For Implantable 
+Devices,” Proceeding of the 2002 IEEE International Symposium on Circuits and Systems 
+(ISCAS’02), Vol. 3, pp. 193-196, 26th –29th May, Scottsdale, Arizona, USA.  
+64. S. Purushothaman, C. Toumazou and J. Georgiou, “Towards Solid State DNA Sequencing,” 
+Proceeding of the 2002 IEEE International Symposium on Circuits and Systems (ISCAS’02), 
+Vol. 4, pp. 169-172, 26th –29th May, Scottsdale, Arizona, USA. 
+65. J. Georgiou and C. Toumazou, “A Micropower Cochlea Prosthesis System,” DSP 2002, 
+Proceedings of the 14th International Conference on Digital Signal Processing, Vol. 1, pp. 443-
+448, July 2002, Santorini, Greece. 
+66. J. Georgiou and C. Toumazou, “An Operating Point Elimination Technique For Weak-
+inversion Log-Domain Filters With Multiple Operating Points,” Proceeding of the 2001 IEEE 
+International Symposium on Circuits and Systems (ISCAS’01), Vol. 1, pp. 153-155, 6th-9th 
+May, Sydney, Australia. 
+67. J. Georgiou, E.M. Drakakis, C. Toumazou and P. Premanoj, “An Analogue Micropower Log-
+domain Silicon Circuit for the Hodgkin and Huxley Nerve Axon” Proceeding of the 1999 IEEE 
+International Symposium on Circuits and Systems (ISCAS’99), Vol. 2 , 1999,  pp. 286 –289, 
+May 30th-June 2nd, Orlando, Florida.  
+ 
+Other Conference/Workshop Papers  
+ 
+1. E. Demarchou, N. Nicolaou and J. Georgiou, “Discriminating between wakefulness and 
+anesthesia: a graph theoretical study”, 7th Cyprus Workshop on Signal Processing and 
+Informatics, Nicosia, Cyprus 15th July, 2014 
+2. J. Georgiou, “Smart Alloy Memristors and the Need for Multiscale Volatility”, Workshop on 
+Memristor-based Systems for Neuromorphic Applications, 16th-17th Sept, 2013, Turin, Italy.  
+3. N. Nicolaou and J. Georgiou, “Non-linear coupling of EEG and ECG signals during sleep”, 6th 
+Cyprus Workshop on Signal Processing and Informatics, Nicosia, Cyprus 9th July, 2013 
+4. A. Kyriakides, Andreas Spanias, J. Georgiou and Costas Pitris, “Noise-Robust Classification 
+using Rank Order Kernels”, 6th Cyprus Workshop on Signal Processing and Informatics, 
+Nicosia, Cyprus 9th July, 2013 
+
+-----
+ 
+12 
+5. N. Nicolaou, S. Houris, P. Alexandrou, and J. Georgiou, `Monitoring awareness during 
+anaesthesia' (in Greek), 12th Congress of Anesthesiology and Intensive Medicine 2012, 
+Thessaloniki, Greece, 27-30 Sept, 2012. 
+6. J. Georgiou, “Bioinspired Acoustic Processing Hardware”, Making Sense of Sound: Workshop 
+on Sounds and Sound Processing in Natural and Artificial Systems, 20/21 February 2012, 
+Plymouth UK  
+7. H. Rostro Gonzalez and J. Georgiou, “A Silicon Auditory Pathway”, Making Sense of Sound: 
+Workshop on Sounds and Sound Processing in Natural and Artificial Systems, 20/21 February 
+2012, Plymouth UK  
+8. G. Garreau and J. Georgiou, “Ultrasonic Micro-Doppler Signatures for Object Recognition”, 
+Making Sense of Sound: Workshop on Sounds and Sound Processing in Natural and Artificial 
+Systems, 20/21 February 2012, Plymouth UK  
+9. G. Garreau, N. Nicolaou and J. Georgiou, “Autoregressive Modelling for Person Classification 
+Using Micro-Doppler Signatures”, 5th Cyprus Workshop on Signal Processing and Informatics, 
+Nicosia, Cyprus 10th July, 2012 
+10. A. Kyriakides, J. Georgiou, Andreas Spanias and Costas Pitris, “Noise-robust Speech 
+Recognition using Rank Order Kernels”, 5th Cyprus Workshop on Signal Processing and 
+Informatics, Nicosia, Cyprus 10th July, 2012 
+11. N. Nicolaou, S. Houris and J. Georgiou, “Discrimination of ‘awake’ and ‘anaesthetised’ state 
+in propofol general anaesthesia”, 4th Cyprus Workshop on Signal Processing and Informatics, 
+Nicosia, Cyprus 14th July, 2011 
+12. G. Garreau, C. M. Andreou, A. G. Andreou, Salvador Dura-Bernal, Thomas Wennekers, Sue 
+Denham, and Julius Georgiou, “Gait-based Person And Gender Recognition Using Micro-
+Doppler Signatures”, 4th Cyprus Workshop on Signal Processing and Informatics, Nicosia, 
+Cyprus 14th July, 2011 
+13. N. Nicolaou, S. Houris and J. Georgiou, “The use of Granger causality for the 
+characterization of bidirectional interactions of human brain activity during induction of 
+general anaesthesia”, 3rd Cyprus Workshop on Signal Processing and Informatics, Nicosia, 
+Cyprus 15th July, 2010 
+14. A. Kyriakides, C. Pitris, J. Georgiou and A. Spanias “Isolated Word Speech Recognition 
+using Rank Order Coding”, 3rd Cyprus Workshop on Signal Processing and Informatics, 
+Nicosia, Cyprus 2010 
+15. A. Kyriakides,  C. Pitris, J. Georgiou, B. Konnanath and A. Spanias "Speech Recognition 
+Using Rank-Order Coding,",  SenSIP Workshop, Sedona, AZ, May 12-14, 2008 
+16. J. Georgiou and A.G. Andreou, “A Mixed Analog/Digital Asynchronous Processor for 
+Network Models of Cortical Computation”, Ninth International Conference on Cognitive and 
+Neural Systems, May 18-21, 2005, Boston, USA. 
+17. J. Georgiou and A.G. Andreou, “An Asynchronous Cortical Processor in a 3D Semiconductor 
+Technology”, 3rd International Symposium on Nanomanufacturing, Nov 3-5, Limassol, Cyprus 
+2005. 
+ 
+ 
+Book Chapters  
+1. N. Nicolaou and J. Georgiou, “Autoregressive Model Order Estimation Criteria for 
+Monitoring Awareness during Anaesthesia”, Artificial Intelligence Applications and 
+Innovations, Springer, ISBN 978-3-642-41141-0, DOI 10.1007/978-3-642-41142-7  
+2. N. Nicolaou, S. Houris, P. Alexandrou and J. Georgiou, “Permutation Entropy for 
+Discriminating ‘Concious’ and ‘Unconcious’ State in General Anaesthesia”, Engineering 
+Applications of Neural Networks, Springer Boston, ISBN: 978-3-642-23956-4, pp280-288, 
+Vol. 363, Url: http://dx.doi.org/10.1007/978-3-642-23957-1_32, Doi: 10.1007/978-3-642-
+23957-1_32 
+3. N. Nicolaou and J. Georgiou, “Towards an Morse Code Based Non-invasive Thought-To-
+Speech Converter”, Communications in Computer and Information Science Book Series, 
+Volume 25,  ISSN 1865-0929, pp123-135, 2009. 
+
+-----
+ 
+13 
+ 
+Patents Granted 
+1. C. Della-Santina, A. G. Andreou, Z. Kalajian, G. Fridman, B. Chiang and J. Georgiou, “High-
+voltage CMOS Neuroelectronic Interface for Multichannel Vestibular Prosthesis”, 
+WO/2012/018631, PCT/US2011/045384, 26th July 2011. 
+2. C. Toumazou and J. Georgiou, “Reference Circuit”, US 7,242,241, July 10th 2007. 
+3. C. Toumazou and J. Georgiou, “Circuit”, US2004/0080353, 29th April, 2004. 
+4. C. Toumazou and J. Georgiou, “Reference Circuit”, WO/2003/098368, Nov 27th, 2003. 
+5. C. Toumazou and J. Georgiou, “Fully Implantable Cochlear Implant System and Electronic 
+Circuits Therefor”, WO/2002/089913, 14th November 2002. 
+6. C. Toumazou and J. Georgiou, “Method and circuit for maintaining a single stable DC 
+operating point”, WO/2002/060059, 1st Aug 2002. 
+ 
+Patents Pending 
+1. J. Georgiou and C. Andreou, “All-CMOS, Low-voltage, Wide-Temperature Range, Voltage 
+Reference Circuit”, PCT/US14/38659, 19th May 2014. 
+2. J. Georgiou and C. Andreou, “Hybrid MEMS Microfluidic Gyroscope”, PCT/US13/58108, 4th 
+Sept 2013. 
+3. J. Georgiou and C. Andreou, “All-CMOS, Low-voltage, Wide-Temperature Range, Voltage 
+Reference Circuit”, Application number 61825086, 19th May 2013. 
+4. J. Georgiou and C. Andreou, “Bio-inspired Micro-fluidic Angular-rate Sensor”, Application 
+number 61696318, 4th Sept 2012. 
+5. J. Georgiou and E. Kyriakides, “Smart-Alloy Memristors”, Application number 61619595, 3rd 
+April 2012. 
+ 
+ 
+Invited/Keynote Talks 
+ 
+1. “Bio-electronics for Improved Quality of Life”, International Conference on Modern Circuits 
+and Systems Technologies (MOCAST 2016), Thessaloniki, Greece, May 12-14, 2016. 
+2. “Implementing the Hodgkin-Huxley Nerve Axon Model with Sub- threshold CMOS Transistors 
+and Capacitors”, 7th-9th Sept 2015, 10th SICC Int’l Workshop Topics in Nonlinear Dynamics, 
+Turin, Italy. 
+3. “A Bioinspired System for Acoustic Scene Analysis”, 31st Aug 2015, Italian Institute of 
+Technology, Genova, Italy. 
+4. “Memristors: The Challenging Leap from Devices to Systems”, 2014 CAS-FEST Keynote 
+Speaker, 5th June 2014, Melbourne, Australia. 
+5. “A Bio-inspired System for Acoustic Scene Analysis”, Mediterranean Acoustics Festival, 22nd 
+April 2014, Limassol, Cyprus. 
+6. “Smart Alloy Memristors and the Need for Multiscale Volatility”, Workshop on Memristor-
+based Systems for Neuromorphic Applications, 16th-17th Sept, 2013, Turin, Italy.  
+7. “Vestibular Implant: the next commercial bionic device?”, 4th Annual NanoNetwork 
+Workshop, 17th-19th June, 2013, Bergen, Norway. 
+8.  “Electronics for Space”, European Space Expo, 18th Nov 2012, Larnaca, Cyprus.  
+9.  “Memristors for Energy-Efficient, Bioinspired Processing”, IEEE 27th Convention of Electrical 
+and Electronics Engineers in Israel, 14th-17th Nov 2012, Eilat, Israel  
+10. “Bioinspired Acoustic Processing Hardware”, Making Sense of Sound: Workshop on Sounds 
+and Sound Processing in Natural and Artificial Systems, 20/21 February 2012, Plymouth UK 
+11. “MEMS Devices for Vestibular Implants”, Third STIMESI Workshop on MEMS and 
+Microsystems Research and Teaching, Kaiserstejensky Palace, Prague, Czech Republic, 13 
+November 2009. 
+12. “Vestibular Implants: Reality or Science Fiction?”, Pazmany Peter Catholic University, 30th 
+September 2009. 
+
+-----
+ 
+14 
+13. “Neurostimulation of the Cochlea and the Auditory System”, IEEE BioCAS 2007 Tutorials, 
+November 27th-30th 2007, Montreal, Canada  (Sponsored by CerboMed GmBH) 
+14.  “An Analog, Fully Implantable Micropower, Log Domain Cochlear Prosthesis”, IEEE  ISCAS 
+2001 Tutorials 
+15. “An Analog, Fully Implantable Micropower, Log Domain Cochlear Prosthesis” for Cochlear 
+Limited, 14 Lane Cove NSW 2066, Australia. 10th May 2001 
+ 
+Hobbies 
+1. 
+Long distance running – Paphos Marathon 2016, 4:08:40 (6/3/2016) 
+2. 
+Long distance Triathlon (2013- to date) 
+K1 Man -Half Ironman, 1.9km swim, 90km cycle, 21.1km run – 6:08:19 (22/10/2015) 
+3. 
+Long distance swimming – first Cypriot to swim across the English Channel  
+Unassisted solo crossing of the English Channel in 10h 24min (10/8/03) 
+Unassisted solo crossing of the English Channel in 14h 29min   (4/9/03) 
+4. Scuba diving 
+PADI Open Water Diver (since 2009) 
+5. Sailing  
+Skipper/Owner of 39’ Beneteau Oceanis sailboat (since 2006) 
+ 
+ 
+
+-----
+Julius Georgiou
+University of Cyprus
+Google Scholar
+Citation indices
+All
+Since 2011
+Citations
+1114
+869
+h­index
+16
+14
+i10­index
+23
+19
+Title
+1–20
+Cited by
+Y
+ear
+Detection of epileptic electroencephalogram based on permutation entropy and
+support vector machines
+N Nicolaou, J Georgiou
+Expert Systems with Applications 39 (1), 202­209
+112
+2012
+A 126­μW cochlear chip for a totally implantable system
+J Georgiou, C T
+oumazou
+IEEE Journal of Solid­State Circuits 40 (2), 430­443
+112
+2005
+T
+owards fast solid state DNA sequencing
+S Purushothaman, C T
+oumazou, J Georgiou
+Circuits and Systems, 2002. ISCAS 2002. IEEE International Symposium on 4 ...
+87
+2002
+A novel wide­temperature­range, 3.9 ppm/C CMOS bandgap reference circuit
+CM Andreou, S Koudounas, J Georgiou
+IEEE Journal of Solid­state circuits 47 (2), 574­581
+63
+2012
+A partial­current­steering biphasic stimulation driver for vestibular prostheses
+TG Constandinou, J Georgiou, C T
+oumazou
+IEEE transactions on biomedical circuits and systems 2 (2), 106­113
+58
+2008
+Designing high efficiency segmented thermoelectric generators
+C Hadjistassou, E Kyriakides, J Georgiou
+Energy Conversion and Management 66, 165­172
+41
+2013
+Design of a one million neuron single FPGA neuromorphic system for real­time
+multimodal scene analysis
+A Cassidy, AG Andreou, J Georgiou
+Information Sciences and Systems (CISS), 2011 45th Annual Conference on, 1­6
+41
+2011
+The use of permutation entropy to characterize sleep electroencephalograms
+N Nicolaou, J Georgiou
+Clinical EEG and Neuroscience 42 (1), 24­28
+39
+2011
+EEG­based automatic classification of ‘awake’versus ‘anesthetized’state in
+general anesthesia using Granger causality
+N Nicolaou, S Hourris, P Alexandrou, J Georgiou
+PLoS One 7 (3), e33869
+36
+2012
+Design of silicon brains in the nano­CMOS era: Spiking neurons, learning synapses
+and neural architecture optimization
+AS Cassidy, J Georgiou, AG Andreou
+Neural Networks 45, 4­26
+34
+2013
+A resistorless low current reference circuit for implantable devices
+J Georgiou, C T
+oumazou
+Circuits and Systems, 2002. ISCAS 2002. IEEE International Symposium on 3 ...
+31
+2002
+
+-----
+Title
+1–20
+Cited by
+Y
+ear
+Current­mode analogue circuit representation of Hodgkin and Huxley neuron
+equations
+C T
+oumazou, J Georgiou, EM Drakakis
+Electronics Letters 34 (14), 1376­1377
+31
+1998
+A micropower front­end interface for differential­capacitive sensor systems
+TG Constandinou, J Georgiou, C T
+oumazou
+2008 IEEE International Symposium on Circuits and Systems, 2474­2477
+20
+2008
+An auto­input­offset removing floating gate pseudo­differential transconductor
+TG Constandinou, J Georgiou, C T
+oumazou
+Circuits and Systems, 2003. ISCAS'03. Proceedings of the 2003 International ...
+19
+2003
+A neural implant ASIC for the restoration of balance in individuals with vestibular
+dysfunction
+TG Constandinou, J Georgiou, C T
+oumazou
+2009 IEEE International Symposium on Circuits and Systems, 641­644
+17
+2009
+An analogue micropower log­domain silicon circuit for the Hodgkin and Huxley
+nerve axon
+J Georgiou, EM Drakakis, C T
+oumazou, P Premanoj
+Circuits and Systems, 1999. ISCAS'99. Proceedings of the 1999 IEEE ...
+17
+1999
+Human action categorization using ultrasound micro­Doppler signatures
+S Dura­Bernal, G Garreau, C Andreou, A Andreou, J Georgiou, ...
+International Workshop on Human Behavior Understanding, 18­28
+16
+2011
+A novel CMOS bandgap reference circuit with improved high­order temperature
+compensation
+S Koudounas, CM Andreou, J Georgiou
+Proceedings of 2010 IEEE International Symposium on Circuits and Systems ...
+16
+2010
+Fabrication of memristors with poly­crystalline silicon nanowires
+MHB Jamaa, S Carrara, J Georgiou, N Archontas, G De Micheli
+Nanotechnology, 2009. IEEE­NANO 2009. 9th IEEE Conference on, 152­154
+16
+2009
+Micro­optoelectromechanical tilt sensor
+TG Constandinou, J Georgiou
+Journal of Sensors 2008
+16
+2008
+Dates and citation counts are estimated and are determined automatically by a computer program.
+
+-----

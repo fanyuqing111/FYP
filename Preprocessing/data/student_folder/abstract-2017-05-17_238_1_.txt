@@ -1,0 +1,25 @@
+Abstract 
+ 
+With the rapid development of power management unit, switching converters are widely 
+used as voltage regulators due to its high power conversion efficiency. In the context of high-speed 
+applications that require different operation modes in the embedded systems, the frequently 
+changing load current in specifications may induce significant undershoot/overshoot variations. 
+This will deteriorate the overall system performance such as data missing, transmission errors, 
+robustness and so forth. As such, it directly poses the design challenge for the switching converters. 
+From the application prospective, fast-transient response becomes one of the key parameters for 
+the design of this specific DC-DC converter. In this thesis, the representative fast-transient circuit 
+techniques for DC-DC converters has been extensively reviewed. To tackle the issue, a new 
+pumping control scheme is proposed to enhance the transient response of a voltage-mode 
+hysteretic DC-DC buck converter in 40nm CMOS technology. Comparing with conventional 
+counterparts, it is able to improve the transient response and reduce the undershoot/overshoot 
+voltage together with the multiple undershoot/overshoot effect during the load current transitions. 
+Besides, a detailed theoretical analysis is conducted to give the in-sight of circuit technique.  From 
+the simulation results, the output voltage ripple is obtained at about 36mVpp whilst the 
+undershoot/overshoot settling time is obtained as 620ns/550ns in response to a 200mA load current 
+step. The undershoot/overshoot voltage can be maintained within 2%. The peak efficiency is 94% 
+for the entire load current range. It has confirmed that these simulation results correlate well with 
+the theory for validation of transient enhancement. The performance comparison has shown that 
+the proposed circuit technique outperforms that of the reported works. 
+ 
+
+-----

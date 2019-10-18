@@ -1,0 +1,106 @@
+Multicore fibers for sensing applications 
+Abstract 
+Multicore fibers (MCFs) are optical fibers which have several cores integrated in a common 
+cladding. As one type of space-division multiplexing, MCFs have been widely investigated in 
+optical communication to improve the data capacity limit. Due to the intrinsic advantages such 
+as small size, well defined core separation, improved isothermal behaviour, light weight, 
+immunity to electromagnetic interference, MCFs have also attracted extensive interest for 
+optical sensing. MCF based sensors can not only be utilized for structural health monitoring, 
+but also medical sensing and robot position tracking.  This thesis focuses on investigating and 
+fabricating MCF based sensors with high performance by post-processing techniques such as 
+inscribing gratings or introducing helical structures into the MCFs. 
+In this thesis, we first review the background knowledge of optical fiber gratings, optical 
+fiber interferometry and MCFs, as well as the development of MCF based sensors. And then 
+we detail the working principles, fabrication methods and experimental results of three sensors 
+based on a heterogeneous MCF. 
+The first one is a directional bending sensor based on FBGs inscribed in the heterogeneous 
+MCF. To date, several types of sensors based on FBGs inscribed in homogeneous MCFs have 
+been reported. However, due to the homogeneous properties of the multiple cores, 
+simultaneous interrogation of the FBGs in the multiple cores demands high precision and 
+cumbersome alignment with, for example, a coupler and a ball lens, or customized and 
+complicated fan-out devices. Therefore, to realize an easier interrogation of the FBGs in 
+different cores, we propose to inscribe FBGs in heterogeneous MCFs. As the heterogeneous 
+MCFs have non-identical cores, FBGs with different resonant wavelengths can be inscribed 
+simultaneously into the multiple cores in only one process with the scanned phase mask method. 
+The MCF we used has six identical outer cores and a center core with a little lower refractive 
+index. Due to the difference in refractive indices between the center core and outer cores, the 
+FBGs with obviously different central wavelengths can be measured by only splicing a segment 
+of MMF between the MCF and the lead-in SMF. The curvature sensitivity of the FBG in the 
+outer core depends on the bending orientation in the form of sine function. The maximum linear 
+curvature sensitivity is about 0.128 nm/m-1. The proposed sensor offers advantages of 
+flexibility in fabrication, simple interrogation and capability of eliminating the cross sensitivity 
+to temperature or externally applied axial strain.  
+
+-----
+The second one is a highly sensitive strain sensor based on a helical structure (HS) 
+fabricated in the MCF. The MCF was locally twisted into a HS permanently by a CO2 laser 
+splicing system and then spliced between two short sections of multimode fibers (MMFs) to 
+construct an in-line Mach-Zehnder interferometer. In the region of the HS, the outer cores were 
+deformed into spring-like structures while the center core was kept straight. Due to the HS, a 
+maximum strain sensitivity as high as −61.8pm/με was experimentally achieved. This is the 
+highest sensitivity among interferometer-based strain sensors reported so far, to the best of our 
+knowledge.  Moreover, the proposed sensor has the ability to discriminate axial strain and 
+temperature, and offers several advantages such as repeatability of fabrication, robust structure 
+and compact size, which further benefits its practical sensing applications. 
+Based on the MCF with the HS, we also propose and demonstrate a sensor for directional 
+torsion and temperature discrimination. By introducing the short HS, not only the fiber circular 
+asymmetry was achieved but the multiple interference was enhanced significantly. The 
+maximum torsion sensitivity of the proposed sensor reaches −0.118 nm/(rad/m) for the twist 
+range from −17.094 rad/m to 15.669 rad/m. Compared with the previously reported torsion 
+sensor schemes utilizing micro-machining means, the proposed sensor not only owns the 
+capability of the discrimination of directional torsion and temperature but also takes the merits 
+of easy fabrication and good mechanical robustness. 
+ 
+Publication list 
+Journal Papers Published 
+1. H. Zhang et al. Directional torsion and temperature discrimination based on 
+multicore fiber with helical structure. Opt. Express 26(1): 544-551(2018). 
+2. H. Zhang et al. Highly sensitive strain sensor based on helical structure combined 
+with Mach-Zehnder interferometer in multicore fiber. Sci. Rep. 7: 46633 (2017). 
+3. H. Zhang et al. Fiber Bragg gratings in heterogeneous multicore fiber for directional 
+bending sensing. J. of Opt. 18(8): 085705 (2016). 
+4. Z. Wu, P. P. Shum, X. Shao, H. Zhang et al. Temperature-and strain-insensitive 
+curvature sensor based on ring-core modes in dual-concentric-core fiber. Opt. 
+Lett. 41(2): 380-383(2016). 
+
+-----
+5. Z. Wu, H. Zhang et al. Supermode Bragg grating combined Mach-Zehnder 
+interferometer for temperature-strain discrimination. Opt. Express 23(26): 33001-
+330072(2015). 
+6. R. Wang, R. Lin, M. Tang, H. zhang et al. Electrically programmable all-fiber 
+structured second order optical temporal differentiator. IEEE Photon. J. 
+7(3):7101510(2015).  
+7. R. Wang, M. Tang, L. Zhang, H. Zhang, et al. Demonstration of programmable In-
+Band OSNR monitoring using LCFBG with commercial thermal printer head. IEEE 
+Photon. J. 7(4): 6802008 (2015).  
+Journal Paper in preparation 
+1. H. Zhang et al. Spatial-division multiplexed helical long period gratings in multicore 
+fiber for multiparameter measurement. (in preparation) 
+ 
+Conference Papers 
+1. H. Zhang et al. Helical long period grating in multicore fiber for simultaneous 
+measurement of torsion and temperature. In CLEO-PR/OECC/PGC 2017. 
+2. H. Zhang et al. Directional bending sensor based on spatially arrayed long period gratings 
+in multicore fiber. In CLEO-PR/OECC/PGC 2017  
+3. Z. Wu, H. Zhang et al. Sensing application based on helical-structured multicore fiber. In 
+CLEO-PR/OECC/PGC 2017  
+4. Y. Zheng, Z. Wu, H. Zhang et al. Design of Fabry-Perot Refractometer based on a 
+simplified hollow-core PCF with a CFBG pair. In CLEO-PR/OECC/PGC 2017  
+5. R. Wang, M. Tang, S. Fu, H. Zhang et al. Integrated chiral long period gratings in 
+multicore fiber. In CLEO, May 2017, Paper JW2A.64. 
+6. H. Zhang et al. Simultaneous measurement of torsion and temperature based on helical 
+structure in multicore fiber. In ACP, Nov. 2016, Paper AF3A-4. (OSA Best Student Paper 
+Award).  
+7. H. Zhang et al. Highly sensitive strain sensor based on helical structure in multicore fiber. 
+In CLEO, Jul. 2016, Paper SM2P.3. (IPS Singapore Chapter student travel grant award). 
+8. H. Zhang et al. Simultaneous measurement of temperature and curvature with multicore 
+fiber based Mach-Zehnder interferometer and fiber Bragg grating, in PGC, Jun. 2015. 
+9. Z. Wu, X. Shao, P. P. Shum, H. Zhang et al. Grating effect in lanthanum aluminum silicate 
+glass fiber，In CLEO, May 2015. Paper SM3L.2 
+
+-----
+10. Z. Wu, N. Zhang, P. P. Shum, X. Shao, H. Zhang et al. Curvature sensor based on long-
+period grating in dual concentric core fiber, In CLEO, May 2015, Paper ATu1M.5 
+ 
+
+-----

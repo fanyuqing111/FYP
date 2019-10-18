@@ -1,0 +1,14 @@
+Global Navigation Satellite System (GNSS) Radio Occultation (RO) is an atmospheric remote 
+sensing method, providing additions to the current weather and climate study. During a RO 
+event, the GNSS signals scrubbing the Earth's atmosphere are delayed and bent before picked up 
+by the GNSS receivers. The collected signal contains the Earth's atmospheric effects and is used 
+to derive atmospheric parameters. 
+Several aspects in GNSS RO is covered here. The GNSS tracking algorithms are first discussed. 
+Then, we studied the RO inversion algorithms using the tracked signals to obtain atmospheric 
+refractivity profiles, and the error characteristics of the positioning errors' effect on the retrieved 
+refractivity errors. In addition, the GNSS RO's application is extended to planetary boundary 
+layer height (PBLH) detection. A signal amplitude-based method is proposed and verified. It 
+shows advantages such as easy implementation, and avoids some of the assumptions and steps 
+associated with the common refractivity gradient-based method. 
+
+-----

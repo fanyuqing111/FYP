@@ -1,0 +1,197 @@
+Professor Liu, Yun-hui 
+Professor 
+BEng, Beijing Institute of Technology; 
+MEng, Osaka University; 
+PhD, University of Tokyo; 
+Fellow IEEE 
+Address: 
+Mechanical and Automation Engineering 
+Room 208, William M.W. Mong Engineering Building 
+Chinese University of Hong Kong, Shatin, N.T. 
+Hong Kong SAR, China 
+Tel: 
+Fax: 
+e-mail: 
+Website: 
+Laboratory: 
+(852) 3943 8340 
+(852) 2603 6002 
+yhliu@mae.cuhk.edu.hk 
+http://www.mae.cuhk.edu.hk/~yhliu 
+Networked Sensors and Robotics Laboratory
+ 
+ 
+ 
+Biography 
+ 
+Yunhui Liu received the B.Eng. degree in applied dynamics from Beijing Institute of Technology, 
+Beijing, China, in 1985, the M.Eng. degree in mechanical engineering from Osaka University, Osaka, 
+Japan, in 1989, and the Ph.D. degree in mathematical engineering and information physics from the 
+University of Tokyo, Tokyo, Japan, in 1992. 
+ 
+He worked with the Electrotechnical Laboratory, MITI, Japan, from 1992 to 1995. Since February 
+1995, he has been with the Chinese University of Hong Kong and is currently a Professor at the 
+Department of Mechanical and Automation Engineering. He is also a ChangJiang Professor (visiting) 
+of the National University of Defense Technology and a Visiting Professor of Harbin Institute of 
+Technology. He has published over 200 papers in refereed journals and refereed conference 
+proceedings. His research interests include visual servoing, medical robotics, multifingered robot 
+hands, mobile robots, sensor networks, and machine intelligence. Dr. Liu has received numerous 
+research awards from international journals and international conferences in robotics and 
+automation and government agencies. He is the Editor‐in‐Chief of a new journal "Robotics and 
+Biomimetics" to be launched in 2014 by Springer and an Editor of Advanced Robotics. He was an 
+Associate Editor of the IEEE TRANSACTIONS ON ROBOTICS AND AUTOMATION from 2001 to 2004 
+and the general chair of the 2006 IEEE/RSJ International Conference on Intelligent Robots and 
+Systems (IROS). 
+
+-----
+ 
+Research 
+o 
+Medical robotics, biomedical sensors and systems, 
+o 
+vision-based control of robotic systems, aerial robots, 
+o 
+mobile robotics, mutli-fingered grasping. 
+o 
+Research Grants: 
+o 
+Yunhui Liu (PI), et al., "A robotic assistant for manipulating uterus in hysterectomy," HK$4,999,720, Innovation and 
+Technology Fund, 2012-2014. 
+o 
+Yunhui Liu (PI), et al., "Development of a robotic system for nasal surgery", HK$998,023, Innovation and 
+Technology Fund, 2010-2012. 
+o 
+Yunhui Liu (PI), "Passivity-based Force Control of Medical Robots Interacting with Soft Tissues", HK$681,195, 
+RGC GRF, 2012-2014. 
+o 
+Yunhui Liu (PI), "Adaptive visual servoing of unmanned water surface robots", HK$1,224,000, RGC GRF, 2011-
+2013. 
+o 
+Yunhui Liu (PI), "Fast Localization of Robots Using a Vision-Based Adaptive Estimator", HK$905,425, RGC, GRF, 
+2012-2015. 
+o 
+Yunhui Liu (PI) grant, "Vision-based flying control of small autonomous helicopters", HK$1,086,040, RGC GRF, 
+2008-2011. 
+o 
+Yunhui Liu (PI), et al., "Internet Robotics Innovation Park", HK$2,999,996, Innovation and Technology Fund, 2007-
+2009. 
+o 
+Yunhui Liu (PI), et al., "Hand-in-Hand: Feel your touch over the Internet", HK$1,100,000, Innovation and 
+Technology Fund, 2009-2011. 
+o 
+Yunhui Liu (PI), et al., "Internet-based education for design and innovation", HK$1,750,000, Quality Education 
+Fund, 2008-2010. 
+o 
+Yunhui Liu (PI) et al., "Innovation technology education via internet-based robotics competitions", HK$2,000,000, 
+Quality Education Fund, 2007-2009. 
+ 
+ 
+Publications 
+ 
+Books 
+o 
+Yunhui Liu and Dong Sun (eds.): Advancement in Biologically Inspired Robotics, CRC Press, 2011. 
+ 
+Journal Papers 
+ 
+o 
+Y. H. Liu, H. Wang, W. Chen and D. Zhou, Adaptive Visual Servoing Using Common Image Features with Unknown 
+Geometric Parameters, Automatica, 2013. 
+o 
+T. K. Lau and Y. H. Liu, Inertial-based Localization For Unmanned Helicopters Against GNSS Outage, IEEE 
+Transactions on Aerospace and Electronic Systems, 2013 
+o 
+T. K. Lau and Y. H. Liu, Modeling of Cross-coupling Responses on Hingeless Helicopters via Gyroscopic effect, ASME 
+Transactions Journal of Computational and Nonlinear Dynamics, 2011. 
+o 
+H. Wang, Y. H. Liu, W. Chen and Z. Wang, A New Approach to Dynamic Eye-in-Hand Visual Tracking Using 
+Nonlinear Observers, IEEE/ASME Transactions on Mechatronics vol.16, no.2, pp.387-394. 2011. 
+o 
+H. Wang, Y. H. Liu and W. Chen, Uncalibrated visual tracking control without visual velocity, IEEE Trans. on Control 
+Systems Technology, 18(6): 1359-1370, 2010. 
+o 
+L. M . Fok, Y. H. Liu and W. J. Li, Prototyping of Beam Shaping Diffraction Gratings by AFM Nanoscale Patterning, 
+IEEE Trans. on Automation Science and Engineering, 7(1):49-57, 2010. 
+o 
+H. Wang, Y. H. Liu, and D. Zhou, Adaptive visual servoing using point and line features with an uncalibrated eye-in-
+hand camera, IEEE Trans. on Robotics, 24(4): 843-857, 2008. 
+o 
+M. Li and Y. H. Liu, Dynamic modeling and experimental validation for interactive endodontic simulation, IEEE Trans. 
+on Robotics, 23(3):443-458, 2007. 
+o 
+H. Wang, Y. H. Liu and D. Zhou, Dynamic visual tracking for manipulators using an uncalibrated fixed camera, IEEE 
+Trans. on Robotics, 23(3):610-617, 2007. 
+o 
+Y.H. Liu, H. Wang, C. Wang and K. K. Lam, Uncalibrated visual servoing of robots using a depth-independent 
+interaction matrix, IEEE Trans. on Robotics, 22(4):804-817, 2006. 
+ 
+Conference Papers 
+ 
+
+-----
+o 
+K. Wang, Y. H. Liu and L. Y. Li, Vision-based Tracking Control of Nonholonomic Mobile Robots without Position 
+Measurement, Proc. of IEEE Int. Conf. on Robotics and Automation, 2013. 
+o 
+D. Navarron-Alarcon, Y. H. Liu, J. Romero and P. Li, Visually Servoed Deformation Control by Robot Manipulators, 
+Proc. of IEEE Int. Conf. on Robotics and Automaiton, 2013. 
+o 
+LAU Tak Kit and LIU Yunhui. "Stunt Driving via Policy Search". Proc. of 2012 IEEE International Conference on 
+Robotics and Automation, p.4699-4704. 2012. 
+o 
+LAU Tak Kit and LIU Yunhui. "Learning Hover with Scarce Samples". Proc. of 2012 IEEE International Conference on 
+Robotics and Automation, p.4629-4635. 2012. 
+o 
+LAU Tak Kit and LIU Yunhui. "The Importance of Variance Reduction in Policy Gradient Method". Proc. of 2012 
+American Control Conference, p.1376-1381, 2012. 
+o 
+(LAU Tak Kit; LIU Yunhui and LIN, Kai Wun. "Evolutionary Tuning of Sigma-Point Kalman Filters", Proc. of 2011 
+IEEE International Conference on Robotics and Automation, pp. 771 - 776, 2011. 
+o 
+WANG Hesheng; LIU Yunhui and CHEN Weidong. "Vision-based Robotic Tracking of Moving Object with Dynamic 
+Uncertainty". Proc. of 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems, pp. 2896 - 2901, 
+2010 
+o 
+LAU, Tak Kit; LIU Yunhui and LIN, Kai Wun. "A Robust State Estimation Method Against GNSS Outage for 
+Unmanned Miniature Helicopters", Proc. of 2010 IEEE International Conference on Robotics and Automation, organized 
+by IEEE , p.1116-1122, 2010. 
+ 
+ 
+ 
+Honors & Awards 
+o 
+Highly Cited Authors (Engineering) by Thomson Reuters, 2013 
+o 
+Fellow of the Institute of Electrical and Electronic Engineers (IEEE), 2009 
+o 
+Fellow of Hong Kong Institute of Engineering, 2012. 
+o 
+The SUPCON Best Paper Award of 2010 World Congress on Intelligent Control and Automation (with Hesheng Wang), 
+2010. 
+o 
+Science and Technology Progress Award (2nd class), Ministry of Education, China (with Han Ding and X. Y. Zhu), 
+2005 
+o 
+Best Journal Paper Award from the Robotics Society of Japan (with Suguru Arimoto), 1994. 
+o 
+Best Journal Paper Award from the Robotics Society of Japan (with K. Kitagaki, T. Suehiro, T. Ogasawara), 1998. 
+o 
+Best Paper (1st place) Award at the 2003 IEEE Third Electro/Information Technology (with I. Elhajj, N. Xi and W. 
+Fung), 2003. 
+o 
+Outstanding paper award (3rd place) of the IEEE First Electro/Information Technology Conference (with I. Elhajj, N. Xi 
+and W. Fung) 
+o 
+Chang Jiang Scholar, Ministry of Education of China and Li K. S. Foundation, 2001. 
+o 
+Best student papers by Ph.D. students at 2011 IEEE Int. Conf. on Robotics and Biomimetics (ROBIO 2011) (T. K. Lau), 
+ROBIO 2006 (M. L. Lam), and 2007 IEEE Int. Conf. on Integration Technology (H. Wang). 
+o 
+External Services 
+o 
+Editor-in-Chief, Robotics and Biomimetics, a new journal to be launched by Springer. 
+o 
+Editor, Advanced Robotics 
+ 
+
+-----

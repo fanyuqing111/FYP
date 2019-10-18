@@ -1,0 +1,63 @@
+1 
+ 
+AN APPROACH FOR CIRCUIT DESIGN OPTMIZATION BASED 
+ON COMPLEXITY CONSIDERATIONS 
+ 
+Abstract 
+Optimizing circuit trade-offs is a highly challenging task for any design team. This 
+challenge is further exacerbated with the additional design complexity of integrating 
+multiple circuits. Today, with the increasing demand for newer wireless communication 
+products, design teams face a shorter time-to-market (TTM) for every generation of their 
+new products and each product requires major improvement in wireless capability. Hence, 
+it is important for the design teams to design circuits with complexity in mind. A design 
+methodology divided into architecture complexity, component complexity and 
+discretional complexity are proposed. A novel benchmarking figure-of-merit, complexity 
+factor (CF), was formulated and proposed for the architecture complexity. A simulated 
+application of a goal, gain optimization, demonstrated and revealed that a reduction of up 
+to 400% in the normalized complexity factor (NCF) could enhance the gain performance 
+by approximately up to 40% for ultra-high frequency (UHF) applications. As the number 
+of variables to be permuted is very high for the power amplifier (PA) blocks from circuit 
+down to the process level, it is treated as a black box in the analysis but the next topology 
+complexity step addressed this. Two topologies were proposed; a cascode 2-stacked 
+EDNFET and SGNFET and a cascode 4-stacked resistor-ladder SGNFET PA. Both of 
+
+-----
+2 
+ 
+them achieved a near 20dBm output power and approximately 60% efficiency on the test-
+chips measurements, which demonstrated that the 2-stacked EDNFET and SGNFET 
+topology with a reduction in stack height is a potential candidate for a reduced difficulty 
+and complexity DPA design. In the discretional complexity step, we proposed a 
+broadside coupler designed on 65nm CMOS process delivering a S21 and S31 of almost -
+4dB designed with 0.4dB of over-coupling. The spread of the phase difference is less 
+than 2.2° from 57GHz to 66GHz, which is only a 2.4% margin deviation. The broadside 
+coupler has a reduced complexity compared with a Wilkinson power divider with a 
+broader bandwidth and we implemented this into a DPA with a gm3 cancellation bias 
+scheme tapping on its intrinsic linearization property, without adding external circuity to 
+increase the complexity of the overall circuit but at the same time, improve its linearity 
+by 6-8dB compared to a DPA optimized for power and more than 10dB compared with a 
+balance PA with a similar structure. 
+ 
+ 
+
+-----
+3 
+ 
+Publications 
+Aaron Tan, Rui Tze Toh, Yongfu Li, Alfred Lim, Zhi Hui Kong, Kaixue Ma, Kiat Seng 
+Yeo, “A Methodology To Evaluate Circuit Complexity: Doherty Power Amplifier As A 
+Case Study” Submitted 
+Rui Tze Toh, Shyam Parthasarathy, Aaron Tan, Amit Kumar Sahoo, Jen Shuang Wong, 
+Shaoqiang Zhang, Madabusi Govindarajan, Kok Wai Chew, “Power Amplifier 
+Topologies Using EDNMOS On CMOS-SOI For Sub-6 GHz Wireless Applications” 
+Pending Submission 
+Aaron Tan, Kaixue Ma, Kiat Seng Yeo, Zhi Hui Kong, “A Compact 60GHz CMOS 
+Doherty Power Amplifier,” published in IEEE Asia Pacific Wireless Communication 
+Symposium (APWCS), 2015 
+A. Tan, K. Ma, Z. H. Kong, and K. S. Yeo, "A Gm3 cancellation bias for 60GHz Doherty 
+Power Amplifier," in 2015 International SoC Design Conference (ISOCC), 2015, pp. 
+195-196. 
+Alfred Lim, Aaron Tan, Zhi Hui Kong, Kaixue Ma, Kiat Seng Yeo, “A 2.4-Ghz 
+Transformer-Based Class-E Power Amplifier” Submitted 
+
+-----

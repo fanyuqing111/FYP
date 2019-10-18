@@ -1,0 +1,33 @@
+Publication List 
+ 
+Journal papers 
+As the First Author 
+Zhang S, Zhong W D, Du P, et al. Experimental demonstration of indoor sub-decimeter accuracy VLP system 
+using differential PDOA[J]. IEEE Photonics Technology Letters, 2018, 30(19): 1703-1706. 
+Zhang S, Du P, Chen C, et al. Robust 3D Indoor VLP System Based on ANN Using Hybrid RSS/PDOA[J]. IEEE 
+Access, 2019, 7: 47769-47780. 
+As Co-author 
+Du P, Zhang S, Chen C, et al. Demonstration of a low-complexity indoor visible light positioning system using 
+an enhanced TDOA scheme[J]. IEEE Photonics Journal, 2018, 10(4): 1-10. 
+Du P, Zhang S, Chen C, et al. Experimental demonstration of 3D visible light positioning using received signal 
+strength with low-complexity trilateration assisted by deep learning technique[J]. IEEE Access, accepted in July 
+8th 2019. 
+Yang H, Du P, Zhong W D, et al. Reinforcement Learning Based Intelligent Resource Allocation for Integrated 
+VLCP Systems [J]. IEEE Wireless Communications Letters, 2019. 
+Yang H, Chen C, Zhong W D, et al. Demonstration of a quasi-gapless integrated visible light communication and 
+positioning system [J]. IEEE Photonics Technology Letters, 2018, 30(23): 2001-2004. 
+ 
+Conference papers 
+As the First Author 
+Sheng Z, Zhong W D, Pengfei D, et al. PDOA based indoor visible light positioning system without local 
+oscillators in receiver[C]//Conference on Lasers and Electro-Optics/Pacific Rim. Optical Society of America, 
+2017: s2448. 
+Sheng Z, Pengfei D, Chen C, Zhong W D. 3D Indoor Visible Light Positioning System using RSS Ratio with 
+Neural Network [C]// Conference on 23rd OptoElectronics and Communications (OECC 2018), ICC Jeju, Korea, 
+2018. 
+As Co-author 
+Yang H, Chen C, Zhong W D, et al. An integrated indoor visible light communication and positioning system 
+based on FBMC-SCM[C]//2017 IEEE Photonics Conference (IPC). IEEE, 2017: 129-130. 
+ 
+
+-----

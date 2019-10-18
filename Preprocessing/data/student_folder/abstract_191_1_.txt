@@ -1,0 +1,55 @@
+Abstract 
+ 
+As a broad and complex topic, energy efficiency has drawn an intensive attention in research 
+community. Air Conditioning and Mechanical Ventilation (ACMV) systems in Singapore 
+consume a substantial portion of energy in commercial buildings. Prioritizing high energy-
+efficiency ACMV system will deliver dramatic energy savings. Compared with conventional 
+mechanical based air dehumidification schemes, liquid desiccant dehumidification system (LDDS) 
+exhibits many advantages and demonstrates its superiority. Dehumidifier and regenerator are two 
+major parts in LDDS, where the dehumidification and regeneration take place. Regenerator re-
+concentrates the liquid desiccant solution which is diluted by absorbing the excess moisture in the 
+dehumidifier. Majority of energy is consumed by regenerator in system operation in order to keep 
+a suitable regenerating rate. Therefore, this thesis tries to put effort on energy saving of regenerator, 
+which mainly focus on waste heat recovery, modeling, design and operating optimization and 
+performance evaluation. The main contributions of this thesis are summarized as below: 
+1. The improvement of energy utilization efficiency in regenerator can reduce the amount of 
+energy required to attain demanding regenerating performance. This thesis employs the 
+waste heat recovery technique to increase the energy utilization efficiency of regenerating 
+process. In the regenerator, the direct emission of the exhausted regenerating air, which 
+holds high temperature and humidity, causes a great loss of heat. Thus, this part of heat can 
+be recovered. Two heat recovery device, Heat Pipe Heat Exchanger (HPHE) and Fixed-
+plate Heat Exchanger (FPHE) are installed in regenerator to transfer heat from the 
+exhausted regenerating air to preheat the incoming air continuously. For the purpose of 
+analyzing the heat recovery process, hybrid heat recovery model is established and 
+validated experimentally. The model is simple and does not need iterative computation. It 
+can be used to monitor and optimize the heat recovery performance in regenerator. The 
+heat recovery efficiency under different working conditions of HPHE and FPHE can be 
+predicted with the hybrid model.  
+2. To evaluate and compare the regenerator of Liquid Desiccant Dehumidification System 
+(LDDS) without and with heat recovery, the performance analysis is conducted by hybrid 
+heat transfer, mass transfer and heat recovery models, and the simulation results are then 
+
+-----
+validated by the experimental results. Regenerator without heat recovery, with 4 rows 
+HPHE, with 8 rows HPHE and with FPHE are compared to investigate the relationship 
+between heat recovery rate and the additional fan energy consumption caused by the 
+existence of heat recovery device. Many indexes are defined as the comparing criteria. 
+Effects of air mass flow rate on the regenerating and heat recovery performance are also 
+discussed. The results show that the numerical computation is effective and accurate. With 
+heat recovery device, the regenerating performance is in general improved.  
+3. Heat recovery device can recover waste heat and save the energy consumption of 
+regenerator. However, its existence causes additional pressure drop. Other than heat 
+recovery device, the structured packing is filled in regenerator tower to increase the contact 
+area between regenerating air and liquid desiccant. It induces dramatic pressure drop due 
+to the remarkable flow resistance. The dimension of structured packing, such as optimal 
+height and diameter, affects the regenerating performance and pressure drop greatly. 
+Optimal geometric dimension of packing can provide sufficient regenerating performance 
+with acceptable pressure drop. Besides the design parameters in the optimization, operating 
+parameters, especially air flow rate, also plays a significant role in energy saving and 
+pressure drop. In order to find out the trade-off way between the regenerating performance 
+and pressure drop, the multi-objective optimization is performed with pressure drop model, 
+heat recovery model, heat transfer model and mass transfer model.  
+ 
+ 
+
+-----

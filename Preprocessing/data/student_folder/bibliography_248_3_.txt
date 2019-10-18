@@ -1,0 +1,47 @@
+ 
+ 
+Bibliography 
+[1] 
+M. Mirshafiei and L. A. Rusch, “Equalizer Complexity/ Performance Trade-Offs for 
+High Data-Rate IR-UWB Linear Receivers in Multipath Channels”, IEEE International 
+Conference on Ultra-Wideband, 2011, pp 215-219. 
+ 
+[2] 
+B. Sklar "Digital Communications Fundamentals and Applications", Prentice Hall 
+Communications Engineering and Emerging Technologies Series, Second Edition, pp 
+408. 
+ 
+[3] 
+T. S. Rappaport, “Wireless Communications: Principles and Practice”, Prentice Hall 
+communications engineering and emerging technologies series, Second Edition, pp 
+167. 
+ 
+[4] 
+J. Yang and P. Dong, “On the Power Spectrum Density of UWB Signals in IEEE 
+802.15.4a”, Intelligent Information Hiding and Multimedia Signal Processing, 2012, 
+pp 461-464.  
+ 
+[5] 
+A. F. Molisch, J. R. Foerster and M. Pendergrass, “Channel Models For 
+UltraWideband Personal Area Networks”, IEEE Wireless Communications, 2003, pp 
+14-21. 
+ 
+[6] 
+S.S. Virk and P.M. Nathan “Comparative Performance Analysis of Zero Forcing, 
+Minimum Mean Square Error and Decision Feedback Equalizer” IEEE International 
+Conference on Green Computing. 
+ 
+[7] 
+Farebrother, R.W. (1988), Linear Least Squares Computations, STATISTICS: 
+Textbooks and Monographs, Marcel Dekker, ISBN 978-0-8247-7661-9. 
+ 
+[8] 
+K. Siwiak and D. McKeown “Ultra-Wideband Radio Technology” pp 59-65. 
+ 
+ 
+[9] 
+D. Kernler, Normal Distribution plot, Available: 
+https://commons.wikimedia.org/w/index.php?curid=36506025 
+ 
+
+-----

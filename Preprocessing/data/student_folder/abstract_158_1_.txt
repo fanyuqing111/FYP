@@ -1,0 +1,53 @@
+Scene Understanding and its Application to Cloud Imaging
+Soumyabrata Dev, Yee Hui Lee & Stefan Winkler
+October 19, 2016
+With the existence of ubiquitous cameras around us, there has been a paradigm shift in understanding
+and analyzing a scene. The central theme of this thesis is to use conventional cameras to capture images of
+a scene and derive essential information about the surroundings. In this thesis, we focus our attention on
+images captured by ground-based sky cameras, which are essential for several remote sensing applications.
+Ground-based sky cameras, popularly known as Whole Sky Imagers (WSIs) are now extensively used by
+remote sensing analysts. They are useful in variety of applications: cloud attenuation analysis, local weather
+prediction and solar and renewable energy forecasting.
+They complement conventional weather satellite
+images with higher temporal and spatial resolutions. The WSIs captures images of the earth’s atmosphere
+in regular intervals of time, and stores them in their local archive. In this thesis, we analyze this huge
+amount of captured image data, and proposed several algorithms and methodologies for a wide variety of
+applications.
+Firstly, in this thesis, we design efficient, low-cost, and highly flexible ground-based sky cameras. Our
+custom-built WSIs are called WAHRSIS, which stands for Wide Angle High Resolution Sky Imaging System.
+These imagers are equipped with high resolution fish-eye lens that captures the images of the sky scene at
+user defined intervals of time. Our imagers have a lower cost, higher flexibility and higher image resolution
+as compared to the commercial imagers.
+Secondly, we propose an efficient cloud segmentation algorithm that surpasses the performances of the
+current state-of-the-art algorithms. The segmentation of a cloud mass from a sky/cloud image is essential for
+automatic computation of cloud coverage. In this thesis, we present a supervised segmentation framework
+for ground-based sky/cloud images based on a systematic analysis of different color spaces and components,
+using partial least squares (PLS) regression. Unlike other state-of-the-art methods, our proposed approach
+is entirely learning-based and does not require any manually defined parameters. We release the Singapore
+Whole Sky IMaging SEGmentation Database (SWIMSEG), a large database of annotated sky/cloud images,
+to the research community. In addition to this PLS regression approach, we also explore the use of High
+Dynamic Range (HDR) imaging for solving the cloud segmentation problem.
+Thirdly, in addition to cloud coverage computation, we also propose a framework for automatic cloud
+type recognition. We present a texton-based classification approach that classifies sky/cloud image patches
+efficiently into 5 types: clear sky, patterned clouds, thick dark clouds, thick white clouds and veil clouds. Our
+proposed algorithm has the best performance as compared to conventional cloud-type recognition algorithms.
+We also release a large-scale cloud categories database called Singapore Whole Sky IMaging CATegories
+Database (SWIMCAT) for further benchmarking purposes.
+Fourthly, we also use these ground-based sky cameras in a stereo-setup for accurate reconstruction of
+cloud profile. In this thesis, we provide a theoretical analysis on point-localization of multi-camera setups
+for finite-resolution camera settings. In our work, we propose a consistent and optimal point localization
+algorithm for noisy camera poses and error-free matching between image frames. We formulate this point
+localization task as a gradient-ascent optimization function. The constraints used in maximizing the objective
+function are derived from computational geometric settings of the camera setup. Experimental results verify
+the efficacy of our approach as compared to the current state-of-the-art localization algorithms.
+1
+
+-----
+Finally, we use the captured sky/cloud images obtained from sky cameras to estimate other meteorological
+sensor data. In this thesis, we use our WAHRSIS images to propose a solar radiation estimation model. Our
+proposed methodology can accurately capture the short-term rapid fluctuations of solar irradiance. Unlike
+solar pyranometers, ground-based sky images have additional information about cloud coverage and cloud
+movement. This greatly helps in solar energy forecasting.
+2
+
+-----

@@ -1,0 +1,2143 @@
+1 of 32 
+Curriculum Vitae 
+Russel Jacob Baker 
+May 31, 2017 
+ 
+ 
+Russel Jacob (Jake) Baker received the B.S. and M.S. degrees in electrical 
+engineering from the University of Nevada, Las Vegas, in 1986 and 1988. He 
+received 
+the 
+Ph.D. 
+degree 
+in 
+electrical 
+engineering 
+from 
+the University of Nevada, Reno in 1993.  
+ 
+EMPLOMENT 
+1981 to 1987: he served in the United States Marine Corps Reserves (Fox Company, 
+2nd Battalion, 23rd Marines, 4th Marine Division).  
+1985 to 1993: he worked for E. G. & G. Energy Measurements and the Lawrence 
+Livermore National Laboratory designing nuclear diagnostic instrumentation for 
+underground nuclear weapons tests at the Nevada test site. During this time he 
+designed, and oversaw the fabrication and manufacture of, over 30 electronic and 
+electro-optic 
+instruments 
+including 
+high-speed 
+cable 
+and 
+fiber-optic 
+receiver/transmitters, PLLs, frame- and bit-syncs, data converters, streak-camera 
+sweep circuits, Pockels cell drivers, micro-channel plate gating circuits, and analog 
+oscilloscope electronics. In  
+1991-1992: he was an adjunct faculty member in the department of electrical 
+engineering at the University of Nevada, Las Vegas (UNLV).  
+1993 to 2000: he served on the faculty in the department of electrical engineering at 
+the University of Idaho (UI).  
+2000-2011: he joined a new electrical and computer engineering program at Boise 
+State University (BSU) where he served as department chair from 2004 to 2007. 
+At BSU he helped establish graduate programs in electrical and computer 
+engineering including, in 2006, the university’s second PhD degree.  
+2012-present: he re-joined the faculty at UNLV where he is currently a Professor of 
+Electrical and Computer Engineering. During his tenure at the UI, BSU, and UNLV 
+he has been the major professor to more than 75 graduate students.  In addition to 
+
+-----
+2 of 32 
+this industry and academic experience, he has done technical and expert witness 
+consulting for over 75 companies and laboratories. 
+ 
+Over the last 32 years his research and development interests have been, or currently 
+are, focused on analog and digital integrated circuit design and fabrication, design of 
+diagnostic electrical and electro-optic instrumentation for scientific research, 
+integrated electrical/biological circuits and systems, array (memory, imagers, and 
+displays) fabrication and design, CAD tool development and online tutorials, low-
+power interconnect and packaging techniques, design of communication/interface 
+circuits, circuit design for the use and storage of renewable energy, power 
+electronics, and the delivery of online engineering education.  
+ 
+PATENTS & AWARDS 
+Professor Baker is the named inventor on 145 US patents. He is a member of the 
+honor societies Eta Kappa Nu and Tau Beta Pi, a licensed Professional Engineer, a 
+popular lecturer that has delivered over 50 invited talks around the world, an IEEE 
+Fellow, and the author of the books CMOS Circuit Design, Layout, and 
+Simulation (over 50,000 copies in print), CMOS Mixed-Signal Circuit Design, and a 
+coauthor of DRAM Circuit Design: Fundamental and High-Speed Topics. He received 
+the 2000 Best Paper Award from the IEEE Power Electronics Society, the 2007 
+Frederick 
+Emmons Terman 
+Award, 
+and 
+the 
+2011 
+IEEE 
+Circuits 
+and 
+Systems Education Award.  
+ 
+PROFESSIONAL COMMITTEES 
+He currently serves, or has served, on the IEEE Press Editorial Board (1999-2004), as 
+editor for the Wiley-IEEE Press Book Series on Microelectronic Systems (2010-
+present), 
+as 
+the 
+Technical 
+Program 
+Chair 
+of 
+the 
+2015 
+IEEE 
+58th 
+International Midwest Symposium on Circuits and Systems (MWSCAS 2015), on the 
+IEEE Solid-State Circuits Society (SSCS) Administrative Committee (2011-2016), as a 
+Distinguished Lecturer for the SSCS (2012-2015), and as the Technology Editor (2012-
+2014) and Editor-in-Chief (2015-present) for the IEEE Solid-State Circuits Magazine. 
+ 
+US Patents: 
+
+-----
+3 of 32 
+145. Baker, R. J., “Comparators for delta-sigma modulators,” 9,641,193, May 2, 
+2017.   
+144. Baker, R. J., “Quantizing circuits having improved sensing,” 9,449,664, 
+September 20, 2016. 
+143. Baker, R. J., “Error detection for multi-bit memory,” 9,336,084, May 10, 
+2016. 
+142. Baker, R. J. and Keeth, B., “Optical interconnect in high-speed memory 
+systems,” 9,299,423, March 29, 2016. 
+141. Baker, R. J., “Methods for sensing memory elements in semiconductor 
+devices,” 9,299,405, March 29, 2016. 
+140. Baker, R. J., “Comparators for delta-sigma modulators,” 9,135,962, 
+September 15, 2015.   
+139. Baker, 
+R. 
+J., 
+“Resistive 
+memory 
+element 
+sensing 
+using 
+averaging,” 9,081,042, July 14, 2015. 
+138. Baker, R. J., “Digital Filters with Memory,” 9,070,469, June 30, 2015. 
+137. Baker, R. J., "Reference current sources,” 8,879,327, November 4, 2014.     
+136. Baker, R. J. and Beigel, K. D., “Multi-resistive integrated circuit 
+memory,” 8,878,274, November 4, 2014.     
+135. Baker, R. J., “Methods for sensing memory elements in semiconductor 
+devices,” 8,854,899, October 7, 2014. 
+134. Baker, R. J., “Quantizing circuits with variable parameters,” 8,830,105, 
+September 9, 2014. 
+133. Baker, R. J., “Integrators for delta-sigma modulators,” 8,754,795, June 17, 
+2014.  
+132. Baker, R. J., “Methods of quantizing signals using variable reference 
+signals,” 8,717,220, May 6, 2014. 
+
+-----
+4 of 32 
+131. Baker, R. J. and Keeth, B., “Optical interconnect in high-speed memory 
+systems,” 8,712,249, April 29, 2014. 
+130. Baker, 
+R. 
+J., 
+“Resistive 
+memory 
+element 
+sensing 
+using 
+averaging,” 8,711,605, April 29, 2014. 
+129. Baker, R. J., “Memory with correlated resistance,” 8,681,557, March 25, 
+2014.  
+128. Baker, R. J., “Reference current sources,” 8,675,413, March 18, 2014. 
+127. Baker, R. J., “Methods for sensing memory elements in semiconductor 
+devices,” 8,582,375, November 12, 2013. 
+126. Linder, L. F., Renner, D., MacDougal, M., Geske, J., and Baker, R. J., “Dual 
+well read-out integrated circuit (ROIC),” 8,581,168, November 12, 2013. 
+125. Li, W., Schoenfeld, A., and Baker, R. J., “Method and apparatus for 
+providing 
+symmetrical 
+output 
+data 
+for 
+a 
+double 
+data 
+rate 
+DRAM,” 8,516,292, August 20, 2013. 
+124. Baker, 
+R. 
+J., 
+“Resistive 
+memory 
+element 
+sensing 
+using 
+averaging,” 8,441,834, May 14, 2013. 
+123. Harvard, Q. I., Drost, R. J., and Baker, R. J., "Increased DRAM-array 
+throughput using inactive bitlines," 8,395,947, March 12, 2013. 
+122. Baker, R. J., “Memory with correlated resistance,” 8,289,772, October 16, 
+2012.  
+121. Lin, F. and Baker, R. J., “Phase splitter using digital delay locked 
+loops,” 8,218,708, July 10, 2012. 
+120. Baker, R. J., “Subtraction circuits and digital-to-analog converters for 
+semiconductor devices,” 8,194,477, June 5, 2012. 
+119. Baker, R. J., “Digital Filters for Semiconductor Devices,” 8,149,646, April 3, 
+2012. 
+
+-----
+5 of 32 
+118. Baker, R. J., “Error detection for multi-bit memory,” 8,117,520, February 
+14, 2012. 
+117. Baker, R. J., “Integrators for delta-sigma modulators,” 8,102,295, January 
+24, 2012. 
+116. Baker, R. J., “Devices including analog-to-digital converters for internal 
+data storage locations,” 8,098,180, January 17, 2012. 
+115. Baker, R. J. and Beigel, K. D., “Multi-resistive integrated circuit 
+memory,” 8,093,643, January 10, 2012. 
+114. Baker, R. J., “Quantizing circuits with variable parameters,” 8,089,387, 
+January 3, 2012. 
+113. Baker, R. J., “Reference current sources,” 8,068,367, November 29, 2011. 
+112. Baker, R. J., “Methods of quantizing signals using variable reference 
+signals,” 8,068,046, November 29, 2011. 
+111. Baker, R. J., “Systems and devices including memory with built-in self test 
+and methods of making using the same,” 8,042,012, October 18, 2011. 
+110. Baker, R. J., “Memory with correlated resistance,” 7,969,783, June 28, 2011. 
+109. Baker, R. J. and Keeth, B., “Optical interconnect in high-speed memory 
+systems,” 7,941,056, May 10, 2011. 
+108. Baker, R. J., “K-delta-1-sigma modulator,” 7,916,054, March 29, 2011. 
+107. Li, W., Schoenfeld, A., and Baker, R. J., “Method and apparatus for 
+providing 
+symmetrical 
+output 
+data 
+for 
+a 
+double 
+data 
+rate 
+DRAM,” 7,877,623, January 25, 2011. 
+106. Lin, F. and Baker, R. J., “Phase splitter using digital delay locked 
+loops,” 7,873,131, January 18, 2011. 
+105. Hush, G. and Baker, R. J., “Complementary bit PCRAM sense amplifier 
+and method of operation,” 7,869,249, January 11, 2011. 
+
+-----
+6 of 32 
+104. Baker, R. J., “Subtraction circuits and digital-to-analog converters for 
+semiconductor devices,” 7,839,703, November 23, 2010. 
+103. Baker, R. J., “Digital Filters with Memory,” 7,830,729, November 9, 2010. 
+102. Baker, R. J., “Systems and devices including memory with built-in self test 
+and methods of making using the same,” 7,818,638, October 19, 2010. 
+101. Baker, R. J., “Integrators for delta-sigma modulators,” 7,817,073, October 
+19, 2010. 
+100. Baker, R. J., “Digital filters for semiconductor devices,” 7,768,868, August 
+3, 2010. 
+99. Baker, 
+R. 
+J., 
+“Quantizing 
+circuits 
+with 
+variable 
+reference 
+signals,” 7,733,262, June 8, 2010. 
+98. Baker, R. J., “Quantizing circuits for semiconductor devices,” 7,667,632, 
+February 23, 2010. 
+97. Baker, R. J., and Beigel, K. D., “Multi-resistive integrated circuit 
+memory,” 7,642,591, January 5, 2010. 
+96. Baker, R. J., “Offset compensated sensing for a magnetic random access 
+memory,” 7,616,474, November 10, 2009. 
+95. Baker, 
+R. 
+J., 
+“Resistive 
+memory 
+element 
+sensing 
+using 
+averaging,” 7,577,044, Aug. 18, 2009. 
+94. Baker, R. J., “Quantizing circuits with variable parameters,” 7,538,702, 
+May 26, 2009. 
+93. Baker, R. J., “Method and system for reducing mismatch between 
+reference and intensity paths in analog to digital converters in CMOS 
+active pixel sensors,” 7,528,877, May 5, 2009. 
+92. Baker, R. J., “Method and system for reducing mismatch between 
+reference and intensity paths in analog to digital converters in CMOS 
+active pixel sensors,” 7,515,188, April 7, 2009. 
+
+-----
+7 of 32 
+91. Taylor, J. and Baker, R. J., “Method and apparatus for sensing flash 
+memory using delta-sigma modulation,” 7,495,964, February 24, 2009. 
+90. Baker, R. J., “Noise resistant small signal sensing circuit for a memory 
+device,” 7,489,575, February 10, 2009. 
+89. Baker, R. J., “Per column one-bit ADC for image sensors,” 7,456,885, 
+November 25, 2008. 
+88. Staples, T. and Baker, R. J., “Input buffer design using common-mode 
+feedback,” 7,449,953, November 11, 2008. 
+87. Li, W., Schoenfeld, A., and Baker, R. J., “Method and apparatus for 
+providing 
+symmetrical 
+output 
+data 
+for 
+a 
+double 
+data 
+rate 
+DRAM,” 7,421,607, September 2, 2008. 
+86. Baker, R. J., “Methods for resistive memory element sensing using 
+averaging,” 7,372,717, May 13, 2008. 
+85. Taylor, J. and Baker, R. J., “Method and apparatus for sensing flash 
+memory using delta-sigma modulation,” 7,366,021, April 29, 2008. 
+84. Hush, G. and Baker, R. J., “Method of operating a complementary bit 
+resistance memory sensor and method of operation,” 7,366,003, April 29, 
+2008. 
+83. Baker, R. J., “Noise resistant small signal sensing circuit for a memory 
+device,” 7,330,390, February 12, 2008. 
+82. Baker, R. J., “Input and output buffers having symmetrical operating 
+characteristics and immunity from voltage variations,” 7,319,620, January 
+15, 2008. 
+81. Staples, T. and Baker, R. J., “Method and apparatus providing input buffer 
+design using common-mode feedback,” 7,310,018, December 18, 2007. 
+80. Baker, R. J., “Offset compensated sensing for a magnetic random access 
+memory,” 7,286,428, October 23, 2007. 
+
+-----
+8 of 32 
+79. Baker, R. J., and Cowles, T. B., “Method and apparatus for reducing duty 
+cycle distortion of an output signal,” 7,271,635, September 18, 2007. 
+78. Baker, R. J., and Cowles, T. B., “Method and apparatus for reducing duty 
+cycle distortion of an output signal,” 7,268,603, September 11, 2007. 
+77. Hush, G., Baker, R. J., and Moore, J., “Skewed sense AMP for variable 
+resistance memory sensing,” 7,251,177, July 31, 2007. 
+76. Hush, G. and Baker, R. J., “Method of operating a complementary bit 
+resistance memory sensor,” 7,242,603, July 10, 2007. 
+75. Li, W., Schoenfeld, A., and Baker, R. J., “Method and apparatus for 
+providing 
+symmetrical 
+output 
+data 
+for 
+a 
+double 
+data 
+rate 
+DRAM,” 7,237,136, June 26, 2007. 
+74. Moore, J. and Baker, R. J., “Rewrite prevention in a variable resistance 
+memory,” 7,224,632, May 29, 2007. 
+73. Baker, 
+R. 
+J., 
+“Integrated 
+charge 
+sensing 
+scheme 
+for 
+resistive 
+memories,” 7,151,698, December 19, 2006. 
+72. Baker, R. J., “Adjusting the frequency of an oscillator for use in a resistive 
+sense amp,” 7,151,689, December 19, 2006. 
+71. Baker, 
+R. 
+J., 
+“Resistive 
+memory 
+element 
+sensing 
+using 
+averaging,” 7,133,307, Nov. 7, 2006. 
+70. Lin, F. and Baker, R. J., “Phase detector for all-digital phase locked and 
+delay locked loops,” 7,123,525, October 17, 2006. 
+69. Baker, R. J. and Beigel, K. D., “Integrated circuit memory with offset 
+capacitor,” 7,109,545, September 19, 2006. 
+68. Baker, R. J., “Input and output buffers having symmetrical operating 
+characteristics 
+and 
+immunity 
+from 
+voltage 
+variations,” 7,102,932, 
+September 5, 2006. 
+67. Baker, R. J., “Noise resistant small signal sensing circuit for a memory 
+
+-----
+9 of 32 
+device,” 7,095,667, August 22, 2006. 
+66. Baker, R. J., “Offset compensated sensing for a magnetic random access 
+memory,” 7,082,045, July 25, 2006. 
+65. Baker, R. J., “System and method for sensing data stored in a resistive 
+memory element using one bit of a digital count,” 7,009,901, March 7, 
+2006. 
+64. Hush, G. and Baker, R. J., “Complementary bit resistance memory sensor 
+and method of operation,” 7,002,833, February 21, 2006. 
+63. Lin, F. and Baker, R. J., “Phase detector for all-digital phase locked and 
+delay locked loops,” 6,987,701, January 17, 2006. 
+62. Baker, R. J., “Adjusting the frequency of an oscillator for use in a resistive 
+sense amp,” 6,985,375, January 10, 2006. 
+61. Baker, R. J., “Method for reducing power consumption when sensing a 
+resistive memory,” 6,954,392, October 11, 2005. 
+60. Baker, R. J., “Noise resistant small signal sensing circuit for a memory 
+device,” 6,954,391, October 11, 2005. 
+59. Baker, R. J., “Noise resistant small signal sensing circuit for a memory 
+device,” 6,954,390, October 11, 2005. 
+58. Lin, F. and Baker, R. J., “Phase splitter using digital delay locked 
+loops,” 6,950,487, September 27, 2005. 
+57. Baker, R. J., “Method and apparatus for measuring current as in sensing a 
+memory cell,” 6,930,942, August 16, 2005. 
+56. Baker, R. J., “Offset compensated sensing for a magnetic random access 
+memory,” 6,917,534, July 12, 2005. 
+55. Baker, R. J., “Dual loop sensing scheme for resistive memory 
+elements,” 6,914,838, July 5, 2005. 
+
+-----
+10 of 32 
+54. Baker, R. J., “High speed low power input buffer,” 6,914,454, July 5, 2005. 
+53. Baker, R. J., and Beigel, K. D., “Method for stabilizing or offsetting voltage 
+in an integrated circuit,” 6,913,966, July 5, 2005. 
+52. Moore, J. and Baker, R. J., “PCRAM rewrite prevention,” 6,909,656, June 
+21, 2005. 
+51. Baker, 
+R. 
+J., 
+“Integrated 
+charge 
+sensing 
+scheme 
+for 
+resistive 
+memories,” 6,901,020, May 31, 2005. 
+50. Hush, G., Baker, R. J., and Moore, J., “Skewed sense AMP for variable 
+resistance memory sensing,” 6,888,771, May 3, 2005. 
+49. Baker, R. J., “Method for reducing power consumption when sensing a 
+resistive memory,” 6,885,580, April 26, 2005. 
+48. Moore, J. and Baker, R. J., “PCRAM rewrite prevention,” 6,882,578, April 
+19, 2005. 
+47. Baker, 
+R. 
+J., 
+“Integrated 
+charge 
+sensing 
+scheme 
+for 
+resistive 
+memories,” 6,870,784, March 22, 2005. 
+46. Baker, R. J., “Sensing method and apparatus for resistive memory 
+device,” 6,859,383, February 22, 2005. 
+45. Baker, R. J., “Noise resistant small signal sensing circuit for a memory 
+device,” 6,856,564, February 15, 2005. 
+44. Baker, R. J., “Offset compensated sensing for a magnetic random access 
+memory,” 6,856,532, February 15, 2005. 
+43. Baker, R. J., “Dual loop sensing scheme for resistive memory 
+elements,” 6,829,188, Dec. 7, 2004. 
+42. Baker, R. J., “Noise resistant small signal sensing circuit for a memory 
+device,” 6,826,102, Nov. 30, 2004. 
+41. Baker, 
+R. 
+J., 
+“Resistive 
+memory 
+element 
+sensing 
+using 
+
+-----
+11 of 32 
+averaging,” 6,822,892, Nov. 23, 2004. 
+40. Baker, R. J., “System and method for sensing data stored in a resistive 
+memory element using one bit of a digital count,” 6,813,208, Nov. 2, 2004. 
+39. Baker, R. J., “Wordline driven method for sensing data in a resistive 
+memory array,” 6,809,981, Oct. 26, 2004. 
+38. Baker, R. J., “Noise resistant small signal sensing circuit for a memory 
+device,” 6,798,705, Sept. 28, 2004. 
+37. Baker, R. J., “Methods and apparatus for measuring current as in sensing a 
+memory cell,” 6,795,359, Sept. 21, 2004. 
+36. Hush, G. and Baker, R. J., “Complementary bit PCRAM sense amplifier 
+and method of operation,” 6,791,859, Sept. 14, 2004. 
+35. Baker, R. J., “Method and apparatus for sensing resistance values of 
+memory cells,” 6,785,156, August 31, 2004. 
+34. Lin, F. and Baker, R. J., “Phase detector for all-digital phase locked and 
+delay locked loops,” 6,779,126, August 17, 2004. 
+33. Baker, R. J., and Lin, F. "Digital dual-loop DLL design using coarse and 
+fine loops," 6,774,690, August 10, 2004. 
+32. Hush, G., Baker, R. J., and Voshell, T., “Producing walking one pattern in 
+shift register,” 6,771,249, August 3, 2004. 
+31. Baker, R. J., “Sensing method and apparatus for resistance memory 
+device,” 6,741,490, May 25, 2004. 
+30. Li, W., Schoenfeld, A., and Baker, R. J., “Method and apparatus for 
+providing 
+symmetrical 
+output 
+data 
+for 
+a 
+double 
+data 
+rate 
+DRAM,” 6,704,881, March 9, 2004. 
+29. Baker, R. J., “Method and system for writing data in an MRAM memory 
+device,” 6,687,179, February 3, 2004. 
+
+-----
+12 of 32 
+28. Baker, R. J., “High speed digital signal buffer and method,” 6,683,475, 
+January 27, 2004. 
+27. Baker, R. J., “High speed low power input buffer,” 6,600,343, July 29, 2003. 
+26. Baker, R. J., “Offset compensated sensing for magnetic random access 
+memory,” 6,597,600, July 22, 2003. 
+25. Baker, R. J., “Sensing method and apparatus for resistive memory 
+device,” 6,577,525, June 10, 2003. 
+24. Baker, R. J., “Method and apparatus for sensing resistance values of 
+memory cells,” 6,567,297, May 20, 2003. 
+23. Baker, R. J., “High-speed digital signal buffer and method,” 6,538,473, 
+March 25, 2003. 
+22. Baker, R. J. and Beigel, K. D., "Electronic device with interleaved portions 
+for use in integrated circuits," 6,509,245, January 21, 2003. 
+21. Baker, 
+R. 
+J., 
+"Resistive 
+memory 
+element 
+sensing 
+using 
+averaging," 6,504,750, January 7, 2003. 
+20. Baker, R. J., "High-speed digital signal buffer and method," 6,483,347, 
+November 19, 2002. 
+19. Baker, R. J., and Lin, F., "Digital dual-loop DLL design using coarse and 
+fine loops," 6,445,231, September 3, 2002. 
+18. Baker, R. J., "Method and apparatus for receiving synchronous 
+data," 6,424,684, July 23, 2002. 
+17. Baker, R. J. and Beigel, K. D., "Comb-shaped capacitor for use in 
+integrated circuits," 6,410,955, June 25, 2002. 
+16. Baker, R. J., "High-speed, low-power input buffer," 6,407,588, June 18, 
+2002. 
+15. Miller, J., Schoenfeld, A., Ma, M., and Baker, R. J., "Method and apparatus 
+
+-----
+13 of 32 
+for 
+improving 
+the 
+performance 
+of 
+digital 
+delay 
+locked 
+loop 
+circuits," 6,316,976, Nov. 13, 2001. 
+14. Keeth, B. and Baker, R. J., "Low skew differential receiver with disable 
+feature," 6,256,234, July 3, 2001. 
+13. Keeth, B. and Baker, R. J., "Low skew differential receiver with disable 
+feature," 6,104,209, August 15, 2000. 
+12. Miller, J., Schoenfeld, A., Ma, M., and Baker, R. J., "Method and apparatus 
+for 
+improving 
+the 
+performance 
+of 
+digital 
+delay 
+locked 
+loop 
+circuits," 6,069,506, May 30, 2000. 
+11. Keeth, B. and Baker, R. J., "Low skew differential receiver with disable 
+feature," 6,026,051, February 15, 2000. 
+10. Baker, R. J., and Manning, T. A., "Method and apparatus for adaptively 
+adjusting the timing of a clock signal used to latch digital signals, and 
+memory device using same," 6,026,050, February 15, 2000. 
+9. 
+Baker, R. J., and Manning, T. A., "Method and apparatus for adaptively 
+adjusting the timing of a clock signal used to latch digital signals, and 
+memory device using same," 5,953,284, September 14, 1999. 
+8. 
+Baker, R. J., "Fully-differential amplifier," 5,953,276, September 14, 1999. 
+7. 
+Hush, 
+G., 
+Baker, 
+R. 
+J., 
+and Voshell, 
+T., 
+"Timing 
+Control 
+for 
+a Matrixed Scanned Array," 5,909,201, June 1, 1999. 
+6. 
+Hush, G. and Baker, R. J., "Field emission display having pulsed 
+capacitance current control," 5,894,293, April 13, 1999. 
+5. 
+Baker, R. J., "Adaptively biased voltage regulator and operating 
+method," 5,874,830, February 23, 1999. 
+4. 
+Hush, G. Baker, R. J., and Voshell, T., "Serial to Parallel Conversion with a 
+Phase-Locked Loop," 5,818,365, October 1, 1998. 
+3. 
+Hush, 
+G., 
+Baker, 
+R. 
+J., 
+and Voshell, 
+T., 
+"Timing 
+Control 
+for 
+
+-----
+14 of 32 
+a Matrixed Scanned Array," 5,638,085, June 10, 1997. 
+2. 
+Wilson, A. J., Baker, R. J., and Schoenfeld, A., "Waveshaping circuit 
+generating 
+two 
+rising 
+slopes 
+for 
+a 
+sense 
+amplifier pulldown device," 5,614,856, March 25, 1997. 
+1. 
+Hush, G., Baker, R. J., and Voshell, T., "Serial to Parallel Conversion with a 
+PLL," 5,598,156, January 28, 1997. 
+PUBLICATIONS: 
+1 
+2017 
+Welcome to the Winter 2017 Issue of IEEE Solid-State 
+Circuits Magazine! [Editor's Note] 
+ 
+R. Jacob Baker 
+ 
+IEEE Solid-State Circuits Magazine  
+ 
+Year: 2017, Volume: 9, Issue: 1 
+ 
+Pages: 4 - 4, DOI: 10.1109/MSSC.2016.2622959 
+ 
+ 
+ 
+2 
+2016 
+Welcome to the Spring 2016 Issue of IEEE Solid-State 
+Circuits Magazine 
+ 
+R. Jacob Baker 
+ 
+IEEE Solid-State Circuits Magazine  
+ 
+Year: 2016, Volume: 8, Issue: 2 
+ 
+Pages: 4 - 112, DOI: 10.1109/MSSC.2016.2548431 
+ 
+ 
+ 
+3 
+2016 
+Welcome to the Winter 2016 Issue of IEEE Solid-State 
+Circuits Magazine [Editor's Note] 
+ 
+R. Jacob Baker 
+ 
+IEEE Solid-State Circuits Magazine  
+ 
+Year: 2016, Volume: 8, Issue: 1 
+ 
+Pages: 3 - 3, DOI: 10.1109/MSSC.2015.2495791 
+ 
+ 
+ 
+4 
+2016 
+A linear high gain time difference amplifier using 
+feedback gain control 
+ 
+Wenlan Wu; R. Jacob Baker; Phaneendra Bikkina; Fred 
+Garcia; Esko Mikkola 
+ 
+2016 IEEE Dallas Circuits and Systems Conference 
+(DCAS)  
+ 
+Pages: 1 - 4, DOI: 10.1109/DCAS.2016.7791126 
+ 
+ 
+ 
+5 
+2016 
+Welcome to the Summer 2016 Issue of IEEE Solid-State 
+Circuits Magazine 
+ 
+R. Jacob Baker 
+
+-----
+15 of 32 
+ 
+IEEE Solid-State Circuits Magazine  
+ 
+Year: 2016, Volume: 8, Issue: 3 
+ 
+Pages: 4 - 4, DOI: 10.1109/MSSC.2016.2579341 
+ 
+ 
+ 
+6 
+2016 
+Analysis of a residential 5kW grid-tied photovoltaic 
+system 
+ 
+Yacouba Moumouni; R. Jacob Baker; James R. Souba 
+ 
+2016 Clemson University Power Systems Conference 
+(PSC)  
+ 
+Pages: 1 - 4, DOI: 10.1109/PSC.2016.7462815 
+ 
+ 
+ 
+7 
+2016 
+LTspice model of a solar thermoelectric generation 
+system 
+ 
+Yacouba Moumouni; R. Jacob Baker 
+ 
+2016 Clemson University Power Systems Conference 
+(PSC)  
+ 
+Pages: 1 - 4, DOI: 10.1109/PSC.2016.7462848 
+ 
+ 
+ 
+8 
+2016 
+Fast transient digitizer chip for capturing single-shot 
+events 
+ 
+Kevin Buck; R. Jacob Baker 
+ 
+2016 IEEE Dallas Circuits and Systems Conference 
+(DCAS)  
+ 
+Pages: 1 - 4, DOI: 10.1109/DCAS.2016.7791149 
+ 
+ 
+ 
+9 
+2016 
+Welcome to the Fall 2016 Issue of IEEE Solid-State 
+Circuits Magazine 
+ 
+R. Jacob Baker 
+ 
+IEEE Solid-State Circuits Magazine  
+ 
+Year: 2016, Volume: 8, Issue: 4 
+ 
+Pages: 4 - 4, DOI: 10.1109/MSSC.2016.2604198 
+ 
+ 
+ 
+10 
+2015 
+Concise thermal to electrical parameters extraction of 
+thermoelectric generator for spice modeling 
+ 
+Yacouba Moumouni; R. Jacob Baker 
+ 
+2015 IEEE 58th International Midwest Symposium on 
+Circuits and Systems (MWSCAS)  
+ 
+Pages: 1 - 4, DOI: 10.1109/MWSCAS.2015.7282014 
+ 
+Cited by: Papers (2) 
+ 
+ 
+ 
+11 
+2015 
+Application of used electric vehicle batteries to buffer 
+photovoltaic output transients 
+ 
+Yacouba Moumouni; R. Jacob Baker 
+
+-----
+16 of 32 
+ 
+2015 IEEE 58th International Midwest Symposium on 
+Circuits and Systems (MWSCAS)  
+ 
+Pages: 1 - 4, DOI: 10.1109/MWSCAS.2015.7282056 
+ 
+ 
+ 
+12 
+2015 
+Computer vision assisted measurement of the 
+displacements of a bimorph piezoelectric cantilever 
+beam 
+ 
+Yiyan Li; R. Jacob Baker 
+ 
+2015 IEEE Biomedical Circuits and Systems Conference 
+(BioCAS)  
+ 
+Pages: 1 - 4, DOI: 10.1109/BioCAS.2015.7348429 
+ 
+Cited by: Papers (2) 
+ 
+ 
+ 
+13 
+2015 
+Welcome to the Winter 2015 Issue of IEEE Solid-State 
+Circuits Magazine! [Editor's Note] 
+ 
+R. Jacob Baker 
+ 
+IEEE Solid-State Circuits Magazine  
+ 
+Year: 2015, Volume: 7, Issue: 1 
+ 
+Pages: 3 - 3, DOI: 10.1109/MSSC.2014.2369272 
+ 
+ 
+ 
+14 
+2015 
+A highly efficient and reliable electrowetting on 
+dielectric device for point-of-care diagnostics 
+ 
+Yiyan Li; R. Jacob Baker; Dominic Raad 
+ 
+2015 IEEE Dallas Circuits and Systems Conference 
+(DCAS)  
+ 
+Pages: 1 - 4, DOI: 10.1109/DCAS.2015.7356590 
+ 
+ 
+ 
+15 
+2015 
+Improved SPICE modeling and analysis of a 
+thermoelectric module 
+ 
+Yacouba Moumouni; R. Jacob Baker 
+ 
+2015 IEEE 58th International Midwest Symposium on 
+Circuits and Systems (MWSCAS)  
+ 
+Pages: 1 - 4, DOI: 10.1109/MWSCAS.2015.7282015 
+ 
+Cited by: Papers (3) 
+ 
+ 
+ 
+16 
+2015 
+A low-power switched-capacitor passive sigma-delta 
+modulator 
+ 
+Angsuman Roy; R. Jacob Baker 
+ 
+2015 IEEE Dallas Circuits and Systems Conference 
+(DCAS)  
+ 
+Pages: 1 - 4, DOI: 10.1109/DCAS.2015.7356584 
+ 
+ 
+ 
+17 
+2015 
+Welcome to the Spring 2015 Issue of IEEE Solid-State 
+
+-----
+17 of 32 
+Circuits Magazine! [Editor's Note] 
+ 
+R. Jacob Baker 
+ 
+IEEE Solid-State Circuits Magazine  
+ 
+Year: 2015, Volume: 7, Issue: 2 
+ 
+Pages: 4 - 4, DOI: 10.1109/MSSC.2015.2419953 
+ 
+ 
+ 
+18 
+2015 
+Buffer sizing of concentrated photovoltaic batteries: An 
+economic analysis 
+ 
+Yacouba Moumouni; R. Jacob Baker 
+ 
+2015 IEEE 58th International Midwest Symposium on 
+Circuits and Systems (MWSCAS)  
+ 
+Pages: 1 - 4, DOI: 10.1109/MWSCAS.2015.7282057 
+ 
+Cited by: Papers (1) 
+ 
+ 
+ 
+19 
+2015 
+Welcome to the Fall 2015 Issue of IEEE Solid-State 
+Circuits Magazine! [Editor's Note] 
+ 
+R. Jacob Baker 
+ 
+IEEE Solid-State Circuits Magazine  
+ 
+Year: 2015, Volume: 7, Issue: 4 
+ 
+Pages: 4 - 13, DOI: 10.1109/MSSC.2015.2477755 
+ 
+ 
+ 
+20 
+2015 
+Precise EWOD top plate positioning using inverse 
+Preisach model based hysteresis compensation 
+ 
+Yiyan Li; R. Jacob Baker 
+ 
+2015 IEEE Dallas Circuits and Systems Conference 
+(DCAS)  
+ 
+Pages: 1 - 4, DOI: 10.1109/DCAS.2015.7356591 
+ 
+ 
+ 
+21 
+2015 
+Welcome to the Summer 2015 Issue of IEEE Solid-State 
+Circuits Magazine! [Editor's Note] 
+ 
+R. Jacob Baker 
+ 
+IEEE Solid-State Circuits Magazine  
+ 
+Year: 2015, Volume: 7, Issue: 3 
+ 
+Pages: 4 - 5, DOI: 10.1109/MSSC.2015.2449715 
+ 
+ 
+ 
+22 
+2015 
+An FPGA based passive k-delta-1-sigma modulator 
+ 
+Angsuman Roy; Matthew Meza; Joey Yurgelon; R. Jacob 
+Baker 
+ 
+2015 IEEE 58th International Midwest Symposium on 
+Circuits and Systems (MWSCAS)  
+ 
+Pages: 1 - 4, DOI: 10.1109/MWSCAS.2015.7282136 
+ 
+ 
+ 
+23 
+2014 
+A passive 2nd-order sigma-delta modulator for low-
+
+-----
+18 of 32 
+power analog-to-digital conversion 
+ 
+Angsuman Roy; R. Jacob Baker 
+ 
+2014 IEEE 57th International Midwest Symposium on 
+Circuits and Systems (MWSCAS)  
+ 
+Pages: 595 - 598, DOI: 10.1109/MWSCAS.2014.6908485 
+ 
+Cited by: Papers (1) 
+ 
+ 
+ 
+24 
+2014 
+Massive Open Online Courses for Educating Circuit 
+Designers: What Works and What Doesn't [People] 
+ 
+R. Jacob Baker 
+ 
+IEEE Solid-State Circuits Magazine  
+ 
+Year: 2014, Volume: 6, Issue: 2 
+ 
+Pages: 63 - 65, DOI: 10.1109/MSSC.2014.2316075 
+ 
+ 
+ 
+25 
+2014 
+Volume and concentration identification by using an 
+electrowetting on dielectric device 
+ 
+Yiyan Li; Hongzhong Li; R. Jacob Baker 
+ 
+2014 IEEE Dallas Circuits and Systems Conference 
+(DCAS)  
+ 
+Pages: 1 - 4, DOI: 10.1109/DCAS.2014.6965350 
+ 
+Cited by: Papers (4) 
+ 
+ 
+ 
+26 
+2014 
+A fast fabricating electro-wetting platform to implement 
+large droplet manipulation 
+ 
+Yiyan Li; Roger Chen; R. Jacob Baker 
+ 
+2014 IEEE 57th International Midwest Symposium on 
+Circuits and Systems (MWSCAS)  
+ 
+Pages: 326 - 329, DOI: 10.1109/MWSCAS.2014.6908418 
+ 
+Cited by: Papers (5) 
+ 
+ 
+ 
+27 
+2012 
+Performance and characteristics of silicon avalanche 
+photodetectors in the C5 process 
+ 
+Dennis Montierth; Timothy Strand; James 
+Leatham; Lloyd Linder; R. Jacob Baker 
+ 
+2012 IEEE 55th International Midwest Symposium on 
+Circuits and Systems (MWSCAS)  
+ 
+Pages: 134 - 137, DOI: 10.1109/MWSCAS.2012.6291975 
+ 
+ 
+ 
+28 
+2012 
+Two techniques to reduce gain and offset errors in 
+CMOS image sensors using delta-sigma modulation 
+ 
+Kuangming Yap; R. Jacob Baker 
+ 
+2012 IEEE Workshop on Microelectronics and Electron 
+Devices  
+
+-----
+19 of 32 
+ 
+Pages: 1 - 4, DOI: 10.1109/WMED.2012.6202621 
+ 
+Cited by: Papers (1) 
+ 
+ 
+ 
+29 
+2012 
+On-chip 3D inductors using thru-wafer vias 
+ 
+Gary VanAckern; R. Jacob Baker; Amy J. Moll; Vishal 
+Saxena 
+ 
+2012 IEEE Workshop on Microelectronics and Electron 
+Devices  
+ 
+Pages: 1 - 4, DOI: 10.1109/WMED.2012.6202618 
+ 
+Cited by: Papers (2) 
+ 
+ 
+ 
+30 
+2011 
+A scalable I/O architecture for wide I/O DRAM 
+ 
+Qawi Harvard; R. Jacob Baker 
+ 
+2011 IEEE 54th International Midwest Symposium on 
+Circuits and Systems (MWSCAS)  
+ 
+Pages: 1 - 4, DOI: 10.1109/MWSCAS.2011.6026682 
+ 
+Cited by: Papers (3) 
+ 
+ 
+ 
+31 
+2011 
+Systematic design of three-stage op-amps using split-
+length compensation 
+ 
+Vishal Saxena; Sakkarapani Balagopal; R. Jacob Baker 
+ 
+2011 IEEE 54th International Midwest Symposium on 
+Circuits and Systems (MWSCAS)  
+ 
+Pages: 1 - 4, DOI: 10.1109/MWSCAS.2011.6026314 
+ 
+Cited by: Papers (2) | Patents (1) 
+ 
+ 
+ 
+32 
+2011 
+A 2 GHz effective sampling frequency K-Delta-1-Sigma 
+analog-to-digital converter 
+ 
+Andrew Labaziewicz; R. Jacob Baker 
+ 
+2011 IEEE 54th International Midwest Symposium on 
+Circuits and Systems (MWSCAS)  
+ 
+Pages: 1 - 4, DOI: 10.1109/MWSCAS.2011.6026453 
+ 
+ 
+ 
+33 
+2010 
+Main Memory with Proximity Communication: A Wide 
+I/O DRAM Architecture 
+ 
+Qawi Harvard; R. Jacob Baker; Robert Drost 
+ 
+2010 IEEE Workshop on Microelectronics and Electron 
+Devices  
+ 
+Pages: 1 - 4, DOI: 10.1109/WMED.2010.5453754 
+ 
+Cited by: Papers (1) 
+ 
+ 
+ 
+34 
+2010 
+Indirect compensation techniques for three-stage fully-
+differential op-amps 
+
+-----
+20 of 32 
+ 
+Vishal Saxena; R. Jacob Baker 
+ 
+2010 53rd IEEE International Midwest Symposium on 
+Circuits and Systems  
+ 
+Pages: 588 - 591, DOI: 10.1109/MWSCAS.2010.5548896 
+ 
+Cited by: Papers (8) 
+ 
+ 
+ 
+35 
+2010 
+Synthesis of higher-order K-Delta-1-Sigma modulators 
+for wideband ADCs 
+ 
+Vishal Saxena; R. Jacob Baker 
+ 
+2010 53rd IEEE International Midwest Symposium on 
+Circuits and Systems  
+ 
+Pages: 1029 - 1032, DOI: 10.1109/MWSCAS.2010.5548818 
+ 
+Cited by: Papers (1) 
+ 
+ 
+ 
+36 
+2010 
+Gain Error Correction for CMOS Image Sensor Using 
+Delta-Sigma Modulation 
+ 
+Kuangming Yap; R. Jacob Baker 
+ 
+2010 IEEE Workshop on Microelectronics and Electron 
+Devices  
+ 
+Pages: 1 - 4, DOI: 10.1109/WMED.2010.5453753 
+ 
+Cited by: Papers (3) 
+ 
+ 
+ 
+37 
+2009 
+A K-Delta-1-Sigma modulator for wideband analog to 
+digital conversion 
+ 
+Vishal Saxena; Kaijun Li; Geng Zheng; R. Jacob Baker 
+ 
+2009 52nd IEEE International Midwest Symposium on 
+Circuits and Systems  
+ 
+Pages: 411 - 414, DOI: 10.1109/MWSCAS.2009.5236069 
+ 
+Cited by: Papers (2) 
+ 
+ 
+ 
+38 
+2009 
+Integration of IC Industry Feature Sizes with University 
+Back-End-of-Line Post Processing: Example Using a 
+Phase-Change Memory Test Chip 
+ 
+Jennifer Regner; M. Balasubramanian; Beth 
+Cook; Yingting Li; Hiwot Kassayebetre; Anshika 
+Sharma; R. Jacob Baker; Kristy A. Campbell 
+ 
+2009 IEEE Workshop on Microelectronics and Electron 
+Devices  
+ 
+Pages: 1 - 4, DOI: 10.1109/WMED.2009.4816141 
+ 
+Cited by: Papers (1) | Patents (6) 
+ 
+ 
+ 
+39 
+2009 
+Chip-scale nanophotonic chemical and biological sensors 
+using CMOS process 
+
+-----
+21 of 32 
+ 
+Lincoln Bollschweiler; Alex English; R. Jacob Baker; Wan 
+Kuang; Zi-Chang Chang; Ming-Hsiung Shih; William B. 
+Knowlton; William L. Hughes; Jeunghoon Lee; Bernard 
+Yurke; Nankyung Suh Cockerham; Vance C. Tyree 
+ 
+2009 52nd IEEE International Midwest Symposium on 
+Circuits and Systems  
+ 
+Pages: 913 - 916, DOI: 10.1109/MWSCAS.2009.5235915 
+ 
+Cited by: Papers (2) 
+ 
+ 
+ 
+40 
+2009 
+Resistive Memory Sensing Using Delta-Sigma 
+Modulation 
+ 
+H. Rapole; A. Rajagiri; M. Balasubramanian; K. A. 
+Campbell; R. J. Baker 
+ 
+2009 IEEE Workshop on Microelectronics and Electron 
+Devices  
+ 
+Pages: 1 - 4, DOI: 10.1109/WMED.2009.4816149 
+ 
+Cited by: Papers (1) | Patents (5) 
+ 
+ 
+ 
+41 
+2009 
+W-2W Current Steering DAC for Programming Phase 
+Change Memory 
+ 
+Shantanu Gupta; Vishal Saxena; Kristy A. Campbell; R. 
+Jacob Baker 
+ 
+2009 IEEE Workshop on Microelectronics and Electron 
+Devices  
+ 
+Pages: 1 - 4, DOI: 10.1109/WMED.2009.4816148 
+ 
+Cited by: Papers (4) | Patents (10) 
+ 
+ 
+ 
+42 
+2009 
+Indirect compensation techniques for three-stage CMOS 
+op-amps 
+ 
+Vishal Saxena; R. Jacob Baker 
+ 
+2009 52nd IEEE International Midwest Symposium on 
+Circuits and Systems  
+ 
+Pages: 9 - 12, DOI: 10.1109/MWSCAS.2009.5236164 
+ 
+Cited by: Papers (7) 
+ 
+ 
+ 
+43 
+2008 
+Low-Voltage CMOS Temperature Sensor Design Using 
+Schottky Diode-Based References 
+ 
+Curtis Cahoon; R. Jacob Baker 
+ 
+2008 IEEE Workshop on Microelectronics and Electron 
+Devices  
+ 
+Pages: 16 - 19, DOI: 10.1109/WMED.2008.4510657 
+ 
+Cited by: Papers (5) 
+ 
+ 
+ 
+
+-----
+22 of 32 
+44 
+2008 
+A new approach to the design, fabrication, and testing of 
+chalcogenide-based multi-state phase-change nonvolatile 
+memory 
+ 
+H. K. Ande; P. Busa; M. Balasubramanian; K. A. 
+Campbell; R. J. Baker 
+ 
+2008 51st Midwest Symposium on Circuits and Systems  
+ 
+Pages: 570 - 573, DOI: 10.1109/MWSCAS.2008.4616863 
+ 
+Cited by: Papers (2) | Patents (7) 
+ 
+ 
+ 
+45 
+2008 
+Compensation of CMOS op-amps using split-length 
+transistors 
+ 
+Vishal Saxena; R. Jacob Baker 
+ 
+2008 51st Midwest Symposium on Circuits and Systems  
+ 
+Pages: 109 - 112, DOI: 10.1109/MWSCAS.2008.4616748 
+ 
+Cited by: Papers (17) 
+ 
+ 
+ 
+46 
+2007 
+Poster Presentation 1 : Low Power Intrusion Detection 
+ 
+Patrick Ransom; Aaron Erbe; Ben Fox; Joshua 
+Nekl; Boise State; Jacob Baker 
+ 
+2007 IEEE Workshop on Microelectronics and Electron 
+Devices  
+ 
+Pages: 55 - 55, DOI: 10.1109/WMED.2007.368062 
+ 
+ 
+ 
+47 
+2006 
+Noise-shaping sense amplifier for MRAM cross-point 
+arrays 
+ 
+M. B. Leslie; R. J. Baker 
+ 
+IEEE Journal of Solid-State Circuits  
+ 
+Year: 2006, Volume: 41, Issue: 3 
+ 
+Pages: 699 - 704, DOI: 10.1109/JSSC.2005.864103 
+ 
+Cited by: Papers (8) | Patents (33) 
+ 
+ 
+ 
+48 
+2006 
+Indirect feedback compensation of CMOS op-amps 
+ 
+V. Saxena; R. J. Baker 
+ 
+2006 IEEE Workshop on Microelectronics and Electron 
+Devices, 2006. WMED '06.  
+ 
+Pages: 2 pp. - 4, DOI: 10.1109/WMED.2006.1678278 
+ 
+Cited by: Papers (10) 
+ 
+ 
+ 
+49 
+2006 
+High speed digital input buffer circuits 
+ 
+K. Duwada; V. Saxena; R. J. Baker 
+ 
+2006 IEEE Workshop on Microelectronics and Electron 
+Devices, 2006. WMED '06.  
+ 
+Pages: 2 pp. - 12, DOI: 10.1109/WMED.2006.1678282 
+
+-----
+23 of 32 
+ 
+Cited by: Papers (1) 
+ 
+ 
+ 
+50 
+2006 
+Design and fabrication of a MEMS capacitive chemical 
+sensor system 
+ 
+V. Saxena; T. J. Plum; J. R. Jessing; R. Jacob Baker 
+ 
+2006 IEEE Workshop on Microelectronics and Electron 
+Devices, 2006. WMED '06.  
+ 
+Pages: 2 pp. - 18, DOI: 10.1109/WMED.2006.1678286 
+ 
+Cited by: Papers (1) | Patents (33) 
+ 
+ 
+ 
+51 
+2006 
+Preliminary study of NOR digital response to single 
+pMOSFET dielectric degradation 
+ 
+T. L. Gorseth; D. Estrada; J. Kiepert; M. L. Ogas; B. J. 
+Cheek; P. M. Price; R. J. Baker; G. Bersuker; W. B. 
+Knowlton 
+ 
+2006 IEEE Workshop on Microelectronics and Electron 
+Devices, 2006. WMED '06.  
+ 
+Pages: 2 pp. - 32, DOI: 10.1109/WMED.2006.1678294 
+ 
+ 
+ 
+52 
+2005 
+Degradation of rise time in NAND gates using 2.0 nm 
+gate dielectrics 
+ 
+M. L. Ogas; P. M. Price; J. Kiepert; R. J. Baker; G. 
+Bersuker; W. B. Knowlton 
+ 
+2005 IEEE International Integrated Reliability Workshop  
+ 
+Page: 4 pp., DOI: 10.1109/IRWS.2005.1609564 
+ 
+Cited by: Papers (1) 
+ 
+ 
+ 
+53 
+2005 
+Low-voltage bandgap reference design utilizing 
+Schottky diodes 
+ 
+D. L. Butler; R. J. Baker 
+ 
+48th Midwest Symposium on Circuits and Systems, 2005.  
+ 
+Pages: 1794 - 1797 Vol. 
+2, DOI: 10.1109/MWSCAS.2005.1594470 
+ 
+Cited by: Papers (3) 
+ 
+ 
+ 
+54 
+2004 
+Investigation of circuit-level oxide degradation and its 
+effect on CMOS inverter operation and MOSFET 
+characteristics 
+ 
+B. J. Cheek; N. Stutzke; S. Kumar; R. J. Baker; A. J. 
+Moll; W. B. Knowlton 
+ 
+2004 IEEE International Reliability Physics Symposium. 
+Proceedings  
+ 
+Pages: 110 - 116, DOI: 10.1109/RELPHY.2004.1315309 
+
+-----
+24 of 32 
+ 
+Cited by: Papers (7) 
+ 
+ 
+ 
+55 
+2004 
+Survey of oxide degradation in inverter circuits using 2.0 
+nm MOS devices 
+ 
+M. L. Ogas; R. G. Southwick; B. J. Cheek; R. J. Baker; G. 
+Bersuker; W. B. Knowlton 
+ 
+IEEE International Integrated Reliability Workshop Final 
+Report, 2004  
+ 
+Pages: 32 - 36, DOI: 10.1109/IRWS.2004.1422734 
+ 
+Cited by: Papers (2) 
+ 
+ 
+ 
+56 
+2003 
+Mixed-signal design in the microelectronics curriculum 
+ 
+R. J. Baker 
+ 
+Proceedings of the 15th Biennial 
+University/Government/ Industry Microelectronics 
+Symposium (Cat. No.03CH37488)  
+ 
+Pages: 66 - 69, DOI: 10.1109/UGIM.2003.1225698 
+ 
+Cited by: Patents (32) 
+ 
+ 
+ 
+57 
+2003 
+Effects of circuit-level stress on inverter performance and 
+MOSFET characteristics 
+ 
+N. Stutzke; B. J. Cheek; S. Kumar; R. J. Baker; A. J. 
+Moll; W. B. Knowlton 
+ 
+IEEE International Integrated Reliability Workshop Final 
+Report, 2003  
+ 
+Pages: 71 - 79, DOI: 10.1109/IRWS.2003.1283304 
+ 
+Cited by: Papers (6) 
+ 
+ 
+ 
+58 
+2003 
+Gate dielectric degradation effects on nMOS devices 
+using a noise model approach 
+ 
+C. E. Lawrence; B. J. Cheek; T. E. Lawrence; S. Kumar; A. 
+Haggag; R. J. Baker; W. B. Knowlton 
+ 
+Proceedings of the 15th Biennial 
+University/Government/ Industry Microelectronics 
+Symposium (Cat. No.03CH37488)  
+ 
+Pages: 263 - 266, DOI: 10.1109/UGIM.2003.1225739 
+ 
+ 
+ 
+59 
+2001 
+Design and layout of Schottky diodes in a standard 
+CMOS process 
+ 
+B. Rivera; R. J. Baker; J. Melngailis 
+ 
+2001 International Semiconductor Device Research 
+Symposium. Symposium Proceedings (Cat. No.01EX497)  
+ 
+Pages: 79 - 82, DOI: 10.1109/ISDRS.2001.984443 
+
+-----
+25 of 32 
+ 
+Cited by: Papers (6) | Patents (4) 
+ 
+ 
+ 
+60 
+2000 
+Transformerless capacitive coupling of gate signals for 
+series operation of power MOS devices 
+ 
+H. L. Hess; R. J. Baker 
+ 
+IEEE Transactions on Power Electronics  
+ 
+Year: 2000, Volume: 15, Issue: 5 
+ 
+Pages: 923 - 930, DOI: 10.1109/63.867682 
+ 
+Cited by: Papers (30) | Patents (9) 
+ 
+ 
+ 
+61 
+1999 
+A register-controlled symmetrical DLL for double-data-
+rate DRAM 
+ 
+Feng Lin; J. Miller; A. Schoenfeld; M. Ma; R. J. Baker 
+ 
+IEEE Journal of Solid-State Circuits  
+ 
+Year: 1999, Volume: 34, Issue: 4 
+ 
+Pages: 565 - 568, DOI: 10.1109/4.753691 
+ 
+Cited by: Papers (25) | Patents (26) 
+ 
+ 
+ 
+62 
+1999 
+Transformerless capacitive coupling of gate signals for 
+series operation of power MOS devices 
+ 
+H. L. Hess; R. J. Baker 
+ 
+Electric Machines and Drives, 1999. International 
+Conference IEMD '99  
+ 
+Pages: 673 - 675, DOI: 10.1109/IEMDC.1999.769210 
+ 
+Cited by: Papers (1) | Patents (18) 
+ 
+ 
+ 
+63 
+1998 
+Process and temperature performance of a CMOS beta-
+multiplier voltage reference 
+ 
+Song Liu; R. J. Baker 
+ 
+1998 Midwest Symposium on Circuits and Systems (Cat. 
+No. 98CB36268)  
+ 
+Pages: 33 - 36, DOI: 10.1109/MWSCAS.1998.759429 
+ 
+Cited by: Papers (6) 
+ 
+ 
+ 
+64 
+1998 
+A CMOS standard-cell library for the PC-based LASI 
+layout system 
+ 
+Hao Chen; R. J. Baker 
+ 
+1998 Midwest Symposium on Circuits and Systems (Cat. 
+No. 98CB36268)  
+ 
+Pages: 292 - 295, DOI: 10.1109/MWSCAS.1998.759490 
+ 
+Cited by: Papers (1) 
+ 
+ 
+ 
+65 
+1997 
+A complete layout system for the PC 
+
+-----
+26 of 32 
+ 
+D. E. Boyce; R. J. Baker 
+ 
+Proceedings of 40th Midwest Symposium on Circuits 
+and Systems. Dedicated to the Memory of Professor Mac 
+Van Valkenburg  
+ 
+Year: 1997, Volume: 2 
+ 
+Pages: 1091 - 1094 
+vol.2, DOI: 10.1109/MWSCAS.1997.662267 
+ 
+Cited by: Papers (2) | Patents (1) 
+ 
+ 
+ 
+66 
+1996 
+Analog layout using ALAS! 
+ 
+J. D. Bruce; H. W. Li; M. J. Dallabetta; R. J. Baker 
+ 
+IEEE Journal of Solid-State Circuits  
+ 
+Year: 1996, Volume: 31, Issue: 2 
+ 
+Pages: 271 - 274, DOI: 10.1109/4.488007 
+ 
+Cited by: Papers (24) | Patents (2) 
+ 
+ 
+ 
+67 
+1995 
+CMOS transconductor VCO with adjustable operating 
+and centre frequencies 
+ 
+B. Keeth; R. J. Baker; H. W. Li 
+ 
+Electronics Letters  
+ 
+Year: 1995, Volume: 31, Issue: 17 
+ 
+Pages: 1397 - 1398, DOI: 10.1049/el:19951001 
+ 
+Cited by: Papers (7) | Patents (1) 
+ 
+ 
+ 
+68 
+1991 
+A fiber-optically triggered avalanche transistor 
+ 
+R. J. Baker; G. T. Perryman; P. W. Watts 
+ 
+IEEE Transactions on Instrumentation and Measurement  
+ 
+Year: 1991, Volume: 40, Issue: 3 
+ 
+Pages: 649 - 652, DOI: 10.1109/19.87038 
+ 
+Cited by: Papers (1) 
+ 
+ 
+ 
+POSTGRADUATE STUDENTS SUPERVISED: 
+Graduated Doctoral Students 
+2016 – Dr. Yiyan Li   
+Portable High Throughput Digital Microfluidics and On-Chip Bacteria Cultures       
+2015 – Dr. Yacouba Moumouni  
+Designing, Building, and Testing a Solar Thermoelectric Generation, STEG, for 
+Energy Delivery to Remote Residential Areas in Developing Regions 
+2011 – Dr. Qawi IbnZayd Harvard –  
+
+-----
+27 of 32 
+Low-Power, High-Bandwidth, and Ultra-Small Memory Module Design 
+2010 – Dr. Vishal Saxena   
+K-Delta-1-Sigma Modulators for Wideband Analog-to-Digital Conversion 
+2009 – Dr. Robert Russell Hay  
+Digitally-Tunable Surface Acoustic Wave Resonator 
+2008 – Dr. Xiangli Li (the first Boise State University College of Engineering PhD 
+graduate)  
+MOSFET Modulated Dual Conversion Gain CMOS Image Sensors 
+2000 – Dr. Feng Lin  
+Research and Design of Low Jitter, Wide Locking-Range Phase-Locked and Delay-
+Locked Loops 
+  
+Graduated Masters Students 
+2017 
+Claire Tsagari – Design, Fabrication and Testing of a Capacitive Sensor using 
+Delta-Sigma Modulation    
+  
+2015 
+Kevin 
+Buck – Fast 
+Transient 
+Digitzer 
+and 
+PCB 
+Interface    
+Marzieh Sharbat Maleki    
+Angsuman Roy – Design, Fabrication and Testing of Monolithic Low-Power 
+Passive Sigma-Delta Analog-to-Digital Converters      
+   
+2014 
+Daniel Anderson – Design and Implementation of an Instruction Set Architecture 
+and Instruction Execution Unit for the RZ9 Coprocessor System   
+   
+2013 
+Jared Gordon – Design and Fabrication of an Infrared Optical Pyrometer ASIC 
+   
+
+-----
+28 of 32 
+2012 
+Justin Butterfield 
+Adam Johnson – Methods and Considerations for Testing Resistive Memories 
+Ben Millemon – CMOS Characterization, Modeling, and Circuit Design in the 
+Presence of Random Local Variation 
+Justin Wood 
+   
+2011 
+Chamunda Ndinawe Chamunda  
+Gary VanAckern – Design Guide for CMOS Process On-Chip 3D Inductors using 
+Thru-Wafer Vias 
+   
+2010 
+Lucien Jan Bissey – High-Voltage Programmable Delta-Sigma Modulation Voltage-
+Control Circuit 
+Kaijun Li 
+Yingting Li (co-supervised with Maria Mitkova) 
+Lael Matthews (co-supervised with Said Ahmed-Zaid) 
+Priyanka Mukeshbhai Parikh  
+Todd Plum (co-supervised with Jeff Jessing) – Design and Fabrication of a 
+Chemicapacitive Sensor for the Detection of Volatile Organic Compounds 
+Rahul Srikonda 
+Avani Falgun Trivedi 
+Kuang Ming Yap – Gain and Offset Error Correction for CMOS Image Sensors 
+using Delta-Sigma Modulation 
+   
+2009 
+Mahesh Balasubramanian – Phase Change Memory - Array Development and 
+Sensing Circuits using Delta-Sigma Modulation 
+Lincoln Bollschweiler 
+Shantanu Gupta 
+Qawi Harvard – Wide I_O DRAM Architecture Utilizing Proximity 
+Communication and slides 
+Avinash Rajagiri 
+Ramya Ramarapu 
+Harikrishna Rapole 
+
+-----
+29 of 32 
+Aruna Vadla 
+   
+2008 
+Hemanth Ande 
+Curtis Cahoon – Low-Voltage CMOS Temperature Sensor Design using Schottky 
+Diode-Based References 
+Prashanth Busa 
+John McCoy III 
+Dennis Montierth – Using Delta-Sigma-Modulation for Sensing in a CMOS Imager 
+Rudi Rashwand 
+Barsha Shrestha (co-supervised with Zhu Han) – Wireless Access in Vehicular 
+Environments using Bit Torrent and Bargaining 
+   
+2007 
+Eric Becker – Design of an Integrated Half-Cycle Delay Line Duty Cycle Corrector 
+Delay Locked Loop 
+Matthew Leslie – Noise-Shaping Sense Amplifier for Cross-Point Arrays 
+Jose Monje 
+Sanghyun Park 
+Vishal Saxena – Indirect Feedback Compensation Techniques for Multi-Stage 
+Operational Amplifiers and Vishal Saxena Opamps Matlab Design Kit.zip 
+   
+2006 
+Meshack Appikatla 
+Eric Booth – Wide Range, Low Jitter Delay-Locked Loop Using a Graduated Digital 
+Delay Line and Phase Interpolator 
+Sucheta Das   
+Krishna Duvvada – High Speed Digital CMOS Input Buffer Design 
+Krishnamraju Kurra   
+Soumya Narasimhan   
+
+-----
+30 of 32 
+Roger Porter   
+   
+2005 
+David Butler – Low-Voltage Bandgap Reference Design Utilizing Schottky Diodes 
+Dragos Dimitriu   
+Surendranath Eruvuru – Sensing Circuit Design for an Ion Mobility Spectrometer 
+Sandhya Sandireddy    
+Harish Singidi   
+Indira Vemula – Delta-Sigma Modulator Used in CMOS Imagers 
+   
+2004 
+Bhavana Kollimarla – A 1-Bit Analog-to-Digital Converter Using Delta Sigma 
+Modulation for Sensing in CMOS Imagers 
+Sandeep Pemmaraju – High Voltage Charge Pump Circuit for an Ion Mobility 
+Spectrometer 
+Ravindra Puthumbaka – Circuit Design for an Ion Mobility Spectrometer 
+Brandon Roth – Comparison of Asynchronous vs. Synchronous Design 
+Technologies using a 16-bit Binary Adder 
+Jennifer Taylor – Reading and Writing Flash Memory Using Delta-Sigma 
+Modulation 
+   
+2003 
+Jing Plaisted – Methods for Memory Testing 
+Murugesh Subramaniam – Flash Memory Sensing Using Averaging 
+    
+2002 
+Brian Johnson – Application of an Asynchronous FIFO in a DRAM Data Path 
+Scott Ward – Electrostatic Discharge (ESD) Protection in CMOS 
+   
+
+-----
+31 of 32 
+2001 
+Tyler Gomm – Design of a Delay-Locked Loop with a DAC-Controlled Analog 
+Delay Line 
+Gexin Huang 
+   
+2000 
+Chris Atkins  
+Thaddeus Black 
+Zuxu Qin 
+   
+1999 
+Hao Chen 
+Doug Hackler (co-supervised with Steve Parke) – TMOS: A Novel Design for 
+MOSFET Technology 
+Song Liu – Design of a CMOS 6-bit Folding and Interpolating Analog-to-Digital 
+Converter 
+   
+1997 
+Ben Ba   
+     
+1996 
+Brent Keeth – A Novel Architecture for Advanced High Density Dynamic Random 
+Access Memories 
+ 
+ 
+
+-----
+31/5/17, 13(25
+R. Jacob Baker - Google Scholar Citations
+Page 1 of 2
+https://scholar.google.com/citations?user=sMVEjJkAAAAJ
+R. Jacob Baker
+Professor of Electrical and Computer
+Engineering at the University of Nevada, Las
+Vegas.
+Integrated Circuit Design
+Google Scholar
+Citation indices
+All
+Since 2012
+Citations
+8408
+3728
+h-index
+37
+20
+i10-index
+97
+63
+Title
+1–20
+Cited by
+Year
+CMOS: circuit design, layout, and simulation
+RJ Baker
+John Wiley & Sons
+3407
+2008
+Layout, and Simulation
+RJ Baker, CC Design
+Wiley-IEEE Press
+542
+2004
+CMOS: mixed-signal circuit design
+RJ Baker
+John Wiley & Sons
+258
+2008
+Method and apparatus for adaptively adjusting the timing of a clock signal
+used to latch digital signals, and memory device using same
+RJ Baker, TA Manning, Micron Technology, Inc.
+US Patent 6,026,050
+177
+2000
+The VLSI handbook
+WK Chen
+CRC press
+173
+2016
+Method and apparatus for improving the performance of digital delay locked
+loop circuits
+JE Miller Jr, A Schoenfeld, M Ma, RJ Baker, , RJ Baker
+US Patent 6,069,506
+112
+2000
+DRAM Circuit Design: A Tutorial
+B Keeth, RJ Baker
+Wiley-IEEE Press
+111
+2000
+DRAM Circuit Design: Fundamental and High-Speed Topics
+B Keeth, RJ Baker, B Johnson, F Lin
+Wiley-IEEE Press
+95
+2007
+A register-controlled symmetrical DLL for double-data-rate DRAM
+F Lin, J Miller, A Schoenfeld, M Ma, RJ Baker
+IEEE Journal of solid-state Circuits 34 (4), 565-568
+89
+1999
+Digital dual-loop DLL design using coarse and fine loops
+RJ Baker, F Lin, , F Lin
+US Patent 6,445,231
+86
+2002
+Method and apparatus for adaptively adjusting the timing of a clock signal
+
+-----
+31/5/17, 13(25
+R. Jacob Baker - Google Scholar Citations
+Page 2 of 2
+https://scholar.google.com/citations?user=sMVEjJkAAAAJ
+used to latch digital signals, and memory device using same
+RJ Baker, TA Manning, Micron Technology, Inc.
+US Patent 5,953,284
+76
+1999
+Low skew differential receiver with disable feature
+B Keeth, RJ Baker, Micron Technology, Inc.
+US Patent 6,026,051
+67
+2000
+Resistive memory element sensing using averaging
+RJ Baker, RJ Baker
+US Patent 6,504,750
+63
+2003
+High voltage pulse generation using current mode second breakdown in a
+bipolar junction transistor
+RJ Baker
+Review of scientific instruments 62 (4), 1031-1036
+56
+1991
+Transformerless capacitive coupling of gate signals for series operation of
+power MOS devices
+HL Hess, RJ Baker
+IEEE Transactions on power electronics 15 (5), 923-930
+55
+2000
+Low skew differential receiver with disable feature
+B Keeth, RJ Baker, , RJ Baker
+US Patent 6,256,234
+54
+2001
+Fully-differential amplifier
+RJ Baker, RJ Baker
+US Patent 5,953,276
+53
+1999
+Analog layout using ALAS!
+JD Bruce, HW Li, MJ Dallabetta, RJ Baker
+IEEE Journal of Solid-State Circuits 31 (2), 271-274
+53
+1996
+Method and apparatus for sensing resistance values of memory cells
+RJ Baker, RJ Baker
+US Patent 6,567,297
+52
+2003
+Complementary bit PCRAM sense amplifier and method of operation
+G Hush, J Baker, , J Baker
+US Patent 6,791,859
+46
+2004
+Dates and citation counts are estimated and are determined automatically by a computer program.
+
+-----
+32 of 32 
+ 
+31/5/17, 10)51
+Web of Science [v.5.24] - Web of Science Core Collection Citation Report
+Page 1 of 3
+http://apps.webofknowledge.com.ezlibproxy1.ntu.edu.sg/Citatio…G&page=1&cr_pqid=86&viewType=summary&from_ML=true&colName=WOS
+Citation Report: 44
+(from Web of Science Core Collection)
+You searched for:  From Marked List: 
+Timespan: All years. Indexes: SCI-EXPANDED, ESCI, A&HCI, SSCI, CPCI-SSH, CPCI-S.
+...Less
+This report reflects citations to source items indexed within Web of Science Core Collection. Perform a Cited Reference Search to include citations to items not indexed within
+Web of Science Core Collection.
+Published Items in Each Year
+ 
+The latest 20 years are displayed.
+Citations in Each Year
+ 
+The latest 20 years are displayed.
+Results found: 44
+Sum of the Times Cited [?] : 52
+Sum of Times Cited without self-citations [?] : 41
+Citing Articles [?] : 46
+Citing Articles without self-citations [?] : 37
+Average Citations per Item [?] : 1.18
+h-index [?] : 4
+Sort by:  
+ 
+Page 1
+ of 5   
+ 
+2013 
+2014
+2015
+2016
+2017 
+Total
+Average
+Citations
+per Year
+Use the checkboxes to remove individual items from this Citation Report 
+or restrict to items published between 
+and
+4
+4
+14
+8
+4
+52
+3.71
+Compensation of CMOS Op-amps using Split-Length
+Transistors
+By: Saxena, Vishal; Baker, R. Jacob
+Book Group Author(s): IEEE
+Conference: 51st Midwest Symposium on Circuits and Systems Location:
+Knoxville, TN Date: AUG 10-13, 2008
+2008 51ST MIDWEST SYMPOSIUM ON CIRCUITS AND SYSTEMS, VOLS 1
+AND 2   Book Series: Midwest Symposium on Circuits and Systems
+Conference Proceedings   Pages: 109-+   Published: 2008
+2
+1
+4
+0
+0
+14
+1.40
+Indirect Compensation Techniques for Three-Stage Fully-
+Differential Op-amps
+By: Saxena, Vishal; Baker, R. Jacob
+Book Group Author(s): IEEE
+Conference: 53rd Midwest Symposium on Circuits and Systems (MWSCAS
+2010) Location: Seattle, WA Date: AUG 01-04, 2010 
+Sponsor(s): CAS; IEEE
+53RD IEEE INTERNATIONAL MIDWEST SYMPOSIUM ON CIRCUITS AND
+SYSTEMS   Book Series: Midwest Symposium on Circuits and Systems
+Conference Proceedings   Pages: 588-591   Published: 2010
+0
+2
+1
+3
+1
+9
+1.12
+A Low-Cost and High-Resolution Droplet Position Detector for
+Web of Science TM
+InCites TM
+Journal Citation Reports ®
+Essential Science Indicators SM
+EndNote TM
+Yvonne 
+Help
+English 
+My Tools 
+Search History
+Marked List 
+44
+Times Cited -- highest to lowest
+1900
+2017
+1.
+2.
+3.
+Search
+Return to Search Results
+
+-----

@@ -1,0 +1,71 @@
+Name: 
+Rijil Thomas 
+Matriculation number: 
+G1300514C 
+Supervisor: 
+Assoc. Prof. Soh Cheong Boon 
+Thesis Title: 
+MODELING AND ANALYSIS OF POST PLASMONIC 
+EFFECTS IN OPTICALLY EXCITED METAL 
+NANOSYSTEMS 
+ 
+Abstract 
+Plasmonic nanoparticles such as gold (Au) and silver (Ag) with their heterogeneous 
+nanocomposite structures have aggrandized in multitude of applications including biomedical 
+imaging (optical, dark field, photoacoustic, etc.), sensing techniques including wavelength shift 
+LSPR bands and Surface Enhanced Raman Spectroscopy (SERS), photothermal therapy, and 
+drug delivery. Their usage is made plausible by optical excitation of suitable wavelength and 
+subsequently triggering local surface plasmon resonance (LSPR). To manipulate LSPR, this field 
+of nanotechnology requires appropriate modification and design of nanostructures in terms of 
+size, shape, surface functionalization, coating, interparticle coupling, etc. These modifications are 
+inevitable to achieve better performance and sensitivity via one or more of these objectives: 1) 
+higher absorption, 2) field enhancement and 3) thermodynamic stability. 
+Though the unique capabilities of coatings/shell on nanomaterials are quite promising, 
+post effects of optical excitation intuitively can be claimed to disturb the core-shell nanostructures.  
+This thesis investigates the cause of perturbations in plasmonic as well as core-shell hetero-
+structures and their bulk and surface morphologies via few possible intermediate phenomena like 
+electric field enhancement, thermal expansion, heat generation, gas evolution, boiling, ablation, 
+breakdown, and plasma formation. These mechanisms occur under specific conditions of 
+temperature, irradiation timing, laser intensity, nanoparticle shape, environment matrix, pulse 
+duration, beam diameter, etc. On the other hand, in addition to investigation on structural damage, 
+the thesis also analyzes and study a plasmonic system formed via optical excitation as stimulus 
+or trigger to induce formation of clusters, how plasmons couples in an elongated self-assembly 
+with a conductive interface. 
+In this thesis, we have explored few mechanisms which induce morphological or structural 
+change, on composite hetero-nanostructures with a dielectric coating on gold nanoparticles. We 
+used finite element method (FEM), MATLAB and theoretical analysis to numerically compute and 
+predict the intensity range where we can expect such breakdown. First we explored structural 
+damage on smaller nanoparticles like silica coated spherical Au nanoparticles (AuNP@SiO2). 
+Using nanosecond pulsed laser (10ns) we have showed the possibility of structural breakdown 
+which was characterized using transmission electron microscopy (TEM) images and scanning 
+electron microscopy images (SEM). An intensive literature and theoretical model backup the fact 
+that, structural failure in these core-shell nanospherical structures happens due to differential 
+thermal expansion of core-shell pair and that rupture or deformation happens throughout the silica 
+coating.  
+Following this we extended our study towards silica coated Ag nanoprism (AgNPr@SiO2) 
+which exhibits a different breakdown mechanism. Due to the triangular geometry and high 
+
+-----
+scattering of Ag than that of Au, a low input intensity could create a field enhancement near the 
+corners causing damage to initiate near the corners. Numerical models were used to analyze the 
+localization of intensity near corners and estimate the numerical value range of breakdown. Thus, 
+a more controlled breakdown is achieved and with a low laser fluence. These nanosystems are 
+anticipated to have significant impact on biomedical applications, providing futuristic possibilities 
+for non-invasive methods as suitable agent carriers. These agents can be injected non-invasively 
+and remotely activate to respond to external stimuli in convenient sites inside a real-life sample. 
+ Finally, we have investigated the effect of optical excitation on plasmonic clusters 
+connected covalently by a conductive inter-particle interface. For this we have selected gold 
+nanoprisms (AuNPrs) and modified triangular edges with a synthetically modified diacetylene 
+monomer. Upon exposure to ultra-violet light (254 nm) the diacetylene undergoes photo-
+polymerization to poly-diacetylene resulting in formation of interparticle assembly and initiate 
+clustering. We anticipate that the interface comprising of conductive polymers allows interparticle 
+plasmonic exchange upon suitable light excitation.  
+Theoretical simulation and experimental findings suggested that upon suitable optical 
+excitation, post-excitation on plasmonic nanosystems, core-shell analogues as well as 
+interparticle clusters undergoes various changes. The resultant transformation in these 
+nanosystems varies for different structures depending on factors such as size, shape, coating 
+and nature of laser used for excitation. The study presented in this thesis will provide insight in to 
+plasmon interactions based structural instabilities and changes in plasmonic nanomaterials during 
+interaction with electromagnetic (EM) waves. 
+
+-----

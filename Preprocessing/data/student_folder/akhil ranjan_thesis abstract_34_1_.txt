@@ -1,0 +1,128 @@
+ 
+Studies on GaN HEMT based gas sensors for low 
+concentrations of NO2 and NH3. 
+ 
+Abstract 
+ 
+In recent decades, the demand for gas sensors has increased rapidly 
+because of their large scale use in medical instruments, automobiles 
+and laboratories. For example, nitrogen dioxide (NO2) and ammonia 
+(NH3) are found to be among the main constituents of exhaust gases 
+and harmful air contaminants. Inhalation and long-term exposure of 
+these gases can cause health issues and sometimes result in life 
+threatening conditions. Hence, there is a need to detect low 
+concentrations of NO2 and NH3. Recently, several wide band gap 
+materials have attracted great interest for application in gas sensing to 
+mitigate some of the limitations associated with metal oxide, polymer 
+and electrochemical cell based sensors. The investigated materials 
+include ZnO, diamond, and GaN and its alloys.  
+GaN based sensors are gaining momentum due to their unique 
+properties, such as high electron mobility, mechanical stability and wide 
+band gap that allows high thermal resistance and the ability to withstand 
+harsh 
+chemicals, 
+gaseous 
+and 
+the 
+corrosive 
+environments. 
+Furthermore, AlGaN/GaN high electron mobility transistors (HEMTs) are 
+
+-----
+extremely sensitive to the surface charge and variations in the 
+environmental conditions due to the proximity of 2DEG to the sensing 
+surface and their high sheet carrier concentration (on the order of 1013 
+cm-2), thereby enabling sensing of the gases at low concentrations. This 
+thesis presents the fabrication and characterization of GaN HEMT 
+based gas sensors that can detect low concentrations of NO2 and NH3 
+for a large range of concentrations and a wide range of temperatures. 
+The sensing mechanism corresponding to the temperature dependent 
+response of these gases has been explained in detail. 
+AlGaN/GaN HEMT heterostructure was grown on 100 mm diameter Si 
+(111) substrate using metal organic chemical vapour deposition 
+(MOCVD). The AlGaN/GaN HEMT based sensors were fabricated with 
+interdigitated electrodes using Ti/Al/Ni/Au (20/120/40/50 nm) metal 
+stack, followed by the rapid thermal annealing at 825 ºC under nitrogen 
+ambient for 30 sec. The contact resistance (Rc) value of <1 Ω.mm was 
+achieved, which confirms the good quality of the ohmic contacts. 
+Subsequently, Ti/Au (25/300 nm) pad layer for wire bonding was 
+deposited. It was followed by the deposition of different functionalization 
+layers such as Pt, Pd and Ag in the open gate region. The fabricated 
+devices were wire bonded to a 16-pin dual in-line package (DIP) for the 
+gas sensing applications. 
+ 
+
+-----
+The Pt/AlGaN/GaN HEMT based sensors exhibited a change in current 
+(ΔI) of 0.5 mA with sensitivity of 1.2 % for 10 ppm NO2 at room 
+temperature (RT) and recovered at an elevated temperature (300 °C). 
+The heating induced gas desorption led to the recovery of the sensor at 
+an elevated temperature. The sensitivity increased with the increase in 
+relative humidity (0 to 90%) at RT. The mechanisms for current 
+decrease during the exposure of the gas and influence of relative 
+humidity on NO2 sensitivity were investigated. The high sensitivity of   
+5.5 % with a corresponding ΔI of 1.8 mA was achieved for 10 ppm NO2 
+concentration at 300 °C, which is higher than the reported value with 
+Pt/AlGaN/GaN HEMT based sensors under similar measurement 
+conditions. The large surface area of the interdigitated electrodes and 
+the catalytic property of platinum functionalization layer enabled high 
+sensitivity for low NO2 concentrations of < 10 ppm. A rapid response of 
+less than 2 min. with a recovery time of less than 5 min. was obtained 
+for all the concentrations. The behaviour of various sensor metrics such 
+as sensitivity, response time and recovery time were studied at different 
+temperatures. The activation energy values of 0.33 eV/molecule and 
+0.64 eV/molecule were obtained for response time (Ea) and recovery 
+time (Ed), respectively. Ea and Ed are the activation energies of 
+adsorption (chemisorption of O- with adsorption sites at the top surface) 
+and desorption (dissociation of the existing chemical bond), respectively. 
+Arrhenius plot of sensitivity was obtained for 10 ppm NO2. The activation 
+
+-----
+energy of 0.085 eV/molecule was obtained for NO2 sensing using 
+AlGaN/GaN HEMT with Pt functionalization layer. This is the energy of 
+the rate-limiting step of chemisorption of O- ions, in which negative 
+charge is transferred to the metal/semiconductor interface. 
+ 
+NH3 sensing using AlGaN/GaN HEMT based gas sensors with Pt 
+functionalization layer and other novel functionalization layers such as 
+Pd and Ag was demonstrated over a wide temperature range of          
+30-275 °C. Pt/AlGaN/GaN HEMT exhibited the sensitivity of 0.51 % and 
+0.83 % for 50 ppm NH3 at 30 °C and 275 °C, respectively. A measurable 
+ΔI of 143 µA and sensitivity of 0.19 % were obtained for a low NH3 
+concentration of 10 ppm, which is the lowest NH3 concentration sensed 
+at RT by Pt/AlGaN/GaN HEMT. The current decreased (ΔI is negative) 
+when the sensor was exposed to different concentrations of NH3 at RT 
+while it increased (ΔI is positive) above 200 °C. At low temperature     
+(30 °C), NH3 is adsorbed in a molecular form on Pt surface and donates 
+free electrons to produce negative potential at the Pt/AlGaN interface 
+leading to a decrease in the current. However, NH3 gets dissociated into 
+positively charged hydrogen ions (H+) at high-temperature (>200 °C). 
+This results in positive surface potential causing an increase in the 
+current. The behaviour of various sensor metrics such as sensitivity, 
+response time and recovery time were compared for Pt, Pd and Ag 
+functionalization layers. The sensor with the Pd functionalization layer 
+
+-----
+exhibited higher sensitivity at 275 °C as compared to the other sensors 
+due to higher hydrogen affinity of Pd. The sensor with the Ag 
+functionalization layer was found to respond quickly to the change in 
+NH3 concentration and demonstrated faster response time and recovery 
+time (< 3 min) as compared to other sensors using Pt and Pd. This is 
+attributed to the oxidized Ag surface which creates a favourable site for 
+the adsorption of NH3 gas. After adsorption, charge transfer from NH3 to 
+Ag occurs quickly leading to faster response and recovery times. 
+ 
+Having optimized the AlGaN/GaN HEMT based sensors, further efforts 
+were made to investigate novel Pt/AlN/GaN/AlN HEMTs for NO2 and 
+NH3 sensing. AlN/GaN/AlN HEMT heterostructures were grown on SiC 
+substrate using molecular beam epitaxy (MBE). A sensitivity of 0.76 % 
+with a corresponding ΔI of 472 µA was obtained for 10 ppm NO2, which 
+is lower than that obtained for Pt/AlGaN/GaN HEMT based sensor. 
+However, the Pt/AlN/GaN/AlN HEMT based sensor was found to 
+respond quickly to the change in the NO2 concentration. There was an 
+improvement in the response time from 56 sec to 32 sec for 10 ppm 
+NO2. Since the time taken for the charge transport from the interface to 
+2DEG is less due to the lower barrier thickness (7 nm), it  results in the 
+decreased value of response time. 
+
+-----

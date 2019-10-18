@@ -1,0 +1,48 @@
+Summery 
+This thesis presents a designing of a regeneration system for liquid desiccant dehumidification 
+system (LDDS), development of a mathematical model to regeneration process simulation and 
+optimization of the system with multi objective genetic algorithm. New design for the 
+regenerator is compact, efficient and can implement with secondary level heat source. Developed 
+model for desorption process and condensation process is efficient, simple and accurate 
+comparing to the other conventional models. The contribution of this thesis includes: 
+1. 
+Designing of a new regenerator for desorption application of the LDDS consider 
+overcoming drawbacks of conventional solution to air regeneration cycles. The performance of the 
+regeneration system relies on several design parameters like generator heat exchanger and condenser heat 
+exchanger heat and mass transfer area and driving force, solution flow method through the heat 
+exchanger, condenser tube arrangement, solution accumulation amount, vacuum rate of the pump, 
+condensed water removal rate and liquid desiccant properties. The system was designed in vacuumed 
+condition to reduce the required heat source temperature and also to increase the mass transfer driving 
+force. The system is a fully closed one to overcome the carry over effect of the desiccant. Vacuumed 
+chamber is divided into two sections namely generator heat exchanger and condenser heat exchanger. 
+Solution circulates through the generator heat exchanger cycle and absorbs the required latent load and 
+vaporizes. Vacuum pressure increases in generator side and water vapor travels to condenser side, 
+releases latent heat to the cooling water and then condenses. Different tests are carried out by varying hot 
+water temperature and flow rate, chilled water temperature and flow rate, solution flow rate, initial 
+solution concentration and initial vacuum level of the chamber. 
+ 
+
+-----
+2. 
+Developed mathematical model for newly designed vacuumed regeneration system of LDDS is 
+validated within 10% error band. Heat and mass transfer study for generator heat exchanger and 
+condenser heat exchanger is developed. Heat transfer Nusselt number and mass transfer Sherwood 
+number is developed for the generator heat exchanger and condenser heat exchanger. Non-linear least 
+square method is used to fit the general heat and mass transfer solution with the actual test data with less 
+than 10% relative error. Heat transfer rate of the generator is a function of heat exchanger area, mean 
+temperature difference between hot water and solution, hot water mass flow rate, solution mass flow rate, 
+solution density and solution heat capacity. Condenser heat exchanger is modeled by considering external 
+natural condensation over a tube bank and internal convection of a cylindrical tube. Heat transfer rate of 
+the condenser is a function of chilled water flow rate, mean temperature difference and the number of 
+rows of tubes. Nusselt number relationship with Reynolds number, Prandlt number and friction factor is 
+used. Generator heat exchanger mass transfer Sherwood number is a function of two phases Reynolds 
+number, Schmidt number, concentration gradient and heat flux. The vacuum amount inside the chamber 
+has a significant effect to the final result. 
+3. 
+Optimization of the developed model has been conducted using multi objective genetic algorithm 
+(GA). Heat and mass transfer of both generator and condenser heat exchanger and total energy 
+consumption of the system are set as objective functions and optimized according to six constraints with 
+upper and lower bounds of restricting parameters. Global optimum condition of the system with multi 
+objectives can be achieved efficiently using the GA efficiently.   
+
+-----

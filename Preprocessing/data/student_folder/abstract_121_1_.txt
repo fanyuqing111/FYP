@@ -1,0 +1,33 @@
+Abstract 
+Wide-bandgap semiconductors like Gallium Nitride (GaN) are enabling higher efficiency and 
+greater power density in power electronics. The objective of this work is to develop novel gate 
+drive methods, identify applications and complementary technologies to facilitate the 
+proliferation of Enhancement mode (E-mode) GaN power transistors. 
+The challenges of driving enhancement mode GaN devices are identified and gate drive study 
+reviews the advantages and limitations of various gate drive methods. A 2-stage 2-phase circuit 
+gate driver is proposed to reduce the gate ringing. Simulation is conducted to verify the design 
+and the proposed design demonstrates reduction in gate ringing. A GaN gate driver IC was 
+evaluated against the R-type and RC-type gate driver to demonstrate driving the GaN Gate 
+Injection Transistor (GIT) at high slew rates (~150V/ns) while having built-in active miller 
+clamp and self-generated negative voltage rail for cross-conduction protection.  
+This research investigated the application of GaN GIT in Inductive Power Transfer (IPT) for 
+Electric Vehicles (EV). IPT systems provide significant benefits over conventional plug-in 
+chargers. However, in order for IPT to be adopted for EV charging, good efficiency needs to be 
+achieved. A high frequency inverter using GaN GIT which have the benefit of low on-resistance 
+and gate charge to reduce the switching and conduction loss. The switching characteristics of 
+the GaN GIT are studied and the inverter is designed to ensure low switching losses, while 
+keeping overshoot and slew rates under control. An efficiency centric mode of operation is 
+proposed to improve the efficiency of the system, while ensuring sufficient power transfer. The 
+system efficiency peaks at 95% at 100 kHz operation and 92% at 250 kHz operation for a coil 
+gap of 80mm at 2kW output power. At a coil gap of 150mm, the system obtains above 90% 
+efficiency at 1.3 kW. The inductive power transfer system is compared to a similar system using 
+SiC power transistors and outperforms it by 1% at 2kW. 
+This work identified E-mode GaN devices in Point of Load (POL) converters as another 
+potential application due to the increasing need for high efficiency and power density. An 
+efficiency study on the buck converter for large step down applications from 48V to 1V is 
+conducted and limitations to this topology is identified. In order to further reduce the solution 
+size and reduce effects of parasitic inductance, a novel 3-dimensional mounting strategy is 
+proposed to integrate the GaN device with the Si gate driver. 
+ 
+
+-----

@@ -1,0 +1,123 @@
+Abstract 
+This thesis presents the study of different types of control strategies for the hybrid energy 
+storage system (HESS) in the standalone and grid-connected mode of operation. The control 
+strategies studied are mainly focused on the effective power-sharing between the battery and 
+supercapacitor (SC) based HESS, tight DC link voltage regulation with the improved 
+dynamic response and simple controller design. 
+ 
+Over the years, DC microgrids have been widely investigated due to their flexibility in 
+integrating the renewable energy sources (RESs) and energy storage systems (ESSs). Among 
+various types of RESs, photovoltaic (PV) and wind are the most popular ones. The main issue 
+with these RESs is their intermittent nature. The power generation from these RESs is easily 
+affected by the varying environmental conditions. Thus, the microgrid requires ESSs to 
+provide a continuous supply to the load demand. ESSs are the major part of the microgrids. 
+ESSs complement the supply and demand mismatch and ensure the stability of the microgrid. 
+In recent days, ESSs with the different operating characteristics are combined to form a 
+HESS in the microgrid applications. In the HESS, the characteristics of the various ESSs can 
+be effectively and efficiently utilized. The effective utilization of the HESS in the microgrid 
+depends on the control techniques used to control the power flow from the HESS. Thus, the 
+effective control method is of utmost importance for maintaining the power balance in the 
+system with the load and generation variation. 
+ 
+The faster joint control strategy is proposed for the control of the battery and SC based HESS 
+in the DC microgrid applications.  To maintain the system power balance, the HESS handles 
+the excess or deficit power. In general, the battery supports the slow varying power demand 
+and the SC supports the transient power demand. The low pass filter (LPF) is used to obtain 
+the slow varying power demand and the transient power demand from the total power 
+demand. In conventional control methods, the power decomposition entirely depends on the 
+performance of LPF. It also neglects the uncompensated power from the battery system. In 
+the proposed control method, the uncompensated power from the battery system is diverted to 
+the SC system. This improves the dynamic response of the overall system and provides a 
+faster DC link voltage restoration during a step change in the PV generation and the load 
+demand.  
+
+-----
+The model predictive control (MPC) method has been intensively studied for the industrial 
+process control for more than four decades. During the last decade, the MPC method has been 
+successfully applied in many power electronics topologies. The conventional MPC method 
+uses a discrete system model and the complex optimization algorithms to solve the control 
+objectives in the defined time period. This approach requires large computational resources to 
+obtain optimal control parameters. This hinders its utilization for the system which requires 
+the faster control action with the less computational burden. The enumeration-based model 
+predictive control (EMPC) methods are generally used to solve these issues. The EMPC 
+methods require less computational resources and can be easily implemented in the digital 
+signal processor (DSP) control boards. The enumeration-based model predictive current 
+control (EMPCC) method for the battery and SC based HESS in the DC microgrid 
+applications is proposed. The proposed control method is divided into two parts: (i) DC link 
+voltage control loop. (ii) Inner current control loop. The DC link voltage control loop is based 
+on the PI controller which generates the total current references for the HESS. The inner 
+current control loop is based on EMPCC method and it regulates the total current references 
+for the HESS. The advantages of the proposed method are less computational complexity, 
+simple controller design, direct manipulation of control signals without the pulse width 
+modulation (PWM) modulator and faster dynamic response.  
+ 
+The study of the dynamic evolution control (DEC) method for the HESS control is also 
+presented in this thesis. The DEC method uses the pre-defined trajectory known as evolution 
+path to minimize the error state in the system. The error state is the difference between the 
+system output and its reference value. A new power sharing approach for the HESS is also 
+introduced to generate the current references for the battery and SC. The control equation of 
+the DEC method consists of a predictive term and a feed-forward term which regulate the 
+HESS current and DC link voltage. The performance of the DEC over the conventional PI-
+based control methods are compared based on simulation and experimental studies. The 
+results obtained show a better dynamic performance compared to the conventional PI based 
+control method. The proposed control method is simple to implement and requires less 
+computational resources compared to the traditional discrete MPC methods. 
+ 
+The operation of HESS in the grid-connected mode is another aspect of the research work 
+presented in this thesis. A new energy management system (EMS) is proposed for the 
+integration and effective utilization of the HESS in the grid connected operation. The main 
+
+-----
+advantages of the proposed EMS and control method are effective power sharing between the 
+different ESSs, faster DC link voltage regulation to PV generation variations and load 
+disturbances, dynamic power-sharing between the battery and the grid based on the battery 
+state of charge (SOC), reduced rate of charge/discharge of the battery current, improved 
+power quality features in AC grid and seamless mode transitions.  
+ 
+To validate the proposed control methods and EMS a hardware prototype is built. The 
+experimental case studies for the proposed control methods are carefully designed and 
+implemented using the dSPACE 1103 real-time controller platform. The simulation and 
+experimental results for the proposed control methods are compared with the existing control 
+methods to verify the effectiveness of the proposed methods regarding faster control response 
+and the complexity of the control method. The short-term and long-term experimental case 
+studies are conducted.  They demonstrate the effectiveness of the proposed control methods 
+compared to that of the conventional control methods. 
+ 
+ 
+
+-----
+List of Publications 
+The Author’s contribution in this Ph.D thesis are summarised in the following publications: 
+ 
+Journal Publications: 
+1. U. Manandhar, N. R. Tummuru, S. K. Kollimalla, A. Ukil, H. B. Gooi and K. Chaudhari, 
+"Validation of Faster Joint Control Strategy for Battery and Supercapacitor Based Energy 
+Storage System," in IEEE Transactions on Industrial Electronics, vol. 65, no. 4, pp. 3286 
+3295, Apr 2018. 
+2. U. Manandhar, A. Ukil, H. B. Gooi, N. R. Tummuru, S. K. Kolimalla, B. Wang and K. 
+Chaudhari, "Energy Management and Control for Grid Connected Hybrid Energy Storage 
+System under Different Operating Modes," in IEEE Transactions on Smart Grid, vol. PP, no. 
+99, pp. 1-1. 
+3. U. Manandhar, B. Wang, H. B. Gooi and A. Ukil, "An Enumeration-Based Model 
+Predictive Current Control for Battery and Supercapacitor Energy Storage Systems in DC 
+Microgrids," in IEEE Transactions on Industrial Electronics. (Under review) 
+4. U. Manandhar, B. Wang, A. Ukil and H. B. Gooi, "A Dynamic Evolution Control Based 
+Power Sharing Method for Hybrid Energy Storage System," in IET Power Electronics. 
+(Under review) 
+ 
+Conference Publications: 
+1. U. Manandhar, B. Wang, A. Ukil, H. B. Gooi, N. R. Tummuru and S. K. Kollimalla, "A 
+New Control Approach for PV System with Hybrid Energy Storage System," 43rd Annual 
+Conference of the IEEE Industrial Electronics Society (IECON), Beijing, China, pp. 2739 
+2743, Oct 2017. 
+2. U. Manandhar, A. Ukil, H. B. Gooi, N. R. Tummuru and S. K. Kollimalla, "A Low 
+Complexity Control and Energy Management for DC-Coupled Hybrid Microgrid with Hybrid 
+Energy Storage System,"  IEEE PES General Meeting (PESGM), Chicago, USA, pp. 1-5, Jul 
+2017. 
+3. U. Manandhar, A. Ukil, S. K. Kollimalla and H. B. Gooi, "Application of HESS for PV 
+system with modified control strategy," IEEE Innovative Smart Grid Technologies – Asia 
+(ISGT ASIA), Bangkok, Thailand, pp. 1-5, Nov 2015. 
+ 
+ 
+
+-----

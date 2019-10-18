@@ -1,0 +1,160 @@
+Joshua Knowles  
+Professor of Natural Computation  
+School of Computer Science,  
+University of Birmingham,  
+Edgbaston, Birmingham B15 2TT, UK  
+Tel: +441214144763  
+Email: j.knowles@bham.ac.uk 
+ 
+Research Interests Evolutionary computing, multiobjective optimization, computational biology.  
+ 
+Employment  
+Reader, School of Computer Science, University of Manchester, UK, 2014–15. Lecturer / Senior Lecturer, School of Computer Science, University of Manchester, 
+UK, 2006–14. BBSRC David Phillips Fellow, School of Chemistry, University of Manchester, UK, Oct. 2003–Oct. 2006. Marie Curie Fellow, IRIDIA, Universit´e 
+Libre de Bruxelles, Belgium, Oct. 2001–Oct. 2003.  
+ 
+Education 2002 PhD, University of Reading, UK. 1996 MSc with Distinction, Information Systems Engineering, University of Reading, UK. 1993 BSc(Hons) 
+Physics with subsid. Maths, University of Reading, UK. 
+ 
+ 
+ 
+ 
+
+-----
+Joshua Knowles 
+School of Computer Science, University of Birmingham 
+在 cs.bham.ac.uk 的电子邮件经过验证 - 首页 
+EvolutionMultiobjective OptimizationDecision TheoryGame TheoryMachine Learning 
+标题 
+引用次
+数
+ 
+年份 
+Approximating the nondominated front using the pareto archived evolution strategy 
+JD Knowles, DW Corne 
+Evolutionary Computation 8 (2), 149-172 
+2428  
+2000 
+The pareto archived evolution strategy: A new baseline algorithm for pareto multiobjective optimisation 
+J Knowles, D Corne 
+Evolutionary Computation, 1999. CEC 99. Proceedings of the 1999 Congress on … 
+1400  
+1999 
+The Pareto envelope-based selection algorithm for multiobjective optimization 
+DW Corne, JD Knowles, MJ Oates 
+International conference on parallel problem solving from nature, 839-848 
+1045  
+2000 
+PESA-II: Region-based selection in evolutionary multiobjective optimization 
+DW Corne, NR Jerram, JD Knowles, MJ Oates 
+Proceedings of the 3rd Annual Conference on Genetic and Evolutionary … 
+838  
+2001 
+Procedures for large-scale metabolic profiling of serum and plasma using gas chromatography and liquid 
+chromatography coupled to mass spectrometry 
+GR Dunn W.B., Broadhurst D., Begley P., Zelena E 
+811  
+2011 
+
+-----
+标题 
+引用次
+数
+ 
+年份 
+Nature Protocols 6 (7), 1060-1083 
+A tutorial on the performance assessment of stochastic multiobjective optimizers 
+J Knowles, L Thiele, E Zitzler 
+Computer Engineering and Networks Laboratory (TIK), Swiss Federal Institute … 
+778*  
+2005 
+Computational cluster validation in post-genomic data analysis 
+J Handl, J Knowles, DB Kell 
+Bioinformatics 21 (15), 3201-3212 
+777  
+2005 
+ParEGO: a hybrid algorithm with on-line landscape approximation for expensive multiobjective optimization 
+problems 
+J Knowles 
+IEEE Transactions on Evolutionary Computation 10 (1), 50-66 
+595  
+2006 
+On metrics for comparing nondominated sets 
+J Knowles, D Corne 
+Evolutionary Computation, 2002. CEC'02. Proceedings of the 2002 Congress on … 
+586  
+2002 
+An evolutionary approach to multiobjective clustering 
+J Handl, J Knowles 
+IEEE transactions on Evolutionary Computation 11 (1), 56-76 
+540  
+2007 
+M-PAES: A memetic algorithm for multiobjective optimization 
+JD Knowles, DW Corne 
+435  
+2000 
+
+-----
+标题 
+引用次
+数
+ 
+年份 
+evolutionary computation, 2000. Proceedings of the 2000 congress on 1, 325-332 
+Reducing local optima in single-objective problems by multi-objectivization 
+JD Knowles, RA Watson, DW Corne 
+International Conference on Evolutionary Multi-Criterion Optimization, 269-283 
+353  
+2001 
+A MAX-MIN Ant System for the University Course Timetabling Problem 
+K Socha, J Knowles, M Sampels 
+International Workshop on Ant Algorithms, 1-13 
+350  
+2002 
+Properties of an adaptive archiving algorithm for storing nondominated vectors 
+J Knowles, D Corne 
+IEEE Transactions on Evolutionary Computation 7 (2), 100-116 
+318  
+2003 
+Development of a robust and repeatable UPLC− MS method for the long-term metabolomic study of human 
+serum 
+E Zelena, WB Dunn, D Broadhurst, S Francis-McIntyre, KM Carroll, ... 
+Analytical chemistry 81 (4), 1357-1364 
+275  
+2009 
+Techniques for highly multiobjective optimisation: some nondominated points are better than others 
+DW Corne, JD Knowles 
+Proceedings of the 9th annual conference on Genetic and evolutionary … 
+255  
+2007 
+Ant-based clustering: a comparative study of its relative performance with respect to k-means, average link 
+and 1d-SOM 
+246  
+2003 
+
+-----
+标题 
+引用次
+数
+ 
+年份 
+J Handl, J Knowles, M Dorigo 
+Design and Application of Hybrid Intelligent Systems, 204–213 
+Local-Search and Hybrid Evolutionary Algorithms for Pareto Optimization 
+JD Knowles 
+Reading, UK, Diss 
+243  
+2002 
+Multiobjective optimization in bioinformatics and computational biology 
+J Handl, DB Kell, J Knowles 
+IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB) 4 … 
+240  
+2007 
+Ant-based clustering and topographic mapping 
+J Handl, J Knowles, M Dorigo 
+Artificial life 12 (1), 35-62 
+234  
+2006 
+ 
+
+-----

@@ -1,0 +1,143 @@
+ 
+CHUNHUA SHEN 
+Level 5, Ingkarni Wardli Building (formerly Innova21 Building), University of Adelaide  
+phone: +61 (0)8 -8313 6745 
+ 
+chhshen@@gmail.com 
+ 
+http://cs.adelaide.edu.au/~chhshen/ 
+Research Interests 
+Statistical Machine Learning, Computer Vision and Deep learning. 
+Biography 
+Chunhua Shen is a Professor at School of Computer Science, University of Adelaide. He is a Project 
+Leader and Chief Investigator at the Australian Research Council Centre of Excellence for Robotic Vision 
+(ACRV), for which he leads the project on machine learning for robotic vision. Before he moved to 
+Adelaide as a Senior Lecturer, he was with the computer vision program at NICTA (National ICT 
+Australia), Canberra Research Laboratory for about six years. His research interests are in the intersection 
+of computer vision and statistical machine learning. Recent work has been on large-scale image retrieval 
+and classification, object detection and pixel labelling using deep learning.  
+He studied at Nanjing University, at Australian National University, and received his PhD degree from 
+the University of Adelaide. From 2012 to 2016, he holds an Australian Research Council Future 
+Fellowship. He is serving as Associate Editor of IEEE Transactions on Neural Networks and Learning 
+Systems.  
+ 
+ Selected Publications 
+G. Lin, F. Liu, C. Shen, J. Wu, H. Shen (2017), “Structured learning of binary codes with column 
+generation for optimizing ranking measures”, Int’l J. Computer Vision. 
+R. Qiao, L. Liu, C. Shen, A. van den Hengel (2017), “Learning discriminative trajectorylet detector 
+sets for accurate skeleton-based action recognition”, Pattern Recognition. 
+L. Wu, C. Shen, A. van den Hengel (2017), “Deep linear discriminant analysis on fisher networks: a 
+hybrid architecture for person re-identification”, Pattern Recognition. 
+Q. Hu, P. Wang, C. Shen, A. van den Hengel, F. Porikli (2017), “Pushing the limits of deep CNNs 
+for pedestrian detection”, IEEE Trans. Circuits and Systems for Video Technology. 
+B. Sheng, C. Shen, G. Lin, J. Li, W. Yang, C. Sun (2017), “Crowd counting via weighted VLAD on 
+dense attribute feature maps”, IEEE Trans. Circuits and Systems for Video Technology. 
+F. Liu, G. Lin, C. Shen (2017), “Discriminative training of deep fully-connected continuous CRF with 
+task-specific loss”, IEEE Trans. Image Processing. 
+Y. Cao, C. Shen, H. Shen (2017), “Exploiting depth from single monocular images for object detection 
+and semantic segmentation”, IEEE Trans. Image Processing. 
+
+-----
+ 
+L. Liu, P. Wang, C. Shen, L. Wang, A. van den Hengel, C. Wang, H. Shen (2017), “Compositional 
+model based fisher vector coding for image classification”, IEEE Trans. Pattern Analysis and Machine 
+Intelligence. 
+L. Liu, C. Shen, A. van den Hengel (2017), “Cross-convolutional-layer pooling for image recognition”, 
+IEEE Trans. Pattern Analysis and Machine Intelligence. 
+2016 S. Paisitkriangkrai, L. Wu, C. Shen, A. van den Hengel (2016), “Structured learning of metric 
+ensembles 
+with application to person re-identification”, Computer Vision and Image Understanding. 
+Y. Li, L. Liu, C. Shen, A. van den Hengel (2016), “Mining mid-level visual patterns with deep CNN 
+activations”, Int’l J. Computer Vision. 
+P. Wang, C. Shen, A. van den Hengel, P. Torr (2016), “Efficient semidefinite branch-and-cut for 
+MAP-MRF inference”, Int’l J. Computer Vision 117: 269−289. 
+C. Zhang, C. Shen, T. Shen (2016), “Unsupervised feature learning for dense correspondences across 
+scenes”, Int’l J. Computer Vision 116: 90−107. 
+F. Liu, C. Shen, I. Reid, A. van den Hengel (2016), “Online unsupervised feature learning for visual 
+tracking”, Image and Vision Computing. 
+S. Wang, J. Lu, X. Gu, C. Shen, R. Xia, J. Yang (2016), “Canonical principal angles correlation analysis 
+for two-view data”, J. Visual Communication and Image Representation. 
+H. Li, F. Shen, C. Shen, Y. Yang, Y. Gao (2016), “Face recognition using linear representation ensembles”, 
+Pattern Recognition. 
+F. Shen, C. Shen, X. Zhou, Y. Yang, H. Shen (2016), “Face image classification by pooling raw features”, 
+Pattern Recognition 54: 94−103. 
+P. Wang, Y. Cao, C. Shen, L. Liu, H. Shen (2016), “Temporal pyramid pooling based convolutional 
+neural network for action recognition”, IEEE Trans. Circuits and Systems for Video Technology. 
+R. Yao, Q. Shi, C. Shen, Y. Zhang, A. van den Hengel (2016), “Part-based robust tracking using online 
+latent structured learning”, IEEE Trans. Circuits and Systems for Video Technology. 
+L. Zhang, W. Wei, Y. Zhang, C. Shen, A. van den Hengel, Q. Shi (2016), “Dictionary learning for 
+promoting structured sparsity in hyerpsectral compressive sensing”, IEEE Trans. Geoscience and Remote 
+Sensing 54: 7223−7235. 
+Q. Hu, S. Paisitkriangkrai, C. Shen, A. van den Hengel, F. Porikli (2016), “Fast detection of multiple 
+objects in traffic scenes with a common detection framework”, IEEE Trans. Intelligent Transportation 
+Systems 17: 1002−1014. 
+X. Zhao, X. Li, Z. Zhang, C. Shen, L. Gao, X. Li (2016), “Scalable linear visual feature learning via 
+online parallel nonnegative matrix factorization”, IEEE Trans. Neural Networks and Learning Systems. 
+P. Wang, C. Shen, A. van den Hengel, P. Torr (2016), “Large-scale binary quadratic optimization using 
+semidefinite relaxation and applications”, IEEE Trans. Pattern Analysis and Machine Intelligence. 
+
+-----
+ 
+F. Liu, C. Shen, G. Lin, I. Reid (2016), “Learning depth from single monocular images using deep 
+convolutional neural fields”, IEEE Trans. Pattern Analysis and Machine Intelligence. 
+X. Li, C. Shen, A. Dick, Z. Zhang, Y. Zhuang (2016), “Online metric-weighted linear representations 
+for robust visual tracking”, IEEE Trans. Pattern Analysis and Machine Intelligence 38: 931−950. 
+S. Paisitkriangkrai, C. Shen, A. van den Hengel (2016), “Pedestrian detection with spatially pooled 
+features and structured ensemble learning”, IEEE Trans. Pattern Analysis and Machine Intelligence 
+38:1243−1257. 
+L. Liu, L. Wang, C. Shen (2016), “A generalized probabilistic framework for compact codebook creation”, 
+IEEE Trans. Pattern Analysis and Machine Intelligence 38: 224−237. 
+2015 M. Harandi, R. Hartley, C. Shen, B. Lovell, C. Sanderson (2015), “Extrinsic methods for coding and 
+dictionary learning on Grassmann manifolds”, Int’l J. Computer Vision 114: 113−136. 
+ F. Liu, G. Lin, C. Shen (2015), “CRF learning with CNN features for image segmentation”, Pattern 
+Recognition 48: 2983−2992. 
+F. Shen, C. Shen, Q. Shi, A. van den Hengel, Z. Tang, H. Shen (2015), “Hashing on nonlinear 
+manifolds”, IEEE Trans. Image Processing 24: 1839−1851. 
+H. Li, C. Shen, A. van den Hengel, Q. Shi (2015), “Worst-case linear discriminant analysis as scalable 
+semidefinite feasibility problems”, IEEE Trans. Image Processing 24: 2382−2392. 
+L. Luo, C. Shen, X. Liu, C. Zhang (2015), “A computational model of the short-cut rule for 2D shape 
+decomposition”, IEEE Trans. Image Processing 24. 
+G. Lin, C. Shen, A. van den Hengel (2015), “Supervised hashing using graph cuts and boosted decision 
+trees”, IEEE Trans. Pattern Analysis and Machine Intelligence 37: 2317−2331. 
+2014 F. Shen, C. Shen, R. Hill, A. van den Hengel, Z. Tang (2014), “Fast approximate l∞ minimization: 
+Speeding up robust regression”, Computational Statistics and Data Analysis 77: 25−37. 
+F. Liu, L. Zhou, C. Shen, J. Yin (2014), “Multiple kernel learning in the primal for multi-modal 
+Alzheimer’s disease classification”, IEEE J. Biomedical and Health Informatics. 
+Y. Lu, L. Wang, J. Lu, J. Yang, C. Shen (2014), “Multiple kernel clustering based on centered kernel 
+alignment”, Pattern Recognition 47: 3656−3664. 
+S. Paisitkriangkrai, C. Shen, A. van den Hengel (2014), “Large-margin learning of compact binary 
+image encodings”, IEEE Trans. Image Processing 23: 4041−4054. 
+Y. Yan, C. Shen, H. Wang (2014), “Efficient semidefinite spectral clustering via Lagrange duality”, 
+IEEE Trans. Image Processing 23: 3522−3534. 
+Y. Li, W. Jia, C. Shen, A. van den Hengel (2014), “Characterness: An indicator of text in the wild”, 
+IEEE Trans. Image Processing 23: 1666−1677. 
+X. Li, W. Hu, C. Shen, A. Dick, Z. Zhang (2014), “Context-aware hypergraph construction for robust 
+spectral clustering”, IEEE Trans. Knowledge and Data Engineering 26: 2588−2597. 
+S. Paisitkriangkrai, C. Shen, A. van den Hengel (2014), “Asymmetric pruning for learning cascade 
+
+-----
+ 
+detectors”, IEEE Trans. Multimedia 16: 1254−1267. 
+C. Shen, J. Kim, F. Liu, L. Wang, A. van den Hengel (2014), “Efficient dual approach to distance 
+metric learning”, IEEE Trans. Neural Networks and Learning Systems 25: 394−406. 
+S. Paisitkriangkrai, C. Shen, A. van den Hengel (2014), “A scalable stage-wise approach to large-margin 
+multi-class loss based boosting”, IEEE Trans. Neural Networks and Learning Systems 25: 1002−1013. 
+S. Paisitkriangkrai, C. Shen, Q. Shi, A. van den Hengel (2014), “RandomBoost: Simplified multi-class 
+boosting through randomization”, IEEE Trans. Neural Networks and Learning Systems 25: 764−779. 
+C. Shen, G. Lin, A. van den Hengel (2014), “StructBoost: Boosting methods for predicting structured 
+output variables”, IEEE Trans. Pattern Analysis and Machine Intelligence 36: 2089−2103. 
+L. Wang, L. Zhou, C. Shen, L. Liu, H. Liu (2014), “A hierarchical word-merging algorithm with class 
+separability measure”, IEEE Trans. Pattern Analysis and Machine Intelligence 36: 417−435. 
+2013 C. Shen, P. Wang, S. Paisitkriangkrai, A. van den Hengel (2013), “Training effective node classifiers 
+for cascade classification”, Int’l J. Computer Vision 103: 326−347. 
+C. Shen, H. Li, A. van den Hengel (2013), “Fully corrective boosting with arbitrary loss and regularization”, 
+Neural Networks 48: 44−58. 
+X. Li, A. Dick, C. Shen, Z. Zhang, A. van den Hengel, H. Wang (2013), “Visual tracking with 
+spatiotemporal 
+Dempster-Shafer information fusion”, IEEE Trans. Image Processing 22: 3028−3040. 
+F. Shen, C. Shen, A. van den Hengel, Z. Tang (2013), “Approximate least trimmed sum of squares 
+fitting and applications in image analysis”, IEEE Trans. Image Processing 22: 1836−1847. 
+ 
+ 
+
+-----

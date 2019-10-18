@@ -1,0 +1,342 @@
+ 
+1
+                                     
+ 
+ 
+     
+ 
+CURRICULUM VITAE   
+ 
+ 
+NAME   
+ 
+Wu-Sheng LU 陆吾生
+陆吾生 
+MAILING ADDRESS  Professor Wu-Sheng Lu 
+Department of Electrical and Computer Engineering 
+University of Victoria 
+3800 Finnerty Road 
+Victoria, BC, V8P 5C2, Canada 
+E-MAIL/URL   
+wslu@ece.uvic.ca               http://www.ece.uvic.ca/~wslu 
+EDUCATION 
+Degree Field  
+ 
+ 
+Institution  
+ 
+ 
+ 
+Year 
+B.Sc.  
+Mathematics  
+ 
+Fudan University, Shanghai, China  
+ 
+1964 
+M.S.  
+System Science   
+East China Normal University, China  
+1981 
+M.S.  
+Electrical Engineering  
+University of Minnesota, Minneapolis, USA 1983 
+Ph.D.  
+Control Science   
+University of Minnesota, Minneapolis, USA 1984 
+EMPLOYMENT 
+Position  
+ 
+Years   
+Institution 
+Lecturer  
+ 
+1964–1966  
+Dept. of Mathematics, Shanghai Second 
+Polytechnic University, China 
+Lecturer  
+ 
+1966–1980  
+Dept. of Automation, Shanghai Second 
+Polytechnic University, China 
+Research Assistant  
+1981–1984  
+Dept. of Electrical Engineering 
+University of Minnesota, Minneapolis, MN, USA 
+Post-Doctoral Fellow  
+1984–1985  
+Dept. of Electrical and Computer Engineering 
+University of Victoria, Victoria, BC, Canada 
+Visiting Assistant  
+1986–1987  
+Dept. of Electrical Engineering 
+Professor  
+ 
+ 
+ 
+University of Minnesota, Minneapolis, MN., USA 
+Associate Professor  
+1987–1991  
+Dept. of Electrical and Computer Engineering 
+University of Victoria, Victoria, BC, Canada 
+Professor  
+ 
+1991–present  
+Dept. of Electrical and Computer Engineering 
+University of Victoria, Victoria, BC, Canada 
+ 
+ 
+
+-----
+ 
+2
+OFFICES in LEARNED and PROFESSIONAL SOCIETIES 
+1. Associate Editor Journal of Circuits, Systems, and Signal Processing, 2009 – 2012 
+2. Guest Editor for Special Issue of Circuits, Systems and Signal Processing on Computationally Efficient 
+    Digital Filters,  2006. 
+3. Associate Editor of the IEEE Transactions on Circuits and Systems, I, 1999 – 2001, and 2004 – 2005. 
+4. Associate Editor of the Multidimensional Systems and Signal Processing, 1997 – 2006. 
+5. Associate Editor of the IEEE Transactions on Circuits and Systems, II, 1993 – 1995. 
+6. Editor of the Canadian Journal of Electrical and Computer Engineering, 1990 – 1992. 
+7. Associate Editor of the Canadian Journal of Electrical and Computer Engineering, 1989 – 1990. 
+8. Member of IEEE Circuits and Systems Society DSP Technical Committee, 1998 – 
+9. Student Counselor of IEEE, University of Victoria  Branch, 1995 – 2001. 
+ 
+CURRENT RESEARCH INTERESTS 
+1. Signal and image processing with a current focus on compressive sensing and sparse signal processing. 
+2. Analysis and design of digital filters, filter banks, and wavelets. 
+3. Theory and applications of numerical optimization. 
+ 
+HONOURS and AWARDS 
+1. Fellow of the IEEE, 1999. (Life Fellow of the IEEE, 2012) 
+2. Fellow of the Engineering Institute of Canada, 1994. 
+3. Best Paper Award in the 2006 IEEE Asia Pacific Conference on Circuits and Systems, Singapore,  
+    December 2006. 
+4. Best Paper Award (with Jie Yan) in the 2014 IEEE Asia Pacific Conference on Circuits and Systems, Okinawa, 
+   Japan,  Nov.  2014. 
+ 
+5. University of Victoria Alumni Association Award for Excellence in Teaching, University of Victoria 
+    Alumni Association, 1991. 
+6. Outstanding Teacher Award, Engineering Institute of Canada, Vancouver Island Branch, 1990. 
+7. Outstanding Teacher Award, Engineering Institute of Canada, Vancouver Island Branch, 1988. 
+ 
+SELECTED PUBLICATIONS  (Books and Recent Journal Publications) 
+A.  Books 
+1. 
+Lu, W.-S., and A. Antoniou. Two-Dimensional Digital Filters, New York: Marcel Dekker, July 1992. (416 
+pages). 
+2. 
+Antoniou, A., and W.-S. Lu, Optimization: Algorithms and Applications, New York: Springer, 2007. (667 
+pages). 
+3.  
+Hinamoto, T. and W.-S. Lu, Digital Filter Design and Realization, River Publishers, April 2017. (454 pages). 
+B. Recent Journal Publications 
+1. 
+Lu, W.-S. and A. Antoniou, "Design of signal-adapted biorthogonal filter banks", IEEE Trans. Circuits Sys., 
+I, vol. 48, pp. 90 – 102, Jan. 2001. 
+
+-----
+ 
+3
+2. 
+Wang, X.F., W.-S. Lu, and A. Antoniou, "An overlapping window de-correlating multi-user detector for DS-
+CDMA radio channels", IEEE Trans. Comm., vol. 49, pp. 1488 – 1495, Aug. 2001. 
+3. 
+Lu, W.-S. "A unified approach for the design of 2-D digital filters via semidefinite programming", IEEE 
+Trans. Circuits Syst., I, vol. 49, pp. 814-826, June 2002. 
+4. 
+Hinamoto, T., S. Yokoyama, T. Inoue, W. Zeng and W.-S. Lu, "Analysis and minimization of L2-sensitivity 
+for linear systems and two-dimensional state-space digital filters using general controllability and 
+observability Gramians," IEEE Trans. Circuits Syst., I, vol. 49, pp. 1279-1289, Sep. 2002. 
+5. 
+Hinamoto, T., H. Ohnishi, and W.-S. Lu, "Round-off noise minimization of state-space digital filters using 
+separate and joint error feedback/coordinate transformation optimization," IEEE Trans. Circuits and Sys., I, 
+vol. 50, pp. 23-33, Jan 2003. 
+6. 
+Lu, W.-S. and T. Hinamoto, "Optimal design of IIR digital filters with robust stability using conic-quadratic-
+programming updates," IEEE Trans. Signal Processing, vol. 51, pp. 1581-1592, June 2003. 
+7. 
+Lu, W.-S. and T. Hinamoto, "Optimal design of frequency-response-masking filters using semidefinite 
+programming," IEEE Trans. Circuits and Syst., I,  vol. 50, pp. 557-568, April 2003.. 
+8. 
+Hinamoto, T., K. Higashi, and W.-S. Lu, "Separate/joint optimization of error feedback and coordinate 
+transformation for round-off noise minimization in two-dimensional state-space digital filters," IEEE Trans. 
+Signal Processing,  vol. 51, pp. 2436-2445, Sept. 2003. 
+9. 
+Wang, X.M., W.-S. Lu and A. Antoniou, "A near-optimal multiuser detector for CDMA channels using 
+semidefinite programming relaxation", IEEE Trans. Signal Processing, vol. 51, pp. 2446-2450, Sept. 2003.  
+10. 
+Lu, W.-S. and T. Hinamoto, "Optimal design of IIR frequency-response-masking filters using second-order 
+cone programming", IEEE Trans. Circuits Syst. I, vol. 50, pp. 1401-1412, Nov. 2003. 
+11. 
+Lu, W.-S., T. Saramäki, and R. Bregovi, "Design of practically perfect-reconstruction cosine-modulated 
+filter banks: A second-order cone programming approach", IEEE Trans. Circuits Syst. I, vol. 51, pp. 552-563, 
+March 2004. 
+12. 
+Kou, Y. J., W,-S. Lu, and A. Antoniou, "New peak-to-average power-ratio reduction algorithms for 
+multicarrier communications", IEEE Trans. Circuits Sys. I, vol. 51, pp. 1790-1800, Sept. 2004. 
+13. 
+Lu, W.-S., and T. Hinamoto, "Jointly optimized error-feedback and realization for roundoff noise 
+ 
+minimization in state-space digital filters", IEEE Trans. Signal Processing, vol. 53 pp. 2135-2145, June 2005. 
+14. 
+Wang, Xianmin, W.-S. Lu, and A. Antoniou, "Multiuser detectors for synchronous DS-CDMA systems 
+based on a recursive p-norm convex relaxation approach", IEEE Trans. Circuits Syst. I, vol. 52, pp. 1021-
+1031, May 2005. 
+15. 
+Hinamoto, T., H. Ohnishi, and W.-S. Lu, "Minimization of L2 sensitivity of one- and two-dimensional state-
+space digital filters subject to L2-dynamic-range-scaling constraints," IEEE Trans. Circuits Syst. II, vol. 52, 
+pp. 641-645, Oct. 2005. 
+16. 
+Hinamoto, T., K.-I. Iwata, and W.-S. Lu, “L2-sensitivity minimization of one- and two-dimensional state-
+space digital filters subject to L2-scaling constraints,” IEEE Trans. Signal Processing, vol. 54, no. 5, pp. 
+1804-1812, May 2006.  
+
+-----
+ 
+4
+17. 
+Hinamoto, T., K.-I. Iwata, O. I. Omoifo, S. Ohno, and W.-S. Lu, “Optimal synthesis of a class of 2-D digital 
+filters with minimum L2-sensitivity and no overflow oscillations,” IEICE Trans. Fundamentals, vol. E89-
+A, no. 7, pp. 1987-1994, July 2006. 
+18. 
+Hinamoto, T., H. Ohnishi, and W.-S. Lu, "Roundoff noise minimization for 2-D state-space digital filters 
+using joint optimization of error feedback and realization," IEEE Trans. Signal Processing, vol. 54, no. 11, 
+pp. 4302-4310, Nov. 2006. 
+19. 
+Chen, Y., M. D. Adams, and W.-S. Lu, “Design of optimal quincunx filter banks for image coding,” 
+EURASIP Journal on Advances in Signal Processing, vol. 2007, doi: 10.1155/2007/83858, 2007 (18 pages). 
+20. 
+Kou, Y. J., W.-S. Lu, and A. Antoniou, “Peak-to-Average Power-Ratio Reduction Algorithms for OFDM 
+Systems via Constellation Extension,” IEEE Trans. Wireless Communications, vol. 6, pp. 1823-1832, May 
+2007. 
+21. 
+Dong, X., W.-S. Lu, and A. C. K. Soong, “Interpolation in pilot symbol assisted channel estimation for 
+OFDM,” IEEE Trans. Wireless Communications, vol. 6, pp. 1910-1920, May 2007. 
+22. 
+Hinamoto, T., T. Oumi, and W.-S. Lu, “Separate/joint optimization of error feedback and realization for 
+roundoff noise minimization in a class of 2-D state-space digital filters,” accepted for publication in 
+Multidimensional Systems and Signal Processing, vol. 18, pp. 327-339, 2007. 
+23. 
+Yang, H.-C., K. Wu, and W.-S. Lu, "Cross-layer path configuration for energy-efficient communication over 
+wireless ad hoc networks," Journal of Advances in Multimedia, vol. 2007, Article ID: 19860, 9 pages, doi: 
+10.1155/2007/19860, 2007. 
+24.  
+Zhang, Y. H., W.-S. Lu, and A. Gulliver, “Integer QP relaxation based algorithms for ICI reduction in 
+OFDM systems,” Canadian J. Electrical and Computer Engineering, vol. 32, no.4, pp. 199-205, Fall 2007. 
+25. 
+Hinamoto, T., T. Oumi, O. I. Omoifo, and W.-S. Lu, "Minimization of frequency-weighted l2-sensitivity 
+subject to l2-scaling constraints for two-dimensional state-space digital filters", IEEE Trans. Signal 
+Processing, vol. 56, no. 10, pp. 5157-5168, Oct. 2008. 
+26. 
+Liu, T. C.-K., X. Dong, and W.-S. Lu, “Multiresolution wavelet denoising for ultra-wideband time-of-arrival 
+estimation with regularized least squares,” Physical Communication, 12 pages, publication date of the 
+electronic version: Sept. 23, 2009. (DOI: 10.1016/j. phycom.2009.09. 004.) 
+27. 
+Yan, J. and W.-S. Lu, “Towards global design of orthogonal filter banks and wavelets,” Canadian J. 
+Electrical and Computer Engineering, vol. 34, no. 4, pp. 15-21, 2009. 
+28. 
+Shen, S., Y. Liu, and W.-S. Lu, “Monocular 3D tracking of deformable surfaces using sequential second -
+order cone programming”, Pattern Recognition, vol. 43, no. 1, pp. 244-254, 2010. 
+29. 
+Sevcenco, A.-M. and W.-S. Lu, “Perfect histogram matching PCA for face recognition”, Int. J. 
+Multidimensional Systems and Signal Processing, vol. 21, no. 3, pp. 213-239, 2010.  
+30. 
+Xu, W., X. Dong, and W.-S. Lu, “MIMO Relaying Broadcast Channels with Linear Precoding and 
+Quantized Channel State Information Feedback.” IEEE Trans. Signal Processing, vol. 58, no. 10, pp. 5233-
+5245, 2010. 
+31. 
+Lu, W.-S. and T. Hinamoto, “Two-dimensional digital filters with sparse coefficients,” Int. J. 
+Multidimensional Systems and Signal Processing, vol. 22, no. 1-3, pp. 173-189, 2011.  
+
+-----
+ 
+5
+32. 
+Xu, W., X. Dong, and W.-S. Lu, “Joint precoding optimization for multiuser multi-antenna relaying  
+downlinks using quadratic programming,” IEEE Trans. Communications, vol. 59, no. 5, pp. 1228-1235, May  
+2011. 
+33. 
+Ramachadran, P., W.-S. Lu, and A. Antoniou, “Filter-based methodology for the location of hot spots in 
+proteins and exons in DMA,” IEEE Trans. Biomedical Engineering, vol. 59, no. 6, pp. 1598-1609, June 2012. 
+34. 
+Hinamoto, T., A. Doi, and W.-S. Lu, “Realization of 3-D separable-denominator digital filters with very low 
+l2-sensitivity,” IEEE Trans.  Signal Processing, vol. 60, no. 12, pp. 6282-6293, Dec. 2012. 
+35. 
+Hinamoto, T., A. Doi, and W.-S. Lu, “Jointly optimal high-order error feedback and realization for roundoff 
+noise minimization in 1-D and 2-D state-space digital filters,” IEEE Trans. Signal Processing, vol. 61, no. 
+12, pp. 5893-5904, Dec. 2013. 
+36. 
+Yan, J. and W.-S. Lu, “Image denoising by generalized total variation minimization,” Multidimensional 
+Systems and Signal Processing, electronically published Oct. 7,  2013, DOI: 10.1007/S11045-013-0255-2. 
+37. 
+Pant, J., W.-S. Lu and A. Antoniou, “New improved algorithm for compressive sensing based on lp norm,” 
+IEEE Trans. Circuits and Systems II, vol. 61, no. 3, pp. 198-202, March, 2014. 
+38. 
+Doi, A., T. Hinamoto, and W.-S. Lu, “Roundoff noise minimization for a class of 2-D state-space digital 
+filters using joint optimization of high-order error feedback and realization,” IEICE Trans. Fundamentals, 
+vol. E97-A, no. 9, pp. 1918-1925, Sept. 2014.  
+39. 
+Hinamoto, T., A. Doi, and W.-S. Lu, “Roundoff noise minimization in state-space discrete-time systems 
+using joint optimization of high-order error feedback and realization,” IEEE Trans. Circuits and Systems I, 
+vol. 61, no. 12, pp. 3460-3468, Dec. 2014. 
+40.  
+Herchak, S., W. Yu, W.-S, Lu, and T. Lu, “Whispering gallery micro cavity with in-line interferometer,” 
+Biosensors Journal, vol. 4, no. 2, pp.1-5, 2016.  
+41. 
+Hinamoto, T., A. Doi, and W.-S. Lu, “Minimization of weighted pole and zero sensitivity for state-space 
+digital filters,” IEEE Trans. Circuits and Systems I, vol. 63, no. 1, pp. 103-113, Jan. 2016.  
+42. 
+Lu, W.-S. and T. Hinamoto, “A unified approach to the design of interpolated and frequency-response-
+masking FIR filters,” IEEE Trans. Circuits and Systems I, vol. 63, no. 12, pp. 103-113, Dec. 2016.  
+ 
+PROFESSIONAL COMMITTEES 
+1.  Member of the Program Committee for 1991 IEEE Pacific Rim Conference on Communications, Computers 
+and Signal Processing, Victoria, B.C., May 1991. 
+2.  Member of the Program Committee for 1993 IEEE Int. Conf. on Robotics and Automation, Atlanta, GA, USA. 
+3.  Member of the Program Committee for 1993 IEEE Int. Symp. on Circuits and Systems, Chicago, IL, USA. 
+4.  Member of the Program Committee for 1993 IEEE Pacific Rim Conference on Communications, Computers 
+and Signal Processing, Victoria, B.C., May 1993. 
+5.  Member of the Program Committee for 1993 IEEE Midwest Symposium on Circuits and Systems, Detroit, MI, 
+USA. 
+6.  Member of the Program Committee for 1997 IEEE Pacific Rim Conference on Communications, 
+Computersand Signal Processing, Victoria, B.C., May 1997. 
+
+-----
+ 
+6
+7.  Publication Chair for 1998 IEEE Symposium on Advances in Digital Filtering and Signal Processing, 
+Victoria, BC, June 1998. 
+8.  Program Co-Chair for 1999 IEEE Pacific Rim Conference on Communications, Computers and Signal 
+Processing, Victoria, B.C., August 1999. 
+9.  Member of the Program Committee for 1999 IEEE International Symposium on Circuits and Systems, May 
+1999, Orlando, FL, USA. 
+10.  Member of the Program Committee for 1999 Canadian Conference on Electrical and Computer Engineering, 
+Edmonton, Alberta, May 1999. 
+11.  Member of DSP Technical Committee for IEEE Circuits and Systems Society Since 1999.  
+12.  Member of the Program Committee for 2000 IEEE Int. Symp. on Intelligent Signal Processing and 
+Communication Systems, Honolulu, Hawaii, Nov. 2000. 
+13.  Member of the Grant Selection Committee of the Natural Science and Engineering Research Council of 
+Canada (NSERC), GSC 334, 2000 – 2003. 
+14.  Member of the IEEE Circuits and Systems Society’s Subcommittee for Guillemin-Cauer Paper Award, 2001. 
+15.  Member of the IEEE Circuits and System Society’s Subcommittee for the Education Award, 2003. 
+16.  Publication Chair for 2004 IEEE International Symposium on Circuits and Systems, May 2004, Vancouver, 
+Canada. 
+17. Co-Chair for Special Sessions, 2004 Midwest Symposium on Circuits and Systems. 
+18. Member of the Technical Program Committee for 2006 IEEE Asian Pacific Conference o Circuits and Systems, 
+Singapore, December 4-7, 2006. 
+19. Member of the Technical Program Committee for 2007 IEEE Pacific Rim Conference on Computers,  
+Communications and Signal Processing, Victoria, BC, August 22-24, 2007. 
+20. Session Chair (IIR digital filters) for ISCAS 2007. 
+21. Session Chair (Image Processing) for PacRim Conference 2007. 
+22. Session Chair (Image Processing) for PacRim Conference 2009. 
+23. Session Chair (Compressive Sensing) for ISCAS 2011. 
+24. Session Chair (Compressive Sensing) for ISCAS 2012. 
+25. Session Chair (Advanced DSP Algorithms and Applications) for ISCAS 2013. 
+26. Session Chair (Audio and Speech Processing) for ISCAS 2014. 
+27. Session Chair (Digital Filters)  for ISCAS 2015. 
+28. Member of the Technical Program Committee for 2017 IEEE Pacific Rim Conference on Computers,  
+Communications and Signal Processing, Victoria, BC, August 21-23, 2017. 
+ 
+
+-----

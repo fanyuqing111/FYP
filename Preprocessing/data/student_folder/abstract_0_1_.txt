@@ -1,0 +1,17 @@
+Abstract 
+This PhD program pertains to the design and monolithic realization of high-speed high-
+resolution Analog-to-Digital Converters (ADC), particularly pipeline-based and successive 
+Approximation Register (SAR)-based architectures, for next-generation telecommunication 
+systems.  
+For the pipeline-based ADC, we propose, design, and monolithically realize a novel 11bit 
+1GS/s SAR-assisted MDAC-free pipeline ADC—the first-ever reported MDAC-free pipeline 
+ADC architecture. This architecture circumvents the well-reported critical issues arising from 
+the MDACs, thereby leading to higher speed and higher accuracy, yet with potentially reduced 
+design complexity. For the SAR-based ADC, we propose a 2bit/step 10bit 400MS/s SAR ADC. 
+By means of our proposed 2bit/step conversion scheme, our ADC mitigates the speed limitation 
+of the conventional SAR ADC, and achieves higher conversion accuracy, structure simplicity 
+with reduced input loading, and reduced hardware complexity with minimal power overhead. 
+Both two proposed ADCs are monolithically realized in 65nm CMOS, and when benchmarked 
+against state-of-the-art counterparts, both featured highly competitive Figures-of-Merit. 
+
+-----

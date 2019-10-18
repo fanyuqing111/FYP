@@ -1,0 +1,43 @@
+The main contributions of this thesis are briey as follows:
+i) We introduce novel Bayesian mixture models such as the Sparse Cod-
+ing based Gaussian mixture and the Field-of-Gaussian mixture, to solve some
+machine learning problems on image datasets. The Bayesian mixture models ad-
+dressed here are namely the Gaussian mixture model (GMM), Field-of-Gassian
+mixture (FoG), Dirichlet process mixture (DPM) and the Sparse Coding based
+Gaussian mixture model (sGMM). The rst two models, GMM [2, 4] and FoG
+[3] are used to obtain Gaussian mixture based Fisher Vector and Bag-of-Words
+vector for image categorization datasets. DPM [5] is a Bayesian nonparametric
+model for model selection on image and signal datasets. Most recent fast DPM
+algorithms are usually based on Gibbs sampling. Here, we use a fast Bayesian
+approach to DPM. The last model sGMM [1] is inspired by the recently proposed
+Sparse Coding based Fisher Vector (SC-FV). Instead of using an o-the-shelf
+learner such as convex optimization, we use a Bayesian approach to estimate
+parameters for SC-FV on image categorization datasets.
+ii) In order to model the datasets, approximating techniques such as varia-
+tional inference or Gibbs sampling is necessary due to intractable true posteriors
+arising from the complex Bayesian mixture models. Due to computational in-
+eciencies and scalability issues, we propose a variant of variational inference
+known as the variational maximization-maximization algorithm which mainly
+update the modes of variational posteriors for iterative learning. Under conju-
+gate priors assumption, our approach can usually lead to analytical solution for
+the learning of each presented mixture model here.
+References
+[1] Lim, K. L., & Wang, H. (2016). Sparse Coding Based Fisher Vector Using
+a Bayesian Approach. IEEE Signal Processing Letters, 24(1), 91.
+[2] Lim, K. L., & Wang, H. (2017). MAP Approximation to the Variational
+Bayes Gaussian Mixture Model and Application, Soft Computing. (accepted)
+[3] Lim, K. L., & Wang, H. (2016). Learning a eld of Gaussian mixture
+model for image classication. In Control, Automation, Robotics and Vi-
+sion (ICARCV), 2016 14th International Conference on (pp. 1-5). IEEE.
+[4] Lim, K. L., Wang, H., & Mou, X. (2016). Learning Gaussian mixture model
+with a maximization-maximization algorithm for image classication. In
+Control and Automation (ICCA), 2016 12th IEEE International Conference
+on (pp. 887-891). IEEE.
+[5] Lim, K. L., & Wang, H. (2017). Revisiting Variational Inference for Fast
+Dirichlet Process Mixture, IEEE Signal Processing Letters, (re-submitted)
+[6] Lim, K. L. (2014). A center surround contrast based feature for object pose
+estimation. In Control Automation Robotics & Vision (ICARCV), 2014 13th
+International Conference on (pp. 1033-1038). IEEE.
+1
+
+-----

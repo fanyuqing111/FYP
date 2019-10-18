@@ -1,0 +1,69 @@
+ 
+i 
+Integrated Photonics Chip for Quantum Key Distribution 
+ 
+Silicon photonics technology exploits silicon as an optical medium to build 
+versatile systems. It has a huge and growing market in the field of telecommunication, 
+sensing, display, biomedical instrument, etc. The flexible modularity and stability of 
+silicon photonic systems provide an unprecedented opportunity for next-generation 
+quantum key distribution (QKD). This doctorate thesis focuses on the design, 
+simulation, fabrication and testing of integrated silicon photonic system. Crucial 
+components for silicon photonics applications are designed and tested, such as grating 
+coupler, polarization beam splitter, polarization rotator, modulator, detector, ring 
+resonator, interferometer, etc. Using the available components, quantum key 
+distribution system using GG02 protocol is also demonstrated. 
+The thesis focused on three parts, the passive components, the active 
+components and the implementation of QKD system. For the passive components, the 
+2-dimensional grating coupler can be used as a path-polarization mode converter. The 
+polarization beam splitter can be used to separate or combine two polarization state on 
+chip. The polarization rotator can be used to rotate the polarization state between 
+transverse electric and transverse magnetic mode. All the polarization manipulation 
+components are important for expanding the available degree-of-freedom of the photon. 
+Mach-Zehnder interferometer and ring resonator are important components that can be 
+used in the modulator. The performance is also tested. 
+Active components including modulator and detector are studied in this thesis. 
+The thermal optical modulator and carrier injection modulator are designed and tested. 
+On-chip germanium detector is also characterized. As required by continuous variable 
+quantum information experiment, a self-built balanced homodyne detector using the 
+on-chip detector and off-chip commercialized detector are built and tested. Together 
+with the passive components, a full component library for on-chip linear optics 
+applications is provided.  
+Specifically, a QKD chip using GG02 Gaussian modulation protocol is 
+designed and fabricated. The basic working principle of the GG02 protocol is analyzed. 
+The secure key rate is calculated based on the total loss and excessive noise of the 
+
+-----
+ 
+ii 
+system. The test shows the secure key-rate under collective attack can reach 0.83 MHz 
+at 0 km and 9.3 kHz at 100 km distance. 
+Since the QKD chip is fabricated on the standard silicon photonic platform, it 
+can be integrated onto a single chip with the classical communication device and even 
+the controlling integrated circuit. This will lead to the next generation of a hybrid 
+quantum-classical communication network with more compact components and pave 
+the way to largely expand the market of QKD system. 
+ 
+Publication list 
+ 
+G. Zhang, J. Y. Haw, X. J. Jia, X. L. Su, J. F. Fitzsimons, X. Q. Zhou, W. Ser, L. C. 
+Kwek and A. Q. Liu. "Integrated Silicon Photonic Chip: Continuous-variable 
+Quantum Key Distribution." Nature communication. (Preparation) 
+Feng, X.*, Zhang, G.*, Chin, L. K., Liu, A. Q., & Liedberg, B. (2017). Highly Sensitive, 
+Label-Free Detection of 2, 4-Dichlorophenoxyacetic Acid Using an Optofluidic 
+Chip. ACS sensors, 2(7), 955-960. (*Equal contribution) 
+ 
+G. Zhang, L. Cao, J. Y. Haw, X. J. Jia, X. L. Su, L. C. Kwek, J. F. Fitzsimons, P. K. 
+Lam, X. Q. Zhou, W. B. Gao, J. B. Gong, Y. D. Chong, A Szameit, W. Ser and A. 
+Q. Liu, " Integrated Chip for Continuous-variable Quantum Key Distribution using 
+Silicon Photonic Fabrication." Lasers and Electro-Optics (CLEO): Science and 
+Innovations. Optical Society of America, 2018. (Oral presentation) 
+G. Zhang, J. Wu, S. Yu, L. C. Kwek, J. B. Gong, W. B. Gao, Y. D. Chong, W. Ser and 
+A. Q. Liu. "An integrated photonic chip for continuous-variable quantum key 
+distribution." Lasers and Electro-Optics (CLEO): Science and Innovations. Optical 
+Society of America, 2017. (Oral presentation) 
+G. Zhang, J. G. Huang, W. Ser, W. B. Gao, Y. D. Chong, J. B. Gong, L. C. Kwek and 
+A. Q. Liu. "Quantum photonic wavelength conversion and modulation using low 
+loss aluminum nitride." Lasers and Electro-Optics (CLEO): Science and 
+Innovations. Optical Society of America, 2017. (Oral presentation) 
+
+-----

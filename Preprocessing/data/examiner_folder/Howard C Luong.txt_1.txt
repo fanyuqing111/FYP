@@ -1,0 +1,493 @@
+Howard Cam Luong (PhD, UC Berkeley, 1994)
+Professor, ECE, HKUST, 
+IEEE Fellow
+Faculty-In-Charge, WIreless Communications 
+Integrated Circuits Lab (WIC2L), EEE, HKUST 
+Electrical & Electronic Engineering Department
+Hong Kong University of Science & Technology
+Clear Water Bay, Kowloon, Hong Kong
+Phone: 011-852-2358-8514 
+Fax: 011-852-2358-1485
+E-Mail: eeluong@ee.ust.hk
+Office: 2453 (Lifts 25-26)
+RESEARCH INTERESTS
+
+RF Integrated Circuits and Systems for Wireless Communication 
+
+UHF RFID Readers and Passive Tags 
+
+CMOS mm-Wave and Sub-THz Transceivers and Building Blocks
+
+Ultra-Low-Power Transceivers for Biomedical and Implantable Applications
+BIOGRAPHY
+PUBLICATION
+Page 1 of 1
+Howard Cam Luong (eeluong@ee.ust.hk)
+8/7/2018
+http://www.ee.ust.hk/~eeluong/
+
+-----
+BIOGRAPHY
+Howard Luong received his BS, MS, and PhD degrees in Electrical Engineering and Computer 
+Sciences (EECS) from University of California at Berkeley in 1988, 1990, and 1994, respectively. 
+Since September 1994, he has joined the ECE faculty at the Hong Kong University of Science and 
+Technology where he is currently a professor. 
+Professor Luong's research interests are in RF/mm-Wave/sub-THz and analog integrated circuits 
+and systems for wireless, portable, and bio-medical applications.  He was a co-author of the three 
+technical books entitled “Design Techniques for Transformer-Based VCOs and Frequency 
+Dividers” by Springer in November 2015, "Low-Voltage RF CMOS Frequency Synthesizers" by 
+Cambridge University Press in August 2004, and "Design of Low-Voltage CMOS Switched-
+Opamp Switched-Capacitor Systems" by Kluwer Academic Publishers in July 2003. 
+Professor Luong is an IEEE Fellow.  He is currently serving as an Associate Editor of IEEE Solid-
+State Circuits Letters (SSCL) and IEEE Virtual Journal on RFIC and a technical program 
+committee member of IEEE International Solid-State Circuits Conference (ISSCC).  He was an 
+IEEE Solid-State Circuits Society Distinguished Lecturer from 2012 to 2014 and an Associate 
+Editor for IEEE Transactions on Circuits and Systems I (TCAS-I) and TCAS-II from 2010 to 
+2012 and from 1999 to 2002, respectively.
+Professor Luong is serving on the Engineering Panel of Hong Kong Research Grants Council 
+(RGC), the Technology Review Panel for Hong Kong ASTRI R&D Centre, and the Disciplinary 
+Tribunal Panel (Electricity) of Hong Kong Government.
+Page 1 of 1
+Howard's Biography
+8/7/2018
+http://www.ee.ust.hk/~eeluong/bio.html
+
+-----
+ANALOG RESEARCH LAB'S PUBLICATION
+• Journal Papers
+• Conference Papers
+• Patents
+• Books
+JOURNAL PAPERS 
+• B. Jiang, and H. C. Luong, “A 7.9-GHz Transformer-Feedback Quadrature VCO with a 
+Noise- Shifting Coupling Network,” IEEE Journal of Solid-State Circuits, October 2017
+• A. Li, C. Yue, L. Wu, X. Chen, and H. C. Luong, “A Spur-and-Phase-Noise-Filtering 
+Technique for Inductor-less Fractional-N Injection-Locked PLLs,” IEEE Journal of Solid-
+State Circuits, August 2017
+• S. Zheng, and H. C. Luong, “A WCDMA/WLAN Digital Polar Transmitter with Low-Noise 
+ADPLL, Wideband PM/AM Modulator, and Linearized PA,” IEEE Journal of Solid-State 
+Circuits, July 2015
+• A. Li, S. Zheng, J. Yin, X. Luo, and H. C. Luong, “A 21GHz-48GHz Sub-Harmonic 
+Injection-Locked Fractional-N Frequency Synthesizer for Multi-Band Point-to-Point 
+Backhaul Communications,” IEEE Journal of Solid-State Circuits (JSSC),  August 2014
+• Y. Chao, and H. C. Luong,  “Analysis and Design of a 2.9mW 53.4GHz-79.4GHz 
+Frequency-Tracking Injection-Locked Frequency Divider in 65nm CMOS,” IEEE Journal 
+of Solid-State Circuits (JSSC), October 2013
+• L. Wu, A. Li, and H. C. Luong, “A 4-Path 42.8-to-49.5GHz LO Generation with Automatic 
+Phase Tuning for 60GHz Phased-Array Receivers,” IEEE Journal of Solid-State Circuits 
+(JSSC), October 2013
+• J. Yin, and H. C. Luong, “A 57.5-90.1GHz Magnetically-Tuned Multi-Mode CMOS VCO,” 
+IEEE Journal of Solid-State Circuits (JSSC), August 2013
+• S. Zheng and H. C. Luong, “A CMOS WCDMA/WLAN Digital Polar Transmitter with 
+AM Replica Feedback Linearization,” IEEE Journal of Solid-State Circuits (JSSC), July 
+2013
+• S. Rong, and H. C. Luong, “Design and Analysis of Varactor-Less Interpolative-Phase-
+Tuning Millimeter-Wave LC Oscillators with Multiphase Outputs,” IEEE Journal of Solid-
+State Circuits (JSSC), August 2011, pp. 1810-1819
+• J. Yin, J. Yi, M. Law, M. Ling, P. Lee, B. Ng, B. Gao, H. C. Luong, A. Bermak, M. Chan, 
+W. H. Ki, C. Y. Tsui, M. Yuen, “A System-on-Chip EPC Gen-2 Passive UHF RFID Tag 
+with Embedded Temperature Sensor,” IEEE Journal of Solid-State Circuits (JSSC),
+November 2010, pp. 2404 - 2420
+• M. K. Law, A. Bermak, H. C. Luong, “An 119nW CMOS Temperature Sensor for RFID 
+Food Monitoring Application,” IEEE Journal of Solid-State Circuits (JSSC), June 2010
+• H. Zheng, S. Lou, T. Chan, C. Shen, D. Lu, and H. C. Luong, "A 3.1-8.0 GHz MB-OFDM 
+UWB Transceiver in 0.18-µm CMOS," IEEE Journal of Solid-State Circuits (JSSC),
+February 2009
+• S. Lou, and H. C. Luong,“A Linearization Technique for RF Receiver Front-End Using 
+Second-Order-Intermodulation Injection,” IEEE Journal of Solid-State Circuits (JSSC), 
+November 2008
+• T. Zheng, and H. C. Luong, “Ultra-Low-Voltage 20-GHz Dividers Using Transformer 
+Feedback in 0.18-µm CMOS Process," IEEE Journal of Solid-State Circuits (JSSC), 
+October 2008
+Page 1 of 8
+Analog Research Lab's Publication
+8/7/2018
+http://www.ee.ust.hk/~eeluong/publication.html
+
+-----
+• E. Wang, S. Lou, K. Chui, S. Rong, C. F. Lok, H. Zheng, H. T. Chan, S. W. Man, H. C. 
+Luong, V. K. Lau, and C. Y. Tsui, "A Single-Chip UHF RFID Reader in 0.18-µm CMOS,"
+IEEE Journal of Solid-State Circuits (JSSC), August 2008
+• L. Leung, D. Lau, S. Lou, A. Ng, R. Wang, G. Wong, P. Wu, H. Zheng, V. Cheung, and H. 
+C. Luong "A 1-V 86-mW-RX 53-mW-TX Single-Chip CMOS Transceiver for WLAN 
+IEEE 802.11a," IEEE Journal of Solid-State Circuits (JSSC) , September 2007
+• A. Ng, and H. C. Luong, "A 1V 17GHz 5mW Quadrature CMOS VCO Using Transformer 
+Coupling," IEEE Journal of Solid-State Circuits (JSSC) , September 2007
+• H. Zheng, and H. C. Luong, "A 1.5-V 3.1GHz-8GHz CMOS Synthesizer for 9-Band MB-
+OFDM UWB Transceivers," IEEE Journal of Solid-State Circuits (JSSC) , June 2007
+• P. Wu, V. Cheung, and H. C. Luong, "A 1-V 100MS/s 8-bit CMOS Switched-Opamp 
+Pipelined ADC Using Loading-Free Architecture," IEEE Journal of Solid-State Circuits 
+(JSSC) , April 2007
+• A. Ng, G. Leung, K. Kwok, L. Leung, and H. C. Luong, "A 1-V 24-GHz 17.5-mW Phase-
+Locked Loop in a 0.18-um CMOS Process," IEEE Journal of Solid-State Circuits (JSSC) , 
+June 2006
+• K. Ng, and H. C. Luong, "A 28-MHz Wideband Switched-Capacitor Bandpass Filter with 
+Transmission Zeros for High Attenuation," IEEE Journal of Solid-State Circuits (JSSC) , 
+Vol. 40, pp. 785-790, March 2005
+• K. Kwok, and H. C. Luong, "Ultra-Low-Voltage High-Performance VCO Using 
+Transformer Feedback," IEEE Journal of Solid-State Circuits (JSSC) , Vol. 40, pp. 652-
+660, March 2005
+• K. Ng, V. Cheung, H. C. Luong, "A 44-MHz Wideband Switched-Capacitor Bandpass 
+Filter Using Double-Sampling Pseudo-Two-Path Techniques," IEEE Journal of Solid-
+State Circuits (JSSC) , Vol. 40, pp. 781-784, March 2005
+• G. Leung, and H. C. Luong, "A 1-V 5.2-GHz 27.5-mW Fully-Integrated CMOS WLAN 
+Synthesizer," IEEE Journal of Solid-State Circuits (JSSC) , Vol. 39, pp. 1873-1882, 
+November 2004 
+• J. Wong, V. Cheung, H. C. Luong, "A 1-V 2.5-mW 5.2-GHz Frequency Divider in a 0.35-
+um CMOS Process," IEEE Journal of Solid-State Circuits (JSSC) , pp. 1643-1648, 
+October 2003.
+• V. S. L. Cheung, H. C. Luong, M. Chan, and W. H. Ki, "A 1-V 3.5-mW CMOS Switched-
+Opamp Quadrature IF Circuitry for Bluetooth Receivers," IEEE Journal of Solid-State 
+Circuits (JSSC), pp. 805-816, May 2003.
+• V. S. L. Cheung, H. C. Luong, and W. H. Ki, "A 1-V 10.7-MHz Switched-Opamp Bandpass 
+Sigma Delta Modulator Using Double-Sampling Finite-Gain-Compensation Technique," 
+IEEE Journal of Solid-State Circuits (JSSC), Vol. 37, No. 10, pp. 1215-1225, October 
+2002.
+• T. Kan, G. Leung, and H. C. Luong, "A 2-V 1.8-GHz Fully-Integrated CMOS Dual-Loop 
+Frequency Synthesizer," IEEE Journal of Solid-State Circuits (JSSC) , Vol. 37, No. 8, pp. 
+1012-1020, August 2002.
+• C. B. Guo, C. W. Lo, T. Choi, I. Hsu, D. Leung, T. Kan, A. Chan, H. C. Luong, "A 900-
+MHz Fully-Integrated CMOS Wireless Receiver with On-Chip RF and IF Filters and 79-dB 
+Image Rejection," IEEE Journal of Solid-State Circuits (JSSC), Vol. 37, No. 8, pp. 1084-
+1089, August 2002.
+• C. W. Lo and H. C. Luong, "A 1.5-V 900-MHz Monolithic CMOS Fast-Switching 
+Frequency Synthesizer for Wireless Applications," IEEE Journal of Solid-State Circuits 
+(JSSC), Vol. 37, No. 4, pp. 459-70, April 2002. 
+• W. Yan and H. C. Luong, "A 2-V 900-MHz Monolithic CMOS Dual-Loop Frequency 
+Synthesizer for GSM Wireless Receivers," IEEE Journal of Solid-State Circuits (JSSC), 
+Vol. 36, No. 2, pp. 204-216, February 2001. 
+• V. S. L. Cheung, H. C. Luong, and W. H. Ki, "A 1-V Switched-Opamp Switched-Capacitor 
+Pseudo-2-Path Filter," IEEE Journal of Solid-State Circuits (JSSC), Vol. 36, No. 1, pp. 
+14-22, January 2001. 
+Page 2 of 8
+Analog Research Lab's Publication
+8/7/2018
+http://www.ee.ust.hk/~eeluong/publication.html
+
+-----
+Back To Top
+CONFERENCE PAPERS 
+• Z. Huang, and H. C. Luong, “An 82GHz-to-108GHz -181dB-FOMT ADPLL Employing a 
+DCO with Split Transformer and Dual-Path Switched-Capacitor Ladder and a Clock-Skew-
+Sampling Sigma-Delta TDC,” IEEE International Solid-State Circuit Conference 
+(ISSCC),  Feb. 2018
+• X. Liu, and H. C. Luong, “A 59-to-276 GHz CMOS Signal Generation for Rotational 
+Spectroscopy,” IEEE Radio-Frequency Integrated Circuits Symposium (RFIC), June 
+2017
+• X. Liu, H. Zhang, M. Zhao, X. Chen, P. Mok, and H. C. Luong, "A 2.4V 23.9dBm 35.7%
+-PAE -32.1dBc-ACLR LTE-20MHz Envelope-Shaping-and-Tracking System with a Multi-
+Loop-Controlled AC-Coupling Supply Modulator and a Mode-Switching PA," IEEE 
+International Solid-State Circuit Conference (ISSCC), Feb. 2017
+• A. Li, Y. Chao, X. Chen, L. Wu, and H.C. Luong, “An Inductor-less Fractional-N Injection-
+Locked PLL with a Spur-and-Phase-Noise Filtering Technique,” IEEE Symposium on 
+VLSI Circuits (VLSI), June 2016
+• Z. Huang, L. Li, and H. C. Luong, “A 4.2us-Settling-Time 3rd-Order 2.1-GHz Phase-Noise-
+Rejection PLL Using A Cascaded Time-Amplified Clock-Skew Sub-Sampling DLL,” IEEE 
+International Solid-State Circuit Conference (ISSCC),  Feb. 2016
+• Y. Chao, L. Li, and H. C. Luong, “An 86GHz-94.3GHz Transmitter with 15.3dBm Output 
+Power and 9.6% Efficiency in 65nm CMOS,” IEEE International Solid-State Circuit 
+Conference (ISSCC),  Feb. 2016
+• Z. Huang, H. C. Luong, “A Dithering-Less 54.79-to-63.16GHz DCO with 4-Hz Frequency 
+Resolution Using Exponentially-Scaling C-2C switched-capacitor Ladder,” IEEE 
+Symposium on VLSI Circuits (VLSI), June 2015
+• Z. Huang, H. C. Luong, B. Chi, Z. Wang, and H. Jia, “A 70.5GHz-to-85.5GHz 65nm Phase-
+Locked Loop with Passive Scaling of Loop Filter,” IEEE International Solid-State Circuit 
+Conference (ISSCC),  Feb. 2015
+• S. Zheng and H. C. Luong, “A WCDMA/WLAN Digital Polar Transmitter with Low-Noise 
+ADPLL, Wide-Band PM/AM Modulator, and Linearized PA in 65nm CMOS,” European 
+Solid-State Circuits Conference (ESSCIRC), September 2014
+• J. Yin, and H. C. Luong, “A 0.37-to-46.5GHz Frequency Synthesizer for Software-Defined 
+Radios in 65nm CMOS Process,” IEEE Symposium on VLSI Circuits (VLSI), June 2014
+• Y. Chao, Z. Hong, and H. C. Luong, “A 0.6/1.2-V 14.1-mW 96.8GHz-to-108.5GHz 
+Transformer-Based PLL with Embedded Phase Shifter in 65-nm CMOS,” IEEE Radio-
+Frequency Integrated Circuits (RFIC), June 2014 
+• A. Li, S. Zheng, J. Yin, H. C. Luong, and X. Lou, “A CMOS 21-48GHz Fractional-N 
+Synthesizer Employing Ultra-Wideband Injection-Locked Frequency Multipliers,” IEEE 
+Custom Integrated Circuits Conference (CICC), September 2013
+• Y. Chao and H. C. Luong, “A Transformer-Based Dual-Band VCO and ILFDs for Wide-
+Band mm-Wave LO Generation ,” IEEE Custom Integrated Circuits Conference (CICC),
+September 2013
+• W. L. Ng, S. Zheng, H. Leung, Y. Chao, and H. C. Luong, “A 0.9GHz-5.8GHz SDR 
+Receiver Front-End with Transformer-Based Current-Gain Boosting and 81-dB 3rd-Order-
+Harmonic Rejection Ratio,” European Solid-State Circuits Conference (ESSCIRC),
+September 2013
+• L. Wu, T. Leung, A. Li, Z. Hong, Y. Qin, and H. C. Luong, “A 4-Element 60-GHz CMOS 
+Phased-Array Receiver with Transformer-Based Hybrid-Mode Mixing and Closed-Loop 
+Beam-forming Calibration,” IEEE Symposium on VLSI Circuits (VLSI), June 2013
+Page 3 of 8
+Analog Research Lab's Publication
+8/7/2018
+http://www.ee.ust.hk/~eeluong/publication.html
+
+-----
+• C. Yue and H. C. Luong, “A 440-uW 60-GHz Injection-Locked Frequency Divider in 65nm 
+CMOS,” IEEE Radio-Frequency Integrated Circuits (RFIC), June 2013, to appear
+• J. Yin and H. C. Luong, “A 57.5-to-90.1GHz Magnetically-Tuned Multi-Mode CMOS 
+VCO,” IEEE Custom Integrated Circuits Conference (CICC), September 2012
+• L. Wu and H. C. Luong, “A 0.6V 2.2mW 58-to-73GHz Divide-by-4 Injection-Locked 
+Frequency Divider,” IEEE Custom Integrated Circuits Conference (CICC), September 
+2012
+• S. Zheng and H. C. Luong, “A WCDMA/WLAN Digital Polar Transmitter with AM 
+Replica Feedback Linearization in 65nm CMOS,” European Solid-State Circuits 
+Conference (ESSCIRC), September 2012
+• A. Ng, S. Zheng, and H. C. Luong, “A 4.1GHz-6.5GHz All-Digital Frequency Synthesizer 
+with a 2nd-Order Noise-Shaping TDC and a Transformer-Coupled QVCO,” European 
+Solid-State Circuits Conference (ESSCIRC), September 2012
+• L. Wu and H. C. Luong, “A 49-to-62GHz CMOS Quadrature VCO with Bimodal Enhanced 
+Magnetic Tuning,” European Solid-State Circuits Conference (ESSCIRC), September 
+2012
+• J. Yin and H. C. Luong, “A 0.8V 1.9mW 53.7-to-72.0GHz Self-Frequency-Tracking 
+Injection-Locked Frequency Divider,” IEEE Radio-Frequency Integrated Circuits 
+(RFIC), June 2012
+• S. Zheng and H. C. Luong, “A 4.1-to-6.5GHz Transformer-Coupled CMOS Quadrature 
+Digitally-Controlled Oscillator with Quantization Noise Suppression,” IEEE Radio-
+Frequency Integrated Circuits (RFIC), June 2012
+• C. Yue and H. C. Luong, “A 2.9mW 53.4-79.4GHz Frequency-Tracking Injection-Locked 
+Frequency Divider with 39.2% Locking Range in 65nm CMOS,” IEEE Radio-Frequency 
+Integrated Circuits (RFIC), June 2012
+• A. Li and H. C. Luong, “A Reconfigurable 4.7-6.6GHz and 8.5-10.7GHz Concurrent and 
+Dual-Band Oscillator in 65nm CMOS,” IEEE Radio-Frequency Integrated Circuits 
+(RFIC), June 2012
+• T. Leung and H. C. Luong, “A 1.2-6.6GHz LNA Using Transformer Feedback for 
+Wideband Input Matching and Noise Cancellation in 0.13μm CMOS,” IEEE Radio-
+Frequency Integrated Circuits (RFIC), June 2012
+• A. Ng and H. C. Luong, “Transformer-Based Current-Gain-Boosted Technique for Dual-
+Band and Wide-Band Receiver Front-Ends,” IEEE Radio-Frequency Integrated Circuits 
+(RFIC), June 2012
+• L. Wu, A. Li, and H. C. Luong, “A 4-Path 42.8-to-49.5GHz LO Generation with Automatic 
+Phase Tuning for 60GHz Phased-Array Receivers,” IEEE International Solid-State Circuit 
+Conference 2012 (ISSCC),  February 2012, to appear
+• S. Rong, and H. C. Luong, “A 0.05-to-10GHz 19-to-22GHz and 38-to-44GHz SDR 
+Frequency Synthesizer in in 0.13um CMOS,” IEEE International Solid-State Circuit 
+Conference 2011 (ISSCC),  February 2011
+• S. Rong, and H. C. Luong, “A 0.8V 57GHz-to-72GHz Differential-Input Frequency Divider 
+with Locking Range Optimization in 0.13um CMOS,” IEEE Asian Solid-State Circuits 
+Conference, Beijing, China, November 2010
+• S. Rong, and H. C. Luong, “V-Band Varactor-less Interpolative-Phase-Tuning Oscillators 
+with Multiphase Outputs,” 2010  IEEE Custom Integrated Circuits Conference (CICC),
+San Jose, USA, September 2010
+• L. Wu, A. Ng, L. Leung, and H. C. Luong, “A 24-GHz and 60-GHzDual-Band Standing-
+Wave VCO in 0.13-μm CMOS Process,” Radio-Frequency Integrated Circuits (RFIC),
+June 2010
+• H. C. Luong, “Single-Chip UWB Transceiver in 0.18-μm CMOS Process,” CMOS 
+Emerging Technology Workshop, May 2010 (Invited Talk)
+Page 4 of 8
+Analog Research Lab's Publication
+8/7/2018
+http://www.ee.ust.hk/~eeluong/publication.html
+
+-----
+• J. Yin, J. Yi, M. Law, M. Ling, P. Lee, B. Ng, B. Gao, H. C. Luong, A. Bermak, M. Chan, 
+W. H. Ki, C. Y. Tsui, M. Yuen, “A System-on-Chip EPC Gen-2 Passive UHF RFID Tag 
+with Embedded Temperature Sensor,” IEEE International Solid-State Circuit Conference 
+2010 (ISSCC), San Francisco, February 2010
+• A. Ng, S. Rong, T. Zheng, and H. C. Luong, “Low-Voltage Transformer-Feedback CMOS 
+VCOs and Dividers,” VLSI-DAT, Taiwan, April 2009 (Invited Talk)
+• S. Rong, A. Ng, and H. C. Luong, “0.9mW 7GHz and 1.6mW 60GHz Frequency Dividers 
+with Locking-Range Enhancement in 0.13um CMOS,” IEEE International Solid-State 
+Circuit Conference 2009 (ISSCC), San Francisco, USA, February 2009 
+• S. Lou, and H. C. Luong, “A 0.8GHz-10.6GHz SDR Low-Noise Amplifier in 0.13-um 
+CMOS,”  2008 IEEE Custom Integrated Circuits Conference (CICC), San Jose, USA, 
+September 2008
+• H. C. Luong, “CMOS RF Integrated Circuits and Systems for Wireless Communication,” 
+Asian-Pacific Conference on High-Speed Circuit Design, Taiwan, July 2008 (Keynote 
+Talk)
+• S. Lou, and H. C. Luong, “A Linearization Technique for RF Receiver Front-End Using 
+Second-Order-Intermodulation Injection,” IEEE Asian Solid-State Circuits Conference 
+2007, Korea, November 2007 (A-SSCC/ISSCC Student Design Contest Winner)
+• S. Rong and H. C. Luong, “A 1.7mW 25GHz Transformer-Feedback divide-by-3 Frequency 
+Divider with Quadrature Outputs,” IEEE Asian Solid-State Circuits Conference 2007, 
+Korea, November 2007
+• C. Shen and H. C. Luong, "A 0.55-V 25-GHz Transformer-Coupled Frequency Divider with 
+Quadrature Outputs," IEEE Asian Solid-State Circuits Conference 2007, Korea, 
+November 2007
+• T. F. Chan and H. C. Luong, “A 0.8-V CMOS Quadrature LC VCO Using Capacitive 
+Coupling,” IEEE Asian Solid-State Circuits Conference 2007, Korea, November 2007
+• T. F. Chan and H. C. Luong, “A CMOS Linear-in-dB High-Linearity Variable- Gain 
+Amplifier for UWB Receivers,” IEEE Asian Solid-State Circuits Conference 2007, Korea, 
+November 2007
+• H. Zheng, S. Lou, T. Chan, C. Shen, D. Lu, and H. C. Luong, "A 3.1-8.0 GHz MB-OFDM 
+UWB Transceiver in 0.18-µm CMOS," 2007 IEEE Custom Integrated Circuits 
+Conference (CICC), San Jose, USA, September 2007
+• E. Wang, S. Lou, K. Chui, S. Rong, C. F. Lok, H. Zheng, H. T. Chan, S. W. Man, H. C. 
+Luong, V. K. Lau, and C. Y. Tsui, "A Single-Chip UHF RFID Reader in 0.18-µm CMOS," 
+2007 IEEE Custom Integrated Circuits Conference (CICC), San Jose, USA, September 
+2007 (AMD/CICC Student Scholarship Award Winner and CICC Featured Publicity 
+Paper)
+• S. Rong and H. C. Luong, "1V 4GHz-and-10GHz Transformer-Based Dual-Band 
+Quadrature VCO in 0.18-µm CMOS," 2007 IEEE Custom Integrated Circuits Conference 
+(CICC), San Jose, USA, September 2007
+• H. Zheng and H. C. Luong, "A 0.5-V 16GHz-20GHz Differential Injection-Locked Divider 
+in 0.18-µm CMOS Process," 2007 IEEE Custom Integrated Circuits Conference (CICC), 
+San Jose, USA, September 2007
+• L. Leung and H. C. Luong, " A 7-µW Clock Generator in 0.18-um CMOS for Passive UHF 
+RFID EPC G2 Tags," 2007 European Solid-State Circuits Conference (ESSCIRC), 
+Germany, September 2007
+• S. Lou, H. Zheng and H. C. Luong, "A 1.5-V CMOS Receiver Front-End for 9-Band MB-
+OFDM UWB System," 2006 IEEE Custom Integrated Circuits Conference (CICC) , San 
+Jose, USA, September 2006 
+• H. Zheng and H. C. Luong, "A 0.9-V Double-Balanced Quadrature-Input Quadrature-
+Output Frequency Divider," 2006 IEEE Custom Integrated Circuits Conference (CICC) , 
+San Jose, USA, September 2006 
+Page 5 of 8
+Analog Research Lab's Publication
+8/7/2018
+http://www.ee.ust.hk/~eeluong/publication.html
+
+-----
+• L. Leung, T. Zheng, S. Lou, A. Ng, D. Lau, R. Wang, P. Wu, V. Cheung, G. Wong, and H. 
+C. Luong, "A 1V Low-Power Single-Chip CMOS WLAN IEEE 802.11a Transceiver," 2006 
+European Solid-State Circuits Conference (ESSCIRC) , Switzerland, September 2006 
+• E. Wang and H. C. Luong, "A 0.8-V 4.9-mW CMOS Fractional-N Frequency Synthesizer 
+for RFID Application," 2006 European Solid-State Circuits Conference (ESSCIRC) , 
+Switzerland, September 2006 
+• T. Zheng, A. Ng, and H. C. Luong, "A 1.5V 9-Band CMOS Synthesizer for MB-OFDM 
+UWB Transceivers," 2006 Symposium on VLSI Circuits, Hawaii, USA, June 2006. 
+• P. Wu, V. Cheung, and H. C. Luong, "A 1-V 100MS/s 8-bit CMOS Switched-Opamp 
+Pipelined ADC Using Loading-Free Architecture," 2006 Symposium on VLSI Circuits , 
+Hawaii, USA, June 2006. 
+• A. Ng, and H. C. Luong, "A 1V 17GHz 5mW Quadrature CMOS VCO Using Transformer 
+Coupling," IEEE International Solid-State Circuit Conference 2006 (ISSCC), San 
+Francisco, USA, February 2006. 
+• T. Zheng, S. Lou, L. Leung, H. C. Luong, "RF System Architectures and Circuit Techniques 
+for Wideband Transceivers," IEEE Radio-Frequency Integration Technology 2005 
+(RFIT) , Singapore, December 2005, (Invited Paper)
+• R. Wang, D. Lau, S. Lou, E. Wang, and H. C. Luong, "A 1.8-V 531-mW Single-Chip 
+Single-Conversion CMOS Cable TV Tuner," 2005 Asian Solid-State Circuit Conference 
+(ASSCC), Taiwan, November 2005 (ASSCC/ISSCC Student Design Contest Winner)
+• L. Leung, and H. C. Luong, "A 1V Dual-Band VCO Using an Integrated Variable 
+Inductor," 2005 Asian Solid-State Circuit Conference (ASSCC), Taiwan, November 2005 
+• D. Lau and H. C. Luong, "A 1.8-V 35-mW Wide-Band CMOS Synthesizer for Cable Tuner 
+Applications," 2005 Asian Solid-State Circuit Conference (ASSCC), Taiwan, November 
+2005 
+• S. Lou and H. C. Luong, "A Wideband CMOS Variable-Gain Low-Noise Amplifier for 
+Cable TV Tuners," 2005 Asian Solid-State Circuit Conference (ASSCC), Taiwan, 
+November 2005 
+• S. Ping and H. C. Luong, "A 1.0-V 15.6-dBm 39.5%-PAE CMOS Class-E Power Amplifier 
+with On-Chip Transformer for Q Enhancement," 2005 Asian Solid-State Circuit 
+Conference (ASSCC), Taiwan, November 2005 
+• L. Leung, and H. C. Luong, "A 1-V 9.7-mW CMOS Frequency Synthesizer for WLAN 
+802.11a Transceivers," 2005 Symposium on VLSI Circuits , Tokyo, Japan, June 2005 
+• A. Ng, G. Leung, K. C. Kwok, L. Leung, and H. C. Luong, "A 1-V 24-GHz 17.5-mW 
+Phase-Locked Loop in a 0.18-um CMOS Process," IEEE International Solid-State Circuit 
+Conference 2005 (ISSCC) , San Francisco, USA, February 2005. 
+• V. Cheung, and H. C. Luong, "A 3.3-V 240-MS/s CMOS Bandpass Sigma-Delta Modulator 
+Using a Fast-Settling Double-Sampling SC Filter," 2004 Symposium on VLSI Circuits , 
+Hawaii, USA, June 2004 
+• K. C. Kwok, and H. C. Luong, "A 0.35-V 1.46-mW Low-Phase-Noise Oscillator with 
+Transformer Feedback in Standard 0.18-um CMOS Process," IEEE Custom Integrated 
+Circuits Conference 2003 (CICC), San Jose, USA, September 2003. 
+• K. Ng, and H. C. Luong, "A 28-MHz Wide-Band Switched-Capacitor Bandpass Filter with 
+High Attenuation," IEEE Custom Integrated Circuits Conference 2003 (CICC), San Jose, 
+USA, September 2003. 
+• V. Cheung, and H. C. Luong, "A 1-V 10-mW Monolithic Bluetooth Receiver in a 0.35-um 
+CMOS Process," 2003 European Solid-State Circuits Conference (ESSCIRC), Estoril, 
+Portugal, September 2003. 
+• G. Leung, and H. C. Luong, "A 1-V 5.2-GHz 27.5-mW Fully-Integrated CMOS WLAN 
+Synthesizer," 2003 European Solid-State Circuits Conference (ESSCIRC), Estoril, 
+Portugal, September 2003. 
+• G. Leung, and H. C. Luong, "A 1-V 13-mW 2.5-GHz Double-Rate Phase-Locked Loop 
+with Phase Alignment for Zero Delay," 2003 European Solid-State Circuits Conference 
+(ESSCIRC), Estoril, Portugal, September 2003. 
+Page 6 of 8
+Analog Research Lab's Publication
+8/7/2018
+http://www.ee.ust.hk/~eeluong/publication.html
+
+-----
+• V. Cheung, and H. C. Luong, "A 0.9-V 0.5-uW CMOS Single-Switched-Opamp-Based 
+Signal-Conditioning System for Pacemaker Applications," IEEE International Solid-State 
+Circuit Conference 2003 (ISSCC) , San Francisco, USA, February 2003. 
+• J. Wong, V. Cheung, H. C. Luong, "A 1-V 2.5-mW 5.2-GHz Frequency Divider in a 0.35-
+um CMOS Process," 2002 Symposium on VLSI Circuits, Hawaii, USA, June 2002. 
+• V. Cheung, H. C. Luong, M. Chan, W. H. Ki, "A 1-V 3.5-mW CMOS Switched-Opamp 
+Quadrature IF Circuitry for Bluetooth Receivers," 2002 Symposium on VLSI Circuits, 
+Hawaii, USA, June 2002. 
+• J. Wong, H. C. Luong, "A 1.5-V 4-GHz Dynamic-Loading Regenerative Frequency 
+Doubler in a 0.35-um CMOS Process," IEEE Radio-Frequency Integrated Circuits 
+Conference (RFIC), Washington, USA, May 2002. 
+• C. B. Guo, C. W. Lo, T. Choi, I. Hsu, D. Leung, T. Kan, A. Chan, H. C. Luong, "A 900-
+MHz Fully-Integrated CMOS Wireless Receiver with On-Chip RF and IF Filters and 79-dB 
+Image Rejection," Symposium on VLSI Circuits , Kyoto, Japan, June 2001, pp.241-4. 
+• C. B. Guo, A. Chan, and H. C. Luong, "A 2-V 950-MHz LNA with Notch Filter for 
+Wireless Receivers," IEEE Radio-Frequency Integrated-Circuit Symposium, 2001 
+(RFIC), Arizona, USA, May 2001, pp. 79-82. 
+• V. S. L. Cheung, H. C. Luong, and W. H. Ki, "A 1-V 10.7-MHz Switched-Opamp Bandpass 
+Sigma Delta Modulator Using Double-Sampling Finite-Gain-Compensation Technique" 
+IEEE International Solid-State Circuit Conference 2001 (ISSCC), San Francisco, USA, 
+February 2001, pp. 52-53, 428.(Listed among the 2001 ISSCC Papers with the Most 
+Significant Results)
+• W. Yan and H. C. Luong, "A 2-V 900-MHz Monolithic CMOS Dual-Loop Frequency 
+Synthesizer for GSM Wireless Receivers," European Solid-State Circuits Conference 
+(ESSCIRC), Stockholm, Sweden, September 2000. 
+• T. Kan and H. C. Luong, "A 2-V 1.8-GHz Fully-Integrated CMOS Dual-Loop Frequency 
+Synthesizer," Symposium on VLSI Circuits 2000, Hawaii, USA, June 2000, pp. 234-237. 
+• C. W. Lo and H. C. Luong, "A 1.5-V 900-MHz Monolithic CMOS Fast-Switching 
+Frequency Synthesizer for Wireless Applications," Symposium on VLSI Circuits 2000, 
+Hawaii, USA, June 2000, pp. 238-241. 
+• V. S. L. Cheung, H. C. Luong, and W. H. Ki, "A 1-V Switched-Opamp Switched-Capacitor 
+Pseudo-2-Path Filter," IEEE International Solid-State Circuit Conference, USA, pp. 154-
+155, 453, February 2000. 
+Back To Top
+PATENTS 
+• Z. Huang and H. C. Luong, “Exponentially Scaled Switched Capacitors,” US Patent 
+Application, Serial No. TTC.PA.0942, filed in June 2016
+• A. Li, H. Luong, X. Lou, “Wideband Injection-Locked Frequency Generation Circuits 
+Using High-Order LC Tanks,” US Patent Application, Serial No. PCT/CN2013/08423, 
+filed in June 2013 
+• S. Rong and H. C. Luong, “Method and Apparatus for Tuning Frequency of LC-Oscillators 
+Based on Phase-Tuning Technique,” Taiwanese Patent, I528706, granted in April 2016
+• M. Law, A. Bermak, and H. C. Luong, “Low Voltage Low Power CMOS Temperature 
+Sensor Circuit,” US Patent, No. 8,931,953, granted in January 2015
+• M. Law, A. Bermak, and H. C. Luong, “Low Voltage Low Power CMOS Temperature 
+Sensor Circuit,” Chinese Patent, No. 102,338,669A, granted in May 2014
+• S. Rong and H. C. Luong, “Phase-Tuning Varactor-less VCOs with Multiple Phase 
+Outputs,”  US Patent,  No. 8,339,208, granted in December 2012
+• H. Zheng and H.C. Luong, “Double-Balanced Quadrature-Input Quadrature-Output 
+Divider,” US Patent, No. 8,140039, granted in March 2012
+Page 7 of 8
+Analog Research Lab's Publication
+8/7/2018
+http://www.ee.ust.hk/~eeluong/publication.html
+
+-----
+• S. Rong and H. C. Luong, “Phase-Tuning Varactor-less VCOs with Multiple Phase 
+Outputs,” Chinese Patent, CN 201010200870.5, filed in December 2011
+• H. Zheng and H.C. Luong, “Double-Balanced Quadrature-Input Quadrature-Output 
+Divider,” US Patent, No. 8,140,039, granted in March 2012
+• S. Rong and H. C. Luong, “Injection-Locking-Range Enhancement Technique for 
+Frequency Dividers,” US Patent, No. 7,961,058, granted in June 2011
+• V. S. L. Cheung and H. C. Luong, "Switched-Opamp Technique for Low-Voltage 
+Switched-Capacitor Circuits," Chinese Patent, No.  ZL 01,802,426.5, granted in February 
+2009
+• K. C. Kwok and H. C. Luong, "Low-Voltage Low-Phase-Noise Voltage-Controlled 
+Oscillator with Transformer Feedback," US Patent, No. 7,411,468, granted in August 2008 
+• V. S. L. Cheung and H. C. Luong, "Switched-Opamp Technique for Low-Voltage 
+Switched-Capacitor Circuits," European Patent, No. 1,252,633, granted in October 2007 
+• L. Leung and H. C. Luong, “Dual-Mode Voltage-Controlled Oscillator Using Integrated 
+Variable Inductors,” US Patent, No. 7,268,634, granted in September 2007
+• G. Leung and H. C. Luong, "A Double-Data Rate Phase-Locked-Loop with Phase Aligners 
+to Reduce Clock Skew," US Patent, No. 6,859,109, granted in February 2005 
+• V. Cheung, J. Wong, and H. C. Luong, "Low-Voltage High-Frequency Frequency-Divider 
+Circuit," US Patent, No. 6,831,489, granted in December 2004 
+• M. Waight, J. Marsh, and H. C. Luong, "Electronically Tuned Agile Integrated Bandpass 
+Filter," US Patent, No. 0198298, granted in October 2004 
+• C. W. Lo and H. C. Luong, "Phase-Locked Loop Circuitry with Two Voltage-Controlled 
+Capacitors," US Patent, No. 6,538,519 , granted in March 2003 
+• V. S. L. Cheung and H. C. Luong, "Switched-Opamp Technique for Low-Voltage 
+Switched-Capacitor Circuits," US Patent, No. 6,344,767, granted in February 2002 
+Back To Top
+BOOKS 
+• H. C. Luong, and J. Yin, Transformer-Based VCOs and Frequency Dividers, Springer, 
+November 2015 (To Place an Order)
+• H. C. Luong, and G. C. T. Leung, Low-Voltage RF CMOS Frequency Synthesizers, 
+Cambridge University Press, August 2004. (To Place an Order)
+• V. S. L. Cheung and H. C. Luong, Design of Low-Voltage CMOS Switched-Opamp 
+Switched-Capacitor Systems, Kluwer Academic Publishers, July 2003. (To Place an Order)
+Back To Top
+Page 8 of 8
+Analog Research Lab's Publication
+8/7/2018
+http://www.ee.ust.hk/~eeluong/publication.html
+
+-----

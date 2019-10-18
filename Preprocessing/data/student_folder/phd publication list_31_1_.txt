@@ -1,0 +1,161 @@
+Journal articles 
+1. 
+Lee, E., Sun, B., Luo, J., Yong, D., Yu, X., & Wang, Q. (2019). Megawatt peak power compact all-fiber 
+MOFA CPA system using CFBG and CVBG at 2 µm (Manuscript in preparation) 
+Abstract: We report the generation of megawatt-peak power, picosecond pulses from a thulium-doped 
+master oscillator fiber amplifier (MOFA) chirped pulse amplification (CPA) system. It comprises a large-
+mode area photonic crystal fiber-based MOFA and a compact multi-pass chirped volume Bragg grating 
+(CVBG)-based compressor. The MOFA output is a linearly-polarized 1.8 ns pulse train at 100 kHz repetition 
+rate with a peak power of 139 kW - this is the highest peak power for a linearly-polarized nanosecond MOFA 
+output at 2 µm wavelength. Pulse compression was done with a (2+2)-pass CVBG to obtain a 2.8 ps pulse 
+train with peak power of 16.7 MW. 
+ 
+2. 
+Lee, E., Luo, J., Sun, B., Ramalingam, V., Zhang, Y., Wang, Q., & Yu, X. (2018). Flexible single-mode 
+delivery of a high-power 2 μm pulsed laser using an antiresonant hollow-core fiber. Optics letters, 43(12), 
+2732-2735. 
+Abstract:  
+We demonstrate flexible single-mode transmission of a high average power 2 µm nanosecond pulse using 
+antiresonant hollow core fibers (AR-HCF). 39.1 W average power is delivered using a coiled 1.7 m AR-HCF, 
+which is designed for single-mode guidance and good higher-order mode suppression. The effect of bending 
+on the fiber output power and beam profile is also investigated. The Gaussian-like output beam profile is 
+maintained up to 7.5 cm bending radius. This is the highest average power delivered by a flexible long HCF 
+in this wavelength without the need for an enclosed controlled environment, to the best of our knowledge. 
+ 
+3. 
+Jin, X., Lee, E., Luo, J., Sun, B., Ramalingam, V., Wang, Q., & Yu, X. (2018). High-efficiency ultrafast Tm-
+doped fiber amplifier based on resonant pumping. Optics letters, 43(7), 1431-1434. 
+Abstract:  
+We demonstrated a high-efficiency ultrafast Tm-doped fiber amplifier based on a resonant pumping technique. 
+A continuous-wave fiber laser at 1940 nm was employed as the pump laser. The slope efficiency of the 
+resonantly pumped pulsed Tm-doped fiber amplifier reached 87% with respect to the launched pump power. 
+The maximum average output power reached 40 W when the launched pump power was 53 W. The repetition 
+rate and the pulse duration of the output pulses from a fiber amplifier were 248 MHz and 129 ps, respectively. 
+The corresponding peak power was 1.25 kW, and the pulse energy was 161.3 nJ. To the best of our 
+knowledge, this is the first demonstration of a resonant pumping enabled high-power high-efficiency ultrafast 
+fiber laser operating at a 2 μm band. 
+ 
+4. 
+Ha TMH, Yong D, Lee EMY, Kumar P, Lee YK, et al. (2017) Activation and inactivation of Bacillus pumilus 
+spores by kiloelectron volt X-ray irradiation. PLOS ONE 12(5): e0177571.  
+Abstract:  
+In this study, we investigated the inactivation efficacy of endospore-forming bacteria, Bacillus pumilus, 
+irradiated by low-energy X-rays of different beam qualities. The different low energy X-rays studied had cut-
+off energies of 50, 100 and 150 keV. Bacillus pumilus spores (in biological indicator strips) were irradiated at 
+step doses between 6.5 to 390 Gy. The resulting bacteria populations were then quantified by a pour plate 
+method. Results showed that X-rays of lower energies were more effective in inactivating bacterial spores. In 
+addition, an increment in bacterial population was observed at doses below 13Gy. We attributed this increase 
+to a radiation-induced activation of bacterial spores. Four kinetic models were then evaluated for their 
+prediction of bacterial spore behavior under irradiation. This included: (i) first-order kinetics model; (ii) Shull 
+model; (iii) Sapru model; and (iv) probabilistic model. From R2 and AIC analyses, we noted that the 
+probabilistic model performed the best, followed by the Sapru model. We highlighted that for simplicity in curve 
+fitting the Sapru model should be used instead of the probabilistic model. A 12-log reduction in bacterial 
+population (corresponding to a sterility assurance level of 10−6 as required in the sterilization of medical 
+devices) was computed to be achievable at doses of 1000, 1600 and 2300 Gy for the three different X-ray cut-
+off energies respectively. These doses are an order in magnitude lesser than that required in gamma 
+irradiation. This highlights the applicability of cheaper and safer table-top X-ray sources for sterilization 
+application. 
+ 
+5. 
+Yong, D., Lee, E., Lee, K. Y., Yu, X., Chan, C. C., & Liu, Q. (2016). In-fiber Photo-immobilization of Bioactive 
+Surfaces: An Optimization Study. Procedia Engineering, 140, 166-170.  
+Abstract:  
+Bioactive surface formation within photonic crystal fibers (PCFs) was demonstrated via photochemical means 
+in our earlier work. The bioactive surface consisted of streptavidin bound to a biotin-functionalized layer of 
+protein. Here, we address the issue of non-specific binding between streptavidin molecules and any exposed 
+silica surfaces within the PCF. Increasing the protein coverage mitigated this problem, where a denser 
+coverage was achieved by repeating the protein passivation. Subsequent study on improving the specific 
+
+-----
+binding was also performed by increasing the duration of photobleaching, which resulted in more 
+photochemically bound biotin. Optimal parameters were then selected based upon practicality and 
+repeatability of results. 
+ 
+6. 
+Yong, D., Lee, E., Yu, X., & Chan, C. C. (2016). Fluorospectroscopy of Dye-Loaded Liposomes in Photonic 
+Crystal Fibers. IEEE Journal of Selected Topics in Quantum Electronics, 22(3), 21-26.  
+Abstract:  
+The immobilization and probing of liposomes within photonic crystal fibers was demonstrated for the first time. 
+A bioactive surface was used to tether the liposomes. This bioactive surface consisted of streptavidin bound 
+to a photochemically functionalized biotin layer. Bound streptavidin, hence, enabled the further binding of 
+biotinylated dye-loaded liposomes. In-fiber fluorescence spectroscopy was used to quantify the streptavidin 
+coverage density. The same method was also used to characterize the surface-tethered liposomes. The 
+further observation of a unique phenomenon-photobleaching dequenching-was used for the first time as an 
+indication of liposomal content retention. This indicated no rupturing of liposomes, highlighting them as 
+bioderived analogues to dye-doped nanoparticles. The demonstrated integration of liposomes with optical 
+waveguides shows potential as a biointegrated photonic device. 
+ 
+Conference proceedings 
+1. 
+Lee, E., Sun, B., Luo, J., Yu, X., Yong, D., & Wang, Q. (2019) 1975 nm Linearly-Polarized MOFA CPA 
+System based on CFBG Stretcher and 1+3-Pass CVBG Compressor Configuration (Accepted for 
+CLEO/Europe-EQEC Conference) 
+Abstract:  
+A 4.2ps, 50µJ, linearly-polarized 1975nm master oscillator fiber amplifier laser system using chirped pulse 
+amplification technique at 100kHz repetition rate was demonstrated using chirped fiber Bragg gratings and 
+1+3-pass chirped volume Bragg grating compressor configuration. 
+ 
+2. 
+Lee, E., Deepak, C., Yong, D., & Wang, Q. (2019) Laser-Foaming on Agarose using a Picosecond 2µm 
+Fiber Laser System (Accepted for ICMAT 2019) 
+Abstract:  
+Studies have found that foams increase cell adhesion sites and different cell types grow optimally in certain 
+range of pore sizes. Additionally, the foam structure has increased porosity which improves fluid permeability, 
+thus facilitating oxygen and nutrient exchange. Hence in this work, we examine laser-foaming on agarose 
+gels, a common hydrogel, using a linearly-polarized picosecond 2µm laser source at a repetition rate of 
+100kHz.  The use of a 2µm laser source eliminates the need for photolabile materials as most biomaterials 
+are water-rich and can absorb at this wavelength strongly. Control of the foaming was achieved by varying 
+laser fluence and scanning speeds. Characterization of the laser-foamed agarose was done to establish the 
+relationship between laser fluence and the resulting features. 
+ 
+3. 
+Lee, E., Luo, J., Sun, B., Ji, J., Ramalingam, V., Yu, X., & Wang, Q. (2018) Flat-gain Wide-band Thulium-
+based Fiber Laser. In CLEO-PR 2018 
+Abstract: 
+We report a design method for flat-gain wide-band all-fiber laser using cascaded bidirectional pumping of 
+multi-segment thulium-doped fibers. Experimental demonstration of two-fiber setup achieved the widest 
+reported 3-dB bandwidth of 178nm centered at 1944nm. 
+ 
+4. 
+Lee, E., Luo, J., Sun, B., Ramalingam, V. L., Yu, X., Wang, Q., & Knight, J. C. (2018, May). 45W 2 µm 
+Nanosecond Pulse Delivery Using Antiresonant Hollow-Core Fiber. In CLEO: Science and Innovations (pp. 
+SF1K-1). Optical Society of America. 
+Abstract: 
+We demonstrated the highest reported transmission of 44.9W average power from a 1980nm 1.2ns source 
+using an antiresonant hollow-core delivery fiber with good output beam quality. 
+ 
+5. 
+Lee, E., Chung, Y. S., Yu, X., Wang, Q., Yu, F., & Knight, J. C. (2017, July). 2-micron Pulse compression 
+using gas-filled negative curvature hollow-core fiber. In Lasers and Electro-Optics Pacific Rim (CLEO-PR), 
+2017 Conference on (pp. 1-2). IEEE. 
+Abstract: 
+Differential-pressured argon-filled negative curvature hollow-core fiber (NC-HCF) with an anomalous 
+dispersion in the mid-infrared was studied for pulse compression. Preliminary simulation results show 
+compression of 2-micron, 1.8-ps, 50 µJ pulse to 110 fs by using a negative-pressure-gradient argon-filled 8.2 
+m-long NC-HCF at a maximum pressure of 2.65 bar. 
+ 
+
+-----
+Book chapters 
+1. Yu, X., Sun, B., Luo, J., & Lee, E. (2018). Optical Fibers for High-Power Lasers. Handbook of Optical Fibers, 
+1-18. 
+Abstract:  
+Lasers with high output powers are demanded for a wide variety of applications, ranging from material 
+processing, remote sensing, medical surgery, to fundamental science. Across all these application scenarios, 
+there are two main challenges: the scaling of output power and the quality of the laser beam. In the past 
+decade, there have been tremendous research efforts to tackle these two issues in both continuous wave 
+(CW) and pulsed lasers, to improve the power level, wavelength tunability, coherence, line width, etc. Among 
+them, fiber technology has enabled the flexible delivery of high-power laser beams with precision beam quality 
+(Jauregui et al., Nat Photonics 7:861–867, 2013). The technology development could be summarized in two 
+approaches: passive fiber technology and active fiber technology. Passive fibers offer the last step 
+manipulation of high-power laser beams from gas laser, semiconductor lasers, or other solid-state lasers. 
+Active fibers are the gain component in the fiber oscillator or amplifier to generate the optical emission. 
+Compared with traditionally step-index fibers, new fiber structure designs open new horizons in laser 
+technology. In this book chapter, the main content has been arranged according to different fiber structure 
+designs. Typical specialty fibers have been chosen, including double-cladding fibers, large mode area 
+photonic crystal fibers, large pitch fibers, leakage channel fibers, chirally coupled core fibers, pixelated Bragg 
+fibers, and hollow-core fibers. The design principle, manufacturability, and future outlook have been discussed 
+in each subsections. 
+ 
+
+-----

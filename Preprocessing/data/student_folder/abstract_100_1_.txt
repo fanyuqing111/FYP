@@ -1,0 +1,23 @@
+Stability Improvement and Control Optimization of Isolated 
+Two-Stage AC-DC-DC Converter Systems 
+ 
+Abstract 
+ 
+As the renewable integration trend continues, more and more power electronic 
+converters are required as the interfaces between different networks in the power 
+systems. However, the direct interaction of the converters introduces uncertainties to 
+the power systems, especially for the stability and reliability. 
+ 
+This thesis focuses on the instability issues of the dual active bridge (DAB) converter-
+based two-stage DC-DC-AC systems and addresses their concerns. Specifically, the 
+full-order impedance model of the DAB converter is presented for the first time to 
+facilitate the stability analysis. Based on the impedance model, the effects of different 
+DAB modulation schemes on the stability have been analyzed and the optimal 
+modulation method is investigated from the point of view of stability. The proposed 
+feedback controller optimization method is effective to improve the stability of the two-
+stage system. Moreover, a family of impedance shaping regulators is proposed to 
+suppress the dc-bus voltage ripples. 
+ 
+ 
+
+-----

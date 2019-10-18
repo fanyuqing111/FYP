@@ -1,0 +1,28 @@
+Abstract 
+Time series forecasting has obtained significant academic and industrial interests nowadays, 
+which finds its significance in various application fields, including power system related 
+applications (electric load, wind power and solar irradiance forecasting, etc.), as well as financial 
+market related applications (stock price, exchange rate and electricity price forecasting, etc.). 
+Many statistics based machine learning models have been proposed to obtain accurate results for 
+time series forecasting up to present. The methods can be divided into two categories: linear 
+models (such as auto-regressive moving average) and non-linear models (such as artificial neural 
+network and support vector machine). However, due to the highly nonlinear characteristics of 
+real world time series signals which caused by various influencing factors, it is very difficult to 
+ensure the performance of machine learning models. Deep learning and ensemble methods are 
+possible solutions to this problem.  
+ 
+This thesis mainly focuses on the state-of-the-art ensemble learning methods and deep learning 
+models for both power system and financial market related time series forecasting. The 
+development of time series forecasting is introduced, and a brief review of existing algorithms is 
+also given. Motivated by the attractive advantages of ensemble learning, two deep learning based 
+ensemble methods are presented: (i) ensemble method composed of deep belief networks and 
+support vector machines, (ii) empirical mode decomposition (EMD) based ensemble deep 
+learning model. The performance of the proposed methods is evaluated by real world time series 
+datasets. On the other hand, the ensemble methods based on fast learning models are also 
+investigated in this thesis, such as decision tree ensembles and random vector functional link 
+(RVFL) neural network based ensemble models. Specifically, a novel decomposition method 
+composed of discrete wavelet transform and EMD is combined with incremental RVFL for 
+electric load forecasting. Finally, the advantages and potential future developments of deep 
+learning and ensemble methods are discussed. 
+
+-----

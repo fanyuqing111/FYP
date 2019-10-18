@@ -1,0 +1,123 @@
+ 
+1 
+ 
+Google Scholar Citations 
+ 
+Citation indices       All        Since 2012 
+Citations               6050                  2217 
+h‐index                      39                      21 
+i10‐index                 109                      56 
+ 
+Practical optimization: algorithms and engineering applications 
+A Antoniou, WS Lu 
+Springer Science & Business Media 
+597 
+2007 
+Two‐dimensional digital filters 
+WS Lu, A Antoniou 
+CRC PressI Llc 
+434 
+1992 
+Impedance control with adaptation for robotic manipulations 
+WS Lu, QH Meng 
+IEEE Transactions on Robotics and Automation 7 (3), 408‐415 
+193 
+1991 
+A weighted least‐squares method for the design of stable 1‐D and 2‐D IIR digital filters 
+WS Lu, SC Pei, CC Tseng 
+IEEE Transactions on Signal Processing 46 (1), 1‐10 
+158* 
+1998 
+An improved weighted least‐squares design for variable fractional delay FIR filters 
+WS Lu, TB Deng 
+IEEE Transactions on Circuits and Systems II: Analog and Digital Signal ... 
+145 
+1999 
+Stability analysis for two‐dimensional systems via a Lyapunov approach 
+WS Lu, EB Lee 
+IEEE Transactions on Circuits and Systems 32 (1) 
+138 
+1985 
+Linear interpolation in pilot symbol assisted channel estimation for OFDM 
+X Dong, WS Lu, ACK Soong 
+IEEE transactions on wireless communications 6 (5) 
+119 
+2007 
+On a Lyapunov approach to stability analysis of 2‐D digital filters 
+WS Lu 
+IEEE Transactions on Circuits and Systems I: Fundamental Theory and ... 
+116 
+1994 
+A new peak‐to‐average power‐ratio reduction algorithm for OFDM systems via 
+constellation extension 
+YJ Kou, WS Lu, A Antoniou 
+IEEE Transactions on Wireless Communications 6 (5) 
+115 
+2007 
+A unified approach for the design of 2‐D digital filters via semidefinite programming 
+WS Lu 
+IEEE Transactions on Circuits and Systems I: Fundamental Theory and ... 
+112 
+2002 
+
+-----
+ 
+2 
+ 
+Efficient iterative design method for cosine‐modulated QMF banks 
+H Xu, WS Lu, A Antoniou 
+IEEE Transactions on Signal Processing 44 (7), 1657‐1668 
+111 
+1996 
+Optimal design of frequency‐response‐masking filters using semidefinite programming 
+WS Lu, T Hinamoto 
+IEEE Transactions on Circuits and Systems I: Fundamental Theory and ... 
+101 
+2003 
+Optimal design of IIR digital filters with robust stability using conic‐quadratic‐
+programming updates 
+WS Lu, T Hinamoto 
+IEEE Transactions on Signal Processing 51 (6), 1581‐1592 
+95 
+2003 
+Synthesis of 2‐D state‐space fixed‐point digital‐filter structures with minimum 
+roundoff noise 
+WS Lu, A Antoniou 
+IEEE transactions on circuits and systems 33 (10), 965‐973 
+89 
+1986 
+Measuring how far a controllable system is from an uncontrollable one 
+D Boley, WS Lu 
+IEEE Transactions on Automatic Control 31 (3), 249‐251 
+84 
+1986 
+Constrained minimum‐BER multiuser detection 
+X Wang, WS Lu, A Antomiou 
+IEEE Transactions on Signal Processing 48 (10), 2903‐2909 
+81 
+2000 
+A reduced‐order adaptive velocity observer for manipulator control 
+M Erlic, WS Lu 
+IEEE Transactions on Robotics and Automation 11 (2), 293‐303 
+78 
+1995 
+Joint precoding optimization for multiuser multi‐antenna relaying downlinks using 
+quadratic programming 
+W Xu, X Dong, WS Lu 
+IEEE Transactions on Communications 59 (5), 1228‐1235 
+76 
+2011 
+Design of two‐dimensional digital filters using singular‐value decomposition and 
+balanced approximation method 
+WS Lu, HP Wang, A Antoniou 
+IEEE Transactions on Signal Processing 39 (10), 2253‐2262 
+74 
+1991 
+Design of two‐dimensional digital filters by using the singular value decomposition 
+A Antoniou, WS Lu 
+IEEE transactions on circuits and systems 34 (10), 1191‐1198 
+73 
+1987 
+ 
+
+-----

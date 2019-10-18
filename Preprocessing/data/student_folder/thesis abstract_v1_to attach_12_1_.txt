@@ -1,0 +1,59 @@
+ 
+ 
+Abstract 
+As a major component of Internet of Things or Everything, pervasive wireless sensor networks 
+(WSNs) are now computing devices that seamlessly penetrate into all aspects of life such as 
+environmental monitoring, military, medical healthcare and so on. An important functionality of 
+WSNs is data gathering, in which sensor nodes collect environmental data and transmit them to 
+the sink node. Sensing devices increase with an exploding speed, creating an even larger amount 
+of data for collection, which poses a serious challenge to the energy-constrained sensor nodes. The 
+sensor nodes are battery-driven and resource-constrained. Moreover, WSNs are often deployed 
+massively in harsh environment, which makes it impractical to change the battery for sensor nodes. 
+Therefore, how to achieve energy efficiency and prolong the network lifetime becomes a vital 
+concern in WSNs. Meanwhile, in order to cater to the needs of different applications, WSNs have 
+to guarantee different requirements such as delay constraint, accuracy, communication efficiency, 
+security, etc. 
+In the past decade, data aggregation based algorithms for data gathering in WSNs became a hot 
+topic due to their great potential to reduce data transmissions and energy consumption in WSNs. 
+Broadly speaking, data aggregation algorithms can be categorized into two types, i.e. lossy data 
+aggregation and non-lossy data aggregation. Lossy data aggregation extracts only specific 
+statistical information of the data vector such as max/min, mean and median, the rest of 
+information is lost. Non-lossy data aggregation guarantees the recovery of the full data vector with 
+certain recovery accuracy. 
+Initially, this thesis proposes a lossy data aggregation algorithm for a single-hop sensor network. 
+In certain applications such as alarm systems, only the maximum value is required. Therefore, 
+lossy data aggregation can be used to reduce energy consumption as well as transmission delay. A 
+priority-aware hybrid scheduling scheme is proposed to achieve fast decentralized energy-efficient 
+max function computation in a single-hop network. In our proposed scheme, priority-aware 
+TDMA scheme is used to schedule the transmission. CDMA is introduced to recover information 
+whenever a collision occurs. The proposed scheme helps to reduce the number of transmissions 
+and delay for a single computation.  
+Secondly, this thesis focuses on non-lossy data aggregation algorithms based on compressive 
+sensing (CS). The application of CS technique into multi-hop wireless sensor networks is 
+investigated under various network situations such as static network and changing environment. 
+CS technique can guarantee the full recovery of sensor data while imposing simple computation 
+load on the sensor. This formulation leverages on the load balancing features of CS, and a novel 
+hybrid CS based data gathering algorithm with a dense measurement matrix for tree-based multi-
+hop data gathering network is developed. The proposed scheme significantly reduces total energy 
+consumption and data gathering latency and dramatically improves network lifetime compared 
+with benchmark algorithms.  
+
+-----
+ 
+ 
+Finally, in practical environment, the sensor network may experience changing environment where 
+deterministic routing path is vulnerable to attacks and is less energy-efficient. In this case, it would 
+be beneficial to allow a certain amount of exploration in the routing path. Taking the changing 
+environment into account, a cost-aware stochastic compressive data gathering algorithm for 
+wireless sensor network working in changing environment has been developed. The mathematical 
+Markov chain based model is used to analyze the stochastic compressive data gathering process. 
+A sparse random measurement matrix with optimized compression probability is constructed to 
+minimize expected total cost while guaranteeing the recovery accuracy. Extensive simulations on 
+both synthetic and real data show that the proposed algorithm requires less total expected cost to 
+achieve a certain level of accuracy compared with benchmark algorithm. Finally, the proposed 
+algorithm demonstrates prolonged network lifetime for a given recovery accuracy. 
+ 
+ 
+ 
+
+-----

@@ -1,0 +1,81 @@
+Abstract 
+III-Nitride materials have gathered enormous attention and undergone fast development, due 
+to superior properties such as wide band gap, high stability, high electron motilities, high break 
+down voltage and sensitivity to ultraviolet light. GaN ultraviolet (UV) detector can be used in fire 
+detecting, missile’s seeker, combustion process monitoring and other monitoring systems, which 
+require UV detection in harsh environments. Tunability of band gap and the possibility of 
+formation of heterostructures with group III-nitride materials allow the design of complex 
+structures to detect both UV and infra-red (IR) spectral regimes (multi band) on a single chip.  By 
+growing AlGaN/GaN quantum well layers, IR detector can also be obtained, which means IR and 
+UV detector can be achieved using same material. GaN based UV/IR detectors can be grown on 
+sapphire, Si or SiC substrate, but sapphire and SiC substrates are more expensive than Si. Moreover, 
+development of such a technology on Si allows lower cost and opens the prospect of integration 
+of III-nitride with Si technology. In this work, plasma assisted molecular beam epitaxy (PA-MBE) 
+is used to grow multi band detector heterostructures on Si substrate.   
+UV/IR dual band detectors grown on sapphire substrates have been reported. Demonstration of 
+multiband detectors without any optical filter has also been reported. However, growth of such 
+detectors on Si is challenging due to large difference of thermal and lattice mismatch between Si 
+(111) substrate and GaN, which leads to tensile strain and cracking. In this thesis, material 
+properties, parameters for growth optimization and device performance of GaN-based photo 
+detector structures grown on Si will be discussed. The effect of the AlN layer on the surface and 
+crystal quality of GaN is studied. GaN and AlGaN layers with different Si concentration have been 
+studied. Doping concentration is stable throughout the growth as observed in secondary ion mass 
+spectroscopy (SIMS) and the crystal quality does not degrade after doping. Crack free Si doped 
+
+-----
+GaN with RMS roughness less than 1 nm is successfully grown on Si (111) substrates up to 4 inch. 
+Si doped AlGaN with Al composition of 30% is also obtained on both Si (111) substrate and 
+MOCVD grown AlN/Si template. Highest Si doping of 3×1020 cm-3 is achieved with RMS 
+roughness less than 1 nm. The achievement of almost crack-free wafers with total epilayer 
+thickness up to 1.3 to 1.4 µm can be attributed to the lower thermal stress from low temperature 
+operation of PA-MBE growth process. Smooth and crack-free multilayer structures for UV and IR 
+photo detector application have been successfully grown on 4 inch Si substrate. 
+UV photo detectors are fabricated and characterized for electrical and optical properties. 
+During device fabrication, the etching recipe is modified to get uniform and smooth etching surface. 
+Device size may also affect the performance, and hence different mesas namely interdigitated and 
+square detectors are fabricated to understand the effects of device dimensions. Electrodes are 
+fabricated after dry etching by the evaporation of Ti/Al/Ti/Au in that order on both bottom and top 
+layers. The devices are annealed using rapid thermal processing (RTP) to achieve ohmic contacts. 
+UV photo current under different applied bias and different wavelengths of the incident light is 
+measured. UV photo responsivity is calculated from photo current measurements. It is found 
+interdigitated electrodes shows higher responsivity and highest responsivity of 5.7A/W is obtained. 
+IR photo detectors are also fabricated using similar process and low temperature IR photo 
+responsivity measurements is conducted. Obvious response in middle IR region (4.5 µm) is 
+observed at 50K. Room temperature of similar structure shows response in UV region and highest 
+UV responsivity of 10mA/W is achieved. 
+ 
+ 
+ 
+
+-----
+Publication List 
+Conference: 
+1. Yi Zheng, Manvi Agrawal, K. Radhakrishnan, N. Dharmarasu, G. S. Karthikeyan, A. G. Unil 
+Perera, Annalisa Bruno, Cesare Soci, “AlGaN-based UV-photodetector heterostructure on Si (111) 
+substrate grown by PA-MBE”, in 2017 International Workshop on UV Materials and Devices 
+(IWUMD), Nov. 2017. 
+2. Y. Zheng, M. Agrawal, N. Dharmarasu, and K. Radhakrishnan, “Growth of AlGaN/GaN multiple 
+quantum well structure on 4-inch Si by plasma assisted molecular beam epitaxy for infrared 
+photodetector”, in 2017 International Conference on Intersubband Transitions in Quantum Wells 
+(ITQW), Sep. 2017. 
+3. Yi ZHENG, K. RADHAKRISHNAN, Dharmarasu NETHAJI, Manvi AGRAWAL, “Si Doped 
+Al0.3Ga0.7N Grown on 4-inch Si (111) Substrate by Plasma Assisted Molecular Beam Epitaxy (PA-
+MBE)”, in 2017 International Conference on Materials for Advanced Technologies (ICMAT), Jun. 
+2017. 
+4. Yi ZHENG, Ravikiran LINGAPARTHI, K. RADHAKRISHNAN, Dharmarasu NETHAJI, Manvi 
+AGRAWAL, Unil PERERA, “Group III-nitride Heterojunction Based Multi-Band Detector on Si 
+(111) Substrate Grown by Plasma Assisted     Molecular Beam Epitaxy (PA-MBE)”, in 2016  
+International Conference on Electronic Materials (ICEM), Jul. 2016. 
+Journal papers: 
+1. M. Agrawal, L. Ravikiran, N. Dharmarasu, K. Radhakrishnan, G. S. Karthikeyan, and   Y. Zheng, 
+“Stress evolution of GaN/AlN heterostructure grown on 6H-SiC substrate by plasma assisted 
+molecular beam epitaxy”, AIP Advances 7, 015022 (2017). 
+Journal papers under preparation: 
+1. Ga/Si interfusion blocking during GaN growth on Si (111) substrate by PA-MBE 
+2. High level Si doping in GaN and Al0.3Ga0.7N grown by PA-MBE 
+3. Novel designed AlGaN/GaN based photo conductive UV detector grown on Si (111) substrate by 
+PA-MBE 
+4. AlGaN/GaN multiple quantum wells structure grown for mid-IR photo detector application. 
+ 
+
+-----

@@ -1,0 +1,1184 @@
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+1/27
+Home >
+Persons >
+Management >
+Andreas Herkersdorf
+Prof. Dr. sc.techn. Andreas Herkersdorf
+Ordinarius
+Technische Universität München 
+Department of Electrical and Computer Engineering
+Chair for Integrated Systems
+Arcisstr. 21 
+80290 München
+Germany
+Phone: +49.89.289.22515
+Fax: +49.89.289.28323
+Building: N1 (Theresienstr. 90) 
+Room: N2121
+Email: herkersdorf@tum.de
+CURRICULUM VITAE
+Andreas Herkersdorf is a Full Professor and head of the Chair for Integrated Systems at Technical University of
+Munich. He teaches graduate courses in digital integrated circuit design, the application of System on Chip
+technology in networking and communications, and Hardware/Software­Codesign.
+He joined the IBM Zurich Research Laboratory as a PhD student in 1988. In 1991, he became a Research Staff
+Member in the Communications Systems department of the IBM Zurich and in 2000 manager of the network
+processor hardware group.
+Andreas Herkersdorf was born in 1961 in Oberstdorf, Germany. He received the Dipl.­Ing. degree from Munich
+University of Technology in 1987 and the Dr. techn. degree from the ETH Zurich (Swiss Federal Institute of
+Technology), Switzerland, in 1991, both in electrical engineering.
+Chair for Integrated Systems
+TUM Department of Electrical and Computer Engineering
+Technical University of Munich
+[1]
+[2]
+[3]
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+2/27
+RESEARCH INTERESTS
+Platform­based multi­processor System on Chip (MPSoC) architectures
+Design and prototype development of innovative Hardware IP (Intellectual Property) building blocks
+High­level SoC design space exploration and Autonomic Computing
+AWARDS
+2001: IBM Outstanding Technical Achievement Award
+1998: IBM Master Inventor
+Vier IBM Innovation Achievement Awards im Zeitraum zwischen 1996 und 2003
+PUBLICATIONS
+Andreas Oeldemann, Thomas Wild, Andreas Herkersdorf
+Reducing Data Center Resource Over­Provisioning Through Dynamic Load Management for
+Virtualized Network Functions 
+International Conference on Architecture of Computing Systems,  
+Vienna, Austria,  
+April 3­6,  
+2017 
+Lin Li, Philipp Wagner, Albrecht Mayer, Thomas Wild, Andreas Herkersdorf 
+A Non­Intrusive Spinlock Profiler for Embedded Multicore Systems
+DATE,  
+Lausanne, Switzerland,  
+March 27­31,  
+2017 
+Philipp Wagner, Thomas Wild, Andreas Herkersdorf 
+DiaSys: Improving SoC insight through on­chip diagnosis
+ Journal of Systems Architecture, Elsevier,  
+2017 
+Santiago Pagani, Lars Bauer, Qingqing Chen, Elisabeth Glocker, Frank Hannig, Andreas Herkersdorf, Heba
+Khdr, Anuj Pathania, Ulf Schlichtmann, Doris Schmitt­Landsiedel, Mark Sagi, Éricles Sousa, Philipp Wagner,
+Volker Wenzel, Thomas Wild, Jörg Henkel 
+Dark silicon management: an integrated and coordinated cross­layer approach
+it ­ Information Technology,  
+De Gruyter,  
+2016 
+Shiva Shankar Subramanian, Pinxing Lin, Andreas Herkersdorf, Thomas Wild
+Hardware Acceleration of Signature Matching through Multi Layer Transition Bit Masking 
+ITNAC 2016, International Telecommunication Networks and Applications Conference,  
+Dunedin, New
+Zealand,  
+December 7­9,  
+2016 
+, pp. 226­233
+Jagath Weerasinghe, Francois Abel, Christoph Hagleitner, Andreas Herkersdorf 
+Disaggregated FPGAs: Network Performance Comparison against Bare­Metal Servers, Virtual
+Machines and Linux Containers
+8th IEEE International Conference on Cloud Computing Technology and Science,  
+IEEE,  
+Luxembourg,  
+2016 
+Philipp Wagner, Lin Li, Thomas Wild, Albrecht Mayer, Andreas Herkersdorf 
+What happens on an MPSoC stays on an MPSoC ­ unfortunately!
+2016 International Symposium on Integrated Circuits (ISIC),  
+Singapore,  
+December 12­14,  
+2016 
+Andre Richter, Christian Herber, Thomas Wild, Andreas Herkersdorf 
+Resolving Performance Interference in SR­IOV Setups with PCIe Quality­of­Service Extensions
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+3/27
+2016 Euromicro Conference on Digital System Design (DSD),  
+Limassol, Cyprus,  
+August 31 ­ September 2,  
+2016 
+Hou Zhao Qi Rex, Jong Ching Chuen, Andreas Herkersdorf
+ANN Predicted Apps­Usage Aware Linux Scheduler for Asymmetrical Multi Cluster SoC 
+Journal of Software,  
+2016 
+Ravi Kumar Pujari, Thomas Wild, Andreas Herkersdorf
+TCU: A Multi­Objective Hardware Thread Mapping Unit for HPC Clusters
+International Supercomputing Conference High Performance ­­ ISC 2016,  
+Frankfurt,  
+19 ­ 22 June,  
+2016 
+Zhaoqi Hou, Ching Chuen Jong, Andreas Herkersdorf
+Linux Apps­Usage­Driven Power Dissipation­Aware Scheduler 
+ISCAS ­ International Symposium on Circuits and Systems,  
+Montreal, Canada,  
+2016 
+Lin Li, Philipp Wagner, Ramesh Ramaswamy, Albrecht Mayer, Thomas Wild, Andreas Herkersdorf 
+A Rule­based Methodology for Hardware Configuration Validation in Embedded Systems 
+19th International Workshop on Software and Compilers for Embedded Systems (SCOPES 2016),  
+Sankt
+Goar, Germany,  
+May 23­25,  
+2016 
+Michael Vonbun, Thomas Wild, Andreas Herkersdorf 
+Estimation of End­to­End Packet Error Rates for NoC Multicasts
+Architecture of Computing Systems ­­ ARCS 2016, Springer International Publishing,  
+Nuremberg,  
+April 5­7,  
+2016 
+, pp. 402
+Philipp Wagner, Thomas Wild, Andreas Herkersdorf 
+DiaSys: On­Chip Trace Analysis for Multi­processor System­on­Chip 
+Architecture of Computing Systems ­­ ARCS 2016, Springer International Publishing,  
+Nuremberg, Germany,  
+April 4­7,  
+2016 
+Stefan Rösch, Holm Rauchfuss, Stefan Wallentowitz, Thomas Wild, Andreas Herkersdorf 
+MPSoC application resilience by hardware­assisted communication virtualization
+Microelectronics Reliability,  
+Elsevier,  
+2016 
+Ravi Kumar Pujari, Thomas Wild, Andreas Herkersdorf
+A Hardware­based Multi­objective Thread Mapper for Tiled Manycore Architectures 
+33rd IEEE International Conference on Computer Design (ICCD),  
+New York,  
+October 18­21,  
+2015 
+, pp. 459 ­
+462
+Jagath Weerasinghe, Francois Abel, Christoph Hagleitner, Andreas Herkersdorf 
+Enabling FPGAs in Hyperscale Data Centers
+IEEE International Conference on Cloud and Big Data Computing (CBDCom),  
+Beijing, China,  
+2015 
+Daniel Münch, Michael Paulitsch, Andreas Herkersdorf
+IOMPU: Spatial Separation for Hardware­Based I/O Virtualization for Mixed­Criticality Embedded Real­
+Time Systems Using Non­Transparent Bridges 
+International Conference on Embedded Software and Systems (ICESS2015),  
+New York, USA,  
+2015 
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+4/27
+Daniel Münch, Michael Paulitsch, Andreas Herkersdorf
+IOMPU: Spatial Separation for Hardware­Based I/O Virtualization for Mixed­Criticality Embedded Real­
+Time Systems Using Non­Transparent Bridges 
+International Conference on Embedded Software and Systems (ICESS2015),  
+New York, USA,  
+2015 
+Michael Vonbun, Stefan Wallentowitz, Andreas Oeldemann, Andreas Herkersdorf 
+An Analytic Approach on End­to­end Packet Error Rate Estimation for Network­on­Chip
+Euromicro Conference on Digital System Design (DSD),  
+Funchal,  
+August 26­28,  
+2015 
+, pp. 8
+Christian Herber, Ammar Saeed, Andreas Herkersdorf 
+Design and Evaluation of a Low­Latency AVB Ethernet Endpoint based on ARM SoC 
+ 
+The 12th IEEE International Conference on Embedded Software and Systems,  
+New York, USA,  
+August 24­26,
+ 
+2015 
+Andre Richter, Christian Herber, Thomas Wild, Andreas Herkersdorf 
+Denial­of­Service attacks on PCI passthrough devices: Demonstrating the impact on network­ and
+storage­I/O performance
+Journal of Systems Architecture,  
+2015 
+Daniel Münch, Michael Paulitsch, Andreas Herkersdorf
+Monitoring of I/O for Safety­Critical Systems Using PCI Express Advanced Error Reporting
+SIES'2015: 10th IEEE International Symposium on Industrial Embedded Systems,  
+Siegen, Germany,  
+2015 
+Lars Bauer, Jörg Henkel, Andreas Herkersdorf, Michael A. Kochte, Johannes M. Kühn, Wolfgang Rosenstiel,
+Thomas Schweitzer, Stefan Wallentowitz, Volker Wenzel, Thomas Wild, Hans­Joachim Wunderlich, Hongyan
+Zhang
+Adaptive multi­layer techniques for increased system dependability
+it ­ Information Technology,  
+De Gruyter Oldenbourg,  
+2015 
+Gregor Walla, Dirk Gabriel, Alexander Reichert, Hans­Ulrich Michel, Walter Stechele, Andreas Herkersdorf 
+A Modular Design and Optimization Framework for Energy Efficient E/E Architectures
+4th International Conference on Energy Efficient Vehicles (ICEEV 2015),  
+Dresden,  
+June 16­17,  
+2015 
+Christian Herber, Dominik Reinhardt, Andre Richter, Andreas Herkersdorf 
+HW/SW Trade­Offs in I/O Virtualization for Controller Area Network 
+52nd ACM/EDAC/IEEE Design Automation Conference (DAC),  
+San Francisco, USA,  
+June 7­11,  
+2015 
+Andre Richter, Christian Herber, Stefan Wallentowitz, Thomas Wild, Andreas Herkersdorf 
+A Hardware/Software Approach for Mitigating Performance Interference Effects in Virtualized
+Environments Using SR­IOV
+Cloud Computing (CLOUD), 2015 IEEE 8th International Conference on,  
+New York, USA,  
+June 27 ­ July 2,  
+2015 
+, pp. 950­957
+Philipp Wagner, Lin Li, Thomas Wild, Albrecht Mayer, Andreas Herkersdorf 
+Knowledge­Based On­Chip Diagnosis for Multi­Core Systems­on­Chip
+edaWorkshop 15,  
+Dresden, Germany,  
+May 19­21,  
+2015 
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+5/27
+Preethi Parayil Mana Damodaran, Aurang Zaib, Thomas Wild, Stefan Wallentowitz, Andreas Herkersdorf 
+Sharer Status­based Caching in tiled Multiprocessor Systems­on­Chip
+HPC 2015,  
+Alexandria, VA, USA,  
+April 12­15,  
+2015 
+Andreas Weichslgartner, Jan Heisswolf, Aurang Zaib, Thomas Wild, Andreas Herkersdorf, Jürgen Becker and
+Jürgen Teich 
+Position Paper: Towards Hardware­Assisted Decentralized Mapping of Applications for
+Heterogeneous NoC Architectures
+Second International Workshop on Multi­objective Many­core design (MOMAC),  
+Porto Portugal,  
+March 24­27,
+ 
+2015 
+Daniel Münch, Michael Paulitsch, Oliver Hanka, Andreas Herkersdorf
+MPIOV: Scaling Hardware­Based I/O Virtualization for Mixed­Criticality Embedded Real­Time Systems
+Using Non Transparent Bridges to (Multi­Core) Multi­Processor Systems 
+Design, Automation and Test in Europe Conference & Exhibition (DATE),  
+Dresden, Germany,  
+2015 
+Daniel Münch, Michael Paulitsch, Oliver Hanka, Andreas Herkersdorf
+SgInt: Safeguarding Interrupts for Hardware­Based I/O Virtualization for Mixed­Criticality Embedded
+Real­Time Systems Using Non Transparent Bridges 
+International Conference on Architecture of Computing Systems (ARCS),  
+Porto, Portugal,  
+2015 
+Aurang Zaib, Jan Heisswolf, Andreas Weichslgartner, Thomas Wild, Jürgen Teich, Jürgen Becker, Andreas
+Herkersdorf
+Network Interface with Task Spawning Support for NoC­Based DSM Architectures 
+Architecture of Computing Systems­­ARCS 2015,  
+Porto Portugal,  
+March 24­27,  
+2015 
+Christian Herber, Andre Richter, Thomas Wild, Andreas Herkersdorf 
+Real­Time Capable CAN to AVB Ethernet Gateway Using Frame Aggregation and Scheduling 
+Design, Automation & Test in Europe Conference & Exhibition (DATE),  
+Grenoble, France,  
+March 9­13,  
+2015 
+,
+pp. 61­66
+Hou Zhao Qi, Jong Ching Chuen Andreas Herkersdorf
+Apps­Usage Driven Energy Management for Multicore Mobile Computing Systems
+International Symposium on Integrated Circuits (ISIC),  
+Singapore,  
+2014 
+Stefan Wallentowitz, Volker Wenzel, Stefan Rösch, Thomas Wild, Andreas Herkersdorf, Jörg Henkel 
+Dependable Task and Communication Migration in Tiled Manycore System­on­Chip 
+Forum on Specification & Design Languages (FDL),  
+Munich, Germany,  
+October 14­16,  
+2014 
+Daniel Münch, Michael Paulitsch, Michael Honold, Wolfgang Schlecker, Andreas Herkersdorf 
+Iterative FPGA Implementation Easing Safety Certification for Mixed­Criticality Embedded Real­Time
+Systems
+Euromicro Conference on Digital Systems Design (DSD),  
+Verona, Italy,  
+2014 
+Christian Herber, Andre Richter, Thomas Wild, Andreas Herkersdorf 
+Deadline­Aware Interrupt Coalescing in Controller Area Network (CAN) 
+The 11th IEEE International Conference on Embedded Software and Systems,  
+Paris, France,  
+August 20­22,  
+2014 
+, pp. 701­708
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+6/27
+Gregor Walla, Andre Enger, Andreas Barthels, Hans­Ulrich Michel, Andreas Herkersdorf 
+An Automotive Specific MILP Model Targeting Power­Aware Function Partitioning 
+International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation (SAMOS
+XIV),  
+2014 
+Gregor Walla, Andreas Barthels, Dirk Gabriel, Florian Ruf, Michael Winter, Hans­Ulrich Michel, Andreas
+Herkersdorf
+Hardware Test Bench for the Evaluation of E/E­Architectures with Respect to Partitioning of Vehicle
+Functions and Energy Efficiency
+3rd International Conference on Energy Efficient Vehicles (ICEEV),  
+Dresden, Germany,  
+2014 
+Jan Heisswolf, Aurang Zaib, Andreas Zwinkau, Sebastian Kobbe, Andreas Weichslgartner, Jürgen Teich, Jörg
+Henkel, Gregor Snelting, Andreas Herkersdorf, Jürgen Becker
+CAP: Communication Aware Programming  
+Design Automation Conference (DAC), 51th ACM / EDAC / IEEE,  
+San Francisco, CA, USA,  
+June 1­5,  
+2014 
+Gregor Walla, Dirk Gabriel, Andreas Barthels, Florian Ruf, Michael Winter, Hans­Ulrich Michel, Andreas
+Herkersdorf
+Automotive E/E Architecture Evaluation by High­level Simulation and Hardware Prototyping
+DAC Workshop on System to Silicon Performance Modeling and Analysis,  
+San Francisco, USA,  
+2014 
+Andreas Herkersdorf, Hananeh Aliee, Michael Engel, Michael Glaß, Christina Gimmler­Dumont, Jörg Henkel,
+Veit Kleeberger, Michael Kochte, Johannes Maximilian Kühn, Daniel Müller­Gritschneder, Sani Nassif, Holm
+Rauchfuss, Wolfgang Rosenstiel, Ulf Schlichtmann, Muhammad Shafique, Mehdi Baradaran Tahoori, Jürgen
+Teich, Norbert Wehn, Christian Weis, Hans­Joachim Wunderlich 
+Resilience Articulation Point (RAP): Cross­layer ependability modeling for nanometer system­on­chip
+resilience
+Microelectronics Reliability,  
+2014 
+Aurang Zaib, Prashanth Raju, Thomas Wild, Andreas Herkersdorf
+A Layered Modeling and Simulation Approach to investigate Resource­aware Computing in MPSoCs
+Resource awareness and adaptivity in multi­core computing, RACING, First Workshop,  
+Paderborn, Germany,  
+May 29­30,  
+2014 
+Stefan Wallentowitz, Michael Tempelmeier, Thomas Wild, Andreas Herkersdorf 
+Network­on­Chip Protection Switching Techniques for Dependable Task Migration on an Open
+Source MPSoC Platform
+edaWorkshop,  
+Hannover, Germany,  
+May 13­14,  
+2014 
+Christian Herber, Andre Richter, Thomas Wild, Andreas Herkersdorf 
+A Network Virtualization Approach for Performance Isolation in Controller Area Network (CAN) 
+The 20th IEEE Real­Time and Embedded Technology and Applications Symposium (RTAS),  
+Berlin, Germany,  
+April 15­17,  
+2014 
+, pp. 215­224
+Preethi Parayil Mana Damodaran, Stefan Wallentowitz, Andreas Herkersdorf 
+Distributed Cooperative Shared Last­Level Caching in Tiled Multiprocessor System on Chip 
+DATE,  
+Dresden, Germany,  
+2014 
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+7/27
+Oliver Sander, Timo Sandmann, Viet Vu Duy, Steffen Bähr, Falco Bapp, Jürgen Becker, Hans­Ulrich Michel,
+Dirk Kaule, Daniel Adam, Enno Lübbers, Jürgen Hairbucher, Andre Richter, Christian Herber, Andreas
+Herkersdorf
+Hardware Virtualization Support for Shared Resources in Mixed­Criticality Multicore Systems 
+Design, Automation & Test in Europe Conference & Exhibition (DATE),  
+Dresden, Germany,  
+2014 
+Felix Miller, Vladimir Todorov, Thomas Wild, Daniel Müller­Gritschneder, Andreas Herkersdorf, Ulf
+Schlichtmann
+A TSV­Property­aware Synthesis Method for Application­Specific 3D­NoCs Design 
+Design Automation and Test in Europe (DATE), Friday Workshop on 3D Integration,  
+Dresden, Germany,  
+March 28,  
+2014 
+Andy Heinig, Manfred Dietrich, Andreas Herkersdorf, Felix Miller, Thomas Wild, Kai Hahn, Armin Grünewald,
+Rainer Brück, Steffen Krohnert, Jochen Reisinger 
+System Integration ­ The Bridge between More than Moore and More Moore Design
+Design Automation and Test in Europe (DATE), Friday Workshop on 3D Integration,  
+Dresden, Germany,  
+March 28,  
+2014 
+Daniel Münch, Michael Paulitsch, Andreas Herkersdorf
+Temporal Separation for Hardware­Based I/O Virtualization for Mixed­Criticality Embedded Real­Time
+Systems Using PCIe SR­IOV
+10th Workshop on Dependability and Fault Tolerance (VERFE), in conjunction with International Conference
+on Architecture of Computing Systems (ARCS),  
+Lübeck, Germany,  
+2014 
+Jan Heisswolf, Aurang Zaib, Andreas Weichslgartner, Martin Karle, Maximilian Singh, Thomas Wild, Jürgen
+Teich, Andreas Herkersdorf, Jürgen Becker 
+The Invasive Network on Chip ­ A Multi­Objective Many­Core Communication Infrastructure
+Proceedings of the first International Workshop on Multi­Objective Many­Core Design (MOMAC) in
+conjunction with International Conference on Architecture of Computing Systems (ARCS),  
+Lübeck, Germany,  
+February 25­28,  
+2014 
+Andre Richter, Christian Herber, Holm Rauchfuss, Thomas Wild, Andreas Herkersdorf 
+Performance Isolation Exposure in Virtualized Platforms with PCI Passthrough I/O Sharing 
+ARCS ­ Architecture of Computing Systems,  
+Lübeck, Germany,  
+February 25­28,  
+2014 
+, pp. 171­182
+Daniel Münch, Ole Isfort, Kevin Müller, Michael Paulitsch, Andreas Herkersdorf 
+Hardware­Based I/O Virtualization for Mixed Criticality Real­Time Systems Using PCIe SR­IOV 
+The 10th IEEE International Conference on Embedded Software and Systems (ICESS),  
+Sydney, Australia,  
+2013 
+Felix Miller, Thomas Wild, Andreas Herkersdorf 
+Virtualized and Fault­Tolerant Inter­Layer­Links for 3D­ICs 
+Microprocessors and Microsystems, Elsevier B.V.,  
+2013 
+Andreas Herkersdorf, Johny Paul, Ravi Kumar Pujari, Walter Stechele, Stefan Wallentowitz, Thomas Wild,
+Aurang Zaib
+Potentials and Challenges for Multi­Core Processors in Robotic Applications
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+8/27
+Workshop "Roboterkontrollarchitekturen" auf der Informatik 2013, 43. Jahrestagung der Gesellschaft für
+Informatik, GI­Edition "Lecture Notes in Informatics" (LNI),  
+Koblenz, Germany,  
+September 16­20,  
+2013 
+Michael Vonbun, Stefan Wallentowitz, Michael Feilen, Walter Stechele, Andreas Herkersdorf 
+Evaluation of Hop Count Advantages of Network­Coded 2D­Mesh NoCs
+Workshop on Power and Timing Modeling, Optimization and Simulation (PATMOS),  
+2013 
+Aurang Zaib, Jan Heisswolf, Andreas Weichslgartner, Thomas Wild, Jürgen Teich, Jürgen Becker, Andreas
+Herkersdorf
+AUTO­GS: Self­optimization of NoC Traffic Through Hardware Managed Virtual Connections 
+16th EUROMICRO Digital System Design (DSD) Conference,  
+Santander, Spain,  
+September 4­6,  
+2013 
+Felix Miller, Thomas Wild, Andreas Herkersdorf 
+Networks­On­Chips für 3D­ICs
+7. ITG/GI/GMM­Fachtagung,  
+Dresden, Germany,  
+September 24­26,  
+2013 
+Christian Herber, Andre Richter, Holm Rauchfuss, Andreas Herkersdorf 
+Spatial and Temporal Isolation of Virtual CAN Controllers 
+Workshop on Virtualization for Real­Time Embedded Systems (VtRES),  
+Taipei, Taiwan,  
+2013 
+Veit Kleeberger, Christina Gimmler­Dumont, Christian Weis, Andreas Herkersdorf, Daniel Mueller­
+Gritschneder, Sani Nassif, Ulf Schlichtmann, Norbert Wehn 
+A Cross­Layer Technology­Based Study of How Memory Errors Impact System Resilience 
+IEEE Micro,  
+2013 
+J. Heisswolf, A. Zaib, A. Weichslgartner, R. König, T. Wild, A. Herkersdorf, J. Teich and J. Becker 
+Virtual Networks ­ Distributed Communication Resource Management 
+Transactions on Reconfigurable Technology and Systems (TRETS),  
+ACM,  
+2013 
+Gregor Walla, Zaur Molotnikov, Andreas Barthels, Hans­Ulrich Michel, Walter Stechele, Andreas Herkersdorf 
+A Design Space Exploration Framework for Automotive Embedded Systems and their Power
+Management
+27th European Conference on Modelling and Simulation (ECMS),  
+Aalesund, Norway,  
+2013 
+Jan Heisswolf, Andreas Weichslgartner, Aurang Zaib, Ralf König, Thomas Wild, Andreas Herkersdorf, Jürgen
+Teich, Jürgen Becker 
+Hardware Supported Adaptive Data Collection for Networks on Chip
+IPDPS PhD Forum ­ 27th IEEE International Symposium on Parallel & Distributed Processing,  
+Boston,
+Massachusetts USA,  
+May 20­24,  
+2013 
+Stefan Wallentowitz, Philipp Wagner, Michael Tempelmeier, Thomas Wild, Andreas Herkersdorf 
+Open Tiled Manycore System­on­Chip 
+ 
+2013 
+Andreas Herkersdorf, Michael Engel, Michael Glaß, Jörg Henkel, Veit Kleeberger, Michael Kochte, Johannes
+Maximilian Kühn, Sani Nassif, Holm Rauchfuss, Wolfgang Rosenstiel, Ulf Schlichtmann, Muhammad Shafique,
+Mehdi Baradaran Tahoori, Jürgen Teich, Norbert Wehn, Christian Weis, Hans­Joachim Wunderlich 
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+9/27
+Cross­ Layer Dependability Modeling and Abstraction in Systems on Chip
+Workshop on Silicon Errors in Logic – System Effects (SELSE),  
+Stanford, USA,  
+2013 
+Stefan Wallentowitz, Thomas Wild, Andreas Herkersdorf 
+HW­OSQM: Reducing the Impact of Event Signaling by Hardware­based Operating System Queue
+Manipulation
+International Conference on Architecture of Computing Systems (ARCS), Springer,  
+Prague, Czech Republic,  
+February 19­22,  
+2013 
+Christian Herber, Andre Richter, Holm Rauchfuss, Andreas Herkersdorf 
+Self­Virtualized CAN Controller for Multi­Core Processors in Real­Time Applications 
+International Conference on Architecture of Computing Systems (ARCS), Springer,  
+Prague, Czech Republic,  
+2013 
+, pp. 244­255
+Andreas Herkersdorf, Michael Paulitsch
+Multicore Enablement for Embedded and Cyber Physical Systems
+Report from Dagstuhl Seminar 13052, Dagstuhl Reports,  
+Dagstuhl, Germany,  
+January 27 ­ February 1,  
+2013 
+Andreas Herkersdorf, Hans­Ulrich Michel, Holm Rauchfuss, Thomas Wild
+Multicore Enablement for Automotive Cyber Physical Systems
+Special issue of journal "it ­ Information Technology",  
+2012 
+Roman Plyaskin, Thomas Wild, Andreas Herkersdorf
+System­level Software Performance Simulation Considering Out­of­order Processor Execution
+International Symposium on System­on­Chip,  
+Tampere, Finland,  
+October 11­12,  
+2012 
+Gregor Walla, Dirk Gabriel, Andreas Barthels, Florian Ruf, Hans­Ulrich Michel, Andreas Herkersdorf 
+ITE­Sim: A Simulator and Power Evaluation Framework for Electric/Electronic Architectures
+The 8th IEEE Vehicle Power and Propulsion Conference, IEEE VPPC,  
+Seoul, Korea,  
+2012 
+Matthias Ihmig, Michael Feilen, Andreas Herkersdorf
+Analytical Design Space Exploration based on statistically Refined Runtime and Logic Estimation for
+Software Defined Radios
+Euromicro Conferences SEAA & DSD,  
+Cesme, Izmir, Turkey,,  
+2012 
+Michael Gerndt, Frank Hannig, Andreas Herkersdorf, Andreas Hollmann, Marcel Meyer, Sascha Roloff, Josef
+Weidendorfer, Thomas Wild, Aurang Zaib 
+An Integrated Simulation Framework for Invasive Computing
+Forum on specification and Design Languages (FDL),  
+Vienna, Austria,  
+September 18­20,  
+2012 
+Felix Miller, Thomas Wild, Andreas Herkersdorf 
+TSV­Virtualization for Multi­Protocol­Interconnect in 3D­ICs 
+15th EUROMICRO Conference on Digital System Design (DSD),  
+Cesme, Izmir, Turkey ,  
+September 5­8,  
+2012 
+Stefan Wallentowitz, Andreas Lankes, Aurang Zaib, Thomas Wild, Andreas Herkersdorf 
+A Framework for Open Tiled Manycore System­on­Chip 
+22nd International Conference on Field Programmable Logic and Applications (FPL),  
+Oslo, Norway,  
+August
+29­31,  
+2012 
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+10/27
+Gregor Walla, Andreas Barthels, Florian Ruf, Robert Dörfel, Hans­Ulrich Michel, Joachim Fröschl, Ottmar
+Sirch, Uwe Baumgarten, Hans­Georg Herzog, Walter Stechele, Andreas Herkersdorf 
+Aspects of Function Partitioning in Respect to Power Management
+2nd International Energy Efficient Vehicles Conference (EEVC),  
+Dresden, Germany,  
+2012 
+Andreas Lankes, Thomas Wild, Stefan Wallentowitz, Andreas Herkersdorf 
+Benefits of Selective Packet Discard in Networks­on­Chip
+Architecture and Code Optimization (TACO),  
+2012 
+Jan Heisswolf, Aurang Zaib, Andreas Weichslgartner, Ralf Koenig, Thomas Wild, Jürgen Teich, Andreas
+Herkersdorf, Jürgen Becker
+Hardware­assisted Decentralized Resource Management for Networks on Chip with QoS
+IEEE International Symposium on Parallel and Distributed Processing Workshops and PhD Forum (IPDPSW), 
+Shanghai, China,  
+May 21­25,  
+2012 
+Gregor Walla, Andreas Barthels, Florian Ruf, Robert Dörfel, Hans­Ulrich Michel, Joachim Fröschl, Ottmar
+Sirch, Uwe Baumgarten, Hans­Georg Herzog, Andreas Herkersdorf
+Framework and Model for the Evaluation of Energy Efficiency of Partitioning Alternatives,
+Elektrik/Elektronik in Hybrid­ und Elektrofahrzeugen und elektrisches Energiemanagement
+Haus der Technik,  
+Miesbach, Germany,  
+2012 
+Abdelmajid Bouajila, Abdallah Lakhtel, Johannes Zeppenfeld, Walter Stechele, Andreas Herkersdorf 
+A low­overhead Monitoring Ring Interconnect for MPSoC Parameter Optimization
+15th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS), IEEE,  
+Tallinn,
+Estonia,  
+2012 
+Rainer Leupers, Frank Schirrmeister, Grant Martin, Tim Kogel, Roman Plyaskin, Andreas Herkersdorf, Martin
+Vaupel 
+Virtual Platforms: Breaking New Grounds 
+Design, Automation and Test in Europe Conference (DATE),  
+Dresden, Germany,  
+2012 
+Carina Schmidt­Knorreck, Matthias Ihmig, Raymond Knopp, Andreas Herkersdorf
+Multi­Standard Processing using DAB and 802.11p on Software Defined Radio Platforms 
+7th Karlsruhe Workshop on Software Radios (WSR),  
+Karlsruhe, Germany,  
+2012 
+Matthias Ihmig, Michael Feilen, Andreas Herkersdorf
+On the Accuracy of sum­based Logic and Power Estimates in hardware­accelerated SDR systems
+7th Karlsruhe Workshop on Software Radios (WSR),  
+Karlsruhe, Germany,  
+2012 
+Holm Rauchfuss, Thomas Wild, Andreas Herkersdorf
+Enhanced Reliability in Tiled Manycore Architectures through Transparent Task Relocation 
+7th Workshop Dependability and Fault Tolerance (VERFE), presented at ARCS,  
+Munich, Germany,  
+February
+28 ­ March 2,  
+2012 
+Sebastian Drössler, Michael Eichhorn, Stefan Holzknecht, Bernd Müller­Rathgeber, Holm Rauchfuss, Michael
+Zwick, Erwin Biebl, Klaus Diepold, Jörg Eberspächer, Andreas Herkersdorf, Walter Stechele, Eckehard
+Steinbach, Raymond Freymann, Karl­Ernst Steinberg, Hans­Ulrich Michel
+A Real­Time Capable Virtualized Information and Communication Technology Infrastructure for
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+11/27
+Automotive Systems
+Advances in Real­Time Systems,  
+Springer ,  
+2012 
+Andreas Bernauer, Johannes Zeppenfeld, Oliver Bringmann, Andreas Herkersdorf, Wolfgang Rosenstiel 
+Combining Software and Hardware LCS for Lightweight On­chip Learning
+Autonomic Systems, 1, Volume 1, Organic Computing ­ A Paradigm Shift for Complex Systems, Part 3,
+Springer Verlag,  
+2012 
+Abdelmajid Bouajila, Johannes Zeppenfeld, Walter Stechele, Andreas Bernauer, Oliver Bringmann, Wolfgang
+Rosenstiel, Andreas Herkersdorf
+Autonomic System on Chip Platform
+Autonomic Systems, 1, Volume 1, Organic Computing ­ A Paradigm Shift for Complex Systems, Part 4,
+Springer Verlag,  
+2012 
+Johannes Zeppenfeld, Abdelmajid Bouajila, Walter Stechele, Andreas Bernauer, Oliver Bringmann, Wolfgang
+Rosenstiel, Andreas Herkersdorf
+Applying ASoC to Multi­core Applications for Workload Management 
+Autonomic Systems, 1, Volume 1, Organic Computing ­ A Paradigm Shift for Complex Systems, Part 5,
+Springer Verlag,  
+2012 
+Jörg Henkel, Andreas Herkersdorf, Lars Bauer, Thomas Wild, Michael Hübner, Ravi Kumar Pujari, Artjom
+Grudnitsky, Jan Heisswolf, Aurang Zaib, Benjamin Vogel, Vahid Lari, Sebastian Kobbe 
+Invasive Manycore Architectures
+Proceedings of the 17th Asia and South Pacific Design Automation Conference (ASP­DAC),  
+Sydney, Australia,
+ 
+January 30 ­ February 2,  
+2012 
+Ravi Kumar Pujari, Thomas Wild, Andreas Herkersdorf, Benjamin Vogel, Jörg Henkel 
+Hardware Assisted Thread Assignment for RISC based MPSoCs in Invasive Computing
+International Symposium on Integrated Circuits (ISIC),  
+Singapore,  
+December 12­14,  
+2011 
+Roman Plyaskin, Andreas Herkersdorf
+Context­aware compiled simulation of out­of­order processor behavior based on atomic traces
+19th IFIP/IEEE International Conference on Very Large Scale Integration (VLSI­SoC),  
+Hong Kong,  
+2011 
+Jörg Henkel, Lars Bauer, Jürgen Becker, Oliver Bringmann, Uwe Brinkschulte, Samarjit Chakraborty, Michael
+Engel, Rolf Ernst, Hermann Härtig, Lars Hedrich, Andreas Herkersdorf, Rüdiger Kapitza, Daniel Lohmann,
+Peter Marwedel, Marco Platzner, Wolfgang Rosenstiel, Ulf Schlichtmann, Olaf Spinczyk, Mehdi Baradaran
+Tahoori, Jürgen Teich, Norbert Wehn, Hans­Joachim Wunderlich 
+Design and Architectures for Dependable Embedded Systems
+CODES + ISSS,  
+Taipei, Taiwan,  
+2011 
+Robert Hartl, Andreas Rohatschek, Walter Stechele, Andreas Herkersdorf 
+Improved Backwards Analysis for Architectural Vulnerability Factor Estimation 
+Semiconductor Conference Dresden (SCD),  
+Dresden, Germany,  
+2011 
+Thomas Ebi, Holm Rauchfuss, Jörg Henkel, Andreas Herkersdorf
+Agent­based Thermal Management using Real­Time I/O Communication Relocation for 3D Many­
+Cores
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+12/27
+International Workshop on Power and Timing Modeling, Optimization and Simulation (PATMOS),  
+Madrid,
+Spain,  
+2011 
+Stefan Wallentowitz, Marcel Meyer, Thomas Wild, Andreas Herkersdorf 
+Accelerating Collective Communication in Message Passing on Manycore System­on­Chip
+International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS
+XI),  
+Samos, Greece,  
+July 18­21,  
+2011 
+Johannes Zeppenfeld, Andreas Herkersdorf
+Applying Autonomic Principles for Workload Management in Multi­Core Systems on Chip 
+International Conference on Autonomic Computing (ICAC),  
+Karlsruhe, Germany,  
+2011 
+Abdelmajid Bouajila, Johannes Zeppenfeld, Walter Stechele, Andreas Herkersdorf 
+An architecture and an FPGA prototype of a Reliable Processor Pipeline towards multiple soft­ and
+timing errors
+14th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems,  
+Cottbus, Germany ,  
+2011 
+Zhonglei Wang, Kun Lu, Andreas Herkersdorf 
+An Approach to Improve Accuracy of Source­Level TLMs of Embedded Software
+Design, Automation & Test in Europe (DATE),  
+Grenoble, France,  
+2011 
+Andreas Herkersdorf, Andreas Lankes, Michael Meitinger, Rainer Ohlendorf, Stefan Wallentowitz, Thomas
+Wild, Johannes Zeppenfeld
+Hardware Support to Exploit Parallelism in Homogeneous and Heterogeneous Multi­Core Systems on
+Chip
+Springer Verlag,  
+2010 
+Kimon Karras, Thomas Wild, Andreas Herkersdorf
+A Folded Pipeline Network Processor Architecture for 100 Gbit/s Networks
+ACM/IEEE Symposium on Architectures for Networking and Communications Systems (ANCS),  
+La Jolla, CA,
+USA,  
+October 25­26,  
+2010 
+Andreas Bernauer, Johannes Zeppenfeld, Oliver Bringmann, Andreas Herkersdorf, Wolfgang Rosenstiel 
+Combining software and hardware LCS for lightweight on­chip learning
+3rd IFIP Conference on Biologically­Inspired Collaborative Computing,  
+Brisbane, Australia,  
+2010 
+Roman Plyaskin, Alejandro Masrur, Martin Geier, Samarjit Chakraborty, Andreas Herkersdorf 
+High­level timing analysis of concurrent applications on MPSoC platforms using memory­aware
+trace­driven simulations
+18th IEEE/IFIP International Conference on VLSI and System­on­Chip (VLSI­SoC),  
+Madrid, Spain,  
+2010 
+Robert Hartl, Andreas Rohatschek, Walter Stechele, Andreas Herkersdorf 
+Architectural Vulnerability Factor Estimation with Backwards Analysis 
+13th Euromicro Conference on Digital System Design (DSD),  
+Lille, France,  
+2010 
+Zhonglei Wang, Andreas Herkersdorf 
+Software performance simulation strategies for high­level embedded system design
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+13/27
+International Journal of Performance Evaluation,  
+2010 
+Matthias Ihmig, Nicolaus Alt, Andreas Herkersdorf
+Implementation and Fine­grain partitioning of a DAB SDR receiver on an FPGA­DSP platform
+6th Karlsruhe Workshop on Software Radios (WSR),  
+Karlsruhe, Germany,  
+2010 
+Johannes Zeppenfeld, Abdelmajid Bouajila, Andreas Herkersdorf, Walter Stechele 
+Towards Scalability and Reliability of Autonomic Systems on Chip 
+Workshop on Self­Organizing Real­Time Systems,  
+Carmona, Spain,  
+2010 
+Andreas Lankes, Thomas Wild, Sören Sonntag, Helmut Reinig, Andreas Herkersdorf
+Comparison of Deadlock Recovery and Avoidance Mechanisms to approach Message dependent
+Deadlocks in on­chip Networks
+The 4th ACM/IEEE International Symposium on Networks­on­Chip,  
+Grenoble, France,  
+May 3­6,  
+2010 
+Christian Köhler, Albrecht Mayer, Andreas Herkersdorf 
+Chip Hardware­in­the­Loop Simulation Framework
+Simulation und Test für Automobilelektronik III ­ Vom Konzept bis zur Serie,  
+Expert Verlag,  
+2010 
+, pp. 439­448
+Matthias May, Norbert Wehn, Abdelmajid Bouajila, Johannes Zeppenfeld, Walter Stechele, Andreas
+Herkersdorf, Daniel Ziener, Jürgen Teich 
+A Rapid Prototyping System for Error­Resilient Multi­Processor Systems­on­Chip
+DATE Conference,  
+2010 
+Holm Rauchfuss, Thomas Wild, Andreas Herkersdorf
+A Network Interface Card Architecture for I/O Virtualization in Embedded Systems 
+Second Workshop on I/O Virtualization (WIOV),  
+Pittsburgh, PA, USA,  
+March 13,  
+2010 
+Johannes Zeppenfeld, Andreas Herkersdorf
+Autonomic Workload Management for Multi­Core Processor Systems 
+International Conference on Architecture of Computing Systems (ARCS),  
+Hannover, Germany,  
+2010 
+Roman Plyaskin, Andreas Herkersdorf
+A Method for Accurate High­Level Performance Evaluation of MPSoC Architectures using Fine­
+Grained Generated Traces 
+International Conference on Architecture of Computing Systems (ARCS),  
+Hannover, Germany,  
+2010 
+Rainer Ohlendorf, Michael Meitinger, Thomas Wild, Andreas Herkersdorf 
+An Application­aware Load Balancing Strategy for Network Processors
+International Conference on High­Performance Embedded Architectures and Compilers (HiPEAC),  
+Pisa, Italy,  
+January 25­27,  
+2010 
+Rainer Ohlendorf, Michael Meitinger, Thomas Wild, Andreas Herkersdorf 
+FlexPath NP­ Flexible, Dynamically Reconfigurable Processing Paths in Network Processors
+Dynamically Reconfigurable Systems, Architectures, Design, Methods and Applications, Springer,  
+2009 
+Andreas Lankes, Andreas Herkersdorf, Sören Sonntag, Helmut Reinig
+NoC Topology Exploration for Mobile Multimedia Applications 
+The 16th IEEE International Conference on Electronics, Circuits and Systems,  
+Medina, Tunesien,  
+2009 
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+14/27
+Matthias Ihmig, Andreas Herkersdorf
+Flexible multi­standard multi­channel system architecture for Software Defined Radio receiver
+Intelligent Transport Systems Telecommunications (ITST), The 9th International Conference on ITS
+Telecommunications,  
+Lille, France,  
+2009 
+, pp. 598­603
+Zhonglei Wang, Andreas Herkersdorf 
+Flow Analysis on Intermediate Source Code for WCET Estimation of Compiler­Optimized Programs
+The 15th IEEE International Conference on Embedded and Real­Time Computing Systems and Applications
+(RTCSA),  
+Beijing, China,  
+2009 
+Shadi Traboulsi, Michael Meitinger, Rainer Ohlendorf, Andreas Herkersdorf 
+An Efficient Hardware Architecture for Packet Re­sequencing in Network Processor MPSoCs
+12th Euromicro Conference on Digital System Design (DSD),  
+2009 
+Andreas Lankes, Thomas Wild, Andreas Herkersdorf
+Hierarchical NoCs for Optimized Access to Shared Memory and IO Resources
+Euromicro Conference on Digital System Design (DSD),  
+Patras, Greece,  
+August 27­29,  
+2009 
+Zhonglei Wang, Wolfgang Haberl, Martin Wechs, Andreas Herkersdorf 
+SysCOLA: A Framework for Co­Development of Automotive Software and System Platform
+46th Design Automation Conference (DAC),  
+2009 
+Zhonglei Wang, Andreas Herkersdorf 
+An Efficient Approach for System­Level Timing Simulation of Compiler­Optimized Embedded
+Software
+46th Design Automation Conference (DAC),  
+San Francisco, CA, USA,  
+2009 
+Christian Köhler, Albrecht Mayer, Andreas Herkersdorf 
+Chip Hardware­in­the­Loop Simulation (CHILS) Coupling Optimization through new Algorithm
+Analysis Technique 
+Proceedings 16th International Conference Mixed Design of Integrated Circuits and Systems,  
+Lódź, Poland,  
+2009 
+Abdelmajid Bouajila, Johannes Zeppenfeld, Andreas Herkersdorf, Walter Stechele 
+Multi­Bit Error Protection for Self­Correcting CPU Pipelines
+eda Workshop,  
+Dresden,  
+2009 
+Abelmajid Bouajila, Thomas Sommer, Johannes Zeppenfeld, Walter Stechele, Andreas Herkersdorf 
+A Fault­Tolerant Processor Architecture 
+Workshop „Dependability and Fault­Tolerance“ (ARCS),  
+Delft,  
+2009 
+Daniel Llorente, Kimon Karras, Thomas Wild, Andreas Herkersdorf
+Advanced Packet Segmentation and Buffering Algorithms in Network Processors
+4th International Conference on High Performance and Embedded Architectures and Compilers,  
+Paphos,
+Cyprus,  
+January 25­28,  
+2009 
+Michael Meitinger, Rainer Ohlendorf, Thomas Wild, Andreas Herkersdorf 
+FlexPath NP ­ A Network Processor Architecture with Flexible Processing Paths
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+15/27
+International Symposium on System­on­Chip (SoC),  
+Tampere, Finnland,  
+November 4­6,  
+2008 
+Zhonglei Wang, Wolfgang Haberl, Andreas Herkersdorf, Martin Wechs 
+A Simulation Approach for Performance Validation during Embedded Systems Design 
+3rd International Symposium on Leveraging Applications of Formal Methods, Verification and Validation
+(ISoLA),  
+Chalkidiki, Greece,  
+2008 
+Rainer Ohlendorf, Michael Meitinger, Thomas Wild, Andreas Herkersdorf 
+A Processing Path Dispatcher in Network Processor MPSoCs
+IEEE Transactions on VLSI Systems,  
+IEEE,  
+2008 
+Zhonglei Wang, Stefano Merenda, Michael Tautschnig, Andreas Herkersdorf 
+A Model Driven Development Approach for Implementing Reactive Systems in Hardware
+International Forum on Specification and Design Languages,  
+2008 
+Thilo Pionteck, Roman Koch, Carsten Albrecht, Erik Maehle, Michael Meitinger, Rainer Ohlendorf, Thomas
+Wild, Andreas Herkersdorf
+SPP1148 Booth: Network Processors 
+Field Programmable Logic and Applications (FPL),  
+Heidelberg, Germany,  
+September 8­10,  
+2008 
+Johannes Zeppenfeld, Abdelmajid Bouajila, Walter Stechele, Andreas Herkersdorf 
+Learning Classifier Tables for Autonomic Systems on Chip 
+Lecture Notes in Informatics, Springer, Gesellschaft für Informatik, GI Jahrestagung,  
+München,  
+2008 
+Christian Köhler, Albrecht Mayer, Andreas Herkersdorf 
+Determining the Fidelity of Hardware­In­the­Loop Simulation Coupling Systems
+Proceedings of the 2008 IEEE International Behavioral Modeling and Simulation Conference, IEEE Publisher,  
+San Jose, California,  
+2008 
+Kimon Karras, Daniel Llorente, Thomas Wild, Andreas Herkersdorf
+Improving Memory Subsystem Performance in Network Processors with Smart Packet Segmentation
+Embedded Computer Systems: Architectures, Modeling, and Simulation,  
+Samos, Greece,  
+July 21­24,  
+2008 
+Daniel Llorente, Kimom Karras, Thomas Wild, Andreas Herkersdorf
+Buffer Allocation for Advanced Packet Segmentation in Network Processors
+Application­Specific Systems, Architectures and Processors (ASAP), IEEE Press,  
+Leuven, Belgium,  
+July 2­4,  
+2008 
+Zhonglei Wang, Antonio Sanchez, Andreas Herkersdorf, Walter Stechele 
+Fast and Accurate Software Performance Estimation during High­Level Embedded System Design
+edaworkshop,  
+Hannover,  
+2008 
+Zhonglei Wang, Antonio Sanchez, Andreas Herkersdorf 
+SciSim: A Software Performance Estimation Framework using Source Code Instrumentation
+ACM International Workshop on Software and Performance (WOSP),  
+Princeton, NJ, USA,  
+2008 
+Christian Köhler, Albrecht Mayer, Andreas Herkersdorf 
+Chip Hardware In­The­Loop Simulation (CHILS), Embedding Microcontroller Hardware In Simulation
+IASTED Modelling and Simulation Conference, Acta Press,  
+Quebec City, Canada,  
+2008 
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+16/27
+Andreas Herkersdorf, Johannes Zeppenfeld, Abdelmajid Bouajila, Walter Stechele 
+Hardware­Supported Learning Classifier Tables in Autonomic Systems on Chip 
+Organic Computing ­ Controlled Self­organization,  
+Wadern, Germany,  
+2008 
+Matthias Ihmig, Nicolaus Alt, Christopher Claus, Andreas Herkersdorf
+Resource­efficient Sequential Architecture for FPGA­based DAB Receiver
+Workshop zu Software Radio WSR,  
+Karlsruhe,  
+2008 
+Michael Meitinger, Rainer Ohlendorf, Thomas Wild, Andreas Herkersdorf 
+A Hardware Packet Resequencer Unit for Network Processors
+Architecture of Computing Systems (ARCS), Springer,  
+Dresden, Germany,  
+February 25­28,  
+2008 
+Rainer Ohlendorf, Michael Meitinger, Thomas Wild, Andreas Herkersdorf 
+A Packet Classification Technique for On­Chip Processing Path Selection 
+Proceedings of the 5th Workshop on Application Specific Processors (WASP'07),  
+October 4­5,  
+2007 
+Rainer Ohlendorf, Thomas Wild, Michael Meitinger, Holm Rauchfuss, Andreas Herkersdorf 
+Simulated and Measured Performance Evaluation of RISC­based SoC Platforms in Network
+Processing Applications
+Journal of Systems Architecture, Elsevier,  
+2007 
+Daniel Llorente, Kimon Karras, Michael Meitinger, Holm Rauchfuss, Thomas Wild, Andreas Herkersdorf 
+Accelerating Packet Buffering and Administration in Network Processors
+International Symposium on Integrated Circuits (ISIC),  
+Singapore,  
+September 26­28,  
+2007 
+Christopher Claus, Walter Stechele, Andreas Herkersdorf 
+Autovision­A Run­time Reconfigurable MPSoC Architecture for future Driver Assistance Systems
+ it ­ Information Technology Journal,  
+2007 
+Walter Stechele, Oliver Bringmann, Rolf Ernst, Andreas Herkersdorf, Katharina Hojenski, Peter Janacik, Franz
+Rammig, Jürgen Teich, Norbert Wehn, Johannes Zeppenfeld, Daniel Ziener 
+Concepts for Autonomic Integrated Systems
+eda­Workshop,  
+Hannover,  
+2007 
+Michael Meitinger, Rainer Ohlendorf, Thomas Wild, Andreas Herkersdorf 
+A Programmable Stream Processing Engine for Packet Manipulation in Network Processors
+IEEE Computer Society Annual Symposium on VLSI, 2007 (ISVLSI '07),  
+Porto Alegre, Brazil,  
+May 9­11,  
+2007 
+Andreas Herkersdorf, Christopher Claus, Michael Meitinger, Rainer Ohlendorf, Thomas Wild 
+Reconfigurable Processing Units vs. Reconfigurable Interconnects
+Dagstuhl Seminar on Dynamically Reconfigurable Architectures,  
+Dagstuhl, Germany,  
+April 2­7,  
+2007 
+Andreas Herkersdorf, Walter Stechele 
+Exploitation of Reconfiguration in Advanced Applications Run­Time Reconfiguration for High
+Performance Video­based Driver Assistance and High­Speed IP Networking 
+DATE Tutorial on Reconfigurable Computing: Architectures, Tools and Applications,  
+Nice, France,  
+2007 
+Walter Stechele, Oliver Bringmann, Rolf Ernst, Andreas Herkersdorf, Katharina Hojenski, Peter Janacik, Franz
+Rammig, Jürgen Teich, Norbert Wehn, Johannes Zeppenfeld, Daniel Ziener 
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+17/27
+Autonomic MPSoCs for Reliable Systems
+GMM/GI/ITG Fachtagung Zuverlässigkeit und Entwurf, ZuD,  
+Munich,  
+2007 
+Abdelmajid Bouajila, Johannes Zeppenfeld, Walter Stechele, Andreas Herkersdorf, Andreas Bernauer, Oliver
+Bringmann, Wolfgang Rosenstiel 
+Organic Computing at the System on Chip Level
+Proceedings of the IFIP International Conference on Very Large Scale Integration of System on Chip (VLSI­
+SoC),  
+2006 
+Thomas Wild, Andreas Herkersdorf, Gyoo­Yeong Lee 
+TAPES ­ Trace­based architecture performance evaluation with SystemC 
+Design Automation for Embedded Systems, Springer,  
+2006 
+Andreas Bernauer, Oliver Bringmann, Wolfgang Rosenstiel, Abdelmajid Bouajila, Walter Stechele, Andreas
+Herkersdorf
+An Architecture for Runtime Evaluation of SoC Reliability
+INFORMATIK 2006 ­ Informatik für Menschen,  
+Bonn, Köllen Verlag,  
+2006 
+, pp. 177­185
+Abdelmajid Bouajila, Andreas Bernauer, Andreas Herkersdorf, Wolfgang Rosenstiel, Oliver Bringmann, Walter
+Stechele
+Error Detection Techniques Applicable in an Architecture Framework and Design Methodology for
+Autonomic SoC
+1st IFIP International Conference on Biologically Inspired Cooperative Computing (BICC), Springer,  
+Boston,
+USA,  
+2006 
+, pp. 107­113
+Rainer Ohlendorf, Thomas Wild, Michael Meitinger, Holm Rauchfuss, Andreas Herkersdorf 
+Performance Evaluation of RISC­based SoC Platforms in Network Processing Applications
+Proceedings of the International Conference on Embedded Computer Systems: Architectures, Modeling and
+Simulation (SAMOS 2006),  
+Samos, Greece,  
+July 17­20,  
+2006 
+Thomas Wild, Andreas Herkersdorf, Rainer Ohlendorf
+Performance Evaluation for System­on­Chip Architectures using Trace­based Transaction Level
+Simulation
+Design Automation & Test in Europe (DATE),  
+Munich, Germany,  
+March 6­10,  
+2006 
+Rainer Ohlendorf, Andreas Herkersdorf, Thomas Wild
+FlexPath NP ­ A Network Processor Concept with Application­Driven Flexible Processing Paths
+CODES+ISSS,  
+Jersey City, NJ, USA,  
+September 19­21,  
+2005 
+David Taylor, Andreas Herkersdorf, Andreas Döring, Gero Dittmann 
+Robust Header Compression (ROHC) in Next­Generation Network Processors
+IEEE/ACM Transactions on Networking,  
+2005 
+, pp. 755­768
+Gabriel Lipsa, Andreas Herkersdorf, Wolfgang Rosenstiel, Oliver Bringmann, Walter Stechele 
+Towards a Framework and a Design Methodology for Autonomic SoC 
+International Conference on Autonomic Computing (ICAC),  
+Seattle, USA,  
+2005 
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+18/27
+Paul Zuber, Armin Windschiegl, Raoul Medina, Walter Stechele, Andreas Herkersdorf 
+Reduction of CMOS Power Consumption and Signal Integrity Issues by Routing Optimization
+Design, Automation & Test in Europe (DATE),  
+Munich,  
+2005 
+Andreas Herkersdorf, Wolfgang Rosenstiel 
+Towards a Framework and a Design Methodology for Autonomic Integrated Systems 
+Workshop Organic Computing, GI Jahrestagung,  
+Ulm, Germany,  
+2004 
+, pp. 610­615
+Carsten Albrecht, Rainer Hagenau, Erik Maehle, Andreas Döring, Andreas Herkersdorf
+A Comparison of Parallel Programming Models of Network Processors
+17th International Conference on Architecture of Computing Systems (ARCS),  
+Augsburg, Germany,  
+2004 
+Walter Stechele, Stephan Herrmann, Andreas Herkersdorf 
+Towards a Dynamically Reconfigurable System­on­Chip Platform for Video Signal Processing 
+17th International Conference on Architecture of Computing Systems (ARCS),  
+Augsburg, Germany,  
+2004 
+Chair for Integrated Systems
+Prof. Dr. sc.techn. Andreas Herkersdorf
+Technical University of Munich 
+Arcisstraße 21
+80290 München, Germany
+Tel.: +49.89.289.22515
+Fax: +49.89.289.28323
+E­mail: lis@ei.tum.de
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+19/27
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+20/27
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+21/27
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+22/27
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+23/27
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+24/27
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+25/27
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+26/27
+
+-----
+5/4/2017
+Lehrstuhl für Integrierte Systeme – TU München: Andreas Herkersdorf
+http://www.lis.ei.tum.de/en/persons/management/herkersdorf/
+27/27
+
+-----

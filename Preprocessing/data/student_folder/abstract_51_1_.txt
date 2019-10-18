@@ -1,0 +1,35 @@
+Use of carbon nanotubes for passive RF 
+devices. 
+Abstract 
+ 
+As devices get more connected and communication increase in density, new challenges arise. The 
+usual frequency bands used are getting crowded by the number of applications, and the relatively 
+low working frequencies limit the available bandwidth and speed. Applications are now 
+implemented in the GHz, but next generation devices shift towards higher frequencies into the 
+millimetre band (30-300GHz), seeking larger bandwidths, smaller devices and antenna size and 
+improvement in spatial resolution. (High bitrate communications, Backhaul, radars, imaging, bio-
+sensors…) 
+These emerging devices have a need for passive framework for feeding and supporting while 
+keeping the efficiency high, the dimensions short and the bandwidth large. The problematic of this 
+thesis is to devise an innovative way to answer those needs. 
+Some solutions have of course emerged in the literature, and the plan here is to fork from those pre-
+existing results. Most solutions revolve around using vertically aligned micro/nano-structures to 
+guide a wave or to reduce wave velocity. The idea is to introduce Vertically-Aligned Carbon 
+Nanotube Forests into those designs, for they display inherently conductive anisotropy while 
+improving from the previous solutions in terms of density and equivalent conductivity and ease of 
+fabrication. 
+As passive devices cover a broad range of devices, the focus will be on some of the simplest devices, 
+to pave the way for this technology. In a first step a simple slow-wave micro-strip transmission line 
+using VA-CNTs is considered, which showcases the possibility to reduce significantly wave velocity 
+propagation in the line, thus reducing the dimensions without the use of high-k dielectrics. Work on 
+the topic demonstrate significant size reduction of devices at a given frequency. 
+In a second step, another type of transmission line is considered: SIW and SW-SIW. Waveguides 
+large dimensions’ stop being a collateral at higher frequencies -with dimensions going bellow the 
+millimetre- while exhibiting relatively better parameters per unit length than other propagation 
+solutions. The feasibility of a SIW using VA-CNT forests is demonstrated through theoretical 
+simulation and fabrication.  A solution including a similar setup to the micro-strip line is investigated 
+to assert the effects and possibility of slow-wave in waveguides using only bottom-up processes. 
+Finally, as an extension of the problematic, some diverse and more complex topologies are 
+considered such as filters, antenna arrays feedings or interposers. 
+
+-----

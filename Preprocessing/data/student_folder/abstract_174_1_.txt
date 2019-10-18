@@ -1,0 +1,33 @@
+Study of Plasmonic Nano-array for the  
+Development of Cost-effective SERS Substrate 
+ 
+Due to its excellent signal uniformity and reproducibility, well-ordered plasmonic nano-arrays 
+demonstrate great potential as practical SERS probe for real-time in-situ analysis of 
+molecules. A basic study of SERS mechanism was carried out to elucidate relevant factors 
+that can affect SERS enhancement. The results revealed that the rarely discussed scattering 
+cross-section can have substantial influence on SERS enhancement and should be 
+considered for a complete understanding and optimization of the performance of SERS 
+substrates. Two commonly used metallization techniques, DC sputtering and electron-beam 
+(E-beam) evaporation, was investigated to quantify their effect on SERS performance. It was 
+found that the E-beam evaporation technique produces inherently roughened gold film which 
+serve as additional EM hotspots favourable for SERS. A hybrid metal deposition approach to 
+exploit the advantages of both the sputtering and E-beam technique is proposed and verified. 
+Two well-ordered and cost-effective SERS substrates were proposed and investigated. The 
+first is a Au-SiO2 nano-pillar substrate fabricated by performing an additional plasma 
+enhanced chemical vapour deposition of SiO2 on nano-sphere-lithorgraphy fabricated Si 
+pillars to tune the plasmonic resonance of the nano-structures. The optimized  Au-SiO2 
+nano-pillar exhibits comparable SERS performance as the well-established gold-film-over-
+nano-sphere substrate and has the added advantage of better stability and reusability due to 
+its inherently rigid structure. The second SERS substrate developed in this work comprises 
+non-lithographic anodized aluminium oxide (AAO)-based nano-fibres (ANF) that are 
+fabricated by optimizing the second anodization and incorporating an additional chemical 
+wet-etching step. The optimized ANF substrate exhibits better sensitivity, signal-to-noise 
+ratio, signal uniformity and stability than those of conventional substrates. The fabrication 
+process of the ANF SERS substrate is also highly reproducible and scalable. Label-free 
+detection of two DNA and RNA nucleobases are also demonstrated with the ANF SERS 
+substrate. 
+
+-----
+ 
+
+-----

@@ -1,0 +1,201 @@
+Krishna Saraswat
+Rickey/Nielsen Professor in the School of 
+Engineering
+Professor of Electrical Engineering
+Professor of Materials Science & Engineering 
+(by courtesy)
+  Paul G. Allen Building, Rm. 326X 
+     420 Via Palou, MS 4075, Stanford, CA 94305-4075
+  (650) 725-3610 Phone
+  (650) 723-4659 Fax
+saraswat@stanford.edu
+    Prof. Saraswat received his B.E. degree in Electronics in 1968 from the Birla Institute of Technology and Science, Pilani, 
+India, and his M.S. and Ph.D. degrees in Electrical Engineering in 1969 and 1974 respectively from Stanford University, 
+Stanford, CA. Professor Saraswat stayed at Stanford as a researcher and was appointed Professor of Electrical Engineering 
+in 1983. He also has an honorary appointment of an Adjunct Professor at the Birla Institute of Technology and Science, Pilani, 
+India since January 2004 and a Visiting Professor during the summer of 2007 at IIT Bombay, India. During 2000-2007 he was 
+Associate Director of the NSF/SRC Center for Environmentally Benign Semiconductor Manufacturing. He has been a 
+technical advisor, board member and consultant to several industrial organizations in USA, Asia and Europe. He has also 
+advised several academic and government organizations world wide. 
+     Professor Saraswat's research interests are in new and innovative materials, structures, and process technology of silicon, 
+germanium and III-V devices and interconnects fo nanoelectronics and solar cells. Areas of his current interest are: new 
+device structures and technology to continue scaling MOS transistors and non volatile memories, silicon compatible optical 
+interconnections, and high efficiency and low cost solar cells.
+     During 1969-70, he worked on microwave transistors at Texas Instruments. Returning to Stanford in 1971, he did his Ph.D. 
+on high voltage MOS devices and circuits. After graduating he joined Stanford University as a Research Associate in 1975 
+and later became a Professor of Electrical Engineering in 1983. For the next 15 years, Prof. Saraswat worked on modeling of 
+CVD of silicon, conduction in polysilicon, diffusion in silicides, contact resistance, interconnect delay and 2-D oxidation effects 
+in silicon. He pioneered the technologies for aluminum/titanium layered interconnects, CVD of tungsten silicide MOS gates, 
+CVD tungsten MOS gates and tunable workfunction SiGe MOS gates. During the late 80's he became interested in the 
+economics and technology of single wafer manufacturing. He developed equipment and simulators for single wafer thermal 
+processing, deposition and etching and technology for the in-situ measurements and real-time control. Jointly with Texas 
+Instruments a microfactory for single wafer manufacturing was demonstrated in 1993. Since the mid 90's he has been working 
+on new materials, devices and interconnects for scaling MOS technology to sub-10 nm regime. He has pioneered several new 
+concepts of 3-D ICs with multiple layers of heterogeneous devices. His group demonstrated the first high performance 
+germanium MOSFET with high-k dielectrics. He has been working on integration of germanium on silicon for high performance 
+MOSFETs and optical interconnects. He has recently started research on high efficiency low cost solar cells. 
+     Prof. Saraswat has supervised more than 85 doctoral students, 25 post doctoral scholars and has authored or co-authored 
+15 patents and over 750 technical papers, of which 10 have received Best Paper Award. He is a Life Fellow of the IEEE. He 
+received the Thomas Callinan Award from The Electrochemical Society in 2000 for his contributions to the dielectric science 
+and technology, the 2004 IEEE Andrew Grove Award for seminal contributions to silicon process technology, Inventor 
+Recognition Award from MARCO/FCRP in 2007, the Technovisionary Award from the India Semiconductor Association in 
+2007, BITS Pilani Distinguished Alumnus Awards in 2012 and the Semiconductor Industry Association (SIA) Researcher of 
+the Year Award in 2012. He is listed by ISI as one of the Highly Cited Authors in his field. 
+Page 1 of 1
+index.html
+9/8/2017
+http://saraswatgroup.stanford.edu//
+
+-----
+The scaling approach that has been the technological mainstay of the semiconductor industry for the last 30 years is beginning 
+to face limits to continued miniaturization with commensurate performance enhancement. Prof. Saraswat has been working on 
+new and innovative materials, structures, and process technology of silicon, germanium and III-V devices and interconnects for 
+VLSI and nanoelectronics. Areas of his current interest are: new device structures to continue scaling MOS transistors, 
+3-dimentional ICs with multiple layers of heterogeneous devices, metal and optical interconnections and high efficiency and 
+low cost solar cells. 
+CURRENT MAJOR PROJECTS: 
+Materials, Structures, Devices Physics and Technology for Nanoelectronics 
+Si CMOS technology has dominated the microelectronics industry, with continued scaling. However, future Si CMOS scaling is 
+reaching practical and fundamental limits. To go beyond these limits novel materials and structures are being aggressively 
+studied. A channel material with high µ and therefore high injection velocity can increase drive current and reduce delay. 
+Currently, strained-Si is the dominant technology for high performance MOSFETs and increasing the strain provides a viable 
+solution to scaling. However, performance enhancement due to strain is beginning to saturate with scaling of nanoscale 
+MOSFETs. Looking into future scaling it becomes important to look at higher mobility materials, like Ge and III-V together with 
+innovative device structures which may perform better than even very highly strained Si. Heterogeneous integration of the high 
+mobility Ge and III-V materials on Si with novel device structures can take us to sub-10 nm regime. However there are many 
+daunting questions. Ge PMOS shows much promise but the NMOS has many problems to be solved. Similarly there are many 
+examples of high performance III-V NMOS, but PMOS is still problematic. Is Ge PMOS and III-V NMOS integration on Si 
+feasible or a headache for the manufacturing folks? Can we have all Ge or all III-V CMOS or it is just a fantasy? Prof. 
+SaraswatÕs research is trying to answer these questions. 
+Interconnects for Nanoelectronics 
+Continuous scaling of VLSI circuits can pose significant problems for interconnects, especially for those responsible for long 
+distance communication on a high performance chip. Our modeling predicts that the situation is worse than anticipated in the 
+ITRS, which assumes that the resistivity of copper will not change appreciably with scaling in the future. We show that 
+resistance of interconnect wires in light of scaling induced increase in electron surface scattering, fractional cross section area 
+occupied by the high resistivity barrier and realistic interconnect operation temperature will lead to a significant rise in the 
+effective resistivity of Cu. As a result both power and delay of these interconnects is likely to rise significantly in the future. In 
+the light of various metal interconnect limitations, alternate solutions need to be pursued. His group focuses on two such 
+solutions, optical interconnects and three-dimensional (3-D) ICs with multiple active Si layers. 
+Photovoltaics 
+High Efficiency attribute of solar cells is a powerful enabler to reduce the $/Wp metric by cutting across the entire PV supply 
+chain. In addition, a higher efficiency cell, especially if it is higher Voc, can result in a much larger energy yield (KWHr/KWp) 
+per given efficiency or peak power. These factors go a long way in enabling the goals set by U.S. Department of Energy of 1. 
+delivering modules at under $0.40/W, 2. reducing the BOS cost, 3. ultimately achieving an LCOE of 5 cents/KWhr. To meet 
+these requirements we are developing a novel junctionless solar cell using metal/insulator/semiconductor (MIS) structures as 
+carrier selective contacts on Si, GaAs and other absorbers. 
+AFFILIATED Ph.D. STUDENTS: 
+Shashank Gupta
+Research: Germanium Based Laser and Modulator for Photonic Interconnects.
+Silicon photonics is considered to be a key enabling technology for future CMOS systems since it has the potential to alleviate 
+the bandwidth-power-density bottleneck of electrical interconnects. In this work we are developing semiconductor beam 
+structures for light emission and modulation applications. For example, we consider a strained crossed nanobeam structure for 
+a low-threshold germanium laser. It includes a germanium (Ge) photonic crystal nanobeam resonator and a silicon nitride (SiN) 
+stressor nanobeam in the perpendicular direction. While the photonic crystal nanobeam enables light confinement in a 
+subwavelength volume with minimal optical loss, the SiN nanobeam induces high tensile strain in the small region where the 
+optical mode is tightly confined. As maintaining a small optical loss and a high tensile strain reduces the required pumping for 
+achieving net optical gain beyond cavity losses, this technique can be used to develop an extremely low-threshold Ge laser 
+source. We are also developing a compact Ge electro-absorption modulator (EAM) based on Franz-Keldysh effect according 
+to which an applied electric field causes band-tilting thereby increasing the absorption coefficient in the weakly absorbing 
+regime. The Ge EAM devices are integrated in SOI Si platform. These devices have improved performance including higher 
+modulation speed, higher efficiency and lower capacitance, owing to the strong confinement of optical and electrical field 
+Page 1 of 3
+index.html
+9/8/2017
+http://saraswatgroup.stanford.edu//research.html
+
+-----
+enabled by the submicron Ge/Si waveguide platform. 
+Raisul Islam and Koosha Nassiri Nazif
+Research: Junction-less multi-material high efficiency low cost solar cell.
+To meet the requirements of high efficiency and low cost we are developing a novel junctionless solar cell technology using 
+metal/insulator/semiconductor (MIS) structures as carrier selective contacts on silicon, germanium, III-Vs and other absorbers. 
+In this novel approach diffused p-n junction are replaced by MIS heterojunctions using oxides such as ZnO or TiO2 and NiO, 
+which have band lineups such that it enables a selective contact for either electron/hole while reflecting the other carrier away 
+from the contact. This structure, which eliminates the need of p-n junctions, is a low cost solution to a high efficiency solar cell. 
+Using this approach we conceived the idea of a 3 terminal multijunction solar cell using MIS heterojunctions. This structure, 
+which eliminates the need of p-n junctions, is a low cost solution to a high efficiency solar cell where two subcells can work 
+independently. The design is not limited by lattice matching or current matching. Thus each sub cell can be optimized 
+independently for maximum efficiency. 
+Archana Kumar 
+Research: Integration of III-V FETs on Silicon
+As scaling of Silicon CMOS becomes increasingly difficult, use of alternate materials with high carrier mobilities is being 
+explored extensively. Despite burgeoning interest in III-Vs for realizing high performance transistors at low power, III-V 
+MOSFETs have been plagued by (a) poor surface passivation resulting in high Dit; (b) poor PMOS performance, which makes 
+realizing CMOS in a single material system difficult; (c) low density of states (DOS) for electrons; (d) poor dopant activation in 
+the source-drain (S/D) and (e) high contact resistance. We are developing novel solutions to overcome these problems. We 
+are working on the 6.1-6.2 
+ lattice constant system with InGaSb as the channel material because of its advantages in terms of 
+band engineering and high mobility/offsets for both electrons and holes. The goal is to achieve high electron/hole mobility in 
+the same channel material for n- and p-MOS devices through the optimization of surface passivation, stoichiometry, 
+heterostructure design and novel contact/interface engineering. Hetero-integration on a silicon substrate is one of the key 
+challenges in enabling III-V CMOS. III-Vs also inherently suffer from degraded short-channel effects and are more vulnerable 
+to variability issues. Alternative device architectures such as SOI gate-all-around finFETs are needed to improve the device 
+performance. Current work focuses on using the rapid-melt-growth (RMG) technique to fabricate III-V FinFETs with multiple 
+channel materials on a silicon substrate. 
+Ju Hyung Nam
+Research: Selective Heteroepitaxial Growth of Ge on Si for Electronic and Optical Devices.
+Recently Ge has emerged as a viable candidate to augment Si for continued scaling of CMOS devices and providing high 
+performance on- and off-chip opticle interconnects. However, Ge substrate is not easy to handle and is not easily available. 
+Therefore to utilize above mentioned advantages of Ge it is imperative to develop technology for heterogeneous integration of 
+Ge on Si-based platform. It is crucial to be able to grow high quality Ge layers selectively. Ge has large (4.2%) lattice mismatch 
+with Si, which causes strain to Ge layers grown directly on Si which results in high density of dislocations and rough surface. In 
+our past work we have demonstrated that growth of Ge on Si by Multiple Hydrogen Annealing for Heteroepitaxy (MHAH) 
+technique yields very low dislocation density and surface roughness. In this work we are focusing on selective growth of Ge on 
+Si through a SiO2 windows combined with H2 anneal and extend it to grow Ge laterally on SiO2 for GOI applications. This will 
+allow fabrication of high performance MOSFETs and optical devices in Ge integrated on Si with future promise of continued 
+CMOS scaling. 
+Pranav Ramesh
+Research: Metal/Insulator/Semiconductor Contacts for Photovoltics and Nanoelectronics.
+As device scaling continues, parasitic source resistance largely dominated by contact resistance, is beginning to limit the 
+device performance. Specific contact resistivity of a metal-semiconductor (M/S) contact is dependent on the Schottky barrier 
+height, and the electrically active dopant density N at that interface. In M/S contacts the metal Fermi level is pinned at the 
+charge neutrality level, ECNL, resulting in fixed electron and hole Schottky barrier heights. To obtain low contact resistivity it is 
+essential to reduce Schottky barrier height. Historically the method to reduce contact resistivity is by increasing N to > 
+1E20/cm3 thereby thinning the barrier, thus allowing more tunneling current. This method works well for n type Si and p-Ge 
+which can be doped heavily. However, it is not very practical for n-Ge, p-Si, many III-Vs and 2D materials because of inability 
+to dope them heavily. We are investigating Fermi level depinning by inserting a thin dielectric between the metal and 
+semiconductor and reduce barrier height. The metal electron wavefunction now decays in the insulator resulting in fewer MIGS 
+thus depinning the Fermi level, which now pins on the insulator. Hence metal workfunction can now be used to tune the 
+effective barrier height. For n-type ohmic contacts, metals with a low metal workfunction and insulator with ~0 conduction band 
+offset (ZnO, TiO2, SnO2) with semiconductor should result in a near zero barrier height to electrons. For p-type ohmic 
+contacts, metals with a high work function and insulator with ~0 valence band offset (NiO, CuAlO2) with semiconductor would 
+be desirable. This method has been used to obtain low barrier height and thus low contact resistivity in Si, Ge and III-V 
+semiconductors and should prove to be very useful for 2D materials. 
+Gautam Shine
+Research: Low Resistance ohmic contacts to Ge and III-V Devices
+For the nanoscale transistors in Ge, III-V and carbon based MOSFETs and optical devices low resistance contacts must be 
+developed. The specific contact resistivity of many of these materials is too high primarily due to low doping density and Fermi 
+level pinning. MIS contacts solve this problem using interfacial layers that depin the Fermi level leading to engineering of the 
+Schottky barrier height and thus achieve low contact resistance. Several mechanisms, such as metal induced gap states 
+(MIGS) and dipole formation have been proposed to explain the effect of Fermi level unpinning. Despite the large body of 
+experimental data, there is no consensus on the underlying physics and mechanisms responsible for Fermi level unpinning. In 
+Page 2 of 3
+index.html
+9/8/2017
+http://saraswatgroup.stanford.edu//research.html
+
+-----
+this project the tunneling transport is being treated quantum mechanically using free electron approach using transfer matrix 
+formalism for solution of the Schrodinger equation self-consistent with the Poisson solution for near equilibrium transport 
+through tunnel barriers. The effect of doping density, different barrier materials, interface and fixed charges, interface dipoles 
+and metal work functions is included. This will help to predict optimized tunnel barrier materials and device structures that can 
+be used to minimize contact resistance. 
+Junkyo Suh
+Research: Nanoscale Germanium MOSFETs
+Si CMOS technology has dominated the microelectronics industry, with continued scaling. However, future Si CMOS scaling is 
+reaching practical and fundamental limits. To go beyond these limits novel higher mobility materials like Ge are being 
+aggressively studied to continue scaling of MOSFETs. Development of MOS technology in these materials has been largely 
+possible due to advances in the high-k/metal gate stack technology. High-k dielectrics with low interface state density (Dit) 
+have been demonstrated to passivate the channel with atomic layer deposition (ALD) as the preferred technique. Therefore, 
+Ge MOSFET is quickly becoming the choice for future CMOS. However, currently, very little is understood with respect to 
+reliability of these new CMOS device components (high-k gate dielectrics and advanced channel materials). In this study, we 
+propose develop technology to fabricate nanoscale Ge MOSFETs with metal gate/ high-k gate dielectric and characterize the 
+radiation effects of this new class transistors for the first time and establish a fundamental understanding of how to improve 
+their reliability and radiation tolerance through high mobility channel/high-k gate stack material synthesis and design 
+enhancements. 
+Page 3 of 3
+index.html
+9/8/2017
+http://saraswatgroup.stanford.edu//research.html
+
+-----

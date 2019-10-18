@@ -1,0 +1,36 @@
+Title: Engineering of Triboelectric-Nanogenerator (TENG) Powered Devices and 
+Lab-on-a-Chip Devices for Biological Applications 
+ 
+The triboelectric effect is the phenomenon that when two different materials come into 
+contact through friction, their surfaces become oppositely charged. Triboelectric-
+nanogenerator (TENG) was invented based on this phenomenon to effectively harness 
+ambient mechanical energy that is omnipresent but usually not effectively utilized in 
+daily life. Lab-on-a-chip (LOC) technology is usually referred as a device that 
+integrates one or several laboratory functions on a single chip, with features such as 
+low fluid volumes consumption, faster analysis and response times and better process 
+control. In this thesis, TENG powered devices and LOC Devices are engineered to 
+realize various biomedical applications. First, a rotary TENG was utilized to harvest 
+energy from human body’s motion to power an implantable drug delivery actuator for 
+controlled and localized administration of drugs. In another application as energy 
+source, the same TENG was used for photodynamic therapy to demonstrate an 
+enhanced therapeutic effects of a chemo drug when being applied together with a 
+photosensitizer, chlorin e6. Other than being used as energy source, the output of TENG 
+can also be utilized directly as electrical stimulations. A contact-separation mode 
+TENG was used in a nanowires-assisted electroporation system to generate electrical 
+stimulations which induce perforation on cancer cells, thus facilitating the transfection 
+of siRNA without the aid of nano-carriers. This system can serve as an effective and 
+versatile platform for high-throughput gene delivery in biological research and cancer 
+treatment studies. In the realm of LOC devices, a biochip was developed for dual 
+functions of preserving the viability of epithelial tissues as well as real time monitoring 
+the transepithelial resistance of the tissue on-chip. Last, the strengths of TENG and 
+LOC were effectively utilized to develop a fundamentally new method for detecting 
+trace amount of heavy metals in water. By coating the sensing surface with specific 
+chelating agent, selective detection of lead ions was achieved.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+-----

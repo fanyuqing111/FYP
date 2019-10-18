@@ -1,0 +1,313 @@
+ The Scopus Author Identifier assigns a unique number to groups of documents written by the same author via an algorithm that matches authorship based on a certain criteria. If a document cannot be 
+confidently matched with an author identifier, it is grouped separately. In this case, you may see more than 1 entry for the same author. 
+Search
+Sources
+Alerts
+Lists
+Help
+SciVal ↗
+Author details
+Lu, Dylan D.C. 
+University of Technology Sydney, School of 
+Electrical, Sydney, Australia 
+Author ID: 7403079460
+http://orcid.org/0000-0003-2145-0580
+Other name formats: Lu, D. C.
+Lu, Dylan Dah Chuen
+Lu, Dylan D.C.
+View More
+About Scopus Author Identifier | View potential author matches 
+Documents:
+Analyze author output
+Citations:
+View citation overview
+h-index: 
+View h-graph
+Co-authors:
+Subject area:
+View documents 
+View documents 
+View documents 
+Follow this Author
+Receive emails when this author 
+publishes new articles
+Get citation alerts 
+Add to ORCID
+Request author detail corrections
+Author History 
+Publication range: 2001 - Present 
+References: 1611
+Source history:
+ECCE 2016 - IEEE Energy Conversion Congress and 
+Exposition, Proceedings  
+2014 IEEE Energy Conversion Congress and Exposition, 
+ECCE 2014  
+Journal of Modern Power Systems and Clean Energy
+View More 
+Show Related Affiliations
+Back to results |
+1 of 1 
+Print |
+Email 
+149 
+1476 total citations by 1245 documents 
+21 
+102
+Engineering ,  Energy View More
+149 documents
+Export all |
+Add all to list
+|
+Set document alert |
+Set document feed 
+149 Documents | Cited by 1245 documents | 102 co-authors
+View all in search results format 
+Sort on: Date Cited by
+...
+A Preventive Approach for Solving Battery Imbalance 
+Issue by Using a Bidirectional Multiple-Input Cuk 
+Converter Working in DCVM
+Qi, J., Lu, D.D.-C. 
+2017 IEEE Transactions on 
+Industrial Electronics 
+View at Publisher
+Sliding mode control of a bidirectional grid connected 
+three phase two-stage PV system with space vector 
+PWM
+Shen, L., Lu, D.D.-C., 
+Fu, J. 
+2017 Chinese Control 
+Conference, CCC 
+View at Publisher
+Buck-Boost Dual-Leg-Integrated Step-up Inverter with 
+Low THD and Single Variable Control for Single-Phase 
+High-Frequency AC Microgrids
+Qin, L., Hu, M., Lu, 
+D.D., (...), Wang, Y., 
+Kan, J. 
+2017 IEEE Transactions on 
+Power Electronics 
+Article in Press
+View at Publisher
+Single-inductor multiple-source mixer for DC power 
+packet dispatching system
+Reza, C.M.F.S., Lu, 
+D.D.-C., Qin, L. 
+2017 2017 IEEE 2nd 
+International Conference 
+on Direct Current 
+Microgrids, ICDCM 2017 
+View at Publisher
+Model Predictive Controlled Active NPC Inverter for 
+Voltage Stress Balancing among the Semiconductor 
+Power Switches
+Akter, M.P., Lu, 
+D.D.-C. 
+2017 IOP Conference Series: 
+Earth and Environmental 
+Science 
+View at Publisher
+A GPS-based control framework for accurate current 
+sharing and power quality improvement in microgrids
+Golsorkhi, M.S., 
+Savaghebi, M., Lu, 
+D.D.-C., Guerrero, 
+J.M., Vasquez, J.C. 
+2017 IEEE Transactions on 
+Power Electronics 
+View at Publisher
+Selected Prediction Vectors Based FS-PTC for 3L-NPC 
+Inverter Fed Motor Drives
+Habibullah, M., Lu, 
+D.D.-C., Xiao, D., 
+Osman, I., Rahman, 
+M.F. 
+2017 IEEE Transactions on 
+Industry Applications 
+View at Publisher
+A more accurate analog voltage-based photovoltaic 
+maximum power point tracking technique
+Al-Soeidat, M.R., Lu, 
+D.D.-C., Zhu, J. 
+2017 2017 8th International 
+Renewable Energy 
+Congress, IREC 2017 
+View at Publisher
+0
+0
+0
+0
+0
+0
+0
+0
+Years
+Documents
+Citations
+2007
+2018
+0
+20
+0
+308
+Register
+Login
+Page 1 of 3
+Scopus - Author details (Lu, Dylan D.C.)
+11/21/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7403079460
+
+-----
+The data displayed above is compiled exclusively from articles published in the Scopus database. To request corrections to any inaccuracies or provide any further feedback, please contact us (registration required). 
+The data displayed above is subject to the privacy conditions contained in the privacy policy . 
+Top of page 
+Display: 
+results per page
+Page 1
+Low complexity predictive torque control strategies for a 
+three-level inverter driven induction motor
+Habibullah, M., Lu, 
+D.D.-C., Xiao, D., 
+Fletcher, J.E., 
+Rahman, M.F. 
+2017 IET Electric Power 
+Applications 
+View at Publisher
+A GPS-based decentralized control method for islanded 
+microgrids
+Golsorkhi, M.S., Lu, 
+D.D.-C., Guerrero, J.M. 
+2017 IEEE Transactions on 
+Power Electronics 
+View at Publisher
+Predictive Torque Control of Induction Motor Sensorless 
+Drive Fed by a 3L-NPC Inverter
+Habibullah, M., Lu, 
+D.D.-C., Xiao, D., 
+Fletcher, J.E., 
+Rahman, M.F. 
+2017 IEEE Transactions on 
+Industrial Informatics 
+View at Publisher
+A multi-functional modular approach to developing 
+microgrid systems
+Shi, X., Zhu, J., Dah-
+Chuan Lu, D., Li, L. 
+2017 19th International 
+Conference on Electrical 
+Machines and Systems, 
+ICEMS 2016 
+Advanced multi-functional model predictive control for 
+three-phase AC/DC converters
+Shi, X., Zhu, J., Dah-
+Chuan Lu, D., Li, L. 
+2017 19th International 
+Conference on Electrical 
+Machines and Systems, 
+ICEMS 2016 
+Finite-State Predictive Torque Control of Induction Motor 
+Supplied from a Three-Level NPC Voltage Source 
+Inverter
+Habibullah, M., Lu, 
+D.D.-C., Xiao, D., 
+Rahman, M.F. 
+2017 IEEE Transactions on 
+Power Electronics 
+View at Publisher
+Improved power routing algorithm for power packet 
+distribution system
+Reza, C.M.F.S., Lu, 
+D.D.-C. 
+2016 2016 IEEE 5th Global 
+Conference on 
+Consumer Electronics, 
+GCCE 2016 
+View at Publisher
+Open-circuit fault tolerant bridgeless boost rectifier
+Muhammad, K.S., 
+Baharom, R., Salleh, 
+M.K.M., Lu, D.D.-C. 
+2016 IECON Proceedings 
+(Industrial Electronics 
+Conference) 
+View at Publisher
+Analysis of DC Bus Capacitor Current Ripple Reduction 
+in Basic DC/DC Cascaded Two-Stage Power Converters
+An, L., Lu, D.D.-C. 
+2016 IEEE Transactions on 
+Industrial Electronics 
+View at Publisher
+Comparing effectiveness of hybrid mppt algorithms under 
+partial shading conditions
+Al-Soeidat, M.R., 
+Cembrano, A., Lu, 
+D.D.-C. 
+2016 2016 IEEE International 
+Conference on Power 
+System Technology, 
+POWERCON 2016 
+View at Publisher
+Feasibility study of existing 50/60Hz electrical appliances 
+for HFAC power distribution systems
+Fernando, W.A., Lu, 
+D.D.-C. 
+2016 INTELEC, International 
+Telecommunications 
+Energy Conference 
+(Proceedings) 
+View at Publisher
+Flexible absolute circuit for advanced power factor 
+correction controller
+Muhammad, K.S., Lu, 
+D.D.-C., Baharom, R. 
+2016 ISCAIE 2016 - 2016 
+IEEE Symposium on 
+Computer Applications 
+and Industrial 
+Electronics 
+View at Publisher
+0
+1
+1
+0
+0
+2
+1
+0
+0
+1
+0
+0
+20
+Back to results |
+1 of 1 
+Page 2 of 3
+Scopus - Author details (Lu, Dylan D.C.)
+11/21/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7403079460
+
+-----
+About Scopus
+What is Scopus
+Content coverage
+Scopus blog
+Scopus API
+Privacy matters
+Language
+日本語に切り替える
+切换到简体中文
+切換到繁體中文
+Русский язык
+Customer Service
+Help
+Contact us
+Terms and conditions
+Privacy policy
+Copyright © 2017 Elsevier B.V. All rights reserved. Scopus® is a registered trademark of Elsevier B.V.
+Cookies are set by this site. To decline them or learn more, visit our Cookies page.
+Page 3 of 3
+Scopus - Author details (Lu, Dylan D.C.)
+11/21/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7403079460
+
+-----

@@ -1,0 +1,216 @@
+Dr. Athanasios D. Panagopoulos 
+Associate Professor 
+School of Electrical and Computer Engineering 
+National Technical University of Athens 
+Phone: + 30210 7723842 Fax: +30210 7723851 
+Email: thpanag@ece.ntua.gr  
+ 
+Biography 
+Athanasios D. Panagopoulos (S’98, M’02, SM’09): was born in Athens, Greece on 
+January 26, 1975. He received the Diploma Degree in Electrical and Computer 
+Engineering (summa cum laude) and the Dr. Engineering Degree from National 
+Technical University of Athens (NTUA) in July 1997 and in April 2002. From May 2002 to 
+July 2003, he served the Technical Corps of Hellenic Army. In September 2003, he 
+joined School of Pedagogical and Technological Education, as part-time Assistant 
+Professor, up to June 2008. From January 2005 to May 2008, he was Head of the 
+Satellite Division of Hellenic Authority for the Information and Communication Security 
+and Privacy. From May 2008 to May 2013 he was Lecturer in the School of Electrical 
+and Computer Engineering of NTUA and now he is Assistant Professor. He has 
+published more than 120 papers in international journals and more than 150 papers 
+conference proceedings. He has also published more than 25 Book Chapters in 
+International Books. He is the recipient of URSI General Assembly Young Scientist 
+Award in 2002 (Commission F) and 2005 (Commission C). He is co-recipient of the Best 
+Paper Award in the 2006 IEEE Radio and Wireless Symposium.  His research interests 
+include radio communication systems design, mobile computing technologies, wireless 
+and satellite communications networks and the propagation effects on multiple access 
+systems and on communication protocols. He participates to ITU-R and ETSI Study 
+Groups, he is member of Technical Chamber of Greece and Senior Member of IEEE. He 
+is Chairman of the IEEE Greek Communication Chapter. He serves on the editorial 
+boards of International Journal of Antennas and Propagation and Elsevier Physical 
+Communication. Finally, he is an Associate Editor of IEEE Transactions on Antennas 
+and Propagation and an Associate Editor in IEEE Communication Letters. 
+ 
+Total citations: 2838 
+h-index: 25 
+ 
+ 
+ 
+Selected Journal Publications  
+ 
+
+-----
+• 
+A. D. Panagopoulos and J. D. Kanellopoulos “Cell-Site Diversity Performance of 
+Millimeter-Wave Fixed Cellular Systems Operating at Frequencies above 20 
+GHz”, IEEE Antennas and Wireless Propagation Letters, Volume: 1, Issue 10, 
+pp.183-185, 2002. 
+• 
+A. D. Panagopoulos and J. D. Kanellopoulos “A simple model for orbital diversity 
+gain on Earth-space propagation paths”, IEEE Transactions on Antennas and 
+Propagation, Volume: 51 Issue: 6, pp.1403 –1405, June 2003. 
+• 
+A. D. Panagopoulos and J. D. Kanellopoulos “Statistics of Differential Rain 
+Attenuation 
+on 
+Converging 
+Terrestrial 
+Propagation 
+Paths”, IEEETransactionsonAntennasandPropagation, 
+Vol. 
+51, 
+Issue: 
+9, 
+September 2003, pp.2514-2517. 
+• 
+A. D. Panagopoulos et al, “Coexistence of the Broadcasting Satellite Service with 
+Fixed Service Systems in Frequency Bands above 10GHz”, IEEE Transactions 
+on Broadcasting Technology, vol 52, no.1, March 2006. 
+• 
+A. D. Panagopoulos, P. M. Arapoglou, J. D. Kanellopoulos and P. G. Cottis, 
+“Intercell Radio Interference Studies in Broadband Wireless Access Networks”, 
+IEEE Transactions on Vehicular Technology, vol.56, no. 1, January 2007. 
+• 
+A. D. Panagopoulos, P. Skouloudakis, and P.G. Cottis, “Quality of Service of 
+Broadband Fixed Wireless Access QPSK Channels Suffering from Co-Channel 
+Terrestrial Interference”, ΙΕΕΕ Transactions on Antennas and Propagation, 
+pp.3317-3326, vol.54, Issue 11, Nov. 2006. 
+• 
+A. D. Panagopoulos, K. P. Liolis, and P. G. Cottis, “Rician K-Factor Distribution of 
+Broadband Fixed Wireless Access Channels under Rain Fades”, IEEE 
+Communication Letters, Volume 11, Issue 4, pp. 301 – 303,   April 2007. 
+• 
+K. P. Liolis, A. D. Panagopoulos, and P. G. Cottis, “Multi-Satellite MIMO 
+Communications at Ku Band and above: Investigations on Spatial Multiplexing 
+for 
+Capacity 
+Improvement 
+and 
+Selection 
+Diversity 
+for 
+Interference 
+Mitigation”, EURASIP Journal on Wireless Communications and Networking, vol. 
+2007, issue 2, January 2007. 
+• 
+G. T. Pitsiladis, A. D. Panagopoulos, and Ph. Constantinou, “A Spanning-Tree-
+based Connectivity Model in Finite Wireless Networks and Performance under 
+Correlated Shadowing”, accepted for publication in IEEE Communication Letters, 
+March 2012. 
+• 
+A. D. Panagopoulos et al, “General Coverage Prediction Algorithm for 
+LMDS”, IEE Electronics Letters, pp. 684-686, 17th April 2003. 
+• 
+A. D. Panagopoulos and J. D. Kanellopoulos “On the Rain Attenuation Dynamics: 
+Spatial-Temporal 
+Analysis 
+of 
+Rainfall-rate 
+and 
+Fade 
+Duration 
+
+-----
+Statistics”, International Journal of Satellite Communications and Networking, Vol. 
+21, No. 6, pp. 595-611, Nov.-Dec. 2003. 
+• 
+A. D. Panagopoulos, P.M. Arapoglou, P.G. Cottis, “Satellite Communications at 
+Ku, Ka and V bands, Propagation Impairments and Mitigation Techniques”, IEEE 
+Communication Surveys and Tutorials, 3rd Quarter, pp.1-13, October 2004. 
+• 
+K. P. Liolis, A. D. Panagopoulos, P. G. Cottis, B. D. Rao, “On the Applicability of 
+MIMO Principle to 10-66GHz BFWA Networks: Capacity Enhancement through 
+Spatial 
+Multiplexing 
+and 
+Interference 
+Reduction 
+through 
+Selection 
+Diversity”, IEEE Transactions on Communications,  vol.57,  Issue 2, pp. 530-541, 
+Feb 2009. 
+• 
+S. A. Kanellopoulos,A. D. Panagopoulos,J. D. Kanellopoulos, “Calculation of the 
+Dynamic Input Parameter for a Stochastic Model Simulating Rain Attenuation:  A 
+Novel 
+Mathematical 
+Approach”, IEEETransactionsonAntennasandPropagation, vol. 55, no. 11, pt. 2, 
+pp. 3257–3264, Nov. 2007. 
+• 
+A. E. Drougas, A. D. Panagopoulos and P. G. Cottis, “Estimation of Packet 
+Losses due to Propagation Impairments: Application to TCP Performance over 
+Satellite”, InternationalJournalofSatelliteCommunicationsandNetworking, Volume 
+26, Issue 1, pages 57–81, January/February 2008. 
+• 
+A. E. Drougas, A. D. Panagopoulos and P. G. Cottis, “Packet Error Statistical 
+Distributions of LOS Broadband Fixed Wireless Access Channels”, IEEE 
+Transactions on Communications,  vol. 57, no. 1, pp. 22-25, January 2009. 
+• 
+D. Skraparlis, V. K. Sakarellos, A. D. Panagopoulos, J. D. Kanellopoulos, 
+"Outage Performance Analysis of Cooperative Diversity with MRC and SC in 
+Correlated 
+Lognormal 
+Channels," EURASIP 
+Journal 
+on 
+Wireless 
+Communications and Networking,  article no. 5, Volume 2009 ,  February 2009. 
+• 
+A. D. Panagopoulos, “Time Varying Interference Statistical Distribution for Direct-
+to-User Satellite Applications”, IEEE Communication Letters,  Volume 13 ,  Issue 
+6, pp. 387-389, June 2009. 
+• 
+D. Skraparlis, V. Sakarellos, A. D. Panagopoulos, J. D. Kanellopoulos, 
+“Performance of N-branch receive diversity combining in correlated lognormal 
+channels”, IEEE Communication Letters,  Volume 13 ,  Issue 7  pp. 489-491, July 
+2009. 
+• 
+K. P. Liolis, A. D. Panagopoulos, S. Scalise, “On the Combination of 
+Tropospheric and Local Environment Propagation Effects for Mobile Satellite 
+Systems above 10 GHz”, IEEE Transactions on Vehicular Technology, Volume: 
+59,  issue: 3,  pages:  1109-1120, March 2010. 
+
+-----
+• 
+V. K. Sakarellos, D. Skraparlis, A. D. Panagopoulos, J. D. Kanellopoulos, 
+“Outage Performance Analysis of a Dual-Hop Radio Relay System Operating at 
+Frequencies above 10 GHz”, IEEE Transactions on Communications, November, 
+2010. 
+• 
+P. D.  Arapoglou, K. P. Liolis, M. Bertinelli, A. D. Panagopoulos, P. G. Cottis, R. 
+De Gaudenzi, ” MIMO over Satellite: A Review”, IEEE Communication Surveys 
+and Tutorials,  March 2011. 
+• 
+D. Charilas, A. D. Panagopoulos, “A survey on game theory applications in 
+wireless networks”, Computer Networks, 2010. 
+• 
+D. Charilas, A. D. Panagopoulos, “Network Selection Problem in Multi-Access 
+Radio Network Environments”, IEEE Vehicular Technology Magazine, Dec. 2010. 
+• 
+P.‐D. M. Arapoglou, E. T. Michailidis, A. D. Panagopoulos, A. G. Kanatas, and R. 
+Prieto Cerdeira, “The Land Mobile Earth‐Space Channel: SISO to MIMO 
+Modeling from L to Ka‐Bands,” IEEE Vehicular Technology Magazine, June 2011. 
+• 
+P. D. Arapoglou, K. P. Liolis, A. D. Panagopoulos, “Railway Satellite Channel at 
+Ku Band and Above: Composite Dynamic Modeling for the Design of Fade 
+Mitigation Techniques", International Journal of Satellite Communications and 
+Networking, Jan. 2012. 
+• 
+V. Vassaki, A. D. Panagopoulos, Ph. Constantinou “Effective Capacity and 
+Optimal Power Allocation for Mobile Satellite Systems and Services”, IEEE 
+Communication Letters, Jan 2012. 
+• 
+D. Charilas. K. Georgilakis, A. D. Panagopoulos “ICARUS: hybrId inCentive 
+mechAnism for coopeRation stimUlation in ad hoc networks”, accepted for 
+publication in Elsevier Ad Hoc Networks, Dec. 2011. 
+• 
+V. K. Sakarellos, D. Skraparlis, A. D. Panagopoulos, and J. D. Kanellopoulos, 
+“Cooperative Diversity Performance in Millimeter Wave Radio Systems”, IEEE 
+Transactions on Communications, 2012. 
+• 
+G. Karagiannis, A. D. Panagopoulos, J. D. Kanellopoulos,”Multi-Dimensional 
+Rain Attenuation Stochastic Dynamic Modeling: Application to Earth-Space 
+Diversity Systems”, IEEE Transactions on Antennas and Propagation, June 
+2012.  
+ 
+
+-----

@@ -1,0 +1,658 @@
+
++442380592732
+
+chdg@ecs.soton.ac.uk
+
+Electronics and Computer Science
+Who we are
+People
+>
+>
+>
+>
+Prof. CH Kees de Groot
+Academic Staff
+1994-1998 Research Assistant, Philips Research Laboratories, the Netherlands
+1998-2000 Research Fellow, Massachusetts Institute of Technology (MIT), USA
+2000-2012 Assistant/Associate Professor, University of Southampton, U.K.
+2012 onwards: Professor, University of Southampton, Southampton, U.K.
+Research
+Research interests
+My main interest is the integration of novel nano-materials and devices with silicon electronics processing with particular emphasis on the 
+semiconducting properties of oxides, chalcogenides, and carbides. Our recent breakthroughs in these areas includes the first 100 nm 
+GeSbTe phase change memory by (non-aqueous) electrodeposition, SiC resistive memory with a record 9 orders of magnitude on/off 
+ratio, and selective growth by chemical vapour deposition of thermo-electric materials Bi Te and Sb Te .
+Pushing the boundaries of e-beam lithography and Helium ion milling to create functional structures underpins much of my additional 
+research, resulting in magneto-electronic and plasmonic devices with sub-10 nm features and ultrafast modulation of optical and 
+dielectric properties of ITO, AZO and VO by optical, electrical, and thermal methods.
+Projects
+• Phase Change Memory Materials via Non-Aqueous Electrodeposition into Nano-structured Templates
+• Thin Film Thermo-Electric Generators
+• Lead Niobate-based Tunable Dielectrics for Smart Microwave and Millimeter-wave Systems
+• Electrical and picosecond optical control of plasmonic nanoantenna hybrid devices
+• Radiation Effects and Reliability of Resistive Memories (RRAM)
+• NiPd-Si Schottky barrier Hydrogen Sensors
+• Semi-insulating Si for RF circuits
+• Spintronic device physics in Si/Ge Heterostructures
+• Magnetic Nanostructures
+• Vertical MOSFET's
+• Ni/Ge Schottky barriers for nanoelectronic applications
+• Ge catalytic growth of Carbon Nanotubes
+• Metal Oxide Tunnel Transistor
+Grants
+ADEPT - Advanced Devices by ElectroPlaTing, EPSRC £6,331,950, Jul 16 - Jul 21
+Lead Niobate-based Tunable Dielectrics for Smart Microwave and Millimeter-wave Systems, EPSRC £849,965, Oct 16 - Apr 20
+Selective Chemical Vapour Deposition for Production of Thermoelectric Micro-Generators for Energy Harvesting, STFC £363,110, Oct 16 - 
+Oct 19
+Metareflector: Next generation meta-materials based optical solar reflectors, EU Horizon 2020 £208,000, Jan 16-Dec 17
+2
+3
+2
+3
+2 
+⇧
+Page 1 of 15
+Prof. CH Kees de Groot | Electronics and Computer Science | University of Southamp...
+19/6/2017
+http://www.ecs.soton.ac.uk/people/chdg
+
+-----
+Professional
+Qualifications
+1994 Masters,  Physics, University of Groningen, the Netherlands
+1998 Ph.D., Physics, University of Amsterdam, the Netherlands
+Duties
+Director of ECS Partners Ltd
+Director of Nano-electronic characterisation facilities
+Publications
+Fan, Junqing, Jiang, Liudi, Wang, Shuncai, Huang, Ruomeng, Morgan, Katrina, Zhong, Le and De Groot, Kees (2017) 
+Amorphous SiC resistive memory with embedded Cu nanoparticles [in special issue: Micro/Nano Devices and Systems Edited 
+by Bernhard Jakoby and Roman Beigelbeck] Microelectronic Engineering, 174, pp. 1-5. (doi:10.1016/j.mee.2016.12.005).
+Huang, Ruomeng, Yan, Xingzhao, Ye, Sheng, Kashtiban, Reza J., Beanland, Richard, Morgan, Katrina A., Charlton, Martin D.B.
+and De Groot, C.H. (Kees) (2017) Compliance-free ZrO /ZrO
+/ZrO resistive memory with controllable interfacial multistate 
+switching behaviour Nanoscale Research Letters, 12, (384) (doi:10.1186/s11671-017-2155-0).
+Riedel, Christoph A., Sun, Kai, Muskens, Otto L. and De Groot, Kees (2017) Nanoscale modeling of electro-plasmonic tunable 
+devices for modulators and metasurfaces Optics Express, 25, (9), p. 10031. (doi:10.1364/OE.25.010031).
+Muskens, Otto L., Bergamini, Luca, Wang, Yudong, Gaskell, Jeffrey M., Zabala, Nerea, De Groot, C.H., Sheel, David W. and 
+Aizpurua, Javier (2016) Antenna-assisted picosecond control of nanoscale phase-transition in vanadium dioxide Light : 
+Science & Applications, pp. 1-25. (doi:10.1038/lsa.2016.173).
+Fan, Junqing, Jiang, Liudi, Wang, Shuncai, Huang, Ruomeng, Morgan, Katrina, Zhong, Le and De Groot, Cornelis (2016) 
+Dataset for Amorphous SiC resistive memory with embedded Cu nanoparticles University of Southampton 
+doi:10.5258/SOTON/403082 [Dataset] 
+Muskens, Otto, Bergamini, Luca, WANG, YUDONG, Gaskell, Jeffrey M., Zabala, Nerea, De Groot, Cornelis, Sheel, David W. and 
+Aizpurua, Javier (2016) Dataset for Antenna-assisted picosecond control of nanoscale phase-transition in vanadium dioxide
+University of Southampton doi:10.5258/SOTON/392922 [Dataset] 
+2017
+2
+2−x
+2
+2016
+Spintronic device physics in Si/Ge Heterostructures, EPSRC £424,526, Mar 12 - Feb 16
+Electrical and picosecond optical control of plasmonic nanoantenna hybrid devices, EPSRC £485,881, Jun 12 - May 15
+Phase Change Memory Materials via Non-Aqueous Electrodeposition into Nano-structured Templates, EPSRC £916,818, Jan 11 - Jan 15
+Semi-insulating Silicon substrates for high frequency integrated circuits, EPSRC £308,697, Jul 08 - Dec 11
+Metal-Free Carbon Nanotube Growth for Nanoelectronics Applications, EPSRC £573,813, Oct 06 - Mar 10
+Silicon-based nanodevices "Sinano", EU FP6 £150,000, Jan 04- Oct 07
+Vertical Metal Oxide Tunnel Transistors, EPSRC £103,000, Mar 03 - Mar 06
+⇧
+Page 2 of 15
+Prof. CH Kees de Groot | Electronics and Computer Science | University of Southamp...
+19/6/2017
+http://www.ecs.soton.ac.uk/people/chdg
+
+-----
+Chatzikyriakou, Eleni and De Groot, Cornelis (2016) Dataset: RDF and TID simulation of PDSOI 45nm MOSFET University of 
+Southampton doi:10.5258/SOTON/403024 [Dataset] 
+Hakim, M.M.A., De Groot, C.H., Hall, S. and Ashburn, Peter (2016) Drain current multiplication in thin pillar vertical MOSFETs 
+due to depletion isolation and charge coupling Journal of Computational Electronics, 15, (3), pp. 839-849. 
+(doi:10.1007/s10825-016-0853-y).
+Huang, Ruomeng, Sun, Sun Kai, Kiang, Kian S., Morgan, Katrina and de Groot, C.H. (2016) Forming-free resistive switching of 
+tunable ZnO films grown by atomic layer deposition Microelectronic Engineering, 161, pp. 7-12. 
+(doi:10.1016/j.mee.2016.03.038).
+Fan, Junqing, Jiang, Liudi, Zhong, Le, Gowers, Robert, Morgan, Katrina and De Groot, Cornelis (2016) Microstructure and 
+electrical properties of co-sputtered Cu embedded amorphous SiC University of Southampton doi:10.5258/SOTON/388275
+[Dataset] 
+Fan, Junqing, Jiang, Liudi, Zhong, Le, Gowers, Robert P., Morgan, Katrina and De Groot, C.H. (2016) Microstructure and 
+electrical properties of co-sputtered Cu embedded amorphous SiC Materials Letters, 178, pp. 60-63. 
+(doi:10.1016/j.matlet.2016.04.144).
+Huang, Ruomeng, Benjamin, Sophie, Gurnani, Chitra, Wang, Yudong, Hector, Andrew, Levason, William, Reid, Gill and De 
+Groot, Kees (2016) Nanoscale arrays of antimony telluride single crystals by selective chemical vapor deposition Scientific 
+Reports, 6, (27593), pp. 1-10. (doi:10.1038/srep27593).
+Morgan, Katrina, De Groot, Kees, Fan, Junqing, Gowers, Robert and Jiang, Liudi (2016) Switching mechanisms of Cu/SiC 
+resistive memories with W and Au counter electrodes At 74th Device Research Conference, United States. 19 - 22 Jun 2016. 2 
+pp. 
+Chatzikyriakou, Eleni, Potter, Kenneth, Redman-White, William and De Groot, Kees (2016) Three-dimensional Finite Elements 
+method simulation of Total Ionizing Dose in 22 nm bulk nFinFETs Nuclear Instruments and Methods in Physics Research 
+Section B: Beam Interactions with Materials and Atoms, pp. 1-5. (doi:10.1016/j.nimb.2016.09.007).
+Chatzikyriakou, Eleni, Morgan, Katrina, Ashburn, Peter, Redman-White, William and De Groot, Cornelis (2016) Total Ionizing 
+Dose and random dopant fluctuation effects in 65-nm gate length partially depleted Silicon-on-Insulator nMOSFETs In 2015 
+IEEE 15th International Conference on Nanotechnology (IEEE-NANO). IEEE., pp. 659-662. (doi:10.1109/NANO.2015.7388691). 
+Chatzikyriakou, Eleni, Redman-White, William and De Groot, Kees (2016) Total Ionizing Dose, Random Dopant Fluctuations 
+and its combined effect in the 45 nm PDSOI node Microelectronics Reliability, pp. 1-9. (doi:10.1016/j.microrel.2016.11.007).
+Benjamin, Sophie L., de Groot, C.H., Hector, Andrew L., Huang, Ruomeng, Koukharenko, Elena, Levason, William and Reid, 
+Gillian (2015) Chemical vapour deposition of antimony chalcogenides with positional and orientational control: precursor 
+design and substrate selectivity Journal of Materials Chemistry C, 3, pp. 423-430. (doi:10.1039/C4TC02327G).
+Gregory, Simon A., Wang, Yudong, de Groot, C.H. and Muskens, Otto L. (2015) Extreme Subwavelength Metal Oxide Direct 
+and Complementary Metamaterials ACS Photonics, 2, (5), pp. 606-614. (doi:10.1021/acsphotonics.5b00089).
+Bartlett, Philip N., Benjamin, Sophie L., de Groot, C.H. (Kees), Hector, Andrew L., Huang, Ruomeng, Jolleys, Andrew, Kissling, 
+Gabriela, Levason, William, Pearce, Stuart J., Reid, Gillian and Wang, Yudong (2015) Non-aqueous electrodeposition of 
+functional semiconducting metal chalcogenides: Ge2Sb2Te5phase change memory Materials Horizons, 2, (4), pp. 420-426. 
+(doi:10.1039/C5MH00030K).
+2015
+⇧
+Page 3 of 15
+Prof. CH Kees de Groot | Electronics and Computer Science | University of Southamp...
+19/6/2017
+http://www.ecs.soton.ac.uk/people/chdg
+
+-----
+Huang, Ruomeng, Kissling, Gabriela, Jolleys, Andrew, Bartlett, Philip, Hector, Andrew, Levason, William, Reid, Gillian and De 
+Groot, Cornelis (2015) Phase-change memory properties of electrodeposited Ge-Sb-Te thin film Nanoscale Research Letters, 
+10, pp. 1-7. (doi:10.1186/s11671-015-1136-4).
+Morgan, Katrina, Fan, Junqing, Huang, Ruomeng, Zhong, Le, Gowers, Robert, Jiang, Liudi and Groot, C.H. de (2015) Switching 
+kinetics of SiC resistive memory for harsh environments AIP Advances, 5, (7), 077121-[7pp]. (doi:10.1063/1.4926674).
+Black, Leo-Jay, Wiecha, Peter R., Wang, Yudong, de Groot, C. H., Paillard, Vincent, Girard, Christian, Muskens, Otto L. and 
+Arbouet, Arnaud (2015) Tailoring second-harmonic generation in single L-shaped plasmonic nanoantennas from the 
+capacitive to conductive coupling regime ACS Photonics, 2, (11), pp. 1592-1601. (doi:10.1021/acsphotonics.5b00358).
+Zhong, Le, Reed, P.A.S., Huang, Ruomeng, de Groot, C.H. and Jiang, Liudi (2014) Amorphous SiC based non-volatile resistive 
+memories with ultrahigh ON/OFF ratios Microelectronic Engineering, 119, pp. 61-64. (doi:10.1016/j.mee.2014.02.004).
+Huang, Ruomeng, Sun, Kai, Kiang, Kian Shen, Chen, Ruiqi, Wang, Yudong, Gholipour, Behrad, Hewak, D.W. and de Groot, C.H.
+(2014) Contact resistance measurement of Ge2Sb2Te5 phase change material to TiN electrode by spacer etched nanowire
+Semiconductor Science and Technology, 29, (9), p. 95003. (doi:10.1088/0268-1242/29/9/095003).
+Benjamin, Sophie L., de Groot, C.H., Gurnani, Chitra, Hector, Andrew L., Huang, Ruomeng, Koukharenko, Elena, Levason, 
+William and Reid, Gillian (2014) Controlling the nanostructure of bismuth telluride by selective chemical vapour deposition 
+from a single source precursor Journal of Materials Chemistry A, 2, (14), pp. 4865-4869. (doi:10.1039/c4ta00341a).
+Morgan, K., Huang, Ruomeng, Pearce, Stuart, Zhong, L., Jiang, Liudi and Groot, C. H. De (2014) Effect of stoichiometry of TiN 
+electrode on the switching behavior of TiN/HfOx/TiN structures for resistive RAM At 2013 MRS Fall Meeting &amp; Exhibit, 
+United States. 01 - 06 Dec 2013. (doi:10.1557/opl.2014.218). 
+Abb, Martina, Wang, Yudong, de Groot, C.H. and Muskens, Otto L. (2014) Hotspot-mediated ultrafast nonlinear control of 
+multifrequency plasmonic nanoantennas Nature Communications, 5, (4869), pp. 1-8. (doi:10.1038/ncomms5869).
+Zhong, Le, Jiang, Liudi, Huang, Ruomeng and Groot, C.H. de (2014) Nonpolar resistive switching in Cu/SiC/Au non-volatile 
+resistive memory devices Applied Physics Letters, 104, (9), p. 93507. (doi:10.1063/1.4867198).
+Black, Leo-Jay, Wang, Yudong, de Groot, C.H., Arbouet, Arnaud and Muskens, Otto L. (2014) Optimal polarization conversion 
+in coupled dimer plasmonic nanoantennas for metasurfaces ACS Nano, 8, (6), pp. 6390-6399. (doi:10.1021/nn501889s).
+Zhong, Le, Reed, P.A.S., Huang, Ruomeng, de Groot, C.H. and Jiang, Liudi (2014) Resistive switching of Cu/SiC/Au memory 
+devices with a high ON/OFF ratio Solid-State Electronics, 94, pp. 98-102. (doi:10.1016/j.sse.2014.02.013).
+Abb, Martina, Wang, Yudong, Papasimakis, Nikitas, de Groot, C.H. and Muskens, Otto L. (2014) Surface-enhanced infrared 
+spectroscopy using metal oxide plasmonic antenna arrays Nano Letters, 14, (1), pp. 346-352. (doi:10.1021/nl404115g).
+Wang, Yudong, Abb, Martina, Papasimakis, Nikitas, de Groot, C.H. and Muskens, Otto L. (2014) Surface-enhanced infrared 
+spectroscopy using ultra-compact indium tin oxide (ITO) sensor arrays At CLEO: Science and Innovations: Nano-, Micro-, and 
+Waveguide-sensing (SM3E), United States. 09 - 13 Jun 2014. , SM3E.7 -SM3E.9. (doi:10.1364/CLEO_SI.2014.SM3E.7). 
+Morgan, Katrina, de Groot, Kees and Huang, Ruomeng (2014) The effect of atomic layer deposition temperature on switching 
+properties of HfOx resistive RAM devices At IEEE International Symposium. 01 - 05 Jun 2014.
+2014
+⇧
+Page 4 of 15
+Prof. CH Kees de Groot | Electronics and Computer Science | University of Southamp...
+19/6/2017
+http://www.ecs.soton.ac.uk/people/chdg
+
+-----
+Morgan, Katrina, Huang, Ruomeng, Potter, Kenneth, Shaw, Chris, Redman-White, William and de Groot, Kees (2014) Total 
+dose hardness of TiN/HfOx/TiN resistive random access memory IEEE Transactions on Nuclear Science, 61, (6), pp. 1-6. 
+(doi:10.1109/TNS.2014.2365058).
+Potter, Kenneth, Morgan, Katrina, Shaw, Chris, Ashburn, Peter, Redman-White, William and De Groot, Kees (2014) Total 
+ionizing dose response of fluorine implanted silicon-on-insulator buried oxide Microelectronics Reliability, 54, (9-10), pp. 
+2339-2343. (doi:10.1016/j.microrel.2014.07.018).
+Wang, Yudong, Abb, Martina, Boden, Stuart A., Aizpurua, Javier, De Groot, C.H. and Muskens, Otto L. (2014) Ultrafine control 
+of partially loaded single plasmonic nanoantennas fabricated using e-beam lithography and helium ion beam milling At 
+CLEO: QELS Fundamental Science: Photonic Crystals and Complex Plasmonic Nanostructures (FF1K), United States. 08 - 13 Jun 
+2014. , FF1K.1-FF1K.2. (doi:10.1364/CLEO_QELS.2014.FF1K.1). 
+Huang, Ruomeng, Sun, Kai, Kiang, Kian Shen, Chen, Ruiqi, Wang, Yudong, Gholipour, Behrad, Hewak, Daniel W., Hector, 
+Andrew L., Reid, Gillian and de Groot, C.H. (2013) A novel top-down fabrication process for Ge2Sb2Te5 phase change 
+material nanowires At 13th Non-Volatile Memory Technology Symposium (NVMTS), United States. 12 - 14 Aug 2013. , pp. 2-5. 
+Benjamin, Sophie, de Groot, C.H., Gurnani, Chitra, Hector, Andrew L., Huang, Ruomeng, Ignatyev, Konstantin, Levason, 
+William, Pearce, Stuart, Thomas, Fiona and Reid, Gillian (2013) Area selective growth of titanium diselenide thin films into 
+micropatterned substrates by low-pressure chemical vapor deposition Chemistry of Materials, 25, (23), pp. 4719-4724. 
+(doi:10.1021/cm402422e).
+Wang, Yudong, Abb, Martina, Boden, Stuart, de Groot, C.H. and Muskens, Otto L. (2013) Controlled fabrication of plasmonic 
+nanogaps using electron beam lithography and helium-ion beam milling At 39th International Conference on Micro and Nano 
+Engineering, United Kingdom. 16 - 19 Sep 2013.
+Huang, R., Chen, R., Gholipour, B., Kiang, K.S., Sun, K., Wang, Y. and de Groot, C.H. (2013) Determination of specific contact 
+resistance of Ge2Sb2Te5 phase change materials by spacer etched nanowires At 13th Non-Volatile Memory Technology 
+Symposium, United States. 12 - 14 Aug 2013.
+Dong, L., de Groot, C.H., Usgaocar, A. and Chavagnac, V. (2013) Effect of interfacial PdNi concentration on time response of 
+Si-based electrodeposited hydrogen sensors At Transducers 2013 &amp; Eurosensors XXVII: The 17th International 
+Conference on Solid-State Sensors, Actuators, and Microsystems, Spain. 16 - 20 Jun 2013. 4 pp. 
+Uchino, T., Shimpo, F., Kawashima, T., Ayre, G.N., Smith, D.C., de Groot, C.H. and Ashburn, P. (2013) Electrical transport 
+properties of isolated carbon nanotube/Si heterojunction Schottky diodes Applied Physics Letters, 103, (19), pp. 1-3. 
+(doi:10.1063/1.4829155).
+George, Kathryn, Groot, C. H. De, Gurnani, Chitra, Hector, Andrew L., Huang, Ruomeng, Jura, M., Levason, William and Reid, 
+Gillian (2013) Low pressure chemical vapour deposition of crystalline Ga2Te3 and Ga2Se3 thin films from single source 
+precursors using telluroether and selenoether complexes Physics Procedia, 46, pp. 142-148. 
+(doi:10.1016/j.phpro.2013.07.056).
+Bartlett, Philip N., Cook, David A., de Groot, C.H., Hector, Andrew L., Huang, Ruomeng, Jolleys, Andrew, Kissling, Gabriela P., 
+Levason, William, Pearce, Stuart and Reid, Gillian (2013) Non-aqueous electrodeposition of metals and metalloids from 
+halometallate salts RSC Advances, 3, (36), pp. 15645-15654. (doi:10.1039/c3ra40739j).
+Huang, Ruomeng, Bartlett, Philip N., Benjamin, Sophie L., Gurnani, Chitra, Hector, Andrew L., Jolleys, Andrew, Kissling, G., 
+Levason, William, Pearce, Stuart, Reid, Gillian and de Groot, C.H. (2013) Selective deposition of phase change materials by 
+chemical vapor deposition and electrodeposition At European Phase Change and Ovonics Symposium, Germany. 08 - 10 Sep 
+2013.
+2013
+⇧
+Page 5 of 15
+Prof. CH Kees de Groot | Electronics and Computer Science | University of Southamp...
+19/6/2017
+http://www.ecs.soton.ac.uk/people/chdg
+
+-----
+George, Kathryn, de Groot, Cornelis H., Gurnani, Chitra, Hector, Andrew L., Huang, Ruomeng, Jura, Marek, Levason, William, 
+Reid, Gillian and Huang, R (2013) Telluroether and Selenoether complexes as single source reagents for low pressure 
+chemical vapor deposition of crystalline Ga2Te3 and Ga2Se3 thin films Chemistry of Materials, 25, (9), pp. 1829-1836. 
+(doi:10.1021/cm400382j).
+Wang, Yudong, Abb, Martina, Boden, Stuart A., Aizpurua, Javier, de Groot, C.H. and Muskens, Otto L. (2013) Ultrafast 
+Nonlinear control of progressively loaded, single plasmonic nanoantennas fabricated using helium ion milling Nano Letters, 
+13, (11), pp. 5647-5653. (doi:10.1021/nl403316z). (PMID:24127754). 
+Dong, Longtao, de Groot, C.H., Usgaocar, A. and Chavagnac, V. (2012) Electro-deposited PdNi-Si Schottky barrier hydrogen 
+sensors with improved time response At Eurosensors 2012: The 26th European Conference on Solid-State Transducers, Poland. 
+09 - 12 Sep 2012. , 37 - 40. (doi:10.1016/j.proeng.2012.09.078). 
+Wang, Yudong, Boden, Stuart, Bagnall, Darren, Rutt, H.N. and de Groot, C.H. (2012) Helium ion beam milling and electron 
+beam lithography to create sub-20nm sized domain wall magnetoresistance spin-valve At 38th International Micro &amp; 
+Nano Engineering Conference, France. 16 - 20 Sep 2012.
+Wang, Yudong, Boden, S.A., Bagnall, D.M., Rutt, H.N. and de Groot, C.H. (2012) Helium ion beam milling to create a nano-
+structured domain wall magnetoresistance spin valve Nanotechnology, 23, pp. 395302-1. (doi:10.1088/0957-
+4484/23/39/395302).
+de Groot, C.H., Gurnani, Chitra, Hector, Andrew L., Huang, Ruomeng, Jura, Marek, Levason, William and Reid, Gillian (2012) 
+Highly selective chemical vapor deposition of tin diselenide thin films onto patterned substrates via single source 
+diselenoether precursors Chemistry of Materials, 22, (24), pp. 4442-4449. (doi:10.1021/cm302864x).
+Abb, Martina, Wang, Yudong, Albella, Pablo, de Groot, C.H., Aizpurua, Javier and Muskens, Otto (2012) Interference, coupling, 
+and nonlinear control of high-order modes in single asymmetric nanoantennas ACS Nano, 6, (7), pp. 6462-6470. 
+(doi:10.1021/nn3021579). (PMID:22708624). 
+Usgaocar, A.R., de Groot, C.H., Boulart, Cédric, Castillo, Alain and Chavagnac, Valérie (2012) Low power hydrogen gas sensors 
+using electrodeposited PdNi-Si Schottky diodes [in special issue: Eurosensors XXIV, 2010] Sensors and Actuators B: Chemical, 
+170, pp. 176-181. (doi:10.1016/j.snb.2011.06.022).
+Abuelgasim, A., Mallik, Kanad, Ashburn, P. and De Groot, C. H. (2011) Fabrication of low loss coplanar waveguides on gold-
+doped Czochralski-silicon In Bioelectronics, Biomedical, and Bioinspired Systems V; and Nanotechnology V. The International 
+Society for Optical Engineering., p. 806811. (doi:10.1117/12.886552). 
+Hakim, M.M.A., Abuelgasim, A., Tan, L., de Groot, C.H., Redman-White, W., Hall, S. and Ashburn, P. (2011) Improved drive 
+current in RF vertical MOSFETS using hydrogen anneal IEEE Electron Device Letters, 32, (3), pp. 279-281. 
+(doi:10.1109/LED.2010.2101042).
+Wang, Yudong, de Groot, C.H., Fangohr, H. and Gonzalez Diaz, C. (2011) Magneto-resistance in a lithography defined single 
+constrained domain wall spin valve At IEEE Asia International Magnetics Conference, Taiwan, Province of China. 25 - 29 Apr 
+2011.
+Uchino, T., Ayre, G.N., Smith, D.C., Hutchison, J.L., de Groot, C.H. and Ashburn, P. (2011) Metal catalyst-free growth of carbon 
+nanotubes and their application in field effect transitors Electrochemical Society Letters, 156, (8), k144-k148. 
+2012
+2011
+⇧
+Page 6 of 15
+Prof. CH Kees de Groot | Electronics and Computer Science | University of Southamp...
+19/6/2017
+http://www.ecs.soton.ac.uk/people/chdg
+
+-----
+Uchino, T., Hutchinson, J. L., Ayre, G.N., Smith, D.C., De Groot, Kees and Ashburn, Peter (2011) Metal-Catalyst-Free Growth of 
+Silica Nanowires and Carbon Nanotubes Using Ge Nanostructures Jpn. J. Appl. Phys., 50, (04DN02)
+Ayre, G.N., Uchino, T., Mazumder, B., Hector, A.L., Hutchison, J.L., Smith, D.C., Ashburn, P. and de Groot, C.H. (2011) On the 
+mechanism of carbon nanotube formation: the role of the catalyst Journal of Physics: Condensed Matter, 23, (39), p. 394201. 
+(doi:10.1088/0953-8984/23/39/394201). (PMID:21921315). 
+Ayre, G.N., Uchino, T., Mazunder, B., Hector, A.L., Hutchinson, J.L., Smith, D.C., Ashburn, Peter and De Groot, Kees (2011) On 
+the mechanism of carbon nanotube formation: the role of the catalyst J. Phys.: Condens. Matter, 23, (394201)
+Johari, Z., Schmidt, Marek E., De Groot, Kees, Ismail, R. and Chong, Harold (2011) Raman Spectroscopy and Electrical 
+Characterisation of Reactive Ion Etched Multilayer Graphene At Micro and Nano Engineering, Germany. 19 - 23 Sep 2011.
+Ayre, G.N., Uchino, Takashi, Mazumder, M, Hector, A.L., Smith, D.C., Ashburn, Peter, De Groot, Kees and Hutchinson, J.L.
+(2010) Chemical Vapour Deposition of CNTs Using Structural Nanoparticle Catalysts In, Carbon Nanotubes. INTECH pp. 19-
+39. 
+Tan, L., Hakim, M.M.A., Connor, S., Bousquet, A., de Groot, C.H., Redman-White, W, Hall, S. and Ashburn, P. (2010) Compact 
+model extraction issues of nonstandard CMOS compatible vertical MOSFETs At 10th International Conference on ULtimate 
+Integration of Silicon (ULIS), United Kingdom. 17 - 19 Mar 2010.
+Mallik, Kanad, Abuelgasim, Ahmed, Ashburn, Peter and De Groot, Kees (2010) Deep level dopant compensated Czochralski 
+silicon substrates for MMICs At ARMMS RF &amp; Microwave Society Conference. 
+De Groot, Kees, Li, Xiaoli and Husain, Muhammad (2010) Electrodeposited Ni-Ge Schottky barriers: Fermi-level pinning, 
+Negative Differential Conductance, Germanides, and Spin Transport At 3rd International Conference on Spintronic Materials 
+and Technology. 
+Claudio Gonzalez, David, Husain, Muhammad Khaled, De Groot, Kees, Bordignon, Giuliano, Fischbacher, Thomas and 
+Fangohr, Hans (2010) Fabrication and simulation of nanostructures for domain wall magnetoresistance studies on nickel
+Journal of Magnetism and Magnetic Materials, 322, pp. 1467-1470. (doi:10.1016/j.jmmm.2009.02.142).
+Abuelgasim, Ahmed, Mallik, Kanad, De Groot, Kees, Ashburn, Peter, Jordan, D.M. and Wilshaw, P.R. (2010) High-resistivity 
+Czochralski-silicon using Deep Level Doping Compensation At ESSDERC 2010, Spain. 
+Usgaocar, Ashwin, De Groot, Kees, Boulart, C. and Chavagnac, V.M.C. (2010) Low Power Hydrogen Sensors Using 
+Electrodeposited PdNi Schottky Diodes At Eursosensors, Austria. 
+Wang, Yudong, Claudio-Gonzalez, D., Fangohr, H. and De Groot, Kees (2010) Magneto-resistance in a lithography defined 
+single constrained domain wall spin valve Applied Physics Letters, 97, pp. 262501-262503. (doi:10.1063/1.3531666).
+Uchino, T., Ayre, G.N., Smith, D.C., Hutchison, J.L., de Groot, C.H. and Ashburn, P. (2010) Metal-Catalyst-Free Growth of 
+Carbon Nanotubes for CMOS Integration At IEEE Solid State Device Meeting, Japan. 22 - 24 Sep 2010.
+Hakim, M.M.A., Tan, L., Abuelgasim, A., de Groot, C.H., Redman-White, W., Hall, S. and Ashburn, P. (2010) Self-aligned 
+silicidation of surround gate vertical MOSFETs for low cost RF applications IEEE Transactions on Electron Devices, 57, (12), pp. 
+3318-3326. (doi:10.1109/TED.2010.2082293).
+2010
+⇧
+Page 7 of 15
+Prof. CH Kees de Groot | Electronics and Computer Science | University of Southamp...
+19/6/2017
+http://www.ecs.soton.ac.uk/people/chdg
+
+-----
+Shen, C., Trypiniotis, T., Lee, K.Y., Holmes, S.N., Mansell, R., Husain, M., Shah, V., Li, X.V., Kurebayashi, H, Farrer, I, de Groot, C H, 
+Leadley, D R, Bell, G, Parker, E H C, Whall, T, Ritchie, D A and Barnes, C H W (2010) Spin transport in Germanium at room 
+temperature Applied Physics Letters, 97, (162104), pp. 1-3. (doi:10.1063/1.3505337).
+Husain, Muhammad, Li, Xiaoli and De Groot, Kees (2009) A Vertical Transport Geometry for Electrical Spin Injection and 
+Extraction in Si Solid State Communications, 149, pp. 1565-1568. 
+Hakim, M.M.A., Mallik, K., de Groot, C.H., Redman-White, W., Ashburn, P., Tan, L. and Hall, S. (2009) A self-aligned silicidation 
+technology for surround gate vertical MOSFETs At European Solid State Device Research Conference (ESSDERC), Greece. 14 -
+18 Sep 2009. 4 pp, pp. 978-981. 
+Hakim, M.M.A., Mallik, K., de-Groot, C.H., Redman-White, W, Tan, L., Hall, S. and Ashburn, P. (2009) A self-aligned silicidation 
+technology for surround-gate vertical MOSFETS At 39th European Solid-State Device Research Conference (ESSDERC 2009), 
+Greece. 14 - 18 Sep 2009.
+Husain, Muhammad, Li, Xiaoli and De Groot, Kees (2009) Electrical Spin Injection and Extraction in Si in a Vertical Transport 
+Geometry At IEEE International Magnetics Conference, United States. 
+Husain, Muhammad, Li, Xiaoli and De Groot, Kees (2009) Electrodeposited Ni/Ge contacts for limiting leakage currents in 
+Schottky barrier MOSFETs At International Semiconductor Device Research Symposium, United States. 09 - 11 Dec 2009.
+Usgaocar, Ashwin and De Groot, Kees (2009) Electrodeposited PdNi as possible ferromagnetic contacts for Carbon 
+nanotubes. Physica Status Solidi C, 247, (4), pp. 888-891. 
+Uchino, T., Ayre, G.N., Smith, D.C., Hutchison, J.L., de Groot, C.H. and Ashburn, P. (2009) Fe/Ge catalyzed carbon nanotube 
+growth on HfO2 for nanosensor applications At IEEE Solid State Devices &amp; Materials (SSDM) Conference, Japan. 07 - 09 
+Oct 2009.
+Uchino, T., Ayre, G.N., Smith, D.C., Hutchison, J.L., de Groot, C.H. and Ashburn, P. (2009) Growth of Single-Walled Carbon 
+Nanotubes Using Germanium Nanocrystals Formed by Implantation Journal of the Electrochemical Society, 156, (8), K144-
+K148. (doi:10.1149/1.3147248).
+Uchino, Takashi, Ayre, G.N., Smith, D.C., Hutchison, J.L., de Groot, C.H. and Ashburn, Peter (2009) Growth of single-walled 
+carbon nanotubes using germanium nanocrystals formed by implantation Journal of the Electrochemical Society, 156, (8), 
+K144-K148. 
+Husain, M. K., Li, X. and De Groot, C. H. (2009) High Quality Schottky Contacts for Limiting Leakage Currents in Ge Based 
+Schottky Barrier MOSFETs IEEE Transactions on Electron Devices, 56, (3), pp. 499-504. 
+Li, Xiaoli, Husain, Muhammad, Kiziroglou, Michail and De Groot, Kees (2009) Inhomogeneous Ni/Ge Schottky barriers due to 
+variation in Fermi-level pinning Microelectronic Engineering, 86, (7-9), pp. 1599-1602. 
+Husain, Muhammad, Li, Xiaoli V. and de Groot, Cornelis H. (2009) Observation of negative differential conductance in a 
+reverse-biased Ni/Ge Schottky diode IEEE Electron Device Letters, 30, (9), pp. 966-968. (doi:10.1109/LED.2009.2025673).
+Li, X.V., Cole, R.M., Milhano, C.A., Bartlett, P.N ., Baumberg, J.J., Soares, B.F . and De Groot, C.H. (2009) The fabrication of 
+plasmonic Au nano-void trench arrays by guided self-assembly Nanotechnology, 20, (28), pp. 285309-285316. 
+(doi:10.1088/0957-4484/20/28/285309).
+2009
+⇧
+Page 8 of 15
+Prof. CH Kees de Groot | Electronics and Computer Science | University of Southamp...
+19/6/2017
+http://www.ecs.soton.ac.uk/people/chdg
+
+-----
+Claudio Gonzalez, David, De Groot, Kees, Bordignon, G., Fischbacher, T., Franchin, M. and Fanghor, H. (2008) Fabrication and 
+simulation of Nanostructures for magnetoresistance studies on Ni At IEEE Magnetics Society Summer School, United States. 02 
+- 08 Aug 2008.
+Li, Xiaoli V., Milhano, Clelia A., Cole, Robin M., Bartlett, Phil N., Baumberg, Jeremy J. and de Groot, Cornelis H. (2008) 
+Fabrication of Nano-Structured Gold Arrays by Guided Self-assembly for Plasmonics Mater. Res. Soc. Symp. Proc., 1077E
+Claudio Gonzalez, David, Husain, Muhammad, De Groot, Kees, Bordignon, G., Fischbacher, T and Fangohr, H. (2008) 
+Fabrication of magnetic Ni nanostructures for magnetoresistance studies At Joint European Magnetic Symposia (JEMS). 14 -
+19 Sep 2008.
+Husain, M. K., Li, X. and De Groot, C. H. (2008) High quality NiGe/Ge diodes for Schottky barrier MOSFETs At E-MRS Spring 
+Meeting,, France. 
+Husain, M. K., Li, X. and De Groot, C. H. (2008) High quality Schottky contacts for limiting leakage currents in Ge based 
+Schottky barrier MOSFETs At UK Semiconductors, United Kingdom. 
+Husain, Muhammad, Li, Xiaoli and De Groot, C.H. (2008) High-quality NiGe/Ge diodes for Schottky barrier MOSFETs Materials 
+Science in Semiconductor Processing, 11, pp. 305-309. 
+Fangohr, Hans, Zimmermann, Jürgen P., Boardman, Richard P., Gonzalez, David C. and de Groot, Cornelis H. (2008) Numerical 
+investigation of domain walls in constrained geometries Journal of Applied Physics, 103, (7), pp.D926. 
+(doi:10.1063/1.2838474).
+Fangohr, Hans, Zimmermann, Jürgen P., Boardman, Richard P., C. Gonzalez, David and de Groot, Cornelis H. (2008) Numerical 
+investigation of domain walls in constrained geometries Journal of Applied Physics, 103, 07D926. 
+Kiziroglou, M. E., Li, X., Zhukov, A. A., de Groot, P. A. J. and de Groot, C. H. (2008) Thermionic field emission at 
+electrodeposited Ni–Si Schottky barriers Solid-State Electronics, 52, (7), pp. 1032-1038. 
+Husain, M. K., Li, X and De Groot, C. H. (2007) A study on Ge based spin-LED for spintronic applications. At Condensed Matter 
+and Materials Physics, United Kingdom. 12 - 13 Apr 2007.
+Ayre, G.N., Smith, D.C., Mazumder, B., Hector, J., Uchino, T., de Groot, C.H. and Ashburn, P. (2007) CMOS compatible synthesis 
+of carbon nanotubes At Materials Research Society Conference, United States. 24 - 28 Mar 2007.
+Gonzalez, D.C., Kiziroglou, M.E., Li, X., Zhukov, A.A., Fangohr, H., de Groot, P.A.J., Barttlet, P.N. and de Groot, C.H. (2007) Long 
+range ordering in self-assembled Ni arrays on patterned Si Journal of Magnetism and Magnetic Materials, 316, (2), e78-e81. 
+(doi:10.1016/j.jmmm.2007.02.059).
+Li, X., Gonzalez, D. C., Kiziroglou, M. E, Zhukov, A. A., Bartlett, P. N., De Groot, P. A. J. and De Groot, C. H. (2007) Nano Inverse 
+Sphere Ni Arrays by Guided Self-assembly At 10th Joint Intermag-MMM, United States. 07 - 11 Jan 2007.
+Li, X., Kiziroglou, M. E., Husain, M. K., Zhukov, A. A., de Groot, P. A. J. and de Groot, C. H. (2007) Transport Mechanisms at 
+Ferromagnet-Si Schottky barrier contact for spin injection At WUN-SPIN 2007, United Kingdom. 07 - 10 Aug 2007.
+2008
+2007
+⇧
+Page 9 of 15
+Prof. CH Kees de Groot | Electronics and Computer Science | University of Southamp...
+19/6/2017
+http://www.ecs.soton.ac.uk/people/chdg
+
+-----
+Kiziroglou, M.E., Zhukov, A., LI, X, Gonzalez, D.C., de Groot, P.A.J., Bartlett, Philip N. and de Groot, C.H. (2006) Analysis of 
+thermionic emission from electrodeposited Ni–Si Schottky barriers Solid State Communications, 140, (11-12), pp. 508-513. 
+(doi:10.1016/j.ssc.2006.09.027).
+Kiziroglou, M.E., Zhukov, A.A., Li, X., Gonzalez, D.C., de Groot, P.A.J., Bartlett, P.N. and de Groot, C.H. (2006) Analysis of 
+thermionic emission from electrodeposited Ni–Si Schottky barriers Solid State Communications, 140, pp. 508-513. 
+Goncharev, A.V., Zhukov, A.A., Metlushko, V.V., Bordignon, G., Fangohr, H., de Groot, C.H., Unguris, J., Uhlig, W.C., Karapetrov, 
+G., Ilic, B. and de Groot, P.A.J. (2006) Anisotropy of Magnetization Reversal and Magnetoresistance in Square Arrays of 
+Permalloy Nano-Rings IEEE TRANSACTIONS ON MAGNETICS,, 42, (10), pp. 2948-2950. 
+Gili, E., Kunz, D., Uchino, T., Hakim, M.M.A., de Groot, C.H., Ashburn, P. and Hall, S. (2006) Asymmetric gate induced drain 
+leakage and body leakage in vertical MOSFETs with reduced parasitic capacitance IEEE Transactions on Electron Devices, 53, 
+(5), pp. 1080-1087. 
+Hakim, M.M.A., de Groot, C. H., Gili, E., Uchino, T., Hall, S. and Ashburn, P. (2006) Depletion isolation effect in Vertical 
+MOSFETS during transition from partial to fully depleted operation IEEE Transaction on Electron Devices, 53, (4), pp. 929-933. 
+Mallik, K, de Groot, C H, Ashburn, P and Wilshaw, P R (2006) Enhancement of resistivity of Czochralski silicon by deep level 
+manganese doping Applied Physics Letters, 89, (11), pp. 112122-1. (doi:10.1063/1.2349836).
+Uchino, T., de Groot, C.H., Ashburn, P., Bourdakos, K.N. and Smith, D.C. (2006) Ge catalysed vapour liquid solid growth of 
+carbon nanotubes At European Solid State Device Research Conference (ESSDERC), Switzerland. 19 - 21 Sep 2006. , pp. 214-
+217. 
+Uchino, T., Bourdakos, K.N., de Groot, C.H., Smith, D.C. and Ashburn, P. (2006) Growth of SiOx nanowires on Ge nanodots At 
+NT06: 7th International conference on the science and application of nanotubes, Japan. 18 - 23 Jun 2006.
+Li, X., Gonzalez, D. C., Zhukov, A. A., Kiziroglou, M. E., Bartlett, P. N., de Groot, P. A. J., Fangohr, H. and De Groot, C. H. (2006) 
+Magnetic Domain Structures in Self-assembled Ni Anti-dot Stripes on Si At III Joint European Magnetic Symposia (JEMS'06), 
+Spain. 26 - 30 Jun 2006.
+Claudio Gonzalez, David, Li, Xiaoli, Zhukov, A. A., Kiziroglou, Michail, Barttlet, P. N., de Groot, P. A. J., Fangohr, H. and De 
+Groot, Kees (2006) Magnetic Domain Structures in Self-assembled Ni Antidot Stripes on Si At Condensed Matter and 
+Materials Physics (CMMP), United Kingdom. 20 - 21 Apr 2006.
+Kiziroglou, M.E., Li, X., Gonzalez, D.C., de Groot, C.H., Zhukov, A.A., de Groot, P.A.J. and Bartlett, P.N. (2006) Orientation and 
+symmetry control of inverse sphere magnetic nanoarrays by guided self-assembly Journal of Applied Physics, 100, (11), pp. 
+113720-113725. (doi:10.1063/1.2386936).
+Claudio Gonzalez, David, Kiziroglou, Michail, Li, Xiaoli, Zhukov, A. A, Fangohr, H., de Groot, P. A. J., Bartlett, P. N. and De 
+Groot, Kees (2006) Orientation, symmetry control and long range ordering in self-assembled Ni arrays on patterned Si At 
+INternational Workshop on Nanomagnets by Self-organization, Austria. 08 - 11 Oct 2006.
+Mallik, K., de Groot, C.H., Ashburn, P. and Wilshaw, P.R. (2006) Semi insulating Czochralski silicon for radio frequency 
+applications Applied Physics Letters, 89, p. 112122. 
+Mallik, K., de Groot, C.H., Ashburn, P. and Wilshaw, P.R. (2006) Semi-insulating Czochralski silicon for radio frequency 
+applications At European Solid State Device Research Conference (ESSDERC), Switzerland. 19 - 21 Sep 2006. , pp. 435-438. 
+2006
+⇧
+Page 10 of 15
+Prof. CH Kees de Groot | Electronics and Computer Science | University of Southa...
+19/6/2017
+http://www.ecs.soton.ac.uk/people/chdg
+
+-----
+Mallik, Kanad, de Groot, C.H., Ashburn, P. and Wilshaw, P.R. (2006) Semi-insulating silicon by deep level doping for radio 
+frequency applications At 15th Surrey Ion Beam Centre Users' Workshop, United Kingdom. 
+Chong, LH, Mallik, K, de Groot, CH and Kersting, R (2006) The structural and electrical properties of thermally grown TiO2 thin 
+films J. Phys.: Condens. Matter, 18, pp. 645-657. 
+Li, X., Husain, Muhammad K, Claudio Gonzalez, David, Zhukov, A. A., Bartlett, P. N., de Groot, P. A. J. and De Groot, Kees
+(2006) Transport Mechanisms at Ni-Si Schottky Barriers for Spin Injection At III Joint European Magnetic Symposia (JEMS), 
+Spain. 26 - 30 Jun 2006.
+Kiziroglou, M.E., Zhukov, A.A., Li, X., Gonzalez, D.C., Abdelsalam, M., Bartlett, P.N., de Groot, P.A.J. and De Groot, C.H. (2006) 
+Transport mechanisms at Ni-Si Schottky barriers for spin injection. At The 2006 IEEE International Magnetics Conference 
+(INTERMAG 2006), United States. 08 - 12 May 2006. , p. 123. 
+Gili, E., Uchino, T., Hakim, M.M.A., de Groot, C.H., Ashburn, P. and Hall, S. (2005) A new approach to the frabrication of CMOS 
+compatible vertical MOSFETs incorporating a dielectric pocket. At 6th International Conference on ULtimate Integration of 
+Silicon (ULIS), Italy. 07 - 08 Apr 2005. , pp. 127-130. 
+Uchino, T., Bourdakos, K.N., Ashburn, P., de Groot, C.H., Kiziroglou, M.E. and Smith, D.C. (2005) Catalyst free low temperature 
+direct growth of carbon nanotubes on SiGe islands and Ge quantum dots At 6th International Conference on the Science and 
+Application of Nanotubes, NT05, Sweden. 26 Jun - 01 Jul 2005.
+Uchino, T., Bourdakos, K.N., Ashburn, P., de Groot, C.H., Kiziroglou, M.E. and Smith, D.C. (2005) Catalyst free low temperature 
+direct growth of carbon nanotubes on SiGe islands and Ge quantum dots At NT05: 6th International Conference on the 
+Science and Application of Nanotubes, Sweden. 26 Jun - 02 Jul 2005.
+Uchino, T., Bourdakos, K.N., de Groot, C.H., Ashburn, P., Wang, S., Kiziroglou, M.E., Dilliway, G.D. and Smith, D.C. (2005) 
+Catalyst free low temperature, direct growth of carbon nanotubes At IEEE Conference on Nanotechnology, IEEE-NANO, Japan. 
+11 - 15 Jul 2005.
+Hakim, M M A, de Groot, C H, Gili, E, Uchino, T, Hall, S and Ashburn, P (2005) Effect of transition from PD to FD operation on 
+the depletion isolation effect in vertical MOSFETs At 6th International Conference on ULtimate Integration of Silicon (ULIS), 
+Italy. 07 - 08 Apr 2005. , pp. 131-134. 
+Kiziroglou, Michail E., Zhukov, Alexander A., Abdelsalam, Mamdouh, Li, Xiaoli, de Groot, Peter A. J., Bartlett, Philip N. and de 
+Groot, Cornelis H. (2005) Electrodeposition of Ni-Si Schottky Barriers IEEE Transactions on Magnetics, 41, (10), pp. 2639-2641. 
+Kiziroglou, M.E., Zhukov, A.A., Abdelsalam, M., Li, X.L., De Groot, P.A.J., Bartlett, P.N. and De Groot, C.H. (2005) 
+Electrodeposition of Ni-Si Schottky barriers IEEE Transactions on Magnetics, 41, (10), pp. 2639-2641. 
+(doi:10.1109/TMAG.2005.854737).
+Hakim, M. M. A., Ashburn, P., de Groot, C. H., Gili, E., Uchino, T. and Hall, S. (2005) Germanium seeded crystallisation of ?-Si 
+for application in 3D integration At PREP, United Kingdom. 30 Mar - 01 Apr 2005.
+Uchino, T., Bourdakos, K.N., de Groot, C.H., Ashburn, P., Kiziroglou, M.E., Dilliway, G.D. and Smith, D.C. (2005) Metal catalyst-
+free low-temperature carbon nanotube growth on SiGe islands Applied Physics Letters, 86, (23), p. 233110. 
+Zhukov, A.A., Kiziroglou, M.E., Goncharov, A.V., Boardman, R., Ghanem, M.A., Novosad, V., Karapetrov, G., Li, X., Fangohr, H., 
+de Groot, C.H., Bartlett, P.N. and de Groot, P.A.J. (2005) Shape induced anisotropy in hybrid anti-dot arrays from guided self-
+assembly templates In Digests of the IEEE International Magnetics Conference, 2005. INTERMAG Asia 2005. Institute of 
+Electrical and Electronics Engineers., pp. 923-924. 
+2005
+⇧
+Page 11 of 15
+Prof. CH Kees de Groot | Electronics and Computer Science | University of Southa...
+19/6/2017
+http://www.ecs.soton.ac.uk/people/chdg
+
+-----
+Zhukov, Alexander A., Kiziroglou, Michail E., Goncharov, A. V., Boardman, R., Ghanem, M. A., Novosad, V., Karapetrov, G., Li, 
+Xiaoli, Fangohr, H., de Groot, C. H., Bartlett, P. N. and de Groot, P. A. J., (2005) Shape induced anisotropy in hybrid anti-dot 
+arrays from guided self-assembly templates. Hillebrands, B. (ed.) At The 2005 IEEE International Magnetics Conference. 04 - 08 
+Apr 2005.
+Zhukov, Alexander A., Kiziroglou, Michail E., Goncharov, A. V., Boardman, R., Ghanem, M. A., Abdelsalam, M., Novosad, V., 
+Karapetrov, G., Li, Xiaoli, Fangohr, H., de Groot, C. H., Bartlett, P. N. and de Groot, P. A. J. (2005) Shape-Induced Anisotropy in 
+Antidot Arrays From Self-Assembled Templates IEEE Transactions on Magnetics, 41, (10), pp. 3598-3600. 
+Zhukov, A.A, Kiziroglou, M.E., Goncharov, A.V., Boardman, R., Ghanem, M.A., Abdelsalam, M., Novosad, V., Karapetrov, G., Li, 
+X., Fangohr, H., de Groot, C.H., Bartlett, P.N. and de Groot, P.A.J. (2005) Shape-induced anisotropy in antidot arrays from self-
+assembled templates IEEE Transactions on Magnetics, 41, (10), pp. 3598-3600. (doi:10.1109/TMAG.2005.854734).
+Chong, Lit Ho, Mallik, Kanad and de Groot, C. H. (2005) The vertical metal insulator semiconductor tunnel transistor: A 
+proposed Fowler-Nordheim tunneling device Microelectronic Engineering, 81, (2-4), pp. 171-180. 
+Kunz, V D, de Groot, C H, Gili, E, Uchino, T, Hall, S and Ashburn, P (2004) CMOS-compatible vertical MOSFETs and logic gates 
+with reduced parasitic capacitance. At 34th European Solid State Device Research Conference (ESSDERC), Belgium. 21 - 23 Sep 
+2004. , pp. 221-224. 
+Donaghy, D, Hall, S, de Groot, C H, Kunz, V D and Ashburn, P (2004) Design of 50nm Vertical MOSFET Incorporating a 
+Dielectric Pocket IEEE Transactions on Electron Devices, 51, (1), pp. 158-161. 
+Mallik, Kanad, Chong, Lit Ho and de Groot, Kees (2004) Observation of Fowler-Nordheim tunneling for room temperature 
+operation of the vertical metal-oxide tunnel transistor At IVC-16 (16th International Vacuum Congress), Italy. 28 Jun - 02 Jul 
+2004.
+Hall, S., Donaghy, S., Buiu, O., Gili, E., Uchino, T., Kunz, V.D., de Groot, C.H. and Ashburn, P. (2004) Recent developments in 
+deca-nanometer vertical MOSFETs Microelectronic Engineering, 72, pp. 230-235. (doi:10.1016/j.mee.2003.12.042).
+Hall, Stephen, Buiu, Octavian, Ashburn, Peter and de Groot, C.H., Szczepanski, P(ed.) (2004) Recent developments in vertical 
+MOSFETs and SiGe HBTs Journal of Telecommunications and Information Technology, 1/2004, (1), pp. 26-34. 
+Gili, E, Kunz, V D, de Groot, C H, Uchino, T, Ashburn, P, Donaghy, D C, Hall, S, Wang, Y and Hemment, P L F (2004) Single, 
+double and surround gate vertical MOSFETs with reduced parasitic capacitance Solid State Electronics, (48), pp. 511-519. 
+Gili, E, Kunz, V D, de Groot, C H, Uchino, T, Donaghy, D, Hall, S and Ashburn, P (2003) Electrical Characteristics of Single, 
+Double and Surround Gate Vertical MOSFETs with Reduced Overlap Capacitance At 33rd European Solid-State Device 
+Research Conference, Portugal. , pp. 171-174. 
+Kunz, V Dominik, de Groot, C H, Hall, Steven and Ashburn, Peter (2003) Polycrystalline Silicon - Germanium Emitters for Gain 
+Control, With Application to SiGe HBTs IEEE Transactions on Electron Devices, 50, (6), pp. 1480-1486. 
+Gili, E., Kunz, V. D., Uchino, T., De Groot, C. H. and Ashburn, P. (2003) Realization and characterization of vertical MOSFETs 
+with reduced parasitic capacitance At PREP, United Kingdom. 14 - 16 Apr 2003. , pp. 81-82. 
+2004
+2003
+⇧
+Page 12 of 15
+Prof. CH Kees de Groot | Electronics and Computer Science | University of Southa...
+19/6/2017
+http://www.ecs.soton.ac.uk/people/chdg
+
+-----
+Hall, S, Donaghy, D, Buiu, O, Gili, E, Uchino, T, Kunz, V D, de Groot, C H and Ashburn, P (2003) Recent developments in deca-
+nanometer vertical MOSFETs At Insulating Films on Semiconductors Conference. 18 - 20 Jun 2003.
+Kunz, V Dominik, Uchino, Takashi, de Groot, C H (Kees), Ashburn, Peter, Donaghy, David C, Hall, Steven, Wang, Yun and 
+Hemment, Peter L F (2003) Reduction of Parasitic Capacitance in Vertical MOSFETs by Spacer Local Oxidation IEEE 
+Transactions on Electron Devices, 50, (6), pp. 1487-1493. 
+Kunz, VD, Groot, CH de, Hall, S, Anteney, IM, Abdul-Rahim, AI and Ashburn, P (2002) Application of polycrystalline SiGe for 
+gain control in SiGe heterojunction bipolar transistors At ESSDERC 2002. , pp. 171-174. 
+Donaghy, DC, Hall, S, Kunz, VD, Groot, CH de and Ashburn, P (2002) Investigating 50nm channel length vertical MOSFET's 
+containing a dielectric pocket in a circuit environment At ESSDERC 2002. , pp. 499-502. 
+Groot, C H de, Ouyang, Y, Koo, Sang-Mo, Kendall, E, Shu, Q Q and Moodera, J S (2002) Resonant tunnelling in Dy- or Gd-
+doped Al2O3 magnetic tunnel junctions J. Phys.: Condens. Matter, 14, pp. 5153-5159. 
+de Groot, C H, Kunz, V D, Ashburn, P, Donaghy, D and Hall, S (2002) ion-implanted vertical MOSFET's At Nano and Giga 
+challenges in Microelectronics research. 
+Lamb, A. C., Riley, L. S., Hall, S., Kunz, V.D., Groot, C. H. de and Ashburn, P. (2001) A 50nm channel vertical MOSFET concept 
+incorporating a retrograde channel and a dielectric pocket At ESSDERC 2001. , pp. 347-350. 
+Groot, C.H. de and Moodera, J.S. (2001) Growth and characterization of a novel In2Se3 structure J. Appl Phys., 89, (8), pp. 
+4336-4340. 
+Li, Zisen, Groot, C.H. de and Moodera, J.S. (2000) Gallium Oxide as an insulating barrier for spin-dependent tunneling 
+junctions Appl Phys. Lett., 77, p. 3630. 
+Schobinger-Papamantellos, P., Buschow, K.H.J., Groot, C.H. de, Boer, F.R de and Ritter, C. (2000) Magnetic ordering of the 
+R6Fe13Sn (R=Nd,Pr) compounds studied by neutron diffraction J. Magn. Magn. Mater., 218, p. 31. 
+Moodera, J.S., Kim, T-H, Tanaka, C. and Groot, C.H. de (2000) Spin-polarized tunneling, magnetoresistance and interfacial 
+effects in ferromagnetic junctions Phil. Mag. B, 80, p. 195. 
+Schobinger-Papamantellos, P., Oleksyn, O., Ritter, C., Groot, C.H. de, Boer, F.R de and Buschow, K.H.J. (1999) Magnetic 
+ordering of ErFe4Ge2 by neutron diffraction and magnetic measurements J. Magn. Magn. Mater., 191, p. 261. 
+Schobinger-Papamantellos, P., Buschow, K.H.J., Groot, C.H. de, Boetiger, F.R de Boer andG. and Ritter, C. (1999) Magnetic 
+ordering of Pr6Fe13Si and Nd6Fe13Au studied by neutron diffraction J. Phys: C-M, 11, p. 4469. 
+2002
+2001
+2000
+1999
+⇧
+Page 13 of 15
+Prof. CH Kees de Groot | Electronics and Computer Science | University of Southa...
+19/6/2017
+http://www.ecs.soton.ac.uk/people/chdg
+
+-----
+Groot, C.H. de and Kort, K. de (1999) Magnetoelastic anisotropy in NdFeB permanent magnets J. Appl Phys., 85, p. 8312. 
+Janssen, Y, Brueck, E, Groot, C.H. de, Boer, F.R. de and Buschow, K.H.J. (1998) Low-temperature magnetisation and specific 
+heat in antiferromagnetic rare-earth germanides of the type R3Ge4 J. Magn Magn. Mater., 177/18, p. 1147. 
+Groot, C.H. de, Buschow, K.H.J. and Boer, F.R. de (1998) Magnetic properties of R6Fe13-xM1+x and their hydrides Phys. Rev. 
+B, 57, pp. 11472-11482. 
+Moze, O., Giovanelli, L., Kockelmann, W., Groot, C.H. de, Boer, F.R. de and Buschow, K.H.J. (1998) Magnetic properties of 
+Tb2Co17-xGax compounds studied by magnetic measurments and neutron diffraction J. Alloys Comp., 264, p. 76. 
+Giovanelli, L., Moze, O., Knockelmann, W.A., Groot, C.H. de, Boer, F.R. de and Buschow, K.H.J. (1998) Neutron diffraction and 
+magnetization measurements of Tb2Co17-xGax intermetallics J. Alloys Comp., 177/18, p. 1044. 
+Schobinger-Papamantellos, P., Buschow, K.H.J., Groot, C.H. de, Boer, F.R de, Ritter, C., Fauth, F. and Boetiger, G. (1998) On the 
+magnetic ordering of R6Fe13X compounds J. Alloys Comp., 232, p. 44. 
+Groot, C.H. de, Buschow, K.H.J., Boer, F.R. de and Kort, K. de (1998) Two powder Nd2Fe14B magnets with DyGa addition J. 
+Appl Phys., 83, p. 388. 
+Hautot, D., Long, G.J., Grandjean, F., Groot, C.H. de and Buschow, K.H.J. (1997) A Mossbauer spectral study of Nd6Fe13X 
+compounds where X is Si, Cu, Ag, and Au J. Appl Phys., 81, p. 5435. 
+Oleksyn, O., Schobinger-Papamantellos, P., Ritter, C., Groot, C.H. de and Buschow, K.H.J. (1997) Antiferromagnetic ordering in 
+the novel Dy3Ge4 and DyGe1.3 compounds studied by neutron diffraction and magnetic measurements J. Alloys Comp., 
+262/26, p. 492. 
+Schobinger-Papamantellos, P., Oleksyn, O., Ritter, C., Groot, C.H. de, Boer, F.R de and Buschow, K.H.J. (1997) Canted 
+antiferromagnetic structure of the novel compound Er3Ge4 by neutron diffraction and magnetic measurements J. Magn. 
+Magn. Mater., 169, p. 253. 
+Oleksyn, O., Schobinger-Papamantellos, P., Ritter, C., Groot, C.H. de and Buschow, K.H.J. (1997) Crystallographic and magnetic 
+structure of the novel compound ErGe1.83 Physica B, 234/23, p. 652. 
+Zhang, D., Groot, C.H. de, Bruck, E., Boer, F.R. de and Buschow, K.H.J. (1997) Magnetic properties of Pr2Co17-xAlx and 
+Y2Co17-xAlx J. Alloys Comp., 259, p. 42. 
+Groot, C.H. de, Buschow, K.H.J. and Boer, F.R. de (1997) Magnetic properties of R2Co17-xAlx compounds (R=Ho,Dy,Y) Physica 
+B, 229, p. 213. 
+Hu, Z., Luo, H., Yelon, W.B., Groot, C.H. de, Boer, F.R. de and Buschow, K.H.J. (1997) Magnetic properties of Tb2Mn17Cx 
+compounds studied by magnetic measurements and neutron diffraction J. Alloys Comp., 248, p. 121. 
+Li, Q.A., Groot, C.H. de, Boer, F.R. de and Buschow, K.H.J. (1997) Metamagnetic behaviour of La1-xGdxFe12B6 compounds J. 
+Alloys Comp., 256, p. 82. 
+1998
+1997
+⇧
+Page 14 of 15
+Prof. CH Kees de Groot | Electronics and Computer Science | University of Southa...
+19/6/2017
+http://www.ecs.soton.ac.uk/people/chdg
+
+-----
+Oleksyn, O., Schobinger-Papamantellos, P., Ritter, C., Groot, C.H. de and Buschow, K.H.J. (1997) Structure and magnetic 
+ordering in the defect compounds ErGe1.83 J. Alloys Comp., 252, p. 53. 
+Moze, O., Groot, C.H. de, Boer, F.R. de and Buschow, K.H.J. (1996) Crystal structure and magnetic properties of CeNi11-xSix 
+compounds J. Alloys Comp., 241, p. 124. 
+Groot, C.H. de, Boer, F.R. de, Hautot, D., Long, G.J. and Grandjean, F. (1996) Magnetic and Mossbauer spectral properties of 
+the compound Nd6Fe13Au J. Alloys Comp., 233, p. 161. 
+Zhao, Z.G., Groot, C.H. de, Bruck, E., Buschow, K.H.J. and Boer, F.R. de (1996) Magnetic anisotropy of RCo10Si2 compounds 
+(R=Y,Gd,Dy,Ho,Er,Tm) Physica B, 228, p. 214. 
+Schobinger-Papamantellos, P., Fischer, P., Groot, C.H. de, Boer, F.R de and Buschow, K.H.J. (1996) Magnetic properties and 
+neutron diffraction of TbMn4Al8 J. Alloys Comp., 232, p. 154. 
+Groot, C.H. de, Buschow, K.H.J., Boer, F.R. de, Hu, Z. and Yelon, W.B. (1996) Magnetic properties of Nd2Co17-xAlx compounds 
+studied by magnetic measurements and neutron diffraction J. Alloys Comp., 233, p. 188. 
+Moze, O., Giovanelli, L., Kockelmann, W., Groot, C.H. de, Boer, F.R. de and Buschow, K.H.J. (1996) Note on the crystal structure 
+and magnetic properties of Ce2Ni17Si9 and Ce2Co17Si9 compounds J. Magn Magn. Mater., 235, p. 62. 
+Groot, C.H. de, Buschow, K.H.J. and Boer, F.R. de (1996) Re-entrant ferromagnetism in the ThFe3-xAlx system J. Magn Magn. 
+Mater., 157/15, p. 641. 
+Moze, O., Giovanelli, L., Kockelmann, W., Groot, C.H. de, Boer, F.R. de and Buschow, K.H.J. (1996) Structure and magnetic 
+properties of Nd2Co17-xGax compounds studied by magnetic measurments and neutron diffraction J. Magn Magn. Mater., 
+189, p. 329. 
+Brabers, J.H.V.J., Groot, C.H. de, Buschow, K.H.J. and Boer, F.R. de (1996) Susceptibility of (Gd,La)Mn2(Ge,Si)2 compounds in 
+the magnetically ordered regime J. Magn Magn. Mater., 57/58, pp. 639-640. 
+Schobinger-Papamantellos, P., Andre, G., Rodriguez-Carvajal, J., Groot, C.H. de, Boer, F.R de and Buschow, K.H.J. (1996) The 
+magnetic ordering of the novel compound TbGe3 J. Alloys Comp., 232, p. 165. 
+Zhao, Z.G., Groot, C.H. de, Boer, F.R. de and Buschow, K.H.J. (1995) Antiferromagnetic interactions in Nd6Fe12Ga2 based 
+compounds Physica B, 211, p. 102. 
+Contact
+Telephone: +442380592732
+Email: chdg@ecs.soton.ac.uk
+1996
+1995
+Share this profile
+⇧
+Page 15 of 15
+Prof. CH Kees de Groot | Electronics and Computer Science | University of Southa...
+19/6/2017
+http://www.ecs.soton.ac.uk/people/chdg
+
+-----

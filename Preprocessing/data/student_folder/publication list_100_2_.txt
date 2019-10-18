@@ -1,0 +1,48 @@
+List of Publications 
+ 
+[1] Feng F., Wu F., & Gooi H. B. Impedance shaping of isolated two-stage converter 
+for dc-link voltage stabilization. IEEE Access, vol. 7, pp. 18601-18610, Feb. 2019.  
+[2] Feng F., Zhang X., Lin F., & Gooi H. B. Impedance modeling and stability 
+analysis of dual active bridge converter with LC input filter. CES Transactions on 
+Electrical Machines and Systems, 2(3), 289-295, Sep. 2018.  
+[3] Feng F., Zhang X., Gooi H. B. Stability Enhancement via Controller Optimization 
+and Impedance Shaping for Dual Active Bridge Converters-Based Energy Storage 
+System. IEEE Transactions on Power Electronics, (conditional acceptance).  
+[4] Feng F., Zhang X., Gooi H. B. Comparison of SPS, DPS and CTPS modulation 
+with fully consideration of stability of DAB with its LC filter. IEEE Transactions 
+on Power Electronics, (under revision).  
+[5] Feng F. Zhang X., Gao P., Lin F., Gooi H. B. Impedance modeling and stability 
+analysis of triple-phase-shift-based dual active bridge converter with LC filter. 
+10th International Conference on Power Electronics – ECCE Asia (ICPE 2019-
+ECCE Asia), May 2019. 
+[6] Feng F., Zhang X., Lin F., Gooi H. B. Stability Analysis and Optimization of Dual 
+Active Bridge Converter with LC Input Filter. 2019 IEEE International 
+Conference on Industrial Technology (ICIT), Feb. 2019. 
+[7] Feng F., Wu F., Gooi H. B. Small signal impedance model and stability analysis 
+of bidirectional two-stage DC-DC-AC system. 2017 IEEE 3rd International 
+Future Energy Electronics Conference and ECCE Asia (IFEEC 2017-ECCE Asia), 
+(pp. 1817-1821): IEEE.  
+[8] Wu F., Feng F., and Gooi, H. B. "Cooperative Triple-Phase-Shift Control for 
+Isolated DAB DC–DC Converter to Improve Current Characteristics," IEEE 
+Transactions on Industrial Electronics, vol. 66, no. 9, pp. 7022-7031, Sep. 2019.  
+[9] Wu F., Feng F., Luo L., Duan J., Sun L. Sampling period online adjusting-based 
+hysteresis current control without band with constant switching frequency. IEEE 
+Transactions on Industrial Electronics, 62(1), 270-277, Jan. 2015.  
+[10] Wu F., Feng F., Duan J., Sun, B. Zero-crossing disturbance elimination and 
+spectrum analysis of single-carrier seven-level SPWM. IEEE Transactions on 
+Industrial Electronics, 62(2), 982- 990, Feb. 2015.  
+[11] Wu F., Li X., Feng F., Gooi, H. B. Modified Cascaded Multilevel Grid-Connected 
+Inverter to Enhance European Efficiency and Several Extended Topologies. IEEE 
+Trans. Industrial Informatics, 11(6), 1358-1365, Dec. 2015.  
+[12] Wu F., Duan J., Feng, F. Modified single-carrier multilevel sinusoidal pulse width 
+modulation for asymmetrical insulated gate bipolar transistor-clamped grid-
+connected inverter. IET Power Electronics, 8(8), 1531-1541, Jul. 2015.  
+
+-----
+[13] Wu F., Li X., Feng, F., Gooi H. B. Efficiency enhancement scheme of cascaded 
+multilevel grid-connected inverter and its improvement to eliminate effect of non-
+ideal grid conditions. International Journal of Electrical Power & Energy Systems, 
+76, 120-128. 
+ 
+
+-----

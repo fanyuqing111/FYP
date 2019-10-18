@@ -1,0 +1,47 @@
+Terahertz quantum cascade lasing in 
+disordered photonic systems 
+Abstract 
+Scattering, which is created by dust, clouds, white paints or imperfections of artificial material such as 
+photonic crystal, is normally undesirable in the field of photonics. Unequivocally, a deep understanding 
+of disorder can help to overcome the issues arising from scattering. However, it is also possible to utilize 
+the disorder to create useful photonic devices. A most acknowledged example is that of random laser, in 
+which lasing action is sustained by multiply scattering of light within the disordered media. Disordered 
+structures are also proposed for the applications including wavelength filters, optical switches, sensors 
+and cavity quantum electrodynamics. Most of the research work on disorder has been focused on short 
+wavelength range. Several years ago, the tide spread to mid-infrared range with the experimental 
+demonstration and theoretical optimization of mid-infrared random laser at ~10 μm. However, in the 
+technically important terahertz (THz) frequency range, the disordered photonics are least explored. So 
+this thesis investigates disordered systems based on the double-metal waveguide of THz quantum cascade 
+lasers and explores the emission properties with the aid of gain. 
+As the first demonstration, we design and fabricate one-dimensional disordered grating structures on 
+top of the double-metal waveguide of the THz quantum cascade laser. The disorder is introduced into the 
+waveguide by dislocating the position of each aperture from a periodic configuration. Numerical 
+calculation indicates that the introduced disorder creates multiple microcavities with small optical losses 
+at the bandgap frequency window of the underlying long-range orderness. With electrical pumping, 8 
+emission peaks around 3.2 THz are observed, which are located inside the bandgap region of the periodic 
+counterparts. Experimental measurements and simulation work provide strong evidence for spatial 
+localizations of light. 
+Instead of utilizing long-range orderness for creating microcavities, we also investigate two-
+dimensional disordered structures consisting of randomly-distributed pillars fabricated from a quantum 
+cascade gain medium, in which long-range ordereness does not exist. Due to the strong scattering 
+efficiency of a high-index dielectric pillar for transverse-magnetic polarized (TM) wave, we show that 
+such structures can achieve multi-mode lasing, with strongly localized modes at THz frequencies. This is 
+a typical feature of random lasers. The weak short-range order induced by the pillar distribution is 
+sufficient to ensure high quality-factor modes that have a large overlap with the active material. It is also 
+found that the emission spectrum can be easily tuned by tailoring the scatterer size and filling fraction. 
+While the pillar scatterer is beneficial for better performance of multimode lasing (lower threshold, 
+more lasing modes etc.) due to high scattering efficiency, it also limits the lasing to the Mie resonance 
+frequency range, impeding the broadband random application. The non-resonant scatterers feature a 
+relatively frequency-insensitive scattering efficiency, although the scattering efficiency is normally 
+weaker than that of the resonant type. Therefore, we further develop metallic pillars, a class of non-
+resonant scatterers with high scattering efficiency in THz frequency range. Such metallic scatterers are 
+especially suitable for transverse-magnetic (TM) polarized light. In absence of the plasmonic resonance of 
+the metallic pillar for TM mode, high scattering efficiency and small ohmic losses can be maintained over 
+a broad bandwidth, making possible a broadband random laser constructed by these metallic pillars. We 
+demonstrate that such random lasers, with metallic pillars embedded in THz quantum cascade laser gain 
+medium, outperform their dielectric-scatter counterparts in terms of lasing spectral range, the number of 
+lasing mode and laser threshold.  Complex emission spectra are captured and more than 25 emission 
+peaks can be observed across the gain spectral range of the laser.  
+ 
+
+-----

@@ -1,0 +1,184 @@
+11/19/2017
+Dimosthenis Peftitsis - NTNU
+https://www.ntnu.edu/employees/dimosthenis.peftitsis
+1/5
+Dimosthenis Peftitsis
+Associate Professor
+Department of Electric Power Engineering
+Faculty of Information Technology and Electrical Engineering
+ dimosthenis.peftitsis@ntnu.no
+ +47 73594229
+Elektro E/F, E-464, Gløshaugen, O.S. Bragstadsplass 2E 7491 Trondheim
+
+Dimosthenis Peftitsis was born in Kavala, Greece, in 1985. He received the
+Diploma degree (Hons.) in electrical and computer engineering from the
+Democritus University of Thrace, Xanthi, Greece, in 2008 and the Ph.D.
+degree from the KTH Royal Institute of Technology, Stockholm, Sweden, in
+2013. In 2008, he was with the ABB Corporate Research, Västerås, Sweden,
+for six months, where he was involved in the diploma thesis. From 2013 to
+2014, he was a Postdoctoral Researcher involved in the research on SiC
+converters at the Department of Electrical Energy Conversion, KTH Royal
+Institute of Technology. From 2014-2016, he was working as a Postdoctoral
+Fellow at the Lab for High Power Electronics Systems, ETH Zurich, where he
+was involved in dc-breakers for multiterminal HVDC systems. In May 2016, he
+joined the Norwegian University of Science and Technology in Trondheim,
+Norway, as an Associate Professor of power electronics at the Department of
+Electrical Power Engineering. His current research interests are in the area of 
+WBG (e.g. SiC, GaN) power converters design, gate and base driver designs
+for WBG devices, as well as dc-breaker concepts for MV and HVDC systems.
+Prof. Peftitsis is Senior Member of IEEE and a member of the EPE
+International Scienti�c Committee.
+Teaching activities
+MSc course: TET4190 Power Electronics
+Specialization course: ELK20 Design of Power Electronic Converters
+PhD course: ET8303 Power Electronics, Power Semiconductor Physics and
+Reliability
+Publications
+Book Chapters
+Book Chapters 
+B.1 J. Rabkowski, D. Peftitsis and H.-P. Nee, "Chapter 4: Recent advances in
+power semiconductors technology", Power Electronics for Renewable Energy
+Systems, Transportation and Industrial Applications, John Wiley and Sons,
+Ltd., ISBN: 978-1-118-63403-5.
+ 
+In peer-reviewed journals
+In peer-reviewed journals
+[J.13] J. Colmenares, D. Peftitsis, J. Rabkowski, D. Sadik, G. Tolstoy and H.-P.
+Nee, "High-E�ciency Three-Phase Inverter with SiC MOSFET Power Modules
+for Motor-Drive Applications", IEEE Trans. Ind. Appl., vol. 51, no. 6, pp. 4664-
+4676, Nov.-Dec. 2015.
+[J.12] D. Peftitsis, J. Rabkowski, and H.-P. Nee, "Self-Powered Gate Driver for
+Normally-ON SiC JFETs:Design Considerations and System Limitations", IEEE
+Power Electron. Letters, vol. 29, no. 10, pp. 5129-5135, Oct. 2014.
+[J.11] J. Rabkowski, D. Peftitsis and H.-P. Nee, "Parallel-operation of Discrete
+SiC BJTs in a 6 kW/250 kHz dc/dc Boost Converter", IEEE Trans. Power
+Electron., vol. 29, no. 5, pp. 2482-2491, May 2014.
+Google Scholar
+ORCID
+ Employees
+
+-----
+11/19/2017
+Dimosthenis Peftitsis - Google Scholar Citations
+https://scholar.google.se/citations?user=xnnjVBkAAAAJ&hl=en
+1/2
+GET MY OWN PROFILE
+All
+Since 2012
+Citations
+1031
+1005
+h-index
+18
+18
+i10-index
+27
+27
+Dimosthenis Peftitsis
+Associate Professor of Power Electronics at
+NTNU
+, Norwegian University of Science and Technology
+Power Electronics
+Silicon Carbide
+DC breakers
+TITLE
+CITED BY
+YEAR
+Silicon carbide power transistors: A new era in power electronics is initiated
+J Rabkowski, D Peftitsis, HP Nee
+IEEE Industrial Electronics Magazine 6 (2), 17-26
+156
+2012
+High-power modular multilevel converters with SiC JFETs
+D Peftitsis, G Tolstoy, A Antonopoulos, J Rabkowski, JK Lim, M Bakowski, ...
+IEEE Transactions on Power Electronics 27 (1), 28-36
+152
+2012
+Low-loss high-performance base-drive unit for SiC BJTs
+J Rabkowski, G Tolstoy, D Peftitsis, HP Nee
+IEEE Transactions on Power Electronics 27 (5), 2633-2643
+74
+2012
+Challenges regarding parallel connection of SiC JFETs
+D Peftitsis, R Baburske, J Rabkowski, J Lutz, G Tolstoy, HP Nee
+IEEE transactions on power electronics 28 (3), 1449-1463
+61
+2013
+Design steps towards a 40-kVA SiC inverter with an efficiency exceeding 99.5%
+J Rabkowski, D Peftitsis, HP Nee
+Applied Power Electronics Conference and Exposition (APEC), 2012 Twenty …
+43
+2012
+Parallel-operation of discrete SiC BJTs in a 6-kW/250-kHz DC/DC boost converter
+J Rabkowski, D Peftitsis, HP Nee
+IEEE transactions on power electronics 29 (5), 2482-2491
+38
+2014
+Design steps toward a 40-kVA SiC JFET inverter with natural-convection cooling and an efficiency exceeding 99.5%
+J Rabkowski, D Peftitsis, HP Nee
+IEEE Transactions on Industry Applications 49 (4), 1589-1598
+36
+2013
+Self-powered gate driver for normally on silicon carbide junction field-effect transistors without external power supply
+D Peftitsis, J Rabkowski, HP Nee
+IEEE transactions on power electronics 28 (3), 1488-1501
+34
+2013
+An experimental evaluation of SiC switches in soft-switching converters
+P Ranstad, HP Nee, J Linner, D Peftitsis
+IEEE transactions on power electronics 29 (5), 2527-2538
+33
+2014
+Experimental investigations of static and transient current sharing of parallel-connected silicon carbide MOSFETs
+DP Sadik, J Colmenares, D Peftitsis, JK Lim, J Rabkowski, HP Nee
+Power Electronics and Applications (EPE), 2013 15th European Conference on, 1-10
+33
+2013
+Experimental comparison of dc-dc boost converters with SiC JFETs and SiC bipolar transistors
+D Peftitsis, J Rabkowski, G Tolstoy, H Nee
+Power Electronics and Applications (EPE 2011), Proceedings of the 2011-14th …
+29
+2011
+A simple high-performance low-loss current-source driver for SiC bipolar transistors
+J Rabkowski, D Peftitsis, HP Nee, M Zdanowski
+Power Electronics and Motion Control Conference (IPEMC), 2012 7th …
+27
+2012
+A new MPPT method for Photovoltaic generation systems based on Hill Climbing algorithm
+D Peftitsis, G Adamidis, A Balouktsis
+Electrical Machines, 2008. ICEM 2008. 18th International Conference on, 1-5
+23
+2008
+Short-circuit protection circuits for silicon-carbide power transistors
+DP Sadik, J Colmenares, G Tolstoy, D Peftitsis, M Bakowski, J Rabkowski, ...
+IEEE Transactions on Industrial Electronics 63 (4), 1995-2004
+22
+2016
+A 6kW, 200kHz boost converter with parallel-connected SiC bipolar transistors
+J Rabkowski, D Peftitsis, M Zdanowski, HP Nee
+Applied Power Electronics Conference and Exposition (APEC), 2013 Twenty …
+22
+2013
+Dual-function gate driver for a power module with SiC junction field-effect transistors
+J Colmenares, D Peftitsis, J Rabkowski, DP Sadik, HP Nee
+IEEE transactions on power electronics 29 (5), 2367-2379
+21
+2014
+Gate and base drivers for silicon carbide power transistors: An overview
+D Peftitsis, J Rabkowski
+IEEE Transactions on Power Electronics 31 (10), 7194-7213
+18
+2016
+A discretized proportional base driver for silicon carbide bipolar junction transistors
+G Tolstoy, D Peftitsis, J Rabkowski, PR Palmer, HP Nee
+IEEE transactions on power electronics 29 (5), 2408-2417
+18
+2014
+Photovoltaic system MPPTracker investigation and implementation using DSP engine and buck-boost DC-DC
+converter
+D Peftitsis, G Adamidis, P Bakas, A Balouktsis
+Power Electronics and Motion Control Conference, 2008. EPE-PEMC 2008. 13th …
+18
+2008
+
+-----

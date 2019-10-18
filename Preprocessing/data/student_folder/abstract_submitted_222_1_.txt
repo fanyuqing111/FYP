@@ -1,0 +1,78 @@
+ABSTRACTS 
+ 
+Due to the recent blowout disasters that resulted in huge loss of lives, environmental damages, 
+as well as large payouts, there is increasing pressure from the industries and the regulators to ensure 
+the safe operation of the wellbore. Well-barriers installed to encapsulate the wellbore are designed 
+to protect and prevent leakage. However, over time, due to the constant exposure to hydrocarbon, 
+the well-integrity of the barriers and wellbore may be eroded and compromised. A leakage 
+escaping through the eroded or compromised barrier will generate acoustic radiation that carries a 
+huge amount of information that can be extracted by signal processing. This thesis presents a 
+systematic study of the processing of acoustic radiation to address the complex practical challenges 
+involved in the acoustic signal processing with application in the passive well-integrity monitoring 
+system. 
+The conventional approach to passive well-integrity evaluation is to deploy single or multiple 
+independent sensors to detect the possibility of breaches or leakages within the wellbore. Even 
+though these approaches have been successful in detecting the leakages, they do not provide other 
+crucial information. Information such as directions, radial locations, and or type of leakages 
+presents in the wellbore are all useful parameters that provide better diagnostics of the wellbore’s 
+condition. Recently, the array processing approach was proposed to provide an additional 
+dimension of information to localize the source. 
+At the beginning of the thesis, conventional array processing algorithms are studied to 
+investigate the advantages of using array in passive well-integrity evaluation.  Even though array 
+can provide localization, the array spatial aliasing frequency limits the type of passive source that 
+they can localize. The array spatial aliasing frequency is usually smaller than the typical time-
+
+-----
+domain spatial aliasing limit, which is half the sampling rate. This limitation reduces the operating 
+frequency of an array to be below the conventional single or multiple independent sensor approach.  
+Accordingly, first, the far-field sources are investigated. If the wideband source satisfies a 
+certain condition, an aliasing-free direction-of-arrival is found to be possible through sparse 
+beamforming. However, it is not applicable to the recently proposed grid-free compressing 
+beamforming as it was derived for sources with a single frequency. To alleviate this deficiency, 
+the multiband grid-free technique is proposed. Through the theoretical investigation of a multiband 
+grid-free model, a new cost function for a multiband source that can be solved though semi-definite 
+programming (SDP) is presented. This generalizes the original single band grid-free to a multiband 
+representation. This is validated with simulation and experimental test result. 
+Next, the study moved to near-field sources. It is found that the signal received from a point 
+source in the near-field is not bandlimited in the spatial frequency. Even though many solutions 
+are available in the literature to combat this, they require the modification of the array’s aperture. 
+This may not be practical in the passive well-integrity evaluation problem. Through the 
+investigation of the theoretical array’s steering vector, a condition was derived that when satisfied 
+guarantees an aliased-free localization. This condition has been validated with extensive numerical 
+simulation as well as experimental analysis. Effectively, the condition extends the operating 
+frequency range of the array without the need to modify the aperture. 
+In most situation, it is desirable to have less sensing device. This is because additional sensing 
+devices will drive up cost as well as the complexity of the circuity. To optimize the trade-off, the 
+third study focuses on localization a single sensing device. Here, it is found that recording from a 
+single moving sensor of a known trajectory can be used to form the one sensor array (OSA) that 
+achieve localization performance close to that of the Cramer-Rao Bound (CRB) of a stationary 
+
+-----
+array. However, this conclusion is restricted only to harmonic sources. For non-harmonic sources, 
+a new approach called the differential received signal strength OSA (dROSA) is proposed. As the 
+dROSA approach does not require phase compensation, it is not restricted to harmonic sources as 
+in the OSA. 
+Lastly, other than localizing, the classification of sources are also essential to a passive well-
+integrity evaluation system. To that end, a support vector machine learning approach is proposed 
+to classify the type of leakages to four categories: (i) Liquid-to-Liquid (L2L), (ii) Liquid-to-Gas 
+(L2G), (iii) Gas-to-Liquid (G2L), (iv) Gas-to-Gas (G2G). It is found that the approach provides 
+> 80% of correct prediction on 1800 of the acoustic recording collected over 10 different oil field. 
+ 
+AUTHOR’s PUBLICATIONS 
+Journals 
+[1] A. R. Venna, Y. Y. Ang, N. Nguyen, Y. Lu, and D. Walters, “Support-Vector-Machine Phase 
+Classification of Downhole Leak Flows Based on Acoustic Signals,” Petrophysics, vol. 59, no. 06, pp. 
+841–848, 2018. 
+[2] Y. Y. Ang, N. Nguyen, and W. G. Seng, “Multiband Grid-Free Compressive Beamforming,” Mech. 
+Syst. Signal Process., (submitted pending Major Review). 
+[3] Y. Y. Ang, N. Nguyen, and W. G. Seng, “Aliasing-Free Nearfield Localization using Linear Array,” 
+Appl. Acoust., (submitted) 
+Conferences 
+[1] Y. Y. Ang, N. Nguyen, J. P. Lie, and W. S. Gan, “Localization of harmonic source using a single 
+moving sensor of known trajectory,” in 2017 Asia-Pacific Signal and Information Processing 
+Association Annual Summit and Conference (APSIPA ASC), 2017, pp. 324–328. 
+[2] Y. Y. Ang, N. Nguyen, J. P. Lie, and W. S. Gan, “Grid-free compressive beamforming using a single 
+moving sensor of known trajectory,” in 2017 Asia-Pacific Signal and Information Processing 
+Association Annual Summit and Conference (APSIPA ASC), 2017, pp. 329–332. 
+
+-----

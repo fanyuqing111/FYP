@@ -1,0 +1,17 @@
+List of Publications
+[1]
+Mengjia Yan, Junsong Yuan ”3D Convolutional Generative Adversarial Net-
+works for Detecting Temporal Irregularities in Videos”, submitted to ICPR,
+2018.
+[2]
+Mengjia Yan, Jingjing Meng, Chunluan Zhou, Zhigang Tu, Tap-Peng Tan,
+Junsong Yuan ”Detecting Spatiotemporal Irregularities in Videos via a 3D
+Fully Convolutional Autoencoder”, submitted to IEEE Transactions letter
+on Circuits and Systems for Video Technology, 2018.
+[3]
+Tu, Zhigang and Guo, Zuwei and Xie, Wei and Yan, Mengjia and Veltkamp,
+Remco C and Li, Baoxin and Yuan, Junsong ”Fusing disparate object signa-
+tures for salient object detection in video”, Pattern Recognition, 2018.
+1
+
+-----

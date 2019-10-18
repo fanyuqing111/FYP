@@ -1,0 +1,215 @@
+Department of Electrical Engineering (ISY)
+Atila Alvandpour
+Head of Integrated Circuits and Systems Division 
+Department of Electrical Engineering, Linköping University
+Atila Alvandpour received the M.S. and Ph.D. degrees from Linköping University, Sweden, in 1995 and 1999, respectively. From 
+1999 to 2003, he was a senior research scientist with Circuit Research Lab, Intel Corporation. In 2003, he joined the department 
+of Electrical Engineering, Linköping University, as a Professor of VLSI design. From 2004 to 2014 he was head of Electronic 
+Devices Division, and since 2014 he is head of Integrated Circuits and Systems Division. Also, he is currently the vice head of 
+the department. His research interests include various issues in design of integrated circuits and systems in advanced nano-
+scale technologies, with special focus on data converters (ADCs and DACs), analog front-ends, sensor readout and data 
+acquisition systems, energy-harvesting and power management systems, analog/digital baseband and RF frontends for multi-
+Gigabit/s radio transceivers, low-power wireless sensors, clock generators/synthesizers, as well as multi-GHz digital circuits and 
+building blocks.
+He has published more than 100 papers in international journals and conferences, and holds 24 U.S. patents. Prof. Alvandpour is 
+a senior member of IEEE, and has served as a member of technical program committees for many IEEE and other international 
+conferences, including the IEEE Solid-State Circuits Conference, ISSCC, and the European Solid-State Circuits Conference, 
+ESSCIRC. He has also severed as guest editor for IEEE Journal of Solid-State Circuits.
+Short CV (pdf)
+Publications (pdf)
+CONTACT:
+Occupation:
+Professor
+Address:
+Dept. of Electrical Engineering
+Linköpings Universitet
+SE-581 83 Linköping
+Telephone:
++46 (0)13 285818
+Fax:
++46 (0)13 139282
+Office:
+B-house, 2D:513
+E-mail:
+< Atila.Alvandpour@liu.se >
+LiU » ISY » Personal pages » Integrated Circuits and Systems » Atila 
+Page responsible: Atila Alvandpour
+Last updated: 2015-02-16 
+Page 1 of 1
+Department of Electrical Engineering (ISY), Linköping University
+6/7/2017
+http://people.isy.liu.se/en/eks/atila/
+
+-----
+List of Publications 
+Atila Alvandpour, Professor  
+Electronic Devices Division 
+Department of Electrical Engineering 
+Linköping University 
+Journals: 
+[1] 
+A. Bhide, O. E. Najari, B. Mesgarzadeh, and A. Alvandpour, “An 8-GS/s 200-MHz Bandwidth 
+68-���������������-����������������������������������������������������������, vol. 60, 
+no. 7, pp. 387-391, July 2013. 
+[2] 
+Y. Jung; J. Fritzin, M. Enqvist, A. Alvandpour, “Least-Squares Phase Predistortion of a +30 
+���������-��������������������������� ��������������������������������������������
+������������ol. 60, no. 7, ��������-1928, July 2013.  
+[3] 
+Fazli Yeknami, F. Qazi and A. Alvandpour, “Low-����������������������������������������
+�����������������������in ���������������� on ���������and Systems-�� vol. pp, no. 99, pp. 1-
+13, 2013. 
+[4] 
+�����������������������������������������������������������������������icrobolometer 
+infrared FPA with On-chip Self-���������ompensati���������������������in Journal of 
+������������������������ts and Signal Processing, vol. 77, no. 1, pp. 29 - 44, Oct. 2013. 
+����
+Fazli Yeknami and A. Alvandpour, ������������������������������������������������
+���������������������Journal of �������������ated ������������ Signal Processing, vol. 77 , pp. 
+69-78, no. 1, Oct. 2013. 
+[6] 
+H. Raza Khan, J. Fritzin, A. Alvandpour , Q. ��������A parallel circuit differential class-E 
+power amplifier using series����������������������������������������������������������������g, 
+��������������, pp. 31-40, April 2013. 
+[7] 
+������������������������������������������������������������������������������������������
+����������������������-�����������������������������������������������������������
+������������������������������������������no. 6, pp. 1907-����, June 2012. 
+[8] 
+���������������������������������������������������������������������-D stage used in +30 dBm 
+��������������������������������������������������������������������������������
+Systems-��������������������pp. 726-730, Nov. 2012. 
+[9] 
+���������������������������������������������������������������������������-D Stage with 
+���������������������� in ��������������������������������� Systems-��������������� 6, pp. 
+1178-1186, 2012. 
+[10] 
+��������������������������������������������-nW 9.1-ENOB 1-��������������������-���
+�������������������������������������������������� of Solid-���������������������������� 7, 
+�������-����, July 2012. 
+[11] 
+J. Fritzin, Y. Jung, P.N. Landin, P. Handel, M. Enqvist, and A. Alvandpour, “Phase Predistortion 
+����������-D Ou�����������������������������������������������������������������������
+Systems-���������������������pp. 642-646, Oct. 2011. 
+
+-----
+[12] 
+�����������������������������������������������������������������-�������������������������
+Nyquist, 8-�������������������������������������������������������������������������������� 7, 
+��������-���� July 2011. 
+[13] 
+�������������������������������������������������������������������������-Based Power 
+����������������������������������������������������������������������������������������vol. 
+64, no. 3, pp. 241-247, Sept. 2010. 
+[14] 
+�����������m and A. Alvandpour, "A 6-�������-�������������������������������������������
+����������������������������������Journal of �������������������������s and Signal 
+Processing, vol. 64, no. 3, ��������– 222, Sept. 2010. 
+�����
+��������������������������������������������������������������������������������������������
+������������������������������������and Syste��������ol. ������� ���pp. 364- 368, May 2009. 
+[16] 
+B. Mesgarzadeh and A. Alvandpour, “A Low-Power Digital DLL-Based �������������������
+Open-������������������������������������-�������������������. 44, no. 7, pp. 1907-1913, 2009. 
+[17] 
+B. Mesgarzadeh, M. Hansson, and A. Alvandpour, “Jitter characteristic in charge recovery 
+����������������������������������������������������id-������������������������-���������������
+July 2007. 
+[18] 
+����������������������������������������������������������-GFlops floating-point multiply-
+����������������������������������������������������������������Solid-�������������������������
+no. 10, pp. 2314-2323, Oct. 2006,  
+[19] 
+����������������������������������������������������������������������������������������-
+��������������������������-tolerant Self Reverse-�����������������������������urnal of 
+Solid-�������������������������o.��� �������-76, May 2003. 
+[20] 
+A. Alvandpour, R. Krishnamurthy, K. Soumyanath, S. Borkar, "A Sub-������������������
+������������������������������l of Solid-��������������������������������pp. 633-638, May 
+2002. 
+[21] 
+R. Krishnamurthy, A. Alvandpour, G. Balamurugan, N. Shanbhag, K. Soumyanath, S. Borkar, 
+"A 130-nm ��������������������-������������������������������������������olid-State 
+���������������������������pp. 624-63, May 2002.  
+International Conferences: 
+[22] 
+A. Ojani, B. Mesgarzadeh, and A. Alvandpour, “A Quadrature UWB Frequency Synthesizer 
+with Dynamic Settling-����������������������������������������������������������������������
+2480-2483, May 2013. 
+[23] 
+A. Fazli Yeknami, and A. Alvandpour, “�����-�����-�����-dB SNDR Passive �������������
+�������������������������������������������������������������������������������������-2013, 
+May 2013. 
+[24] 
+A. Fazli Yeknami, and A. Alvandpour, “A Variable Bandwidth Amplifier for a Dual-mode Low-
+���������������������������������������������������������������������������������������
+�����������������-1921, May 2013. 
+�����
+D. Zhang and A. Alvandpour, “A 3-nW 9.1-�������������������������������������������
+European Solid-��������������������������������������������-372, September 2012. 
+[26] 
+���������������������������������������������������������������������������������������������
+�����������������������������������������������������������������������������������������������
+������������������������-347, April 2012. 
+
+-----
+[27] 
+A. Ojani, B. Mesgarzadeh, and A. Alvandpour, “A DLL-���������������-Locked Frequency 
+���������������������������������������������������������������������������������������
+2027-2030, May 2012. 
+[28] 
+�������������������������������������������������������-����������������������������
+Suppression and DLL Based Pha������������������������������������������������������������
+������������������������-48, August 2012. 
+[29] 
+A. Ojani, B. Mesgarzadeh, and A. Alvandpour, “A Process-����������������������-Based UWB 
+��������������������������������������������������������������������������������������
+�������-����������������� 
+[30] 
+A. Fazli Yeknami and A. Alvandpour, “A 0.7-V 600-nW 87-����������-������������������
+Partly Body-Driven and Switched Op-����������������������������������������������������
+���������������������������������������������������������������-4, November 2012. 
+[31] 
+�����������������������������������������������������������-�������������������������
+�������������������������������������������-13, pp. 1-4, November 2012. 
+[32] 
+�������������������������������������������������������������������������������������������
+Mismatch and Self-�������������������������������������������erence, pp. 1-4, November 
+2012. 
+[33] 
+�������������������������������������������������������������������-D Outphasing RF PA in 
+�������������������������������������ropean Solid-��������������������������
+������������������-130, September 2011. 
+[34] 
+��������������������������������������������-nW 9.12-ENOB 1-�������������������3-���
+���������������������������������������������������������-��������������������������
+������������������-470, September 2011. 
+�����
+������������������������������������������������������������-���������������������������
+Reduce On-���������������������������������������������������������������������-�����
+September 2011. 
+[36] 
+A. Fazli Yeknami, M. Savadi Osgooei, and A. Alvandpour, “A Programmable-Bandwidth 
+Amplifier for Ultra-Low-Power Switched-�����������������������������������������
+�������������������������������� �����������������������-764, August 2011. 
+[37] 
+�������������������������������������������������������������������������������������-D 
+���������������������������������������������������������������������������������������
+���������������������� 
+[38] 
+E. Nilsson and ������������������������������������������������������������������������������
+�����������������������������������������������������������������-����������������� 
+[39] 
+��������������������������������������������������������������������������������������
+����������������������������������������������������������������������-������������
+2011. 
+[40] 
+A. Fazli Yeknami, M. Hansson, B. Mesgarzadeh, and A. Alvandpour, "A low voltage and 
+process variation tolerant SRAM cell in 90-�����������������������������������������������
+D��������������������������������-������������-81, 2010. 
+[41] 
+���������������������������������������������������-D Outphasing RF Amplifier with 
+����������������������������������������������������������������-���������������
+�����������������������������-313, September 2010. 
+
+-----

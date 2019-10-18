@@ -1,0 +1,1675 @@
+INFORMATION FOR 
+ABOUT
+ACADEMICS
+RESEARCH
+PEOPLE
+DEPARTMENTS AND UNITS
+NEWS CENTER
+ENQUIRY
+Follow us on
+Meet Our People
+Faculty
+- By Department / Unit
+- By Research Areas
+- By Name
+Administrative Staff
+Student Ambassadors
+Kevin CHEN 陳敬
+PhD, The University of Maryland
+Associate Head & Professor of Department of Electronic and Computer Engineering
+Departmental Research Area
+Solid-State Electronics & Photonics
+Individual Research Interest
+Fabrication, characterization and modeling techniques for RF/microwave 
+semiconductor devices, design of RF/microwave power amplifiers, 
+micromachined RF components.
+Biography
+Prof Chen received a BS degree in Department of Electronics, Peking 
+University in 1988. On a CUSPEA (China-US Physics Examinations and 
+Applications) fellowship, he went to University of Maryland, College Park, 
+USA, in 1988, and obtained his PhD in 1993. From Jan 1994 to Dec 1995, 
+he was a Research Engineer in NTT LSI laboratories, Atsugi, Japan, 
+engaging in the research and development of functional quantum effect 
+devices and heterojunction FET's (HFET's). In particular, he developed 
+the device technology for monolithic integration of resonant tunneling 
+diodes and HFET's (MISFET and HEMT) on both GaAs and InP 
+substrates, for applications in ultra-high speed signal processing and 
+communication systems. He also developed the enhancement-mode 
+HEMT technology for single polarity voltage supply RF/microwave circuits.
+From 1996 to 1998, he was an Assistant Professor in the Department of 
+Electronic Engineering, City University of Hong Kong, carrying out 
+research on high-speed device and circuit simulations. Prof Chen then 
+joined the wireless semiconductor division of Agilent Technologies, Inc. 
+(formerly Hewlett-Packard Co.), Santa Clara, California, in 1999 working 
+on RF power amplifiers used in dual-band GSM/DCS wireless handsets. 
+His work at Agilent covered RF characterization and modeling of 
+microwave transistors, RF IC and package design. Prof Chen joined 
+HKUST in Nov 2000.
+< Back
+< Edit My Profile
+Tel : 
++852 2358 8969
+Fax : 
++852 2358 1485
+Email : eekjchen
+Office : Room 2456
+Links : Department / Unit 
+Personal Webpage 
+Privacy
+Sitemap
+Copyright © The Hong Kong University of Science and Technology. All rights reserved.
+Page 1 of 1
+HKUST School of Engineering - People - Faculty
+5/17/2019
+https://www.seng.ust.hk/web/eng/people_detail.php?id=139
+
+-----
+Publications:
+Book Chapters
+• K. J. Chen and S. Yang, "Recent Progress in GaN-on-Si HEMT," in HANDBOOK OF 
+GaN SEMICONDUCTOR MATERIALS AND DEVICES, CRC Press, Taylor & Francis 
+Group, International Standard Book Number-13: 978-1-4987-4713-4 (Hardback). 
+Chapter 11, 2018.
+• K. J. Chen, "Fluorine-Implanted Enhancement-Mode Transistors" in Power GaN 
+Devices, Springer International Publishing, ISBN: 978-3-319-43197-0, Chapter 12, pp. 
+273-293, 2016.
+• K. J. Chen and L. L. W. Leung, "CMOS-compatible micromachined edge-suspended 
+planar inductors and coplanar waveguides" in Si-Based Semiconductor Components 
+for RF Integrated Circuits, Transworld Research Network, Ed. Will Z. Cai, ISBN: 81-
+7895-196-7, Chapter 8, pp. 217-242, 2006. 
+Recent Journal Papers (2003-present) (Full List ) 
+2018:
+• X. Tang, B. Li, K. J. Chen, and J. Wang, "Photocurrent characteristics of metal-
+AlGaN/GaN Schottky-on-heterojunction diodes induced by GaN interband excitation," 
+Appl. Phys. Express, 11, 054101, 2018.
+• Q. Qian, Z. Zhang, and K. J. Chen, "Layer-dependent second-order Raman intensity 
+of MoS2 and WSe2: influence of intervalley scattering," Physical Review B, 97, 165409, 
+2018.
+• (Invited Paper) H. Amano, et al., "The 2018 GaN power electronics roadmap, " J. 
+Phys. D: Appl. Phys. 51 (2018) 163001. 
+• Q. Qian, Z. Zhang, and K. J. Chen, "In Situ Resonant Raman Spectroscopy to Monitor 
+the Surface Functionalization of MoS2 and WSe2 for High-k Integration: A First-
+Principles Study," Langmuir, 34, pp. 2882-2889, 2018. DOI: 
+10.1021/acs.langmuir.7b03840.
+• M. Hua, Q. Qian, J. Wei, Z. Zhang, G. Tang, and K. J. Chen, "Bias Temperature 
+Instability of Normally-Off GaN MIS-FET with Low-Pressure Chemical Vapor 
+Deposition SiNx Gate Dielectric, " Phys. Status Solidi A, 2018, 1700641, DOI: 
+10.1002/pssa.201700641.
+• J. Lei, J. Wei, G. Tang, Z. Zhang, Q. Qian, Z. Zheng, Mengyuan, and K. J. Chen, 
+"650-V Double-Channel Lateral Schottky Barrier Diode with Dual-Recess Gated 
+Anode," IEEE Electron Device Lett., IEEE Electron Device Lett., vol. 39, no. 2, pp. 260-
+263, Feb. 2018.
+• M. Hua, J. Wei, Q. Bao, Z. Zhang, Z. Zheng, and K. J. Chen, "Dependence of VTH
+Stability on Gate-Bias under Reverse-Bias Stress in E-mode GaN MIS-FET," IEEE 
+Electron Device Lett., vol. 39, No. 3, pp. 413-416, 2018, DOI: 
+10.1109/LED.2018.2791664.
+• S. Huang, X. Liu, X. Wang, X. Kang, J. Zhang, J. Fan, J. Shi, K. Wei, Y. Zheng, H. 
+Gao, Q. Sun, M. Wang, B. Shen, and K. J. Chen, "Ultrathin-Barrier AlGaN/GaN 
+Page 1 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+Heterostructure: A Recess-Free Technology for Manufacturing High-Performance 
+GaN-on-Si Power Devices," IEEE Trans. Electron Devices, vol. 65, no. 1, pp. 207-214, 
+2018.
+• J. Wei, J. Lei, X. Tang, B. Li, S. Liu, and K. J. Chen, "Channel-to-Channel Coupling in 
+Normally-Off GaN Double-Channel MOS-HEMT," IEEE Electron Device Lett., vol. 39, 
+no. 1, pp. 59-62, 2018.
+• K. Kim, M. Hua, D. Liu, J. Kim, K. J. Chen, and Z. Ma, "Efficiency enhancement of 
+InGaN/GaN blue light-emitting diodes with top surface deposition of AlN/Al2O3," Nano 
+Energy, 43 (2018) 259-269.
+2017:
+• S. Yang, C. Zhou, S. Han, J. Wei, K. Sheng, and K. J. Chen, "Impact of Substrate Bias 
+Polarity on Buffer-Related Current Collapse in AlGaN/GaN-on-Si Power Devices," 
+IEEE Trans. Electron Devices, vol. 64, no. 12, pp. 5048-5056, 2017.
+• Q. Qian, Z. Zhang, M. Hua, J. Wei, J. Lei, and K. J. Chen, "Remote N2 Plasma 
+Treatment to Deposit Ultrathin High-k Dielectric As Tunneling Contact Layer for Single-
+layer MoS2 MOSFET," Appl. Phys. Express, vol. 10, p. 125201, 2017.
+• Z. Zhang, B. Li, Member, Q. Qian, X. Tang, M. Hua, B. Huang, and K. J. Chen, 
+"Revealing the Nitridation Effects on GaN Surface by First-Principles Calculation and 
+X-Ray/Ultraviolet Photoemission Spectroscopy," IEEE Trans. Electron Devices, vol. 64, 
+No. 10, p. 4036-4036, 2017.
+• G. Tang, A. M. H. Kwan, R. K. Y. Wong, J. Lei, R. Y. Su, F. W. Yao, Y. M. Lin, J. L. Yu, 
+T. Tsai, H. C. Tuan, A. Kalnitsky, and K. J. Chen, "Digital Integrated Circuits on an 
+E-mode GaN Power HEMT Platform," IEEE Elec. Dev. Lett., vol. 38, No. 9, pp. 1282-
+1285, 2017.
+•
+S. Liu, M. Wang, M. Tao, R. Yin, J. Gao, H. Sun, W. Lin, C. P. Wen, J. Wang, W. Wu, 
+Y. Hao, Z. Zhang, K. J. Chen, and B. Shen, "Gate-Recessed Normally-OFF GaN 
+MOSHEMT with Improved Channel Mobility and Dynamic Performance Using 
+AlN/Si3N4 as Passivation and Post Gate-Recess Channel Protection Layers," IEEE 
+Elec. Dev. Lett., vol. 38, No. 8, pp. 1075-1078, 2017.
+•
+G. Tang, J. Wei, Z. Zhang, X. Tang, M. Hua, H. Wang, and K. J. Chen, "Dynamic RON
+of GaN-on-Si Lateral Power Devices with a Floating Substrate Termination," IEEE 
+Elec. Dev. Lett., vol. 38, No. 7, pp. 937-940, 2017.
+•
+M. Hua, J. Wei, G. Tang, Z. Zhang, Q. Qian, X. Cai, N. Wang, and K. J. Chen, 
+"Normally-Off LPCVD-SiNx/GaN MIS-FET with Crystalline Oxidation Interlayer," IEEE 
+Elec. Dev. Lett., vol. 7, No. 38, pp. 929-932, 2017.
+•
+M. Zhang, J. Wei, H. Jiang, K. J. Chen, and C. H. Cheng, "A New SiC Trench 
+MOSFET Structure With Protruded p-Base for Low Oxide Field and Enhanced 
+Switching Performance," IEEE Trans. Device and Materials Reliability, vol. 17, No. 2,
+pp. 432-437, 2017.
+• M. Zhang, J. Wei, H. Jiang, K. J. Chen, and C. Cheng, "SiC trench MOSFET with self-
+biased p-shield for low RON-SP and low OFF-state oxide field," IET Power Electron., 
+vol. 10, no. 10, No. 10, pp. 1208-1213, 2017.
+•
+J. Wei, M. Zhang, H. Jiang, H. Wang, and K. J. Chen, "Dynamic Degradation in SiC 
+Trench MOSFET with a Floating p-Shield Revealed With Numerical Simulations," 
+IEEE Trans. Electron Devices, vol. 64, No. 6, pp. 2592-2598, 2017.
+Page 2 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+•
+Q. Qian, Z. Zhang, M. Hua, G. Tang, J. Lei, F. Lan, Y. Xu, R. Yan, and K. J. Chen, 
+"Enhanced dielectric deposition on single-layer MoS2 with low damage using remote 
+N2 plasma treatment," Nanotechnology, vol. 28, No. 17, p. 175202, 2017.
+•
+(Invited Paper) K. J. Chen, O. H�berlen, A. Lidow, C. L. Tsai, T. Ueda, Y. Uemoto, 
+and Y. Wu, "GaN-on-Si Power Technology: Devices and Applications," IEEE Trans. 
+Electron Devices, vol. 64, No. 3, pp. 779-795, 2017.
+•
+R. Xie, H. Wang, G. Tang, X. Yang, and K. J. Chen, "An Analytical Model for False 
+Turn-On Evaluation of High-Voltage Enhancement-Mode GaN Transistor in Bridge-
+Leg Configuration," IEEE Trans. Power Electronics, vol. 32, No. 8, pp. 6416-6488, 
+2017.
+•
+H. Wang, J. Wei, R. Xie, C. Liu, G. Tang, and K. J. Chen, "Maximizing the 
+Performance of 650-V p-GaN Gate HEMTs: Dynamic RON Degradation and Circuit 
+Design Considerations," IEEE Trans. Power Electronics, vol. 32, No. 7, pp. 5539-
+5549, 2017.
+•
+S. Yang, S. Liu, Y. Lu, and K. J. Chen, "Trapping mechanisms in insulated-gate GaN 
+power devices: Understanding and characterization techniques," physica status solidi 
+(a), vol. 214, p. 1600607, 2017.
+2016:
+• S. Huang, X. Liu, X. Wang, X. Kang, J. Zhang, Q. Bao, K. Wei, Y. Zheng, C. Zhao, H. 
+Gao, Q. Sun, Z. Zhang, and K. J. Chen, "High Uniformity Normally-OFF GaN MIS-
+HEMTs Fabricated on Ultra-Thin-Barrier AlGaN/GaN Heterostructure," IEEE Elec. 
+Dev. Lett., vol. 37, No. 12, pp. 1617-1620, 2016.
+• B. Li, X. Tang, G. Tang, J. Wei, J. Wang, and K. J. Chen, "Switching Behaviors of On-
+Chip Photon Source on AlGaN/GaN-on-Si Power HEMTs Platform," IEEE Photonics 
+Technology Lett., vol. 28, pp. 2803-2806, 2016.
+• J. Wei, M. Zhang, H. Jiang, C. Cheng, and K. J. Chen, "Low ON-Resistance SiC 
+Trench/Planar MOSFET With Reduced OFF-State Oxide Field and Low Gate 
+Charges," IEEE Elec. Dev. Lett., vol. 37, pp. 1458-1461, 2016.
+• X. Tang, B. Li, Z. Zhang, G. Tang, J. Wei, and K. J. Chen, "Characterization of Static 
+and Dynamic Behaviors in AlGaN/GaN-on-Si Power Transistors With Photonic-Ohmic 
+Drain," IEEE Trans. Electron Devices, vol. 63, pp. 2831-2837, 2016.
+• Q. Qian, B. Li, M. Hua, Z. Zhang, F. Lan, Y. Xu, R. Yan, and K. J. Chen, "Improved 
+Gate Dielectric Deposition and Enhanced Electrical Stability for Single-Layer MoS2
+MOSFET with an AlN Interfacial Layer," Scientific Reports, vol. 6, p. 27676, 2016.
+• J. Wei, H. Jiang, Q. Jiang, and K. J. Chen, "Proposal of a GaN/SiC Hybrid Field-Effect 
+Transistor for Power Switching Applications," IEEE Trans. Electron Devices, vol. 63, 
+pp. 2469-2473, 2016.
+• (Feature Article) K. J. Chen, S. Yang, S. Liu, C. Liu, and M. Hua, "Toward reliable 
+MIS- and MOS-gate structures for GaN lateral power devices," Phys. Status Solidi A, 
+vol. 213, pp. 861-867, 2016.
+• M. Hua, Y. Lu, S. Liu, C. Liu, K. Fu, Y. Cai, B. Zhang, and K. J. Chen, "Compatibility of 
+AlN/SiNx Passivation With LPCVD-SiNx Gate Dielectric in GaN-Based MIS-HEMT," 
+IEEE Elec. Dev. Lett., vol. 37, No. 3, pp. 265-268, 2016.
+• (Invited Article) B. Li, X. Tang, J. Wang, and K. J. Chen, "Optoelectronic Devices on 
+AlGaN/GaN HEMT Platform, " Phys. Status Solidi A, vol. 213, No. 5, pp. 1213-1221, 
+2016.
+Page 3 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• X. Tang, B. Li, Y. Lu, and K. J. Chen, "On-chip Addressable Schottky-on-
+Heterojunction Light-Emitting Diode Arrays on AlGaN/GaN-on-Si Platform, " Phys. 
+Status Solidi C, vol. 13, No. 5-6, pp. 365-368, 2016.
+• S. Yang, Y. Lu, H. Wang, S. Liu, C. Liu, and K. J. Chen, "Dynamic Gate Stress-
+Induced VTH Shift and Its Impact on Dynamic RON in GaN MIS-HEMTs," IEEE Elec. 
+Dev. Lett., vol. 37, pp. 157-160, 2016.
+• S. Yang, S. Liu, C. Liu, M. Hua, and K. J. Chen, "Gate Stack Engineering for GaN 
+Lateral Power Transistors, " Semicond. Sci. Technol. 31, 024001, 2016. 
+2015:
+• J. Wei, S. Liu, B. Li, X. Tang, Y. Lu, C. Liu, M. Hua, Z. Zhang, G. Tang, and K. J. 
+Chen, "Low On-Resistance Normally-Off GaN Double-Channel Metal-Oxide-
+Semiconductor High-Electron-Mobility Transistor, " IEEE Elec. Dev. Lett., vol. 36, No. 
+12, pp. 1287-1290, 2015.
+• M. Hua, C. Liu, S. Yang, S. Liu, K. Fu, Z. Dong, Y. Cai, B. Zhang, and K. J. Chen, 
+"Characterization of Leakage and Reliability of SiNx Gate Dielectric by Low-Pressure 
+Chemical Vapor Deposition for GaN-based MIS-HEMTs, " IEEE Trans. Electron 
+Devices, vol. 62, No. 10, pp. 3215-3222, 2015.
+• X. Wang, J. Xu, Z. Wang, K. J. Chen, X. Wu, Z. Wang, P. Yang, and L. H. K. Duong, 
+"An Analytical Study of Power Delivery Systems for Many-Core Processors Using On-
+Chip and Off-Chip Voltage Regulators, " IEEE Trans. Computer-Aided Design Of 
+Integrated Circuits And Systems, vol. 34, No. 9, pp. 1401-1414, 2015.
+• C. Zhang, M. Wang, B. Xie, C. P. Wen, J. Wang, Y. Hao, W. Wu, K. J. Chen, and B. 
+Shen, "Temperature Dependence of the Surface- and Buffer-Induced Current Collapse 
+in GaN High-Electron Mobility Transistors on Si Substrate, " IEEE Trans. Electron 
+Devices, vol. 62, NO. 8, pp. 2475-2480, 2015.
+• H. Wang, C. Liu, Q. Jiang, Z. Tang, and K. J. Chen, "Dynamic Performance of AlN-
+Passivated AlGaN/GaN MIS-High Electron Mobility Transistors Under Hard Switching 
+Operation, " IEEE Elec. Dev. Lett., vol. 36, No. 8, pp. 760-762, 2015.
+• S. Lin, M. Wang, B. Xie, C. P. Wen, M. Yu, J. Wang, Y. Hao, W. Wu, S. Huang, K. J. 
+Chen, and B. Shen, "Reduction of Current Collapse in GaN High-Electron Mobility 
+Transistors Using a Repeated Ozone Oxidation and Wet Surface Treatment, " IEEE 
+Elec. Dev. Lett., vol. 36, No. 8, pp. 757-759, 2015.
+• S. Huang, X. Liu, J. Zhang, K. Wei, G. Liu, X. Wang, Y. Zheng, H. Liu, Z. Jin, C. Zhao, 
+C. Liu, S. Liu, S. Yang, J. Zhang, Y. Hao, and K. J. Chen, "High RF Performance 
+Enhancement-Mode Al2O3/AlGaN/GaN MIS-HEMTs Fabricated With High-
+Temperature Gate-Recess Technique, " IEEE Elec. Dev. Lett., vol. 36, No. 8, pp. 754-
+756, 2015.
+• S. Yang, S. Liu, Y. Lu, C. Liu, and K. J. Chen, "AC-Capacitance Techniques for 
+Interface Trap Analysis in GaN-Based Buried-Channel MIS-HEMTs, " IEEE Trans. 
+Electron Devices, vol. 62, No. 6, pp. 1870-1878, 2015.
+• Y. Lu, Q. Jiang, Z. Tang, S. Yang, C. Liu, and K. J. Chen, "Characterization of 
+SiNx/AlN passivation stack with epitaxial AlN grown on AlGaN/GaN heterojunctions by 
+plasma-enhanced atomic layer deposition, " Appl. Phys. Express 8, 064101, 2015.
+• H. Wang, A. M. Kwan, Q. Jiang, and K. J. Chen, "A GaN Pulse Width Modulation 
+Integrated Circuit for GaN Power Converters, " IEEE Trans. on Electron Devices, vol. 
+62, No. 4, pp. 1143-1149, 2015.
+Page 4 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• B. Li, X. Tang, and K. J. Chen, "Optical pumping of deep traps in AlGaN/GaN-on-Si 
+HEMTs using an on-chip Schottky-on-heterojunction light-emitting diode, " Appl. Phys. 
+Lett., 106(9), 093505, 2015.
+• M. Hua, C. Liu, S. Yang, S. Liu, K. Fu, Z. Dong, Y. Cai, B. Zhang, and K. J. Chen, 
+"GaN-Based Metal-Insulator-Semiconductor High-Electron-Mobility Transistors Using 
+Low Pressure Chemical Vapor Deposition Silicon Nitride (LPCVD-SiNx) as Gate 
+Dielectric," IEEE Elec. Dev. Lett., vol. 36, No. 5, pp. 448-450, 2015.
+• Y. Lu, B. Li, X. Tang, Q. Jiang, S. Yang, Z. Tang, and K. J. Chen, "Normally OFF 
+Al2O3-AlGaN/GaN MIS-HEMT With Transparent Gate Electrode for Gate Degradation 
+Investigation, " IEEE Trans. Electron Devices, vol. 62, No. 3, pp. 821-827, 2015.
+• S. Liu, S. Yang, Z. Tang, Q. Jiang, C. Liu, M. Wang, B. Shen, and K. J. Chen, 
+"Interface/border trap characterization of Al2O3/AlN/GaN metal-oxide-semiconductor 
+structures with an AlN interfacial layer, " Appl. Phys. Lett., 106(5), 051605, 2015.
+• C. Liu, S. Yang, S. Liu, Z. Tang, H. Wang, Q. Jiang, and K. J. Chen, "Thermally Stable 
+Enhancement-Mode GaN Metal-Insulator-Semiconductor High-Electron-Mobility 
+Transistor With Partially Recessed Fluorine-Implanted Barrier, " IEEE Elec. Dev. Lett., 
+vol. 36, No. 4, pp. 318-320, 2015.
+• S. Huang, X. Liu, K. Wei, G. Liu, X. Wang, B. Sun, X. Yang, B. Shen, C. Liu, S. Liu, M. 
+Hua, S. Yang, and K. J. Chen, "O3-sourced atomic layer deposition of high quality 
+Al2O3 gate dielectric for normally-off GaN metal-insulator-semiconductor high-electron-
+mobility transistors, " Appl. Phys. Lett., 106(3), 033507, 2015.
+2014:
+• S. Yang, S. Liu, C. Liu, Y. Lu, and K. J. Chen, "Mechanisms of thermally induced 
+threshold voltage instability in GaN-based heterojunction transistors," Appl. Phys. Lett., 
+105(22), 223508, 2014.
+• (Invited) K. J. Chen, S. Yang, Z. Tang, S. Huang, Y. Lu, Q. Jiang, S. Liu, C. Liu, and 
+B. Li, "Surface nitridation for improved dielectric/III-nitride interfaces in GaN MIS-
+HEMTs, " Phys. Stat. Sol. (a), vol. 212, No. 5, pp. 1059-1065, 2015.
+• Q. Jiang, Z. Tang, C. Zhou, S. Yang, and K. J. Chen, "Substrate-Coupled Cross-Talk 
+Effects on an AlGaN/GaN-on-Si Smart Power IC Platform," IEEE Trans. on Electron 
+Devices, vol. 61, No. 11, pp. 3808-3813, 2014.
+• A. M. Kwan, Y. Guan, X. Liu, and K. J. Chen, "A Highly Linear Integrated Temperature 
+Sensor on a GaN Smart Power IC Platform," IEEE Trans. on Electron Devices, vol. 61, 
+No. 8, pp. 2970-2976, 2014.
+• Z. Tang, S. Huang, X. Tang, B. Li, and K. J. Chen, "Influence of AlN Passivation on 
+Dynamic ON-Resistance and Electric Field Distribution in High-Voltage AlGaN/GaN-
+on-Si HEMTs," IEEE Trans. on Electron Devices, vol. 61, No. 8, pp. 2785-2792, 2014.
+• B. Li, X. Tang, J. Wang, and K. J. Chen, "P-doping-free III-nitride high electron mobility 
+light-emitting diodes and transistors," Appl. Phys. Lett., 105(3), 032105, 2014.
+• S. Liu, S. Yang, Z. Tang, Q. Jiang, C. Liu, M. Wang, and K. J. Chen, "Al2O3/AlN/GaN 
+MOS-Channel-HEMTs With an AlN Interfacial Layer," IEEE Elec. Dev. Lett., vol. 35, 
+No. 7, pp. 723-725, 2014.
+• M. Wang, Y. Wang, C. Zhang, B. Xie, C. P. Wen, J. Wang, Y. Hao, W. Wu, K. J. Chen, 
+and B. Shen, "900 V/1.6 mΩ.cm2 Normally Off Al2O3/GaN MOSFET on Silicon 
+Substrate," IEEE Trans. on Electron Devices, vol. 61, No. 6, pp. 2035-2040, 2014.
+Page 5 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• Q. Jiang, Z. Tang, C. Liu, Y. Lu, and K. J. Chen, "A High-Voltage Low-Standby-Power 
+Startup Circuit Using Monolithically Integrated E/D-Mode AlGaN/GaN MIS-HEMTs, " 
+IEEE Trans. on Electron Devices, vol. 61, No. 3, pp. 762-768, 2014.
+• A. Zhang, L. Zhang, Z. Tang, X. Cheng, Y. Wang, K. J, Chen, and M. Chan, 
+"Analytical Modeling of Capacitances for GaN HEMTs, Including Parasitic 
+Components, " IEEE Trans. on Electron Devices, vol. 61, No. 3, pp. 755-761, 2014.
+• S. Huang, K. Wei, G. Liu, Y. Zheng, X. Wang, L. Pang, X. Kong, X. Liu, Z. Tang, S. 
+Yang, Q. Jiang, and K. J. Chen, "High- fMAX High Johnson's Figure-of-Merit 0.2-um 
+Gate AlGaN/GaN HEMTs on Silicon Substrate With AlN/SiNx Passivation, " IEEE Elec. 
+Dev. Lett., vol. 35, No. 3, pp. 315-317, 2014.
+• C. Liu, S. Liu, S. Huang, B. Li, and K. J. Chen, "AlN/GaN heterostructure TFTs with 
+plasma enhanced atomic layer deposition of epitaxial AlN thin film," Physica Status 
+Solidi (C), vol. 11, No. 3-4, pp. 953-956, 2014
+• B. Li, Q. Jiang, S. Liu, C. Liu, and K. J. Chen, "Degradation of transient OFF-state 
+leakage current in AlGaN/GaN HEMTs induced by ON-state gate overdrive," Physica 
+Status Solidi (C), vol. 11, No. 3-4, pp. 928-931, 2014.
+• S. Yang, Q. Jiang, B. Li, Z. Tang, and K. J. Chen, "GaN-to-Si vertical conduction 
+mechanisms in AlGaN/GaN-on-Si lateral heterojunction FET structures, " Physica 
+Status Solidi (C), vol. 11 No. 3-4, pp. 949-952, 2014.
+• (Invited) K. J. Chen, A. M. H. Kwan, and Q. Jiang, "Technology for III-N 
+heterogeneous mixed-signal electronics," Physica Status Solidi (a), vol. 211, No. 4, pp. 
+769-774, 2014. 
+• S. Yang, C. Zhou, Q. Jiang, J. Lu, B. Huang, and K. J. Chen, "Investigation of buffer 
+traps in AlGaN/GaN-on-Si devices by thermally stimulated current spectroscopy and 
+back-gating measurement," Appl. Phys. Lett., 104(1), 013504, 2014.
+• Q. Zhou, S. Yang, W. Chen, B. Zhang, Z. Feng, S. Cai, and K. J. Chen, "High voltage 
+InAlN/GaN HEMTs with nonalloyed Source/Drain for RF power applications," Solid-
+State Electronics, vol. 91, pp. 19-23, 2014. 
+2013:
+• S. Yang, Z. Tang, K. -Y. Wong, Y. -S. Lin, C. Liu, Y. Lu, S. Huang, and K. J. Chen, 
+"High-quality interface in Al2O3/GaN/AlGaN/GaN MIS Structures with in situ pre-gate 
+plasma nitridation," IEEE Elec. Dev. Lett., vol. 34, No. 12, pp. 1497-1499, 2013.
+• Z. Tang, Q. Jiang, Y. Lu, S. Huang, S. Yang, X. Tang, and K. J. Chen, "600-V 
+normally-off SiNx/AlGaN/GaN MIS-HEMT with large gate swing and low current 
+collapse," IEEE Elec. Dev. Lett., vol. 34, No. 11, pp. 1373-1375, 2013.
+• Y. Wang, M. Wang, B. Xie, C. P. Wen, J. Wang, Y. Hao, W. Wu, K. J. Chen, and B. 
+Shen, "High-Performance Normally-Off Al2O3/GaN MOSFET Using a Wet Etching-
+Based Gate Recess Technique," IEEE Elec. Dev. Lett., vol. 34, No. 11, pp. 1370-1372, 
+2013.
+• Q. Zhou, W. Chen, C. Zhou, B. Zhang, and K. J. Chen, "High sensitivity AlGaN/GaN 
+lateral field-effect rectifier for zero-bias microwave detection," Electronics Lett., vol. 49, 
+No. 22, 2013.
+• S. Huang, K. Wei, Z. Tang, S. Yang, C. Liu, L. Guo, B. Shen, J. Zhang, X. Kong, G. 
+Liu, Y. Zheng, X. Liu, and K. J. Chen, "Effects of interface oxidation on the transport 
+behavior of the two-dimensional-electron-gas in AlGaN/GaN heterostructures by 
+Page 6 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+plasma-enhanced-atomic-layer-deposited AlN passivation," J. Appl. Phys., 114, 
+144509, 2013.
+• S. Yang, S. Huang, Q. Zhou, M. Schnee, Q.-T. Zhao, J. Schubert, and K. J. Chen, 
+"Fabrication and characterization of enhancement-mode high-K LaLuO3-AlGaN/GaN 
+MIS-HEMTs," IEEE Trans. on Electron Devices, vol. 60, No. 10, pp. 3040-3046, 2013.
+• Y. Lu, S. Yang, Q. Jiang, Z. Tang, B. Li, and K. J. Chen, "Characterization of 
+VT-instability in enhancement-mode Al2O3-AlGaN/GaN MIS-HEMTs," Phys. Sta. Sol. 
+(C), 10, No. 11, pp. 1397-1400, 2013.
+• C. Liu, S. Liu, S. Huang, and K. J. Chen, "Plasma-enhanced atomic layer deposition of 
+AlN epitaxial thin film for AlN/GaN heterostructure TFTs," IEEE Elec. Dev. Lett., vol. 
+34, No. 9, pp. 1106-1108, 2013.
+• A. M. H. Kwan, Y. Guan, X. Liu, and K. J. Chen, "Integrated over-temperature 
+protection circuit for GaN smart power ICs," Jpn. J. Appl. Phys., 52, 08JN15, 2013.
+• S. Yang, S. Huang, Q. Zhou, M. Schnee, Q.-T. Zhao, J. Schubert, and K. J. Chen,
+"Enhancement-mode LaLuO3-AlGaN/GaN Metal-Insulator-Semiconductor High-
+Electron-Mobility-Transistors using fluorine plasma ion implantation," Jpn. J. Appl. 
+Phys., 52, 08JN02, 2013.
+• (Invited) K. J. Chen, and S. Huang, "AlN passivation by plasma-enhanced atomic 
+layer deposition for GaN-based power switches and power amplifiers," Semiconductor 
+Science and Technology, vol. 28, No. 7, 074015, 2013.
+• X. Liu, C. Zhan, K. W. Chan, MHS. Owen, W. Liu, D. Z. Chi, L. S. Tan, K. J. Chen, and 
+Y. C. Yeo, "AlGaN/GaN metal-oxide-semiconductor high-electron-mobility-transistors 
+with a high breakdown voltage of 1400 V and a complementary metal-oxide-
+semiconductor compatible gold-free process," Jpn. J. Appl. Phys., 52, 04CF06, 2013.
+• Q. Zhou, W. Chen, S. Liu, B. Zhang, Z. Feng, S. Cai, and K. J. Chen, "Schottky-
+contact technology in InAlN/GaN HEMTs for breakdown voltage improvement," IEEE 
+Trans. on Electron Devices, vol. 60, No. 3, pp. 1075-1081, 2013.
+• Z. Tang, S. Huang, Q. Jiang, S. Liu, C. Liu, and K. J. Chen, "High-voltage (600V) low-
+leakage low-current-collapse AlGaN/GaN HEMTs with AlN/SiNx passivation," IEEE 
+Elec. Dev. Lett., vol. 34, No. 3, pp. 366-368, 2013.
+• Q. Jiang, C. Liu, Y. Lu, and K. J. Chen, "1.4 kV AlGaN/GaN HEMTs on a GaN-on-SOI 
+platform," IEEE Elec. Dev. Lett., vol. 34, No. 3, pp. 357-359, 2013.
+• S. Huang, Q. Jiang, S. Yang, Z. Tang, and K. J. Chen, "Mechanism of PEALD-grown 
+AlN passivation for AlGaN/GaN HEMTs: compensation of interface traps by 
+polarization charges," IEEE Elec. Dev. Lett., vol. 34, No. 2, pp. 193-195, 2013.
+• A. W. H. Kwan and K. J. Chen, "A gate overdrive protection technique for improved 
+reliability in AlGaN/GaN enhancement-mode HEMTs," IEEE Elec. Dev. Lett., vol. 34, 
+No. 1, pp. 30-32, 2013.
+• W. Chen, J. Zhang, Z. Wang, J. Wei, B. Zhang, and K. J. Chen, "Investigation of 
+device geometry- and temperature-dependent characteristics of AlGaN/GaN lateral 
+field-effect rectifier," Semicond. Sci. Technol., vol. 28, 015021, 2013.
+• Z. Dong, S. Tan, Y. Cai, H. Chen, S. Liu, J. Xu, L. Xue, G. Yu, Y. Wang, D. Zhao, K. 
+Hou, K. J. Chen, and B. Zhang, "5.3A/400V normally-off AlGaN/GaN-on-Si MOS-
+HEMT with high threshold voltage and large gate swing," Electronics Letters, vol. 49, 
+No. 3, pp. 221-222, 2013.
+2012:
+Page 7 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• X. Wang, S. Liu, D. Ma, X. Zheng, G. Chen, F. Xu, N. Tang, B. Shen, P. Zhang, X. 
+Caom, B. Wang, S. Huang, K. J. Chen, S. Zhou, and A. Yoshikawa, "Fe-doped InN 
+layers grown by molecular beam epitaxy," Appl. Phys. Lett., 101, 171905, 2012.
+• J. Fu, L. Yuan, and L. Yobas, and K. J. Chen, "UV-illuminated Dielectrophoresis by 
+Two-Dimensional Electron Gas (2DEG) in AlGaN/GaN Heterojunction," Phys. Stat. Sol. 
+(a), 28042, 2012.
+• Zhou, Q. Jiang, S. Huang, and K. J. Chen, "Vertical leakage/breakdown mechanisms 
+in AlGaN/GaN-on-Si devices," IEEE Elec. Dev. Lett., 2012, vol. 33, No. 8, pp. 1132-
+1134, 2012.
+• S. Yang, S. Huang, H. Chen, C. Zhou, Q. Zhou, M. Schnee, Q.-T. Zhao, J. Schubert, 
+and K. J. Chen, "AlGaN/GaN MISHEMTs with High-K LaLuO3 Gate Dielectric," IEEE 
+Elec. Dev. Lett., 2012, vol. 33, No. 7, pp. 979-981, 2012.
+• X. Liu, C. Zhan, K. W. Chan, W. Liu, L. S. Tan, K. J. Chen and Y.-C. Yeo, 
+"AlGaN/GaN-on-Silicon MOS-HEMTs with Breakdown Voltage of 800 V and On-State 
+Resistance of 3 mΩ.cm2 using a CMOS-Compatible Gold-Free Process," Appl. Phys. 
+Express, 5, 066501, 2012.
+• S. Huang, Q. Jiang, S. Yang, C. Zhou, and K. J. Chen, "Effective Passivation of 
+AlGaN/GaN HEMTs by ALD-Grown AlN Thin Film, " IEEE Elec. Dev. Lett., vol. 33, No. 
+4, pp. 516-518, 2012.
+• S. Liu, Y. Cai, G. Gu, J. Wang, C. Zeng, W. Shi, Z. Feng, H. Qin, Z. Cheng, K. J. 
+Chen, and B. Zhang, "Enhancement-mode operation of nano-channel Array (NCA) 
+AlGaN/GaN HEMTs," IEEE Elec. Dev. Lett., vol. 33, No. 3, pp. 354-356, 2012.
+• H. Chen, L. Yuan, Q. Zhou, C. Zhou, and K. J. Chen, "Normally-off AlGaN/GaN power 
+tunnel-junction FETs," Phys. Stat. Sol. C, No. 3-4, pp. 871-874, 2012.
+• S. Huang, S. Yang, J. Roberts, and K. J. Chen, "Characterization of Vth-instability in 
+Al2O3/GaN/AlGaN/GaN MIS-HEMTs by quasi-static C-V measurement," Phys. Stat. 
+Sol. C, No. 3-4, pp. 923-926, 2012.
+• Q. Zhou, H. Chen, C. Zhou, Z. H. Feng, S. J. Cai, and K. J. Chen, "Schottky 
+source/drain InAlN/AlN/GaN MISHEMT with enhanced breakdown voltage," IEEE Elec. 
+Dev. Lett., vol. 33, No. 1, pp. 38-40, 2012.
+• J. -Y. Lu, H. Ren, D. Deng, Y. Wang, K. J. Chen, K. M. Lau, and T. Y. Zhang, 
+"Thermally activated pop-in and indentation size effects in GaN films," J. Phys. D: Appl. 
+Phys. 45 (2012) 085301.
+• S. Jha, H. E. Wang, O. Kutsay, E.V. Jelenkovic, K. J. Chen, I. Bello, V. Kremnican, J. 
+A. Zapien, "Exploiting nanostructure-thin film interfaces in advanced sensor device 
+configurations", Vacuum, vol. 86, pp. 757-760, 2012.
+2011:
+• C. Ma, H. Chen, C. Zhou, S. Huang, L. Yuan, J. Roberts, and K. J. Chen, "ON-state 
+critical gate overdrive voltage for fluorine-implanted enhancement-mode AlGaN/GaN 
+high electron mobility transistors," J. Appl. Phys., 110, 114514, 2011. 
+• S. Huang, S. Yang, J. Roberts, and K. J. Chen, "Threshold voltage instability in 
+Al2O3/GaN/AlGaN/GaN metal-insulator-semiconductor high electron mobility 
+transistors," Jpn. J. Appl. Phys., 50, 110202, 2011. 
+• S. Yang, S. Huang, H. Chen, M. Schnee, Q.-T. Zhao, J. Schubert, and K. J. Chen, 
+"Characterization of high-k LaLuO3 thin film grown on AlGaN/GaN heterostructure by 
+molecular beam deposition," Appl. Phys. Lett., 99, 182103, 2011.
+Page 8 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• L. Yuan, H. Chen, Q. Zhou, C. Zhou, and K. J. Chen, "Gate-induced Schottky barrier 
+lowering effect in AlGaN/GaN metal-2DEG tunnel junction field effect transistor," IEEE 
+Elec. Dev. Lett., vol. 32, No. 9, pp. 1221-1223, 2011. 
+• B. K. Li, M. J. Wang, K. J. Chen, and J. N. Wang, "Enhanced electroluminescence 
+from the fluorine-plasma implanted Ni/Au-AlGaN/GaN Schottky diode," Appl. Phys. 
+Lett., 99, 062101, 2011.
+• H. Chen, M. J. Wang, and K. J. Chen, "Enhancement-mode AlGaN/GaN HEMTs 
+fabricated by standard fluorine ion implantation with a Si3N4 energy-absorbing layer," 
+Electrochem. Solid-State Lett. vol. 14, No. 6, pp. H229-231, 2011.
+• A. M. H. Kwan, K. -Y. Wong, Xiaosen Liu, and K. J. Chen, "High-gain and high-
+bandwidth AlGaN/GaN high electron mobility transistor comparator with high-
+temperature operation," Jpn, J. Appl. Phys. Vol. 50, No. 4, 2011. 
+• M. J. Wang and K. J. Chen, "Kink effect in AlGaN/GaN HEMTs induced by drain and 
+gate pumping," IEEE Electron Device Letters, vol. 32, No. 4, pp. 482-484, Apr. 2011. 
+• H. Zhang, S. Bowman, and K. J. Chen, "Efficient parameter extraction of microwave 
+coupled-resonator filter using genetic algorithms," Int. J. of RF and Microwave 
+Computer-Aided Engineering, vol. 21, No. 2, pp. 137-144, Mar. 2011.
+• J. -Y. Lu, D. Deng, Y. Wang, K. J. Chen, K. M. Lau, and T. Y. Zhang, "Phonon deformation 
+potentials of hexagonal GaN studied by biaxial stress modulation," AIP Advances, 1 (2011) 
+032132.
+• L. Yuan, H. Chen, and K. J. Chen, "Normally-off AlGaN/GaN metal-2DEG tunnel-
+junction field-effect transistors," IEEE Electron Device Letters, vol. 32, No. 3, pp. 303-
+305, 2011.
+• J. Fu and K. J. Chen, "Microspheres manipulation system by patterned AlGaN/GaN 
+2DEG electrodes" Phys. Sta. Sol. (c), 8, No. 7-8, pp. 2479-2482, 2011.
+• S. Huang, H. Chen, and K. J. Chen, "Surface properties of AlGaN/GaN 
+heterostructures treated by fluorine plasma: an XPS study," Phys. Status Solidi C, 8, 
+No. 7-8, pp. 2200-2203, 2011.
+• M. J. Wang and K. J. Chen, "Improvement of the Off-State Breakdown Voltage with 
+Fluorine Ion Implantation in AlGaN/GaN HEMTs," IEEE Trans. Electron Devices, vol. 
+58, No. 2, pp. 460-465. 2011.
+• X. Liu and K. J. Chen, "GaN Single-Polarity Power Supply Bootstrapped Comparator 
+for High Temperature Electronics," IEEE Electron Device Letters, vol. 32, No. 1, pp. 
+27-29, Jan. 2011.
+• (Invited) K. J. Chen and C. Zhou, "Enhancement-mode AlGaN/GaN HEMT and MIS-
+HEMT Technology," Phys. Sta. Sol. (a), 208, No. 2, pp. 434-438. Feb. 2011.
+2010:
+• Z. H. Feng, R. Zhou, S. Y. Xie, J. Y. Yin, J. X. Fang, B. Liu, W. Zhou, K. J. Chen, S. J. 
+Cai, "18-GHz 3.65W/mm Enhancement-mode AlGaN/GaN HFET using Fluorine 
+Plasma Ion Implantation," IEEE Electron Device Letters, vol. 31, no. 12, pp. 1386-
+1388, Dec. 2010.
+• J. -Y. Lu, Z.-J. Wang, D. -M. Deng, Y. Wang, K. J. Chen, K. M. Lau, and T.-Y. Zhang, 
+"Determining phonon deformation potentials of hexagonal GaN with stress 
+modulation," J. Appl. Phys., 108, 123420, 2010.
+Page 9 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• W. Chen, C. Zhou, and K. J. Chen, "High-current-density high-voltage normally-off 
+AlGaN/GaN hybrid-gate HEMT with low on-resistance," Electronics Letters, vo. 46, No. 
+24, pp. 1626-1627, 2010.
+• T. Chang, T. -H. Hsu, E. Y. Chang, Y. -C. Chen, H. -D. Trinh and K. J. Chen, 
+"Normally-off operation AlGaN/GaN MOS-HEMT with high threshold voltage," 
+Electronics Letters, vol. 46, No. 18, pp. 1280-1281, 2010.
+• S. Huang, H. Chen, and K. J. Chen, "Effect of the fluorine plasma treatment on the 
+surface potential and Schottky barrier height of AlGaN/GaN heterostructures," Appl. 
+Phys. Lett., 96, 233510, 2010.
+• K. -Y. Wong, W. Chen, and K. J. Chen, "Characterization and analysis of the 
+temperature-dependent on-resistance in AlGaN/GaN lateral field-effect rectifiers," IEEE 
+Trans. Electron Devices, vol. 57, No. 8, pp. 1924-1929, 2010.
+• M. J. Wang and K. J. Chen, "Off-state Breakdown Characterization in AlGaN/GaN 
+HEMT Using Drain Injection Technique" IEEE Trans. Electron Devices, vol. 57, No. 7, 
+pp. 1492-1496, 2010.
+• K. -Y. Wong, W. Chen, X. Liu, C. Zhou, and K. J. Chen, "GaN Smart Power IC 
+Technology," Phys. Sta. Sol. (b), 247, No. 7, pp. 1732-1734, 2010.
+• M. J. Wang, C. C. Cheng, C. D. Beling, S. Fung, and K. J. Chen, "Modulation of 
+polarization field by fluorine ions in AlGaN/GaN heterostructures revealed by positron 
+annihilation spectroscopy," Phys. Sta. Sol. (a), 207, No. 6, pp. 1332-1334, 2010.
+• Zhou, W. J. Chen, E. L. Piner, and K. J. Chen, "Schottky-Ohmic Drain AlGaN/GaN 
+Normally-Off HEMT with Reverse Drain Blocking Capability," IEEE Electron Device 
+Letters, vol. 31, No. 7, pp. 668-670, 2010.
+• S. K. Jha, C. P. Liu, Z. H. Chen, K. J. Chen, I. Bello, J. A. Zapien, W. Zhang, and S.-T. 
+Lee, "Integrated Nanorods and Heterostructure Field Effect Transistors for Gas 
+Sensing," J. Phys. Chem. C, 114, pp. 7999-8004, 2010.  
+• Q. Zhou, K. -Y. Wong, W. J. Chen, and K. J. Chen, "Wide-Dynamic-Range Zero-Bias 
+Microwave Detector Using AlGaN/GaN Heterojunction Field-Effect Diode," IEEE 
+Microwave and Wireless Components Letters, vol. 20, No. 5, pp. 277-279, 2010.
+• K. -Y. Wong, W. J. Chen, and K. J. Chen, "Integrated Voltage Reference Generator for 
+GaN Smart Power Chip Technology" IEEE Trans. Electron Devices, vol. 57, No. 4, pp. 
+952-955, Apr. 2010.
+• C. H. Zhou, W. J. Chen, E. L. Piner, and K. J. Chen, "AlGaN/GaN lateral field-effect 
+rectifier with intrinsic forward current limiting capability," Electronics Letters, vol. 46, 
+No. 6, pp. 445-447, Mar. 2010.
+• C. H. Zhou, W. J. Chen, E. L. Piner, and K. J. Chen, "AlGaN/GaN Dual-Channel 
+Lateral Field-Effect Rectifier with Punch through Breakdown Immunity and Low On-
+Resistance," IEEE Electron Device Letters, vol. 31. No. 1, pp. 5-7, 2010.
+2009:
+• B. K. Li, M. J. Wang, K. J. Chen, and J. N. Wang, "Fermi-level depinning and hole 
+injection induced two-dimensional electron related radiative emissions from a forward 
+biased Ni/Au-AlGaN/GaN Schottky diode," Appl. Phys. Lett. 95, 232111, 2009.
+• K. -Y. Wong, W. J. Chen, Q. Zhou, and K. J. Chen, "Zero-Bias Mixer Based on 
+AlGaN/GaN Lateral Field-Effect diodes for High-Temperature Wireless Sensor and 
+RFID Applications," IEEE Trans. Electron Devices, vol. 56, No. 12, pp. 2888-2894, 
+Dec. 2009.
+Page 10 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• J. Lv, Z. Yang, G. Z. Yan, Y. Cai, B. Zhang, and K. J. Chen, "Fabrication of Large-area 
+Suspended MEMS Structures Using GaN-on-Si Platform," IEEE Electron Device Lett., 
+vol. 30, No. 10, pp. 1045-1047, 2009.
+• H. -Y. Huang, Z. -Y. Li, J. -Y. Lu, Z. -J. Wang, C. -S. Wang, K. M. Lau, K. J. Chen, and 
+T. -Y. Zhang, "Microbridge tests on gallium nitride thin films," J. Micromech. Microeng., 
+vol. 19, 095019, Sep. 2009.
+• L. Yuan, M. Wang, and K. J. Chen, "On the stability of fluorine ions in AlGaN/GaN 
+heterostructure: a molecular dynamics study," Phys. Sta. Sol. (c), vol. 6, No. S2, pp. 
+S944-S947, June 2009.
+• M. Wang, L. Yuan, F. Xu, B. Shen, and K. J. Chen, "Study of diffusion and thermal 
+stability of fluorine ions in GaN by Time-of-Flight Secondary Ion Mass Spectroscopy," 
+Phys. Sta. Sol. (c), vol. 6, No. S2, pp. S952-S955, June 2009.
+• W. Chen, K. -Y. Wong, and K. J. Chen, "HEMT-compatible lateral field-effect rectifier 
+using CF4 plasma treatment," Phys. Sta. Sol. (c), vol. 6, No. S2, pp. S948-S951, June 
+2009.
+• W. Chen, K. Y. Wong, and K. J. Chen, "Single-Chip Boost Converter using 
+Monolithically Integrated AlGaN/GaN Lateral Field-Effect Rectifier and Normally-off 
+HEMT,"IEEE Electron Device Lett., vol. 30, No. 5, pp. 430-432, 2009.
+• M. J. Wang, L. Yuan, F. Xu, B. Shen, and K. J. Chen, "Diffusion mechanism and the 
+thermal stability of fluorine ions in GaN after ion implantation," J. Appl. Phys., 105, 
+083519, 2009.
+• H. Zhang and K. J. Chen, "Design of dual-band rat-race couplers," IET Microwave, 
+Antenna and Propagation, vol. 3, No. 3 pp. 514-521, 2009.
+• M. J. Wang, L. Yuan, C. Cheng, C. Beling, and K. J. Chen, "Defect formation and 
+annealing behaviors of fluorine-implanted GaN layers revealed by positron annihilation 
+spectroscopy", Appl. Phys. Lett., 94, 061910, 2009.
+• X. Huo, G. -W. Xiao, P. C. H. Chan, and K. J. Chen, "Silicon-on-Organic Integration of 
+a 2.4 GHz VCO using High-Q Copper Inductors and Solder-Bumped Flip Chip 
+Technology," IEEE Trans. Components and Packaging Technology, vol. 32, No. 1, pp. 
+191-196, 2009.
+• R. Wang, Y. Cai, and K. J. Chen, "Temperature Dependence and Thermal Stability of 
+Planar-Integrated Enhancement/Depletion-mode AlGaN/GaN HEMTs and Digital 
+Circuits", Solid State Electronics, 53, pp. 1-6, 2009.
+2008:
+• L. Yuan, M. J. Wang, and K. J. Chen, "Molecular dynamics calculation of the fluorine 
+ions' potential energies in AlGaN/GaN Heterostructures," J. Appl. Phys., 104, 116106, 
+2008.
+• W. Chen, K. Y. Wong, W. Huang, and K. J. Chen, "High-performance AlGaN/GaN 
+lateral field-effect rectifiers compatible with high electron mobility transistors," Appl. 
+Phys. Lett., vol. 92, 253501, 2008.
+• (Invited article) B. K. Li, K. J. Chen, K. M. Lau, W. K. Ge, and J. N. Wang, 
+"Characterization of fluorine-plasma-induced deep centers in AlGaN/GaN 
+heterostructure by persistent photoconductivity," Phys. Stat. Sol. (c), vol. 5, No. 6, pp. 
+1892-1894, 2008 
+Page 11 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• R. Wang, Y. C. Wu, and K. J. Chen, "Gain Improvement of Enhancement-mode 
+AlGaN/GaN HEMTs Using Dual-Gate Architectures," Jpn. J. Appl. Phys., Vol. 47, No. 
+4, pp. 2820-2823, 2008.
+• S. K. Jha, C. Surya, K. J. Chen, K. M. Lau, and E. Jelencovic, "Low-frequency noise 
+properties of double channel AlGaN/GaN HEMTs," Solid-State Electronics, 52, pp. 
+606-611, 2008.
+• L. Yuan, M. J. Wang, and K. J. Chen, "Fluorine Plasma Ion Implantation in 
+AlGaN/GaN Heterostructures: A Molecular Dynamics Simulation Study," Appl. Phys. 
+Lett., 92, 102109, 2008.
+• H. Zhang and K. J. Chen, "A Second-Order Dual-Band Bandpass Filter Using a Dual-
+Band Admittance Inverter," Microwave and Optical Technology Lett., vol. 50, No. 5, pp. 
+1184-1187, May 2008..
+• J. W. Zhang, H. Zhang, S. G. Lu, Z. K. Xu, and K. J. Chen, "The Effect of Physical 
+Design Parameters on the RF and Microwave Performance of the BST Thin Film 
+Planar Interdigitated Varactors" Sensors and Actuators A: Physical, vol. 141, pp. 231-
+237, 2008.
+• B. K. Li, W. Ge, J. N. Wang, and K. J. Chen, "Persistent photoconductivity and carrier 
+transport in AlGaN/GaN heterostructures treated by fluorine plasma," Appl. Phys. Lett.
+92, 082105, 2008.
+2007:
+• X. Wang, B. Z. Wang, H. Zhang, and K. J. Chen, "A Tunable Bandstop Resonator 
+Based on a Compact Slotted Ground Structure," IEEE Trans. Microwave Theory and 
+Techniques, vol. 55, No. 9, pp. 1912-1918, Sep. 2007.
+• R. Wang, Y. Cai, W. C. -W. Tang, K. M. Lau, and K. J. Chen, "Integration of 
+Enhancement and Depletion-mode AlGaN/GaN MIS-HFETs by Fluoride-based Plasma 
+Treatment," Phys. Stat. Sol. (a), No. 6, 2023-2027, June 2007.
+• K. -Y. Wong, W. Tang, K. M. Lau, and K. J. Chen, "Surface Acoustic Wave Device on 
+AlGaN/GaN Heterostructure Using Two-Dimensional Electron Gas Interdigital 
+Transducers," Appl. Phys. Lett., vol. 90, 213506, May 2007.
+• Z. Cheng, Y. Cai, J. Liu, Y. G. Zhou, K. M. Lau, and K. J. Chen, "1.9-GHz Low Noise 
+Amplifier Using High-Linearity and Low-Noise Composite-Channel HEMTs," Microwave 
+and Optical Technology Lett., vol. 49, No. 6, pp. 1360-1362, June 2007.
+• Y, Cai, Z. Cheng, Z. Yang, W. C. -W. Tang, K. M. Lau, and K. J. Chen, "High 
+Temperature Operation of AlGaN/GaN HEMTs Direct-Coupled FET Logic (DCFL) 
+Integrated Circuits," IEEE Electron Device Lett., vol. 28, No. 5, pp. 328-331, May, 
+2007.
+• R. Wang, Y.Cai, W. C. -W. Tang, K. M. Lau, and K. J. Chen, "Device Isolation by 
+Plasma Treatment for Planar Integration of Enhancement/Depletion-Mode AlGaN/GaN 
+High Electron Mobility Transistors,"  Jpn J. Appl. Phys, vol. 46, No. 4B, pp. 2330-2333, 
+2007.
+• D. Song, J. Liu, Z. Cheng, W. C. -W. Tang, K. M. Lau, and K. J. Chen, "Normally Off 
+AlGaN/GaN Low-Density Drain HEMT (LDD-HEMT) With Enhanced Breakdown 
+Voltage and Reduced Current Collapse," IEEE Electron Device Lett., vol. 28, No. 3, pp. 
+189-191, Mar. 2007.
+Page 12 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• H. Zhang and K. J. Chen, "A Stub Tapped Branch-Line Coupler for Dual-Band 
+Operations," IEEE Microwave and Wireless Components Lett. , vol. 17, No. 2, pp. 106-
+108, Feb. 2007.
+• Z. Cheng, Y. Cai, J. Liu, Y. G. Zhou, K. M. Lau, and K. J. Chen, "A Low Phase-Noise 
+X-Band MMIC VCO Using High-Linearity and Low-Noise Composite-Channel 
+Al0.3Ga0.7N/Al0.05Ga0.95N/GaN  HEMTs", IEEE Trans. Microwave Theory and 
+Techniques, vol. 55, No. 1, pp. 23-29, Jan 2007.
+• J. Liu, Y. Zhou, J. Zhu, Y. Cai, K. M. Lau, and K. J. Chen, "DC and RF Characteristics 
+of AlGaN/GaN/InGaN/GaN Double-Heterojunction HEMTs," IEEE Trans. Electron 
+Devices, vol.. 54, No. 1, pp. 2-10, Jan. 2007.
+2006:
+• X. Huo, P. C. H. Chan, K. J. Chen, and H. Luong, "A Physical Model for On-Chip 
+Spiral Inductors with Accurate Substrate Modeling," IEEE Trans. Electron Devices, vol. 
+53, No. 12, pp. 2942-2949, Dec. 2006.
+• R. Wang, Y. Cai, C. -W. Tang, K. M. Lau, and K. J. Chen, "Enhancement-Mode 
+Si3N4/AlGaN/GaN MISHFETs," IEEE Electron Device Letters, vol. 27, No. 10, pp. 793-
+795, Oct. 2006.
+• Y. Cai, Y. G. Zhou, K. M. Lau, and K. J. Chen, "Control of Threshold Voltage of 
+AlGaN/GaN HEMTs by Fluoride-based Plasma Treatment: From Depletion Mode to 
+Enhancemend Mode," IEEE Trans. Electron Devices, vol. 53, No. 9, pp. 2207-2215, 
+Sep. 2006.
+• Y. Cai, Z. Cheng, W. C. K. Tang, K. M. Lau, and K. J. Chen, "Monolithically Integrated 
+Enhancement/Depletion-Mode AlGaN/GaN HEMT Inverters and Ring Oscillators Using 
+CF4 Plasma Treatment," IEEE Trans. Electron Devices, vol. 53, No. 9, pp. 2223-2230, 
+Sep. 2006.
+• R. Wang, Y. Cai, W. Tang, K. M. Lau, and K. J. Chen, "Planar Integration of E/D-Mode 
+AlGaN/GaN HEMTs Using Fluoride-Based Plasma Treatment," IEEE Electron Device 
+Letters, vol. 27, No. 8, pp. 633-635, Aug. 2006.
+• L. L. W. Leung, J. -W. Zhang, W. C. Hon, and K. J. Chen, "Characterization and 
+Attenuation Mechanisms of CMOS Compatible Micromachined Edge-suspended 
+Coplanar Waveguides on Low-resistivity Silicon Substrate," IEEE Trans. Advanced 
+Packaging, vol. 29, No. 3, pp. 496-503, Aug. 2006.
+• Z. Yang, R. Wang, D. Wang, B. Zhang. K. M. Lau, and K. J. Chen, "GaN on Patterned 
+Silicon (GPS) Technique for GaN-based MEMS," Sensors and Actuators A: Physical, 
+vol. 130-131, pp. 371-378, Aug. 2006.
+• Y. Cai, Y. G. Zhou, K. M. Lau, and K. J. Chen "Enhancement-Mode AlGaN/GaN 
+HEMTs with Low On-Resistance and Low Knee-Voltage," IEICE Trans. on Electronics, 
+vol. E89-C, No. 7, 1025-1030, July, 2006.
+• S. Jia, Y. Cai, D. Wang, B. Zhang, K. M. Lau, and K. J. Chen "Enhancement-Mode 
+AlGaN/GaN HEMTs on Silicon Substrate," IEEE Trans. on Electron Devices, vol. 53, 
+No. 6, pp. 1474-1477, June, 2006.
+• J. Liu, Y. G. Zhou, J. Zhu, K. M. Lau, and K. J. Chen, "AlGaN/GaN/InGaN/GaN 
+HEMTs with an InGaN-notch," Phys. Stat. Sol. (c), vol. 3, No. 6, pp. 2312-2316, 2006.
+• Z. Yang, R. N. Wang, S. Jia, D. Wang, B. S. Zhang, K. M. Lau, and K. J. Chen 
+"Fabrication of suspended GaN microstructures using GaN-on-patterned-silicon (GPS) 
+technique," Phys. Stat. Sol. (a), vol. 203, No. 7, pp. 1721-1724, May 2006.
+Page 13 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• L. L. W. Leung and K. J. Chen, "CAD Equivalent Circuit Modeling of Attenuation and 
+Cross-Coupling for Edge-Suspended Coplanar Waveguides on Lossy Silicon 
+Substrate," IEEE Trans. Microwave Theory and Techniques, vol. 54, No. 5, pp. 2249-
+2255, May 2006.
+• H. Zhang and K. J. Chen, "Bandpass Filters with Reconfigurable Transmission Zeros 
+Using Varactor-Tuned Tapped Stubs," IEEE Microwave and Wireless Components 
+Lett.,vol. 16, No. 5, pp. 249-251, May 2006.
+• S. Jia, Y. Cai, D. Wang, B. Zhang, K. M. Lau, and K. J. Chen "Enhancement-Mode 
+AlGaN/GaN High Electron Mobility Transistors on Silicon Substrate," Phys. Sta. Sol. 
+(c) , vol. 3, pp. 2368-2372, 2006.
+• Z. Feng, S. J. Cai, K. J. Chen, and K. M. Lau, "Isoelectronic Indium Surfactant-doped 
+AlGaN/GaN High Electron Mobility Transistors," Appl. Phys. Lett., vol. 88, 122113, 
+2006.
+• H. Zhang and K. J. Chen, "Miniaturized Coplanar Waveguide Bandpass Filters Using 
+Multi-Section Stepped Impedance Resonators," IEEE Trans. Microwave Theory and 
+Techniques, vol. 54, No. 3, pp. 1090-1095, 2006.
+• Z. Yang, R. Wang, D. Wang, B. Zhang. K. M. Lau, and K. J. Chen, "Mechanical 
+Characterization of Suspended GaN Microstructures by GaN-on-Patterned-Silicon 
+Technique," Appl. Phys. Lett., vol. 88, 041913, 2006.
+• J. Liu, Y. G. Zhou, J. Zhu, K. M. Lau, and K. J. Chen, "AlGaN/GaN/InGaN/GaN Double 
+Heterojunction HEMTs with an InGaN-Notch for Enhanced Carrier Confinement," IEEE 
+Electron Device Letters, vol. 27, No.1, pp. 10-12, 2006.
+2005:
+• Z. Feng, S. J. Cai, K. J. Chen, and K. M. Lau, "Enhanced-Performance of AlGaN-GaN 
+HEMTs Grown on Grooved Sapphire Substrates," IEEE Electron Device Letters, vol. 
+26, No. 12, pp. 870-872, Dec. 2005.
+• L. L. W. Leung and K. J. Chen, "Microwave Characterization and Modeling of High 
+Aspect Ratio Through-Wafer Interconnect Vias in Silicon substrates," IEEE Trans. on 
+Microwave Theory and Techniques,, vol. 53, No. 8, pp. 2472-2480, Aug. 2005.
+• Z. Cheng, J. Liu, Y. G. Zhou, Y. Cai, K. J. Chen, and K. M. Lau, "Broadband 
+Microwave Noise Characteristics of High-Linearity Composite-Channel 
+Al0.3Ga0.7N/Al0.05Ga0.95N/GaN HEMTs," IEEE Electron Device Letters, vol. 26,No. 8, 
+pp. 521-523, Aug. 2005.
+• Y. Cai, Y. G. Zhou, K. J. Chen, and K. M. Lau, "High-Performance Enhancement-
+Mode AlGaN/GaN HEMTs using Fluoride-based Plasma Treatment," IEEE Electron 
+Device Letters, vol. 26, No. 7, pp. 435-437, 2005.
+• S. Chu, Y. G. Zhou, K. J. Chen, and K. M. Lau, "Q-Factor Characterization of Radio-
+Frequency GaN-based Metal-Semiconductor-Metal Planar Inter-Digitated Varactors," 
+IEEE Electron Device Letters, vol. 26, No. 7, pp. 432-434, 2005.
+• H. Zhang and K. J. Chen, "A Tri-Section Stepped-Impedance Resonator for Cross-
+Coupled Bandpass Filters," IEEE Microwave and Wireless Components Letters, vol. 
+15, No. 6, pp. 401-403, June, 2005.
+• R. M. Chu, Y. G. Zhou, J. Liu, D. Wang, K. J. Chen, and K. M. Lau, "AlGaN-GaN 
+Double-Channel HEMTs," IEEE Trans. Electron Devices, vol. 52, No. 4, pp. 438-446, 
+Apr. 2005. 
+Page 14 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• Y. G. Zhou, R. M. Chu, J. Liu, K. J. Chen, and K. M. Lau, "Gate leakage in AlGaN/GaN 
+HEMTs and its suppression by optimization of MOCVD growth," Phys. Sta. Sol. (c), 
+vol. 2, No. 7, pp. 2663-2667, 2005.
+• J. Liu, Y. G. Zhou, R. M. Chu, Y. Cai, K. J. Chen, and K. M. Lau, "Highly Linear 
+Al0.3Ga0.7N/Al0.05Ga0.95N/GaN Composite-Channel HEMTs," IEEE Electron Device 
+Letters, vol. 26, No. 3, pp. 145-147, Mar. 2005.
+• S. Jia, Y. Dikme, D. Wang, K. J. Chen, K. M. Lau, and M. Heuken, "AlGaN-GaN 
+HEMTs on Patterned Silicon (111) Substrate," IEEE Electron Device Letters, vol. 26, 
+No. 3, pp. 130-132, Mar. 2005.
+• D. Wang, S. Jia, K. J. Chen, K. M. Lau, Y. Dikme, P. van Gemmern, Y. C. Lin, M. 
+Heuken, and R. H. Jansen, "Micro-Raman Scattering Study of the Stress Distribution in 
+GaN films grown on patterned Si(111) substrate using metalorganic vapor deposition," 
+Journal of Applied Physics, vol. 97, 056103, Mar. 2005.
+• J. W. Zhang, W. C. Hon, L. L. W. Leung, and K. J. Chen, "CMOS-Compatible 
+Micromachining Techniques for Fabricating High-Performance Edge-suspended 
+RF/Microwave Passive Components on Silicon Substrates," Journal Of 
+Micromechanics and Microengineering, vol. 15, No. 2, pp. 328-335, Feb. 2005.
+• Y. Cai, Y. G. Zhou, and K. J. Chen, and K. M. Lau, "III-Nitride Metal-Insulator-
+Semiconductor Heterojunction Field-Effect Transistors Using Sputtered AlON Thin 
+Films,"Appl. Phys. Lett., vol. 86, No. 3, 032109, Jan. 2005.
+• Y. G. Zhou, D. Wang, R. M. Chu, C. -W. Tang, Y. Qi, Z. Lu, K. J. Chen, and K. M. Lau, 
+"Correclation of In-situ Reflectance Spectrum and Resistivity of GaN/Al2O3 Interfacial 
+Layer in Metalorganic Chemical Vapor Deposition," IEEE/TMS Journal of Electronic 
+Materials, vol. 34, pp. 112-118, Jan. 2005.
+2004:
+• Wang, Y. Dikme, S. Jia, K. J. Chen, K. M. Lau, P. van Gemmern, Y. C. Lin, H. Kalisch, 
+R. H. Jansen, and M. Heuken, "Characterization of GaN grown on patterned Si(111) 
+substrate," Journal of Crystal Growth, vol. 272, pp. 489-495, Dec. 2004.
+• T. Suligoj, H. Liu, J. K. O. Sin, K. Tsui, R. M. Chu, K. J. Chen, P. Biljanovic, and K. L. 
+Wang, "A Low-Cost Horizontal Current Bipolar Transistor (HCBT) Technology for the 
+BiCMOS Integration with FinFETs," Solid-State Electronics, vol. 48, pp. 2047-2050, 
+Nov. 2004.
+• K. J. Chen, K. W. Chan, M. K. W. Wong, N. M. K. Fok, N. C. H. Fan, "High-
+Performance Large-Inductance Embedded Inductors in Thin Array Plastic Packaging 
+(TAPP) for RF System-in-Package Applications," IEEE Microwave and Wireless 
+Components Letters,, vol. 14, No. 9, pp. 449-451, Sep. 2004.
+• L. L. W. Leung, W. C. Hon, and K. J. Chen, "Low-loss Coplanar Waveguides 
+Interconnects on Low-resistivity Silicon Substrate," IEEE Trans. on Components and 
+Packaging Technologies,, vol. 27, No. 3, pp. 507-512, Sep. 2004.
+• K. J. Chen, W. C. Hon, J. -W. Zhang, and L. L. W. Leung,  "CMOS-Compatible 
+Micromachined Edge-suspended Inductors with High Q-factors and Self-resonance 
+Frequencies," IEEE Electron Device Letters,, vol. 25, No. 6, pp. 363-365, June, 2004.
+• L. L. W. Leung, K. J. Chen, X. Huo, and P. C. H. Chan, "Low-loss Microwave Filter on 
+CMOS-grade Standard Silicon Substrate with a Low-k BCB Dielectric," Microwave and 
+Optical Technology Letters, vol. 40, No. 1, pp. 9-11, Jan. 2004.
+2003:
+Page 15 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• R. M. Chu, Y. G. Zhou, K. J. Chen, and K. M. Lau, "Admittance Characterization and 
+Analysis of Trap States in AlGaN/GaN Heterostructures," Phys. Sta. Sol.(c) , No. 7, pp. 
+2400-2403, Oct. 2003.
+• K. Tsui, K. J. Chen, S. Lam, and M. Chan, "0.5-um Silicon-on-Sapphire Metal Oxide 
+Semiconductor Field Effect Transistor for RF Power Amplifier Application," Jpn. J. 
+Appl. Phys., vol. 42, Part 1, No. 8, pp. 4982-4986, Aug. 2003.
+• K. J. Chen, G. F. Niu, "Logic Synthesis and Circuit Modeling of a Programmable Logic 
+Gate based on Controlled Quenching of Series-Connected Negative Differential 
+Resistance Devices," IEEE J. Solid-State Circuits, vol. 38, No. 2, pp. 312-318, Feb. 
+2003. 
+Recent Conference Papers (2003-present)
+2017:
+• M. Hua, J. Wei, Q. Bao, J. He, Z. Zhang, Z. Zheng, J. Lei, and K. J. Chen, "Reverse-
+Bias Stability and Reliability of Hole-Barrier-Free E-mode LPCVD-SiNx/GaN MIS-
+FETs," 2017 Int. Electron Device Meeting (IEDM 2017), San Francisco, CA, USA, Dec. 
+4-6, 2017.
+• J. Lei, J. Wei, G. Tang, Q. Qian, M. Hua, Z. Zhang, Z. Zheng, and K. J. Chen, "An 
+Interdigitated GaN MIS-HEMT/SBD Normally-Off Power Switching Device with Low 
+ON-resistance and Low Reverse Conduction Loss," 2017 Int. Electron Device Meeting 
+(IEDM 2017), San Francisco, CA, USA, Dec. 4-6, 2017.
+• R. Xie, G. Xu, X. Yang, H. Wang, M. Tian, Y. Tian, F. Zhang, W. Chen, L. Wang, and 
+K. J. Chen, "Switching Transient Analysis for Normally-off GaN Transistors with p-GaN 
+Gate in a Phase-leg Circuit" in Proc. Energy Conversion Congress and Exposition 
+(ECCE), Cincinnati, OH, USA, 2017.
+• Q. Qian, Z. Zhang, M. Hua, J. Wei, J. Lei, and K. J. Chen, �Low-Resistance Contact 
+to Single-Layer MoS2 by Depositing Ultrathin High-k Dielectric with Remote N2 Plasma 
+Treatment as Tunneling Layer,�2017 International Conference on Solid State Device 
+and Materials (SSDM 2017) Sendai, Japan, Sep. 19-21, 2017.
+• G. Tang, J. Wei, Z. Zhang, M. Hua, X. Tang, H. Wang, and K. J. Chen, 
+�Characterization and Analysis of Dynamic Ron of GaN-on-Si lateral Power Devices 
+with Grounded and Floating Si Substrate,� 12th Int. Conf. on Nitride Semiconductors 
+(ICNS-12), Strasbourg, France, July. 24- 28, 2017.
+• J. He, M. Hua, G. Tang, Z. Zhang, and K. J. Chen, �Comparison of E-mode Fully 
+recessed GaN MIS-FETs and Partially-recessed MIS-HEMTs with PECVD-
+SiNx/LPCVD-SiNx Gate Stack,� 12th Int. Conf. on Nitride Semiconductors (ICNS-12), 
+Strasbourg, France, July. 24- 28, 2017.
+• M. Hua, Q. Qian, J. Wei, Z. Zhang, G. Tang, and K. J. Chen, �PBTI and NBTI of 
+Fully-recessed E-mode LPCVD-SiNx/GaN MIS-FETs with PECVD-SiNx Interfacial 
+Protection Layer,�12th Int. Conf. on Nitride Semiconductors (ICNS-12), Strasbourg, 
+France, July. 24- 28, 2017.
+• Q. Bao, Y. Li, Z. Zhang, Q. Qian, J. Lei, G. Tang, B. Huang and K. J. Chen, �Effective 
+Cross-Plane Thermal Conductivity of GaN-on-Si (111) Epi-layers Evaluated by 
+3-Omega Technique,� 12th Int. Conf. on Nitride Semiconductors (ICNS-12), 
+Strasbourg, France, July. 24- 28, 2017.
+Page 16 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• G. Tang, H. Wang, J. Lei, and K. J. Chen, �Monolithic Intergration of E/D-Mode 
+HEMTs for Logic Circuit on the p-GaN Gate Technology Platform,� 12th Int. Conf. on 
+Nitride Semiconductors (ICNS-12), Strasbourg, France, July. 24- 28, 2017.
+• M. Hua, Q. Qian, J. Wei, Z. Zhang, G. Tang, and K. J. Chen, "TDDB and PBTI 
+Characterizations of Fully-recessed E-mode GaN MIS-FETs with LPCVD-
+SiNx/PECVD-SiNx Gate Dielectric Stack," 2017 International Conference on Compound 
+Semiconductor Manufacturing Technology (CS MANTECH 2017) Indian Wells. CA, 
+USA, May 22-26, 2017.
+• M. Hua, Z. Zhang, Q. Qian, J. Wei, Q. Bao, G. Tang, and K. J. Chen, "High-
+Performance Fully-recessed Enhancement Mode GaN MIS-FETs with Crystalline 
+Oxide Interlayer," 2017 Int. Symp. On Power Semiconductor Devices and ICs 
+(ISPSD'17), Sapporo, Japan, May 28- June 1, 2017. (Charitat Award: for the best 
+Young Researcher)
+• G. Tang, J. Wei, Z. Zhang, X. Tang, M. Hua, H. Wang, and K. J. Chen, "Impact of 
+substrate termination on dynamic performance of GaN-on-Si lateral power devices," 
+2017 Int. Symp. On Power Semiconductor Devices and ICs (ISPSD'17), Sapporo, 
+Japan, May 28- June 1, 2017.
+• J. Wei, Y. Wang, M. Zhang, H. Jiang, and K. J. Chen, "High-speed power MOSFET 
+with low reverse transfer capacitance using a trench/planar gate architecture," 2017 
+Int. Symp. On Power Semiconductor Devices and ICs (ISPSD'17), Sapporo, Japan, 
+May 28- June 1, 2017.
+• J. Wei, M. Zhang, H. Jiang, H. Wang, and K. J. Chen, "Charge storage effect in SiC 
+trench MOSFET with a floating p-shield and its impact on dynamic performances,"
+2017 Int. Symp. On Power Semiconductor Devices and ICs (ISPSD'17), Sapporo, 
+Japan, May 28- June 1, 2017.
+• S. Yang, C. Zhou, S. Han, K. Sheng, and K. J. Chen, "Buffer Trapping-Induced RON 
+Degradation in GaN- on-Si Power Transistors: Role of Electron Injection from Si 
+Substrate,".2017 Int. Symp. On Power Semiconductor Devices and ICs (ISPSD'17), 
+Sapporo, Japan, May 28- June 1, 2017.
+2016:
+• Z. Zhang, B. Li, X. Tang, Q. Qian, M. Hua, B. Huang, and K. J. Chen, " First-Principles 
+Study of GaN Surface Electronic Structures with Ga, O or N Adatom," 47th IEEE 
+Semiconductor Interface Specialists Conference (SISC), San Diego, CA, USA, Dec. 
+8-10, 2016.
+• Z. Zhang, B. Li, X. Tang, Q. Qian, M. Hua, B. Huang, and K. J. Chen, "Nitridation of 
+GaN Surface for Power Device Application: A First-Principles Study," 2016 Int. Electron 
+Device Meeting (IEDM 2016), San Francisco, CA, USA, Dec. 5-7, 2016.
+• M. Hua, Z. Zhang, J. Wei, J. Lei, G. Tang, K. Fu, Y. Cai, B. Zhang, and K. J. Chen, 
+"Integration of LPCVD-SiNx Gate Dielectric with Recessed-gate E-mode GaN MIS-
+FETs: Toward High Performance, High Stability and Long TDDB Lifetime," 2016 Int. 
+Electron Device Meeting (IEDM 2016), San Francisco, CA, USA, Dec. 5-7, 2016.
+• S. Yang, Z. Tang, Y. Lu, Q. Jiang, and A. Zhang, "Role of shallow surface traps and 
+polarization charges in nitride-based passivation for AlGaN/GaN heterojunction FET," 
+IFWS 2016, Beijing, China, Nov. 15-17, 2016.
+• B. Li, X. Tang, J. Wang, and K. J. Chen, "Enhancing Dynamic Performance of Gan-on-
+Si Power Devices With on-chip Photon Pumping," 2016 13th IEEE International 
+Page 17 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+Conference on Solid-State and Integrated Circuit Technology (ICSICT 2016)
+Hangzhou, China, Oct. 25-28, 2016.
+• H. Wang, R. Xie, C. Liu, J. Wei, G. Tang, and K. J. Chen, " Maximizing the 
+Performance of 650 V p-GaN Gate HEMTs: Dynamic RON Characterization and Gate-
+Drive Design Considerations, " 2016 IEEE Energy Conversion Cong. and Expo. 
+(ECCE), Milwaukee, WI, USA, Sept. 18-22, 2016.
+• R. Xie, H. Wang, G. Tang, X. Yang, and K. J. Chen, " An Analytical Model for False 
+Turn-On Evaluation of GaN Transistor in Bridge-Leg Configuration, " 2016 IEEE 
+Energy Conversion Cong. and Expo. (ECCE), Milwaukee, WI, USA, Sept. 18-22, 2016.
+• S. Yang, S. Liu, C. Liu, M. Hua, G. Longobardi, F. Udrea, and K. J. Chen, " 
+Performance Enhancement and Characterization Techniques for GaN Power Devices, 
+" 2016 Compound Semiconductor Week (CSW 2016), Toyama, Japan, June 26-30, 
+2016.
+• J. Wei, S. Liu, B. Li, X. Tang, Z. Zhang, G. Tang, and K. J. Chen, " Critical 
+Heterostructure Design for Low On-Resistance Normally-Off Double-Channel MOS-
+HEMT, " 2016 Compound Semiconductor Week (CSW 2016), Toyama, Japan, June 
+26-30, 2016.
+• S. Yang, Y. Lu, S. Liu, H. Wang, C. Liu, and K. J. Chen, "Impact of VTH Shift on RON in 
+E/D-Mode GaN-on-Si Power Transistors: Role of Dynamic Stress and Gate Overdrive,
+" 2016 Int. Symp. On Power Semiconductor Devices and ICs (ISPSD'16), Prague,
+Czech Republic, Jun. 12-16, 2016.
+• X. Tang, B. Li, H. Wang, J. Wei, G. Tang, Z. Zhang, and K. J. Chen, "Impact of 
+Integrated Photonic-Ohmic Drain on Static and Dynamic Characteristics of GaN-on-Si 
+Heterojunction Power Transistors, " 2016 Int. Symp. On Power Semiconductor Devices 
+and ICs (ISPSD'16), Prague, Czech Republic, Jun. 12-16, 2016.
+• J. Wei, H. Jiang, Q. Jiang, and K. J. Chen, "Proposal of a Novel GaN/SiC Hybrid FET 
+(HyFET) with Enhanced Performance for High-Voltage Switching Applications, " 2016 
+Int. Symp. On Power Semiconductor Devices and ICs (ISPSD'16), Prague, Czech 
+Republic, Jun. 12-16, 2016.
+• S. Yang, L. Lei, K. Yu, A. Zhang, and K. J. Chen, " Comparison of SiNx and AlN 
+Passivations for AlGaN/GaN HEMTs, " 229th ECS Meeting, San Diego, USA, May 29-
+Jun. 2, 2016.
+
+M. Hua, Y. Lu, S. Liu, C. Liu, K. Fu, Y. Cai, B. Zhang, and K. J. Chen, "Compatibility 
+of AlN/SiNx Passivation with High-Temperature Process," CS MANTECH Conference, 
+Hyatt Regency Miami, Florida, USA, May 16-19, 2016.
+2015:
+• X. Tang, B. Li, Y. Lu, H. Wang, C. Liu, J. Wei, and K. J. Chen, "III-Nitride Transistors 
+with Photonic-Ohmic Drain for Enhanced Dynamic Performances, " 2015 Int. Electron 
+Device Meeting (IEDM 2015), Washington, DC, USA, Dec. 7-9, 2015.
+• J. Wei, S. Liu, B. Li, X. Tang, Y. Lu, C. Liu, M. Hua, Z. Zhang, G. Tang, and K. J. 
+Chen, "Enhancement-mode GaN Double-Channel MOS-HEMT with Low On-
+resistance and Robust Gate Recess, " 2015 Int. Electron Device Meeting (IEDM 2015), 
+Washington, DC, USA, Dec. 7-9, 2015.
+• (Invited) K. J. Chen, B. Li, X. Tang, and J. Wang, "Optoelectronic Devices on 
+AlGaN/GaN HEMT Platform, " 11th Int. Conf. on Nitride Semiconductors (ICNS-11), 
+Beijing, China, Aug. 30- Sept. 4, 2015.
+Page 18 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• M. Hua, C. Liu, S. Yang, S. Liu, K. Fu, Z. Dong, Y. Cai, B. Zhang, and K. J. Chen, 
+"Gate Leakage and Time-Dependent Dielectric Breakdown Characteristics of LPCVD-
+SiNx/AlGaN/GaN MIS-HEMTs, " 11th Int. Conf. on Nitride Semiconductors (ICNS-11), 
+Beijing, China, Aug. 30- Sept. 4, 2015.
+• X. Tang, Q. Jiang, H. Wang, B. Li, and K. J. Chen, "Suppressed Substrate-Coupled 
+Cross-Talk under AC High-Voltage Switching on the AlGaN/GaN-on-Si Smart Power IC 
+Platform, " 11th Int. Conf. on Nitride Semiconductors (ICNS-11), Beijing, China, Aug. 
+30- Sept. 4, 2015.
+• S. Yang, Z. Tang, Y. Lu, A. Zhang, and K. J. Chen, "Differences between SiNx and AlN 
+Passivations for AlGaN/GaN HEMTs: A Tcad-Simulation Based Study, " 11th Int. Conf. 
+on Nitride Semiconductors (ICNS-11), Beijing, China, Aug. 30- Sept. 4, 2015.
+• S. Liu, S. Yang, C. Liu, Y. Lu and K. J. Chen, "High-Performance Gate-Recessed 
+Normally-Off GaN MIS-HEMTs with Thin Barrier Layer," 11th Int. Conf. on Nitride 
+Semiconductors (ICNS-11), Beijing, China, Aug. 30- Sept. 4, 2015.
+• H. Wang, C. Liu, Q. Jiang, Z. Tang, and K. J. Chen, "Hard Switching Characteristics of 
+AlN-Passivated AlGaN/GaN on silicon MIS-HEMTs," 11th Int. Conf. on Nitride 
+Semiconductors (ICNS-11), Beijing, China, Aug. 30- Sept. 4, 2015.
+• C. Liu, J. Wei, S. Liu, H. Wang, Z. Tang, S. Yang and K. J. Chen, "Improved High-
+Voltage Performance of Normally-Off GaN MIS-HEMTs Using Fluorine implanted 
+Enhanced Back Barrier, " 11th Int. Conf. on Nitride Semiconductors (ICNS-11), Beijing, 
+China, Aug. 30- Sept. 4, 2015.
+• X. Tang, B. Li, Y. Lu, and K. J. Chen, "On-Chip Addressable Schottky-on-
+Heterojunction Light-Emitting Diode Arrays on AlGaN/GaN-On-Si Platform, " 11th Int. 
+Conf. on Nitride Semiconductors (ICNS-11), Beijing, China, Aug. 30- Sept. 4, 2015.
+• S. Lin, M. Wang, B. Xie, C. P. Wen, Min Yu, J. Wang, Y. Hao, W. Wu, B. Shen, and K. 
+J. Chen, " Reduction of the Current Collapse in GaN High Electron Mobility Transistors 
+by a Novel Surface Treatment," 11th Int. Conf. on Nitride Semiconductors (ICNS-11), 
+Beijing, China, Aug. 30- Sept. 4, 2015.
+• L. Yuan, X. Xiao, L. Tang, H. Li, Y. Jiang, K. J. Chen and A. Yen, " First Demonstration 
+of 0.27-Ω 600-V/10-A GaN-on-Si Power MIS-HEMTs in a 200-mm Hybrid CMOS-/Au-
+Compatible Process Line," 11th Int. Conf. on Nitride Semiconductors (ICNS-11), 
+Beijing, China, Aug. 30- Sept. 4, 2015.
+• (Invited) S. Yang, S. Liu, C. Liu, Y. Lu, and K. J. Chen, " Nitridation interfacial-layer 
+technology for enhanced stability in GaN-based power devices, " 2015 IEEE 
+International Symposium on Radio-Frequency Integration Technology(RFIT 2015), 
+Sendai, Japan, Aug. 26-28, 2015. 
+• (Keynote speach) K. J. Chen, "Technology Challenges of GaN Heterojunction Power 
+Devices," The 7th Asia-Pacific Workshop on Widegap Semiconductors (APWS 2015), 
+Seoul, Korea, May 17-20, 2015.
+• X. Tang, B. Li, and K. J. Chen, "Accelerated Electron De-trapping in AlGaN/GaN-on-Si 
+Power HEMTs using Schottky-on-Heterojunction Light Emitting Devices, " 2015 
+Compound Semiconductor Week (CSW 2015), University of California Santa Barbara, 
+CA, USA, June 28-July 2, 2015. 
+• C. Liu, H. Wang, S. Yang, Y. Lu, S. Liu, Z. Tang, Q. Jiang, and K. J. Chen, "Improved 
+Thermal Stabilities in Normally-off GaN MIS-HEMTs, " CS MANTECH Conference, 
+Scottsdale, Arizona, USA, May 18-21, 2015. 
+Page 19 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• C. Liu, H. Wang, S. Yang, Y. Lu, S. Liu, Z. Tang, Q. Jiang, S. Huang, and K. J. Chen, 
+"Normally-off GaN MIS-HEMT with Improved Thermal Stability in DC and Dynamic 
+Performance, " 2015 Int. Symp. On Power Semiconductor Devices and ICs 
+(ISPSD'15), Hong Kong, China, May 10-14, 2015. 
+• M. Hua, C. Liu, S. Yang, S. Liu, Y. Lu, K. Fu, Z. Dong, Y. Cai, B. Zhang, and K. J. 
+Chen, "650-V GaN-Based MIS-HEMTs Using LPCVD-SiNx as Passivation and Gate 
+Dielectric, " 2015 Int. Symp. On Power Semiconductor Devices and ICs (ISPSD'15), 
+Hong Kong, China, May 10-14, 2015. 
+• X. Tang, B. Li, and K. J. Chen, "On-chip Optical Pumping of Deep Traps in 
+AlGaN/GaN-on-Si Power HEMTs," 2015 Int. Symp. On Power Semiconductor Devices 
+and ICs (ISPSD'15), Hong Kong, China, May 10-14, 2015. 
+2014:
+• S. Yang, S. Liu, C. Liu, Z. Tang, Y. Lu, and K. J. Chen, "Thermally Induced Threshold 
+Voltage Instability of III-Nitride MIS-HEMTs and MOSC-HEMTs : Underlying 
+Mechanisms and Optimization Schemes," 2014 Int. Electron Device Meeting (IEDM 
+2014), San Francisco, CA, USA, Dec. 15-17, 2014.
+• B. Li, X. Tang, Q. Jiang, Y. Lu, H. Wang, J. Wang, and K. J. Chen, "Schottky-on-
+Heterojunction Optoelectronic Functional Devices Realized on AlGaN / GaN-on-Si 
+Platform," 2014 Int. Electron Device Meeting (IEDM 2014), San Francisco, CA, USA,
+Dec. 15-17, 2014.
+• S. Huang, Q. Jiang, K. Wei, G. Liu, J. Zhang, X. Wang, Y. Zheng, B. Sun, C. Zhao, H. 
+Liu, Z. Jin, X. Liu, H. Wang, S. Liu, Y. Lu, C. Liu, S. Yang, Z. Tang, J. Zhang, Y. Hao, 
+and K. J. Chen, "High-Temperature Low-Damage Gate Recess Technique and 
+Ozone-Assisted ALD-grown Al2O3 Gate Dielectric for High-Performance Normally-Off 
+GaN MIS-HEMTs, "2014 Int. Electron Device Meeting (IEDM 2014), San Francisco, 
+CA, USA, Dec. 15-17, 2014.
+• (Invited) K. J. Chen, S. Yang, Z. Tang, and S. Huang, "Dielectric/III-N interfaces with 
+nitridation interfacial-layer for GaN power electronics," 45th IEEE Semiconductor 
+Interface Specialists Conference (SISC), San Diego, USA, Dec. 10-13, 2014. 
+• S. Yang, and K. J. Chen, "Nitridation Interfacial-Layer Technology: Enabling Low 
+Interface Trap Density and High Stability in III-Nitride MIS-HEMTs," 12th International 
+Conferences on Solid-State and Integrated Circuit Technology (ICSICT2014), Guilin, 
+China, Oct. 28-31, 2014.
+• (Invited) K. J. Chen, S. Yang, Z. Tang, S. Huang, Y. Lu, Q. Jiang, S. Liu, C. Liu, and 
+B. Li, "Surface Nitridation for Improved Dielectric/III−Nitride Interfaces in GaN 
+MIS−HEMTs," 8th International Workshop on Nitride Semiconductors (IWN 2014),
+Wrocław, Poland, August 24-29, 2014.
+• S. Liu, S. Yang, Z. Tang, Q. Jiang, C. Liu, M. Wang, and K. J. Chen, "Interface 
+Characterization of Normally−Off Al2O3/AlN/GaN MOS−Channel− HEMTs with an AlN 
+Interfacial Layer," 8th International Workshop on Nitride Semiconductors (IWN 2014), 
+Wrocław, Poland, August 24-29, 2014.
+• Y. Lu, B. Li, X. Tang, Q. Jiang, S. Yang, Z. Tang, and K. J. Chen, "Investigation of 
+Gate Degradation in Al2O3−AlGaN/GaN MIS−HEMTs using Transparent Gate 
+Electrode," 8th International Workshop on Nitride Semiconductors (IWN 2014), 
+Wrocław, Poland, August 24-29, 2014.
+Page 20 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• H. Wang, A. M. H. Kwan, Q. Jiang, and K. J. Chen, "A GaN Pulse Width Modulation 
+Integrated Circuit," 2014 Int. Symp. On Power Semiconductor Devices and ICs 
+(ISPSD'14), Waikoloa, Hawaii, USA, June 15-19, 2014.
+• S. Liu, S. Yang, Z. Tang, Q. Jiang, C. Liu, M. Wang, and K. J. Chen, "Performance 
+Enhancement of Normally-Off Al2O3/AlN/GaN MOS-Channel-HEMTs with an ALD- 
+Grown AlN Interfacial Layer," 2014 Int. Symp. On Power Semiconductor Devices and 
+ICs (ISPSD'14), Waikoloa, Hawaii, USA, June 15-19, 2014.
+• M. Wang, Y. Wang, C. Zhang, C. P. Wen, J. Wang, Y. Hao, W. Wu, B. Shen, and K. J. 
+Chen, "Normally-Off Hybrid Al2O3/GaN MOSFET on Silicon Substrate Based on Wet-
+Etching," 2014 International Symposium on Power Semiconductor Devices and ICs 
+(ISPSD'14), Waikoloa, Hawaii, USA, June 15-June19, 2014.
+• Z. Tang, S. Huang, and K. J. Chen, "Stability and Temperature Dependence of 
+Dynamic RON in AlN-Passivated AlGaN/GaN HEMT on Si Substrate," CS MANTECH 
+Conference, Denver, Colorado, USA, May 19-22, 2014. (Best student paper award)
+• A. Zhang, L. Zhang, Z. Tang, X. Cheng, Y. Wang, K. J. Chen, and M. Chan, 
+"Analytical Modeling for AlGaN/GaN HEMTs," The 11th International Workshop on 
+Compact Modeling (IWCM 2014), Singapore, Jan. 23, 2014.
+2013:
+• S. Yang, Z. Tang, K. Wong, Y. Lin, S. Huang, and K. J. Chen, "Mapping of interface 
+traps in high-performance Al2O3/AlGaN/GaN MIS-heterostructures using frequency- 
+and temperature-dependent C-V techniques," 2013 Int. Electron Device Meeting (IEDM 
+2013), Washington, DC, USA, Dec. 9-11, 2013.
+• Z. Tang, Q. Jiang, S. Huang, Y. Lu, S. Yang, C. Liu, X. Tang, S. Liu, B. Li, and K. J. 
+Chen, "Monolithically Integrated 600-V E/D-Mode SiNx/AlGaN/GaN MIS-HEMTs and 
+Their Applications in Low-Standby-Power Start-Up Circuit for Switched-Mode Power 
+Supplies," 2013 Int. Electron Device Meeting (IEDM 2013), Washington, DC, USA, 
+Dec. 9-11, 2013.
+• (Invited talk) K. J. Chen, "Toward GaN-based Power Integrated Circuits," The 2nd Int. 
+Conf. on Advanced Electromaterials (ICAE 2013), Nov. 12-15, 2013, ICC Jeju, Korea. 
+• C. Liu, S. Liu, S. Huang, B. Li, and K. J. Chen, "AlN/GaN heterostructure TFTs with 
+the polarized AlN barrier grown by 300 oC plasma enhanced atomic layer epitaxy," 10th
+Topical Workshop on Heterostructure Microelectronics (TWHM-10), Sep. 2-5, 2013, 
+Hakodate, Japan. 
+• (Invited talk) K. J. Chen, Technologies for III-N Heterogeneous Mixed-signal 
+Electronics," 10th Int. Conf. on Nitride Semiconductors (ICNS-10), Washington, DC, 
+USA, Aug. 25-30, 2013.
+• B. Li, K. J. Chen, Q. Jiang, S. Liu, and C. Liu "Degradation of OFF-state leakage 
+current in AlGaN/GaN HEMTs induced by an ON-state gate overdrive," 10th Int. Conf. 
+on Nitride Semiconductors (ICNS-10), Washington, DC, USA, Aug. 25-30, 2013. 
+(Outstanding poster award)
+• S. Yang, J. Lu, S. Huang, C. Zhou, B. Huang, and K. J. Chen, "GaN Buffer Traps in 
+GaN-on-Si Structure Studied by Thermally Stimulated Current and Back-Gating 
+Measurements," 10th Int. Conf. on Nitride Semiconductors (ICNS-10), Washington, DC, 
+USA, Aug. 25-30, 2013.
+• S. Huang, K. Wei, X. Liu, G. Liu, B. Shen, and K. J. Chen, "Improved High-
+Temperature Stability of 2DEG Channel in AlGaN/GaN Heterostructures by PEALD-
+Page 21 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+grown AlN Thin Film Passivation," 10th Int. Conf. on Nitride Semiconductors (ICNS-10), 
+Washington, DC, USA, Aug. 25-30, 2013.
+• S. Yang, Q. Jiang, B. Li, Z. Tang and K. J. Chen, "GaN-to-Si Vertical Conduction 
+Mechanisms in AlGaNjGaN-on-Si Lateral Heterojunction FET Structures," 10th Int. 
+Conf. on Nitride Semiconductors (ICNS-10), Washington, DC, USA, Aug. 25-30, 2013.
+• C. Liu, S. Liu, S. Huang, B. Li, and K. J. Chen, "AlN/GaN heteostructure TFTs with 
+plasma enhanced atomic layer deposition of epitaxial AlN thin film," 10th Int. Conf. on 
+Nitride Semiconductors (ICNS-10), Washington, DC, USA, Aug. 25-30, 2013.
+• Y. Wang, M. Wang, B. Xie, J. Wang, Y. Hao, W. Wu, B. Shen, and K. J. Chen, "High 
+Performance Normally-Off AlGaN/GaN MOSFET with Al2O3 High-k Dielectric Layer 
+Using a Low Damage Recess Technique," 10th Int. Conf. on Nitride Semiconductors 
+(ICNS-10), Washington, DC, USA, Aug. 25-30, 2013.
+• Q. Jiang, C. Liu, Y. Lu, and K. J. Chen, "High-voltage enhancement/depletion-mode 
+AlGaN/GaN HEMTs on modified SOI substrates," 2013 Int. Symp. On Power 
+Semiconductor Devices and ICs (ISPSD'13), May 26-30, 2013, Kanazawa, Japan.
+(Charitat Award: for the best Young Researcher)
+• Z. Tang, S. Huang, Q. Jiang, S. Liu, C. Liu, and K. J. Chen, "600 V high-performance 
+AlGaN/GaN HEMTs with AlN/SiNx passivation," 2013 Compound Semiconductor 
+Manufacturing Technology Conference CS MANTECH, Boston, USA, Apr. 23-26, 
+2012. (Best student paper award)
+• Z. Tang, S. Huang, Q. Jiang, S Liu, C. Liu, and K. J. Chen, "600V 1.3mΩ∙cm2 Low-
+Leakage Low-Current-Collapse AlGaN/GaN HEMTs with AlN/SiNx Passivation," 2013 
+Int. Symp. On Power Semiconductor Devices and ICs (ISPSD'13), May 26-30, 2013, 
+Kanazawa, Japan.
+• Q. Zhou, W. Chen, S. Liu, B. Zhang, Z. Feng, S. Cai, and K. J. Chen, "High 
+Breakdown Voltage InAlN/AlN/GaN HEMTs Achieved by Schottky-Source 
+Technology," 2013 Int. Symp. On Power Semiconductor Devices and ICs (ISPSD'13), 
+May 26-30, 2013, Kanazawa, Japan.
+• (Invited talk) K. J. Chen, "Device technology for GaN mixed-signal integrated circuits," 
+5th Int. Symp. On Advanced Plasma Science and its Applications for Nitrides and 
+Nanomaterials (ISPlasma2013), Jan. 28-Feb. 1, 2013, Nagoya University, Japan. 
+2012:
+• A. M. H. Kwan, X. Liu, and K. J. Chen, "Integrated gate-protected HEMTs and mixed-
+signal functional blocks for GaN smart power ICs," 2012 Int. Electron Device Meeting 
+(IEDM2012), San Francisco, USA, Dec. 10-12, 2012. 
+• (Invited talk) K. J. Chen, L. Yuan, and H. Chen, "AlGaN/GaN metal-2DEG tunnel 
+junction FETs with normally-off operation, high on-state current and low off-state 
+leakage," 2012 IEEE Int. Conf. on Solid-State and Integrated Circuit Technology 
+(ICSICT2012), Xi'an, CHINA, Oct. 29- Nov. 1, 2012. 
+• A. M. H. Kwan, Y. Guan, X. Liu, and K. J. Chen, "Over-temperature protection 
+integrated circuit for GaN smart power ICs," 2012 Int. Workshop on Nitride 
+Semiconductors (IWN2012), Oct. 14-19, 2012, Sapporo, Japan. 
+• (Invited talk) S. Yang, S. Huang, Q. Zhao, and K. J. Chen, "Enhancement-mode 
+AlGaN/GaN MISHEMTs with fluorinated high-k LaLuO3 gate dielectric," 2012 Int. 
+Workshop on Nitride Semiconductors (IWN2012), Oct. 14-19, 2012, Sapporo, Japan.
+Page 22 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• S. Huang, Q. Jiang, S. Yang, Z. Tang, and K. J. Chen, "Mechanism of PEALD-grown 
+AlN passivation of AlGaN/GaN HEMTs," 2012 Int. Workshop on Nitride 
+Semiconductors (IWN2012), Oct. 14-19, 2012, Sapporo, Japan.
+• X. Liu, C. Zhan, K. W. Chan, W. Liu, L. S. Tan, K. J. Chen and Y.-C. Yeo, 
+"AlGaN/GaN-on-Sapphire MOS-HEMTs with breakdown voltage of 1400 V and on-
+state resistance of 22 mW∙cm2 using a CMOS-compatible gold-free process," 2012 
+International Conference on Solid State Device and Materials (SSDM2012), Kyoto, 
+Japan, Sep. 25-27, 2012.
+• C. Zhou, Q. Jiang, S. Huang, and K. J. Chen, "Vertical leakage/breakdown 
+mechanisms in AlGaN/GaN-on-Si structure," 2012 Int. Symp. On Power 
+Semiconductor Devices and ICs (ISPSD'12), Bruges, Belgium. June 4-7, 2012.
+• S. Huang, Q. Jiang, S. Yang, C. Zhou, and K. J. Chen, "ALD-grown ultrathin AlN film 
+for passivation of AlGaN/GaN HEMTs," 2012 CS MANTECH, Boston, USA, Apr. 23-26, 
+2012. 
+• X. Liu, C. Zhan, K. W. Chan, W. Liu, L. S. Tan, K. J. Chen and Y.-C. Yeo, 
+"AlGaN/GaN-on-Silicon MOS-HEMTs with Breakdown Voltage of 800 V and On-State 
+Resistance of 3 mΩ.cm2 using a CMOS-Compatible Gold-Free Process," 2012 Int. 
+Symp. on VLSI Technology, Systems, and Applications (VLSI-TSA), Hsinchu, Taiwan, 
+Apr. 23-25, 2012. 
+• (Invited) K. J. Chen, "Fluorine Plasma Ion Implantation: a GaN Normally-off HEMT 
+Technology" 4th Int. Symp. On Advanced Plasma Science and its Application for 
+Nitrides and Nanomaterials (ISPlasma2012), Aichi, Japan, Mar. 4-8, 2012. 
+2011:
+• (Invited) K. J. Chen, L. Yuan, M.J. Wang*, H. Chen, S. Huang*, C. Zhou, Q. Zhou, 
+B.K. Li, J. N. Wang, "Physics of Fluorine Plasma Ion Implantation for GaN Normally-off 
+HEMT Technology", 2011 Int. Electron Device Meeting (IEDM), Washington D. C., 
+USA, Dec. 4-7, 2011.
+• Q. Zhou, S. Huang*, H. Chen, C. Zhou, Z. Feng, S. Cai, K. J. Chen, "Schottky 
+Source/Drain Al2O3/InAlN/GaN MIS-HEMT with Steep Sub-threshold Swing and High 
+ON/OFF Current Ratio", 2011 Int. Electron Device Meeting (IEDM), Washington D. C., 
+USA, Dec. 4-7, 2011.
+• Qi Zhou, Hongwei Chen, Chunhua Zhou, Z.H. Feng, S.J. Cai and K. J. Chen, 
+"InAlN/AlN/GaN Schottky source/drain MIS-HEMT with high breakdown voltage," 2011 
+Int. Conf. on Solid-State Devices and Materials (SSDM2011), Nagoya, Japan, Sep. 28-
+30, 2011. 
+• S. Huang, S. Yang, J. Roberts, and K. J. Chen, "Characterization of Vth-instability in 
+Al2O3/GaN/AlGaN/GaN MIS-HEMTs by quasi-static C-V measurement," 9th Int. Conf. 
+on Nitride Semiconductors (ICNS-9), Glasgow, UK, July 10-15, 2011
+• H. Chen, L. Yuan, Q. Zhou, C. Zhou, and K. J. Chen, "Normally-off AlGaN/GaN Power 
+Tunnel-Junction FETs," 9th Int. Conf. on Nitride Semiconductors (ICNS-9), Glasgow, 
+UK, July 10-15, 2011.
+• Q. Zhou, H. Chen, C. Zhou, Z. Feng, S. J. Cai, and K. J. Chen, "Observation  
+Observation of Trap-Assisted Steep Sub-threshold Swing in Schottky Source/Drain 
+Al2O3/InAlN/GaN MISHEMT," 69th Device Research Conference (DRC), Santa 
+Barbara, CA, USA, June 20-22, 2011. 
+Page 23 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• J. Fu, L. Yobas, and K.J. Chen, "Stealth electrode dielectrophoresis: Microsphere 
+manipulation by patterned 2-Dimensional Electron Gas (2-DEG) in AlGaN/GaN 
+heterostructures," The 3rd International Symposium on Microchemistry and 
+Microsystems (ISMM), Seoul, Korea, June 2-4, 2011, Abstract: F3-056.
+• L. Yuan, H. Chen, Q. Zhou, C. Zhou, and K. J. Chen, "A novel normally-off GaN power 
+tunnel junction FET," The 23rd Int. Symp. on Power Semiconductor Devices and ICs 
+(ISPSD'11), San Diego, USA, May 23-26, 2011.
+• J. N. Lv, Z. C. Yang, G. Z. Yan, Y. Cai, B. S. Zhang, and K. J. Chen, "Characterization 
+of GaN cantilevers fabricated with GaN-on-Si platform," IEEE MEMS 2011. Jan. 23-27, 
+2011, Cancun, Mexico. 
+• (Invited) K. J. Chen, "Role of Fluorine Plasma Ion Implantation in GaN Electron 
+Devices," SPIE Photonics West Conference, OPTO, San Francisco, USA, Jan. 22-27, 
+2011.
+2010:
+• C. Ma, H. Chen, C. Zhou, S. Huang, L. Yuan, J. Roberts, and K. J. Chen, "Reliability of 
+Enhancement-mode AlGaN/GaN HEMTs under ON-state Gate Overdrive," 2010 Int. 
+Electron Device Meeting (IEDM), San Francisco, USA, Dec. 4-7, 2010.
+• (Invited) K. J. Chen and C. Zhou "GaN Smart Discrete Power Devices," The 10th Int. 
+Conf. on Solid-State and Integrated-Circuit Technology (ICSICT08), Shanghai, China, 
+Nov. 1-4, 2010. 
+• (Invited) K. J. Chen, "GaN Smart Power IC Technologies," IEEE University 
+Government Industry Micro/Nano Symposium (UGIM 2010), Purdue University, West 
+Lafayette, IN, USA, June 28-July 1, 2010. 
+• (Invited) K. J. Chen, "Enhancement-mode AlGaN/GaN HEMT and MIS-HEMT 
+Technology," The 37th Int. Symp. On Compound Semiconductors (ISCS2010), 
+Takamatsu Symbol Tower, Kagawa, Japan, May 31-June 4, 2010. 
+• A. M. H. Kwan, K. -Y. Wong, X. Liu, and K. J. Chen, "High-Gain and High-Bandwidth 
+AlGaN/GaN HEMT Comparator," 2010 Int. Conf. on Solid-State Devices and Materials 
+(SSDM2010), Tokyo, Japan, Sep. 22-24, 2010. 
+• J. Fu and K. J. Chen, "Microspheres manipulation and sensing system by AlGaN/GaN 
+2DEG," Int. Workshop on Nitride Semiconductors (IWN2010), Tampa, Florida, USA, 
+Sep. 19-24, 2010. (oral presentation)
+• S. Huang, H. Chen, and K. J. Chen, "Effects of the fluorine plasma treatment on the 
+surface potential and Schottky barrier height of AlGaN/GaN heterostructures," Int. 
+Workshop on Nitride Semiconductors (IWN2010), Tampa, Florida, USA, Sep. 19-24, 
+2010. (oral presentation)
+• B. K. Li, M. J. Wang*, K. J. Chen, J. N. Wang, "Electroluminenscence from forward 
+biased Ni/Au-AlGaN/GaN Schottky diodes," The 30th Int. Conf. on the Physics of 
+Semiconductors (ICPS 2010), Seoul, Korea, July 25-30, 2010. (oral presentation)
+• H. Chen, M. Wang*, and K. J. Chen, "Self-Aligned Enhancement-mode AlGaN/GaN 
+HEMTs Using 25 keV Fluorine Ion Implantation," The 68th Device Research 
+Conference (DRC10) , University of Notre Dame, South Bend, Indiana, USA, June 21-
+23, 2010. 
+• C. Zhou, W. J. Chen*, E. L. Piner, and K. J. Chen, "Self-Protected GaN Power 
+Devices with Reverse Drain Blocking and Forward Current Limiting Capabilities," The 
+Page 24 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+22nd Int. Symp. on Power Semiconductor Devices and ICs (ISPSD'10), Hiroshima, 
+Japan, June 6-10, 2010 (Charitat Award: for the best Young Researcher)
+• C. Zhou, W. J. Chen*, E. L. Piner, and K. J. Chen, "AlGaN/GaN Dual-Channel Lateral 
+Field-Effect Rectifier with Punch-through Breakdown Immunity and Low On-
+Resistance," 2010 Int. Conf. on Compound Semiconductor Manufacturing Technology 
+(CS MANTECH), Portland, Oregon, USA, May 7-10, 2010. 
+• H. Chen, M. Wang*, and K. J. Chen, "Enhancement-mode AlGaN/GaN HEMTs 
+Fabricated by Standard Fluorine Ion Implantation," 2010 Int. Conf. on Compound 
+Semiconductor Manufacturing Technology (CS MANTECH), Portland, Oregon, USA, 
+May 7-10, 2010.
+• J. N. Lv, Z.C. Yang, G.Z. Yan, Y. Cai, B.S. Zhang and K.J. Chen, "Residual Stress 
+Characterization of GaN Microstructures Using Bent-Beam Strain Sensors," The 5th 
+Annual IEEE Int. Conf. on Nano/Micro Engineering and Molecular Systems (IEEE-
+NEMS 2010), Xiamen, China, Jan. 20-23, 2010. 
+2009:
+• (Invited) K. J. Chen, K. -Y. Wong, W. J. Chen, C. Zhou, and X. Liu, "Device 
+Technology Platform for GaN Smart Power ICs," 2009 Int. Electron Device and 
+Material Symposium (IEDMS2009), Taoyuan, Taiwan, Nov. 18-21, 2009. 
+• B. K. Li, M. J. Wang, K. J. Chen, and J. N. Wang, "Electronluminescence from a 
+forward biased Ni/Au-AlGaN/GaN Schottky diode: evidence of Femi level depinning at 
+Ni/AlGaN interface," 8th Int. Conf. on Nitride Semiconductors (ICNS-8), Jeju, Korea, 
+Oct. 18-23, 2009. 
+• K. -Y. Wong, W. J. Chen, X. Liu, C. Zhou, and K. J. Chen, "GaN Smart Power IC 
+Technology," 8th Int. Conf. on Nitride Semiconductors (ICNS-8), Jeju, Korea, Oct. 18-
+23, 2009. 
+• M. J. Wang, K. J. Chen, C. Cheng, C. D. Beling, and S. Fung, "Modulation of 
+Polarization Induced Electric Field by Fluorine Ions in AlGaN/GaN Heterostructures 
+Revealed by Positron Annihilation Spectroscopy," 8th Int. Conf. on Nitride 
+Semiconductors (ICNS-8), Jeju, Korea, Oct. 18-23, 2009. 
+• K. -Y. Wong, W. J. Chen, and K. J. Chen, "GaN Zero-Bias RF Mixer Using a Lateral 
+Field-Effect Rectifier," 2009 Int. Conf. on Solid-State Devices and Materials 
+(SSDM2009),Sendai, Miyagi Japan, Oct. 7-9, 2009. 
+• Q. Zhou, K. -Y. Wong, W. J. Chen, and K. J. Chen, "Zero-Bias Microwave Detectors 
+Using AlGaN/GaN HEMT-Compatible Lateral Field-Effect Rectifier (L-FER)," 8th 
+Topical Workshop on Heterostructure Microelectronics (TWHM2009), Mielparque-
+Nagano, Nagano, Japan, Aug. 25-28, 2009. 
+• K. -Y. Wong, W. J. Chen, and K. J. Chen, "Integrated Voltage Reference and 
+Comparator Circuits for GaN Smart Power Chip Technology," 2009 Int. Symp.. on 
+Power Semiconductor Devices and ICs (ISPSD'09), Barcelona, Spain, June 14-17, 
+2009. (Charitat Award: for the best Young Researcher)
+• K. -Y. Wong, W. J. Chen, and K. J. Chen, "Wide Bandgap GaN Smart Power Chip 
+Technology," 2009 Int. Conf. on Compound Semiconductor Manufacturing Technology 
+(CS Matech'09), Tampa, Florida, USA, May 18-21, 2009. 
+2008:
+• W. Chen, K. -Y. Wong, and K. J. Chen, "Monolithic Integration of Lateral Field Effect 
+Rectifier with Normally-off HEMT for GaN-on-Si Switch-mode Power Supply 
+Page 25 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+Converters," 2008 Int. Electron Device Meeting (IEDM08), San Francisco, USA, Dec. 
+15-17, 2008.
+• M. Wang and K. J. Chen, "Source Injection Induced Off-State Breakdown and Its 
+Improvement by Enhanced Back Barrier with Fluorine Ion Implantation in AlGaN/GaN 
+HEMTs," 2008 Int. Electron Device Meeting (IEDM08), San Francisco, USA, Dec. 15-
+17, 2008.
+• L. Yuan, M. Wang, and K. J. Chen, "Atomistic Modeling of Fluorine Implantation and 
+Diffusion in III-Nitride Semiconductors," 2008 Int. Electron Device Meeting (IEDM08), 
+San Francisco, USA, Dec. 15-17, 2008.
+• (Invited) K. J. Chen, "Threshold Voltage Control in AlGaN/GaN HEMTs by Fluorine 
+Plasma Ion Implantation: From Normally-ON to Normally-OFF," 15th National 
+Conference on Compound Semiconductor: Materials, Microwave and Optoelectronic 
+Devices, Guangzhou, China, Dec. 1-2, 2008.
+• (Invited) K. J. Chen, "Fluorine Plasma Ion Implantation (Treatment) Technology: a 
+New Dimension in GaN Electronic Device Processing," The 9th Int. Conf. on Solid-State 
+and Integrated-Circuit Technology (ICSICT08), Beijing, China, Oct. 20-23, 2008. 
+• W. Chen, K. -Y. Wong, W. Huang, and K. J. Chen, "High Temperature Operation of 
+Normally-off AlGaN/GaN Power HEMTs using CF4 Plasma Treatment," The 9th Int. 
+Conf. on Solid-State and Integrated-Circuit Technology (ICSICT08), Beijing, China, 
+Oct. 20-23, 2008. 
+• L. Yuan, M. Wang, and K. J. Chen, "Molecular Dynamics Simulation Study on Fluorine 
+Plasma Ion Implantation in AlGaN/GaN Heterostructures," The 9th Int. Conf. on Solid-
+State and Integrated-Circuit Technology (ICSICT08), Beijing, China, Oct. 20-23, 2008. 
+• W. Chen, K. -Y. Wong, and K. J. Chen, "HEMT-Compatible Lateral Field Effect 
+Rectifier Using CF4 Plasma Treatment," 2008 Int. Workshop on Nitride 
+Semiconductors (IWN2008), Montreux, Switzerland, Oct. 6-10, 2008. 
+• M. Wang, L. Yuan, F. Xu, B. Shen, and K. J. Chen, "Study of Diffusion and Thermal 
+Stability of Fluorine Ions in GaN by Time-of-Flight Secondary Ion Mass Spectroscopy," 
+2008 Int. Workshop on Nitride Semiconductors (IWN2008), Montreux, Switzerland, 
+Oct. 6-10, 2008. 
+• L. Yuan, M. Wang, and K. J. Chen, "On the Stability of Fluorine Ions in AlGaN/GaN 
+Heterostructures: a Molecular Dynamics Simulation Study," 2008 Int. Workshop on 
+Nitride Semiconductors (IWN2008), Montreux, Switzerland, Oct. 6-10, 2008. 
+• K. -Y. Wong, W. Chen, and K. J. Chen, "High Temperature Performance of 
+AlGaN/GaN HEMT-Compatible Lateral Field Effect Rectifier," 2008 Int. Conf. Solid-
+State Devices and Materials (SSDM08), Tsukuba, Japan, Sep. 23-26, 2008.
+• L. Yuan, M. Wang, and K. J. Chen, "On the Stability of Fluorine Ions in AlGaN/GaN 
+System: a Theoretical Study," 2008 Int. Conf. Solid-State Devices and Materials 
+(SSDM08), Tsukuba, Japan, Sep. 23-26, 2008.
+• W. Chen, W. Huang, K. Y. Wong, and K. J. Chen, "High-Performance AlGaN/GaN 
+HEMT-Compatible Lateral Field-Effect Rectifiers," 66th Device Research Conference 
+(DRC), Santa Barbara, California, USA, June 22-25, 2008. 
+• J. Lv, Z. Yang, and K. J. Chen, "Fabrication of Suspending GaN Microstructures with 
+Combinations of Anisotropic and Isotropic Dry Etching Techniques," Proc. Of ASME 
+Nano08, Clear Water Bay, Hong Kong, Kowloon, Hong Kong, June 3-5, 2008. 
+Page 26 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• (Invited) K. J. Chen, "Core Technologies for III-Nitride Integrated Microsensors," 2008 
+HKUST Nanotechnology Workshop, HKUST, Jan 23-25, 2008.
+2007:
+• C. Yi, R. Wang, W. Huang, T. C. -W. Tang, K. M. Lau, and K. J. Chen, "Reliability of 
+Enhancement-mode AlGaN/GaN HEMTs Fabricated by Fluorine Plasma Treatment," 
+2007 International Electron Device Meeting (IEDM07), Washington D. C., USA, Dec. 
+10-12, 2007. 
+• B. K. Li, K. J. Chen, K. M. Lau, W. Ge, and J. N. Wang, "Characterization of Fluorine-
+Plasma Induced Deep Centers in AlGaN/GaN Heterostructures," 7th Int. Conf. Nitride 
+Semiconductors (ICNS-7), Sep. 16-21, 2007, Las Vegas, Nevada, USA. 
+• R. Wang, Y. C. Wu, W. C. -W. Tang, K. M. Lau, and K. J. Chen, "Gain Improvement of 
+Enhancement-mode AlGaN/GaN HEMT using Dual-gate Architectures," 2007 Int. Conf. 
+Solid-State Devices and Materials (SSDM07), Tsukuba, Japan, Sep. 18-21, 2007. 
+• K. Y. Wong, W. C. -W. Tang, K. M. Lau, and K. J. Chen, "Two-dimensional Electron 
+Gas (2DEG) IDT SAW Devices on AlGaN/GaN Heterostructures," IEEE-NANO 2007, 
+Hong Kong, Aug. 2-5, 2007.
+• C. Wang, Z. Yang, B. Zhang, Y. Wang, H. Wang, K. M. Lau, and K. J. Chen, 
+"Fabrication of Vertical Position-Controlled GaN Nanowires on (111) Si Substrate," 
+IEEE-NANO 2007, Hong Kong, Aug. 2-5, 2007
+• J. Liu, D. Song, Z. Cheng, W. C. -W Tang, K. M. Lau, and K. J. Chen, "Microwave 
+Noise Characterization of Enhancement-mode AlGaN/GaN/InGaN/GaN Double-
+Heterojunction HEMTs," IEEE 65th Device Research Conference, South Bend, 
+Indiana, USA, June 18-20, 2007, pp. 77-78. 
+• D. Song, J. Liu, Z. Cheng, W. C. -W. Tang, K. M. Lau, and K. J. Chen, "Normally-off 
+AlGaN/GaN Low-Density-Drain HEMTs (LDD-HEMT) with Enhanced Breakdown 
+Voltage and Suppressed Current Collapse," IEEE 19th Int. Symp. on Power 
+Semiconductor Devices & ICs (ISPSD'07), Jeju, Korea, May 27-30, 2007, pp. 257-260. 
+• J. Zhang, H. Zhang, K. J. Chen, S. G. Lu, and Z. Xu, "Microwave Performance 
+Dependence of BST Thin Film Planar Interdigitated Varactors on Different Substrate," 
+IEEE Int. Conf. on Nano/Micro Engineering and Molecular Systems (IEEE-NEMS 
+2007), Bangkok, Thailand, Jan. 16-19, 2007. 
+• Z. Yang, B. Zhang, K. M. Lau, and K. J. Chen, "Fabrication of Position-Controllable 
+GaN Nanostructures," IEEE Int. Conf. on Nano/Micro Engineering and Molecular 
+Systems (IEEE-NEMS 2007), Bangkok, Thailand, Jan. 16-19, 2007. 
+2006:
+• R. N. Wang, Y. Cai, Z. Cheng, C. W. Tang, K. M. Lau, and K. J. Chen. "A Planar 
+Integration Process for E/D-mode AlGaN/GaN HEMT DCFL Integrated Circuits," 2006 
+IEEE Compound Semiconductor IC Symposium, San Antonio, USA, Nov. 12-15, 2006. 
+• R. N. Wang, Y. Cai, Z. Cheng, C.-W. Tang, K. M. Lau, and K. J. Chen, "Enhancement-
+Mode AlGaN/GaN Metal Insulator Semiconductor HFETs Using Fluoride-Based 
+Plasma Treatment Technique" Int. Workshop on Nitride Semiconductors (IWN2006), 
+Kyoto, Japan, Oct. 22-27, 2006. 
+• Z. Yang, B. Zhang, K. M. Lau, and K. J. Chen, "SiN-Masked GaN-on-Patterned-Silicon 
+(GPS) Technique for fabrication of suspended GaN microstructures." The 8th Int. Conf. 
+Solid-State and Integrated-Circuit Technology (ICSICT-2006), Shanghai, China, Oct. 
+23-26, 2006.
+Page 27 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• J. W. Zhang, Wai Cheong Hon, Lydia L. W. Leung, and K. J. Chen, "Fabrication of 
+Edge-Suspended Microwave Passive Components using CMOS-Compatible 
+Micromachining,"The 8th Int. Conf. Solid-State and Integrated-Circuit Technology 
+(ICSICT-2006),  Shanghai, China, Oct. 23-26, 2006.
+• K.-Y. Wong, W.-Y. Tam, and K. J. Chen, "Analysis of SAW Filter Fabricated on 
+Anisotropic Substrate Using Finite-Difference Time-Domain Method," IEEE Ultrasonics 
+Symposium, Vancouver, Canada, Oct. 2-6, 2006. (oral presentation)
+• K.-Y. Wong, W. C. W. Tang, K. M. Lau, and K. J. Chen, "Planar Integration of SAW 
+Filter with HEMT on AlGaN/GaN Heterostructure Using Fluoride-based Plasma 
+Treatment," IEEE Ultrasonics Symposium, Vancouver, Canada, Oct. 2-6, 2006. (oral 
+presentation).
+• Y. Cai, Z. Q. Cheng, W. C. -W. Tang, K. M. Lau, and K. J. Chen, "GaN-based Direct-
+Coupled FET Logic (DCFL) Digital Circuits Operating at 375 oC," 2006 Int. Conf. on 
+Solid State Devices and Materials (SSDM 2006), Yokohama, Japan, Sep. 12-15, 2006. 
+• R. Wang, Y. Cai, C. -W. Tang, K. M. Lau, and K. J. Chen, "Device Isolation by Plasma 
+Treatment for Planar Integration of E/D-mode AlGaN/GaN HEMTs," 2006 Int. Conf. on 
+Solid State Devices and Materials (SSDM 2006), Yokohama, Japan, Sep. 12-15, 2006.
+• H. Zhang and K. J. Chen, "A Microstrip Bandpass Filter with an Electronically 
+Reconfigurable Transmission Zero," 2006 European Microwave Conference 
+(EUMW2006), Manchester, U. K., Sep. 10-15, 2006.
+• (Invited) K. J. Chen and K. M. Lau, "Core Technologies for III-Nitride Integrated 
+Microsensors," 6th Emerging Information Technology Conference (EITC'06), 
+Richardson, Texas, USA, Aug. 10-13, 2006.
+• L. L. W. Leung and K. J. Chen, "Compact On-Chip Three-Dimensional 
+Electromagnetic Bandgap Structure,"2006 IEEE International Microwave Symposium 
+(IMS2006), San Francisco, USA, June 6-11, 2006.
+• C-W. Tang, L. Jiang, K. M. Lau, and K. J. Chen, "MOCVD Grown Metamorphic 
+InAlAs/InGaAs HEMTs on GaAs Substrates," 2006 Int. Conf. Compound 
+Semiconductor Manufacturing Technology (MANTECH'06), Vancouver, Canada, Apr. 
+24-27, 2006, pp. 243-245.
+2005:
+• Z. Yang, R. Wang, D. Wang, B. Zhang. K. J. Chen, and K. M. Lau, "GaN on Patterned 
+Silicon (GPS) Technique for GaN based Integrated Microsensors," 2005 International 
+Electron Device Meeting (IEDM05), Washington D. C., USA, Dec. 4-7, 2005.
+• Y. Cai, Z. Cheng, C. W. Tang, K. J. Chen, and K. M. Lau, "Monolithic Integration of 
+Enhancement- and Depletion-mode AlGaN/GaN HEMTs for GaN Digital Integrated 
+Circuits," 2005 International Electron Device Meeting (IEDM05), Washington D. C., 
+USA, Dec. 4-7, 2005.
+• Z. Cheng, Y. Cai, J. Liu, Y. G. Zhou, K. M. Lau, and K. J. Chen, "Monolithic Integrated 
+C-band Low Noise Amplifier Using AlGaN/graded-AlGaN/GaN HEMTs," Proceeding of 
+2005 Asia-Pacific Microwave Conference (APMC2005), Suzhou, China, Dev. 4-7, 
+2005.
+• H. Zhang and K. J. Chen, "Compact Bandpass Filters Using Slow-Wave Coplanar 
+Waveguide Tri-Section Stepped Impedance Resonators," Proceeding of 2005 Asia-
+Pacific Microwave Conference (APMC2005), Suzhou, China, Dev. 4-7, 2005.
+Page 28 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• H. Zhang, J. W. Zhang, L. L. W. Leung, and K. J. Chen, "Bandpass and Bandstop 
+Filters Using CMOS-Compatible Micromachined Edge-Suspended Coplanar 
+Waveguides," Proceeding of 2005 Asia-Pacific Microwave Conference (APMC2005), 
+Suzhou, China, Dev. 4-7, 2005.
+• J. Liu, Y. G. Zhou, J. Zhu, K. J. Chen, and K. M. Lau, "AlGaN/GaN/InGaN/GaN 
+HEMTs with an InGaN-notch," 6th Int. Conf. on Nitride Semiconductors,(ICNS-6), 
+Bremen, Germany, Aug. 28-Sep. 2, 2005.
+• Z. Yang, R. Wang, S. Jia, D. Wang, B. Zhang, K. J. Chen, and K. M. Lau, "Fabrication 
+of Suspended GaN Microstructures Using GaN on Patterned Silicon (GPS) 
+Technique," 6th Int. Conf. on Nitride Semiconductors,(ICNS-6), Bremen, Germany, 
+Aug. 28-Sep. 2, 2005.
+• J. Zhu, J. Liu, Y. G. Zhou, Y. Cai, K. J. Chen, and K. M. Lau, "Reduced Gate-bias 
+dependence of 2DEG mobility in a Composite-Channel HEMT,"6th Int. Conf. on Nitride 
+Semiconductors,(ICNS-6), Bremen, Germany, Aug. 28-Sep. 2, 2005.
+• S. Jia, Y. Cai, D. Wang, B. Zhang, K. J. Chen, and K. M. Lau, "Enhancement-Mode 
+AlGaN/GaN HEMTs on Silicon Substrate,"6th Int. Conf. on Nitride Semiconductors,
+(ICNS-6), Bremen, Germany, Aug. 28-Sep. 2, 2005.
+• Z. Feng, S. J. Cai, K. J. Chen, and K. M. Lau, "AlGaN/GaN HEMTs on Grooved 
+Sapphire Substrate,"6th Int. Conf. on Nitride Semiconductors,(ICNS-6), Bremen, 
+Germany, Aug. 28-Sep. 2, 2005.
+• Y. Cai, Y. G. Zhou, K. J. Chen, and K. M. Lau, "Enhancement-mode AlGaN/GaN 
+HEMTs with Low On-Resistance and Low Knee-Voltage,"6th Topical Workshop on 
+Heterostructure Microelectronics, (TWHM2005), Awaji Island, Hyogo, Japan, Aug. 22-
+25, 2005.
+• (Invited) K. J. Chen, J. Liu, Y. G. Zhou, and K. M. Lau, "Channel Engineering of III-
+Nitride HEMTs for Enhanced Device Performance," 2005 Asia-Pacific Workshop on 
+Fundamental and Application of Advanced Semiconductor Devices (AWAD05), Seoul, 
+Korea, June 27-29, 2005.
+• Y. Cai, Y. G. Zhou, K. J. Chen, and K. M. Lau, "Threshold Voltage Control of 
+AlGaN/GaN HEMTs by CF4 Plasma Treatment," 2005 Electronic Material Conference 
+(EMC2005), Santa Barbara, California, USA, June 22-24, 2005.
+• M. Chen, W. Zhou, J. Zhu, Y. Cai, W. C. K. Tang, K. J. Chen, and K. M. Lau, 
+"Metamorphic InP/GaAsSb/InP HBTs on GaAs substrate by MOCVD," 2005 Electronic 
+Material Conference (EMC2005), Santa Barbara, California, USA, June 22-24, 2005.
+• Y. Cai, Y. G. Zhou, K. J. Chen, and K. M. Lau, "Self-Aligned Enhancement-Mode 
+AlGaN/GaN HEMTs Using Fluoride-based Plasma Treatment," 63rd Device Research 
+Conference (DRC), Santa Barbara, California, USA, June 20-22, 2005.
+• Z. Yang, S. Jia, R. Wang, D. Wang, K. J. Chen, and K. M. Lau, "GaN on Patterned 
+Silicon (GPS) Technique for Fabrication of GaN-based MEMS," 13th Int. Conf. Solid-
+State Sensors, Actuators, and Microsystems (TRANSDUCERS'05), Seoul, Korea, 
+June 5-9, 2005.
+• C. S. Chu, Y. G. Zhou, K. J. Chen, and K. M. Lau, "A novel RF High-Q metal-
+semiconductor-metal planar inter-digitated varactor based on double-channel 
+AlGaN/GaN HEMT structure," 2005 IEEE Radio-Frequency Integrated Circuit 
+Symposium (RFIC2005), Long Beach, USA, June 12-14, 2005.
+2004:
+Page 29 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• J .  L i u ,  Y .  G .  Z h o u ,  R .  M .  C h u ,  Y .  C a i ,  K .  J .  C h e n ,  a n d  K .  M . 
+Lau,"Al0.3Ga0.7N/Al0.05Ga0.95N/GaN Composite-Channel HEMTs with Enhanced 
+Linearity," 2004 International Electron Device Meeting (IEDM04), San Francisco, USA, 
+Dec. 13-15, 2004.
+• S. Jia, K. K. P. Tsui, X. P. Liao, and K. J. Chen, "Characterization and modeling of a 
+step-gate-oxide MOSFET for RF power amplifiers," The 7th Int. Conf. on Solid-State 
+and Integrated-Circuit Technology (ICSICT2004), Beijing, China, Oct. 18-21, 2004.
+• J. -W. Zhang, W. C. Hon, L. L. W. Leung, and K. J. Chen, "Fabrication of edge-
+suspended microwave passive components using CMOS-compatible micromachining," 
+The 7th Int. Conf. on Solid-State and Integrated-Circuit Technology (ICSICT2004), 
+Beijing, China, Oct. 18-21, 2004.
+• C. S. Chu, Y. G. Zhou, R. M. Chu, K. J. Chen, and K. M. Lau, "GaN-based radio-
+frequency planar inter-digitated metal-insulator-semiconductor varactors," The 7th Int. 
+Conf. on Solid-State and Integrated-Circuit Technology (ICSICT2004), Beijing, China, 
+Oct. 18-21, 2004.
+• M. Wong, N. Fok, N. Fan, K. W. Chan, and K. J. Chen, "High-performance low-cost 
+embedded inductors using thin array plastic packaging (TAPP) for RF/microwave 
+applications, ," 2004 European Microwave Conference (EuMW2004) , Amsterdam, 
+Netherland, Oct. 12-14, 2004.
+• L. L. W. Leung, J. -W. Zhang, W. C. Hon, and K. J. Chen, "High-performance CMOS-
+compatible micromachined edge-suspended coplanar waveguides on low-resistivity 
+silicon substrate," 2004 European Microwave Conference (EuMW2004) , Amsterdam, 
+Netherland, Oct. 12-14, 2004.
+• J. -W. Zhang, W. C. Hon, L. L. W. Leung, and K. J. Chen, "High-performance edge-
+suspended spiral inductors and CPWs on CMOS-grade silicon substrates,"2004 
+International Conference on Microwave and Millimeter Wave Technology
+(ICMMT2004), Beijing, China, Aug. 18-21, 2004.
+• Y. G. Zhou, R. M. Chu, J. Liu, K. J. Chen, and K. M. Lau,"Gate Leakage in 
+AlGaN/GaN HEMTs and its Suppression by Optimization of MOCVD Growth," 2004 
+International Workshop on Nitride Semiconductors, Pittsburgh, Pennsylvania, USA, 
+July 19-23, 2004.
+• R. M. Chu, Y. G. Zhou, J. Liu, K. J. Chen, and K. M. Lau,"Reduction of Current 
+Collapse in an un-passivated AlGaN-GaN Double-Channel HEMT," 2004 Electronic 
+Material Conference (EMC2004), Notre Dame, Indiana, USA, June 23-25, 2004.
+• D. Wang, S. Jia, K. J. Chen, K. M. Lau, Y. Dikme, P. van Gemmern, Y. C. Lin, and M. 
+Heuken "Quantitative Stress Characterization in GaN Films grown on patterned Si(111) 
+by Micro-Raman Spectroscopy," 2004 Electronic Material Conference (EMC2004), 
+Notre Dame, Indiana, USA, June 23-25, 2004.
+• W. C. Hon, J. -W. Zhang, L. L. W. Leung, and K. J. Chen, "High-Q CMOS-Compatible 
+Micromachined Edge-suspended Inductors,"2004 IEEE Radio Frequency Integrated 
+Circuits Symposium (RFIC2004), Fort Worth, TX, USA, June 6-8, 2004.
+• L. L. W. Leung and K. J. Chen, "Microwave Characterization of High Aspect Ratio 
+Through-Wafer Interconnect Vias in Silicon substrates,"2004 IEEE International 
+Microwave Symposium (IMS2004), Fort Worth, Texas, USA, June 6-11, 2004.
+• D. Wang, Y. Dikme, S. Jia, P. van Gemmern, Y. C. Lin, K. J. Chen, K. M. Lau, and M. 
+Heuken "Characterization of GaN grown on patterned Si(111) substrate," 12th Int. 
+Page 30 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+Conference on Metal Organic Vapor Phase Epitaxy (ICMOVPE-XII), Maui, Hawaii, 
+USA, May 30-June 4, 2004.
+2003:
+• T. Suligoj, H. Liu, J. K. O. Sin, K. Tsui, K. J. Chen, P. Biljanovic, and K. L. Wang,"A 
+Low-Cost Horizontal Current Bipolar Transistor (HCBT) Technology for the BiCMOS 
+Integration with FinFETs,"IEEE Int. Semiconductor Device Research Symposium, 
+Washington D. C., Dec. 10-12, 2003.
+• L. L. W. Leung, W. C. Hon, and K. J. Chen,"Low-loss CPW Interconnects on Low-
+resistivity Silicon Substrate," Proceeding of 2003 Asia-Pacific Microwave Conference 
+(APMC2003), pp. 1875-1878, Seoul, Korea, Nov. 4-7, 2003.
+• L. L. W. Leung, T. W. Chen, S. W. Wong, M. H. Chan, and K. J. Chen,"A 2 GHz 
+Single-chip Lumped-element Impedance Matching Network for RF Power Amplifiers on 
+Standard Silicon Substrate," Proceeding of 2003 Asia-Pacific Microwave Conference 
+(APMC2003), pp. 1836-1839, Seoul, Korea, Nov. 4-7, 2003.
+• B. P. Yan, E. S. Yang, Y. F. Yang, X. Q. Wang, K. K. P. Tsui, and K. J. Chen,"RF 
+Large Signal Characterization of InGaP/GaAs Power Heterostructure-emitter Bipolar 
+Transistors," Proceeding of 2003 Asia-Pacific Microwave Conference (APMC2003), pp. 
+209-212, Seoul, Korea, Nov. 4-7, 2003.
+• X. Huo, G. W. Xiao, K. J. Chen, and P.C. H. Chan,"System-on-Organic Integration of a 
+2.4 GHz VCO Using High Q Copper Inductors and Solder-bumped Flip Chip 
+Technology," Proceeding of 2003 IEEE Custom Integrated Circuits Conference 
+(CICC2003), San Jose, California, USA, Sep. 21-24, 2003, pp. 537-540.
+• Y.G. Zhou, R. M. Chu, K. J. Chen, and K. M. Lau,"AlGaN/GaN/Graded-AlGaN double 
+heterostructure HEMT," 2003 Int. Conf. Solid-State Devices and Materials 
+(SSDM2003), Tokyo, Japan, Sep. 16-18, 2003, pp. 918-919.
+• R. M. Chu, Y. G. Zhou, K. J. Chen, and K. M. Lau,"Trap States Induced Frequency 
+Dispersion of AlGaN/GaN Heterostructure Field-Effect Transistors," 2003 Electronic 
+Material Conference (EMC2003), Salt Lake City, Utah, USA, June, 25-27, 2003, p.85.
+• R. M. Chu, Y. G. Zhou, K. J. Chen, and K. M. Lau,"Admittance Characterization and 
+Analysis of Trap States in AlGaN/GaN Heterostructures," 5th Int. Conf. on Nitride 
+Semiconductors, Nara, Japan, May 25-30, 2003, p. 275.
+• X.P. Liao, K. Tsui, H. Liu, K. J. Chen, and J. K. O. Sin,"A Step-Gate-Oxide SOI 
+MOSFET for RF Power Amplifiers in Short- and Medium-range Wireless Applications," 
+2003 IEEE MTT-S Topical Meeting on Silicon Monolithic Integrated Circuits in RF 
+Systems (SiRF2003), Grainau, Germany, pp. 33-36, April 9-11, 2003.
+2002:
+• K. Tsui, K. J. Chen, S. Lam, and M. Chan, "RF Power Characteristics of Thin Film 
+Silicon-on-Sapphire MOSFET," 2002 Int. Conf. Solid State Devices and Materials 
+(SSDM'2002), Nagoya, Japan, Sep. 17-20, 2002, pp. 594-595.
+• Lydia L. W. Leung, K. J. Chen, X. Huo, and P.C.H. Chan, "On-Chip Microwave Filters 
+on Standard Silicon Substrates Incorporating a low-k BCB Dielectric Layer," 2002 
+European Microwave Conference, Sep. 23-27, Milan, Italy.
+• K. J. Chen, X. Huo, L. L. W. Leung, and P.C.H. Chan, "High-performance microwave 
+passive components on silicon substrate," 3rd International Conference on Microwave 
+and Millimeter Wave Technology (ICMMT2002), Aug. 17-19, Beijing, 2002, pp. 263-
+266.
+Page 31 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----
+• X. Huo, K. J. Chen, and P.C.H. Chan, "High-Q copper inductors on standard silicon 
+substrate with a low-k BCB dielectric layer," Proceeding of 2002 IEEE RFIC 
+Symposium, pp. 403-406, June 2-4, Seattle, USA. 
+Page 32 of 32
+Kevin J CHEN
+5/17/2019
+https://eekjchen.home.ece.ust.hk/publication.htm
+
+-----

@@ -1,0 +1,38 @@
+  A Neural-Net and Fuzzy-Inference Based Method for  
+Fault Detection and Diagnosis in Modern Process Systems 
+Abstract
+bstract 
+The thesis proposes a quite novel and easily generalized fault detection and diagnosis (FDD) scheme for typical 
+modern process systems, by integrating multilayer neural network and fuzzy inference system, the two powerful 
+machine learning algorithms. With adequate sensors installed to and monitoring software widely applied to 
+modern process systems, a vast amount of data relating to operating conditions of target processes could be 
+recorded and stored, which provides potentials and foundations for applying new FDD methods to it. However, 
+due to the facts that all these data are indiscriminate data without being labelled with tags (e.g., normal or 
+abnormal), and that almost all of these data are collected under fault-free operating conditions, the unlabeled and 
+unbalanced characteristics of data of process systems also brings challenges for the application of new FDD 
+methods.     
+ 
+By combing the two methods, neural nets and fuzzy inference system, we could make full use of the advantages 
+(e.g., abundant fault-free data), and meanwhile avoid the disadvantages (e.g., few and unclassified faulty data) 
+of the characteristics of process systems. Idea behind this is that, neural nets, especially multi-layer neural nets 
+have powerful function approximating capacity and are able to automatically learn from a huge amount of 
+historic data, thus it could be used to  model system normal behaviors by feeding it enough fault-free operating 
+data; meanwhile, fuzzy inference system could well incorporate expert knowledge as well as operators’ 
+maintenance experience about the target system, in the form of fuzzy linguistic rules, and perform a human-like 
+reasoning process to determine the cause of faults according to symptoms -- the deviations between observed 
+system behaviors and model-predicting behaviors, hence dealing with the problem of lack of faulty data. 
+ 
+The basic procedures of the proposed scheme could be briefly described as: firstly using multi-layer neural 
+network to build a reference model for the target system under healthy operating conditions; secondly, by 
+comparing observed system behaviors and predicted behaviors from the built model, deviations in behaviors, 
+called residuals, could be generated, and a preliminary fault detection is made based on out-of-limit principle; 
+finally, if any fault is detected in last step, then the fuzzy inference system would further analyze the residuals 
+to give an answer about which types of faults might have occurred with corresponding degree of certainty. 
+ 
+A case study on a typical process system, chiller plant, is carried out where experimental data collected by 
+ASHRAE Research Projects 1043 is utilized to validate the proposed FDD strategy Besides, comparative study 
+with another two typical FDD approaches is also conducted based on their respective experimental results on 
+the same chiller plant and data to further demonstrate the effectiveness and superiority of the proposed scheme, 
+and meanwhile to investigate the scope of application of the scheme 
+
+-----

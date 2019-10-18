@@ -1,0 +1,43 @@
+Abstract 
+ 
+Traveling-wave Tube (TWT) has been widely used in satellite applications due to its high 
+bandwidth, capabilities in high frequency operation, and high thermal tolerance. In the 
+miniaturization of TWT, Planar Helix-Slow Wave Structure (PH-SWS) has been proposed, 
+which can be fabricated using Silicon-based microfabrication techniques. To utilize this PH-
+SWS in TWT, a miniaturized, high current density field emitter is needed for its operation in 
+TWT. Carbon Nanotubes (CNTs) has been proposed as a promising field emitting material. In 
+this study, the main objective is to design fabricate a miniaturized, high current density field 
+emitter which is capable of delivering signal gain of ~20 dB in PH-SWS TWT. 
+First, simulation study is carried out on the effect of electron beam current to the signal 
+amplification performance of PH-SWS TWT. The simulation is carried out using CST 
+STUDIO SUITE. From the simulation, it is found that the signal gain of TWT increases when 
+the electron beam current increases from 2 to 25 mA. To achieve signal gain above 20 dB, 
+electron beam current of > 6 mA, or current density of > 0.8 A/cm2 rectangular emitting area 
+is needed. from 1250x600 µm rectangular emitting area is needed. 
+After obtaining the required FE current density, it is important to select the most suitable 
+technique to synthesize high FE current density CNTs. CNTs are grown using two approaches: 
+plasma enhanced chemical vapor deposition (PECVD) and thermal chemical vapor deposition 
+(TCVD). For TCVD technique, two types of catalyst sources are attempted, pre-deposited 
+catalyst and floating catalyst sources. Among the investigated growth technique, it is found 
+that floating catalyst TCVD technique yields higher FE current density due to the high field 
+enhancement on CNT tips.  
+To reduce the inter-tube screening effect, CNTs can be grown separated islands by means of 
+photolithography technique. However, CNTs growth using floating catalyst CVD technique is 
+non-selective, which is challenging to grow CNTs in separated islands using such CVD 
+technique. To grow CNTs in separated islands, CNTs are grown on Si and SiO2 surfaces at 
+growth temperatures from 760 to 880 °C. Selective growth of CNTs on Si is achieved at growth 
+temperature of 790 °C.  
+By using the obtained selective growth condition, array of CNT bundles is grown on Si/SiO2 
+structure, obtaining FE current density of ~ 90 mA/cm2. However, it is found that CNTs possess 
+random alignment at the obtained selective growth condition of 790 °C, reducing the field 
+enhancement on CNT bundles. To improve the FE current density, CNT bundles are confined 
+in pre-fabricated SiO2 pits to retain its geometrical shape. From the FE measurement, CNT 
+bundles confined in 2 µm and 0.5 µm diameters pits achieve FE current density of > 333.33 
+mA/cm2 and > 1 A/cm2, respectively. The obtained current density of > 1 A/cm2 can be 
+speculated to achieve the research objective of > 20 dB signal gain in PH-SWS TWT, as 
+simulated earlier. 
+ 
+ 
+ 
+
+-----

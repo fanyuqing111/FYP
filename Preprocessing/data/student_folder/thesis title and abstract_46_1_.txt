@@ -1,0 +1,55 @@
+Title: Development of Handheld Probe for 
+Optoacoustic Imaging and Sensing: Algorithm and 
+System 
+ 
+Abstract: Optoacoustic technique, also known as photoacoustic technique, is a 
+powerful tool to “listen the sound of light” in physiological environment. 
+Combining the rich optical-absorption contrast and high acoustic-resolution in a 
+long penetration depth, optoacoustic imaging, as a multi-wave imaging 
+modality, reveals a wide range of superiorities compared to other single-wave 
+imaging modalities (e.g., optical coherence tomography, magnetic resonance 
+imaging, and ultrasonography). In recent decades, optoacoustic technique 
+witnessed tremendous growth in terms of mechanism exploration, system 
+development, reconstructive algorithm, imaging and sensing applications, etc. 
+ As one of the frontiers of optoacoustic research, development of portable, 
+handheld, and wearable optoacoustic system attracts ever-increasing attention in 
+these years. In general, in pursuit of the system miniaturization, efforts could be 
+exerted mainly on three aspects—optical illumination method, acoustic 
+detection method, and backend electronics. This Ph.D. dissertation will 
+comprehensively investigate the handheld design in these three aspects and 
+present a set of developed handheld optoacoustic imagers, from the prospect of 
+optoacoustic system design, optoacoustic probe design and development of fast 
+image reconstructive method.  
+After a brief overview of the optoacoustic technique, this dissertation sets 
+out with the fundamental mechanism of the optoacoustic generation (section 
+2.1). In section 2.2, several mainstream implementations of optoacoustic system 
+are introduced. In section 2.3, optoacoustic imaging effect using different 
+reconstructive methods are presented. In parallel, analogue reconstruction 
+methods in ultrasonography are also compared and summarized. 
+In the third chapter of the dissertation, several developed handheld 
+optoacoustic imaging and sensing system are introduced. In section 3.1, an all-
+in-one handheld optoacoustic imager is proposed, in which all the optical and 
+acoustic components are integrated into a compact handheld probe. In section 
+
+-----
+3.2, separating the bulky laser illumination and handheld optoacoustic probe, 
+the miniaturized handheld optoacoustic imager, as the second generation, is 
+presented. In section 3.3, employing modulated continuous wave laser 
+illumination, a portable optoacoustic temperature sensing device is developed. 
+In section 3.4, based on the previous continuous wave illumination design, a 
+wearable optoacoustic imager is further developed, as the third generation. 
+In the fourth chapter of the dissertation, affiliated with the handheld 
+volumetric imaging system, a dedicated fast reconstructive algorithm is 
+developed. In section 4.1, GPU accelerated time domain 2D synthetic aperture 
+focusing reconstructive method are proposed. In section 4.2, fitting the stratified 
+acoustic environment in the handheld probe, a dedicated fast reconstruction 
+algorithm based on the fast-phase migration (PSM) method is developed. 
+In summary, with the aim of the clinical translation of optoacoustic 
+technique, this Ph.D. dissertation investigates the development of handheld 
+optoacoustic technique with portable imaging system, compact handheld probe, 
+and fast frame rate. This dissertation highlights the technological and scientific 
+potential of the 3D optoacoustic imaging entering the new field of portability 
+and handheld operation. 
+ 
+
+-----

@@ -1,0 +1,112 @@
+OPERATION AND PROTECTION OF DC SHIPBOARD
+POWER SYSTEM
+Kuntal Satpathi
+School of Electrical and Electronic Engineering
+Nanyang Technological University, Singapore
+Abstract
+Marine vessels integrated with the electrical propulsion have conventionally been based on fixed voltage, fixed-
+frequency (50/60 Hz) ac generation and distribution system. In recent years, dc power system in the marine
+vessels has been proposed primarily to take advantage of the fuel-efficient operation which is enabled through
+the integration of the variable frequency diesel generators. Such emerging dc shipboard power system (SPS) also
+enables interconnection of the alternative power generation and energy storage technologies which helps in peak
+shaving of the generators in the event of wide load variation. In spite of the advantages, one of the impediments to
+the widespread adoption of dc SPS is the lack of comprehensive short-circuit fault management strategies. In such
+systems, the voltage source converter (VSC) based dc generation system is expected to be chosen as an interface
+between the generators and the marine loads owing to its improved operational benefits. During the fault, the
+dc-link the capacitor of the VSC will discharge rapidly, releasing high current. This rapidly rising capacitive
+discharge current poses a serious challenge in fault detection as the rate of rise and magnitude of the current
+profile depends on the fault resistance, fault location, and circuit parameters. Moreover, the time required to
+detect the dc fault current is very low. It is thus required to devise suitable protection algorithm to expedite the
+process of fault detection and isolation. The power system of such vessel is dominated by a significant number of
+active loads and a finite number of dc generation sources. As a result, the network configuration is expected to get
+dynamically altered to fulfill the required generation and load demands to cater for the desired marine mission.
+Such varying network configurations make the transient responses significantly different from the conventional ac
+grids and the prospective dc grids and hence making the fault management strategies more challenging. Thus,
+the modeling and control of the dc generation sources, loading scenarios, and the system operation become an
+important aspect to effectively understand and analyze the transient responses. The aim of this thesis is to address
+the modeling and control challenges of the dc SPS and systematically perform transient analysis to devise the
+protection algorithms to effectively detect short-circuit faults. This thesis considers the platform supply vessel
+(PSV) emulating the Rolls-Royce UT776 vessel as the target dc SPS. PSV is taken as an example, due to its
+complex operating scenarios and wider applicability in the marine industry.
+The first part of the thesis proposes the real-time transient framework to understand the marine operation with
+the increased focus on the modeling and control of the dc generation system. Automatic flux regulator (AFR)
+based dc generation system has been proposed and has been compared in detail with the traditional automatic
+voltage regulator (AVR) based dc generation system. It is seen that the AFR is easier to implement, does not
+require bulky LC− filters (hence lower footprint), easier to operate at variable operating speed and has lower
+1
+
+-----
+power consumption than the AVR based dc generation system. After the development of dc generation system,
+the operation of the dc SPS is studied with various contingency scenarios, such as the outage of the generation
+systems, abrupt load changes, the effect of the energy storage systems and so on, with the objective of operating
+at fuel-efficient operation. It is concluded that the coordinated treatment of the energy storage sources with the
+operation of diesel generator operating at optimized speed results in fuel-efficient operation with fuel savings of
+19% when compared with the fixed frequency based ac SPS.
+After the modeling and operation, this thesis covers systematic transient studies to devise the short-circuit
+fault detection technique for the target dc PSV. It is seen that the traditional time-domain based fault detection
+technique is not suitable for such applications as the magnitude and rate of rise of current is limited by varying
+network conditions of the dc PSV. On the other hand, the rapidly rising fault current is expected to have high-
+frequency components which could be an effective indicator of the transient condition. With this regard, this thesis
+considers the short-time Fourier transform (STFT) based quantitative analysis of the high-frequency components
+in the dc currents for the fault detection in the dc SPS. The operating principles, factors affecting the STFT
+operation and the sensitivity analysis are also discussed. For the enhanced selectivity, a novel directional protection
+is also proposed which uses directional zonal interlocking as a directional element and STFT as fault detector. The
+efficacy of this proposed directional protection is substantiated by confirming against a range of fault impedances
+initiated at the generator terminals, load terminals, lines and buses of the dc PSV.
+The third part of the thesis discusses the fault tolerant dc generation system which is able to restrict the fault
+current in the event of the external short-circuit faults. The thesis is concluded by discussions and the future
+work recommendations.
+Keywords: DC Generation Systems, DC Power Systems, DC Protection, DC Power System Modeling, DC Fault
+Studies, DC Transient Analysis, Marine Vessels, Platform Supply Vessels, Directional protection, Shipboard power
+system.
+List of Publications
+• As First Author
+– Refereed Journal Publications:
+1. K. Satpathi, A. Ukil, J. Pou and M. A. Zagrodnik, “Design, Analysis and Comparison of Auto-
+matic Flux Regulator with Automatic Voltage Regulator Based Generation System for DC Marine
+Vessels,” IEEE Trans. Transport. Electrific., 2018 (In Press).
+2. K. Satpathi, Y.M. Yeap, A. Ukil, and N. Geddada, “Short-time fourier transform based transient
+analysis of VSC interfaced point-to-point DC system,” IEEE Trans. Ind. Electron., vol. 65, no. 5,
+pp. 4080-4091, May 2018.
+3. K. Satpathi, A. Ukil, and J. Pou, “Short-circuit protection in DC electric ship propulsion system:
+Review of existing technologies and future research trends,” IEEE Trans. Transport. Electrific., vol.
+4, no. 1, pp. 272-291, Mar. 2018.
+4. K. Satpathi, V. M. Balijepalli, and A. Ukil, “Modeling and real-time scheduling of DC platform
+supply vessel for fuel efficient operation,” IEEE Trans. Transport. Electrific., vol. 3, no. 3, pp.
+762-778, Sep. 2017.
+2
+
+-----
+– Refereed Conference Publications:
+1. K. Satpathi, A. Ukil, S. S. Nag, and J. Pou, “Comparative Analysis of Directional Protection in AC
+and DC Power Systems,” Innovative Smart Grid Technologies (ISGT), Singapore, 2018. (Accepted)
+2. K. Satpathi, A. Ukil, N. Thukral and M. A. Zagrodnik, “Modeling of DC Shipboard Power System,”
+in Proc. IEEE Int. Conf. on Power Electronics, Drives and Energy Systems (PEDES), Trivandrum,
+India, Dec. 2016.
+3. K. Satpathi and A. Ukil, “Protection of MVDC Shipboard Power System using Rogowski Coil,” in
+Proc. IEEE Int. Conf. on Power Electronics, Drives and Energy Systems (PEDES), Trivandrum,
+India, Dec. 2016.
+4. K. Satpathi, N. Thukral, A. Ukil and M. A. Zagrodnik, “Flux Estimation based DC Bus Voltage
+Control in Marine DC Power System,” in Proc. Annu. Conf. IEEE Ind. Electron. Soc. (IECON),
+Florence, Italy, Oct. 2016.
+5. K. Satpathi, N. Thukral, A. Ukil and M. A. Zagrodnik, “Directional Protection Scheme for MVDC
+Shipboard Power System,” in Proc. Annu. Conf. IEEE Ind. Electron. Soc. (IECON), Florence,
+Italy, Oct. 2016.
+6. K. Satpathi and A. Ukil, “Protection Strategies for LVDC Distribution System,” in Proc. IEEE
+PowerTech Conf., Eindhoven, Netherlands, Jun. 2015.
+• As Co-Author
+– Refereed Journal Publications:
+1. Y. M. Yeap, N. Geddada, K. Satpathi, and A. Ukil, “Time and frequency domain fault detection in
+VSC interfaced experimental DC test system”, IEEE Trans. Ind. Informat., 2018 (In Press).
+– Refereed Conference Publications:
+1. A. Ukil, Y. M. Yeap, K. Satpathi and N. Geddada, “Fault Identification in AC and DC Systems
+Using STFT Analysis of High Frequency Components,” in Proc. Innovative Smart Grid Technologies
+(ISGT), Auckland, New Zealand, 2017.
+2. S. S. Nag, K. Satpathi, A. Ukil, M. A. Zagrodnik and J. Pou, “An Isolated Bipolar DC-DC Converter
+for Energy Storage Integration in Marine Vessels,” in Proc. Annu. Conf. IEEE Ind. Electron. Soc.
+(IECON), Beijing, China, 2017.
+3. D. Francis, Q. Zhengting, K. Satpathi, N. Thukral and A. Ukil, “Suitability of Rogowski Coil for
+DC Shipboard Protection,” in Proc. IEEE TENCON Conf., Singapore, Nov. 2016.
+3
+
+-----

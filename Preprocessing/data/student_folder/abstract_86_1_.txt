@@ -1,0 +1,38 @@
+1
+Abstract
+Differential equations with integer order or fractional order derivatives have attracted much
+attention for a long time, as they are very useful in modelling phenomena that arise from various
+fields such as physics, chemistry, biology, mechanics, finance and engineering. Indeed, the ‘memory’
+property of fractional derivatives enhances the accuracy of the models. However, it is a fact that
+finding analytical solutions of differential equations, fractional or non-fractional, is nearly impossible
+in many instances. The development of efficient numerical schemes for such equations is therefore
+very important, and this will be the focus of our work in this thesis.
+In this thesis, we shall investigate the numerical treatment of differential equations in two
+categories: (i) ordinary differential equations; (ii) partial differential equations. In the first category,
+we consider two problems – a second-order boundary value problem with discontinuous second order
+derivative at some breakup points; and a fractional Bagley-Torvik equation. For both problems,
+we propose new numerical methods that give more accurate solutions than other methods in the
+literature. In fact, the numerical scheme for the second-order boundary value problem is based on
+cubic non-polynomial spline deployed over the mid-knots of a uniform mesh, while discrete cubic
+spline and weighted shifted Gr¨
+unwald-Letnikov difference operator are used to solve the fractional
+Bagley-Torvik equation. We also present theoretical proofs of the stability and convergence of the
+numerical schemes, and confirm the theoretical results by numerical experiments.
+In the second category of partial differential equations, we consider a fractional nonlinear
+Schr¨
+odinger equation and a generalized fractional diffusion equation. For the fractional nonlin-
+ear Schr¨
+odinger equation, our proposed method, which employs quintic non-polynomial spline,
+improves the spatial convergence achieved so far in the literature. As for the generalized fractional
+diffusion equation, here the fractional derivative is ‘generalized’ in the sense that it features a
+scale function and a weight function, which can scale up/down the time domain or assign different
+weights at different time points. With specific scale functions and weight functions, the generalized
+fractional derivative reduces to well known fractional derivatives in the literature. The approxi-
+mation of the generalized fractional derivative as well as the numerical treatment of generalized
+fractional problems have been scarcely researched in the literature. In this thesis, we shall derive
+higher order approximations for the generalized fractional derivative and then apply them in the
+numerical schemes proposed for a generalized fractional diffusion problem. In all the problems that
+we considered above, both theoretical analysis and numerical simulation are presented to support
+and illustrate the efficiency of our methods.
+
+-----

@@ -1,0 +1,52 @@
+NANYANG TECHNOLOGICAL UNIVERSITY                                                                                    SINGAPORE 
+Abstract 
+ 
+Multi-agent systems have been extensively studied in modern control theory due to its wide 
+applications in robotics, transportation networks, smart grid, etc. In this thesis, we investigate the 
+multi-agent system from the perspective of robust coordination, distributed optimization and game 
+algorithm design, and network controllability. Specifically, in the practical applications of multi-
+agent systems, uncertainties and disturbances are always surrounded. Therefore, it is of great 
+significance to consider the influence of these uncertain factors when designing distributed control 
+algorithms. In addition, optimization and game theory have wide applications in industry. This 
+thesis focuses on distributed optimal algorithms design in multi-agent systems. Lastly, 
+controllability of networked multi-agent systems is another important issue that helps to organize 
+a network such that the control and interactions are more effective and amenable. 
+ 
+In the first part of this thesis, we study robust cooperative control of multi-agent systems. To deal 
+with model uncertainties and disturbances in the agent dynamics, we propose a continuous filter-
+based control protocol for a class of high-order multi-agent systems. Sufficient conditions are 
+given to guarantee asymptotic consensus. An output feedback control algorithm is further 
+proposed by using only position information. Then, we consider robust finite-time connectivity-
+preserving consensus and formation tracking problems. We propose an integral sliding mode 
+based framework to simultaneously achieve disturbance rejection, finite-time convergence, and 
+connectivity preservation for double-integrators with bounded disturbances and a virtual leader. 
+The result is further extended to the formation tracking case. 
+ 
+In the second part, we study distributed optimization and game algorithm design. First, we 
+consider a class of distributed quadratic optimization problem where the optimal solution and the 
+objective functions are both assumed to be time-varying. When there is no constraint on the 
+decision variables, gradient-based searching methods are proposed to track the unknown optimal 
+solution. The tracking errors are proven to be asymptotically stable. We further consider the case 
+where there exists a local compact convex constraint set for each agent. By using projected gradient 
+methods, we prove that the tracking errors are uniformly ultimately bounded with arbitrarily small 
+bound. Next, we consider the distributed Nash equilibrium seeking problem for a nonsmooth 
+generalized convex game. Each player has a convex cost function and is subject to multiple shared 
+constraints. The objective is to design a Nash equilibrium seeking law such that each player 
+minimizes its own cost function in a distributed way. Both class-𝐶2 objective functions and locally 
+Lipschitz objective functions are studied.  
+ 
+
+-----
+NANYANG TECHNOLOGICAL UNIVERSITY                                                                                    SINGAPORE 
+In the third part, we consider the controllability problem of multi-agent systems. Specifically, we 
+study the controllability of a class of antagonistic networks with not only positive weights but 
+also negative ones. This kind of network model is common in social network science. Nodes 
+connected with a positive edge can be viewed as “friends” and linked with a negative edge can be 
+viewed as “enemies”. We present necessary conditions to characterize the controllability and 
+analyze the relationship between an antagonistic network and an all-positive network.  
+ 
+ 
+ 
+ 
+
+-----

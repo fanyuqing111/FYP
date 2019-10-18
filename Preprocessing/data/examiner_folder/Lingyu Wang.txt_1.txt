@@ -1,0 +1,823 @@
+Lingyu Wang 
+ 
+   Curriculum Vitae
+ 
+Lingyu Wang 
+ 
+(As of September 22, 2014) 
+ 
+ 
+1455 de Maisonneuve Blvd. West, S-EV 007.637 
+Montreal, Québec, Canada H9W 1M8 
+(514) 848-2424 Ext. 5662   wang@ciise.concordia.ca 
+ 
+ 
+RESEARCH INTERESTS  
+ 
+Security and Privacy. Specifically, data privacy, vulnerability analysis, intrusion detection, security metrics. 
+ 
+EDUCATION 
+ 
+2000-2006  
+Ph.D. in Information Technology 
+George Mason University, USA 
+Co-advisor: Dr. Sushil Jajodia and Dr. Duminda Wijesekera 
+Dissertation Topic: “Preserving privacy in on-line analytical processing (OLAP) data cubes” 
+ 
+1993-1996 
+ 
+M.E. in Material Engineering, Shanghai Jiao Tong University, China 
+ 
+ 
+ 
+ 
+1989-1993 
+ 
+B.E. in Aeronautical Engineering, Shenyang Institute of Aeronautical Engineering, China 
+ 
+ACADEMIC EXPERIENCE 
+ 
+2010-present 
+Associate Professor  
+ 
+Concordia Institute for Information Systems Engineering 
+ 
+Concordia University, Montreal, Canada 
+ 
+2006-2010 
+Assistant Professor 
+ 
+Concordia Institute for Information Systems Engineering 
+ 
+Concordia University, Montreal, Canada 
+ 
+2000-2006  
+Research Assistant 
+Center for Secure Information Systems (CSIS), George Mason University, Fairfax, USA 
+ 
+1994-1996 
+ 
+Research and Teaching Assistant 
+Shanghai Jiao Tong University, Shanghai, China 
+ 
+PUBLICATIONS 
+(An asterisk (*) indicates the co-author was my student) 
+ 
+Authored Book: 
+1. 
+Lingyu Wang, Sushil Jajodia, Duminda Wijesekera, “Preserving Privacy in On-line Analytical Processing 
+(OLAP),” ISBN: 0-387-46273-2, Springer, Berlin, 2007, 190 Pages.  
+2. 
+Lingyu Wang, Massimiliano Albanese, Sushil Jajodia: Network Hardening - An Automated Approach to 
+Improving Network Security. Springer Briefs in Computer Science, Springer 2014, ISBN 978-3-319-04611-2, 
+pp. 1-60.   
+ 
+Book Chapters: 
+3. 
+Lingyu Wang, Sushil Jajodia, "An approach to preventing, correlating, and predicting multistep network attacks," 
+in Intrusion Detection Systems, Roberto Di Pietro and Luigi V. Mancini, eds., Springer, New York, 2008, pages 
+93-128.  
+4. 
+Lingyu Wang, Sushil Jajodia, “Security in data warehouses and OLAP systems,” in Handbook of Database 
+Security: Applications and Trends, Michael Gertz and Sushil Jajodia, editors, Springer, New York, 2008, pages 
+191-212.  
+ 
+
+-----
+Lingyu Wang 
+ 
+   Curriculum Vitae
+ 
+5. 
+Lingyu Wang, Sushil Jajodia, “Vulnerability-centric alert correlation,” in Information Assurance: Dependability 
+and Security in Networked Systems, Yi Qian, James Joshi, David Tipper, Prashant Krishnamurthy, editors, 
+Morgan Kaufmann, Amsterdam, 2008, pages 279-304.  
+6. 
+Lingyu Wang, Sushil Jajodia, Duminda Wijesekera, “Preserving privacy in on-line analytical processing data 
+cubes,” in Secure Data Management in Decentralized Systems, Ting Yu and Sushil Jajodia, editors, Springer, 
+Berlin, 2007, pages 357-382.  
+ 
+Edited Books: 
+7. 
+Lingyu Wang, Basit Shafiq (Eds.): Data and Applications Security and Privacy XXVII - 27th Annual IFIP WG 
+11.3 Conference, DBSec 2013, Newark, NJ, USA, July 15-17, 2013. Proceedings. Lecture Notes in Computer 
+Science 7964, Springer 2013, ISBN 978-3-642-39255-9. 
+8. 
+Yves Deswarte, Frederic Cuppens, Sushil Jajodia, Lingyu Wang, eds., Security and Protection in Information 
+Processing Systems, ISBN 1-4020-8142-1, Kluwer Academic Publishers, Boston, 2004, 562 pages.  
+9. 
+Yves Deswarte, Frederic Cuppens, Sushil Jajodia, Lingyu Wang, eds., Information Security Management, 
+Education, and Privacy, ISBN 1-4020-8144-8, Kluwer Academic Publishers, Boston, 2004, 328 pages. 
+Refereed Journal Papers: 
+10. Wen Ming Liu*, Lingyu Wang, Lei Zhang, Shunzhi Zhu, “k-Jump: a Strategy to Design Publicly-Known 
+Algorithms for Privacy Preserving Micro-Data Disclosure,” Journal of Computer Security, Accepted. 
+11. Saed Alrabaee*, Noman Saleem*, Stere Preda, Lingyu Wang, Mourad Debbabi, “OBA2: An Onion Approach to 
+Binary Code Authorship Attribution,” Digital Investigation, Volume 11, Supplement 1, May 2014, pages S94–
+S103.  
+12. Zhen Xu, Cong Wang, Kui Ren, and Lingyu Wang, “Proof-carrying Cloud Computation: the Case of Convex 
+Optimization,” IEEE Transactions on Information Forensics and Security, Accepted. 
+13. Wen Ming Liu*, Lingyu Wang, Pengsu Cheng*, Kui Ren, Shunzhi Zhu and Mourad Debbabi, “PPTP: Privacy-
+Preserving Traffic Padding in Web-Based Applications,” IEEE Trans. on Dependable and Secure Computing 
+(TDSC), Accepted. 
+14. Lingyu Wang, Sushil Jajodia, Anoop Singhal, Pengsu Cheng*, Steven Noel, “k-Zero day safety:  A network 
+security metric for measuring the risk of unknown vulnerabilities,” IEEE Trans. on Dependable and Secure 
+Computing (TDSC), Vol. 11, No. 1, 2014, pages 30-44.. 
+15. Yong Zeng, Lingyu Wang (Eds.), “Secure collaboration in design and supply chain management (Special issue),” 
+Computers in Industry, Volume 63, Number 6 (2012), 543-544. 
+16. Yong Zeng, Lingyu Wang, Xiaoguang Deng, Xinlin Cao, Nafisa Khundker*, “Secure collaboration in global 
+design and supply chain environment: Problem analysis and literature review,” Computers in Industry, Volume 
+63, Number 6 (2012), pages 545-556.   
+17. Da Yong Zhang*, Xinlin Cao, Lingyu Wang, Yong Zeng, “Mitigating the risk of information leakage in a two-
+level supply chain through optimal supplier selection,” Journal of Intelligent Manufacturing, Volume 23, Number 
+4 (2012), pages 1351-1364.  
+18. Da Yong Zhang*, Yong Zeng, Lingyu Wang, Hongtao Li, Yuanfeng Geng, “Modeling and evaluating 
+information leakage caused by inferences in supply chains”, Computers in Industry, Vol. 62, No. 3, April 2011, 
+pages 351-363. [ISI Impact factor: 1.709] 
+19. Bo Zhu, Sanjeev Setia, Sushil Jajodia, and Lingyu Wang, “Providing Witness Anonymity under Peer-to-Peer 
+Settings,” IEEE Transactions on Information Forensics and Security, Vol. 5, No. 2, 2010, pages 324-336. [ISI 
+Impact factor: 1.895] 
+20. Noman Mohammed*, Hadi Otrok, Lingyu Wang, Mourad Debbabi, and Prabir Bhattacharya, “Mechanism 
+Design-Based Secure Leader Election Model for Intrusion Detection in MANET,” IEEE Transactions on 
+Dependable and Secure Computing (TDSC), Vol. 8, No. 1, 2011, pages 89-103. [ISI Impact factor: 1.059] 
+21. Bo Zhu, Sanjeev Setia, Sushil Jajodia, Sankardas Roy, and Lingyu Wang, “Localized Multicast: Efficient and 
+Distributed Replica Detection in Large-scale Sensor Networks,” IEEE Transactions on Mobile Computing 
+(TMC), Vol. 8, No. 7, 2010, pages 913-926. [ISI Impact factor: 2.395] 
+22. Steven Noel, Lingyu Wang, Anoop Singhal, Sushil Jajodia, "Measuring security risks of networks using attack 
+graphs," International Journal of Next-Generation Computing, Vol. 1, No. 1, July 2010, pages 113-123.  
+23. Bo Zhu, Kui Ren, Lingyu Wang, and Mourad Debbabi, “PCM: A Privacy-Preserving Detection Mechanism in 
+Mobile Ad Hoc Networks,” Wiley Security and Communication Networks (SCN), Volume 3, Issue 2-3, pages 
+167–184, 2010.   
+ 
+
+-----
+Lingyu Wang 
+ 
+   Curriculum Vitae
+ 
+24. Benjamin Fung, Ke Wang, Lingyu Wang, and Patrick Hung, “Privacy-preserving data publishing for cluster 
+analysis,” Data & Knowledge Engineering (DKE), Vol. 68, No. 6, 2009, pages 552-575. 
+25. Chao Yao, Lingyu Wang, X. Sean Wang, Claudio Bettini, Sushil Jajodia, “Evaluating privacy threats in released 
+database views by symmetric indistinguishability,” Journal of Computer Security, Vol. 17, No. 1, pages 5-42, 
+2009.  
+26. Chamseddine Talhi, Djedjiga Mouheb*, Vitor Nunes de Lima*, Mourad Debbabi, Lingyu Wang, Makan 
+Pourzandi, “Usability of Security Specication Approaches for UML Design: A Survey,” Journal of Object 
+Technology, Vol. 8, No. 6, pages 102-122, 2009. 
+27. Hadi Otrok, Noman Mohammed*, Lingyu Wang, Mourad Debbabi and Prabir Bhattacharya, “A game-theoretic 
+intrusion detection model for mobile ad-hoc networks,” Computer Communications, Special Issue on 
+Algorithmic and Theoretical Aspects of Wireless Ad Hoc and Sensor Networks, Vol. 31, No. 4, 2007, pages 708-
+721.  
+28. Lingyu Wang, Chao Yao, Anoop Singhal, Sushil Jajodia, “Implementing interactive analysis of attack graphs 
+using relational databases,” Journal of Computer Security, Vol. 16, No. 4, 2008, pages 419-436.  
+29. Lingyu Wang, Yingjiu Li, Sushil Jajodia, Duminda Wijesekera, “Parity-based inference control for multi-
+dimensional range sum queries,” Journal of Computer Security, Vol. 15, No. 4, 2007, pages 417-445.  
+30. Lingyu Wang, Steven Noel, Sushil Jajodia, “Minimum-cost network hardening using attack graphs,” Computer 
+Communications, Volume 29, Issue 18 , 28 November 2006, Pages 3812-3824. 
+31. Lingyu Wang, Anyi Liu, Sushil Jajodia, “Using attack graphs for correlating, hypothesizing, and predicting 
+network intrusion alerts,” Computer Communications, Vol. 29, No. 15, 2006, pages 2917-2933.  
+32. Lingyu Wang, Duminda Wijesekera, Sushil Jajodia, “Cardinality-based inference control in data cubes,” Journal 
+of Computer Security, Vol. 12, No. 5, 2004, pages 655-692.  
+ 
+Refereed Conference and Workshop Papers: 
+33. Lingyu Wang, Mengyuan Zhang*, Sushil Jajodia, Anoop Singhal, Massimiliano Albanese, “Modeling Network 
+Diversity for Evaluating the Robustness of Networks against Zero-Day Attacks,” Proc. 19th European 
+Symposium on Research in Computer Security (ESORICS 2014), Springer-Verlag Lecture Notes in Computer 
+Science (LNCS), Vol. 8713, Wroclaw, Poland, September 7-11, 2014, pages 494-511 (Acceptance ratio 58/234). 
+34. Yuan Hong, Jaideep Vaidya, Haibing Lu and Lingyu Wang, “Collaboratively Solving Traveling Salesman 
+Problem with Limited Disclosure,” in Proceedings of the 28th Annual IFIP WG 11.3 Conference on Data and 
+Applications Security and Privacy (DBSEC 2014), Springer-Verlag Lecture Notes in Computer Science (LNCS), 
+Vol. 8566, July 14-16, 2014, Vienna, Austria. 
+35. Wen Ming Liu*, Lingyu Wang, Kui Ren and Mourad Debbabi, “Background Knowledge-Resistant Traffic 
+Padding for Preserving User Privacy in Web-Based Applications,” Proc.The 5th IEEE International Conference 
+and on Cloud Computing Technology and Science (IEEE CloudCom 2013), Bristol, UK, December 2-5, 2013 
+(Acceptance ratio 11/60).   
+36. William Nzoukou Tankou*, Lingyu Wang, Sushil Jajodia and Anoop Singhal, “A unified framework for 
+measuring a network's mean time-to-compromise,” Proc. 32nd IEEE International Symposium on Reliable 
+Distributed Systems (SRDS 2013), Braga, Portugal, September 30 - October 3, 2013 (Acceptance ratio 22/67).  
+37. Massimiliano Albanese, Sushil Jajodia, Anoop Singhal, Lingyu Wang, “An efficient approach to assessing the 
+risk of zero-day vulnerabilities,” Proc. 10th International Conference on Security and Cryptpgraphy (SECRYPT 
+2013), Reykjavik, Iceland, July 29-31, 2013 (Best Paper Award).  
+38. Zhen Xu, Cong Wang, Qian Wang, Kui Ren, and Lingyu Wang, “Proof-carrying Cloud Computation: the Case of 
+Convex Optimization,” Proc. IEEE INFOCOM mini-conference, 2013 (Acceptance ratio 25%).  
+39. Pengsu Cheng*, Lingyu Wang, Sushil Jajodia, Anoop Singhal, “Aggregating CVSS base scores for semantics-
+rich network security metrics,” Proc. 31st IEEE International Symposium on Reliable Distributed Systems 
+(SRDS 2012), Irvine, California, October 8-11, 2012 (Acceptance Ratio 28/114).  
+40. Wen Ming Liu*, Lingyu Wang, Kui Ren, Pengsu Cheng* and Mourad Debbabi, “k-Indistinguishable Traffic 
+Padding in Web Applications,” Proc. The 12th Privacy Enhancing Technologies Symposium (PETS 2012), July 
+11–13, 2012, Vigo, Spain, pages 79-99 (Acceptance Ratio 16/72).  
+41. Wen Ming Liu*, Lingyu Wang, “Decoupling Privacy Preservation from Utility Optimization for Improving 
+Algorithm Efficiency,” Proc. 2nd ACM Conference on Data and Applications Security (CODASPY 2012), Feb 
+7-9, 2012 (Acceptance Ratio 21/113 ≈ 19%). 
+ 
+
+-----
+Lingyu Wang 
+ 
+   Curriculum Vitae
+ 
+42. Wen Ming Liu*, Lingyu Wang, Pengsu Cheng*, Mourad Debbabi, “Privacy-Preserving Traffic Padding in Web-
+Based Applications,” Proc. Workshop on Privacy in the Electronic Society (WPES 2011), October 11, 2011. 
+(Short Paper, Acceptance Ratio 24/73 ≈ 33%). 
+43. Lingyu Wang, Sushil Jajodia, Anoop Singhal, Steven Noel, “k-Zero day safety: Measuring the security risk of 
+networks against unknown attacks,” Proc. 15th European Symposium on Research in Computer Security 
+(ESORICS 2010), Springer-Verlag Lecture Notes in Computer Science (LNCS), Vol. 6345, 20-22 September, 
+2010, pages 573-587 (Acceptance ratio 42/201 ≈ 21%). 
+44. Hamad Binsalleeh, Thomas Ormerod*, Amine Boukhtouta, Prosenjit Sinha, Amr Youssef, Mourad Debbabi, 
+Lingyu Wang, “On the Analysis of the Zeus Botnet Crimeware Toolkit,” Proc. 8th Annual Conference on 
+Privacy, Security and Trust (PST 2010), August 17-19, 2010, pages 195-200  (Best Paper Award). 
+45. Djedjiga Mouheb*, Dima Alhadidi, Mariam Nouh, Mourad Debbabi, Lingyu Wang, Makan Pourzandi, “Aspect 
+Weaving in UML Activity Diagrams: A Semantic and Algorithmic Framework,” 7th International Workshop on 
+Formal Aspects of Component Software (FACS 2010), pages 182-199, 2010. 
+46. Mariam Nouh, Raha Ziarati*, Djedjiga Mouheb*, Dima Alhadidi, Mourad Debbabi, Lingyu Wang, Makan 
+Pourzandi, “Aspect Weaver: A Model Transformation Approach for UML Models,” Proc. 20th International 
+Conference of the Center for Advanced Studies on Collaborative Research (CASCON 2010), November 7 - 10, 
+2010. 
+47. Pengsu Cheng*, Lingyu Wang, Tao Long*, “Compressing Attack Graphs through Reference Encoding,” Proc. 
+3rd IEEE International Symposium on Trust, Security and Privacy for Emerging Applications (TSP 2010), June 
+29-July 1, 2010, pages 1026-1031. 
+48. Thomas Ormerod*, Lingyu Wang, Mourad Debbabi, Amr Youssef, Hamad Binsalleeh, Amine Boukhtouta, and 
+Prosenjit Sinha, “Defaming Botnet Toolkits: A Bottom-Up Approach to Mitigating the Threat,” Proc. 4th 
+International Conference on Emerging Security Information, Systems and Technologies (SECURWARE 2010), 
+July 18-25, 2010, pages 195-200. 
+49. Wen Ming Liu*, Lingyu Wang, Lei Zhang, “K-Jump Strategy for Privacy Preserving Micro-Data Disclosure,” 
+Proc. 13th International Conference on Database Theory (ICDT 2010), March 22-26, 2010, pages 104-115. 
+50. Djedjiga Mouheb*, Chamseddine Talhi, Mariam Nouh, Vitor Lima*, Mourad Debbabi, Lingyu Wang, Makan 
+Pourzandi, “Aspect-Oriented Modeling for Representing and Integrating Security Concerns in UML,” Proc. 8th 
+IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA 
+2010), May 24 - 26, 2010, pages 197-213. 
+51. Serguei A. Mokhov, Jian Li, Lingyu Wang, “Simple Dynamic Key Management in SQL Randomization,”  Proc. 
+The 3rd IFIP International Conference on New Technologies, Mobility and Security  (NTMS 2009), December 
+20 - 23, 2009, pages 1-5.  
+52. Lei Zhang, Lingyu Wang, Sushil Jajodia, Alexander Brodsky, “L-Cover: Preserving Diversity by Anonymity,” 
+Proc. 6th VLDB Workshop on Secure Data Management (SDM 2009), Springer-Verlag Lecture Notes in 
+Computer Science (LNCS), Vol. 5776, August 28, 2009, pages 158-171.  
+53. Djedjiga Mouheb*, Chamseddine Talhi, M. Azzam, Vitor Lima*, Mourad Debbabi, Lingyu Wang, Makan 
+Pourzandi,  “An Aspect-Oriented Approach for Software Security Hardening: from Design to Implementation,” 
+Proc. The 8th International Conference on Software Methodologies, Tools and Techniques (SOMET 2009), 
+September 23 - 25, 2009, pages 203-222. 
+54. Vitor Lima*, Djedjiga Mouheb*, Chamseddine Talhi, Mourad Debbabi, Lingyu Wang, Makan Pourzandi, 
+“Formal Verification and Validation of UML 2.0 Sequence Diagrams using Source and Destination of 
+Messages,” Proc. The 4th International Workshop on Systems Software Verification (SSV 2009), Electronic 
+Notes in Theoretical Computer Science (ENTCS), Vol. 254, pages 143-160.  
+55. Djedjiga Mouheb*, Chamseddine Talhi, Vitor Lima*, Mourad Debbabi, Lingyu Wang, Makan Pourzandi, 
+“Weaving Security Aspects into UML 2.0 Design Models,” Proc.The 13th Aspect Oriented Modeling Workshop 
+(AOM 2009), March 2, 2009, ACM Press, pages 7-12.  
+56. Yiming Wang*, Lingyu Wang, B. C. M. Fung, “Preserving Privacy for Location-Based Services with 
+Consecutive Queries,”  Proc. The IEEE International Conference on Communications - Communication and 
+Information Systems Security Symposium (ICC 2009 CISS), June 14-18, 2009, pages 1-5.  
+57. Tania Islam*, Lingyu Wang, “A Heuristic Approach to Reducing the Cost of Network Hardening Using Attack 
+Graph,”  Proc. The 2nd IFIP International Conference on New Technologies, Mobility and Security  (NTMS 
+2008),  November 5 - 7, 2008, pages 1-5.   
+ 
+
+-----
+Lingyu Wang 
+ 
+   Curriculum Vitae
+ 
+58. Shuai Liu*, Wei Li*, Lingyu Wang, “Towards Efficient Over-encryption in Outsourced Databases Using Secret 
+Sharing,”  Proc. The 2nd IFIP International Conference on New Technologies, Mobility and Security  (NTMS 
+2008), November 5 - 7, 2008, pages 1-5.  
+59. Marcel Frigault*, Lingyu Wang, Anoop Singhal, Sushil Jajodia, "Measuring network security using Dynamic 
+Bayesian network," Proc. 4th ACM Workshop on Quality of Protection (QoP), October 27, 2008, pages 23-30.  
+60. Hadi Otrok, Noman Mohammed*, Lingyu Wang, Mourad Debbabi and Prabir Bhattacharya, “A Moderate to 
+Robust Game Theoretical Model for Intrusion Detection in MANETs,” Proc. International Workshop on Security 
+and Privacy in Wireless and Mobile Computing, Networking and Communications (SecPri_WiMob 2008), 
+October 12, 2008, IEEE Press, pages 608-612.  
+61. Feng Chen, Lingyu Wang, Jinshu Su, “An Efficient Approach to Minimum-Cost Network Hardening Using 
+Attack Graphs,” Proc. The Fourth International Conference on Information Assurance and Security (IAS 2008), 
+September 8-10, 2008, IEEE Press, pages 209 - 212. 
+62. Serguei A. Mokhov, Farid Rassai, Lee Wei Huynh, Lingyu Wang, “The Authentication Framework within the 
+Java Data Security Framework (JDSF): Design and Implementation Refinement,” Proc. International Conference 
+on Telecommunications and Networking (TeNe 2008), December 5-13, 2008, pages 423-429. 
+63. Serguei A. Mokhov, Lee Wei Huynh, Lingyu Wang, “The Integrity Framework within the Java Data Security 
+Framework (JDSF): Design and Implementation Refinement,” Proc. International Conference on 
+Telecommunications and Networking (TeNe 2008), December 5-13, 2008, pages 449-455. 
+64. Marcel Frigault*, Lingyu Wang, “Measuring Network Security Using Bayesian Network-Based Attack Graphs,”  
+Proc. The 3rd IEEE International Workshop on Security, Trust, and Privacy for Software Applications (STPSA 
+2008), July 28 - August 1, 2008, pages 698-703.   
+65. Hong Yuan*, Shuo Lu*, Qian Liu*, Lingyu Wang, Rachida Dssouli, “Preserving Privacy in e-Health Systems 
+Using Hippocratic Database,” Proc. The 3rd IEEE International Workshop on Security, Trust, and Privacy for 
+Software Applications (STPSA 2008), July 28 - August 1, 2008, pages 692-697.  
+66. Lingyu Wang, Tania Islam*, Tao Long*, Anoop Singhal, and Sushil Jajodia, “An Attack Graph-Based 
+Probabilistic Security Metric,”  Proc. 22nd Annual IFIP WG 11.3 Working Conference on Data and Applications 
+Security (DBSEC 2008) , Springer-Verlag Lecture Notes in Computer Science (LNCS), Vol. 5094, July 13-16, 
+2008, pages 283-296.  
+67. Lei Zhang, Lingyu Wang, Sushil Jajodia, Alexander Brodsky, “Exclusive Strategy for Generalization Algorithms 
+in Micro-Data Disclosure,” Proc. 22nd Annual IFIP WG 11.3 Working Conference on Data and Applications 
+Security (DBSEC 2008), Springer-Verlag Lecture Notes in Computer Science (LNCS), Vol. 5094, July 13-16, 
+2008, pages 190-204.  
+68. Wei Li*, Lingyu Wang, Bo Zhu, Lei Zhang, “An Integrity Lock Architecture for Supporting Distributed 
+Authorizations in Database Federations,” Proc. 23rd International Information Security Conference (SEC 2008), 
+September 8-10, 2008, pages 189-203 (Acceptance ratio 42/143).  
+69. B. C. M. Fung, K. Wang, L. Wang, and M. Debbabi, “A Framework for Privacy-Preserving Cluster Analysis,” 
+Proc. IEEE International Conference on Intelligence and Security Informatics (IEEE ISI 2008), Springer-Verlag 
+Lecture Notes in Computer Science (LNCS), 2008, To appear (Acceptance ratio 22%).  
+70. Da Yong Zhang*, Lingyu Wang, Yong Zeng, “Secure Collaborative Product Development: a Literature Review,” 
+Proc. 5th International Conference on Product Lifecycle Management (PLM 2008), July 9-11, 2008, To appear.  
+71. Bo Zhu, Kui Ren, Lingyu Wang, “Anonymous Misbehavior Detection in Mobile Ad Hoc Networks,” Proc. 1st 
+IEEE International Workshop on Wireless Security and Privacy (WiSP 2008), June 20, 2008, pages 358-363.  
+72. Djedjiga Mouheb*, Mourad Debbabi, Lingyu Wang, Makan Pourzandi, “UML-Based Approaches for the 
+Development of Secure Software and Systems: A Comparative Study,” Proc. 2nd Workshop on Practice and 
+Theory of IT Security (PTITS 2008), January 23, 2008, pages 15-20.  
+73. Noman Mohammed*, Hadi Otrok, Lingyu Wang, Mourad Debbabi, Prabir Bhattacharya, “A Mechanism Design-
+Based Multi-Leader Election Scheme for Intrusion Detection in MANET,” Proc. of the IEEE Wireless 
+Communications and Networking Conference (WCNC 2008), March 31-April 4, 2008, pages 2816-2821.  
+74. Qian Liu*, Shuo Lu*, Hong Yuan*, Lingyu Wang, Rachida Dssouli, “Securing Telehealth Applications in a 
+Web-Based e-Health Portal,” Proc. 3rd International Conference on Availability, Reliability and Security (ARES 
+2008), IEEE Press, March 4-7, 2008, pages 3-9.  
+ 
+
+-----
+Lingyu Wang 
+ 
+   Curriculum Vitae
+ 
+75. Shuo Lu*, Hong Yuan*, Qian Liu*, Lingyu Wang, Rachida Dssouli, “Access Control in e-Health Portal 
+Systems,” Proc. 4th International Conference on Innovations in Information Technology (Innovations 2007), 
+IEEE Press, November 18-20, 2007, pages 88-92.  
+76. Hong Yuan*, Shuo Lu*, Qian Liu*, Lingyu Wang, Rachida Dssouli, “A Hierarchical Approach to the 
+Specification of Privacy Preferences,” Proc. 4th International Conference on Innovations in Information 
+Technology (Innovations 2007), IEEE Press, November 18-20, 2007, pages 660-664.  
+77. Lingyu Wang, Anoop Singhal, Sushil Jajodia, “Toward Measuring Network Security Using Attack Graphs,” 
+Proc. 3rd International Workshop on Quality of Protection (QoP 2007), Oct 29, 2007, pages 49-54.  
+78. Hadi Otrok, Noman Mohammed*, Lingyu Wang, Mourad Debbabi, Prabir Bhattacharya, “An Efficient And 
+Truthful Leader IDS Election Mechanism for MANET,” Proc. of the 3rd IEEE International Conference on 
+Wireless and Mobile Computing, Networking and Communications (WiMob 2007), October 8 - 10, 2007, pages 
+78.  
+79. Lingyu Wang, Anoop Singhal, Sushil Jajodia, "Measuring the overall security of network configurations using 
+attack graphs," Proc.21st Annual IFIP WG 11.3 Working Conference on Data and Applications Security (DBSec 
+2007), Springer Lecture Notes in Computer Science, Vol. 4602, Steve Barker and Gail-Joon Ahn, eds., Redondo 
+Beach, CA, July 8-11, 2007, pages 98-112 (Acceptance ratio 18/44).  
+80. Xuxin Xu*, Lingyu Wang, Amr Youssef, Bo Zhu, “Preventing collusion attacks on the one-way function tree 
+(OFT) scheme,” Proc. 5 th International Conference on Applied Cryptography and Network Security (ACNS 
+2007), Springer-Verlag Lecture Notes in Computer Science, Vol. 4521, pages 177-193 (Acceptance ratio 
+31/260), June 5-8, 2007.  
+81. Chao Yao, Lingyu Wang, X. Sean Wang, Sushil Jajodia, “Indistinguishability: the other aspect of privacy,” Proc. 
+3rd VLDB Workshop on Secure Data Management (SDM 2006), Springer Lecture Notes in Computer Science, 
+Vol. 4165, September 10-11, 2006, pages 1-17.  
+82. Lingyu Wang, Chao Yao, Anoop Singhal, Sushil Jajodia, “Interactive Analysis of Attack Graphs Using 
+Relational Queries,” Proc. 20th IFIP WG 11.3 Working Conference on Data and Applications Security (DBSec 
+2006), Springer-Verlag Lecture Notes in Computer Science, Vol. 4127, July 2006, pages 119-132 (Acceptance 
+ratio 22/55).  
+83. Lingyu Wang, Anyi Liu, Sushil Jajodia, “An efficient and unified approach to correlating, hypothesizing, and 
+predicting network intrusion alerts,” Proc. 10th European Symposium on Research in Computer Security 
+(ESORICS 2005), September 2005, pages 247-266 (Acceptance ratio 26/158).  
+84. Lingyu Wang, Sushil Jajodia, Duminda Wijesekera, “Securing OLAP data cubes against privacy breaches,” Proc. 
+IEEE Symposium on Security and Privacy (S&P 2004), May 2004, pages 161-175 (Acceptance ratio 19/180).  
+85. Lingyu Wang, Duminda Wijesekera, Sushil Jajodia, “A logic-based framework for attribute based access control, 
+” Proc. 2nd ACM Workshop on Formal Methods in Security Engineering (FMSE 2004), October 2004, pages 45-
+55 (Acceptance ratio 9/25).  
+86. Lingyu Wang, Yingjiu Li, Duminda Wijesekera, Sushil Jajodia, “Precisely answering multidimensional range 
+queries without privacy breaches,” Proc. 8th European Symposium on Research in Computer Security (ESORICS 
+2003), October 2003, pages 100-115 (Acceptance ratio 19/114).  
+87. Lingyu Wang, Duminda Wijesekera, Sushil Jajodia, “Towards secure XML federations, ” Proc. 17th IFIP WG 
+11.3 Working Conference on Data and Application Security (DBSec 2003), August 2003, pages 117-131 
+(Acceptance ratio 25/50).  
+88. Lingyu Wang, Duminda Wijesekera, Sushil Jajodia, “Cardinality-based inference control in sum-only data cubes, 
+” Proc. 7th European Symposium on Research in Computer Security (ESORICS 2002), October 2002, pages 55-
+71 (Acceptance ratio 16/83).  
+89. Yingjiu Li, Lingyu Wang, X. Sean Wang, Sushil Jajodia, “Auditing interval-based inference, ” Proc. 14th 
+Conference on Advanced Information Systems Engineering (CAiSE 2002), Springer-Verlag Lecture Notes in 
+Computer Science, Vol. 2348, May 2002, pages 553-568 (Acceptance ratio 42/173).  
+90. Yingjiu Li, Lingyu Wang, Sushil Jajodia, “Preventing interval-based inference by random data perturbation, ” 
+Proc. 1st Workshop on Privacy Enhancing Technologies (PET 2002), Springer-Verlag Lecture Notes in 
+Computer Science, Vol. 2482, April 2002, pages 160-170 (Acceptance ratio 16/47).  
+91. Yingjiu Li, Senchun Zhu, Lingyu Wang, Sushil Jajodia, “A privacy-enhanced microaggregation method, ” Proc. 
+2nd Symposium on Foundations of Information and Knowledge Systems (FoIKS 2002), Springer-Verlag Lecture 
+Notes in Computer Science, Vol. 2284, February 2002, pages 148-159 (Acceptance ratio 15/55). 
+Patents 
+92. Sushil Jajodia, Lingyu Wang, Anoop Singhal, “Interactive analysis of attack graphs using relational queries,” US 
+Patent 8,566,269, 2013-10-22. 
+
+-----
+Lingyu Wang 
+ 
+   Curriculum Vitae
+ 
+ 
+GRANT 
+ 
+Title: Defending Against Multi-Step Intrusions in Large-Scale Computer Networks 
+Source: The Natural Sciences and Engineering Research Council of Canada (NSERC) Discovery Grant 
+Amount: 107,500 
+Duration: 2008-2012 
+Principal Investigator 
+ 
+Title: Une Approche Quantitative pour la Modélisation et pour la Défense des Réseaux Contre les Intrusions 
+Source: Le Fonds québécois de la recherche sur la nature et les technologies (FQRNT) Grant 
+Amount: 40,000 
+Duration: 2009-2011 
+Principal Investigator 
+ 
+Title: Une Approche Quantitative pour la Modélisation et pour la Défense des Réseaux Contre les Intrusions 
+Source: Le Fonds québécois de la recherche sur la nature et les technologies (FQRNT) Equipment Grant 
+Amount: 40,644 
+Duration: 2009-2010 
+Principal Investigator 
+ 
+Title: Model-Based Framework for the Engineering of Secure Software and Systems 
+Source: The Natural Sciences and Engineering Research Council of Canada (NSERC) CRD and Ericsson Canada 
+Amount: 324,000 
+Duration: 2009-2011 
+Co-Investigator 
+ 
+Title: Model-Based Engineering for Secure Software and Systems 
+Source: PROMPT Quebec Grant 
+Amount: 104,000 
+Duration: 2009-2010 
+Co-Investigator 
+ 
+Title: Techniques for Botnet Analysis, Detection and Tracking 
+Source: Concordia University Seed Grant 
+Amount: 15,000 
+Duration: 2009-2010 
+Principal Investigator 
+ 
+Title: Security and Privacy of User-Generated Data for Personalized Cloud Computing Services 
+Source: The Natural Sciences and Engineering Research Council of Canada (NSERC) Strategic Grant 
+Amount: 482,100 
+Duration: 2010-2013 
+Co-Investigator 
+ 
+Title: A unified approach to modeling network assets and vulnerabilities for automated security analysis" 
+Source: The Natural Sciences and Engineering Research Council of Canada (NSERC) ENGAGE Grant 
+Amount: 25,000 
+Duration: 2011-2011 
+Principal Investigator 
+ 
+Title: Protection of intellectual property in collaborative and distributed new product development: Pilot study 
+Source: The Natural Sciences and Engineering Research Council of Canada (NSERC) ENGAGE Grant 
+Amount: 25,000 
+Duration: 2011-2011 
+Co-Investigator 
+ 
+Title: Towards a Unified Approach to Detecting, Analyzing, Mitigating, and Investigating Botnets 
+
+-----
+Lingyu Wang 
+ 
+   Curriculum Vitae
+ 
+Source: Le Fonds québécois de la recherche sur la nature et les technologies (FQRNT) Team Grant 
+Amount: 39,000 
+Duration: 2011-2013 
+Co-Investigator 
+ 
+Title: Intellectual Property Protection in Global Design and Supply Chain Management 
+Source: Concordia University Seed Grant 
+Amount: 12,750 
+Duration: 2012-2013 
+Co-Investigator 
+ 
+Title: A Vulnerability-Centric Approach to Network Security Metrics 
+Source: The Natural Sciences and Engineering Research Council of Canada (NSERC) Discovery Grant 
+Amount: 110,000 
+Duration: 2013-2017 
+Principal Investigator 
+ 
+Title: Software Fingerprinting for Automated Malicious Code Analysis 
+Source: Department of National Defence/The Natural Sciences and Engineering Research Council of Canada 
+(NSERC) Research Partnership - Project (DNDPJ) 
+Amount: 208,695 
+Duration: 2013-2015 
+Co-Investigator 
+ 
+Title: A Unified Approach to Modeling Network Assets and Vulnerabilities for Automated Security 
+Analysis 
+Source: The Natural Sciences and Engineering Research Council of Canada (NSERC) ENGAGE Plus Grant and 
+Above Security Inc. 
+Amount: 25,000 
+Duration: 2014-2014 
+Principal Investigator 
+ 
+ 
+GRADATE STUDENT SUPERVISION 
+ 
+Completed: 
+1. 
+Xuxin Xu, M.A.Sc (2005.9 – 2007.11), thesis title: “Preventing collusion attacks on the one-way function tree 
+(OFT) scheme” (co-directed with Amr Youssef). 
+2. 
+Yuan Hong, M.Comp.Sc. (2005.9 – 2008.2), thesis title: “Preserving privacy in Web-based eHealth systems” (co-
+directed with Rachida Dssouli). 
+3. 
+Shuo Lu, M.Comp.Sc. M.A.Sc (2005.9 – 2008.3), thesis title: “Architecture design and access control of eHealth 
+portals” (co-directed with Rachida Dssouli). 
+4. 
+Qian Liu, M.Comp.Sc. (2005.9 – 2008.3), thesis title: “Securing Telehealth applications in a Web-based eHealth 
+portal” (co-directed with Rachida Dssouli). 
+5. 
+Noman mohammed, M.A.Sc (2007.6 – 2008.5), thesis title: “Mechanism design-based leader election scheme for 
+intrusion detection in MANET” (co-directed with Mourad Debbabi). 
+6. 
+Wei Li, M.A.Sc (2007.6 – 2008.5), thesis title: “Distributed authorization in loosely coupled database 
+federation”. 
+7. 
+Tao Long, M.A.Sc (2006.9 – 2009.3), thesis title: “Attack graph compression”. 
+8. 
+Tania Islam, M.A.Sc. (2006.9 – 2009.4), thesis title: “A heuristic approach to network hardening using attack         
+graphs”. 
+9. 
+Wen Ming Liu, M.A.Sc. (2007.9 – 2008.12), thesis title: “On applications of simulated annealing to cryptology”. 
+10. Da Yong Zhang, M.A.Sc (2008.1 – 2009.12), thesis title: “Modeling and evaluating information leakage caused 
+by inferences in supply chains” (co-directed with Yong Zeng). 
+ 
+
+-----
+Lingyu Wang 
+ 
+   Curriculum Vitae
+ 
+11. Vitor Nunes de Lima, M.A.Sc. (2008.1 – 2009.12), thesis title: “Framework for automatic verification of UML 
+Design models: application to UML 2.0 interactions” (co-directed with Mourad Debbabi). 
+12. Marcel Frigault, M.A.Sc. (2007.6 – 2009.3), thesis title: “Measuring network security using Bayesian networks-
+based attack graphs”. 
+13. Yiming Wang, M.A.Sc. (2007.9 – 2009.4), thesis title: “Privacy preservation in location-based services with 
+continuous queries”. 
+14. Shuai Liu, M.A.Sc. (2007.9 – 2009.1), thesis title: “Localizing unauthorized updates in published micro-data 
+tables through secret order-based watermarking”. 
+15. Li Deng, M.A.Sc. (2008.1 – 2010.10), thesis title: “Preserving Privacy for Micro-Databases”. 
+16. Pengsu Cheng, M.A.Sc. (2009.9 – 2011.9), thesis title: “A multi-faceted approach to network security metric”. 
+17. Raha Ziarati, M.A.Sc. (2009.1 – 2012.10), thesis title: “Dynamic Matching and Weaving Semantics for 
+Executable UML Models” (co-directed with Mourad Debbabi). 
+18. Thomas Ormerod, M.A.Sc. (2009.9 – 2012.9), thesis title: “An Analysis of a Botnet Toolkit and a Framework for 
+a Defamation Attack” (co-directed with Mourad Debbabi).  
+19. Djedjiga Mouheb, Ph.D. (2008.1 – 2013.3), thesis title: “Model-Driven Aspect-Oriented Software Security 
+Hardening” (co-directed with Mourad Debbabi). 
+20. Raha Ziarati, M.A.Sc. (2009.9 – 2012.10), thesis title: “Dynamic Matching and Weaving Semantics for 
+Executable UML Models” (co-directed with Mourad Debbabi).  
+21. William Nzoukou Tankou, M.A.Sc. (2011.5 – 2013.6), thesis title: “A Unified Framework for Measuring a 
+Network’s Mean Time-to-Compromise”. 
+22. Mickael Emirkanian-Bouchard, M.A.Sc. (2011.5 – 2013.7), thesis title: “Towards Metric-Driven, Application-
+Specific Visualization of Attack Graphs”. 
+23. Taher Adel Mohamed, M.A.Sc. (2011.1 – 2014.2), thesis topic: Differentially private traffic padding (co-directed 
+with Mourad Debbabi).  
+24. Sahba Sadri, M.A.Sc. (2012.6 – 2014.1), thesis topic: Towards Migrating Security Policies along with Virtual 
+Machines in Cloud (Joint supervision with Dr. Mourad Debbabi).  
+25. Wen Ming Liu, Ph.D. (2009.1 – 2014.2), thesis topic: Side channel attacks and defence. 
+26. Wei Huo, M.A.Sc. (2011.9 – 2014.7), thesis topic: Diversity-based detection of injection attacks. 
+27. Nafisa Khundker, M.A.Sc. (2011.9 – 2014.7), thesis topic: IP protection in multi-level supplier networks.  
+In Progress: 
+28. Mengyuan Zhang, Ph.D. (2012.9 – now), thesis topic: Network security metrics. 
+29. Sahba Sadri, M.A.Sc. (2012.6-now), thesis topic: TBD (Joint supervision with Dr. Mourad Debbabi).  
+30. Saed Alrabaee, Ph.D. (2012.9 – now), thesis topic: TBD (Joint supervision with Dr. Mourad Debbabi).  
+31. Noman Saleem, Ph.D. (2012.9 – now), thesis topic: TBD (Joint supervision with Dr. Mourad Debbabi). 
+32. Daniel Borbor Cedeño, Ph.D. (2013.9 – now), thesis topic: TBD.  
+33. Paria Shirani, Ph.D. (2013.9 – now), thesis topic: TBD.  
+34. Saad Inshi, Ph.D. (2012.9 – now), thesis topic: TBD (Joint supervision with Dr. Yong Zeng).  
+35. Mina Khalili, M.A.Sc. (2013.9 – now), thesis topic: TBD. 
+36. Nawaf Alhebaishi, Ph.D. (2014.9 – now), thesis topic: TBD. 
+37. Alis Rasic, M.A.Sc. (2014.9 – now), thesis topic: TBD. 
+38. Yue Xin, M.A.Sc. (2014.9 – now), thesis topic: TBD. 
+ 
+TEACHING 
+Development of New Graduate Courses: 
+1. INSE 6620 (Cloud Computing Security and Privacy).  
+2. INSE 6160 (Database Security and Privacy). 
+Courses Taught: 
+1. INSE 6620 (Cloud Computing Security and Privacy) Summer 2014, 66 students.  
+2. INSE 6130 (Operating System Security) Winter 2014, 33 students. 
+3. INSE 6160 (Database Security and Privacy) Winter 2014, 45 students. 
+4. INSE 6130 (Operating System Security) Fall 2013, 63 students. 
+5. SOEN 321 (Information Systems Security) Fall 2013, 53 students. 
+6. INSE 6160 (Database Security and Privacy) Winter 2012, 51 students. 
+7. COMP 249 (Object-Oriented Programming II) Winter 2012, 25 students. 
+ 
+
+-----
+Lingyu Wang 
+ 
+   Curriculum Vitae
+ 
+8. INSE 6130 (Operating System Security) Fall 2011, Concordia University, 106 Students 
+9. INSE 6160 (Database Security and Privacy) Winter 2011, Concordia University, 51 Students 
+10. COMP 249 (Object-Oriented Programming II) Winter 2011, Concordia University, 57 Students 
+11. INSE 6130 (Operating System Security) Fall 2010, Concordia University, 96 Students  
+12. INSE 6160 (Database Security and Privacy) Winter 2010, Concordia University, 36 Students 
+13. INSE 6130 (Operating System Security) Fall 2009, Concordia University, 42 Students 
+14. INSE 691A (Database Security and Privacy) Winter 2009, Concordia University, 29 Students 
+15. INSE 6130 (Operating System Security) Fall 2008, Concordia University, 55 Students  
+16. INSE 6150 (Security Evaluation Methodologies) Winter 2008, Concordia University, 64 Students 
+17. INSE 691A (Database Security and Privacy) Winter 2008, Concordia University, 36 Students 
+18. INSE 6110 (Foundations of Cryptography) Fall 2007, Concordia University, 43 Students 
+19. INSE 6130 (Operating System Security) Fall 2007, Concordia University, 59 Students 
+20. INSE 691A (Database Security and Privacy) Winter 2007, Concordia University, 25 Students 
+21. COMP 249 (Programming Methodology) Winter 2007, Concordia University, 49 Students 
+22. INSE 6130 (Operating System Security) Fall 2006 , Concordia University, 40 Students 
+23. ISA 662 (Information System Security) Fall 2005 , George Mason University, 12 Students  
+ 
+ 
+PROFESSIONAL ACTIVITIES 
+ 
+1. Review panelist, The National Science Foundation (NSF), 2010-2011. 
+2. External Reviewer, The Natural Sciences and Engineering Research Council of Canada (NSERC), 2009-2014 
+3. PC Member, 1st Cyber-Physical System Security Workshop (CPSS'15), Singapore, April 14, 2015, in conjunction 
+with ACM AsiaCCS'15.  
+4. PC Member, 11st International Conference on Information Security Practice and Experience (ISPEC 2015), 
+Beijing, May 5-8, 2015.  
+5. PC Member, The 11th IEEE International Conference on Autonomic and Trusted Computing, (ATC-2014) 
+December 9-12, 2014, Ayodya Resort, Bali, Indonesia. 
+6. PC Member, The 1st Workshop on Secure Smart Systems (SSS'14), September 23, 2014, Beijing, China. PC 
+Member, The 13th IEEE International Conference on Trust, Security and Privacy in Computing and 
+Communications (TrustCom'14), September 24th-26th, 2014 in Beijing, China.  
+7. PC Member, The Third ASE International Conference on Cyber Security, Stanford, CA, USA, May 27-31, 2014.  
+8. PC Co-Chair, The 9th IEEE International Workshop on Security, Trust, and Privacy for Software Applications 
+(STPSA'14), Västerås, Sweden, July 21-25, 2014.    
+9. Secretary, IFIP WG 11.3 Working Group on Data and Application Security and Privacy 
+10. PC Member, The International Conference on Security and Cryptography (SECRYPT'14), Vienna, Austria, 28-30 
+August 2014.  
+11. PC Member, The 19th European Symposium on Research in Computer Security (ESORICS'14), Wroclaw, Poland, 
+September 7-11 2014.   
+12. PC Member, The Second International Workshop on Security in Cloud Computing, held in conjunction with the 
+9th ACM Symposium on Information, Computer and Communications Security (ASIACCS), June 3, 2014, Kyoto, 
+Japan.   
+13. PC Member, The 28th Annual IFIP WG 11.3 Working Conference on Data and Applications Security and Privacy 
+(DBSec'14), Vienna Technical University, Vienna, Austria, July 14-16, 2014.   
+14. PC Member, The 2014 IEEE/ASE International Conference on Cyber Security, Stanford, CA, USA, May 27-31, 
+2014.   
+15. PC Member, The 8th International Conference on Network and System Security (NSS'14),  Xi'an, China, October 
+15-17, 2014.   
+16. PC Member, The 2nd International Workshop on Security and Privacy Preserving in e-Societies, (SeceS'14), 
+Addis Ababa, Ethiopia, October 28th - 31th, 2014.  
+17. PC Member, The IEEE Global Communications Conference (GLOBECOM'14), December 8-12, 2014, Austin, 
+Texas, USA.  
+18. PC Member, The 10th IEEE International Conference on Autonomic and Trusted Computing (ATC'13), December 
+18-21, 2013, Sorrento Peninsula, Italy. 
+19. PC Member, The International Conference on Connected Vehicles & Expo (ICCVE'13), Las Vegas, 2-6 December 
+2013.  
+
+-----
+Lingyu Wang 
+ 
+   Curriculum Vitae
+ 
+20. PC Member, The International Workshop on Graphical Models for Security (GraMSec'14), 5-13 April 2014, 
+Grenoble, France.  
+21. PC Member, The 9th International Conference on Information Security Practice and Experience (ISPEC'14), 12-
+14 May 2014, Fuzhou, China.  
+22. PC Member, The 5th International Symposium on Cyberspace Safety and Security (CSS'13), Zhangjiajie, China, 
+November 13-15, 2013.  
+23. PC Member, The 5th IEEE International Conference on Cloud Computing Technology and Science 
+(CloudCom'13), Bristol, UK, Dec. 2-5, 2013. 
+24. PC Member, The 4th International Workshop on Security and Privacy in Cloud Computing (in conjunction with 
+IEEE CNS 2013) (CNS-SPCC'13), Washington DC, Oct 14-16, 2013.  
+25. PC Co-Chair, The 27th Annual IFIP WG 11.3 Working Conference on Data and Applications Security 
+(DBSec'13), Rutgers University, Newark, NJ, USA, 2013.  
+26. PC Co-Chair, The 8th IEEE International Workshop on Security, Trust, and Privacy for Software Applications 
+(STPSA'13), Kyoto, Japan, July 22-26, 2013.   
+27. Track Chair, The fourth International Conference on Computer Science and its Applications (CIIA’2013), Saida, 
+Algeria, May 4-6, 2013.  
+28. PC Member, The 13th Privacy Enhancing Technologies Symposium (PETS'13), Bloomington, Indiana, USA, July 
+10-12, 2013.  
+29. PC Member, The IEEE International Conference on Intelligence and Security Informatics (ISI'13), Seattle 
+Washington, USA, June 4-7, 2013. Submission Deadline: February 15, 2013. 
+30. PC Member, The IEEE Global Communications Conference (GLOBECOM'13), Atlanta, USA, December 9-13, 
+2013. Submission Deadline: March 15, 2013. 
+31. PC Chair, The 7th IEEE International Workshop on Security, Trust, and Privacy for Software Applications 
+(STPSA'12), Izmir, Turkey, July 16-20, 2012.  
+32. Guest Editor, Computers in Industry, Special Issue on Secure Collaboration in Design and Supply Chain 
+Management, 2012. 
+33. PC Member, International Workshop on Privacy-AwaRe Intelligent Systems (PARIS 2012), Macau, December 4-
+7, 2012.  
+34. PC Member, The 2012 ASE/IEEE International Conference on Cyber Security (ICCS'12), Washington D.C., USA, 
+December 14-16, 2012.  
+35. PC Member, The 15th Information Security Conference (ISC'12), Passau, Germany, Sept 19-21, 2012.  
+36. PC Member, The 4th International Conference on Cloud Computing Technology Science (CloudCom'12), Taipei, 
+Taiwan, December 3-6, 2012.  
+37. PC Member, The IEEE International Conference on Intelligence and Security Informatics (ISI'12), Washington 
+D.C., USA, June 11-14, 2012.  
+38. PC Member, The International Conference on Security and Cryptography (SECRYPT'12), Rome, Italy, July 24-27 
+2012.  
+39. PC Member, The 11th IEEE International Conference on Trust, Security and Privacy in Computing and 
+Communications (TrustCom-2012), Liverpool, England, UK, 25-27 June 2012.  
+40. PC Member, The 11th International Conference on Information Science, Signal Processing and their Applications 
+(ISSPA 2012), Security Track, Montreal, Canada, July 3-5.  
+41. PC Member, The 26th Annual IFIP WG 11.3 Working Conference on Data and Applications Security (DBSec'12), 
+Paris, France. July 11-13, 2012.  
+42. PC Member, The 6th International Conference on Network and System Security (NSS'12), November 21-23, 
+2012, Wu Yi Shan, China.  
+43. PC Member, The 7th International Conference on Grid and Pervasive Computing Conference (GPC 2012), Hong 
+Kong, 11-13 May 2012.  
+44. PC Member, Workshop on Privacy in the Electronic Society (WPES'11), October 17, 2011, Chicago, US. 
+45. PC Member, 9th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC'11), 
+December 12-14, 2011, Sydney, Australia. Submission Deadline: July 15, 2011. 
+46. PC Co-Chair, The 6th IEEE International Workshop on Security, Trust, and Privacy for Software Applications 
+(STPSA'11), Munich, Germany, July 18-22, 2011.  
+47. PC Co-Chair, Special Track of SDPS 2011 on Secure Collaboration in Global Design and Supply Chain 
+Management, Jeju Island, Korea, June 12-16, 2011.  
+48. PC Member, The 14th Information Security Conference (ISC'11), Xian, China on October 26-29, 2011.  
+
+-----
+Lingyu Wang 
+ 
+   Curriculum Vitae
+ 
+49. PC Member, The IEEE GLOBECOM 2011 Communications and Systems Security  (GLOBECOM'11), Houston, 
+Texas, USA, 5-9 December 2011.  
+50. PC Member, The International Conference on Security and Cryptography (SECRYPT'11), Seville, Spain, July 18-
+21, 2011.  
+51. PC Member, The 25th Annual IFIP WG 11.3 Working Conference on Data and Applications Security (DBSec'11), 
+Richmond, Virgina, USA, June 11-13, 2011.  
+52. PC Member, The 8th IEEE/FTRA International Conference on  Secure and Trust Computing, data management, 
+and Applications (STA'11), Crete, Greece, June 28-30, 2011.  
+53. PC Member, The 4th International Conference on New Technologies, Mobility and Security (NTMS'11), Paris, 
+France, February 7-10, 2011.  
+54. PC Member, IEEE Consumer Communications and Networking Conference (CCNC'11), Las Vegas, USA, 
+January 8-11, 2011.  
+55. PC Member, The 5th IEEE International Workshop on Security, Trust, and Privacy for Software Applications 
+(STPSA'10), Seoul, South Korea, July 19-23, 2010.  
+56. PC Member, First International Workshop on Data Management and Network Control in Wireless Networks 
+(DMNC'10), Beijing, China, August 8-15, 2010.  
+57. Local Arrangements Chair, The 23rd Annual IFIP WG 11.3 Working Conference on Data and Applications 
+Security (DBSec'09), Concordia University, Montreal, Canada, July 12-15, 2009  
+58. PC Member, IEEE Vehicular Technology Conference (VTC'10-Fall) Ad-Hoc and Sensor Network Track, Ottawa, 
+Canada, September 6-9, 2010.  
+59. PC Member, International Conference on Security and Cryptography (SECRYPT'10), Athens, Greece, July 26-28, 
+2010.  
+60. PC Member, The 24th Annual IFIP WG 11.3 Working Conference on Data and Applications Security (DBSec'10), 
+Rome, Italy, June 21-23, 2010.  
+61. PC Member, The IEEE International Conference on Intelligence and Security Informatics (ISI'10), Vancouver, 
+Canada, May 23-26, 2010.  
+62. PC Member, The IEEE GLOBECOM 2010 Communications and Systems Security  (GLOBECOM'10), Miami, 
+USA, December 6-10, 2010.  
+63. PC Member, The Second International Symposium on Data, Privacy, & E-Commerce (ISDPE'10), 
+Buffalo/Niagara Fall, USA, June 20-22, 2010.  
+64. PC Member, The Third International Conference on New Technologies, Mobility and Security (NTMS'09), Cairo, 
+Egypt, December 20-23, 2009. 
+65. PC Member, The 12th Information Security Conference (ISC'09), Pisa, Italy, September 7-9, 2009.  
+66. PC Member, The 7th IEEE/IFIP International Conference on Embedded and Ubiquitous Computing (EUC'09), 
+Vancouver, Canada, August 29-31, 2009. 
+67. PC Member, Graduate Student Symposium at the 7th Annual Conference on Privacy, Security and Trust (PST 
+2009) and the 9th World Congress on the Management of e-Business, New Brunswick, Canada, August 25-27, 
+2009. 
+68. PC Member, The 4th IEEE International Conference on Wireless and Mobile Computing, Networking and 
+Communications (WiMob'09), Marrakech, Morocco, October 12-14, 2009.  
+69. PC Member, International Conference on Security and Cryptography (SECRYPT'09), Milan, Italy, July 7-10, 
+2009.  
+70. PC Member, The 4th IEEE International Workshop on Security, Trust, and Privacy for Software Applications 
+(STPSA'09),  Seattle, USA, July 20 - July 24, 2009.  
+71. PC Member, The First International Conference on Network and Service Security (N2S'09), Paris, France, June 
+24-26, 2009. 
+72. PC Member, The IEEE International Conference on Communications (Wireless Networking Symposium) 
+(ICC'09), Dresden, Germany, 14-18 June, 2009  
+73. PC Member, The 2008 International Workshop on Secure Vehicular Ad-Hoc Networks (SVANET'08), Sydney, 
+Australia, December 10-12, 2008 
+74. PC Member, The second International Conference on New Technologies, Mobility and Security (NTMS'08), 
+Tangier, Morocco, November 5-7, 2008 
+75. PC Member, The Sixth Annual Conference on Privacy, Security and Trust (PST'08) Graduate Student 
+Symposium, Fredericton, New Brunswick, Canada, October 1-3, 2008 
+76. PC Member, The 4th IEEE International Conference on Wireless and Mobile Computing, Networking and 
+Communications (WiMob'08), Avignon, France, October 12-14, 2008 
+
+-----
+Lingyu Wang 
+ 
+   Curriculum Vitae
+ 
+77. PC Member, The 13th European Symposium on Research in Computer Security (ESORICS'08), Malaga, Spain, 
+October 6-10, 2008   
+78. PC Member, The 3rd IEEE International Workshop on Security, Trust, and Privacy for Software Applications 
+(STPSA'08),  Turku, Finland, July 28 - August 1, 2008  
+79. PC Member, The 23rd International Information Security Conference (SEC'08), Milan, Italy, September 8-10, 
+2008   
+80. PC Member, The 2nd IEEE International Workshop on Security, Trust, and Privacy for Software Applications 
+(STPSA'07), April, 2007 
+81. PC Member, The 3rd International Workshop on Information Assurance (WIA'07), April, 2007 
+82. PC Member, Workshop on Security and Trust in Decentralized/Distributed Data Structures (STD3S '06), April, 
+2006 
+83. PC Member, The Eighth International Conference on Electronic Commerce (ICEC'06) 
+ 
+Conference Paper Referee 
+− 
+ISWCS 2010, WCNC 2009, ESSoS 2009, AMCIS 2008, ARES 2008, VTC 2008, INNOVATIONS 2007, STPSA 
+2007, DSN 2007, WIA 2007, SDM 2006, ACSAC 2006, ESORICS 2006, VLDB 2006, ICEC 2006, IS 2006, 
+IWAP 2006, GLOBECOM 2006, ESORICS 2005, ICDE 2005, ESORICS 2004, ACM CCS 2003, MMM-ACNS 
+2005, EuroPKI 2004, WCC2004-SEC, WISE 2004, CAiSE 2003, INDOCRYPT 2002 
+ 
+Journal Paper Reviewer 
+− 
+ACM Transactions on Information and System Security (ACM TISSEC), Journal of Computer Security (JCS), 
+Journal of Computer and System Science (JCSS), IEEE Transactions on Services Computing (TSC), IEEE 
+Transactions on Knowledge and Data Engineering (TKDE), International Journal of Cooperative Information 
+Systems (IJCIS), Journal of Database Management (JDM), Journal of Systems and Software (JSS), Journal of 
+Autonomous Agents and Multi-Agent Systems (JAAMAS), The Computer Journal (COMPJ), Wireless Personal 
+Communications (WPC), Computer Communications (COMCOM), Data & Knowledge Engineering (DKE), IET 
+Information Security (IET-IFS), Wiley Security and Communication Networks (SCN), IEEE Security & Privacy, 
+Wireless Personal Communications (WPC), International Journal of Computers and Applications, 
+Telecommunication Systems Journal (TSJ), Computers & Security, IEEE Systems Journal, VLDB Journal. 
+ 
+HONORS AND AWARDS 
+ 
+1. Best Paper Award, 10th International Conference on Security and Cryptpgraphy (SECRYPT 2013). 
+2. Best paper Award,  8th Annual Conference on Privacy, Security and Trust (PST 2010). 
+3. Early Promotion to Associate Professor, Concordia University, 2010 
+4. Outstanding Graduate Award, School of Information Technology and Engineering, George Mason University, 
+2005 
+5. High-Potential Graduate Research Assistant Fellowship, George Mason University, 2000-2003 
+6. Outstanding Graduate Award, Shanghai Jiao Tong University, 1996 
+7. Liuyuan-Shengyudu Scholarship, Shanghai Jiao Tong University, 1993 
+8. Outstanding Graduate Award, Shenyang Institute of Aeronautical Engineering, 1993 
+9. Scholarships, Shenyang Institute of Aeronautical Engineering, 1989-1993 
+ 
+
+-----

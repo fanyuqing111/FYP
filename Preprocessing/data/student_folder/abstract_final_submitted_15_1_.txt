@@ -1,0 +1,98 @@
+Operation and Control of DC Microgrids 
+ 
+Abstract 
+The utilization of DC microgrids in power industry has increased rapidly with the 
+expansion in use of renewable energy sources (RES), energy storages (ESs) and DC 
+inherent loads. DC microgrid (MG) reduces the power conversion stages, does not 
+require frequency, phase and reactive power control in its operation making it 
+advantageous over AC microgrids. However, the cost-effective solution to renewable 
+intermittency, system topology and standards for reliable, stable and efficient power 
+supply still needs examinations through research. Control strategies, for economic 
+solution to mitigate renewable intermittency in the system with inclusion of hybrid 
+energy storage system (HESS), interconnection of microgrids with tie-line for reliable 
+power supply and bipolar-type DC microgrids for high quality and high efficiency power 
+supply, is proposed, implemented and elaborated in this report. 
+ 
+ESs are an option to solve renewable intermittency that can increase the utilization of 
+RES into grid, changing the undispatchable generation to dispatchable. ESs can generate 
+profit upon charging them when local electricity price lowers and can be discharged 
+when the price is high. Choice of energy storage ranging from short term to long term is 
+a key factor to address the compensation of load peaks, transients and to provide 
+autonomy to the microgrids.  Unfortunately, they cannot be achieved by a single energy 
+storage, thus the need of hybridization of ESs which have high specific energy and 
+specific power is the solution for proper compensation of power fluctuation in 
+autonomous microgrids. Generally, HESS with centralized control is utilized to 
+decompose system net power and has the limitation of slow response. Conventional 
+droop control achieve static power regulation however lacks to address frequency based 
+autonomous power management. Frequency coordinating virtual impedance concept has 
+been explored for the co-ordination control of an HESS in DC microgrids. Also, power 
+decoupling methods to better attenuate the ripple power by filtration have been 
+investigated. 
+ 
+Lead-acid battery and supercapacitor are used to form HESS and are connected to a 
+common DC bus through bi-directional DC-DC converters. Battery converter can absorb 
+low frequency power variations while the high frequency power variations can be 
+absorbed by supercapacitor converter. Battery supplies the long-term power demand and 
+supercapacitor responds to the short-term power fluctuations during transient process in 
+this proposed method. For the reduction of ripple power in battery, insertion of high 
+
+-----
+order low/high pass filters for battery and supercapacitor converters instead of lower 
+order low/high pass filters have been discussed. The effectiveness of the proposed 
+concept is shown through simulation and experimental results. 
+ 
+The interconnection of DC microgrids for providing reliable power supply is particularly 
+important in rural areas where utility grid is not available. Although, various researches 
+are conducted in single entity, the interconnection of DC MG cluster is still novice in 
+research. The interconnection of identical DC buses through tie-line and formation of 
+MG clusters improves reliability of the system. To achieve power flow control through 
+the tie- line, decentralized control approach has been proposed where the bus voltage of 
+each MG in the MG cluster is controlled to ensure the regulation of bus voltage 
+deviations. The use of decentralized control approach mitigates the issue of 
+communication stress when the MG control areas are geographically distantly located. 
+The decentralized control is accompanied by mode change based operation so that the 
+distributed units like solar photovoltaic (PV) and energy storage system (ESS) in 
+microgrids can adaptively adjust their operation modes depending upon the designated 
+voltage level. By doing so, the bus voltage regulation (BVR) and power flow control is 
+adjusted making each MG in the MG cluster autonomous. The power is 
+generated/injected from/into MG when there is power surplus/deficit caused by supply-
+demand mismatch in particular MG. Tie-line power flow takes place in a MG, from 
+another MG, due to the bus voltage decrement beyond the designated level caused by 
+the increment in local consumption which could not be satisfied by the local generation 
+and storages. The effectiveness of proposed decentralized control has been verified 
+experimentally in the cluster of two microgrids. 
+ 
+Recently, bipolar-type DC microgrids have gained tremendous attention of researchers 
+due to its advantages over conventional DC microgrids in terms of elevated level of 
+quality, reliability and efficient power supply. Due to different loading in upper and 
+lower terminals, voltage fluctuation from nominal value at respective terminals takes 
+place and makes the system unbalanced. So, the control of parallel converters which 
+interface distributed energy resources (DERs) and the topology of the converter along 
+with voltage balancer play vital role in formation of efficient bipolar-type DC MG.  
+ 
+Although many control schemes have been proposed for bipolar-type DC microgrids, 
+they mainly focus on coupled microgrids with central voltage balancer. This report 
+proposes an improved droop controlled bipolar-type DC MG where the voltage 
+balancing control is decentralized. The use of decentralized voltage balancing circuit 
+
+-----
+supersede centralized voltage balancer failure of which deteriorates the system 
+functionality. This is realized by utilizing a converter topology to boost the input voltage 
+and three wire system is adopted by means of voltage balancing circuit. Two battery ESs 
+are integrated to form such system. One of the problem associated with such 
+decentralized voltage balancing is the control conflict between two balancing circuit 
+provided for each battery to achieve same function. Droop control is implemented to 
+mitigate such control conflict due to two bus voltage controllers in a system and to 
+validate the decentralized control of bipolar-type DC MG for both load sharing and 
+voltage balancing. 
+ 
+The proposed control strategies for operation of DC MG incorporating rooftop PV and 
+HESS, interconnection of two DC MG consisting of PV and ESs and bipolar-type DC 
+MG consisting of two ESs have been verified with Piecewise linear electrical circuit 
+simulation (PLECS) software. Experimental cases have been carried out to validate the 
+simulation studies with laboratory scale DC microgrid(s) prototype(s) developed at 
+Water and Energy Research Laboratory (WERL), School of Electrical and Electronic 
+Engineering, Nanyang Technological University.  
+ 
+
+-----

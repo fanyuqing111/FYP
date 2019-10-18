@@ -1,0 +1,650 @@
+4/3/2017
+Krishnendu Chakrabarty ­ Google Scholar Citations
+https://scholar.google.com/citations?user=R_VPUyEAAAAJ
+1/9
+Krishnendu Chakrabarty
+William H. Younger Distinguished Professor,
+Electrical and Computer Engineering, Duke
+University
+Electronic design automation, Testing, Design­
+for­Testability, Microfluidics, Sensor Networks
+Google Scholar
+Citation indices
+All
+Since 2012
+Citations
+22289
+9659
+h­index
+70
+47
+i10­index
+343
+230
+Title
+1–100
+Cited by
+Year
+Sensor deployment and target localization based on virtual forces
+Y Zou, K Chakrabarty
+INFOCOM 2003. Twenty­Second Annual Joint Conference of the IEEE Computer and ...
+1067
+2003
+Grid coverage for surveillance and target location in distributed sensor networks
+K Chakrabarty, SS Iyengar, H Qi, E Cho
+IEEE transactions on computers 51 (12), 1448­1453
+971
+2002
+Sensor placement for effective coverage and surveillance in distributed sensor
+networks
+SS Dhillon, K Chakrabarty
+Wireless Communications and Networking, 2003. WCNC 2003. 2003 IEEE 3, 1609­1614
+628
+2003
+Sensor deployment and target localization in distributed sensor networks
+Y Zou, K Chakrabarty
+ACM Transactions on Embedded Computing Systems (TECS) 3 (1), 61­91
+506
+2004
+System­on­a­chip test­data compression and decompression architectures
+based on Golomb codes
+A Chandra, K Chakrabarty
+IEEE Transactions on Computer­Aided Design of Integrated Circuits and ...
+428
+2001
+Test wrapper and test access mechanism co­optimization for system­on­chip
+V Iyengar, K Chakrabarty, EJ Marinissen
+Test Conference, 2001. Proceedings. International, 1023­1032
+412
+2001
+Sensor placement for grid coverage under imprecise detections
+SS Dhillon, K Chakrabarty, SS Iyengar
+Information Fusion, 2002. Proceedings of the Fifth International Conference ...
+385
+2002
+On a new class of codes for identifying vertices in graphs
+MG Karpovsky, K Chakrabarty, LB Levitin
+IEEE Transactions on Information Theory 44 (2), 599­611
+344
+1998
+On computing mobile agent routes for data fusion in distributed sensor networks
+Q Wu, NSV Rao, J Barhen, SS Iyenger, VK Vaishnavi, H Qi, ...
+IEEE Transactions on knowledge and data engineering 16 (6), 740­753
+334
+2004
+Multiresolution data integration using mobile agents in distributed sensor
+networks
+H Qi, S Iyengar, K Chakrabarty
+IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and ...
+325
+2001
+Frequency­directed run­length (FDR) codes with application to system­on­a­chip
+test data compression
+A Chandra, K Chakrabarty
+VLSI Test Symposium, 19th IEEE Proceedings on. VTS 2001, 42­47
+321
+2001
+
+-----
+4/3/2017
+Krishnendu Chakrabarty ­ Google Scholar Citations
+https://scholar.google.com/citations?user=R_VPUyEAAAAJ
+2/9
+Title
+1–100
+Cited by
+Year
+A set of benchmarks for modular testing of SOCs
+EJ Marinissen, V Iyengar, K Chakrabarty
+Test Conference, 2002. Proceedings. International, 519­528
+319
+2002
+Test challenges for 3D integrated circuits
+HHS Lee, K Chakrabarty
+IEEE Design & Test of Computers 26 (5)
+293
+2009
+Test data compression and test resource partitioning for system­on­a­chip using
+frequency­directed run­length (FDR) codes
+A Chandra, K Chakrabarty
+IEEE Transactions on Computers 52 (8), 1076­1088
+284
+2003
+A distributed coverage­and connectivity­centric technique for selecting active
+nodes in wireless sensor networks
+Y Zou, K Chakrabarty
+IEEE Transactions on Computers 54 (8), 978­991
+275
+2005
+Test scheduling for core­based systems using mixed­integer linear programming
+K Chakrabarty
+IEEE Transactions on computer­aided design of integrated circuits and ...
+218
+2000
+Distributed sensor networks—a review of recent research
+H Qi, SS Iyengar, K Chakrabarty
+Journal of the Franklin Institute 338 (6), 655­668
+204
+2001
+On using rectangle packing for SOC wrapper/TAM co­optimization
+V Iyengar, K Chakrabarty, EJ Marinissen
+VLSI Test Symposium, 2002.(VTS 2002). Proceedings 20th IEEE, 253­258
+186
+2002
+Microfluidics­based biochips: technology issues, implementation platforms, and
+design­automation challenges
+F Su, K Chakrabarty, RB Fair
+IEEE Transactions on computer­aided design of integrated circuits and ...
+184
+2006
+Digital microfluidic biochips: synthesis, testing, and reconfiguration techniques
+K Chakrabarty, F Su
+CRC Press
+175
+2006
+A unified approach to reduce SOC test data volume, scan power and testing
+time
+A Chandra, K Chakrabarty
+IEEE transactions on computer­aided design of integrated circuits and ...
+169
+2003
+Test data compression for system­on­a­chip using Golomb codes
+A Chandra, K Chakrabarty
+VLSI Test Symposium, 2000. Proceedings. 18th IEEE, 113­120
+166
+2000
+Droplet routing in the synthesis of digital microfluidic biochips
+F Su, W Hwang, K Chakrabarty
+Design, Automation and Test in Europe, 2006. DATE'06. Proceedings 1, 1­6
+162
+2006
+Computing reliability and message delay for cooperative wireless distributed
+sensor networks subject to random failures
+HMF AboElFotoh, SS Iyengar, K Chakrabarty
+IEEE Transactions on Reliability 54 (1), 145­155
+162
+2005
+
+-----
+4/3/2017
+Krishnendu Chakrabarty ­ Google Scholar Citations
+https://scholar.google.com/citations?user=R_VPUyEAAAAJ
+3/9
+Title
+1–100
+Cited by
+Year
+Uncertainty­aware and coverage­oriented deployment for sensor networks
+Y Zou, K Chakrabarty
+Journal of Parallel and Distributed Computing 64 (7), 788­798
+158
+2004
+On IEEE P1500’s standard for embedded core test
+EJ Marinissen, R Kapur, M Lousberg, T McLaurin, M Ricchetti, Y Zorian, ...
+SOC (System­on­a­Chip) Testing for Plug and Play Test Automation, 1­19
+157
+2002
+Reduction of SOC test data volume, scan power and testing time using
+alternating run­length codes
+A Chandra, K Chakrabarty
+Proceedings of the 39th annual Design Automation Conference, 673­678
+156
+2002
+Nine­coded compression technique for testing embedded cores in SoCs
+M Tehranipoor, M Nourani, K Chakrabarty
+IEEE transactions on very large scale integration (VLSI) systems 13 (6), 719­731
+153
+2005
+Architectural­level synthesis of digital microfluidics­based biochips
+F Su, K Chakrabarty
+Proceedings of the 2004 IEEE/ACM International conference on Computer­aided ...
+153
+2004
+Energy­aware adaptive checkpointing in embedded real­time systems
+Y Zhang, K Chakrabarty
+Proceedings of the conference on Design, Automation and Test in Europe ...
+153
+2003
+Precedence­based, preemptive, and power­constrained test scheduling for
+system­on­a­chip
+V Iyengar, K Chakrabarty
+VLSI Test Symposium, 19th IEEE Proceedings on. VTS 2001, 368­374
+138
+2001
+Test data compression using dictionaries with fixed­length indices [SOC testing]
+L Li, K Chakrabarty
+VLSI Test Symposium, 2003. Proceedings. 21st, 219­224
+135
+2003
+Test access mechanism optimization, test scheduling, and tester data volume
+reduction for system­on­chip
+K Chakrabarty, EJ Marinissen
+IEEE Transactions on Computers 52 (12), 1619­1632
+134
+2003
+Optimal test access architectures for system­on­a­chip
+K Chakrabarty
+ACM Transactions on Design Automation of Electronic Systems (TODAES) 6 (1 ...
+134
+2001
+Location­aided flooding: an energy­efficient data dissemination protocol for
+wireless­sensor networks
+H Sabbineni, K Chakrabarty
+IEEE transactions on computers 54 (1), 36­46
+129
+2005
+Design of system­on­a­chip test access architectures using integer linear
+programming
+K Chakrabarty
+VLSI Test Symposium, 2000. Proceedings. 18th IEEE, 127­134
+127
+2000
+Distributed mobility management for target tracking in mobile sensor networks
+Y Zou, K Chakrabarty
+IEEE Transactions on Mobile Computing 6 (8)
+126
+2007
+
+-----
+4/3/2017
+Krishnendu Chakrabarty ­ Google Scholar Citations
+https://scholar.google.com/citations?user=R_VPUyEAAAAJ
+4/9
+Title
+1–100
+Cited by
+Year
+Testing of Droplet­Based Microelectrofluidic Systems.
+F Su, S Ozev, K Chakrabarty
+ITC 46, 1192­1200
+124
+2003
+Unified high­level synthesis and module placement for defect­tolerant
+microfluidic biochips
+F Su, K Chakrabarty
+Proceedings of the 42nd annual Design Automation Conference, 825­830
+120
+2005
+Coding theory framework for target location in distributed sensor networks
+K Chakrabarty, SS Iyengar, H Qi, E Cho
+Information Technology: Coding and Computing, 2001. Proceedings ...
+114
+2001
+Test data compression using dictionaries with selective entries and fixed­length
+indices
+L Li, K Chakrabarty, NA Touba
+ACM Transactions on Design Automation of Electronic Systems (TODAES) 8 (4 ...
+112
+2003
+Low­power scan testing and test data compression for system­on­a­chip
+A Chandra, K Chakrabarty
+IEEE Transactions on Computer­Aided Design of Integrated Circuits and ...
+111
+2002
+Design of system­on­a­chip test access architectures under place­and­route and
+power constraints
+K Chakrabarty
+Proceedings of the 37th Annual Design Automation Conference, 432­437
+110
+2000
+Test­access mechanism optimization for core­based three­dimensional SOCs
+X Wu, Y Chen, K Chakrabarty, Y Xie
+Microelectronics Journal 41 (10), 601­615
+109
+2010
+Multisensor data fusion in distributed sensor networks using mobile agents
+H Qi, X Wang, SS Iyengar, K Chakrabarty
+Proceedings of 5th International Conference on Information Fusion, 11­16
+102
+2001
+Broadcast electrode­addressing for pin­constrained multi­functional digital
+microfluidic biochips
+T Xu, K Chakrabarty
+Design Automation Conference, 2008. DAC 2008. 45th ACM/IEEE, 173­178
+101
+2008
+Cooling of integrated circuits using droplet­based microfluidics
+VK Pamula, K Chakrabarty
+Proceedings of the 13th ACM Great Lakes symposium on VLSI, 84­87
+100
+2003
+High­level synthesis of digital microfluidic biochips
+F Su, K Chakrabarty
+ACM Journal on Emerging Technologies in Computing Systems (JETC) 3 (4), 1
+97
+2008
+Efficient wrapper/TAM co­optimization for large SOCs
+V Iyengar, K Chakrabarty, E Marinissen
+Proceedings of the conference on Design, automation and test in Europe, 491
+94
+2002
+Combining low­power scan testing and test data compression for system­on­a­
+chip
+A Chandra, K Chakrabarty
+Proceedings of the 38th annual Design Automation Conference, 166­169
+94
+2001
+
+-----
+4/3/2017
+Krishnendu Chakrabarty ­ Google Scholar Citations
+https://scholar.google.com/citations?user=R_VPUyEAAAAJ
+5/9
+Title
+1–100
+Cited by
+Year
+Energy­aware target localization in wireless sensor networks
+Y Zou, K Chakrabarty
+Pervasive Computing and Communications, 2003.(PerCom 2003). Proceedings of ...
+93
+2003
+An integrated framework for the design and optimization of SOC test solutions
+E Larsson, Z Peng, K Chakrabarty
+SOC (System­on­a­Chip) Testing for Plug and Play Test Automation, 21­36
+90
+2002
+Behavioral modeling and performance evaluation of microelectrofluidics­based
+PCR systems using SystemC
+T Zhang, K Chakrabarty, RB Fair
+IEEE Transactions on Computer­Aided Design of Integrated Circuits and ...
+88
+2004
+System­on­a­chip test scheduling with precedence relationships, preemption,
+and power constraints
+V Iyengar, K Chakrabarty
+IEEE Transactions on Computer­Aided Design of Integrated Circuits and ...
+88
+2002
+P2DAP—Sybil attacks detection in vehicular ad hoc networks
+T Zhou, RR Choudhury, P Ning, K Chakrabarty
+IEEE Journal on Selected Areas in Communications 29 (3), 582­594
+87
+2011
+Layout­driven test­architecture design and optimization for 3D SoCs under pre­
+bond test­pin­count constraint
+L Jiangs, Q Xu, K Chakrabarty, TM Mak
+Computer­Aided Design­Digest of Technical Papers, 2009. ICCAD 2009. IEEE/ACM ...
+84
+2009
+Module placement for fault­tolerant microfluidics­based biochips
+F Su, K Chakrabarty
+ACM Transactions on Design Automation of Electronic Systems (TODAES) 11 (3 ...
+83
+2004
+Target localization based on energy considerations in distributed sensor
+networks
+Y Zou, K Chakrabarty
+Ad Hoc Networks 1 (2), 261­272
+83
+2003
+Energy­conscious, deterministic I/O device scheduling in hard real­time systems
+V Swaminathan, K Chakrabarty
+IEEE Transactions on Computer­Aided Design of Integrated Circuits and ...
+83
+2003
+A unified approach for fault tolerance and dynamic power management in fixed­
+priority real­time embedded systems
+Y Zhang, K Chakrabarty
+IEEE Transactions on Computer­Aided Design of Integrated Circuits and ...
+81
+2006
+Co­optimization of test wrapper and test access architecture for embedded cores
+V Iyengar, K Chakrabarty, EJ Marinissen
+Journal of Electronic Testing: Theory and Applications 18 (2), 213­230
+81
+2002
+Built­in self testing of sequential circuits using precomputed test sets
+V Iyengar, K Chakrabarty, BT Murray
+VLSI Test Symposium, 1998. Proceedings. 16th IEEE, 418­423
+79
+1998
+Test­pattern grading and pattern selection for small­delay defects
+M Yilmaz, K Chakrabarty, M Tehranipoor
+VLSI Test Symposium, 2008. VTS 2008. 26th IEEE, 233­239
+77
+2008
+
+-----
+4/3/2017
+Krishnendu Chakrabarty ­ Google Scholar Citations
+https://scholar.google.com/citations?user=R_VPUyEAAAAJ
+6/9
+Title
+1–100
+Cited by
+Year
+TSV open defects in 3D integrated circuits: Characterization, test, and optimal
+spare allocation
+F Ye, K Chakrabarty
+Proceedings of the 49th Annual Design Automation Conference, 1024­1030
+76
+2012
+Scheduling of microfluidic operations for reconfigurable two­dimensional
+electrowetting arrays
+J Ding, K Chakrabarty, RB Fair
+IEEE Transactions on Computer­Aided Design of Integrated Circuits and ...
+76
+2001
+Pre­bond probing of TSVs in 3D stacked ICs
+B Noia, K Chakrabarty
+Test Conference (ITC), 2011 IEEE International, 1­10
+75
+2011
+Droplet­trace­based array partitioning and a pin assignment algorithm for the
+automated design of digital microfluidic biochips
+T Xu, K Chakrabarty
+Proceedings of the 4th international conference on Hardware/software ...
+75
+2006
+Cross­contamination avoidance for droplet routing in digital microfluidic biochips
+Y Zhao, K Chakrabarty
+IEEE Transactions on Computer­Aided Design of Integrated Circuits and ...
+74
+2012
+Privacy­preserving detection of sybil attacks in vehicular ad hoc networks
+T Zhou, RR Choudhury, P Ning, K Chakrabarty
+Mobile and Ubiquitous Systems: Networking & Services, 2007. MobiQuitous 2007 ...
+74
+2007
+Test data compression for IP embedded cores using selective encoding of scan
+slices
+Z Wang, K Chakrabarty
+Test Conference, 2005. Proceedings. ITC 2005. IEEE International, 10 pp.­590
+73
+2005
+Test data compression and decompression based on internal scan chains and
+Golomb coding
+A Chandra, K Chakrabarty
+IEEE Transactions on computer­aided design of integrated circuits and ...
+70
+2002
+Wrapper/TAM co­optimization, constraint­driven test scheduling, and tester data
+volume reduction for SOCs
+V Iyengar, K Chakrabarty, EJ Marinissen
+Design Automation Conference, 2002. Proceedings. 39th, 685­690
+70
+2002
+Real­time task scheduling for energy­aware embedded systems
+V Swaminathan, K Chakrabarty
+Journal of the Franklin Institute 338 (6), 729­750
+70
+2001
+Pruning­based, energy­optimal, deterministic I/O device scheduling for hard real­
+time systems
+V Swaminathan, K Chakrabarty
+ACM Transactions on Embedded Computing Systems (TECS) 4 (1), 141­167
+68
+2005
+Test set embedding for deterministic BIST using a reconfigurable interconnection
+network
+L Li, K Chakrabarty
+IEEE Transactions on Computer­Aided Design of Integrated Circuits and ...
+67
+2004
+
+-----
+4/3/2017
+Krishnendu Chakrabarty ­ Google Scholar Citations
+https://scholar.google.com/citations?user=R_VPUyEAAAAJ
+7/9
+Title
+1–100
+Cited by
+Year
+Ensuring the operational health of droplet­based microelectrofluidic biosensor
+systems
+F Su, S Ozev, K Chakrabarty
+IEEE Sensors Journal 5 (4), 763­773
+66
+2005
+Dynamic adaptation for fault tolerance and power management in embedded
+real­time systems
+Y Zhang, K Chakrabarty
+ACM Transactions on Embedded Computing Systems (TECS) 3 (2), 336­360
+66
+2004
+Test­architecture optimization for TSV­based 3D stacked ICs
+B Noia, SK Goel, K Chakrabarty, EJ Marinissen, J Verbree
+Test Symposium (ETS), 2010 15th IEEE European, 24­29
+64
+2010
+Test planning and test resource optimization for droplet­based microfluidic
+systems
+F Su, S Ozev, K Chakrabarty
+Journal of Electronic Testing 22 (2), 199­210
+64
+2006
+Test­architecture optimization and test scheduling for TSV­based 3­D stacked
+ICs
+B Noia, K Chakrabarty, SK Goel, EJ Marinissen, J Verbree
+IEEE Transactions on Computer­Aided Design of Integrated Circuits and ...
+63
+2011
+Cost­effective integration of three­dimensional (3D) ICs emphasizing testing cost
+analysis
+Y Chen, D Niu, Y Xie, K Chakrabarty
+Proceedings of the International Conference on Computer­Aided Design, 471­476
+61
+2010
+Parallel scan­like test and multiple­defect diagnosis for digital microfluidic
+biochips
+T Xu, K Chakrabarty
+IEEE Transactions on Biomedical Circuits and Systems 1 (2), 148­158
+61
+2007
+Deterministic built­in pattern generation for sequential circuits
+V Iyengar, K Chakrabarty, BT Murray
+Journal of Electronic Testing 15 (1­2), 97­114
+61
+1999
+Built­in test pattern generation for high­performance circuits using twisted­ring
+counters
+K Chakrabarty, BT Murray, V Iyengar
+VLSI Test Symposium, 1999. Proceedings. 17th IEEE, 22­27
+61
+1999
+Optimization of dilution and mixing of biochemical samples using digital
+microfluidic biochips
+S Roy, BB Bhattacharya, K Chakrabarty
+IEEE Transactions on Computer­Aided Design of Integrated Circuits and ...
+60
+2010
+Design automation for microfluidics­based biochips
+K Chakrabarty, J Zeng
+ACM Journal on Emerging Technologies in Computing Systems (JETC) 1 (3), 186­223
+60
+2005
+Test response compaction using multiplexed parity trees
+K Chakrabarty, JP Hayes
+IEEE Transactions on Computer­Aided Design of Integrated Circuits and ...
+60
+1996
+
+-----
+4/3/2017
+Krishnendu Chakrabarty ­ Google Scholar Citations
+https://scholar.google.com/citations?user=R_VPUyEAAAAJ
+8/9
+Title
+1–100
+Cited by
+Year
+Thermal­safe test scheduling for core­based system­on­chip integrated circuits
+P Rosinger, BM Al­Hashimi, K Chakrabarty
+IEEE Transactions on Computer­Aided Design of Integrated Circuits and ...
+59
+2006
+Concurrent testing of droplet­based microfluidic systems for multiplexed
+biomedical assays
+F Su, S Ozev, K Chakrabarty
+Test Conference, 2004. Proceedings. ITC 2004. International, 883­892
+59
+2004
+Optimal zero­aliasing space compaction of test responses
+K Chakrabarty, BT Murray, JP Hayes
+IEEE Transactions on Computers 47 (11), 1171­1187
+59
+1998
+Optimization methods for post­bond die­internal/external testing in 3D stacked
+ICs
+B Noia, K Chakrabarty, EJ Marinissen
+Test Conference (ITC), 2010 IEEE International, 1­9
+58
+2010
+Automated design of pin­constrained digital microfluidic biochips under droplet­
+interference constraints
+T Xu, WL Hwang, F Su, K Chakrabarty
+ACM Journal on Emerging Technologies in Computing Systems (JETC) 3 (3), 14
+58
+2007
+Integrated droplet routing in the synthesis of microfluidic biochips
+T Xu, K Chakrabarty
+Proceedings of the 44th annual Design Automation Conference, 948­953
+57
+2007
+Testing and diagnosis of realistic defects in digital microfluidic biochips
+F Su, W Hwang, A Mukherjee, K Chakrabarty
+Emerging Nanotechnologies, 287­312
+56
+2008
+Functional testing of digital microfluidic biochips
+T Xu, K Chakrabarty
+Test Conference, 2007. ITC 2007. IEEE International, 1­10
+55
+2007
+Nine­coded compression technique with application to reduced pin­count testing
+and flexible on­chip decompression
+M Tehranipour, M Nourani, K Chakrabarty
+Proceedings of the conference on Design, automation and test in Europe ...
+55
+2004
+Microelectrofluidic Systems: Modeling and Simulation
+T Zhang, K Chakrabarty, RB Fair
+CRC Press
+55
+2002
+Uncertainty­aware sensor deployment algorithms for surveillance applications
+Y Zou, K Chakrabarty
+Global Telecommunications Conference, 2003. GLOBECOM'03. IEEE 5, 2972­2976
+54
+2003
+Fault recovery based on checkpointing for hard real­time embedded systems
+Y Zhang, K Chakrabarty
+Defect and Fault Tolerance in VLSI Systems, 2003. Proceedings. 18th IEEE ...
+54
+2003
+Efficient test access mechanism optimization for system­on­chip
+V Iyengar, K Chakrabarty, EJ Marinissen
+IEEE Transactions on Computer­Aided Design of Integrated Circuits and ...
+54
+2003
+
+-----
+4/3/2017
+Krishnendu Chakrabarty ­ Google Scholar Citations
+https://scholar.google.com/citations?user=R_VPUyEAAAAJ
+9/9
+Dates and citation counts are estimated and are determined automatically by a computer program.
+
+-----

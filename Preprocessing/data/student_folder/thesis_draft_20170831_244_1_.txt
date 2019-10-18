@@ -1,0 +1,27 @@
+vii 
+ 
+Abstract
+Abstract 
+ 
+Advanced Driver Assistant System (ADAS) was developed to reduce hazard on road, as 
+driver were tended to get distracted from non-driving tasks. Researchers widely 
+acknowledges that machine learning should be applied in ADAS, so that system can 
+recognize driver’s state and adapt accordingly. Applying machine learning on physiological 
+signal to learn psychological model is a common research topic. Yet, little work have 
+considered of challenges in implementation, which is different from other machine learning 
+domains. Usual approach is to collect many signals and go through tedious signal processing 
+to output feature vectors. Machine learning plays its part only after feature is available. 
+Which is costly and also unlikely to be feasible in real world situation. We propose new 
+machine learning based methodology that only requires simple single signal combined with 
+manifold learning algorithm. Our methodology is robust in that it requires only one signal 
+but doesn’t compromise the performance. The first contribution of the work is that we 
+collected data from partly automated vehicle’s simulation, which little work was done to 
+apply machine learning. The second contribution is we proposed new feature extraction 
+methods which only exploits ECG signal. Our methods do not require domain specific 
+knowledge or tedious signal processing procedure. As long as interval between R peaks are 
+available (which can be measured easily with cheap commercial equipment) our manifold 
+learning based features extractor will provide reliable features. As this implies no 
+preprocessing it is more beneficial for implementation. 
+Keywords:  ECG, Machine Learning, Driver, Workload, ADAS. Manifold learning 
+
+-----

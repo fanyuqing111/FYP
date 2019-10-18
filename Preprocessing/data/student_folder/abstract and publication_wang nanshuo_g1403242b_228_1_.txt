@@ -1,0 +1,110 @@
+Improving optical coherence tomography theories and techniques 
+for advanced performance and reduced cost 
+Abstract 
+Optical coherence tomography (OCT) has been developed as a high-resolution three-
+dimensional imaging technique for clinical diagnosis. This thesis proposes several 
+theoretical discoveries and technical improvements to current OCT systems aiming to 
+drastically reduce system costs while achieving state-of-the-art performance. 
+Polarization-sensitive OCT (PS-OCT) is a functional extension of conventional OCT which 
+offers depth-resolved birefringence imaging capability. To resolve local retardation in 
+tissue sample, current PS-OCT system illuminates the sample with two multiplexed 
+polarization states and detects the backscattered light with two detection channels. We 
+observed that the polarization state of light after round-trip propagation through a 
+birefringent medium frequently aligns with the employed input polarization state but 
+“mirrored” by the horizontal plane of the Poincaré sphere. We explore the predisposition 
+for this mirror state and demonstrate how it constrains the evolution of polarization states 
+as a function of the round-trip depth into weakly scattering birefringent samples, as 
+measured with PS-OCT. The constraint enables measurements of depth-resolved sample 
+birefringence with PS-OCT using only a single input polarization state, which offers a 
+critical simplification and cost reduction compared to the use of multiple input states. 
+Without the employment of the bandwidth-deteriorating polarization states multiplexing 
+techniques, the single input state system can achieve even higher axial resolution compared 
+to current two input states PS-OCT. We demonstrated the capability of polarization mirror 
+state in local birefringence restoration with birefringent phantom imaging, swine retina 
+imaging ex vivo and human intravascular imaging in vivo. 
+If we take transpose for both sides of the Jones transmission equation of PS-OCT system 
+with two input states and two detection channels, the mirror state constraint still holds 
+while the input and output states exhibit interchangeability, which implies that depth-
+resolved birefringence imaging is possible with only one detection channel, if the sample is 
+illuminated with two orthogonal polarization states. Considering the high cost of 
+spectrometers and the difficulty of pixel alignment between two detection channels, the 
+transposed mirror state constraint helps to further cut the cost and complexity of spectral 
+domain PS-OCT system. 
+Inspired by the mirror state constraint, we realized that the polarization states of detected 
+sample light, after propagating through a stochastically moving reciprocal optical path, 
+would not distribute evenly on the Poincaré sphere, but tend to aggregate around the 
+mirror state. This can be used to solve a long-standing problem that the detected 
+interferograms of fiber-based OCT suffer from the fading effect due to misalignment of the 
+light polarization states between the two interference arms which results in sensitivity 
+degradation and intensity variation. The existence of mirror states implies the location of 
+optimal polarization state of the detected reference light. If the reference light is aligned 
+with the polarization mirror state on the Poincaré sphere, a 3.5 dB signal-to-noise ratio 
+
+-----
+improvement can be expected. 
+The axial resolution, being a critical parameter to the resolving power of OCT system, is 
+determined by the light spectral shape and bandwidth. The pursuit of higher axial 
+resolution leads to exponentially increasing system cost, and sometimes is even impossible 
+because of the unavoidable gaps in the wavelength range of illumination, transmission, and 
+detection. We demonstrate that the axial resolution deteriorated by gaps in OCT spectra 
+can be restored by adopting the gapped amplitude and phase estimation (GAPES) 
+algorithm. The algorithm estimates the missing parts between separated spectral bands 
+and obtains a tissue axial profile with reduced sidelobe artifacts and significantly improved 
+axial resolution over the individual bands. This technique may make it possible to combine 
+spectrally separated sources and detectors to improve axial resolution in OCT images, 
+hence greatly reduce the cost of ultrahigh-resolution OCT system. 
+In conclusion, this thesis proposed several methods to reduce the cost of current OCT 
+system with advanced performance in terms of state-of-the-art contrast, sensitivity and 
+resolution, which has been demonstrated with phantom imaging and biological tissue 
+imaging both ex vivo and in vivo. 
+ 
+Publication 
+Journal: 
+1. Nanshuo Wang, Xinyu Liu, Qiaozhou Xiong, Jun Xie, Shi Chen, and Linbo Liu, 
+"Polarization management to mitigate misalignment-induced fringe fading in fiber-
+based optical coherence tomography", Opt. Lett. 42, 2996-2999 (2017). 
+2. Si Chen†, Xinyu Liu†, Nanshuo Wang, Xianghong Wang, Qiaozhou Xiong, En Bo, 
+Xiaojun Yu, Shufen Chen, and Linbo Liu, "Visualizing Micro-anatomical Structures of 
+the Posterior Cornea with Micro-optical Coherence Tomography", Sci. Rep. 7:10752 
+(2017). 
+3. Jinhan Li, Yuemei Luo, Xianghong Wang, Nanshuo Wang, En Bo, Si Chen, Shufen 
+Chen, Shi Chen, Meng-Tsan Tsai, and Linbo Liu (2018). “Extending the depth of focus 
+of fiber-optic optical coherence tomography using a chromatic dual-focus design”, 
+Applied Optics, 57(21), 6040-6046. 
+4. Yuemei Luo, Dongyao Cui, Xiaojun Yu, En Bo, Xianghong Wang, Nanshuo Wang, 
+Cilwyn Shalitha Braganza, Shufen Chen, Xinyu Liu, Qiaozhou Xiong, Si Chen, Shi 
+Chen^, and Linbo Liu, "Endomicroscopic optical coherence tomography for cellular 
+resolution imaging of gastrointestinal tracts", Journal of Biophotonics, 11(4), 
+p.e201700141(2018). 
+5. En Bo, Yuemei Luo, Si Chen, Xinyu Liu, Nanshuo Wang, Xin Ge, Xianghong Wang, 
+Shufen Chen, Shi Chen, Jinhan Li, and Linbo Liu, "Depth of focus extension in optical 
+coherence tomography via multiple aperture synthesis", Optica 4(7), 701-706 (2017). 
+6. Xianghong Wang, Xiaojun Yu, Xinyu Liu, Si Chen, Shufen Chen, Nanshuo Wang, and 
+
+-----
+Linbo Liu, "A two-step iteration mechanism for speckle reduction in optical coherence 
+tomography", Biomedical Signal Processing and Control, Accepted. 
+Conference: 
+1. Nanshuo Wang, Xinyu Liu, Qiaozhou Xiong, Linbo Liu, “Polarization management to 
+mitigate misalignment induced fringe fading in fiber-based optical coherence 
+tomography”, SPIE BiOS 2018, San Francisco, CA, USA. 2018, Oral. 
+2. Nanshuo Wang, Linbo Liu, et. al, “Optical coherence tomography with gapped 
+spectrum”, SPIE BiOS 2016, San Francisco, CA, USA, Poster. 
+3. Nanshuo Wang, Xinyu Liu, Qiaozhou Xiong, Linbo Liu, “Local Retardance 
+Determination Using Single Input Polarization Sensitive Optical Coherence 
+Tomography”, CLEO-PR, OECC and PGC, 2017, Singapore, Poster. 
+4. Nanshuo Wang, Xinyu Liu, Xiaojun Yu, Si Chen, Shi Chen, Linbo Liu, “Optical 
+Coherence Tomography with Gapped Spectrum”, CLEO-PR, OECC and PGC, 2017, 
+Singapore, Poster. 
+5. Nanshuo Wang, Linbo Liu, et al, “Adaptive filter technique to restore images of SDOCT 
+with high resolution”, Photonics Global Conference 2015, Singapore, Oral. 
+Patent and technical disclosure: 
+1. Xinyu Liu, Nanshuo Wang, Qiaozhou Xiong, Linbo Liu, Martin Villiger, Brett Bouma, 
+Method And Apparatus For Performing Depth Resolved Tissue Local Birefringence 
+Properties Measurement Using Single Shot Polarization Sensitive Optical Coherence 
+Tomography, US provisional application 62/615. 473 filed on 10 Jan 2018 
+2. Linbo Liu, Atsushi Tanaka, Nanshuo Wang, Color Optical Coherence Tomography, 
+Reference number: TD/275/16. 
+ 
+
+-----

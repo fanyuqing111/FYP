@@ -1,0 +1,27 @@
+Abstract
+The greatest weakness of current circuits is thermal.
+Localized temperature increase
+can significantly degrade a circuit performance, sometimes irreversibly.
+In this the-
+sis, we investigate the potential of replacing copper interconnects in 3D architecture
+with an alternative hybrid carbon structure: carbon nanotubes covalently bonded to
+graphene/graphite horizontal interconnects.
+The structure is highly conductive both
+thermally and electrically and can sustain higher current densities than currently used
+copper interconnects. We also focused our interest in studying the thermal degradation
+mechanisms of such carbon-based devices. To do so, we first studied the joule-heating
+induced electrical failure of graphene based devices (electro-burning). From our observa-
+tions, the presence of defects greatly influences the electro-burning of graphene. To gain
+more insight into this degradation, we used a femtosecond laser to locally induce thermal
+damage to the graphene. Finally, we showed how electro-burning, when controlled, can
+be an advantage. We use a tightly focused femtosecond laser beam to induce defects in
+graphene according to selected patterns. We show that, contrary to the pristine graphene
+devices where nanogap position and shape is uncontrolled, the nanogaps in pre-patterned
+devices propagate along the defect line created by the femtosecond laser. Using passive
+voltage contrast combined with atomic force microscopy, we confirmed the reproducibility
+of the process with a 92% success rate over 26 devices.
+Keywords: Thermal management, graphene, carbon nanotubes, electro-burning,
+laser irradiation
+v
+
+-----

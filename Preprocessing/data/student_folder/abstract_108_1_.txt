@@ -1,0 +1,71 @@
+Abstract 
+Wireless Sensor Network (WSN) is one of the supporting technologies to 
+materialize the Internet of Things (IoT). However, a large scale deployment of 
+the WSN faces multifarious challenges. WSN node size and maintenance cost 
+incurred by periodic energy source replacement are among them. From the 
+perspectives of energy sources, these two challenges can be better addressed 
+by Wireless Power Transfer (WPT) technologies in comparison with energy 
+scavengers or traditional energy storages. Omnidirectional Electro-magnetic 
+Radiation WPT technology appears to be a viable choice. Hence, this work 
+proposed various circuit design techniques in developing the dedicated Power 
+Management Integrated Circuit (PMIC) structures to support implementation of 
+such WPT technology.  
+ 
+In detail, this thesis lists (i) a new trimming circuit structure for a sub-1-
+volt CMOS Voltage Reference (VR), (ii) a controllable Negative Source 
+Degenerating Resistance (NSDR), and (iii) a compensator-less analogue 
+controller for a Pulse Width Modulation (PWM) Discontinuous Current Mode 
+(DCM) Boost DC-DC Converter. To elaborate, the trimming effort aims at 
+minimizing unwanted temperature coefficient due to the finite resistance of the 
+trimming switches so as to improve the overall Temperature Coefficient (TC) of 
+a CMOS Voltage Reference (VR). Moreover, the negative resistance designed 
+is dependent on the load current of an Output Capacitor-Less (OCL) Low Drop-
+Out Voltage Regulator (LDO). It is made to boost the gain of the LDO by 
+improving the current efficiency. Lastly, the compensator-less controller is 
+meant to minimize power and area concern brought by the compensator in 
+switching DC-DC converter. 
+ 
+Subsequently, structures of three key PMIC building blocks, such as a 
+VR, an OCL LDO and a boost DC-DC switching converter, are proposed based 
+on the aforementioned circuit design techniques. A trimming circuit is proposed 
+for a sub-1-volt CMOS voltage reference based on threshold voltage difference 
+(ΔVth) approach. Implemented in 180 μm CMOS technology, the trimmed 
+CMOS VR consumes 0.941 μA under supply input of 0.8 V with a TC of 26.6 
+ppm/°C and a Power Supply Rejection (PSR) larger than 60 dB at 1 MHz. The 
+
+-----
+trimmed VR is functional under supply input from 0.7 V to 1.5 V. 
+ 
+Furthermore, a fast-transient OCL LDO that is based on a load-
+dependent NSDR at the input stage of its Error Amplifier (EA) is proposed. By 
+having the resistance of the NSDR varies with respect to the load current of the 
+OCL LDO, no compensation capacitor is needed for frequency compensation 
+to ensure stability. In this manner, the overall OCL LDO is implemented in 180 
+μm CMOS process. It achieves a fast load transient response of 3 μs in a load 
+step up and down between 0 mA to 100 mA in 100 ns. The OCL LDO functions 
+under supply input from 0.8 V to 1.5V, across which, it consumes quiescent 
+current of no more than 20 μA in zero load condition. 
+ 
+In addition, a compensator-less PWM DCM Boost DC-DC converter 
+based on a Square-Root Voltage Mode (SRVM) controller is also proposed. 
+The SRVM controller achieve voltage regulation by implementing analog signal 
+processing unit to sense the load current and convert it into a PWM voltage 
+control signals to drive the power switches. The block level design of the 
+proposed Boost DC-DC converter is simulated in MATLAB. It achieves output 
+ripples of 0.42% of its steady-state output of 3 V. Output overshoots of 3 mV 
+with 4 μs recovery time are observed during step-down load transients between 
+40 and 0 mA in 100 ns. Correspondingly, output undershoots during step-up 
+load transients are less than 10.8 mV with a recovery time of 8.9 μs. The boost 
+converter can start up from its 0.9-V input autonomously based on a proposed 
+two-phase start-up control scheme. On top of this, a novel signal boosting 
+technique is presented to ensure gate driving voltages for MOSFET switches 
+as high as attainable to minimize the conduction losses. At the steady state, the 
+boost converter operates with a fixed 1-MHz switching frequency with a 1 μH 
+inductor and a 10 μF capacitor with the maximum load current of 40 mA. 
+ 
+Overall, all proposed designs achieve supply and load independence as 
+well as power and area efficiency in addressing the unique PMIC design 
+challenges dedicated to the Omnidirectional EM Radiation WPT. 
+ 
+
+-----

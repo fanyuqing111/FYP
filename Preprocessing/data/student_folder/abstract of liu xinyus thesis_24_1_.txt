@@ -1,0 +1,80 @@
+Developing polarization sensitive Micro optical coherence tomography – towards high contrast, 
+resolution and sensitivity optical biomedical imaging 
+Optical coherence tomography (OCT) is an interferometric three-dimensional imaging technique. Thanks 
+to its non-ionizing near-infrared light source, backscattering detection configuration, depth-resolved 
+image formation, as well as high imaging resolution, sensitivity and speed, OCT is perfectly suitable for in 
+vivo medical diagnosis. OCT has been developed into a standard diagnostic device in ophthalmology, 
+meanwhile, its applications on cardiology, endoscopy and dermatology has received intensive 
+investigation and are now entering the pre-clinical stage.  
+Micro optical coherence tomography (µOCT) is an OCT variant that pushes the resolution of 
+conventional OCT to the micrometer level. With around 1-µm resolution, µOCT can visualize biological 
+tissues at the cellular and sub-cellular level, and promises to provide cellular pathological behavior 
+information, which is important in the diagnosis and treatment of various diseases, including the ultra-
+early detection of cancer. Standard OCT image, formed from the intensity of backscattered light, 
+provides only the morphology information, thereby lacking the specificity to distinguish structures with 
+similar scattering property. Some biological tissues such as muscle, collagen, tendon or stressed 
+connective structures are birefringent. Polarization sensitive OCT (PS-OCT) adds the birefringence 
+contrast to standard OCT image by employing the polarization diverse detection. The local birefringence 
+map of a tissue is extracted from the depth evolving polarization state, result of the light-tissue 
+interaction. The marriage of µOCT and PS-OCT is expected to bring new possibilities and opportunities 
+by visualizing the birefringence property of sub-cellular structure, such as cilia and micro-tubes in 
+trachea epithelium and cell multiplication. 
+However, challenges exist in the construction of a PS-µOCT. PS-OCT needs two different polarization 
+states illuminating on the same sample spot to solve the local birefringence properties, specifically, local 
+retardation and local relative optic axis. Currently main PS-OCT uses a polarization modulator to change 
+the polarization state of adjacent A-scan lines, or encodes various polarization detections on different 
+imaging depth. However, these methods are not applicable for high resolution OCT. The bandwidth of a 
+modulator limits the system resolution lower than 5 µm. The depth range of an OCT is determined by 
+the wavelength resolution of the spectral detection. For µOCT with an ultra-broadband source, there are 
+little margins left for extra depth multiplexing. To overcome this problem, this thesis describes a new 
+reasoning methodology, derived from the polarization optical reversible theorem, termed as “conjugate 
+point reason”. This reasoning theorem states that, for a sample with random birefringence layer 
+structure (no diattenuation), the backscattered polarization state evolving along the depth is consisted 
+discontinuous arcs lying on the Poincare sphere. In a transpose-symmetric system, the circles that the 
+arcs are on all pass through the “conjugate point”, which is the Q-U plane reflection of the input 
+polarization state. In the first chapter of this thesis, I describe both the experiments and theoretical 
+confirmation of this reasoning theorem. Furthermore, this reasoning technique enables the single input 
+PS-OCT to resolve local birefringence properties, open a way towards the construction of a PS-µOCT. In 
+this chapter, the prototype of a PS-µOCT based on conjugate point reasoning is demonstrated. 
+
+-----
+There are other practical difficulties hindering a realization of the clinical viable PS-µOCT system. The PS 
+signal is sensitive to speckle noise, sample birefringence and fiber polarization mode dispersion (PMD). 
+In the second chapter, I compared different averaging strategies and found that averaging in full Stokes 
+space delivers the optimal accuracy. In another aspect, it’s inevitable to use single mode fiber in an OCT 
+system. It can be demonstrated that a piece of single mode fiber with 1 m length hold in a reel can 
+introduce a polarization mode dispersion (PMD) of around 5 fs, corresponding to optical path length of 
+1.5 µm, enough to destroy the polarization detection in µOCT. In addition, PMD is extremely sensitive to 
+temperature and fiber movement, thus difficult to correct. The third chapter of the thesis discusses the 
+degradation of PMD on PS-µOCT detection accuracy and, to my best attempt, develops a method to 
+correct the PMD. 
+Collaborating with one of the leading research groups in PS-OCT, I developed an approach to fabricate a 
+tissue-like OCT birefringence target, the key part of the protocol for characterizing and calibrating the 
+absolute detection value, sensitivity and range of PS-OCT. Taking use of the stress-induced 
+birefringence, the leveled birefringence regions were created by stretching the polycarbonate sheet to 
+different lengths. Several pieces of polycarbonate sheet with different birefringence and different 
+patterns were fabricated. To package up the target, the birefringent sample pieces were embedded into 
+matrix made of epoxy. Scatters were added into the polycarbonate and epoxy to mimic the scattering 
+property of the biological tissue. The fabrication, test and demarcation of the target are described in the 
+fourth chapter. 
+Besides from polarization detection, to maintain and improve the resolution of µOCT, I developed a 
+spectral estimation (SE-OCT) algorithm to super-resolve the layer structures in transparent samples. This 
+algorithm extrapolates the interferometric fringes outside the source bandwidth, thereby improving the 
+resolving ability of OCT. Based on the assumption that the sample was consisted of sparse layers, the 
+algorithm can super resolve two close surfaces within 200 nm, far under the physical resolution. SE-OCT 
+shows good performance in transparent tissues such as corneal. In addition, I discussed the detailed 
+dispersion correction methods for unbalanced reference and sample optical paths, including the 
+influence of remaining uncorrectable dispersion, such as PMD. 
+In this thesis, a method to improve the sensitivity of spectral domain OCT is also included. Termed as 
+spectral encoded extended source OCT (SEES-OCT), this new configuration is an attempt to improve 
+signal strength for ophthalmic imaging. By introducing a dispersive element in the infinity space of the 
+sample arm, the scanning laser spot was dispersed with a visual angle of 7.9 mrad. The maximum 
+permissible exposure (MPE) of such an extended source is 3.1 times larger than that of a “standard” 
+point source OCT, which corresponds to sensitivity improvement of 5 dB. The advantage of SEES-OCT in 
+providing superior penetration depth over a point source system was demonstrated.  
+In conclusion, this thesis provides a step forward to construct a viable PS-µOCT with high resolution, 
+sensitivity and contrast. Several technical problems were discussed and addressed with my best 
+attempt. The feasibility and effectiveness of the proposed solutions were demonstrated with phantoms 
+and ex vivo animal imaging in the context of relevant biological diseases. 
+
+-----

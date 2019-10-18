@@ -1,0 +1,73 @@
+Multi band microwave circuits with metamaterial effects 
+Abstract: 
+In the past few decades, there has been an increase in the use of high speed wireless 
+communication systems. The devices are realized with dedicated wireless applications. However 
+it is convenient to have a single compact portable device which can access most of the wireless 
+applications. To accomplish this, multi band components (like multi band filter and multi band 
+antennas etc) can be used. These circuits can operate in more than one frequency band, so they can 
+reduce the size and the complexity of the devices. In this thesis, multi band components are realized 
+by exploiting the electromagnetic metamaterial effects. 
+The electromagnetic metamaterials are artificial structures with abnormal characteristics. 
+The conventional materials have the phase and group velocities in the same direction, so they are 
+right handed (RH) materials. The left handed (LH) materials on contrary have anti parallel phase 
+and group velocities (‘Backward Propagation’). The left handed materials are also called as Double 
+negative materials since they have negative permittivity and negative permeability. The left handed 
+properties are achieved here using transmission line approach. The conventional transmission line 
+has a series inductor and a shunt capacitor, by duality the left handed transmission line should have 
+a series capacitor and a shunt inductor. Since left handed materials are not readily available in the 
+nature, they should be implemented in a host medium which naturally has RH properties. So, a 
+pure LH Transmission line cannot be implemented, only Composite Right and Left Handed 
+transmission line (CRLH TL) can be realized. Mostly CRLH TL is implemented by interdigital 
+capacitor and short circuited stub. This CRLH TL is not an ideal transmission line so they are made 
+effectively homogeneous by making phase shift of the unit cell less than 𝜋 2
+⁄ .  
+
+-----
+Before going to design of double negative material, single negative material design is 
+discussed. Substrate integrated waveguide (SIW) is defined as planar implementation of 
+conventional metallic waveguide, but it can also be visualized as negative permittivity or epsilon 
+negative (ENG) transmission line. The unit cell of epsilon negative TL is similar to CRLH TL 
+except the former do not have series capacitor in the unit cell. The phase constant obtained using 
+both the theories (waveguide and negative epsilon) are compared. A triple band antenna is 
+designed using open circuited SIW. The antenna is designed by including two slots to have three 
+bands at 3.3 GHz, 4 GHz and 4.8 GHz. 
+After seeing the single negative material design, next double negative material design is 
+focused. The double negative material considered here is Double periodic CRLH (DPCRLH) TL. 
+DPCRLH unit cell is formed by concatenating two different CRLH unit cells. Two symmetric unit 
+cells of DPCRLH TL are proposed. The DPCRLH symmetric unit cells are analysed using ABCD 
+matrix. The dispersion diagram of DPCRLH has two left and two right handed regions. The 
+important frequency points in the dispersion diagram are analysed. The closing condition of 
+attenuation gap at 𝛽𝑑 = 0 in the dispersion diagram is derived.   A DPCRLH symmetric unit cell 
+is designed and fabricated with closing condition of attenuation gap at 𝛽𝑑 = 0 at 3.39 GHz. The 
+measured results are compared with the simulated results. The DPCRLH TL has an additional LH 
+and RH regions compared to CRLH TL. So DPCRLH has more number of resonance points. The 
+DPCRLH symmetric unit cell is converted to resonator by open circuiting the ends. The resonator 
+has five resonate points out of which the last three resonant points are selected to design a triple 
+band filter at 3.6 GHz, 6 GHz and 9 GHz. The filter has different fractional bandwidths on all three 
+bands. The order of the filter is three and it is designed using coupling coefficient and external 
+quality factor. The filter is designed and fabricated with microstrip as host line. 
+
+-----
+The short circuited stub is used to create shunt inductance in CRLH and DPCRLH TLs and 
+it is implemented as via hole in the microstrip form. The fabrication of via hole is relatively 
+difficult. So, in order to avoid via holes, coplanar waveguide (CPW) is chosen as host line to create 
+DPCRLH in the next design. A DPCRLH symmetric unit cell is designed in CPW and its 
+characteristics are analysed. The open circuited resonator is formed from DPCRLH unit cell. As 
+in the previous case it has five resonance points. A triple band antenna is designed at 3.6 GHz, 4.9 
+GHz and 6 GHz and measured results are compared with the simulated results. 
+List of publications: 
+Manoj Prabhakar Mohan, A. Alphones and M. F. Karim, "Triple Band Filter Based on Double 
+Periodic CRLH Resonator," in IEEE Microwave and Wireless Components Letters, vol. 28, no. 3, 
+pp. 212-214, March 2018.  
+Manoj Prabhakar Mohan, A. Alphones and F. Karim, "Triple band SIW cavity backed slot 
+antenna," 2017 IEEE Asia Pacific Microwave Conference (APMC), Kuala Lumpur, 2017, pp. 698-
+701.  
+Manoj Prabhakar Mohan and Arokiaswami Alphones, “Double Periodic CRLH Transmission line 
+for Wideband Performance," 2016 Asia-Pacific Microwave Conference (APMC), New Delhi, 
+2016, pp. 1-4. 
+Manoj Prabhakar Mohan, A Alphones and MF Karim, “CPW Triple Band Antenna based on 
+DPCRLH resonator” (submitted to IEEE Antennas and Wireless Propagation Letters). 
+Manoj Prabhakar Mohan, A Alphones and MF Karim “Design guidelines of multi band 
+Microwave Circuits” under preparation to be submitted to IEEE Microwave Magazine. 
+
+-----

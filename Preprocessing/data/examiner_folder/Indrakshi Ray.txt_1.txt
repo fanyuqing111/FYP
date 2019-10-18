@@ -1,0 +1,1044 @@
+INDRAKSHI RAY
+Office Address
+Computer Science Department
+Colorado State University
+1873 Campus Delivery
+Fort Collins, CO 80523-1873
+Office Ph.: (970) 491-7986
+Email: iray@cs.colostate.edu
+WWW: http://www.cs.colostate.edu/˜iray
+Education
+1997 Ph.D., School of Information Technology, George Mason University, Fairfax, Virginia.
+1991 Master of Computer Science and Engineering, Jadavpur University, Calcutta, India.
+1988 Bachelor of Engineering, Bengal Engineering and Science University, Howrah, India.
+Dissertation
+Using Formal Methods in Semantics-Based Decomposition of Transactions
+Ph.D. Advisors
+Professor Sushil Jajodia and Professor Paul Ammann
+Research Interests
+Database Systems, Computer Security, Formal Methods in Software Engineering, E-Commerce
+Protocols
+Academic Positions
+July 2014 – present, Professor, Computer Science Department, Colorado State University.
+July 2006 – June 2014, Associate Professor, Computer Science Department, Colorado State Uni-
+versity.
+June 2014 – August 2014, Senior Summer Faculty Fellow, Naval Research Laboratory.
+June 2013 – August 2013, Senior Summer Faculty Fellow, Naval Research Laboratory.
+June 2012 – July 2012, Visiting Faculty, Air Force Research Laboratory.
+September 2009 – February 2010, Visiting Professor, INRIA Rocquencourt, France.
+August 2001 – June 2006, Assistant Professor, Computer Science Department, Colorado State
+University.
+1
+
+-----
+May 2002 – August 2002, Visiting Faculty, Air Force Research Laboratory.
+August 1997 – July 2001, Assistant Professor, Computer and Information Science Department,
+University of Michigan-Dearborn.
+August 1993 – July 1997, Research Assistant, Information and Software Engineering Depart-
+ment, George Mason University.
+Other Positions
+March 1991 – August 1991, Systems Engineer, ORG Systems, Calcutta, India.
+June 1988 – August 1989, Systems Engineer, ORG Systems, Calcutta, India.
+Honors and Awards
+2002, Best Paper Award ICECCS Conference, IEEE, USA.
+1996 – 1997, George Mason University Fellowship Award, George Mason University.
+1982 National Scholar, Govt. of India, India.
+2
+
+-----
+Refereed Journal Publications
+1. Paul Ammann, Sushil Jajodia and Indrakshi Ray “Applying Formal Methods to Semantic-
+Based Decomposition of Transactions”, ACM Transactions on Database Systems, Vol 22(2),
+June 1997, pages 215–254.
+2. Indrakshi Ray, Paul Ammann and Sushil Jajodia “A Semantic Model for Multilevel Trans-
+actions”, Journal of Computer Security, Vol 6(3), 1998, pages 181–217.
+3. Indrakshi Ray, Paul Ammann and Sushil Jajodia, “Using Semantic Correctness in Multi-
+databases to Achieve Local Autonomy, Distribute Coordination, and Maintain Global In-
+tegrity”, Information Sciences, Vol 129(1-4), November 2000, pages 155–195.
+4. Indrakshi Ray, “Real-Time Update of Access Control Policies”, Data and Knowledge Engi-
+neering, 49(3), June 2004, pages 287–309.
+5. Indrakshi Ray, Robert France, Na Li and Geri Georg, “An Aspect-Based Approach to Mod-
+eling Access Control Concerns”, Information and Software Technology, 46(9), July 2004,
+pages 557-633.
+6. Robert France, Indrakshi Ray, Geri Georg and Sudipto Ghosh, “An Aspect-Oriented Ap-
+proach to Design Modeling”, IEE Proceedings – Software, Special Issue on Early Aspects:
+Aspect-Oriented Requirements Engineering and Architecture Design, 151(4), August 2004,
+pages 173–185.
+7. Indrajit Ray, Indrakshi Ray and Narasimhamurthi Natarajan, “An Anonymous and Failure
+Resilient Fair-Exchange E-Commerce Protocol using Off-line Third Parties”, Decision Sup-
+port Systems, 39(5), May 2005, pages 267–292.
+8. Indrakshi Ray, “Applying Semantic Knowledge to Real Time Update of Access Control
+Policies”, IEEE Transactions on Knowledge and Data Engineering, 17(6), June 2005, pages
+844-858.
+9. Indrakshi Ray and Mahendra Kumar, “Towards a Location-Based Mandatory Access Control
+Model”, Computers and Security, 25(1), February 2006, pages 36-44.
+10. Anna Cinzia Squicciarini, Elisa Bertino, Elena Ferrari, and Indrakshi Ray “Achieving Pri-
+vacy with an Ontology-Based Approach in Trust Negotiations”, IEEE Transactions on De-
+pendable and Secure Computing, 3(1), January - March 2006, pages 13 -30.
+11. Indrakshi Ray and Tai Xin, “Analysis of Dependencies for Advanced Transactions”, Dis-
+tributed and Parallel Databases, 20(1), July 2006, pages 5-27.
+12. Eunjee Song, Shuxin Yin and Indrakshi Ray, “Using UML to Model Relational Database
+Operations”, Computer Standards and Interfaces, 29(3), March 2007, pages 343-354.
+13. Tai Xin and Indrakshi Ray, “A Lattice-Based Approach for Updating Access Control Policies
+in Real-Time”, Information Systems, 32(5), July 2007, pages 755-772.
+14. Indrakshi Ray, Indrajit Ray and Sudip Chakraborty, “An Interoperable Context-Sensitive
+Model of Trust”, Journal of Intelligent Information Systems, 32(1), February 2009, pages
+75-104.
+15. Nayot Poolsappasit and Indrakshi Ray, “Towards Achieving Personalized Privacy for Location-
+Based Services”, Transactions on Data Privacy – Special Issue on Security and Privacy in
+GIS and LBS, 2(1), 2009, pages 77-99.
+16. Geri Georg, Indrakshi Ray, Kyriakos Anastasakis, Behzad Bordbar, Manachai Toahchoodee
+and Siv Hilde Houmb, “An Aspect-Oriented Methodology for Designing Secure Applica-
+tions”, Information and Software Technology – Special Issue on Model Based Development
+3
+
+-----
+for Secure Information Systems, 51(5), May 2009, pages 846-864.
+17. Manachai Toahchoodee and Indrakshi Ray, “Using Alloy to Analyze a Spatio-Temporal
+Access Control Model Supporting Delegation”, IET Information Security, 3(3), September
+2009, pages 75-127.
+18. Kyriakos Anastasakis, Behzad Bordbar, Geri Georg and Indrakshi Ray, “On Challenges of
+Model Transformation from UML to Alloy”, Software and Systems Modeling, 9(1), January
+2010, pages 69-86.
+19. Geri Georg, Kyriakos Anastasakis, Behzad Bordbar, Siv Hilde Houmb, Indrakshi Ray and
+Manachai Toahchoodee, “Verification and Trade-off Analysis of Security Properties in UML
+System Models”, IEEE Transactions on Software Engineering, 36(3), May-June 2010, pages
+338-356.
+20. Rinku Dewri, Indrakshi Ray, Indrajit Ray and Darrell Whitley, “Real Time Stochastic Schedul-
+ing in Broadcast Systems with Decentralized Data Storage”, Real-Time Systems, 45(3), Au-
+gust 2010, pages 143-175.
+21. Manachai Toahchoodee, Indrakshi Ray, and Ross McConnell, “Using Graph Theory to For-
+malize a Spatio-Temporal Role-Based Access Control Model”, International Journal of Next
+Generation Computing, 1(2), November 2010.
+22. Tristan Allard, Nicolas Anciaux, Luc Bougamin, Yanli Guo, Lionel Le Folgoc, Benjamin
+Nguyen, Philippe Pucheral, Indrajit Ray, Indrakshi Ray and Shaoyi Yin, “Secure Personal
+Data Servers: A Vision Paper”, Proceedings of the VLDB Endowment, 3(1), September
+2010, pages 25-35.
+23. Manachai Toahchoodee and Indrakshi Ray, “On the Formalization and Analysis of a Spatio-
+Temporal Role-Based Access Control Model”, Journal of Computer Security, 19(3), 2011,
+pages 399-452.
+24. Parvathi Chundi, Tai Xin, and Indrakshi Ray, “When Does a Workflow Complete?”, Com-
+puter Standards and Interfaces, 33(3), March 2011, pages 292-300.
+25. Rinku Dewri, Indrakshi Ray, Indrajit Ray and Darrell Whitley, “k-Anonymization in the
+Presence of Publisher Preferences”, IEEE Transactions on Knowledge and Data Engineer-
+ing, 23(11), November 2011, pages 1678-1690.
+26. Rinku Dewri, Indrajit Ray, Indrakshi Ray and Darrell Whitley, “Exploring Privacy versus
+Data Utility Tradeoffs in Anonymization Techniques using Multi-objective Optimization”,
+Journal of Computer Security, 19(5), 2011, pages 935-974.
+27. Rinku Dewri, Indrajit Ray, Indrakshi Ray and Darrell Whitley, “Utility Driven Optimization
+of Real Time Data Broadcast Schedules”, Applied Soft Computing, 12(7), July 2012, pages
+1832-1846.
+28. Raman Adaikkalavan, Xing Xie, and Indrakshi Ray, “Multilevel Secure Data Stream Pro-
+cessing: Architecture and Implementation”, Journal of Computer Security, 20(5), 2012,
+pages 547-581.
+29. Ramadan Abdunabi, Mustafa Al-Lail, Indrakshi Ray, and Robert France, “Specification and
+Validation of a Generalized Spatio-Temporal Role-Based Access Control Model”, IEEE Sys-
+tems Journal, 7(3), 2013, pages 501-515.
+30. Ramadan Abdunabi, Wuliang Sun, and Indrakshi Ray, “Enforcing Spatio-Temporal Access
+Control for Mobile Applications”, Computing, 96(4), 2014, pages 313-353.
+31. Ping Yang, Xing Xie, Indrakshi Ray, and Shiyong Lu, “Satisfiability Analysis of Workflows
+with Control-Flow Patterns”, IEEE Transactions on Services Computing, 7(2), 2014, pages
+4
+
+-----
+237-251.
+32. Wuliang Sun, Benoˆ
+ıt Combemale, Robert B. France, Arnaud Blouin, Benoit Baudry, and
+Indrakshi Ray, “Using Slicing to Improve the Performance of Model Invariant Checking”,
+Journal of Object Technology, 14(4), 2015, pages 1-28.
+33. Constance Heitmeyer, Marc Pickett, Elizabeth Leonard, Myla Archer, Indrakshi Ray, David
+Aha, and Gregory Trafton, “Building High Assurance Human-Centric Decision Systems”,
+Automated Software Engineering, 22(2), 2015, pages 159-197.
+Book Chapters
+1. Paul Ammann, Sushil Jajodia and Indrakshi Ray, “Semantics-Based Decomposition of Trans-
+actions”, Advanced Transaction Models and Architectures, Sushil Jajodia and Larry Ker-
+schberg editors, Kluwer Academic Publishers, 1997, pages 153–180.
+2. Indrakshi Ray, “Secure Transaction Processing”, Encyclopedia of Database Systems, Tamer
+Ozsu and Ling Liu editors, Springer, 2009, pages 2540–2546.
+3. Rinku Dewri, Indrajit Ray, Indrakshi Ray and Darrell Whitley, “Multi-objective Evolution-
+ary Optimization in Statistical Disclosure Control”, Advances in Artificial Intelligence for
+Privacy Protection and Security, Agusti Solanas and Antoni Martinez-Balleste editors, Im-
+perial College Press, 2009, pages 117–144.
+4. Indrajit Ray, Indrakshi Ray and Sudip Chakraborty, “A Context-Aware Model of Trust for
+Facilitating Secure Ad Hoc Collaborations”, Trust Modeling and Management in Digital
+Environments: From Social Concept to System Development, Zheng Yan editor, IGI Global,
+January 2010.
+5. Siv Hilde Houmb, Geri Georg, Dorina C. Petriu, Behzad Bordbar, Indrakshi Ray, Kyriakos
+Anastasakis and Robert France, “Balancing Security and Performance Properties During
+System Architectural Design”, Software Engineering for Secure Systems: Industrial and
+Research Perspectives, Haralambos Mouratidis editor, IGI Global, October 2010.
+6. Sharma Chakravarthy, Raman Adaikkalavan, Indrakshi Ray, Qingchun Jiang, and Xing Xie,
+“Sensor Technology and Data Streams Management”, Fundamental of Pervasive Informa-
+tion Management Systems, Vijay Kumar editor, John Wiley & Sons, September 2013.
+Refereed Proceedings
+1. Paul Ammann, Sushil Jajodia and Indrakshi Ray “Using Formal Methods to Reason About
+Semantic-Based Decomposition of Transactions”, Proceedings of the 21st International Con-
+ference on Very Large Databases, Zurich, September 1995, Morgan-Kaufmann, pages 218–
+227. (Acceptance ratio 52/297)
+2. Paul Ammann, Sushil Jajodia and Indrakshi Ray “Ensuring Atomicity of Multilevel Trans-
+actions”, Proceedings of the IEEE Symposium on Security and Privacy, Oakland, CA, May
+1996, IEEE Computer Society Press, pages 74–84. (Acceptance ratio 20/69)
+3. Indrakshi Ray and Paul Ammann, “Using the B-Toolkit to Ensure Safety in SCR Specifica-
+tions”, Proceedings of the 12th Annual Conference on Computer Assurance, Gaithersburg,
+MD, June 1997, IEEE Computer Society Press, pages 1–12.
+5
+
+-----
+4. Sushil Jajodia, Indrakshi Ray and Paul Ammann, “Implementing Semantic-Based Decom-
+position of Transactions”, Proceedings of the 9th International Conference on Advanced
+Information Systems Engineering, Barcelona, Catalonia, June 1997. Published as Lecture
+Notes in Computer Science, Vol. 1250, 1997, editors A. Olive and J. A. Pastor, Springer-
+Verlag, pages 75–88. (Acceptance ratio 30/112)
+5. Indrakshi Ray and Indrajit Ray, “Failure Analysis of an E-commerce Protocol Using Model
+Checking”, Proceedings of the 2nd International Workshop on Advanced Issues of E-Commerce
+and Web-based Information Systems, Milpitas, CA, June 2000, IEEE Computer Society
+Press, pages 176–183.
+6. Indrakshi Ray and Indrajit Ray, “An Optimistic Fair-exchange E-commerce Protocol with
+Automated Dispute Resolution”, Proceedings of the 1st International Conference on Elec-
+tronic Commerce and Web Technologies, Greenwich, UK, September 2000. Published as
+Lecture Notes in Computer Science, Vol. 1875, 2000, editors K. Bauknecht, S. K. Madria,
+and G. Pernul, Springer-Verlag, pages 84–93. (Acceptance ratio 43/120)
+7. Indrajit Ray, Indrakshi Ray and Natarajan Narasimhamurthi, “A Fair Exchange E-Commerce
+Protocol with Automated Dispute Resolution”, Proceedings of the 14th Annual IFIP WG
+11.3 Working Conference on Database Security, Schoorl, The Netherlands, August 2000.
+Published in Data and Applications Security: Developments and Directions, 2001, editors
+B. Thuraisingham, R. van de Riet, K. Dittrich and Z. Tari, Kluwer Academic Publishers,
+pages 27–38. (Acceptance ratio 23/54)
+8. Indrakshi Ray and Indrajit Ray, “An Anonymous Fair-Exchange E-commerce Protocol”,
+Proceedings of the 15th International Parallel and Distributed Processing Symposium (First
+International Workshop on Internet Computing and E-Commerce), San Francisco, CA, April
+2001, IEEE Computer Society Press, pages 1790–1797.
+9. Indrajit Ray, Indrakshi Ray and Natarajan Narasimhamurthi, “An Anonymous Electronic
+Voting Protocol for Voting over the Internet”, Proceedings of the 3rd International Workshop
+on Advanced Issues of E-Commerce and Web-based Information Systems, San Jose, CA, June
+2001, IEEE Computer Society Press, pages 188–190.
+10. Indrakshi Ray and Indrajit Ray, “Detecting Termination of Active Database Rules using
+Symbolic Model Checking”, Proceedings of the 5th East-European Conference on Advances
+in Databases and Information Systems, Vilnius, Lithuania, September 2001. Published as
+Lecture Notes in Computer Science, Vol. 2151, 2001, editors A. Caplinskas and J. Eder,
+Springer-Verlag, pages 266-289. (Acceptance ratio 25/74)
+11. Indrakshi Ray and Indrajit Ray, “Using Compatible Keys for Secure Multicasting in E-
+commerce”, Proceedings of the 16th International Parallel and Distributed Processing Sym-
+posium (Second Workshop on Internet Computing and E-Commerce), Fort Lauderdale, FL,
+April 2002, IEEE Computer Society Press, pages 225–232. (Acceptance ratio 16/43)
+12. Indrakshi Ray, Indrajit Ray and Natarajan Narsimhamurthi, “A Cryptographic Solution to
+Implement Access Control in a Hierarchy and More”, Proceedings of the 7th ACM Sympo-
+sium on Access Control Models and Technologies, Monterey, CA, June 2002, ACM Press,
+pages 65–73. (Acceptance ratio 17/53)
+13. Indrajit Ray and Indrakshi Ray, “Anonymous and Secure Multicast Subscription”, Proceed-
+ings of the 16th Annual IFIP WG 11.3 Working Conference on Database and Applications
+Security, Cambridge, U.K., July 2002. Published in Research Directions in Data and Appli-
+cations Security, 2003, editors E. Gudes and S. Shenoi, Kluwer Academic Publishers, pages
+6
+
+-----
+313–327.
+14. Geri Georg, Robert France and Indrakshi Ray, “Designing High Integrity Systems using
+Aspects”, Proceedings of the 5th Annual IFIP WG 11.5 Working Conference on Integrity
+and Internal Control in Information Systems, Bonn, Germany, November 2002. Published
+in Integrity and Internal Control in Information Systems V, 2003, editor M. Gertz, Kluwer
+Academic Publishers, pages 37–57. (Acceptance rate 50%)
+15. Geri Georg, Indrakshi Ray and Robert France, “Using Aspects to Design a Secure System”,
+Proceedings of the 8th IEEE International Conference on Engineering of Complex Computer
+Systems, Greenbelt, Maryland, December 2002, IEEE Computer Society Press, pages 117–
+128. (Winner of the Best Paper Award) (Acceptance ratio 23/49)
+16. Indrakshi Ray, “Multi-level Secure Rules and Its Impact on the Design of Active Databases”,
+Proceedings of the 20th British National Conference on Databases, Coventry, U.K., July
+2003. Published as Lecture Notes in Computer Science, Vol. 2712, 2003, editors A. James,
+B. Lings and M. Younas, Springer-Verlag, pages 226-244. (Acceptance rate 30%)
+17. Indrakshi Ray and Tai Xin, “Concurrent and Real-Time Update of Access Control Policies”,
+Proceedings of the 14th International Conference on Database and Expert Systems, Prague,
+Czech Republic, September 2003. Published in Lecture Notes in Computer Science, Vol.
+2736, 2003, editors V. Marik, W. Retschitzegger and O. Stepankova, Springer-Verlag, pages
+330–339. (Acceptance ratio 91/236)
+18. Indrakshi Ray, Na Li, Dae-Kyoo Kim and Robert France, “Using Parameterized UML to
+Specify and Compose Access Control Models”, Proceedings of the 6th IFIP WG 11.5 Con-
+ference on Integrity and Internal Control in Information Systems, Lausanne, Switzerland,
+November 2003. Published in Integrity and Internal Control in Information Systems VI,
+2004, editors S. Jajodia and L. Strouss, Kluwer Academic Publishers, pages 49–65.
+19. Nitin Prabhu, Vijay Kumar, Indrakshi Ray and Gi-Chul Yang, “Concurrency Control in Mo-
+bile Database Systems”, Proceedings of the 18th International Conference on Advanced
+Networking and Applications, Fukuoka, Japan, March 2004, IEEE Computer Society Press,
+pages 83–86. (Acceptance ratio 223/402)
+20. Dae-Kyoo Kim, Indrakshi Ray, Robert France and Na Li, “Modeling Role-Based Access
+Control Using Parameterized UML Models”, Proceedings of the 7th Conference on Funda-
+mental Approaches to Software Engineering, Barcelona, Spain, March 2004. Published in
+Lecture Notes in Computer Science series, Vol. 2984, 2004, editors M. Wermelinger and T.
+Margaria-Steffen, Springer-Verlag, pages 180–193. (Acceptance rate 23%)
+21. Indrakshi Ray, Na Li, Robert France and Dae-Kyoo Kim, “Using UML to Visualize Role-
+Based Access Control Constraints”, Proceedings of the 9th ACM Symposium on Access Con-
+trol Model and Technologies, Yorktown Heights, NY, June 2004, ACM Press, pages 115-124.
+(Acceptance ratio 18/61)
+22. Nitin Prabhu, Vijay Kumar and Indrakshi Ray, “Periodic Scheduling in On-Demand Broad-
+cast System”, Proceedings of the 3rd International Conference on Information Systems Tech-
+nology and its Applications, Salt Lake City, Utah, July 2004. Published in Lecture Notes in
+Informatics series, Vol. 48, 2004, editors A. E. Doroshenko, T. A. Halpin, S. W. Liddle, and
+H.C. Mayr, GI, pages 107-121. (Acceptance ratio 15/43)
+23. Indrakshi Ray, Ross McConnell, Monte Lunacek and Vijay Kumar, “Reducing Damage As-
+sessment Latency in Survivable Databases”, Proceedings of the 21st British National Con-
+ference on Databases (Short Paper), Edinburgh, Scotland, July 2004. Published in Lecture
+7
+
+-----
+Notes in Computer Science series, Vol. 3112, 2004, editors H. Williams, L. MacKinnon,
+Springer-Verlag, pages 106–111. (Acceptance ratio 18/70)
+24. Indrakshi Ray and Tai Xin, “Implementing Real-Time Update of Access Control Policies”,
+Proceedings of the 18th IFIP WG 11.3 Working Conference on Data and Application Secu-
+rity, Sitges, Spain, July 2004. Published in Research Directions in Data and Applications
+Security XVIII, 2004, editors C. Farkas and P. Samarati, Kluwer Academic Publishers, pages
+65–80. (Acceptance ratio 24/45)
+25. Indrakshi Ray, Tai Xin and Yajie Zhu, “Ensuring Task Dependencies During Workflow Re-
+covery”, Proceedings of the 15th International Conference on Database and Expert Systems
+Applications, Zaragoza, Spain, August 2004. Published in Lecture Notes in Computer Sci-
+ence series, Vol. 3180, 2004, editors F. Galindo, M. Takizawa and R. Traunmuller, Springer,
+pages 24–33. (Acceptance ratio 92/304)
+26. Indrakshi Ray and Mariana Muller, “Using Schemas to Simplify Access Control for XML
+Documents”, Proceedings of the 1st International Conference on Distributed Computing
+and Internet Technology (Short Paper), Bhubaneswar, India, December 2004. Published in
+Lecture Notes in Computer Science series, Vol. 3347, 2004, editors R.K. Ghosh and H.
+Mohanty, Springer, pages 363–368. (Acceptance ratio 51/211)
+27. Shuxin Yin and Indrakshi Ray, “Relational Database Operations Modeling with UML”, To
+appear in Proceedings of the IEEE 19th International Conference on Advanced Information
+Networking and Applications, Taipei, Taiwan, March 2005, IEEE Computer Society Press,
+pages 927–932. (Acceptance rate 33%)
+28. Indrakshi Ray, Elisa Bertino, Anna C. Squicciarini, and Elena Ferrari, “Anonymity Preserv-
+ing Techniques in Trust Negotiations”, Proceedings of the Workshop on Privacy Enhancing
+Technologies, Dubrovnik, Croatia, May 2005. To be published in Lectures Notes in Com-
+puter Science series. (Acceptance ratio 18/74)
+29. Eunjee Song, Raghu Reddy, Robert France, Indrakshi Ray, Geri Georg and Roger Alexan-
+der, “Verifiable Composition of Access Control and Application Features”, Proceedings of
+the 10th ACM Symposium on Access Control Methodologies and Technologies, Stockholm,
+Sweden, June 2005, ACM Press, pages 120–129. (Acceptance ratio 19/90)
+30. Tai Xin and Indrakshi Ray, “Detecting Dependency Conflicts in Advanced Transaction Mod-
+els”, Proceedings of the 9th International Database Engineering and Applications Sympo-
+sium, Montreal, Canada, July 2005, IEEE Computer Society Press, pages 17–26. (Accep-
+tance ratio for full papers 30/144)
+31. Tai Xin, Yajie Zhu, and Indrakshi Ray, “Reliable Scheduling of Advanced Transactions”,
+Proceedings of the 19th IFIP WG 11.3 Working Conference on Data and Applications Se-
+curity, Storrs, Connecticut, August 2005. Published in Lecture Notes in Computer Science
+series, Vol. 3654, 2005, editors S. Jajodia and D. Wijesekera, Springer, pages 124–138.
+(Acceptance ratio 24/54)
+32. Yajie Zhu, Tai Xin, and Indrakshi Ray, “Recovering from Malicious Attacks in Workflow
+Systems”, Proceedings of the 16th International Conference on Database and Expert Sys-
+tems, Copenhagen, Denmark, August 2005. Published in Lecture Notes in Computer Sci-
+ence series, Vol. 3588, 2005, editors K.V. Anderson, J. Debenham, and R. Wagner, Springer,
+pages 14–23. (Acceptance ratio 92/390)
+33. Dan Matheson, Indrakshi Ray, Indrajit Ray, and Siv Hilde Houmb, “Building Security Re-
+quirement Patterns for Increased Effectiveness Early in the Development Process”, Proceed-
+8
+
+-----
+ings of the Symposium on Requirements Engineering for Information Security (Short Paper),
+Paris, France, August 2005. (Acceptance ratio 16/40)
+34. Indrakshi Ray and Lijun Yu, “Short Paper: Towards a Location-Aware Role-Based Ac-
+cess Control Model”, Proceedings of the 1st IEEE Conference on Security and Privacy
+for Emerging Areas in Communication Networks (Short Paper), Athens, Greece, Septem-
+ber 2005, IEEE Computer Society Press, pages 234–236. (Acceptance ratio 52/164)
+35. Indrajit Ray, Sudip Chakraborty, and Indrakshi Ray, “VTrust: A Trust Management System
+Based on a Vector Model of Trust”, Proceedings of the 1st International Conference on
+Information Systems Security, Kolkata, India, December 2005. Published as Lecture Notes
+in Computer Science, Vol. 3083, 2005, editors S. Jajodia and C. Mazumdar, Springer, pages
+91–105. (Acceptance ratio 20/72)
+36. Indrakshi Ray and Wei Huang, “Event Detection in Multilevel Secure Active Databases”,
+Proceedings of the 1st International Conference on Information Systems Security, Kolkata,
+India, December 2005. Published as Lecture Notes in Computer Science, Vol. 3083, 2005,
+editors S. Jajodia and C. Mazumdar, Springer, pages 177–190. (Acceptance ratio 20/72)
+37. Manachai Toahchoodee and Indrakshi Ray, “Validation of Policy Integration using Alloy”,
+Proceedings of the 2nd International Conference on Distributed Computing and Internet
+Technology , Bhubaneswar, India, December 2005. Published as Lecture Notes in Computer
+Science, Vol. 3816, 2005, editor G. Chakraborty, Springer, pages 420–431. (Acceptance
+ratio for long papers 45/426)
+38. Siv Hilde Houmb, Indrakshi Ray, Indrajit Ray, “Estimating the Relative Trustworthiness of
+Information Sources in Security Solution Evaluation”, Proceedings of the 4th International
+Conference on Trust Managaement, Pisa, Italy, May 2006. Published as Lecture Notes in
+Computer Science, Vol. 3986, 2006, editors K. Stolen et al., Springer, pages 135–149.
+(Acceptance ratio 30/88)
+39. Monte Lunacek, Darrell Whitley and Indrakshi Ray, “A Crossover Operator for the K-
+Anonymity Problem”, Proceedings of the 8th Genetic and Evolutionary Computation Con-
+ference, Seattle, Washington, July 2006, ACM Press, pages 1713-1720. (Acceptance ratio
+205/446)
+40. Geri Georg, Siv Hilde Houmb and Indrakshi Ray, “Aspect-Oriented Risk-Driven Develop-
+ment of Secure Applications”, Proceedings of the 20th Annual IFIP Wg 11.3 Working Con-
+ference on Data and Applications Security, Sophia Antipolis, France, July 2006. Published
+as Lecture Notes in Computer Science, Vol. 4127, 2006, editors E. Damiani and P. Liu,
+Springer, pages 282–296. (Acceptance ratio 22/56)
+41. Tai Xin, Indrakshi Ray, Parvathi Chundi and Sopak Chaichana, “On the Completion of
+Workflows”, Proceedings of the 17th International Conference on Database and Expert
+Systems Applications, Krakow, Poland, September 2006. Published as Lecture Notes in
+Computer Science, Vol. 4080, 2006, editors S. Bressan et al., Springer, pages 582–591.
+(Acceptance ratio 90/388)
+42. Indrakshi Ray, Mahendra Kumar and Lijun Yu, “LRBAC: A Location-Aware Role-Based
+Access Control Model”, Proceedings of the 2nd International Conference on Information
+Systems Security, Kolkata, India, December 2006. Published as Lecture Notes in Computer
+Science, Vol. 4332, 2006, editors A. Bagchi and V. Atluri, Springer, pages 147–161. (Ac-
+ceptance ratio 24/79)
+43. Indrakshi Ray and Michael Geisterfer, “A Method for Early Correspondence Discovery Us-
+9
+
+-----
+ing Instance Data”, Proceedings of the 9th International Conference on Enterprise Informa-
+tion Systems, Funchal, Portugal, June 2007, pages 258–263. (Acceptance rate 35%)
+44. Lijun Yu, Robert France, Indrakshi Ray and Kevin Lano, “A Light-weight Approach to Ana-
+lyzing UML Behavioral Properties”, Proceedings of the 12th IEEE International Conference
+on Engineering of Complex Computer Systems, Auckland, New Zealand, July 2007, IEEE
+Computer Society Press, pages 56–63. (Acceptance ratio 20/70)
+45. Kyriakos Anastasakis, Behzad Bordbar, Geri Georg and Indrakshi Ray, “UML2Alloy: A
+Challenging Model Transformation”, Proceedings of the 10th International Conference on
+Model Driven Engineering Languages and Systems, Nashville, Tennessee, October 2007.
+Published as Lecture Notes in Computer Science, Vol. 4735, 2007, editors G. Engels, B.
+Opdyke, D. C. Schmidt and F. Weil, Springer, pages 436–450. (Acceptance rate 28%)
+46. Eunjee Song, Robert France, Indrakshi Ray and Hanil Kim, “Checking Policy Enforcement
+in an Access Control Aspect Model”, Proceedings of the International Conference on Con-
+vergence Technology and Information Convergence, Anaheim, California, November 2007.
+47. Jinyoo Kim, Yashwant Malaiya and Indrakshi Ray, “Vulnerability Discovery in Multi-Version
+Software Systems”, Proceedings of the 10th IEEE High Assurance Systems Engineering
+Symposium, Dallas, Texas, November 2007, IEEE Computer Society Press, pages 141 –
+148. (Acceptance ratio 33/100)
+48. Rinku Dewri, Indrakshi Ray, Indrajit Ray and Darrell Whitley, “Optimizing On-Demand
+Data Broadcast Scheduling in Pervasive Computing Environments”, Proceedings of the 11th
+International Conference on Extending Database Technology, Nantes, France, March 2008,
+pages 559–569. (Acceptance ratio 52/311)
+49. Rinku Dewri, Indrajit Ray, Indrakshi Ray and Darrell Whitley, “On the Optimal Selection
+of K in the K-Anonymity Problem” (Accepted as a poster paper), Proceedings of the 24th
+IEEE International Conference on Data Engineering, Cancun, Mexico, April 2008, pages
+1364–1366. (Acceptance ratio for Research Track including full-length, short and poster
+papers 191/615)
+50. Rinku Dewri, Darrell Whitley, Indrajit Ray and Indrakshi Ray, “Evolution Strategy Based
+Optimization of On-Demand Dependent Data Broadcast Scheduling” (Accepted as a poster
+paper), Proceedings of the Genetic and Evolutionary Computation Conference, Atlanta,
+Georgia, July 2008, pages 1699–1700. (Acceptance ratio for the Real-World Applications
+Track 34/75)
+51. Manachai Toahchoodee and Indrakshi Ray, “On the Formal Analysis of a Spatio-Temporal
+Role-Based Access Control Model”, Proceedings of the 22nd Annual IFIP WG 11.3 Working
+Conference on Data and Applications Security, London, U.K., July 2008, pages 17–32.
+(Acceptance ratio 22/56)
+52. Indrakshi Ray and Manachai Toahchoodee, “A Spatio-Temporal Role-Based Access Control
+Model Supporting Delegation for Pervasive Computing Applications”, Proceedings of the
+5th International Conference on Trust, Privacy, and Security in Digital Business, Turin,
+Italy, September 2008, pages 48–58. (Acceptance ratio 18/34)
+53. Indrakshi Ray and Wei Huang, “Increasing Expressiveness of Composite Events Using
+Parameter Contexts”, Proceedings of the 12th East-European Conference on Advances in
+Databases and Information Systems, Pori, Finland, September 2008, pages 215–230. (Ac-
+ceptance ratio 21/63)
+54. Rinku Dewri, Darrell Whitley, Indrajit Ray and Indrakshi Ray, “Optimizing Real-Time
+10
+
+-----
+Ordered-Data Broadcasts in Pervasive Environments using Evolution Strategy”, Proceedings
+of the 10th International Conference on Parallel Problem Solving from Nature, Dortmund,
+Germany, September 2008, pages 991–1000. (Acceptance ratio 114/206)
+55. Lijun Yu, Robert France and Indrakshi Ray, “Scenario-based Static Analysis of UML Be-
+havioral Properties”, Proceedings of the ACM/IEEE 11th Conference on Model Driven En-
+gineering Languages and Systems, Toulouse France, September 2008, pages 234–248. (Ac-
+ceptance ratio 58/274)
+56. Rinku Dewri, Indrakshi Ray, Indrajit Ray and Darrell Whitley, “Security Provisioning in
+Pervasive Environments Using Multi-objective Optimization”, Proceedings of the 13th Eu-
+ropean Symposium on Research in Computer Security, Malaga, Spain, October 2008, pages
+349–363. (Acceptance ratio 37/168)
+57. Rinku Dewri, Indrajit Ray, Indrakshi Ray and Darrell Whitley, “On the Comparison of Mi-
+crodata Disclosure Control Algorithms”, Proceedings of the 12th International Conference
+on Extending Database Technology, Saint-Petersburg, Russia, March 2009, pages 240–251.
+(Acceptance ratio 92/283)
+58. Manachai Toahchoodee, Indrakshi Ray, Kyriakos Anastasakis, Geri Georg and Behzad Bor-
+dbar, “Ensuring Spatio-Temporal Access Control for Real World Applications”, Proceedings
+of the 14th Symposium on Access Control Models and Technologies, Stresa, Italy, June 2009,
+pages 19–22. (Acceptance ratio 24/75)
+59. Lijun Yu, Robert France, Indrakshi Ray and Sudipto Ghosh, “A Rigorous Approach to Un-
+covering Security Policy Violations in UML Designs”, Proceedings of the 14th International
+Conference on Engineering of Complex Computer Systems, Pottsdam, Germany, June 2009,
+pages 126–135. (Acceptance ratio 19/65)
+60. Rinku Dewri, Darrell Whitley, Indrajit Ray and Indrakshi Ray, “A Multi-Objective Approach
+to Data Sharing with Privacy Constraints and Preference Based Objectives”, Proceedings of
+the Genetic and Evolutionary Computation Conference, Montreal, Canada, July 2009, pages
+1499–1506. (Acceptance ratio 220/531)
+61. Manachai Toahchoodee, Ramadan Abdunabi, Indrakshi Ray and Indrajit Ray, “A Trust-
+Based Access Control Model for Pervasive Computing Applications”, Proceedings of the
+23rd Annual IFIP WG 11.3 Working Conference on Data and Applications Security, Mon-
+treal, Canada, July 2009, pages 307–314. (Acceptance ratio 23/41)
+62. Manachai Toahchoodee, Xing Xie and Indrakshi Ray, ”Towards Trustworthy Delegation in
+Role-Based Access Control Models”, Proceedings of the 12th Information Security Confer-
+ence, Pisa, Italy, September 2009, pages 379–394. (Acceptance ratio 29/105)
+63. Rinku Dewri, Indrajit Ray, Indrakshi Ray and Darrell Whitley, ”POkA: Identifying Pareto-
+Optimal k-Anonymous Nodes in a Domain Hierarchy Lattice”, Proceedings of the 18th ACM
+Conference on Information and Knowledge Management, Hong Kong, China, November
+2009, pages 1037–1046. (Acceptance ratio 123/847)
+64. Rinku Dewri, Indrakshi Ray, Indrajit Ray and Darrell Whitley, “Query m-Invariance: Pre-
+venting Query Disclosures in Continuous Location-Based Services”, Proceedings of the 11th
+International Conference on Mobile Data Management, Kansas City, Missouri, May 2010,
+pages 95–104. (Acceptance ratio 16/63)
+65. Rinku Dewri, Indrajit Ray, Indrakshi Ray and Darrell Whitley, “On the Identification of
+Property Based Generalizations in Microdata Anonymization”, Proceedings of the 24th An-
+nual IFIP WG 11.3 Working Conference on Data and Applications Security, Rome, Italy,
+11
+
+-----
+June 2010, pages 81–96. (Acceptance ratio 18/61)
+66. Siv Hilde Houmb, Sudip Chakraborty, Indrakshi Ray and Indrajit Ray, “Using Trust-Based
+Information Aggregation for Predicting Security Level of Systems”, Proceedings of the 24th
+Annual IFIP WG 11.3 Working Conference on Data and Applications Security, Rome, Italy,
+June 2010, pages 241–256. (Acceptance ratio 18/61)
+67. Rinku Dewri, Indrakshi Ray, Indrajit Ray and Darrell Whitley, “On the Formation of His-
+torically k-Anonymous Anonymity Sets in a Continuous LBS”, Proceedings of the 6th In-
+ternational Conference on Security and Privacy in Communication Networks, Singapore,
+September 2010, pages 71–88. (Acceptance ratio 28/112)
+68. Wuliang Sun, Robert France and Indrakshi Ray, “Rigorous Analysis of UML Access Con-
+trol Policy Models”, Proceedings of the IEEE International Symposium on Policies for Dis-
+tributed Systems and Networks, Pisa, Italy, June 2011, pages 9–16. (Acceptance ratio for full
+paper 16%)
+69. Raman Adaikkalavan, Indrakshi Ray and Xing Xie, “Multilevel Stream Data Processing”,
+Proceedings of the 25th Annual IFIP WG 11.3 Conference on Data and Applications Security
+and Privacy, Richmond, Virginia, July 2011, pages 122–137. (Acceptance ratio for full
+papers 14/37)
+70. Wuliang Sun, Robert France and Indrakshi Ray, “Supporting Iterative Development of Ro-
+bust Operation Contracts in UML Requirements Models”, Proceedings of the 13th IEEE
+International High Assurance Systems Engineering Symposium, Boca Raton, FL, November
+2011, pages 9–16.
+71. Lijun Yu, Robert B. France, Indrakshi Ray, and Wuliang Sun, “Systematic Scenario-Based
+Analysis of UML Design Class Models”, Proceedings of the 17th IEEE International Con-
+ference on Engineering of Complex Computer Systems, Paris, France, July 2012, pages 86–
+95. (Acceptance rate 29%)
+72. Xing Xie, Indrakshi Ray, Raman Adaikkalavan, and Rose Gamble, “Information Flow Con-
+trol for Stream Processing in the Clouds”, Proceedings of the 18th Symposium on Access
+Control Models and Technologies, Amsterdam, The Netherlands, June 2013, pages 89–100.
+(Acceptance ratio 19/62)
+73. Ramadan Abdunabi, Indrakshi Ray, and Robert France, “Specification and Analysis of Ac-
+cess Control Policies for Mobile Applications”, Proceedings of the 18th Symposium on Ac-
+cess Control Models and Technologies, Amsterdam, The Netherlands, June 2013, pages
+173–184. (Acceptance ratio 19/62)
+74. Mustafa Al-Lail, Ramadan Abdunabi, Robert France, and Indrakshi Ray, “Rigorous Analy-
+sis of Temporal Access Control Properties in Mobile Systems (Short Paper)”, Proceedings
+of the 18th International Conference on Engineering of Complex Computer Systems, Singa-
+pore, July 2013, pages 246–251. (Acceptance ratio for all papers: 38/102)
+75. Indrajit Ray, Dieudonne Mulamba, Indrakshi Ray, and Keesook Han, “A Model for Trust-
+based Access Control and Delegation in Mobile Clouds”, Proceedings of the 27th Annual
+IFIP WG 11.3 Working Conference on Data and Applications Security and Privacy, Newark,
+New Jersey, July 2013, pages 242–257. (Acceptance ratio for full papers: 16/45)
+76. Wuliang Sun, Robert France, and Indrakshi Ray, “Contract-Aware Slicing of UML Class
+Models”, Proceedings of the ACM/IEEE 16th International Conference on Model Driven
+Engineering Languages and Systems, Miami, Florida, September 2013, pages 724–739.
+(Acceptance ratio: 30/130)
+12
+
+-----
+77. Xing Xie, Indrakshi Ray, and Raman Adaikkalavan, “On the Efficient Processing of Multi-
+level Secure Continuous Queries (Short Paper)”, Proceedings of the ASE/IEEE International
+Conference on Privacy, Security, Risk and Trust, Washington D.C., September 2013, pages
+417–422. (Acceptance rate for short papers: 7%)
+78. Kirill Belyaev, Indrakshi Ray, Indrajit Ray, and Gary Luckasen, “Personal Health Record
+Storage on Privacy Preserving Green Clouds”, Proceedings of the 9th IEEE International
+Conference on Collaborative Computing: Networking, Applications and Worksharing, Austin,
+TX, October 2013. pages 448–457. (Acceptance rate: 27%)
+79. Tarik Moataz, Nora Cuppens-Boulahia, Frederic Cuppens, Indrajit Ray, and Indrakshi Ray,
+“ELITE: zEro Links Identity managemenT systEm”, Proceedings of the 28th Annual IFIP
+WG 11.3 Working Conference on Data and Applications Security and Privacy, Vienna, Aus-
+tria, July 2014. (Acceptance ratio: 22/63)
+80. Tarik Moataz, Benjamin Justus, Nora Cuppens-Boulahia, Frederic Cuppens, and Indrajit
+Ray, “Privacy-Preserving Multiple Keyword Search on Outsourced Data in the Clouds”, Pro-
+ceedings of the 28th Annual IFIP WG 11.3 Working Conference on Data and Applications
+Security and Privacy, Vienna, Austria, July 2014. (Acceptance ratio: 22/63)
+81. Negar Mosharraf, Anura P. Jayasumana, and Indrakshi Ray, “A Responsive Defense Mecha-
+nism against DDoS Attacks” (Short Paper), Proceedings of the 7th International Symposium
+on Foundations and Practice of Security, Montreal, Canada, November 2014. (Acceptance
+ratio including short papers: 25/48)
+82. Phillipa Bennett, Indrakshi Ray, Robert B. France, “Analysis of a Relationship-Based Access
+Control Model”, Proceedings of the 8th International C* Conference on Computer Science
+& Software Engineering, Yokohama, Japan, July 2015.
+83. Ibrahim Lazrig, Tarik Moataz, Indrajit Ray, Indrakshi Ray, Toan Ong, Michael G. Kahn,
+Frederic Cuppens, and Nora Cuppens-Boulahia, “Privacy-Preserving Record Matching Us-
+ing Automated Semi-trusted Broker”, Proceedings of the 29th Annual IFIP WG 11.3 Work-
+ing Conference on Data and Applications Security and Privacy, Fairfax, VA, July 2015.
+(Acceptance ratio for full papers: 18/45)
+84. Indrakshi Ray, Raman Adaikkalavan, Xing Xie, and Rose Gamble, “Stream Processing with
+Secure Information Flow Constraints”, Proceedings of the 29th Annual IFIP WG 11.3 Work-
+ing Conference on Data and Applications Security and Privacy, Fairfax, VA, July 2015.
+(Acceptance ratio for full papers: 18/45)
+85. Kirill Belyaev and Indrakshi Ray, “Towards Efficient Dissemination and Filtering of XML
+Data Streams”, Proceedings of the 13th IEEE International Conference on Dependable, Au-
+tonomic, and Secure Computing, Liverpool, UK, October 2015. (Acceptance ratio 30%)
+86. Phillipa Bennett, Indrakshi Ray, and Robert France, “Modeling of Online Social Network
+Policies using Attribute-Based Access Control Framework”, Proceedings of the 11th Inter-
+national Conference on Information Systems Security, Kolkata, India, December 2015.
+Workshop and Fast Abstracts Publications
+1. Indrajit Ray, Bruce Maxim, Kiumi Akingbehin, Indrakshi Ray and Qiang Zhu, “Design of
+a Center for Research in Information System Security”, Proceedings of the 18th Annual
+AoM/IAoM International Conference, San Antonio, TX, August 2000, pages 131–136.
+13
+
+-----
+2. Geri Georg, Robert France and Indrakshi Ray, “An Aspect-Based Approach to Modeling
+Security Concerns Aspects”, Proceedings of the Workshop on Critical Systems Development
+using UML, Dresden, Germany, September 2002, pages 107–120.
+3. Robert France, Geri Georg and Indrakshi Ray, “Supporting Multi-Dimensional Separation of
+Concerns”, Proceedings of the Workshop on Aspect-Oriented Modeling with UML, Boston,
+MA, March 2003.
+4. Geri Georg, Robert France and Indrakshi Ray, “Creating Security Mechanism Aspect Mod-
+els from Abstract Aspect Security Models”, Proceedings of the Workshop on Critical Sys-
+tems Development using UML, San Francisco, CA, October 2003.
+5. Geri Georg, Robert France and Indrakshi Ray, “Composing Aspect Models”, Proceedings of
+the Workshop on Aspect-Oriented Modeling with UML, San Francisco, CA, October 2003.
+6. Robert France, Sudipto Ghosh, Indrakshi Ray, James Bieman and Roger Alexander, “Evalu-
+ating Competing Dependability Concern Realizations in an Aspect-Oriented Modeling Frame-
+work”, Supplementary Proceedings of the International Symposium on Software Reliability
+Engineering, Denver, CO, November 2003. (Acceptance ratio 40/51)
+7. Shuxin Yin, Indrakshi Ray and Indrajit Ray, “A Trust Model for Pervasive Computing Envi-
+ronments”, Proceedings of Workshop on Trusted Collaboration, November 2006.
+8. Indrakshi Ray, Geri Georg and Siv Hilde Houmb, “An Aspect-Oriented Risk-Driven Ap-
+proach for Developing Mission Critical Applications”, Position Paper accepted in National
+Workshop on High-Confidence Software Platforms for Cyber-Physical Systems, Alexandria,
+Virginia, November 2006.
+9. Nayot Poolsappasit and Indrakshi Ray, “Towards a Scalable Model for Location Privacy”,
+Proceedings of International Workshop on Security and Privacy in GIS and LBS, Irvine,
+California, November 2008, pages 46–51.
+10. Indrakshi Ray, “Challenges in Securing Pervasive Computing Applications”, Proceedings of
+the NSF Workshop on Data and Applications Security, Arlington, Virginia, February 2009.
+11. Indrakshi Ray and Indrajit Ray, “Access Control Challenges for Cyber-Physical Systems”,
+Proceedings of the 1st Workshop on Cyber-physical Systems Security, Newark, New Jersey,
+July 2009.
+12. Indrakshi Ray, Sanjay Madria, and Mark Linderman, “Query Plan Execution in a Hetero-
+geneous Stream Management System for Situational Awareness”, Proceedings of the 5th
+Workshop on Dependable Network Computing and Mobile Systems, Irvine, California, Oc-
+tober 2012, pages 424–429.
+13. Sarra M. Alqahtani, Rose Gamble, and Indrakshi Ray, “Auditing Requirements for Imple-
+menting the Chinese Wall Model in the Service Cloud”, Proceedings of the International
+Workshop on Cloud Security Auditing, Santa Clara, California, June 2013, pages 298–305.
+14. Xing Xie, Indrakshi Ray, Waruna Ranasinghe, Philips A. Gilbert, Pramod Shashidhara, and
+Anoop Yadav, “Query Plan Execution in a Heterogeneous Stream Management System for
+Situational Awareness”, Proceedings of the 12th International Workshop on Assurance in
+Distributed Systems and Networks, Philadelphia, July 2013, pages 368–373.
+15. Wuliang Sun, Robert France, and Indrakshi Ray, “Analyzing Behavioral Refactoring of Class
+Models”, Proceedings of the Workshop on Models and Evolution, Miami, Florida, October
+2013, pages 70–79.
+16. Mustafa Al-Lail, Ramadan Abdunabi, Robert France and Indrakshi Ray, “An Approach to
+Analyzing Temporal Properties in UML Class Models”, Proceedings of the 10th Interna-
+14
+
+-----
+tional Workshop on Model Driven Engineering, Verification and Validation, Miami, Florida,
+October 2013, pages 77–86.
+17. Prabhakaran Murugesan and Indrakshi Ray, “Audit Log Management in MongoDB”, Pro-
+ceedings of the International Workshop on Cloud Security Auditing co-located with IEEE
+World Congress on Services, Anchorage, Alaska, June 2014, pages 53–57.
+18. Curtis C. R. Busby Earle, Robert B. France and Indrakshi Ray, “Analysing Requirements to
+Detect Latent Security Vulnerabilities”, Trustworthy Computing Workshop co-located with
+International Conference on Software Security and Reliability, San Francisco, California,
+June 2014, pages 168–175.
+19. Thilina Buddhika, Indrakshi Ray, Mark Linderman and Anura Jayasumana, “Secure Com-
+plex Event Processing in a Heterogeneous and Dynamic Network”, Proceedings of SPIE
+9079, Ground/Air Multisensor Interoperability, Integration, and Networking for Persistent
+ISR, Baltimore, Maryland, June 2014.
+20. Phillipa Bennett, Wuliang Sun, Wade Ted, Geri Georg, Indrakshi Ray and Michael Kahni,
+“Analyzing Regulatory Conformance in Medical Research Systems Using Multi-Paradigm
+Modeling”, Proceedings of the 9th International Workshop on Multi-Paradigm Modeling,
+Ottawa, Canada, October 2015.
+21. Andy Hsu and Indrakshi Ray, “Specification and Enforcement of Location-Aware Attribute-
+Based Access Control for Online Social Networks”, Proceedings of ACM Workshop on At-
+tribute Based Access Control, New Orleans, March 2016.
+Other Refereed Publications
+1. Indrajit Ray and Indrakshi Ray, “Fair-Exchange in E-Commerce”, SIGecom Exchanges,
+Volume 3.2, Spring 2002, pages 9–17.
+Books Edited
+Editor (with Sabrina De Capitani di Vimercati and Indrajit Ray), Data and Applications Security
+XVII: Status and Prospects, July 2004.
+Editor (with Vijay Atluri), Journal on Digital Libraries, Special Issue on Security, Volume 4,
+Number 3, 2004.
+Editor (with David Ferrailo), ACM Symposium on Access Control Models and Technologies,
+June 2006.
+Editor, ACM Transactions on Information and System Security, Special Issue, Volume 11, Num-
+ber 1, 2008.
+Editor (with Ninghui Li), ACM Symposium on Access Control Models and Technologies, June
+2008.
+Editor (with Guojun Wang, Dengguo Feng, Muttukrishnan Rajarajan), International Symposium
+on Cyberspace Safety and Security, November 2013.
+Editor (with Aditya Bagchi), International Conference on Information Systems and Security, De-
+cember 2013.
+15
+
+-----
+Contracts and Grants
+Funded Projects as PI
+Indrakshi Ray, “EAGER: Collaborative: Toward a Test Bed for Heavy Vehicle Cyber Security
+Experimentation”, National Science Foundation, 1/16– 12/17, $129,999 (CSU Budget) with
+University of Tulsa.
+Indrakshi Ray, Indrajit Ray, and Christos Papadopoulos, “Planning Grant: I/UCRC for Joining
+Center for Configuration Analytics and Automation”, National Science Foundation, 08/15–
+07/16, $14,500.
+Indrakshi Ray, “Access Control Management in Linux Environments”, National Institute of Stan-
+dards, 08/15–07/16, $74,702.
+Indrakshi Ray, “SHF: Small: Scenario-Based Validation of Design Models”, National Science
+Foundation, (managed after the untimely demise of my colleague Dr. Robert France).
+Indrakshi Ray, “Privacy Preserving Information Disclosure in Social Networks”, National Insti-
+tute of Standards, 06/14–05/15, $34,956.
+Indrakshi Ray, “Toward Automated Policy Compliance Checking for Health Databases”, Col-
+orado State University Internal Grant, 01/15–06/15, $12,000.
+Indrakshi Ray and Indrajit Ray, “Addressing Security Challenges in Pervasive Computing Appli-
+cations”, Air Force Office of Scientific Research, 12/06–05/10, $467,952.
+Indrakshi Ray and Robert France, “Specification, Analysis, Integration and Evolution of Security
+Policies using Aspects”, Air Force Office of Scientific Research, 02/04 – 02/07, $300,024.
+Indrakshi Ray and Indrajit Ray, “Designing Fail-Soft E-commerce Protocols Using Formal Meth-
+ods”, Summer Research Grant, University of Michigan-Dearborn, 2000, $5000.
+Indrakshi Ray, Indrajit Ray and Bruce Maxim, “Design and Verification of Secure E-Commerce
+Protocol”, Faculty Research Grant, University of Michigan-Dearborn, 1999, $1,700.
+Funded Projects as Co-PI
+Geri Georg and Indrakshi Ray, “Development of ID Source for First Release”, United States
+Department of Agriculture, 08/09 – 08/10, $36,749.
+Indrajit Ray and Indrakshi Ray, “A Framework for Secure and Survivable Transaction Process-
+ing”, National Science Foundation, 06/03 – 05/06, $152,228.
+Indrajit Ray and Indrakshi Ray, “A Model of Trust for Developing Trustworthy Systems from
+Untrustworthy Actors”, Air Force Research Laboratory, 05/03 – 05/06, $318,498.
+Indrajit Ray, Indrakshi Ray, Kiumi Akingbehin, Bruce Maxim, and Qiang Zhu, “Acquisition of
+Instruments for Research in Computer and Network Security”, National Science Foundation,
+Major Research Instrumentation, 09/99–08/01, $157,937.
+Bruce Maxim, Ken Modesitt, Indrakshi Ray and Indrajit Ray, “High Resolution Portable Multi-
+media”, Chancellor’s Technology Grant, University of Michigan-Dearborn, 1998, $1,000.
+Funded Projects as Senior Personnel
+James Bieman, Lars Eisen (contact), Sudipto Ghosh, Saul Lozano-Fuentes, “Use of cell phones
+for field data capture in a Dengue Decision Support System”, National Institute of Health,
+07/2009 – 07/2011, $365,971.
+16
+
+-----
+Professional Presentations
+1. 1996 Ensuring Atomicity of Multilevel Transactions, IEEE Symposium on Security and Pri-
+vacy, Oakland, CA.
+2. 1997 Using Formal Methods for Semantics-Based Decomposition of Transactions, Oakland
+University, Rochester, MI.
+3. 1997 Using Formal Methods for Semantics-Based Decomposition of Transactions, Univer-
+sity of Michigan–Dearborn, Dearborn, MI.
+4. 2001 Failure Analysis of an E-Commerce Protocol using Model Checking, International
+Workshop on Advanced Issues of E-Commerce and Web-based Information Systems, San
+Jose, CA.
+5. 2000 Designing Failure-Resilient E-Commerce Protocol Using Model Checking, Georgia
+State University, Atlanta, GA.
+6. 2000 Designing Failure-Resilient E-Commerce Protocol Using Model Checking, Colorado
+State University, Fort Collins, CO.
+7. 2001 Designing Failure-Resilient E-Commerce Protocol Using Model Checking, University
+of Texas at Arlington, Arlington, TX.
+8. 2001 Designing Failure-Resilient E-Commerce Protocol Using Model Checking, Washing-
+ton State University, Pullman, WA.
+9. 2001 Designing Failure-Resilient E-Commerce Protocol Using Model Checking, University
+of Maryland Baltimore County, Baltimore, MD.
+10. 2001 An Anonymous Fair-Exchange E-Commerce Protocol, International Workshop on In-
+ternet Computing and E-Commerce, San Francisco, CA.
+11. 2001 Using Compatible Keys for Secure Multicasting in E-Commerce, International Work-
+shop on Internet Computing and E-Commerce, Fort Lauderdale, FL.
+12. 2002 Designing High Integrity Systems Using Aspects, Annual IFIP WG 11.5 Conference
+on Integrity and Internal Control in Information Systems, Bonn, Germany.
+13. 2003 Multi-level Secure Rules and Its Impact on the Design of Active Databases, British
+National Conference on Databases, Coventry, U.K.
+14. 2003 Concurrent and Real-Time Update of Access Control Policies, International Confer-
+ence on Databases and Expert Systems, Prague, Czech Republic.
+15. 2003 Using Parameterized UML to Specify and Compose Access Control Models, Annual
+IFIP WG 11.5 Conference on Integrity and Internal Control in Information Systems, Lau-
+sanne, Switzerland.
+16. 2003 Grand Challenges in Integrity and Data Quality, Annual IFIP WG 11.5 Conference on
+Integrity and Internal Control in Information Systems, Panelist, Lausanne, Switzerland.
+17. 2004 Concurrency Control in Mobile Database Systems, International Conference on Ad-
+vanced Networking and Applications, Fukuoka, Japan.
+18. 2004 An Aspect-Based Approach for Specification, Validation, Integration and Evolution of
+Security Policies, AFOSR PI Meeting, Ithaca, NY.
+19. 2004 Using UML to Visualize Role-Based Access Control Constraints, ACM Symposium on
+Access Control Models and Technologies, Yorktown Heights, NY.
+20. 2004 Reducing Damage Assessment Latency in Survivable Databases, British National Con-
+ference on Databases, Edinburgh, Scotland.
+21. 2004 Implementing Real-Time Update of Access Control Policies, Annual IFIP WG 11.3
+17
+
+-----
+Conference on Data and Applications Security, Sitges, Spain.
+22. 2004 Ensuring Task Dependencies During Workflow Recovery, International Conference on
+Database and Expert Systems, Zaragoza, Spain.
+23. 2004 An Anonymous Fair-Exchange E-Commerce Protocol, Invited Talk at IBM Boulder,
+Boulder, CO.
+24. 2004 An Anonymous Fair-Exchange E-Commerce Protocol, Invited Talk at Purdue Univer-
+sity, West Lafayette, IN.
+25. 2004 Using Schemas to Simplify Access Control for XML Documents, International Confer-
+ence on Distributed Computing and Internet Technologies, Bhubaneswar, India.
+26. 2005 Relational Database Operations Modeling with UML, IEEE International Conference
+on Advanced Information Networking and Applications, Taipei, Taiwan.
+27. 2005 Detecting Dependency Conflicts in Advanced Transaction Models, International Database
+Engineering and Applications Symposium, Montreal, Canada.
+28. 2005 Specification, Analysis, Integration and Evolution of Security Policies using Aspects,
+AFOSR PI Meeting, Rome, NY.
+29. 2005 Recovering from Malicious Attacks in Workflow Systems, International Conference on
+Database and Expert Systems, Copenhagen, Denmark.
+30. 2005 Towards a Location-Aware Role-Based Access Control Model, IEEE Conference on
+Security and Privacy for Emerging Areas in Communication Networks, Athens, Greece.
+31. 2005 Event Detection in Multilevel Secure Active Databases, International Conference on
+Information Systems Security, Kolkata, India.
+32. 2005 Validation of Policy Integration using Alloy, International Conference on Distributed
+Computing and Internet Technologies, Bhubaneswar, India.
+33. 2006, An Anonymous Fair-Exchange E-Commerce Protocol, Invited Talk at University of
+Pittsburgh, Pittsburgh, PA.
+34. 2006 An Aspect-Based Approach for Specification, Analysis, Integration and Evolution of
+Security Policies, AFOSR PI Meeting, Verona, NY.
+35. 2006 On the Completion of Workflows, International Conference on Database and Expert
+Systems Applications, Krakow, Poland.
+36. 2006 An Aspect-Based Approach for Developing Secure Applications, Invited Talk at Hogeschool
+Utrecht, Utrecht, The Netherlands.
+37. 2006 LRBAC: A Location-Aware Role-Based Access Control Model, International Confer-
+ence on Information Systems Security, Kolkata, India.
+38. 2006 An Aspect-Oriented Risk-Driven Development of Critical Applications, National Work-
+shop on High-Confidence Software Platforms for Cyber-Physical Systems, Alexandria, VA.
+39. 2006 An Aspect-Based Approach for Specification, Analysis, Integration and Evolution of Se-
+curity Policies, Keynote Talk, International Conference on Advanced Computing and Com-
+munications, Mangalore, India.
+40. 2007 A Framework for Developing Secure Systems, Cyber Defense Conference, Rome, New
+York.
+41. 2007 A Method for Early Correspondence Detection Using Instance Data, International
+Conference on Enterprise Information Systems, Funchal, Portugal.
+42. 2007 Addressing Security Challenges in Pervasive Computing Applications, AFOSR PI
+meeting, Rome, New York.
+43. 2008 Optimizing On-Demand Data Broadcast Scheduling in Pervasive Environments, Inter-
+18
+
+-----
+national Conference on Extending Database Technology, Nantes, France.
+44. 2008 Security Provisioning in Pervasive Environments Using Multi-Objective Optimizations,
+Cyber Defense Conference, Rome, New York.
+45. 2008 Addressing Security Challenges in Pervasive Computing Applications, AFOSR PI
+meeting, Arlington, VA.
+46. 2008 On the Formal Analysis of a Spatio-Temporal Role-Based Access Control Model, IFIP
+WG 11.3 Conference on Data and Applications Security, London, U.K.
+47. 2008 Securing Pervasive Computing Applications, Keynote Talk at the International Sym-
+posium on Trusted Computing, Zhang Jia Jie, China.
+48. 2009 Access Control in Computing Systems, Invited Talk at Information Security Education
+and Awareness Workshop, Guwahati, India.
+49. 2009 Challenges in Securing Pervasive Computing Applications, NSF Workshop on Data
+and Applications Security, Arlington, VA.
+50. 2009 Ensuring Spatio-Temporal Access Control for Real-World Applications, ACM Sympo-
+sium on Access Control Models and Technologies, Stresa, Italy.
+51. 2009 Addressing Security Challenges in Pervasive Computing Applications, AFOSR PI
+meeting, Arlington, VA.
+52. 2009 Access Control Challenges for Cyber-Physical Systems, DHS: S&T Workshop on Fu-
+ture Directions in Cyber-physical Systems Security, Newark, New Jersey.
+53. 2009 Towards Trustworthy Delegation in Role-Based Access Control Model, Information
+Security Conference, Pisa, Italy.
+54. 2009 Information Security Research at Colorado State University, PSG Tech, Coimbatore,
+India.
+55. 2010 Computer Science Research at Colorado State University, Jadavpur University, Kolkata,
+India.
+56. 2010 Computer Science Research at Colorado State University, Bengal Engineering and
+Science University, Kolkata, India.
+57. 2011 Multilevel Secure Data Stream Processing, Richmond, VA.
+58. 2012 Query Plan Execution in a Heterogeneous Stream Management System for Situational
+Awareness, Air Force Research Laboratory, Rome, NY.
+59. 2013 Specification and Analysis of Access Control Policies for Mobile Applications, ACM
+Symposium on Access Control Models and Technologies, Amsterdam, The Netherlands.
+60. 2013 Information Flow Control for Stream Processing in the Clouds, ACM Symposium on
+Access Control Models and Technologies, Amsterdam, The Netherlands.
+61. 2013 Distributed Multilevel Secure Data Stream Processing, International Workshop on As-
+surance in Distributed Systems and Networks, Philadelphia, PA.
+62. 2013 Secure Real-Time Auditing in the Clouds, Air Force Research Laboratory, Rome, NY.
+63. 2014 Secure Complex Event Processing in a Heterogeneous and Dynamic Network, SPIE
+Ground/Air Multisensor Interoperability, Integration, and Networking for Persistent ISR,
+Baltimore, MD.
+64. 2014 Information Security Research at Colorado State University, Industrial Advisory Board
+Meeting Center for Configuration Analytics and Automation, Charlotte, NC.
+65. 2015 Information Security Research at Colorado State University, Industrial Advisory Board
+Meeting Center for Configuration Analytics and Automation, Fairfax, VA.
+66. 2015 Stream Processing with Information Flow Constraints, IFIP WG 11.3 Working Con-
+19
+
+-----
+ference on Data and Applications Security, Fairfax, VA.
+67. 2015 Information Security Research at Colorado State University, Industrial Advisory Board
+Meeting Center for Configuration Analytics and Automation, Charlotte, NC.
+20
+
+-----
+Professional Affiliations and Activities
+Professional Affiliations ACM, ACM SIGSAC, IFIP WG 11.3, UPE, IEEE (Senior)
+EditorshipAssociate Editor, IEEE Transactions on Secure and Dependable Computing.
+Editorial Board Member, Journal of Autonomic and Trusted Computing, American Scien-
+tific Publishers.
+Editorial Board Member, Computer Standards and Interfaces, Elsevier.
+Editor (with Vijay Atluri), Special Issue on Security, Journal on Digital Libraries, Springer-
+Verlag, Volume 4, Number 3, November 2004.
+Editor, Special Issue, ACM Transactions on Information and System Security, Volume 11,
+Number 1, February 2008.
+Conference/Workshop ChairProgram Co-Chair, 9th International Conference on Security, Pri-
+vacy, and Anonymity in Computation, Communication and Storage, Zhangjiajie, China,
+November 2016.
+Program Co-Chair, 9th International Conference on Information Systems Security, Kolkata,
+India, December 2013.
+Program Co-Chair, The 5th International Symposium on Cyberspace Safety and Security,
+Zhangjiajie, China, November 2013.
+Program Co-Chair, The 3rd International Symposium on Security and Privacy in Internet
+of Things, Melbourne, Australia, July 2013.
+Program Co-Chair, The 1st International Workshop on Cloud Security Auditing (in associ-
+ation with the 9th IEEE World Congress on Services), July 2013.
+Program Co-Chair, The 2nd International Symposium on Security and Privacy in Internet
+of Things, Liverpool, U.K., June 2012.
+Program Co-Chair, The IEEE/IFIP International Symposium on Trust, Security and Privacy
+for Pervasive Applications, Shanghai, China, December 2008.
+General Chair, 13th ACM Symposium on Access Control Models and Technologies, Estes
+Park, CO, June 2008.
+Program Chair, 11th ACM Symposium on Access Control Models and Technologies, Lake
+Tahoe, CA, June 2006.
+Program Co-Chair, 14th International Conference on Advanced Computing and Commu-
+nications, Mangalore, India, December 2006.
+Program Co-Chair, IEEE International Workshop on Trusted and Autonomic Computing
+Systems, Vienna, Austria, April 2006.
+Program Co-Chair, 17th Conference on IFIP WG 11.3 on Data and Applications Security,
+Estes Park, CO, August 2003.
+Track ChairThe 4th International Conference on Future Internet of Things and Cloud, Vienna,
+Austria, August 2016.
+The 8th International Conference on Mobile Web Information Systems, Niagara Falls,
+Canada, September 2011, 2012.
+The IEEE 23rd International Conference on Advanced Information Networking and Appli-
+cations, Bradford, U.K., May 2009.
+21
+
+-----
+International Conference on Distributed Computing and Internet Technology, Bhubaneswar,
+India, December 2004.
+Steering Committee MemberACM Symposium on Access Control Models and Technologies
+(SACMAT) 2008–present.
+International Liaison ChairThird International Conference on Autonomic and Trusted Com-
+puting, Wuhan and Three Gorges, China, September 2006.
+Program Committee MemberACM Symposium on Access Control Models and Technologies
+(SACMAT) 2004 – 2016.
+WG 11.3 Working Conference on Data and Applications Security (DBSec) 2004 – 2015.
+WG 11 International Conference on Infomation Security and Privacy (SEC) 2014 – 2016.
+International Conference on Distributed Computing Systems (ICDCS) (Security and Pri-
+vacy) 2014.
+European Symposium on Research in Computer Security (ESORICS) 2008, 2011 – 2014.
+International Conference on Network and System Security (NSS) 2009 – 2015.
+International Symposium on Security in Collaboration Technology and Systems (SECOTS)
+2012, 2014.
+International Workshop on Security in Information Systems (WOSIS) 2005 – 2015.
+International Workshop on Assurance in Distributed Systems and Network (ADSN) 2014.
+ACM International Conference on Distributed Event-Based Systems (DEBS) (Poster and
+Demo Track) 2013.
+IEEE International Conference on e-Business Engineering (ICEBE) (Software Engineering
+for e-Business) 2013 – 2014.
+International Workshop on Information Systems Security Engineering (WISSE) 2012 –
+2013.
+International Conference on Mobile Web Information Systems (MobiWIS) 2013.
+Workshop on Redefining and Integrating Security Engineering (RISE) 2012.
+International Workshop on Risk and Trust in Safety Critical Systems (RTW) 2012.
+International Conference on Collaborative Computing: Networking, Applications and Work-
+sharing (CollaborateComm) 2010 - 2011.
+ACM GIS International Workshop on Security and Privacy in GIS and LBS (SPRINGL),
+2010.
+International Workshop on Privacy and Anonymity in the Information Society (PAIS) 2009
+– 2011.
+Information Security Conference (ISC) 2009.
+International Conference on Data Engineering (ICDE) 2008.
+International Workshop on Adaptive Systems in Heterogeneous Environments (ASHEs)
+2008 – 2010.
+International Conference on Database Systems for Advanced Applications (DASFAA) 2007
+–2008.
+IEEE International Conference on Advanced Information Networking and Applications
+(AINA) 2006 – 2008.
+International Conference on Intelligent Pervasive Computing (IPC) 2007.
+International Workshop on Mobile and Ubiquitous Context Aware Systems and Applica-
+tions (MUBICA) 2007.
+22
+
+-----
+International Conference on Self-Organization and Autonomous Systems in Computing
+and Communications (SOAS) 2007.
+International Conference on Information Systems Security (ICISS) 2005 – 2007.
+International Conference on E-commerce and Web Technologies (EC-Web) 2003 – 2008.
+International Workshop on Self-Adaptive and Autonomic Systems (SAACS) 2003 – 2007.
+International Conference on Autonomic and Trusted Computing (ATC) 2008.
+International Workshop on Secure Systems Methodologies Using Patterns (SPattern) 2007
+– 2009.
+IEEE International Conference on Information Reuse and Integration (IRI) 2006 – 2007.
+International Conference on Security and Cryptography (SECRYPT) 2006 – 2009.
+Workshop on Trusted Collaboration (TrustCol) 2006.
+International Symposium on Ubiquitous Intelligence and Smart Worlds (UISW) 2005.
+International Conference on Distributed Computing and Internet Technology (ICDCIT)
+2005.
+ACM Conference on Computer and Communications Security (CCS) 2003 – 2004.
+International Workshop on P2P Data Management, Security and Trust (PDMST) 2004.
+Conference on Extending Database Technology (EDBT) 2004.
+IFIP TC-11 WG 11.5 Working Conference on Integrity and Internal Control in Information
+Systems (IICIS) 2002 – 2004.
+International Conference on Data Warehousing and Knowledge Discovery (DaWaK) 2003.
+International Conference on Mobility in Databases and Distributed Systems (MDDS) 2003.
+IEEE Conference on Electronic Commerce, (CEC) 2003.
+Program Committee Member, Design Analysis and Simulation of Distributed Systems, Or-
+lando, FL, March 2003.
+International Conference on Security and Management (SAM) 2002.
+Publications Chair Fourteenth International Symposium on Software Reliability Engineering (IS-
+SRE) 2003.
+Review Activities
+GrantsPanelist, National Science Foundation, 2002 – 2007, 2012, 2014, 2015.
+Reviewer, Air Force Office of Scientific Research, 2007 – 2009.
+Reviewer, Aides a La Formation Recherche, Luxembourg, 2010.
+JournalsACM Transactions on Information and System Security
+ACM Transactions on Internet Technology
+IEE Proceedings Information Security
+IEEE Transactions on Dependable and Secure Computing
+IEEE Transactions on Knowledge and Data Engineering
+IEEE Transactions on Mobile Computing
+IEEE Transactions on Parallel and Distributed Systems
+Distributed and Parallel Databases: An International Journal
+International Journal of Cooperative Information Systems
+Information Systems
+23
+
+-----
+Journal of Computer Security
+Journal on Digital Libraries
+Software and Systems Modeling Journal
+University Service
+AY 97–01: Member, Graduate Committee, CIS Department, University of Michigan – Dearborn.
+AY 00–01: Member, Chair Search Committee, CIS Department, University of Michigan – Dear-
+born.
+AY 01–02: Member, Undergraduate Committee, CS Department, Colorado State University.
+AY 02–03: Member, Chair Search Committee, CS Department, Colorado State University.
+AY 02–04: Member, Graduate Committee, CS Department, Colorado State University.
+AY 04–05: Member, Undergraduate Committee, CS Department, Colorado State University.
+AY 05–06: Member, Graduate Committee, CS Department, Colorado State University.
+AY 07–08: Member, Faculty Search Committee, CS Department, Colorado State University.
+AY 08–09: Member, Graduate Committee, CS Department, Colorado State University.
+AY 02–04: Member, Graduate Committee, CS Department, Colorado State University.
+AY 04–05: Member, Natural Sciences Learning Task Force Committee, College of Natural Sci-
+ences, Colorado State University.
+AY 06: Member, Research Advisory Committee, Information Science & Technology Center,
+Colorado State University.
+AY 06–07: Chair, Research Committee, CS Department, Colorado State University.
+AY 08–09: Member, Graduate Committee, CS Department, Colorado State University.
+AY 09–11: Chair, Graduate Recruitment Committee, CS Department, Colorado State University.
+AY 11–12: Chair, Policy and Procedures Committee, CS Department, Colorado State University.
+AY 12–14: Member, Graduate Recruitment Committee, CS Department, Colorado State Univer-
+sity.
+AY 10–14: Executive Committee Member, CS Department, Colorado State University.
+AY 14–16: Diversity Committee Chair, CS Department, Colorado State University.
+Undergraduate Students Steven Dibenedetto (Summer 2006 – 2007), Daniel Owens (Summer
+2006), Eric Rotaru (Summer 2009)
+Current Graduate Advisees
+1. Mustafa Al Lail Ph.D.
+2. Majdi Alnnfiai Ph.D.
+3. Kirill Belyaev Ph.D.
+4. Negar M. Ghahfarokhi Ph.D. (Co-advisee)
+5. Ibrahim Lazrig Ph.D.
+6. Tarik Moataz Ph.D. (Co-advisee)
+Graduate Advisees (Completed)
+24
+
+-----
+1. Greg Turgeon, 2001, (M.S.) University of Michigan Dearborn
+2. Nayot Poolsappasit, 2004, (M.S.) Colorado State University
+3. Yajie Zhu, 2005, (M.S.) Colorado State University
+4. Wei Huang, 2006, (M.S.) Colorado State University
+5. Mariappan Rajaram (Co-advisee), 2008, (M.S.) Colorado State University
+6. Kyle Haefner, 2009 (M.S.) Colorado State University
+7. Tai Xin, 2006, (Ph.D.) Colorado State University
+8. Eunjee Song (Co-advisee), 2007, (Ph.D.) Colorado State University
+9. Sudip Chakraborty (Co-advisee), 2008, (Ph.D.) Colorado State University
+10. Nayot Poolsappasit (Co-advisee), 2010, (Ph.D.) Colorado State University
+11. Manachai Toahchoodee, 2010, (Ph.D.) Colorado State University
+12. Kevin Burnett (Co-advisee), 2012, (M.S.) Colorado State University
+13. Ramadan Abdunabi, 2013, (Ph.D.) Colorado State University
+14. Xing Xie, 2013, (Ph.D.) Colorado State University
+15. Wuliang Sun, 2015, (Ph.D.) Colorado State University
+Visiting Scholars
+Anna Cinzia Squicciarini, Ph.D. Student, University of Milan (March 2004 – July 2004).
+Ivan Paloscia, Undergraduate Student, University of Milan (May 2004 – August 2004).
+25
+
+-----

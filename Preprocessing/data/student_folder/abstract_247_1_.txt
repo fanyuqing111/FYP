@@ -1,0 +1,38 @@
+Title:  
+Development of Data-Driven methods for Capacity Estimation and Prognosis for Lithium-Ion 
+Batteries 
+ 
+Abstract: 
+Capacity, which quantifies the available energy in a fully charged Li-ion battery, is the leading and an 
+important index which can be used in interfering the State-of-Health or the remaining useful life. 
+Today Li-ion batteries are a standard energy storage solution for a variety of applications such as 
+satellites, automobiles and smart grid applications etc. due to their high energy density, lightness of 
+weight and long lifetime as compared to contemporary solutions such as lead-acid, nickel-cadmium 
+and nickel-metal-hydride cells. Due to importance on the batteries for such application, failure of a 
+battery could lead a loss of operation, reduced capability, downtime, and even catastrophic failure. 
+This Data-Driven approach presents a way to estimate Lithium-ion battery's Capacity which represents 
+the specific energy in Ampere-Hour. This work explores the Data-Driven method that can be used in 
+estimating the current capacity and forecasting the capacity trend for the future charge cycles of the 
+battery whose internal health parameters are difficult to gauge. The features used to develop Data-
+Driven Capacity Degradation model are obtained from Voltage Measurements observed during the 
+charging phase of the battery which is operated in constant current-constant voltage charging 
+protocol. With the developed Model, Capacity Degradation can be estimated in respect with cyclic 
+ageing of the battery. Gradient Boosting Regression Tree (GBRT) integrated with Auto-Regression 
+Integrated Moving Average (ARIMA) is used for Capacity Estimation and Prognosis. Features obtained 
+are used to train GBRTs models with target value as the true capacity obtained using Coulomb 
+Counting from Consecutive Discharge Cycle, and for prognosis ARIMA models are developed to 
+forecasts the features for future unobserved cycles using observed features and used as an input 
+feature in another GBRT model to provide the predicted capacity for the unobserved cycles with the 
+confidence interval.  In actual operation, batteries are seldom fully charged/discharge, therefore 
+during online capacity estimation, not all the features will be available if the full range of Voltage 
+Measurements obtained during charging cycle were used to develop a data-driven model. To solve 
+the issue of data unavailability during partial charge/discharge, the presented method does not 
+require the full range of voltage measurements for prediction instead uses two sets of measurements 
+belonging to different voltage ranges and since the features are obtained during charging of the 
+battery, it does not affect the normal working on the battery. In addition to this, the proposed method 
+also presents a method for missing value imputation in case one of the voltage feature set is not 
+observed using one-step forecasting via the ARIMA model. The result presented using lithium-ion 
+battery data provided by NASA and CALCE experiments demonstrates the effectiveness and accuracy 
+of the proposed battery capacity estimation and prognosis framework. 
+
+-----

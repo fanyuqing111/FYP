@@ -1,0 +1,39 @@
+Agent-Based Modelling of EV Charging for Optimized Charging Station Operation 
+Chaudhari Kalpesh Subhash 
+G1403252L 
+Abstract 
+Widespread adoption of electric vehicles (EVs) would significantly increase the overall 
+electrical load demand in power distribution networks. Hence, there is a need for 
+comprehensive planning of charging infrastructure in order to prevent power failures or 
+scenarios where there is a considerable demand-supply mismatch. Accurately predicting the 
+realistic charging demand of EVs is an essential part of the infrastructure planning. Charging 
+demand of EVs is influenced by several factors such as driver behavior, location of charging 
+stations, electricity pricing etc. In order to implement an optimal charging infrastructure, it is 
+important to consider all the relevant factors which influence the charging demand of EVs. 
+Several studies have modelled and simulated the charging demands of individual and groups 
+of EVs. However, in many cases, the models do not consider factors related to the social 
+characteristics of EV drivers. Other studies do not emphasize on economic elements. This 
+thesis aims at evaluating the effects of the above factors on EV charging demand using a 
+simulation model. An agent-based approach using the NetLogo software tool is employed in 
+this thesis to closely mimic the human aggregate behavior and its influence on the load 
+demand due to charging of EVs. 
+EV charging stations where the EV charging takes place will play an important role in the energy 
+management of smart cities. Private and commercial EV charging loads would further stress the 
+distribution system. Photovoltaic (PV) systems, which can reduce this stress, also show variation 
+due to weather conditions. Hence, after the successful modelling of EV charging behavior using 
+agent based approach, a hybrid optimization algorithm for energy storage management is 
+proposed as an application. This algorithm shifts its mode of operation between the 
+deterministic and rule-based approaches depending on the electricity price band allocation. The 
+cost degradation model of the energy storage system (ESS) along with the levelized cost of PV 
+power is used in the case of PV integrated charging stations with on-site ESS. The algorithm 
+comprises of three parts: categorization of real-time electricity price in different price bands, 
+real-time calculation of PV power from solar irradiation data and optimization for minimizing 
+the operating cost of an EV charging station integrated with PV and ESS. An extensive simulation 
+study is carried out with private and commercial EV charging load model obtained from the 
+agent based modelling approaches, in the context of Singapore, to check the effectiveness of 
+this algorithm. Furthermore, a detailed analysis of the subsidy and incentive to be given by the 
+government agencies for a higher penetration of PV systems is also presented. This work would 
+aid in planning of adoption of PV integrated EV charging stations with on-site ESS which would 
+be expected to take place of  traditional gas stations in future. 
+
+-----

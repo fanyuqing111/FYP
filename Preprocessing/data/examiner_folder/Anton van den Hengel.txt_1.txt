@@ -1,0 +1,282 @@
+Anton van den Hengel 
+Position 
+Director, Australian Institute for Machine Learning, www.adelaide.edu.au/aiml/ 
+Professor, School of Computer Science, University of Adelaide, www.cs.adelaide.edu.au 
+Contact 
+Ph: +61 8 8313 5309 
+Fax: +61 8 8313 4366 
+E-mail: Anton.vandenHengel@adelaide.edu.au 
+Web Page: www.cs.adelaide.edu.au/~hengel 
+Blog: antonvandenhengel.wordpress.com 
+Post: School of Computer Science, University Adelaide, South Australia 5005 
+Personal 
+Information 
+Nationality: 
+Australian, Dutch 
+Date of Birth: 
+12 July 1970 
+Place of Birth: Ede, Netherlands 
+Education 
+Ph. D. in Computer Science  
+ 
+1995 – 2000  
+ 
+Adelaide University 
+ 
+Robust Estimation of Structure from Motion in the Uncalibrated Case 
+Masters Degree in Computer Science  1993 – 1994 
+ 
+Adelaide University 
+ 
+Thesis: Enhancing a Direct Method of Determining Shape from Shading. 
+Bachelor of Laws  
+ 
+ 
+1989 - 1993 
+ 
+Adelaide University 
+Bachelor of Mathematical Science  
+1988 - 1991 
+ 
+Adelaide University 
+ 
+Major: Computer Science 
+Awards 
+Excellence in Research Collaboration Award 2017 from SA Science Excellence Awards 
+for work on “Developing a world leading intelligent medical device in South Australia”. 
+CVPR 2010 Best Paper Prize for A. Eriksson, A. van den Hengel, Efficient Computation 
+of Robust Low-Rank Matrix Approximations in the Presence of Missing Data using the L1 
+Norm, IEEE Conference on Computer Vision and Pattern Recognition (CVPR ’10), San 
+Fancisco, USA, June 2010.  CVPR is one of the equal 2 best conferences in Computer 
+Vision, and the best paper prize one of the most coveted in the field. 
+Pearcey Award for Innovation in ICT, 2010. This is awarded to an individual who has "taken 
+a risk and made a difference" within the ICT industry.  See http://www.pearcey.org.au/ 
+Innovic Next Big Thing People's Choice Award 2009 for the most exciting innovation, 
+awarded for Videotrace. 
+Research and Development category of the South Australian iAwards, 2010 for Videotrace.  
+The iAwards are Australia’s premier technology innovation awards program, and are 
+presented by The Australian Information Industry Association. 
+Book 
+Chapters 
+A. van den Hengel, A. Dick, H. Detmold, A. Cichowski, C. Madden, and Rhys Hill 
+Distributed Camera Overlap Estimation -- Enabling Large Scale Surveillance, Remagnino, 
+Paolo, Monekosso, Dorothy and Jain, Lakhmi, eds. (2011) Intelligent Paradigms in Safety 
+and Security; Studies in Computational Intelligence. Springer.  
+W. Chojnacki, A. van den Hengel, M. Brooks, Constrained Generalised Principal 
+Component Analysis, Advances in Computer Graphics and Computer Vision, 
+
+-----
+International Conferences VISAPP and GRAPP 2006, Setúbal, Portugal, February 25-28, 
+2006, Revised Selected Papers. 
+Selected 
+Refereed 
+Conference 
+Papers 
+Y. Li, L. Liu, C. Shen, A. van den Hengel. Mid-level deep pattern mining. IEEE 
+Conference on Computer Vision and Pattern Recognition (CVPR'15). 2015. 
+L. Liu, C. Shen, A. van den Hengel. The treasure beneath convolutional layers: cross 
+convolutional layer pooling for image classification. IEEE Conference on Computer Vision 
+and Pattern Recognition (CVPR'15). 2015 
+P. Wang, C. Shen, A. van den Hengel. Efficient SDP inference for fully-connected CRFs 
+based on low-rank decomposition. IEEE Conference on Computer Vision and Pattern 
+Recognition (CVPR'15). 2015 
+S. Paisitkriangkrai, C. Shen, A. van den Hengel. Learning to rank in person re-
+identification with metric ensembles. IEEE Conference on Computer Vision and Pattern 
+Recognition (CVPR'15). 2015 
+M. Tan, Q. Shi, A. van den Hengel, C. Shen, J. Gao, F. Hu, Z. Zhang. Learning graph 
+structure for multi-label image classification via clique generation. IEEE Conference on 
+Computer Vision and Pattern Recognition (CVPR'15). 2015. 
+B. Li, C. Shen, Y. Dai, A. van den Hengel, M. He. Depth and surface normal estimation 
+from monocular images using regression on deep features and hierarchical CRFs. IEEE 
+Conference on Computer Vision and Pattern Recognition (CVPR'15). 2015 
+G. Lin, C. Shen, Q. Shi, A. van den Hengel, D. Suter. Fast supervised hashing with 
+decision trees for high-dimensional data. IEEE Conference on Computer Vision and 
+Pattern Recognition (CVPR'14). 2014. 
+S. Paisitkriangkrai, C. Shen, A. van den Hengel. Strengthening the effectiveness of 
+pedestrian detection with spatially pooled features. European Conference on Computer 
+Vision (ECCV'14). 2014. 
+L. Liu, C. Shen, L. Wang, A. van den Hengel, C. Wang. Encoding high dimensional local 
+features by sparse coding based Fisher vectors. Advances in Neural Information 
+Processing Systems (NIPS'14). 2014. 
+Fumin Shen, Chunhua Shen, Qinfeng Shi, Anton van den Hengel, Z. Tang, Inductive 
+Hashing on Manifolds, IEEE Conference on Computer Vision and Pattern Recognition 
+(CVPR’13), Portland, USA, June 2013  
+  
+Selected 
+Invited 
+Research 
+Presentations 
+What new results in Visual Question Answering have to say about Old AI, Keynote, GTCx 
+Melbourne, October, 2016 
+What Visual Question Answering can tell us about really cognitive computing, IBM 
+Melbourne, September 2016 
+VQA vs. AI, Keynote, Deep Vision Workshop, CVPR 2016 
+What Lego can tell us about the interaction between shape and semantics in image-
+based modelling, Google Mountain View, October 2015 
+Visual Question Answering, and what it can tell us about the unknown knowns, Apple, 
+Cupertino, California, October 2015 
+Big Data, and how I learned to stop worrying and love Machine Learning, Plenary at 
+
+-----
+SAHMRI Scientific Symposium, October 2015 
+Machine Learning in Medicine, Plenary, The Society of Paediatric Urology of New Zealand 
+and Australia (SPUNZA) Annual Meeting, October 2015 
+Interactive Image-based Modelling, Keynote: DICTA, Fremantle, Perth, December 2012. 
+Re-identification in practical large scale surveillance, Keynote: Re-Id workshop (in 
+conjunction with ECCV), Florence, Italy, October 2012. 
+3D Content Creation, Intel, California, USA, July 2012. 
+Virtual Graffiti, TTI/Vanguard – Real Time, Paris, July, 2011. 
+Selected 
+Research 
+Funding 
+Australian Institute for Machine Learning 
+2018-2022, Director, $12.1M and counting 
+ARC Discovery Program, Deep visual understanding: learning to see in an unruly world 
+2018-2021, Chief Investigator, $423k 
+Data 2 Decisions CRC  
+ 
+2014-2019, Program Lead Analytics and Decision Support, $92M 
+ARC Centre of Excellence in Robot Vision 
+ 
+2014-2021, Chief Investigator, $25M 
+Computational infrastructure for machine learning in computer vision 
+2013, Chief Investigator, Value: $210k 
+Funding Source: ARC LIEF Program 
+Scalable classification for massive datasets: randomized algorithms 
+2012-2014, Chief Investigator, Value $927k 
+Funding Source: ARC Linkage Program & Industry 
+Learning to read 3D 
+2012-2014, Chief Investigator, Value $330k 
+Funding Source: ARC Discovery Program 
+Improving yield through image-based structural analysis of cereals 
+2011-2013, Chief Investigator, Value $725k 
+Funding Source: ARC Linkage Program & Industry 
+Added depth: automated high level image interpretation 
+2011-2013, Chief Investigator, Value $240k 
+Funding Source: ARC Discovery Program 
+Multi-model predictions of ecosystem flux under climate change based on novel genetic and 
+image analysis methods 
+2011-2013, Chief Investigator, Value $465k 
+Funding Source: ARC Super Science Fellowships 
+Microbiology Computer Imaging 
+2011-2012, Chief Investigator, Value $750k 
+Funding Source: Industry 
+Content Based Image Search 
+2011-2012, Chief Investigator, Value $683k 
+Funding Source: Defence Capability Technology Demonstrator Program (CTD) 
+ 
+Research 
+Supervised 10 PhD students to completion with 4 ongoing 
+
+-----
+Supervision 
+ 
+D. Gawley, Robust maximum likelihood parameter estimation, completed 2004, 
+post-doc in ACVT then Oxford 
+ 
+C. Shen, Visual motion analysis by probabilistic reasoning with graphical models, 
+completed 2005, post-doc at NICTA / ANU, now Professor in ACVT 
+ 
+J. Bastian, A hardware accelerated space carving algorithm, completed 2008, post-
+doc in ACVT 
+ 
+D. Pooley, Synthesising new video streams from multiple sources, completed 2008, 
+post-doc in ACVT 
+ 
+B. Ward, Interactive 3D modelling, completed 2014, then post-doc in ACVT 
+ 
+Yanzhi Chen, Content-based image retrieval, completed 2014, academic position 
+in China 
+ 
+Zygmunt Szpak, Robust structure from motion, completed 2014, then post-doc in 
+ACVT 
+ 
+Zhenhua Wang, Markov Random Fields with Unknown Heterogeneous Graphs, 
+completed 2014, Academic position in China 
+ 
+Fayao Lui, Large-scale image-based classification, completed 2015 then academic 
+position in China 
+ 
+Yao Li, Mid-level feature learning, completed 2017 then to Amazon 
+ 
+Ergnoor Shehu, Optimisation over Reimannian manifolds, ongoing 
+ 
+Rui Yao, Large-scale image-based classification, ongoing 
+ 
+Lachlan Flemming, Plant phenomics from image sets, ongoing 
+ 
+R. Hill, Image-based modelling, ongoing 
+ 
+Supervised over 40 Honours and Masters theses to completion 
+Supervising over 25 postdocs, with 5 completed  
+ 
+Darren Gawley, 2004 – 2007, went on to a post-doc at Oxford 
+ 
+Thorsten Thormaehlen, 2005 – 2007, went on to found a Vision / Graphics group at 
+Max-Planck-Institut für Informatik, Saarbrücken, Germany 
+ 
+Emanuel Zelniker, 2006 – 2007, went on to a post-doc at Queen Mary College, 
+University of London  
+ 
+Xi Li, 2011-2013, went to be a Professor at College of Computer Science, Zhejiang 
+University, China 
+Current 
+Positions 
+Professor,  School of Computer Science, University of Adelaide 
+Director, The Australian Institute for Machine Learning 
+Director, Punchcard (The Mesh Pit Pty Ltd) 
+Co-organiser with Michael Black of Scenes from Video Workshop (held in conjunction with 
+ICCV every 2 years). 
+Italian Institute of Technology Standing Committee of External Evaluators member 
+Previous 
+Positions 
+Associate Editor, Journal of Field Robotics special edition. 
+Area Chair, ACCV 2016 
+Area Chair, ICPR 2016 
+Co-organiser ICRA 2015 Ag Robotics Workshop 
+Deputy Chair, Adelaide SIGGRAPH Chapter 
+Member of The Computing Research and Education Association of Australasia Panel 
+awarding the John Makepeace Bennett Award for Australasian Distinguished Doctoral 
+
+-----
+Dissertation, the best Computer Science PhD thesis each year. 
+Associate Editor for the IPSJ Transactions on Computer Vision and Applications 
+Guest Editor, International Journal of Automation and Computing (Springer), Special 
+Issue on Massive Visual Computing, 2014 
+Director, SNAP Surveillance Pty Ltd, www.snapsurveillance.com, 2008-2015 
+Panel Member, Review of CVRG, NICTA, 2014 
+Visiting Researcher, Trinity College, Cambridge, UK, 2013 
+Guest editor of a Springer Virtual Reality journal special issue on Models for Mixed and 
+Augmented Reality 
+Area Chair, IbPRIA 2011, The 5th Iberian Conference on Pattern Recognition and Image 
+Analysis 
+Area Chair, DICTA 2011, Digital Image Computing: Techniques and Applications 2011 
+Area Chair, PSIVT2009, the 3rd Pacific-Rim Symposium on Image and Video Technology 
+Area Chair, International Conference on Digital Image Computing, Techniques and 
+Applications 2009 
+Member, ARC Research Network for a Secure Australia 
+Member, ARC Research Network on Intelligent Sensors, Sensor Networks and 
+Information Processing (ISSNIP) 
+Technical Committee Chair, General, International Conference on Digital Image 
+Computing, Techniques and Applications 2007 
+Chair, International Workshop on Parameter Estimation for Computer Vision Problems 
+2007 
+Head, Video Surveillance & Analysis Program, The Cooperative Research Centre for 
+Sensor Signal and Information Processing, 2003-2006 
+Deputy head, Image Analysis Program, The Cooperative Research Centre for Sensor 
+Signal and Information Processing, 2002-2006 
+Acting Head, Image Analysis program, The Cooperative Research Centre for Sensor 
+Signal and Information processing, during 2003, 4, and 5. 
+Visiting Professor, Katholieke Universiteit Leuven, Belgium, 2004 
+Visiting Professor, Oxford-Brookes University, UK, 2004 
+Co-organiser, First Australia-Japan Advanced Workshop on Computer Vision 2003  
+Visiting Professor, Katholieke Universiteit Leuven, Belgium, 2001 
+ 
+Media 
+Can machines really tell us if we're sick, The Conversation, January 2017 
+Next Generation of Computers and Business - American Chamber of Commerce, 
+September 2016 
+ 
+ 
+
+-----

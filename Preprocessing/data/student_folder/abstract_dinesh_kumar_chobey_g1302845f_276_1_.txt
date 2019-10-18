@@ -1,0 +1,75 @@
+Tracking of Real and Complex Sinusoids using Piloted
+Adaptive Notch Filter
+Abstract
+In digital signal processing, frequency estimation and tracking of sinusoids in noise using adaptive
+notch filter is an important area of research to solve problems in radar, communications, biomedical
+and other related areas. This filter is popularly implemented using the least mean squares (LMS)
+algorithm in which the notch frequency is updated iteratively using either a fixed or an adaptive
+step-size to eventually converge to the frequency of the input signal. A large step-size will increase
+the rate of convergence but will result in larger misadjustment, while a small step-size will decrease
+the rate of convergence but will yield smaller misadjustment.
+So, in view of this trade-off, a
+variable step-size LMS algorithm is preferred over a fixed step-size LMS algorithm. Conventional
+variable step-size algorithms determine the step-size based on time-domain averaging of the gradient
+estimate at each sampling instance. The piloted adaptive notch filter (PANF) is a new concept in
+adaptive filtering which determines the step-size value based on the estimated distance between
+the main notch frequency and the input frequency with the help of pilot notches. This thesis aims
+at investigating the concept of PANF, originally proposed to estimate and track real sinusoid, to
+further enhance its performance and to extend the concept of pilot notches for signals in complex
+domain.
+A performance comparison of the PANF with the second-order adaptive infinite impulse response
+(IIR) lattice notch filter and the adaptive IIR notch filter with constrained poles and zeroes is
+undertaken. This steady-state analysis of the frequency estimate, using simulations, with variables
+such as notch bandwidth and signal to noise ratio (SNR) is conducted to verify the excellent
+performance exhibited by the PANF over other algorithms. However, the probability of correct
+steering direction can be further improved under low SNR conditions.
+A new steering direction determination mechanism, using a time-domain averaging based gra-
+dient analysis of the piloted notch cost function at several frequency points at the same sampling
+instant, is proposed to determine the direction of the main notch with respect to the input sinusoid
+frequency. This frequency domain information is then combined with time domain information to
+develop an algorithm for the determination of variable step-sizes for improved speed of convergence
+with significant reduction in steady-state mean square error (MSE).
+
+-----
+A generalized mathematical formulation and filter structure with more number of pilots added
+to the original PANF is proposed. This will help to have an option for a range of step-size values.
+Thus, the transition from a very large step-size value to a very small step-size value is achieved
+in one or more intermediate step-size values. This reduces the probability that the main notch
+overshoots the optimum with large step-size producing large output error when it is close to the
+input frequency. Simulation results are presented to show the improvement in performance over
+PANF. Our study also revealed that the pole-radius of the notches plays an important role which
+needs a more detailed investigation.
+A detailed analysis of pole position approximation for pilot notches is then undertaken, to un-
+derstand its overall effect on steering direction determination and convergence of the notch filter.
+An improved PANF with a variable pole-radius mechanism is introduced.
+This scheme signifi-
+cantly reduces the transient effect and improves the steering direction determination mechanism
+of the notch filter. Computer simulations demonstrate the excellent performance of the variable-
+pole radius PANF to significantly outperform the traditional PANF with respect to the speed of
+convergence and steady-state MSE.
+Aforementioned work leads to the development of a generalized formulation for multiple pilot-
+pairs adaptive notch filter (MPPANF) filter structure with the introduction of more number of
+pilots, variable pole-radius mechanism, and improved steering direction determination. Simulation
+results are presented to verify the excellent performance exhibited by the MPPANF and variable
+pole-radius multiple pilot-pairs adaptive notch filter (VP-MPPANF) over PANF with respect to
+the speed of convergence and steady-state MSE. A detailed theoretical analysis of the proposed
+adaptive notch filter is presented with the mechanisms put together for an enhanced performance.
+Mathematical formulation for the determination of probability of correct steering direction along
+with the effect of input SNR, notch bandwidth and notch frequency on probability of correct steering
+direction is presented.
+We formulate a complex piloted adaptive notch filter (CPANF) to estimate and track the fre-
+quency of complex sinusoidal signal. A novel complex coefficient filter structure with a main notch
+and pilot notches to track the frequency of the input complex sinusoid with a variable step-size
+least mean squares (LMS) based algorithm is presented. The adaptive step-size is chosen based
+on the steering direction information from the notches. The notch frequency is updated iteratively
+using an adaptive step-size to eventually converge to the frequency of the input complex sinusoid.
+Simulation results verify the excellent performance exhibited by the CPANF over conventional
+complex adaptive notch filter (CANF) with respect to the speed of convergence and steady-state
+MSE. Theoretical analysis is also presented which closely follows the simulation results. Finally,
+the filter is implemented to suppress complex sinusoidal interference in a QPSK spread spectrum
+communication systems which shows improvement over conventional CANF in overall bit error rate
+(BER).
+This research leads to a detailed understanding and development of piloted adaptive notch filter
+to estimate and track both real and complex sinusoids.
+
+-----

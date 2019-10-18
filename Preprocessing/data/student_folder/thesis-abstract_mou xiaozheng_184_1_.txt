@@ -1,0 +1,31 @@
+Vision Based Obstacle Detection and Mapping for 
+Unmanned Surface Vehicles 
+ 
+Abstract 
+Detecting and mapping obstacles in maritime environments with high accuracy and 
+robustness are two important issues for unmanned surface vehicles (USV) in real-life 
+applications, such as surveillance and navigation. Solutions based on vision (cameras) are 
+more cost-effective than its counter-part, radar, and what’s more vision can compensate the 
+blind area of radar at short distances. 
+This thesis addresses the tasks of improving the accuracy and robustness of vision based 
+obstacle detection and mapping in open sea.  
+For obstacle detection, first, we present a novel image (monocular vision) based algorithm, in 
+which the obstacle patches are separated from the sea patches using the proposed patch’s 
+distinctiveness measure, named as global sparsity potentials (GSPs). Then, an approach by 
+fusing 2D and 3D clues for further enhancing the performance is proposed in a binocular 
+vision system. In this approach, the 2D and 3D information are combined in a weighting model, 
+which gives more weights to the 2D detecting results when obstacles are far away, while gives 
+more weights to the 3D detecting results when obstacles are nearby.       
+For obstacle mapping, to the best of our knowledge, we are the first to handle this task for 
+USV. We develop a monocular vision system based on the theory of motion parallax. 
+Integrating image with GPS and compass information, static obstacles can be detected and 
+ranged in our framework, which results in an obstacle map. To achieve more accurate and 
+robust performance, multiple pairs of frames are leveraged to synthesize the final ranging 
+results in a variance based weighting model.  
+Since there are few available public datasets for USV, we evaluate the efficiencies of the 
+proposed algorithms on our own datasets. Experimental results verify that our methods are 
+highly accurate and robust as compared to other methods.  
+The thesis concludes with limitations to the presented research, and with suggestions to 
+further studies in this line.  
+
+-----

@@ -1,0 +1,126 @@
+Google Scholar Citations 
+Citation indexces 
+All 
+Since 2013 
+Citations 
+2526 
+2393 
+h-index 
+25 
+24 
+i10-index 
+55 
+50 
+ 
+Quantized kernel least mean square algorithm 
+B Chen, S Zhao, P Zhu, JC Príncipe 
+IEEE Transactions on Neural Networks and Learning Systems 23 (1), 22-32 
+224 
+2012 
+Steady-state mean-square error analysis for adaptive filtering under the maximum 
+correntropy criterion 
+B Chen, L Xing, J Liang, N Zheng, JC Principe 
+IEEE signal processing letters 21 (7), 880-884 
+128 
+2014 
+Similarity learning with spatial constraints for person re-identification 
+D Chen, Z Yuan, B Chen, N Zheng 
+Proceedings of the IEEE Conference on Computer Vision and Pattern … 
+122 
+2016 
+Maximum correntropy estimation is a smoothed MAP estimation 
+B Chen, JC Príncipe 
+IEEE Signal Processing Letters 19 (8), 491-494 
+106 
+2012 
+Quantized kernel recursive least squares algorithm 
+B Chen, S Zhao, P Zhu, JC Principe 
+IEEE transactions on neural networks and learning systems 24 (9), 1484-1491 
+102 
+2013 
+Weighted-permutation entropy: A complexity measure for time series 
+incorporating amplitude information 
+B Fadlallah, B Chen, A Keil, J Príncipe 
+Physical Review E 87 (2), 022911 
+96 
+2013 
+Generalized correntropy for robust adaptive filtering 
+B Chen, L Xing, H Zhao, N Zheng, JC Prı 
+IEEE Transactions on Signal Processing 64 (13), 3376-3387 
+93 
+2016 
+Kernel adaptive filtering with maximum correntropy criterion 
+S Zhao, B Chen, JC Principe 
+Neural Networks (IJCNN), The 2011 International Joint Conference on, 2012-2017 
+91 
+2011 
+
+-----
+Convergence of a fixed-point algorithm under maximum correntropy criterion 
+B Chen, J Wang, H Zhao, N Zheng, JC Príncipe 
+IEEE Signal Processing Letters 22 (10), 1723-1727 
+77 
+2015 
+Analysis and optimization of a new 2-D magnet array for planar motor 
+W Min, M Zhang, Y Zhu, B Chen, G Duan, J Hu, W Yin 
+IEEE Transactions on Magnetics 46 (5), 1167-1171 
+54 
+2010 
+System parameter identification: information criteria and algorithms 
+B Chen, Y Zhu, J Hu, JC Principe 
+Newnes 
+53 
+2013 
+Maximum correntropy criterion based sparse adaptive filtering algorithms for 
+robust channel estimation under non-Gaussian environments 
+W Ma, H Qu, G Gui, L Xu, J Zhao, B Chen 
+Journal of the Franklin Institute 352 (7), 2708-2727 
+50 
+2015 
+Maximum correntropy Kalman filter 
+B Chen, X Liu, H Zhao, JC Príncipe 
+Automatica 76, 70-77 
+49 
+2017 
+Disturbance observer based composite learning fuzzy control of nonlinear 
+systems with unknown dead zone 
+B Xu, F Sun, Y Pan, B Chen 
+IEEE Transactions on Systems, Man, and Cybernetics: Systems 
+49 
+2016 
+Kernel recursive maximum correntropy 
+Z Wu, J Shi, X Zhang, W Ma, B Chen, I Senior Member 
+Signal Processing 117, 11-16 
+42 
+2015 
+Stochastic gradient algorithm under (h, φ)-entropy criterion 
+B Chen, J Hu, L Pu, Z Sun 
+Circuits, Systems, and Signal Processing 26 (6), 941-960 
+39 
+2007 
+Optimization of voice coil motor to enhance dynamic response based on an 
+improved magnetic equivalent circuit model 
+Y Liu, M Zhang, Y Zhu, J Yang, B Chen 
+IEEE transactions on magnetics 47 (9), 2247-2251 
+37 
+2011 
+Fixed budget quantized kernel least-mean-square algorithm 
+S Zhao, B Chen, P Zhu, JC Príncipe 
+Signal Processing 93 (9), 2759-2770 
+36 
+2013 
+
+-----
+Robust Hammerstein adaptive filtering under maximum correntropy criterion 
+Z Wu, S Peng, B Chen, H Zhao 
+Entropy 17 (10), 7149-7166 
+34 
+2015 
+Survival information potential: a new criterion for adaptive system training 
+B Chen, P Zhu, JC Principe 
+IEEE Transactions on Signal Processing 60 (3), 1184-1194 
+33 
+2012 
+ 
+
+-----

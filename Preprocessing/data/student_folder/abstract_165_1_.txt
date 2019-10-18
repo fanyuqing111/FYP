@@ -1,0 +1,60 @@
+Investigation of Two Dimensional Floquet
+Topological Insulator Using Microwave Network
+Hu Wenchao
+The topological insulator is one of the most profound discoveries in theo-
+retical physics during the past few decades. They are “topologically distinct”
+from conventional insulators for being insulating in the ‘bulk’ while support-
+ing metallic states on the surfaces. The most extraodinary physical property
+is the existence of uni-directional transmission along the edge, which is ro-
+bust to imperfections and has no back-reflection.
+In 2005, Haldane and
+Raghu introduced the concept of topological insulator into photonics by
+theoretically proposing a photonic analogue of the quantum Hall effect in
+photonic crystals. Wang et al. experimentally confirmed this idea by ob-
+serving uni-directional transmission line in gyromagnetic photonic cystals
+which operate in the microwave frequency range. “Topological photonics”
+have also been realized with resonator lattices and waveguide lattice subse-
+quently. However, in all these experiments, edge propagation measurements
+serves exclusively as the proof of topological nontrivial system due to the
+lack of direct analog of the Hall conductance or similar linear response-based
+quantity. During my PhD career, my research has focused on the investi-
+gate of two-dimensional Floquet topological insulators using a microwave
+networks. The first part of my work involves a experimentally measuring a
+topological edge invariant which consists of the integer winding numbers of
+scattering matrix eigenvalues in a microwave network. The second part of
+my study concerns the relation between topological edge invariants and ex-
+ceptional points by introducing controllable loss and gain into the microwave
+network.
+The network model we used to measure topological edge invariants is
+two-dimensional network which is mapped into a microwave network us-
+ing Laughlin’s topological pump idea. The experiment setup is a two-port
+network system with variable phase shifters. By measuring the scattering
+matrix of the two-port network, we can observe the winding behavior of the
+eigenvalues. We implemented this experiment using microwave components
+1
+
+-----
+at 2.5 GHz and sucessfully observed the non-zero winding behavior for non-
+trivial topological system and zero winding behavior for trivial topological
+system, as predicted by theoretical arguments but never previously found in
+an experiment.
+Due to the existence of loss, the system we used to measure topological
+edge invariant is non-Hermitian and actually we can never observe rigor-
+ously non-zero winding in a finite system, since there always be a gap in the
+projected band structure. Moreover, non-Hermitian effects will introduce
+the novel physical feature of exceptional points into the bandstructure and
+it is easy to introduce controllable loss and gain into our experiment setup.
+Hence, we re-implement our experiment setup at 900 MHz and add digi-
+tal variable attenulators into the system. By controlling gain and loss, we
+demonstrate, theoretically and experimentally, a direct relationship between
+a Hermitian topological invariant and exceptional point winding numbers.
+In summary, my PhD research has concentrated on investigation of two
+dimensional floquet topological insulators using microwave network. Two
+major works have been finished, one is the experimental measurement of
+topological edge invariants in the form of scattering matrix eigenvalue wind-
+ing numbers in a microwave network. The other is theoretically and experi-
+mentally proving the direct relation between Hermition topological invariant
+and exceptional point winding numbers.
+2
+
+-----

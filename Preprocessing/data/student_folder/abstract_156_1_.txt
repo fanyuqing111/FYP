@@ -1,0 +1,49 @@
+Fiber-optic catheter for cellular resolution imaging 
+Abstract 
+This dissertation presents novel developments in micro-optical coherence tomography (μOCT) 
+at cellular resolution towards clinical applications.  μOCT has been known as the highest 
+resolution OCT technique available to date.  It has an order of magnitude better resolution in 
+both axial and lateral direction than standard OCT. The ability for μOCT to obtain non-invasive, 
+real-time and three dimensional images of biological tissue at unprecedented resolution has 
+brought new opportunities for the advancements of diagnosis of disease pathogenesis and 
+novel therapeutics. Several major developments were included in this dissertation to advance 
+µOCT technique to higher resolution, better image quality and improved clinical usability. Three 
+main topics will be covered:  
+1. Dual spectrometer for in vivo imaging of blood flow. 
+2. Multifiber μOCT catheter for speckle reduction. 
+3. μOCT fiber catheter design and prototype toward clinical endoscopic and intravasuclar 
+applications. 
+The first part presents a dual spectrometer μOCT system for extended spectrum bandwidth 
+detection in order to achieve 1-μm axial resolution. The dual spectrometer utilized two line 
+scan cameras of distinct detection wavelength ranges. One was a Si-based sensor responding at 
+850 ± 100 nm and the other was an InGaAs-based sensor responding at 1020 ± 80 nm. The two 
+spectral ranges were combined into a supercontinuum with extended full-width-half-maximum 
+of 345 nm and thus the axial resolution in aqueous environment was 0.93 μm (n = 1.37). In vivo 
+experiment showed blood flow in zebrafish larvae tail vein. Not only individual red blood cell 
+was observed but also endothelial cells lining along the luminal surface of the blood vessel wall.   
+Although at 1 µm resolution μOCT has enough resolving power to identity subcellular of 
+biological tissue, some important microstructures was masked behind speckles. With the 
+objective to improve imaging quality at high resolution, a multifiber μOCT catheter was 
+designed to reduce speckle. Simultaneous multichannel spectrometer was employed to detect 
+signals from different channels. The key element in this design was a multi-facet fiber array 
+which actively delivered three light beams onto imaging sample and picked up back-scattered 
+signal at different angles. Speckle reduction was realized by compounding signals from all 
+channels. Rat esophagus imaging using this setup demonstrated an improved signal-to-noise 
+ratio, contrast-to-noise ration and equivalent number of looks. The epithelium was better 
+delineated from the overlying mucus and lamina propria beneath the basement membrane.  
+
+-----
+Lastly but more importantly, this dissertation presents a novel high-resolution endoscopic μOCT 
+catheter, pushing the clinical usage of μOCT a big step forward. The μOCT catheter discussed 
+here was designed and fabricated to perform longitudinal scanning μOCT imaging in vivo in 
+human airways. The 2.4 mm diameter and flexibility allows it to be inserted into the instrument 
+channel of commercially standard bronchoscope. Under the real-time video guidance of the 
+bronchoscope, the endoscopic fiber-optics catheter could reach the regions of interest up to 
+secondary bronchial and conduct high resolution, real time imaging of the functional 
+microanatomy of the airway epithelium, including cilia beat frequency and mucociliary 
+transport rates, etc. The endoscopic μOCT catheter consists of three major segments: inner 
+optics, outer sheath and ergonomics handle. The design, fabrication and test of each segment 
+will be discussed in details. Both ex vivo imaging of mouse trachea and in vivo imaging of swine 
+trachea and bronchial were performed to show the microanatomy of the airway epithelium.  
+
+-----

@@ -1,0 +1,29 @@
+Abstract 
+Impulse Radio Ultra Wideband (IR-UWB) systems used in multipath rich channels are very 
+susceptible to signal distortion due to Inter-Symbol Interference (ISI) as well as signal 
+attenuation due to destructive fading. Equalizers can be used to undo signal distortion due to 
+Inter-Symbol Interference but any signal attenuation due to destructive fading would still be 
+present and this would lead to lower effective data transmission rates.  
+In this report, we propose a solution, which we refer to as the Real-Time Channel Estimator 
+(RTCE), which helps to undo signal distortion due to Inter-Symbol Interference while 
+reducing the effects of destructive fading as well and thus permitting higher effective data 
+transmission rates. This is particularly useful for Impulse Radio Ultra Wideband systems 
+operating between 3.1 GHz and 10.6 GHz which are subject to the low power emission 
+restrictions imposed by the Federal Communications Commission (FCC).  
+In essence, the Real-Time Channel Estimator would estimate the Channel Impulse Response 
+(CIR) function for the entire bandwidth of the IR-UWB communication channel and 
+represents this in a well conditioned matrix form. We measure the singularity of this matrix, 
+using the Singular Value Decomposition technique, to minimize the effects of perturbations 
+due to channel noise. It would then attempt to determine the transmitted signal from the 
+received signal using the Gaussian elimination technique. 
+In the following sections, we review most of the commonly used equalization techniques and 
+compare their performance against our proposed solution in a multipath channel with 
+destructive fading characteristics. We then compare the Bit Error Rate (BER) of these 
+different types of equalizers over various Signal-to-Noise-Ratio (SNR) values and their 
+computational complexity and show that our proposed solution performs better than most 
+commonly used equalizers. 
+ 
+ 
+ 
+
+-----

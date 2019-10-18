@@ -1,0 +1,101 @@
+Ultra-low Power Energy Harvesting and Power Management 
+Circuits For IoT Applications 
+ 
+ 
+Ultra-low Power Energy 
+Harvesting and Power 
+Management Circuits 
+For IoT Applications 
+ 
+Karim Hany Mohamed Mohamed Rawy 
+Karim Hany Mohamed Mohamed Rawy 
+SCHOOL OF ELECTRICAL AND ELECTRONIC ENGINEERING 
+2017 
+2017 
+ 
+ 
+ 
+
+-----
+Abstract 
+Recent progress in integrated circuits (IC) technology and design techniques, 
+especially in ultra-low power circuits domain, have led a rapid growth of fully 
+integrated and portable electronics within internet of things (IoT) smart nodes and 
+wearable sensors system on chip (SoC). IoT applications including biomedical sensors, 
+body area networks and wireless sensors, have taken advantage of such a progress. 
+However, with the increase of people needs, numerous blocks must be integrated 
+within the IoT SoC. Hence, a compact, efficient and self-sustained power management 
+circuit (PMC) with a long life-time design become crucial for IoT SoC. Thus, energy 
+scavengers, such as photovoltaic cells (PV), thermos-electric generators (TEG) and 
+electro-static harvesters, become an attractive solution to power the PMC, for self-
+sustaining and prolonged life time systems.        
+Switched capacitor charge pump (SCCP) along with low drop out (LDO) 
+regulators are an adequate solution for PMC within energy harvesting systems (EHS) 
+for their integrability on-chip, avoiding bulky off-chip inductors, especially for 
+implantable biomedical applications. However, these regulators must be controlled 
+with a maximum power point tracking (MPPT) system to maximize the energy being 
+harvested and to store it efficiently. It should be noted that the MPPT control the 
+regulators whether to maximize the harvested power transferr as per load demand, or 
+to condition the regulator to harvest the maximum available power from the energy 
+harvester. For instance, many MPPT have been developed to track the maximum 
+power point to maximize the tracking efficiency and/or the conversion efficiency.  
+Several requirements that should be met are wide input voltage handling, wide output 
+
+-----
+load range coverage, output voltage regulation and ultra-low power consumption. The 
+latter one is of a great concern to maximize the EHS overall efficiency and extend its 
+lifetime in case of battery powered PMC.  
+In the first part of this thesis, I propose a novel ultra-low power MPPT 
+technique with a wide tracking range. The proposed technique is an indirect, non-
+interrupting approach using a novel timing-based algorithm addressing the tracking 
+efficiency. The proposed time-based MPPT technique is self-adaptive and applicable 
+to several types of PVs and TEGs without external reconfiguration or change of 
+passive components. It reduces the power consumption and design complexity. It 
+consists of an ultra-low power digital processing unit to execute the proposed timing-
+based algorithm along with an ultra-low power window comparator to track the 
+maximum open circuit voltage (Vmpp) without the need to voltage references, 
+perturbation steps and power-hungry voltage or current sensors. In addition, a variable 
+gain is employed using a one-hot barrel shift register to reduce the transient response 
+time in case of an abrupt input voltage change. A test chip was fabricated in 65-nm 
+CMOS technology. The test chip can harvest energy with the input voltage range of 
+0.4 V to 1.7 V and the step response time of less than 100 ms at the minimum supply 
+voltage of 0.8 V. The tracking efficiency is up to 96.2 % when supplied by a 
+photovoltaic (PV) micro-cell array using an irradiation range of 200 lux to 1000 lux.  
+In the next part of this thesis, a three-dimensional MPPT (3-D MPPT) 
+technique is proposed, addressing the conversion efficiency, for ultra-low power EHS 
+within IoT smart nodes. The proposed MPPT improves the conversion efficiency over 
+a wide load range using a novel switch width modulation (SWM) technique. It 
+
+-----
+enhances the conversion efficiency at ultra-light load condition by eliminating the 
+trade-off between the gate driver and conduction loss. The proposed SWM technique 
+modulates the SCCP transistors size in proportion to the load condition, input voltage 
+and the swing voltage applied. The tested chip, fabricated in 65-nm CMOS technology, 
+can harvest from 0.35 V and provides a regulated output voltage at 1 V with peak 
+efficiency of 88% at 200 µW and conversion efficiency > 60% at 100 nW. 
+In the following part of this thesis, a feasibility study for a fabricated finger 
+tapping triboelectric nanogenerator (TENG) harvesting device is discussed. A realistic 
+model for our TENG is deduced using the open circuit characteristics equations. A 
+proposed interface circuit for the TENG is tested using this model. The high efficiency 
+operation region and conditions are discussed and defined, showing the efficiency 
+dependency on the different TENG parameters at different load conditions. To validate 
+the achieved results regarding the efficiency, a SCCP controlled with a hill-climbing 
+MPPT circuit are employed to regulate the TENG output voltage, and maximize the 
+tracking and conversion efficiency concurrently. The end to end efficiency is measured 
+at different operation conditions.  
+The last part of this thesis devoted to a fully integrated, low voltage digital low-
+dropout voltage (DLDO) regulator for ultra-low power applications with a load current 
+aware clock modulation scheme. The proposed DLDO uses a clock modulation 
+technique that provides a fast-transient response during load state transitions. The 
+proposed clock modulation (CM) controls the clock frequency when it senses an abrupt 
+load current transition. This eliminates the tradeoff between transient time and power 
+efficiency with a fixed clock frequency. Thus, it minimizes the transient response time 
+
+-----
+and maximizes the power and current efficiency. The proposed DLDO operates at 0.6 
+V and generates 0.55 V output voltage. A test chip is fabricated using 65-nm CMOS 
+technology and demonstrates the current efficiency of 99.7% with the load current 
+from 10 μA to 200 μA with and the quiescent current of 0.9 μA. 
+ 
+
+-----

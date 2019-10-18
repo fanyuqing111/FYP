@@ -1,0 +1,57 @@
+Abstract 
+The fast development of portable devices, autonomous robot and vehicles have led to growing 
+demand in sensors. This in turn leads to a higher demand in performance-aware sensor electronics.  
+Among various type of sensors, resistive based sensor is one of the popular choices due to its 
+robustness against the environmental effects and flexibility for ease of interface with electronics. 
+For portable devices, the sensor electronics will need to address power or noise-energy parameter 
+while maintaining its dynamic range as high as possible. Thus, the thesis aims to explore different 
+architectural solutions in the context of low noise-energy performance metric as the key design 
+agenda. As such, various design approaches are realized. They are (i) current-to-frequency (IF) 
+converter (ii) voltage-to-frequency (VF) converter and (iii) switched-capacitor (SC) interface.  
+The IF converter is based on a direct-sensing grounded integrator architecture. With only 
+one operational amplifier (op-amp) clamping the voltage of sensing bridge output nodes, the change 
+in bridge resistance is thus converted into signal current. This current is injected into an integrating 
+capacitor. The ramping voltage of integrator is then converted into frequency through the associated 
+comparator together with the digital logic. With the direct-sensing grounded integrator, the power 
+consumption is reduced and the sensitivity to critical devices pair matching is also lowered. 
+Fabricated using UMC 65nm process technology at 1.2V supply, the measurement results of the 
+converter have achieved the average sensitivity of 41.5Hz/nA with an average output frequency 
+range 2.488MHz. The average frequency uncertainty is 539Hz at the maximum output frequency 
+at an average current consumption of 140μA. With low power consumption and low noise features, 
+the converter has obtained a SNR-energy figure-of-merit (FOM) of 0.71nJ. Thus, the converter has 
+displayed the best figure-of-merit when compared to the recently-reported state-of-the-art 
+converters. Due to its high resolution, the proposed quasi-digital sensor interface is useful for 
+measurements with precision purpose. 
+
+-----
+A VF converter is also proposed. In contrast to the current-to-frequency converter, the VF 
+converter converts the floating output voltage of the Wheatstone Bridge. A simple hybrid 
+transconductor is used to convert the voltage signal into a charging and discharging current. This It 
+is based on a combination of a level-shift flipped voltage follower and a folded shunt-feedback 
+source follower. The charging current and the discharging current generated are used to charge and 
+discharge an integrating capacitor. The ramping voltage signal on the integrating capacitor is then 
+translated to frequency domain through a window comparator and digital logic. Implemented in 
+0.18μm CMOS technology at 1V supply, the simulation results have shown that the converter has 
+a sensitivity of 1.936Hz/(μΩ/Ω) and a centre frequency of 78.2kHz. With this simple architecture, 
+the converter has achieved a SNR-energy FOM of 0.0965nJ, which is at least comparable to the 
+aforementioned IF converter. This demonstrates low noise-energy potential feature of the circuit 
+architecture. 
+Turning to the resistive Wheatstone bridge that consumes potential high power 
+consumption, another approach is that of reduction of on-time in the sensing Wheatstone Bridge in 
+conjunction with the proposed low-noise low-energy SC interface. This can be achieved through 
+sampling the Wheatstone Bridge output signal at a short time interval and holding the signal for 
+signal processing. This requires the design of op-amp to operate at high bandwidth mode during 
+the sampling phase and low-bandwidth low-power mode during the holding phase, thus reducing 
+both its current consumption and noise. To cater for the above mentioned two operation modes, an 
+op-amp with adaptive bandwidth and adaptive biasing topology is proposed in this work. 
+Implemented with UMC 65nm process technology at 1V supply from the on-chip low dropout 
+regulator, the power of the SC interface together with the Wheatstone bridge, consumes only 6.15nJ 
+per measurement interval. The measured signal-to-noise ratio of the SC interface attains 55.64 dB 
+with a 40 Hz sinusoidal input signal. As a result, it can achieve a 0.19pJ SNR-energy FOM 
+normalized with respect to bridge’s resistance variation, which is at least three times better than 
+
+-----
+that of the reported state-of-the-art works. Hence, the SC interface is very suitable for low-noise 
+low-energy sensing system. 
+
+-----

@@ -1,0 +1,159 @@
+Optimization and Scheduling for a Large Scale Urban 
+Transportation System involving Human Factors 
+Abstract 
+The striking growth of cities in developing countries prevents a well-planned urban 
+development. Many urban areas are suffering from serious traffic congestions, pollution, noises 
+and traffic fatalities. Limited financial resources and physical space cannot guarantee the 
+feasibility of the infrastructures expansion, which leads to seek other alternative solutions to 
+address the above problems. This thesis focuses on solving the above issues by designing 
+adaptive traffic signal controller for both vehicles and pedestrians and developing optimal 
+tactics and strategies for public-transport operations incorporating passenger loading process.  
+ 
+Traffic congestion, as one of the most serious issues mentioned above, has made bad impacts 
+on the mobility and accessibility in many cities. The reasons responsible for this phenomenon 
+can be attributed by many factors: urban population increase, economic growth (rapid increase 
+of private cars, unreasonable city development), poor road infrastructure, poor traffic 
+management, car accidents and some special event gatherings. In view of the increasing traffic 
+congestion in urban road networks, many models have been developed to analyse the dynamics 
+of traffic flow at different levels, e.g., Cellular Automata Models, Headway distribution Models, 
+Lighthill-Whitham-Richards(LWR)-type Models and Cell Transmission Models (CTM). 
+Traffic signal control, as one of the most essential strategies to tackle this challenge, has been 
+applied and studied over the past several decades. Adaptive traffic signal strategies have 
+demonstrated the efficiency on fluctuated demands by tuning the signal plans on-line based on 
+the real-time input data and its internal optimization model. However, existing traffic signals 
+generally aim to minimize vehicle delay, but the pedestrian delay is seldom considered. This 
+is reasonable when pedestrian volume is low, however, in CBD areas where large number of 
+pedestrians interfere with vehicular traffic, optimizing traffic signals only for vehicles may not 
+make good use of crosswalks and potentially create more conflicts between pedestrians and 
+vehicles. Therefore, we develop the model to provide Traffic Light Scheduling for Pedestrian-
+Vehicle mixed-flow Networks (TLSPVN). Firstly, a macroscopic pedestrian “hopping” model 
+at an intersection is developed, which inserts mixed logical constraints into the flow dynamic 
+model and is capable of reflecting the changing capacity during one time interval resulted from 
+the crosswalk length and pedestrian relatively lower speed. By considering drivers’ 
+psychological response to traffic signal states, a network-based vehicle flow model is adopted. 
+Both pedestrian performance and vehicle performance are integrated together via the weighted 
+sum method, which could be translated into monetary values for economic considerations or 
+delay costs for efficiency evaluation. By connecting with the commercial simulator, VISSM, 
+experiment studies are carried out to illustrate the usefulness of our proposed solution. 
+Nevertheless, the increase of the efficiency could be possible to alleviate the safety of the 
+system. According to Traffic Police accident statistics, 22% of the pedestrian fatal accidents 
+occurred at signalized pedestrian crosswalks. More than 30% of the total pedestrian fatalities 
+can be attributed to the illegal crossing behaviour. Therefore, it is essential to design traffic 
+signals considering both efficiency and safety. Pedestrian Flashing GREEN (FG), a time 
+interval for pedestrians on crosswalks to safely finish crossing before the next phase occurs, 
+may fail to clear the crosswalk in the allotted time, due to significant pedestrian non-compliant 
+behaviour. In this manner, probability of pedestrian-vehicle exposures increases when non-
+
+-----
+compatible vehicle flows are released at the next immediate phase. We address this issue by 
+presenting a traffic signal control strategy for urban traffic networks that aims to minimize 
+vehicle traveling delay (increase efficiency) as well as pedestrian crossing risk (increase safety). 
+Specifically, we formulate a mathematical model for pedestrian crossing on a signalized 
+intersection, whose arrival flow and leaving flow of each waiting zone are separately described 
+in order to make the model more realistic, then the duration of Dynamic All RED phase (DAR) 
+is obtained according to the number of illegal-crossing pedestrians via pedestrian crossing time 
+model. By integrating with the vehicle network model based on CTM, a Pedestrian-Safety-
+Aware Traffic Light Control Strategy (PSATLCS) is developed with the aim to reduce both 
+traffic congestions and pedestrian-crossing risks. Secondly, both the genetic algorithm (GA) 
+and the harmony search algorithm (HS) with the repairing mechanism are proposed in order to 
+meet the requirement of the real-time signal switching. Thirdly, efficiency on vehicle side is 
+evaluated by comparing the before-mentioned adaptive signal strategy for TLSPVN problem 
+with our proposed PSARLCS. Based on the Traffic Conflict Technique (TCT), one method 
+used to evaluate the road risk, the safety cost under two strategies is also illustrated. Moreover, 
+we establish quantitative standards for selecting signal strategies between the efficiency and 
+safety in an economic evaluation framework, which provides referable suggestions for 
+transportation professionals to make proper decisions on phase pattern selection. 
+ 
+Besides the traffic light control, public transportation, another effective solution to address the 
+above issues, has also been studied for several decades due to its larger ridership and 
+sustainability on economic efficiency, environmental justice and social equity. Especially for 
+Singapore, a densely-populated small city-country with a total population of 5.6 million, and 
+its main island has a land area of 648 km2 spreading about 42 km in length and 23 km in 
+breadth. Clearly, developing an efficient public transport system is definitely indispensable in 
+order to solve serious traffic issues under such limited land supply and exploding transport 
+demands. There are three major layers in public transportation system: strategic planning, 
+tactical planning and operational planning. Strategic planning refers to the transit network 
+design, which determines the bus line, bus stop location and types of buses. Tactical planning 
+aims at improving the level of public service and reducing the operational cost. Operational 
+planning refers to the short-term decision. In this thesis, we address the bus dispatching system 
+from the tactical and operational level, with the aim to design transit timetable and schedule 
+corresponding vehicles. Meanwhile, we take the stop-skipping control strategies into account 
+and allow the bus-platoon dispatching to guarantee an efficient bus service. We successively 
+developed two models, in which the model I only considers dynamics on buses and stops while 
+the model II also incorporates the bus loading process at each stop. By introducing the bus 
+loading process, the function which describes the relationship between the bus dwelling time 
+and the number of loading passengers, is adopted from the literature. Besides the objectives in 
+the model I with the aim to minimize passenger delay and bus vacancy, model II also tries to 
+minimize the bus unpunctual delay due to the loading process. Both models consider a ring-
+route bus line with the stop demand dynamics and the bus demand dynamics involved. Also, 
+passengers’ perceived delay is firstly formulated by a nonlinear function, which describes the 
+dissatisfaction of the passengers who haven’t boarded after their expected bus arrival time. 
+Moreover, we compare our method with the traditional fixed schedule and the optimized non-
+platoon schedule, and the simulation results illustrate the efficiency of our method. 
+ 
+Overall the thesis proposes three major problems faced by the researchers and policy makers 
+in the intelligent transportation field. The suggested frameworks and guidelines can be used to 
+help to develop an integrated, multi-modal system in order to provide citizens a more smart, 
+safe and sustainable transportation experience.  
+
+-----
+Publication Lists 
+ 
+Journal Publications 
+Accepted 
+1. Y. Zhang, K. Gao and Y.C. Zhang, R. Su. "Traffic light scheduling for pedestrian-vehicle 
+mixed-flow networks". IEEE transactions on Intelligent Transportation Systems. June 2018.  
+Submitted 
+1. Y. Zhang, Y.C. Zhang, R. Su. "Pedestrian-safety-aware traffic light control strategy for 
+urban traffic congestion alleviation". IEEE transactions on Intelligent Transportation Systems. 
+Major revision, March 2019.  
+Prepared 
+1. Y. Zhang, R. Su. "Optimal platoon dispatching strategies for bus operations considering 
+passenger loading dynamics".  
+ 
+Conference Publications 
+Accepted 
+1. Y. Zhang, Y. C. Zhang, R. Su. "Optimization of vehicle delay and drivers’ unhappiness at a 
+signalized network: a multi-objective approach". 15th IEEE International Conference on 
+Control and Automation (ICCA19). Edinburgh, Scotland, 2019.  
+2. Y. Zhang, R. Su. "Pedestrian phase pattern investigation in a traffic light scheduling problem 
+for signalized network". 2nd IEEE Conference on Control Technology and Applications 
+(CCTA18). Copenhagen, Denmark, 2018.  
+3. Y. Zhang, R. Su, and Y.C. Zhang. "A macroscopic propagation model for bidirectional 
+pedestrian flows on signalized crosswalks". 56th IEEE Conference on Decision and Control 
+(CDC17). Melbourne, Australia, 2017.  
+4. Y. Zhang, R. Su, K. Gao, Y. C. Zhang. "Traffic Light Scheduling for Pedestrians and 
+Vehicles". 1st IEEE Conference on Control Technology and Applications (CCTA17). Hawaii, 
+USA, 2017.  
+Submitted 
+1. Y. Zhang, R. Su, Y. C. Zhang. "A dynamic optimization model for bus schedule design to 
+mitigate the passenger waiting time by dispatching the bus platoon". 58th IEEE Conference on 
+Decision and Control (CDC19). Nice, France, 2019.  
+ 
+Collaborated works with others (Accepted) 
+Journals 
+1. K. Gao, Y. Zhang, Y. C. Zhang, R. Su, P.N. Suganthan. "Meta-heuristics for Bi-objective 
+urban traffic light scheduling problem". IEEE Transactions on Intelligent Transportation 
+Systems. August. 2018.  
+2. Y. C. Zhang, R. Su, G.G.N. Sandamali, Y. Zhang, R. Su, C. Cassandras, L. Xie. "A 
+Hierarchical Heuristic Approach for Solving Air Traffic Scheduling and Routing Problem with 
+a Novel Air Traffic Model". IEEE transactions on Intelligent Transportation System. 
+September. 2018.  
+
+-----
+3. A. Sadollah, K. Gao, Y. C. Zhang, Y. Zhang, R. Su. "Management of traffic congestion in 
+adaptive traffic signals using a novel classification-based approach". Engineering Optimization. 
+August. 2018.  
+Conferences 
+1. Y. C. Zhang, R. Su, C. Sun, Y. Zhang. "Modelling and traffic signal control of a 
+heterogeneous traffic network with signalized and non-signalized intersections". 1st IEEE 
+Conference on Control Technology and Applications (CCTA17). Hawaii, USA, 2017.  
+2. Y. C. Zhang, R. Su, G. G. N. Sandamali, Y. Zhang. "A Hierarchical Approach for Air Traffic 
+Routing and Scheduling". 56th IEEE Conference on Decision and Control (CDC17). 
+Melbourne, Australia, 2017.  
+3. K. Gao, Y.C. Zhang, Y. Zhang and R. Su. "A Meta-heuristic with Ensemble of Local Search 
+Operators for Urban Traffic Light Optimization". The 2017 IEEE Symposium Series on 
+Computational Intelligence (SSCI17). Honolulu, Hawaii, USA, 2017.  
+ 
+
+-----

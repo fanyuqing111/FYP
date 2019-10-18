@@ -1,0 +1,228 @@
+Home (/en-gb/)  > People (/en-gb/people)  > Academic Staff (/en-gb/people/academic-staff)
+ > Professors (/en-gb/people/academic-staff/professors)  > Prof LEUNG, Alex Ka Nang 梁加能
+(/)
+Search...
+A
+繁
+(/)
+(https://www.facebook.com/CUHK-
+Electronic-Engineering-Programme-
+166760846816421/)
+(https://www.linkedin.com/edu/school?
+id=224929&trk=edu-up-nav-menu-
+home)
+Student Intranet
+(http://mycuhk.sharepoint.com/sites/Faculty.ERG.ELE/info/Intranet/)
+Staff Intranet
+(http://gocuhk.sharepoint.com/sites/Faculty.ERG.ELE/info/Intranet/)
+Work With Us (/en-gb/home/work-with-us)
+Contact Us (/en-gb/home/contact-us)
+(http://www.cuhk.edu.hk)
+Home (/en-gb/)
+Curriculum (/en-gb/curriculum)
+Research (/en-gb/research)
+People (/en-gb/people)
+Student Life & Careers (/en-gb/student-life-careers)
+Alumni & Friends (/en-gb/alumni-friends)
+News & Events (/en-gb/news-events)
+Print (/en-gb/people/academic-staff/professors/prof-ka-nang-alex-leung?tmpl=component&print=1&page=)
+Associate Professor 
+ Rm 308, Ho Sin Hang Engineering Building
+http://www.ee.cuhk.edu.hk/~knleung/ (/~knleung/)
+Research Interests:
+Research Interests:
+Power-management integrated circuits, Analogue integrated circuits
+Research Highlights (/images/content/people/research-highlights/knleung.pdf)
+Resume of Career
+Resume of Career
+Professor Alex Leung received the B.Eng., M.Phil., and Ph.D. degrees, all in Electrical and Electronic Engineering (now the 
+department is renamed to Department of Electronic and Computer Engineering), from the Hong Kong University of Science and 
+Technology (HKUST). He stayed at HKUST immediately after he got the Ph.D degree in 2002 and became a Visiting Assistant 
+Professor. After his 3-year service to HKUST, he joined Department of Electronic Engineering of the Chinese University of Hong 
+Kong (CUHK) in 2005. He is currently an Associate Professor.
+He is a senior member of IEEE, and he was the chairman of the IEEE (Hong Kong) Electron Device/Solid-State Circuit Joint 
+Chapter in 2012. He serves in the editorial board of Active and Passive Electronic Components, Hindawi Publishing Corporation, 
+and he serves as paper reviewer in numerous IEEE & IET journals and international conferences. He involves actively in the 
+organization of several IEEE international conferences.
+Current Research Interests
+Current Research Interests
+Power-management integrated circuits, Analogue integrated circuits
+Highlights of Recent Research Achievements
+Highlights of Recent Research Achievements
+• Developed a capacitive coupling method to improve the load transient response of capacitor-less low-dropout regulators
+• Developed a pre-sub-period inductor-current control scheme to deal with unbalanced driving of single-input multiple-output 
+dc-dc converter
+Ph.D. (HKUST), SMIEEE 
+Page 1 of 3
+Electronic Engineering Department, The Chinese University of Hong Kong
+5/16/2019
+http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ka-nang-alex-leung
+
+-----
+Taught Courses
+Taught Courses
+• Basic Circuit Theory
+• Analog Integrated Circuits
+• Power Management Technology
+• Microprocessors and Computer Systems
+Honors and Awards 
+Honors and Awards 
+• Departmental Exemplary Teaching Awards in 2007-2008, 2009-2010 and 2010-2011
+• Faculty Exemplary Teaching Awards in 2007-2008
+External Service in Recent 3 Years
+External Service in Recent 3 Years
+• Chairman, IEEE (Hong Kong) Electron Devices/Solid-State Circuits Joint Chapter, 2012
+• Vice-chairman, IEEE (Hong Kong) Electron Devices/Solid-State Circuits Joint Chapter, 2011
+• Member of Editorial Board, Active and Passive Electronic Components, Hindawi Publishing Corporation, 2008-present
+• Member of organization committee, IEEE International Conference on Electron Devices and Solid-State Circuits, 2005-
+present
+• Member of organization committee, IEEE VLSI SoC, 2011
+Journal Publications
+Journal Publications
+1.
+P.Y. Or and K.N. Leung
+K.N. Leung, 'An Output-Capacitorless Low-Dropout Regulator with Direct Voltage-Spike Detection,' IEEE Journal 
+of Solid-State Circuits, Vol. 45, No. 2, pp. 458-466, Feb. 2010.
+2. C.F. Chan, K.P. Pun, K.N. Leung
+K.N. Leung, J.P. Guo, L.L.K. Leung and C.S. Choy, 'Low-Power Continuously-Calibrated Clock Recovery 
+Circuit for UHF RFID EPC Class-1 Generation-2 Transponders,' IEEE Journal of Solid-State Circuits, Vol. 45, No. 3, pp. 587-599, 
+Mar. 2010.
+3.
+K.N. Leung
+K.N. Leung, F.K.M. Cheung, M. Ho, H.C. Poon and P.Y. Or, 'A 1.9mW Transient-Enhanced Low-Dropout Regulator with 
+Voltage-Spike Suppression,' Journal of Low Power Electronics, Vol. 6, No. 1, pp. 126-132, Apr. 2010.
+4. K.N. Leung
+K.N. Leung, C.S. Choy, K.P. Pun, L.L.K. Leung, J.P. Guo, Y.S. Ng, C.F. Chan, W.W. Shi, Y. Hong, M. Ho, K.L. Mak and Y.Q. Ai, 'RF 
+Module Design of Passive UHF RFID Tag Implemented in CMOS 90-nm Technology,' Journal of Low Power Electronics, Vol. 
+6, No. 1, pp. 141-149, Apr. 2010.
+5. R.P.K. Chan, C.S. Choy, C.F. Chan, K.P. Pun and K.N. Leung
+K.N. Leung, 'Analysis of the Behaviors of Phase and Amplitude Mismatch 
+Compensators to Achieve 82.5dB Image Rejection Ratio,' International Journal of Electronics, Vol. 97, No. 5, pp. 553-568, May 
+2010.
+6. M.J. Wong, M. Ho and K.N. Leung
+K.N. Leung, 'High Slew-Rate Voltage Follower Based on Double-Sided Dynamic Biasing,' Electronics 
+Letters, Vol. 46, Issue 12, pp. 824-825, Jun. 2010.
+7.
+A.K.Y. Wong, K.N. Leung
+K.N. Leung, K. P. Pun and Y. T. Zhang, 'A 0.5 Hz Highpass-Cutoff Dual-Loop Transimpedance Amplifier for 
+Wearable NIR Sensing Device,' IEEE Transactions on Circuits and Systems II, Vol. 57, No. 7, pp. 531-535, Jul. 2010.
+8. S. Yeung, J.P Guo and K.N. Leung
+K.N. Leung, '25mA LDO with -63dB PSRR at 30MHz for WiMAX,' Electronics Letters, Vol. 46, Issue 15, 
+pp. 1080-1081, Jul. 2010.
+9. J.P. Guo and K.N. Leung
+K.N. Leung, 'A 6-uW Chip-Area-Efficient Output-Capacitorless LDO in 90-nm CMOS Technology,' IEEE Journal 
+of Solid-State Circuits, Vol. 45, No. 9, pp. 1896-1905, Sept. 2010.
+10.
+K.N. Leung
+K.N. Leung and Y.S. Ng, 'A CMOS Low Dropout Regulator with a Momentarily Current-Boosting Voltage Buffer,' IEEE 
+Transactions on Circuits and Systems I, Vol. 57, No. 9, pp. 2312-2319, Sept. 2010.
+11.
+P.Y. Or and K.N. Leung
+K.N. Leung, 'A Fast-Transient Low-Dropout Regulator with Load-Tracking Impedance Reduction and Loop-Gain 
+Boosting,' IEEE Transactions on Circuits and Systems II, Vol. 57, No. 10, pp. 757-761, Oct. 2010.
+12.
+M. Ho, K.N. Leung
+K.N. Leung and K.L. Mak, 'A Low-Power Fast-Transient 90-nm Low-Dropout Regulator with Multiple Small-Gain 
+Stages,' IEEE Journal of Solid-State Circuits, Vol. 45, No. 11, pp. 2466-2475, Nov. 2010.
+13.
+K.N. Leung
+K.N. Leung, Y.Y. Mai and P.K.T. Mok, 'A Chip-Area Efficient Voltage Regulator for VLSI Systems,' IEEE Transactions on VLSI 
+Systems, Vol. 18, No. 12, pp. 1757-1762, Dec. 2010.
+14.
+K.N. Leung
+K.N. Leung, Y.K. Sun, L.L.K. Leung and P.Y. Or, 'A Gain-Optimizing Regulated Charge Pump,' International Journal of 
+Electronics, Vol. 98, No. 2, pp. 197-205, Feb. 2011.
+15.
+M. Ho and K.N. Leung
+K.N. Leung, 'Dynamic Bias-Current Boosting Technique for Ultra-Low-Power Low-Dropout Regulator in 
+Biomedical Applications,' IEEE Transactions on Circuits and Systems II, Vol. 58, No. 3, pp. 174-178, Mar. 2011.
+16.
+K.N. Leung
+K.N. Leung, Y.S. Ng and H. Chen, 'A Fully Integrated CMOS Direct-Conversion Transmitter Front-End for WiMAX,' 
+International Journal of Electronics, Vol. 99, No. 2, pp. 255-266, Feb. 2012.
+17.
+J.B. Jia and K.N. Leung
+K.N. Leung, 'Improved Active-Diode Circuit Used in Voltage Doubler,' International Journal of Circuit Theory and 
+Applications, Vol. 40, Issue 2, pp. 165-173, Feb. 2012.
+18.
+J.P. Guo and K.N. Leung
+K.N. Leung, 'A CMOS Voltage Regulator for Passive RFID Tag ICs,' International Journal of Circuit Theory and 
+Applications, Vol. 40, Issue 4, pp. 329-340, Apr. 2012.
+19.
+J.B. Jia and K.N. Leung
+K.N. Leung, 'A Digital-Control Single-Inductor Triple-Output DC-DC Converter with Pre-Sub-Period Inductor-
+Current Control,' IEEE Transactions on Power Electronics, Vol. 27, No. 4, pp. 2028-2042, Apr. 2012.
+20. Y.Q. Zheng, H. Chen and K.N. Leung
+K.N. Leung, 'A Fast-Response Pseudo-PWM Buck Converter with PLL-Based Hysteresis Control,' 
+IEEE Transactions on VLSI Systems, Vol. 20, No. 7, pp. 1167-1174, Jul. 2012.
+21.
+K.W. Li, K.N. Leung
+K.N. Leung and L.L.K. Leung, 'Sub-mW LC Dual-Input Injection-Locked Oscillator for Autonomous WBSNs,' IEEE 
+Transactions on VLSI Systems, Vol. 21, No. 3, pp. 546-553, Mar. 2013.
+22. T. W. Mui, M. Ho, K. H. Mak, J. P. Guo, H. Chen and K. N. Leung
+K. N. Leung, ‘An Area-Efficient 96.5%-Peak-Efficiency Cross-Coupled 
+Voltage Doubler With Minimum Supply of 0.8V,’ IEEE Transactions on Circuits and Systems II, Vol. 61, No. 9, pp. 656-660, 
+Sep. 2014.
+23. K. H. Mak and K. N. Leung
+K. N. Leung, ‘A Signal- and Transient-Current Boosting Amplifier for Large Capacitive Load Applications,’ IEEE 
+Transactions on Circuits and Systems I, Vol. 61, No. 10, pp. 2777-2785, Oct. 2014.
+Page 2 of 3
+Electronic Engineering Department, The Chinese University of Hong Kong
+5/16/2019
+http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ka-nang-alex-leung
+
+-----
+Copyright © 2019. All Rights Reserved. Department of Electronic Engineering, The Chinese University of Hong Kong 
+Conference Publications
+Conference Publications
+1.
+W.W. Shi, C.S. Choy, C.F. Chan, K.N. Leung
+K.N. Leung and K.P. Pun, 'A 0.4V Low Power Baseband Processor for UHF Passive RFID 
+Tags,' IEEE International NEWCAS Conference, Montreal, Canada, pp. 65-68, Jun. 2010.
+2. W.W. Shi, C.S. Choy, C.F. Chan, K.N. Leung
+K.N. Leung and K.P. Pun, 'A 90nm RFID Tag's Baseband Processor with Novel PIE Decoder 
+and Uplink Clock Generator,' IEEE International Midwest Symposium on Circuits and Systems, Seattle, WA, USA, pp. 644-647, 
+Aug. 2010.
+3. J.P. Guo, W.W. Shi, K.N. Leung
+K.N. Leung and C.S. Choy, 'Power-On-Reset Circuit with Power-Off Auto-Discharging Path for Passive 
+RFID Tag ICs,' IEEE International Midwest Symposium on Circuits and Systems, Seattle, WA, USA, pp. 21-24, Aug. 2010.
+4. J.B. Jia and K.N. Leung
+K.N. Leung, 'Optimization of Output Voltage and Stage Number of UHF RFID Power Rectifier,' International 
+Conference on Solid-State and Integrated-Circuit Technology, Shanghai, China, pp. 412-414, Nov. 2010.
+5.
+K.Y. Kwong and K.N. Leung
+K.N. Leung, 'Slew-Rate Enhancement Circuit of CMOS Current-Mirror Amplifier by Edge-Detecting 
+Technique,' IEEE International Conference on Electron Devices and Solid-State Circuits, Hong Kong, Dec. 2010.
+6. H. Chen and K.N. Leung
+K.N. Leung, 'A Fast-Transient LDO Based on Buffered Flipped Voltage Follower,' IEEE International Conference 
+on Electron Devices and Solid-State Circuits, Hong Kong, Dec. 2010.
+7. K.N. Leung
+K.N. Leung, M. Ho, J.P. Guo and P.Y. Or, 'Development of Energy-Efficient Fast-Transient CMOS Low-Dropout Regulators for 
+SoC Applications,' IEEE Symposium on Circuits and Systems, Rio de Janeiro, Brazil, presented in Special Session: Emerging 
+Energy & Power Integrated Circuits, pp. 305-308, May 2011.
+8. K.W. Li and K.N. Leung
+K.N. Leung, 'A Low-Power MICS Fractional-N Frequency Synthesizer for Implantable Biomedical Systems,' IEEE 
+Asia Pacific Conference on Circuits and Systems, Kaohsiung, Taiwan, pp. 168-171, Dec. 2012.
+9. S. Bu and K.N. Leung
+K.N. Leung, 'A 116-dB CMOS Op Amp with Repetitive Gain Boosting and Subthreshold Operation,' IEEE 
+International Conference on Electron Devices and Solid-State Circuits, Hong Kong, Jun. 2013.
+10.
+J.P. Guo and K.N. Leung
+K.N. Leung, 'A 25mA CMOS LDO with −85dB PSRR at 2.5MHz,' IEEE Asian Solid-State Circuits Conference, 
+Singapore, pp. 381-384, Nov. 2013.
+Sitemap (/en-
+gb/sitemap)
+Accessibility (/en-
+gb/accessibility)
+Privacy Policy (/en-
+gb/privacy-policy)
+Disclaimer (/en-
+gb/disclaimer)
+Site Map (/en-
+gb/site-map)
+Page 3 of 3
+Electronic Engineering Department, The Chinese University of Hong Kong
+5/16/2019
+http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ka-nang-alex-leung
+
+-----

@@ -1,0 +1,56 @@
+Abstract 
+The mental workload and multitasking capacity of an individual is an important consideration for operator 
+and workplace safety assessment. Developing ways to understand and accurately assess mental workload 
+is therefore essential. In this thesis, we study multitasking mental workload elicited from the simultaneous 
+capacity (SIMKAP) psychology test, measured with the electroencephalograph (EEG) signal. Beginning 
+with the individual specific case, we propose novel feature based methods for classification, drawing 
+inspiration from previous work and psychophysiology. We then study general underlying neural 
+mechanics of multitasking through EEG spectral analysis of the SIMKAP test and propose a subject 
+independent classification model based on questionnaire ratings. Next, we consider generalization 
+capability by transferring models trained on SIMKAP to classify a separate workload dataset and show 
+that a novel 2-level autoencoder structure is able to learn features for stable transfer classification 
+performance. Finally, we show applications developed for multitasking assessment and neurofeedback 
+training.  
+ 
+ 
+
+-----
+Publication List 
+W. L. Lim, O. Sourina and L. P. Wang, “STEW: Simultaneous Task EEG Workload Dataset”, in IEEE 
+ 
+Transactions on Neural Systems and Rehabilitation Engineering, 2018.
+W. L. Lim, O. Sourina and L. P. Wang, “Cross Dataset Workload Classification Using Encoded Wavelet 
+ 
+Decomposition Features”, in 2018 International Conference on Cyberworlds (CW), 2018.
+W. L. Lim, Y. Liu, S. H. Subramaniam, H. P. Liew, G. Krishnan, O. Sourina, D. Konovessis, H. E. Ang 
+and L. P. Wang, “EEG-based Mental Workload and Stress Monitoring of Crew Members in Maritime 
+ 
+Virtual Simulator”, in Transactions on Computational Science, 2018.
+W. L. Lim, O. Sourina, L. P. Wang and Y. Liu, “Individual Alpha Peak Frequency Based Features For 
+Subject Dependent EEG Workload Classification” in IEEE International Conference on Systems, Man 
+ 
+and Cybernetics (SMC), 2016, pp. 3329-3333.
+O. Sourina, Y. Liu, X. Hou, W. L. Lim, W. Mueller-Wittig, L. P. Wang, D. Konovessis, C. H. Chen and 
+W. T. Ang, “Neuroscience Based Design: Fundamentals and Applications,” in 2016 International 
+ 
+Conference on Cyberworlds (CW), 2016, pp. 250-257.
+X. Hou, Y. Liu, W. L. Lim, Z. Lan, O. Sourina, W. Mueller-Wittig and L. P. Wang, "CogniMeter: EEG-
+based brain states monitoring," Transactions on Computational Science XXVIII, ed: Springer, 2016, pp. 
+ 
+108-126.
+Y. Liu, W. L. Lim, X. Hou, O. Sourina, and L. P. Wang, "Prediction of Human Cognitive Abilities based 
+ 
+on EEG Measurements," in 2015 International Conference on Cyberworlds (CW), 2015, pp. 161-164.
+W. L. Lim, O. Sourina, and L. P. Wang, "MIND-An EEG Neurofeedback Multitasking Game," in 2015 
+ 
+International Conference on Cyberworlds (CW), 2015, pp. 169-172.
+W. L. Lim, O. Sourina, L. P. Wang and Y. Liu, “EEG-based Mental Workload Recognition Related to 
+Multitasking” in International Conference on Information, Communications and Signal Processing 
+ 
+(ICICS), 2015, pp. 1-4.
+O. Sourina, X. Hou, L. P. Wang, W. L. Lim, and Y. Liu, "Neurofeedback games for the enhancement of 
+cognitive abilities related to multitasking," International Journal of Psychophysiology, vol. 2, p. 149, 
+ 
+2014.
+
+-----

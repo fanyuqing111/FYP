@@ -1,0 +1,73 @@
+Abstract 
+This Thesis is about tuning three-dimensional graphene (3D-C) and three-dimensional 
+hexagonal-boron nitride (3D-BN) into their hybrid 3D-BNC for various applications ranging 
+from thermal management, to flexible electronics, space shielding and thermo-mechanical 
+actuation in shape memory polymer (SMP). Through the ability to specifically control the 
+compositions of C and BN, a highly tunable electrical conductivity (0 – 0.6 Scm-1), 
+controllable EMI shielding properties (0 – ~50 dB), while maintaining a high and stable 
+thermal conductivity (0.84 – 1.2 Wm-1K-1) is obtained. The interconnected structure of these 
+3D porous, foam-like materials also prevents inhomogeneous distribution and aggregation 
+commonly faced when using typical nanofillers in different matrices, which is why in this 
+Thesis, they have been further developed in their bare state, as well as in conjunction with 
+other matrices, such as polymers.  
+The advancement of semiconductor technology in the era of “more-than-Moore” has led to 
+an increasing challenge in thermal management. Integrated circuits (ICs) are so densely 
+packed that they heat up within milliseconds, resulting in an extreme increase of generated 
+heat. In order to mitigate this problem, the two opposing extremes of foam, 3D-C and 3D-BN 
+are used to cater for all types of application (electrically conducting, such as interconnects, 
+and insulating, such as high voltage devices). Through compression of the foams, a high 
+cross-plane thermal conductivity of 62 – 86 Wm-1K-1, as well as excellent surface conformity 
+is demonstrated, which are characteristics essential for thermal management needs. These 
+values of thermal conductivity are among the highest cross-plane conductivities of free-
+standing graphene or h-BN structures, and in the same range of eutectic metal foils. 
+Evaluation of the thermal extraction efficiency on a state-of-the-art 2.5D electronic platform 
+along with state-of-the-art thermal interface materials (TIMs) reveals 3D-foam’s improved 
+performance of cooling by 20 – 30%, which means a temperature decrease by ΔT of 44 – 
+
+-----
+24°C. This is colder than any of the commercially available TIMs tested on the same 
+platform (i.e. Sn/Au) and among the highest temperature decrease of hot spots on actual chips 
+reported so far (e.g. highest values for alternative heat spreaders currently under research 
+range around ΔT ~ 13°C for a CVD-graphene heat spreader and ΔT ~ 20°C for exfoliated 
+few-layer graphene). This is a significant decrease, since it is known that the decrease of hot 
+spot temperature on chips by 20°C extends the transistors lifetime by one order of magnitude. 
+One of the most pressing and difficult challenges faced in the field of flexible electronics 
+deals with creating a base substrate that can support flexible devices and components. Many 
+have considered polyimides (PIs) as the flexible platform for such applications; however, due 
+to their poor thermal conductivity being orders of magnitude smaller than standard substrate 
+materials of conventional electronics, a thermal control problem arises, which limits their use 
+as flexible materials in electronics. By hybridizing 3D-C and 3D-BN with PI an improved 
+thermal dissipation by 25-times (5 – 6 Wm-1K-1) is obtained, while preserving full flexibility 
+and toughness of the PI. It is shown that these hybrid films can be directly used as printable 
+substrates and can dissipate heat more efficiently from hot spots, which in turn allows 
+increasing the maximum power applicable by at least 23%.  
+PIs have also been praised for their high temperature and UV stability and toughness, 
+which currently makes them the standard choice for space shielding. However, their 
+completely electrically insulating characteristics have caused other limitations, such as 
+spacecraft electrostatic charging. Since the hybrid of 3D-C with PI has an electrical sheet 
+resistance of 3 Ω/□, which fulfills the antistatic-criterion to dissipate the build-up of 
+electrostatic charge, it is further developed for this application and space-qualified according 
+to European Space Standards. It is shown that it withstands and keeps a stable performance 
+throughout various thermal cycles (from -100°C to +160°C), as well as the oxidative and 
+aggressive environment of ground-based simulated space environments (Gamma ray doses 
+
+-----
+equivalent to 15 years in geosynchronous equatorial orbit, GEO, and atomic oxygen exposure 
+equivalent to 8 months exposure in low Earth orbit, LEO).  
+Due to its easiness in shaping, ultra-light weight and customizability, SMPs have much 
+potential in applications that require mechanical actuation, most commonly triggered by heat. 
+However, the major drawback for SMP is its poor thermal conductivity, which often leads to 
+a large thermal gradient across the material which results in non-uniform transformation of 
+shapes and sometimes even results in cracks, due to the built up stress. To target this issue, 
+3D-BNC foams of varying concentrations are infused with SMPs. Thanks to the 
+homogeneous distribution of the foam within the polymer, a uniform spread of heat is 
+obtained, thus leading to an even transformation of shape. It is demonstrated that through this 
+technique, bigger sample sizes are attainable (maximum sizes without 3D-foam infusion are 3 
+cm in length, while with the 3D-foam infusion up to 7 cm in length are demonstrated to 
+transform without any cracking). It is shown that the 3D-foams speed up the transformation 
+process by three times, reduce the required energy to initiate the transformation process by 
+20% and in addition, thanks to the tunability of electrical conductivity of 3D-BNC, a self-
+heating and timed actuation can be incorporated to the polymer.  
+ 
+
+-----

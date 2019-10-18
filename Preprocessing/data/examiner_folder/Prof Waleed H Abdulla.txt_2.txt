@@ -1,0 +1,1172 @@
+Close
+Web of Science
+ 
+Page 1 (Records 1 -- 50)
+ 
+ [ 1 ] 
+Print
+Record 1 of 50
+Title: Effects of Imperfect Secondary Path Modeling on Adaptive Active Noise Control Systems
+Author(s): Ardekani, IT (Ardekani, Iman Tabatabaei); Abdulla, WH (Abdulla, Waleed H.)
+Source: IEEE TRANSACTIONS ON CONTROL SYSTEMS TECHNOLOGY  Volume: 20  Issue: 5  Pages: 1252-1262  DOI: 10.1109/TCST.2011.2161762  Published:
+SEP 2012  
+Abstract: Implementation of adaptive active noise control (ANC) systems requires an estimate model of the secondary path to be uploaded onto digital
+control hardware. In practice, this model is not necessarily perfect; however, to avoid mathematical difficulties, theoretical analysis of these systems is
+usually conducted for a perfect secondary path model. This paper conducts a stochastic analysis on performance of Filtered-x LMS (FxLMS)-based ANC
+systems when the actual secondary path and its model are not identical. This analysis results in a number of mathematical expressions, describing effects of
+a general secondary path model on stability, steady-state performance and convergence speed of FxLMS-based ANC systems. As a surprising result, it is
+found that intentional misadjustment of secondary path models can enhance performance of ANC systems in practice. Theoretical results are found to be in
+a good agreement with the results obtained from numerical analysis. Also, experimental results confirm the validity and accuracy of the theoretical results.
+Accession Number: WOS:000305981300010
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 1063-6536
+Record 2 of 50
+Title: Hardware-So�ware Codesign of Automatic Speech Recognition System for Embedded Real-Time Applications
+Author(s): Cheng, O (Cheng, Octavian); Abdulla, W (Abdulla, Waleed); Salcic, Z (Salcic, Zoran)
+Source: IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS  Volume: 58  Issue: 3  Pages: 850-859  DOI: 10.1109/TIE.2009.2022520  Published: MAR 2011  
+Abstract: We present a hardware-so�ware coprocessing speech recognizer for real-time embedded applications. The system consists of a standard
+microprocessor and a hardware accelerator for Gaussian mixture model (GMM) emission probability calculation implemented on a field-programmable gate
+array. The GMM accelerator is optimized for timing performance by exploiting data parallelism. In order to avoid large memory requirement, the accelerator
+adopts a double buffering scheme for accessing the acoustic parameters with no assumption made on the access pattern of these parameters. Experiments
+on widely used benchmark data show that the real-time factor of the proposed system is 0.62, which is about three times faster than the pure so�ware-based
+baseline system, while the word accuracy rate is preserved at 93.33%. As a part of the recognizer, a new adaptive beam-pruning algorithm is also proposed
+and implemented, which further reduces the average real-time factor to 0.54 with the word accuracy rate of 93.16%. The proposed speech recognizer is
+suitable for integration in various types of voice (speech)-controlled applications.
+Accession Number: WOS:000287323800015
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Salcic, Zoran 
+ 
+0000-0001-7714-9848 
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 0278-0046
+Record 3 of 50
+Title: Ambient intelligence platform using multi-agent system and mobile ubiquitous hardware
+Author(s): Wang, KIK (Wang, Kevin I-K.); Abdulla, WH (Abdulla, Waleed H.); Salcic, Z (Salcic, Zoran)
+Source: PERVASIVE AND MOBILE COMPUTING  Volume: 5  Issue: 5  Pages: 558-573  DOI: 10.1016/j.pmcj.2009.06.003  Published: OCT 2009  
+Abstract: In this paper, a novel ambient intelligence (AmI) platform is proposed to facilitate fast integration of different control algorithms, device networks
+and user interfaces. This platform defines the overall hardware/so�ware architecture and communication standards. It consists of four layers, namely the
+ubiquitous environment, middleware, multi-agent system and application layer. The multi-agent system is implemented using Java Agent DEvelopment
+(JADE) framework and allows users to incorporate multiple control algorithms as agents for managing different tasks. The Universal Plug and Play (UPnP)
+device discovery protocol is used as a middleware, which isolates the multi-agent system and physical ubiquitous environment while providing a standard
+communication channel between the two. An XML content language has been designed to provide standard communication between various user interfaces
+and the multi-agent system. A mobile ubiquitous setup box is designed to allow fast construction of ubiquitous environments in any physical space. The real
+time performance analysis shows the potential of the proposed AmI platform to be used in real-life AmI applications. A case study has also been carried out
+to demonstrate the possibility of integrating multiple control algorithms in the multi-agent system and achieving a significant improvement on the overall
+offline learning performance. (C) 2009 Elsevier B.V. All rights reserved.
+Accession Number: WOS:000208396400014
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+Wang, Kevin 
+ 
+0000-0001-8450-2558 
+Salcic, Zoran 
+ 
+0000-0001-7714-9848 
+ISSN: 1574-1192
+eISSN: 1873-1589
+Record 4 of 50
+
+
+-----
+Title: On the stability of adaptation process in active noise control systems
+Author(s): Ardekani, IT (Ardekani, Iman Tabatabaei); Abdulla, WH (Abdulla, Waleed H.)
+Source: JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA  Volume: 129  Issue: 1  Pages: 173-184  DOI: 10.1121/1.3514375  Published: JAN 2011  
+Abstract: The stability analysis of the adaptation process, performed by the filtered-x least mean square algorithm on weights of active noise controllers, has
+not been fully investigated. The main contribution of this paper is conducting a theoretical stability analysis for this process without utilizing commonly used
+simplifying assumptions regarding the secondary electro-acoustic channel. The core of this analysis is based on the root locus theory. The general rules for
+constructing the root locus plot of the adaptation process are derived by obtaining root locus parameters, including start points, end points, asymptote lines,
+and breakaway points. The conducted analysis leads to the derivation of a general upper-bound for the adaptation step-size beyond which the mean weight
+vector of the active noise controller becomes unstable. Also, this analysis yields the optimum step-size for which the adaptive active noise controller has its
+fastest dynamic performance. The proposed upper-bound and optimum values apply to general secondary electro-acoustic channels, unlike the commonly
+used ones which apply to only pure delay channels. The results are found to agree very well with those obtained from numerical analyses and computer
+simulation experiments. (C) 2011 Acoustical Society of America. [DOI: 10.1121/1.3514375]
+Accession Number: WOS:000286944600026
+PubMed ID: 21303000
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 0001-4966
+Record 5 of 50
+Title: Filtered weight FxLMS adaptation algorithm: Analysis, design and implementation
+Author(s): Ardekani, IT (Ardekani, Iman Tabatabaei); Abdulla, WH (Abdulla, Waleed H.)
+Source: INTERNATIONAL JOURNAL OF ADAPTIVE CONTROL AND SIGNAL PROCESSING  Volume: 25  Issue: 11  Pages: 1023-1037  DOI:
+10.1002/acs.1257  Published: NOV 2011  
+Abstract: In the Filtered-x Least-Mean-Square (FxLMS)-based Active Noise Control (ANC), the convergence speed of the adaptation process has a direct
+relationship to a scalar parameter, called the step size. There is a theoretical upper-bound for the step size beyond which the system becomes unstable.
+However, the step size is usually set to a number smaller than its upper-bound in practice. This is because for relatively large step sizes, the adaptation
+process becomes very sensitive to any non-stationary change in acoustic noise. Owing to this trade-off, real-time implementation of high-performance ANC
+systems becomes challenging. To overcome this problem, this paper develops a novel ANC algorithm in which a recursive filter compensates for influences of
+the step size increase on the system performance. It is shown that this filter can efficiently increase the step size upper-bound; consequently, the
+performance of the system is improved. This improvement is demonstrated using computer simulation. Also, experimental results shows the preference of
+the proposed algorithm to the traditional FxLMS-based ANC algorithm in practice. Copyright (C) 2011 John Wiley & Sons, Ltd.
+Accession Number: WOS:000297016400005
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 0890-6327
+Record 6 of 50
+Title: Stochastic modelling and analysis of filtered-x least-mean-square adaptation algorithm
+Author(s): Ardekani, IT (Ardekani, Iman Tabatabaei); Abdulla, WH (Abdulla, Waleed H.)
+Source: IET SIGNAL PROCESSING  Volume: 7  Issue: 6  Special Issue: SI  Pages: 486-496  DOI: 10.1049/iet-spr.2012.0090  Published: AUG 2013  
+Abstract: This study represents a stochastic model for the adaptation process performed on adaptive control systems by the filtered-x least-mean-square
+(FxLMS) algorithm. The main distinction of this model is that it is derived without using conventional simplifying assumptions regarding the physical plant to
+be controlled. This model is then used to derive a set of closed-form mathematical expressions for formulating steady-state performance, stability condition
+and learning rate of the FxLMS adaptation process. These expressions are the most general expressions, which have been proposed so far. It is shown that
+some previously derived expressions can be obtained from the proposed expressions as special and simplified cases. In addition to computer simulations,
+different experiments with a real-time control setup confirm the validity of the theoretical findings.
+Accession Number: WOS:000326459200005
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 1751-9675
+eISSN: 1751-9683
+Record 7 of 50
+Title: Root locus analysis and design of the adaptation process in active noise control
+Author(s): Ardekani, IT (Ardekani, Iman Tabatabaei); Abdulla, WH (Abdulla, Waleed H.)
+Source: JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA  Volume: 132  Issue: 4  Pages: 2313-2324  DOI: 10.1121/1.4746018  Part: 1  Published: OCT
+2012  
+Abstract: This paper applies root locus theory to develop a graphical tool for the analysis and design of adaptive active noise control systems. It is shown
+that the poles of the adaptation process performed in these systems move on typical trajectories in the z-plane as the adaptation step-size varies. Based on
+this finding, the dominant root of the adaptation process and its trajectory can be determined. The first contribution of this paper is formulating parameters
+
+-----
+of the adaptation process root locus. The next contribution is introducing a mechanism for modifying the trajectory of the dominant root in the root locus.
+This mechanism creates a single open loop zero in the original root locus. It is shown that appropriate localization of this zero can cause the dominant root of
+the locus to be pushed toward the origin, and thereby the adaptation process becomes faster. The validity of the theoretical findings is confirmed in an
+experimental setup which is implemented using real-time multi-threading and multi-core processing techniques. (C) 2012 Acoustical Society of America.
+[http://dx.doi.org.ezlibproxy1.ntu.edu.sg/10.1121/1.4746018]
+Accession Number: WOS:000309650600037
+PubMed ID: 23039428
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 0001-4966
+Record 8 of 50
+Title: Neonatal EEG signal characteristics using time frequency analysis
+Author(s): Abdulla, W (Abdulla, Waleed); Wong, L (Wong, Lisa)
+Source: PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS  Volume: 390  Issue: 6  Pages: 1096-1110  DOI: 10.1016/j.physa.2010.11.013  Published:
+MAR 15 2011  
+Abstract: Time-frequency analysis is a way to represent the energy contents of a signal in the joint time-frequency domain. It provides a good visual way to
+separate the frequency contents of a multi-component signal, and display the changes of these components with respect to time. This paper outlines
+investigative work on neonatal EEG signals using time-frequency analysis. The Cohen's class distributions are discussed, and kernel optimisation for the
+Cohen's class distributions is outlined. Segments of EEG with different background continuity states are analysed using a Cohen's class distribution, and
+their characteristics are discussed. Through this paper, interesting information that offers insight towards the EEG signal can be visualized from the time
+frequency analysis. (C) 2010 Elsevier B.V. All rights reserved.
+Accession Number: WOS:000287271300011
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 0378-4371
+Record 9 of 50
+Title: A non-invertible cancellable fingerprint construct based on compact minutiae patterns
+Author(s): Krivokuca, V (Krivokuca, Vedrana); Abdulla, WH (Abdulla, Waleed H.); Swain, A (Swain, Akshya)
+Source: INTERNATIONAL JOURNAL OF BIOMETRICS  Volume: 6  Issue: 2  Pages: 125-142  DOI: 10.1504/IJBM.2014.060977  Published: 2014  
+Abstract: This paper proposes a new, privacy-preserving fingerprint construct, which consists of a single pattern created from a small subset of minutiae
+from the corresponding minutiae template. The sparsity of the resulting feature vector ensures that it cannot be used to reconstruct the underlying
+fingerprint image, while simultaneously allowing for the cancellability of compromised patterns. The proposed construct is, therefore, inherently a non-
+invertible cancellable fingerprint template protection scheme. Experimental results on the recognition accuracy of patterns consisting of three, four, and five
+minutiae were very encouraging: an FRR of 0.4% or less was achieved for all three pattern sizes, while the FAR ranged from 2.1% for 5-minutia patterns to
+6.5% for 3-minutia patterns. It took about 0.1 seconds to verify a single person, regardless of the pattern size. These results suggest that the proposed
+fingerprint construct is suitable for deployment in fingerprint-based civilian authentication applications.
+Accession Number: WOS:000214648600003
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Swain, Akshya 
+ 
+0000-0002-5991-9033 
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 1755-8301
+eISSN: 1755-831X
+Record 10 of 50
+Title: Voice biometric feature using Gammatone filterbank and ICA
+Author(s): Abdulla, WH (Abdulla, Waleed H.); Zhang, YS (Zhang, Yushi)
+Source: INTERNATIONAL JOURNAL OF BIOMETRICS  Volume: 2  Issue: 4  Pages: 330-349  DOI: 10.1504/IJBM.2010.035448  Published: 2010  
+Abstract: Voice biometric feature extraction is the core task in developing any speaker identification system. This paper proposes a robust feature extraction
+technique for the purpose of speaker identification. The technique is based on processing monaural speech signal using human auditory system based
+Gammatone Filterbank (GTF) and Independent Component Analysis (ICA). The measures used to assess the robustness to additive noises and speaker
+identification performance are defined and discussed. The kkn the proposed feature is evaluated in real environments under varying noisy conditions. The
+proposed feature is benchmarked against the commonly used features such as: MFCC, PLCC, and PLP, and it outperforms them in different noisy
+environments.
+Accession Number: WOS:000214638100002
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+
+-----
+ISSN: 1755-8301
+eISSN: 1755-831X
+Record 11 of 50
+Title: A Statistical Inverse Problem Approach to Online Secondary Path Modeling in Active Noise Control
+Author(s): Ardekani, IT (Ardekani, Iman Tabatabaei); Kaipio, JP (Kaipio, Jari P.); Nasiri, A (Nasiri, Alireza); Sharifzadeh, H (Sharifzadeh, Hamid); Abdulla, WH
+(Abdulla, Waleed H.)
+Source: IEEE-ACM TRANSACTIONS ON AUDIO SPEECH AND LANGUAGE PROCESSING  Volume: 24  Issue: 1  Pages: 54-64  DOI:
+10.1109/TASLP.2015.2495249  Published: JAN 2016  
+Abstract: This paper recasts the problem of online secondary path modeling in the form of a statistical inverse problem. A statistical and, in particular, a
+Bayesian approach towards secondary path modeling is developed and the computational issues that emerge from this approach are discussed. All signals
+and parameters are modeled as random variables and the degree of information concerning them is coded in their probability density functions. An abstract
+solution is formulated in the form of a probability density function for the secondary path model. For extracting point estimates, common statistical
+estimation methods are investigated. It is shown that maximum likelihood estimation is not stable; however, Bayesian method of maximum a posteriori
+gives a reliable solution. An adaptive algorithm is then developed to compute this solution in a computationally efficient manner. This algorithm has three
+advantages, compared to the traditional secondary path modeling algorithms. First, it does not cause any interference with the main active noise control
+algorithm. Second, it does not require any additive-noise to be injected into the secondary path. Third, it does not require any off-line initiation. The
+convergence of the proposed algorithm is analyzed theoretically. The validity of the theoretical results is investigated by using computer simulation. Finally
+successful integration of the proposed algorithm into a real-time ANC system is reported.
+Accession Number: WOS:000364857900005
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+Kaipio, Jari 
+ 
+0000-0002-7392-5149 
+ISSN: 2329-9290
+Record 12 of 50
+Title: Speech Recognition System for Embedded Real-time Applications
+Author(s): Cheng, O (Cheng, Octavian); Abdulla, W (Abdulla, Waleed); Salcic, Z (Salcic, Zoran)
+Book Group Author(s): IEEE
+Source: 2009 IEEE INTERNATIONAL SYMPOSIUM ON SIGNAL PROCESSING AND INFORMATION TECHNOLOGY (ISSPIT 2009)  Book Series: IEEE International
+Symposium on Signal Processing and Information Technology  Pages: 118-122  DOI: 10.1109/ISSPIT.2009.5407487  Published: 2009  
+Abstract: In this paper a hardware/so�ware co-processing speech recognizer for embedded applications is proposed. The system mainly consists of a
+so�core processor and a hardware accelerator The accelerator is responsible for GMM emission probability calculation, which is the major computational
+bottleneck. To alleviate the memory bandwidth issue, the hardware accelerator uses double-buffering, which allows parallel operation of data retrieval and
+GMM computation. The proposed accelerator is synthesized on an Altera Stratix II FPGA device together with a Nios II so�core processor running at 100MHz.
+The proposed system is compared with a pure so�ware-based system using test utterances from the Resource Management (RM1) corpus. For a speech
+utterance length of 2.49s, the decoding time reduces from 6.64s to 2.48s. The real-time factor improves from 2.67 to 1.00. The word accuracy rate of the
+proposed system on the RM corpus is 93.42%.
+Accession Number: WOS:000290365400022
+Conference Title: 9th IEEE International Symposium on Signal Processing and Information Technology
+Conference Date: DEC 14-17, 2009
+Conference Location: Ajman, U ARAB EMIRATES
+Conference Sponsors: IEEE Comp Soc
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Salcic, Zoran 
+ 
+0000-0001-7714-9848 
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 2162-7843
+ISBN: 978-1-4244-5949-0
+Record 13 of 50
+Title: A new time-frequency binary mask estimation method based on convex optimization of speech power
+Author(s): Bao, F (Bao, Feng); Abdulla, WH (Abdulla, Waleed H.)
+Source: SPEECH COMMUNICATION  Volume: 97  Pages: 51-65  DOI: 10.1016/j.specom.2018.01.002  Published: MAR 2018  
+Abstract: In conventional computational auditory scene analysis, the segment segregation and pitch estimation are necessary. However, it is hard to obtain
+an accurate pitch contour of clean speech for segregating the segments in low signal-to-noise ratio. This o�en leads to an inaccurate estimation of binary
+mask and produces artifacts and temporal discontinuity in the enhanced speech. To overcome this problem, we propose in this paper a new estimation
+method for binary mask based on convex optimization of speech power. In this proposed method, the segment segregation and pitch estimation are
+excluded and only the speech power of each Gammatone channel is considered as a key cue used for labeling the binary masks. Considering the cross-
+correlation between the power spectra of noisy speech and noise in each channel, the objective function of speech power is built, and the speech power is
+solved by the gradient descent method. Accordingly, the time-frequency units of speech and noise are labeled by computing a decision factor derived from
+the powers of noisy speech, estimated speech and the pre-estimated noise. The erroneous local masks are refined by time-frequency unit smoothing. The
+objective measurements including segmental signal-to-noise ratio, HIT-False Alarm rate, the percentage of energy loss and the percentage of noise residue
+and the additional subjective listening test demonstrate the effectiveness of the proposed method.
+
+-----
+Accession Number: WOS:000427341500006
+ISSN: 0167-6393
+eISSN: 1872-7182
+Record 14 of 50
+Title: Active Noise Control in Three Dimensions
+Author(s): Ardekani, IT (Ardekani, Iman Tabatabaei); Abdulla, WH (Abdulla, Waleed H.)
+Source: IEEE TRANSACTIONS ON CONTROL SYSTEMS TECHNOLOGY  Volume: 22  Issue: 6  Pages: 2150-2159  DOI: 10.1109/TCST.2014.2301457  Published:
+NOV 2014  
+Abstract: Available acoustical signal processing algorithms for active noise control (ANC) can only attenuate noise at a finite number of points. Accordingly,
+they are unable to create continuous quiet zones in 3-D space. This paper proposes a methodology for developing a family of acoustical signal processing
+algorithms that are able to control sound in three dimensions. The theoretical analysis is carried out for spherical quiet zones; however, the proposed
+methodology can apply to quiet zones with arbitrary shapes. It is assumed that there is no reflection while sound propagates in media. An arbitrary
+frequency spectrum for the noise to be canceled is considered. An optimal control system for 3-D ANC is then derived. Also, an efficient method for the
+implementation of the proposed system is developed. The implementation cost of the proposed system is comparable with that of conventional ANC
+systems. In addition to the simulation results, different experiments with an experimental ANC system show the validity of the theoretical results.
+Accession Number: WOS:000345576300007
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 1063-6536
+eISSN: 1558-0865
+Record 15 of 50
+Title: Theoretical framework for stochastic modeling of FxLMS-based active noise control dynamics
+Author(s): Ardekani, IT (Ardekani, Iman Tabatabaei); Abdulla, WH (Abdulla, Waleed H.)
+Book Group Author(s): IEEE
+Source: 2012 ASIA-PACIFIC SIGNAL AND INFORMATION PROCESSING ASSOCIATION ANNUAL SUMMIT AND CONFERENCE (APSIPA ASC)  Book Series: Asia-
+Pacific Signal and Information Processing Association Annual Summit and Conference  Published: 2012  
+Abstract: There have been several contributions on theoretical modeling of FxLMS-based active noise control systems; however, when it is intended to derive
+elegant closed-form expressions for formulating dynamical behaviors of these systems, a number of simplifying assumptions regarding the acoustic noise,
+the actual secondary path and its model have to be used. This paper develops a dynamic model for FxLMS-based ANC systems, considering a general
+stochastic acoustic noise and a general secondary path. Also, an arbitrary secondary path model, which is not necessarily a perfect model, is considered. The
+main distinction of this model is that previously-derived dynamic models can be resulted in from it as special cases.
+Accession Number: WOS:000319456200259
+Conference Title: Annual Summit and Conference of the Asia-Pacific-Signal-and-Information-Processing-Association (APSIPA)
+Conference Date: DEC 03-06, 2012
+Conference Location: Hollywood, CA
+Conference Sponsors: Asia Pacific Signal & Informat Proc Assoc (APSIPA)
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 2309-9402
+ISBN: 978-1-4673-4863-8
+Record 16 of 50
+Title: Perceptual evaluation of audio watermarking using objective quality measures
+Author(s): Lin, YQ (Lin, Yiqing); Abdulla, WH (Abdulla, Waleed H.)
+Book Group Author(s): IEEE
+Source: 2008 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING, VOLS 1-12  Book Series: International Conference on
+Acoustics Speech and Signal Processing (ICASSP)  Pages: 1745-1748  DOI: 10.1109/ICASSP.2008.4517967  Published: 2008  
+Abstract: This paper proposes objective quality measures adopted in speech processing for perceptual quality evaluation of audio watermarking Different
+from using an auditory perception model that mimics human auditory system, objective quality measures are introduced as alternative approach to perceive
+the dissimilarities caused by audio watermarking. A�er embedding the watermark into a variety of audio signals from EBU database, we calculate the
+distance between the watermarked and host signals in terms of several well-developed quality measures. For correlation analysis, subjective listening tests
+and a commercial evaluation tool PEMO-Q are also used to grade the differences. Pearson correlation coefficients reveal that the investigated quality
+measures, especially Weighted Spectral Slope (WSS) measure, correspond well with reference ratings. Moreover, quality measures run much faster than
+PEMO-Q. The results indicate that objective quality measures can be the perceptual quality predictors for audio watermarking.
+Accession Number: WOS:000257456701098
+Conference Title: 33rd IEEE International Conference on Acoustics, Speech and Signal Processing
+Conference Date: MAR 30-APR 04, 2008
+Conference Location: Las Vegas, NV
+Author Identifiers:
+
+-----
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 1520-6149
+ISBN: 978-1-4244-1483-3
+Record 17 of 50
+Title: On Rayleigh distance and absorption length of parametric loudspeakers
+Author(s): Farias, F (Farias, Felipe); Abdulla, W (Abdulla, Waleed)
+Book Group Author(s): IEEE
+Source: 2015 ASIA-PACIFIC SIGNAL AND INFORMATION PROCESSING ASSOCIATION ANNUAL SUMMIT AND CONFERENCE (APSIPA)  Book Series: Asia-Pacific
+Signal and Information Processing Association Annual Summit and Conference  Pages: 1262-1265  Published: 2015  
+Abstract: This paper investigates the propagation of primary and secondary waves produced by parametric loudspeakers of different sizes. The theory of the
+parametric acoustic array describes the nonlinear interaction of waves to be confined to the near-field, but the nonlinearities may remain over the far-field,
+producing different results. Four simulations were done to compare the performance of loudspeakers with different Rayleigh distances. Based on the
+simulations, a new design was proposed to overcome the mismatching of absorption length and Rayleigh distance. Control over these distances is proposed
+as an improvement of the performance of the parametric loudspeaker, considering the required scope and proper application.
+Accession Number: WOS:000382954100239
+Conference Title: Asia-Pacific-Signal-and-Information-Processing-Association Annual Summit and Conference (APSIPA ASC)
+Conference Date: DEC 16-19, 2015
+Conference Location: Hong Kong, PEOPLES R CHINA
+Conference Sponsors: Asia Pacific Signal & Informat Proc Assoc
+ISSN: 2309-9402
+ISBN: 978-988-14768-0-7
+Record 18 of 50
+Title: Recognition accuracy of the new fingerprint construct based on a compact minutiae pattern
+Author(s): Krivokuca, V (Krivokuca, Vedrana); Abdulla, W (Abdulla, Waleed)
+Source: INTERNATIONAL JOURNAL OF BIOMETRICS  Volume: 7  Issue: 2  Pages: 170-189  DOI: 10.1504/IJBM.2015.070929  Published: 2015  
+Abstract: Instead of using the entire minutiae template to generate a protected fingerprint template, recently a non-invertible cancellable fingerprint
+construct based on a 3-5 minutiae pattern was proposed as a safer alternative. This paper investigates the recognition accuracy attainable by this new
+fingerprint construct. It is found that using five samples of a person's reference fingerprint and allowing for a maximum of three authentication attempts
+provides a genuine user with the best chance of being successfully authenticated. An evaluation of the FAR and FRR in this scenario demonstrates that the
+new fingerprint construct can be tuned to suit the performance and security requirements of different applications by adjusting the pattern size and
+matching thresholds. The fingerprint construct is then modified to improve its ability to discriminate between genuine users and impostors. Compared to
+other non-invertible fingerprint template protection schemes, the performance of the modified fingerprint construct is found to be favourable.
+Accession Number: WOS:000214650200005
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 1755-8301
+eISSN: 1755-831X
+Record 19 of 50
+Title: Intra-class Variance Among Multiple Samples of the Same Person's Fingerprint in a Cooperative User Scenario
+Author(s): Krivokuca, V (Krivokuca, Vedrana); Abdulla, W (Abdulla, Waleed)
+Edited by: Fred A; DeMarsico M; Tabbone A
+Source: PATTERN RECOGNITION APPLICATIONS AND METHODS, ICPRAM 2014  Book Series: Lecture Notes in Computer Science  Volume: 9443  Pages: 77-
+92  DOI: 10.1007/978-3-319-25530-9_6  Published: 2015  
+Abstract: A significant challenge in the development of automated fingerprint recognition algorithms is dealing with intra-class variance among multiple
+samples of the same fingerprint. A major contributor to this intra-class variance is the inconsistency with which a finger is presented to the fingerprint
+scanner across multiple authentication attempts. This paper investigates the consistency of cooperative users in placing their finger on a typical fingerprint
+scanner, in terms of the amount of translation and rotation of the finger on the scanner surface and the percentage of reference minutiae that are present in
+the query fingerprint during each authentication attempt. A database of 800 fingerprint samples from 100 cooperative participants was collected for this
+purpose. Analysis of this database resulted in a median horizontal translation of 13 pixels (0.66 mm), a median vertical translation of 17 pixels (0.86 mm), a
+median rotation of 2 degrees, and a median minutiae repeatability of 96.1 %.
+Accession Number: WOS:000374104100006
+Conference Title: 3rd International Conference on Pattern Recognition Applications and Methods (ICPRAM)
+Conference Date: MAR 06-08, 2014
+Conference Location: Angers, FRANCE
+Conference Sponsors: Inst Syst & Technologies Informat, Control & Commun, ACM Special Interest Grp Appl Comp, Assoc Advancement Artificial Intelligence,
+Portuguese Assoc Pattern Recognit
+ISSN: 0302-9743
+ISBN: 978-3-319-25530-9; 978-3-319-25529-3
+Record 20 of 50
+Title: Research Trends in Optical Spectrum for Honey Analysis
+
+-----
+Author(s): Noviyanto, A (Noviyanto, Ary); Abdulla, W (Abdulla, Waleed); Yu, W (Yu, Wei); Salcic, Z (Salcic, Zoran)
+Book Group Author(s): IEEE
+Source: 2015 ASIA-PACIFIC SIGNAL AND INFORMATION PROCESSING ASSOCIATION ANNUAL SUMMIT AND CONFERENCE (APSIPA)  Book Series: Asia-Pacific
+Signal and Information Processing Association Annual Summit and Conference  Pages: 416-425  Published: 2015  
+Abstract: The high demand for genuine honey leads to fraud practices in the market which have disadvantaged top graded genuine honey production. The
+conventional chemical analysis procedures are usually used to ensure the quality and authenticity of honey. Yet, some drawbacks, such as time-consuming,
+laborious, invasive and required complex sample preparation, in the chemical approaches make the optical spectrum based honey analysis an
+advantageous alternative method. This paper reports a comprehensive survey of peer-reviewed articles in honey analysis using spectroscopy techniques.
+The technologies, features, and preprocessing and prediction methods from the observed articles have been discussed to give an overview about optical
+spectrum approaches for honey analysis. This paper quickly introduces reseachers to modern honey analysis research.
+Accession Number: WOS:000382954100084
+Conference Title: Asia-Pacific-Signal-and-Information-Processing-Association Annual Summit and Conference (APSIPA ASC)
+Conference Date: DEC 16-19, 2015
+Conference Location: Hong Kong, PEOPLES R CHINA
+Conference Sponsors: Asia Pacific Signal & Informat Proc Assoc
+ISSN: 2309-9402
+ISBN: 978-988-14768-0-7
+Record 21 of 50
+Title: Adaptive signal processing algorithms for creating spatial zones of quiet
+Author(s): Ardekani, IT (Ardekani, Iman Tabatabaei); Abdulla, WH (Abdulla, Waleed H.)
+Source: DIGITAL SIGNAL PROCESSING  Volume: 27  Pages: 129-139  DOI: 10.1016/j.dsp.2014.01.001  Published: APR 2014  
+Abstract: Available adaptive active noise control (ANC) algorithms can only minimize the noise level at a point that an error microphone is placed.
+Consequently, a zone of quiet around this microphone is produced as a byproduct. However, they cannot technically control or, even, monitor the noise level
+within the zone of quiet unless they use several sensors. They cannot also control the shape and the extension of the quiet zone by using only the error
+microphone. This paper develops a signal processing framework for the derivation of adaptive ANC algorithms that can directly create a controllable zone of
+quiet in monochromatic noise fields using a single error microphone. It is shown that by adding a filter to the standard ANC structure, a controllable zone of
+quiet is created. The transfer function of this filter is obtained using an accurate mathematical analysis. It is also shown that the extension of the zone of
+quiet can be controlled by tuning this filter. The implementation of the proposed system requires no additional hardware, rather than those required for
+traditional ANC systems. The validity of the results are discussed by using numerical analysis. Also, the performance of the proposed system is practically
+verified. (C) 2014 Elsevier Inc. All rights reserved.
+Accession Number: WOS:000334822800012
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 1051-2004
+eISSN: 1095-4333
+Record 22 of 50
+Title: Sparse Approximations of 3D Mesh Geometry Using Frames as Overcomplete Dictionaries
+Author(s): Krivokuca, M (Krivokuca, Maja); Abdulla, WH (Abdulla, Waleed H.); Wunsche, BC (Wuensche, Burkhard C.)
+Book Group Author(s): IEEE
+Source: 2013 IEEE INTERNATIONAL CONFERENCE ON COMPUTER VISION WORKSHOPS (ICCVW)  Pages: 660-667  DOI: 10.1109/ICCVW.2013.91  Published:
+2013  
+Abstract: This paper presents a novel method for creating a frame, to be used as an overcomplete dictionary for the progressive compression of 3D mesh
+geometry. The frame is computed from redundant linear combinations of the eigenvectors of a mesh Laplacian matrix, and atoms are selected by a Matching
+Pursuit algorithm. Experimental results show that a sparser representation of a given mesh geometry can be obtained with the frame than by decomposition
+of the mesh geometry onto an orthogonal basis. The proposed frame also has other desirable properties, including directionality and orientability of the
+atoms, and the ability to be applied directly to a manifold mesh with arbitrary topology and connectivity type.
+Accession Number: WOS:000349847200089
+Conference Title: IEEE International Conference on Computer Vision Workshops (ICCVW)
+Conference Date: DEC 01-08, 2013
+Conference Location: Sydney, AUSTRALIA
+Conference Sponsors: IEEE, CVF, IEEE Comp Soc, APRS, Australiasn Natl Univ, NICTA, FACE++, Natl Robot Engn Ctr, Google, Disney Res, nVIDIA, Raytheon BBN
+Technologies, Facebook, Adobe, Kitware, OMRON, SRI Int
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Wuensche, Burkhard  
+0000-0002-8013-4118 
+Abdulla, Waleed 
+ 
+0000-0002-1812-4285 
+ISBN: 978-1-4799-3022-7
+Record 23 of 50
+Title: Lips tracking biometrics for speaker recognition
+Author(s): Abdulla, WH (Abdulla, Waleed H.); Yu, PWT (Yu, Paul W. T.); Calverly, P (Calverly, Paul)
+
+-----
+Source: INTERNATIONAL JOURNAL OF BIOMETRICS  Volume: 1  Issue: 3  Pages: 288-306  DOI: 10.1504/IJBM.2009.024275  Published: 2009  
+Abstract: A novel approach to extract successful biometrics from mouth visual images is presented in this paper. Visual features are extracted from a
+sequence of images of speakers' lips while speaking. These features consist of the shape and intensity of pixels around the edge of the lips as well as their
+dynamics. The features are extracted by using particle filters technique to track the movements of the lips. The lips tracker shows adequate accuracy and
+ability to maintain lock in different speaking scenarios. Speaker models based on these features are built using Gaussian Mixture Models (GMM) trained
+through the Expectation-Maximisation (EM) algorithm. Satisfactory results are obtained for text-independent speaker recognition carried out on a video
+database of 35 individuals. A recognition rate of 82.8% for speaker identification and equal error rate of 18% for speaker verification are achieved using this
+technique.
+Accession Number: WOS:000214605200003
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 1755-8301
+eISSN: 1755-831X
+Record 24 of 50
+Title: Multiple Scrambling and Adaptive Synchronization for Audio Watermarking
+Author(s): Lin, YQ (Lin, Yiqing); Abdulla, WH (Abdulla, Waleed H.)
+Edited by: Shi YQ; Kim HJ; Katzenbeisser S
+Source: DIGITAL WATERMARKING, PROCEEDINGS  Book Series: Lecture Notes in Computer Science  Volume: 5041  Pages: 440-453  Published: 2008  
+Abstract: Imperceptibility, robustness and security are the vital considerations in the design of any audio watermarking scheme for copyrights protection. In
+this paper, a secure and robust audio watermarking scheme involving multiple scrambling and adaptive synchronization is proposed. To prevent the
+unauthorized detection, the new scheme integrates multiple scrambling operations into the embedding process. That is, encrypting the watermark with a
+coded-image and randomly selecting certain subbands for the embedding process. Moreover, the detection utilizes adaptive synchronization to enhance the
+robustness under some destructive de-synchronization attacks, like random samples cropping/inserting, pitch-invariant time stretching, and tempo-
+preserved pitch shi�ing. Theoretical analysis and simulation results have revealed that the proposed scheme is self-secured indeed and also immune to a
+wide range of severe attacks.
+Accession Number: WOS:000263827600033
+Conference Title: 6th International Workshop on Digital Watermarking
+Conference Date: DEC 03-05, 2007
+Conference Location: Sun Yat sen Univ, Guangzhou, PEOPLES R CHINA
+Conference Sponsors: Natl Sci Fdn China, Korea Inst Informat Secur & Cryptol
+Conference Host: Sun Yat sen Univ
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 0302-9743
+ISBN: 978-3-540-92237-7
+Record 25 of 50
+Title: Robust speaker modeling using perceptually motivated feature
+Author(s): Abdulla, WH (Abdulla, Waleed H.)
+Source: PATTERN RECOGNITION LETTERS  Volume: 28  Issue: 11  Pages: 1333-1342  DOI: 10.1016/j.patrec.2006.11.018  Published: AUG 1 2007  
+Abstract: This paper introduces a novel method to extract robust features for text-independent speaker identification from short utterances. This method is
+perceptually motivated and inspired by the perceptual linear prediction (PLP) technique. The new feature is called perceptual log area ratio (PLAR). It is
+perceptual in the sense that it depends on notions from psychoacoustics where the robustness can be assured. Also, the log area ratio is an effective feature
+for recognizing speakers as it embodies the geometry and dynamics of the vocal tract, which are very much person-dependent. This research thus focuses
+on providing a reliable vocal biometric from speakers, which can be used effectively with full-band and telephone-band speech in noisy environments.
+Intensive performance analysis has been performed to benchmark the proposed method against the commonly-used features using different databases in
+different noisy environments. In almost all usable cases the PLAR proved its superiority over the commonly-used features such as MFCC and LPCC. (c) 2007
+Elsevier B.V. All rights reserved.
+Accession Number: WOS:000247807500009
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 0167-8655
+Record 26 of 50
+Title: Multi-agent system with hybrid intelligence using neural network and fuzzy inference techniques
+Author(s): Wang, KIK (Wang, Kevin I-Kai); Abdulla, WH (Abdulla, Waleed H.); Salcic, Z (Salcic, Zoran)
+Edited by: Okuno HG; Ali M
+Source: NEW TRENDS IN APPLIED ARTIFICIAL INTELLIGENCE, PROCEEDINGS  Book Series: Lecture Notes in Artificial Intelligence  Volume: 4570  Pages: 473-
++  Published: 2007  
+
+-----
+Abstract: In this paper, a novel multi-agent control system incorporating hybrid intelligence and its physical testbed are presented. The physical testbed is
+equipped with a large number of embedded devices interconnected by three types of physical networks. It mimics a ubiquitous intelligent environment and
+allows real-time data collection and online system evaluation. Human control behaviours for different physical devices are analysed and classified into three
+categories. Physical devices are grouped based on their relevance and each group is assigned to a particular behaviour category. Each device group is
+independently modelled by either fuzzy inference or neural network agents according to the behaviour category. Comparative analysis shows that the
+proposed multi-agent control system with hybrid intelligence achieves significant improvement in control accuracy compared to other offline control
+systems.
+Accession Number: WOS:000248621400047
+Conference Title: 20th International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems
+Conference Date: JUN 26-29, 2007
+Conference Location: Kyoto, JAPAN
+Conference Sponsors: Int Soc Appl Intelligence, Kyoto Univ, Grad Sch Informat, AAAI, ACM SIGART, CSCSI, SCEIO, ENNS, HIS, IEICE, INNS, IPSJ, JSAI, RSJ, TAAI,
+Texas State Univ, San Marcos
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Salcic, Zoran 
+ 
+0000-0001-7714-9848 
+Abdulla, Waleed  
+0000-0002-1812-4285 
+Wang, Kevin 
+ 
+0000-0001-8450-2558 
+ISSN: 0302-9743
+ISBN: 978-3-540-73322-5
+Record 27 of 50
+Title: Multi-agent so�ware control system with hybrid intelligence for ubiquitous intelligent environments
+Author(s): Wang, KIK (Wang, Kevin I-Kai); Abdulla, WH (Abdulla, Waleed H.); Salcic, Z (Salcic, Zoran)
+Edited by: Indulska J; Yang LT; Cao J; Ma J; Ungerer T
+Source: UBIQUITOUS INTELLIGENCE AND COMPUTING, PROCEEDINGS  Book Series: Lecture Notes in Computer Science  Volume: 4611  Pages: 1046-
++  Published: 2007  
+Abstract: In this paper, a novel ubiquitous intelligent environment platform and its multi-agent control system are presented. The platform named
+Distributed Embedded Intelligence Room (DEIR) has been constructed with embedded sensors, actuators and computing devices. All the devices are
+interconnected using five different physical networks. This platform aims to facilitate realistic data collection and online system performance evaluation. The
+multi-agent control system incorporating two machine learning algorithms, fuzzy inference and decision tree, has been designed to conform to DEIR
+architecture. Devices to be controlled are classified based on their possible output states and modelled separately by fuzzy inference agents and decision
+tree agents in the system. The multi-agent control system with hybrid intelligence shows 11% improvements on overall control accuracy and 84%
+improvements on learning time compared to its predecessor control system. The vast improvement on computational time shows suitability of the approach
+towards real-time, embedded applications.
+Accession Number: WOS:000248246800102
+Conference Title: 4th International Conference on Ubiquitous Intelligence and Computing
+Conference Date: JUL 11-13, 2007
+Conference Location: Hong Kong Polytech Univ, Hong Kong, PEOPLES R CHINA
+Conference Host: Hong Kong Polytech Univ
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Wang, Kevin 
+ 
+0000-0001-8450-2558 
+Abdulla, Waleed  
+0000-0002-1812-4285 
+Salcic, Zoran 
+ 
+0000-0001-7714-9848 
+ISSN: 0302-9743
+ISBN: 978-3-540-73548-9
+Record 28 of 50
+Title: Distributed embedded intelligence room with Multi-agent cooperative learning
+Author(s): Wang, KIK (Wang, Kevin I-Kai); Abdulla, WH (Abdulla, Waleed H.); Salcic, Z (Salcic, Zoran)
+Edited by: Ma J; Jin H; Yang LT; Tsai JJP
+Source: UBIQUITOUS INTELLIGENCE AND COMPUTING, PROCEEDINGS  Book Series: LECTURE NOTES IN COMPUTER SCIENCE  Volume: 4159  Pages: 147-
+156  Published: 2006  
+Abstract: In this paper, a novel Multi-agent control system with fuzzy inference learning and its physical testbed are presented. In the Multi-agent system,
+distributed controlling, monitoring and cooperative learning are achieved through ubiquitous computing paradigm. The physical testbed named Distributed
+Embedded Intelligence Room (DEIR) is equipped with a fair amount of embedded devices interconnected in three types of physical networks, namely
+LonWorks network, RS-485 network and IP network. The changes of environment states and user actions are recorded by so�ware agents and are processed
+by fuzzy inference learning algorithm to form fuzzy rules that capture user behaviour. With these rules, fuzzy logic controllers can perform user preferred
+control actions. Comparative analysis shows our control system has achieved noticeable improvement in control accuracy compared to the other offline
+control system.
+Accession Number: WOS:000240542600015
+Conference Title: 3rd International Conference on Ubiquitous Intelligence and Computing
+Conference Date: SEP 03-06, 2006
+
+-----
+Conference Location: Wuhan, PEOPLES R CHINA
+Conference Sponsors: Huazhong Univ Sci & Technol, Natl Sci Fdn China, Int Federat Informat Proc, IEEE Comp Soc, Lecture Notes Comp Sci Springer
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Wang, Kevin 
+ 
+0000-0001-8450-2558 
+Salcic, Zoran 
+ 
+0000-0001-7714-9848 
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 0302-9743
+ISBN: 3-540-38091-4
+Record 29 of 50
+Title: Automatic detection and segmentation of optic disc and fovea in retinal images
+Author(s): Chalakkal, RJ (Chalakkal, Renoh Johnson); Abdulla, WH (Abdulla, Waleed Habib); Thulaseedharan, SS (Thulaseedharan, Sinumol Sukumaran)
+Source: IET IMAGE PROCESSING  Volume: 12  Issue: 11  Pages: 2100-2110  DOI: 10.1049/iet-ipr.2018.5666  Published: NOV 2018  
+Abstract: Feature extraction from retinal images is gaining popularity worldwide as many pathologies are proved having connections with these features.
+Automatic detection of these features makes it easier for the specialist ophthalmologists to analyse them without spending exhaustive time to segment
+them manually. The proposed method automatically detects the optic disc (OD) using histogram-based template matching combined with the maximum
+sum of vessel information in the retinal image. The OD region is segmented by using the circular Hough transform. For detecting fovea, the retinal image is
+uniformly divided into three horizontal strips and the strip including the detected OD is selected. Contrast of the horizontal strip containing the OD region is
+then enhanced using a series of image processing steps. The macula region is first detected in the OD strip using various morphological operations and
+connected component analysis. The fovea is located inside this detected macular region. The proposed method achieves an OD detection accuracy over 95%
+upon testing on seven public databases and on our locally developed database, University of Auckland Diabetic Retinopathy database (UoA-DR). The average
+OD boundary segmentation overlap score, sensitivity and fovea detection accuracy achieved are 0.86, 0.968 and 97.26% respectively.
+Accession Number: WOS:000454356600022
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Chalakkal, Renoh Johnson Q-3565-2017 
+0000-0003-3452-5633 
+ISSN: 1751-9659
+eISSN: 1751-9667
+Record 30 of 50
+Title: A CONVEX OPTIMIZATION APPROACH FOR TIME-FREQUENCY MASK ESTIMATION
+Author(s): Bao, F (Bao, Feng); Abdulla, WH (Abdulla, Waleed H.)
+Book Group Author(s): IEEE
+Source: 2017 IEEE WORKSHOP ON APPLICATIONS OF SIGNAL PROCESSING TO AUDIO AND ACOUSTICS (WASPAA)  Book Series: IEEE Workshop on
+Applications of Signal Processing to Audio and Acoustics  Pages: 31-35  Published: 2017  
+Abstract: In this paper, we propose a new time-frequency mask method for computational auditory scene analysis (CASA) based on convex optimization of
+the binary mask. In the proposed method, the pitch estimation and segment segregation in conventional CASA are completely replaced by the convex
+optimization of speech power. Considering the cross-correlation between the power spectra of noisy speech and noise in each of a Gammatone filterbank
+channel, the objective function of speech power used for convex optimization is built. The speech power is estimated by gradient descent method. Thus, the
+time-frequency units dominated by speech and noise are labeled by comparing the powers of noisy and estimated speech, and noise. The erroneous local
+masks are also removed by using the Teager energy of the estimated speech and time-frequency unit smoothing. The results from the average segmental
+signal-to-noise ratio improvement, HIT-False Alarm rate and subjective test show that the performance of the proposed method outperforms the reference
+methods.
+Accession Number: WOS:000426939000008
+Conference Title: IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)
+Conference Date: OCT 15-18, 2017
+Conference Location: New Paltz, NY
+ISSN: 1931-1168
+ISBN: 978-1-5386-1632-1
+Record 31 of 50
+Title: AUTOMATIC SEGMENTATION OF RETINAL VASCULATURE
+Author(s): Chalakkal, RJ (Chalakkal, Renoh Johnson); Abdulla, W (Abdulla, Waleed)
+Book Group Author(s): IEEE
+Source: 2017 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP)  Book Series: International Conference on
+Acoustics Speech and Signal Processing ICASSP  Pages: 886-890  Published: 2017  
+Abstract: Segmentation of retinal vessels from retinal fundus images is the key step in the automatic retinal image analysis. In this paper we propose a new
+unsupervised automatic method to segment the retinal vessels from retinal fundus images. Contrast enhancement and illumination correction are carried
+out through a series of image processing steps followed by adaptive histogram equalization and anisotropic diffusion filtering. This image is then converted
+to a gray scale using weighted scaling. The vessel edges are enhanced by boosting the detail curvelet coefficients. Optic disk pixels are removed before
+applying fuzzy C-mean classification to avoid the misclassification. Morphological operations and connected component analysis are applied to obtain the
+segmented retinal vessels. The performance of the proposed method is evaluated using DRIVE database to be able to compare with other state-of-art
+supervised and unsupervised methods. The overall segmentation accuracy of the proposed method is 95.18% which outperforms the other algorithms.
+Accession Number: WOS:000414286201014
+
+-----
+Conference Title: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+Conference Date: MAR 05-09, 2017
+Conference Location: New Orleans, LA
+Conference Sponsors: IEEE, Inst Elect & Elect Engineers, Signal Proc Soc
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Chalakkal, Renoh Johnson Q-3565-2017 
+0000-0003-3452-5633 
+Abdulla, Waleed 
+ 
+0000-0002-1812-4285 
+ISSN: 1520-6149
+ISBN: 978-1-5090-4117-6
+Record 32 of 50
+Title: EFFICIENT FXLMS ALGORITHM WITH SIMPLIFIED SECONDARY PATH MODELS
+Author(s): Ardekani, IT (Ardekani, Iman T.); Sharifzadeh, H (Sharifzadeh, Hamid); Rehman, S (Rehman, Saeed); Abdulla, WH (Abdulla, Waleed H.)
+Book Group Author(s): IEEE
+Source: 2015 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH, AND SIGNAL PROCESSING (ICASSP)  Book Series: International Conference on
+Acoustics Speech and Signal Processing ICASSP  Pages: 609-613  Published: 2015  
+Abstract: This paper extends the existing work on the root locus analysis of FxLMS algorithm by considering secondary path modeling errors. Rules for
+sketching FxLMS root locus are set out. An analytic convergence condition is then derived from the root locus plot. A deliberately-misaligned secondary path
+model is proposed to be used as the data preparation filter in the FxLMS algorithm. The proposed filter increases the computational efficiency of the
+algorithm, without changing its convergence behavior. The theoretical results are verified in practice by busing an experimental system.
+Accession Number: WOS:000427402900122
+Conference Title: 40th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+Conference Date: APR 19-24, 2015
+Conference Location: Brisbane, AUSTRALIA
+Conference Sponsors: IEEE, Inst Elect & Elect Engineers Signal Proc Soc
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 1520-6149
+ISBN: 978-1-4673-6997-8
+Record 33 of 50
+Title: Fingerprint template protection scheme based on partial minutiae patterns: a comprehensive non-invertibility analysis
+Author(s): Krivokuca, V (Krivokuca, Vedrana); Abdulla, W (Abdulla, Waleed)
+Source: INTERNATIONAL JOURNAL OF BIOMETRICS  Volume: 7  Issue: 4  Pages: 326-353  DOI: 10.1504/IJBM.2015.076136  Published: 2015  
+Abstract: A crucial property of an effective fingerprint template protection scheme is non-invertibility, which ensures that the original fingerprint template
+cannot be recovered from its secured counterpart. Since it is extremely difficult to design a function that achieves a high degree of non-invertibility, it is
+unsafe to use an entire fingerprint template as the input to any such function. Most existing fingerprint template protection mechanisms, however, do exactly
+this. One scheme that stands apart from the rest, in that its protected template originates from only a small portion of the minutiae template, is a new
+fingerprint construct based on partial minutiae patterns. This paper presents a comprehensive analysis of the non-invertibility of this scheme. It is found that
+the new fingerprint construct has extremely strong non-invertibility and good resistance to a Record Multiplicity Attack in practice. We also propose a
+modification to improve the method's resistance to this type of attack.
+Accession Number: WOS:000214652100002
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 1755-8301
+eISSN: 1755-831X
+Record 34 of 50
+Title: STABILITY OF RESIDUAL ACOUSTIC NOISE VARIANCE IN ACTIVE CONTROL OF STOCHASTIC NOISE
+Author(s): Ardekani, IT (Ardekani, Iman Tabatabaei); Abdulla, W (Abdulla, Waleed)
+Book Group Author(s): IEEE
+Source: 2013 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP)  Book Series: International Conference on
+Acoustics Speech and Signal Processing ICASSP  Pages: 379-382  Published: 2013  
+Abstract: This paper concerns about the theoretical stability of the adaptation process performed by the Filtered-x Least Mean Square (FxLMS) algorithm in
+active control of acoustic noise. A dynamic model for the Variance of Residual Acoustic Noise (VRAN) is developed and it is shown that the stability of this
+model is a sufficient condition for the stability of the adaptation process. The basic rules governing the VRAN root locus are developed, based on which an
+upper-bound for the adaptation step-size is derived. This upper-bound can apply to a general case with an arbitrary secondary path, unlike the traditional
+upper-bound used in adaptive filter theory, which was derived only for pure delay secondary paths.
+Accession Number: WOS:000329611500077
+Conference Title: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+
+-----
+Conference Date: MAY 26-31, 2013
+Conference Location: Vancouver, CANADA
+Conference Sponsors: Inst Elect & Elect Engineers, Inst Elect & Elect Engineers Signal Proc Soc
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 1520-6149
+ISBN: 978-1-4799-0356-6
+Record 35 of 50
+Title: Noise Robust Speech Activity Detection
+Author(s): Abdulla, WH (Abdulla, Waleed H.); Guan, Z (Guan, Zhou); Sou, HC (Sou, Hou Chi)
+Book Group Author(s): IEEE
+Source: 2009 IEEE INTERNATIONAL SYMPOSIUM ON SIGNAL PROCESSING AND INFORMATION TECHNOLOGY (ISSPIT 2009)  Book Series: IEEE International
+Symposium on Signal Processing and Information Technology  Pages: 473-477  DOI: 10.1109/ISSPIT.2009.5407509  Published: 2009  
+Abstract: An efficient noise robust feature is presented to track the speech activity in noisy environments. Speech is modeled by one class of 16 phone-like
+Gaussian mixtures while noises are modeled by 15 classes of 6 mixtures each. The feature vector used is a concatenation of carefully selected coefficients
+from MFCC, LPCC, and their first and second derivatives. A finite state machine and energy validation components are proposed as post-processor for the
+GMM classifier to rectify the misclassified speech segments. The demonstrated speech activity detection system based on our feature detects reliably both
+speech and non-speech segments. The designed frame work has been benchmarked against the commercially available codecs G.729, GSM-EFR, MR1, and
+MR2. Results show the proposed technique outperforms all these commonly used techniques under various SNR levels and in different noisy environments.
+Accession Number: WOS:000290365400085
+Conference Title: 9th IEEE International Symposium on Signal Processing and Information Technology
+Conference Date: DEC 14-17, 2009
+Conference Location: Ajman, U ARAB EMIRATES
+Conference Sponsors: IEEE Comp Soc
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 2162-7843
+ISBN: 978-1-4244-5949-0
+Record 36 of 50
+Title: Speech enhancement by multi-channel crosstalk resistant adaptive noise cancellation
+Author(s): Zeng, QN (Zeng, Qingning); Abdulla, WH (Abdulla, Waleed H.)
+Book Group Author(s): IEEE
+Source: 2006 IEEE International Conference on Acoustics, Speech and Signal Processing, Vols 1-13  Book Series: International Conference on Acoustics
+Speech and Signal Processing (ICASSP)  Pages: 485-488  Published: 2006  
+Abstract: A novel Multi-channel Crosstalk Resistant Adaptive Noise Cancellation (MCRANC) algorithm is presented in this paper to enhance noise carrying
+speech signals. The algorithm would permit locating the microphones in close proximity as it cancels out the crosstalk effect. Results have indicated that this
+method outperforms the commonly used techniques in the sense of SNR improvement and speech intelligibility. A SNR improvement of 17.8dB using
+MCRANC keeping highly intelligible speech was achieved in our experiments versus 9.1dB using Multi-channel ANC (MANC) with far less speech quality.
+Accession Number: WOS:000245559901004
+Conference Title: 31st IEEE International Conference on Acoustics, Speech and Signal Processing
+Conference Date: MAY 14-19, 2006
+Conference Location: Toulouse, FRANCE
+Conference Sponsors: IEEE Signal Proc Soc
+ISSN: 1520-6149
+ISBN: 978-1-4244-0468-1
+Record 37 of 50
+Title: Gammatone Auditory Filterbank and Independent Component Analysis for Speaker Identification
+Author(s): Zhang, YS (Zhang, Yushi); Abdulla, WH (Abdulla, Waleed H.)
+Book Group Author(s): ISCA
+Source: INTERSPEECH 2006 AND 9TH INTERNATIONAL CONFERENCE ON SPOKEN LANGUAGE PROCESSING, VOLS 1-5  Pages: 2098-2101  Published: 2006  
+Abstract: Feature extraction is the key procedure when aiming at robust speaker identification. The most commonly used feature extraction techniques work
+successfully only in clean or matched environments. Accurate speaker identification is made difficult due to a number of factors, with handset/channel
+mismatch and environmental noise being the most prominent. This paper presents a novel technique which based on Gammatone filterbank (GTF) and
+independent component analysis (ICA). The presented method first relies on the Gammatone filterbank to emulate the human cochlea frequency resolution.
+By using ICA, it extracts the dominant components from these frequency banks. The extracted features emphasis the difference in the statistical structures
+among the speakers, which can model the distribution of the individuals. Compared to the commonly used techniques, such as linear predictive cepstral
+coefficients (LPCC), Mel-frequency cepstrum coefficients (MFCC) and perceptual linear predictive (PLP), the proposed method is more robust to additive
+noises and yields higher recognition rate in mismatch environments in a text-independent speaker identification system.
+Accession Number: WOS:000269965901262
+
+-----
+Conference Title: 9th International Conference on Spoken Language Processing/INTERSPEECH 2006
+Conference Date: 2006
+Conference Location: Pittsburgh, PA
+Conference Sponsors: Int Speech Commun Assoc
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISBN: 978-1-60423-449-7
+Record 38 of 50
+Title: Segmentation and calibration of hyperspectral imaging for honey analysis
+Author(s): Noviyanto, A (Noviyanto, Ary); Abdulla, WH (Abdulla, Waleed H.)
+Source: COMPUTERS AND ELECTRONICS IN AGRICULTURE  Volume: 159  Pages: 129-139  DOI: 10.1016/j.compag.2019.02.006  Published: APR 2019  
+Abstract: Hyperspectral imaging as a fast and non-invasive method for honey analysis has great potential to overcome the drawbacks of the conventional
+chemically based assessment methods. This paper discusses segmentation and calibration techniques to acquire accurate and consistent spectra in the
+implementation of hyperspectral imaging. These essential techniques have not yet been fully investigated despite they have significant implications over the
+honey analysis accuracy. Those techniques were developed and assessed under reflectance and transmittance sensing modes. The developed segmentation
+strategies (manual and automatic) followed by a selective average function demonstrated a reliable spectra extraction of honey samples. The developed
+calibration technique using a dynamic reference followed by normalisation successfully corrected the extracted spectra from distortions caused by variations
+in temperatures and lighting powers; also it greatly reduced the effect of spatial heterogeneity. The proposed segmentation and calibration techniques
+ensure the repeatability of spectral information acquisition which is very important for further processing to develop machine learning and statistically
+based prediction models.
+Accession Number: WOS:000463308400015
+ISSN: 0168-1699
+eISSN: 1872-7107
+Record 39 of 50
+Title: A New Ratio Mask Representation for CASA-Based Speech Enhancement
+Author(s): Bao, F (Bao, Feng); Abdulla, WH (Abdulla, Waleed H.)
+Source: IEEE-ACM TRANSACTIONS ON AUDIO SPEECH AND LANGUAGE PROCESSING  Volume: 27  Issue: 1  Pages: 7-19  DOI:
+10.1109/TASLP.2018.2868407  Published: JAN 2019  
+Abstract: In the computational auditory scene analysis method, the ideal ratio mask or alternatively the ideal binary mask is the key point to reconstruct the
+enhanced signal. The ratio mask in its Wiener filtering or its square root form is currently considered. However, this kind of ratio mask overlooked one
+important issue. It does not exploit the inter-channel correlation (ICC) in the noisy speech, noise, and clean speech spectra. Thus, in this paper, we first
+propose a novel ratio mask representation by utilizing the ICC. In this way, we adaptively reallocate the power ratio of the speech and noise during the
+construction of ratio mask, thus, more speech and noise components are retained and masked at the same time, respectively. Second, the channel-weight
+contour based on the equal loudness hearing attribute is adopted to revise this new ratio mask in each Gammatone filterbank channel. Finally, the revised
+ratio mask is effectively used to train a five-layer structured deep neural network. Experiments show that the proposed ratio mask performs better than the
+conventional ratio mask representation and other series of enhancement algorithms in terms of speech quality, intelligibility, and spectral distortion under
+different signal to noise ratio conditions using six types of noises.
+Accession Number: WOS:000446326100001
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 2329-9290
+Record 40 of 50
+Title: Noise masking method based on an effective ratio mask estimation in Gammatone channels
+Author(s): Bao, F (Bao, Feng); Abdulla, WH (Abdulla, Waleed H.)
+Source: APSIPA TRANSACTIONS ON SIGNAL AND INFORMATION PROCESSING  Volume: 7  Article Number: e5  DOI: 10.1017/ATSIP.2018.7  Published: MAY 15
+2018  
+Abstract: In computational auditory scene analysis, the accurate estimation of binary mask or ratio mask plays a key role in noise masking. An inaccurate
+estimation o�en leads to some artifacts and temporal discontinuity in the synthesized speech. To overcome this problem, we propose a new ratio mask
+estimation method in terms of Wiener filtering in each Gammatone channel. In the reconstruction of Wiener filter, we utilize the relationship of the speech
+and noise power spectra in each Gammatone channel to build the objective function for the convex optimization of speech power. To improve the accuracy
+of estimation, the estimated ratio mask is further modified based on its adjacent time-frequency units, and then smoothed by interpolating with the
+estimated binary masks. The objective tests including the signal-to-noise ratio improvement, spectral distortion and intelligibility, and subjective listening
+test demonstrate the superiority of the proposed method compared with the reference methods.
+Accession Number: WOS:000434322700001
+ISSN: 2048-7703
+Record 41 of 50
+Title: A NOVEL TRAINING TARGET OF DNN USED FOR CASA-BASED SPEECH ENHANCEMENT
+Author(s): Bao, F (Bao, Feng); Abdulla, WH (Abdulla, Waleed H.)
+Book Group Author(s): IEEE
+
+-----
+Source: 2018 16TH INTERNATIONAL WORKSHOP ON ACOUSTIC SIGNAL ENHANCEMENT (IWAENC)  Book Series: International Workshop on Acoustic Signal
+Enhancement  Pages: 346-350  Published: 2018  
+Abstract: Efficient training target plays a vital role in any training model for speech enhancement. In the Computational Auditory Scene Analysis method
+based on Deep Neural Networks, the ideal ratio mask or square-root ideal ratio mask is usually considered as the effective training target. In this paper, we
+propose a novel training target method for speech enhancement. This new training target takes into consideration the inter channel correlations of the
+power spectra of the noisy speech, clean speech and noise to more efficiently retain speech components and mask the noise components. Additionally, the
+channel-weight contour based on the equal loudness hearing attribute is introduced to revise the training target in each Gammatone channel to make the
+resynthesized signal more suitable for hearing characteristics. Moreover, the training target is smoothed to further improve the accuracy. Experiments show
+that using the proposed training target achieves better performances in terms of speech quality and intelligibility.
+Accession Number: WOS:000458323900070
+Conference Title: 16th International Workshop on Acoustic Signal Enhancement (IWAENC)
+Conference Date: SEP 17-20, 2018
+Conference Location: Tokyo, JAPAN
+Conference Sponsors: Ichimura Fdn New Technol, Tateisi Sci & Technol Fdn, Yahoo! Japan, Google, Microso�, Adobe, Hitachi, Dialog Semiconductor,
+Support Ctr Adv Telecommun Technol Res, mhacoustics, RION, IEEE, IEEE Signal Proc Soc, EiC, Informat Proc Soc Japan
+ISSN: 2639-4316
+ISBN: 978-1-5386-8151-0
+Record 42 of 50
+Title: Progressive Compression of 3D Mesh Geometry Using Sparse Approximations from Redundant Frame Dictionaries
+Author(s): Krivokuca, M (Krivokuca, Maja); Abdulla, WH (Abdulla, Waleed Habib); Wunsche, BC (Wunsche, Burkhard Claus)
+Source: ETRI JOURNAL  Volume: 39  Issue: 1  Pages: 1-12  DOI: 10.4218/etrij.17.0116.0509  Published: FEB 2017  
+Abstract: In this paper, we present a new approach for the progressive compression of three-dimensional (3D) mesh geometry using redundant frame
+dictionaries and sparse approximation techniques. We construct the proposed frames from redundant linear combinations of the eigenvectors of a
+combinatorial mesh Laplacian matrix. We achieve a sparse synthesis of the mesh geometry by selecting atoms from a frame using matching pursuit.
+Experimental results show that the resulting ratedistortion performance compares favorably with other progressive mesh compression algorithms in the
+same category, even when a very simple, sub-optimal encoding strategy is used for the transmitted data. The proposed frames also have the desirable
+property of being able to be applied directly to a manifold mesh having arbitrary topology and connectivity types; thus, no initial remeshing is required and
+the original mesh connectivity is preserved.
+Accession Number: WOS:000394359500001
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 1225-6463
+eISSN: 2233-7326
+Record 43 of 50
+Title: Speech Spectrum Analysis Based. On Higher Order Crossings
+Author(s): Abdulla, WH (Abdulla, Waleed H.); Wang, RL (Wang, Ruili)
+Book Group Author(s): IEEE
+Source: 2017 4TH INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING AND INTEGRATED NETWORKS (SPIN)  Pages: 19-22  Published: 2017  
+Abstract: In this paper, we propose a simple technique for extrapolating the spectra of speech signal based on real zero crossings and higher order crossings
+(HOC). In this approach, the speech signal is first subjected to a sequence of difference/sum filtering. 'then counts of zero crossings are calculated over short
+overlapped frames to obtain a sequence of counts. This sequence represents the dominant frequency components of the speech signal over the analysis
+frames. The HOC based spectral characteristics are found to be distinct for each utterance. To evaluate the discrimination performance of the HOC counts, we
+consider them as feature vectors to train a speech recognition system. We found that the recognition rate achieved by using the HOC feature is comparable to
+what can he achieved by the commonly used mel frequency cepstral coefficients, which is more computationally expensive. This paper would pave the road
+for more extensive work on the HOC features and variants as applied to speech signals.
+Accession Number: WOS:000426076800005
+Conference Title: 4th International Conference on Signal Processing and Integrated Networks (SPIN)
+Conference Date: FEB 02-03, 2017
+Conference Location: Amity Univ, Noida, INDIA
+Conference Sponsors: Amity Sch Engn & Technol, IEEE, IEEE UP Sect
+Conference Host: Amity Univ
+ISBN: 978-1-5090-2797-2
+Record 44 of 50
+Title: Signal Power Estimation Based on Convex Optimization for Speech Enhancement
+Author(s): Bao, F (Bao, Feng); Abdulla, WH (Abdulla, Waleed H.)
+Book Group Author(s): IEEE
+Source: 2017 ASIA-PACIFIC SIGNAL AND INFORMATION PROCESSING ASSOCIATION ANNUAL SUMMIT AND CONFERENCE (APSIPA ASC 2017)  Book Series:
+Asia-Pacific Signal and Information Processing Association Annual Summit and Conference  Pages: 483-487  Published: 2017  
+Abstract: Although the state-of-the-art single-channel speech enhancement algorithms has gained an appreciable suppression of the noise and improved
+speech quality to some extent, they are not mostly oriented toward improving the intelligibility of noise-degraded speech signal. In this paper, we propose a
+novel noise masking method based on convex optimization of the clean speech power to target the enhanced signal intelligibility. In our proposed method,
+the speech signal is analyzed in Gammatone domain instead of Short-Time Fourier Transform domain. The clean speech power is estimated by the convex
+
+-----
+optimization algorithm. The ratio mask used to resynthesize speech is estimated by the powers of the estimated clean speech and noise. The combination of
+the binary mask and ratio mask contributes to a further improvement of the performance. We evaluated the enhancement results for the proposed method
+using objective and subjective measures. We show that the performance of the proposed approach outperforms the reference methods.
+Accession Number: WOS:000425879400087
+Conference Title: 9th Annual Summit and Conference of the Asia-Pacific-Signal-and-Information-Processing-Association (APSIPA ASC)
+Conference Date: DEC 12-15, 2017
+Conference Location: Kuala Lumpur, MALAYSIA
+ISSN: 2309-9402
+ISBN: 978-1-5386-1542-3
+Record 45 of 50
+Title: Honey Dataset Standard Using Hyperspectral Imaging for Machine Learning Problems
+Author(s): Noviyanto, A (Noviyanto, Ary); Abdulla, WH (Abdulla, Waleed H.)
+Book Group Author(s): IEEE
+Source: 2017 25TH EUROPEAN SIGNAL PROCESSING CONFERENCE (EUSIPCO)  Book Series: European Signal Processing Conference  Pages: 473-
+477  Published: 2017  
+Abstract: Hyperspectral imaging has been rarely investigated for honey analyses, on the contrary to the optical spectroscopy which is widely investigated.
+The essential missing component to kick start this research is a standard honey hyperspectral images, called hypercubes, dataset. This paper proposes a
+systematic procedure for the preparation of the first honey hypercube dataset using hyperspectral imaging. Moreover, a scalable and flexible dataset module
+is introduced to ease the interaction between raw hypercube data and machine learning so�ware. The developed dataset greatly benefits researchers to
+progress on the research of honey analysis including constituents prediction and types classification using hyperspectral imaging and machine learning.
+Accession Number: WOS:000426986000096
+Conference Title: 25th European Signal Processing Conference (EUSIPCO)
+Conference Date: AUG 28-SEP 02, 2017
+Conference Location: GREECE
+Conference Sponsors: European Assoc Signal Proc, IEEE Signal Proc Soc, Inst Commun & Comp Syst, Natl Tech Univ Athens, Plaisio, Mitsubishi Electr Res
+Lab, MathWorks, Blue Star Ferries, Moto Island Bicycle Rentals
+ISSN: 2076-1465
+ISBN: 978-0-9928-6267-1
+Record 46 of 50
+Title: A Noise Masking Method with Adaptive Thresholds based on CASA
+Author(s): Bao, F (Bao, Feng); Abdulla, WH (Abdulla, Waleed H.)
+Book Group Author(s): IEEE
+Source: 2016 ASIA-PACIFIC SIGNAL AND INFORMATION PROCESSING ASSOCIATION ANNUAL SUMMIT AND CONFERENCE (APSIPA)  Book Series: Asia-Pacific
+Signal and Information Processing Association Annual Summit and Conference  Published: 2016  
+Abstract: In this paper, we propose a novel noise masking method based on Computational Auditory Scene Analysis by using an adaptive factor. Although it
+has succeeded in the field of speech separation and speech enhancement to some extent, the usage of fixed thresholds used for segregation and labeling
+heavily affects the processing performance. Focusing on this issue, the proposed method utilizes the Normalized Cross-Correlation Coefficients between the
+power spectra of noisy speech and pure noise to find an adaptive threshold, so that the pitch contour and Time-Frequency units can be obtained more
+accurately. Then, a revised algorithm is used to smooth the current binary mask value by checking the Time-Frequency units within adjacent frames and
+neighbor channels around the current Time-Frequency unit in order to remove the erroneous local masks. Two kinds of Signal to Noise Ratio test results
+show that the performance of the proposed method outperforms conventional spectral subtractive, Wiener Filtering and Computational Auditory Scene
+Analysis methods.
+Accession Number: WOS:000393591800208
+Conference Title: Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA)
+Conference Date: DEC 13-16, 2016
+Conference Location: Jeju, SOUTH KOREA
+ISSN: 2309-9402
+ISBN: 978-988-14768-2-1
+Record 47 of 50
+Title: Cancellability and diversity analysis of fingerprint template protection scheme based on compact minutiae pattern
+Author(s): Krivokuca, V (Krivokuca, Vedrana); Abdulla, W (Abdulla, Waleed)
+Source: INFORMATION SECURITY JOURNAL  Volume: 25  Issue: 1-3  Pages: 109-123  DOI: 10.1080/19393555.2016.1179375  Published: 2016  
+Abstract: As fingerprints continue toward ubiquity in human recognition applications, growing fingerprint databases will pose an increasingly greater risk of
+irreversible identity the� in the event of a database breach. Consequently, more focus is being placed on researching new and effective ways of securing
+fingerprint templates during database storage. Recently, a new fingerprint template protection scheme, based on representing a fingerprint by a sparse 3-,
+4-, or 5-minutiae pattern, has been proposed. The most important advantage of this method over other fingerprint template protection schemes is that it
+employs only a small number of identifying features in the creation of the protected template, such that it is impossible to recover the original fingerprint
+even if the protected template is compromised. In this article, we present a thorough analysis to demonstrate that this new fingerprint construct also boasts
+impressive cancellability and diversity properties. Cancellability allows for the replacement of a compromised template with a new template from the same
+fingerprint, and diversity enables a person to enroll into multiple applications using the same fingerprint without the prospect of being tracked across the
+different applications.
+Accession Number: WOS:000381692500009
+Author Identifiers:
+
+-----
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 1939-3555
+eISSN: 1939-3547
+Record 48 of 50
+Title: Noninvertible fingerprint transforms: Categorization of design mechanisms and discussion of evaluation techniques
+Author(s): Krivokuca, V (Krivokuca, Vedrana); Abdulla, W (Abdulla, Waleed)
+Source: INFORMATION SECURITY JOURNAL  Volume: 25  Issue: 4-6  Pages: 261-279  DOI: 10.1080/19393555.2016.1228129  Published: 2016  
+Abstract: The explosive growth in fingerprint technologies within the past decade has seen the emergence of a dedicated field of research into securing
+fingerprint templates during storage in a database. While new fingerprint template protection techniques are o�en broadly classified as belonging to the
+well-known salting, noninvertible transforms, key binding, or key generation categories, methods within each category are currently lacking a sense of
+organization. This article aims to fill this gap by proposing a categorization of noninvertible fingerprint transforms based on their design mechanisms. Our
+survey of the current literature in this field reveals two prominent types of approaches, so we classify existing noninvertible fingerprint transforms into two
+main categories: perturbation-based and histogram-based. We also discuss the evaluation techniques used to assess the robustness of noninvertible
+fingerprint transforms in the literature. These contributions will serve to help researchers find their bearing in the growing fingerprint template protection
+field, thereby encouraging a deeper understanding of the field and faster progress in the development of more effective fingerprint template protection
+schemes.
+Accession Number: WOS:000391009200009
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdulla, Waleed  
+0000-0002-1812-4285 
+ISSN: 1939-3555
+eISSN: 1939-3547
+Record 49 of 50
+Title: Joint optimization on decoding graphs using minimum classification error criterion
+Author(s): Abdelhamid, AA (Abdelhamid, Abdelaziz A.); Abdulla, WH (Abdulla, Waleed H.)
+Source: APSIPA TRANSACTIONS ON SIGNAL AND INFORMATION PROCESSING  Volume: 3  Article Number: e6  DOI: 10.1017/ATSIP.2014.5  Published: 2014  
+Abstract: Motivated by the inherent correlation between the speech features and their lexical words, we propose in this paper a new framework for learning
+the parameters of the corresponding acoustic and language models jointly. The proposed framework is based on discriminative training of the models'
+parameters using minimum classification error criterion. To verify the effectiveness of the proposed framework, a set of four large decoding graphs is
+constructed using weighted finite-state transducers as a composition of two sets of context-dependent acousticmodels and two sets of n-gram-based
+languagemodels. The experimental results conducted on this set of decoding graphs validated the effectiveness of the proposed framework when compared
+with four baseline systems based on maximum likelihood estimation and separate discriminative training of acoustic and language models in benchmark
+testing of two speech corpora, namely TIMIT and RM1.
+Accession Number: WOS:000215262900006
+Author Identifiers:
+Author
+Web of Science ResearcherID
+ORCID Number
+Abdelhamid, Abdelaziz  
+0000-0001-7080-1979 
+Abdulla, Waleed 
+ 
+0000-0002-1812-4285 
+ISSN: 2048-7703
+Record 50 of 50
+Title: Remote FxLMS Algorithm for Active Control of Sound in Remote Locations
+Author(s): Ardekani, IT (Ardekani, Iman Tabatabaei); Abdulla, WH (Abdulla, Waleed H.); Rehman, SU (Rehman, Saeed Ur)
+Book Group Author(s): IEEE
+Source: 2014 ASIA-PACIFIC SIGNAL AND INFORMATION PROCESSING ASSOCIATION ANNUAL SUMMIT AND CONFERENCE (APSIPA)  Book Series: Asia-Pacific
+Signal and Information Processing Association Annual Summit and Conference  Published: 2014  
+Abstract: Available adaptive control algorithms can only create a silent point at the locations of an error microphone. In this case, the error microphone
+occupies a part of the zone of quiet established around the silent point, resulting in an ineffective use of space in the zone of quiet. This paper develops a
+novel adaptive control algorithm for active control of sound in remote locations rather than the locations of error microphones. It establishes a link between
+the performance of the FxLMS adaptive algorithm in the digital control domain and the performance of the active noise control mechanism in the acoustic
+domain. The transfer function of an optimal controller that can minimize the acoustic pressure in a location away from the error microphone is first derived.
+For the realization of the proposed controller, an adaptive algorithm, called Remote FxLMS is then developed. Different computer simulations are used to
+show the efficiency of the proposed algorithm.
+Accession Number: WOS:000392861900041
+Conference Title: Annual Summit and Conference of Asia-Pacific-Signal-and-Information-Processing-Association (APSIPA)
+Conference Date: DEC 09-12, 2014
+Conference Location: Angkor, CAMBODIA
+Conference Sponsors: Asia Pacif Signal & Informat Proc Assoc
+ISSN: 2309-9402
+ISBN: 978-616-361-823-8
+Web of Science
+
+-----
+Close
+Page 1 (Records 1 -- 50)
+ 
+ [ 1 ] 
+Print
+
+Clarivate
+Accelerating innovation
+© 2019 Clarivate
+Copyright notice
+Terms of use
+Privacy statement
+Cookie policy
+Sign up for the Web of Science newsletter
+Follow us 
+ 
+
+
+-----

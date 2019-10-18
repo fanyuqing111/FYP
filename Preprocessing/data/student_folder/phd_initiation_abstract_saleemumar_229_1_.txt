@@ -1,0 +1,45 @@
+ 
+1/1 
+Abstract 
+Ph.D Thesis Initiation 
+ 
+Title:
+Title: Synthesis and Characterization of Wide-
+Bandgap Semiconductor Nanostructures towards 
+Opto-Electronic applications 
+Area of research: Material science, physics, chemistry, nano-photonics, fundamental electronics 
+Keywords: GaN, Graphene Quantum dot, hBN, CVD, nanowire, defect, Purcell enhancement 
+Semiconductor structures offer unique properties at the nanoscale. Mastering the growth 
+of semiconductor crystals and fabrication processes is crucial towards developing better opto-
+electronic devices. Morphological variations at nanoscale have a direct effect on available 
+electronics states, impacting fundamental electronic properties and photonic capabilities of the 
+material.  This thesis focuses on one-dimensional Gallium Nitride (GaN) nanowires, N 
+Nitrogen-doped Graphene Quantum Dots (N-GQDs) and two-dimensional hexagonal-Boron 
+Nitride (hBN). 
+First, optical capabilities of GQDs, GaN nanowires and hBN thin film have been studied 
+for their optical emission in the ultraviolet and visible range. Inherent defects resulting from 
+growth alter optical properties. GaN one-dimensional structures grown by Low Pressure 
+Chemical Vapor Deposition system (LPCVD) show high concentration of surface states 
+emitting yellow and green luminescence besides near-band edge emission. N-GQDs show 
+better photoluminescence (PL) properties, compared to GQDs, as the emission can be tailored 
+from green to yellow by adjusting the solvent in the hydrothermal reaction. Fluorescent 
+properties of hBN monolayers with ultra violet emission and engineering defect-related 
+luminescent centers is an aspiring goal for room temperature single photon emitters 
+Next, GaN nanowires growth kinetics and mechanisms were found to evolve by altering 
+precursor concentration, temperature of growth or seed catalyst. PL and Raman spectroscopy 
+characterizations show high concentration of defect states in LPCVD-grown GaN crystal while 
+MBE-grown nanowires exhibit a strong near-band edge emission for as-grown and Mg-doped 
+nanostructures. For N-GQDs the emission is modulated by changing the solvent in the 
+hydrothermal reaction. The shortening of the emission lifetime is proportional to the increase 
+in the emission wavelength from blue and yellow while the quantum yields approaches unity 
+thanks to few hydroxyl and carboxyl groups acting as nonradiative electron–hole recombination 
+centers. 
+Finally, fabrication of efficient micro- and nano-scale emitters is of crucial importance for 
+optical nanodevices. In conventional semiconductors, such as Si or GaAs, fabrication processes 
+can involve expensive and time consuming electron beam lithography and etching. We show 
+an alternative, using femtosecond laser-based process, to fabricate efficient GaN and hBN-
+based localized micro- and nanometer-size light emitters based on intentionally induced points 
+defects. Coupling these nano-emitters with surface plasmons of another nanostructure can 
+improve the emission rate as shown by coupling N-GQDs to single Bi2Te3 nanoplates. 
+
+-----

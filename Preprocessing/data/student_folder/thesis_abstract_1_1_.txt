@@ -1,0 +1,38 @@
+Abstract 
+Low power and low jitter equalization becomes increasingly crucial for wireline receivers 
+entering data rate more than ten gigabits per second. Different techniques for equalization at 
+the receiver end has already been proposed in the past. Many of these solutions, though are 
+highly suitable for datarates > 25 Gb/s, are not power and area efficient to be used in compact 
+wireline SoCs, owing to the use of bulky inductors which are necessary to meet the desired 
+bandwidth. The widely used equalizers also tend to ignore the low frequency loss in the 
+channel, while addressing the traditional high frequency loss in the channel. However, over 
+long measurement intervals, the low frequency loss manifests as increased data dependant jitter 
+and worsens the timing integrity of the equalized signal. 
+In this thesis, three different power efficient inductorless analog equalizer designs that 
+improve the timing integrity of the equalized signal are proposed. All the designs are 
+implemented in 65 nm CMOS process technology node. The first equalizer design which 
+operates at 13 Gb/s, proposes a dedicated low frequency equalizer based on active feedback 
+which also improves the bandwidth in the absence of inductive loading. The inductorless 
+equalizer design counters the low frequency channel loss in addition to the intermediate-to-
+high frequency loss from a 15 dB channel. The proposed equalizer improves the measured data 
+jitter of a conventional linear equalizer from 0.41 UI to 0.12 UI for a pseudorandom binary 
+sequence (PRBS) of 231-1.  
+The second equalizer design proposes and inductorless and power-efficient 32 Gb/s 
+hybrid analog equalizer. The hybrid analog equalizer utilizes a triple-gate control which entails 
+that a low frequency equalization is simultaneously achieved at minimum area overhead. 
+Bandwidth extension is also aided by a negative capacitance circuit at the output of the 
+equalizer. The maximum equalization achieved is 21 dB at Nyquist, with a peak-to-peak data 
+
+-----
+jitter of 0.17 UI at 32 Gb/s for a 231-1 PRBS input. The prototype exhibits a competitive power 
+efficiency of 0.53 mW/Gb/s under a supply voltage of 1.2 V. 
+The third design proposed an inductorless 32 Gb/s wireline receiver analog front end 
+(AFE) with a linear equalizer and a novel half-rate distributed decision feedback (DFE) scheme 
+for edge and data equalization. The proposed distributed DFE scheme addresses the problem 
+of edge ISI, thus ensuring better timing intersymbol interference (ISI) at the clock edges which 
+in turn helps in accurate sampling of the data edges while maintaining the eye-height at the 
+centre of the sampled data. Measurement results suggest that the proposed design exhibits a 
+power efficiency of 3.53 mW/Gb/s at a supply voltage of 1.2 V and exhibits a BER < 10-12 at 
+a datarate of 32 Gb/s. 
+
+-----

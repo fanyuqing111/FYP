@@ -1,0 +1,1692 @@
+• 
+Presentation 
+• 
+Members 
+• 
+Research 
+• 
+Projects 
+• 
+Publications  
+o Papers 
+o Activity report 
+• 
+Platforms 
+• 
+Contact 
+  
+↑ Return to Publications 
+Papers  
+</p>< p><img src="//piwik.inria.fr/piwik.php?idsite=25" style="border:0;" alt="" 
+/></p>< p>  
+2017 
+Conference papers 
+Incremental Cross-Modality Deep Learning for Pedestrian Recognition 
+Danut Ovidiu Pop, Alexandrina Rogozan, Fawzi Nashashibi, Abdelaziz Bensrhair 
+IV’17 – IEEE Intelligent Vehicles Symposium , Jun 2017, Redondo Beach, CA, United States 
+ 
+Fusion of Stereo Vision for Pedestrian Recognition using Convolutional Neural Networks 
+Danut Ovidiu Pop, Alexandrina Rogozan, Fawzi Nashashibi, Abdelaziz Bensrhair 
+ESANN 2017 – 25th European Symposium on Artificial Neural Networks, Computational Intelligence and 
+Machine Learning, Apr 2017, Bruges, Belgium 
+ 
+Indoor Intelligent Vehicle localization using WiFi Received Signal Strength Indicator 
+Nguyen Dinh-Van, Fawzi Nashashibi, Nguyen Thanh-Huong, Eric Castelli 
+3rd IEEE MTT-S International Conference on Microwaves for Intelligent Mobility 2017, Mar 2017, Nagoya, 
+Japan 
+
+-----
+ 
+Fast Distributed Agreements and Safety-Critical Scenarios in VANETs 
+Gérard Le Lann 
+2017 IEEE International Conference on Computing, Networking and Communications , Jan 2017, Santa Clara, 
+CA, United States. IEEE ComSoc, 2017 IEEE International Conference on Computing, Networking and 
+Communications pp.7, 2017, 2017 IEEE International Conference on Computing, Networking and 
+Communications 
+ 
+2016 
+Journal articles 
+Shape Matching By Part Alignment Using Extended Chordal Axis Transform 
+Zahraa Yasseen, Anne Verroust-Blondet, Ahmad Nasri 
+Pattern Recognition, Elsevier, 2016, 57, <10.1016/j.patcog.2016.03.022> 
+ 
+A Markovian Analysis of IEEE 802.11 Broadcast Transmission Networks with Buffering 
+Guy Fayolle, Paul Muhlethaler 
+Probability in the Engineering and Informational Sciences, Cambridge University Press (CUP), 2016, Probability 
+in the Engineering and Informational Sciences, 30 (3), pp.19. <10.1017/S0269964816000036> 
+ 
+A Review of Motion Planning Techniques for Automated Vehicles 
+David Gonzalez Bautista, Joshué Pérez, Vicente Milanés, Fawzi Nashashibi 
+IEEE Transactions on Intelligent Transportation Systems, IEEE, 2016, <10.1109/TITS.2015.2498841> 
+ 
+Analysis of Large-Scale Traffic Dynamics in an Urban Transportation Network Using Non-Negative Tensor 
+Factorization 
+Yufei Han, Fabien Moutarde 
+International Journal of Intelligent Transportation Systems Research, Springer Verlag, 2016, 14 (1), pp.36-49. 
+<10.1007/s13177-014-0099-7> 
+ 
+Pioneering driverless electric vehicles in Europe: the City Automated Transport System (CATS) 
+Derek Christie, Anne Koymans, Thierry Chanard, Jean-Marc Lasgouttes, Vincent Kaufmann 
+Transportation Research Procedia, Elsevier, 2016, Towards future innovative transport: visions, trends and 
+methods — 43rd European Transport Conference Selected Proceedings, 13, pp.30-39. 
+<10.1016/j.trpro.2016.05.004> 
+ 
+View selection for sketch-based 3D model retrieval using visual part shape description 
+Zahraa Yasseen, Anne Verroust-Blondet, Ahmad Nasri 
+Visual Computer, Springer Verlag, 2016, pp.19. <http://link.springer.com/journal/371>. <10.1007/s00371-016-
+1328-7> 
+ 
+Latent binary MRF for online reconstruction of large scale systems 
+Victorin Martin, Jean-Marc Lasgouttes, Cyril Furtlehner 
+Annals of Mathematics and Artificial Intelligence, Springer Verlag, 2016, 77 (1), pp.123-154. <10.1007/s10472-
+015-9470-x> 
+ 
+Fusion of Perception and V2P Communication Systems for Safety of Vulnerable Road Users 
+Pierre Merdrignac, Oyunchimeg Shagdar, Fawzi Nashashibi 
+IEEE Transactions on Intelligent Transportation Systems, IEEE, 2016 
+ 
+Conference papers 
+Automated Global Planner for Cybernetic Transportation Systems 
+Myriam Vaca Recalde, Jose Emilio Traver, Vicente Milanés, Joshué Pérez, David Gonzalez Bautista, Fawzi 
+Nashashibi 
+
+-----
+ICARCV 2016 – 14th international conference on control, automation, robotics and vision, Nov 2016, Phuket, 
+Thailand. <10.1109/ICARCV.2016.7838768> 
+ 
+Low Speed Vehicle Localization using WiFi FingerPrinting 
+Dinh-Van Nguyen, Myriam Vaca Recalde, Fawzi Nashashibi 
+International Conference on Control, Automation, Robotics and Vision, ICARCV 2016, Nov 2016, Phuket, 
+Thailand 
+ 
+Real-time planning for adjacent consecutive intersections 
+Fernando Garrido, David Gonzalez Bautista, Vicente Milanés, Joshué Pérez, Fawzi Nashashibi 
+19th International IEEE Conference on Intelligent Transportation Systems – ITSC 2016, Nov 2016, Rio de 
+Janeiro, Brazil. Intelligent Transportation Systems Conference 2016 
+ 
+A Cooperative Fusion Architecture for Robust Localization: Application to Autonomous Driving 
+Guillaume Bresson, Mohamed-Cherif Rahal, Dominique Gruyer, Marc Revilloud, Zayed Alsayed 
+IEEE Intelligent Transportation Systems Conference 2016, Nov 2016, Rio de Janeiro, Brazil 
+ 
+Speed Profile Generation based on Quintic Bezier Curves for Enhanced Passenger Comfort 
+David Gonzalez Bautista, Vicente Milanés, Joshué Pérez Rastelli, Fawzi Nashashibi 
+2016 IEEE 19th International Conference on Intelligent Transportation Systems (ITSC 2016), Nov 2016, Rio de 
+Janeiro, Brazil. 2016 IEEE 19th International Conference on Intelligent Transportation Systems (ITSC 2016), 
+2016 
+ 
+Study and Evaluation of Laser-based Perception and Light Communication for a Platoon of Autonomous 
+Vehicles 
+Mohammad Abualhoul, Pierre Merdrignac, Oyunchimeg Shagdar, Fawzi Nashashibi 
+2016 IEEE 19th Intelligent Transportation Systems Conference (ITSC 2016), Nov 2016, Rio de Janeiro, Brazil 
+ 
+Using Fractional Calculus for Cooperative Car-Following Control 
+Carlos Flores, Vicente Milanés, Fawzi Nashashibi 
+Intelligent Transportation Systems Conference 2016, Nov 2016, Rio de Janeiro, Brazil 
+ 
+A Collision-Free MAC Protocol for Fast Message Dissemination in Vehicular Strings 
+Gérard Le Lann 
+2016 IEEE Conference on Standards for Communications & Networking, Oct 2016, Berlin, Germany. IEEE 
+ComSoc, pp.7 
+ 
+ADAS Reliability and Safety 
+Laurent Raffaelli, Guy Fayolle, Frédérique Vallée 
+Lardeux, Emmanuel; Bracquemond, Annie. 20ème Congrès de maîtrise des risques et de sûreté de 
+fonctionnement , Oct 2016, Saint-Malo, France. pp.10, 2016, Congrès Lambda MU 20. 
+<http://www.imdr.eu/Menu/CONGRES/Les+congres+Lambda+Mu/Congres+%CE%BB%CE%BC+20+-
+Lambda+Mu+20-+-+Oct.+2016/Programme+et+Inscriptions/p-427.html> 
+ 
+Optimized trajectory planning for Cybernetic Transportation Systems 
+Fernando Garrido, David Gonzalez Bautista, Vicente Milanés, Joshué Pérez, Fawzi Nashashibi 
+9th IFAC Symposium on Intelligent Autonomous Vehicles IAV 2016, Jun 2016, Leipzig, Germany. IFAC 
+Symposium on Intelligent Autonomous Vehicles IAV 2016, 49 (15), pp.1-6, 2016 
+ 
+Using Plug&Play Control for stable ACC-CACC system transitions 
+Francisco Navas, Vicente Milanés, Fawzi Nashashibi 
+Intelligent Vehicles Symposium 2016, Jun 2016, Gothemburg, Sweden. <10.1109/IVS.2016.7535464> 
+ 
+Visible Light Inter-Vehicle Communication for Platooning of Autonomous Vehicles 
+Mohammad Abualhoul, Oyunchimeg Shagdar, Fawzi Nashashibi 
+2016 IEEE Intelligent Vehicles Symposium IV2016, Jun 2016, Gothenburg, Sweden. 2016, <http://iv2016.org/> 
+ 
+Comparison of Spatial Aloha and CSMA using Simple Stochastic Geometry Models for 1D and 2D Networks 
+Nadjib Achir, Younes Bouchaala, Paul Muhlethaler, Oyunchimeg Shagdar 
+ICT 2016 – 23rd International Conference on Telecommunications, 2016, May 2016, Thessalonique, Greece. 
+2016, <10.1109/ICT.2016.7500470> 
+
+-----
+ 
+Perception and Control Strategies for Autonomous Docking for Electric Freight Vehicles 
+Leopoldo Gonzalez, Joshué Pérez, David Gonzalez Bautista, Fawzi Nashashibi 
+Transport Research Arena TRA 2016, Apr 2016, Warsaw, Poland. <10.1016/j.trpro.2016.05.116> 
+ 
+Facing ADAS validation complexity with usage oriented testing 
+Laurent Raffaelli, Frédérique Vallée, Guy Fayolle, Philippe De Souza, Xavier Rouah, Matthieu Pfeiffer, 
+Stéphane Géronimi, Frédéric Pétrot, Samia Ahiad 
+ERTS 2016, Jan 2016, Toulouse, France. Proceeding of the 8th European Congress – ERTS 2016, pp.13, 
+2016 
+ 
+Theses 
+Visible Light and Radio Communication for Cooperative Autonomous Driving: applied to vehicle convoy 
+Mohammad Abualhoul 
+Optics / Photonic. MINES ParisTech, 2016. English 
+ 
+2015 
+Journal articles 
+Random Walks in the Quarter-Plane: Advances in Explicit Criterions for the Finiteness of the Associated Group 
+in the Genus 1 Case 
+Guy Fayolle, Roudolf Iasnogorodski 
+Markov Processes and Related Fields, Polymath, 2015, 21 (4) 
+ 
+Fuzzy logic steering control of autonomous vehicles insideroundabouts 
+Joshué Pérez Rastelli, Matilde Santos 
+Applied Soft Computing, Elsevier, 2015, <10.1016/j.asoc.2015.06.030> 
+ 
+A driverless vehicle demonstration on motorways and in urban environments 
+Jorge Godoy, Joshué Pérez Rastelli, Enrique Onieva, Jorge Villagra, Vicente Milanes, Rodolfo Haber 
+Transport, Taylor & Francis, 2015, <10.3846/16484142.2014.1003406> 
+ 
+Low Speed Hybrid Generalized Predictive Control of a Gasoline-Propelled Car 
+Miguel Romero, Angel De Madrid, C Mañoso, V Milanés 
+ISA Transactions, Elsevier, 2015, <10.1016/j.isatra.2015.01.004> 
+ 
+Automatic parking and platooning for electric vehicles redistribution in a car-sharing application 
+Mohamed Marouf, Evangeline Pollard, Fawzi Nashashibi 
+IOSR Journal of Electrical and Electronics Engineering, International Organization of Scientific Research 
+(IOSR), 2015, 10 (1), pp.9. <http://www.iosrjournals.org/index.html> 
+ 
+A Segmentation Transfer Approach for Rigid Models 
+Esma Elghoul, Anne Verroust-Blondet, Mohamed Chaouch 
+Journal of Information Science and Engineering, Academia Sinica, 2015, 31 (3), pp.993-1009. 
+<http://www.iis.sinica.edu.tw/page/jise/2015/201505_12.html> 
+ 
+Conference papers 
+Context Awareness and Priority Control for ITS based on Automatic Speech Recognition 
+Sakriani Sakti, Oyunchimeg Shagdar, Fawzi Nashashibi, Satoshi Nakamura 
+International conference on ITS Telecommunications, Dec 2015, Copenhagen, Denmark. 2015, 
+<http://www.itst-conf.org/> 
+
+-----
+ 
+Analysis of broadcast strategies and network parameters in IEEE 802.11p VANETs using simple analytical 
+models 
+Younes Bouchaala, Oyunchimeg Shagdar, Paul Muhlethaler 
+The 4th International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks 
+(PEMWN), Nov 2015, Hammamet, Tunisia. 2015 
+ 
+Description and Technical specifications of Cybernetic Transportation Systems: an urban transportation concept 
+Roldao Luis, Joshué Pérez Rastelli, David Gonzalez Bautista, Vicente Milanés 
+2015 IEEE International Conference on Vehicular Electronics and Safety, Nov 2015, Yokohama, Japan. 2015 
+ 
+An Energy-Saving Speed Profile Algorithm for Cybernetic Transport Systems 
+Carlos Flores, Vicente Milanés, Joshué Pérez, Fawzi Nashashibi 
+ICVES 2015 – IEEE international conference on vehicular electronics and safety, Nov 2015, Yokohama, Japan 
+ 
+Automatic vehicle perpendicular parking design using saturated control 
+Plamen Petrov, Fawzi Nashashibi 
+2015 IEEE Jordan Conference on Applied Electrical Engineering and Computing Technologies (AEECT), Nov 
+2015, Amman, Jordan. IEEE, 2015, <http://ewh.ieee.org/conf/aeect/CFP.html>. 
+<10.1109/AEECT.2015.7360566> 
+ 
+Autonomous driving at intersections: combining theoretical analysis with practical considerations 
+Arnaud De La Fortelle, Xiangjun Qian 
+ITS World Congress 2015, Oct 2015, Bordeaux, France. Proceedings of the ITS World Congress 2015, 2015 
+ 
+Extended Mobility Management and Geocast Routing for Internet-to-VANET Multicasting 
+Ines Ben Jemaa, Oyunchimeg Shagdar, Paul Muhlethaler, Arnaud De La Fortelle 
+22nd ITS World Congress, Oct 2015, Bordeaux, France. 2015 
+ 
+PML-SLAM: a solution for localization in large-scale urban environments 
+Zayed Alsayed, Guillaume Bresson, Fawzi Nashashibi, Anne Verroust-Blondet 
+PPNIV – IROS 2015, Sep 2015, Hambourg, Germany. 2015 
+ 
+Study on Perception and Communication Systems for Safety of Vulnerable Road Users 
+Pierre Merdrignac, Oyunchimeg Shagdar, Ines Ben Jemaa, Fawzi Nashashibi 
+Intelligent Transportation Systems Conference, ITSC 2015, Sep 2015, Las Palmas de Gran Canaria, Spain. 
+Intelligent Transportation Systems Conference, ITSC 2015 
+ 
+Global On-line Optimization for Charging Station Allocation 
+Jean-Marc Lasgouttes 
+Intelligent Transportation Systems Conference, ITSC 2015, Sep 2015, Las Palmas de Gran Canaria, Spain. 
+IEEE, pp.1890 – 1895, <10.1109/ITSC.2015.306> 
+ 
+Coordination of automated vehicles at intersections: decision, efficiency and control 
+Arnaud De La Fortelle 
+IEEE 18th International Conference on Intelligent Transportation Systems (ITSC), Sep 2015, Las Palmas, 
+Spain. Proceedings of the 2015 IEEE 18th International Conference on Intelligent Transportation Systems 
+(ITSC), 2015, <http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=7313369>. <10.1109/ITSC.2015.277> 
+ 
+Some Open Safety Issues in Vehicular Networks 
+Gérard Le Lann 
+Matthieu Roy. CARS 2015 – Critical Automotive applications: Robustness & Safety, Sep 2015, Paris, France 
+
+-----
+ 
+Decentralized model predictive control for smooth coordination of automated vehicles at intersection 
+Xiangjun Qian, Jean Gregoire, Arnaud De La Fortelle, Fabien Moutarde 
+European Control Conference (ECC2015), Jul 2015, Linz, Austria. 2015, <10.1109/ECC.2015.7331068> 
+ 
+2D Laser Based Road Obstacle Classification for Road Safety Improvement 
+Pierre Merdrignac, Evangeline Pollard, Fawzi Nashashibi 
+2015 IEEE International Workshop on Advanced Robotics and its Social Impacts (ARSO 2015), Jul 2015, Lyon, 
+France. 2015 IEEE International Workshop on Advanced Robotics and its Social Impacts (ARSO 2015) 
+ 
+Densité de trafic émergente pour des véhicules intelligents communiquants guidés par heuristique 
+Philippe Morignot, Oyunchimeg Shagdar, Fawzi Nashashibi 
+Applications Pratiques de l’Intelligence Artificielle, Jun 2015, Rennes, France. 2015 
+ 
+Safety in Vehicular Networks—On the Inevitability of Short-Range Directional Communications 
+Gérard Le Lann 
+Symeon Papavassiliou; Stefan Ruehrup. 14th International Conference ADHOC-NOW, 2015, Jun 2015, Athens, 
+Greece. Springer, Lecture Notes in Computer Science (LNCS) (9143), 14 p., 2015, Ad Hoc, Mobile, and 
+Wireless Networks. <http://www.springer.com/series/7411>. <10.1007/978-3-319-19662-6_24> 
+ 
+On line Mapping and Global Positioning for autonomous driving in urban environment based on Evidential 
+SLAM 
+Guillaume Trehard, Evangeline Pollard, Benazouz Bradai, Fawzi Nashashibi 
+Intelligent Vehicles Symposium – IV 2015, Jun 2015, Seoul, South Korea 
+ 
+Optimal energy consumption algorithm based on speed reference generation for urban electric vehicles 
+Carlos Flores, Vicente Milanés, Joshué Pérez, David González, Fawzi Nashashibi 
+IV2015 – 2015 IEEE Intelligent Vehicles Symposium, Jun 2015, Seoul, South Korea. IEEE, pp.730 – 735 2015, 
+<10.1109/IVS.2015.7225771> 
+ 
+Sketch-based 3D Object Retrieval Using Two Views and Visual Part Alignment 
+Zahraa Yasseen, Anne Verroust-Blondet, Ahmad Nasri 
+I. Pratikakis; M. Spagnuolo; T. Theoharis; L. Van Gool; R. Veltkamp. 3DOR 2015 – Eurographics Workshop on 
+3D Object Retrieval, May 2015, Zurich, Switzerland. pp.8, 2015, <http://vc.ee.duth.gr/3DOR2015/>. 
+<10.2312/3dor.20151053> 
+ 
+Extended Mobility Management and Routing Protocols for Internet-to-VANET Multicasting 
+Ines Ben Jemaa, Oyunchimeg Shagdar, Piedad Garrido, Francisco Martinez J, Fawzi Nashashibi 
+International Workshop on Vehicular Networking and Intelligent Transportation Systems, Jan 2015, Las-Vegas, 
+Nevada, United States. 2015 
+ 
+Improving SLAM with Drift Integration 
+Guillaume Bresson, Romuald Aufrère, Roland Chapuis 
+IEEE 18th International Conference on Intelligent Transportation Systems, 2015, Las Palmas, Spain. 2015, 
+<10.1109/ITSC.2015.434> 
+ 
+Reports 
+Evaluation of Synchronous and Asynchronous Reactive Distributed Congestion Control Algorithms for the ITS 
+G5 Vehicular Systems 
+Oyunchimeg Shagdar 
+
+-----
+[Technical Report] RT-462, INRIA Paris-Rocquencourt. 2015, pp.37 
+ 
+Theses 
+Système coopératif de perception et de communication pour la protection des usagers vulnérables 
+Pierre Merdrignac 
+Automatique / Robotique. Ecole Nationale Supérieure des Mines de Paris, 2015. Français. <NNT : 
+2015ENMP0037> 
+ 
+Garment Design and Shape description for Sketch-Based Applications 
+Zahraa Yasseen 
+Graphics [cs.GR]. Telecom ParisTech, 2015. English. <NNT : 2015-ENST-0035> 
+ 
+Identification d’espèces végétales par une description géométrique locale d’images de feuilles 
+Sofiene Mouine 
+Traitement du signal et de l’image. Télécom ParisTech, 2015. Français. <NNT : 2015ENST0016> 
+ 
+2014 
+Journal articles 
+On the Experimental Evaluation of Vehicular Networks: Issues, Requirements and Methodology Applied to a 
+Real Use Case 
+Manabu Tsukada, José Santa, Satoshi Matsuura, Thierry Ernst, Kazutoshi Fujikawa 
+EAI Endorsed Transactions on Industrial Networks and Intelligent Systems, ICST, 2014, pp.1-14. 
+<10.4108/inis.1.1.e4> 
+ 
+An Electro-Mobility System for Freight Service in Urban Areas 
+Rezia Molfino, Matteo Zoppi, Giovanni Gerardo Muscolo, Elvezia Cepolina, Alessandro Farina, Fawzi 
+Nashashibi, Evangeline Pollard, Jose Antonio Dominguez 
+International Journal of Electric and Hybrid Vehicles, Inderscience Publishers, 2014, pp.21 
+ 
+About a possible analytic approach for walks in the quarter plane with arbitrary big jumps 
+Guy Fayolle, Kilian Raschel 
+Comptes rendus de l’Académie des sciences. Série I, Mathématique, Elsevier, 2014, C. R. Acad. Sci. Paris, Ser 
+I, pp.6. <10.1016/j.crma.2014.11.015> 
+ 
+Modeling cooperative and autonomous adaptive cruise control dynamic responses using experimental data 
+Vicente Milanés, Steven E. Shladover 
+Transportation Research Part C: Emerging Technologies, Elsevier, 2014, pp.285-300. 
+<10.1016/j.trc.2014.09.001> 
+ 
+Modeling and Nonlinear Adaptive Control for Autonomous Vehicle Overtaking 
+Plamen Petrov, Fawzi Nashashibi 
+IEEE Transactions Intelligent Transportation Systems, 2014, 15 (4), pp.14. <10.1109/TITS.2014.2303995> 
+ 
+Humanoid robot navigation: getting localization information from vision 
+Emilie Wirbel, Silvère Bonnabel, Arnaud De La Fortelle, Fabien Moutarde 
+Journal of Intelligent Systems, 2014, 23 (2), pp.113-132 
+
+-----
+ 
+Multi-Vehicle Cooperative Local Mapping: A Methodology Based on Occupancy Grid Map Merging 
+Hao Li, Manabu Tsukada, Fawzi Nashashibi, Michel Parent 
+IEEE Transactions on Intelligent Transportation Systems, IEEE, 2014, 15 (5), pp.12. 
+<10.1109/TITS.2014.2309639> 
+ 
+Modeling a Case of Herding Behavior in a Multi-Player Game 
+Guy Fayolle, Jean-Marc Lasgouttes 
+Queueing Systems, Springer Verlag, 2014, 76 (3), pp.243-265. <10.1007/s11134-013-9365-7> 
+ 
+Letter to editors 
+Guy Fayolle, Roudolf Iasnogorodski 
+Queueing Systems, Springer Verlag, 2014, Queueing Systems, 76 (1), pp.105-107. <10.1007/s11134-013-
+9387-1> 
+ 
+Experimental Application of Hybrid Fractional-Order Adaptive Cruise Control at Low Speed 
+Hassan Hosseinnia, Inés Tejado, Vicente Milanés, Jorge Villagrá, Blas Vinagre 
+IEEE Transactions on Control Systems Technology, Institute of Electrical and Electronics Engineers, 2014, 
+pp.2329-2336. <10.1109/TCST.2014.2308837> 
+ 
+Cooperative Adaptive Cruise Control in Real Traffic Situations 
+Vicente Milanés, Steven E. Shladover, John Spring, Christopher Nowakowski, Hiroshi Kawazoe, Masahide 
+Nakamura 
+IEEE Transactions on Intelligent Transportation Systems, IEEE, 2014, 15, pp.296 – 305. 
+<10.1109/TITS.2013.2278494> 
+ 
+Conference papers 
+Saturated Feedback Control for an Automated Parallel Parking Assist System 
+Plamen Petrov, Fawzi Nashashibi 
+13th International Conference on Control, Automation, Robotics and Vision (ICARCV’14), Dec 2014, Singapore, 
+Singapore. 2014, <http://www.icarcv.org/2014/> 
+ 
+Credibilist SLAM Performances with Different Laser Set-ups 
+Guillaume Trehard, Evangeline Pollard, Benazouz Bradai, Fawzi Nashashibi 
+ICARCV 2014 – 13th International Conference on Control, Automation, Robotics and Vision, Dec 2014, 
+Singapore, France. 2014 
+ 
+Emergent Behaviors and Traffic Density among Heuristically-Driven Intelligent Vehicles using V2V 
+Communication 
+Philippe Morignot, Oyunchimeg Shagdar, Fawzi Nashashibi 
+2014 International Conference on Connected Vehicles & Expo, Nov 2014, Vienna, Austria. 2014 
+ 
+Priority-based coordination of autonomous and legacy vehicles at intersection 
+Xiangjun Qian, Jean Gregoire, Fabien Moutarde, Arnaud De La Fortelle 
+17th International IEEE Conference on Intelligent Transportation Systems, Oct 2014, Qingdao, China 
+ 
+Low-Speed Cooperative Car-Following Fuzzy Controller for Cybernetic Transport Systems 
+Vicente Milanés, Mohamed Marouf, Joshué Pérez Rastelli, David Gonzalez Bautista, Fawzi Nashashibi 
+2014 IEEE 17th International Conference on Intelligent Transportation Systems (ITSC), Oct 2014, Qingdao, 
+China. 2014, <10.1109/ITSC.2014.6958009> 
+
+-----
+ 
+Continuous curvature planning with obstacle avoidance capabilities in urban scenarios 
+David González Bautista, Joshue Pérez Rastelli, Ray Lattarulo, Vicente Milanés, Fawzi Nashashibi 
+2014 IEEE 17th International Conference on Intelligent Transportation Systems (ITSC), Oct 2014, Qingdao, 
+China 
+ 
+GMRF Estimation under Topological and Spectral Constraints 
+Victorin Martin, Cyril Furtlehner, Yufei Han, Jean-Marc Lasgouttes 
+Toon Calders; Floriana Esposito; Eyke Hüllermeier; Rosa Meo. 7th European Conference on Machine Learning 
+and Principles and Practice of Knowledge Discovery in Databases, Sep 2014, Nancy, France. Springer Berlin 
+Heidelberg, 8725, pp.370-385, 2014, Lecture Notes in Computer Science. <10.1007/978-3-662-44851-9_24> 
+ 
+Enhancing the Field of View Limitation of Visible Light Communication-based Platoon 
+Mohammad Abualhoul, Mohamed Marouf, Oyunchimeg Shagdar, Fawzi Nashashibi 
+6th International Symposium on Wireless Vehicular Communications: WIVEC2014, Sep 2014, Vancouver, 
+Canada. 2014 
+ 
+Credibilist Simultaneous Localization and Mapping with a LIDAR 
+Guillaume Trehard, Zayed Alsayed, Evangeline Pollard, Benazouz Bradai, Fawzi Nashashibi 
+IROS – International Conference on Intelligent Robots and Systems, Sep 2014, Chicago, United States. 2014 
+ 
+Network of automated vehicles: the AutoNet 2030 vision 
+Arnaud De La Fortelle, Xiangjun Qian, Sébastien Diemer, Jean Grégoire, Fabien Moutarde, Silvère Bonnabel, 
+Ali Marjovi, Alcherio Martinoli, Ignacio Llatser, Andreas Festag, Katrin Sjöberg 
+ITS World Congress, Sep 2014, Detroit, United States. 2014 
+ 
+The DESERVE project: Towards future ADAS functions 
+Matti Kutila, Pasi Pyykönen, Paul Van, Nereo Pallaro, Joshué Pérez Rastelli 
+IEEE SAMOS conference, Jul 2014, SAMOS, Greece. pp.308 – 313, 2014, <10.1109/SAMOS.2014.6893226> 
+ 
+Development and Design of a Platform for Arbitration and Sharing Control Applications–a DESERVE approach 
+Joshué Pérez Rastelli, David Gonzalez Bautista, Fawzi Nashashibi, Fabio Tango, Nereo Pallaro, Gwenael 
+Dunand, André Rolfsmeier 
+IEEE SAMOS Conference, Jul 2014, Samos, Greece. pp.322 – 328, <10.1109/SAMOS.2014.6893228> 
+ 
+Tracking both pose and status of a traffic light via an Interacting Multiple Model filter 
+Guillaume Trehard, Evangeline Pollard, Benazouz Bradai, Fawzi Nashashibi 
+Fusion 2014 – 17th International Conference on Information Fusion, Jul 2014, Salamanca, Spain. 2014 
+ 
+Intelligent vehicles: integration and issues 
+Zayed Alsayed, Guillaume Bresson, Pierre Merdrignac, Philippe Morignot, Fawzi Nashashibi, Evangeline 
+Pollard, Guillaume Trehard 
+RFIA 2014 – Dix-neuvième congrès national sur la Reconnaissance de Formes et l’Intelligence Artificielle, Jun 
+2014, Rouen, France. 2014 
+ 
+Co-operative commuting assistant for enhanced personal electromobility 
+Mercedes Fernández, Anastasia Bolovinou, Giannis Karagianinis, Jean-Marc Lasgouttes, Israel Varea, Roman 
+Kurpatov, Zoltan Kovács, Francisco Mastrandea 
+10th ITS European Congress, Jun 2014, Helsinki, Finland 
+ 
+Automatic parallel parking and platooning to redistribute electric vehicles in a car-sharing application 
+Mohamed Marouf, Evangeline Pollard, Fawzi Nashashibi 
+
+-----
+IV’14 – IEEE Intelligent Vehicles Symposium, Jun 2014, Dearborn, Michigan, United States. 2014 
+ 
+Arbitration for balancing control between the driver and ADAS systems in an automated vehicle: Survey and 
+approach 
+Philippe Morignot, Joshué Pérez Rastelli, Fawzi Nashashbi 
+2014 IEEE Intelligent Vehicles Symposium (IV), Jun 2014, Dearborn, United States. pp.575 – 580, 2014, 
+<10.1109/IVS.2014.6856577> 
+ 
+Dynamic Trajectory Generation Using Continuous-Curvature Algorithms for Door to Door Assistance Vehicles 
+Joshué Pérez Rastelli, Ray Lattarulo, Fawzi Nashashibi 
+2014 IEEE Intelligent Vehicles Symposium (IV), Jun 2014, Dearborn, United States. 2014, 
+<10.1109/IVS.2014.6856526> 
+ 
+Vehicle to Pedestrian Communications for Protection of Vulnerable road Users 
+José Javier Anaya, Pierre Merdrignac, Oyunchimeg Shagdar, Fawzi Nashashibi, José E. Naranjo 
+2014 IEEE Intelligent Vehicles Symposium, Jun 2014, Dearborn, Michigan, United States. pp.1-6, 2014 
+ 
+AnaVANET: an experiment and visualization tool for vehicular networks 
+Manabu Tsukada, José Santa, Satoshi Matsuura, Thierry Ernst, Kazutoshi Fujikawa 
+9th International Conference on Testbeds and Research Infrastructures for the Development of Networks & 
+Communities (TRIDENTCOM 2014), May 2014, Guangzhou, China. 2014 
+ 
+On-board Intelligence for the Furbot: a new Concept for Urban Freight Transport 
+Evangeline Pollard, Joshué Pérez Rastelli, Fawzi Nashashibi 
+Transport Research Arena, Apr 2014, Paris, France 
+ 
+Book sections 
+PlantNet Participation at LifeCLEF2014 Plant Identification Task 
+Hervé Goëau, Alexis Joly, Itheri Yahiaoui, Vera Bakić, Anne Verroust-Blondet, Pierre Bonnet, Daniel 
+Barthélémy, Nozha Boujemaa, Jean-François Molino 
+L. Cappellato; N. Ferro; M. Halvey; W. Kraaij. CLEF2014 Working Notes. Working Notes for CLEF 2014 
+Conference, Sheffield, UK, September 15-18, 2014, CEUR-WS, pp.724-737, 2014, CEUR Workshop 
+Proceedings 
+ 
+Reports 
+Evaluation of Distributed Congestion Control -Reactive DCC 
+Oyunchimeg Shagdar 
+[Research Report] Inria. 2014 
+ 
+Theses 
+Multicast Communications for Cooperative Vehicular Systems 
+Ines Ben Jemaa 
+Networking and Internet Architecture [cs.NI]. Mines ParisTech, 2014. English. <NNT : 432> 
+
+-----
+ 
+Preprints, Working Papers, … 
+Priority-based coordination of robots 
+Jean Gregoire, Silvère Bonnabel, Arnaud De La Fortelle 
+20 pages. 2014 
+ 
+2013 
+Journal articles 
+An auxiliary V2I network for road transport and dynamic environments 
+Jorge Godoy, Vicente Milanés, Joshué Pérez Rastelli, Jorge Villagra, Enrique Onieva 
+Transportation Research Part C: Emerging Technologies, Elsevier, 2013, 37, pp.145-156. 
+<http://www.sciencedirect.com/science/article/pii/S0968090X13002015> 
+ 
+Situation assessment: an end-to-end process for the detection of objects of interest 
+Evangeline Pollard, Michèle Rombaut, Benjamin Pannetier 
+IEEE Transactions on Aerospace and Electronic Systems, Institute of Electrical and Electronics Engineers, 
+2013, 49 (4), pp.2195-2210 
+ 
+ABV – A Low Speed Automation Project to Study the Technical Feasibility of Fully Automated Driving 
+Evangeline Pollard, Fawzi Nashashibi, Paulo Resende 
+ERCIM News, ERCIM, 2013, Special theme: Intelligent cars, pp.8-9 
+ 
+Open Source Implementation of GeoNetworking based on ITS Station Architecture 
+Masatoshi Kakiuchi, Manabu Tsukada, Thouraya Toukabri, Thierry Ernst, Kazutoshi Fujikawa 
+Journal of Japan Society for Software Science and Technology ‘Computer Software’, 2013, Special issue of 
+“Network Technology”, 15 p. in Japanese 
+ 
+Cooperative Multi-Vehicle Localization Using Split Covariance Intersection Filter 
+Hao Li, Fawzi Nashashibi 
+IEEE Intelligent Transportation Systems Magazine, IEEE, 2013, 5 (2), pp.33-44 
+ 
+On-line learning of a fuzzy controller for a precise vehicle cruise control system 
+Enrique Onieva, Jorge Godoy, Jorge Villagra, Vicente Milanés, Joshué Pérez Rastelli 
+Expert Systems with Applications, Elsevier, 2013, 40 (4), pp.1046-1053. <10.1016/j.eswa.2012.08.036> 
+ 
+Autonomous docking based on infrared system for electric vehicle charging in urban areas 
+Joshué Pérez Rastelli, Fawzi Nashashibi, Benjamin Lefaudeux, Paulo Resende, Evangeline Pollard 
+Sensors, MDPI, 2013 
+ 
+Statistical Traffic State Analysis in Large-scale Transportation Networks Using Locality-Preserving Non-
+negative Matrix Factorization 
+Yufei Han, Fabien Moutarde 
+IET Intelligent Transport Systems, Institution of Engineering and Technology, 2013, 7 (3), pp.283-295. 
+<10.1049/iet-its.2011.0157> 
+ 
+
+-----
+Cooperative controllers for highways based on human experience 
+Joshué Pérez Rastelli, Vicente Milanés, Jorge Godoy, Jorge Villagra, Enrique Onieva 
+Expert Systems with Applications, Elsevier, 2013, 40 (4), pp.1024-1033. <10.1016/j.eswa.2012.08.011> 
+ 
+Conference papers 
+WAVE Low Latency Video Streaming for Platooning Safety Real-Time Application 
+Younes Bouchaala, Mohamed Marouf, Mohammad Abualhoul, Evangeline Pollard, Oyunchimeg Shagdar, 
+Fawzi Nashashibi 
+Altintas, Onur and Chen, Wai and Yglinski, Alexander. IEEE Vehicular Networking Conference – VNC 2013, 
+Dec 2013, Boston, United States. IEEE, pp.2, 2013 
+ 
+Mobility 2.0: Co-Operative ITS Systems for Enhanced Personal Electromobility 
+Alma Solar, Anastasia Bolovinou, Geert Heijenk, Jean-Marc Lasgouttes, Rafael Giménez 
+27th International Electrical Vehicle Symposium & Exhibition (EVS27), Nov 2013, Barcelona, Spain. 2013 
+ 
+Study on Merging Control Supported by IEEE 802.11p Systems for Highway Environments 
+Oyunchimeg Shagdar, Paul Muhlethaler 
+IEEE Wireless Days Conference, Nov 2013, Valencia, Spain. 2013 
+ 
+ABV- A Low Speed Automation Project to Study the Technical Feasibility of Fully Automated Driving 
+Paulo Resende, Evangeline Pollard, Hao Li, Fawzi Nashashibi 
+Workshop PAMM, Nov 2013, Kumamoto, Japan. 2013 
+ 
+A new laser-based system for obstacle detection including step, hole and slope for Personal Mobility Vehicles 
+Evangeline Pollard, Fawzi Nashashibi 
+Workshop PAMM, Nov 2013, Kumamoto, Japan. 2013 
+ 
+Beacon delivery over practical V2X channels 
+Oyunchimeg Shagdar, Alex Daniel, Serguei Primak 
+International Conference on ITS Telecommunications, Nov 2013, Tampare, Finland. 2013 
+ 
+Fuzzy logic techniques for Cybercars: a control and decision approach. 
+Michelena Oriana Rojas, Joshué Pérez Rastelli, Fawzi Nashashibi 
+22èmes rencontres francophones sur la Logique Floue et ses Applications (LFA 2013), Oct 2013, Reims, 
+France. 2013 
+ 
+Low Speed Automation: technical feasibility of the driving sharing in urban areas 
+Paulo Resende, Evangeline Pollard, Hao Li, Fawzi Nashashibi 
+IEEE ITSC 2013 – 16th International IEEE Conference on Intelligent Transportation Systems, Oct 2013, La 
+Hague, Netherlands. 2013 
+ 
+Platooning Control Using Visible Light Communications: A Feasibility Study 
+Mohammad Abualhoul, Mohamed Marouf, Oyunchimeg Shagdar, Fawzi Nashashibi 
+IEEE ITSC 2013, Oct 2013, Hague, Netherlands. 2013 
+ 
+Track-to-Track Fusion Using Split Covariance Intersection Filter-Information Matrix Filter (SCIF-IMF) for Vehicle 
+Surrounding Environment Perception 
+Hao Li, Fawzi Nashashibi, Benjamin Lefaudeux, Evangeline Pollard 
+16th International IEEE Conference on Intelligent Transportation Systems, Oct 2013, la hague, Netherlands. 
+2013 
+
+-----
+ 
+Analysing Impact of Mobility Dynamics on Multicast Routing in Vehicular Networks 
+Ines Ben Jemaa, Oyunchimeg Shagdar, Paul Muhlethaler, Arnaud De La Fortelle 
+EMERGING 2013 : The Fifth International Conference on Emerging Network Intelligence, Sep 2013, Porto, 
+Portugal. IARIA, 2013 
+ 
+An Ontology-based Model to Determine the Automation Level of an Automated Vehicle for Co-Driving 
+Evangeline Pollard, Philippe Morignot, Fawzi Nashashibi 
+16th International Conference on Information Fusion, Jul 2013, Istanbul, Turkey. 2013 
+ 
+Control agents for autonomous vehicles in urban and highways scenarios 
+Joshué Pérez Rastelli, Vicente Milanés, Matilde Santos 
+2013 IFAC Intelligent Autonomous Vehicles Symposium, Jun 2013, Gold Coast, Australia. 2013 
+ 
+Adaptive Steering Control for Autonomous Lane Change Maneuver 
+Plamen Petrov, Fawzi Nashashibi 
+IV 2013 – IEEE Intelligent Vehicles Symposium, Jun 2013, Gold Coast, Australia. IEEE, pp.835- 840, 2013, 
+<10.1109/IVS.2013.6629570> 
+ 
+Control architecture for Cybernetic Transportation Systems in urban environments 
+David González, Joshué Pérez Rastelli 
+2013 IEEE Intelligent Vehicles Symposium (IV), Jun 2013, Gold Coast, Australia. 2013 
+ 
+A new approach for robust road marking detection and tracking applied to multi-lane estimation 
+Marc Revilloud, Dominique Gruyer, Evangeline Pollard 
+The 2013 IEEE Intelligent Vehicles Symposium, Jun 2013, Gold Coast, Australia. IEEE, pp.783 – 790, 2013, 
+<10.1109/IVS.2013.6629562> 
+ 
+Step and curb detection for autonomous vehicles with an algebraic derivative-based approach applied on laser 
+rangefinder data 
+Evangeline Pollard, Joshué Pérez Rastelli, Fawzi Nashashibi 
+IEEE-IV 2013 – The 2013 IEEE Intelligent Vehicles Symposium, Jun 2013, Gold Coast, Australia. 2013 
+ 
+Recognition of Supplementary Signs for Correct Interpretation of Traffic Signs 
+Anne-Sophie Puthon, Fabien Moutarde, Fawzi Nashashibi 
+IEEE Symposium on Intelligent Vehicles (IV’2013), Jun 2013, Gold Coast, Australia. 2013 
+ 
+Analysing Impact of Mobility Dynamics on Multicast Routing in Vehicular Networks 
+Ines Ben Jemaa, Oyunchimeg Shagdar, Paul Muhlethaler, Arnaud De La Fortelle 
+JNCT 2013 – Journées Nationales des Communications dans les Transports, May 2013, Nevers, France. IEEE, 
+2013 
+ 
+Platoon Control Using VLC: A Feasibility Study. 
+Mohammad Abualhoul, Mohamed Marouf, Oyunchimeg Shagdar, Fawzi Nashashibi 
+JNCT 2013 – Journées Nationales des Communications dans les Transports, May 2013, Nevers, France. 2013 
+ 
+A Segmentation Transfer Method for Articulated Models 
+Esma Elghoul, Anne Verroust-Blondet 
+M.- A. Otaduy and O. Sorkine. Eurographics 2013, May 2013, Girona, Spain. Eurographics Association, pp.17-
+20, 2013, Eurographics 2013 – Short Papers. <http://diglib.eg.org/EG/DL/conf/EG2013/short/017-020.pdf>. 
+<10.2312/conf/EG2013/short/017-020> 
+
+-----
+ 
+Trajectory generator for autonomous vehicles in urban environments 
+Joshué Pérez Rastelli, Jorge Godoy, Jorge Villagra, Enrique Onieva 
+IEEE ICRA – IEEE International Conference on Robotics and Automation, May 2013, Karlsruhe, 2013 
+ 
+An ontology-based approach to relax traffic regulation for autonomous vehicle assistance 
+Philippe Morignot, Fawzi Nashashibi 
+AIA’13 – 12th IASTED International Conference on Artificial Intelligence and Applications, Feb 2013, Innsbruck, 
+Austria. pp.10, 2013 
+ 
+Book sections 
+Information, Modeling and Traffic Reconstruction 
+Arnaud De La Fortelle, Jean-Marc Lasgouttes, Fabien Moutarde 
+Ahmed Nait-Sidi-Moh; Mohamed Bakhouya; Jaafar Gaber; Maxime Wack. Information, Modeling and Traffic 
+Reconstruction, John Wiley & Sons, pp.272, 2013, Network and Telecommunications Series, 9781848215672. 
+<10.1002/9781118743751.ch3> 
+ 
+Documents associated with scientific events 
+Experimental Study on Channel Congestion using IEEE 802.11p Communication System 
+Kenta Mori, Oyunchimeg Shagdar, Satoshi Matsuura, Manabu Tsukada, Thierry Ernst, Kazutoshi Fujikawa 
+IPSJ Technical Workshop on Mobile Computing and Ubiquitous Communications, Mar 2013, Tokyo, Japan 
+ 
+Reports 
+Using Latent Binary Variables for Online Reconstruction of Large Scale Systems 
+Victorin Martin, Jean-Marc Lasgouttes, Cyril Furtlehner 
+[Research Report] RR-8435, INRIA. 2013, pp.34 
+ 
+Comprehensive Extrinsic Calibration of a Camera and a 2D Laser Scanner for a Ground Vehicle 
+Hao Li, Fawzi Nashashibi 
+[Technical Report] RT-0438, INRIA. 2013, pp.24 
+ 
+Lane Detection (Part I): Mono-Vision Based Method 
+Hao Li, Fawzi Nashashibi 
+[Technical Report] RT-0433, INRIA. 2013 
+ 
+Theses 
+Détection, localisation et suivi des obstacles et objets mobiles à partir d’une plate forme de stéréo-vision 
+Benjamin Lefaudeux 
+Autre. Ecole Nationale Supérieure des Mines de Paris, 2013. Français. <NNT : 2013ENMP0091> 
+
+-----
+ 
+Modélisation probabiliste et inférence par l’algorithme Belief Propagation 
+Victorin Martin 
+Autre. Ecole Nationale Supérieure des Mines de Paris, 2013. Français. <NNT : 2013ENMP0020> 
+ 
+Preprints, Working Papers, … 
+Supplementary material to: Back-pressure traffic signal control with unknown routing rates 
+Jean Gregoire, Emilio Frazzoli, Arnaud De La Fortelle, Tichakorn Wongpiromsarn 
+2013 
+ 
+Back-pressure traffic signal control with unknown routing rates 
+Jean Gregoire, Emilio Frazzoli, Arnaud De La Fortelle, Tichakorn Wongpiromsarn 
+to be presented at IFAC2014, 6 pages. 2013 
+ 
+Priority-based intersection management with kinodynamic constraints 
+Jean Gregoire, Silvère Bonnabel, Arnaud De La Fortelle 
+to be presented at ECC2014, 6 pages. 2013 
+ 
+Capacity-aware back-pressure traffic signal control 
+Jean Gregoire, Xiangjun Qian, Emilio Frazzoli, Arnaud De La Fortelle, Tichakorn Wongpiromsarn 
+9 pages, submitted to IEEE TCNS. 2013 
+ 
+2012 
+Journal articles 
+Association Control for Wireless LANs: Pursuing Throughput Maximization and Energy Efficiency 
+Oyunchimeg Shagdar, Suhua Tang, Akio Hasegawa, Tatsuo Shibata, Masayoshi Ohashi, Sadao Obana 
+International Journal On Advances in Networks and Services, IARIA, 2012, 5 (3&4) 
+ 
+Genetic optimization of a vehicle fuzzy decision system for intersections 
+Enrique Onieva, Vicente Milanés, Jorge Villagra, Joshué Pérez Rastelli, Jorge Godoy 
+Expert Systems with Applications, Elsevier, 2012, 39 (18), pp.13148-13157. <10.1016/j.eswa.2012.05.087> 
+ 
+Exposure to environmental tobacco smoke (ETS) and risk of lung cancer in Montreal: a case-control study. 
+Mustafa Al-Zoughool, Javier Pintos, Lesley Richardson, Marie-Élise Parent, Parviz Ghadirian, Daniel Krewski, 
+Jack Siemiatycki 
+Environmental health : a global access science source [electronic resource], 2012, 12, pp.112. <10.1186/1476-
+069X-12-112> 
+ 
+Vision-based active safety system for automatic stopping 
+Vicente Milanés, David Llorca, Jorge Villagra, Joshué Pérez Rastelli, Ignacio Parra, Carlos González, M.A. 
+Sotelo 
+Expert Systems with Applications, Elsevier, 2012 
+ 
+Some exact asymptotics in the counting of walks in the quarter-plane 
+Guy Fayolle, Kilian Raschel 
+
+-----
+Discrete Mathematics and Theoretical Computer Science, DMTCS, 2012, pp.109-124. 
+<http://www.dmtcs.org/dmtcs-ojs/index.php/proceedings/search/results> 
+ 
+A fuzzy aid rear-end collision warning/avoidance system 
+Vicente Milanés, Joshué Pérez Rastelli, Jorge Godoy, Enrique Onieva 
+Expert Systems with Applications, Elsevier, 2012 
+ 
+MNPP: Mobile Network Prefix Provisioning for Enabling Route Optimization in Geographic Vehicular Networks 
+Jong-Hyouk Lee, Manabu Tsukada, Thierry Ernst 
+Adhoc & Sensor Wireless Networks, Old City Publishing, 2012, vol. 15 (1), pp.5-19 
+ 
+One-dimensional Particle Processes with Acceleration/Braking Asymmetry 
+Cyril Furtlehner, Jean-Marc Lasgouttes, Maxim Samsonov 
+Journal of Statistical Physics, Springer Verlag, 2012, 147 (6), pp.1113-1144. <10.1007/s10955-012-0521-y> 
+ 
+Genetic Fuzzy-based Steering Wheel Controller using a Mass-Produced Car 
+Enrique Onieva, Vicente Milanés, Joshué Pérez Rastelli, Teresa De Pedro 
+International Journal of Innovative Computing, Information and Control, ICIC International, 2012, 8 (5 (B)), 
+pp.3477-3494. <http://www.ijicic.org/vol-8%285%29b.htm> 
+ 
+An Evolutionary Tuned Driving System for Virtual Car Racing Games: The AUTOPIA Driver 
+Enrique Onieva, David Pelta, Jorge Godoy, Vicente Milanés, Joshué Pérez Rastelli 
+International Journal of Intelligent Systems, Wiley, 2012, 27 (3), pp.217-241. <10.1002/int.21512> 
+ 
+An Intelligent V2I-Based Traffic Management System 
+Vicente Milanés, Jorge Villagra, Jorge Godoy, Javier Simó, Joshué Pérez Rastelli, Enrique Onieva 
+IEEE Transactions on Intelligent Transportation Systems, IEEE, 2012, 13 (1), pp.49-58. 
+<http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6121906> 
+ 
+Intelligent automatic overtaking system using vision for vehicle detection 
+Vicente Milanés, David Llorca, Jorge Villagra, Joshué Pérez Rastelli, Carlos Fernandez, Ignacio Parra, Carlos 
+González, M.A. Sotelo 
+Expert Systems with Applications, Elsevier, 2012, 39 (3), pp.3362-3373. 
+<http://dx.doi.org/10.1016/j.eswa.2011.09.024> 
+ 
+Smooth path and speed planning for an automated public transport vehicle 
+Jorge Villagra, Vicente Milanés, Joshué Pérez Rastelli, Jorge Godoy 
+Robotics and Autonomous Systems, Elsevier, 2012, 60 (2), pp.252-265. 
+<http://dx.doi.org/10.1016/j.robot.2011.11.001> 
+ 
+Low-Speed Longitudinal Controllers for Mass-Produced Cars: A Comparative Study 
+Vicente Milanés, Jorge Villagra, Joshué Pérez Rastelli, Carlos González 
+IEEE Transactions on Industrial Electronics, Institute of Electrical and Electronics Engineers, 2012, 59 (1), 
+pp.620-628. <http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5759771> 
+ 
+Performance Analysis of PMIPv6 based NEtwork MObility for Intelligent Transportation Systems 
+Jong-Hyouk Lee, Thierry Ernst, Naveen Chilamkurti 
+IEEE Transactions on Vehicular Technology, Institute of Electrical and Electronics Engineers, 2012, 61 (1), 
+<10.1109/TVT.2011.2157949> 
+ 
+
+-----
+Conference papers 
+A New Method for Occupancy Grid Maps Merging: Application to Multi-vehicle Cooperative Local Mapping and 
+Moving Object Detection in Outdoor Environment 
+Hao Li, Fawzi Nashashibi 
+ICARCV 2012 – 12th International Conference on Control, Automation, Robotics and Vision, Dec 2012, 
+Guangzhou, China. 2012 
+ 
+A Cooperative Personal Automated Transport System – A CityMobil Demonstration in Rocquencourt 
+Paulo Resende, Fawzi Nashashibi, François Charlot, Carlos Holguin, Laurent Bouraoui, Michel Parent 
+ICARCV 2012 : 12th International Conference on Control, Automation, Robotics and Vision, Dec 2012, 
+Guangzhou, China. IEEE, 2012 
+ 
+Improved Low Cost GPS Localization By Using Communicative Vehicles 
+Evangeline Pollard, Denis Gingras 
+12th International Conference on Control, Automation, Robotics and Vision, ICARCV, Dec 2012, Guangzhou, 
+China. 2012 
+ 
+A Framework for IP and non-IP Multicast Services for Vehicular Networks 
+Ines Ben Jemaa, Oyunchimeg Shagdar, Thierry Ernst 
+NoF 2012 – Third International Conference on the Network of the Future, Nov 2012, Tunis, Tunisia. 2012 
+ 
+On the Power of Cohorts – Multipoint Protocols for Fast and Reliable Safety-Critical Communications in 
+Intelligent Vehicular Networks 
+Gérard Le Lann 
+Fei-Yue and Wang, Chinese Academy of Sciences, China. ICCVE – International Conference on Connected 
+Vehicles and Expo – 2012, Nov 2012, Beijing, China. pp.35-42, 2012 
+ 
+Analysis of Large-scale Traffic Dynamics using Non-negative Tensor Factorization 
+Yufei Han, Fabien Moutarde 
+ITS World Congress 2012, Oct 2012, Vienna, Austria. 2012 
+ 
+Schedulability analysis for a combination of non-preemptive strict periodic tasks and preemptive sporadic tasks 
+Mohamed Marouf, Laurent George, Yves Sorel 
+ETFA’12 – 17th IEEE International Conference on Emerging Technologies and Factory Automation, Sep 2012, 
+Kraków, Poland. IEEE, 2012 
+ 
+Generator of Road Marking Textures and associated Ground Truth Applied to the evaluation of road marking 
+detection 
+Marc Revilloud, Dominique Gruyer, Evangeline Pollard 
+IThe 15th IEEE Intelligent Transportation Systems Conference, Sep 2012, Anchorage, United States. 2012 
+ 
+Real-time visual perception : detection and localisation of static and moving objects from a moving stereo rig 
+Benjamin Lefaudeux, Fawzi Nashashibi 
+ITSC 2012 – 15th International IEEE Conference on Intelligent Transportation Systems, Sep 2012, Anchorage, 
+United States. IEEE, pp.522 – 527, 2012, <http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6338872>. 
+<10.1109/ITSC.2012.6338872> 
+ 
+Subsign detection with region-growing from contrasted seeds 
+Anne-Sophie Puthon, Fabien Moutarde, Fawzi Nashashibi 
+ITSC, Sep 2012, Anchorage, United States. 2012 
+ 
+Local stability of Belief Propagation algorithm with multiple fixed points 
+
+-----
+Victorin Martin, Jean-Marc Lasgouttes, Cyril Furtlehner 
+Kristian Kersting and Marc Toussaint. STAIRS’12 – Sixth “Starting Artificial Intelligence Research” Symposium, 
+Aug 2012, Montpellier, France. IOS Press, pp.180-191, 2012 
+ 
+Multi-vehicle cooperative localization using indirect vehicle-to-vehicle relative pose estimation 
+Hao Li, Fawzi Nashashibi 
+ICVES 2012 – IEEE International Conference on Vehicular Electronics and Safety, Jul 2012, Istanbul, Turkey. 
+IEEE, pp.267 – 272, 2012, <10.1109/ICVES.2012.6294256> 
+ 
+Path following with backtracking based on fuzzy controllers for forward and reverse driving 
+Joshué Pérez Rastelli, Jorge Godoy, Vicente Milanés, Jorge Villagra, Enrique Onieva 
+IV 2012 IEEE Intelligent Vehicles Symposium, Jun 2012, Alcala de Henares, Madrid, Spain. IEEE, 2012, 
+<http://ieeexplore.ieee.org/xpl/articleDetails.jsp;jsessionid=BSWNQmlDBhZChYr5hcj4Gy2J7cLQhPTH2sM5vVl
+vZ1Qc6b692Jp2!-777604963?arnumber=6232191&contentType=Conference+Publications> 
+ 
+Path and speed planning for smooth autonomous navigation 
+Jorge Villagra, Vicente Milanés, Joshué Pérez Rastelli, Jorge Godoy, Enrique Onieva 
+IV 2012 – IEEE Intelligent Vehicles Symposium, Jun 2012, Alcala de Henares, Madrid, Spain. 2012 
+ 
+Experimentation Towards IPv6 over IEEE 802.11p with ITS Station Architecture 
+Oyunchimeg Shagdar, Manabu Tsukada, Masatoshi Kakiuchi, Thouraya Toukabri, Thierry Ernst 
+International Workshop on IPv6-based Vehicular Networks (colocated with IEEE Intelligent Vehicles 
+Symposium), Jun 2012, Alcala de Henares, Spain. 2012 
+ 
+Cooperative multi-vehicle localization using split covariance intersection filter 
+Hao Li, Fawzi Nashashibi 
+IV 2012 – IEEE Intelligent Vehicles Symposium, Jun 2012, Alcala de Henares, Spain. pp.211 – 216, 2012, 
+<10.1109/IVS.2012.6232155> 
+ 
+A Hybrid Control for Automatic Docking of Electric Vehicles for recharging 
+Plamen Petrov, Clément Boussard, Samer Ammoun, Fawzi Nashashibi 
+ICRA2012 – IEEE International Conference on Robotics and Automation, May 2012, Saint-Paul, United States. 
+IEEE, pp.2966 – 2971, 2012, <10.1109/ICRA.2012.6225087> 
+ 
+Low Speed Automation, a French Initiative 
+Sébastien Glaser, Maurice Cour, Lydie Nouveliere, Alain Lambert, Fawzi Nashashibi, Jean-Christophe Popieul, 
+Benjamin Mourllion 
+TRA 2012 – Transport Research Arena Conference, Apr 2012, Athènes, Greece. 2012 
+ 
+Certification of automated transport systems 
+Jan Van Dijke, Margriet Van Schijndel, Fawzi Nashashibi, Arnaud De La Fortelle 
+Transportation Research Arena – Europe, Apr 2012, Athènes, Greece. 2012 
+ 
+Integrated Safety and Efficiency in Intelligent Vehicular Networks: Issues and Novel Constructs 
+Gérard Le Lann 
+Panos Papaioannou. TRA 2012 – Transport Research Arena Europe, Apr 2012, Athènes, Greece. Elsevier, 48, 
+pp.951-961, 2012, ScienceDirect; Procedia – Social and Behavioral Sciences. 
+<http://www.sciencedirect.com/science/journal/18770428/48> 
+ 
+Controladores borrosos para la dirección de vehículos autónomos en maniobras dentro de entornos urbanos 
+Joshué Pérez Rastelli, Teresa De Pedro, Matilde Santos 
+XVI Congreso Español sobre Tecnologías y Lógica Fuzzy, Feb 2012, Valladolid, España. 2012 
+
+-----
+ 
+Large scale estimation of arterial traffic and structural analysis of traffic patterns using probe vehicles 
+Aude Hofleitner, Ryan Herring, Alexandre Bayen, Yufei Han, Fabien Moutarde, Arnaud De La Fortelle 
+Transportation Research Board 91st Annual Meeting (TRB’2012), Jan 2012, Washington, United States. 2012 
+ 
+Some exact asymptotics in the counting of walks in the quarter plane 
+Guy Fayolle, Kilian Raschel 
+Broutin, Nicolas and Devroye, Luc. 23rd International Meeting on Probabilistic, Combinatorial, and Asymptotic 
+Methods in the Analysis of Algorithms (AofA’12), 2012, Montreal, Canada. Discrete Mathematics and 
+Theoretical Computer Science, DMTCS Proceedings vol. AQ, 23rd Intern. Meeting on Probabilistic, 
+Combinatorial, and Asymptotic Methods for the Analysis of Algorithms (AofA’12), pp.109-124, 2012, DMTCS 
+Proceedings 
+ 
+Other publications 
+Extended interface ID for virtual link selection in GeoNetworking to IPv6 Adaptation Sub-layer (GN6ASL) 
+Manabu Tsukada, Masatoshi Kakiuchi, Thierry Ernst 
+Proposition to ETSI TC ITS WP3 about Draft EN 302 636-6-1 V0.1.2 (2012-11). 2012 
+ 
+Proposition of Dynamic Virtual Link for IPv6 GeoNetworking (GN6) in ETSI 
+Manabu Tsukada, Masatoshi Kakiuchi, Thierry Ernst 
+A proposition to ETSI ITS WP3. 2012 
+ 
+Reports 
+Pairwise MRF Calibration by Perturbation of the Bethe Reference Point 
+Cyril Furtlehner, Yufei Han, Jean-Marc Lasgouttes, Victorin Martin 
+[Research Report] RR-8059, INRIA. 2012, pp.35 
+ 
+Some exact asymptotics in the counting of walks in the quarter-plane 
+Guy Fayolle, Kilian Raschel 
+[Research Report] RR-7863, INRIA. 2012, pp.17 
+ 
+Theses 
+Agentes de control de vehículos autónomos en entornos urbanos y autovías 
+Joshué Pérez Rastelli 
+domain_info.info-ai. Universidad Complutense de Madrid, 2012. Español 
+ 
+Preprints, Working Papers, … 
+Optimal cooperative motion planning for vehicles at intersections 
+Jean Gregoire, Silvère Bonnabel, Arnaud De La Fortelle 
+presented to IEEE IV 2012 WORKSHOP ON NAVIGATION, ACCURATE POSITIONING AND MAPPING FOR 
+INTELLIGEN.. 2012 
+
+-----
+ 
+2011 
+Journal articles 
+Making Transport Safer V2V-Based Automated Emergency Braking System 
+Vicente Milanés, Enrique Onieva, Joshué Pérez Rastelli, Javier Simó, Carlos González, Teresa De Pedro 
+TRANSPORT, Taylor & Francis, 2011, 26 (3), pp.290-302. <10.3846/16484142.2011.622359> 
+ 
+Extended occupation grids for non-rigid moving objects tracking 
+Benjamin Lefaudeux, Fawzi Nashashibi, Gwennaël Gate 
+Intelligent Transportation Systems (ITSC), 2011 14th International IEEE Conference on, IEEE, 2011 
+ 
+Random walks in the quarter plane with zero drift: an explicit criterion for the finiteness of the associated group 
+Guy Fayolle, Kilian Raschel 
+Markov Processes and Related Fields, Polymath, 2011, 17 (4), pp.619-636 
+ 
+Improved PMIPv6 Handover Procedure for Consumer Multicast Traffic 
+Jong-Hyouk Lee, Thierry Ernst, Der-Jiunn Deng, Han-Chieh Chao 
+IET Communications, Institution of Engineering and Technology, 2011, 5 (15), <10.1049/iet-com.2011.0015> 
+ 
+Lightweight NEtwork MObility Within PMIPv6 for Transportation Systems 
+Jong-Hyouk Lee, Thierry Ernst 
+IEEE Systems Journal, IEEE, 2011, 5 (3), pp.352-361. <10.1109/JSYST.2011.2158681> 
+ 
+Autonomous vehicle control systems for safe crossroads 
+Javier Alonso, Vicente Milanés, Joshué Pérez Rastelli, Enrique Onieva, Carlos González, Teresa De Pedro 
+Transportation Research Part C: Emerging Technologies, Elsevier, 2011, 19 (6), pp.1095-1110. 
+<10.1016/j.trc.2011.06.002> 
+ 
+Securing Mobile Network Prefix Provisioning for NEMO based Vehicular Networks 
+Jong-Hyouk Lee, Jiefeng (terence) Chen, Thierry Ernst 
+Mathematical and Computer Modelling, Elsevier, 2011, <10.1016/j.mcm.2011.02.023> 
+ 
+A fuzzy-rule-based driving architecture for non-player characters in a car racing game 
+Enrique Onieva, David Pelta, Vicente Milanés, Joshué Pérez Rastelli 
+Soft Computing, Springer Verlag, 2011, 15 (8), pp.1617-1629. <10.1007/s00500-011-0691-6> 
+ 
+Revisiting Urban Taxis: Optimal Real Time Management and Performance Appraisal by a Discrete Event 
+Simulation Model 
+Eugénie Lioris, Guy Cohen, Arnaud De La Fortelle 
+International Journal On Advances in Systems and Measurements, IARIA, 2011, 4 (1&2), pp.71-85 
+ 
+Conference papers 
+Robust real-time lane detection based on lane mark segment features and general a priori knowledge 
+Hao Li, Fawzi Nashashibi 
+
+-----
+ROBIO 2011 : International Conference on Robotics and Biomimetics, Dec 2011, phuket, Thailand. IEEE, 
+pp.812-817, 2011, <10.1109/ROBIO.2011.6181387> 
+ 
+Cross-layered Architecture for Securing IPv6 ITS Communication: Example of Pseudonym Change 
+Jong-Hyouk Lee, Thierry Ernst, Jean-Marie Bonnin 
+International Workshop on Cross-Layer Design, Nov 2011, Rennes, France. IEEE, 2011 
+ 
+Security Issues of IPv6 Communications in Cooperative Intelligent Transportation Systems 
+Jong-Hyouk Lee, Thierry Ernst 
+IEEE VNC 2011 : IEEE Vehicular Networking Conference, Nov 2011, Amsterdam, Netherlands. 2011 
+ 
+Cohorts and Groups for Safe and Efficient Autonomous Driving on Highways 
+Gérard Le Lann 
+IEEE. VNC’11 – IEEE Vehicular Networking Conference, Nov 2011, Amsterdam, Netherlands. pp.1-8, 2011, 
+<http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6117117&tag=1>. <10.1109/VNC.2011.6117117> 
+ 
+A complete system to determine the speed limit by fusing a GIS and a camera 
+Anne-Sophie Puthon, Fawzi Nashashibi, Benazouz Bradai 
+ITSC’11 – 14th International IEEE Conference on Intelligent Transportation Systems, Oct 2011, Washington 
+DC, United States. pp.1686-1691, 2011, <10.1109/ITSC.2011.6082951> 
+ 
+Multi-vehicle Cooperative Perception and Augmented Reality for Driver Assistance: A Possibility to ‘See’ 
+Through Front Vehicle 
+Hao Li, Fawzi Nashashibi 
+ITSC’11 – 14th International IEEE Conference on Intelligent Transportation Systems, Oct 2011, Washington 
+DC, United States. IEEE, 2011, <10.1109/ITSC.2011.6083061> 
+ 
+Advanced Transport Systems Showcased in La Rochelle 
+Adriano Alessandrini, Michel Parent, Carlos Holguin 
+IEEE. 14th International IEEE Annual Conference on Intelligent Transportation Systems, Oct 2011, Washington 
+DC, United States. 2011 
+ 
+Algebraic nonlinear estimation and flatness-based lateral/longitudinal control for automotive vehicles 
+Lghani Menhour, Brigitte D’Andréa-Novel, Clément Boussard, Michel Fliess, Hugues Mounier 
+ITSC 2011 – 14th International IEEE Conference on Intelligent Transportation Systems, Oct 2011, Washington, 
+United States. pp.CDROM, 2011 
+ 
+Planning and Nonlinear Adaptive Control for an Automated Overtaking Maneuver 
+Plamen Petrov, Fawzi Nashashibi 
+ITSC 2011 – 14th International IEEE Conference on Intelligent Transportation Systems, Oct 2011, Washington 
+D.C., United States. IEEE, pp.662-667, 2011, <10.1109/ITSC.2011.6083025> 
+ 
+User- and Application-Centric Multihomed Flow Management 
+Olivier Mehani, Roksana Boreli, Michael Maher, Thierry Ernst 
+Tom Pfeifer and Anura Jayasumana. LCN’11 – 36th IEEE Conference on Local Computer Networks, Oct 2011, 
+Bonn, Germany. pp.26–34, 2011, <10.1109/LCN.2011.6115206> 
+ 
+The Fundamental Diagram on the Ring Geometry for Particle Processes with Acceleration/Braking Asymmetry 
+Cyril Furtlehner, Jean-Marc Lasgouttes, Maxim Samsonov 
+TGF’11 – Traffic and Granular Flow, Sep 2011, Moscou, Russia. 2011 
+ 
+Proposition for propagated occupation grids for non-rigid moving objects tracking 
+
+-----
+Benjamin Lefaudeux, Gwennaël Gate, Fawzi Nashashibi 
+IROS’11 – IEEE/RSJ International Conference on Intelligent Robots and Systems – Workshop, Sep 2011, San 
+Francisco, United States. 2011 
+ 
+Scheduling non-preemptive hard real-time tasks with strict periods 
+Mohamed Marouf, Yves Sorel 
+ETFA’11 – 16th IEEE International Conference on Emerging Technologies and Factory Automation, Sep 2011, 
+Toulouse, France. IEEE, pp.1-8, 2011, <10.1109/ETFA.2011.6059014> 
+ 
+Experimental evaluation of an open source implementation of IPv6 GeoNetworking in VANETs 
+Thouraya Toukabri, Manabu Tsukada, Thierry Ernst, Lamjed Bettaieb 
+ITST 2011 : 11th International Conference on Intelligent Transport System Telecommunications, Aug 2011, 
+Saint-Petersburg, Russia. 2011 
+ 
+Location-aware service discovery on IPv6 GeoNetworking for VANET 
+Noguchi Satoru, Manabu Tsukada, Thierry Ernst, Atsuo Inomata, Kazutoshi Fujikawa 
+ITST 2011 : 11th International Conference on Intelligent Transport System Telecommunications, Aug 2011, 
+Saint-Petersburg, Russia. 2011 
+ 
+About Hydrodynamic Limit of Some Exclusion Processes via Functional Integration 
+Guy Fayolle, Cyril Furtlehner 
+Russian Academy od Sciences. International Mathematical Conference “50 YEARS OF IITP”, Jul 2011, 
+Moscow, Russia. 2011 
+ 
+Discrete events model for dual mode transport system simulation and evaluation 
+Sami Mahari, Arnaud De La Fortelle 
+2nd International Conference on Models and Technologies for Intelligent Transportation Systems, Jun 2011, 
+Leuven, Belgium. 6 p., 2011 
+ 
+Schedulability analysis for a combination of preemptive strict periodic tasks and sporadic tasks 
+Mohamed Marouf, Laurent George, Yves Sorel 
+MAPSP 2011 – 10th Workshop on Models and Algorithms for Planning and Scheduling Problems, Jun 2011, 
+Nymburk, Czech Republic. 2011 
+ 
+Real-Time Quasi Dense Two-Frames Depth Map for Autonomous Guided Vehicles 
+André Ducrot, Yann Dumortier, Isabelle Herlin, Vincent Ducrot 
+IV’11 – Intelligent Vehicles Symposium, Jun 2011, Baden-Baden, Germany. IEEE, pp.497-503, 2011, 
+<10.1109/IVS.2011.5940507> 
+ 
+Overhead Analysis on Secure Beaconing for GeoNetworking 
+Jong-Hyouk Lee, Thierry Ernst 
+IV’11 – IEEE Intelligent Vehicles Symposium, Jun 2011, Baden Baden, Germany. IEEE, pp.1049-1053, 2011, 
+<10.1109/IVS.2011.5940505> 
+ 
+Collision warning dissemination in vehicles strings: an empirical measurement 
+Sébastien Demmel, Dominique Gruyer, Joëlle Besnier, Inès Ben Jemaa, Steve Pechberti, Andry Rakotonirainy 
+IEEE Intelligent Vehicles Symposium 2011, Jun 2011, Baden-Baden, Germany. IEEE, 6p, 2011 
+ 
+CoreBot M : Le robot de la Team CoreBots préparé pour l’édition 2011 du défi Carotte 
+Bruno Steux, Laurent Bouraoui, Sylvain Thorel, Louis Benazet 
+6th National Conference on Control Architectures of Robots, May 2011, Grenoble, France. 2011 
+ 
+
+-----
+Modulowatt : description d’un système innovant de recharge de véhicule électrique 
+Samer Ammoun, Clément Boussard, Laurent Bouraoui 
+6th National Conference on Control Architectures of Robots, May 2011, Grenoble, France. 5 p., 2011 
+ 
+Propagation of information on undirected dependency graphs for road traffic inference 
+Cyril Furtlehner, Yufei Han, Jean-Marc Lasgouttes, Victorin Martin, Fabien Moutarde 
+CCT’11 – Chaos, Complexity and Transport, May 2011, Marseille, France. World Scientific, 2011 
+ 
+Real-vehicle integration of driver support application with IPv6 GeoNetworking 
+Noguchi Satoru, Manabu Tsukada, Jemaa Ines Ben, Ernst Thierry 
+The 2011 IEEE 73rd Vehicular Technology Conference, May 2011, Budapest, Hungary. 2011 
+ 
+Fast PMIPv6 Multicast Handover Procedure for Mobility-Unaware Mobile Nodes 
+Jong-Hyouk Lee, Thierry Ernst 
+VTC2011-Spring – IEEE Vehicular Technology Conference, May 2011, Budapest, Hungary. IEEE, pp.1-5, 
+2011, <10.1109/VETECS.2011.5956334> 
+ 
+Cybercars experiment in La Rochelle: beyond technical challenges 
+Carlos Holguin 
+Passenger Terminal Expo 2011, Mar 2011, Copenhague, Denmark. 2011 
+ 
+A probabilistic framework for road traffic reconstruction and prediction based on incomplete data 
+Victorin Martin, Jean-Marc Lasgouttes, Cyril Furtlehner 
+Actes du GERI SMRT 2011, 2011, Marne-la-Vallée, France. Iffstar, Modélisation et réseaux de transport, A136, 
+pp.91-96, 2014 
+ 
+Poster communications 
+An on-demand personal automated transport system: The CityMobil demonstration in La Rochelle 
+Laurent Bouraoui, Clément Boussard, François Charlot, Carlos Holguin, Fawzi Nashashibi, Michel Parent, 
+Paulo Resende 
+IV’2011 : IEEE Intelligent Vehicles Symposium, Jun 2011, Baden-Baden, Germany 
+ 
+Documents associated with scientific events 
+Intersection Safety using Lidar and Stereo Vision sensors 
+Olivier Aycard, Qadeer Baig, Silviu Bota, Fawzi Nashashibi, Sergiu Nedevschi, Cosmin Pantilie, Michel Parent, 
+Paulo Resende, Trung-Dung Vu 
+IV’2011 – IEEE Intelligent Vehicles Symposium, Jun 2011, Baden-Baden, Germany. pp.863-869 
+ 
+Reports 
+The Role of Normalization in the Belief Propagation Algorithm 
+Victorin Martin, Jean-Marc Lasgouttes, Cyril Furtlehner 
+[Research Report] RR-7514, INRIA. 2011, pp.31 
+ 
+
+-----
+Theses 
+Communications Management in Cooperative Intelligent Transportation Systems 
+Manabu Tsukada 
+Networking and Internet Architecture [cs.NI]. Ecole Nationale Supérieure des Mines de Paris, 2011. English 
+ 
+Contributions to Mechanisms for Adaptive Use of Mobile Network Resources 
+Olivier Mehani 
+Automatic. École Nationale Supérieure des Mines de Paris; University of New South Wales – Australie, 2011. 
+English. <NNT : 2011ENMP0096> 
+ 
+2010 
+Journal articles 
+On the Holonomy or Algebraicity of Generating Functions Counting Lattice Walks in the Quarter-Plane 
+Guy Fayolle, Kilian Raschel 
+Markov Processes and Related Fields, Polymath, 2010, 16 (3), pp.485-496 
+ 
+Cost Analysis of IP Mobility Management Protocols for Consumer Mobile Devices 
+Jong-Hyouk Lee, Thierry Ernst, Tai-Myoung Chung 
+IEEE Transactions on Consumer Electronics, Institute of Electrical and Electronics Engineers, 2010, 56 (2), 
+<10.1109/TCE.2010.5506033> 
+ 
+Vers des véhicules en pilotage automatique ? entretien avec Michel Parent, propos recueillis par Dominique 
+Chouchan 
+Michel Parent 
+Les Cahiers de l’INRIA – La Recherche, INRIA, 2010, 40 ans de sciences 
+ 
+Learning Multiple Belief Propagation Fixed Points for Real Time Inference 
+Cyril Furtlehner, Jean-Marc Lasgouttes, Anne Auger 
+Physica A, Elsevier, 2010, pp.149-163. <10.1016/j.physa.2009.08.030> 
+ 
+Constrained Navigation with Mandatory Waypoints in Uncertain Environment 
+François Lucas, Christophe Guettier, Patrick Siarry, Anne-Marie Milcent, Arnaud De La Fortelle 
+International Journal of Information Sciences and Computer Engineering, 2010, 1 (2), pp.75-85 
+ 
+Design and Experimental Evaluation of a Vehicular Network Based on NEMO and MANET 
+Manabu Tsukada, José Santa, Olivier Mehani, Yacine Khaled, Thierry Ernst 
+EURASIP Journal on Advances in Signal Processing, SpringerOpen, 2010, 2010 (1), pp.656407. 
+<10.1155/2010/656407> 
+ 
+Conference papers 
+A Real-Time Robust Global Localization for Autonomous Mobile Robots in Large Environments 
+Jianping Xie, Fawzi Nashashibi, Michel Parent, Olivier Garcia-Favrot 
+International Conference on Control, Automation, Robotics and Vision, Dec 2010, Singapour, Singapore. 
+pp.P0655, 2010 
+
+-----
+ 
+Visibility Distance Estimation based on Structure from Motion 
+Clément Boussard, Nicolas Hautiere, Brigitte D’Andréa-Novel 
+ICARCV’10 – 11th IEEE International Conference on Control Automation Robotics and Vision, Dec 2010, 
+Singapour, Singapore. IEEE, pp 1416 – 1421, 2010, <10.1109/ICARCV.2010.5707416> 
+ 
+Detection of Unfocused Raindrops on a Windscreen using Low Level Image Processing 
+Fawzi Nashashibi, Raoul De Charette de La Contrie, Alexandre Lia 
+International Conference on Control, Automation, Robotics and Vision : ICARV’2010, Dec 2010, Singapour, 
+Singapore. pp.P0655, 2010 
+ 
+Development and experimentation of an autonomous vehicle platoon for urban environments 
+Michel Parent, Plamen Petrov, Clément Boussard 
+IASTED International Conference on Robotics – Robo 2010, Nov 2010, Phuket, Thailand. 2010 
+ 
+Validation and evaluation of NEMO in VANET using geographic routing 
+Ines Ben Jemaa, Manabu Tsukada, Hamid Menouar, Thierry Ernst 
+10th International Conference on Intelligent Transport System Telecommunications – ITST 2010, Nov 2010, 
+Kyoto, Japan. 6 p., 2010 
+ 
+Schedulability conditions for non-preemptive hard real-time tasks with strict period 
+Mohamed Marouf, Yves Sorel 
+M. Marouf and Y. Sorel. 18th International Conference on Real-Time and Network Systems RTNS’10, Nov 
+2010, Toulouse, France. 2010, Proceedings of 18th International Conference on Real-Time and Network 
+Systems, RTNS’10 
+ 
+A Real-Time Robust SLAM for Large-Scale Outdoor Environments 
+Jianping Xie, Fawzi Nashashibi, Michel Parent, Olivier Garcia-Favrot 
+17th ITS world congress (ITSwc’2010), Oct 2010, Busan, South Korea. pp.S_EU00913, 2010, 
+<10.1028/ITS.SLAM.Nashashibi> 
+ 
+Joint interpretation of on-board vision and static GPS cartography for determination of correct speed limit 
+Alexandre Bargeton, Fabien Moutarde, Fawzi Nashashibi, Anne-Sophie Puthon 
+17th ITS world congress (ITSwc’2010), Oct 2010, Busan, South Korea. 2010 
+ 
+Exactly Solvable Stochastic Processes for Traffic Modelling 
+Maxim Samsonov, Cyril Furtlehner, Jean-Marc Lasgouttes 
+Springer. 25th International Symposium on Computer and Information Sciences – ISCIS 2010, Sep 2010, 
+Londres, United Kingdom. pp.75-78, 2010, Computer and Information Sciences: Proceedings of the 25th 
+International Symposium on Computer and Information Sciences 
+ 
+Localization for intelligent vehicle by fusing mono-camera, low-cost GPS and map data 
+Hao Li, Fawzi Nashashibi, Gwénaëlle Toulminet 
+ITSC’10 – 13th International IEEE Conference on Intelligent Transportation Systems, Sep 2010, Madeira Island, 
+Portugal. IEEE, 2010, <10.1109/ITSC.2010.5625240> 
+ 
+Real-time Dynamic Trajectory Planning for Highly Automated Driving in Highways 
+Paulo Resende, Fawzi Nashashibi 
+13th International IEEE Conference on Intelligent Transportation Systems, Sep 2010, Funchal, Madeira, 
+Portugal. 2010 
+ 
+Improvement of multisensor fusion in speed limit determination by quantifying navigation reliability 
+
+-----
+Anne-Sophie Puthon, Fawzi Nashashibi, Benazouz Bradai 
+Intelligent Transportation System Conference – ITSC 10, Sep 2010, Funchal, Portugal. pp.855 – 860, 2010, 
+<10.1109/ITSC.2010.5625242> 
+ 
+Spatial and Temporal Analysis of Traffic States on Large Scale Networks 
+Cyril Furtlehner, Yufei Han, Jean-Marc Lasgouttes, Victorin Martin, Fabrice Marchal, Fabien Moutarde 
+13th International IEEE Conference on Intelligent Transportation Systems ITSC’2010, Sep 2010, Madère, 
+Portugal. 2010 
+ 
+Experimental Evaluation for IPv6 over VANET Geographic routing 
+Manabu Tsukada, Ines Ben Jemaa, Menouar Hamid, Zhang Wenhui, Goleva Maria, Thierry Ernst 
+6th International Wireless Communications and Mobile Computing Conference, IWCMC 2010, Jun 2010, Caen, 
+France. 2010 
+ 
+Towards Highly Automated Driving: Intermediate report on the HAVEit-Joint System 
+Frank Flemisch, Fawzi Nashashibi, Nadja Rauch, Anna Schieben, Sebastien Glaser, Gerald Temme, Paulo 
+Resende, Benoit Vanholme, Christian Löper, George Thomaidis, Henning Mosebach, Jan Schomerus, Salim 
+Hima, Armin Kaussner 
+3rd European Road Transport Research Arena, TRA 2010, Jun 2010, Brussels, Belgium. 2010 
+ 
+Commande sans modèle de la vitesse longitudinale d’un véhicule électrique 
+Brigitte D’Andréa-Novel, Clément Boussard, Michel Fliess, Oussama El Hamzaoui, Hugues Mounier, Bruno 
+Steux 
+Sixième Conférence Internationale Francophone d’Automatique (CIFA 2010), Jun 2010, Nancy, France. 2010 
+ 
+Book sections 
+The Role of communication and network technologies in vehicular applications 
+Yacine Khaled, Manabu Tsukada, José Santa, Thierry Ernst 
+Advances in Vehicular Ad-Hoc Networks: Developments and Challenges, 2010, 9781615209132. 
+<10.4018/978-1-61520-913-2.ch003>. <http://www.igi-global.com/book/advances-vehicular-hoc-
+networks/37323> 
+ 
+The Role and Future Challenges of Wireless Communication Networks for Cooperative Autonomous City 
+Vehicles 
+Andrei Furda, Laurent Bouraoui, Michel Parent, Ljubo Vlacic 
+Ana Pont; Guy Pujolle; S. V. Raghavan. Communications: Wireless in Developing Countries and Networks of 
+the Future, 327, Springer, pp.241-251, 2010, IFIP Advances in Information and Communication Technology, 
+978-3-642-15475-1. <10.1007/978-3-642-15476-8_23> 
+ 
+Patents 
+Method of circle detection in images for round traffic sign identification and vehicle driving assistance device. 
+Fawzi Nashashibi, Alexandre Bargeton, Fabien Moutarde, Benazouz Bradai 
+Germany, Patent n° : PCT/EP2010/007569. SFR4007. 2010, pp.15 
+ 
+Reports 
+
+-----
+Exactly Solvable Stochastic Processes for Traffic Modelling 
+Maxim Samsonov, Cyril Furtlehner, Jean-Marc Lasgouttes 
+[Research Report] RR-7278, INRIA. 2010, pp.26 
+ 
+Preprints, Working Papers, … 
+An improved “flies” method for stereo vision: application to pedestrian detection 
+Hao Li, Gwenaelle Toulminet, Fawzi Nashashibi 
+2010 
+ 
+2009 
+Journal articles 
+Assessment of VANET multi-hop routing over an experimental platform 
+José Santa, Manabu Tsukada, Thierry Ernst, Olivier Mehani, Antonio F. Gómez-Skarmeta 
+International Journal of Internet Protocol Technology, Inderscience, 2009, 4 (3), <10.1504/IJIPT.2009.028655> 
+ 
+Conference papers 
+Context-Adaptive Vehicular Network Optimization 
+Olivier Mehani, Roksana Boreli, Thierry Ernst 
+Marion Berbineau, Makoto Itami, and Guangjun Wen. ITST 2009, 9th International Conference on Intelligent 
+Transport Systems Telecommunications, Oct 2009, Lille, France. pp.186-191, 2009 
+ 
+Real time trajectory prediction for collision risk estimation between vehicles 
+Samer Ammoun, Fawzi Nashashibi 
+ICCP 2009, Aug 2009, CLUJ NAPOCA, Romania. 2009 
+ 
+Analysis of TFRC in Disconnected Scenarios and Performance Improvements with Freeze-DCCP 
+Olivier Mehani, Roksana Boreli, Thierry Ernst 
+MobiArch 2009 – The 4th ACM International Workshop on Mobility in the Evolving Internet Architecture, Jun 
+2009, Kraków, Poland. pp.n/a, 2009 
+ 
+On the design of efficient Vehicular Applications 
+Yacine Khaled, Manabu Tsukada, José Santa Lozano, Thierry Ernst 
+IEEE Vehicular Technology Conference, Apr 2009, Barcelona, Spain. 2009 
+ 
+Experimental Analysis of Multi-hop Routing in Vehicular Ad-hoc Networks 
+José Santa, Manabu Tsukada, Thierry Ernst, Antonio F. Gómez-Skarmeta 
+WEEDEV 2009 : 2nd Workshop on Experimental Evaluation and Deployment Experiences on Vehicular 
+networks in conjunction with TRIDENTCOM 2009, Apr 2009, Washington D.C., United States. IEEE, 2009, 
+<10.1109/TRIDENTCOM.2009.4976248> 
+ 
+Real-time Dense and Accurate Parallel Optical Flow using CUDA 
+Julien Marzat, Yann Dumortier, André Ducrot 
+International Workshop on Computer Vision and Its Application to Image Media Processing, Jan 2009, Tokyo, 
+Japan. 2008 
+
+-----
+ 
+Other publications 
+Road safety in Algeria : state of art 
+Farès Boubakour, Antonino Tripodi, Michel Parent, Jaime Salom Gracia, Laura Fantini, Maria Calia, Omar 
+Drissi-Kaitouni 
+The general objective of ESTEEM is to enhance and strengthen the links between the .. 2009, pp.39 
+ 
+Reports 
+Basic and Advanced features of IPv6 Over C2C NET 
+Manabu Tsukada, K. Yacine, Thierry Ernst 
+[Research Report] 2009 
+ 
+2008 
+Journal articles 
+Adapting TFRC to Mobile Networks with Frequent Disconnections 
+Olivier Mehani, Roksana Boreli 
+ACM CoNEXT Student Workshop, 2008, pp.Article 37. <10.1145/1544012.1544049> 
+ 
+Towards urban driverless vehicles 
+Rodrigo Benenson, Stéphane Petti, Thierry Fraichard, Michel Parent 
+International Journal of Vehicle Autonomous Systems, Inderscience, 2008, Special Issue on Advances in 
+Autonomous Vehicle Technologies for Urban Environment, 1/2 (6), pp.4 – 23 
+ 
+Vehicle recognition and tracking using a generic multi-sensor and multi-algorithm fusion approach 
+Fawzi Nashashibi, Ayoub Khammari, Claude Laurgeau 
+International Journal of Vehicle Autonomous Systems, Inderscience, 2008, Special Issue on “Intelligent 
+Vehicles”, 6 (1/2), pp.134-154 
+ 
+Vehicle Ad Hoc networks: applications and related technical issues 
+Yasser Toor, Paul Muhlethaler, Anis Laouiti, Arnaud De La Fortelle 
+IEEE Communications Surveys & Tutorials, IEEE, 2008, 10 (3), pp.74 – 88. <10.1109/COMST.2008.4625806> 
+ 
+Conference papers 
+Achievable safety of driverless ground vehicles 
+Rodrigo Benenson, Thierry Fraichard, Michel Parent 
+10th IEEE International Conference on Control, Automation, Robotics and Vision, Dec 2008, Hanoi, Vietnam. 
+2008 
+ 
+IPv6 support for VANET with geographical routing 
+Choi Jinhyeock, Yacine Khaled, Manabu Tsukada, Thierry Ernst 
+
+-----
+Intelligent Transport System Telecommunicaitons, Oct 2008, Phuket, Thailand. 2008 
+ 
+Design of an urban driverless ground vehicle 
+Rodrigo Benenson, Michel Parent 
+IEEE International Conference on Intelligent Robots Systems, Sep 2008, Nice, France. 2008 
+ 
+4-D Tensor Voting Motion Segmentation for Obstacle Detection in Autonomous Guided Vehicle 
+Yann Dumortier, Isabelle Herlin, André Ducrot 
+Intelligent Vehicles Symposium, Jun 2008, Eindhoven, Netherlands. pp.379-384, 2008, 
+<10.1109/IVS.2008.4621203> 
+ 
+Improving pan-European speed-limit signs recognition with a new “global number segmentation” before digit 
+recognition 
+Alexandre Bargeton, Fabien Moutarde, Fawzi Nashashibi, Benazouz Bradai 
+IEEE Intelligent Vehicles Symposium (IV’08), Jun 2008, Eindhoven, Netherlands. 2008 
+ 
+Advanced City Cars, PRT and Cybercars, New Forms of Urban Transportation 
+Adriano Alessandrini, Michel Parent, Carlos Holguin 
+Commission Européenne, CEDR, ERTRAC. Transport Research Arena Europe 2008, Apr 2008, Ljubljana, 
+Slovenia. 2008 
+ 
+Advanced City Cars, PRT and cybercars: Potential Applications of Automated Individual Public Transportation 
+Systems in Europe 
+Michel Parent, Carlos Holguin 
+InterTraffic. Intelligent Public Transportation Systems 2008, Apr 2008, Amsterdam, Netherlands. 2008 
+ 
+Simultaneous Usage of NEMO and MANET for Vehicular Communication 
+Manabu Tsukada, Olivier Mehani, Thierry Ernst 
+WEEDEV 2008: 1st Workshop on Experimental Evaluation and Deployment Experiences on Vehicular 
+Networks in conjonction with TRIDENTCOM 2008, Mar 2008, Innsbruck, Austria. 2008 
+ 
+Mobilité Avancée: Contextes urbains d’expérimentation en Europe 
+Michel Parent, Carlos Holguin 
+ATEC – ITS France. Congrès international ATEC-ITS France, Feb 2008, Versailles, France. 2008 
+ 
+Book sections 
+Intelligent Vehicles 
+Michel Parent, A. Broggi, Alexander Zelinski, Charles Thorpe 
+Bruno Siciliano, Oussama Khatib. Handbook of Robotics, Springer, pp.1175-1198, 2008, 978-3-540-23957-4. 
+<10.1007/978-3-540-30301-5_52> 
+ 
+Un Système de Routage Hiérarchique pour les Réseaux Urbains 
+Michel Parent, Anjali Awasthi, Jean-Marie Proth, Hichem Omrani 
+Jean-Patrick Lebacque. Modélisation du Trafic, INRETS, 2008, 978-2-85782-630-5 
+ 
+Reports 
+
+-----
+On the Almost Sure Central Limit Theorem for Vector Martingales: Convergence of Moments and Statistical 
+Applications 
+Bernard Bercu, Peggy Cénac, Guy Fayolle 
+[Research Report] RR-6780, INRIA. 2008, pp.26 
+ 
+2007 
+Journal articles 
+A Multicriteria Decision Making Approach for Carsharing Stations Selection 
+Michel Parent, Anjali Awasthi, Dominique Breuil, Thierry Reveillere 
+Journal of Decision Systems, Editions Hermes, 2007, 16 (1), pp.57-78. <10.3166/jds.16.57-78> 
+ 
+Statistical Physics Algorithms for Traffic Reconstruction 
+Arnaud De La Fortelle, Jean-Marc Lasgouttes, Cyril Furtlehner 
+ERCIM News, ERCIM, 2007, 68, pp.35-36 
+ 
+Conference papers 
+Obstacle Detection from IPM and Super-Homography 
+Nicolas Simond 
+IEEE IROS 2007 / International Conference on Intelligent Robots and Systems, Oct 2007, San Diego, California 
+/ USA, United States 
+ 
+COM2REACT: V2V COMMUNICATION FOR COOPERATIVE LOCAL TRAFFIC MANAGEMENT 
+Arnaud De La Fortelle, Claude Laurgeau, Paul Muhlethaler, Yasser Toor 
+ITS World Congress, Oct 2007, Beijing, China. 2007 
+ 
+A Belief Propagation Approach to Traffic Prediction using Probe Vehicles 
+Cyril Furtlehner, Jean-Marc Lasgouttes, Arnaud De La Fortelle 
+10th International IEEE Conference on Intelligent Transportation Systems, Sep 2007, Seattle, United States. 
+pp. 1022-1027, 2007 
+ 
+Risk Assessment Algorithms Based On Recursive Neural Networks 
+Alejandro Chinea Manrique de Lara, Michel Parent 
+International Joint Conference On Neural Networks – IJCNN 2007, Aug 2007, Orlando, Florida/ USA, 2007 
+ 
+A queueing theory approach for a multi-speed exclusion process. 
+Cyril Furtlehner, Jean-Marc Lasgouttes 
+Traffic and Granular Flow ’07, Jun 2007, Orsay, France. pp.unknown yet, 2007 
+ 
+Networking Needs and Solutions for Road Vehicles at Imara 
+Olivier Mehani, Rodrigo Benenson, Séverin Lemaignan, Thierry Ernst 
+Finger, Ulrich and Fujise, Masayuki and Bonnet, Christian and Lenardi, Massimiliano and Komaki, Shozo and 
+Wen, GuangJun. ITST 2007, 7th International Conference on Intelligent Transport Systems 
+Telecommunications, Jun 2007, Sophia Antipolis, France. 2007, ITST 2007, 7th International Conference on 
+Intelligent Transport Systems Telecommunications 
+ 
+Cybernetic Transportation Systems Design and Development: Simulation Software cybercars 
+
+-----
+Sébastien Boissé, Rodrigo Benenson, Laurent Bouraoui, Michel Parent, Ljubo Vlacic 
+2007 IEEE International Conference on Robotics and Automation – ICRA’2007, Apr 2007, Roma, Italy, 2007 
+ 
+Robust Obstacle Detection based on Dense Disparity Maps 
+Wided Miled, Jean-Christophe Pesquet, Michel Parent 
+Eleventh International Conference on Computer Aided Systems Theory – EUROCAST 2007, Feb 2007, Las 
+Palmas de Gran Canaria, Canary Islands / Espagne, 2007 
+ 
+Trajectory Planning in a Crossroads for a Fleet of Driverless Vehicles 
+Olivier Mehani, Arnaud De La Fortelle 
+Moreno Díaz, Roberto and Pichler, Franz and Quesada Arencibia, Alexis. EUROCAST 2007, 11th International 
+Conference on Computer Aided Systems Theory, Feb 2007, Las Palmas de Gran Canaria, Spain. Springer, 
+4739, 2007, Lecture Notes in Computer Science; EUROCAST 2007, 11th International Conference on 
+Computer Aided Systems Theory 
+ 
+Reports 
+Belief Propagation and Bethe approximation for Traffic Prediction 
+Cyril Furtlehner, Jean-Marc Lasgouttes, Arnaud De La Fortelle 
+[Research Report] RR-6144, INRIA. 2007, pp.29 
+ 
+2006 
+Journal articles 
+Industry transfer, from traffic prediction to collaborative navigation solutions 
+Arnaud De La Fortelle, Angel Talamona, Mikael Kais 
+ERCIM News, ERCIM, 2006, 68, pp.35 
+ 
+Le support des réseaux mobiles dans IPv6 
+Thierry Ernst 
+Revue des Sciences et Technologies de l’Information – Série TSI : Technique et Science Informatiques, 
+Lavoisier, 2006, 25 (5), pp.573-598 
+ 
+Modélisation et commande d’un véhicule à deux roues 
+Hélène Tirmant, Laurent Vermeiren, Thierry Marie Guerra, Alexandre Kruszewski, Michel Parent 
+Journal Européen des Systèmes Automatisés (JESA), Lavoisier, 2006, 40 (4-5/2006), pp.535-561 
+ 
+Conference papers 
+Real-time Vehicle Motion Estimation Using Texture Learning and Monocular Vision 
+Yann Dumortier, Rodrigo Benenson, Mikael Kais 
+ICCVG, Oct 2006, Varsovie, 2006 
+ 
+Integrating Perception and Planning for Autonomous Navigation of Urban Vehicles 
+Rodrigo Benenson, Stéphane Petti, Michel Parent, Thierry Fraichard 
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct 2006, Beijing, Chine, 2006 
+
+-----
+ 
+CAR-TO-CAR AND CAR-TO-INFRASTRUCTURE COMMUNICATION SYSTEM BASED ON NEMO AND 
+MANET IN IPv6 
+Thierry Ernst, Arnaud De La Fortelle 
+Intelligent Transportation Systems World Congress 2006, Oct 2006, London, UK, 2006 
+ 
+Dense Disparity Estimation From Stereo Images 
+Wided Miled, Jean-Christophe Pesquet, Michel Parent 
+3rd International Symposium on Image/Video Communications, Sep 2006, Tunisie, 2006 
+ 
+Wavelet Constrained Regularization For Disparity Map Estimation 
+Wided Miled, Jean-Christophe Pesquet, Michel Parent 
+European Signal Processing Conference, Sep 2006, Florence – Italy, 2006 
+ 
+Adaptive Control for Reversing a Two-Vehicle Platoon 
+Plamen Petrov, Michel Parent 
+Symposium on Control in Transportation, Aug 2006, Delft, Netherlands, Netherlands. 2006 
+ 
+Reconstruction of the road plane with an embedded stereo-rig in urban environments 
+Nicolas Simond 
+IEEE Intelligent Vehicle Symposium (IV’06), Jun 2006, Tokyo, Japan, IEEE, pp.70-75, 2006 
+ 
+Disparity Map Estimation Using A Total Variation Bound 
+Wided Miled, Jean-Christophe Pesquet, Michel Parent 
+Third Canadian Conference on Computer and Robot Vision, Jun 2006, Quebec, 2006 
+ 
+PUVAME – New French Approach for Vulnerable Road Users Safety 
+Olivier Aycard, Anne Spalanzani, Manuel Yguel, Julien Burlet, Nicolas Du Lac, Arnaud De La Fortelle, Thierry 
+Fraichard, Hicham Ghorayeb, Mikael Kais, Christian Laugier, Claude Laurgeau, Gilles Michel, David Raulo, 
+Bruno Steux 
+Proc. of the IEEE Intelligent Vehicle Symp., Jun 2006, Tokyo (JP), France. 2006 
+ 
+New Technologies for Sustainable Urban Transport in Europe 
+Michel Parent 
+TRB. Transportation Research Board 85th Annual Meeting, Jan 2006, Washington, USA, United States. 2006 
+ 
+2005 
+Journal articles 
+Evolutionary Optimisation for Obstacle Detection and Avoidance in Mobile Robotics 
+Olivier Pauplin, Jean Louchet, Evelyne Lutton, Arnaud De La Fortelle 
+Journal of Advanced Computational Intelligence and Intelligent Informatics, Fuji Technology Press, 2005, 9 (6), 
+pp.622-629 
+ 
+Conference papers 
+Cybercars : Past, Present and Future of the Technology 
+
+-----
+Michel Parent, Arnaud De La Fortelle 
+ITS World Congress 2005, Nov 2005, San Francisco, USA, 2005 
+ 
+A Software Framework for Vehicle-Infrastructure Cooperative Applications 
+Sebastián Bengochea, Angel Talamona, Michel Parent 
+IEEE ITSC ‘ 05, Sep 2005, VIENNA, 2005 
+ 
+Ad hoc communication between intelligent vehicles 
+Laurent Bouraoui, Philippe Jacquet, Anis Laouiti, Michel Parent, Laurent Viennot 
+5th International Conference on ITS Telecommunications – ITST 2005, Jun 2005, Brest/France, 2005 
+ 
+OLSR improvement for distributed traffic applications 
+Laurent Bouraoui, Arnaud De La Fortelle, Anis Laouiti 
+K. Al Agha ; I. Guérin Lassous ; G. Pujolle. Fourth Annual Mediterranean Ad Hoc Networking Workshop, Jun 
+2005, Île de Porquerolles, France. Springer, 197, pp.73-77, 2005, IFIP International Federation for Information 
+Processing; Challenges in Ad Hoc Networking. <10.1007/0-387-31173-4_9> 
+ 
+Development of Loosely-Coupled FOG/DGPS and FOG/RTK Systems for ADAS and a Methodology to Assess 
+their Real-Time 
+Mikaël Kais, Philippe Bonnifait, David Betaille, François Peyret 
+IEEE ITS Intelligent Vehicle 2005, Jun 2005, Las Vegas, United States. IEEE, pp.358 – 363, 2005, 
+<10.1109/IVS.2005.1505129> 
+ 
+Reports 
+Décomposition d’un réseau de transport urbain de grande taille. 
+Anjali Awasthi, Michel Parent, Jean-Marie Proth 
+[Rapport de recherche] RR-5473, INRIA. 2005, pp.32 
+ 
+Preprints, Working Papers, … 
+Fairness issues in a chain of IEEE 802.11 stations 
+Bertrand Ducourthial, Yacine Khaled, Stéphane Mottelet 
+2005 
+ 
+2004 
+Journal articles 
+Quelle place pour la voiture en ville ? 
+Michel Parent, Thierry Chanard 
+Interstices, INRIA, 2004 
+ 
+Conference papers 
+
+-----
+Towards Outdoor Localization Using GIS, Vision System andStochastic Error Propagation 
+Mikael Kais, Stéphane Dauvillier, Arnaud De La Fortelle, Ichiro Masaki, Christian Laugier 
+ICARA 2004 – 2nd International Conference on Autonomous Robots and Agents., Dec 2004, Palmerston North, 
+New Zealand. pp.198-205, 2004 
+ 
+Obstacle detection by Evolutionary Algorithm: the Fly Algorithm 
+Olivier Pauplin, Jean Louchet, Evelyne Lutton, Michel Parent 
+ICARA 2004, Dec 2004, Palmerston North, Nouvelle Zélande, 2004 
+ 
+Applying Evolutionary Optimisation to Robot Obstacle Avoidance 
+Olivier Pauplin, Jean Louchet, Evelyne Lutton, Michel Parent 
+ISCIIA 2004, Dec 2004, Haikou, Chine, 2004 
+ 
+Book sections 
+Stochastic Chemical Kinetics with Energy Parameters 
+Guy Fayolle, Vadim Malyshev, Serguei Pirogov 
+Michael Drmota. Mathematics and Computer Science III, 3, Birkhaüser Verlag Basel/Switzerland, pp.517-529, 
+2004, Trends in Mathermatics; Mathematics and Computer Science III, 978-3-7643-7128-9 
+ 
+Theses 
+Développement d’un système de routage hiérarchique pour les réseaux urbains 
+Anjali Awasthi 
+Sciences de l’ingénieur [physics]. Université de Metz, 2004. Français 
+ 
+2003 
+Reports 
+Predicting travel time on urban networks using simulation 
+Anjali Awasthi, Michel Parent, Jean-Marie Proth 
+[Research Report] RR-4822, INRIA. 2003 
+ 
+Using data analysis to approximate fastest paths on urban networks 
+Anjali Awasthi, Yves Lechevallier, Michel Parent, Jean-Marie Proth 
+[Research Report] RR-4961, INRIA. 2003 
+ 
+2002 
+Reports 
+Estimating Travel Time in a Single Lane System 
+Anjali Awasthi, Michel Parent, Jean-Marie Proth 
+[Research Report] RR-4655, INRIA. 2002 
+
+-----
+ 
+1993 
+Reports 
+High-level primitives for recursive maximum likelihood estimation 
+Bernard Levy, Albert Benveniste, Ramine Nikoukhah 
+[Research Report] RR-2088, INRIA. 1993 
+ 
+• 
+English 
+• 
+Français 
+RITS 
+• 
+Conferences 
+• 
+LaRA - La Route Automatisée 
+• 
+Positions 
+• 
+Site Map 
+• 
+Seminar 
+ 
+Copyright 
+Imara 
+• 
+Return to top 
+Powered by WordPress and the Graphene Theme.  
+ 
+
+-----

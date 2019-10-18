@@ -1,0 +1,24 @@
+Scheduling Strategy Design for Unit Commitment with 
+Energy Storage System and Solar Energy Resource 
+ 
+Abstract 
+ 
+ 
+Unit commitment, pre-setting scheduling and arrangement of the electrical generator 
+operation, plays a critical role in the power system optimization problem which aims to 
+utilize power resources rationally and enhance the efficiency of operational economy 
+under the condition of safe operation of power system. With the high penetration of 
+renewable energy, which increases deregulation when renewable energy is fed into 
+the traditional power system and attention of safety operation in power system, there 
+is a growing focus on optimization with uncertainty. We propose a day-ahead unit 
+commitment model to minimize the impact of uncertainty. The scheduling strategy is 
+composed of two main cases which correspond to the two intervals of the probability 
+distribution of the solar power output. The energy storage system is dispatched to 
+guarantee the power system security when the margin of error is beyond the 
+confidence interval of solar power probability. Facing with both volatile load demand 
+and the solar power, interval optimization is adopted to reduce the complexity of this 
+optimization problem. Priority list is considered so that the energy storage system is 
+flexible to maintain the power balance with an acceptable cost and maximum the 
+utilization of the renewable energy. 
+
+-----

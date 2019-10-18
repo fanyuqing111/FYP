@@ -1,0 +1,43 @@
+Publication List 
+Journals:  
+[1] Y. Zheng, Y. Cao and C.H. Chang, "A PUF-based data-device hash for tampered image 
+detection and source camera identification", IEEE Trans. Inf. Forensics. Security, Apr. 
+2019. (Under major revision).  
+[2] Y. Zheng, Y. Cao and C.H. Chang, "UDhashing: Physical unclonable function based 
+user-device hash for endpoint authentication", IEEE Trans. Industrial Electronics, Jan 
+2019.  
+[3] A. Cui, C.H. Chang, W. Zhou, Y. Zheng, “A New PUF Based Lock and Key Solution 
+for Secure In-field Testing of Cryptographic Chips,” IEEE Trans. Emerging Topics in 
+Computing, Mar. 2019.  
+Magazine:  
+[1] C.H. Chang, Y. Zheng, and L. Zhang, “A retrospective and a look forward: Fifteen 
+years of physical unclonable function advancement,” IEEE Circuits and Syst. Magazine, 
+vol. 17, no. 3, pp. 32–62, 2017. 
+Conferences: 
+[1] Y. Zheng, Y. Cao, and C.H. Chang. "A new event-driven dynamic vision sensor based 
+physical unclonable function for camera authentication in reactive monitoring system," 
+in Proc. Hardware-Oriented Security and Trust, Yilan, Taiwan, Dec. 2016.  
+[2] Y. Zheng, Y. Cao, and C.H. Chang, "Facial biohashing based User-Device physical 
+unclonable function for bring your own device system (Invited Paper, also featured in 
+IEEE Xplore Innovation Spotlight, titled “Can BYOD be as Secure as Company-
+Owned Devices” on August 6, 2018, URL: https://innovate.ieee.org/innovation-
+spotlight/biohashing-physical-unclonable-function-byod-authentication-scheme/)," in 
+Proc. IEEE Int. Conf. Consumer Electronics (ICCE 2018), Las Vegas, US, Jan. 2018. 
+[3] Y. Zheng, S. S. Dhabu, and C.H. Chang, “Securing IoT monitoring device using PUF 
+and physical layer authentication,” in Proc. 2018 IEEE Int. Symp. Circuits and Syst. 
+(ISCAS), Florence, May. 2018.  
+[4] S. S. Dhabu, Y. Zheng, W. Liu and C.H. Chang, “Active IC Metering of Digital Signal 
+Processing Subsystem with Two-Tier Activation for Secure Split Test,” in Proc. 2018 
+IEEE Int. Symp. Circuits and Syst. (ISCAS), Florence, May. 2018.  
+[5] C. Q. Liu, Y. Zheng, C.H. Chang, “A new write-contention based dual-port SRAM 
+PUF with multiple response bits per cell,” in Proc. IEEE Int. Symp. Circuits and Syst. 
+(ISCAS), Baltimore, USA, May. 2017  
+[6] Y. Cao, C.H Chang, Y. Zheng, X Zhao. " An energy-efficient true random number 
+generator based on current starved ring oscillators." Proc. Hardware-Oriented Security 
+and Trust (AsianHOST), Beijing, China, Oct. 2016.  
+[7] B. Wang, X. Zhao, Y. Zheng, C.H Chang, "An in-pixel gain amplifier based event-
+driven physical unclonable function for CMOS dynamic vision sensors." in Proc. 2018 
+IEEE Int. Symp. Circuits and Syst. (ISCAS), Hokkaiddo, Japan, May. 2018. 
+ 
+
+-----

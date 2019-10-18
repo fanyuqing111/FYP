@@ -1,0 +1,49 @@
+Title: Highly Integrated Biosensors Based on Fiber Optics 
+Abstract: 
+Benefited from the advantages of flexibility, miniaturization, immunity to electromagnetic 
+interference and compatibility with today’s well-developed optical communication system, 
+fiber-optic sensors show huge potentials with the increasing demand of comprehensive 
+perception in every aspect of life. Especially in the practices of biosensing, optical fibers are 
+prevailing platforms for highly-sensitive, real-time, label-free and in vivo detection due to 
+their high degree of integration, dielectric nature, non-toxicity and chemical inertness. In this 
+thesis, we investigate several approaches focusing on the proper design of fiber structure and 
+the efficient integrations with functional materials to enhance the effectiveness of light-matter 
+interaction and the reliability of biosensing output. 
+Firstly, we develop a highly sensitive magnetic field sensor based on magnetic-fluid-coated 
+long period fiber grating (LPG). The emergence of optomagnetic biosensors in recent years 
+brings the needs of all-optical, integrated and flexible magnetic field sensors. Benefited from 
+the acute response of LPG to ambient medium and the remarkable magneto-optic properties 
+of magnetic fluid, our proposed magnetic field sensor provides a superior sensitivity of 0.154 
+dB/Gauss and a low measurement threshold of 7.4 Gauss. Secondly, we investigate the 
+possibility of improving the performance of conventional fiber-optic surface plasmon 
+resonance (SPR) biosensors by employing two-dimensional (2D) materials. The one-atom-
+thick 2D material can be seamlessly integrated with noble metal nanofilm to form a 2D 
+material/metal hybrid plasmonic structure. Introducing a graphene layer not only strengthens 
+the excited surface plasmons, but also acts as an excellent replacement of surface 
+functionalization thanks to the fact that graphene stably immobilizes biomolecules via 𝜋-
+stacking interaction. We construct a biosensor that integrates the hybrid plasmonic 
+architecture with a side-polished optical fiber and apply it in the detection of single-stranded 
+DNA (ssDNA). Both linear response to a wide range of ssDNA concentration from 1 pM to 
+10 µM and a limit of detection as low as 1 pM are achieved. Thirdly, we explore the 
+potentials of adopting transition metal oxides as an alternative class of plasmonic 2D 
+materials in fiber-optic biosensing. Since surface plasmons of most 2D materials locate 
+intrinsically at terahertz or mid-infrared range that are not accessible for frequently used and 
+cost-effective optical system, 2D materials are predominantly used as a booster of 
+conventional SPR sensing in visible and near-infrared (NIR) range. Here we demonstrate the 
+strong surface plasmons of highly-doped 2D molybdenum trioxide (MoO3) nanoflakes in 
+NIR range. Integrated with a microfiber, the positively charged MoO3 nanoflakes show good 
+affinity to negatively charged biomolecules and our proposed biosensor provide a detection 
+limit of bovine serum albumin as low as 1 pg/mL. Lastly, we propose a highly-birefringent 
+microstructured optical fiber (MOF) based SPR biosensor. Since birefringence of fiber-optic 
+platforms can hardly be avoided in practical applications and surface plasmons are only 
+excited by TM-polarized light, external perturbation would induce polarization crosstalk 
+thereby destabilize the sensor output. Here we theoretically investigate the relation between 
+birefringence and measurement offset and find that large birefringence effectively suppress 
+the impact of polarization crosstalk. We design and analyze a polarization-maintaining MOF 
+with birefringence larger than 4 × 10-4 while providing a sensitivity as high as 3100 nm/RIU. 
+In the studies we conducted so far, it is shown that the vast possibilities of optical fiber design 
+and the breakthroughs of functional materials facilitate promising potentials in achieving 
+highly sensitive and highly integrated biosensors. Further improvements in the specificity, 
+sensitivity and integration of fiber-optic biosensors will be carried out in the near future. 
+
+-----

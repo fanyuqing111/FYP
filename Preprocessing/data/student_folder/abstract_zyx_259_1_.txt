@@ -1,0 +1,18 @@
+Title: Real-time Object Tracking for Event Cameras 
+ 
+Abstract: 
+Object tracking is a fundamental task engaged in many cutting-edge applications, e.g. auto-
+driving and surveillance. The recently developed event camera brings new possibilities to solve 
+inherent challenges in frame-based object tracking, such as deformation and re-scale problem, 
+background clutter and motion blur. Instead of synchronized frames, event cameras record 
+motion as an asynchronous event stream 𝑆 = {(𝑥𝑖, 𝑦𝑖, 𝑡𝑖)} in an ultra-high temporal resolution 
+more than 1M Hz. In this work, a tracking framework is proposed to track a single object in a 
+recursive manner aligned with variate event rate. Event data are modelled as spacetime event 
+clouds and fed to an adapted PointNet architecture to extract spatial and temporal information 
+of the target object. Furthermore, the proposed framework is capable to process events in a 
+continuous and recursive manner real-time and generates event-wise bonding box to form a 
+best-fit and smooth bounding volume over time. 
+ 
+ 
+
+-----

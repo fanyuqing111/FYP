@@ -1,0 +1,188 @@
+John Cavazos  
+Computer & Information Sciences Department 
+University of Delaware 
+Newark, DE 19716, USA 
+cavazos@udel.edu 
+https://www.eecis.udel.edu/~cavazos/ 
+(302) 831-2712 
+I am an associate professor in the Computer and Information Sciences Department and a 
+JP Morgan Chase Faculty Fellow in the Institute for Financial Services Analytics. I also 
+have a joint appointment in the Electrical and Computer Engineering Department. My 
+research interests are in high-performance computing, machine learning, predictive 
+analytics, and application of these technologies to hard problems. 
+I was one of the first researchers to work on applying machine learning to improve 
+compilers. This field of research has rapidly grown to include hundreds of authors from 
+many major universities and technology companies. Compilers typically contain many 
+heuristics to solve hard problems approximately and efficiently. Finding heuristics that 
+perform well on a broad range of applications and processors is one of the most complex 
+tasks faced by compiler writers. My research involves using machine learning techniques 
+to automatically construct compiler optimization heuristics. I have shown that this 
+technique can completely eliminate the human from heuristic design. My research on 
+applying machine learning to compiler optimizations received the NSF CAREER award. 
+ 
+John Cavazos 
+Compilers, Machine Learning, GPUs, parallel programming 
+在 udel.edu 的电子邮件经过验证 
+ 
+创建我的个人资料 
+引用指数 
+总计 
+2012 年至今 
+引用  
+1875 
+1093 
+h 指数  
+21 
+18 
+i10 指数  
+30 
+24 
+200920102011201220132014201520162017 
+标题 1–20 
+引用次
+数 
+发表年
+份 
+Using machine learning to focus iterative optimization 
+338  
+2006 
+
+-----
+标题 1–20 
+引用次
+数 
+发表年
+份 
+F Agakov, E Bonilla, J Cavazos, B Franke, G Fursin, MFP O'Boyle, ... 
+Proceedings of the International Symposium on Code Generation and ... 
+Rapidly selecting good compiler optimizations using 
+performance counters 
+J Cavazos, G Fursin, F Agakov, E Bonilla, MFP O'Boyle, O Temam 
+Proceedings of the International Symposium on Code Generation and ... 
+185  
+2007 
+Iterative optimization in the polyhedral model: Part II, 
+multidimensional time 
+LN Pouchet, C Bastoul, A Cohen, J Cavazos 
+ACM SIGPLAN Notices 43 (6), 90-100 
+145  
+2008 
+Auto-tuning a high-level language targeted to GPU codes 
+S Grauer-Gray, L Xu, R Searles, S Ayalasomayajula, J Cavazos 
+Innovative Parallel Computing (InPar), 2012, 1-10 
+119  
+2012 
+Method-specific dynamic compilation using logistic regression 
+J Cavazos, MFP O'boyle 
+ACM SIGPLAN Notices 41 (10), 229-240 
+98  
+2006 
+Inducing heuristics to decide whether to schedule 
+J Cavazos, JEB Moss 
+ACM SIGPLAN Notices 39 (6), 183-194 
+87  
+2004 
+Fast compiler optimisation evaluation using code-feature based 
+performance prediction 
+C Dubach, J Cavazos, B Franke, G Fursin, MFP O'Boyle, O Temam 
+Proceedings of the 4th international conference on Computing frontiers, 131-
+142 
+66  
+2007 
+Automatic performance model construction for the fast software 
+exploration of new hardware designs 
+J Cavazos, C Dubach, F Agakov, E Bonilla, MFP O'Boyle, G Fursin, ... 
+Proceedings of the 2006 international conference on Compilers, 
+architecture ... 
+63  
+2006 
+Midatasets: Creating the conditions for a more realistic 
+evaluation of iterative optimization 
+G Fursin, J Cavazos, M O’Boyle, O Temam 
+International Conference on High-Performance Embedded Architectures 
+and ... 
+61  
+2007 
+
+-----
+标题 1–20 
+引用次
+数 
+发表年
+份 
+Automatic tuning of inlining heuristics 
+J Cavazos, MFP O'Boyle 
+Proceedings of the 2005 ACM/IEEE conference on Supercomputing, 14 
+59  
+2005 
+Predictive modeling in a polyhedral optimization space 
+E Park, J Cavazos, LN Pouchet, C Bastoul, A Cohen, P Sadayappan 
+International journal of parallel programming 41 (5), 704-750 
+53  
+2013 
+Using predictivemodeling for cross-program design space 
+exploration in multicore systems 
+S Khan, P Xekalakis, J Cavazos, M Cintra 
+Proceedings of the 16th International Conference on Parallel Architecture ... 
+53  
+2007 
+Learning to schedule straight-line code 
+JEB Moss, PE Utgoff, J Cavazos, D Precup, D Stefanovic, C Brodley, ... 
+NIPS 97, 929-935 
+51  
+1997 
+Mitigating the compiler optimization phase-ordering problem 
+using machine learning 
+S Kulkarni, J Cavazos 
+ACM SIGPLAN Notices 47 (10), 147-162 
+47  
+2012 
+MPI-aware compiler optimizations for improving 
+communication-computation overlap 
+A Danalis, L Pollock, M Swany, J Cavazos 
+Proceedings of the 23rd international conference on Supercomputing, 316-
+325 
+40  
+2009 
+Intelligent selection of application-specific garbage collectors 
+J Singer, G Brown, I Watson, J Cavazos 
+Proceedings of the 6th international symposium on Memory management, 
+91-102 
+38  
+2007 
+A transactional memory with automatic performance tuning 
+Q Wang, S Kulkarni, J Cavazos, M Spear 
+ACM Transactions on Architecture and Code Optimization (TACO) 8 (4), 54 
+37  
+2012 
+An evaluation of different modeling techniques for iterative 
+compilation 
+E Park, S Kulkarni, J Cavazos 
+Proceedings of the 14th international conference on Compilers, 
+architectures ... 
+36  
+2011 
+
+-----
+标题 1–20 
+引用次
+数 
+发表年
+份 
+Using graph-based program characterization for predictive 
+modeling 
+E Park, J Cavazos, MA Alvarez 
+Proceedings of the Tenth International Symposium on Code Generation 
+and ... 
+27  
+2012 
+Software Automatic Tuning: Concepts and State-of-the-Art 
+Results 
+R Suda, K Naono, K Teranishi, J Cavazos 
+Software Automatic Tuning, 3-15 
+27  
+2011 
+展开 
+ 
+
+-----

@@ -1,0 +1,72 @@
+Investigation and Design of Low Power Circuit Blocks for Medical Implant SoCs 
+ 
+Medical implant devices have widely grown in recent years due to technological innovations 
+in microelectronics and materials science. The total biomedical implants market has exceeded 
+$150 Billion globally. There are numerous type of biomedical implant devices ranging from 
+neural implants, cochlear implants, retinal implants, pacemakers, drug delivery implants, 
+diabetic insulin pumps etc… with each focussed on a specific application to treat specific 
+disease conditions in the human body, thereby enhancing the patient’s quality of life. But 
+fundamentally, every medical implant device consists of electronics and battery. Due to size 
+constraints, nowadays, major portion of the implant electronics is catered by an application 
+specific system on chip (AS-SoC). Since, it is not convenient to replace batteries of the implant 
+once it is inside the human body, ultra-low power consumption of system on chip (SoC) is 
+essential to increase the life time of the implanted devices. Since the SoC itself is divided into 
+numerous subsystems like power management unit (PMU), transceiver (TRx), phase locked 
+loop (PLL), digital signal processor (DSP), data converters, logic circuits, analog front-end, bio 
+sensors, stimulators and pulse generators, ultra-low power design of all the subsystems is 
+essential to develop an ultra-low power SoC that is highly suitable for biomedical implants.  
+ 
+This PhD research investigates 4 of the important circuit blocks of the medical implant SoC 
+and proposes novel architectures for achieving an ultra-low power medical implant SoC. The 
+4 circuit blocks are flip-flop, time-to-digital converter, ring oscillator and phase locked loop. 
+The processor and logic unit of the implant SoC contains thousands to ten thousands of flip-
+flops (FF) and hence the FF is one of the critical power consuming circuit of a SoC. Time-to-
+digital converters are widely used for time of flight measurements in the implant SoC. Ring 
+oscillators are widely used as voltage controlled oscillators (VCO) of the PLL in the implant 
+SoC due to its lower area consumption compared with LC oscillators. Phase locked loops are 
+heart of the transceiver and occupy a major portion of the transceiver both in terms of area 
+and power consumption. They are used for frequency synthesis and clock generation in the 
+implant SoC. Thus,in particular,this PhD research focuses on the design and development of, 
+ 
+1. Ultra-low supply voltage sense-amplifier flip-flop [5] 
+2. Low voltage and low power time-to-digital converter [2] 
+3. Analysis of negative skewed ring oscillators [3] 
+4. Low power and low area all-digital phase locked loop [1][4] 
+ 
+Student Name: Ramaswami Palaniappan Arjun 
+Supervisor: Assoc Prof. Siek Liter 
+
+-----
+Publications 
+ 
+[1] 
+A. Ramaswami Palaniappan and L. Siek, “An Ultra-Low Area All-Digital Phase Locked 
+Loop for Medical Implant Applications,” Microprocessors and Microsystems, Under 
+Revision, 2019. 
+[2] 
+A. Ramaswami Palaniappan and L. Siek, “A 0.6 V, 1.74 ps Resolution Capacitively 
+Boosted Time-to-Digital Converter in 180 nm CMOS,” in IEEE International Symposium 
+on Circuits and Systems, Accepted,  2019 
+[3] 
+J.S Teh, A. Ramaswami Palaniappan, and L. Siek, “Analysis of Negative Skewed Delay 
+Scheme for Ring Oscillator With Multi-Phase Outputs,” IEEE Transactions on Very 
+Large Scale Integration (VLSI) Systems, Submitted, 2019. 
+[4] 
+A. Ramaswami Palaniappan and L. Siek, “A 0.0186 mm2 , 0.65 V Supply, 9.53 ps RMS 
+Jitter All-Digital PLL for Medical Implants,” in IEEE Nordic Circuits and Systems 
+Conference (NORCAS): NORCHIP and International Symposium of System-on-Chip 
+(SoC), 2018, pp. 1–4. 
+[5] 
+A. Ramaswami Palaniappan and L. Siek, “Wide-input dynamic range 1 MHz clock ultra-
+low supply flip-flop,” Electronics Letters, 2018. 
+[6] 
+A. Ramaswami Palaniappan, J. Verlinden, L. Siek, "Sense Amplifier Flip-Flop with 
+Symmetrical Rise and Fall Output Propagation Delay," NXP Defensive Publication ID: 
+82095159, 2018. 
+[7] 
+J.S Teh, A. Ramaswami Palaniappan, L. Siek, and Y. Zheng, “Review of pulse 
+generators for gated ring oscillator based Time-to-Digital converters,” in International 
+Symposium on Integrated Circuits (ISIC), 2016, pp. 1–4. 
+ 
+
+-----

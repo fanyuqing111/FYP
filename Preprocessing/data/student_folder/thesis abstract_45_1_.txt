@@ -1,0 +1,40 @@
+Development of highly efficient organic and perovskite solar cells 
+ 
+Abstract 
+With rapid industrial development and global population growth in 21st century, the search for 
+renewable energy source becomes more important. Among various renewable energy sources, 
+solar energy is the most plentiful one. Great efforts have been made to develop high efficient and 
+low cost photovoltaic (PV) technologies. So far, the dominant PV technology is based on 
+inorganic semiconductor materials, such as Silicon (Si) and Gallium arsenide (GaAs). Despite 
+with the high solar energy conversion efficiency, these PV technologies require strict 
+manufacturing processes and have very high materials and fabrication costs. To make the PV 
+technology price cheaper, people have been searching for other types of solar cells using cheap 
+materials and low-cost manufacturing processes. Organic solar cells (OSCs) and perovskite solar 
+cells (PrSCs) have attracted lots of attentions as a new generation of PV technologies recently. 
+They are attractive because of their low-cost fabrication process, mechanical flexibility, solution 
+processability, etc. The objective of this work is to improve the performance and reduce the 
+fabrication costs of the OSCs and PrSCs. First, a newly synthesized n-type conjugated 
+polyelectrolyte (CPE), poly [9,9-bis((60-N,N,N-trimethylamino)hexyl)-fluorene-alt-cobenzoxadia 
+zole dibromide] (PFBD), was applied into OSCs with an inverted structure as electron transporting 
+material (ETM) to improve the OSCs’ performance. The OSCs using PFBD as the ETM exhibited 
+a better power conversion efficiency (PCE) and improved stability. Through study of the so-called 
+light-soaking effect observed in our OSCs based on PFBD, we found that the change of work 
+function of ITO electrodes modified by PFBD plays an important role in influencing the OSCs’ 
+
+-----
+performance. Based on these findings, we proposed some guidelines for designing and developing 
+highly efficient CPE materials for ETMs in OSCs. Second, we studied the factors that can 
+influence the performance of PrSCs by applying a series of newly synthesized p-type polymers 
+into PrSCs as hole transporting materials (HTMs). These polymer HTMs have almost the same 
+band energy levels but different crystallinity, thus demonstrating different performance when 
+applied into PrSCs. So except for band alignment between HTMs and photoactive layers, 
+crystallization of the HTMs is also very important. The polymer HTM with the highest 
+crystallinity has the best performance with a PCE of 14.02%. Last, we designed and fabricated 
+fully printable OSCs and PrSCs by using a transfer printing technique to deposit electrodes. 
+Compared with the traditional thermally or E-beam evaporating methods, our transfer printing 
+method introduced less defects into organic layers and improved the performance and stability of 
+OSCs and PrSCs. This transfer printing process is also compatible with the roll-to-roll 
+manufacturing process and can significantly reduce the manufacturing costs of OSCs and PrSCs.  
+ 
+
+-----

@@ -1,0 +1,1572 @@
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+Curriculum Vitae
+Sung Kyu Lim
+Dan Fielder Professor
+School of Electrical and Computer Engineering
+Georgia Institute of Technology
+1
+Earned Degrees
+1. BS: University of California at Los Angeles, Computer Science Department (1994)
+2. MS: University of California at Los Angeles, Computer Science Department (1997)
+3. PhD: University of California at Los Angeles, Computer Science Department (2000)
+2
+Employment
+1. Graduate Research Assistant, UCLA VLSI CAD Lab (September 1995 – June 2000)
+2. Post Doctoral Scholar, UCLA VLSI CAD Lab (September 2000 – June 2001)
+3. Assistant Professor, School of Electrical and Computer Engineering, Georgia Institute of Technology (August
+2001 – July 2007)
+4. Associate Professor, School of Electrical and Computer Engineering, Georgia Institute of Technology (August
+2007 – July 2013)
+5. Professor, School of Electrical and Computer Engineering, Georgia Institute of Technology (August 2013 –
+current)
+6. Dan Fielder Endowed Chair Professor, School of Electrical and Computer Engineering, Georgia Institute of
+Technology (July 2014 – current)
+2.1
+Other Appointments
+1. Senior Engineer, Aplus Design Technologies, Inc. (June 2000 – June 2001)
+2. Visiting Scholar, School of Electrical Engineering and Computer Science, Seoul National University (Summer
+2001)
+3. Instructor, Department of Electrical Engineering, Korean Advanced Institute of Science and Technology (KAIST),
+(Summer 2007)
+4. Instructor, Department of Computer Science, Korea University (Summer 2007, Summer 2008, Summer 2009,
+Summer 2010)
+5. Visiting Professor, Corporate Research and Development, Qualcomm Inc, San Diego (Summer 2014)
+3
+Teaching
+3.1
+Individual Student Guidance
+3.1.1
+Graduated PhD Students
+1. Mongkol Ekpanyapong, “Microarchitecture-Aware Physical Planning for Deep Submicron Technology,” 2005.
+Tenure-track faculty at the Asian Institute of Technology, Thailand.
+Page 1 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+2. Jacob Minz, “Physical Design Automation for System-on-Packages (SOP) and 3D-ICs,” 2006. Synopsys Cor-
+poration.
+3. Ismail Faik Baskaya, “Physical Synthesis for Field Programmable Analog Array,” 2009. Tenure-track faculty at
+Bogazici University, Turkey.
+4. Michael Healy, “Physical Design For Performance and Thermal and Power-Supply Reliability in Modern 2D
+And 3D Microarchitectures,” 2010. IBM T. J. Watson Research Center.
+5. Dae Hyun Kim, “TSV-aware System-level Prediction and Physical Design for Multi-granularity 3D ICs,” 2012.
+Tenure-track faculty at the Washington State University, USA.
+6. Krit Athikulwongse, “Placement for Fast and Reliable Through-Silicon Via (TSV) Based 3D-IC Layouts,” 2012.
+The National Electronics and Computer Technology Center, Thailand.
+7. Xin Zhao, “Reliable Clock and Power Delivery Network Design for 3D ICs,” 2012. IBM Corporation.
+8. Young Joon Lee, “CAD Methodologies for Low Power and Reliable 3D ICs,” 2013. Intel Corporation.
+9. Moongon Jung, ”Low Power and Reliable Design Methodologies for 3D ICs,” 2014. Intel Corporation.
+10. Shreepad Panth, “Physical Design Methodologies for Monolithic 3D ICs,” 2015. Intel Corporation.
+11. Taigon Song, “Chip/Package Co-design Methodologies for Reliable 3D ICs,” 2015. Synopsys Corporation.
+12. Yarui Peng, “CAD Tools and Methodologies for Reliable 3D IC Design, Analysis, and Optimization,” 2016.
+Tenure-track faculty at the University of Arkansas, USA.
+3.1.2
+Current PhD Students
+1. Sandeep Samal: passed preliminary exam in Fall 2012.
+2. Kyung Wook Chang: passed preliminary exam in Fall 2014.
+3. Bon Woong Ku: passed preliminary exam in Fall 2014.
+4. Kartik Acharya: joined in Spring 2015.
+3.1.3
+Graduated MS Students
+1. Pun Hang Shiu: graduated in December 2003. Thesis: “Floorplanning for 3D System-On-Package”
+2. Jean Nguyen: graduated in June 2004. Thesis: “Partitioning for Quantum Cell Automata-based Circuits”
+3. Ramprasad Ravichandran: graduated in June 2005. Thesis: “Placement for Quantum Cell Automata-based
+Circuits”
+4. Eric Wong: graduated in August 2006. Thesis: “Physical Design for 3D Stacked ICs”
+5. Ye Tao: graduated in August 2008. Thesis: “Power Supply Noise-aware Floorplanning”
+6. Hemant Sane: graduated in Spring 2010. Thesis: “Power Supply Noise Analysis For 3D ICs Using Through-
+Silicon-Vias”
+7. Chang Liu: graduated in Spring 2011. Thesis: “Signal Integrity Analysis and Optimization for 3D ICs”
+8. Neela Lohith: graduated in Fall 2014. Thesis: “Monolithic 3D Integration of Asynchronous Systems”
+9. Mohit Pathak: graduated in Fall 2014. Thesis: “Performance and Reliability-aware Physical Design for 3D IC
+and Package”
+Page 2 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+3.2
+Other Teaching Activities
+3.2.1
+New Graduate Course Development
+Physical Design Automation of VLSI Systems: This course was offered in Summer 2002, Fall 2003, and Spring
+2005 as a special topics course and became a permanent graduate course (ECE6133) in the School of Electrical and
+Computer Engineering.
+• Description: The objective of physical design automation is to transform a structural representation of a VLSI
+system into a layout representation so that the resulting layout satisfies topological, geometric, timing, and
+power-consumption constraints of the design. This course focuses on various design automation problems in the
+physical design process of VLSI circuits, including: logic partitioning, floorplanning, global routing, detailed
+routing, compaction, and performance-driven layout. In addition, the discussion of a number of important
+optimization techniques, such as network flow, Steiner tree, scheduling, simulated annealing, generic algorithm,
+and linear/convex programming are included.
+• Motivation: A significant portion of today’s VLSI chips is designed with automatic layout generation tools. This
+is the first course ever offered at the Georgia Institute of Technology that teaches VLSI layout automation.
+4
+Scholarly Accomplishments
+4.1
+Published Books
+1. Sung Kyu Lim, “Practical Problems in VLSI Physical Design Automation,” Springer, July 2008. (ISBN 978-1-
+4020-6626-9)
+2. Sung Kyu Lim, “Design for High Performance, Low Power, and Reliable 3D Integrated Circuits,” Springer,
+December 2012. (ISBN 978-1-4419-9541-4)
+4.2
+Book Chapters
+1. Sung Kyu Lim and Mike Niemier, “Partitioning and Placement for Buildable QCA Circuits,” in Nano, Quantum
+and Molecular Computing: Implications to High Level Design and Validation, edited by Sandeep Shukla and
+Iris Bahar, Springer, pp 295-316, June 2004. (ISBN 978-1-4020-8067-8)
+2. Sung Kyu Lim, “Efficient On-Chip Power, Clock, Thermal, and Signal Delivery for 3D Multi-core Systems,”
+in Three Dimensional System Integration: IC Stacking Process and Design, edited by Antonis Papanikolaou,
+Dimitrios Soudris and Riko Radojcic, Springer, 2010. (ISBN 978-1-4419-0961-9)
+3. Dae Hyun Kim and Sung Kyu Limm, “Impact of TSV and Device Scaling on the Quality of 3D ICs,” in More
+than Moore Technologies for Next Generation Computer Design, edited by Rasit Topaloglu, Springer, 2015
+(ISBN 978-1-4939-2163-8).
+4. Sandeep Samal and Sung Kyu Lim, “Ultra-low Power Processor Design with 3D IC Operating at Sub/Near-
+threshold Voltages,” in CISS: Nano Devices and Circuit Techniques for Low-Energy Applications and Energy
+Harvesting, edited by Chong-Min Kyung, Springer, 2015 (ISBN 978-9-4017-9990-4)
+5. Sung Kyu Lim, “3D Interconnect Extraction,” in Physical Design for 3D Integrated Circuits, edited by Aida
+Todri-Sanial and Chuan Seng Tan, CRC Press, 2015. (ISBN 978-1-4987-1036-7)
+6. Sung Kyu Lim and Yiyu Shi, “Design Challenges and Solutions for Monolithic 3D ICs,” in Physical Design
+for 3D Integrated Circuits, edited by Aida Todri-Sanial and Chuan Seng Tan, CRC Press, 2015. (ISBN 978-1-
+4987-1036-7)
+7. Sung Kyu Lim, “Physical Design for 3D ICs,” in Electronic Design Automation for Integrated Circuits Hand-
+book, edited by Luciano Lavagno, Grant Martin, and Igor Markov, CRC Press, 2016. (ISBN 978-1-4822-5460-
+0)
+Page 3 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+4.3
+Refereed Publications
+4.3.1
+Refereed Journal Publications
+1. Jason Cong and Sung Kyu Lim, “Edge Separability based Circuit Clustering With Application to Multi-level
+Circuit Partitioning,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol.
+23, No. 3, pp. 346-357, 2004.
+2. Jason Cong and Sung Kyu Lim, “Retiming-based Timing Analysis With An Application to Mincut-based Global
+Placement,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol. 23, No. 12,
+pp. 1684-1692, 2004.
+3. Ramprasad Ravichandran, Sung Kyu Lim, and Michael Niemier, “Automatic Cell Placement for Quantum-dot
+Cellular Automata,” Integration, the VLSI Journal, Vol. 38, No. 3, pp. 541-548, 2005.
+4. Sung Kyu Lim, Ramprasad Ravichandran, and Mike Niemier, “Partitioning and Placement for Buildable QCA
+Circuits,” ACM Journal on Emerging Technologies in Computing Systems, Vol. 1, No. 1, pp. 50-72, 2005.
+5. Sung Kyu Lim, “Physical Design for 3D System-On-Package: Challenges and Opportunities,” IEEE Design &
+Test of Computers, Vol. 22, No. 6, pp. 532-539, 2005.
+6. Peter Sassone and Sung Kyu Lim, “Traffic: A Novel Geometric Algorithm For Fast Wire-Optimized Floorplan-
+ning,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol. 25, No. 6, pp.
+1075-1086, 2006.
+7. Mongkol Ekpanyapong, Jacob Minz, Thaisiri Watewai, Hsien-Hsin S. Lee, and Sung Kyu Lim, “Profile-Guided
+Microarchitectural Floorplanning for Deep Submicron Processor Design,” IEEE Transactions on Computer-
+Aided Design of Integrated Circuits and Systems, Vol. 25, No. 7, pp. 1289-1300, 2006.
+8. Eric Wong, Jacob Minz, and Sung Kyu Lim, “Thermal and Power Integrity-aware Module Placement For 3D
+System-On-Package,” IEEE Transactions on Very Large Scale Integration Systems, Vol. 14, No. 5, pp. 553-557,
+2006.
+9. Faik Baskaya, Sasank Reddy, Sung Kyu Lim, and David Anderson, “Placement for Large-Scale Floating Gate
+Field-Programable Analog Arrays,” IEEE Transactions on Very Large Scale Integration Systems, Vol. 14, No.
+8, pp. 906-910, 2006.
+10. Jacob Minz, Eric Wong, Mohit Pathak, and Sung Kyu Lim, “Placement and Routing for 3D System-On-Package
+Designs,” IEEE Transactions on Components and Packaging Technologies, Vol. 29, No. 3, pp. 644-657, 2006.
+11. Jacob Minz and Sung Kyu Lim, “Block-level 3D Global Routing With an Application to 3D Packaging,” IEEE
+Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol. 25, No. 10, pp. 2248-2257,
+2006.
+12. Wook-Jin Chung, Brian Smith, and Sung Kyu Lim, “Node Duplication and Routing Algorithms for Quantum-
+dot Cellular Automata Circuit,” IEE Proceedings on Circuits, Devices & Systems, Vol. 153, No. 5, pp. 497-505,
+2006.
+13. Mongkol Ekpanyapong, Michael Healy, and Sung Kyu Lim, “Profile-Driven Instruction Mapping for Dataflow
+Architectures,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol. 25, No.
+12, pp. 3017-3025, 2006.
+14. Michael Healy, Mario Vittes, Mongkol Ekpanyapong, Sung Kyu Lim, Hsien-Hsin S. Lee, and Gabriel H.
+Loh, “Multi-Objective Microarchitectural Floorplanning For 2D And 3D Stacked ICs,” IEEE Transactions on
+Computer-Aided Design of Integrated Circuits and Systems, Vol. 26, No. 1, pp. 38-52, 2007.
+15. Jacob Minz, Somaskanda Thyagaraja, and Sung Kyu Lim, “Optical Routing for 3D System-On-Package,” IEEE
+Transactions on Components and Packaging Technologies, Vol. 30, No. 4, pp. 805-812, 2007.
+Page 4 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+16. Eric Wong, Jacob Minz, and Sung Kyu Lim, “Decoupling Capacitor Planning and Sizing for Noise and Leakage
+Reduction,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol. 26, No. 11,
+pp. 2023-2034, 2007.
+17. Faik Baskaya, David V. Anderson, and Sung Kyu Lim, “Net Sensitivity Based Optimization of Large-scale Field
+Programmable Analog Array (FPAA) Placement and Routing,” IEEE Transactions on Circuits and Systems II,
+Vol. 56, No. 7, pp. 565-569, 2009.
+18. Mohit Pathak and Sung Kyu Lim, “Performance and Thermal-aware Steiner Routing for 3D Stacked ICs,” IEEE
+Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol. 28, No. 9, pp. 1373-1386,
+2009.
+19. Yoon Jo Kim, Yogendra K. Joshi, Andrei G. Fedorov, Young-Joon Lee, and Sung Kyu Lim, “Thermal Char-
+acterization of Interlayer Microfluidic Cooling of Three-Dimensional IC with Non-Uniform Heat Flux,” ASME
+Journal of Heat Transfer, Vol. 132(4), pp. 1-9, 2010.
+20. Muhammad Bashir, Linda Milor, Dae Hyun Kim, and Sung Kyu Lim, “Methodology to Determine the Impact of
+Linewidth Variation on Chip Scale Copper/Low-k Backend Dielectric Breakdown,” Elsevier Microelectronics
+Reliability, Vol. 50, Issue 9-11, pp. 1341-1346, 2010.
+21. Dae Hyun Kim, Saibal Mukhopadhyay, and Sung Kyu Lim, “Fast and Accurate Analytical Modeling of Through-
+Silicon-Via Capacitive Coupling,” IEEE Transactions on Components, Packaging, and Manufacturing Technol-
+ogy, Vol. 1, No. 2, pp. 168-180, 2011.
+22. Xin Zhao, Jacob Minz, and Sung Kyu Lim, “Low-Power and Reliable Clock Network Design for Through
+Silicon Via based 3D ICs,” IEEE Transactions on Components, Packaging, and Manufacturing Technology,
+Vol. 1, No. 2, pp. 247-259, 2011.
+23. Xin Zhao, Dean L. Lewis, Hsien-Hsin S. Lee, and Sung Kyu Lim, “Low-Power Clock Tree Design for Pre-Bond
+Testing of 3D Stacked ICs,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,
+Vol. 30, No. 5, pp. 732-745, 2011. NOMINATED FOR BEST PAPER AWARD.
+24. Jeremy Tolbert, Xin Zhao, Sung Kyu Lim, and Saibal Mukhopadhyay, “Analysis and Design of Energy and Slew
+Aware Subthreshold Clock Systems,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+Systems, Vol. 30, No. 9, pp. 1349-1358, 2011.
+25. Muhammad Bashir, Linda Milor, Dae Hyun Kim, and Sung Kyu Lim, “Impact of Irregular Geometries on Low-k
+Dielectric Breakdown,” Microelectronics Reliability, Vol. 51, No. 9-11, pp. 1582-1586, 2011.
+26. Michael Healy, Fayez Mohamood, Hsien-Hsin S. Lee, and Sung Kyu Lim, “Integrated Microarchitectural Floor-
+planning and Runtime Controller for Inductive Noise Mitigation,” ACM Transactions on Design Automation of
+Electronic Systems, Vol. 14, No. 4, pp. 1-25, 2011.
+27. Young-Joon Lee and Sung Kyu Lim, “Co-Optimization and Analysis of Signal, Power, and Thermal Intercon-
+nects in 3D ICs,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol. 30,
+No. 11, pp. 1635-1648, 2011.
+28. Minki Cho, Chang Liu, Dae Hyun Kim, Sung Kyu Lim, and Saibal Mukhopadhyay, “Pre-bond and Post-bond
+Test and Signal Recovery Structure to Characterize and Repair TSV Defect Induced Signal Degradation in 3D
+System,” IEEE Transactions on Components, Packaging, and Manufacturing Technology, Vol. 1, No. 11, pp.
+1718-1727, 2011.
+29. Mohit Pathak and Sung Kyu Lim, “Fast Layout Generation of RF Embedded Passive Circuits Using Mathemat-
+ical Programming,” IEEE Transactions on Components, Packaging, and Manufacturing Technology, Vol. 2, No.
+1, pp. 32-45, 2012.
+30. Michael B. Healy and Sung Kyu Lim, “Distributed TSV Topology for 3D Power-Supply Networks,” IEEE
+Transactions on Very Large Scale Integration Systems, Vol. 20, No. 11, pp. 2066-2079, 2012.
+Page 5 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+31. Moongon Jung, Joydeep Mitra, David Pan, and Sung Kyu Lim, “TSV Stress-aware Full-Chip Mechanical Re-
+liability Analysis and Optimization for 3D IC,” IEEE Transactions on Computer-Aided Design of Integrated
+Circuits and Systems, Vol. 31, No. 8, pp. 1194-1207, 2012. NOMINATED FOR BEST PAPER AWARD.
+32. Xin Zhao, Jeremy Tolbert, Saibal Mukhopadhyay, and Sung Kyu Lim, ”Variation-aware Clock Network De-
+sign Methodology for Ultra-Low Voltage (ULV) Circuits,” IEEE Transactions on Computer-Aided Design of
+Integrated Circuits and Systems, Vol. 31, No. 8, pp. 1222-1234, 2012.
+33. Dae Hyun Kim and Sung Kyu Lim, ”Design Quality Trade-off Studies for 3D ICs Built with Sub-micron TSVs
+and Future Devices,” IEEE Journal on Emerging and Selected Topics in Circuits and Systems, Vol. 2, No. 2, pp.
+240-248, 2012.
+34. Chang-Chih Chen, Fahad Ahmed, Dae Hyun Kim, Sung Kyu Lim, and Linda Milor, “Backend Dielectric Relia-
+bility Simulator For Microprocessor System,” Microelectronics Reliability, Vol. 52, Issue 9-10, pp. 1953-1959,
+2012.
+35. Dae Hyun Kim, Krit Athikulwongse, and Sung Kyu Lim, ”A Study of Through-Silicon-Via Impact on the 3D
+Stacked IC Layout,” IEEE Transactions on Very Large Scale Integration Systems, Vol. 21, No. 5, pp. 862-874,
+2013.
+36. Junghee Lee, Chryostomos Nicopoulos, Hyung Gyu Lee, Shreepad Panth, Sung Kyu Lim, and Jongman Kim,
+“IsoNet: Hardware-based Job Queue Management for Manycore Architectures,” IEEE Transactions on Very
+Large Scale Integration Systems, Vol. 21, No. 6, pp. 1080-1093, 2013.
+37. Krit Athikulwongse, Jae-Seok Yang, David Z. Pan, and Sung Kyu Lim, “Impact of Mechanical Stress on the
+Full Chip Timing for TSV-based 3D ICs,” IEEE Transactions on Computer-Aided Design of Integrated Circuits
+and Systems, Vol. 32, No. 6, pp. 905-917, 2013.
+38. Kwanyeob Chae, Xin Zhao, Sung Kyu Lim, and Saibal Mukhopadhyay, “Tier-Adaptive-Body-Biasing: A Post-
+Silicon Tuning Method to Minimize Clock Skew Variations in 3D ICs,” IEEE Transactions on Components,
+Packaging, and Manufacturing Technology, Vol. 3, No. 10, pp. 1720-1730, 2013.
+39. Moongon Jung, David Z. Pan, and Sung Kyu Lim, “Chip/Package Mechanical Stress Impact on 3D IC Reliabil-
+ity and Mobility Variations,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,
+Vol. 32, No. 11, pp. 1694-1707, 2013.
+40. Sai Manoj, Hao Yu, Yang Shang, Chuan Seng Tan, and Sung Kyu Lim, “Reliable 3D Clock-tree Synthesis Con-
+sidering Nonlinear Capacitive TSV Model with Electrical-thermal-mechanical Coupling,” IEEE Transactions
+on Computer-Aided Design of Integrated Circuits and Systems, Vol. 32, No. 11, pp. 1734-1747, 2013.
+41. Young-Joon Lee and Sung Kyu Lim, “Ultra High Density Logic Designs using Monolithic 3D Integration,”
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems., Vol. 32, No. 12, pp. 1892-
+1905, 2013.
+42. Moongon Jung, Joydeep Mitra, David Z. Pan, and Sung Kyu Lim, “Full-Chip Mechanical Reliability Analysis
+and Optimization for 3D ICs,” Communications of the ACM, Vol. 57, No. 1, pp. 107-115, 2014. RESEARCH
+HIGHLIGHT.
+43. Xin Zhao, Michael Scheuermann, and Sung Kyu Lim, “Analysis and Modeling of DC Current Crowding for
+TSV-Based 3-D Connections and Power Integrity,” IEEE Transactions on Components, Packaging, and Manu-
+facturing Technology, Vol. 4, No. 1, pp. 123-133, 2014.
+44. Muhammad Bashir, Chang-Chih Chen, Linda Milor, Dae Hyun Kim, and Sung Kyu Lim, “Backend Dielectric
+Reliability Full Chip Simulator,” IEEE Transactions on Very Large Scale Integration Systems, Vol. 22, No. 8,
+pp. 1750-1762, 2014.
+45. Krit Athikulwongse, Mongkol Ekpanyapong, and Sung Kyu Lim, “Exploiting Die-to-Die Thermal Coupling in
+3D IC Placement,” IEEE Transactions on Very Large Scale Integration Systems, Vol. 22, No. 10, pp. 2145-2155,
+2014.
+Page 6 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+46. Sung Kyu Lim, “Research Needs for TSV-Based 3D IC Architectural Floorplanning,” Journal of Information
+and Communication Convergence Engineering, Vol. 12, No. 1, pp. 46-52, 2014. INVITED PAPER.
+47. Dae Hyun Kim, Saibal Mukhopadhyay, and Sung Kyu Lim, “TSV-Aware Interconnect Distribution Models
+for Prediction of Delay and Power Consumption of 3D Stacked ICs,” IEEE Transactions on Computer-Aided
+Design of Integrated Circuits and Systems, Vol. 33, No. 9, pp. 1384-1395, 2014.
+48. Shreepad Panth, Sandeep Samal, Yun Seop Yu, and Sung Kyu Lim, “Design Challenges and Solutions for Ultra-
+High-Density Monolithic 3D ICs,” Journal of Information and Communication Convergence Engineering, Vol.
+12, No. 3, pp. 186-192, 2014. INVITED PAPER.
+49. Yarui Peng, Taigon Song, Dusan Petranovic, and Sung Kyu Lim, “Silicon Effect-aware Full-chip Extraction and
+Mitigation of TSV-to-TSV Coupling,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+Systems, Vol. 33, No. 12, pp. 1900-1913, 2014.
+50. Jiwoo Pak, Sung Kyu Lim, and David Z. Pan, “Electromigration Study for Multi-scale Power/Ground Vias in
+TSV-based 3D ICs,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol. 33,
+No. 12, pp. 46-52, 2014.
+51. Brandon Noia, Shreepad Panth, Krishnendu Chakrabarty, and Sung Kyu Lim, “Scan Test of Die Logic in 3D ICs
+Using TSV Probing,” IEEE Transactions on Very Large Scale Integration Systems, Vol. 23, No. 2, pp. 317-330,
+2015.
+52. Dae Hyun Kim, Krit Athikulwongse, Michael B. Healy, Mohammad M. Hossain, Moongon Jung, Ilya Khorosh,
+Gokul Kumar, Young-Joon Lee, Dean L. Lewis, Tzu-Wei Lin, Chang Liu, Shreepad Panth, Mohit Pathak,
+Minzhen Ren, Guanhao Shen, Taigon Song, Dong Hyuk Woo, Xin Zhao, Joungho Kim, Ho Choi, Gabriel
+H. Loh, Hsien-Hsin S. Lee, and Sung Kyu Lim, “Design and Analysis of 3D-MAPS (3D Massively Parallel
+Processor with Stacked Memory),” IEEE Transactions on Computers, Vol. 64, No. 1, pp. 112-125, 2015.
+53. Shreepad Panth, Kambiz Samadi, Yang Du, and Sung Kyu Lim, “Placement-Driven Partitioning for Congestion
+Mitigation in Monolithic 3D IC Designs,” IEEE Transactions on Computer-Aided Design of Integrated Circuits
+and Systems, Vol. 34, No. 4, pp. 540-553, 2015.
+54. Ahmet Ceyhan, Moongon Jung, Shreepad Panth, Sung Kyu Lim, and Azad Naeemi, “Evaluating Chip-Level
+Impact of Cu/low-k Performance Degradation on Circuit Performance at Future Technology Nodes,” IEEE
+Transactions on Electron Devices, Vol. 62, No. 3, pp. 940-946, 2015.
+55. Sandeep Samal, Yarui Peng, Mohit Pathak, and Sung Kyu Lim, “Ultra-Low Power Circuit Design with Sub/Near-
+Threshold 3D IC Technologies,” IEEE Transactions on Components, Packaging, and Manufacturing Technol-
+ogy, Vol. 5, No. 7, pp. 980 - 990, 2015.
+56. Dae Hyun Kim and Sung Kyu Lim, “Design and CAD Tools for 3-D Integrated Circuits: Challenges and
+Opportunities,” IEEE Design and Test, Vol. 32, No. 4, pp. 8-22, 2015.
+57. Yarui Peng, Dusan Petranovik, and Sung Kyu Lim, “Multi-TSV and E-Field Sharing Aware Full-chip Extraction
+and Mitigation of TSV-to-wire Coupling,” IEEE Transactions on Computer-Aided Design of Integrated Circuits
+and Systems, Vol. 34, No. 12, pp. 1964-1976, 2015.
+58. Moongon Jung, Taigon Song, Yarui Peng, and Sung Kyu Lim, “Fine-Grained 3D IC Partitioning Study with A
+Multi-core Processor,” IEEE Transactions on Components, Packaging, and Manufacturing Technology, Vol. 5,
+No. 10, pp. 1393-1491, 2015.
+59. Taigon Song and Sung Kyu Lim, “Full-Chip Power/Performance Benefits of Carbon Nanotube-Based Circuits,”
+Journal of Information and Communication Convergence Engineering, Vol. 13, No. 3, pp. 180-188, 2015.
+INVITED PAPER.
+60. Taigon Song and Sung Kyu Lim, “Die-to-Die Parasitic Extraction Targeting Face-to-Face Bonded 3D ICs,”
+Journal of Information and Communication Convergence Engineering, Vol. 13, No. 3, pp. 172-179, 2015.
+INVITED PAPER.
+Page 7 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+61. Taigon Song, Chang Liu, Yarui Peng, and Sung Kyu Lim, “Full-Chip Signal Integrity Analysis and Optimization
+of 3D ICs,” IEEE Transactions on Very Large Scale Integration Systems. Vol. 5, No. 10, pp. 1393-1491, 2016.
+62. Hourieh Attarzadeha, Sung Kyu Lim, and Trond Ytterdala, “Design and Analysis of a Stochastic Flash Analog-
+to-Digital Converter in 3D IC Technology for Integration with Ultrasound Transducer Array,” Elsevier Micro-
+electronics Journal.
+63. Shreepad Panth and Sung Kyu Lim, “Probe-Pad Placement for Pre-Bond Test of 3D ICs,” IEEE Transactions
+on Components, Packaging, and Manufacturing Technology. Vol. 6, No. 4, pp. 637-644, 2016.
+64. Sandeep Samal, Shreepad Panth, Kambiz Samadi, Mehdi Saeidi, Yang Du, and Sung Kyu Lim, “Adaptive
+Regression-based Thermal Modeling and Optimization for Monolithic 3D ICs,” IEEE Transactions on Computer-
+Aided Design of Integrated Circuits and Systems. Vol. 35, No. 10, pp. 1707-1720, 2016.
+65. Young-Ho Gong, Jae Min Kim, Sung Kyu Lim, and Sung Woo Chung, “Exploration of Temperature-aware
+Refresh Schemes for 3D Stacked eDRAM Caches,” Elsevier Microprocessors and Microsystems.
+66. Taigon Song, Shreepad Panth, Yoo-Jin Chae, and Sung Kyu Lim, “More Power Reduction with 3-Tier Logic-
+on-Logic 3D ICs,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
+67. Lalinthip Tangjittaweechai, Mongkol Ekpanyapong, Thaisiri Watewai, Krit Athikulwongse, Sung Kyu Lim, and
+Adriano Tavares, “Fast Bidirectional Shortest Path on GPU,” IEICE Electronics Express, Vol. 13, No. 6 pp.
+1-10, 2016.
+68. Yun Seop Yu, Shreepad Panth, and Sung Kyu Lim, “Electrical Coupling of Monolithic 3D Inverters,” IEEE
+Transactions on Electron Devices, Vol. 63, No. 8, pp. 3346-3349, 2016.
+69. Sandeep Samal, Kambiz Samadi, Pratyush Kamal, Yang Du, and Sung Kyu Lim, “Full Chip Impact Study of
+Power Delivery Network Designs in Gate-Level Monolithic 3D ICs,” IEEE Transactions on Computer-Aided
+Design of Integrated Circuits and Systems.
+70. Yun Seop Yu and Sung Kyu Lim, “Device Coupling Effects of Monolithic 3D Inverters,” Journal of Information
+and Communication Convergence Engineering, Vol. 14, No 1, pp 40-44, 2016. INVITED PAPER.
+71. Sandeep Kumar Samal, Guoqing Chen, and Sung Kyu Lim, “Machine Learning Based Variation Modeling and
+Optimization for 3D ICs,” Journal of Information and Communication Convergence Engineering, Vol. 14, No
+4, pp 258-267, 2016. INVITED PAPER.
+72. Shreepad Panth, Kambiz Samadi, Yang Du, and Sung Kyu Lim, “Tier Degradation of Monolithic 3D ICs: A
+Power Performance Study at Different Technology Nodes,” IEEE Transactions on Computer-Aided Design of
+Integrated Circuits and Systems.
+73. Shreepad Panth, Kambiz Samadi, Yang Du, and Sung Kyu Lim, “Shrunk-2D: A Physical Design Methodology
+to Build Commercial-Quality Monolithic 3D ICs,” IEEE Transactions on Computer-Aided Design of Integrated
+Circuits and Systems.
+74. Yarui Peng, Taigon Song, Dusan Petranovic, and Sung Kyu Lim, “Parasitic Extraction for Heterogenous Face-
+to-Face Bonded 3D ICs,” IEEE Transactions on Components, Packaging, and Manufacturing Technology.
+75. Tiantao Lu, Caleb Serafy, Zhiyuan Yang, Sandeep Samal, Sung Kyu Lim, and Ankur Srivastava, “TSV-based
+3D ICs: Design Methods and Tools,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+Systems. KEYNOTE PAPER.
+76. Moongon Jung, Taigon Song, Yarui Peng, and Sung Kyu Lim, “Design Methodologies for Low Power 3D ICs
+with Advanced Tier Partitioning,” IEEE Transactions on Very Large Scale Integration Systems.
+Page 8 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+4.3.2
+Refereed Conference Publications
+1. Jason Cong, Peter Li, Sung Kyu Lim, Toshiyuki Shibuya, and Dongmin Xu, “Large Scale Circuit Partitioning
+With Loose/Stable Net Removal and Signal Flow Based Clustering,” Proceedings of the IEEE International
+Conference on Computer-Aided Design, pp. 441-446, 1997.
+2. Jason Cong and Sung Kyu Lim, “Multiway Partitioning With Pairwise Movement,” Proceedings of the IEEE
+International Conference on Computer-Aided Design, pp. 512-516, 1998.
+3. Maogang Wang, Sung Kyu Lim, Jason Cong, and Majid Sarrafzadeh, “Multi-way Partitioning Using Bi-partition
+Heuristics,” Proceedings of the IEEE/ACM Asia South Pacific Design Automation Conference, pp. 667-672,
+2000.
+4. Jason Cong and Sung Kyu Lim, “Performance Driven Multiway Partitioning,” Proceedings of the IEEE/ACM
+Asia South Pacific Design Automation Conference, pp. 441-446, 2000.
+5. Jason Cong and Sung Kyu Lim, “Edge Separability-based Circuit Clustering With Application to Circuit Parti-
+tioning,” Proceedings of the IEEE/ACM Asia South Pacific Design Automation Conference, pp. 429-434, 2000.
+6. Jason Cong, Sung Kyu Lim, and C. Wu, “Performance Driven Multi-level and Multiway Partitioning With
+Retiming,” Proceedings of the ACM Design Automation Conference, pp. 274-279, 2000.
+7. Jason Cong and Sung Kyu Lim, “Physical Planning with Retiming,” Proceedings of the IEEE International
+Conference on Computer-Aided Design, pp. 2-7, 2000.
+8. Peter Sassone and Sung Kyu Lim, “A Novel Geometric Algorithm for Fast Wire-Optimized Floorplanning,”
+Proceedings of the IEEE International Conference on Computer-Aided Design, pp. 74-80, 2003.
+9. Jacob Minz and Sung Kyu Lim, “Layer Assignment for System on Packages,” ACM/IEEE Asia and South Pacific
+Design Automation Conference, pp. 31-37, 2004.
+10. Mongkol Ekpanyapong and Sung Kyu Lim, “Performance-driven Global Placement via Adaptive Network Char-
+acterization,” ACM/IEEE Asia and South Pacific Design Automation Conference, pp. 137-142, 2004.
+11. Jacob Minz, Mohit Pathak, and Sung Kyu Lim, “Net and Pin Distribution for 3D Package Global Routing,”
+Design, Automation and Test in Europe, pp. 1410-1411, 2004.
+12. Ramprasad Ravichandran, Jacob Minz, Mohit Pathak, Siddharth Easwar, and Sung Kyu Lim, “Physical Layout
+Automation for System-On-Packages,” IEEE Electronic Components and Technology Conference, pp. 41-48,
+2004.
+13. Mongkol Ekpanyapong, Karthik Balakrishnan, Vidit Nanda, and Sung Kyu Lim, “Simultaneous Delay and
+Power Optimization for Multi-level Partitioning and Floorplanning with Retiming,” IEEE International Sympo-
+sium on Circuits and Systems, pp. 57-60, 2004.
+14. Pun Hang Shiu, Ramprasad Ravichandran, Siddharth Easwar, and Sung Kyu Lim, “Multi-layer Floorplanning
+for Reliable System-on-Package,” IEEE International Symposium on Circuits and Systems, pp. 69-72, 2004.
+15. Ramprasad Ravichandran, Nihal Ladiwala, Jean Nguyen, Mike Niemier, and Sung Kyu Lim, “Automatic Cell
+Placement for Quantum-dot Cellular Automata,” ACM Great Lake Symposium on VLSI, pp. 332-337, 2004.
+16. Mongkol Ekpanyapong, Jacob Minz, Thaisiri Watewai, Hsien-Hsin S. Lee, and Sung Kyu Lim, “Profile-Guided
+Microarchitectural Floorplanning for Deep Submicron Processor Design,” ACM Design Automation Conference,
+pp. 634-639, 2004.
+17. Jacob Minz, Sung Kyu Lim, Jinwoo Choi, and Madhavan Swaminathan, “Module Placement for Power Supply
+Noise and Wire Congestion Avoidance in 3D Packaging,” IEEE Electrical Performance of Electronic Packaging,
+pp. 123-126, 2004.
+18. Jacob Minz and Sung Kyu Lim, “A Global Router for System-On-Package Targeting Layer and Crosstalk Min-
+imization,” IEEE Electrical Performance of Electronic Packaging, pp. 99-102, 2004.
+Page 9 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+19. Karthik Balakrishnan, Vidit Nanda, Siddharth Easwar, and Sung Kyu Lim, “Wire Congestion And Thermal
+Aware 3D Global Placement,” IEEE/ACM Asia South Pacific Design Automation Conference, pp. 1131-1134,
+2005.
+20. Ramprasad Ravichandran, Mike Niemier, and Sung Kyu Lim, “Partitioning and Placement for Buildable QCA
+Circuits,” IEEE/ACM Asia South Pacific Design Automation Conference, pp. 424-427, 2005.
+21. Mongkol Ekpanyapong, Michael Healy, and Sung Kyu Lim, “Placement for Configurable Dataflow Architec-
+ture,” IEEE/ACM Asia South Pacific Design Automation Conference, pp. 1127-1130, 2005.
+22. Jacob Minz, Eric Wong, and Sung Kyu Lim, “Thermal and Crosstalk-Aware Physical Design For 3D System-
+On-Package,” IEEE Electronic Components and Technology Conference, pp. 824-831, 2005.
+23. Faik Baskaya, Sasank Reddy, Sung Kyu Lim, Tyson Hall, and David V. Anderson, “Mapping Algorithm for
+Large-scale Field Programmable Analog Array,” ACM International Symposium on Physical Design, pp. 152-
+158, 2005.
+24. Mongkol Ekpanyapong, Sung Kyu Lim, Chinnakrishnan Ballapuram, and Hsien-Hsin S. Lee, “Wire-driven
+Microarchitectural Design Space Exploration,” IEEE International Symposium on Circuits and Systems, pp.
+1867-1870, 2005.
+25. Brian Smith and Sung Kyu Lim, “QCA Channel Routing with Wire Crossing Minimization,” ACM Great Lake
+Symposium on VLSI, pp. 217-220, 2005.
+26. Jacob Minz, Sung Kyu Lim, and Cheng-Kok Koh, “3D Module Placement for Congestion and Power Noise
+Reduction,” ACM Great Lake Symposium on VLSI, pp. 458-461, 2005.
+27. Wook Jin Chung, Brian Smith, and Sung Kyu Lim, “QCA Physical Design With Crossing Minimization,” IEEE
+Conference on Nanotechnology, pp. 262-265, 2005.
+28. Michael Healy, Mongkol Ekpanyapong, and Sung Kyu Lim, “MILP-based Placement and Routing for Dataflow
+Architecture,” International Conference on Field Programmable Logic and Applications, pp. 71-76, 2005.
+29. Faik Baskaya, Sasank Reddy, Sung Kyu Lim, and David Anderson, “Hierarchical Placement for Large-scale
+FPAA,” International Conference on Field Programmable Logic and Applications, pp. 421-426, 2005.
+30. Jacob Minz, Eric Wong, and Sung Kyu Lim, “Reliability-aware Floorplanning for 3D Circuits,” IEEE Interna-
+tional SOC Conference, pp. 81-82, 2005.
+31. Eric Wong, Jacob Minz, and Sung Kyu Lim, “Power Noise-aware 3D Floorplanning for System-On-Package,”
+IEEE Electrical Performance of Electronic Packaging, pp. 259-262, 2005.
+32. Mongkol Ekpanyapong, Thaisiri Watewai, and Sung Kyu Lim, “Statistical Bellman-Ford Algorithm With An
+Application to Statistical Retiming,” IEEE/ACM Asia South Pacific Design Automation Conference, pp. 959-
+964, 2006.
+33. Eric Wong and Sung Kyu Lim, “3D Floorplanning with Thermal Vias,” Design, Automation and Test in Europe,
+pp. 878-883, 2006.
+34. Michael Healy, Mario Vittes, Mongkol Ekpanyapong, Chinnakrishnan Ballapuram, Sung Kyu Lim, Hsien-Hsin
+S. Lee, and Gabriel H. Loh, “Microarchitectural Floorplanning Under Performance and Temperature Tradeoff,”
+Design, Automation and Test in Europe, pp. 1288-1293, 2006.
+35. Jacob Minz, Somaskanda Thyagaraja, and Sung Kyu Lim, “Optical Routing for 3D System-On-Package,” De-
+sign, Automation and Test in Europe, pp. 337-338, 2006.
+36. Mongkol Ekpanyapong and Sung Kyu Lim, “Integrated Retiming and Simultaneous Vdd & Vth Scaling for Total
+Power Minimization,” ACM International Symposium on Physical Design, pp. 142-148, 2006. NOMINATED
+FOR BEST PAPER AWARD.
+Page 10 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+37. Eric Wong, Jacob Minz, and Sung Kyu Lim, “White Space Management for Thermal Via and Decoupling Ca-
+pacitor Insertion Targeting 3D System-On-Package,” IEEE Electronic Components and Technology Conference,
+pp. 1795-1801, 2006.
+38. Eric Wong, Jacob Minz, and Sung Kyu Lim, “Decoupling Capacitor Planning and Sizing for Noise and Leakage
+Reduction,” IEEE International Conference on Computer-Aided Design, pp. 395-400, 2006.
+39. Fayez Mohamood, Michael Healy, Hsien-Hsin Lee, and Sung Kyu Lim, “A Floorplan Aware Dynamic Inductive
+Noise Controller for Reliable 2D and 3D Microprocessors,” IEEE/ACM International Symposium on Microar-
+chitecture, pp. 3-14, 2006.
+40. Mongkol Ekpanyapong, Xin Zhao, and Sung Kyu Lim, “An Efficient Computation of Statistically Critical Se-
+quential Paths Under Retiming,” IEEE/ACM Asia South Pacific Design Automation Conference, pp. 547-552,
+2007.
+41. Fayez Mohamood, Michael Healy, Hsien-Hsin Lee, and Sung Kyu Lim, “Noise-Direct: A Technique for Power
+Supply Noise Aware Floorplanning Using Microarchitecture Profiling,” IEEE/ACM Asia South Pacific Design
+Automation Conference, pp. 786-791, 2007.
+42. Faik Baskaya, Brian Gestner, Chris Twigg, Sung Kyu Lim, David V. Anderson, and Paul Hasler, “Rapid Pro-
+totyping of Large-scale Analog Circuits with Field Programmable Analog Array,” IEEE Symposium on Field-
+Programmable Custom Computing Machines, pp. 319-320, 2007.
+43. Mohit Pathak and Sung Kyu Lim, “Thermal-aware Steiner Routing for 3D Stacked ICs,” IEEE International
+Conference on Computer-Aided Design, pp. 205-211, 2007.
+44. Mohit Pathak, Souvik Mukherkee, Madhavan Swaminathan, Ege Engin, and Sung Kyu Lim, “Placement and
+Routing of RF Embedded Passive Designs In LCP Substrate,” IEEE International Conference on Computer
+Design, pp. 273-279, 2007.
+45. Eric Wong and Sung Kyu Lim, “Whitespace Redistribution For Thermal Via Insertion In 3D Stacked ICs,” IEEE
+International Conference on Computer Design, pp. 267-272, 2007.
+46. Mohit Pathak, Satya Vadlamudi, Josh Beavers, and Sung Kyu Lim, “Automatic Layout Generation of RF Em-
+bedded Passive Designs,” IEEE Electrical Performance of Electronic Packaging, pp. 115-118, 2007.
+47. Jacob Minz, Xin Zhao, and Sung Kyu Lim, “Buffered Clock Tree Synthesis for 3D ICs Under Thermal Varia-
+tions,” IEEE/ACM Asia South Pacific Design Automation Conference, pp. 504-509, 2008.
+48. Dae Hyun Kim and Sung Kyu Lim, “Bus-Aware Microarchitectural Floorplanning,” IEEE/ACM Asia South
+Pacific Design Automation Conference, pp. 204-208, 2008.
+49. Michael Healy, Fayez Mohamood, Hsien-Hsin S. Lee, and Sung Kyu Lim, “A Unified Methodology for Power
+Supply Noise Reduction in Modern Microarchitecture Design,” IEEE/ACM Asia South Pacific Design Automa-
+tion Conference, pp. 611-616, 2008.
+50. Dae Hyun Kim and Sung Kyu Lim, ”Global Bus Route Optimization with Application to Microarchitectural
+Design Exploration,” IEEE International Conference on Computer Design, pp. 658-663, 2008.
+51. Young Joon Lee and Sung Kyu Lim, ”Co-Optimization of Signal, Power, and Thermal Distribution Networks
+for 3D ICs,” IEEE Symposium on Electrical Design of Advanced Packaging and Systems, pp. 163-166, 2008.
+52. Michael Healy, Hsien-Hsin S. Lee, Gabriel H. Loh, and Sung Kyu Lim, “Thermal Optimization in Multi-
+Granularity Multi-Core Floorplanning,” IEEE/ACM Asia South Pacific Design Automation Conference, pp. 43-
+48, 2009.
+53. Ye Tao and Sung Kyu Lim, “Decoupling Capacitor Planning With Analytical Delay Model on RLC Power Grid,”
+Design, Automation and Test in Europe, pp. 839-844, 2009.
+Page 11 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+54. Young-Joon Lee, Yoon-Jo Kim, Gang Huang, Muhannad Bakir, Yogendra Joshi, Andrei Fedorov, and Sung Kyu
+Lim, “Co-Design of Signal, Power, and Thermal Distribution Networks for 3D ICs,” Design, Automation and
+Test in Europe, pp. 1213-1220, 2009.
+55. Michael Healy and Sung Kyu Lim, “A Study of Stacking Limit and Scaling in 3D ICs: an Interconnect Perspec-
+tive,” IEEE Electronic Components and Technology Conference, pp. 1213-1220, 2009.
+56. Young-Joon Lee and Sung Kyu Lim, “Routing Optimization of Multi-modal Interconnects In 3D ICs,” IEEE
+Electronic Components and Technology Conference, pp. 32-39, 2009.
+57. Young-Joon Lee, Mike Healy, and Sung Kyu Lim, “Co-design of Reliable Signal and Power Interconnects in
+3D Stacked ICs,” IEEE International Interconnect Technology Conference, pp. 56-58, 2009.
+58. Dae Hyun Kim, Saibal Mukhopadhyay, and Sung Kyu Lim, “TSV-aware Interconnect Length and Power Pre-
+diction for 3D Stacked ICs,” IEEE International Interconnect Technology Conference, pp. 26-28, 2009.
+59. Yoon Jo Kim, Yogendra K. Joshi, Andrei G. Fedorov, Young-Joon Lee, and Sung Kyu Lim, “Thermal Char-
+acterization of Interlayer Microfluidic Cooling of Three-Dimensional IC with Non-Uniform Heat Flux,” ASME
+Conference on Nanochannels, Microchannels and Minichannels, pp. 1249-1258, 2009.
+60. Dae Hyun Kim, Saibal Mukhopadhyay, and Sung Kyu Lim, “Through-Silicon-Via Aware Interconnect Predic-
+tion and Optimization for 3D Stacked ICs,” ACM/IEEE International Workshop on System Level Interconnect
+Prediction, pp. 85-92, 2009.
+61. Jeremy Tolbert, Xin Zhao, Saibal Mukhopadhyay, and Sung Kyu Lim, “Slew-Aware Clock Tree Design For
+Reliable Subthreshold Circuits,” IEEE International Symposium on Low Power Electronics and Design, pp.
+15-20, 2009.
+62. Faik Baskaya, David V. Anderson, Paul Hasler, and Sung Kyu Lim, “A Generic Reconfigurable Array Specifi-
+cation and Programming Environment (GRASPER),” IEEE European Conference on Circuit Theory & Design,
+pp. 619-622, 2009.
+63. Young-Joon Lee, Rohan Goel, and Sung Kyu Lim, “Multi-functional Interconnect Co-optimization for Fast and
+Reliable 3D Stacked ICs,” IEEE International Conference on Computer-Aided Design, pp. 645-651, 2009.
+64. Dae Hyun Kim, Krit Athikulwongse, and Sung Kyu Lim, “A Study of Through-Silicon-Via Impact on the 3D
+Stacked IC Layout,” IEEE International Conference on Computer-Aided Design, pp. 674-680, 2009.
+65. Xin Zhao, Dean Lewis, Hsien-Hsin S. Lee, and Sung Kyu Lim, “Pre-bond Testable Low-Power Clock Tree
+Design for 3D Stacked ICs,” IEEE International Conference on Computer-Aided Design, pp. 184-190, 2009.
+NOMINATED FOR BEST PAPER AWARD.
+66. Krit Athikulwongse, Xin Zhao, and Sung Kyu Lim, “Buffered Clock Tree Sizing for Skew Minimization Under
+Power and Thermal Budgets,” IEEE/ACM Asia South Pacific Design Automation Conference, pp. 474-479,
+2010.
+67. Xin Zhao and Sung Kyu Lim, “Power and Slew-aware Clock Network Design for Through-Silicon-Via Based
+3D ICs,” IEEE/ACM Asia South Pacific Design Automation Conference, pp. 175-180, 2010.
+68. Micheal Healy and Sung Kyu Lim, “Power Delivery System Architecture for Many-Tier 3D Systems,” IEEE
+Electronic Components and Technology Conference, pp. 1682-1688, 2010.
+69. Young-Joon Lee, Mohit Pathak, Chang Liu, Moongon Jung, and Sung Kyu Lim, “Design and Timing Optimiza-
+tion of a 3D Stacked Microprocessor,” ACM International Workshop on Timing Issues in the Specification and
+Synthesis of Digital Systems, pp. 1-6, 2010.
+70. Jae-Seok Yang, Krit Athikulwongse, Young-Joon Lee, Sung Kyu Lim, and David Z. Pan, “TSV Stress Aware
+Timing Analysis with Applications to 3D-IC Layout Optimization,” ACM Design Automation Conference, pp.
+803-806, 2010.
+Page 12 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+71. Chang Liu and Sung Kyu Lim, “A Study of Signal Integrity Issues in Through-Silicon-Via-based 3D ICs,” IEEE
+International Interconnect Technology Conference, pp. 1-3, 2010.
+72. Dae Hyun Kim and Sung Kyu Lim, “Through-Silicon-Via-aware Delay and Power Prediction Model for Buffered
+Interconnects in 3D ICs,” ACM/IEEE International Workshop on System Level Interconnect Prediction, pp. 25-
+31, 2010.
+73. Dae Hyun Kim, Yen-Kuan Wu, Rasit Onur Topaloglu, and Sung Kyu Lim, “Enabling 3D Integration Through
+Optimal Topography,” IEEE International Workshop on Design for Manufacturability and Yield, pp. 1-4, 2010.
+74. Young-Joon Lee and Sung Kyu Lim, “Timing Analysis and Optimization for Many-Tier 3D ICs,” SRC Techcon
+Conference, pp. 1-4, 2010.
+75. Michael B. Healy, Krit Athikulwongse, Rohan Goel, Mohammad M. Hossain, Dae Hyun Kim, Young-Joon Lee,
+Dean L. Lewis, Tzu-Wei Lin, Chang Liu, Moongon Jung, Brian Ouellette, Mohit Pathak, Hemant Sane, Guan-
+hao Shen, Dong Hyuk Woo, Xin Zhao, Gabriel H. Loh, Hsien-Hsin S. Lee, and Sung Kyu Lim, “Design and
+Analysis of 3D-MAPS: A Many-Core 3D Processor with Stacked Memory,” IEEE Custom Integrated Circuits
+Conference, pp. 1-4, 2010. INTEL/CICC STUDENT SCHOLARSHIP AWARD.
+76. Dean Lewis, Michael Healy, Mohammad Hossain, Tzu-Wei Lin, Mohit Pathak, Hemant Sane, Sung Kyu Lim,
+Gabriel H. Loh, and Hsien-Hsin S. Lee, “Design and Test of 3D-MAPS, a 3D Die-Stack Many-Core Processor,”
+IEEE International Workshop on Testing Three-Dimensional Stacked Integrated Circuits, pp. 1-6, 2010.
+77. Muhammad Bashir, Dae Hyun Kim, Sung Kyu Lim, and Linda Milor, “TDDB Chip Reliability in Copper
+Interconnects,” IEEE International Integrated Reliability Workshop, pp. 121-124, 2010.
+78. Minki Cho, Chang Liu, Dae Hyun Kim, Sung Kyu Lim, and Saibal Mukhopadhyay, “Design Method and Test
+Structure to Characterize and Repair TSV Defect Induced Signal Degradation in 3D System,” IEEE Interna-
+tional Conference on Computer-Aided Design, pp. 694-697, 2010.
+79. Krit Athikulwongse, Ashutosh Chakraborty, Jae-Seok Yang, David Z. Pan, and Sung Kyu Lim, “Stress-Driven
+3D-IC Placement with TSV Keep-Out Zone and Regularity Study,” IEEE International Conference on Computer-
+Aided Design, pp. 669-674, 2010.
+80. Mohit Pathak, Young-Joon Lee, Thomas Moon, and Sung Kyu Lim, “Through Silicon Via Management dur-
+ing 3D Physical Design: When to Add and How Many?,” IEEE International Conference on Computer-Aided
+Design, pp. 387-394, 2010.
+81. Young-Joon Lee and Sung Kyu Lim, “Timing Analysis and Optimization for 3D Stacked Multi-Core Micropro-
+cessors,” IEEE International 3D System Integration Conference, pp. 1-7, 2010.
+82. Moongon Jung and Sung Kyu Lim, “A study of IR-drop noise issues in 3D ICs with Through-Silicon-Vias,”
+IEEE International 3D System Integration Conference, pp. 1-7, 2010.
+83. Jae-Seok Yang, Jiwoo Pak, Xin Zhao, Sung Kyu Lim, and David Pan, “Robust Clock Tree Synthesis with Timing
+Yield Optimization for 3D ICs,” IEEE/ACM Asia South Pacific Design Automation Conference, pp. 621-626,
+2011.
+84. Michael Healy and Sung Kyu Lim, “Power-Supply-Network Design in 3D Integrated Systems,” IEEE Interna-
+tional Symposium on Quality Electronic Design, pp. 223-238, 2011.
+85. Taigon Song, Chang Liu, Dae Hyun Kim, Jonghyun Cho, Joohee Kim, Jun So Pak, Seungyoung Ahn, Joungho
+Kim, Kihyun Yoon and Sung Kyu Lim, “Analysis of TSV-to-TSV Coupling with High-Impedance Termination
+in 3D ICs,” IEEE International Symposium on Quality Electronic Design, pp. 122-128, 2011.
+86. Chang Liu, Taigon Song and Sung Kyu Lim, “Signal Integrity Analysis and Optimization for 3D ICs,” IEEE
+International Symposium on Quality Electronic Design, pp. 42-49, 2011.
+87. Michael Healy and Sung Kyu Lim, “A Novel TSV Topology for Many-Tier 3D Power-Delivery Networks,”
+Design, Automation and Test in Europe, pp. 1-4, 2011.
+Page 13 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+88. Muhammad Bashir, Dae Hyun Kim, Krit Athikulwongse, Sung Kyu Lim, and Linda Milor, “Backend Low-k
+TDDB Chip Reliability Simulator,” IEEE International Reliability Physics Symposium, pp. 65-74, 2011.
+89. Shreepad Panth and Sung Kyu Lim, “Scan Chain and Power Delivery Network Synthesis for Pre-Bond Test of
+3D ICs,” IEEE VLSI Test Symposium, pp. 26-31, 2011.
+90. Xin Zhao, Saibal Mukhopadhyay, and Sung Kyu Lim, “Variation-Tolerant and Low-Power Clock Network
+Design for 3D ICs,” IEEE Electronic Components and Technology Conference, pp. 2007-2014, 2011.
+91. Jiwoo Pak, Mohit Pathak, Sung Kyu Lim and David Z. Pan, “Modeling of Electromigration in Through-Silicon-
+Via Based 3D IC,” IEEE Electronic Components and Technology Conference, pp. 1420-1427, 2011.
+92. Joydeep Mitra, Moongon Jung, Suk-Kyu Ryu, Rui Huang, Sung Kyu Lim, and David Z. Pan, “A Fast Simulation
+Framework for Full-Chip Thermo-Mechanical Stress and Reliability Analysis of Through-Silicon-Via based 3D
+ICs,” IEEE Electronic Components and Technology Conference, pp. 746-753, 2011.
+93. Gokul Kumar, Tapobrata Bandyopadhyay, Venky Sundaram, Sung Kyu Lim, and Rao Tummala, “Ultra-high
+I/O Density Glass/Silicon Interposers for High Bandwidth Smart Mobile Applications,” IEEE Electronic Com-
+ponents and Technology Conference, pp. 217-223, 2011.
+94. Moongon Jung, Joydeep Mitra, David Pan, and Sung Kyu Lim, “TSV Stress-aware Full-Chip Mechanical
+Reliability Analysis and Optimization for 3D IC,” ACM Design Automation Conference, pp. 188-193, 2011.
+NOMINATED FOR BEST PAPER AWARD.
+95. Chang Liu, Taigon Song, Jonghyun Cho, Joohee Kim, Joungho Kim, and Sung Kyu Lim, “Full-Chip TSV-
+to-TSV Coupling Analysis and Optimization in 3D IC,” ACM Design Automation Conference, pp. 783-788,
+2011.
+96. Moongon Jung, Shreepad Panth, and Sung Kyu Lim, “A Study of TSV Variation Impact on Power Supply
+Noise,” IEEE International Interconnect Technology Conference, pp. 1-3, 2011.
+97. Dae Hyun Kim and Sung Kyu Lim, “Impact of Through-Silicon-Via Scaling on the Wirelength Distribution of
+Current and Future 3D ICs,” IEEE International Interconnect Technology Conference, pp. 1-3, 2011.
+98. Mohit Pathak and Sung Kyu Lim, “Reliability and Performance-aware 3D SRAM Design,” IEEE International
+Midwest Symposium on Circuits and Systems, pp. 1-4, 2011. INVITED PAPER.
+99. Dae Hyun Kim, Suyoun Kim, and Sung Kyu Lim, “Impact of Sub-micron Through-Silicon Vias on the Qual-
+ity of Today and Future 3D IC Designs,” ACM/IEEE International Workshop on System Level Interconnect
+Prediction, pp. 1-8, 2011.
+100. Dae Hyun Kim and Sung Kyu Lim, “A Study on the Impact of Nano-Scale TSVs on 3D IC Designs,” SRC
+TECHCON Conference, pp. 1-4, 2011.
+101. Chang Liu and Sung Kyu Lim, “Opportunities and Challenges in SRAM Design with Monolithic 3D Integration
+Technology,” SRC TECHCON Conference, pp. 1-4, 2011. BEST IN SESSION AWARD.
+102. Xin Zhao, Jeremy Tolbert, Chang Liu, Saibal Mukhopadhyay, and Sung Kyu Lim, “Variation-aware Clock
+Network Design Methodology for Ultra-Low Voltage (ULV) Circuits,” IEEE International Symposium on Low
+Power Electronics and Design, pp. 9-14, 2011.
+103. Mohit Pathak, Jiwoo Pak, David Z. Pan and Sung Kyu Lim, “Electromigration Modeling and Full-chip Reliabil-
+ity Analysis for BEOL Interconnect in TSV-based 3D ICs,” IEEE International Conference on Computer-Aided
+Design, pp. 555-562, 2011.
+104. Moongon Jung, Xi Liu, Suresh Sitaraman, David Z. Pan and Sung Kyu Lim, “Full-Chip Through-Silicon-Via
+Interfacial Crack Analysis and Optimization for 3D IC,” IEEE International Conference on Computer-Aided
+Design, pp. 563-570, 2011.
+Page 14 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+105. Taigon Song and Sung Kyu Lim, “Co-design and Co-simulation of 3D IC and Silicon Interposer Power Dis-
+tribution Network,” IEEE Workshop on Chip-Packaging Co-Design for High Performance Electronic Systems,
+2011.
+106. Moongon Jung and Sung Kyu Lim, “Chip/Package Co-analysis of Mechanical Reliability in TSV-based 3D
+ICs,” IEEE Workshop on Chip-Packaging Co-Design for High Performance Electronic Systems, 2011.
+107. Dean Lewis, Shreepad Panth, Xin Zhao, Sung Kyu Lim, and Hsien-Hsin Lee, “Designing 3D Test Wrappers for
+Pre-bond and Post-bond Test of 3D Embedded Cores,” IEEE International Conference on Computer Design,
+pp. 90-95, 2011.
+108. Dae Hyun Kim, Rasit Topaloglu, and Sung Kyu Lim, “TSV Density-driven Global Placement for 3D Stacked
+ICs,” International SoC Design Conference, pp. 1-6, 2011. INVITED PAPER.
+109. Taigon Song and Sung Kyu Lim, “A Fine-Grained Co-Simulation Methodology for IR-drop Noise in Silicon
+Interposer and TSV-based 3D IC,” IEEE Electrical Performance of Electronic Packaging and Systems, pp. 239-
+242, 2011.
+110. Xin Zhao and Sung Kyu Lim, “Through-Silicon-Via-Induced Obstacle-Aware Clock Tree Synthesis for 3D ICs,”
+IEEE/ACM Asia South Pacific Design Automation Conference, pp. 347-352, 2012.
+111. Dae Hyun Kim, Rasit Topaloglu, and Sung Kyu Lim, “Block-level 3D IC Design with Through-Silicon-Via
+Planning,” IEEE/ACM Asia South Pacific Design Automation Conference, pp. 335-340, 2012.
+112. David Z. Pan, Sung Kyu Lim, Krit Athikulwongse, Moongon Jung, Joydeep Mitra, Jiwoo Pak, Mohit Pathak,
+and Jae-seok Yang, “Design for Manufacturability and Reliability for TSV-based 3D ICs,” IEEE/ACM Asia
+South Pacific Design Automation Conference, pp. 750-755, 2012. INVITED PAPER.
+113. Dae Hyun Kim, Krit Athikulwongse, Michael B. Healy, Mohammad M. Hossain, Moongon Jung, Ilya Khorosh,
+Gokul Kumar, Young-Joon Lee, Dean L. Lewis, Tzu-Wei Lin, Chang Liu, Shreepad Panth, Mohit Pathak,
+Minzhen Ren, Guanhao Shen, Taigon Song, Dong Hyuk Woo, Xin Zhao, Joungho Kim, Ho Choi, Gabriel
+H. Loh, Hsien-Hsin S. Lee, and Sung Kyu Lim, “3D-MAPS: 3D Massively Parallel Processor with Stacked
+Memory,” IEEE International Solid-State Circuits Conference, pp. 188-189, 2012.
+114. Chang Liu and Sung Kyu Lim, “A Design Tradeoff Study with Monolithic 3D Integration,” IEEE International
+Symposium on Quality Electronic Design, pp. 529-536, 2012.
+115. Kaiyuan Yang, Dae Hyun Kim, and Sung Kyu Lim, “Design Quality Tradeoff Studies for 3D ICs Built with
+Nano-scale TSVs and Devices,” IEEE International Symposium on Quality Electronic Design, pp. 740-746,
+2012.
+116. Young-Joon Lee and Sung Kyu Lim, “Fast Delay Estimation with Buffer Insertion for Through-Silicon-Via-
+Based 3D Interconnects,” IEEE International Symposium on Quality Electronic Design, pp. 228-335, 2012.
+117. Shreepad Panth and Sung Kyu Lim, “Transition Delay Fault Testing of 3D ICs with IR-Drop Study,” IEEE VLSI
+Test Symposium, 2012.
+118. Xin Zhao, Michael Scheuermann, and Sung Kyu Lim, “Analysis of DC Current Crowding in Through-Silicon-
+Vias and Its Impact on Power Integrity in 3D ICs,” ACM Design Automation Conference, pp. 157-162, 2012.
+119. Krit Athikulwongse and Sung Kyu Lim, “Exploiting Die-to-Die Thermal Coupling in 3D IC Placement,” ACM
+Design Automation Conference, pp. 741-746, 2012.
+120. Moongon Jung, David Pan, and Sung Kyu Lim, “Chip/Package Co-Analysis of Thermo-Mechanical Stress and
+Reliability in TSV-based 3D ICs,” ACM Design Automation Conference, pp. 317-326, 2012. NOMINATED
+FOR BEST PAPER AWARD.
+121. Chang-Chih Chen, Muhammad Bashir, Linda Milor, Dae Hyun Kim, and Sung Kyu Lim, “Backend Dielec-
+tric Chip Reliability Simulator for Complex Interconnect Geometries,” IEEE International Reliability Physics
+Symposium, 2012.
+Page 15 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+122. Chang Liu and Sung Kyu Lim, “Ultra-High Density 3D SRAM Cell Designs for Monolithic 3D Integration,”
+IEEE International Interconnect Technology Conference, 2012.
+123. Kwanyeob Chae, Xin Zhao, Amit R. Trivedi, Sung Kyu Lim, and Saibal Mukhopadhyay, “Post-Silicon Tuning
+Method for 3D Clock Network To Minimize Clock Skews,” SRC TECHCON Conference, 2012.
+124. Jiwoo Pak, Mohit Pathak, Sung Kyu Lim, and David Z. Pan, “Modeling and Prediction of Chip-level Electro-
+migration for TSV-based 3D ICs,” SRC TECHCON Conference, 2012. BEST IN SESSION AWARD.
+125. Young-Joon Lee, Shreepad Panth, and Sung Kyu Lim, “Enabling High Density Logic Designs for Monolithic
+3D ICs,” SRC TECHCON Conference, 2012.
+126. Moongon Jung, Joydeep Mitra, David Z. Pan, and Sung Kyu Lim, “TSV Stress-Aware Full-Chip Mechanical
+Reliability Analysis and Optimization for 3D IC,” SRC TECHCON Conference, 2012.
+127. Dae Hyun Kim and Sung Kyu Lim, “Design Quality Trade-off Studies for 3D ICs Built with Sub-Micron TSVs
+and Future Devices,” SRC TECHCON Conference, 2012.
+128. Xin Zhao and Sung Kyu Lim, “TSV Array Utilization in Low-Power 3D Clock Network Design,” IEEE Inter-
+national Symposium on Low Power Electronics and Design, 2012.
+129. Chang-Chih Chen, Fahad Ahmed, Dae Hyun Kim, Sung Kyu Lim, and Linda Milor, “Backend Dielectric Reli-
+ability Simulator for Microprocessor System,” IEEE European Symposium on Reliability of Electron Devices,
+Failure Physics and Analysis, 2012.
+130. Jiwoo Pak, Sung Kyu Lim, and David Z. Pan, “Electromigration-aware Routing for 3D ICs with Stress-aware
+EM Modeling,” IEEE International Conference on Computer-Aided Design, 2012.
+131. Young-Joon Lee, Patrick Morrow, and Sung Kyu Lim, “Ultra High Density Logic Designs Using Transistor-
+Level Monolithic 3D Integration,” IEEE International Conference on Computer-Aided Design, 2012.
+132. Young-Joon Lee, Inki Hong, and Sung Kyu Lim, “Slew-Aware Buffer Insertion for Through-Silicon-Via-Based
+3D ICs,” IEEE Custom Integrated Circuits Conference, 2012. INVITED PAPER.
+133. Brandon Noia, Shreepad Panth, Krishnendu Chakrabarty, and Sung Kyu Lim, “Scan Test of Die Logic in 3D
+ICs Using TSV Probing,” IEEE International Test Conference, 2012.
+134. Sergej Deutsch, Krishnendu Chakrabarty, Shreepad Panth, and Sung Kyu Lim, “TSV Stress-Aware ATPG for
+3D Stacked ICs,” IEEE Asian Test Symposium, 2012. BEST PAPER AWARD.
+135. Taigon Song, Noah Sturcken, Krit Athikulwongse, Kenneth Shepard, and Sung Kyu Lim, “Thermal Analysis
+and Optimization of 2.5-D Integrated Voltage Regulator,” IEEE Electrical Performance of Electronic Packaging
+and Systems, 2012.
+136. Sergej Deutsch, Krishnendu Chakrabarty, Shreepad Panth, and Sung Kyu Lim, “TSV Stress-Aware ATPG for 3D
+Stacked ICs,” IEEE International Workshop on Testing Three-Dimensional Stacked Integrated Circuits, 2012.
+137. Krit Athikulwongse, Dae Hyun Kim, Moongon Jung, and Sung Kyu Lim, “Block-level Designs of Die-to-
+Wafer Bonded 3D ICs and Their Design Quality Tradeoffs,” IEEE/ACM Asia South Pacific Design Automation
+Conference, 2013.
+138. Yang Shang, Chun Zhang, Hao Yu, Xin Zhao, and Sung Kyu Lim, “Thermal-reliable 3D Clock-tree Synthesis
+Considering Nonlinear Electrical-thermal-coupled TSV Model,” IEEE/ACM Asia South Pacific Design Automa-
+tion Conference, 2013.
+139. Shreepad Panth, Kambiz Samadi, Yang Du, and Sung Kyu Lim, “High-Density Integration of Functional Mod-
+ules Using Monolithic 3D-IC Technology,” IEEE/ACM Asia South Pacific Design Automation Conference, 2013.
+140. Darryl Kostka, Taigon Song, and Sung Kyu Lim, “3D IC-Package-Board Co-analysis Using 3D EM Simulation
+for Mobile Applications,” IEEE Electronic Components and Technology Conference, 2013.
+Page 16 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+141. Taigon Song, Chang Liu, Yarui Peng, and Sung Kyu Lim, “Full-Chip Multiple TSV-to-TSV Coupling Extraction
+and Optimization in 3D ICs,” ACM Design Automation Conference, 2013.
+142. Young-Joon Lee, Daniel Limbrick, and Sung Kyu Lim, “Power Benefit Study for Ultra-High Density Transistor-
+Level Monolithic 3D ICs,” ACM Design Automation Conference, 2013.
+143. Taigon Song, Chang Liu, Yarui Peng, and Sung Kyu Lim, “Full-Chip Multiple TSV-to-TSV Coupling Extraction
+and Optimization in 3D ICs,” SRC TECHCON Conference, 2013.
+144. Moongon Jung, Young-Joon Lee, Taigon Song, Yang Wan, and Sung Kyu Lim, “Design Methodologies for Low
+Power 3D Processors,” SRC TECHCON Conference, 2013.
+145. Moongon Jung, Christoph Sander, Uwe Muehle, KongBoon Yeap, David Z. Pan, and Sung Kyu Lim, “Impact of
+Material Property Variations on Full-Chip Reliability and Performance in TSV-based 3D ICs,” SRC TECHCON
+Conference, 2013.
+146. Seung-Ho Ok, Kyeong-ryeol Bae, Sung Kyu Lim and Byungin Moon, “Design and Analysis of 3D IC-Based
+Low Power Stereo Matching Processors,” IEEE International Symposium on Low Power Electronics and Design,
+2013.
+147. Sandeep Samal, Yarui Peng, Yang Zhang and Sung Kyu Lim, “Design and Analysis of Ultra Low Power Pro-
+cessors Using Sub/Near-Threshold 3D Stacked ICs,” IEEE International Symposium on Low Power Electronics
+and Design, 2013.
+148. Xin Zhao, Yang Wan, Michael Scheuermann and Sung Kyu Lim, “Transient Modeling of TSV-Wire Electromi-
+gration and Lifetime Analysis of Power Distribution Network for 3D ICs,” IEEE International Conference on
+Computer-Aided Design, 2013.
+149. Chun Zhang, Moongon Jung, Sung Kyu Lim and Yiyu Shi, “Novel Crack Sensor Design for TSV-based 3D
+Integrated Circuits: Design and Deployment Perspectives,” IEEE International Conference on Computer-Aided
+Design, 2013.
+150. Jiwoo Pak, Sung Kyu Lim and David Z. Pan, “Electromigration Study for Multi-scale Power/Ground Vias in
+TSV-based 3D ICs,” IEEE International Conference on Computer-Aided Design, 2013.
+151. Yarui Peng, Taigon Song, Dusan Petranovic and Sung Kyu Lim, “On Accurate Full-Chip Extraction and Op-
+timization of TSV-to-TSV Coupling Elements in 3D ICs,” IEEE International Conference on Computer-Aided
+Design, 2013.
+152. Moongon Jung, Taigon Song, Yang Wan, Young-Joon Lee, Debabrata Mohapatra, Hong Wang, Greg Taylor,
+Devang Jariwala, Vijay Pitchumani, Patrick Morrow, Clair Webb, Paul Fischer, and Sung Kyu Lim, “How to
+Reduce Power in 3D IC Designs: A Case Study with OpenSPARC T2 Core,” IEEE Custom Integrated Circuits
+Conference, 2013.
+153. Sandeep Samal, Kiyoung Kim, Youngchan Kim, Taesung Kim, Hyuk-Jae Lee, Taewhan Kim and Sung Kyu Lim,
+“Ultra Low Power 2-tier 3D Stacked Sub-threshold H.264 Intra Frame Encoder,” IEEE SOI-3D-Subthreshold
+Microelectronics Technology Unified Conference, 2013.
+154. Shreepad Panth, Kambiz Samadi, and Sung Kyu Lim, “Test-TSV Estimation During 3D-IC Partitioning,” IEEE
+International 3D Systems Integration Conference, 2013.
+155. Young-Joon Lee and Sung Kyu Lim, “On GPU Bus Power Reduction with 3D IC Technologies,” Design, Au-
+tomation and Test in Europe, 2014
+156. Shreepad Panth, Kambiz Samadi, Yang Du, and Sung Kyu Lim, “Placement-Driven Partitioning for Con-
+gestion Mitigation in Monolithic 3D IC Designs,” ACM International Symposium on Physical Design, 2014.
+NOMINATED FOR BEST PAPER AWARD.
+Page 17 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+157. Sandeep Samal, Shreepad Panth, Kambiz Samadi, Mehdi Saeidi, Yang Du, and Sung Kyu Lim, “Fast and
+Accurate Thermal Modeling and Optimization for Monolithic 3D ICs,” ACM Design Automation Conference,
+2014.
+158. Moongon Jung, Taigon Song, Yang Wan, Yarui Peng, and Sung Kyu Lim, “On Enhancing Power Benefits in 3D
+ICs: Block Folding and Bonding Styles Perspective,” ACM Design Automation Conference, 2014.
+159. Yarui Peng, Dusan Petranovik, and Sung Kyu Lim, “Fast and Accurate Full-chip Extraction and Optimization
+of TSV-to-Wire Coupling,” ACM Design Automation Conference, 2014.
+160. Shreepad Panth, Kambiz Samadi, Yang Du, and Sung Kyu Lim, “Power-Performance Study of Block-Level
+Monolithic 3D-ICs Considering Inter-Tier Performance Variations,” ACM Design Automation Conference, 2014.
+NOMINATED FOR BEST PAPER AWARD.
+161. Woongrae Kim, Dae-Hyun Kim, Hee Il Hong, Linda Milor, and Sung Kyu Lim, “Impact of Die Partitioning on
+Reliability and Yield of 3D DRAM,” IEEE International Interconnect Technology Conference, 2014.
+162. Moongon Jung, David Z. Pan, and Sung Kyu Lim, “Impact of Material Property Variations on Full-Chip Relia-
+bility and Performance in TSV-based 3D ICs,” IEEE International Interconnect Technology Conference, 2014.
+163. Ahmet Ceyhan, Moongon Jung, Shreepad Panth, Sung Kyu Lim, and Azad Naeemi, “Impact of Size Effects in
+Local Interconnects for Future Technology Nodes: A Study Based on Full-Chip Layouts,” IEEE International
+Interconnect Technology Conference, 2014. BEST PAPER AWARD.
+164. Sandeep Samal, Yarui Peng, and Sung Kyu Lim, “Design and Analysis of Ultra Low Power Processors Using
+Sub/Near-Threshold 3D Stacked ICs,” SRC TECHCON Conference, 2014.
+165. Yarui Peng, Dusan Petranovic, and Sung Kyu Lim, “Fast and Accurate Full-chip Extraction and Optimization
+of TSV-to-Wire Coupling,” SRC TECHCON Conference, 2014.
+166. Shreepad Panth, Kambiz Samadi, Yang Du, and Sung Kyu Lim, “Design and CAD Methodologies for Low
+Power Gate-level Monolithic 3D ICs,” IEEE International Symposium on Low Power Electronics and Design,
+2014.
+167. Sandeep Samal, Kambiz Samadi, Pratyush Kamal, Yang Du, and Sung Kyu Lim, “Full Chip Impact Study of
+Power Delivery Network Designs in Monolithic 3D ICs,” IEEE International Conference on Computer-Aided
+Design, 2014.
+168. Shreepad Panth, Sandeep Samal, Yun Seop Yu, and Sung Kyu Lim, “Design Challenges and Solutions for
+Ultra-High-Density Monolithic 3D ICs,” IEEE SOI-3D-Subthreshold Microelectronics Technology Unified Con-
+ference, 2014. INVITED PAPER.
+169. Taigon Song, Arthur Nieuwoudt, and Sung Kyu Lim, “Coupling Capacitance in Face-to-Face (F2F) Bonded 3D
+ICs: Trends and Implications,” IEEE Electronic Components and Technology Conference, 2015.
+170. Shreepad Panth, Kambiz Samadi, Yang Du, and Sung Kyu Lim, “Tier-Partitioning for Power Delivery vs Cool-
+ing Tradeoff in 3D VLSI for Mobile Applications,” ACM Design Automation Conference, 2015.
+171. Yarui Peng, Bon Woong Ku, Younsik Park, Kwang-Il Park, Seong-Jin Jang, Joo Sun Choi, and Sung Kyu Lim,
+“Design, Packaging, and Architectural Policy Co-Optimization for DC Power Integrity in 3D DRAM,” ACM
+Design Automation Conference, 2015.
+172. Hourieh Attarzadeh, Sung Kyu Lim, and Trond Ytterdal, “Stacking Integration Methodologies in 3D IC for 3D
+Ultrasound Image Processing Application: A Stochastic Flash ADC Design Case Study,” IEEE International
+Symposium on Circuits and Systems, 2015
+173. Neela Lohith Penmetsa, Christos Sotiriou, and Sung Kyu Lim, “Low Power Monolithic 3D IC Design of Asyn-
+chronous AES Core,” IEEE International Symposium on Asynchronous Circuits and Systems, 2015.
+Page 18 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+174. Yarui Peng, Moongon Jung, Taigon Song, Yang Wan, and Sung Kyu Lim, “Thermal Impact Study of Block
+Folding and Face-to-Face Bonding in 3D IC,” IEEE International Interconnect Technology Conference, 2015.
+175. Taigon Song, Moongon Jung, Yang Wan, Yarui Peng, and Sung Kyu Lim, “3D IC Power Benefit Study Under
+Practical Design Considerations,” IEEE International Interconnect Technology Conference, 2015.
+176. Kyungwook Chang, Kartik Acharya, Saurabh Sinha, Brian Cline, Greg Yeric, and Sung Kyu Lim, “Power
+Benefit Study of Monolithic 3D IC at the 7nm Technology Node,” IEEE International Symposium on Low
+Power Electronics and Design, 2015.
+177. Sandeep Samal, Yang Li, Guoqing Chen, and Sung Kyu Lim, “Improving Performance in Near-Threshold Cir-
+cuits Using 3D IC Technology,” IEEE SOI-3D-Subthreshold Microelectronics Technology Unified Conference,
+2015.
+178. Deepak Nayak, Srinivasa Banna, Sandeep Samal, and Sung Kyu Lim, “Power, Performance, and Cost Compar-
+isons of Monolithic 3D ICs and TSV-based 3D ICs,” IEEE SOI-3D-Subthreshold Microelectronics Technology
+Unified Conference, 2015.
+179. Taigon Song, Shreepad Panth, Yoo-Jin Chae, and Sung Kyu Lim, “Three-Tier 3D ICs for More Power Reduc-
+tion: Strategies in CAD, Design, and Bonding Selection,” IEEE International Conference on Computer-Aided
+Design, 2015.
+180. Yarui Peng, Taigon Song, Dusan Petranovic, and Sung Kyu Lim, “Full-chip Inter-die Parasitic Extraction in
+Face-to-Face-Bonded 3D ICs,” IEEE International Conference on Computer-Aided Design, 2015.
+181. Tianchen Wang, Sandeep K. Samal, Sung Kyu Lim, and Yiyu Shi, “A Novel Entropy Production Based Full-
+Chip TSV Fatigue Analysis,” IEEE International Conference on Computer-Aided Design, 2015.
+182. Li Jiang, Pu Pang, Naifeng Jing, Sung Kyu Lim, Xiaoyao Liang, and Qiang Xu, “On Diagnosable and Tunable
+3D Clock Network Design for Lifetime Reliability Enhancement,” IEEE International Test Conference, 2015.
+183. Sung Kyu Lim, “Bringing 3D ICs to Aerospace: Needs for Design Tools and Methodologies,” Government
+Microcircuit Applications & Critical Technonogy (GOMACTECH) Conference, 2016.
+184. Kartik Acharya, Kyungwook Chang, Bon Woong Ku, Shreepad Panth, Saurabh Sinha, Brian Cline, Greg Yeric,
+and Sung Kyu Lim, “Monolithic 3D IC Design: Power, Performance, and Area Impact at 7nm,” IEEE Interna-
+tional Symposium on Quality Electronic Design, 2016.
+185. Sandeep Samal, Deepak Nayak, Motoi Ichihashi, Srinivasa Banna, and Sung Kyu Lim, “Impact of Transistor
+Technology on Power Saving in Monolithic 3D ICs,” International Symposium on VLSI Technology, Systems
+and Applications, 2016.
+186. Kyungwook Chang, Saurabh Sinha, Brian Cline, Greg Yeric, and Sung Kyu Lim, “Match-making for Monolithic
+3D IC: Finding the Right Technology Node,” ACM Design Automation Conference, 2016.
+187. Yosef Borga, Daniel Limbrick, and Sung Kyu Lim, “Physical Design Factors that contribute to Routing Con-
+gestion in Monolithic 3D Integrated Circuits,” ACM International Workshop on Logic and Synthesis, 2016.
+188. Bon Woong Ku, Peter Debacker, Dragomir Milojevic, Praveen Raghavan, Diederik Verkest, Aaron Thean, and
+Sung Kyu Lim, “Physical Design Solutions to Tackle FEOL/BEOL Degradation in Gate-level Monolithic 3D
+ICs,” ACM/IEEE International Symposium on Low Power Electronics and Design, 2016.
+189. Kwang Min Kim, Saurabh Sinha, Brian Cline, Greg Yeric, and Sung Kyu Lim, “Four-tier Monolithic 3D ICs:
+Tier Partitioning Methodology and Power Benefit Study,” ACM/IEEE International Symposium on Low Power
+Electronics and Design, 2016.
+190. Sandeep Kumar Samal, Deepak Nayak, Motoi Ichihashi, Srinivasa Banna, and Sung Kyu Lim, “How to Cope
+with Slow Transistors in the Top-tier of Monolithic 3D ICs: Design Studies and CAD Solutions,” ACM/IEEE
+International Symposium on Low Power Electronics and Design, 2016.
+Page 19 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+191. Sandeep Samal, Deepak Nayak, Motoi Ichihashi, Srinivasa Banna, and Sung Kyu Lim, “Monolithic 3D IC
+vs TSV-based 3D IC in 14nm FinFET Technology,” IEEE SOI-3D-Subthreshold Microelectronics Technology
+Unified Conference, 2016.
+192. Bon Woong Ku, Peter Debacker, Dragomir Milojevic, Praveen Raghavan and Sung Kyu Lim, “How Much
+Cost Reduction Justifies the Adoption of Monolithic 3D ICs at 7nm Node?” IEEE International Conference on
+Computer-Aided Design, 2016.
+193. Sandeep Kumar Samal, Deepak Nayak, Motoi Ichihashi, Srinivasa Banna and Sung Kyu Lim, “Tier Partitioning
+Strategy to Mitigate BEOL Degradation and Cost Issues in Monolithic 3D ICs,” IEEE International Conference
+on Computer-Aided Design, 2016.
+194. Kyungwook Chang, Saurabh Sinha, Brian Cline, Raney Southerland, Michael Doherty, Greg Yeric and Sung
+Kyu Lim, “Cascade2D: A Design-Aware Partitioning Approach to Monolithic 3D IC with 2D Commercial
+Tools,” IEEE International Conference on Computer-Aided Design, 2016.
+195. Jiajun Shi, Deepak Nayak, Srinivasa Banna, Robert Fox, Srikanth Samavedam, Sandeep Samal, and Sung
+Kyu Lim, “A 14nm Finfet Transistor-Level 3D Partitioning Design to Enable High-Performance and Low-Cost
+Monolithic 3D IC,” IEEE International Electron Devices Meeting, 2016.
+4.4
+Patents
+1. Sung Kyu Lim and Yang Du, “Clock Skew Compensation with Adaptive Body Biasing in Three-Dimensional
+Integrated Circuits,” US Patent 9,256,246.
+2. Sung Kyu Lim, Kambiz Samadi, and Yang Du, “Intellectual Property Block Design With Folded Blocks and
+Duplicated Pins For 3D Integrated Circuits,” US Patent 9,483,598.
+3. Sung Kyu Lim, Kambiz Samadi, Pratyush Kamal, and Yang Du, “Clock Tree Synthesis for Low Cost Pre-Bond
+Testing of 3D Integrated Circuits,” US Patent 9,508,615.
+4. Sung Kyu Lim, Karam Chatha, Kambiz Samadi, and Yang Du, “Memory Controller Placement in a Three-
+Dimensional Integrated Circuit Employing Distributed Through-Silicon-Via Farms,” US Patent Pending (filed
+on January 22, 2015).
+5. Sung Kyu Lim, Kambiz Samadi, Pratyush Kamal, and Yang Du, “High Quality Physical Design for Monolithic
+Three-Dimensional Integrated Circuits Using Two-Dimensional Integrated Circuit Design Tools,” US Patent
+Pending (filed on March 4, 2015).
+6. Sung Kyu Lim, Ratibor Radojcic, and Yang Du, “Through-Silicon Via (TSV) Crack Sensors for Detecting TSV
+Cracks in Three-dimensional Integrated Circuits and Related Methods and Systems,” US Patent Pending (filed
+on March 5, 2015).
+7. Sung Kyu Lim, Francois Atallah, Rashid Attar, Keith Bowman, Yang Du, Juzer Fatehi, Jai Kumar, Yu Pu, Giby
+Samson, and Kendrick Yuen, “Clock Tree Design Method for Ultra-Wide Voltage Range Circuits,” US Patent
+Pending (filed on March 10, 2015).
+8. Sung Kyu Lim, Kambiz Samadi, and Yang Du, “Power Delivery Network Design for Monolithic Three Dimen-
+sional Integrated Circuit,” US Patent Pending (filed on April 29, 2015).
+4.5
+Presentations
+4.5.1
+Invited Tutorials
+1. “3D IC and TSV Reliability: What Are the Burning Issues and Their Potential Solutions?” IEEE/ACM Asia
+South Pacific Design Automation Conference (ASPDAC), Sydney, Australia. January 30, 2012.
+2. “System-level Design and Analysis for Thermo-Electro-Mechanical Reliability in Through-Silicon-Via Based
+3D ICs,” IEEE International Reliability Physics Symposium (IRPS), Anaheim, USA. April 15, 2012.
+Page 20 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+3. “Design of 3D ICs: From Concept to Practice,” IEEE International Symposium on Quality Electronic Design
+(ISQED), Santa Clara, USA. March 4, 2013.
+4. “Design for Monolithic 3D IC,” IEEE SOI-3D-Subthreshold Microelectronics Technology Unified Conference
+(S3S), San Francisco, USA. October 6, 2014.
+5. “How To Build Irresistible 3D IC Physical Layouts: Tools, Methodologies, and Case Studies,” ACM Design
+Automation Conference, Austin, USA. June 7, 2016.
+6. “Design and CAD Research for Monolithic 3D ICs: Recent Advancement,” IEEE SOI-3D-Subthreshold Micro-
+electronics Technology Unified Conference (S3S), San Francisco, USA. October 11, 2016.
+4.5.2
+Keynote Talks
+1. “Electrical Design, Modeling & Characterization for 3D Package,” Samsung Future Technology Forum, Hwa-
+sung, March 28, 2012. KEYNOTE SPEECH.
+2. “3D IC Design and CAD Research: Challenges and Opportunities,” Design, Automation, and Test in Eu-
+rope (DATE), Workshop on 3D Integration, Grenoble, France. Invited by Prof. Qiang Xu. March 22, 2013.
+KEYNOTE SPEECH.
+3. “Modeling, Design, and EDA Research for Stacked-Die 3D IC at GTCAD Lab,” International SoC Design
+Conference (ISOCC), Jeju, Korea. Invited by Prof. Jun Rim Choi. November 5, 2014. KEYNOTE SPEECH.
+4. “Opportunities and Challenges of 3D ICs in Space Computing,” Fault-Tolerant Spaceborne Computing Employ-
+ing New Technologies, Albuquerque, NM. Invited by Larry Bergman. May 27, 2015. KEYNOTE SPEECH.
+5. “Going 3D for the Next Generation Designs: New Benefits, Challenges, and Tool Needs,” Cadence Summit,
+San Jose, CA. Invited by Dr. Patrick Hasper, December 10, 2015. KEYNOTE SPEECH.
+6. “Device, Chip, and Package Co-Optimization for Future 3D IC Memory and Logic Products,” International San-
+disk Technology Conference, Milpitas, CA. Invited by Dr. Suresh Upadhyayula, March 8, 2016. KEYNOTE
+SPEECH.
+4.5.3
+Invited Conference & Workshop Talks
+1. “Thermal/Power-Aware Physical Design for 3D ICs,” Georgia Institute of Technology, Atlanta. Invited by Prof.
+Paul Kohl. May 7, 2007.
+2. “Co-Optimization and Limit Study of Signal, Power, and Thermal Distribution Networks in 3D ICs,” Georgia
+Institute of Technology, Atlanta. Invited by Prof. Paul Kohl. August 28, 2008.
+3. “Co-Optimization and Limit Study of Signal, Power, and Thermal Distribution Networks in 3D ICs,” Workshop
+on Integrated CAD Tools for Next Generation Thermal Management Methodologies and Devices: Status and
+Needs, Georgia Institute of Technology, Atlanta. Invited by Prof. Paul Kohl. November 17, 2008.
+4. “3D VLSI Design with Through-Silicon-Via: Challenges and Opportunities,” Electronic Design Processes
+(EDP) Symposium Workshop, Monterey. Invited by Dr. Dwight Hill. April 9, 2010.
+5. “Designing Future 3D ICs: Benefits and Challenges,” First Workshop on 3D Integration, Focus Center Research
+Program (FCRP). On-line. Invited by Dr. Paul Kohl. February 11, 2011.
+6. “Design Tradeoff Studies for the 3D Integration in Extreme Scale,” Second Workshop on 3D Integration, Focus
+Center Research Program (FCRP). On-line. Invited by Dr. Paul Kohl. March 10, 2012.
+7. “Design for Electro-Thermo-Mechanical Reliability in 3D ICs,” DAC Workshop on More than Moore Tech-
+nologies, San Francisco. Invited by Dr. Rasit Topaloglu. June 3, 2012.
+8. “Teaching Example: A Decade of Physical Design,” Young Faculty Workshop at DAC, San Francisco. Invited
+by Dr. Soha Hassoun. June 3, 2012.
+Page 21 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+9. “CAD Tool and Methodology for Reliable 3D-IC Integration,” GRC Technology Transfer e-Workshop, Semi-
+conductor Research Corporation. Invited by Dr. William Joyner. July 18, 2013.
+10. “3D Modeling and Tools,” Advanced Metallization Conference, Albany, NY. Invited by Dr. Rajiv Joshi. October
+22, 2013.
+11. “Low Power Computing with Multi-core 3D Processors,” GRC Technology Transfer e-Workshop, Semiconduc-
+tor Research Corporation. Invited by Dr. David Ye. February 21, 2014.
+12. “EDA for Monolithic 3D IC,” IEEE SOI-3D-Subthreshold Microelectronics Technology Unified Conference
+(S3S), San Francisco, USA. Invited by Zvi Or Bach. October 7, 2014.
+13. “3D VLSI: Challenges and Opportunities,” The MINOS LabEx Workshop, Grenoble, France. Invited by Dr.
+Olivier Joubert. March 16, 2015.
+14. “2D IC vs. TSV 3D IC vs. Monolithic 3D IC Comparisons,” Coolcube Workshop, Qualcomm, San Diego.
+Invited by Dr. Yang Du. December 4, 2015.
+15. “Design and CAD Research for Monolithic 3D ICs,” International Conference on Electronic Materials and
+Nanotechnology for Green Environment (ENGE), Jeju, South Korea. Invited by Prof. Rino Choi. November 9,
+2016.
+4.5.4
+Invited Seminar Presentations at Universities
+1. “Physical Design Automation for Fast and Reliable 3D Circuits,” Princeton University. Invited by Prof. Sharad
+Malik. May 3, 2006.
+2. “Physical Design Automation for Fast and Reliable 3D Circuits,” University of Texas, Austin. Invited by Prof.
+David Pan. March 29, 2007.
+3. “Through-Silicon-Via based 3D IC Research Activities At the Georgia Tech Computer-Aided Design Labora-
+tory,” National Taiwan University (NTU). Invited by Prof. Yao-Wen Chang. June 9, 2010.
+4. “Through-Silicon-Via based 3D IC Research Activities At the Georgia Tech Computer-Aided Design Labora-
+tory,” National Chiao Tung University (NCTU). Invited by Prof. Hung-Ming Chen. June 11, 2010.
+5. “Design, Test, and EDA Research for 3D ICs at GTCAD Laboratory,” Columbia University. Invited by Prof.
+Ken Shepard. September 17, 2013.
+6. “Design, Test, and EDA Research for 3D ICs at GTCAD Laboratory,” Massachusetts Institute of Technology.
+Invited by Prof. Li-Shiuan Peh and Prof. Vivienne Sze. September 27, 2013.
+7. “Design, Test, and EDA Research for 3D ICs at GTCAD Laboratory,” Harvard University. Invited by Prof.
+Vahid Tarokh. October 4, 2013.
+8. “Design, Test, and EDA Research for 3D ICs at GTCAD Laboratory,” California Institute of Technology. Invited
+by Prof. Azita Emami. October 11, 2013.
+9. “Design, Test, and EDA Research for 3D ICs at GTCAD Laboratory,” University of California, San Diego.
+Invited by Prof. Andrew Kahng. October 14, 2013.
+10. “Design, Test, and EDA Research for 3D ICs at GTCAD Laboratory,” Stanford University. Invited by Prof.
+Subhasish Mitra. November 5, 2013.
+11. “Design, Test, and EDA Research for 3D ICs at GTCAD Laboratory,” University of California, Berkeley. Invited
+by Prof. Elad Alon. November 8, 2013.
+12. “Design, Test, and EDA Research for 3D ICs at GTCAD Laboratory,” Princeton University. Invited by Prof.
+Sharad Malik. November 12, 2013.
+13. “3D IC Revolution: Where Are We Now, and What Is Next?” Nanyang Technological University, Singapore.
+Invited by Prof. Hao Yu. November 8, 2016.
+Page 22 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+4.5.5
+Invited Seminar Presentations at Industry
+1. “Physical Design Automation for Emerging Technologies,” Xilinx Corporation, San Jose, USA. Invited by Dr.
+Amit Singh. November 10, 2003.
+2. “Physical Design Automation for Fast and Reliable 3D Circuits,” Intel Corporation, Santa Clara, USA. Invited
+by Dr. Jeff Parkhurst. August 23, 2006.
+3. “High Performance 3D Microarchitecture Design,” IBM T. J. Watson Research Center, Yorktown Heights, USA.
+Invited by Dr. Joel Silberman. October 3, 2007.
+4. “Through-Silicon-Via based 3D IC Research Activities At the Georgia Tech Computer-Aided Design Labora-
+tory,” Synopsys Corporation, Sunnyvale, USA. Invited by Dr. Jamil Kawa. November 2, 2009.
+5. “3D VLSI Design with Through-Silicon-Via: Challenges and Opportunities,” Intel Corporation, Santa Clara,
+USA. Invited by Dr. Rajiv Mathur. November 3, 2009.
+6. “3D VLSI Design with Through-Silicon-Via: Challenges and Opportunities,” GlobalFoundries, Sunnyvale,
+USA. Invited by Dr. Rasit Topaloglu. November 3, 2009.
+7. “Through-Silicon-Via based 3D IC Research Activities At the Georgia Tech Computer-Aided Design Labora-
+tory,” TSMC, Hsinhsu, Taiwan. Invited by Dr. Kevin Wu. June 10, 2010.
+8. “Exploiting the Long-term Advantages of 3D Integration: A Benefit and Limit Study,” Intel Corporation, Hills-
+boro, USA. Invited by Dr. Rajiv Mathur. September 1, 2010.
+9. “Architecture and Design Research Activities for 3D ICs at the Georgia Tech Computer-Aided Design Labora-
+tory,” Raytheon Corporation, Dallas, USA. Invited by Dr. Kelly Dodds. April 27, 2011.
+10. “Designing with TSVs: What to Do and What Not to Do,” Institute of Microelectronics, A-STAR, Singapore.
+Invited by Dr. Min Kyu Je. August 4, 2011.
+11. “3D IC Design and CAD Research at GTCAD Laboratory,” IBM T. J. Watson Research Center, Yorktown
+Heights, USA. Invited by Dr. Jeonghee Shin. January 9, 2012.
+12. “3D IC Design and CAD Research at GTCAD Lab,” Qualcomm Corporation, San Diego, USA. Invited by Dr.
+Kambiz Samadi. February 10, 2012.
+13. “3D IC Design and CAD Research Activities at GTCAD Laboratory,” Cadence Design Systems, San Jose, USA.
+Invited by Dr. Limin He. November 9, 2012.
+14. “3D IC Design and CAD Research at GTCAD Laboratory,” Fujitsu Corporation, Kawasaki, Japan. Invited by
+Dr. Toshiyuki Shibuya, January 11, 2013.
+15. “Design and CAD Research for Monolithic 3D ICs at GTCAD Lab,” CEA-LETI, Grenoble, France. Invited by
+Dr. Carlo Reita, March 22, 2013.
+16. “Physical Design Tools for 3D ICs at GTCAD Lab,” Cadence Design Systems, Shanghai, China. Invited by Dr.
+Tao Chen, September 2, 2013.
+17. “Power, Performance, and Thermal Tradeoff Study for Ultra-High Density Monolithic 3D IC Designs,” Qual-
+comm Corporation, San Diego, USA. Invited by Dr. Kambiz Samadi. October 15, 2013.
+18. “Design, Test, and EDA Research for 3D ICs at GTCAD Laboratory,” Synopsys Corporation, Sunnyvale, USA.
+Invited by Dr. Arthur Nieuwoudt. November 20, 2013.
+19. “Parasitic Extraction and Optimization for TSV-based 3D ICs,” Mentor Graphics, Fremont, USA. Invited by Dr.
+Dusan Petranovik. November 21, 2013.
+20. “Physical Design Tools for 3D ICs at GTCAD Lab,” Cadence Design Systems, San Jose, USA. Invited by Dr.
+Limin He. November 22, 2013.
+Page 23 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+21. “Design, Test, and EDA Research for 3D ICs at GTCAD Laboratory,” Altera Corporation, San Jose, USA.
+Invited by Dr. Arif Rahman, June 4, 2014.
+22. “Modeling, Design, and EDA Research for Monolithic 3D ICs,” Qualcomm Research, San Diego, USA. Invited
+by Dr. Yang Du. August 5, 2014.
+23. “Modeling, Design, and EDA Research for Stacked-Die 3D IC at GTCAD Lab,” ARM Research, Austin, USA.
+Invited by Dr. Saurabh Sinha. August 21, 2014.
+24. “Modeling, Design, and EDA Research for Stacked-Die 3D IC at GTCAD Laboratory,” TSMC, Hsinchu, Tai-
+wan. Invited by Dr. Hsien-Hsin Lee. January 12, 2015.
+25. “Recent Advances in 3D IC Design Study and CAD Tool Development,” GlobalFoundries, Santa Clara, USA.
+Invited by Dr. Deepak Nayak. June 9, 2015.
+26. “New Developments in 3D IC Design and CAD Research at the GTCAD Laboratory,” IMEC, Leuven, Belgium.
+Invited by Dr. Praveen Raghavan. July 27, 2015.
+27. “New Developments in 3D IC Design and CAD Research at the GTCAD Laboratory,” CEA-LETI, Grenoble,
+France. Invited by Dr. Fabien Clermidy. November 24, 2015.
+4.5.6
+Invited Seminar Presentations at Korean Industry and Institutes
+1. “Multi-level Optimization Techniques for the Physical Design Automation of VLSI Systems,” Samsung Semi-
+conductor, Kiheung. Invited by Dr. Kyu Myoung Choi at CAE Team, July 19, 2001.
+2. “Physical Design for 3D Integration at the Chip and Package Level,” LG Mobile Handset R&D Center, Seoul.
+Invited by Dr. Soo Youl Yang, July 6, 2007.
+3. “Physical Design for 3D Integration at the Chip and Package Level,” Samsung Semiconductor, Kiheung. Invited
+by Dr. Kyu Myoung Choi at System LSI Team, July 11, 2007.
+4. “3D Integrated Circuits: Challenges and Opportunities,” Hynix Semiconductor Inc., Icheon. Invited by Dr. Jun
+Ho Lee at Memory R&D Division, January 24, 2008.
+5. “Power and Thermal-aware Architecture, Circuits, and Interconnect Techniques,” Samsung Semiconductor, Ki-
+heung. Invited by Dr. Jin Suk Kong at System LSI Team, June 3, 2008.
+6. “Co-Optimization and Limit Study of Signal, Power, and Thermal Distribution Networks in 3D ICs,” Electronics
+and Telecommunications Research Institute (ETRI), Kwangju, Invited by Dr. Hyun Suh Kang, December 11,
+2008.
+7. “Through-Silicon-Via based 3D IC Research Activities At the Georgia Tech Computer-Aided Design Labo-
+ratory,” Samsung Semiconductor, Kiheung. Invited by Dr. Kyu Myoung Choi at System LSI Team, June 3,
+2010.
+8. “Through-Silicon-Via based 3D IC Research Activities At the Georgia Tech Computer-Aided Design Labora-
+tory,” Electronics and Telecommunications Research Institute (ETRI), Daejon. Invited by Dr. Gwang Sung Choi
+at the packaging research team, June 7, 2010.
+9. “Through-Silicon-Via based 3D IC Research Activities At the Georgia Tech Computer-Aided Design Labora-
+tory,” Samsung Semiconductor, Kiheung. Invited by Dr. Tae Je Cho at System LSI Team, June 17, 2010.
+10. “Designing with TSVs: What to Do and What Not to Do,” Samsung Electronics, Hwasung. Invited by Dr.
+Chan-Seok Hwang, CAE Team, Memory Division, May 11, 2011.
+11. “Designing with TSVs: What to Do and What Not to Do,” Hynix Semiconductor Inc., Icheon. Invited by Dr.
+Jun Ho Lee, Memory R&D Division, August 8, 2011.
+12. “Designing with TSVs: What to Do and What Not to Do,” Samsung Electronics, Kiheung, Invited by Dr. Ki
+Sup Kim, Design Technologies, August 9, 2011.
+Page 24 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+13. “Design and Testing for 3D-MAPS VLIW 3D Processors,” Samsung Advanced Institute of Technology, Kihe-
+ung. Invited by Dr. Min Woo Ahn, August 3, 2013.
+14. “Design Solutions for Multi-Physics Reliability Issues in 3D ICs,” Samsung Electronics, Hwasung. Invited by
+Dr. Chan-Seok Hwang, CAE Team, Memory Division, January 15, 2014.
+15. “New Developments in Design and CAD Research for the Current and Future 3D ICs,” Samsung Electronics,
+Hwasung. Invited by Dr. Younsik Park, Design Team, Memory Division, August 31, 2015.
+16. “3D IC Revolution: Where Are We Now, and What Is Next?” Korean Institute of Science and Technology
+(KIST), Seoul, Korea. Invited by Dr. Hyung Joon Kim, November 10, 2106.
+5
+Service
+5.1
+Professional Contributions
+5.1.1
+Editorial Board
+1. Associate Editor, IEEE Design & Test (2015–present)
+2. Associate Editor, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2013–
+present)
+3. Associate Editor, IEEE Transactions on Very Large Scale Integration Systems (2007–2009)
+4. Guest Editor, ACM Transactions on Design Automation of Electronic Systems, “Special Issue on Demonstrable
+Software Systems and Hardware Platforms” (2006)
+5. Guest Editor, International Journal of Computational Science and Engineering, “Special Issue on Computa-
+tional Methods and Techniques for Nanoscale Technology Computer Aided Design” (2007)
+6. Guest Editor, IEEE Design & Test, “Special Issue on Advances in 3D Integrated Circuits, Systems, and CAD
+Tools” (2015)
+5.1.2
+Professional Membership
+1. Institute of Electrical and Electronics Engineers (IEEE), member (1995–2005), senior member (2005–present)
+2. Association for Computing Machinery (ACM), member (1995–present)
+3. Advisory Board Member, ACM Special Interest Group on Design Automation (SIGDA) (2003–2007)
+4. Proposal Review Panel: National Science Foundation (NSF), CISE/CCF Division (March 29-30, 2012)
+5. ACM/SIGDA Outstanding PhD Dissertation in EDA Award (OPDA) Selection Committee (2013)
+6. Technical Program Committee Member
+• ACM Design Automation Conference (DAC): 2011, 2012, 2013, 2014, 2017
+• IEEE International Conference on Computer-Aided Design (ICCAD): 2009, 2010, 2014 (track chair),
+2015 (track chair), 2016 (track chair)
+• IEEE International 3D System Integration Conference (3DIC): 2010, 2011, 2013, 2014, 2015
+• International Symposium on Low Power Electronics and Design (ISLPED): 2016
+• Design, Automation, and Test in Europe (DATE): 2013
+• ACM International Symposium on Physical Design (ISPD): 2006, 2007
+• IEEE International Symposium on Quality Electronic Design (ISQED): 2016 (track chair), 2017 (track
+chair)
+Page 25 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+• ACM/IEEE Asia South Pacific Design Automation Conference (ASPDAC): 2005, 2008, 2009, 2013
+• ACM/IEEE System Level Interconnect Prediction: 2011
+• IEEE International Symposium on Circuits and Systems: 2002, 2003
+• ACM Great Lakes Symposium on VLSI: 2004, 2005, 2006, 2007
+• IEEE International Conference on Computer Design: 2003, 2005, 2006, 2007
+• IFIP/IEEE International Conference on VLSI-SoC: 2004, 2007, 2011, 2012
+• International Conference on Parallel Processing: 2005
+7. Panel Chair (2012), Finance Chair (2013), Technical Program Committee Chair (2014), ACM/IEEE Interna-
+tional Workshop on System Level Interconnect Prediction (SLIP)
+8. Publication Chair (2005) and Tutorials Chair (2006), International Conference on Compilers, Architectures and
+Synthesis of Embedded Systems
+9. CAD Track Chair, IEEE International Symposium on Circuits and Systems (2004–2006)
+10. Publication Chair, IFIP International Conference on VLSI (2007)
+11. Co-chair, Workshop on Accelerating Time-to-Market through Compiler-driven Optimization of Embedded Plat-
+forms (2004)
+5.1.3
+Professional Leadership
+1. Semiconductor Research Corporation (SRC), Focus Center Research Program (FCRP): Theme Leader on Cross-
+Center Research in 3D Integration (2009 – 2012)
+2. Organizer, “Opportunities and Challenges in Emerging High-Performance Heterogeneous 3D Systems,” First
+Annual Workshop, Cross-center Theme on 3D Integration, Focus Center Research Program (FCRP) of the
+Semiconductor Research Corporation (SRC), February 11, 2011. 300+ registrants, open to public.
+3. Organizer, “3D Integration: Progress and Prospects,” Second Annual Workshop, Cross-center Theme on 3D
+Integration, Focus Center Research Program (FCRP) of the Semiconductor Research Corporation (SRC), March
+9, 2012. 235 registrants, closed to FCRP members only.
+4. International Technology Roadmap for Semiconductors (ITRS): member of the Design International Technology
+Working Group for the 2009 renewal of ITRS.
+5. Organizer, “Killer Apps for 3D ICs?” Special Session, ACM Design Automation Conference (DAC), 2011.
+6. Founding Coordinator, Dual BS/MS Program between GT-ECE and KAIST-EE (Korean Advanced Institute of
+Science and Technology) (2008–)
+7. Advisory Board member, MonolithIC 3D, Inc. (2013–2015)
+8. Tutorial Organizer, “How To Build Irresistible 3D IC Physical Layouts: Tools, Methodologies, and Case Stud-
+ies,” ACM Design Automation Conference (DAC), 2016.
+5.1.4
+Literature Review
+1. Journal articles
+• ACM Transactions on Design Automation of Electronic Systems
+• ACM Journal of Emerging Technologies in Computing
+• IEEE Design & Test of Computers
+• IEEE Journal of Solid-State Circuits
+• IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+Page 26 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+• IEEE Transactions on Very Large Scale Integration Systems
+• IEEE Transactions on Components, Packaging and Manufacturing Technology
+• IEEE Transactions on Device and Materials Reliability
+• IEEE Transactions on Circuits and Systems
+• IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+2. Conference papers
+• ACM Design Automation Conference (DAC)
+• ACM International Symposium on Physical Design (ISPD)
+• ACM Great Lakes Symposium on VLSI (GLS-VLSI)
+• ACM System Level Interconnect Prediction (SLIP)
+• IEEE International Conference on Computer-Aided Design (ICCAD)
+• IEEE International Symposium on Circuits and Systems (ISCAS)
+• IEEE International Conference on Computer Design (ICCD)
+• IEEE Asia South Pacific Design Automation Conference (ASPDAC)
+• IEEE Design Automation & Test in Europe (DATE)
+• IEEE International Symposium on Low Power Electronics and Design (ISLPED)
+• IEEE International 3D System Integration Conference (3DIC)
+5.2
+Campus Contributions
+1. Graduate Curriculum Committee, School of Electrical and Computer Engineering (2002 – 2004)
+2. Faculty Honors Committee, School of Electrical and Computer Engineering (2004 – 2007)
+3. Undergraduate Curriculum Committee, School of Electrical and Computer Engineering (2007 – 2010)
+4. Faculty Recruitment Committee, School of Electrical and Computer Engineering (2010 – 2012)
+5. Chair, Technical Interest Group, VLSI Systems and Digital Design (2012 – present)
+6. Faculty advisor, Korean Graduate Student Association (2001 – present)
+7. Faculty advisor, Korean Undergraduate Student Association (2001 – present)
+8. PhD Committee Service
+(1) Susanta Sengupta: Proposal (spring 2002)
+(2) Sidharth Dalmia: Proposal (fall 2002)
+(3) Kyu Won Choi: Proposal (fall 2002), Defense (fall 2003)
+(4) Eung Suh Shin: Proposal (spring 2003), Defense (fall 2003)
+(5) Prateek Tandon: Proposal (spring 2004)
+(6) Badri Varadarajan: Proposal (fall 2003)
+(7) William Robinson: Defense (fall 2003)
+(8) Jifeng Mao: Proposal (fall 2003), Defense (fall 2004)
+(9) Chung Seok Seo: Proposal (fall 2003)
+(10) Sung-Hwan Min: Proposal (fall 2003), Defense (spring 2004)
+(11) Sandeep Sankararaman: Proposal (fall 2003)
+(12) Jae Hwan Lee: Proposal (spring 2004), Defense (fall 2004)
+Page 27 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+(13) Mongkol Ekpanyapong: Proposal (spring 2005), Defense (fall 2005)
+(14) Ajay Joshi: Proposal (spring 2005), Defense (spring 2006)
+(15) Bing Dang: Proposal (summer 2005), Defense (summer 2006)
+(16) Bhyrav Mutnury: Proposal (summer 2005)
+(17) Pranav Anbalagan: Proposal (fall 2005), Defense (fall 2006)
+(18) Jacob Minz: Proposal (fall 2005), Defense (summer 2006)
+(19) Changsoo Hong: Proposal (fall 2005), Defense (fall 2006)
+(20) Chinnakrishnan Ballapuram: Proposal (spring 2006), Defense (spring 2008)
+(21) Souvik Mukherjee: Proposal (spring 2006), Defense (spring 2007)
+(22) Weidong Shi: Defense (spring 2006)
+(23) Lakshmi Chakrapani: Proposal (summer 2006), Defense (spring 2008)
+(24) Krishna Srinivasan: Proposal (fall 2006), Defense (spring 2008)
+(25) Kiran Puttswamy: Proposal (fall 2006), Defense (fall 2007)
+(26) Faik Baskaya: Proposal (fall 2006), Defense (summer 2009)
+(27) Sudarshan Srinivasan: Defense (summer 2007)
+(28) Ranjeeth Doppalapudi: Proposal (fall 2008)
+(29) Seyed-Abdollah Aftabjahani: Proposal (spring 2009), Defense (summer 2011)
+(30) Ki Jin Han: Defense (spring 2009)
+(31) Nithya Sankaran: Proposal (spring 2010), Defense (spring 2011)
+(32) Dong Hyuk Woo: Defense (summer 2010)
+(33) Michael Healy: Proposal (spring 2009), Defense (summer 2010)
+(34) Tapobrata Bandyopadhyay: Proposal (spring 2011)
+(35) Mohit Pathak: Proposal (spring 2011), Defense (spring 2014)
+(36) Muhammad Bashir: Proposal (fall 2010), Defense (summer 2011)
+(37) Dean Lewis: Proposal (summer 2011), Defense (summer 2012)
+(38) Dae Hyun Kim: Proposal (fall 2011), Defense (spring 2012)
+(39) Jeremy Tolbert: Proposal (fall 2011), Defense (summer 2012)
+(40) Krit Athikulwongse: Proposal (fall 2011), Defense (summer 2012)
+(41) Xin Zhao: Proposal (spring 2012), Defense (fall 2012)
+(42) Minki Cho: Proposal (spring 2012), Defense (fall 2012)
+(43) Nak Hee Seong: Proposal (spring 2012), Defense (summer 2012)
+(44) Young Joon Lee: Proposal (spring 2012), Defense (spring 2013)
+(45) Calvin King: Defense (spring 2012)
+(46) Fahad Ahmed: Proposal (summer 2012)
+(47) Jianyong Xie: Proposal (fall 2012), Defense (fall 2013)
+(48) Kwanyeob Chae: Proposal (fall 2012), Defense (summer 2013)
+(49) Xi Liu: Proposal (fall 2012), Defense (summer 2013)
+(50) Shubha Ramakrishnan: Proposal (fall 2012), Defense (spring 2013)
+(51) Moongon Jung: Proposal (spring 2013), Defense (spring 2014)
+(52) Biancun Xie: Proposal (fall 2013), Defense (fall 2014)
+(53) Jiwoo Park (UT Austin): Proposal (fall 2013)
+Page 28 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+(54) Taigon Song: Proposal (spring 2014), Defense (fall 2015)
+(55) Shreepad Panth: Proposal (spring 2014), Defense (spring 2015)
+(56) Qiao Chen: Proposal (fall 2014)
+(57) Danny Lie: Defense (spring 2015)
+(58) William Song: Proposal (spring 2015), Defense (fall 2015)
+(59) Sung Joo Park: Proposal (spring 2015), Defense (summer 2016)
+(60) Yarui Peng: Proposal (fall 2015)
+(61) Boris Alexandrov: Defense (fall 2015)
+(62) Wen Yueh: Defense (fall 2015)
+(63) Michelle Collins: Proposal (spring 2016), Defense (fall 2016)
+(64) Taizhi Liu: Proposal (spring 2016)
+(65) Sandeep Samal: Proposal (summer 2016)
+(66) Lifeng Nai: Proposal (fall 2016)
+6
+Grants and Contracts
+1. Interconnect-centric Physical Design Methodology
+• Role: PI
+• Organization: Georgia Yamacraw
+• Contract Period: August 16, 2001 – August 15, 2004
+• Amount Awarded: $270,000
+2. Noise Immune On/Off Chip 3-D Routing for High Speed System-On-Package Substrate
+• Role: PI
+• Organization: National Science Foundation
+• Contract Period: August 15, 2002 – August 14, 2004
+• Amount Awarded: $100,000
+3. Chip/Package Co-design of Physical Layout for Fast and Reliable System-On-Packages
+• Role: PI
+• Organization: Association for Computing Machinery
+• Contract Period: June 15, 2003 – June 14, 2004
+• Amount Awarded: $24,000
+4. Placement and Routing for Polymorphic Computing Architecture
+• Role: PI
+• Organization: Defense Advanced Research Projects Agency (sub-contract)
+• Contract Period: May 15, 2003 – May 14, 2004
+• Amount Awarded: $45,000
+5. NER: Automatic Placement Algorithms for Quantum Cell Automata
+• Role: PI (co-PI: Mike Niemier), my share = $90,813 (70%).
+• Organization: National Science Foundation
+• Contract Period: August 1, 2004 – July 31, 2005
+Page 29 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+• Amount Awarded: $129,734
+6. Bringing Low Power Reconfigurable Analog Signal Processing to Embedded Systems
+• Role: PI (co-PIs: David Anderson, Paul Hasler), my share = $240,000 (100%).
+• Organization: National Science Foundation
+• Contract Period: September 1, 2004 – August 31, 2007
+• Amount Awarded: $240,000
+7. Mixed Signal Design Tool for System-On-Package
+• Role: PI
+• Organization: Packaging Research Center
+• Contract Period: January 8, 2007 – January 7, 2009
+• Amount Awarded: $100,000
+8. High-Performance 3D Microarchitecture Design
+• Role: co-PI (co-PIs: Gabriel H. Loh, Hsien-Hsin S. Lee), my share = $70,000 (33%).
+• Organization: Semiconductor Research Corporation (FCRP/GSRC)
+• Contract Period: June 1, 2005 – August 31, 2006
+• Amount Awarded: $210,000
+9. High-Performance 3D Microarchitecture Design
+• Role: co-PI (co-PIs: Gabriel H. Loh, Hsien-Hsin S. Lee), my share = $150,000 (33%).
+• Organization: Semiconductor Research Corporation (FCRP/C2S2)
+• Contract Period: September 1, 2006 – August 31, 2009
+• Amount Awarded: $450,000
+10. CAREER: Physical Design Automation for Fast and Reliable 3D Circuits
+• Role: PI
+• Organization: National Science Foundation
+• Contract Period: June 15, 2006 – June 14, 2011
+• Amount Awarded: $400,000
+11. Co-Optimization and Limit Study of Signal, Power, and Thermal Distribution Networks in 3D ICs
+• Role: PI
+• Organization: Semiconductor Research Corporation (FCRP/IFC)
+• Contract Period: September 1, 2007 – October 31, 2012
+• Amount Awarded: $400,000
+12. Design, Fabrication, and Testing of 3D-MAPS: A Massively Parallel Processor with 3D Stacked Memory
+• Role: PI (co-PI: Hsien-Hsin S. Lee), my share = $470,624 (50%).
+• Organization: US Department of Defense
+• Contract Period: May 1, 2009 – September 30, 2011
+• Amount Awarded: $941,248
+13. 3D-MAPS V2: A Massively Parallel Processor with 3D Stacked Memory
+Page 30 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+• Role: PI (co-PIs: Hsien-Hsin S. Lee), my share = $147,888 (50%).
+• Organization: US Department of Defense
+• Contract Period: October 1, 2011 – September 30, 2012
+• Amount Awarded: $295,776
+14. 3D Integration of Sub-Threshold Multi-core Co-processor for Ultra Lower Power Computing
+• Role: PI (co-PI: Saibal Mukhopadhyay), my share = $225,000 (50%).
+• Organization: National Science Foundation
+• Contract Period: August 15, 2009 – August 14, 2012
+• Amount Awarded: $450,000
+15. A Digital Infomedia System - Immersive Technologies on a Hybrid GPU-CPU Platform
+• Role: co-PI (co-PIs: Ghassan Al-Regib, Monty Hayes, Fred Juang, Jongman Kim), my share = $300,000
+(5%).
+• Participating Organizations: Korea Electronics Technology Institute, Kaon Media, Creative Solutions Cor-
+poration, Sung-kyun-kwan University, Georgia Tech Enterprise Innovation Institute
+• Organization: Korea Institute for Advancement of Technology, The Ministry of Knowledge Economy, The
+Republic of Korea
+• Contract Period: March 1, 2009 – February 28, 2012
+• Amount Awarded: $6,000,000
+16. Design for Manufacturing Issues with Through-Silicon-Via
+• Role: PI
+• Organization: Intel Corporation (industry gift)
+• Date Awarded: January 2010
+• Amount Awarded: $50,000
+17. High Density 3D SRAM and Logic Designs with Monolithic 3D Integration
+• Role: PI
+• Organization: Semiconductor Research Corporation (Intel Custom Funding)
+• Contract Period: August 1, 2011 – July 31, 2012
+• Amount Awarded: $60,000
+18. Reliability and Standardization Study for TSV-based Wide I/O DRAM Structures in 3D-IC Integration
+• Role: PI
+• Organization: Semiconductor Research Corporation (SEMATECH 3D Enablement Center)
+• Contract Period: October 1, 2011 – September 30, 2012
+• Amount Awarded: $59,933
+19. Design for Manufacturability of 3D ICs with Through Silicon Vias
+• Role: PI (co-PI: David Pan, UT Austin), my share = $200,000 (50%).
+• Organization: National Science Foundation
+• Contract Period: September 1, 2010 – August 31, 2014
+• Amount Awarded: $400,000
+20. Design-for-Yield for future 3D DRAM
+Page 31 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+• Role: PI
+• Organization: Samsung Electronics
+• Contract Period: June 15, 2012 – June 14, 2014
+• Amount Awarded: $100,000
+21. CAD Tool and Methodology for Reliable 3D-IC Integration
+• Role: co-PI (PI: David Pan, UT Austin), my share = $180,000 (50%).
+• Organization: Semiconductor Research Corporation (GRC/CADTS)
+• Contract Period: February 1, 2012 – August 31, 2015
+• Amount Awarded: $360,000
+22. Design of 3D Integrated Heterogeneous Systems
+• Role: co-PI (PI: Saibal Mukhopadhyay), my share = $210,629 (50%).
+• Organization: Semiconductor Research Corporation (GRC/ICSS)
+• Contract Period: Feb 1, 2011 – August 31, 2015
+• Amount Awarded: $421,258
+23. Low Power Computing with Multi-core 3D Processors
+• Role: PI
+• Organization: Semiconductor Research Corporation (Intel Custom Funding)
+• Contract Period: April 1, 2012 – March 31, 2015
+• Amount Awarded: $400,000
+24. Low Power and Reliable Designs for Monolithic 3D ICs
+• Role: PI
+• Organization: Qualcomm, Inc.
+• Contract Period: August 1, 2012 – July 31, 2015
+• Amount Awarded: $124,000
+25. 3D IC Design for Ultra Low Power Wireless Sensor Network
+• Role: PI
+• Organization: Center for Integrated Smart Sensors, KAIST, Korea
+• Contract Period: September 1, 2012 – August. 31, 2015
+• Amount Awarded: $170,000
+26. Architecture-aware Power Distribution Network Design for Wide-I/O 3D DRAM
+• Role: PI
+• Organization: Samsung Electronics
+• Contract Period: December 15, 2013 – December 14, 2015
+• Amount Awarded: $100,000
+27. Parasitic Extraction for TSV-based 3D ICs
+• Role: PI
+• Organization: Mentor Graphics (industry gift)
+• Date Awarded: September 2015
+Page 32 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+• Amount Awarded: $20,000
+28. Bringing 3D Memory Cubes to Space: a Rad-Hard-by-Design Study with an Open Architecture
+• Role: co-PI
+• Organization: NASA SBIR
+• Contract Period: June 1, 2016 – December 31, 2016
+• Amount Awarded: $125,000
+29. Power Delivery Network Design and CAD for Monolithic 3D ICs
+• Role: PI
+• Organization: ARM
+• Contract Period: August 1, 2016 – December 31, 2016
+• Amount Awarded: $26,233
+30. Next-generation Neuromorphic Co-processor Power Consumption in the Beyond Exa-scale Era
+• Role: co-PI
+• Organization: Oak Ridge National Laboratory
+• Contract Period: October 1, 2016 – September 30, 2018
+• Amount Awarded: $134,000
+7
+Honors and Awards
+7.1
+Awards
+1. Design Automation Conference Graduate Scholarship ($24,000), 2003.
+2. NSF Faculty Early Career Development (CAREER) Award, 2006.
+3. Outstanding Junior Faculty Member Award, School of Electrical and Computer Engineering, Georgia Institute
+of Technology, 2007.
+4. Hesburgh Award Teaching Fellows, Center for the Enhancement for Teaching and Learning (CETL), Georgia
+Institute of Technology, 2008. (Institute-level Teaching Award for tenured faculty)
+5. Distinguished Service Award, ACM Special Interest Group on Design Automation (SIGDA), 2008.
+6. Intel/CICC Student Scholarship Award, IEEE Custom Integrated Circuits Conference (CICC), 2010.
+7. Best in Session Award, SRC TECHCON, 2011.
+8. Best in Session Award, SRC TECHCON, 2012.
+9. Best Paper Award, IEEE Asian Test Symposium, 2012.
+10. Best in Session Award, SRC TECHCON, 2014.
+11. Best Paper Award, IEEE International Interconnect Technology Conference (IITC), 2014.
+Page 33 of 34
+
+-----
+Curriculum Vitae, Sung Kyu Lim
+January 31, 2017
+7.2
+Nominations
+1. Best Paper Award nomination, ACM International Symposium on Physical Design (ISPD), 2006.
+2. Best Paper Award nomination, IEEE International Conference on Computer-Aided Design (ICCAD), 2009.
+3. Best Paper Award nomination, ACM Design Automation Conference (DAC), 2011.
+4. Best Paper Award nomination, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Sys-
+tems (TCAD), 2011.
+5. Best Paper Award nomination, ACM Design Automation Conference (DAC), 2012.
+6. Best Paper Award nomination, IEEE International Symposium on Low Power Electronics and Design (ISLPED),
+2012.
+7. Best Paper Award nomination, ACM International Symposium on Physical Design (ISPD), 2014.
+8. Best Paper Award nomination, ACM Design Automation Conference (DAC), 2014.
+9. Best Paper Award nomination, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Sys-
+tems (TCAD), 2014.
+8
+Technology Transfer
+We transferred our commercial-grade RTL-to-GDSII tool flow and sign-off analysis tools and design IPs for 3D ICs
+to these organizations:
+1. US DOD (2011)
+2. Intel Corporation (2012)
+3. Qualcomm Corporation (2012)
+4. University of California, San Diego (2014)
+5. ARM Inc. (2015)
+6. Inter-university Microelectronics Centre (IMEC) (2015)
+7. GlobalFoundries (2015)
+8. Mentor Graphics (2015)
+9. LETI (2016)
+Page 34 of 34
+
+-----

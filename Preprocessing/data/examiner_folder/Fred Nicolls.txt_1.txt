@@ -1,0 +1,282 @@
+Fred Nicolls
+Associate Professor, Department of Electrical Engineering, University of Cape Town 
+Address:
+Department of Electrical Engineering
+University of Cape Town
+Rondebosch, 7701
+Cape Town
+South Africa
+Office:
+Room 611, Menzies Building, Upper Campus (see campus maps)
+Visitors report to Information Center (VRIC) for parking (DE9 Upper Campus map).
+Email: fred.nicolls@uct.ac.za
+Tel: +27 21 6502802
+Fax: +27 21 6503465
+Publications
+Lecturing
+Back to UCT Digital Image Processing Home Page
+Page 1 of 1
+Home Page: Fred Nicolls
+10/18/2017
+http://www.dip.ee.uct.ac.za/~nicolls/
+
+-----
+Publications: Fred Nicolls
+Google Scholar profile.
+Journal articles
+• A. Patel, B. Stocks, C. Fisher, F. Nicolls, and E. Boje, Tracking the Cheetah Tail using 
+Animal-Borne Cameras, GPS and an IMU, IEEE Sensors letters, vol. 1, issue 4, August 
+2017, DOI:10.1109/LSENS.2017.2716618.
+• M. Kulkarni, R. Dendere, F. Nicolls, and T. Douglas, Monte-Carlo simulation of a slot-
+scanning digital mammography system for tomosynthesis, Journal of X-Ray Science and 
+Technology, Vol. 24, no. 2, pp. 191-206, 2016. DOI:10.1109/TPWRD.2015.2503478.
+• M. Kulkarni, R. Dendere, F. Nicolls, S. Steiner, and T. Douglas, Monte-Carlo simulation of 
+a slot-scanning X-ray imaging system, Physica Medica: European Journal of Medical 
+Physics, vol. 32, issue 1, pp. 284-289, January 2016. DOI:10.1016/j.ejmp.2015.12.003.
+• U.J. Minnaar, F. Nicolls, and C.T. Gaunt, Automating Transmission Line Fault Root Cause 
+Analysis, IEEE Transactions on Power Delivery, volume 31, issue 4, pp. 1692-1700, August 
+2015. DOI:10.1109/TPWRD.2015.2503478.
+• B.S. Spottiswoode, D.J. van den Heever, Y. Chang, S. Engelhardt, S. Du Plessis, F. Nicolls, 
+H.B. Hartzenberg, and A. Gretschel, Preoperative Three-Dimensional Model Creation of 
+Magnetic Resonance Brain Images as a Tool to Assist Neurosurgical Planning, Stereotactic 
+and Functional Neurosurgery, vol. 91, no. 3, pp. 162-169, May 2013. 
+DOI:10.1159/000345264.
+• S. Hendricks, D. Karpul, F. Nicolls, and M. Lambert, Velocity and Acceleration before 
+contact in the Tackle, Journal of Sports Sciences, vol. 30, issue 12, pp. 1215-1224, August 
+2012. DOI:10.1080/02640414.2012.707328.
+• U.J. Minnaar, C.T. Gaunt, and F. Nicolls, Characterisation of power system events on South 
+African transmission power lines, Electric Power Systems Research, vol. 88, pp. 25-32, July 
+2012. DOI:10.1016/j.epsr.2012.01.015.
+• M. Louw and F. Nicolls, Shape from shading using MRF optimization with Gibbs Sampling 
+with quadruplet cliques, South African Computer Journal, No. 40, pp. 11-17, June 2008.
+• F. Nicolls and G. de Jager, Optimality in detecting targets with unknown location, Signal 
+Processing, vol. 87, issue 5, pp. 841-852, May 2007. DOI:10.1016/j.sigpro.2006.08.005. 
+• S. Mkwelo, G. de Jager, and F. Nicolls, Watershed-based segmentation of rock scenes and 
+proximity-based classification of watershed regions under uncontrolled lighting, 
+Transactions of the SAIEE, vol. 96 no. 1, pp. 28-34, March 2005. 
+• F. Nicolls, G. de Jager, and B. T. Sewell, Use of a General Imaging Model to achieve 
+Predictive Autofocus in the Scanning Electron Microscope, Ultramicroscopy, vol. 69, pp. 
+25-37, August 1997. DOI:10.1016/S0304-3991(97)00028-4. 
+Page 1 of 7
+Publications: Fred Nicolls
+10/18/2017
+http://www.dip.ee.uct.ac.za/~nicolls/publications.html
+
+-----
+Book chapters
+• N. Matjelo, F. Nicolls, and N. Muller, Evaluation of Optimal Control-Based Deformable 
+Registration Model, In: K. Elleithy and R. Sobh, New Trends in Networking, Computing, 
+E-learning, Systems Sciences, and Engineering, Volume 312 of series Lecture Notes in 
+Electrical Engineering, Springer, pp 117-124, 2015. DOI:10.1007/978-3-319-06764-3_15. 
+• N. Govender, P. Torr, M. Keaikitse, F. Nicolls, and J. Warrell, Probabilistic Active 
+Recognition of Multiple Objects Using Hough-Based Geometric Matching Features, In: Y. 
+Sun, A. Behal, R. Chung New Development in Robot Vision Heidelberg: Springer, pp. 89-
+109, 2015. DOI:10.1007/978-3-662-43859-6_6. 
+Top-tier international conference papers
+• F. Nicolls and P.H.S. Torr, Discrete minimum ratio curves and surfaces, International 
+Conference on Computer Vision and Pattern Recognition (CVPR), San Francisco, 2010. 
+DOI:10.1109/CVPR.2010.5539892. 
+• S. Milborrow and F. Nicolls, Locating Facial Features with an Extended Active Shape 
+Model, European Conference on Computer Vision (ECCV), Marseille, France, 2008. 
+DOI:10.1007/978-3-540-88693-8_37. 
+• K. Forbes, F. Nicolls, G. de Jager, and A. Voigt, Shape-from-Silhouette with Two Mirrors 
+and an Uncalibrated Camera, European Conference on Computer Vision (ECCV), Graz, 
+Austria, 2006. DOI:10.1007/11744047_13. 
+• F. Nicolls and G. de Jager, Uniformly most powerful cyclic permutation invariant detection 
+for discrete-time signals, International Conference on Acoustics, Speech, and Signal 
+Processing (ICASSP), Salt Lake City, Utah, 2001. DOI:10.1109/ICASSP.2001.940330. 
+• F. Nicolls and G. de Jager, Maximum likelihood estimation of Toeplitz-block-Toeplitz 
+covariances in the presence of subspace interference, International Conference on Pattern 
+Recognition (ICPR), Brisbane, Australia, 1998. DOI:10.1109/ICPR.1998.712018. 
+Peer-reviewed international conference papers
+• R. Mangera, F. Senekal, and F. Nicolls, Cascading Neural Networks for Upper-body 
+Gesture Recognition, International Conference on Machine Vision and Machine Learning 
+(MVML), Prague, Czech Republic, 2014.
+• N. Govender, J. Warrell, P. Torr, and F. Nicolls, Probabilistic Models for 2D Active Shape 
+Recognition using Fourier Descriptors and Mutual Information, Advances in Computer 
+Vision, pp. 76-81, Istanbul, Turkey, 2014.
+• Stephen Milborrow and Fred Nicolls, Active Shape Models with SIFT Descriptors and 
+MARS, International Conference on Computer Vision Theory and Applications (VISAPP), 
+Lisbon, Portugal, 2014. DOI:10.5220/0004680003800387. 
+• Natasha Govender, Jonathan Claassens, Fred Nicolls, Jonathan Warrell, Active Object 
+Recognition using Vocabulary Trees, IEEE Workshop on Robot Vision (WORV), 
+Page 2 of 7
+Publications: Fred Nicolls
+10/18/2017
+http://www.dip.ee.uct.ac.za/~nicolls/publications.html
+
+-----
+Clearwater, USA, 2013. DOI:10.1109/WORV.2013.6521945. 
+• Stephen Milborrow, Tom Bishop, and Fred Nicolls, Multiview Active Shape Models with 
+SIFT Descriptors for the 300-W Face Landmark Challenge, ICCV Workshops, Sydney, 
+Australia, 2013. DOI:10.1109/ICCVW.2013.57. 
+• Natasha Govender, Jonathan Warrell, Philip H.S. Torr, and Fred Nicolls, Probabilistic 
+Object and Viewpoint Models for Active Object Recognition, Africon, Mauritius, 2013.
+• Jason de Villiers, Fintan Wilson, and Fred Nicolls, A study of the sensitivity of long-range 
+passive ranging techniques to atmospheric scintillation, Proc. SPIE 8399, 83990O, 
+Baltimore, USA, 2012. DOI:10.1117/12.920358. 
+• Y-C. Chang, F. Nicolls, and B.S. Spottiswoode, Combination of Structural and Functional 
+MRI with Rapid Prototyping as a Neurosurgical Tool, Proceedings of the International 
+Society for Magnetic Resonance in Medicine (ISMRM), vol. 19, p. 4149, Montreal, Canada, 
+2011.
+• Asheer K. Bachoo, Francois le Roux, and Fred Nicolls, An optical tracker for the maritime 
+environment, Proc. SPIE 8050, 80501G, Orlando, USA, 2011. DOI:10.1117/12.884126. 
+• Asheer K. Bachoo, Jason P. de Villiers, Fred Nicolls, and Francois P. J. le Roux, 
+Quantitative analysis of the improvement in high zoom maritime tracking due to real-time 
+image enhancement, Proc. SPIE 8052, 80520E, Orlando, USA, 2011. 
+DOI:10.1117/12.884046. 
+• Jason P. de Villiers, Asheer K. Bachoo, Fred Nicolls, and Francois P. J. le Roux, 
+Quantitative analysis of the improvement in omnidirectional maritime surveillance and 
+tracking due to real-time image enhancement, Proc. SPIE 8052, 80520F, Orlando, USA, 
+2011. DOI:10.1117/12.884052. 
+• Jason P. de Villiers, Jaco Cronje, and Fred Nicolls, Improved neural network modeling of 
+inverse lens distortion, Proc. SPIE 8056, 80560L, Orlando, USA, 2011. 
+DOI:10.1117/12.884065. 
+• M. Louw and F. Nicolls, Accelerated sparse feature correspondence resolution using loopy 
+belief propagation with MRF clique based structure preservation, Computer Graphics and 
+Imaging (CGIM), pp. 109-116, Innsbruck, Austria, 2010.
+• M. Louw and F. Nicolls, Surface classification via BRDF parameters, using population 
+Monte Carlo for MRF parameter estimation, Computer Graphics and Imaging (CGIM), pp. 
+145-154, Innsbruck, Austria, 2010.
+• S. Mkwelo, F. Nicolls, and G. de Jager, Range and Intensity Vision for rock-scene 
+segmentation, 12th Iberoamerican Congress on Pattern Recognition (CIARP), Vina del 
+Mar/Valparaiso, Chile, 2007.
+• M. Louw and F. Nicolls, Improved Sparse Correspondence Resolution using Loopy Belief 
+Propagation with MRF Clique based Structure Preservation, Visualization, Imaging, and 
+Image Processing, (VIIP), Palma de Mallorca, Spain, 2007.
+• M. Louw and F. Nicolls, A Spatially Multiresolution, MRF Optimization based Approach to 
+the Shape from Shading Problem, Visualization, Imaging, and Image Processing (VIIP), 
+Page 3 of 7
+Publications: Fred Nicolls
+10/18/2017
+http://www.dip.ee.uct.ac.za/~nicolls/publications.html
+
+-----
+Palma de Mallorca, Spain, 2007.
+• M. Louw and F. Nicolls, A Loopy Belief Propagation Approach to the Shape From Shading 
+Problem, International Conference on Computer Vision Theory and Applications 
+(VISAPP), Barcelona, Spain, 2007.
+• B. Merven, F. Nicolls, and G. de Jager, Auto Camera Calibration Method for Person 
+Tracking Applications, Scandinavian Conference on Image Analysis (SCIA), pp. 91-100, 
+Halmstad, Sweden, 2003. DOI:10.1007/3-540-45103-X_13. 
+Peer-reviewed local conference papers
+• A. Chiranjan and B. Duvenhage, and F. Nicolls, Implementation of Adaptive Coded 
+Aperture Imaging using a Digital Micro-Mirror Device for Defocus Deblurring, PRASA-
+RobMech International Conference, Stellenbosch, South Africa, 2016. 
+• L. Dunbar and F. Nicolls, Using the Earth Mover's Distance for Perceptually Meaningful 
+Visual Saliency, PRASA-RobMech International Conference, Port Elizabeth, South Africa, 
+2015. DOI:10.1109/RoboMech.2015.7359491
+• J. de Villiers, R. Jermy, and F. Nicolls, A study on the effect of different image centres on 
+stereo triangulation accuracy, PRASA-RobMech International Conference, Port Elizabeth, 
+South Africa, 2015. DOI:10.1109/RoboMech.2015.7359493
+• C. Bradshaw, F. Nicolls, and G. de Jager Augmenting the L1 Tracker with appearance 
+based tracking improvements, PRASA2014, Cape Town, South Africa, 2014.
+• J. de Villiers and F. Nicolls, A study on the sensitivity of photogrammetric camera 
+calibration and stitching, PRASA2014, Cape Town, South Africa, 2014.
+• D. Wong and F. Nicolls, Automation of Region Specific Scanning for Real Time Medical 
+Systems, PRASA2012, Pretoria, South Africa, 2012.
+• J. de Villiers, F. Wilson and F. Nicolls, The effects of lens distortion calibration patterns on 
+the accuracy of monocular 3D measurements, PRASA2011, Johannesburg, South Africa, 
+2011.
+• B. Lubinsky and F. Nicolls, Fast Implementation of the FRAME Algorithm using a GPU 
+Gibbs Sampler, PRASA2011, Johannesburg, South Africa, 2011.
+• T. Ndhlovu and F. Nicolls, Using temporal seeding to constrain the disparity search range, 
+PRASA2011, Johannesburg, South Africa, 2011.
+• M. Wilson and F. Nicolls, Coded Aperture and Coded Exposure Photography, PRASA2011, 
+Johannesburg, South Africa, 2011.
+• S. Milborrow, J. Morkel, and F. Nicolls, The MUCT Landmarked Face Database, 
+PRASA2010, Stellenbosch, South Africa, 2010.
+Page 4 of 7
+Publications: Fred Nicolls
+10/18/2017
+http://www.dip.ee.uct.ac.za/~nicolls/publications.html
+
+-----
+• M. Kulkarni and F. Nicolls, Graph cuts with shape priors for segmentation, PRASA2010, 
+Stellenbosch, South Africa, 2010.
+• J. de Villiers and F. Nicolls, Application of neural networks to inverse lens distortion 
+modelling, PRASA2010, Stellenbosch, South Africa, 2010.
+• U.J. Minnaar, C.T. Gaunt, and F. Nicolls, Signal processing tools for voltage dip analysis, 
+SAUPEC2010, Johannesburg, South Africa, 2010.
+• M. Louw and F. Nicolls, Texture based classification of images using frequency estimated 
+pairwise MRF joint distributions on site labels from wavelet decomposed images, 
+PRASA2009, Stellenbosch, South Africa, 2009.
+• M. Kulkarni and F. Nicolls, Interactive Image Segmentation using Graph Cuts, 
+PRASA2009, Stellenbosch, South Africa, 2009.
+• T. Ndhlovu and F. Nicolls, An alternative confidence measure for local-matching stereo 
+algorithms, ROBMECH 2009, Pretoria, South Africa, 2009.
+• J. Morkel and F. Nicolls, Photometric modelling of real-world objects, PRASA2008, Cape 
+Town, South Africa, 2008.
+• M. Louw and F. Nicolls, A faster MRF optimization based method for Shape from Shading 
+using Gibbs sampling with quadruplet cliques, PRASA2007, Pietermaritzburg, South 
+Africa, 2007.
+• S. Mkwelo, G. De Jager, and F. Nicolls, Range Sections as Rock Models for Rock Scene 
+Segmentation, PRASA2007, Pietermaritzburg, South Africa, 2007.
+• M. Louw, F. Nicolls, and D. Bradshaw, A Comparison of Iterative Bayesian Methods for 
+Solving the Sparse Point Correspondence Problem, PRASA2006, Parys, South Africa, 
+2006.
+• F. Nicolls, Estimating relative world views, PRASA2005, pp. 71-76, Langebaan, Cape 
+Town, 2005.
+• M. Louw and F. Nicolls, An approximate EM Homographical Iterative Closest Point 
+algorithm, PRASA2005, pp. 89-92, Langebaan, Cape Town, 2005.
+• N. F. Maunder, G. de Jager, and F. Nicolls, Virtual View Synthesis using Visual Hulls, 
+PRASA2005, pp. 77-82, Langebaan, Cape Town, 2005.
+• F. Nicolls, Structure and motion from SEM: a case study, PRASA2004, pp. 19-23, 
+Grabouw, Cape Town, 2004.
+• P. Milne, F. Nicolls, and G. de Jager, Visual hull surface estimation, PRASA2004, pp. 13-
+18, Grabouw, Cape Town, 2004.
+• B. Merven, F. Nicolls, and G. de Jager, Multi-Camera person tracking using an extended 
+Kalman Filter, PRASA2003, pp. 45-50, Langebaan, Cape Town, 2003.
+• S. Mkwelo, F. Nicolls, and G. de Jager, Watershed-based segmentation of rock scenes and 
+Proximity-based classification of watershed regions under uncontrolled lighting conditions, 
+Page 5 of 7
+Publications: Fred Nicolls
+10/18/2017
+http://www.dip.ee.uct.ac.za/~nicolls/publications.html
+
+-----
+PRASA2003, pp. 107-112, Langebaan, Cape Town, 2003.
+• M. Price, F. Nicolls, and G. de Jager, Using colour features for video-based tracking of 
+people in a multi-camera environment, PRASA2003, pp. 39-44, Langebaan, Cape Town, 
+2003.
+• P. Milne, F. Nicolls, and G. de Jager, Generation of Visual Hull Models from 3D Objects, 
+PRASA2003, pp. 27-32, Langebaan, Cape Town, 2003.
+• F. Nicolls, Gaze estimation using appearance models, PRASA2002, pp. 13-18, Langebaan, 
+Cape Town, 2002.
+• B. Merven, F. Nicolls, and G. de Jager, Automatic calibration method for fixed camera 
+person tracking applications, PRASA2002, pp. 7-12, Langebaan, Cape Town, 2002.
+• M. Louw, F. Nicolls, and G. de Jager, MultiBlob particle filter, PRASA2002, pp. 25-29, 
+Langebaan, Cape Town, 2002.
+• F. Nicolls and G. de Jager, Uniformly most powerful cyclic permutation invariant detection 
+for discrete-time signals, PRASA, 1998.
+• F. Nicolls and G. de Jager, Subspace interference in statistical signal detection, PRASA, 
+1997.
+• F. Nicolls, G. de Jager, and B.T. Sewell, A Predictive Autofocus Algorithm for SEM, 
+EMSSA 1996.
+• F. Nicolls, G. de Jager, and B.T. Sewell, Towards a Predictive Autofocus Algorithm for 
+SEM, EMSSA 1994.
+Theses
+• F. Nicolls, Constraints and invariance in target detection, PhD thesis, University of Cape 
+Town, 2000.
+• F. Nicolls, The Development of a Predictive Autofocus Algorithm using a General Image 
+Formation Model, MSc thesis, University of Cape Town, 1996.
+Patents
+• M. P. Beets, F. C. Nicolls, and G. de Jager, Distortion correction method for linear scanning 
+x-ray system, US patent 7,873,142, granted 18 January 2011.
+• G. de Jager, J. J. Francis, D. P. Hatfield, D. J. Bradshaw, B. G. Oostendorp, S. H. Morar, F. 
+C. Nicolls, G. R. Forbes, G. S. Heinrich, and H. W. Markham, The Extraction of Valuable 
+Minerals from Mined Ore, patent no. 2005/06954, South Africa, granted June 2006.
+Back to Home Page
+Page 6 of 7
+Publications: Fred Nicolls
+10/18/2017
+http://www.dip.ee.uct.ac.za/~nicolls/publications.html
+
+-----
+Last modified: Fri Apr 8 13:56:37 SAST 2016 
+Page 7 of 7
+Publications: Fred Nicolls
+10/18/2017
+http://www.dip.ee.uct.ac.za/~nicolls/publications.html
+
+-----

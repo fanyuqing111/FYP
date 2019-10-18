@@ -1,0 +1,1726 @@
+CV for Sin Sai Weng, Terry 冼世榮 
+Associate Professor  
+ 
+-------------------------------------------------------------------------------- 
+Academic Qualifications  
+Ph.D. in Electrical and Electronics Engineering, Faculty of Science and 
+Technology, University of Macau, China (2008)  
+M.Sc. in Electrical and Electronics Engineering, Faculty of Science and 
+Technology, University of Macau, China (2003)  
+B.Sc. in Electrical and Electronics Engineering, Faculty of Science and Technology, 
+University of Macau, China (2001)  
+ 
+-------------------------------------------------------------------------------- 
+Professional Experience  
+Associate Head, Dept. of ECE, FST, University of Macau (2016 Nov – present)  
+Associate Professor, Dept. of ECE, FST, University of Macau (2015 – present)  
+Assistant Professor, Dept. of ECE, FST, University of Macau (2009 – 2015)  
+Academic Coordinator, State-Key Laboratory of Analog and Mixed-Signal VLSI, 
+University of Macau (2014 – Present) 
+Coordinator, Data Conversion and Signal Processing (DCSP) Research Line, 
+State-Key Laboratory of Analog and Mixed-Signal VLSI, University of Macau 
+(2007 – Present) 
+Co-Coordinator, Integrated Power Research Line, State-Key Laboratory of Analog 
+and Mixed-Signal VLSI, University of Macau (2007 – Present) 
+Post-Doctoral Fellow, Analog and Mixed-Signal VLSI Laboratory, Dept. of EEE, 
+FST, University of Macau (2008 –2009)  
+Senior Research Assistant, Analog and Mixed-Signal VLSI Laboratory, Dept. of 
+EEE, FST, University of Macau (2007 –2008)  
+ 
+-------------------------------------------------------------------------------- 
+Teaching Experience  
+B.Sc. Courses 
+1. Analog Integrated Circuit Design (ELEC371) 
+2. Signals and Systems (ECEB210/ELEC261)  
+3. System Design (ELEC437) / Design Project I (ECEB410) 
+4. Project (ELEC402) / Design Project II (ECEB420) 
+ 
+
+-----
+M.Sc. Courses 
+1. Advanced Topics in Analog and Mixed-Signal Integrated Circuits 
+(IMSE022/ELCE722) 
+2. Microelectronic Circuit Design (IMSE004)  
+3. Microelectronic for Telecommunication and Signal Processing 
+(IMSE011/ELCE711) 
+4. Introduction to Research (IMSE001/ELCE701)  
+5. Thesis (ELCE799)  
+Ph.D Courses 
+1. Advanced Topics in Electrical and Computer Engineering (ELCE818) 
+2. Microelectronics in Signal Processing and Communications (ELCE808) 
+ 
+-------------------------------------------------------------------------------- 
+Research  
+Research Interests 
+ 
+High-Performance Data Converters 
+- 
+Pipelined, SAR, Flash, Binary Search, etc… 
+- 
+Oversampling Data Converters 
+ 
+Power Management Integrate Circuits 
+ 
+Analog and Mixed-Signal Integrated Circuits 
+ 
+Low Voltage Switched-Capacitor Circuits 
+ 
+Integrated Analog Front-Ends 
+  
+Thesis Co-Supervision 
+ 
+Ph.D Theses  
+1.
+1. Jan 2015 – Present  
+Qi Liang, CMOS 
+CMOS Continuous
+Continuous-Time MASH 
+Time MASH Sigma
+Sigma-Delta 
+Delta 
+Modulators
+Modulators 
+2.
+2. Sep 2014 – Present  
+Dongyang Jiang, Advanced Techniques for CMOS 
+Advanced Techniques for CMOS 
+Sigma
+Sigma-Delta Modulators
+Delta Modulators 
+3.
+3. Sep 2014 – Present  
+Mingqiang 
+Guo, 
+Advanced 
+Techniques 
+for 
+CMOS 
+Advanced 
+Techniques 
+for 
+CMOS 
+Pipelined Data Converters
+Pipelined Data Converters 
+4.
+4. Sep 2014 – Present  
+Shasha Liu, Advanced Techniques for CMOS Pipelined 
+Advanced Techniques for CMOS Pipelined 
+Data Converters
+Data Converters 
+5.
+5. Sep 2013 – Present  
+Biao Wang, Incremental Oversampling Sigma
+Incremental Oversampling Sigma-Delta 
+Delta 
+
+-----
+Converters
+Converters 
+6.
+6. Sep 2012 – Present  
+Xing Dezhi, Advanced Techniques in Analog to Digital 
+Advanced Techniques in Analog to Digital 
+Converters
+Converters 
+7.
+7. Sep 2012 – Present  
+Jianwei Liu, Time
+Time-to
+to-Digital Converter
+Digital Converter 
+8. Sep 2010 – Present  
+Feng 
+Da, 
+Hybrid 
+Continuous
+Hybrid 
+Continuous- 
+and 
+Discrete
+and 
+Discrete-Time 
+Time 
+Sigma
+Sigma-Delta Modulator
+Delta Modulator 
+9. Sep 2009 – Jan 2017 
+Arshad Hussain, The Design of Passive Sigma
+The Design of Passive Sigma-Delta ADC
+Delta ADC 
+10. Sep 2009 – Sep 2016  
+Zhong Jianyu, Design of High
+Design of High-Speed, Power
+Speed, Power-efficient 
+efficient 
+SAR
+SAR-Type ADCs
+Type ADCs 
+11.
+11. Sep 2011 – Jul 2015  
+Chi-Hang Chan, Design Techniques and Considerations in 
+Design Techniques and Considerations in 
+Low to Moderate to Low Resolution Power efficient G
+Low to Moderate to Low Resolution Power efficient GHz 
+Hz 
+Range ADCs
+Range ADCs 
+12. Sep 2005 – Apr 2012  
+U-Fat 
+Chio, 
+Design 
+Techniques 
+for 
+Low-Power 
+High-Speed 
+Analog-to-Digital 
+Converters 
+using 
+Binary-Search and Subranging Schemes 
+ 
+ 
+Master Theses  
+1. Sep 2016 – Present  
+Cui Song
+Cui Song, 
+, Digital Calibration Techniques for CMOS 
+Digital Calibration Techniques for CMOS 
+Pipel
+Pipelined Converters
+ined Converters  
+2. Sep 2016 – Present  
+Hanyu Wang
+Hanyu Wang, 
+, Digital Calibration Techniques for CMOS 
+Digital Calibration Techniques for CMOS 
+Pipelined Converters
+Pipelined Converters  
+3. Sep 2014 – Present  
+Jixuan Li
+Jixuan Li, 
+, Power Efficient Techniques for Battery 
+Power Efficient Techniques for Battery 
+Management System
+Management System  
+4. Sep 2014 – Present  
+Hubert Liang
+Hubert Liang, 
+, Low Power Sigma
+Low Power Sigma-Del
+Delta Modulator
+ta Modulator  
+5. Sep 2013 – Present  
+Jiaji 
+Mao
+Jiaji 
+Mao, 
+, 
+Low Power 
+Pipelined 
+Analog
+Low Power 
+Pipelined 
+Analog-to
+to-Digital 
+Digital 
+Converter
+Converter  
+6. Sep 2012 – May 2017  Qin 
+Weiwei
+Qin 
+Weiwei, 
+Measurement 
+Techniques 
+for 
+Measurement 
+Techniques 
+for 
+High
+High-Performance Data Converters  
+Performance Data Converters   
+7. Sep 2012 – May 2017 
+Yan Rongshen
+Yan Rongshen, On the Study of Advanced CMOS 
+On the Study of Advanced CMOS 
+Operational Amplifiers 
+Operational Amplifiers  
+8. Sep 2012 – Dec 2016  
+Li Wei
+Li Wei, On the Study of Mixed Signal Interface Circuit for 
+On the Study of Mixed Signal Interface Circuit for 
+Inertial Navigation System
+Inertial Navigation System  
+
+-----
+9. Sep 2012 – Dec 2016 
+Ren Yuan
+Ren Yuan, On the study of High DR Multi
+On the study of High DR Multi-Channel 
+Channel 
+Stage
+Stage-Shared Hybrid Front
+Shared Hybrid Front-End for Integrated Power 
+End for Integrated Power 
+Ele
+Electronics Controller
+ctronics Controller  
+10. Sep 2010 – Oct 2013  
+Yun 
+Du
+Yun 
+Du, 
+, 
+Hi
+High
+gh-Performance 
+Continuous
+Performance 
+Continuous-Time 
+Time 
+Sigma
+Sigma-Delta Modulator
+Delta Modulator  
+   
+11. Sep 2006 – Mar 2015  Yuan Fei, A 10b Pipelined ADC with Nonlinear Digital 
+A 10b Pipelined ADC with Nonlinear Digital 
+Background Calibration & 2.5b/stage Opamp Sharing 
+Background Calibration & 2.5b/stage Opamp Sharing 
+Architecture
+Architecture 
+12.
+12. Sep 2010 – Jul 2013  
+Wenlan Wu, Monotonic Multi
+Monotonic Multi-Switching Method for 
+Switching Method for  
+Ultra
+Ultra-Low
+Low-Voltage Energy Efficient SAR ADCs
+Voltage Energy Efficient SAR ADCs  
+   
+13. Sep 2006 – Jul 2013  
+Cheok-Teng Lei, Applying the Novel High Speed Robust 
+Applying the Novel High Speed Robust 
+Level Converter to a 12
+Level Converter to a 12-bit Successive Approximation 
+bit Successive Approximation 
+Analog
+Analog-to
+to-Digital Con
+Digital Converters with Dual Supply Domain
+verters with Dual Supply Domain 
+14. Sep 2009 – Feb 2013  
+Cai 
+Chenyan, 
+Low 
+Power 
+High 
+Efficiency 
+Low 
+Power 
+High 
+Efficiency 
+Excess
+Excess-Loop
+Loop-Delay 
+Compensation 
+Techniques 
+in 
+Delay 
+Compensation 
+Techniques 
+in 
+Continuous
+Continuous-Time Delta
+Time Delta-Sigma Modulators
+Sigma Modulators 
+15. Sep 2009 – Jun 2012  
+Jiang Yang, On the Study of Clock
+On the Study of Clock-Jitter Insensitive Circ
+Jitter Insensitive Circuit 
+uit 
+Techniques in Continuous
+Techniques in Continuous-Time Sigma
+Time Sigma-Delta Modulators
+Delta Modulators 
+16. Sep 2010 – May 2012 
+Peng Zhang, 时间交织型模数转换器时钟偏差校准技术研
+究(Joint
+(Joint-Supervision with Tsinghua University)
+Supervision with Tsinghua University) 
+17. Sep 2010 – May 2012 
+Zhijie Chen, 应用于生物医学领域的ΣΔ调制器低功耗研究
+(Joint
+(Joint-Supervision with Tsinghua University)
+Supervision with Tsinghua University) 
+18. Sep 2009 – May 2012  
+Rui Wang, 基于数字校准的流水线逐次逼近模数转换器的
+基于数字校准的流水线逐次逼近模数转换器的
+芯片实现
+芯片实现 (Joint
+(Joint-Supervision with Tsinghua University)
+Supervision with Tsinghua University) 
+19. Sep 2009 – Dec 2011  
+Guohe Yin, 满足生物医学低功耗需求的模数转换器设计
+技术研究
+技术研究 (Joint
+(Joint-Supervision with Tsinghua University)
+Supervision with Tsinghua University) 
+20. Sep 2009 – Jul 2011  
+Chi-Hang Chan, A Study on Compar
+A Study on Comparator and Offset 
+ator and Offset 
+
+-----
+Calibration Techniques in High Speed Nyquist ADCs
+Calibration Techniques in High Speed Nyquist ADCs 
+21. Sep 2009 – Jul 2011  
+Si-Seng Wong, Design of Analog
+Design of Analog-to
+to-Digital Converters 
+Digital Converters 
+with Binary Search Algorithm and Digital Calibration 
+with Binary Search Algorithm and Digital Calibration 
+Techniques
+Techniques 
+22. Sep 2008 – Aug 2010  Li Ding, Comprehensive Digita
+Comprehensive Digital Calibration
+l Calibration Techniques 
+Techniques 
+For High Resolution ADCs
+For High Resolution ADCs 
+23. Sep 2007 – Aug 2010  Kim-Fai Wong, Speed Enhancement Techniques for 
+Speed Enhancement Techniques for 
+Comparator
+Comparator-Based Switched
+Based Switched-Capacitor Circuits
+Capacitor Circuits  
+ 
+Bachelor Theses (15 Projects, 27 B.Sc students) 
+1.
+1. Sep 2016 – Present  
+Leong Hoi Chon, Lam Sao Son, High Performance 
+High Performance 
+Pipelined Analog
+Pipelined Analog-to
+to-Digital Converter
+Digital Converter  
+2.
+2. Sep 2016 – Present  
+Chu Meng Lok, Low quiescent current power management
+Low quiescent current power management  
+3.
+3. Jul 2015 – Jun 2016  
+Wang Linxuan, Mao Xinwei, Cui Song, Bandwidth 
+Bandwidth 
+mismatch 
+calibration 
+techniques 
+for 
+wideband 
+mismatch 
+calibration 
+techniques 
+for 
+wideband 
+time
+time-interleaved pipelined analog
+interleaved pipelined analog-to
+to-digital converters
+digital converters  
+4.
+4. Jul 2013 – Jun 2014  
+Jiang Dongyang, Liang Junhao, A 107 dB DR, 106dB 
+A 107 dB DR, 106dB 
+SNDR Sigma
+SNDR Sigma-Delta ADC Using a Charge
+Delta ADC Using a Charge-Pump Integrator 
+Pump Integrator 
+for Audio Application
+for Audio Application  
+5.
+5. Jul 2013 – Jun 2014  
+Li Ji Xuan, Zeng Wen Liang, Power E
+Power Efficient and Fast 
+fficient and Fast 
+Charger Techniques Applied for Battery Management 
+Charger Techniques Applied for Battery Management 
+System
+System  
+6.
+6. Jul 2012 – Jun 2013  
+Fong Tek Kei, A 103dB Dynamic Range, 106dB SNDR 
+A 103dB Dynamic Range, 106dB SNDR 
+Sigma
+Sigma-Delta ADC for Audio Applications
+Delta ADC for Audio Applications  
+7.
+7. Jul 2012 – Jun 2013  
+Bai Ziwen, A 
+A Micropower
+Micropower Management System for 
+Management System for 
+Ph
+Photovoltaic Cells with Maximum Output Power Control 
+otovoltaic Cells with Maximum Output Power Control  
+8.
+8. Jul 2011 – Jun 2012  
+Zhou Tianxiang, A Multibit Dual
+A Multibit Dual-Feedback CT Sigma 
+Feedback CT Sigma 
+Delta Modulator with Lowpass Signal Transfer Function
+Delta Modulator with Lowpass Signal Transfer Function  
+9. Jul 2011 – Jun 2012  
+Cheng 
+Xiaojing, 
+Ding 
+Shixuan, 
+Wideband 
+Wideband 
+Time
+Time-Interleaved
+Interleaved Pipelined ADC using LMS Timing
+Pipelined ADC using LMS Timing-Skew 
+Skew 
+Calibration Engine for a 4G LTE Smartphone
+Calibration Engine for a 4G LTE Smartphone  
+10. Jul 2010 – Jun 2011  
+Yan Pengyu, Chen Zhiyuan, A 13
+A 13-bit 64 MS/s Digital 
+bit 64 MS/s Digital 
+Enhanced Pipelined ADC for 4G LTE Application
+Enhanced Pipelined ADC for 4G LTE Application  
+
+-----
+11. Jul 2009 – Jun 2010  
+Du Yun, He Tao, A 65nm CMOS High
+A 65nm CMOS High-Speed Low
+Speed Low-Power 
+Power 
+Continuous
+Continuous-Time 
+Sigma
+Time 
+Sigma-Delta 
+Modulator 
+with 
+Delta 
+Modulator 
+with 
+VCO
+VCO-Based Quantizer for WiMAX Application
+Based Quantizer for WiMAX Application  
+12. Jul 2008 – Jun 2009  
+Jiang Yang, Yu Xiaofeng, Cai Chenyan, A 65nm CMOS 
+A 65nm CMOS 
+High
+igh-Speed
+peed Low
+ow-Power
+ower Continuous
+ontinuous-Time
+ime Sigma
+igma-Delta
+elta 
+Modulator
+odulator For
+or 3G WCDMA R
+3G WCDMA Receivers
+eceivers  
+13. Jul 2008 – Jun 2009 
+Fan Wa Pan, Chio Chan Keong, A 1
+A 1-V 12
+V 12-bit 200
+bit 200-MS/s 
+MS/s 
+Pipelined ADC with Digital Signal
+Pipelined ADC with Digital Signal-Dependant Dithering 
+Dependant Dithering 
+Calibration for HDTV Video Analog Frond
+Calibration for HDTV Video Analog Frond-End
+End  
+14. Jul 2007 – Jun 2008  
+Chon-Hei Lei, Background Digital Calibration for Full 
+Background Digital Calibration for Full 
+HD(High
+HD(High-Definition) Video Analog Front
+Definition) Video Analog Front-End
+End  
+15. Jul 2007 – Jun 2008  
+Sio 
+Chan 
+and
+and 
+Li 
+Ding, 
+Low
+Low-Power 
+High
+Power 
+High-Speed 
+Speed 
+Comparator
+Comparator-Based
+Based Pipeline ADC for Portable Wireless 
+Pipeline ADC for Portable Wireless 
+Devices
+Devices  
+16. Jul 2007 – Jun 2008  
+Wai-Hou Chan and Li Xie, A 10
+A 10-bit 60
+bit 60-MS/s Asynchronous 
+MS/s Asynchronous 
+Charge
+Charge-Sharing SA
+Sharing SAR ADC in 90
+ADC in 90-nm CMOS for Mobile TV 
+nm CMOS for Mobile TV 
+Applications
+Applications  
+17. Jul 2007 – Jun 2008  
+Yin-Sheng 
+Zhao 
+and 
+Seng-Cheong 
+Chao, 
+Comparator
+Comparator-Based Multi
+Based Multi-mode Sigma Delta
+mode Sigma Delta Modulator for 
+Modulator for 
+3G Analog Front
+3G Analog Front-End
+End  
+18. Jul 2007 – Jun 2008  
+Po-Lap Chan and Ka-Cheong Lao, Study
+tudy of Low Drop
+of Low Drop-Out
+Out 
+Regulators for Power Management in Portable Devices
+Regulators for Power Management in Portable Devices 
+ 
+ 
+Funded Research Projects 
+ 
+Principal Investigator, “Mismatch- and Supply-Noise-Tolerant Design for 
+Wideband Nyquist Analog-to-Digital Conversion Integrated Circuits,” Multi-Year 
+Research Grant, funded by Research Committee of University, 2018 – 2020. 
+ 
+Member, “Research on mm-size Extremely Power-Constrained Implantable 
+ECG System on Chip Design,” Jointly-funded by Macau Science and Technology 
+Development Fund & National Science Foundation Committee, China 
+(FDCT-NSFC), 2017 – 2019. 
+ 
+Principal Investigator, “High-Performance Wideband Data Conversion 
+Interfaces for an Evolving Informative World,” funded by Macau Science and 
+Technology Development Fund & Match-Fund from RC, UM, 2014 – 2016. 
+
+-----
+ 
+Co-Principal Investigator, “ASIANS – Advances on Sensor Inertial Aided 
+Navigation Systems,” Multi-Year Research Grant, funded by Research 
+Committee of University, 2012 – 2015. 
+ 
+Principal Investigator, “Support in Establishment of State Key Laboratory of 
+Analog and Mixed-Signal VLSI (Data Conversion and Signal Processing Research 
+Line),” funded by Macau Science and Technology Development Fund, 2011 – 
+2013. 
+ 
+Principal Investigator, “Research and Development of Comprehensive Data 
+Conversion Platforms in Nanometer CMOS Technology,” funded by Macau 
+Science and Technology Development Fund, 2010 – 2012. 
+ 
+Principal Investigator, “Research and Development of Comprehensive Data 
+Conversion Platforms in Nanometer CMOS Technology,” Match-Fund, funded 
+by Research Committee of University, 2010 – 2012. 
+ 
+Co-Principal Investigator, “Integrated generalized PWM controller for DC-AC 
+inverter,” funded by Macau Science and Technology Development Fund, 2010 – 
+2012. 
+ 
+Co-Principal Investigator, “Integrated generalized PWM controller for DC-AC 
+inverter,” Match-Fund, funded by Research Committee of University, 2010 – 
+2012. 
+ 
+Co-Principal 
+Investigator, 
+“High-Speed, 
+High-Resolution, 
+Low-Power 
+Analog-to-Digital Conversion System with Emerging Scaled CMOS Technology,” 
+funded by Macau Science and Technology Development Fund, 2007 – 2009. 
+ 
+Co-Principal 
+Investigator, 
+“High-Speed, 
+High-Resolution, 
+Low-Power 
+Analog-to-Digital Conversion System with Emerging Scaled CMOS Technology,” 
+Match-Fund, funded by Research Committee of University, 2007 – 2009.  
+ 
+Industrial Engineering Projects 
+ 
+ 
+Advanced 
+IC 
+project 
+developed 
+in 
+the 
+area 
+of 
+high-performance 
+Analog-to-Digital Converter, in collaboration with Hisilicon-Huawei, China. 
+ 
+Advanced engineering project developed in the area of high-performance 
+Analog-to-Digital Converter, in collaboration with Synopsys-Chipidea. 
+ 
+-------------------------------------------------------------------------------- 
+Professional Services - External 
+
+-----
+2016  
+Publication Chair, The IEEE Asian South Pacific Design 
+Automation Conference (ASPDAC)  
+2015 
+Track Chair, The IEEE TENCON Conference  
+2013 - Present 
+Technical Program Committee Member, The IEEE Asian 
+Solid-State Circuits Conference (A-SSCC)  
+2013 - Present 
+Student Design Contest Committee Member, The IEEE Asian 
+Solid-State Circuits Conference (A-SSCC)  
+2015 
+Review Track Chair, The IEEE TENCON Conference 
+2015 
+Technical Program Committee Member, The IEEE VLSI-SoC 
+Conference 
+2015 
+Technical Program Committee Member, The IEEE International 
+Wireless Symposium Conference 
+2015 
+Technical Program Committee Member, The IEEE ASICON 
+Conference 
+2011 - 2012 
+Technical Program Committee Member, The IEEE Radio 
+Frequency Integration Technology Conference (RFIT)  
+2012  
+Ph.D Defense Examination Committee Member (External), 
+The New University of Lisbon, Lisboa, Portugal 
+2011  
+Technical Program Committee Member, The IEEE Sensors 2011 
+Conference  
+2009 - Present 
+Secretary, IEEE Solid-State Circuit Society (SSCS) Macau Chapter. 
+2009 - Present 
+Treasurer/Secretary, IEEE Macau CAS/COM Joint Chapter. 
+2009  
+Review Committee Member (RCM), The 2009 Asia Pacific 
+Conference on Postgraduate Research in Microelectronics & 
+Electronics (PrimeAsia) 
+Dec 2008 
+ 
+Special-Session Co-Chair & Local Organization Member, IEEE 
+Asia Pacific Conference on Circuits and Systems (APCCAS), 2008, 
+Macau, China. 
+Jul 2008 
+Referee Committee, 2008 Macau’s High-School Student Funny 
+Science Competition, Macau, China 
+Jul 2006  
+ 
+Technical 
+Session 
+Chair, 
+the 
+Regional 
+Inter-University 
+Postgraduate Electrical and Electronic Engineering Conference 
+(RIUPEEEC), 2006, Macau, China 
+
+-----
+Dec 2004  
+ 
+Financial Committee Co-Chair & Technical Session Co-Chair, 
+2004 IEEE/IEEJ (7th) International Analog VLSI Workshop, 
+Macau, China 
+ 
+-------------------------------------------------------------------------------- 
+Professional Services - Internal 
+2012 Sept - Present 
+Chair, Program Revision Committee, ECE, FST, University of 
+Macau 
+2012 - Present 
+Member, Department Executive Committee ECE, FST, 
+University of Macau 
+2012 Sept – 2013 Aug 
+Member, Program Accreditation Committee, ECE, FST, 
+University of Macau 
+Sep 2007 – Present 
+Coordinator, Data Conversion and Signal Processing (DCSP) 
+Research Line, State-Key Laboratory of Analog and Mixed-Signal 
+VLSI, University of Macau 
+Sep 2007 – Present 
+Co-Coordinator, Integrated Power Research Line, State-Key 
+Laboratory of Analog and Mixed-Signal VLSI, University of Macau 
+2011 – 2012 Aug 
+Member of Board of Examiner, ECE, FST, University of 
+Macau 
+2010 - Present 
+PhD Thesis Proposal Assessment Committee Member, FST, 
+University of Macau 
+2010 - Present 
+PhD Qualifying Examination Committee Member, FST, 
+University of Macau 
+2009 - 2010 
+Member of Establishment Task Force, State Key Laboratory of 
+Analog and Mixed-Signal VLSI, University of Macau 
+2009 - 2011 
+Mentor, FST, University of Macau 
+2009 - Present 
+Member of Academic Council, FST, University of Macau. 
+-------------------------------------------------------------------------------- 
+Professional Review Services  
+ 
+Journal  
+ 
+IEEE Journal of Solid-State Circuits 
+ 
+IEEE Transactions on Circuits and Systems I – Regular Papers 
+ 
+IEEE Transactions on Circuits and Systems II – Express Briefs 
+ 
+IEEE Transactions on VLSI Systems 
+
+-----
+ 
+IEEE Transactions on Instrumentation and Measurement 
+ 
+Journal of Circuits, Systems and Computers 
+ 
+International Journal of Circuit Theory and Applications 
+ 
+Conferences 
+ 
+IEEE International Symposium on Circuits and Systems (ISCAS) 
+ 
+IEEE Biomedical Circuits and Systems Conference (BIOCAS) 
+ 
+IEEE Conference on Postgraduate Research in Microelectronics & 
+Electronics (PRIME) 
+ 
+IEEE Conference on Asia-Pacific Conference on Postgraduate Research in 
+Microelectronics & Electronics (PrimeAsia) 
+-------------------------------------------------------------------------------- 
+Honors and Awards  
+2016 
+ 
+Co-recipient 
+of 
+Third 
+Class, 
+Macau 
+Scientific 
+and 
+Technological Invention Award  澳門科學技術發明獎三等獎 
+2014 
+ 
+Co-recipient 
+of 
+Second 
+Class, 
+Macau 
+Scientific 
+and 
+Technological Invention Award  澳門科學技術發明獎二等獎 
+2012 
+ 
+Co-recipient 
+of 
+Second 
+Class, 
+Macau 
+Scientific 
+and 
+Technological Invention Award  澳門科學技術發明獎二等獎 
+2012 
+ 
+Co-recipient of Macau Scientific and Technological Special 
+Award  澳門科學技術特別獎勵 
+2011 
+(First-time in Macau) Co-recipient of Second Class, State 
+Scientific and Technological Progress Award  (澳門首獲)國家
+科學技術進步獎二等獎 
+Nov 2008 
+Chipidea Microelectronics Prize – Postgraduate Level, 
+, for the 
+outstanding academic and research achievement in Microelectronics. 
+(organized by University of Macau) 
+Jul 2006  
+Paper with Certificate of Merit, Regional Inter-University 
+Post-graduate 
+Electrical 
+and 
+Electronic 
+Engineering 
+Conference – IEEE RIUPEEEC'2006.  
+
+-----
+May 2005 
+Student Paper Contest Award, International Symposium on Circuits and 
+Systems (ISCAS’2005): 
+-------------------------------------------------------------------------------- 
+Student Honors and Awards under Advisory  
+Oct 2016 
+ 
+1 students win 2016 Postgraduate Science and Technology 
+Research and Development Award (FDCT) 
+Oct 2014 
+ 
+2 students win 2016 Postgraduate Science and Technology 
+Research and Development Award (FDCT) 
+Nov 2012 
+ 
+4 students win 2012 Postgraduate Science and Technology 
+Research and Development Award (FDCT) 
+Jun 2012 
+2012 Best Master Thesis Award in Tsinghua University
+2012 Best Master Thesis Award in Tsinghua University  
+By Guohe Yin, 满足生物医学低功耗需求的模数转换器设计技
+术研究 (Joint-Supervision with Tsinghua University) 
+Jun 2012 
+Travel Grant Award, 2012 IEEE Symposium on VLSI Circuits, 
+Hawaii 
+Paper: Chi-Hang Chan, Yan Zhu, Sai-Weng Sin, Seng-Pan U, and R. P. 
+Martins, “A 3.8mW 8b 1GS/s 2b/cycle Interleaving SAR ADC with 
+Compact DAC Structure”  
+Nov 2011 
+Student Design Contest Award, IEEE 2011 Asian Solid-State 
+Circuits Conference (A-SSCC) 
+Paper: Yan Zhu, Chi-Hang Chan, Sai-Weng Sin, Seng-Pan U, R.P.Martins, 
+Franco Maloberti, “A 35 fJ 10b 160 MS/s Pipelined-SAR ADC with 
+Decoupled Flip-Around MDAC and Self-Embedded Offset Cancellation” 
+Feb 2011 
+Silk Road Paper Award, IEEE 2011 Internal Solid-State Circuits 
+Conference (ISSCC) 
+Paper: He-Gong Wei, Chi-Hang Chan, U-Fat Chio, Sai-Weng Sin, Seng-Pan 
+U, R. P. Martins and F. Maloberti, “A 0.024mm2 8-bit 400 MS/s SAR ADC 
+with 2-bit per Cycle and Resistive DAC in 65 nm CMOS” 
+Jun 2012 
+2nd Runner-up for the Final Year Project Supervised: Zhao 
+Tianxiang, “A Multibit Dual-Feedback CT Sigma Delta Modulator 
+with Lowpass Signal Transfer Function,” 2012 IEEE Project 
+2012 IEEE Project 
+Competition, Macau
+Competition, Macau 
+
+-----
+Nov 2009 
+Third Prize for the Final Year Project Supervised: Jiang Yang, Yu 
+Xiaofeng, Cai Chenyan, “A 65nm CMOS High-Speed Low-Power 
+Continuous-Time Sigma-Delta Modulator For 3G WCDMA 
+Receivers,” “Challenge Cup” National Intervarsity Science and 
+“Challenge Cup” National Intervarsity Science and 
+Technology Competition
+Technology Competition, China
+, China 
+Sep 2009 
+Bronze Leaf Certificate, 2009 IEEE PrimeAsia Conference 
+U-Fat Chio, Hou-Lon Choi, Chi-Hang Chan, Si-Seng Wong, Sai-Weng Sin, 
+Seng-Pan U, R. P. Martins, “Comparator-Based Successive Folding ADC,” 
+IEEE Asia Pacific Conference on Postgraduate Research in 
+IEEE Asia Pacific Conference on Postgraduate Research in 
+Microelectronics 
+Microelectronics and
+and Electronics (PrimeAsia)
+Electronics (PrimeAsia), pp. 117-120, Nov. 2009. 
+Sep 2009 
+Champion for the Final Year Project Supervised: Jiang Yang, Yu 
+Xiaofeng, Cai Chenyan, “A 65nm CMOS High-Speed Low-Power 
+Continuous-Time Sigma-Delta Modulator For 3G WCDMA 
+Receivers,” 2009 IEEE Project Competitions, Macau
+2009 IEEE Project Competitions, Macau 
+Sep 2008 
+Champion for the Final Year Project Supervised: Li Ding, Sio Chan, 
+“A Pseudo-Differential Comparator-Based Pipelined ADC,” 2008 
+2008 
+IEEE Project Competitions, Macau
+IEEE Project Competitions, Macau 
+Sep 2008 
+1st Runner-Up for the Final Year Project Supervised: Lei Chon 
+Lei Chon 
+Hei
+Hei, “A Pseudo-Differential Comparator-Based Pipelined ADC,” 
+2008 IEEE Project Competitions, Macau
+2008 IEEE Project Competitions, Macau 
+Jun 2008 
+1st Runner-up – Undergraduate Section for the Final Year Project 
+Supervised: 
+Li 
+Ding, 
+Sio 
+Chan, 
+“A 
+Pseudo-Differential 
+Comparator-Based 
+Pipelined 
+ADC 
+with 
+Common 
+Mode 
+Feedforward Technique,” IET Young Members Exhibition and 
+IET Young Members Exhibition and 
+Conference 2008
+Conference 2008, organized by Young members Section, 
+IET(HK), Hong Kong, China 
+-------------------------------------------------------------------------------- 
+Invited Talks 
+1. 
+“Design Techniques for Nanometer Data Converters,” University of Porto, Porto, Portugal, 
+Jun. 2016.  
+2. 
+“Energy Efficient SAR-Type ADCs, Part II – Practical Design Case Study,” Tutorial Speaker, 
+International Symposium on Integrated Circuits (ISIC), Singapore, Dec. 2014. 
+3. 
+ “Design Techniques for Nanometer Data Converters,” Invited Speaker, CMOSET 2014 Dec. 
+Grenoble, France, Jul 2014. 
+
+-----
+4. 
+ “Macao Chip by Macao People" - Sharing Session on the First State Scientific and 
+Technological Progress Award for Macao 澳門人, 澳門”芯” – 澳門首獲國家科學技術
+進步獎成果分享會, Feb. 2012. 
+5. 
+“Research and Future Perspective of Data Converters Research”, Academic Committee 
+Meeting, State-Key Laboratory of Analog and Mixed-Signal VLSI, Mar. 2012.  
+6. 
+ “Design Techniques for Nanometer Data Converters,” Institute of Superior Technico 
+(IST), Lisboa, Portugal, Mar. 2012.  
+7. 
+ “Design Techniques for Nanometer Data Converters,” The New University of Lisbon, 
+Lisboa, Portugal, Mar. 2012. 
+8. 
+“High-Speed, High-Resolution, Low-Power Analog-to-Digital Conversion System with 
+Emerging Scaled CMOS Technology”, FDCT Project Presentation, Macau Science and 
+Technology Development Fund, Nov. 2011.  
+9. 
+ “Design Techniques for Nanometer Data Converters,” Hong Kong University of Science 
+and Technology, Hong Kong, Dec. 2010.  
+10. “Macau Microelectronics Development – Histories and Prospects” University of Macau, 
+Macau, Oct. 2009 and Nov 2010. 
+11.  “Introduction to the Research in Data Conversion and Signal Processing Research Line at 
+University of Macau,” Tsinghua University, Shenzhen, Nov 2009.  
+12.  “Introduction to the Research in Data Conversion and Signal Processing Research Line at 
+University of Macau,” Fudan University, Shanghai, May 2009.  
+-------------------------------------------------------------------------------- 
+Scientific Publications  
+Book 
+1. 
+Sai-Weng Sin, Seng-Pan U, and R.P.Martins, “Generalized Low-Voltage Circuit Techniques for 
+Very High-Speed Time-Interleaved Analog-to-Digital Converters, Analog Circuits and Signal 
+Analog Circuits and Signal 
+Processing, Springer
+Processing, Springer,  
+,  Oct. 2010.  
+Printed version:  
+(ISBN: 978-90-481-9709-5) 
+e-Book:  
+(ISBN: 978-90-481-9710-1) 
+Link: http://www.springer.com/engineering/electronics/book/978-90-481-9709-5 
+ 
+Patents 
+1. 
+Sai-Weng Sin, Li Ding, Yan Zhu, He-Gong Wei, Chi-Hang Chan, U-Fat Chio, Seng-Pan U, 
+R.P.Martins, F.Maloberti, “Time-Interleaved Pipelined-SAR Analog to Digital Converter with 
+Low  Power Consumption,” US Patent, No. 8,427,355, from 23rd Apr, 2013. 
+
+-----
+2. 
+Sai-Weng Sin, Li Ding, Yan Zhu, He-Gong Wei, Chi-Hang Chan, U-Fat Chio, Seng-Pan U, 
+R.P.Martins, F.Maloberti, “Analog to Digital Converter Circuit(類比至數位轉換器電路),” 
+Taiwan Patent, No. 201242261, Mar 2014. 
+3. 
+Yan Zhu, Chi-Hang Chan, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, R.P. Martins and Franco 
+Maloberti, “N-Bits Successive Approximation Register Analog-to-Digital Converter Circuit,” 
+US Patent No: 8,344,931, from 1th Jan, 2013. 
+4. 
+He-Gong Wei, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, R.P.Martins, “Delay Generator,” US 
+patent, No. US8,411,259 B2, May 2013. 
+5. 
+U-Fat Chio, He-Gong Wei, Yan Zhu, Sai-Weng Sin, Seng-Pan U, R. P. Martins and Franco 
+Maloberti, “Analog-to-Digital Converting System (類比數位轉換系統),” Taiwan Patent 
+Application No: 100103984, 2011. 
+6. 
+He-Gong Wei, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, R.P.Martins, “Delay Generator (延遲產
+生器),” Taiwan Patent,  No. 201246793, Mar 2014. 
+7. 
+U-Fat Chio, He-Gong Wei, Yan Zhu, Sai-Weng Sin, Seng-Pan U, R. P. Martins and Franco 
+Maloberti, “Cascade Analog to Digital Converting System,” US Patent, No. 8,466,823 B2, 2nd 
+Aug, 2012. 
+8. 
+Chi-Hang Chan, Yan Zhu, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, R. P. Martins “
+Comparator and Calibration Thereof,” US Patent, No. 13/675311, Jul 2014. 
+ 
+ 
+Journal Papers 
+IEEE Journal of Solid
+IEEE Journal of Solid-State Circuits (JSSC) 
+State Circuits (JSSC)  
+1. 
+Chi-Hang Chan, Yan Zhu, Sai-Weng Sin, Seng-Pan U, Rui Paulo Martins, " A 6 b 5 GS/s 4 
+Interleaved 3 b/Cycle SAR ADC ", IEEE Journal of Solid
+IEEE Journal of Solid-State Circuit
+State Circuits. vol. 51, Issue 2, pp. 
+365-377, Feb 2016. [SCI, EI]  
+2. 
+Chi-Hang Chan, Yan Zhu, Sai-Weng Sin, Seng-Pan U, Rui Paulo Martins, Franco Maloberti, "A 
+5-Bit 1.25-GS/s 4x-Capacitive-Folding Flash ADC in 65-nm CMOS", IEEE Journal of 
+IEEE Journal of 
+Solid
+Solid-State Circuit
+State Circuits. vol. 48, Issue 9, pp. 2154-2169, Sept 2013. [SCI, EI]  
+[Ranked 12th Top Aceess paper in IEEE Journal of Solid-State Circuits in Aug 2013 with 
+it Early Access Version] 
+3. 
+Si-Seng Wong, U-Fat Chio, Yan Zhu, Sai-Weng Sin, Seng-Pan U, Rui Paulo Martins, "A 2.3 
+mW 10-bit 170 MS/s Two-Step Binary-Search Assisted Time-Interleaved SAR ADC", 
+", in press in 
+IEEE Journal of Solid
+IEEE Journal of Solid-State Circuits
+State Circuits. vol. 48, Issue 8, pp. 1783-1794, Aug 2013. [SCI, EI] 
+[Ranked 3rd Top Aceess paper in IEEE Journal of Solid-State Circuits in Jul 2013 with it 
+Early Access Version]  
+
+-----
+[Ranked 95th Top Aceess paper in the whole IEEE Xplore datebase in Jul 2013 with it 
+Early Access Version] 
+4. 
+He-Gong Wei, Chi-Hang Chan, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, Rui Paulo Martins, 
+Franco Maloberti, "A 8-bit 400MS/s 2-bit per cycle SAR ADC with Resistive DAC", IEEE 
+IEEE 
+Journal of Solid
+Journal of Solid-State Circuit
+State Circuits, vol. 47, Issue 11, pp. 2763-2772, Nov 2012. [SCI, EI] 
+[Ranked 78th Top Aceess paper in the whole IEEE Xplore datebase in Nov 2012] 
+5. 
+Yan Zhu, Chi-Hang Chan, Sai-Weng Sin, Seng-Pan U, R. P. Martins, Franco Maloberti, "A 50fJ 
+10b 160 MS/s Pipelined-SAR ADC with Decoupled Flip-Around MDAC and Self-Embedded 
+Offset Cancellation", IEEE Journal of Solid
+IEEE Journal of Solid-State Circuits
+State Circuits, vol. 47, Issue 11, pp. 2614 – 2626, 
+Nov 2012. [SCI, EI] [Ranked 43th Top Aceess paper in the whole IEEE Xplore datebase 
+in Nov 2012] 
+6. 
+Yan Zhu, Chi-Hang Chan, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, R.P. Martins and Franco 
+Maloberti, " A 10-bit 100-MS/s Reference-Free SAR ADC in 90nm CMOS,” in 
+in IEEE 
+IEEE Journal 
+Journal 
+of Solid
+of Solid-State Circuits,
+State Circuits, vol. 45, no. 6, pp. 1111 – 1121, Jun 2010. [SCI, EI]  
+IEEE Trans
+IEEE Transactions on
+actions on Circuits 
+Circuits and Systems I
+and Systems I - Regular Papers
+egular Papers (TCAS
+TCAS-I) 
+)  
+7. 
+Liang Qi, Sai-Weng Sin, Seng-Pan U, Franco Maloberti, Rui Paulo Martins, "A 4.2mW 
+77.1dB-SNDR 5MHz-BW DT 2-1 MASH ΔΣ Modulator with Multirate Opamp Sharing ", in 
+press in IEEE Transactions on Circuits and Systems I 
+IEEE Transactions on Circuits and Systems I - Regular Papers
+Regular Papers, 2017. [SCI, EI]  
+8. 
+Jianyu Zhong, Yan Zhu, Chi-Hang Chan, Sai-Weng Sin, Seng-Pan U, and R.P.Martins, “A 12b 
+180MS/s 0.068mm2 with Full-Calibration-Integrated Pipelined-SAR ADC,” in press in IEEE 
+IEEE 
+Trans
+Transactions on
+actions on Circuits 
+Circuits and Systems I
+and Systems I - Regular Papers
+egular Papers, 2017. [SCI, EI]  
+9. 
+Chi-Hang Chan, Yan Zhu, Sai-Weng Sin, Seng-Pan U, R.P.Martins, Franco Maloberti, “A 
+7.8-mW 5-b 5-GS/s Dual-Edges-Triggered Time-Based Flash ADC,” in press in IEEE 
+IEEE 
+Trans
+Transactions on
+actions on Circuits 
+Circuits and Systems I
+and Systems I - Regular Papers
+egular Papers, 2017. [SCI, EI]  
+10. Jianyu Zhong, Yan Zhu, Sai-Weng Sin, Seng-Pan U, and R.P.Martins, “Thermal and Reference 
+Noise Analysis of Time-Interleaving SAR and Partial-Interleaving Pipelined-SAR ADCs,” in 
+IEEE Trans
+IEEE Transactions on
+actions on Circuits 
+Circuits and Systems I
+and Systems I - Regular Papers
+egular Papers, vol. 62, no. 9, pp. 
+2196-2206, Sep 2015. [SCI, EI]  
+11. Sai-Weng Sin, Seng-Pan U, and R.P.Martins, “Generalized Circuit Techniques for Low-Voltage 
+High-Speed Reset- and Switched-Opamps,” in IEEE Trans
+IEEE Transactions on
+actions on Circuits 
+Circuits and Systems 
+and Systems 
+I - Regular Papers
+egular Papers, vol. 55, no. 8, pp. 2188-2201, Sep 2008. [SCI, EI]  
+IEEE Trans
+IEEE Transactions on
+actions on Circuits 
+Circuits and Systems I
+and Systems II - Express Briefs
+Express Briefs (TCAS
+TCAS-II
+II) 
+)  
+12. Chi-Hang Chan, Yan Zhu, Sai-Weng Sin, Boris Murmann, Seng-Pan U, R. P. Martins, 
+“Metastablility in SAR ADCs” in IEEE Transactions on CAS 
+IEEE Transactions on CAS – Part II: Express Briefs
+Part II: Express Briefs, 
+, 
+vol.64, no. 2, pp111-115, Feb 2017. [SCI, EI] 
+
+-----
+13. Yan Lu, Haojuan Dai, Mo Huang, Man-Kay Law, Sai-Weng Sin, Seng-Pan U, R. P. Martins, “ A 
+Wide Input Range Dual-Path CMOS Rectifier for RF Energy Harvesting” in press in IEEE 
+IEEE 
+Transactions on CAS 
+Transactions on CAS – Part II: Express Briefs
+Part II: Express Briefs. [SCI, EI] 
+14. Mo Huang, Yan Lu, Sai-Weng Sin, Seng-Pan U, R. P. Martins, Wing-Hung Ki, “Limit Cycle 
+Oscillation Reduction for Digital Low Dropout Regulators” in IEEE Transactions on CAS 
+IEEE Transactions on CAS – 
+Part II: Express Briefs
+Part II: Express Briefs, vol.63, no. 9, pp903-907, Sep 2016 [SCI, EI] 
+15. Mo Huang, Yan Lu, Sai-Weng Sin, Seng-Pan U, R. P. Martins, “A Fully-Integrated Digital LDO 
+with Coarse-Fine-Tuning and Burst-Mode Operation” in IEEE Transactions on CAS 
+IEEE Transactions on CAS – Part 
+Part 
+II: Express Briefs
+II: Express Briefs, vol.63, no. 7, pp683-687, Jul 2016 [SCI, EI] 
+16. U-Fat Chio, He-Gong Wei, Yan Zhu, Sai-Weng Sin, Seng-Pan U, R. P. Martins, Franco 
+Maloberti “Design and Experimental Verification of a Power Effective Flash-SAR Subranging 
+ADC”in IEEE Transactions on CAS 
+IEEE Transactions on CAS – Part II: Express Briefs
+Part II: Express Briefs, vol.57, issue8,pp607-611, 
+Aug 2010 [SCI, EI] 
+17. U-Fat Chio, He-Gong Wei, Yan Zhu, Sai-Weng Sin, Seng-Pan U, R. P. Martins and Franco 
+Maloberti, “Design and Experimental Verification of a Power Effective Flash-SAR Subranging 
+ADC,” in press in IEEE Trans. On Circuits and System II 
+IEEE Trans. On Circuits and System II – Express Briefs
+Express Briefs, 
+, vol. 57, no. 8, 
+pp. 607 – 611, Aug 2010 [SCI, EI] 
+18. He-Gong Wei, U-Fat Chio, Yan Zhu, Sai-Weng Sin, Seng-Pan U, R. P. Martins, “A Rapid 
+Power-Switchable Track-and-Hold Amplifier in 90nm CMOS,” in IEEE Trans. On Circuits 
+IEEE Trans. On Circuits 
+and System II 
+and System II – Express Briefs
+Express Briefs, vol. 57, no. 1, pp. 16-20, Jan 2010. 
+. [SCI, EI] 
+19. Sai-Weng Sin, U-Fat Chio, Seng-Pan U and R. P. Martins, “Statistical Spectra and Distortion 
+Analysis of Time-Interleaved Sampling Bandwidth Mismatch,” in IEEE Trans. on 
+IEEE Trans. on Circuits 
+Circuits 
+and Systems I
+and Systems II – Express Briefs,
+Express Briefs, vol. 55, no. 7, pp. 648 – 652, Jul 2008. [SCI, EI]  
+IEEE Trans
+IEEE Transactions on
+actions on Very Large Scale Integration (VLSI) Systems
+Very Large Scale Integration (VLSI) Systems (TVL
+TVLSI
+SI) 
+)  
+20. Arshad Hussain, Sai-Weng Sin, Chi-Hang Chan, Seng-Pan U, Franco Maloberti, Rui Paulo 
+Martins, “Active-Passive ΔΣ Modulator for High-Resolution and Low-Power Applications,” in 
+in IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 25, no. 1, pp. 
+364 – 374, Jan 2017. [SCI, EI]   
+21. Dezhi Xing, Yan Zhu, Chi-Hang Chan, Sai-Weng Sin, Fan Ye, Junyan Ren, Seng-Pan U, Rui 
+Paulo Martins, “Seven-bit 700-MS/s Four-Way Time-Interleaved SAR ADC With Partial 
+Vcm-Based Switching,” in IEEE Transactions
+IEEE Transactions on Very Large Scale Integration (VLSI) 
+on Very Large Scale Integration (VLSI) 
+Systems
+Systems, vol. 25, no. 3, pp. 1168 – 1172, Mar 2017. [SCI, EI] 
+22. Jianwei Liu, Yan Zhu, Chi-Hang Chan, Sai-Weng Sin, Seng-Pan U, Rui Paulo Martins, 
+“Uniform Quantization Theory-Based Linearity Calibration for Split Capacitive DAC in an SAR 
+
+-----
+ADC,” in IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 24, 
+no. 7, pp. 2603 – 2607, Jul 2016.   
+23. Yan Zhu, Chi-Hang Chan, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, Rui Paulo Martins, Franco 
+Maloberti, “Split-SAR ADCs: Improved Linearity with Power and Speed Optimization in 90nm 
+CMOS,” in IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 22, 
+no. 2, pp. 372-383, Feb. 2014.   
+IEEE Trans
+IEEE Transactions on
+actions on Power Electronics
+Power Electronics (TPE
+TPEL) 
+)  
+24. Man-Chung Wong, Yan-Zheng Yang, Chi-Seng Lam, Wai-Hei Choi, Ning Yi Dai, Yajie Wu, 
+Chi-Kong Wong, Sai-Weng Sin, U-Fat Chio, Seng-Pan, U, R.P.Martins, “Self-Reconfiguration 
+Property of a Mixed Signal Controller for Improving Power Quality Compensation During 
+Light Loading,” in IEEE Tran
+IEEE Trans. on 
+s. on Power Electronics
+Power Electronics, vol. 30, no. 10, pp. 5938 – 5951, Oct 
+2014.  
+IEEE Trans
+IEEE Transactions on
+actions on Instrumentation and Measurement
+Instrumentation and Measurement (TIM
+TIM) 
+)  
+25. Seng-Pan U, Sai-Weng Sin and R.P.Martins, “Exact spectra analysis of sampled signal with 
+jitter-induced nonuniformly holding effects,” in IEEE Trans. on Instrumentation and 
+IEEE Trans. on Instrumentation and 
+Measurement
+Measurement, vol. 53, no. 4, pp. 1279 – 1288, Aug 2004. [SCI, EI]  
+Other Journals
+Other Journals  
+26. Da Feng, Franco Maloberti, Sai-Weng Sin, Rui Paulo Martins, “Polyphase Decomposition for 
+Tunable Band-Pass Sigma-Delta A/D Converters", IEEE Journal on Emerging and Selected 
+IEEE Journal on Emerging and Selected 
+Topics in Circuits and Systems
+Topics in Circuits and Systems, vol. 5, Issue 4, pp. 537-547, Dec. 2015.  
+27. Dongyang Jiang, Sai-Weng Sin, Seng-Pan U, Rui Paulo Martins, Franco Maloberti, " 
+Reconfigurable mismatch-free time-interleaved bandpass sigma–delta modulator for wireless 
+communications", IET Electronics Letter
+IET Electronics Letter, vol. 53, Issue 7, pp. 506-508, Mar. 2017.  
+28. Yi-Wei Tan, Chi-Seng Lam, Sai-Weng Sin, Man-Chung Wong, Seng-Pan U, Rui Paulo Martins, " 
+DCM Operation Analysis of 3-Level Boost Converters ", in press in IET Electronics Letter
+IET Electronics Letter.  
+29. Wen-Liang Zeng, Chi-Seng Lam, Wen-Ming Zheng, Sai-Weng Sin, Ning-Yi Dai, Man-Chung 
+Wong, Seng-Pan U, Rui Paulo Martins, " DCM operation analysis of KY converter ", IET 
+IET 
+Electronics Letter
+Electronics Letter, vol. 51, Issue 24, pp. 2037-2039, Nov. 2015.  
+30. Qi Liang, Sai-Weng Sin, Seng-Pan U, Rui Paulo Martins, " Resolution-enhanced sturdy MASH 
+delta–sigma modulator for wideband low-voltage applications", IET Electronics Letter
+IET Electronics Letter, vol. 
+51, Issue 14, pp. 1061-1063, Jul. 2015.  
+31. Chen-Yan Cai, Yang Jiang, Sai-Weng Sin, Seng-Pan U, Rui Paulo Martins, "Excess-loop-delay 
+compensation technique for CT ΔΣ modulator with hybrid active-passive loop-filters", Analog 
+Analog 
+Integrated Circuits and Signal Processing, Springe
+Integrated Circuits and Signal Processing, Springer, vol. 76, Issue 1, pp. 35-46, Jul. 2013.  
+
+-----
+32. Jianwei Liu, Chi-Hang Chan, Sai-Weng Sin, Seng-Pan, U, R.P.Martins, " A 4x Time-Domain 
+Interpolation 6-bit 3.4GS/s 12.6mW Flash ADC in 65nm CMOS", in Journal of Semiconductor 
+Technology and Science, Vol. 16, No. 4, pp. 395-404, Aug 2016. 
+33. Yan Zhu, U-Fat Chio, He-Gong Wei, Sai-Weng Sin, Seng-Pan U and R.P. Martins, " Linearity 
+Analysis On A Series-Split Capacitor Array for High-Speed SAR ADCs,” in 
+in Hindawi VLSI 
+Hindawi VLSI 
+Design
+Design, Special Issue "Selected Papers from the Midwest Symposium on Circuits and 
+, Special Issue "Selected Papers from the Midwest Symposium on Circuits and 
+Systems"
+Systems", vol. 2010, no. 1, pp. 1-8, Apr 2010.  
+34. Sai-Weng Sin, Seng-Pan U, R.P.Martins, “A 1.2-V 10-bit 60-360MS/s Time-Interleaved 
+Pipelined ADC in 0.18um CMOS with Minimized Supply Headroom”, in IET 
+IET Proceedings 
+Proceedings - 
+Circuits, Devices 
+Circuits, Devices and
+and Systems
+Systems, vol. 4, no. 1, pp. 1-13, Jan 2010.  
+35. Sai-Weng Sin, Seng-Pan U, R.P.Martins, “A 1-V 10b 40MS/s Pipelined ADC with Low-Voltage 
+Circuit Techniques in 0.18um CMOS”, 澳 門 機 電 工 程 專 業 協 會 (APEMEM) 會 刊
+(2007-2008), pp. 37-43. 
+ 
+Conference Papers 
+IEEE International Solid
+IEEE International Solid-State Circuit Conference (ISSCC) 
+State Circuit Conference (ISSCC)  
+1. 
+He-Gong Wei, Chi-Hang Chan, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, R. P. Martins and F. 
+Maloberti, “A 0.024mm2 8-bit 400 MS/s SAR ADC with 2-bit per Cycle and Resistive DAC in 
+65 nm CMOS,” in IEEE International Solid-State Circuit Conference (ISSCC),  vol. 54, pp.188-189, 
+Feb 2011. (ISSCC Silk Road Award) 
+(ISSCC Silk Road Award)  
+2. 
+Chi-Hang Chan, Yan Zhu, Sai-Weng Sin, Seng-Pan U, R. P. Martins, “A 5.5mW 6b 5GS/s 
+4-times Interleaved 3b/cycle SAR ADC in 65nm CMOS,” in IEEE International Solid-State Circuit 
+Conference (ISSCC), 2015.  
+3. 
+Yan Lu, Junmin Jiang, Wing-Hung Ki, C. Patrick Yue, Sai-Weng Sin,  Seng-Pan U, R. P. 
+Martins, “A 123-Phase DC-DC Converter-Ring with Fast-DVS for Microprocessors,” in IEEE 
+International Solid-State Circuit Conference (ISSCC), 2015. 
+IEEE International Symposium on VLSI Circuits (VLSI)
+IEEE International Symposium on VLSI Circuits (VLSI) 
+4. 
+Yan Zhu, Chi-Hang Chan, Sai-Weng Sin, Seng-Pan U, R.P.Martins, “A 34fJ 10b 500 MS/s 
+Partial-Interleaving Pipelined SAR ADC,” 2012 Symposium on VLSI Circuits Digest of  Technical 
+Papers, page 90-91;13-15 June 2012, pp. 90-91, Jun 2012 
+5. 
+Chi-Hang Chan, Yan Zhu, Sai-Weng Sin, Seng-Pan U, R.P.Martins, “A 3.8mW 8b 1GS/s 
+2b/cycle Interleaving SAR ADC with Compact DAC Structure,” 2012 Symposium on VLSI 
+Circuits Digest of Technical Papers, page 86-87, Hawaii, Jun 2012. (with Travel Grant Award)
+(with Travel Grant Award) 
+IEEE Custom Integrated Circuits Conference (CICC)
+IEEE Custom Integrated Circuits Conference (CICC) 
+
+-----
+6. 
+Si-Seng Wong, U-Fat Chio, Yan Zhu, Sai-Weng Sin, Seng-Pan U, R.P.Martins, “A 2.3mW 10-bit 
+170MS/s Two-Step Binary-Search Assisted Time-Interleaved SAR ADC,” in Proc. of IEEE 
+Custom Integrated Circuits Conference – CICC, Sept 2012.  
+IEEE European Solid
+IEEE European Solid-State Circuits Conference (ESSCIRC) 
+State Circuits Conference (ESSCIRC)  
+1. 
+Dante Gabriel Muratore, Alper Akdikmen, Edoardo Bonizzoni, Franco Maloberti, U-Fat Chio, 
+Sai-Weng Sin, Rui Paulo Martins, “An 8-bit 0.7-GS/s Single Channel Flash-SAR ADC in 65-nm 
+CMOS Technology ", in Proc. IEEE European Solid-State Circuits Conference – ESSCIRC 2016, pp. 
+421-424, Sept 2016.  
+2. 
+Jianyu Zhong, Yan Zhu, Chi-Hang Chan, Sai-Weng Sin, Seng-Pan U, R. P. Martins, “A 12b 
+180MS/s 0.068mm2 Pipelined-SAR ADC with Merged-residue DAC for Noise Reduction ", in 
+Proc. IEEE European Solid-State Circuits Conference – ESSCIRC 2016, pp. 169-172, Sept 2016.   
+3. 
+Rui Wang, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, Zhihua Wang, Rui Paulo Martins, " A 12-Bit 
+110MS/S 4-Stage Single-Opamp Pipelined SAR ADC with Ratio-Based GEC Technique", in 
+Proc. IEEE European Solid-State Circuits Conference – ESSCIRC 2012, Sept 2012. 
+4. 
+Guohe Yin, He-Gong Wei, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, Zhihua Wang, Rui Paulo 
+Martins, A 0.024 mm2 4.9 fJ 10-bit 2 MS/s SAR ADC in 65 nm CMOS ", in Proc. IEEE 
+European Solid-State Circuits Conference – ESSCIRC 2012, France, September 2012. 
+5. 
+U-Fat Chio, Chi-Hang Chan, Hou-Lon Choi, Sai-Weng Sin, Seng-Pan U, Rui Paulo Martins, " A 
+7-bit 300-MS/s Subranging ADC with Embedded Threshold & Gain-Loss Calibration", in Proc. 
+IEEE European Solid-State Circuits Conference – ESSCIRC, pp. 363-366, Sept 2011.  
+6. 
+Sai-Weng Sin, Li Ding, Yan Zhu, He-Gong Wei, Chi-Hang Chan, U-Fat Chio, Seng-Pan U, 
+R.P.Martins and F. Maloberti, "An 11b 60MS/S 2.1mW Two-Step Time-Interleaved SAR-ADC 
+with Reused S&H", in Proc. IEEE European Solid-State Circuits Conference – ESSCIRC, pp. 218 - 
+221, Sept 2010.  
+IEEE Asian Solid
+IEEE Asian Solid-State Circuits Conference (A
+State Circuits Conference (A-SSCC)
+SSCC) 
+7. 
+Yuan Ren, Sai-Weng Sin, Chi-Seng Lam, Man-Chung Wong, Seng-Pan, U, R.P.Martins, " A 
+High DR Multi-Channel Stage-Shared Hybrid Front-End for Integrated Power Electronics 
+Controller", IEEE Asian Solid-State Circuit Conference – (A-SSCC), pp. 1-4, Nov 2016. 
+8. 
+Jianwei Liu, Chi-Hang Chan, Sai-Weng Sin, Seng-Pan, U, R.P.Martins, " A 89fJ-FOM 6-bit 
+3.4GS/s flash ADC with 4x time-domain interpolation", IEEE Asian Solid-State Circuit Conference 
+– (A-SSCC), pp. 1-4, Nov 2015. 
+9. 
+Li Ding, Wenlan Wu, Sai-Weng Sin, Seng-Pan, U, R.P.Martins, " A 13-bit 60MS/s split 
+pipelined ADC with background gain and mismatch error calibration ", IEEE Asian Solid-State 
+Circuit Conference – (A-SSCC), pp. 77-80, Nov 2013 
+
+-----
+10. Jianyu Zhong, Yan Zhu, Sai-Weng Sin, Seng-Pan U, R. P. Martins, "Inter-Stage Gain Error 
+Self-Calibration of a 31.5fJ 10b 470MS/s Pipelined-SAR ADC", IEEE Asian Solid-State Circuit 
+Conference – (A-SSCC), pp. 153-156, Nov 2012 
+11. Zhijie Chen, Yang Jiang, Chenyan Cai, He-Gong Wei, Sai-Wen Sin, Seng-Peng U, Zhihua Wang, 
+R. P. Martins, "A 22.4μW 80dB SNDR ΣΔ Modulator with Passive Analog Adder and SAR 
+Quantizer for EMG Application", IEEE Asian Solid-State Circuit Conference – (A-SSCC), pp. 
+257-260, Nov 2012 
+12. Yan Zhu, Chi-Hang Chan, Sai-Weng Sin, Seng-Pan U, R.P.Martins, Franco Maloberti, “A 35 fJ 
+10b 160 MS/s Pipelined-SAR ADC with Decoupled Flip-Around MDAC and Self-Embedded 
+Offset Cancellation,” in IEEE Asian Solid-State Circuit Conference – A-SSCC, pp. 61-64, Nov 2011. 
+(Student Design Contest
+Student Design Contest Winner
+Winner)  
+13. Chi-Hang Chan, Yan Zhu, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, R.P.Martins, “A 
+Reconfigurable Low-Noise Dynamic Comparator with Offset Calibration in 90nm CMOS,” in 
+press in IEEE Asian Solid-State Circuit Conference – A-SSCC, pp. 233-236, Nov 2011.  
+14. Si-Seng Wong, U-Fat Chio, Chi-Hang Chan, Hou-Lon Choi, Sai-Weng Sin, Seng-Pan U, 
+R.P.Martins, “A 4.8-bit ENOB 5-bit 500MS/s Binary-Search ADC with Minimized Number of 
+Comparators,” in IEEE Asian Solid-State Circuit Conference – A-SSCC, pp. 73-76, Nov 2011.  
+15. He-Gong Wei, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, R.P.Martins, “A Process-insensitive 
+Current-Controlled Delay Generator with Threshold Voltage Compensation,” in IEEE Asian 
+Solid-State Circuit Conference (A-SSCC),  pp. 221-224, Nov, 2010.  
+16. Sai-Weng Sin, He-Gong Wei, U-Fat Chio, Yan Zhu, Seng-Pan U, R.P. Martins and Franco 
+Maloberti, " On-Chip Small Capacitor Mismatches Measurement Technique using 
+Beta-Multiplier-Biased Ring Oscillator,” in Proc. of 2009 IEEE Asian Solid-State Circuit Conference 
+(A-SSCC), pp. 49-52, Nov 2009. 
+IEEE International Symposium on Circuits and Systems (ISCAS) 
+IEEE International Symposium on Circuits and Systems (ISCAS)  
+17. Da Feng, F.Maloberti, Sai-Weng Sin, Seng-Pan U and R.P.Martins, " Jitter-resistant Capacitor 
+Based Sine-Shaped DAC for Continuous-Time Sigma-Delta modulators ", IEEE International 
+Symposium on Circuits and Systems (ISCAS),  May 2014. 
+18. Wen-Lan Wu, Yan Zhu, U-Fat Chio, Li Ding, Chi-Hang Chan, Sai-Weng Sin,  Seng-Pan U,  
+Rui Paulo Martins, "A 0.6V 8b 100MS/s SAR ADC with Minimized DAC Capacitance and 
+Switching Energy in 65nm CMOS", IEEE International Symposium on Circuits and Systems (ISCAS),  
+May 2013. 
+19. Yun Du, Tao He,  Yang Jiang, Sai-Weng Sin,  Seng-Pan U,  Rui Paulo Martins, "A 
+Continuous-Time VCO-Assisted VCO-Based Sigma Delta Modulator with 76.6dB SNDR and 
+10MHz BW", IEEE International Symposium on Circuits and Systems (ISCAS), pp. May 2013. 
+
+-----
+20. Tao He, Yang Jiang, Yun Du, Sai-Weng Sin, Seng-Pan U and Rui. P. Martins, “A 10MHz BW 
+78dB DR CT ΣΔ Modulator with Novel Switched High Linearity VCO-Based Quantizer,” in 
+2012 IEEE International Symposium on Circuits and Systems (ISCAS), pp. 65-69, May. 2012.  
+21. Yan Zhu, Chi-Hang Chan, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, Rui Paulo Martins, “A 
+Voltage Feedback Charge Compensation Technique for Split DAC Architecture in SAR ADCs”, 
+in 2010 IEEE International Symposium on Circuits and Systems (ISCAS). pp. 607-611, May. 2010. 
+22. He-Gong Wei, U-Fat Chio, Yan Zhu, Sai-Weng Sin, Seng-Pan U and R.P. Martins, “A Power 
+Scalable 6-bit 1.2GS/s Flash ADC with Power on/off Track-and-Hold and Preamplifier”, in 
+Proc. of 2008 IEEE International Symposium on Circuits and Systems (ISCAS), pp. 5-8, Seattle, USA, 
+May 2008. 
+23. Sai-Weng Sin, Seng-Pan U and R. P. Martins, “A novel low-voltage finite-gain compensation 
+technique for high-speed reset- and switched-opamp circuits,” in Proceedings of 2006 IEEE 
+International Symposium on Circuits and Systems - ISCAS'2006, p. 3794-3797, May 2006. 
+24. Jun-Xia Ma, Sai-Weng Sin, Seng-Pan U and R. P. Martins, “A Power-Efficient 1.056 GS/s 
+Resolution-Switchable 5-bit/6-bit Flash ADC for UWB Applications,” in Proceedings of 2006 
+IEEE International Symposium on Circuits and Systems - ISCAS'2006, p. 4305-4308, May 2006. 
+25. Sai-Weng Sin, Seng-Pan U, and R.P.Martins, "A Novel Low-Voltage Cross-Coupled Passive 
+Sampling Branch for Reset- and Switched-Opamp Circuits,” in Proceedings of 2005 IEEE 
+International Symposium on Circuits and Systems - ISCAS'2005, p. 1585-1588, May 2005. 
+26. Sai-Weng Sin, Seng-Pan U, and R.P.Martins, "A Novel Very Low-Voltage SC-CMFB Technique 
+for Fully-Differential Reset-Opamp Circuits,” in Proceedings of 2005 IEEE International Symposium 
+on Circuits and Systems - ISCAS'2005, p. 1581-1584, May 2005.  
+27. Sai-Weng Sin, Seng-Pan U, and R.P.Martins, " A Generalized Timing-Skew-Free, Multi-Phase 
+Clock Generation Platform for Parallel Sampled-Data Systems,” in Proceedings of 2004 IEEE 
+International Symposium on Circuits and Systems - ISCAS'2004, vol.1, pp. I-369 – I-372 , May 2004. 
+28. Sai-Weng Sin, Seng-Pan U, and R.P.Martins, " Timing-Mismatch Analysis in High-Speed Analog 
+Front-End with Nonuniformly Holding Output,” in Proceedings of IEEE International Symposium on 
+Circuits and Systems 2003 - ISCAS'2003, vol. 1, pp. I-129 – I-132, May 2003. 
+IEEE 
+IEEE International Conference on Acoustics, Speech & Signal Processing 
+International Conference on Acoustics, Speech & Signal Processing (I
+(ICASSP) 
+CASSP)  
+29. Sai-Weng Sin, Seng-Pan U and R.P.Martins, "Quantitative Noise Analysis of Jitter-Induced 
+Non-Uniformly Sampled-And-Held Signals," in Proceedings of IEEE International Conference on 
+Acoustics, Speech and Signal Processing – “ICASSP'2003", vol. 6, pp. VI-253 - 256, April 2003. 
+IEEE 
+IEEE Instrumentation and Measurement Technology Conference 
+Instrumentation and Measurement Technology Conference (IMTC) 
+(IMTC)  
+
+-----
+30. Seng-Pan U, Sai-Weng Sin and R.P.Martins, " Spectra Analysis of Nonuniformly Holding 
+Signals for Time-Interleaved Systems with Timing Mismatches," in Proceedings of IEEE 
+Instrumentation and Measurement Technology Conference - IMTC'2003, vol. 2, pp. 1298-1301, May 
+2003.  
+IEEE Midwest Symposium on Circuits and Systems (MWSCAS)
+IEEE Midwest Symposium on Circuits and Systems (MWSCAS) 
+31. Ding Li, Sai-Weng Sin, Seng-Pan U, Rui Paulo Martins, "A Background Gain-Calibration 
+Technique for Low Voltage Pipelined ADCs Based on Nonlinear Interpolation", in press in 
+IEEE Int. Midwest Symposium on Circuits and Systems (MWSCAS), Aug. 2013. 
+32. Chen-Yan Cai, Yang Jiang, Sai-Weng Sin, Seng-Pan U and Rui. P. Martins, “An ELD Tracking 
+Compensation Technique for Active-RC CT ΣΔ Modulators,” in Proc. IEEE International 
+Midwest Symposium on Circuits and Systems – MWSCAS, pp. 1096 – 1099, Aug 2012.  
+33. Zhong Jian Yu, Yan Zhu, Sai-Weng Sin, Seng-Pan U, R.P.Martins, "A Multi-Merged-Switched 
+Redundant Capacitive DACs for 2b/cycle SAR ADC", IEEE Midwest Symposium on Circuits and 
+Systems – MWSCAS, Aug. 2011 
+34. Chen-Yan Cai, Yang Jiang, Sai-Weng Sin, Seng-Pan U and Rui. P. Martins, “A Passive 
+Excess-Loop-Delay Compensation Technique for Gm-C Based Continuous-Time ΣΔ 
+Modulators,” IEEE Midwest Symposium on Circuits and Systems – MWSCAS, Aug. 2011.  
+35. Yang Jiang, Chen-Yan Cai, Sai-Weng Sin, Seng-Pan U and Rui P. Martins, “Clock-Jitter 
+Sensitivity Reduction in CT ΣΔ Modulators Using Voltage-Crossing Detection DAC,” IEEE 
+Midwest Symposium on Circuits and Systems – MWSCAS, Aug. 2011  
+36. Tao He, Yun Du, Yang Jiang, Sai-Weng Sin, Seng-Pan U and Rui P. Martins, “A 
+Dual-VCO-Based Quantizer with Highly Improved Linearity and Enlarged Dynamic Range,” 
+IEEE International Midwest Symposium on Circuits and Systems – MWSCAS 2011, Aug. 2011. 
+37. Peng Zhang, Zhijie Chen, He-Gong Wei, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, Rui Paulo 
+Martins, Zhihua Wang, “A Charge Pump Based Timing-Skew Calibration for Time-Interleaved 
+ADC,” IEEE Midwest Symposium on Circuits and Systems – MWSCAS, Aug. 2011.  
+38. Zhijie Chen, Peng Zhang, Hegong Wei, Sai-Weng Sin, Seng-Pan U, Rui Paulo Martins, Zhihua 
+Wang, “Noise Shaping Implementation in Two-Step/SAR ADC Architectures Based on 
+Delayed Quantization Error,” IEEE Midwest Symposium on Circuits and Systems – MWSCAS, Aug. 
+2011.  
+39. Jianyu Zhong, Yan Zhu, Sai-Weng Sin, Seng-Pan U, Rui Paulo Martins, “A 
+Multi-Merged-Switched Redundant Capcitive DACs for 2b/cycle SAR ADC,” IEEE 
+International Midwest Symposium on Circuits and Systems – MWSCAS 2011, Aug 2011. 
+
+-----
+40. Chi-Hang Chan, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, R.P.Martins, “A Threshold-Embedded 
+Offset Calibration Technique for Inverter-Based Flash ADCs,”  IEEE International Midwest 
+Symposium on Circuits and Systems – MWSCAS 2010, pp. 489-492, Aug. 2010. 
+41. Kim-Fai Wong, Sai-Weng Sin, Seng-Pan U, R.P.Martins, “Level-Shifting Variable Current 
+Charging Technique for High-Speed Comparator-Based Switched-Capacitor Circuits,” Proc. 
+IEEE International Midwest Symposium on Circuits and Systems – MWSCAS 2010, pp. 566-569, Aug. 
+2010.  
+42. Si-Seng Wong, U-Fat Chio, Hou-Lon Choi, Chi-Hang Chan, Sai-Weng Sin, Seng-Pan U, 
+R.P.Martins, “A Power Effective 5-bit 600 MS/s Binary-Search ADC with Simplified 
+Switching,” in Proc. IEEE International Midwest Symposium on Circuits and Systems – MWSCAS 
+2010, pp. 29-32, Aug. 2010. 
+43. Yan Zhu, Chi-Hang Chan, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, R.P.Martins, “Parasitics 
+Nonlinearity Cancellation Technique for Split DAC Architecture by Using Capacitive 
+Charge-Pump,” in Proc. IEEE International Midwest Symposium on Circuits and Systems – MWSCAS 
+2010, pp. 889-892, Aug. 2010.  
+44. Kim-Fai Wong, Sai-Weng Sin, Seng-Pan U and R.P. Martins, " A Modified Charging Algorithm 
+for Comparator-Based Switched-Capacitor Circuits,” in Proc. of 2009 Midwest Symposium on 
+Circuits and Systems (MWSCAS), pp. 86-89, Aug. 2009. 
+45. Yan Zhu, U-Fat Chio, He-Gong Wei, Sai-Weng Sin, Seng-Pan U and R.P. Martins, " Linearity 
+Analysis on a Series-Split Capacitor Array for High-Speed SAR ADCs,” in Proc. of 2008 Midwest 
+Symposium on Circuits and Systems (MWSCAS), pp. 922-925, Aug 2008. 
+IEEE 
+IEEE International Conference on Electronics, Circuits and Systems 
+International Conference on Electronics, Circuits and Systems (ICECS)
+(ICECS) 
+46. Yang Jiang, Kim-Fai Wong, Chen-Yan Cai, Sai-Weng Sin, Seng-Pan U and R. P. Martins, “A 
+Fixed-Pulse Shape Feedback Technique with reduced clock-jitter sensitivity in Continuous-Time 
+sigma-delta modulators” in Proc. of IEEE International Conference on Electronics, Circuits and Systems 
+(ICECS), pp. 547-550, Dec, 2010.  
+47. Guohe Yin, U-Fat Chio, He-Gong Wei, Sai-Weng Sin, Seng-Pan U, R.P. Martins, Zhihua Wang, 
+“An Ultra Low Power 9-bit 1-MS/s Pipelined SAR ADC for Bio-medical Applications” in Proc. 
+of IEEE International Conference on Electronics, Circuits an d Systems (ICECS), pp. 878-881, Dec, 
+2010.  
+48. Yan Zhu, U-Fat Chio, He-Gong Wei, Sai-Weng Sin, Seng-Pan U and R.P. Martins, "A 
+Power-Efficient Capacitor Structure for High-Speed Charge Recycling SAR ADCs,” in Proc. of 
+2008 IEEE International Conference on Electronics, Circuits and Systems (ICECS), pp. 642-645, Aug 
+2008. 
+IEEE Asia
+IEEE Asia-Pacific
+Pacific Conference on Circuits and Systems 
+Conference on Circuits and Systems (APCCAS
+APCCAS) 
+
+-----
+49. Yun Du, Tao He, Yang Jiang, Sai-Weng Sin, Seng-Pan U, R. P. Martins, "A Robust NTF Zero 
+Optimization Technique for Both Low and High OSRs Sigma-Delta Modulators", IEEE Asia 
+Pacific Conference on Circuits and Systems (APCCAS), 2012, pp. 29-32, 2012 
+50. Tao He, Yun Du, Yang Jiang, Sai-Weng Sin, Seng-Pan U, R. P. Martins, "A DT 0-2 MASH 
+Modulator with VCO-Based Quantizer for Enhanced Linearity,", IEEE Asia Pacific Conference on 
+Circuits and Systems (APCCAS), 2012, pp. 33-36, 2012 
+51. Wen-Lan Wu, Sai-Weng Sin, Seng-Pan U, R. P. Martins, "A 10-bit SAR ADC With Two 
+Redundant Decisions and Splitted-MSB-Cap DAC Array", IEEE ASIA Pacific Conference on 
+Circuits and system (APCCAS), 2012 
+52. Yang Jiang, Kim-Fai Wong, Chen-Yan Cai, Sai-Weng Sin, Seng-Pan U and R. P. Martins, “A 
+Reduced Jitter-Sensitivity Clock Generation Technique for Continuous-Time ΣΔ Modulators,” 
+in Proc. of IEEE Asia Pacific Conference on Circuit and Systems (APCCAS), pp. 1011-1014, Dec. 
+2010.  
+53. Li Ding, Sai-Weng Sin, Seng-Pan U and R. P. Martins, “An Efficient DAC and Interstage Gain 
+Error Calibration Technique For Multi-Bit Pipelined ADCs” in Proc. of IEEE Asia Pacific 
+Conference on Circuit and Systems (APCCAS), pp. 208-211, Dec. 2010.  
+54. He-Gong Wei, U-Fat Chio, Yan Zhu, Sai-Weng Sin, Seng-Pan U and R.P. Martins, " A Process- 
+and Temperature- insensitive Current-Controlled Delay Generator for Sampled-Data Systems,” 
+in Proc. of IEEE Asia Pacific Conference on Circuit and Systems (APCCAS), pp. 1192-1195, Dec. 
+2008.  
+55. U-Fat Chio, He-Gong Wei, Yan Zhu, Sai-Weng Sin, Seng-Pan U and R.P. Martins, " A 
+Self-Timing Switch-Driving Register by Precharge-Evaluate Logic for High-Speed SAR ADCs” 
+in Proc. of IEEE Asia Pacific Conference on Circuit and Systems (APCCAS), pp. 1164-1167, Dec. 
+2008.  
+56. Li Ding, Sio Chan, Kim-Fai Wong, Sai-Weng Sin, Seng-Pan U and R.P. Martins, " A 
+Pseudo-Differential Comparator-Based Pipelined ADC with Common Mode Feed Forward 
+Technique” in Proc. of IEEE Asia Pacific Conference on Circuit and Systems (APCCAS), pp. 276-279, 
+Dec. 2008.  
+IEEE International Symposium 
+IEEE International Symposium on Radio
+on Radio-Frequency Integration Technology (RFIT)
+Frequency Integration Technology (RFIT) 
+57. Seng-Pan U, Sai-Weng Sin, Yan Zhu, U-Fat Chio, He-Gong Wei and, R. P. Martins, " Design 
+Techniques for Nanometer Wideband Power-Efficient CMOS ADCs,” in Proc. of Proc. of IEEE 
+International Symposium on Radio-Frequency Integration Technology – RFIT’2011, pp. 173-176, Nov 
+2011.  
+IEEE International SoC Design Conference (ISOCC)
+IEEE International SoC Design Conference (ISOCC) 
+
+-----
+58. Arshad Hussain, Sai-Weng Sin, Seng-Pan U and Rui P. Martins, “Hybrid Loopfilter Sigma-Delta 
+Modulator With NTF Zero Compensation,” in International SoC Design Conference – ISOCC, pp. 
+76-79, Nov 2011.  
+59. Si-Seng Wong, Yan Zhu, Chi-Hang Chan, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, R. P. Martins, 
+“Parasitic Calibration by Two-Step Ratio Approaching Techinque for Split Capacitor Array SAR 
+ADCs,” in Proc. of 2009 International SoC Design Conference (ISOCC), invited, pp. 333-336, Nov. 
+2009.  
+60. Chi-Hang Chan, Yan Zhu, U-Fat Chio, Sai-Weng Sin, Seng-Pan U, R.P.Martins, “A 
+Voltage-Controlled Capacitance Offset Calibration Technique for High Resolution Dynamic 
+Comparator,” in Proc. of 2009 International SoC Design Conference (ISOCC), invited, pp. 392-395, 
+Nov. 2009.  
+Other International Conferences
+Other International Conferences 
+61. Wei Li, Sai-Weng Sin, Seng-Pan U, R.P.Martins, “A Mixed-Signal Sigma-Delta Interface circuit 
+for Navigation System Applications,” in International Symposium on Integrated Circuits, Dec 2016.  
+62. Biao Wang, Sai-Weng Sin, Seng-Pan U, R.P.Martins, “A high resolution multi-bit incremental 
+converter insensitive to DAC mismatch error,” in IEEE Ph.D Research in Micro-electronics & 
+Electronics (PRIME), Jun 2016.  
+63. Haojuan Dai, Yan Lu, Man-Kay Law, Sai-Weng Sin, Seng-Pan, U, R.P.Martins, “A review and 
+design of the on-chip rectifiers for RF energy harvesting,” in IEEE International Wireless 
+Symposium, Mar 2015.  
+64. Da Feng, Sai-Weng Sin, E. Bonizzoni, F.Maloberti, “Time interleaved current steering DAC for 
+ultra-high conversion rate,” in IEEE Ph.D Research in Micro-electronics & Electronics (PRIME), Jun 
+2014.  
+65. Arshad Hussain, Sai-Weng Sin, Seng-Pan U and Rui P. Martins, “NTF Zero Compensation 
+Technique For Passive Sigma-Delta Modulator,” in IEEE Asia Pacific Conference on Postgraduate 
+Research in Micro-electronics & Electronics (PrimeAsia), pp. 82-85, Oct 2011.  
+66. Yuan Fei, Sai-Weng Sin, Seng-Pan U and R. P. Martins, “A Nonlinearity Digital Background 
+Calibration Algorithm for 2.5bit/stage Pipelined ADCs With Opamp Sharing Architecture,” in 
+IEEE Asia Pacific Conference on Postgraduate Research in Micro-electronics & Electronics (PrimeAsia), pp. 
+1-4, Oct 2011.  
+67. Rui Wang, U-Fat Chio, Chi-Hang Chan, Li Ding, Sai-Weng Sin, Seng-Pan U, Zhihua Wang and 
+R. P. Martins, “A time-efficient dither-injection scheme for pipelined SAR ADC,” in IEEE Asia 
+Pacific Conference on Postgraduate Research in Micro-electronics & Electronics (PrimeAsia), pp. 9-12, Oct 
+2011.  
+
+-----
+68. Bo Sun; U-Fat Chio; Chi-Seng Lam; Ning-Yi Dai; Man-Chung Wong; Chi-Kong Wong; 
+Sai-Weng Sin; Seng-Pan U; R. P. Martins, “A FPGA-Based Power Electronics Controller for 
+Hybrid Active Power Filters,” in IEEE Asia Pacific Conference on Postgraduate Research in 
+Micro-electronics & Electronics (PrimeAsia), pp. 25-28, Oct 2011.  
+69. Bo Sun; Ning-Yi Dai; U-Fat Chio; Man-Chung Wong; Chi-Kong Wong; Sai-Weng Sin; 
+Seng-Pan U; R. P. Martins, "FPGA-based Decoupled Double Synchronous Reference Frame 
+PLL for Active Power Filters", 2011 6th IEEE Conference on Industrial Electronics and Applications 
+(ICIEA), pp. 2145 – 2150, 2011. 
+70. Yuan Fei, Sai-Weng Sin, Seng-Pan U and R. P. Martins, “A Digital Background Nonlinearity 
+Calibration Algorithm for Pipelined ADCs,” IEEE Asia Pacific Conference on Postgraduate Research 
+in Micro-electronics & Electronics (PrimeAsia), pp. 115-118, Sep 2010.  
+71. Li Ding, Sai-Weng Sin, Seng-Pan U, R.P.Martins, “A Noise-Insensitive Offset Calibration 
+Technique for Time Interleaved SAR ADC”, accepted in 2010 IEEE Latin-American Symposium 
+on Circuits and Systems (LASCAS). 
+72. Li Ding, Sai-Weng Sin, Seng-Pan U, R.P.Martins, “A Background Amplifier Offset Calibration 
+Technique for High Resolution Pipelined ADC”, in 2010 IEEE International NEWCAS 
+Conference, pp. 41-44, Jun. 2010. 
+73. U-Fat Chio, Hou-Lon Choi, Chi-Hang Chan, Si-Seng Wong, Sai-Weng Sin, Seng-Pan U, R. P. 
+Martins, “Comparator-Based Successive Folding ADC,” IEEE Asia Pacific Conference on 
+Postgraduate Research in Microelectronics and Electronics (PrimeAsia), pp. 117-120, Nov. 2009. (Bronze 
+Bronze 
+Leaf Certificate
+Leaf Certificate)  
+74. Sai-Weng Sin, Seng-Pan U and R.P.Martins, “Novel Timing-Skew-Insensitive, Multi-phase 
+Clock Generation Scheme for Parallel DAC and N-Path Filter”, in Proceedings of RIUPEEEC, 
+pp.133-136, Macao, China, July 2006. (Paper with Certificate of Merit
+Paper with Certificate of Merit) 
+75. Jun-Xia Ma, Sai-Weng Sin, Seng-Pan U, and R.P.Martins, “A 1.8V 1.056GS/s 6-b 
+Flash-Interpolation ADC for MB-OFDM UWB Applications”, in Proceedings of RIUPEEEC, 
+pp.105-108, Macao, China, July 2006. 
+76. Sai-Weng Sin, Seng-Pan U, and R.P.Martins, “Novel Low-Voltage Circuit Techniques for 
+Fully-Differential Reset- and Switched-Opamps,” in Proceedings of PRIME'2005, vol. 2, p. 
+398-401,  July 2005.  
+77. Sai-Weng Sin, Seng-Pan U and R.P.Martins, “Novel low jitter multi-phase clock generation 
+scheme for parallel analog-to-digital conversion systems,”in Proceedings of 2004 IEEJ International 
+Analog VLSI  Workshop, vol.1, pp. 172 – 175 , Oct 2004. 
+78. Sin Sai Weng, Lai Keng Chong, Chiang Kuok Vai, Choi Wai Wa, K.W.Tam and R.P.Martins, 
+"An analytical linearization method for CMOS MMIC power amplifier using Multiple Gated 
+
+-----
+Transistors," in Proceedings of IEEE International Conference on ASIC - ASICON’2001, pp.670-672, 
+Oct. 2001. 
+79. Sin Sai Weng, Lai Keng Chong, Chiang Kuok Vai, Choi Wai Wa, K. W. Tam and R. P. Martins, 
+“A New IMD3 Reduction Approach based on Composite Effect of g"m and g"ds,” in Proceedings of 
+IEEE CAS Workshop on Wireless Communications and Networking, South Bend, Indiana, USA, Aug., 
+2001. 
+ 
+-------------------------------------------------------------------------------- 
+Professional Affiliations  
+Senior Member, The Institute of Electrical and Electronics Engineers (IEEE)  
+-------------------------------------------------------------------------------- 
+Contact Details  
+Faculty of Science and Technology  
+University of Macau, E11  
+Avenida da Universidade, Taipa,  
+Macau, China  
+ 
+Room: E11-3049 
+Telephone: (853) 8822-8795 
+Fax: (853) 8397-8797   
+Email: terryssw@umac.mo  
+
+-----

@@ -1,0 +1,45 @@
+ 
+ 
+Abstract 
+Shrinking of the device feature size allows high complexity systems to be designed and 
+integrated with into a single chip but also causes potential issues on system reliability. Existing 
+coding techniques can only detect and correct transmission and storage errors but not errors 
+occurred in arithmetic operations. Redundant Residue Number System (RRNS) is a number 
+representation that offers a more versatile fault-tolerant capability that allows error corrections 
+in arithmetic operation with lower complexity than majority vote triple modular redundancy 
+for fault-tolerant computing in two’s complement number system. The main issue for existing 
+RRNS-based multiple residue digit error correction algorithms is that they sacrifice a lot on 
+either hardware cost by using large error correction lookup tables or speed due to inherent 
+iterations of the algorithm, resulting in their inefficient hardware implementations. 
+ 
+This thesis presents an innovative hardware-efficient FPGA implementation of RRNS without 
+iteration for multiple residue digit error detection and correction. The implementation is based 
+on a syndrome-based table-lookup algorithm with new architectural design to address reduce 
+the hardware cost and increase its speed. It adaptively partitions all the information channels 
+such that each partitioned block contains no more than two information channels. The 
+partitioned blocks handle the smaller scale error correction task independently and their 
+outputs are combined to provide the corrected value. Each of the partitioned block is 
+implemented by a modified double-error correction circuit by appropriately reorder the error 
+vectors for table-lookup and applying modulo arithmetic properties to replace lookup tables 
+(LUTs) with logic and adder-based circuits. The syndrome generation module is realized by 
+
+-----
+ 
+ 
+base-extension operation. An array of binary comparators is used for modulo reduction factor 
+computation and common reverse conversion circuitries among modulo channels are reused to 
+lower hardware cost. Hardware cost due to large modulo reduction operation is further reduced 
+by multi-level table lookup technique. Virtex-UltraScale xcvu190-flgc2104-2-e FPGA is used 
+to evaluate the hardware cost and the circuit speed of the proposed implementation and direct 
+implementations of other RRNS-based multiple error correction algorithms. It has in total of 
+1074240 LUT slices and 2148480 flip-flops available.  FPGA synthesis results show that the 
+proposed work has the lowest hardware cost, critical path delay and throughput compared with 
+other implementations. Using small arbitrary moduli set given that the size of each information 
+channel no more than 8-bit, with eight information channels and sixteen correctable residue 
+digit errors, the proposed circuit can be implemented with 17584 LUT slices (1.6% of the total 
+available LUT slices) and critical path delay of 17.6 ns. This achieves 99% of hardware saving 
+and 57% of speed improvement over direct implementation of the other recent RRNS-based 
+algorithm.  
+ 
+
+-----

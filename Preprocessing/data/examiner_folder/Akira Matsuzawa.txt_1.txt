@@ -1,0 +1,102 @@
+Professor Akira Matsuzawa 
+  
+Prof. Matsuzawa received B.S., M.S., and Ph. D. degrees in electronics engineering from Tohoku 
+University, Sendai, Japan, in 1976, 1978, and 1997 respectively. In 1978, he joined Matsushita Electric 
+Industrial Co. Ltd. Since then, he has been working on research and development of analog and Mixed 
+Signal LSI technologies; ultra-high speed ADCs, intelligent CMOS sensors, RF CMOS circuits, digital read-
+channel technologies for DVD systems, ultra-high speed interface technologies for metal and optical 
+fibers, a boundary scan technology, and CAD technology. He was also responsible for the development of 
+low power LSI technology, ASIC libraries, analog CMOS devices, SOI devices. From 1997 to 2003, he was 
+a general manager in advanced LSI technology development center. On April 2003, he joined Tokyo 
+Institute of Technology and he is a professor on physical electronics. Currently he is researching in mixed 
+signal technologies; CMOS wireless transceiver, RF CMOS circuit design, data converters, and organic EL 
+drivers. He served the guest editor in chief for special issue on analog LSI technology of IEICE 
+transactions on electronics in 1992, 1997, and 2003, the vice-program chairman for International 
+Conference on Solid State Devices and Materials (SSDM) in 1999 and 2000, the Co-Chairman for Low 
+Power Electronics Workshop in 1995, a member of program committee for analog technology in ISSCC 
+and the guest editor for special issues of IEEE Transactions on Electron Devices. He has published 26 
+technical journal papers and 46 international conference papers. He is co-author of 8 books. He holds 34 
+registered Japan patents and 65 US and EPC patents. He is an IEEE Fellow since 2002. In April 2003 he 
+joined, as a Professor, the Department of Physical electronics at Titech.  
+ 
+Awards 
+• 
+1983 IR100 Award (USA)  
+• 
+1994 Remarkable Invention Award (JP)  
+• 
+1994 R&D100 Award (USA)  
+• 
+2002 IEEE Fellow Award  
+• 
+2003 ISSCC2002 The Evening Panel Award  
+• 
+2005 ISSCC2004 The Evening-Panel Award  
+ 
+Research 
+Our Aims and Perspectives 
+It evolved to the digital technique now though the basis of electronic equipment was an analog 
+technology before. As a result, not only personal computers but also "Digital consumer electronics" for 
+example DVD, digital TV, digital still camera, flat panel display and so on dominated in the world. 
+Furthermore, a digital network, for example Internet, Wireless LAN, and the cellular phone and so on will 
+be expected to spread. Aggravated problems of the signal integrity, the noise radiation, and power 
+consumption, etc. are at these equipment. It is necessary to use a sophisticated analog technology, even 
+if the digital techniques are used for these. Therefore, the technology that mixes the digital technique 
+with the analog technique is desired currently. Namely, the "mixed signal system LSI" is the most 
+
+-----
+important key technology in electronics. Our researches focus on the high performance mixed signal 
+system LSI design.  
+ 
+Research Topics 
+"The Implementation of Multi-bands Multi-standards Wireless Systems LSI." 
+Multi-bands multi-standards wireless systems that based on software defined radio techniques are 
+demanded more and more in the future. To meet such requirements, the high performance A/D 
+converters and digital RF techniques are receiving much attention as important elements. These 
+techniques are expected to become key technology at not only wireless systems but also wireless sensor 
+networks, high performance digital networks and Digital Recording Systems etc. Furthermore, these 
+techniques assure to provide some unexpected evolution in the world. To implement these concepts, our 
+laboratory develops following elements.  
+ 
+The Development of High-performance CMOS Analog to Digital Converters 
+A recent trend toward a large system integration on a LSI. The biggest problems associated with the high 
+density integration is higher speed operation, power dissipation and low voltage circuit design. To meet 
+such requirements as the wide bandwidth operations under the low supply voltage, A/D converters are 
+receiving much attention as important elements.  
+ 
+Digital RF Techniques for Wireless Systems 
+Multi-bands multi-standards wireless systems should be based on software defined radio techniques. 
+Meanwhile, the analog technology has been still used in a lot of wireless RF circuits that operate over 
+GHz. Herein key features of digital RF techniques that we propose are able to reduce analog 
+counterparts, and to have the excellent interface with software. However, the design techniques of digital 
+RF are not yet established. Therefore, to exploit such potential of digital RF techniques, the diagram 
+shown in Fig. 3 is investigated in our laboratory. We especially take up the elements as follows. The 
+sampling mixer that has filter function. The digital synthesizer that can adjust to multi-band, and achieves 
+high-speed frequency change. By combining with high-performance CMOS A/D converter techniques that 
+can adjust characteristics, it is possible to produce that wireless system LSI and wireless sensor network 
+LSI that responds to multi-band multi-standard.  
+ 
+ 
+Contact 
+Prof. Akira Matsuzawa 
+matsu@ssc.pe.titech.ac.jp 
+Office: S3 Building, 3F 312  
+TEL/FAX: +81-3-5734-2508  
+2-12-1 S3-27, Ookayama, Meguro-ku, Tokyo 152-8552 Japan  
+Department of Physical Electronics, Tokyo Institute of Technology  
+Matsuzawa and Okada Lab.  
+ 
+ 
+
+-----
+Citation Report generated from Web of Science 
+Results found: 156  
+Sum of the Times Cited: 644  
+Sum of Times Cited without self-citations: 555   
+Citing Articles: 586  
+Citing Articles without self-citations: 528  
+Average Citations per Item: 4.13  
+h-index: 13 
+ 
+
+-----

@@ -1,0 +1,586 @@
+Gordon W. Roberts
+Professor of Electrical and Computer
+Engineering
+analog, mixed­signal test
+Google Scholar
+Citation indices
+All
+Since 2011
+Citations
+8848
+2584
+h­index
+39
+18
+i10­index
+94
+32
+Title
+1–100
+Cited by
+Year
+Microelectronic circuits
+AS Sedra, KC Smith
+New York: Oxford University Press
+3448
+1998
+An introduction to mixed­signal IC test and measurement
+M Burns, GW Roberts
+Oxford University Press
+536
+2001
+All current­mode frequency selective circuits
+GW Roberts, AS Sedra
+Electronics Letters 12 (25), 759­761
+405
+1989
+The current conveyor: history, progress and new results
+AS Sedra, GW Roberts, F Gohh
+IEE proceedings 137 (2 Pt G), 78­87
+334
+1990
+A BIST scheme for an SNR test of a sigma­delta ADC
+MF Toner, GW Roberts
+Test Conference, 1993. Proceedings., International, 805­814
+164
+1993
+A general class of current amplifier­based biquadratic filter circuits
+GW Roberts, AS Sedra
+Circuits and Systems I: Fundamental Theory and Applications, IEEE ...
+155
+1992
+The design of log­domain filters based on the operational simulation of LC
+ladders
+D Perry, GW Roberts
+Circuits and Systems II: Analog and Digital Signal Processing, IEEE ...
+148
+1996
+A BIST scheme for a SNR, gain tracking, and frequency response test of a
+sigma­delta ADC
+MF Toner, GW Roberts
+Circuits and Systems II: Analog and Digital Signal Processing, IEEE ...
+148
+1995
+On­chip analog signal generation for mixed­signal built­in self­test
+B Dufort, GW Roberts
+Solid­State Circuits, IEEE Journal of 34 (3), 318­330
+138
+1999
+A jitter characterization system using a component­invariant Vernier delay
+line
+AH Chan, GW Roberts
+Very Large Scale Integration (VLSI) Systems, IEEE Transactions on 12 (1), 79­95
+129
+2004
+A high­quality analog oscillator using oversampling D/A conversion
+
+-----
+A high­quality analog oscillator using oversampling D/A conversion
+techniques
+AK Lu, GW Roberts, DA Johns
+Circuits and Systems II: Analog and Digital Signal Processing, IEEE ...
+98
+1994
+High­swing MOS current mirror with arbitrarily high output resistance
+PJ Crawley, GW Roberts
+Electronics Letters 28 (4), 361­363
+91
+1992
+Log­domain filters based on LC ladder synthesis
+D Perry, GW Roberts
+Circuits and Systems, 1995. ISCAS'95., 1995 IEEE International Symposium on ...
+87
+1995
+An analog multi­tone signal generator for built­in­self­test applications
+AK Lu, GW Roberts
+Test Conference, 1994. Proceedings., International, 650­659
+82
+1994
+Current conveyor theory and practice
+AS Sedra, GW Roberts
+Analogue IC design: the current­mode approach
+81
+1990
+A frequency response, harmonic distortion, and intermodulation distortion test
+for BIST of a sigma­delta ADC
+MF Toner, GW Roberts
+Circuits and Systems II: Analog and Digital Signal Processing, IEEE ...
+78
+1996
+A brief introduction to time­to­digital and digital­to­time converters
+GW Roberts, M Ali­Bakhshian
+Circuits and Systems II: Express Briefs, IEEE Transactions on 57 (3), 153­157
+76
+2010
+A built­in self­test strategy for wireless communication systems
+BR Veillette, GW Roberts
+Test Conference, 1995. Proceedings., International, 930­939
+72
+1995
+A foveated image sensor in standard CMOS technology
+R Wodnicki, GW Roberts, MD Levine
+Custom Integrated Circuits Conference, 1995., Proceedings of the IEEE 1995 ...
+69
+1995
+Analog Signal Generation for Built­In­Self­Test of Mixed­Signal Integrated
+Circuits
+GW Roberts, AK Lu
+Springer Science & Business Media
+67
+2012
+An integration of memory­based analog signal generation into current DFT
+architectures
+EM Hawrysh, GW Roberts
+Test Conference, 1996. Proceedings., International, 528­537
+62
+1996
+A 4­GHz effective sample rate integrated test core for analog and mixed­
+signal circuits
+MM Hafed, N Abaskharoun, GW Roberts
+Solid­State Circuits, IEEE Journal of 37 (4), 499­514
+61
+2002
+On­chip measurement of the jitter transfer function of charge­pump phase­
+locked loops
+
+-----
+locked loops
+BR Veillette, GW Roberts
+Solid­State Circuits, IEEE Journal of 33 (3), 483­491
+58
+1998
+Delta–Sigma A/D conversion via time­mode signal processing
+CS Taillefer, GW Roberts
+Circuits and Systems I: Regular Papers, IEEE Transactions on 56 (9), 1908­1920
+57
+2009
+Low­voltage CMOS analog bootstrapped switch for sample­and­hold circuit:
+design and chip characterization
+CJB Fayomi, GW Roberts, M Sawan
+Circuits and Systems, 2005. ISCAS 2005. IEEE International Symposium on ...
+55
+2005
+Design and analysis of integrator­based log­domain filter circuits
+GW Roberts, VW Leung
+Springer Science & Business Media
+54
+2000
+Spice
+GW Roberts
+Oxford University Press, Inc.
+54
+1996
+A synthesizable, fast and high­resolution timing measurement device using a
+component­invariant vernier delay line
+AH Chan, GW Roberts
+Test Conference, 2001. Proceedings. International, 858­867
+53
+2001
+A stand­alone integrated test core for time and frequency domain
+measurements
+M Hafed, N Abaskharoun, GW Roberts
+Test Conference, 2000. Proceedings. International, 1031­1040
+53
+2000
+A BIST technique for a frequency response and intermodulation distortion
+test of a sigma­delta ADC
+MF Toner, GW Roberts
+VLSI Test Symposium, 1994. Proceedings., 12th IEEE, 60­65
+52
+1994
+Signal generation using periodic single and multi­bit sigma­delta modulated
+streams
+B Dufort, GW Roberts
+Test Conference, 1997. Proceedings., International, 396­405
+46
+1997
+An eighth­order bandpass ΔΣ modulator for A/D conversion in digital radio
+L Louis, J Abcarius, GW Roberts
+Solid­State Circuits, IEEE Journal of 34 (4), 423­431
+43
+1999
+A deep sub­micron timing measurement circuit using a single­stage Vernier
+delay line
+AH Chan, GW Roberts
+Custom Integrated Circuits Conference, 2002. Proceedings of the IEEE 2002, 77­80
+42
+2002
+Improving the testability of mixed­signal integrated circuits
+GW Roberts
+Custom Integrated Circuits Conference, 1997., Proceedings of the IEEE 1997 ...
+42
+1997
+
+-----
+Metrics, techniques and recent developments in mixed­signal testing
+GW Roberts
+Computer­Aided Design, 1996. ICCAD­96. Digest of Technical Papers., 1996 ...
+42
+1996
+Reliable circuit techniques for low­voltage analog design in deep submicron
+standard CMOS: a tutorial
+CJB Fayomi, M Sawan, GW Roberts
+Analog Integrated Circuits and Signal Processing 39 (1), 21­38
+41
+2004
+Effects of transistor nonidealities on high­order log­domain ladder filter
+frequency responses
+VW Leung, GW Roberts
+Circuits and Systems II: Analog and Digital Signal Processing, IEEE ...
+39
+2000
+Very high­frequency log­domain bandpass filters
+MN El­Gamal, GW Roberts
+Circuits and Systems II: Analog and Digital Signal Processing, IEEE ...
+39
+1998
+On the practical implementation of mixed analog­digital BIST
+MF Toner, GW Roberts
+Custom Integrated Circuits Conference, 1995., Proceedings of the IEEE 1995 ...
+39
+1995
+High frequency sinusoidal generation using delta­sigma modulation
+techniques
+BR Veillette, GW Roberts
+Circuits and Systems, 1995. ISCAS'95., 1995 IEEE International Symposium on ...
+39
+1995
+Circuits for on­chip sub­nanosecond signal capture and characterization
+N Abaskharoun, GW Roberts
+Custom Integrated Circuits, 2001, IEEE Conference on., 251­254
+38
+2001
+A CMOS time amplifier for femto­second resolution timing measurement
+M Oulmane, GW Roberts
+Circuits and Systems, 2004. ISCAS'04. Proceedings of the 2004 International ...
+37
+2004
+LC ladder­based synthesis of log­domain bandpass filters
+M El­Gamal, GW Roberts
+Circuits and Systems, 1997. ISCAS'97., Proceedings of 1997 IEEE ...
+37
+1997
+Arbitrary­precision signal generation for bandlimited mixed­signal testing
+X Haurie, GW Roberts
+Test Conference, 1995. Proceedings., International, 78­86
+37
+1995
+High­resolution flash time­to­digital conversion and calibration for system­on­
+chip testing
+PM Levine, GW Roberts
+Computers and Digital Techniques, IEE Proceedings­ 152 (3), 415­426
+36
+2005
+Effects of transistor nonidealities on log­domain filters
+VW Leung, M El­Gamal, GW Roberts
+Circuits and Systems, 1997. ISCAS'97., Proceedings of 1997 IEEE ...
+36
+1997
+Low power delta­sigma modulator for ADSL applications in a low­voltage
+CMOS technology
+34
+2005
+
+-----
+CMOS technology
+M Safi­Harb, GW Roberts
+Circuits and Systems I: Regular Papers, IEEE Transactions on 52 (10), 2075­2089
+34
+2005
+A high­resolution flash time­to­digital converter and calibration scheme
+PM Levine, GW Roberts
+Test Conference, 2004. Proceedings. ITC 2004. International, 1148­1157
+34
+2004
+A stand­alone integrated excitation/extraction system for analog BIST
+applications
+MM Hafed, GW Roberts
+Custom Integrated Circuits Conference, 2000. CICC. Proceedings of the IEEE ...
+34
+2000
+A high speed and area efficient on­chip analog waveform extractor
+A Hajjar, GW Roberts
+Test Conference, 1998. Proceedings., International, 688­697
+34
+1998
+Predicting harmonic distortion in switched­current memory circuits
+PJ Crawley, GW Roberts
+Circuits and Systems II: Analog and Digital Signal Processing, IEEE ...
+34
+1994
+A 1­V, 10­bit rail­to­rail successive approximation analog­to­digital converter
+in standard 0.18 μm CMOS technology
+CJB Fayomi, GW Roberts, M Sawan
+Circuits and Systems, 2001. ISCAS 2001. The 2001 IEEE International ...
+33
+2001
+Strategies for on­chip sub­nanosecond signal capture and timing
+measurements
+N Abaskharoun, M Hafed, GW Roberts
+Circuits and Systems, 2001. ISCAS 2001. The 2001 IEEE International ...
+32
+2001
+Arbitrary­precision signal generation for mixed­signal built­in­self­test
+X Haurie, GW Roberts
+Circuits and Systems II: Analog and Digital Signal Processing, IEEE ...
+32
+1998
+A comparison of first and second­generation switched­current cells
+PM Sinn, GW Roberts
+Circuits and Systems, 1994. ISCAS'94., 1994 IEEE International Symposium on ...
+30
+1994
+A 1.2­V NPN­only integrator for log­domain filtering
+MN El­Gamal, GW Roberts
+Circuits and Systems II: Analog and Digital Signal Processing, IEEE ...
+28
+2002
+Low power/low voltage high speed CMOS differential track and latch
+comparator with rail­to­rail input
+CJB Fayomi, GW Roberts, M Sawan
+Circuits and Systems, 2000. Proceedings. ISCAS 2000 Geneva. The 2000 IEEE ...
+28
+2000
+Switched­current sigma­delta modulation for A/D conversion
+PJ Crawley, GW Roberts
+Circuits and Systems, 1992. ISCAS'92. Proceedings., 1992 IEEE International ...
+27
+1992
+A log­polar image sensor fabricated in a standard 1.2­μm ASIC CMOS
+process
+R Wodnicki, GW Roberts, MD Levine
+25
+1997
+
+-----
+R Wodnicki, GW Roberts, MD Levine
+Solid­State Circuits, IEEE Journal of 32 (8), 1274­1277
+Top­down analog design methodology using Matlab and Simulink
+N Chandra, GW Roberts
+Circuits and Systems, 2001. ISCAS 2001. The 2001 IEEE International ...
+24
+2001
+Design and characterization of low­voltage analog switch without the need for
+clock boosting
+CJB Fayomi, GW Roberts
+Circuits and Systems, 2004. MWSCAS'04. The 2004 47th Midwest Symposium on 3 ...
+22
+2004
+An oversampling­based analog multitone signal generator
+AK Lu, GW Roberts
+Circuits and Systems II: Analog and Digital Signal Processing, IEEE ...
+21
+1998
+70­GHz effective sampling time­base on­chip oscilloscope in CMOS
+M Safi­Harb, GW Roberts
+Solid­State Circuits, IEEE Journal of 42 (8), 1743­1757
+19
+2007
+Making complex mixed­signal telecommunication integrated circuits testable
+GW Roberts, B Dufort
+Communications Magazine, IEEE 37 (6), 90­96
+19
+1999
+Designing operational transconductance amplifiers for low voltage operation
+PJ Crawley, GW Roberts
+Circuits and Systems, 1993., ISCAS'93, 1993 IEEE International Symposium on ...
+19
+1993
+Adjoint networks revisited
+GW Roberts, AS Sedra
+Circuits and Systems, 1990., IEEE International Symposium on, 540­544
+19
+1990
+Stimulus generation for built­in self­test of charge­pump phase­locked loops
+BR Veillette, GW Roberts
+Test Conference, 1998. Proceedings., International, 698­707
+18
+1998
+Balanced log­domain filters for VHF applications
+M El­Gamal, V Leung, GW Roberts
+Circuits and Systems, 1997. ISCAS'97., Proceedings of 1997 IEEE ...
+17
+1997
+DFT Techniques for Mixed­Signal Integrated Circuits
+GW Roberts
+Circuits And Systems In The Information Age, 251­271
+17
+1997
+A multiplier­free structure for 1­bit high­order digital delta­sigma modulators
+X Haurie, GW Roberts
+Circuits and Systems, 1995., Proceedings., Proceedings of the 38th Midwest ...
+17
+1995
+Analysis and compensation of log­domain biquadratic filter response
+deviations due to transistor nonidealities
+VW Leung, GW Roberts
+Analog Integrated Circuits and Signal Processing 22 (2­3), 147­162
+16
+2000
+Low­voltage CMOS analog switch for high precision sample­and­hold circuit
+CJB Fayomi, GW Roberts, M Sawan
+16
+2000
+
+-----
+CJB Fayomi, GW Roberts, M Sawan
+Circuits and Systems, 2000. Proceedings of the 43rd IEEE Midwest Symposium ...
+16
+2000
+Switched­capacitor realization of Nth­order transfer function using a single
+multiplexed op­amp
+GW Roberts, WM Snelgrove, AS Sedra
+Circuits and Systems, IEEE Transactions on 34 (2), 140­148
+16
+1987
+Analog Test Signal Generation Using Periodic ΣΔ­Encoded Data Streams
+B Dufort, GW Roberts
+Springer Science & Business Media
+15
+2012
+Timing measurement device using a component­invariant vernier delay line
+GW Roberts, AH Chan
+US Patent 6,850,051
+15
+2005
+Test and evaluation of multiple embedded mixed­signal test cores
+M Hafed, GW Roberts
+Test Conference, 2002. Proceedings. International, 1022­1030
+15
+2002
+Increasing the performance of arbitrary waveform generators using periodic
+sigma­delta modulated streams
+B Dufort, GW Roberts
+Instrumentation and Measurement, IEEE Transactions on 49 (1), 188­199
+15
+2000
+Delta‐sigma oscillators: versatile building blocks
+BR Veillette, GW Roberts
+International journal of circuit theory and applications 25 (5), 407­418
+15
+1997
+A 5th order bilinear switched­current Chebyshev filter
+I Song, GW Roberts
+Circuits and Systems, 1993., ISCAS'93, 1993 IEEE International Symposium on ...
+15
+1993
+Synthesizing switched­current filters by transposing the SFG of switched­
+capacitor filter circuits
+GW Roberts, AS Sedra
+Circuits and Systems, IEEE Transactions on 38 (3), 337­340
+15
+1991
+Reducing measurement uncertainty in a DSP­based mixed­signal test
+environment without increasing test time
+CS Taillefer, GW Roberts
+Very Large Scale Integration (VLSI) Systems, IEEE Transactions on 13 (7 ...
+14
+2005
+The development of bipolar log domain filters in a standard CMOS process
+GD Duerden, GW Roberts, MJ Deen
+Circuits and Systems, 2001. ISCAS 2001. The 2001 IEEE International ...
+14
+2001
+A robust deep submicron programmable DC voltage generator
+MM Hafed, S Laberge, GW Roberts
+Circuits and Systems, 2000. Proceedings. ISCAS 2000 Geneva. The 2000 IEEE ...
+14
+2000
+Method and apparatus for distributed synchronous clocking
+DRC Rolston, DV Plant, GW Roberts
+US Patent 7,035,269
+12
+2006
+
+-----
+Integrated excitation/extraction system for test and measurement
+GW Roberts, M Hafed
+US Patent 6,931,579
+12
+2005
+Self­calibration of digital phase­locked loops
+BR Veillette, GW Roberts
+Custom Integrated Circuits Conference, 1997., Proceedings of the IEEE 1997 ...
+12
+1997
+On the implementation of fully differential switched­capacitor ladder filters
+GW Roberts, DG Nairn, AS Sedra
+Circuits and Systems, IEEE Transactions on 33 (4), 452­455
+12
+1986
+Embedded measurement of GHz digital signals with time amplification in
+CMOS
+M Safi­Harb, GW Roberts
+Circuits and Systems I: Regular Papers, IEEE Transactions on 55 (7), 1884­1896
+11
+2008
+An effective implementation of high­order bandpass sigma­delta modulators
+for high speed D/A applications
+CH Leong, GW Roberts
+Circuits and Systems, 1997. ISCAS'97., Proceedings of 1997 IEEE ...
+11
+1997
+FM signal generation using delta­sigma oscillators
+BR Veillette, GW Roberts
+Circuits and Systems, 1996. ISCAS'96., Connecting the World., 1996 IEEE ...
+11
+1996
+Adaptive phase locked loop for video signal sampling
+AJ Bishop, GW Roberts, ML Blostein
+Circuits and Systems, 1992. ISCAS'92. Proceedings., 1992 IEEE International ...
+11
+1992
+Delta­sigma analog­to­digital conversion via time­mode signal processing
+CS Taillefer, GW Roberts
+Circuits and Systems, 2007. ISCAS 2007. IEEE International Symposium on, 13­16
+10
+2007
+A multi­pass A/D conversion technique for extracting on­chip analog signals
+A Hajjar, GW Roberts
+IEEE International Symposium on Circuits and Systems, 280­283
+10
+1998
+Calculating distortion levels in sampled­data circuits using Spice
+GW Roberts
+Circuits and Systems, 1995. ISCAS'95., 1995 IEEE International Symposium on ...
+10
+1995
+Anti­imaging time­mode filter design using a PLL structure with transfer
+function DFT
+S Aouini, K Chuai, GW Roberts
+Circuits and Systems I: Regular Papers, IEEE Transactions on 59 (1), 66­79
+9
+2012
+A low­cost ATE phase signal generation technique for test applications
+S Aouini, K Chuai, GW Roberts
+Test Conference (ITC), 2010 IEEE International, 1­10
+9
+2010
+System and method for generating a jittered test signal
+MM Hafed, GD Duerden, GW Roberts
+US Patent 7,315,574
+9
+2008
+
+-----
+US Patent 7,315,574
+A predictable robust fully programmable analog Gaussian noise source for
+mixed­signal/digital ate
+S Aouini, GW Roberts
+Test Conference, 2006. ITC'06. IEEE International, 1­10
+9
+2006
+A design strategy for a 1­V rail­to­rail input/output CMOS opamp
+CJB Fayomi, M Sawan, GW Roberts
+Circuits and Systems, 2001. ISCAS 2001. The 2001 IEEE International ...
+9
+2001
+On­chip analog signal generator for mixed­signal built­in self­test
+B Dufort, GW Roberts
+Custom Integrated Circuits Conference, 1998. Proceedings of the IEEE 1998 ...
+9
+1998
+Dates and citation counts are estimated and are determined automatically by a computer
+program.
+
+-----

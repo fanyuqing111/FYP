@@ -1,0 +1,95 @@
+ABSTRACT 
+The resistive random access memory (RRAM) has shown the potential to become 
+the future universal memory. Novel concept of complementary resistive switching 
+(CRS) provides the promise of a high-density selector-less RRAM crossbar array 
+implementation free of the sneak-path current problem. This thesis mainly focus on 
+the device fabrication and investigations of CRS mechanism, CRS current conduction 
+mechanism, self-compliance set switching (SCSS)  mechanism, CRS stability as well 
+as CRS read voltage window in HfOx-based RRAM devices, for the implementation 
+of high-performance RRAM device with the stable and reliable CRS. 
+CRS has been demonstrated in the TiN/HfOx/IL/TiN device, where a bottom 
+interfacial layer (IL) resulted from the oxidation of TiN during device fabrication. No 
+CRS is observed in the TiN/HfOx/Pt device where formation of the bottom IL is 
+suppressed by the inert Pt metal. It is found that IL between metal electrode and 
+switching oxide plays an important role in enabling stable CRS in the HfOx-based 
+single memory device. Physical switching model based on oxygen-ion exchange 
+between the bottom/top IL and the conductive path in HfOx is proposed to have 
+caused the CRS observed in the TiN/HfOx/IL/TiN device.  
+The current conduction mechanism analysis reveals that Schottky emission is a 
+dominant conduction mechanism of HRS in both BRS and CRS mode due to the same 
+top/bottom TiN/HfOx interface in the symmetric TiN/HfOx/TiN resistive memory 
+device. LRS current conduction can change from semiconducting (at low voltages) to 
+metallic (at high voltages) conduction. In the former regime, conduction may be 
+described by a farthest-neighbor tunneling process, characterized by a trap spacing of 
+
+-----
+~11 Å along the conduction path. On the other hand, the latter is characterized by a 
+metal-like mechanism with a positive temperature coefficient like that of a sputtered 
+Hf metal film. Field-induced lowering of the tunneling barrier (~43 meV due to the 
+collapsed HfOx conduction band edge and the small trap spacing) is proposed to have 
+caused the transition to a metal-like conduction. Due to the opposite temperature 
+dependence of the two conduction regimes, existence of a zero temperature-
+coefficient of LRS resistance has been observed. 
+A complementary switch exhibiting SCSS can provide a pathway towards an 
+implementation of truly selector-less crossbar memory array. SCSS has been realized 
+in resistive memory devices with a series oxide layer incorporated into the memory 
+stack. The series oxide acts as an in-built resistor, limiting the increase of the current 
+during set transition. In this study, we show that SCSS is also present in the 
+TiN/HfOx/Pt device without a series oxide layer. However, substitution of the TiN 
+electrode by Pt eliminates the SCSS behavior. We propose that oxygen ions drifting 
+from the ruptured part of the filament towards the TiN anode tend to accumulate at 
+the TiN interface during set transition due to a low density of nitrogen vacancy in our 
+nearly stoichiometric TiN electrode. Oxygen accumulation can give rise to an increase 
+in the resistance of HfOx at the TiN interface, which can partially compensate the 
+decrease of the filament resistance, and an increase in effective work function of TiN, 
+which can offsets part of the applied electric field, resulting in a lower net electric 
+field across the filament. 
+Our study on CRS of TiN/HfOx/TiN memory device shows an unusually high 
+occurrence of a self-reset behavior, i.e. the device is automatically programmed into 
+the high resistance state during forming. This is observed in the following opposite-
+polarity voltage sweep, in which the device exhibits a set behavior (instead of a reset 
+
+-----
+as typically observed in bipolar switching mode). However, the self-reset behavior is 
+(1) suppressed in devices with a thin Al2O3 layer inserted in-between the TiN and 
+HfOx; (2) completely eliminated in devices with the TiN cathode replaced by Pt. It is 
+shown that the IL at the HfOx/TiN interface plays a crucial role in enabling CRS, via 
+an oxygen exchange process with the adjacent conducting filament formed in the 
+HfOx. Self-reset behavior can be ascribed to the migration of oxygen ions from the 
+cathode interfacial oxide into the conducting filament in the HfOx during the forming 
+transient, thus resulting in the disruption of the filament. With the reduction in 
+“voltage loading” across the cathode interfacial oxide during forming transient in 
+devices with the Al2O3 interlayer and the elimination of interfacial oxide in devices 
+with the Pt cathode, the occurrence of self-reset is reduced or eradicated.  
+Our study also shows that a large percentage of the TiN/HfOx/TiN RRAM device 
+fails to exhibit CRS after forming. These devices exhibit a large non-polar reset loop 
+in the first post-forming voltage-sweep measurement. It is proposed that breakdown 
+of the TiN/HfOx interfacial oxide layers (crucial in enabling CRS) and the 
+accompanied formation of Ti filaments (due to Ti migration from the TiN cathode 
+into the breakdown path) take place, resulting in CRS failure and the observed non-
+polar reset behavior. Our proposition is supported by the significant reduction or 
+complete elimination of the large non-polar reset and CRS failure in devices with a 
+thin Al2O3 layer incorporated at the TiN-cathode/HfOx or both TiN/HfOx interfaces. 
+The higher breakdown field of the thin Al2O3 enables it to withstand the forming 
+voltage (upon filament formation in the main oxide) until the forming process is 
+interrupted. With the integrity of the barrier oxide layer ensured, stable CRS can be 
+achieved. 
+An approach that may lead to a significantly improved CRS voltage window and 
+
+-----
+read margin is presented. The approach is leveraged on the inherent asymmetry in the 
+O-ion exchange process between interfaces involving different reactive metal 
+electrodes to enlarge the difference between the set and reset voltages. The proof-of-
+concept is successfully demonstrated for the ITO/HfOx/TiN resistive memory 
+structure, yielding a positive CRS voltage window of 1.5 V and a read margin of 1.1 
+V. These results represent a significant improvement over the respective window and 
+margin of 0.5 V and 0.1 V achieved on the TiN/HfOx/TiN stack and other single 
+devices reported to-date, and address a major challenge of array-level CRS 
+implementation using HfOx RRAM on both rigid and flexible substrates. The 
+improvement may be attributed to the greater tendency for O ion to migrate from the 
+adjacent ruptured filament into the ITO (hence a small set voltage) and the relative 
+difficulty in drawing O ions from the TiN IL into the adjacent filament (hence a large 
+reset voltage).   
+ 
+
+-----

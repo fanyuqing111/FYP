@@ -1,0 +1,33 @@
+1
+Publication List
+1
+Journal papers
+[1] Q. Ding and P. J. Y. Wong, Mid-knot cubic non-polynomial spline for a system of second-order
+boundary value problems, Boundary Value Problems 2018, Paper No. 156, 16 pp.
+[2] Q. Ding and P. J. Y. Wong, A higher order numerical scheme for a generalized fractional
+diffusion equation, submitted to Applied Mathematics and Computation.
+[3] Q. Ding and P. J. Y. Wong, A fourth order approximation for the generalized fractional deriva-
+tives and its applications, preprint.
+[4] Q. Ding and P. J. Y. Wong, A higher order numerical scheme for solving fractional Bagley-
+Torvik equation, preprint.
+[5] Q. Ding and P. J. Y. Wong, Quintic non-polynomial spline method for fractional nonlinear
+Schr¨
+odinger equation, preprint.
+2
+Conference papers
+[1] Q. Ding and P. J. Y. Wong, Non-polynomial spline method for time-fractional nonlinear
+Schr¨
+odinger equation, Proceedings of the 15th International Conference on Control, Automation,
+Robotics and Vision, Singapore (2018).
+[2] Q. Ding and P. J. Y. Wong, Numerical treatment of a system of second-order boundary value
+problems via mid-knot cubic non-polynomial spline, Proceedings of the International Conference on
+Numerical Analysis and Applied Mathematics 2018 (ICNAAM-2018), AIP Conference Proceedings,
+accepted.
+[3] Q. Ding and P. J. Y. Wong, Numerical method for fractional Bagley-Torvik equation, Pro-
+ceedings of the International Conference on Numerical Analysis and Applied Mathematics 2018
+(ICNAAM-2018), AIP Conference Proceedings, accepted.
+[4] Q. Ding and P. J. Y. Wong, An efficient numerical approach for a new generalized fractional
+diffusion equation, Proceedings of the International Conference on Numerical Analysis and Applied
+Mathematics 2018 (ICNAAM-2018), AIP Conference Proceedings, accepted.
+
+-----

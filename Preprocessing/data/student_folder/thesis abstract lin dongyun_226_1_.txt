@@ -1,0 +1,66 @@
+Abstract 
+In this thesis, we study and exploit two approaches to building up robust 
+classification and detection methods, namely embedding a reject option into 
+classifiers and designing multi-stage (or cascaded) classification/detection structures. 
+The reject option embedding enhances the classification robustness through 
+inclusion of an effective rejection rule for potentially misclassified samples. The multi-
+stage methods incorporate multiple classifiers/detectors to jointly and robustly 
+address classification/detection tasks. Based on these two approaches, this thesis 
+investigates ways to propose robust classification/detection methods with real-world 
+applications of biomedical images.  
+ 
+Classification and detection of biomedical images usually hold a premise of further 
+biological 
+and 
+medical 
+analyses, 
+e.g., 
+disease 
+treatment. 
+Manual 
+classification/detection of biomedical images is prone to subjectivity and suffers from 
+inefficiency due to high-throughput production of images in practice. Hence, it is 
+greatly 
+demanded 
+for 
+automating 
+the 
+process 
+of 
+biomedical 
+image 
+classification/detection. In general, miss classification or false detection of 
+biomedical images is high-cost especially for certain diagnosis processes, e.g., 
+cancer prediction. Also, automated biomedical image classification/detection could 
+confront the challenges of high level noise, image blur, illumination variation and 
+complicated geometric correspondence among various categorical biomedical 
+patterns. Therefore, it is valuable to propose robust classification/detection methods 
+in real-world applications related to biomedical images. 
+ 
+Firstly, the thesis proposes a novel method which embeds a reject option in twin 
+support vector machine (RO-TWSVM) through the Receiver Operating Characteristic 
+(ROC) curve for binary classification. The proposed RO-TWSVM can achieve robust 
+classification by rejecting both ambiguous and outlier samples. 
+ 
+Secondly, the thesis investigates a two-stage classification method based on a 
+cascade of an SVM with a reject option and subspace analysis. Such method is 
+formulated to robustly classify biomedical images with different geometric 
+correspondence.  
+ 
+Thirdly, the thesis proposes a novel two-stage method for automated detection of 
+ring-like endosomes in fluorescent microscopy images. The proposed method firstly 
+roughly localizes candidate targets using local feature information. Then, it refines 
+the detection results by ruling out endosome-like background patterns from a 
+classification perspective based on global information of training patches. These two 
+stages jointly produce robust detections in real-world microscopy images. 
+ 
+Overall, this thesis contributes two types of novel methods to enhance robustness of 
+classification/detection models: (i) Embedding a reject option in in twin support 
+vector machine (RO-TWSVM) through the Receiver Operating Characteristic (ROC) 
+curve; (ii) Proposing multi-stage methods which exploits complementary feature 
+information to address image classification/detection tasks. The superiority of the 
+proposed methods in this thesis is shown in the specific applications of real-world 
+biomedical images. 
+ 
+
+-----

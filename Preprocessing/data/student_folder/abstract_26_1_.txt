@@ -1,0 +1,40 @@
+Improvement of Antenna Efficiency by Using Ferrites and 
+Metamaterials 
+ 
+Abstract 
+This thesis investigates how to improve the antenna efficiency. The efficiency is one 
+of the most important parameters, which describes the ratio of radiated power and the input 
+power of the antenna. For different types of antennas, there exist different factors that can 
+influence the efficiency. For example, in the high frequency band, the mismatch loss and 
+small size influence much on the efficiency. In the microwave frequency band, the dielectric 
+loss in the substrate material is the main factor. And in millimeter wave frequency band, the 
+loss in the feeding network limits the gain and efficiency of the antenna. 
+Considering different influence factors, different techniques and methods are 
+investigated to increase the efficiency. First, the compact and effective ferrites are selected to 
+improve the HF antennas. Effective methods of using ferrites are proposed to improve at both 
+desired frequency and a broad band. By analysing the current in the ground plane of antenna, 
+the ferrites are arranged effectively and efficiently at the area with high current density to 
+reduce the mismatch loss, then the current along the antenna is adjust to ensure the radiated 
+energy. By using the methods, the mismatch loss is reduced, and the total efficiency is 
+increased. 
+Second, for the microwave microstrip antenna, the metamaterial is applied to improve 
+the efficiency. The metamaterial is able to reduce the dielectric loss in the material, even the 
+high loss material is still used as the substrate. When the metasurface is used as the ground 
+plane, the effective permittivity and permeability of metamaterial are analysed, and the loss 
+in the material is decreased. Thus, the efficiency of antenna can be improved at the resonant 
+frequency. When the metamaterial is used as the radiator, the dispersion relation is studied to 
+analyse the wave travelling in the metamaterial. The loss is decreased, and the efficiency of 
+antenna is improved in a broad frequency band. 
+Finally, for the millimeter wave antenna, the loss in the feeding network leads to 
+small size of antenna array and low efficiency. The metamaterial is proposed to construct the 
+feeding network instead of traditional microstrip lines. The loss is decreased, and more 
+antenna can be contained in the antenna array. Additionally, the coupling technique is used to 
+excite the antenna and connect the standard waveguide flange, so that the efficiency of 
+antenna is improved. Furthermore, by etching simple slot phase shifters, the antenna array 
+becomes beam steerable. 
+The three proposed methods can contribute to efficient antennas in different 
+frequency band by reducing the mismatch loss, dielectric loss and  transmission  losses,  
+respectively. The three methods can be applied alone or in combination to improve the 
+efficiency of antennas. 
+
+-----

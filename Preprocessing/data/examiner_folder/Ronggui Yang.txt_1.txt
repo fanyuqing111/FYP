@@ -1,0 +1,2986 @@
+ 
+1 
+ 
+Ronggui Yang 
+Professor, ASME Fellow 
+S.P. Chip and Lori Johnson Fellow in Engineering 
+Department of Mechanical Engineering, & Materials Science and Engineering Program 
+University of Colorado, Boulder, Colorado 80309-0427 
+Phone: (303) 735-1003, Fax: (303) 492-3498  
+Email: Ronggui.Yang@Colorado.Edu Web: http://spot.colorado.edu/~yangr 
+ 
+SHORT BIO: 
+Dr. Ronggui Yang is the S.P. Chip and Lori Johnson Faculty Fellow and a Professor of Mechanical 
+Engineering directing the Nano-enabled Energy Conversion, Storage, 
+and Thermal 
+Management 
+Systems group (NEXT) at the University of Colorado Boulder (CU-Boulder). Dr. Yang is also a Faculty 
+Fellow for the Materials Science and Engineering Program and a Faculty Affiliate for the CU/NREL 
+Renewable and Sustainable Energy Institute at CU-Boulder. Dr. Yang received his Ph.D degree focusing 
+on Nanoscale Heat Transfer with Professor Gang Chen in Mechanical Engineering and Professor 
+Mildred S. Dresselhaus in Physics and Electrical Engineering from MIT in February 2006. Since January 
+2006, he started his faculty career as an Assistant Professor at CU-Boulder and has been promoted to 
+Associate Professor (two-years ahead of normal tenure clock) in summer 2011 and to Full Professor in 
+summer 2016. Prior to MIT, he had a Master’s degree in MEMS from UCLA in 2001, a Master’s degree 
+in Engineering Thermophysics from Tsinghua University in Beijing in 1999, and a Bachelor’s degree in 
+Thermal Engineering from Xi’an Jiaotong University in 1996. His research interests are on the 
+fundamentals of nanoscale transport phenomena (thermal, electrical, thermoelectric, phase-change) and 
+the applications of micro/nanotechnologies for thermal, energy and water systems. His notable 
+contributions include developing multiscale simulation framework for thermal and thermoelectric 
+transport in nanostructured materials, the first experimental demonstration of quasi-ballistic phonon 
+transport using ultrafast pump-and-probe method with soft X-ray, and most recently on the development 
+of hybrid micro/nano-structured surfaces for phase-change heat transfer enhancement. Dr. Ronggui Yang 
+has published ~120 journal papers, delivered ~80 invited seminars and is associated with >140 invited 
+and contributed conference talks and posters that garnered numerous best paper/presentation/poster 
+awards. His journal papers are highly cited, with an H-index of 30, a total citation > 4500 times as of 
+December 30, 2016, and an annual citation > 800 times per ISI Web of Science since 2015 (an H-Index 
+of 37, a total citation > 7000 times as of December 30, 2016, and an annual citation > 1200 times since 
+2015, per Google Scholar).  His innovative research has won him numerous awards including the 2014 
+ITS Young Investigator in Thermoelectrics from International Thermoelectric Society (ITS), the 2010 
+ASME Bergles-Rohsenow Young Investigator Award in Heat Transfer, an NSF CAREER Award in 
+2009, the MIT Technology Review’s TR35 Award and the DARPA Young Faculty Award in 2008, the 
+2005 Goldsmid Award for Research Excellence in Thermoelectrics by a Graduate Student from ITS, and 
+a NASA Tech Brief Award for a Technical Innovation in 2004. He has also won the Provost’s 
+Achievement Award (2012), the Dean’s Performance Award (2010), the Woodward Outstanding Faculty 
+of Mechanical Engineering (2011) and the Outstanding Research Award in Mechanical Engineering 
+(2008) from the University of Colorado Boulder. He was endowed with the S.P. Chip and Lori Johnson 
+Faculty Fellow for 2013-2017 and the Sanders Faculty Fellow for 2008-2012. Dr. Yang is also well 
+recognized for his professional services. Dr. Yang is currently the Chair (2015-2017) and the Founding 
+Vice-Chair (2012-2015) of the K-9 Technical Committee on Nanoscale Thermal Transport of ASME 
+Heat Transfer Division. In 2015, Dr. Yang is elected a Fellow of ASME. He is also an Associate Editor 
+for ASME Journal of Heat Transfer and and Associate Editor for Heat Transfer Research published by 
+Begell House Inc.   
+ 
+ 
+ 
+
+-----
+ 
+2 
+ 
+EDUCATION: 
+•  Massachusetts Institute of Technology (MIT), GPA:5.0/5.0, Feb. 2006 
+Ph.D. in Mechanical Engineering (Heat Transfer), Minor: Solid State Electronics 
+Dissertation: Nanoscale Heat Conduction with Applications in Nanoelectronics and 
+Thermoelectrics. 
+Dissertation Advisor: Professor Gang Chen  
+Committee: Gang Chen, Mildred S. Dresselhaus, John H. Lienhard, Borivoje B. Mikic 
+•  University of California, Los Angeles (UCLA), GPA: 3.85/4.0, June 2001 
+M.S. in Mechanical Engineering (Micro-Electro-Mechanical Systems)  
+•  Tsinghua University, Beijing, China, GPA:85/100, July 1999 
+M.S. in Engineering Thermophysics  
+•  Xi’an Jiaotong University, Xi’an, China, GPA: 85/100, July 1996 
+      B.S. in Thermal Engineering 
+ 
+RESEARCH INTERESTS: 
+•  Micro/Nanoscale and Ultrafast Transport Phenomena  
+•  Micro/Nano-Enabled Thermal Management for Electronics and Energy Systems 
+•  Micro- and Nanotechnologies for Energy Conversion and Storage 
+•  MEMS/NEMS and Micro-/Nano- Fabrication 
+ 
+POSITIONS HELD: 
+07/2016 -     Full Professor of Mechanical Engineering, CU-Boulder.  
+11/2012 -     Faculty Fellow, Materials Science and Engineering Program, CU-Boulder. 
+09/2009 -     Faculty Affiliate, CU/NREL Renewable and Sustainable Energy Institute (RASEI). 
+06/2014 -     Co-Founder, Kelvin Thermal Technologies, Inc., Boulder, CO.  
+07/2011-06/2016 Associate Professor of Mechanical Engineering, CU-Boulder.  
+01/2006-07/2011 Assistant Professor of Mechanical Engineering, CU-Boulder.  
+09/2001-12/2005 Graduate Research Assistant, Mechanical Engineering, MIT. 
+09/1999-07/2001 Graduate Research Assistant, Mechanical and Aerospace Engineering, UCLA. 
+09/1996-07/1999 Graduate Research Assistant, Thermal Engineering, Tsinghua Univ., China 
+ 
+AWARDS AND DISTINCTIONS:  
+2016 Invited Participants, Arab-American Frontiers in Science, Engineering, and Medicine 
+(NAS & NAE)  
+2015 Fellow, American Society of Mechanical Engineering (ASME) 
+2014 Marquis Who’s Who in America (from 69th and subsequent editions).  
+2014 ITS Young Investigator Award, International Thermoelectric Society (ITS) 
+2013-2017 S.P. Chip and Lori Johnson Faculty Fellow of Engineering, CU-Boulder.  
+2013 Outstanding Research Award, Department of Mechanical Engineering, CU-Boulder 
+2013 JSPS Invitation Fellow (Short Term), Japan Society for the Promotion of Science. 
+2012 Provost's Faculty Achievement Award, Office of the Provost, CU-Boulder. 
+2011 Steve Woodward Outstanding Faculty Award, Department of Mechanical Engineering, 
+CU-Boulder 
+2010 ASME Bergles-Rohsenow Young Investigator Award in Heat Transfer 
+2010 Dean’s Award for the Outstanding Junior Faculty Member, CU-Boulder 
+
+-----
+ 
+3 
+ 
+2010 Biography featured as a technology developer with outstanding potential that could 
+reverse the decline in the book “The Rise and Fall of American Technology” by Dr. Lynn 
+G. Gref.  
+2009 National Science Foundation (NSF) CAREER Award 
+2009 15th U.S. Frontiers of Engineering Symposium, National Academy of Engineering. 
+2008 Technology Review’s TR35 Award (one of the 35 young scientists and technologists in 
+world who are under the age of 35, but their work--spanning medicine, computing, 
+communications, electronics, nanotechnology, energy, and more--is changing our world.) 
+2008 DARPA Young Faculty Award (one of the 39 rising stars in university microsystems 
+research) 
+2008-2012 Sanders Faculty Fellow, College of Engineering and Applied Science, CU-Boulder. 
+2008 Outstanding Research Award, Department of Mechanical Engineering, CU-Boulder 
+2005 Best Paper Award – Research, InterPACK 2005, 1 out of 500+ papers. 
+2005 Goldsmid Award, International Thermoelectrics Society. 
+2004 NASA Certificate of Recognition for a Technical Innovation (Space Act Tech Brief 
+Award), NASA. 
+ 
+Service Leadership:  
+07/2015 – 06/2017, Chair, K-9 Technical Committee on Nanoscale Thermal Transport, ASME 
+Heat Transfer Division. 
+12/2014 – 12/2016, Chair, Nanoengineering for Energy and Sustainability (NEES) Steering 
+Committee, ASME Nanoengineering Council. 
+2016-      present,  Associate Editor, Journal of Heat Transfer, published by ASME. 
+2016-      present,  Associate Editor, Heat Transfer Research, published by Begell House. 
+2014-     present,  Editorial Board Member, Scientific Reports, published by Nature Publishing 
+Group. 
+2014-   2016, Guest Editor for Invited Topical Reviews, Journal of Electronic Packaging.     
+2012 – 06/2015, Founding Vice Chair, K-9 Technical Committee on Nanoscale Thermal 
+Transport, ASME Heat Transfer Division. 
+2012 – 06/2014, Vice Chair, Nanoengineering for Energy and Sustainability (NEES) Steering 
+Committee Member, ASME Nanoengineering Council. 
+ 
+ 
+
+-----
+ 
+4 
+ 
+RESEARCH AND CREATIVE WORK 
+ (Annual Citation >800 in 2015, H-Index: 30 and Total Journal Paper Citations > 4500 as of 
+December 30, 2016, according to ISI Web of Science (SCI).  
+Annual Citation ~1200 in 2015, H-Index: 37 and Total Citations > 7000 as of December 10, 
+2016 according to Google Scholar.)   
+  
+ 
+ 
+(Annual Journal Publications                                     Annual Citations to Journal Papers) 
+Citation in 
+   
+https://scholar.google.com/citations?user=rLiK2VIAAAAJ&hl=en 
+ 
+ 
+
+-----
+ 
+5 
+ 
+ 
+a). Book Chapters 
+BC1. Xiaokun Gu and Ronggui Yang, Phonon Transport and Thermal Conductivity in Layered 
+Two-Dimensional Materials (Invited Review), Annual Review of Heat Transfer, Volume 
+19, pp. ***,  2016, Web_Link for access to the manuscript on arxive.org. 
+BC2. K. Koumoto, R. M. Tian, R. G. Yang, and C. L. Wan, “Chapter 18. Inorganic/Organic 
+Hybrid Superlattice Materials”, Material Aspects of Thermoelectricity, edited by C. Uher, 
+CRC Press, pp. 501-518, 2016. 
+BC3. Jose Ordonez-Miranda, Ronggui Yang, and Juan Jose Alvarado-Gil, “Thermal 
+Conductivity of Particulate Composites,” Chapter 3 in “Nanoscale Thermoelectrics” in the 
+Springer Series “Lecture Notes on Nanoscale Science and Technology”, edited by Zhimin 
+Wang, Vol. 16, pp. 93-139, 2014 PDF.  
+BC4. Pilhwa Lee, Kurt Maute and Ronggui Yang,  “An Extended Finite Element Method for 
+the Analysis of Submicron Heat Transfer Phenomena,” book chapter in "Multiscale 
+Methods in Computational Mechanics" in the Springer series “Lecture Notes in Applied 
+and Computational Mechanics”, Vol. 55, pp. 195-212, 2011, PDF. 
+BC5. Suraj J. Thiagarajan, Wei Wang, and Ronggui Yang, “Nanocomposites as High Efficiency 
+Thermoelectric Materials,” in Annual Review of Nano Research, Volume 3, edited by 
+G.Z. Cao, Q.F. Zhang, and C.J. Brinker, World Scientific Publisher Co., Singapore, p. 
+447-492, 2009. PDF 
+BC6. G. Chen, D. Borca-Tascuic and R.G. Yang, “Nanoscale Heat Transfer,” in “Encyclopedia 
+of Nanoscience and Nanotechnology”, edited by H.S. Nalwa, Vol. 7, pp. 429-459, 
+American Scientific Publishers, 2004. PDF 
+ 
+b). Published & Accepted Journal Papers: 
+2017 
+123. Rongfu Wen, Qian Li, Jiafeng Wu, Gengsheng Wu, Wei Wang, Miao Tian, Yunfei Chen, 
+Xuehu Ma, and Ronggui Yang, Hydrophobic copper nanowires for enhancing condensation 
+heat transfer, Nano Energy, in Press. 
+122. Zhenqian Pang, Xiaokun Gu, Yujie Wei, Ronggui Yang, Mildred S. Dresselhaus, Stable 
+carbon honeycomb with high specific strength and thermal conductivity, Nano Letters, 
+published online, Web_Link .  
+121. Bo Sun, Xiaokun Gu, Qingsheng Zeng, Xi Huang, Yuexiang Yan, Zheng Liu, Ronggui 
+Yang, and Yee Kan Koh, Temperature dependence of anisotropic thermal conductivity 
+tensor of bulk black phosphorus, Advanced Materials, published online, Web_Link. 
+120. A. Tessema, D.Zhao, J. Moll, S. Xu, R. Yang, C. Li, SK. Kumar, A. Kidane, Effect of 
+filler loading, geometry, dispersion and temperature on thermal conductivity of polymer 
+nanocomposites, Polymer Testing, Vol. 57, pp. 101-106, 2017, Web_Link. 
+119. Li-Anne Liew, Ching-Yi Lin, Ryan Lewis, Susan Song, Qian Li, Ronggui Yang, Y.C. Lee, 
+Flexible Thermal Ground Planes Fabricated with Printed Circuit Board Technology, ASME 
+Journal of Electronic Packaging, Vol. 139, Art # 011003, 2017, Web_Link.  
+ 
+2016 
+118. Xin Qian, Xiaokun Gu, Mildred S. Dresselhaus, Ronggui Yang, Anisotropic Tuning on 
+Graphite Thermal Conductivity by Lithium Intercalation, Journal of Physical Chemistry 
+Letters, Vol. 7, pp4744-4750, 2016,  Web_Link.  
+
+-----
+ 
+6 
+ 
+117. Alexander S. Yersak, Ryan J. Lewis, Li-Anne Liew, Rongfu Wen, Ronggui Yang, and 
+Yung-Chung Lee, Atomic Layer Deposited Coatings on Nanowires for High Temperature 
+Water Protection, ACS Applied Materials and Interfaces, Vol. 8, pp. 32616-32623, 2016, 
+Web_Link. 
+116. Zhenqian Pang, Xin Qian, Ronggui Yang, and Yujie Wei, Super-stretchable Borophene, 
+European Physics Letters (EPL), Vol. 116, Art #36001, 2016, Web_Link.  
+115. Arto J. Groehn, Allan Lewandowski, Ronggui Yang and Alan W. Weimer, Hybrid 
+Radiation Modeling Approach for Multi-phase Solar-thermal Reactor Systems Operated at 
+High-temperature, Solar Energy, Vol. 140, pp. 130-140, 2016, Web_Link. 
+114. Xiaokun Gu and Ronggui Yang, Phonon transport in two-dimensional Mo1-xWxS2 alloy 
+embedded with nanodomains, Physical Review B, Vol. 94, Art # 075308, 2016, Web Link. 
+113. Dongliang Zhao, Saad Jajja, and Ronggui Yang, Measurement Techniques for Thermal 
+Conductivity and Conductance of Bulk and Thin Film Materials (Invited Review), ASME 
+Journal of Electronic Packaging, Vol. 138, Art. 040802 (19 pages), 2016. Web Link.    
+112. Shanshan Xu, Ryan John Lewis, Li-Anne Liew, Yung-Cheng Lee, Ronggui Yang, 
+Development of Ultra-Thin Thermal Ground Planes by Using Stainless-Steel Mesh as 
+Wicking Structure, IEEE/ASME Journal of Micro-Electro-Mechanical Systems, Vol. 25, pp. 
+842-844, 2016, Web Link. 
+111. Jie Zhu, Haechan Park, Jun-Yang Chen, Xiaokun Gu, Hu Zhang, Sreejith Karthikeyan, 
+Nathaniel Wendel, Stephen A. Campbell, Matthew Dawber, Xu Du, Mo Li, Jian-Ping 
+Wang, Ronggui Yang and Xiaojia Wang, Revealing the Anisotropic Thermal Conductivity 
+of Black Phosphorus using the Time-Resolved Magneto-Optical Kerr Effect, Advanced 
+Electronic Materials, Vol. 2, Art No. 201600040, 2016, Web Link. 
+110. Xiaokun Gu, Baowen Li and Ronggui Yang, Layer thickness-dependent phonon transport 
+and thermal conductivity in MoS2, Journal of Applied Physics, Vol. 119, Art No. 085106, 
+March 2016, Web_Link. 
+109. Xin Qian, Xiaokun Gu, and Ronggui Yang, Lattice Thermal Conductivity of Organic-
+Inorganic Hybrid Perovskite CH3NH3PbI3, Applied Physics Letters, Vol. 108, Art No. 
+063902, 2016, Web Link. 
+108. Tingyu Lu, Jun Zhou, Tsuneyoshi Nakayama, Ronggui Yang, Baowen Li, Interfacial 
+thermal conductance across metal-insulator/semiconductor interfaces due to surface states, 
+Physical Review B, Vol. 93, Art No. 085433, 2016, Web_Link. 
+107. Daniela Molina Piper, Tyler Evans, Shanshan Xu, Seul Cham Kim, Sang Sub Han, Ken 
+Liang Liu, Kyu Hwan Oh, Ronggui Yang and Se-Hee Lee, Optimized Silicon Electrode 
+Architecture, Interface, and Microgeometry for Next-generation Lithium-ion Batteries, 
+Advanced Materials, Vol. 28, pp. 188-193, 2016, Web_Link. 
+ 
+2015 
+106. Xin Qian, Xiaokun Gu, and Ronggui Yang, Anisotropic thermal transport in organic-
+inorganic hybrid crystal β-ZnTe(en)0.5, Journal of Physical Chemistry C, Vol. 119, pp. 
+28300-28308, 2015, Web_Link 
+105. Chunlei Wan, Yumi Kodama, Mami Kondou, Ryo Sasai, Xin Qian, Xiaokun Gu, Kenji 
+Koga, Kazuhisa Yabuki, Ronggui Yang, and Kunihito Koumoto, Dielectric mismatch 
+mediates carrier mobility in organic-intercalated two-dimensional transition metal 
+dichalcogenide TiS2, Nano Letters, Vol. 15, pp. 6302-6308, 2015, Web_Link. 
+
+-----
+ 
+7 
+ 
+104. Ryan Lewis, Shanshan Xu, Li-Anne Liew, Collin Coolidge, Ronggui Yang, Y.C. Lee, Thin 
+Flexible Thermal Ground Planes: Fabrication and Scaling Characterization, IEEE/ASME 
+Journal of Micro-Electro-Mechanical Systems, Vol. 24, pp.2040-2048, 2015,Web_Link. 
+103. Zheng Zhang, Ronggui Yang, Gene C. Hilton, and Yifu Ding, Capillary rupture of 
+suspended polymer concentric rings, Soft Matter, Vol. 11, pp. 7264-7269, 2015, Web_Link. 
+102. J. Ordonez-Miranda, and Ronggui Yang, Sebastian Volz and J.J. Alvarado-Gil, Steady-
+State and Modulated Temperature Profiles in Layered Systems Predicted by the Phonon 
+Boltzmann Transport Equation, Journal of Applied Physics, Vol. 118, Art #075108, 2015, 
+Web_Link.  
+101. Suraj Thiagarajan, Ronggui Yang, and Sreekant Narumanchi, Bubble Dynamics and 
+Nucleate Pool Boiling Heat Transfer on Microporous Copper Surfaces, International Journal 
+of Heat and Mass Transfer, Vol. 89, pp. 1297-1315, 2015; Web_Link.  
+100. Robert M. Ireland, Yu Liu, Xin Guo, Yu-Ting Cheng, Srinivas Kola, Wei Wang, Ronggui 
+Yang, Michael L. Falk, Toinetta Jones, and Howard E. Katz, ZT > 0.1 Electron Carrying 
+Polymer Thermoelectric Composites with in-situ SnCl2 Microstructure Growth, Advanced 
+Science, (6 pages with supporting info), Vol. 2, Art #1500015, 2015; Web Link. 
+99. Xiaokun Gu, Xiaobo Li and Ronggui Yang, Phonon transmission across Mg2Si/Mg2Si1-xSnx 
+interface: a first-principles-based atomistic Green’s function study, Physical Review B, Vol. 
+91, Art #205313, 2015; Web_Link. 
+98. Jun Zhou, Nianbei Li, and Ronggui Yang, An Electrohydrodynamic Model for Non-
+equilibrium Electron and Phonon Transport in Metal Films after Ultra-short Pulse Laser 
+Heating, European Physics Journal B, Vol. 88, pp. 156, 2015;  Web_Link. 
+97. Staci A. Van Norman, Joseph W. Tringe, John D. Sain, Ronggui Yang, John L. Falconer, 
+Alan W. Weimer, Using atomic layer deposited tungsten (ALD-W) to increase thermal 
+conductivity of a packed bed, Applied Physics Letters, Vol. 106,  Art #153102 (5 pages), 
+Web_Link. 
+96. Chunlei Wan, Xiaokun Gu, Feng Dang, Tomohiro Itoh, Yifeng Wang, Hitoshi Sasaki, 
+Mami. Kondou, Kenji Koga, Kazuhisa Yabuki, G. Jeffrey Snyder, Ronggui Yang, and 
+Kunihito Koumoto, " Flexible N-type thermoelectric materials by organic intercalation of 
+layered transition metal dichalcogenide TiS2”, Nature Materials, Vol. 14, pp. 622-627, 2015 
+Web_Link.  
+95. Kathleen M. Hoogeboom-Pot, Jorge N. Hernandez-Charpak, Travers D. Frazer, Xiaokun 
+Gu, Erik H. Anderson, Weilun Chao, Roger W. Falcone, Ronggui Yang, Margaret M. 
+Murnane, Henry C. Kapteyn and Damiano Nardi, A New Regime of Nanoscale Thermal 
+Transport: Collective Diffusion Counteracts Dissipation Inefficiency, PNAS - Proceedings 
+of the National Academy of Sciences of the United States of America, Vol. 112, pp.4846-
+4851, 2015 Web_Link. 
+94. Ryan Lewis, Li-Anne Liew, Shanshan Xu, Yung-Cheng Lee, and Ronggui Yang, 
+Microfabricated Ultra-Thin All-Polymer Thermal Ground Planes, (invited submission for 
+the re-launch of the journal), Science Bulletin, Vol. 60, pp. 701-706, Web_Link, Author’s 
+copy for those who has no subscriptions, please cite appropriately. 
+93. J. Ordonez-Miranda, and Ronggui Yang, Effect of Metallic Coatings on the Thermal 
+Conductivity of Carbon Fiber Polymer Composites, Composite Science and Technology, 
+Vol. 109, pp. 18-24, 2015, Web Link.  
+92. Xiaokun Gu, and Ronggui Yang, First-Principles Prediction of Phononic Thermal 
+Conductivity of Silicene: A Comparison with Graphene, Journal of Applied Physics, Vol. 
+
+-----
+ 
+8 
+ 
+117, Art #025102, 2015, Web Link. The Force Constants for Silicene can be downloaded 
+here as a zip file.  
+91. Miao Tian, Wei Wang, Yang Liu, Katherine L. Jungjohann, C. Thomas Harris, Yung-Cheng 
+Lee, and Ronggui Yang, A Three-Dimensional Carbon Nano-Network for High 
+Performance Lithium Ion Batteries, Nano Energy, Vol. 11, pp. 500-509, 2015. Web_Link 
+ 
+2014 
+90. Tingyu Lu, Jun Zhou, Nianbei Li, Ronggui Yang, and Baowen Li, Inhomogeneous Thermal 
+Conductivity Enhances Thermoelectric Cooling, AIP Advances, Vol. 4, Art # 124501 (8 
+pages), 2014, Web Link. 
+89. Xianming Dai, Fanghao Yang, Ronggui Yang, Xinyu Huang, William A. Rigdon, Xiaodong 
+Li, and Chen Li, Hydrophobic-Hydrophilic Hybrid Nanoporous Surfaces with Exceptional 
+Drag Reduction and Capillary Evaporation Enhancement, Applied Physics Letters, Vol. 
+105, Art #191611 (5 pages), 2014, Web_Link 
+88. Xiaokun Gu, and Ronggui Yang, Phonon Transport in Single-Layer Transition Metal 
+Dichalcogenides: a First-Principles Study, Applied Physics Letters, Vol. 105, Art #131903 
+(5 pages), 2014, Web Link 
+87. Biao Wang, Jun Zhou, Ronggui Yang, and Baowen Li, Ballistic Thermoelectric Transport in 
+Structured Nanowires, New Journal of Physics, Vol. 16, Art #065018 (16 pages), 2014, 
+Web_Link.  
+86. Jun Liu, Shenghong Ju, Yifu Ding, and Ronggui Yang, Size Effect on the Thermal 
+Conductivity of Ultrathin Polymers, Applied Physics Letters, Vol. 104, Art #153110 (4 
+pages), 2014 Web_Link. 
+85. Baolin Wang, Jiangtao Wu, Xiaokun Gu, Hanqing Yin, Yujie Wei, Ronggui Yang, and 
+Mildred Dresselhaus, Stable planar single-layer hexagonal silicene under tensile strain and 
+its anomalous Poisson’s ratio, Applied Physics Letters, Vol. 104, Art #081902 (5 pages), 
+2014 Web_Link.  
+84. Suraj Thiagarajan, Sreekant Narumanchi, and Ronggui Yang, Effect of Flow Rate and 
+Subcooling on Spray Boiling Heat Transfer on Microporous Copper Surfaces, International 
+Journal of Heat and Mass Transfer, Vol. 69, pp. 493-505, 2014, Web_Link. 
+ 
+2013 
+83. Jun Liu, Byunghoon Yoon, Eli Kuhlmann, Miao Tian, Xiaokun Gu, Steven M. George, 
+Yung-Cheng 
+Lee, 
+and 
+Ronggui 
+Yang, 
+Ultra-Low 
+Thermal 
+Conductivity 
+of 
+Atomic/Molecular Layer Deposited (ALD/MLD) Hybrid Organic-Inorganic Thin Films, 
+Nano Letters, Vol. 13, pp. 5594-5599, 2013, Web_Link. 
+82. Xiao Zhang, Mehdi Hejazi, Suraj J. Thiagarajan, William R. Woerner, Debasis Banerjee, 
+Thomas J. Emge, Wenqian Xu, Simon J. Teat, Qihan Gong, Ahmad Safari, Ronggui Yang, 
+John B. Parise, and Jing Li, From 1D Chain to 3D Network: A New Family of Inorganic-
+Organic Hybrid Semiconductors MO3(L)x (M = Mo, W; L = Organic Linker) Built on 
+Perovskite-Like Structure Modules, Journal of American Chemical Society, Vol. 135, pp. 
+17401-17407, 2013, Web_Link. 
+81. Yuanyuan Wang, Jun Liu, Jun Zhou, and Ronggui Yang, Thermoelectric Transport across 
+Polymer-Semiconductor-Polymer Nanoscale Junctions, Journal of Physical Chemistry C, 
+Vol. 117, pp. 24716-24725, 2013, Web_Link. 
+
+-----
+ 
+9 
+ 
+80. Xianming Dai, Mehdi Famouri, Aziz I. Abdulagatov, Ronggui Yang, Yung-Cheng Lee, Li-
+Anne Liew, Steven M. George, and Chen Li, Enhanced Capillary Evaporation on 
+Micromembrane-enhanced Microchannel Wicks with Atomic Layer Deposited Silica, 
+Applied Physics Letters, Vol. 103, Art # 151602 (5 pages), 2013. Web_Link.  
+79. Tuhin Shuvra Basu, Ronggui Yang, Suraj Joottu Thiagarajan, Siddhartha Ghosh, Stanislaw 
+Gierlotka, and Mallar Ray, Remarkable Thermal Conductivity Reduction in Metal-
+Semiconductor Nanocomposites, Applied Physics Letters, Vol. 103, Art #083115 (5 pages), 
+2013, Web_Link.  
+78. Ordonez-Miranda, J. J. Alvarado-Gil and Ronggui Yang, Effective Thermal Conductivity of 
+Particulate Composite at Non-Dilute Limit, Journal of Applied Physics, Vol. 114, Art 
+#064306, 2013, Web_Link. 
+77. Jiangtao Wu, Baolin Wang, Yujie Wei, Ronggui Yang, Mildred Dresselhaus, Mechanics 
+and Mechanically Tunable Bandgap in Single-Layer Hexagonal Boron-Nitride, Materials 
+Research Letters, Vol. 1, n4, pp. 200-206, 2013, Web_Link.  
+76. Xianming Dai, Fanghao Yang, Ronggui Yang, Yung-Cheng Lee, and Chen Li, Membrane-
+Enhanced Capillary Evaporation, International Journal of Heat and Mass Transfer, Vol. 64, 
+pp. 1101-1108, 2013, Web_Link. 
+75. Jun Liu, Jie Zhu, Miao Tian, Xiaokun Gu, Aaron Schmidt, and Ronggui Yang, 
+Simultaneous Measurement of Thermal Conductivity and Heat Capacity of Bulk and Thin 
+Film Materials using Frequency-Dependent Transient Thermoreflectance Method, Review 
+of Scientific Instruments, Vol. 84, Art # 034902, 2013, Web Link. 
+74. Wei Wang, Miao Tian, Yujie Wei, Sehee Lee, Yung-Chen Lee, and Ronggui Yang, Binder-
+Free Three Dimensional Silicon-Carbon Nanowire Networks for High Performance 
+Lithium Ion Battery Anodes, Nano Energy, Vol. 2, pp. 943–950, 2013, Web Link.   
+73. Xiaobo Li, and Ronggui Yang, Equilibrium Molecular Dynamics Simulations for the Lattice 
+Thermal Conductivity of Si/Ge Nanocomposites, Journal of Applied Physics, Vol. 113, Art 
+#104306, 2013, Web Link. 
+72. Yujie Wei, Baoling Wang, Jiangtao Wu, Ronggui Yang, and Martin L. Dunn, Bending 
+Rigidity and Gaussian Bending Stiffness of Single-Layered Graphene, Nano Letters, Vol. 
+13, pp. 26-30, 2013, Web Link. 
+71.  J. Ordonez-Miranda, J. J. Alvarado-Gil, and Ronggui Yang, Effect of the Electron–Phonon 
+Coupling on the Effective Thermal Conductivity of Metallic Bilayers, International Journal 
+of Thermophysics, Vol. 34, pp. 1817-1827, 2013, Web Link 
+70. Christopher Oshman, Qian Li, Li-Anne Liew, Ronggui Yang, Victor Bright, and Y.C. Lee, 
+Flat Flexible Polymer Heat Pipes, Journal of Micromechanics and Microengineering, Vol. 
+23, Art # 015001 (7 pages), 2013. Web Link. 
+ 
+2012 
+69. Yujie Wei, Jiangtao Wu, Hanqing Yin, Xinghua Shi, Ronggui Yang, Mildred S. 
+Dresselhaus, The Nature of Strength Enhancement and Weakening by Pentagon-Heptagon 
+Defects in Graphene, Nature Materials, Vol. 11, pp. 759–763, 2012, Web Link. 
+68. Dan Li, Gensheng Wu, Wei Wang, Yunda Wang, Dong Liu, Dacheng Zhang, Yunfei Chen, 
+G.P. Peterson, and Ronggui Yang, Enhancing Flow Boiling Heat Transfer in 
+Microchannels for Thermal Management with Monolithically-Integrated Silicon 
+Nanowires, Nano Letters, Vol. 12, pp 3385–3390, 2012, Web Link.  
+
+-----
+ 
+10 
+ 
+67. Wei Wang, Dan Li, Miao Tian, Yung-Cheng Lee, and Ronggui Yang, Wafer-Scale 
+Fabrication of Silicon Nanowire Arrays with Controllable Dimensions, Applied Surface 
+Science, Vol. 258, pp. 8649–8655, 2012. Web Link. 
+66. Xiaobo Li, and Ronggui Yang, Effect of Lattice Mismatch on Phonon Transmission and 
+Interface Thermal Conductance across Dissimilar Material Interfaces, Physical Review B, 
+Vol. 86, Art #054305 (13 pages), 2012. Web Link. 
+65. Qing Li, Kathleen Hoogeboom-Pot, Damiano Nardi, Margaret M. Murnane, and Henry C. 
+Kapteyn, Mark E. Siemens, Erik H. Anderson, Olav Hellwig and Bruce Gurney, Ronggui 
+Yang, and Keith A. Nelson, Generation and Control of Ultrashort-Wavelength 2D Surface 
+Acoustic Waves at Nano-interfaces, Physical Review B, Vol. 85, Art #195431 (8 pages), 
+2012, Web Link. 
+64. Yuchu Chen, Hongbin Yao, Suraj Thiagarajan, Min Wu, Thomas Emge, Ronggui Yang, 
+Shuhong Yu, and Jing Li, Hybrid 2D Selenoantimonates with Reduced Thermal 
+Conductivity, ZAAC- Journal of Inorganic and General Chemistry, Vol. 638, pp. 2604-
+2609, 2012, Web Link. 
+63. David Makhija, Georg Pingen, Ronggui Yang, and Kurt Maute, Topology Optimization of 
+Multi-component flows by Multi-relaxation Time Lattice Boltzmann Method, Computers 
+and Fluids, Vol. 67, pp. 104–114, 2012, Web Link. 
+62. Jun Liu, and Ronggui Yang, Length-Dependent Thermal Conductivity of Single Extended 
+Polymer Chains, Physical Review B,  Vol. 86, Art# 164307 (10 pages), 2012. Web Link.   
+61. J. Ordonez-Miranda, J. J. Alvarado-Gil, and Ronggui Yang, Effective Thermal Conductivity 
+of Metal-Dielectric Composites at Non-dilute Limit, International Journal of 
+Thermophysics, Vol.33,  pp 2118-2124, 2012, Web Link. 
+60. Miao Tian, Wei Wang, Yujie Wei and Ronggui Yang, Three-Dimensional Ni-Sn Nanowire 
+Networks for Stable High Areal-Capacity Lithium Ion Battery Anodes, Journal of Power 
+Sources, Vol. 211, pp. 46-51, 2012, Web Link.   
+59. Jun Zhou, Yuanyuan Wang, Jeff Sharp, and Ronggui Yang, Optimal Thermoelectric Figure 
+of Merit in Bi2Te3/Sb2Te3 Quantum Dot Nanocomposites, Physical Review B, Vol. 85, Art 
+#115320 (11 pages), 2012, Web Link. 
+58. Xiaobo Li, and Ronggui Yang, Size-Dependent Phonon Transmission across Interfaces of 
+Dissimilar Materials, Journal of Physics: Condensed Matter, Vol. 24, Art # 155302 (12 
+pages), 2012 Web Link.  
+57. Christopher Oshman, Qian Li, Li-Anne Liew, Ronggui Yang, Y.C. Lee, and Victor M. 
+Bright, Darin J. Sharar, Nicholas R. Jankowski, Brian C. Morgan, Thermal Performance of 
+a Flat Polymer Heat Pipe Heat Spreader Under High Acceleration, Journal of 
+Micromechanics and Microengineering, Vol. 22, Art #045018 (12 pages), 2012, IOPSelect 
+by editors, Web_Link.  
+56. Jun Liu, Mohamed Alhashme, and Ronggui Yang, Thermal Transport across Carbon 
+Nanotubes Connected by Molecular Linkers, Carbon, Vol. 50, pp. 1063-1070, 2012, Web 
+Link. 
+55. J. Ordonez-Miranda, Ronggui Yang and J. J. Alvarado-Gil, A Model for the Effective 
+Thermal Conductivity of Metal-Nonmetal Particulate Composites, Journal of Applied 
+Physics, Vol. 111， Art # 044319 (12 pages),  2012, Web Link. 
+54. Wei Wang, Miao Tian, Aziz Abdulagatov, Steven George, Yung-Cheng Lee and Ronggui 
+Yang, Three-Dimensional Ni/TiO2 Nanowire Network for High Areal-Capacity Lithium-
+Ion Microbattery Applications, Nano Letters, Vol. 12, pp 655–660, 2012, Web Link. 
+
+-----
+ 
+11 
+ 
+ 
+2011 
+53. Jun Zhou, Ronggui Yang, Gang Chen and Mildred S. Dresselhaus, Optimal Bandwidth for 
+High Efficiency Thermoelectrics, Physical Review Letters, Vol. 107, Art # 226601 (5 
+pages), 2011, Web Link. 
+52. A.I. Abdulagatov, Y.W. Yan, J.R. Cooper, Y.D. Zhang, Z. Gibbs,  A.Cavanagh, R.G. Yang, 
+Y.C. Lee, and S.M. George, Al2O3 and TiO2 Atomic Layer Deposition on Copper for Water 
+Corrosion Resistance, ACS Applied Materials and Interfaces, Vol. 3, pp 4593–4601, 2011, 
+Web Link. 
+51. Yuanyuan Wang, Jun Zhou and Ronggui Yang, Thermoelectric Properties of Molecular 
+Nanowires, Journal of Physical Chemistry C, Vol. 115, pp 24418–24428, 2011, Web Link. 
+50. Jun Zhou, and Ronggui Yang, Quantum and Classical Thermoelectric Transport in Quantum 
+Dot Nanocomposites, Journal of Applied Physics, Vol. 110, Art # 084317 (12 pages), 2011, 
+Web Link. 
+49. Yadong Zhang, Ronggui Yang, Steven M. George, and Yung-Cheng Lee, In-Situ Inspection 
+of Cracking in Atomic Layer Deposited Thin Films Using Laser Scanning Confocal 
+Microscopy, Thin Solid Films, Vol. 520, p.251-257, 2011 Web Link. 
+48. Miao Tian, Wei Wang, Se-Hee Lee, Yung-Cheng Lee, and Ronggui Yang, Enhancing Ni-Sn 
+Nanowire Anode Performance of Lithium Ion Batteries by Tailoring Active/Inactive 
+Material Interface, Journal of Power Sources, Vol. 196, pp. 10207-10212, 2011, Web Link. 
+47. Yadong Zhang, Dragos Seghete, Aziz Abdulagatov, Zachary Gibbs, Andrew Cavanagh, 
+Ronggui Yang, Steven George, and Y C Lee, Investigation of the Defect Density in Ultra-
+Thin Al2O3 Films Grown Using Atomic Layer Deposition, Surface and Coating 
+Technologies, Vol. 205, pp. 3334-3337, 2011. Web Link  
+46. J. Ordonez-Miranda, Ronggui Yang and J. J. Alvarado-Gil, On the Thermal Conductivity of 
+Particular Nanocomposites, Applied Physics Letters, Vol. 98, Ar#233111 (3 pages), June 
+2011, Web Link. 
+45. Xiaochun Wang, Ronggui Yang, Yong Zhang, Peihong Zhang，and Yu Xue, Rare earth 
+chalcogenide Ce3Te4 as high efficiency high temperature thermoelectric material, Applied 
+Physics Letters, Vol. 98, Art #222110 (3 pages), June 2011, Web Link. 
+44. Jose Ordonez-Miranda, Ronggui Yang, and J.J. Alvarado-Gil, A New Constitutive Equation 
+for Nano-to-Macro- Scale Heat Conduction Based on Boltzmann Transport Equation, 
+Journal of Applied Physics, Vol. 109, Art # 084319 (8 pages),  April 2011. Web Link. 
+43. Jun Zhou, and Ronggui Yang, Ballistic Thermoelectric Transport in Double-Bend 
+Nanowires, Applied Physics Letters, Vol. 98, Art# 173107 (3 pages), 2011. Web Link. 
+42. Chris Oshman, Bo Shi, Chen Li, Ronggui Yang, Y.C. Lee, G.P. “Bud” Peterson, and Victor 
+Bright, Development of Thin Polymer-based Flat Heat Pipes, ASME/IEEE Journal of 
+Micro-Electro-Mechanical Systems, Vol. 20, n2, pp. 410-417, 2011. Link 
+41. Jose Ordonez-Miranda, Ronggui Yang, and J.J. Alvarado-Gil, The Effect of the Electron-
+Phonon Coupling on the Effective Thermal Conductivity of Metal-Nonmetal Multilayers, 
+Journal of Applied Physics, Vol. 109, Art #094310 (7 pages),  May 2011, Web Link. 
+40. Jen-Hau Cheng, Dragos Seghete, Myongjai Lee, John B. Schlager, Kris A. Bertness, 
+Norman A. Sanford, Ronggui Yang, Steven George and Y.C. Lee, “Atomic Layer 
+Deposition Enabled Interconnect Technology for Vertical Nanowire Arrays,” Sensors & 
+Actuators A: Physical (published online in January 2010), Vol. 165, pp. 107-114, 2011. 
+Web Link. 
+
+-----
+ 
+12 
+ 
+ 
+2010 
+39. Mark Siemens, Qing Li, Ronggui Yang, Keith A. Nelson, Eric Anderson, Margaret 
+Murnane, and Henry Kapteyn, Quasi-ballistic thermal transport from nanoscale interfaces 
+observed using ultrafast coherent soft X-ray beams, Nature Materials, Vol. 9, pp. 26-30, 
+2010, Web Link.. 
+38. Jie Zhu, Dawei Tang, Wei Wang, Jun Liu, Kristopher W Holub, and Ronggui Yang, 
+Ultrafast Thermoreflectance Techniques for Measuring Thermal Conductivity and Interface 
+Thermal Conductance of Thin Films, Journal of Applied Physics, 108, Art # 094315 (9 
+pages), 2010, Web Link. 
+37. Min Wu, Hongbin Yao, Thomas Emge, Jen-Hau Cheng, Suraj Thiagarajan, Ronggui Yang, 
+Mark Croft, Xiaoying Huang, Jessica Rhee, Jing Li, An Iron Sulfide Hybrid Semiconductor 
+with Unique 2D [Fe16S20]8- Layer and Low Thermal Conductivity, Chemical 
+Communications, 46, pp. 2649-2651, 2010 Web Link. 
+36. Jun Liu and Ronggui Yang, Tuning the Thermal Conductivity of Polymers with Mechanical 
+Strain, Physical Review B, 81, Art # 174122 (9 pages), 2010  Web Link.  
+35. Xiaobo Li, Kurt Maute, Martin L. Dunn and Ronggui Yang, Strain Effects on the Thermal 
+Conductivity of Nanostructures, Physical Review B, 81, Art #245318 (11 pages), 2010 
+Web Link. 
+34. Jun Zhou, and Ronggui Yang, Thermoelectric Transport in Strongly Correlated Quantum 
+Dot Nanocomposites, Physical Review B, 82, Art #075324 (11 pages), 2010 Web Link. 
+33. Jun Zhou, Xiaobo Li, Ronggui Yang, and Gang Chen, A Semi-Classical Model for 
+Thermoelectric Nanocomposites, Physical Review B, Vol. 82, Art #. 115308 (16 pages), 
+2010. Web Link. 
+32. Dae Up Ahn, Zhen Wang, Ronggui Yang, and Yifu Ding, Hierarchical Polymer Patterns 
+Driven by Instabilities at Corrugated and Mobile Polymer-Polymer Interfaces, Soft Matter, 
+Vol. 6, pp. 4900-4907, 2010, Web Link.  
+31. Sheng Shen, Ronggui Yang, and Gang Chen, Robert M Crone, and Manuel Anaya-Dufresne, 
+Nonlocal Formulation of the Reynolds Equation for Rarefied Gas Flow With Steep 
+Pressure Variation, Journal of Applied Physics, 107, Art # 104316 (6 pages), 2010 Web 
+Link. 
+ 
+2009 
+30. Mark Siemens, Qing Li, Margaret Murnane, Henry Kapteyn, Ronggui Yang, Erik Anderson, 
+and Keith Nelson, High-Frequency Surface Acoustic Wave Propagation in Nanostructures 
+Characterized by Coherent Extreme Ultraviolet Beams, Applied Physics Letters Vol. 94, 
+Art # 093103 (3 pages), 2009 Web Link. 
+ 29. David C. Miller, Ross R. Foster, Yadong Zhang, Shih-Hui Jen, Jacob A. Bertrand, Zhixing 
+Lu, Dragos Seghete, Jennifer L. O’Patchen, Ronggui Yang, Yung-Cheng Lee, Steven M. 
+George, and Martin L. Dunn, The Mechanical Robustness of Atomic-Layer and Molecular-
+Layer Deposited Coatings on Polymer Substrates, Journal of Applied Physics, Vol. 105, n9, 
+Art # 093527 (12 pages), May 2009, Web Link. 
+28. Xiaoying Huang, Mojgan Roushan, Thomas J. Emge, Wenhua Bi, Suraj Joottu Thiagarajan, 
+Jen-Hau Cheng, Ronggui Yang, Jing Li, Flexible Hybrid Semiconductors Having Very 
+Low Thermal Conductivity: The Role of Organic Diamines, Angewandte Chemie 
+
+-----
+ 
+13 
+ 
+International Edition (submitted in June 2009 and accepted August 5, 2009), Vol. 121, pp. 
+8011-8014, September 2009. Web Link. 
+27. Liang-Chun Liu, Mei-Jiau Huang, Ronggui Yang, Ming-Shan Jeng, and Chang-Chung Yang, 
+Curvature Effect on the Phonon Thermal Conductivity Reduction of Dielectric Nanowires, 
+Journal of Applied Physics, Vol. 105, n10, Art # 104313 (6 pages), May 2009. Web Link. 
+26. Yadong Zhang, Yu-Zhong Zhang, David C. Miller, Jacob A. Bertrand, Ronggui Yang, 
+Martin L. Dunn, Steven M. George and Y. C. Lee, Fluorescent Tags to Visualize Defects in 
+Al2O3 Thin Films Grown Using Atomic Layer Deposition, Thin Solid Films, Vol. 517, pp. 
+6794-6798, October 2009 (published online in May 2009). Web Link. 
+25. Nicholas Allec, Zyad Hassan, Li Shang, Robert P. Dick, Vishak Venkatraman and Ronggui 
+Yang, “ThermalScope: Multi-scale Thermal Analysis for Nanometer-scale Integrated 
+Circuits,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and 
+Systems, Vol. 28, n6, pp. 860-873, 2009, Web Link. 
+24. Suresh Ramanan and Ronggui Yang, Effect of Gas Rarefaction on the Performance of 
+Submicron Fins, Applied Physics Letters, Vol. 94, Art# 143106 (3 pages), 2009. 
+23. Yadong Zhang, Jacob A. Bertrand, Ronggui Yang, Y. C. Lee, and Steven M. George, 
+Electroplating to visualize defects in Al2O3 thin films grown using atomic layer deposition, 
+Thin Solid Films, Vol. 517, pp. 3269-3272, 2009 (published online in January 2009). Web 
+Link 
+22. Evgrafov, K. Maute, R.G. Yang, and M.L. Dunn, Topology Optimization for Nano-scale 
+Heat Transfer (Published online in July 2008), International Journal for Numerical Methods 
+in Engineering, Vol. 77, pp. 285–300, 2009 Web Link. 
+ 
+2008 
+21. Ming-Shan Jeng, Ronggui Yang, David W. Song, and Gang Chen, Modeling the Thermal 
+Conductivity and Phonon Transport in Nanoparticle Composites using Monte Carlo 
+Simulation, ASME Journal of Heat Transfer (JHT), Vol. 130, Article #042410 (11 pages), 
+April 2008, Web Link.  
+20. Weixue Tian and Ronggui Yang, Phonon Transport and Thermal Conductivity Percolation 
+in Random Nanoparticle Composites, Computer Modeling in Engineering and Sciences 
+(CMES), Vol. 24, p.123-141, 2008, Web Link. 
+19. T. Borca-Tasciuc, D. G. Cahill, G. Chen, S. B. Cronin, H. Daiguji, C. Dames, K. Fushinobu, 
+T. Inoue, A. Majumdar, S. Maruyama, K. Miyazaki, M. Matsumoto, P. M. Norris, L. Shi, 
+M. Shibahara, M. Shannon, J. Shiomi, Y. Taguchi, K. Takahashi, T. Tsuruta, S. G. Volz, E. 
+Wang, X. F. Xu, B. Yang, and R.G. Yang, “Report on 6th US-Japan Joint Seminar on 
+Nanoscale Transport PhenomenaScience and Engineering’, Nanoscale and Microscale 
+Thermophysical Engineering, Vol. 12, pp. 273-293, 2008, Web Link. 
+18. Jianping Fu, Ronggui Yang, Gang Chen, G. Jeffrey Snyder and Jean-Pierre Fleurial, 
+Integrated Electroplated Heat Spreaders for High Power Quantum Well Lasers, Journal of 
+Applied Physics, Vol. 104, Art # 064907, 2008. Web Link.  
+ 
+2007 
+17. M. S. Dresselhaus, G. Chen, M.Y. Tang, R.G. Yang, H. Lee, D.Z. Wang, Z. F. Ren, J. P. 
+Fleurial, and P. Gogna, New Directions for Low Dimensional Thermoelectric Materials 
+(Invited Review), Advanced Materials 19, pp.1043-1053, April 2007, Web Link.  
+
+-----
+ 
+14 
+ 
+16. Weixue Tian and Ronggui Yang, Effect of Interface Scattering on Phonon Thermal 
+Conductivity Percolation in Random Nanowire Composites, Applied Physics Letters 90, 
+263105, June 2007, Web Link.  
+15. Weixue Tian, and Ronggui Yang, Thermal Conductivity Modeling of Compacted Nanowire 
+Composites, Journal of Applied Physics, Vol. 101, Art #054320 (5 pages), March 2007. 
+Web Link 
+ 
+2006 
+ 
+2005 
+14. Ronggui Yang, Gang Chen, and Mildred S. Dresselhaus, Thermal Conductivity of Simple 
+and Tubular Nanowire Composites in the Longitudinal Direction, Physical Review B 72, 
+125418 (7 pages), 2005, Web Link.  
+13. Ronggui Yang, Gang Chen, Marine Laroche and Yuan Taur, Multidimensional Transient 
+Heat Conduction at Nanoscale using the Ballistic-Diffusive Equations and the Boltzmann 
+Equation, ASME Journal of Heat Transfer, Vol. 127, pp.298-306, 2005, Web Link .  
+12. Ronggui Yang, Gang Chen, and Mildred Dresselhaus, Thermal Conductivity Modeling of 
+Core-Shell and Tubular Nanowires, Nano Letters, Vol. 5, pp. 1111-1115, June 2005, Web 
+Link.  
+11. Ronggui Yang, Arvind Narayanaswamy and Gang Chen, Surface Plasmon Coupled 
+Nonequilibrium Thermoelectric Refrigerators and Power Generators, Journal of 
+Computational and Theoretical Nanoscience, Vol. 2, pp. 75-87, 2005, Web Link. 
+10. Ronggui Yang and Gang Chen, Nanostructured Thermoelectric Materials: From 
+Superlattices to Nanocomposites (Invited Review), Materials Integration 18; pp. 31-36, 
+Feature issue on “Thermoelectric Materials R&D in the World”, PDF. 
+9. Gang Chen, Ronggui Yang, and Xiaoyuan Chen, Nanoscale Heat Transfer and 
+Thermoelectric Energy Conversion, Journal de Physique IV, Vol. 125, pp.499-504, 2005, 
+Web Link. 
+ 
+2004 
+8. Ronggui Yang and Gang Chen, Thermal Conductivity Modeling of Periodic Two-
+Dimensional Nanocomposites, Physical Review B, Vol. 69, 195316 (10 pages), 2004, Web 
+Link.  
+7. Ronggui Yang, Gang Chen, A. Ravi Kumar, G. Jeffrey Snyder and Jean-Pierre Fleurial, 
+Transient Cooling of Thermoelectric Micro Coolers and its Applications, Energy 
+Conversion and Management, Vol. 46, pp.1407-1421, 2005 (published in Sep. 2004), Web 
+Link. 
+6. Ronggui Yang, Gang Chen, G. Jeffrey Snyder, and Jean-Pierre Fleurial, Multistage 
+Thermoelectric Micro Coolers, Journal of Applied Physics, Vol. 95, pp. 8226-8232, 2004, 
+Web Link. 
+ 
+<2002 
+5. G. Jeffrey Snyder, Jean-Pierre Fleurial, Thierry Caillat, Ronggui Yang and Gang Chen, 
+Supercooling of Peltier Cooler using a Current Pulse, Journal of Applied Physics, Vol. 92, 
+n3, pp.1564-1569, 2002, Web Link. 
+
+-----
+ 
+15 
+ 
+4. Ronggui Yang, Shuye Lei and Jianhua Du, Transport Phenomena in Unsaturated Porous 
+Media Due to Sudden Heating, Journal of Tsinghua University (in Chinese), Vol.39 n6, 
+p78-82, 1999 
+3. Shuye Lei, Ronggui Yang and Jianhua Du, Research on Heat and Mass Transfer in 
+Unsaturated Porous Media, Journal of Tsinghua University (in Chinese), Vol.39 n6, p.74-
+77, 1999. 
+2. Lihe Chai and Ronggui Yang, Philosophical Perspective on Modeling Methods, Exploration 
+of Nature (Chinese), Vol. 18, n2, pp. 87-90, 1999. 
+1. Shuye Lei and Ronggui Yang, Seepage Model on Heat and Mass Transfer in Unsaturated 
+Porous Media, Chinese Academic Journal, Vol. 4, n8, pp. ,1998. 
+ 
+c). Journal Papers in Review or In Preparation:  
+Yao Zhai, Yaoguang Ma, Sabrina N. David, Dongliang Zhao, Runnan Lou, Ronggui Yang, 
+Xiaobo Yin, Randomized Glass-Polymer Hybrid Metamaterial for Day-time Radiative 
+Cooling, Science, submitted. 
+Xiaokun Gu, Zhenqian Pang, Yujie Wei, and Ronggui Yang, On the influence of junction 
+structure on the mechanical and thermal properties of carbon honeycombs, Carbon, 
+submitted. 
+Xiaokun Gu, Ronggui Yang, Xiaobo Yin, Yujie Wei, and Baowen Li, Thermal Properties of 2-
+D Materials (Invited Review), Review of Modern Physics. 
+Rongfu Wen, Qian Li, Wei Wang, Benoit Latour, C.H. Li, Chen Li, Yung-Cheng Lee, G.P. 
+Peterson, and Ronggui Yang, Enhanced Bubble Nucleation and Continuous Liquid 
+Rewetting for Highly Efficient Boiling Heat Transfer on Hierarchical Copper Nanowires, 
+Nano Letters. 
+Rongfu Wen, Zhong Lan, Benli Peng, Wei Xu, Ronggui Yang, Xuehu Ma, Wetting Transition 
+of Condensed Droplets on Nanostructured Superhydrophobic Surface: Coordination of 
+Surface Property and Condensing Condition. 
+Dongliang Zhao, Christine Elizabeth Martini, Siyu Jiang, Yaoguang Ma, Yao Zhai, Xiaobo 
+Yin2, Gang Tan, Ronggui Yang, Feasibility Study of a Single-Phase Thermosiphon for 
+Radiative Cooling Cold Collection and Storage. 
+ 
+d). Funded Research Projects  
+49. DOE/ARPA-E: Advancing Insulation Retrofits from Flexible Inexpensive Lucid Materials 
+(AIR FILMs) for Single-Pane Windiows, PI: Ivan Smalyukh, Co-PI: Ronggui Yang, total:  
+$1.80M + $150K (CU Matching), Yang’s share: $0.60M, 11/15/2016-02/14/2019 
+48. Texas Instruments Inc.: Phase Change Cooling using Flexible Thermal Ground Planes for 
+High-Power Applications, PI: Yung-Cheng Lee, Co-PI: Ronggui Yang and Ryan Lewis, 
+$150K, 09/01/2015-08/31/2018. 
+47. DOD/FlexTech Alliance: Flexible Hybrid Electronics-Manufacturing Innovation Institute 
+(FOA-RQKM-2015-0014). PI for CU Team: Ronggui Yang, et al, total request of federal 
+funding for CU: $2.0M, along with $2.0M Cost-Share from CU, 09/01/2015-08/30/2020. 
+46. NSF: Collaborative Research: Ultrafast Phonon Lifetime Spectroscopy on 2-D Transitional 
+Metal Dichalcogenides, PI: Ronggui Yang with Mark Siemens (collaborative PI at the 
+University of Denver), $140,000, 09/01/2015-08/31/2018. 
+
+-----
+ 
+16 
+ 
+45. DOE/ARPA-E: Radiative Cooled-Cold Storage Modules (RadiCold), PI: Ronggui Yang, 
+Co-PI: Xiaobo Yin, with subcontract to Gang Tan (University of Wyoming), total:  $3.00M 
++ $158K (CU Matching), Yang’s share: $1.30M, 07/31/2015-07/30/2018. 
+44. DOE/ARPA-E: Thermoregulatory Clothing System for Building Energy Saving, 
+Subcontract to Cornell University (PI: Jintu Fan, Total: $3.0M), Yang’s share: $540K+$27K 
+(CU Matching), 04/27/2015-04/26/2018. 
+43. DOD/DARPA: Mean Free Path Distribution of Phonons in GaN, GaN-on-SiC, and GaN-on-
+Diamond Devices, PI: Ronggui Yang, $494K, 05/13/2015-05/12/2017. 
+42. DOE/ARPA-E: Carbothermal Reduction Process for Producing Magnesium Metal Using a 
+Reduced Pressure Hybrid Solar/Electric Reactor, Co-PI with Professor Al Weimer (PI) and 
+David Clough, Department of Energy (ARPA-E), Total: $3.6M (+ $400K University 
+Matching), Yang’s Share: ~15%, 01/01/2014-12/31/2016.  
+41. Colorado AIA, Flexible thermal ground planes for smartphones and tablets, $150,000, Co-
+PI with Professor Yung-Cheng Lee (PI) and Li-Anne Liew (Co-PI) and Ryan Lewis (Co-
+PI), Advanced Industry Accelerator Program by Colorado Office of Economic Development 
+and International Trade (OEDIT), Total: $150K + $50K (CU matching), 07/01/2014-
+2/29/2016, completed. 
+40. Google Little Box Challenges: Ultra-High Power Density Inverter with Extreme Efficiency, 
+PI: K. Afridi, Co-PIs: D. Maksimovic, R. Erickson, and R.G. Yang, $30,000, 12/01/2014-
+08/30/2015, completed. 
+39. DOD/AFOSR STTR AF13-AT07 Phase I: A High Repetition Rate and High Voltage 
+Nanosecond Pulser with Variable Pulse Width Control, Subcontract to Eagle Harbor 
+Technologies (Dr. Tim Ziemba) for AFOSR STTR program, PI: Ronggui Yang, $75K out 
+of $150K total, 01/01/2014 – 09/30/2014 completed. 
+38. NSF: Student Poster Symposium at the ASME International Mechanical Engineering 
+Congress and Exposition (ASME-IMECE); San Diego California; November 15-21, 2013; 
+National Science Foundation, PI: Chris Hanson and Ronggui Yang, $45,992, 08/15/2013-
+07/31/2014, completed. 
+37. DOD/SBIR MDA13-022 Phase I: Thermal Ground Planes for High Power Solid State 
+Lasers, Subcontract to i2C Solutions (Dr. Mike Hulse) for DoD MDA SBIR Phase I 
+Program (MDA13-022), CU Budget: $35K out of $150K total, 01/01/2014-09/30/2014 
+(Phase II awarded), completed.  
+36. DOD/AFOSR SBIR AF131-013 Phase I: Conformable Thermal Ground Plane for Fiber 
+Laser Amplifiers, Subcontract to i2C Solutions (Dr. Mike Hulse) for DoD AFOSR SBIR 
+Phase I Program (AF131-013), CU Budget: $15K out of $150K total, 10/01/2013-3/31/2014 
+(Phase II awarded), completed.  
+35. DOD/AFOSR STTR AF10-BT26 Phase II: Quantum Dot Nanocomposite-Based Novel 
+Thermoelectric Materials, PI: Ronggui Yang, Subcontract to ADA Technologies (Dr. Sayan 
+Naha) for AFOSR STTR Phase II Program (AF09-BT22), CU budget: $225K out of $750K 
+total, 10/01/2012-09/31/2014, completed.  
+34. Gift Fund: Thermal Management Technologies for High Power Electronics, PI: Ronggui 
+Yang, $20K, LSI International, 12/01/2012-.  
+33. DOD/AFOSR/STTR AF09-BT22 Phase II: Thermoelectric material-coated carbon 
+nanotubes as high conductivity thermal interface materials, PI: Ronggui Yang, subcontract 
+to ADA Technologies (Dr. Sayan Naha), CU budget: $225K out of $750K total, 
+04/01/2012-03/31/2014, completed. 
+
+-----
+ 
+17 
+ 
+32. DOE/NREL: Experiments and modeling of nucleate boiling in pool and spray impingement 
+boiling with and without enhanced surfaces, DOE/National Renewable Energy Lab, PI: 
+Ronggui Yang, $225K with reduced overhead, 11/01/2011-11/15/2014, completed. 
+31. DOD/AFOSR: Modeling and Characterization of Phonon Transmission and Generation 
+across Engineered and Strained Interfaces for Developing Structure-Property Relations of 
+Functional Nanostructures, PI: Ronggui Yang, $465K, AFOSR, Duration: 06/15/2011-
+12/14/2014, (including 6-month No-Cost Extension), completed. 
+30. NSF: CAREER: An integrated research and education program on nanoscale thermal 
+transport: developing a high spatiotemporal resolution photo-thermal microscope, National 
+Science Foundation, PI: Ronggui Yang, $400K (+ $60K university enhancement award), 
+02/01/2009-01/31/2015 (including one year No-Cost Extension), completed.  
+29. DOD/SBIR DTRA 122-002 Phase I: Conformal Thermal Ground Planes, CU PIs: Y.C. Lee 
+and Ronggui Yang, subcontract to i2C Solutions Inc, $100K total award with $50K 
+subcontract to CU, 04/01/2013-12/31/2013, completed. 
+28. Investigation of Thermal Characteristics of C-Textiles for Heating & Cooling Garments, PI: 
+Ronggui Yang, $30,000, QinetiQ to DARPA iMINT Center, Duration: 02/01/2011-
+05/01/2011, completed. 
+27. DOD/AFOSR STTR AF10-BT26 Phase I: Quantum Dot Based Novel Thermoelectric 
+Materials, PI: Ronggui Yang, subcontract to ADA Technologies, CU budget: $35K, 
+Duration: 06/15/2011-3/15/2012, (Phase II awarded, see #35), completed.  
+26. Equipment Fund for Enhancing Research Capability and Competence, University of 
+Colorado, PI: Ronggui Yang, $100,000, 10/01/2010 -. completed. 
+25. NSF MRI: Development of a Coherent and Incoherent X-Ray Facility at JILA: Ultrafast X-
+Ray Science and Technology at the Nanoscale, NSF, PI: Margaret Murnane, Co-PIs: 
+Ronggui Yang, Ralph Jimenez, and Henry Kapteyn, NSF $1.28M, CU/NIST Matching: 
+$550K, 09/01/2010-08/31/2013.  completed. 
+24. DOD/DARPA: Molecular Layer Deposition-Enabled NanoThermal Interfaces (M-NTI), 
+DARPA BAA09-25 (MTO Office-wide Seedling), PI: Ronggui Yang, Co-PIs: Steven M. 
+George, Y.C. Lee, and Victor M. Bright, $400K, Yang: $160K, July 1, 2010 to June 30, 
+2011, 1 summer month, completed.  
+23. DOD/DARPA: Modeling and Characterization of Quantum Dot Thermoelectric 
+Nanocomposites, CU PI: Ronggui Yang, sub-contract to Marlow Industries for proposal 
+“High Performance Thermoelectric Quantum Dot Microcoolers (Marlow PI: Jeff Sharp, 
+total ~$3.9M)” to DARPA BAA 09-44 (Active Cooling Modules), CU Share: $306K, 
+07/01/2010-06/30/2012. completed. 
+22. DOD/AFOSR STTR AF09-BT22 Phase I: Thermoelectric material-coated carbon nanotubes 
+as high conductivity thermal interface materials, PI: Ronggui Yang, subcontract to ADA 
+Technologies, CU budget: $30K, 07/01/2010-03/30/2011, (Phase II awarded, see #33), 
+completed.  
+21. DOD/DARPA Center on Nanoscale Science and Technology for Integrated Micro/Nano-
+Electromechanical Transducers (iMINT Center), Co-PI with Y. C. Lee (PI) and 10 other Co-
+PIs, submitted to DARPA RA 09-42 (N/MEMS Fundamentals), total: $5.0M from DARPA, 
+Ronggui Yang: $70K per year, 07/01/2010-06/30/2013. completed. 
+20. Novel Silicon/NixSn1-x Core-Shell Nanowires for Superior High Capacity and Long Lifetime 
+Lithium-Ion Batteries, PI: Ronggui Yang, University of Colorado Innovative Seed Grant, 
+Total: $41,200, 07/01/2009-06/30/2010, completed. 
+
+-----
+ 
+18 
+ 
+19. A micro-scale hybrid wick heat pipe cooling system for high concentration photovoltaic 
+cell, University of Colorado Technology Transfer Office Energy Initiative Proof of Concept 
+Grant, PI: Chen Li, Co-PIs: Victor M. Bright, Ronggui Yang, Y.C. Lee, Total: $50K, 
+04/01/2009-03/31/2010, completed. 
+18. DOE/NREL: Modeling and experiments in the nucleate boiling regime in the context of 
+power electronics cooling, DOE/National Renewable Energy Lab, PI: Ronggui Yang, 
+$175K, 10/01/2008-09/30/2011, completed. 
+17. DOD/DARPA: Surface Plasmon Enabled High Efficiency Thermoelectric Devices, DARPA 
+MTO Young Faculty Award, PI: Ronggui Yang, $150K, 06/01/2008-11/30/2009, 
+completed.  
+16. DOD/AFOSR: A Design tool for nanostructures with tunable thermal properties, AFOSR 
+(BAA 2007-08 Discovery Challenge Thrusts), PI: Ronggui Yang, Co-PIs: Kurt Maute and 
+Martin Dunn, $600K, 03/01/2008-11/30/2010, completed. 
+15. DOD/DARPA: Flexible thermal ground plane with micro/nano wicking structures, DARPA 
+(BAA 07-36 Thermal Ground Plane), PI: Y.C. Lee, Co-PI: Ronggui Yang, Chen Li, Victor 
+Bright, G.P. “Bud” Peterson, and Suraj Rawal, $4.0M, Yang: $1.0M, 03/01/2008-
+11/30/2011. Completed. 
+14. Nanowire-based metamaterials for miniaturized antennas, DARPA iMINT Center Seed 
+Grant, PI: Won park, Co-PIs: Ronggui Yang, Y.C. Lee, and Pavel Kabos, T. Mitch Wallis, 
+Jim Booth, Total: $50K, Yang; $0, 04/01/2008-03/31/2009. completed 
+13. NSF MRI-Consortium: Acquisition of a Supercomputer by the Front Range Computing 
+Consortium, National Science Foundation (Award #0821794), one of ~50 CU Faculty 
+Participants with PI Henry Tufo, $4.0M, Yang: $0, 8/1/2008 - 7/31/2012. completed 
+12. Nanocomposite thermoelectric materials development and characterization, Lockheed 
+Martin Corporation, PI: Ronggui Yang, $50K, 10/25/2007-11/15/2008. completed 
+11. NSF: A design-centered approach to nano-engineering, National Science Foundation, PI: 
+Kurt Maute, Co-PIs: Martin Dunn and Ronggui Yang, $329,957, 09/01/2007-08/31/2011, 
+completed. 
+10. Understand the building with your eyes: building and environment science and technology 
+visualization Lab. CU-Engineering Excellence Fund, co-PI with John Zhai. $26,695, 
+05/01/2007-04/01/2008. completed 
+9. Unrestricted gift fund, $6,000, 10/15/2007 ~. 
+8. DOD/AFOSR: Energy harvesting and storage systems and their integration into AF aero 
+vehicles, Air Force Office of Scientific Research - Multidisciplinary University Research 
+Initiative (AFOSR-MURI); PI: Minoru Taya, Co-PI with 8 other co-PIs, total: $6M, CU: 
+$1.50M, Yang: $500K, 05/01/2006-04/30/2011. completed 
+7. NSF: Measurement of thermal transport in nanostructures using EUV pump-probe systems, 
+National Science Foundation; PI: Ronggui Yang (Funded through the NSF Engineering 
+Research Center for Extreme Ultraviolet Science and Technology - NSF EUV ERC), $50-
+70K annually, 05/01/2006-09/30/2013. completed 
+6. DOD/DARPA iMINT Center Core Research: ALD-enabled packaging for integrated 
+MEMS/NEMS, DARPA Focus Center on Nanoscale Science and Technology for Integrated 
+Micro/Nano-Electromechanical Transducers (iMINT), PI: Y.C. Lee, co-PI: Ronggui Yang, 
+$100K annually, 09/01/2006-08/31/2009, completed. 
+5. NSF: Constructing a femtosecond nanometer resolution photo-thermal imaging system using 
+extreme ultraviolet (EUV) to study nanoscale thermal transport, National Science 
+
+-----
+ 
+19 
+ 
+Foundation; PI: Ronggui Yang, Co-PI: Margaret Murnane, $94,919, 09/01/2006-
+08/31/2007. completed 
+4. Photonic crystal fiber based micro capillary pumped loops, CU Technology Transfer Office 
+Proof of Concept Grant (POCg); PI: Ronggui Yang, $12,500, 12/01/2006-05/31/2007. 
+completed 
+3. Photonic crystal fiber based micro heat pipe arrays and capillary pumped loops, CU 
+Engineering Dean’s Seed Fund for Novel Ideas; PI: Ronggui Yang, Co-PIs: Y.C. Lee and 
+Victor M. Bright, $10,000, 06/10/2006-12/31/2006. completed 
+2. Unrestricted gift fund, $15,000, 08/15/2006 ~, completed. 
+1. University of Colorado Start-up Funds: Equipments + Discretionary, PI: Ronggui Yang, 
+$410K + student support, 01/2006 – 01/2009, completed. 
+ 
+e). Patent Applications and Invention Disclosures 
+1.  Gang Chen, Ronggui Yang, and Arvind Narayanaswamy, Surface-Plasmon Enabled 
+Nonequilibrium Thermoelectric Devices, US Provisional 60/567,987, May 4, 2004, Full US 
+Patent Application 11/007,557, December 8, 2004. International Application WO 
+2005/112139 submitted in May 2005. US 7508110, awarded on March 24, 2009. Access 
+through Google Patents. 
+2.  Gang Chen, Xiaoyuan Chen, and Ronggui Yang, Multistage Thick Film Thermoelectric 
+Devices, Disclosed to MIT Technology License Office in March 2005 (MIT Case No. 
+11653), Full US Patent Application, 11/668,765, January 30, 2007. International 
+Application WO 2008/094903 submitted in August 2008. US9391255 B2, awarded on July 
+12, 2016. Access through Google Patents 
+3.  Ronggui Yang, Weixue Tian, and Y.C. Lee, Photonic Crystal Fiber Based Capillary 
+Pumped Loops, Disclosed to University of Colorado Technology Transfer Office, March 
+2006, US Provisional No. 60/911,228, April 11, 2007. 
+4.  Ronggui Yang, Yung-Cheng Lee, Victor M. Bright, Chen Li, Christopher Oshman, Bo Shi, 
+Jen-Hau Cheng, George P. Peterson, Flexible Thermal Ground Plane and Manufacturing 
+Thereof, Disclosed to University of Colorado Technology Transfer Office, July 2007, US 
+Provisional Patent No. 61/158,086, US Full Patent Application US 12/719,775, March 8, 
+2010. US 9163883, awarded on October 20, 2015. Access through Google Patents. 
+Exclusively licensed to Kelvin Thermal Technologies Inc.  
+5.  Ronggui Yang, Yung-Cheng Lee, Victor M. Bright, Chen Li, Christopher Oshman, Bo Shi, 
+Jen-Hau Cheng, George P. Peterson, Flexible Thermal Ground Plane and Manufacturing 
+Thereof, US Full Patent Application 14/681,624, filed on April 8, 2015, (as a Continuation 
+of US Full Patent Application 12/719,775 on March 8, 2010). Access through Google 
+Patents. Exclusively licensed to Kelvin Thermal Technologies Inc. 
+6.  Ronggui Yang, Yung-Cheng Lee, Victor M. Bright, Chen Li, Christopher Oshman, Bo Shi, 
+Jen-Hau Cheng, George P. Peterson, Flexible Thermal Ground Plane and Manufacturing 
+Thereof, US Full Patent Application US14/861,708, filed on September 22, 2015, (as a 
+Continuation of U.S. Patent Application Ser. No. 12/719,775, filed on March 8, 2010 and 
+Ser. No. 14/681,624, filed on April 8, 2015.). Exclusively licensed to Kelvin Thermal 
+Technologies Inc. 
+7.  Ronggui Yang, Victor Bright, Zhifeng Ren, Joseph J. Brown, H. Jerry Qi, and Lucy Y. Pao, 
+Programmable Thermal Point-Source Based Nanofabrication (PTBN), Disclosed to 
+University of Colorado Technology Transfer Office (CU1989B), December 2007. 
+
+-----
+ 
+20 
+ 
+8.  Ronggui Yang and Wei Wang, On-chip integration of silicon nanowire–enabled high 
+efficiency solar cells with high capacity 3-dimensional lithium ion batteries and intrinsic 
+thermal management, disclosed to University of Colorado Technology Transfer Office 
+(CU2331B), April 2009. 
+9.  Yung-Cheng Lee, Shanshan Xu, Ronggui Yang, Collin Jennings Coolidge, Ryan John 
+Lewis, Li-Anne Liew, and Ching-Yi Lin, Vacuum-Enhanced Heat Spreaders, Disclosed to 
+University of Colorado Technology Transfer Office (CU3621B), April 2014, US 
+Provisional Patent Application in September 2014. US Full Patent Application #14/853833 
+(September 14, 2015). International Application WO PCT/US15/50031. Exclusively 
+licensed to Kelvin Thermal Technologies Inc. 
+10.  Ryan John Lewis, Li-Anne Liew, Ching-Yi Lin, Collin Jennings Coolidge, Shanshan Xu, 
+Ronggui Yang, and Yung-Cheng Lee, Micropillar-Enabled Thermal Ground Planes, 
+Disclosed to University of Colorado Technology Transfer Office (CU3535B & CU3334B), 
+April 2014, US Provisional Patent Application 62/051,761 on September 17, 2014. US Full 
+Patent Application 14/857567 (September 17, 2015), International Application WO 
+PCT/US15/50771. Access through Google Patents, Exclusively licensed to Kelvin Thermal 
+Technologies Inc. 
+11.  Ronggui Yang, Xiaobo Yin, Gang Tan, Dongliang Zhao, Yaoguang Ma and Yao Zhai, 
+Radiative Cooling Structures and Systems, Disclosed to University of Colorado Technology 
+Transfer Office (CU3811B) on February 16, 2015, US Full Patent Application 15/056680 
+on February 29, 2016. 
+12.  Ryan John Lewis, Ronggui Yang, and Yung-Cheng Lee, Methods for Spreading High Heat 
+Fluxes in Thermal Ground Planes, US Provisional Patent Application. Exclusively licensed 
+to Kelvin Thermal Technologies Inc. 
+13.  Yung-Cheng Lee, Ryan John Lewis, and Ronggui Yang, Optimization of Vapor Transport 
+in a Thermal Ground Plane Using Void Space in Mobile Systems, US Provisional Patent 
+Application. Exclusively licensed to Kelvin Thermal Technologies Inc. 
+ 
+f). Popular Press & Press Release (Selected) 
+•  A Press Release in May 2016 by University of Colorado reporting an ARPA-E funded 
+$1.8M project, led by Professor Ivan Smalyukh and Professor Ronggui Yang on developing 
+transformational windows using liquid crystalline nanorod aerogels: 
+http://www.colorado.edu/news/releases/2016/05/25/cu-boulder-researchers-develop-energy-
+saving-window-film 
+•  ARPA-E Announcement of its selection for the SHIELD (Single-Pane Highly Insulating 
+Efficient Lucid Design) program (May 2016) where our technology is highlighted: 
+http://www.energy.gov/articles/department-energy-announces-14-new-projects-window-
+efficiency-technologies 
+•  Professor Ronggui Yang is the lead Principle Investigator for the University of Colorado 
+Boulder participation of the $171M Flexible Hybrid Electronics – Nanomanufacturing 
+Innovation Institute (FHE-MII) led by Flex Tech Alliance.  
+The White House Press Release on the selection (August 28) can be found here: 
+https://www.whitehouse.gov/the-press-office/2015/08/28/fact-sheet-obama-administration-
+announces-new-flexible-hybrid 
+US Department of Defense Press Release on the selection:  
+
+-----
+ 
+21 
+ 
+http://www.defense.gov/News/News-Releases/News-Release-View/Article/615132/dod-
+announces-award-of-new-flexible-hybrid-electronics-manufacturing-innovation 
+The organization of FHE-MII can be found here: http://www.fhemii.com/about-us/ 
+The University of Colorado Boulder will have a budget of $4M ($2M federal and $2M cost-
+sharing) over the coming 5 years to strengthen its efforts on flexible hybrid electronics, 
+including packaging (barrier, power, and thermal management), innovative materials, and 
+flexible bio-sensors. 
+•  A Press Release in August 2015 by University of Colorado reporting an ARPA-E funded 
+$3M collaborative project between University of Colorado and University of Wyoming, led 
+by Professor Ronggui Yang on developing transformational radiative cooling technologies 
+for thermoelectric power plants: 
+http://www.colorado.edu/news/releases/2015/08/25/cu-boulder-awarded-3-million-
+transformational-power-plant-cooling-technology 
+Daily Camera: http://www.dailycamera.com/cu-news/ci_28699868/cu-boulder-receives-3m-
+grant-study-power-plant 
+•  An article in Yellow Scene on Boulder Fashion highlighting Professor Yang’s research (July 
+2015) http://yellowscene.com/2015/06/26/boulder-a-fashion-hub/ 
+•  ARPA-E Announcement of its selection for the ARID (Advanced Research in Dry Cooling) 
+program (May 2015) where our technology is highlighted: 
+http://arpa-e.energy.gov/?q=news-item/department-energy-announces-23-new-projects-
+improve-efficiency-and-create-new-technology  
+•  A Press Release in February 2015 by University of Colorado on licensing Flexible Thermal 
+Ground Planes to Kelvin Thermal Technologies, a new start-up Professor Y.C. Lee and 
+Professor Ronggui Yang co-founded in June 2014:  
+http://www.colorado.edu/news/releases/2015/02/17/cu-boulder-technology-thinner-
+electronics-commercialized-kelvin-thermal 
+Daily Camera: http://www.dailycamera.com/cu-news/ci_27585407/cu-boulder-professors-
+team-pushes-ultra-thin-smartphones 
+Electronics Cooling: http://www.electronics-cooling.com/2015/02/ultra-thin-flexible-
+thermal-management-device-commercialized/ 
+•  A Press Release in January 2015 by Cornell University reporting an ARPA-E funded $3M 
+collaborative project between Cornell University and University of Colorado, which 
+incorporates CU’s thermal management technologies for advanced clothes:  
+ http://www.news.cornell.edu/stories/2015/01/doe-awards-3m-air-conditioned-clothing 
+ARPA-E Announcement of its selection for the DELTA (Delivering Efficient Local 
+Thermal Amenities) program: http://arpa-e.energy.gov/?q=news-item/department-energy-
+announces-22-new-projects-enable-emissions-reductions-and-improve-energy 
+•  Yang’s lab is part of University of Colorado team, one of the 10 teams selected by Google 
+from > 100 proposals, for the Little Box Challenge award program designed to help support 
+academics pursuing groundbreaking research in the area of increasing the power density for 
+DC-to-AC power conversion. A Press Release by Google in December 2014: 
+http://googleresearch.blogspot.com/2014/12/little-box-challenge-academic-awards.html 
+CU Boulder Electrical Engineering News about this award:  
+http://ecee.colorado.edu/featured-story/ECEE-LittleBox-Afridi-0115.html 
+
+-----
+ 
+22 
+ 
+•  ASME News about the ASME-Wide Micro and Nano Forum that is co-organized by 
+Ronggui Yang during IMECE 2013 “Students Win Prizes, Refine Presentation Skills at the 
+Society-Wide Micro and Nano Technology Forum”:  
+https://www.asme.org/about-asme/news/asme-news/students-win-prizes-refine-presentation-
+skills 
+•  A Press Release in September 2013 titled “CU awarded $3.6 million for new way to 
+produce magnesium for auto”  about a ARPA-E funded project: 
+http://www.colorado.edu/news/releases/2013/09/19/cu-awarded-36-million-new-way-
+produce-magnesium-auto-parts   
+ARPA-E 
+Announcement 
+of 
+its 
+selection 
+for 
+the 
+METALS 
+(Modern 
+Electro/Thermochemical Advancements for Light-metal Systems) program: 
+http://arpa-e.energy.gov/?q=arpa-e-news-item/remote-and-metals-project-selections  
+•  ASME Emerging Nano Newsletter summer 2013 inaugural issue highlights “Emerging 
+Researcher: Ronggui Yang Explores Nanoscale Transport Phenomena”   
+https://www.asme.org/about-asme/news/newsletters/emerging-nano-newsletter/emerging-
+researcher-ronggui-yang-explores 
+•  A Press Release in October 2012 titled “UH collaborates to solve device overheating issues” 
+by University of Houston highlighting a paper published in Nano Letters (Vol. 12, pp 3385–
+3390, 2012) led by me: 
+  http://thedailycougar.com/2012/10/10/uh-collaborates-to-solve-device-overheating-issues/ 
+“Professor Uses Nanowires to Cool Electronics” 
+ 
+http://www.egr.uh.edu/news/201209/professor-uses-nanowires-cool-electronics 
+ 
+A follow-up news “Nanostructures May Solve Cooling Issues of Tiny Future Electronics” 
+by Electronics-Cooling.com  
+ 
+http://www.electronics-cooling.com/2012/10/nanostructures-may-solve-cooling-issues-of-
+tiny-future-electronics/ 
+•  A Press Release in August 2012 titled “Grain boundary defects affect graphene's strength” 
+by 
+Nanotechweb.org 
+on 
+our 
+work 
+published 
+in 
+Nature 
+Materials: 
+http://nanotechweb.org/cws/article/tech/50491# 
+•  JILA Report on Nature Materials paper:  
+http://jila.colorado.edu/content/ballistic-evidence 
+•  August 18, 2010, ASME Press Release for the ASME Bergles-Rohsenow Young 
+Investigator Award in Heat Transfer, “Ronggui Yang Honored for Contributions in the Heat 
+Transfer 
+Field”. 
+http://www.asme.org/Governance/Honors/Releases/Ronggui_Yang_Honored.cfm 
+•  Press Release by National Academy of Engineering for being selected to the NAE'S 2009 
+U.S. Frontiers of Engineering Symposium. 
+ http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=06252009b 
+•  AFOSR Press Release for MIT Technology Review’s TR35 Award (September 08, 2008) 
+“Engineer's energy research could cut costs, increase efficiency” 
+http://www.afmc.af.mil/news/story.asp?id=123114201 
+•  CU Press Release for MIT Technology Review’s TR35 Award (August 19, 2008): 
+“CU-Boulder Engineering Professor Named One of World's Top 35 Young Innovators” 
+http://www.colorado.edu/news/r/9b0ff83babc043e1d1c4b6ff5fbfa353.html 
+Speaker for Technology Review’s EmTech 2008 Conference: 
+http://www.technologyreview.com/emtech/08/speakers.aspx 
+
+-----
+ 
+23 
+ 
+Selected Media Reports: 
+http://www.dailycamera.com/news/2008/aug/19/cu-prof-named-top-young-innovator/ 
+http://www.coloradodaily.com/news/2008/aug/19/cu-prof-named-top-young-
+innovator/?printer=1 
+•  Graduate student Mark Siemens’ work on “Soft X-Ray Probe for Nanoscale Heat Transfer” 
+was highlighted in the Physics Update of the monthly American Physical Society member 
+magazine Physics Today in July 2008 issue, p.17 (July 2008) 
+http://ptonline.aip.org/journals/doc/PHTOAD-ft/vol_61/iss_7/16_1.shtml 
+•  CU Press Release for DARPA Thermal Ground Plane Project (May 7th, 2008) 
+http://www.colorado.edu/news/r/48198905b2ed67272af5d67343ad3078.html 
+also appear at: http://www.nanotech-now.com/news.cgi?story_id=29236 
+•  CU Press Release for DARPA Young Faculty Award, (April 15, 2008) 
+http://www.colorado.edu/news/r/a39f3714c24d3b66a94fafd9ba05b04f.html 
+http://www.sae.org/automag/material/10-2006/1-114-10-38.Web Link 
+•  MIT News on the InterPack2005 Best Paper Award and Goldsmid Award 
+http://web.mit.edu/newsoffice/2005/aandh-aug16.html 
+ 
+g). Invited and Keynote Conference Presentations (after January 1, 2006)  
+2015 
+1.  Invited: Tingyu Lu, Jun Zhou, Ronggui Yang, and Baowen Li, Thermal Boundary 
+Conductance across Metal-nonmetal Interfaces Contributed from Direct Electron-phonon 
+Coupling, The 3nd International Conference on Phononic Crystals/Metamaterials, Phonon 
+Transport and Phonon Coupling, Paris, France, May 31-June 5, 2015 
+2.  Invited: K. Koumoto, C. L. Wan, R. Tian, and R. G. Yang, Nano-Length-Scale 
+Inorganic/Organic Hybridization for Thermoelectric Materials (Invited talk), 228th ECS 
+Meeting, Phoenix, AZ, Oct 11-15, 2015.  
+ 
+2014 
+1.  Invited: Howard E. Katz, Robert M. Ireland, Wei Wang, and Ronggui Yang, Pyromellitic 
+Polymer-Inorganic Microstructure Thermoelectric Composites (BB5.04), MRS Fall Meeting, 
+Boston, MA, December 1-5, 2014. 
+2.  Invited: Ronggui Yang, Phase-Change Heat Transfer at Micro/Nanoscale: From 
+Fundamentals to Manufacturable Devices, the 11th International Conference on Frontiers of 
+Design and Manufacturing, Nanjing, China, May 23-25, 2014. 
+3.  Invited: Ronggui Yang, Ultrafast Laser Meets Quantum Mechanics at the Nanoscale 
+Wonderland, the 2nd International Conference on Phononics and Thermal Energy Science, 
+Tongji University, Shanghai, China, May 26-31, 2014. 
+4.  Invited: Ronggui Yang, Understanding Phonon Transport for High Efficiency 
+Thermoelectrics, the International Conference on Thermoelectrics, Nashville, TN, July 6-10, 
+2014. 
+5.  Invited: Ronggui Yang, Thermal Conductivity of Nanostructured Polymers, The 8th US-Japan 
+Joint Seminar on Nanoscale Transport Phenomena, Santa Cruz, CA, July 14-16, 2014. 
+
+-----
+ 
+24 
+ 
+6.  Invited: Xiaokun Gu and Ronggui Yang, Thermal Conductivity of Two-Dimensional 
+Transition Metal Dichalcogenides (Invited), The 8th US-Japan Joint Seminar on Nanoscale 
+Transport Phenomena, Santa Cruz, CA, July 14-16, 2014. 
+7.  Invited: Ronggui Yang, Ultrafast Laser-based Thermal Characterization of Electronic 
+Materials, Advancement in Thermal Management, Denver, CO, August 6-7, 2014. 
+ 
+2013 
+1.  Invited: Ronggui Yang, Jun Liu, Xiaokun Gu, Jie Zhu, Miao Tian, and Shenghong Ju, 
+Recent Progress on Thermal Property Characterization using Transient Thermoreflectance 
+Method, the 4th ASME Micro/Nanoscale Heat & Mass Transfer International Conference  
+(MNHMT-13), December 11-14, 2013, The University of Hong Kong, Hong Kong, China.  
+2.  Invited: Ronggui Yang, Ultrafast Laser-Based Characterization of Nanoscale Thermal 
+Transport, Workshop QMNTIA 2013 - Quantitative Micro and Nano Thermal Imaging and 
+Analysis, July 10-12, 2013, Reims, France 
+3.  Invited: Ronggui Yang, Micro/Nano-Structured Phase-Change Heat Transfer Devices, 
+Workshop on Micro and Nano Structures for Phase Change Heat Transfer, April 22-23, 
+2013, MIT, Cambridge, MA  
+4.  Invited Poster: Ronggui Yang, et al, Three-Dimensional Nanowire Networks for Lithium 
+Ion Battery Electrodes, Gordon Research Conference on Nanomaterials for Applications in 
+Energy Technology, February 03-08, 2013, Ventura, CA 
+ 
+2012 
+1.  Invited: Ronggui Yang, Manufacturable 3-Dimensional Micro/Nanostructures for Phase-
+Change Heat Transfer, Georgia Tech Heat Transfer Conference (Bud Peterson's 60th 
+Birthday Symposium), August 30, 2012, Atlanta, GA. 
+2.  Invited: C. Oshman, Q. Li, W. Wang, C.-Y. Lin, L.-A. Liew, A. Abdulagatov, M. Kong, S. 
+Song, X. Dai, R.G. Yang, C. Li, S. George, V.M. Bright, S.P. Rawal, R.J. Monson, and 
+Y.C. Lee, Flexible and conformal thermal ground planes,  Proc. 37th Annual Government 
+Microcircuit Applications and Critical Technology Conference (GOMACTech), March 19-
+22, 2012, Las Vegas, NV. Presented by Y.C. Lee. 
+3.  Invited: Kurt Maute, Martin Dunn, Ronggui Yang, David Makhija, and Chris Deluca, 
+Computational Strategies for the Design of Nano-Structured Materials, International 
+Workshop on Computational Mechanics of Materials IWCMM 22, September 24-26, 2012, 
+Baltimore, Maryland, Presented by Kurt Maute. 
+ 
+2011 
+1.  Invited: Kurt Maute, Sebastian Kreissl, David Makhija, and Ronggui Yang, Topology 
+Optimization of Heat Conduction in Nano-Composites, 9th World Congress on Structural 
+and Multidisciplinary Optimization, Shizuoka, Japan, June 13-17, 2011, presented by Kurt 
+Maute.  
+2.  Invited: Ronggui Yang, Exploring Quantum and Ballistic Thermoelectricity for Energy 
+Conversion and Sensor Applications, the 2011 US-Korea Workshop on Nanostructured 
+Materials, Nanoelectronics, and Nano-Biotechnoly, Gyeongju, Korea, June 1-3, 2011. 
+3.  Invited: Ronggui Yang, Enhancing Phase-Change Heat Transfer using Hybrid Micro/Nano-
+Structured Surfaces. the 7th US-Japan Joint Seminar on Nanoscale Thermal Transport, 
+December 11-14, 2011.  
+
+-----
+ 
+25 
+ 
+4.  Invited: Mark Siemens, Qing Li, Margaret Murnane, Henry Kapteyn, Ronggui Yang, 
+Probing Nanoscale Thermal Transport using Extreme Ultraviolet (EUV), SPIE Photonics 
+West ’11 Conference, San Francisco, California, January 22-27, 2011, presented by Mark 
+Siemens. 
+5.   Research Update: Yan Xie, Joong-Won Shin, Erik Hosler, Qing Li, Chan La-O-Vorakiat, 
+Mark Siemens, F. Dong, S. Heinbuch, Robynne Lock, Tory Carr, CriagHogle, Luis Miaja-
+Avila, Chengyuan Ding, Stefan Mathias, Wen Li, Xibin Zhou, Predrag Ranitovic, Etienne 
+Gagnon, Allison Pymer, Josh Vura-Weis, Chang-Ming Jiang, Adrian Pffiefer, Scott Sayres, 
+Elliot Bernstein, Jorge Rocca, Erik Anderson, Steve Leone, Henry Kapteyn, Margaret 
+Murnane, Andreas Becker, Agnieszka Becker, Ronggui Yang, Tom Silva, Martin 
+Aeschlimann, Michael Bauer, Albert Stolow, Serguei Patchkovskii, Robin Santra, Lew 
+Cocke, Keith Nelson, Justin Shaw, Hans Nembach, Roman Adam, Claus M. Schneider, 
+Arvinder Sandhu, “Nanoscale Materials Metrology using Coherent EUV Beams,” Eighth 
+Annual Site Visit, NSF Engineering Research Center for Extreme Ultraviolet Science and 
+Technology, Berkeley, CA May 2011. Presented by Henry Kapteyn. 
+6.  Research Update: Qing Li, Kathleen Hoogeboom-Pot, Damiano Nardi, Mark Siemens, 
+Margaret Murnane, Henry Kapteyn, Ronggui Yang, Erik Anderson, Olav Hellwig, Bruce 
+Gurney and Keith Nelson, “Generation and Detection of Very Short-Wavelength Surface 
+Acoustic Waves at Nanoscale Interfaces,” Eighth Annual Site Visit, NSF Engineering 
+Research Center for Extreme Ultraviolet Science and Technology, Berkeley, CA May 2011. 
+Presented by Qing Li. 
+ 
+2010 
+1.  Invited: Ronggui Yang, Scaling Up Nanoscale Effects in Thermal Transport for 
+Thermoelectricity and Thermal Management, Inter-Agency Power Group Meeting (Air 
+Force, Army, Navy, Department of Energy, and NASA), Golden, CO, May 3-7, 2010.  
+ 
+2009 
+1.  Invited: Ronggui Yang, Micro/Nano-enabled High Heat Flux Devices, DARPA/DSRC 
+Physics of High Heat Flux Devices and their Applications Workshop, Arlington, VA, 
+November 11-12, 2009 
+2.  Invited: Mark Siemens, Qing Li, Margaret Murnane, Henry Kapteyn, Ronggui Yang, Erik 
+Anderson, and Keith Nelson “Extreme Ultraviolet light in the lab: applications to surface 
+science”, Optical Society of America Laser Science Annual Meeting, San Jose, CA, 
+October 2009, Presented by Mark Siemens. 
+3.  Invited: Ronggui Yang, “Energy Transport at Nanoscale: Modeling, Characterization and 
+Applications.” Thin Air Philosophical Society (TAPS) Symposium on “Current Challenges 
+in Mechanics and Materials” Boulder, CO, August 3-6, 2010. 
+4.  Invited: Ronggui Yang, “Nano-Enabled Energy Harvesting and Storage Systems for 
+Aerospace Environment Integration”, AFOSR Workshop on Energy Harvesting and 
+Storage, Arlington VA, April 17, 2009. 
+5.  Invited: Kurt Maute, Pilhwa Lee, Georg Pingen, and Ronggui Yang, Design Optimization 
+of Transport Phenomena at Micro and Submicron Scale via Kinetic Theory Approaches, 
+Conference on Multi-scale Modeling in Computational Mechanics, Rolduc, The 
+Netherlands, March 11-13 2009, Presented by Kurt Maute. 
+ 
+
+-----
+ 
+26 
+ 
+2008 
+1.  Invited Panelist: Ronggui Yang, Thermoelectric Nanocomposites: A Cheaper Nanotech 
+Solution to Cleaner and Quieter Global Energy, EmTech 2008 organized by MIT 
+Technology Review, September 23-25, MIT campus, MA. 
+2.  Invited: Ronggui Yang, et al, Probing Nanoscale Thermal Transport using Extreme 
+Ultraviolet (EUV) Light, 6th Japan- US Joint Seminar on Nanoscale Transport Phenomena - 
+Science and Engineering,” July 13-16, 2008, Radisson Hotel, Boston, MA. 
+3.  Invited Poster: Xiaochun Wang, Ronggui Yang, Yong Zhang, Jean-Pierre Fleurial, 
+Andrew F. May, and G. Jeffrey Snyder, First Principles Study on Thermoelectric Properties 
+of Lanthanum Chalcogenides, 6th Japan- US Joint Seminar on Nanoscale Transport 
+Phenomena - Science and Engineering,” July 13-16, 2008, Radisson Hotel, Boston, MA. 
+4.  Invited: Ronggui Yang, et al, Defect Decoration and Visualization for Atomic Layer 
+Deposited Coatings, the 2nd Integration & Commercialization of Micro & Nanosystems 
+International Conference & Exhibition, June 2008, Hongkong. 
+5.  Invited Tutorial: Margaret M. Murnane, Jorge Rocca, John Miao, Ronggui Yang, Keith 
+Nelson, Eric Anderson, Martin Aeschlimann, Carmen Menoni, Mario Marconi, and Henry 
+C. Kapteyn, “Harnessing Attosecond Science for Visualizing the Nanoworld,” Paper QMF1 
+OSA Conference on Lasers and Electro-optics/ Quantum Electronics and Laser Science 
+(CLEO/QELS), San Jose, CA, May 2008. Presented by Margaret Murnane.  
+6.  Invited: Mark Siemens, Qing Li, Margaret Murnane, Henry Kapteyn, Ronggui Yang, Keith 
+Nelson, Nanoscale Heat Transport Probed with Soft-X-Rays, Paper CWA6, OSA 
+Conference on Lasers and Electro-Optics and the Quantum Electronics and Laser Science 
+Conference (CLEO/QELS), May 2008, San Jose, CA, presented by Mark Siemens.  
+7.  Invited: Mark Siemens, Qing Li, Ra’anan Tobey, Oren Cohen, Margaret Murnane, Henry 
+Kapteyn, Ronggui Yang, and Keith Nelson, Ultrasensitive, Ultrafast Holographic Detection 
+of Thermal Transients with Extreme Ultraviolet Radiation, The Gordon Research 
+Conference on Photoacoustic and Photothermal Phenomena 2008, Los Angeles, Feb 8-14, 
+2008. 
+ 
+2007 
+1.  Ronggui Yang, Introduction to Nanoscale and Ultrafast Thermal Sciences and Applications 
+Lab, DARPA Young Faculty Award Workshop, November 2007, Arlington VA, (invited 
+poster presentation). 
+2.  Ronggui Yang, Surface-Plasmon Enabled High Efficiency Thermoelectric Devices, 
+DARPA Young Faculty Award Workshop, November 2007, Arlington VA (invited seeding 
+presentation). 
+3.  Invited: Ronggui Yang, Thermoelectric Transport in Nanocomposites, Session on 
+Thermoelectrics, 7th Pacific Rim Conference on Ceramic and Glass Technology, 
+November 11-14, 2007, Shanghai, China 
+4.  Invited Workshop Talk: Henry Kapteyn, Margaret Murnane , Keith Nelson, John Miao, 
+Martin Aeschlimann, Ronggui Yang, “Ultrafast Probes of Materials using Table-top 
+Coherent EUV Beams,” Division of Materials Sciences and Engineering Council Workshop 
+on Ultrafast Materials Science, Santa Fe, NM, October 2007, Presented by Henry Kapteyn. 
+5.  Research Update: Mark Siemens, Luis Avila, Xibin Zhou, Wen Li, Nick Wagner, 
+Robynne Hooper, Qing Li, Jing Yin, Etienne Gagnon, Arvinder Sandhu, Ronggui Yang, 
+Henry Kapteyn, Margaret Murnane, Erik Anderson, Keith Nelson, Martin Aeschlimann, 
+
+-----
+ 
+27 
+ 
+“Ultrafast Probes of Molecules and Materials using Table-top Coherent EUV Beams,” 2007 
+Retreat of the NSF Engineering Research Center in Extreme Ultraviolet Science and 
+Technology, Estes Park, CO, October 2007. Presented by Henry Kapteyn. 
+ 
+2006 
+1.  Keynote: Ronggui Yang, Thermoelectric Transport in Nanocomposites, International 
+Conference on Innovative Solutions for the Advancement of the Transport Industry, Oct 4-
+6, 2006. 
+2.  Invited: Ronggui Yang, Thermoelectric Transport in Nanocomposites, Fourth International 
+Workshop On Polymer Routes to Multifunctional Ceramics for Advanced Energy and 
+Propulsion Applications, July 30-August 05, 2006, Boulder, CO. 
+3.  Keynote Talk: Z. F. Ren, D. Z. Wang, B. Poudel, Yi Ma, Wenzhong Wang, Xiao Yan, Lili 
+Chen, Bo Yu, Gang Chen, M. S. Dresselhaus, H. Lee, Q. Hao, R. G. Yang, M. Y. Tang, J. 
+P. Fleurial, and P. Gogna, “Nanocomposite approach to high figure-of-merit thermoelectric 
+materials”, ASME 1st Energy Nanotechnology International Conference (ENIC2006, 
+Keynote), June 25 - 28, 2006, MIT, presented by Z.F. Ren.  
+4.  Invited: Ronggui Yang, Gang Chen, M.S. Dresselhaus, J.P. Fleurial, and P. Gogna, 
+Nanocomposite Engineering for High Efficiency Thermoelectric Materials, the 5th Joint 
+Meeting of Overseas Chinese Physicists Worldwide - International Conference on Physics 
+education and Frontier Physics (OCPA06), June 25-30, 2006, Taipei, Taiwan. 
+5.  Research Update, Henry Kapteyn, Elliot Bernstein, Steve Leone, Dan Dessau, John Gland, 
+Chris Greene, Tamar Seideman, Martin Aeschlimann, Ronggui Yang, Keith Nelson, Ivan 
+Christov, Barry Walker, Tom Silva, and Rich Mirin, “Novel linear and nonlinear 
+spectroscopies using small-scale EUV light sources,” NSF Engineering Research Center for 
+Extreme Ultraviolet Science and Technology Annual Site Visit, May 2006. Presented by H. 
+Kapteyn. 
+6.  Invited Tutorial: M.S. Dresselhaus, G. Chen, J. Heremans, R.G. Yang, and G. 
+Dresselhaus, Low Dimensional Thermoelectricity, Tutorial at 2006 APS March Meeting, 
+March 12, 2006, Baltimore, MD, presented by M.S. Dresselhaus. 
+ 
+h). Contributed Conference Presentations and Papers (Denoted in the list if there is a 
+[Referred Paper] along with the presentation.) 
+2015 
+1.  Kathleen Hoogeboom-Pot, Jorge Hernandez-Charpak, Travis Frazer, Xiaokun Gu, Emrah 
+Turgut, Erik Anderson, Weilun Chao, Justin Shaw, Ronggui Yang, Margaret Murnane, 
+Henry Kapteyn, Damiano Nardi, Mechanical and thermal properties of nanomaterials at 
+sub-50nm dimensions characterized using coherent EUV beams (winner of Karel Urbanek 
+Best Student Paper Award),  SPIE Advanced Lithography Proc. of SPIE Vol. 9424, Art # 
+942417, February 2015.  
+2.  Xiaokun 
+Gu, 
+Xiaobo 
+Li 
+and 
+Ronggui 
+Yang, 
+Phonon 
+transmission 
+across 
+Mg2Si/Mg2SixSn1-x interface, 2015 MRS Spring Meeting & Exhibition, San Francisco, 
+CA, April 2015. 
+3.  Xiaokun Gu and Ronggui Yang, Anisotropic phonon transport and thermal conductivity in 
+black phosphorus, 19th Symposium on Thermophysical Properties, Boulder, CO, June 2015. 
+
+-----
+ 
+28 
+ 
+4.  Xin Qian, Xiaokun Gu and Ronggui Yang, Thermal conductivity modeling for hybrid 
+crystals: from density functional theory to molecular dynamics, 19th Symposium on 
+Thermophysical Properties, Boulder, CO, June 2015. 
+5.  Wei Wang, Jun Liu, Saad jajja, and Ronggui Yang, In-plane thermal conductivities of 
+transitional metal dichalcogenides, 19th Symposium on Thermophysical Properties, 
+Boulder, CO, June 2015. 
+6.  Shanshan Xu, Ryan J. Lewis, Li-Anne Liew, YC Lee and Ronggui Yang, Design, 
+Fabrication and Characterization for Ultra-Thin Thermal Ground Planes, International 
+Technical Conference and Exhibition on Packaging and Integration of Electronic and 
+Photonic Microsystems (InterPACK), San Francisco, CA, July, 2015.  
+7.  Arto J. Groehn, Allan Lewandowski, Ronggui Yang and Alan W. Weimer, Efficiency and 
+Design of High-Temperature Solar-Thermal Reactors (422882),  Salt Lake City, UT, 
+November 9-13, 2015. 
+8.  Xiaokun Gu and Ronggui Yang, Phonon transport in MoS2/WS2 heterostructure, 
+International Mechanical Engineering Conference and Exhibition (IMECE2015), Houston, 
+TX, November 13-19, 2015. 
+9.  Xin Qian, Xiaokun Gu and Ronggui Yang, Thermal conductivity modeling for hybrid 
+crystals, International Mechanical Engineering Conference and Exhibition (IMECE2015), 
+Houston, TX, November 13-19, 2015. 
+10.  Shanshan Xu, Ryan J. Lewis, Li-Anne Liew, Nicolas Pinkowski, YC Lee, Ronggui Yang, 
+Influences of screen mesh wicking structure on the performance of ultra-thin thermal ground 
+planes, International Mechanical Engineering Conference and Exhibition (IMECE2015), 
+Houston, TX, November 13-19, 2015. 
+ 
+2014 
+1.  
+Tingyu Lu, Jun Zhou, Baowen Li and Ronggui Yang, Enhancing Thermoelectric 
+Performance with Inhomogeneous Thermal Conductivity, the 2nd International Conference 
+on Phononics and Thermal Energy Science, Tongji University, Shanghai, China, May 26-
+31, 2014. 
+2.  Kathleen Hoogeboom-Pot, Jorge N. Hernandez-Charpak, Erik Anderson, Xiaokun Gu, 
+Ronggui Yang, Henry Kapteyn, Margaret Murnane, Damiano Nardi, A New Regime of 
+Nanoscale Thermal Transport: Collective Diffusion Counteracts Dissipation Inefficiency, 
+Proceedings of the 19th International Conference on Ultrafast Phenomena, Okinawa 
+Convention Center, Okinawa, Japan, July 7-11, 2014. 
+3.  A. Van Norman, Jeni Sorli, Ronggui Yang, Joseph W. Tringe, John D. Sain, John L. 
+Falconer and Alan W. Weimer, Effective Thermal Conductivity of Packed Beds and Benefit 
+of in-Situ W ALD: Original Sample Preparation Technique, in Particle Technology Forum 
+of 2014 AICHE annual meeting, Atlanta, GA, November 16-21, 2014.  
+ 
+2013 
+1.  Qian Li, Jiafeng Wu, Gensheng Wu, Miao Tian, Yunfei Chen, Ronggui Yang, 
+Supherhydrophobic Nanowired Surfaces for Enhancement of Dropwise Condensation Heat 
+Transfer, ASME International Mechanical Engineering Conference and Exhibition 
+(IMECE2013), San Diego, CA, November 15-21, 2013. 
+
+-----
+ 
+29 
+ 
+2.  Qian Li, Wei Wang, Benoit Latour, Yung-Cheng Lee, George P. Peterson, Ronggui Yang, 
+Hierarchical Micro/Nano-Structured Surfaces with Improved Water Spreading for Efficient 
+Boiling Heat Transfer, ASME International Mechanical Engineering Conference and 
+Exhibition (IMECE2013), San Diego, CA, November 15-21, 2013.  
+3.  Jun Liu, Xiaokun Gu, Dae-Up Ahn, Yifu Ding, Shenghong Ju, Jie Zhu, Xingang Liang, and 
+and Ronggui Yang, Interfacial thermal transport between ultrathin polymer films and 
+inorganic materials, ASME International Mechanical Engineering Conference and 
+Exhibition (IMECE2013), San Diego, CA, November 15-21, 2013. 
+4.  Miao Tian, Wei Wang, and Ronggui Yang, Three-Dimensional Nanoporous Carbon 
+Network for Lithium Ion Batteries, ASME International Mechanical Engineering 
+Conference and Exhibition (IMECE2013), San Diego, CA, November 15-21, 2013. 
+5.  Xiaokun Gu, Yujie Wei, and Ronggui Yang, Thermal Conductivity of Novel 2-Dimensional 
+Materials (Graphene and Beyond) under Different Strains, ASME International Mechanical 
+Engineering Conference and Exhibition (IMECE2013), San Diego, CA, November 15-21, 
+2013. 
+6.  Yujie Wei, Jiangtao Wu, Hanqing Yin, Xinghua Shi, Ronggui Yang, Mildred S. Dresselhaus, 
+The Nature of Strength Enhancement and Weakening by Pentagon-Heptagon Defects in 
+Graphene, SES 50th Annual Technical Meeting and ASME AMD Annual Summer 
+Meeting, July 28-31, 2013, Brown University, Rhode Island. 
+7.  Jun Liu, Xiaokun Gu, Miao Tian, and Ronggui Yang, Measurement of Anisotropic Thermal 
+Conductivity of Bulk and Thin Film Materials using Transient Thermoreflectance Method, 
+Summer Heat Transfer Conference, July 14-19, 2013, Minneapolis, MN. 
+8.  Qian Li, Wei Wang, Miao Tian, John Goblirsch, and Ronggui Yang, High heat flux thermal 
+ground planes with patterned copper nanowired wicking structures, Summer Heat Transfer 
+Conference, July 14-19, 2013, Minneapolis, MN. 
+9.  Xianming Dai, Fanghao Yan, Ronggui Yang, Yung-Cheng Lee, and Chen Li, Intrinsically 
+Superhydrophilic Interfaces for Enhanced Boiling and Evaporation Using Atomic Layer 
+Deposition, International Workshop on Micro and Nano Structures for Phase Change Heat 
+Transfer (Poster Sessions), MIT, April 22-23, 2013 
+10.  Miao Tian, Wei Wang, and Ronggui Yang, Three-Dimensional Nanoporous Carbon/TiO2 
+Network for Lithium Ion Batteries, MRS Spring Meeting, April 1-5, 2013, San Francisco, 
+CA 
+ 
+2012 
+1.  Xiaokun Gu, Xiaobo Li and Ronggui Yang, Phonon transmission across Mg2Si/Mg2Ge 
+interface: a first-principles study, ASME International Mechanical Engineering Conference 
+and Exhibition (IMECE2012), Houston, TX, November 9-15, 2012. (This work also won 
+the Second Prize for NSF CMMI/CBET Student Poster Competition) 
+2.  Jun Liu, Jie Zhu, Aaron Schmidt, and Ronggui Yang, Simultaneous Measurement of 
+Thermal Conductivity and Heat Capacity of Bulk and Thin Film Materials using Transient 
+Thermoreflectance Method, ASME International Mechanical Engineering Conference and 
+Exhibition (IMECE2012), Houston, TX, November 9-15, 2012. (This work also won the 
+First Prize for NSF CMMI/CBET Student Poster Competition) 
+3.  Wei Wang, Miao Tian, Yujie Wei, Yung-Cheng Lee, and Ronggui Yang, Binder-free Si/C 
+Nanowire Networks for High-Capacity Lithium-Ion Battery Anodes, ASME International 
+
+-----
+ 
+30 
+ 
+Mechanical Engineering Conference and Exhibition (IMECE2012), Houston, TX, 
+November 9-15, 2012. 
+4.  Jun Liu, Byunghoon Yoon, Miao Tian, Eli Kuhlmann, Steven M. George, Yung-Cheng Lee, 
+and Ronggui Yang, Thermal Conductivity of Molecular Layer Deposited (MLD) Polymer 
+Thin Films, ASME International Mechanical Engineering Conference and Exhibition 
+(IMECE2012), Houston, TX, November 9-15, 2012.  
+5.  Kathleen Hoogeboom-Pot, Damiano Nardi, Qing Li, Xiaobo Li, Ronggui Yang, Erik H. 
+Anderson, Margaret M. Murnane, and Henry C. Kapteyn, “Observation of ballistic thermal 
+phonon transport across 2D nanoscale interfaces,” XIV International Conference on Phonon 
+Scattering in Condensed Matter (Phonons 2012), Ann Arbor, MI July 2012. Presented by 
+Kathleen Hoogeboom-Pot. Kathleen Hoogeboom-Pot, Qing Li, Damiano Nardi, Margaret 
+Murnane, Henry Kapteyn, Xiaobo Li, Ronggui Yang and Erik Anderson, “Observation of 
+Ballistic Thermal Transport Across 2D Nanoscale Interfaces,” Eighteenth Symposium on 
+Thermophysical Properties, Boulder, CO June 2012. Presented by Kathleen Hoogeboom-
+Pot.  
+6.  Xiaobo Li and Ronggui Yang, Phonon Transmission across Lattice-Mismatched Dissimilar 
+Material Interfaces, 18th Thermophysical Properties Symposium, Topic: Thermal 
+Properties of Nanostructured Materials, Boulder, CO, June 25-29. 
+7.  Jun Liu, Byunghoon Yoon, Eli Kuhlmann, Steven M. George, Yung-Cheng Lee, and 
+Ronggui Yang, Thermal Conductivity Measurement of Molecular Layer Deposited (MLD) 
+Polymer Thin Films using Transient Thermoreflectance Method, 18th Thermophysical 
+Properties Symposium, Topic: Thermal Properties of Nanostructured Materials, Boulder, 
+CO, June 25-29. 
+8.  Jun Liu and Ronggui Yang, Thermal Properties of Aligned Polymer Chains, 18th 
+Thermophysical Properties Symposium, Topic: Thermal Properties of Nanostructured 
+Materials, Boulder, CO, June 25-29. 
+9.  Margaret Murnane, Ronggui Yang, Henry Kapteyn, Erik Anderson, Mark Siemens, 
+“Nanometrology using Coherent 1 – 30nm Light,” Proposers' Conference for the 
+SRC/DARPA Focus Center Research Program (FCRP), Dallas Texas, May 2012. Presented 
+by Margaret Murnane. 
+10.  Xianming Dai, Ronggui Yang, Yung-Cheng Li, and Chen Li, A Biporous Structure for 
+Enhanced Evaporation Heat Transfer, 3rd ASME Micro/Nanoscale Heat & Mass Transfer 
+International Conference (MNHMT2012-75140), Atlanta, GA, March 3-6, 2012. 
+ 
+2011 
+1.  Wei Wang, Aziz I. Abdulagatov, Miao Tian, Steven M. George, and Ronggui Yang, Three-
+Dimensional Ni Nanowire Network as Electrodes for Lithium Ion Batteries, Proc. 
+International Mechanical Engineering Conference and Exhibition (IMECE2011), Denver, 
+CO, November 11-17, 2011. 
+2.  Miao Tian, Wei Wang, and Ronggui Yang, Templated Fabrication of 3-Dimenisonal 
+Nanowire Network Electrodes, Proc. International Mechanical Engineering Conference and 
+Exhibition (IMECE2011), Denver, CO, November 11-17, 2011. 
+3.  Qian Li, Wei Wang, Chris Oshmman, Benoit Latour, Chen Li, Victor M. Bright, Yung-
+Cheng Lee and Ronggui Yang, Boiling Heat Transfer on Hybrid Micro/Nano-Structured 
+Surfaces, Proc. International Mechanical Engineering Conference and Exhibition 
+(IMECE2011), Denver, CO, November 11-17, 2011. 
+
+-----
+ 
+31 
+ 
+4.  [Extended Abstract]  Dan Li, Genshen Wu, Wei Wang,Yunda Wang, and Ronggui Yang, 
+Monolithic Silicon Nanowire-Coated Microchannels for Flow Boiling Heat Transfer, Proc. 
+International Mechanical Engineering Conference and Exhibition (IMECE2011), Denver, 
+CO, November 11-17, 2011. 
+5.   [Referred Paper] Christopher Oshman, Ronggui Yang, Yung-Cheng Lee, and Victor Bright, 
+Electroformed High Aspect Ratio Copper Pillars for Application in Flat Polymer-based 
+Micro Heat Pipes,  Proc. International Mechanical Engineering Conference and Exhibition 
+(IMECE2011), Denver, CO, November 11-17, 2011. 
+6.  Xiaobo Li and Ronggui Yang, Phonon Transmission across Interfaces of Lattice-
+Mismatched Dissimilar Materials, Proc. International Mechanical Engineering Conference 
+and Exhibition (IMECE2011), Denver, CO, November 11-17, 2011. 
+7.  [Referred Paper] Jun Liu, Mohamed Alhashme, and Ronggui Yang, Thermal Transport 
+through Carbon Nanotubes Connected by Molecular Linkers, Proc. International 
+Mechanical Engineering Conference and Exhibition (IMECE2011), Denver, CO, November 
+11-17, 2011. 
+8.  [Referred Paper] Jun Zhou and Ronggui Yang, Thermoelectric Transport in Sb2Te3/Bi2Te3 
+Quantum Dot Nanocomposites, Proc. International Mechanical Engineering Conference and 
+Exhibition (IMECE2011), Denver, CO, November 11-17, 2011.  
+9.  Yuanyuan Wang, Jun Zhou and Ronggui Yang, Thermoelectric Properties of Quasi-One-
+Dimensional Molecular Nanowires, Proc. International Mechanical Engineering Conference 
+and Exhibition (IMECE2011), Denver, CO, November 11-17, 2011. 
+10.  [Referred Paper] J. Ordonez-Miranda, J. J. Alvarado-Gil and Ronggui Yang, Effective 
+Thermal Conductivity of Metal-Nonmetal Composites at the non-Dilute Limit, the 16th 
+International Conference on Photoacoustic and Photothermal Phenomena, Merida, Yuctan, 
+Mexico, Nov. 27-Dec. 1, 2011.  
+11.  Xiaobo Li, and Ronggui Yang, Size Effects on Phonon Transmission across Material 
+Interfaces by Nonequilibrium Green’s Function Method, MRS Spring Meeting, April 25-29, 
+2011, San Francisco, CA. 
+12.   [Referred Paper] Xianming Dai, Levey T. Tran, Fanghao Yang, Bo Shi, Ronggui Yang, 
+Y.C. Lee, and Chen Li,  Characterization of Hybrid-Wicked Copper Acetone Heat pipes,  
+the ASME/JSME 2011 8th Thermal Engineering Joint Conference (AJTEC2011-44088),  
+Honolulu, Hawaii, march 13-17, 2011 
+13.  Q. Li, K. Hoogeboom-Pot, M. Siemens, M. M. Murnane, H. C. Kapteyn, R.G. Yang, E. H. 
+Anderson, O. Hellwig, B. Gurney, K. A. Nelson, “Generation and Detection of Very Short-
+Wavelength Surface Acoustic Waves at Nano-interfaces,” Conference on Lasers and 
+Electrooptics (CLEO), Baltimore, MD, May 2011. Paper QTuN4. Presented by Qing Li. 
+ 
+2010 
+1.  Jun Zhou and Ronggui Yang, Thermoelectric Transport in Quantum Dot Nanocomposites, 
+MRS Fall Meeting, November 30-Decmber 3, 2010, Boston, MA. 
+2.  Miao Tian, Wei Wang, and Ronggui Yang, Porous Anodic Alumina (PAA) Templated 
+Fabrication of Ni-Sn Nanowire Arrays for Li-ion Batteries, MRS Fall Meeting, November 
+30-Decmber 3, 2010, Boston, MA. 
+3.  Wei Wang, Miao Tian, Kristopher W Holub, and Ronggui Yang, Wafer-scale Silicon 
+Nanowire Arrays with Controllable Dimensions: Facile Fabrication and Optical Property 
+Characterization, MRS Fall Meeting, November 30-Decmber 3, 2010, Boston, MA. 
+
+-----
+ 
+32 
+ 
+4.  [Referred Paper] Sreekant Narumanchi, Suraj Thiagarajan, Kenneth Kelly, Charles King 
+and Ronggui Yang, Heat Transfer Performance of Enhanced Surfaces for Power Electronics 
+Cooling Applications (IHTC14-23284), International Heat Transfer Conference, 
+Washington DC, August 8-13, 2010. 
+5.  [Referred Paper] Jie Zhu, Dawei Tang, and Ronggui Yang, Frequency-Domain Pump-and-
+Probe Thermoreflectance Technique for Measuring Thermal Conductivity and Interface 
+Thermal Conductance of Thin Films (IHTC14-22522), International Heat Transfer 
+Conference, Washington DC, August 8-13, 2010. 
+ 
+6.  [Referred Paper] Xiaobo Li, Jun Liu, and Ronggui Yang, Tuning the Thermal Conductivity 
+using Mechanical Strains (IHTC14-23334), International Heat Transfer Conference, 
+Washington DC, August 8-13, 2010. 
+7.  [Referred Paper] Jen-Hau Cheng, John Schlager, Kris Bertness, Norman Sanford, Dragos 
+Seghete, Steven George, Ronggui Yang and Y.C. Lee, “Thermal Management of Vertical 
+Gallium Nitride Nanowire Array Devices: Cooling Design and Tip Temperature 
+Measurement,” IEEE/MEMS Conference, Hongkong, January 25-29, 2010. 
+8.  [Referred Paper] Chingyi Lin, Yadong Zhang, Aziz Abdulagatov, Ronggui Yang, Martin 
+Dunn, Victor Bright, Steven George, Y.C. Lee, “ALD Hermetic Sealing for Polymer-Based 
+Wafer Level Packaging of MEMS,” IEEE/MEMS Conference, Hongkong, January 25-29, 
+2010. 
+9.  [Referred Paper] C. Oshman, B. Shi, C. Li, R.G. Yang, Y.C. Lee, and V.M. Bright, 
+Fabrication and Testing of a Flat Polymer Micro Heat Pipe, 15th International Heat Pipe 
+Conference, Clemson, USA, April 25-30, 2010. 
+10.  [Referred Paper] Yadong Zhang, Shih-Hui Jen, Ronggui Yang, Steven M. George, and Y. 
+C. Lee, Real-Time Inspection of a Moisture Barrier Film Buried by a Protective Layer for 
+Flexible Displays, the 2010 International Symposium, Seminar, and Exhibition, Seattle, 
+WA, May 23-28, 2010. 
+11.  Qing Li, Mark E. Siemens, Ronggui Yang, Margaret M. Murnane, Henry C. Kapteyn, Erik 
+H. Anderson, Keith A. Nelson, "Observation of Quasi-Ballistic Heat Transport at Nano-
+Interfaces Using Coherent Soft X-Ray Beams", The Conference on Lasers and Electro-
+Optics (CLEO) and The International Quantum Electronics Conference (IQEC), May 16-
+21, 2010, San Jose, CA. 
+ 
+2009 
+1.  Mark Siemens, Qing Li, Keith A. Nelson, Eric Anderson, Margaret Murnane, and Henry 
+Kapteyn, Ronggui Yang, Quasi-ballistic thermal transport from nanoscale interfaces 
+observed using ultrafast coherent soft X-ray beams, Poster Presentation for 2009 ASME 
+Society-Wide Micro/Nano Technology Forum (ASME/IMECE 2009) Orlando, FL, 
+November 13-19, 2009 
+2.  Xiaobo Li, Jun Liu, and Ronggui Yang, Tuning the Thermal Conductivity using 
+Mechanical Strains, Poster Presentation for 2009 ASME Society-Wide Micro/Nano 
+Technology Forum (ASME/IMECE 2009) Orlando, FL, November 13-19, 2009 
+3.  Qing Li , Mark Siemens , Ronggui Yang , Keith Nelson , Erik Anderson , Margaret 
+Murnane , Henry Kapteyn, Quasi-ballistic thermal transport from a nanoscale hotspot 
+observed using ultrafast coherent extreme ultraviolet beams, Fall 2009 Meeting of the Four 
+Corners Section of the APS, Golden, CO, October 23-24, 2009. (Best Presentation Award) 
+
+-----
+ 
+33 
+ 
+4.  Mark Siemens , Qing Li , Keith Nelson , Ronggui Yang , Erik Anderson , Margaret 
+Murnane, Henry Kapteyn, High-Frequency Surface Acoustic Wave Propagation in 
+Nanostructures Characterized by Coherent Extreme Ultraviolet Beams, Fall 2009 Meeting 
+of the Four Corners Section of the APS, Golden, CO, October 23-24, 2009.  
+5.  Mark Siemens, Qing Li, Margaret Murnane, Henry Kapteyn, Ronggui Yang, and Keith 
+Nelson,Time-resolved measurement of quasi-ballistic heat transport across nanoscale 
+interfaces, 2009 Summer Heat Transfer Conference, July 19-23, 2009, San Francisco, CA 
+6.  Pilhwa Lee, Kurt Maute, and Ronggui Yang, “An extended finite element method (XFEM) 
+for nano-scale heat transfer,” Proceedings of 2009 NSF Engineering Research and 
+Innovation Conference, Honolulu, Hawaii, June 22-25, 2009. 
+7.  Pilhwa Lee, Kurt Maute, and Ronggui Yang, An extended finite element method (XFEM) 
+based topology optimization for nano-scale heat transfer, the U.S. National Congress on 
+Computational Mechanics (USNCCM X), July 16-19, 2009, Columbus, OH.  
+8.  Xiaobo Li and Ronggui Yang, Stain Effects on the Thermal Conductivity of 
+Nanostructures, 17th Symposium on Thermophysical Properties, June 21-26, 2009, Boulder, 
+CO  
+9.  Mark Siemens, Qing Li, Margaret Murnane, Henry Kapteyn, Ronggui Yang, Erik 
+Anderson, and Keith Nelson, Time-Resolved Quasi-Ballistic Heat Transport at Nano-
+Interfaces, 17th Symposium on Thermophysical Properties, June 21-26, 2009, Boulder, CO. 
+10.  Pilhwa Lee, Kurt Maute, and Ronggui Yang, An extended finite element method (XFEM) 
+based topology optimization for nano-scale heat transfer, 17th Symposium on 
+Thermophysical Properties, June 21-26, 2009, Boulder, CO. 
+11.  Mark Siemens, Qing Li, Margaret Murnane, Henry Kapteyn, Ronggui Yang, Erik 
+Anderson, and Keith Nelson, EUV Detection of High-Frequency Surface Acoustic Waves, 
+The Conference on Lasers and Electro-Optics (CLEO) and The International Quantum 
+Electronics Conference (IQEC), May 31-June 5, 2009, Baltimore, MD 
+12.  [Referred Paper] C. Oshman, B. Shi, C. Li, R.G. Yang, Y.C. Lee, and V.M. Bright, 
+Fabrication and Testing of a Flat Polymer Micro Heat Pipe, The 15th International 
+Conference on Solid-State Sensors, Actuators and Microsystems (Transducers 2009), June 
+21 - 25, 2009, Denver, CO. 
+13.  Yadong Zhang, Yu-Zhong Zhang, David C. Miller, Jacob A. Bertrand, Shih-Hui Jen, 
+Ronggui Yang, Martin L. Dunn, Steven M. George, and Y. C. Lee, Defect Inspection of 
+ALD/MLD-Based Barrier Coatings, IMAPS/ACerS 5th International Conference and 
+Exhibition on Ceramic Interconnect and Ceramic Microsystems Technologies (CICMT 
+2009), April 20-23, 2009, Denver, CO. 
+14.  Ching-Yi Lin, Ronggui Yang, Y. C. Lee, Aziz Abdulagatov, and Steven M. George, 
+Flexible Thermal Ground Plane Enabled by ALD/MLD-Based Barrier Coatings, 
+IMAPS/ACerS 5th International Conference and Exhibition on Ceramic Interconnect and 
+Ceramic Microsystems Technologies (CICMT 2009), April 20-23, 2009, Denver, CO. 
+15.  David C. Miller, Ross R. Foster, Yadong Zhang, Shih-Hui Jen, Jacob A. Bertrand, Zhixing 
+Lu, Dragos Seghete, Jennifer L. O’Patchen, Ronggui Yang, Yung-Cheng Lee, Steven M. 
+George, and Martin L. Dunn, Mechanical Robustness of ALD/MLD-Based Barrier 
+Coatings, IMAPS/ACerS 5th International Conference and Exhibition on Ceramic 
+Interconnect and Ceramic Microsystems Technologies (CICMT 2009), April 20-23, 2009, 
+Denver, CO. 
+
+-----
+ 
+34 
+ 
+16.  Bo Shi, Christopher Oshman, Aziz Abdulagatov, Myongjai Lee, Virginia Yong, Dae Up 
+Ahn, Ching-Yi Lin, Wei Wang, Jen-Hau Cheng, Chen Li, Ronggui Yang, Victor Bright, 
+Steven George, G.P. “Bud” Peterson, Y.C. Lee, Development of Micro/Nano-Enabled 
+Flexible Thermal Ground Plane, Workshop on MEMS & Associated Microsystems, 
+International Conference and Exhibition on Device Packaging, March 9 - 12, 2009, 
+Scottsdale/Fountain Hills, Arizona 
+ 
+2008 
+1.  David C. Miller, Ross R. Foster, Yadong Zhang, Shih-Hui Jen, Jacob A. Bertrand, Zhixing 
+Lu, Dragos Seghete, Jennifer L. O’Patchen, Ronggui Yang, Yung-Cheng Lee, Steven M. 
+George, and Martin L. Dunn, “Mechanical Robustness of Atomic Layer Deposited and 
+Molecular Layer Deposited Coatings for Microsystems and Flexible Electronics 
+Applications,” Symposium I: Reliability and Properties of Electronic Devices on Flexible 
+Substrates, Material Research Society (MRS) Symposium, Fall 2008, Boston, MA  
+2.  [Referred Paper] Nicholas Allec, Zyad Hassan, Li Shang, Robert P. Dick and Ronggui 
+Yang, “ThermalScope: Multi-scale Thermal Analysis for Nanometer-scale Integrated 
+Circuits,” International Conference on Computer-Aided Design (ICCAD), San Jose, 
+November 10-13, 2008. 
+3.  Mark Siemens, Qing Li, Margaret Murnane, Henry Kapteyn, Ronggui Yang, and Keith 
+Nelson, “Probing Quasi-Ballistic Heat Transport using Coherent EUV Beams,” Directed 
+Energy Professional Society Ultrashort Pulse Laser Workshop, Boulder, CO, September 
+2008. 
+4.  [Referred Paper] Liang-Chun Liu, Mei-Jiau Huang, and Ronggui Yang, Curvature Effect 
+on the Thermal Conductivity of Nanowires, 2008 Summer Heat Transfer Conference, 
+August 10-14, 2008 Jacksonville, FL. 
+5.  Mark Siemens, Qing Li, Margaret Murnane, Henry Kapteyn, Ronggui Yang, and Keith 
+Nelson, Nanoscale Heat Transport Probed with Soft X-Rays, XVI International Conference 
+on Ultrafast Phenomena, June 9-13 2008, Italy (referred paper). 
+6.  Anton Evgrafov, Kurt Maute, Ronggui Yang and Martin Dunn, “Topology Optimization 
+for Nano-Scale Heat Transfer,” 8th. World Congress on Computational Mechanics 
+(WCCM8) and the 5th. European Congress on Computational Methods in Applied Sciences 
+and Engineering (ECCOMAS 2008), 30 June - 4 July 2008, the Lido Island, Venice, Italy. 
+7.  [Referred Paper] Yadong Zhang, Yu-Zhong Zhang, David C. Miller, Jacob A. Bertrand, 
+Ronggui Yang, Martin L. Dunn, Steven M. George and Y. C. Lee, Fluorescent Tag-Based 
+Inspection of Barrier Coatings for OLEDs and Polymer Packages, NSTI Nanotech 2008, 
+Boston, MA, June 1-5, 2008 (referred paper).  
+8.  [Referred Paper] Yadong Zhang, David C. Miller, Jacob A. Bertrand, Yu-Zhong Zhang, 
+Ronggui Yang, Martin L. Dunn, Steven M. George and Y. C. Lee, Fluorescent Tag-Based 
+Inspection of Barrier Coatings for OLEDs and Polymer Packages, Society for Information 
+Display, 2008 International Symposium, Seminar and Exhibition May 18-23, 2008, Los 
+Angeles, CA . 
+9.  Kurt Maute, Anton Evgrafov, Ronggui Yang, Martin Dunn, Topology Optimization of 
+Nano- and Submicro-scale Heat Transfer, Proceedings of 2008 NSF Engineering Research 
+and Innovation Conference, January 2008,  Knoxville, TN (un-referred paper).  
+
+-----
+ 
+35 
+ 
+10.  [Referred Paper] Ronggui Yang, Jen-Hau Cheng, Weixue Tian, Ming-Shan Jeng, and Gang 
+Chen, Thermal Conductivity of Nanocomposites, ASME Micro/Nanoscale Heat Transfer 
+International Conference (MNHT08), January 2008, Tainan, Taiwan. 
+ 
+2007 
+1.  Mark E. Siemens, Qing Li, Oren Cohen, Henry Kapteyn, Margaret Murnane, and Ronggui 
+Yang, "Probing Quasi-ballistic heat transport using coherent EUV beams", Directed Energy 
+Professional Society 2007, Ultrashort Pulse Laser Workshop, October 2007. 
+2.  Qing Li, Mark E. Siemens,  Oren Cohen, Henry Kapteyn, Margaret Murnane, Ronggui 
+Yang, Probing Quasi-Ballistic Phonon Thermal Transport using Extreme Ultraviolet 
+(EUV), Ultrafast Optics 2007, High Field Short Wavelength, September 2007. 
+3.  [Referred Paper] Weixue Tian and Ronggui Yang, Thermal Conductivity of Randomly 
+Stacked Nanoparticle Composites, ASME-JSME Heat Transfer Conferences, Vancouver, 
+Canada, August 2007. 
+4.  Ronggui Yang, Thermal Conductivity Modeling and Characterization of Nanocomposites 
+and Nano-ceramics, AFOSR focused workshop on Ultra-High Temperature Ceramic 
+(UHTC) Materials Menlo Park, CA, July 23-25, 2007. 
+5.  Y. Zhang, R. Yang, S.M. George and Y.C. Lee, Atomic Layer Deposition for Hermetic 
+Polymer Packages, (abstract #1637), NSTI Nanotechnology Conference and Trade Show, 
+May 20-24, 2007, Santa Clara, California (Un-Referred Paper) 
+6.  Ronggui Yang, G.P. “Bud” Peterson, Chen Li, Victor Bright, Y.C. Lee, Martin Dunn, 
+Steven M. George, Kurt Maute, Margaret M. Murnane, and Henry Kapteyn, Thermal 
+Challenges and Innovations in Emerging Micro/Nano Systems, DARPA Microsystems 
+Technology Symposium, March 3-5, 2007, San Jose, CA.  
+7.  Weixue Tian and Ronggui Yang,  Monte Carlo simulation of thermal conductivity in 
+randomly distributed nanowire composites (A43.00009), American Physical Society March 
+Meeting, Denver CO, 2007. 
+8.  Ming Tang , Hohyun Lee , Asegun Henry , Ronggui Yang , Dezhi Wang , Jean-Pierre 
+Fleurial , Pawan Gogna , Gang Chen , Zhifeng Ren , Mildred Dresselhaus, Thermoelectric 
+properties of Si-Ge nanoparticle composites (N43.00009), American Physical Society 
+March Meeting, Denver CO, 2007. 
+ 
+2006 
+1.   [Referred Paper] Ming Y. Tang, Mildred S Dresselhaus, Gang Chen, and Ronggui Yang, 
+Thermoelectric Modeling of Si Nanoparticle Composites, December 1, 2006 Fall MRS 
+Meeting at Boston. 
+2.  Ronggui Yang, “Some Ideas on Variable Thermal Resistors”, DARPA Workshop on 
+Variable Thermal Resistors, Boulder, CO, October 2006, (invited 45 minutes individual 
+presentation to Program Manager Dr. Tom Kenny). 
+3.  Ronggui 
+Yang, 
+Thermoelectric 
+Transport 
+in 
+Nanocomposites, 
+Multifunctional 
+NANOcomposites 2006 International Conference, ASME Nano-Institute, Honolulu, Hawaii, 
+Sept. 20-22, 2006. 
+4.  Gang Chen, X.Y. Chen, Z. Chen, L. Hu, A. Narayanaswamy, and R.G. Yang, Thermally-
+Excited Nonequilibrium between Electrons and Phonons for Energy Conversion, Nanoscale 
+Energy Conversion and Information Processing Devices, Nice, France, September 24-26, 
+2006, (invited oral presentation).  
+
+-----
+ 
+36 
+ 
+5.  Ronggui Yang, Thermoelectric Transport in Nanocomposites, 16th Symposium on 
+Thermophysical Properties, Boulder, CO, July 30-Aug. 04, 2006. 
+6.  Ronggui Yang, and Gang Chen, Thermoelectric Transport in Nanocomposites, SAE 2006 
+World Congress, Detroit, MI, April 3-5, 2006. 
+7.  G. Chen, R. Yang, M.S. Dresselhaus, et al, The Nanocomposite Approach to Enhanced 
+Thermoelectric Performance (B35.00003), 2006 APS March Meeting, Baltimore, MD, 
+March 13–17, 2006. 
+ 
+Before 2005 
+1.   [Referred Paper] M.S. Dresselhaus, G. Chen, M.Y. Tang, Ronggui Yang, D.Z. Wang, Z.F. 
+Ren, J.P. Fleurial, and P. Gogna, New Directions for Nanoscale Thermoelectric Materials 
+Research (invited), Proc. MRS Fall Meeting, paper # F1.1, Boston, MA, 2005. 
+2.  [Referred Paper] Ming Y. Tang, M. S. Dresselhaus, Ronggui Yang, and Gang Chen, 
+Thermoelectric Modeling of Si-Si1-xGex Ordered Nanowire Composites, Proc. MRS Fall 
+Meeting, Boston, MA, 2005. 
+3.  G. Chen, R.G. Yang, et al, Design, Modeling, and Synthesis of Nanocomposites for Solid-
+State Energy Conversion, SPIE Optic East - Nanofabrication: Technologies, Devices, and 
+Applications, Boston, October 23-26, 2005 (invited oral presentation). 
+4.  Ronggui Yang, Xiaoyuan Chen, Aaron Schmidt, and Gang Chen, Pump-Probe 
+Experimental Study of Phonon Reflectivity at an Interface and Phonon Relaxation Time  
+(Nano2005-87064), ASME 4th Integrated Nanosystems – Design, Synthesis, & 
+Applications, UC-Berkeley, September 14-16, 2005, (extended abstract).  
+5.  Ronggui Yang, and Gang Chen, Non-local Formulation of Rarefied Poiseuille Flow 
+(Nano2005-87072), ASME 4th Integrated Nanosystems – Design, Synthesis, & 
+Applications, UC-Berkeley, September 14-16, 2005, (extended abstract). 
+6.  [Referred Paper] G. Chen, R.G. Yang, et al, Engineering Phonon and Electron Transport in 
+Nanocomposites for Solid-State Energy Conversion (invited), Proceedings of the 5th 
+International Workshop on Structural Health Monitoring, Ed. Fu-Kuo Chang, pp. 1443-
+1450, Stanford, September 12-14, 2005.  
+7.  G. Chen, A. Narayanaswamy, Z. Chen, R.G. Yang, and L. Hu, Nanoscale Thermal 
+Radiation: Fundamental Issues and New Opportunities, US-Japan Seminar on Nanoscale 
+Heat Transfer, July 2005, (invited oral presentation) 
+8.  [Referred Paper] Ronggui Yang, Gang Chen and Mildred S. Dresselhaus, Thermal 
+Conductivity of Core-Shell Nanostructures: from Nanowires to Nanocomposites (HT 2005-
+72198), ASME Heat Transfer Conference, San Francisco, July 2005. 
+9.  [Referred Paper] Ming-Shan Jeng, Ronggui Yang, and Gang Chen, Monte Carlo Simulation 
+of Phonon Transport and Thermal Conductivity in Nanocomposites (IPACK 2005-73494), 
+The ASME/Pacific Rim Technical Conference and Exhibition on Integration and Packaging 
+of MEMS, NEMS, and Electronic Systems (InterPACK’05), San Francisco, July 2005.  
+10.  [Referred Paper] Ming-Shan Jeng, Ronggui Yang, and Gang Chen, Monte Carlo Simulation 
+of Thermoelectric Properties in Nanocomposites, the 24th International Conference on 
+Thermoelectrics (IEEE), Clemson University, Clemson SC, June 19-23, 2005. 
+11.  [Referred Paper] Hohyun Lee, Dezhi Wang, Wenzhong Wang, Zhifeng Ren, B. Klotz, 
+Ming Y. Tang, Ronggui Yang, Pawan Gogna, Jean-Pierre Fleuiral, Mildred S. Dresselhaus, 
+and Gang Chen, Thermoelectric Properties of Si/Ge Nano-composite, the 24th International 
+
+-----
+ 
+37 
+ 
+Conference on Thermoelectrics (IEEE), Clemson University, Clemson SC, June 19-23, 
+2005. 
+12.  K. Miyazaki, H. Tsukamoto, R.G. Yang, and G. Chen, Thermal Conductivity of 
+Nanostructured Material, Fifth International Conference on Enhanced, Compact and Ultra-
+Compact Heat Exchangers: Science, Engineering and Technology, Whistler, BC, Canada, 
+Sep 11-15, 2005. 
+13.  Gang Chen, Ronggui Yang, Arvind Narayanaswamy, and Xiaoyuan Chen, Thermally-
+Excited Nonequilibrium States between Electrons and Phonons for Energy Conversion, the 
+Second International Symposium on Micro/Nanoscale Energy Conversion and Transport 
+(MECT-04), Seoul, Korea, August 8-13, 2004 (invited oral presentation). 
+14.  [Referred Paper] Ronggui Yang and Gang Chen, Thermal Conductivity Prediction of 
+Periodic Nanocomposites using Phonon Boltzman Equation (HT-FED2004-5646), Proc. 
+2004 ASME Heat Transfer/Fluids Engineering Summer Conference (HTFED2004),  pp. 
+449-456, Charlotte, North Carolina, July 11-15, 2004. 
+15.  [Referred Paper] Ronggui Yang, Arvind Narayanaswamy and Gang Chen, Nonequilibrium 
+Electron-Phonon Thermoelectric Devices using Surface Plasmon, Proc. the Sixth 
+International Symposium of Heat Transfer (ISHT6), Beijing, China, June 15-19, 2004.  
+16.  [Referred Paper] Ronggui Yang and Gang Chen, Recent Developments in Nanostructured 
+Thermoelectric Materials and Devices, Panel on "Challenges in Chip/Processor Level 
+Thermal Engineering" at 9th IEEE/ASME Intersociety Conference on Thermal and 
+Thermomechanical Phenomena in Electronic Systems (ITHERM2004), pp.731-732, Las 
+Vegas, NV, June 1-4, 2004. 
+17.  [Referred Paper] Ronggui Yang and Gang Chen, Theoretical Thermal Conductivity of 
+Nano-composites, in Thermoelectric Materials 2003, Research and Applications, vol 793, 
+pp. 121-126, eds. G. S. Nolas and J. Yang and T. P. Hogan and D. C. Johnson. From the 
+Materials Research Society Fall 2003 Meeting, Symposium S, Paper S5.2. 
+18.  [Referred Paper] G. Chen, C. Dames, T. Harris, D. Borca-Tasiuc, R.G. Yang, B. Yang, 
+W.L. Liu, D. Song, and M. Takashiri, Thermal Conductivity Reduction Mechanisms in 
+Superlattices (invited), Proc. International Thermoelectric Conference 2003 (IEEE), La 
+Grande Motte, France, August 2003. 
+19.  [Referred Paper] Jianping Fu, Ronggui Yang, Gang Chen, G. Jeffrey Snyder, and Jean-
+Pierre Fleurial, Integrated Electroplated Heat Spreaders for High Power Quantum Well 
+Lasers (TED-AJ03-332), Proc. 7th ASME/JSME Joint Thermal Engineering Conference 
+(AJTE  2003), Hawaii, March 2003. 
+20.  [Referred Paper] Gang Chen and Ronggui Yang, Nano-to-Macroscale Transport Modeling 
+through Approximations (IMECE2002-32120, invited), Proc. International Mechanical 
+Engineering Conference and Exhibition (IMECE2002), pp. 61-68, New Orleans, Nov. 2002 
+21.  [Referred Paper] Ronggui Yang, Gang Chen, and Yuan Taur, Ballistic-Diffusive Equations 
+for Multidimensional Nanoscale Heat Conduction, Proc. International Heat Transfer 
+Conference (IHTC 2002), Grenoble, France, August 2002. 
+22.  [Referred Paper] R.G. Yang and G. Chen, Energy Conversion and Transport Near a Solid-
+Solid Interface, International Thermoelectric Conference 2002 (IEEE), Long Beach, CA, 
+August 2002. 
+23.  Ronggui Yang, Diana Borca-Tasuica and Gang Chen, Heat Conduction and Energy 
+Conversion in Nanoscale, Proc. The 20th Symposium on Energy Engineering Sciences, 
+Argonne, IL, May 20-21, 2002. 
+
+-----
+ 
+38 
+ 
+24.  [Referred Paper] R.G. Yang, G. Chen, G.J. Snyder and J.-P. Fleurial, Design of two-stage 
+Thick film Thermoelectric Micro Coolers for Mid-IR Lasers Thermal Management, Proc. 
+8th IEEE/ASME Intersociety Conference on Thermal and Thermomechanical Phenomena in 
+Electronic Systems (ITHERM 2002),  pp. 323-329, San Diego, CA, May 2002. 
+25.  [Referred Paper] Ronggui Yang and Gang Chen, Two Dimensional Nanoscale Heat 
+Conduction Using Ballistic-Diffusive Equations, Proc. International Mechanical 
+Engineering Conference and Exhibition, Vol. 1: pp.363-366, New York, Nov. 2001. 
+26.  [Referred Paper] R.G. Yang, G. Chen, G.J. Snyder and J.-P. Fleurial, Geometric Effects On 
+the Transient Cooling of Thermoelectric Coolers, Proc. Material Research Society Fall 
+2001 Meeting, pp. 281-286, Boston, MA, Nov. 2001. 
+27.  [Referred Paper] A. Ravi Kumar, R.G. Yang, G. Chen, and J. P. Fleurial, Transient 
+Thermoelectric Cooling for Thin Film Devices, Proc. IEEE International Symposium on 
+Circuits and Systems, v 4, 2001, p Z1141-Z1146 (MRS Spring 2000 meeting). 
+28.  [Referred Paper] Ronggui Yang, Shuye Lei and Jianhua Du, Heat and Mass transfer in Low 
+Moisture-content Saturated Porous Media During Sudden Heating: I. Fundamentals, 
+Proceedings of 5th ASME/JSME Joint Thermal Engineering Conference (AJTE1999), San 
+Diego, California, March 1999. 
+29.  [Referred Paper] Ronggui Yang, Jianhua Du and Shuye Lei, Heat and Mass Transfer in 
+Low Moisture- content Saturated Porous Media during Sudden Heating: II. Numerical 
+Simulation, Proceedings of 5th ASME/JSME Joint Thermal Engineering Conference (AJTE 
+1999), San Diego, California, March 1999. 
+30.  [Referred Paper] Shuye Lei, Chunmei Xia, Ronggui Yang and Yong Cao, Numerical 
+Simulation and Analysis of Process in Unsaturated Porous media for Measuring Thermal 
+Conductivity with Transient Heat Probe, 5th Asian Thermal Property Conference, Sep. 1998, 
+Seoul Korea. 
+31.  [Referred Paper] Ronggui Yang, Jianhua Du and Shuye Lei, Seepage Model on 
+Simultaneous Transport of Heat-Water-Air-Solute in Porous Media, 12th Hydrodynamics 
+Conference (in Chinese), August 1998. 
+32.  [Referred Paper] Shuye Lei, Ronggui Yang and Jianhua Du, Transport Theory in 
+Unsaturated Porous Media, Annual Heat and Mass Transfer Conference of Chinese 
+Engineering Thermophysics Society (in Chinese), 1998. 
+33.  [Referred Paper]  Ronggui Yang, Jianhua Du and Shuye Lei, Numerical Simulation of the 
+Transport Phenomena in Porous Media, Annual Heat and Transfer Conference of Chinese 
+Engineering Thermophysics Society (in Chinese), 1998. 
+34.  [Referred Paper]  Ronggui Yang, Jianhua Du and Shuye Lei, Solute Effect on Heat and 
+Moisture Transfer in Unsaturated Porous Media, Annual Heat and Transfer Conference of 
+Chinese Engineering Thermophysics Society (in Chinese), 1998. 
+35.  [Referred Paper] Shuye Lei, Guanyu Zheng, Buxuan Wang, Ronggui Yang and Chunmei 
+Xia, Numerical Simulation of the Transport Phenomena Due to Sudden Heating in Porous 
+Media, ASME 31st National Heat Transfer Conference (NHTC 1997), Baltimore, Maryland, 
+August 1997. 
+36.  [Referred Paper] Shuye Lei, Chunmei Xia, Ronggui Yang and Yong Cao, Analysis of 
+Unsaturated Porous Media Thermal Conductivity Measurement, Annual Heat and Transfer 
+Conference of Chinese Engineering Thermophysics Society (in Chinese), Oct. 1997. 
+ 
+i). Invited Seminars 
+
+-----
+ 
+39 
+ 
+1.  October 23, 2015, Nanoscale Heat Transfer: Progresses and Opportunities, Boise State 
+University. 
+2.  July 4, 2015, Nanoscale Heat Transfer: Progresses and Opportunities, Jimei University, 
+Xiamen China. 
+3.  June 19, 2015, Nanoscale Heat Transfer: Progresses and Opportunities, Tongji University.   
+4.  June 17, 2015, Thermal Conductivity of Polymer and Hybrid Organic-Inorganic Materials, 
+Xi’an Jiaotong University.   
+5.  June 12, 2015, Nanoscale Heat Transfer: Progresses and Opportunities, Institute of 
+Mechanics, Chinese Academy of Science.   
+6.  October 31, 2014, Thermal Conductivity of Polymer and Hybrid Organic-Inorganic 
+Materials, Arizona State University. 
+7.  September 3, 2014, Thermal Conductivity of Polymer and Hybrid Organic-Inorganic 
+Materials, Massachusetts Institute of Technology. 
+8.  May 30, 2014, Ultrafast Characterization of Phonon Transport and Nanoscale Thermal 
+Conduction, School of Civil and Environmental Engineering, Shanghai Second Polytech 
+University.  
+9.  May 28, 2014, Phase-Change Heat Transfer at Micro/Nanoscale: From Fundamentals to 
+Manufacturable Devices, School of Mechanical and Power Engineering, Shanghai Xiaotong 
+University. 
+10.  May 26, 2014, Nanoscale Heat Conduction: Multiscale Simulations and Ultrafast Laser-
+Based Characterization, Ningbo Institute of Materials Technology and Engineering, Chinese 
+Academy of Science. 
+11.  May 23, 2014, Nanoscale Heat Conduction: Multiscale Simulations and Ultrafast Laser-
+Based Characterization, Southeast University. 
+12.  December 24, 2013, Phase-Change Heat Transfer at Micro/Nanoscale: From Fundamentals 
+to Manufacturable Devices, Department of Thermal Engineering. 
+13.  December 23, 2013, Multiscale Simulation and Ultrafast Characterization for Nanoscale 
+Heat Conduction, School of Aerospace, Tsinghua University.  
+14.  September 25, 2013, ALD Coatings on Structured Surfaces for Wettability Control and 
+Phase-Change Heat Transfer Enhancement, Department of Mechanical Engineering, 
+University of Maryland. 
+15.  April 26, 2013, Nanoscale Heat Conduction, Department of Mechanical Control and 
+Engineering, Tokyo Institute of Technology. 
+16.  April 26, 2013, Understanding Phonon Transport for Nanoscale Thermoelectricity, 
+Department of Materials Science and Engineering, Tokai University. 
+17.  April 24, 2013, Nanoscale Heat Conduction: Ultrafast Laser-Based Characterization and 
+Multiscale Simulation, Department of Mechanical Engineering, Tokyo University. 
+18.  April 24, 2013, Ultrafast Laser-Based Characterization for Nanoscale Heat Conduction, 
+Institute of Industrial Science, Tokyo University (Host: Masahiro Nomura). 
+19.  April 23, 2013, Nanoscale Heat Conduction: Ultrafast Laser Based Characterization and 
+Multiscale Simulation, Department of System Design Engineering, Keio University. 
+20.  April 19, 2013, Hybrid Micro/Nano-Structured Surfaces for Phase-Change Heat Transfer, 
+Department of Mechanical Engineering, Osaka University, Japan. 
+21.  April 18, 2013, Nanoscale Heat Conduction: Ultrafast Laser Based Characterization and 
+Multiscale Simulation, Department of Mechanical Engineering, Kyoto University. 
+
+-----
+ 
+40 
+ 
+22.  April 17, 2013, Understanding Phonon Transport for Nanoscale Thermoelectricity, AIST-
+Nagoya, Japan. 
+23.  April 16, 2013, Understanding Phonon Transport for Nanoscale Thermoelectricity, 
+Department of Chemistry, Nagoya University, Japan. 
+24.  April 15, 2013, Nanoscale Heat Conduction: Ultrafast Laser Based Characterization and 
+Multiscale Simulation, Department of Mechanical Engineering, Kyushu Institute of 
+Technology, Japan. 
+25.  April 10, 2013, Phase-Change Heat Transfer at Micro/Nano-Scale: From Fundamentals to 
+Innovative Devices, Department of Mechanical Engineering, Kyushu Institute of 
+Technology, Japan. 
+26.  November 29, 2012, Manufacturable Three-Dimensional Nanostructures for Thermal 
+Management and Energy Storage, Department of Mechanical Engineering, MIT. 
+27.  October 25, 2012, Manufacturable Three-Dimensional Nanostructures for Thermal 
+Management and Energy Storage, Department of Mechanical Engineering, University of 
+Colorado at Boulder, CO. 
+28.  October 10, 2012, Manufacturable Three-Dimensional Nanostructures for Thermal 
+Management and Energy Storage, PRISM/PCCM Seminar Series, Princeton University, NJ. 
+29.  June 15, Manufacturable Three-Dimensional Nanostructures for Thermal Management and 
+Energy Storage, Xi'an Jiaotong University, Xi'an, China. 
+30.  June 14, 2012, Multiscale Modeling and Ultrafast Laser-based Characterization of 
+Nnaoscale Heat Transfer, Xi'an Jiaotong University, Xi'an, China. 
+31.  June 21, 2011, Nanoscale Heat Conduction, Tsinghua University, Beijing, China. 
+32.  June 21, 2011, Manufacturable Micro/Nanotechnologies for Thermal Management and 
+Energy Storage, Peking Univeristy, Beijing, China.  
+33.  June 20, 2011, Nanoscale Heat Conduction, Institute of Mechanics, Chinese Academy of 
+Science, Beijing, China.  
+34.  June 20, 2011, Nanoscale Heat Transfer, Beijing Jiaotong University, Beijing, China.  
+35.  June 17, 2011, Nanoscale Heat Transfer, Institute of Engineering Thermophysics, Chinese 
+Academy of Scince, Beijing, China.  
+36.  June 16, 2011, Nanoscale Heat Transfer, University of Science and Technology in Beijing, 
+Beijing, China.  
+37.  June 15, 2011, Thermal and Thermoelectric Transport in Nanocomosites, Nanjing 
+University, Nanjing, China. 
+38.  June 14, 2011, Nanoscale Heat Conduction, Southeast University, Nanjing, China. 
+39.  June 13, 2011, Nanoscale Heat Transfer, Nanjing University of Science and Technology, 
+Nanjing, China. 
+40.  March 23, 2011, Thermal Science and Engineering for Thermoelectric Energy Conversion, 
+Department of Mechanical, Aerospace, and Nuclear Engineering, Rensselaer Polytech 
+Institute, NY. 
+41.  February 16, 2011, Thermal Science and Engineering for Thermoelectric Energy 
+Conversion, Department of Mechanical Engineering, University of California, Berkeley, CA. 
+42.  February 8, 2011, Thermal Science and Engineering for Thermoelectric Energy Conversion, 
+Department of Mechanical Science and Engineering, University of Illinois, Urbana-
+Champaign, IL. 
+43.  November 18, 2010, Scalable Thermal Management Technologies: from Atoms to Systems, 
+Department of Mechanical Engineering, University of Colorado, Boulder, CO. 
+
+-----
+ 
+41 
+ 
+44.  March 24, 2010, Nano-Enabled Energy Conversion and Thermal Management: from 
+Fundamental Sciences to Manufacturable Systems, Department of Mechanical and 
+Aerospace Engineering, Rutgers University, New Brunswick, NJ. 
+45.  March 22, 2010, Nano-structured Thermal Interfaces for Sustainable Energy technologies, 
+Department of Mechanical and Nuclear Engineering, Pennsylvania State University, 
+University Park, PA. 
+46.  February 25, 2010, Nano-structured Thermal Interfaces for Sustainable Energy technologies, 
+Mechanical Engineering, California Institute of Technology, Pasadena, CA. 
+47.  February 24, 2010, Nano-structured Thermal Interfaces for Sustainable Energy technologies, 
+Department of Mechanical Engineering and Materials Sciences, Duke University, NC. 
+48.  November 23, 2009, Nano-Enabled Energy Conversion and Thermal Management: from 
+Fundamental Sciences to Manufacturable Systems, Department of Mechanical and 
+Aerospace Engineering, Case Western Reserve University, Cleveland OH. 
+49.  August 27, 2009, Nanoscale Thermal Transport, Department of Mechanical Engineering, 
+University of Colorado, Boulder, CO. 
+50.  June 2, 2009, Challenges and Opportunities in Nanoscale Heat Transfer, Department of 
+Physics, Xiamen University. 
+51.  June 1, 2009, Challenges and Opportunities in Nanoscale Heat Transfer, Department of 
+Electrical and Information Engineering, Putian University. 
+52.  June 26, 2008, Nanoscale Heat Transfer: Challenges and Opportunities, National Renewable 
+Energy Lab, Golden, CO. 
+53.  June 4, 2008, Challenges and Opportunities in Nanoscale Heat Transfer, Department of 
+Mechanical Engineering, Hongkong University of Science and Technology. 
+54.  March 28, 2008, Challenges and Opportunities in Nanoscale Heat Transfer, Department of 
+Mechanical Engineering, University of Toledo. 
+55.  May 2007, Nanotechnological Innovations in Thermoelectric Energy Conversion and 
+Thermal Management, Beijing University, Tsinghua University, Zhongshan University, 
+sponsored by National Natural Science Foundation of China [Host: Prof. Xiaofeng Peng at 
+Tsinghua University].   
+56.  March 22, 2007, Nanotechnological Innovations in Thermoelectric Energy Conversion and 
+Thermal Management, CU Building Systems Seminar Series, University of Colorado at 
+Boulder. 
+57.  May 17, 2006, Nanoscale and Ultrafast Thermal Sciences and Applications, National 
+Renewable Energy Lab (Golden, CO).  
+58.  April 12, 2006, Nanoscale Heat Transfer and Energy Conversion, CU Energy and 
+Environment Seminar Series, University of Colorado at Boulder.  
+59.  March 16, 2006, Nanoscale and Ultrafast Thermal Sciences and Applications, Department 
+of Chemistry, University of Colorado at Boulder. 
+60.  Feb. 13, 2006, Nanoscale and Ultrafast Thermal Sciences and Applications, Materials 
+Reliability Division, National Institute of Standards and Technology (NIST-Boulder). 
+61.  Feb. 03, 2006, Nanoscale and Ultrafast Thermal Sciences and Applications, JILA/Physics 
+Department, University of Colorado at Boulder. 
+62.  Dec. 02, 2005, Nanoscale Heat Transfer with Applications in Nanoelectronics, Department 
+of Electrical and Computer Engineering, Tufts University. 
+63.  May 13, 2005, Nanoscale Heat Transfer with Applications in Nanoelectronics and 
+Thermoelectrics, Intel Corporation – Assembly Technology Development, Arizona  
+
+-----
+ 
+42 
+ 
+64.  April 4, 2005, Nanoscale Heat Transfer with Applications in Nanoelectronics and 
+Thermoelectrics, University of Notre Dame. 
+65.  March 31, 2005, Nanoscale Heat Transfer with Applications in Nanoelectronics and 
+Thermoelectrics, University of Colorado – Boulder. 
+66.  March 22, 2005, Nanoscale Heat Transfer with Applications in Nanoelectronics and 
+Thermoelectrics, University of Houston. 
+67.  March 17, 2005, Nanoscale Heat Transfer with Applications in Nanoelectronics and 
+Thermoelectrics, University of Illinois – Urbana Champaign. 
+68.  March 01, 2005, Nanoscale Heat Transfer with Applications in Nanoelectronics and 
+Thermoelectrics, University of Wisconsin. 
+69.  Feb. 24, 2005, Nanoscale Heat Transfer with Applications in Nanoelectronics and 
+Thermoelectrics, the City College of New York. 
+70.  Feb. 17, 2005, Nanoscale Heat Transfer with Applications in Nanoelectronics and 
+Thermoelectrics, SUNY-Stony Brook. 
+71.  Dec. 20, 2004, Nanoscale Heat Transfer with Applications in Nanoelectronics and 
+Thermoelectrics, Columbia University. 
+ 
+ 
+ 
+
+-----
+ 
+43 
+ 
+TEACHING AND MENTORING 
+ 
+a). Course Taught 
+MCEN 3022 Heat Transfer (Spring 2010, Spring 2011, Fall 2014, Spring 2015, Spring 2016, 
+Fall 2017) 
+MCEN 5042 Heat Transfer (Spring 2007, Spring 2008, Spring 2009, Fall 2010, Fall 2011, Fall 
+2013, Fall 2014, Spring 2017) 
+MCEN 4228/5228 Microscale Heat Transfer (Fall 2006, Fall 2007, Fall 2009, Fall 2013, Fall 
+2015, Fall 2017) 
+MCEN 5228-012 Heat Transfer in Practice (Spring 2014, Spring 2018) 
+ 
+b). Mentoring Activities 
+1) Current Advisees: 
+Post-Doctoral Research Associates: Dongliang Zhao; Rongfu Wen; Puqing Jiang; Arto J. 
+Groehn (co-advised with Alan Weimer in ChemE).  
+PhD Students: Ms. Shanshan Xu, Mr. Xin Qian, Mr. Tianzhu Fan, Mr. Xinpeng Zhao.  
+Undergraduate Students: Siyu Jiang, Cobb Ethan, Dillon Kidd, Mathew Ballinger 
+Visiting Professor: Xu Ji (Yunnan Normal University, China), Congliang Huang (China 
+University of Mining and Technology), 
+Visiting PhD Students:  
+ 
+Biao Wang (Ph.D student in Physics, Tongji University) 
+Xing Lu (Ph.D student in Power and Energy Engineering, Xi’an Jiaotong University) 
+S. Manikandan (Ph.D student in Indian Institute of Technology – Delphi, India) 
+ 
+2). Alumni 
+Ph.D Graduates: 
+Name  
+(time at CU) 
+Role 
+First Job after leaving 
+NEXT  
+Current Position 
+Xiaokun Gu 
+(08/11-10/16) 
+Ph.D student 
+Assistant 
+Professor, 
+Shanghai 
+Jiaotong 
+University 
+Assistant 
+Professor, 
+Shanghai 
+Jiaotong 
+University 
+Suraj J. Thiagarajan 
+(08/08-05/15)  
+Ph.D Student 
+Senior researcher, Aqwest 
+Inc. 
+Senior researcher, Aqwest 
+Inc. 
+Qian Li 
+(08/09-08/14) 
+MS/Ph.D 
+Student 
+ 
+Software Engineer 
+Miao Tian 
+(08/09-04/14) 
+MS/Ph.D 
+Student 
+Associate 
+Professor, 
+Southeast University 
+Associate 
+Professor, 
+Southeast University 
+Jun Liu  
+(08/08-09/13) 
+MS/Ph.D 
+Student 
+Post-Doc at UIUC 
+ with David Cahill 
+Assistant 
+Professor 
+of 
+Mechanical Engineering, 
+North 
+Carolina 
+State 
+University  
+David Makhija  
+(08/08-09/13) 
+MS/Ph.D 
+Student 
+Altair 
+Altair Inc 
+Xiaobo Li  
+(08/07-04/12) 
+Ph.D Student 
+Post-Doc at MIT 
+With Gang Chen 
+Associate 
+Professor, 
+Huangzhong 
+University 
+of 
+Science 
+and 
+
+-----
+ 
+44 
+ 
+Technology 
+Yadong Zhang  
+(08/06- 04/11) 
+Ph.D student 
+Intel 
+Intel 
+Jen-Hau Cheng  
+(08/06-09/10) 
+Ph.D student 
+Bell Labs 
+Bell Labs 
+ 
+M.Sc Graduates: 
+Name 
+(time 
+at 
+CU) 
+Role 
+First Job after leaving 
+NEXT  
+Current Position 
+Shanshan Xu 
+MS/Ph.D 
+student 
+Ph.D Student 
+Ph.D Student 
+Saad Jajja 
+(08/14-05/16) 
+MS. Student 
+Ph.D student in Oregan 
+State Univ 
+ 
+Qian Li 
+(08/09-08/14) 
+MS/Ph.D 
+Student 
+Ph.D Student 
+Ph.D Student 
+Miao Tian 
+(08/09-04/14) 
+MS/Ph.D 
+student 
+Ph.D Student 
+Ph.D Student 
+Jun Liu  
+(08/08-09/13) 
+MS/Ph.D 
+student 
+ 
+Assistant 
+Professor 
+of 
+Mechanical Engineering, 
+North 
+Carolina 
+State 
+University 
+David Makhija  
+(08/08-09/13) 
+MS/Ph.D 
+Student 
+ 
+Altair 
+Suresh 
+Ramanan 
+(01/07-12/09) 
+Master’s 
+student 
+Schlumberger 
+Schlumberger 
+ 
+Post-doctor Research Associates and Visiting Ph.D Students: 
+Name (time at CU) Role 
+First Job after leaving 
+NEXT  
+Current Position 
+Weixue Tian  
+(01/06-09/07)  
+Post-Doc 
+Caterpillar Inc 
+Senior Scientist, 
+Caterpillar, Inc 
+Bin Li  
+(01/07-12/07)  
+Post-Doc 
+Professor 
+of 
+Physics, 
+University 
+of 
+Science 
+and Technology in China  
+Professor 
+of 
+Physics, 
+University of Science and 
+Technology in China 
+Xiaochun 
+Wang 
+(09/07-09/08) 
+Post-Doc 
+Research Scientist, 
+Tsinghua University 
+Associate 
+Professor, 
+Institute of Atomic and 
+Molecular 
+Physics, 
+Jilin 
+University, 
+Changchun, 
+China 
+Dae Up Ahn  
+(01/08-06/09) 
+Post-Doc 
+Post-Doc at CU-Boulder, 
+with another professor 
+Nexans Research Center 
+(Korea) 
+Jun Zhou 
+(04/09-04/12) 
+Post-Doc 
+Professor 
+of 
+Physics, 
+Tongji University 
+Professor of Physics, Tongji 
+University 
+Yuanyuan Wang 
+(10/10-04/12) 
+Post-Doc 
+Associate 
+Professor, 
+Shanghai 
+Second 
+Associate 
+Professor, 
+Shanghai 
+Second 
+Polytechnic University 
+
+-----
+ 
+45 
+ 
+Polytechnic University 
+Wei Wang 
+(08/08-07/12) 
+ 
+Post-Doc 
+Associate 
+Professor, 
+Ninbo Materials Institute, 
+Chinese 
+Academy 
+of 
+Sciences 
+Associate Professor, Ninbo 
+Materials Institute, Chinese 
+Academy of Sciences 
+Jiafeng Wu 
+(03/11-12/12) 
+Post-Doc 
+Associate Professor of 
+Thermal 
+and 
+Power 
+Engineering, 
+Southeast 
+University 
+Associate 
+Professor 
+of 
+Thermal 
+and 
+Power 
+Engineering, 
+Southeast 
+University 
+Jianming Chen 
+(09/13-07/14) 
+Post-Doc 
+ 
+Research Scientist, Institute 
+of 
+Chemistry, 
+Chinese 
+Academy of Sciences 
+David Geb 
+(10/13-09/14) 
+Post-Doc 
+Senior Engineer 
+ANSYS Inc. 
+Senior Engineer 
+ANSYS Inc. 
+ 
+ 
+ 
+ 
+Liang-Chun Liu 
+ (09/07-09/08) 
+Visiting Ph.D 
+student 
+Ph.D student at National 
+Taiwan University 
+Applied Materials Inc. 
+Jie Zhu  
+(02/09-09/10) 
+Visiting Ph.D 
+student 
+Ph.D Student at the 
+Chinese Academy of 
+Science. 
+Research Scientist at the 
+Institute 
+of 
+Engineering 
+Thermophysics, 
+Chinese 
+Academy of Science. 
+Jose Ordonez  
+(06/10-06/11) 
+Visiting Ph.D 
+student 
+Post-Doc 
+at 
+Ecole 
+Central Paris 
+Research Scientist at Ecole 
+Central Paris 
+Dan Li  
+(09/09-09/11) 
+Visiting Ph.D 
+student 
+Ph.D Student at Peking 
+University 
+Ph.D Student at Stanford 
+University 
+Gensheng Wu 
+(09/10-09/12) 
+Visiting Ph.D 
+student 
+Ph.D student at Southeast 
+University 
+Associate 
+Professor, 
+Southeast University 
+ 
+Visiting Professors 
+Name (time at CU) Role 
+Job 
+before 
+joining 
+NEXT  
+Current Position 
+Jianhong Gong 
+(04/2015-03/2016) 
+Visiting 
+Professor 
+Associate 
+Professor, 
+Shangdong 
+University-
+Weihai 
+Associate 
+Professor, 
+Shangdong 
+University-
+Weihai 
+Yangbo Deng 
+(09/2014-09/2015) 
+Visiting 
+Professor 
+Professor, 
+Dalian 
+Maritime University 
+Professor, Dalian Maritime 
+University 
+Yujie Wei 
+(09/2011-05/2012) 
+Visiting 
+Professor 
+Professor, 
+Institute 
+of 
+Mechanics, 
+Chinese 
+Academy of Sciences 
+Professor, 
+Institute 
+of 
+Mechanics, 
+Chinese 
+Academy of Sciences 
+Xiaofeng Peng 
+(07/2009-08/2009) 
+Visiting 
+Professor 
+Professor, 
+Thermal 
+Engineering, 
+Tsinghua 
+University 
+Professor 
+(deceased), 
+Thermal 
+Engineering, 
+Tsinghua University  
+ 
+ 
+
+-----
+ 
+46 
+ 
+ 
+ 
+ 
+Undergraduate Students and Visiting MS/BS Students: 
+•  Miss. Christini Martini, August 2015-December 2016, Department of Mechanical 
+Engineering, University of Colorado, Boulder, Project: Development of Single Phase 
+Thermosiphons.  
+•  Mr. Carlos Arau Lopez de Sagredo, February-July 2016, Balsells International Mobility 
+Program, 
+Universitat Politècnica 
+de Catalunya, 
+Spain, 
+Project: 
+Thermal 
+conductivity measurement. 
+•  Mrs. Itza Beltran, June-August 2015, SMART Fellow, Department of Mechanical 
+Engineering, University of Central Florida, Project: The effect of water charging amount on 
+the performance of thermal ground planes. 
+•  Mr. Nicolas Pinkowski, August 2014-May 2015, DLC Apprentice, Department of 
+Mechanical Engineering, University of Colorado, Boulder, CO, Project:  Vacuum-enhanced 
+heat spreaders. 
+•  Mr. Arthur Zhong, June 2012-June 2014, Cornell University / University of Colorado,  
+•  Mr. Kent Kurashima, June-August 2014, SMART Fellow, Department of Mechanical 
+Engineering, San Diego State University, Project: Liquid charging system for thermal 
+ground planes. 
+•  Mr. Fufan Yang, February-May 2014, International Internship, School of Aerospace, 
+Tsinghua University, Project: Reaction Heat Absorption Heat Pump 
+•  Mr. Yizhan Chai, February-May 2014, International Internship, School of Aerospace, 
+Tsinghua University, Project: Contact Angle Measurement for Nanostructured Surfaces 
+•  Mr. Sichang Liu, June-August 2013, International Internship, School of Materials Science 
+and Engineeirng, Tsinghua University, Project: Fabrication of Nanostructured Surfaces. 
+•  Mr. John Goblirsch, http://www.linkedin.com/in/johngoblirsch, March 2010 – May 
+2013,  MS/BS (2013/2011) in Mechanical Engineering and BS in Applied Math, University 
+of Colorado at Boulder, Research Area: Functionalized Micro/Nano-Structures for Pool 
+Boiling Heat Transfer. 
+•  Mr. 
+Benoit Latour, 
+Current 
+Position: Ph.D Student 
+with 
+Professor 
+Sebastian Volz at Ecole Central Paris, (February 2011-August 2011, MS/BS Student 2006-
+2012, Ecole Central Paris, France, Research Area: Functionalized Micro/Nano-Structures 
+for Pool Boiling Heat Transfer) 
+•  Mr. 
+Eli Kuhlmann, 
+http://www.linkedin.com/pub/eli-kuhlmann/26/4a2/984, 
+Current 
+Position: HGST, a Western Digital Company (May 2011 – May 2012, Research Area: 
+Optical Characterization of Nanoscale Heat Transport) 
+•  Mr. Jeffrey Pilkman, August 2011-May 2012, DLC Apprentice, Department of Mechanical 
+Engineering, University of Colorado, Boulder, CO, Project:  Micro/Nano-Structured Surface 
+for Thermal Management of High Power Electronics. 
+•  Kristopher W. Holub, August 2010-May 2011, DLC Apprentice, Department of Mechanical 
+Engineering, University of Colorado, Boulder, CO, Project:  Micro/Nano-Structured Surface 
+for Thermal Management of High Power Electronics. 
+•  Scott R. Johnson, BS/MS student, Summer Research and Fall UROP 2006. 
+•  Charles Oclassen, BS/MS student, Summer REU project for NSF EUV ERC, Summer 2006. 
+
+-----
+ 
+47 
+ 
+•  Brian Rhode, Summer Research Student, Summer 2006 
+ 
+3). Student Awards 
+1.  Tingyu Lu (advisee of Jun Zhou), Second Prize of Best Poster Awards, International 
+Conference on Phononics and Thermal Energy Systems, May 2016, Xi’an, China. 
+2.  Ms. Shanshan Xu, Best Poster Award, ASME-wide Micro/Nano Forum, ASME/IMECE 
+2015 in Houston, TX. 
+3.  Mr. Nicolas Pinkowski, Best Poster Award in Mechanical Engineering Systems category for 
+Engineer College’s Discovery Learning Symposium, April 2015.  
+4.  Mr. Xiaokun Gu, Teets Family Endowed Fellowship (two years from May 2015), from 
+College of Engineering and Applied Physics, University of Colorado, Boulder, April 2015. 
+5.  Qian Li, Mechanical Engineering Graduate Student of the Month, June 2014, CU-Boulder. 
+6.  Tingyu Lu (advisee of Jun Zhou), Third Prize of Best Poster Awards, International 
+Conference on Phononics and Thermal Energy Systems, May 2014, Shanghai, China. 
+7.  Jun Liu, Best Dissertation Award from College of Engineering and Applied Physics in 
+2013-2014 (One out of 80 PhD Graduates), University of Colorado, Boulder.  
+8.  Jun Liu, the Third Place Prize of NSF student poster competition in ASME/IMECE 2013 in 
+San Diego, CA.  
+9.  Jun Liu, NSF Travel Award for attending ASME/IMECE 2013 in San Diego, CA. 
+10.  Xiaokun Gu, NSF Travel Award for attending ASME/IMECE 2013 in San Diego, CA. 
+11.  Qian Li, NSF Travel Award for attending ASME/IMECE 2013 in San Diego, CA. 
+12.  Miao Tian, NSF Travel Award for attending ASME/IMECE 2013 in San Diego, CA. 
+13.  Jose Ordonez, IPPA Junior Prize 2013, the International Photoacoustic and Photothermal 
+Association (IPPA).  
+14.  Jun Liu, Best Presentation of The Day Award for Graduate Engineering Annual Research & 
+Recruitment Symposium (GEAR2S), Universityof Colorado at Boulder, 2013. 
+15.  Qian Li, Best presentation of Fluid/Thermal/MEMS section in Graduate Engineering 
+Annual Research & Recruitment Symposium (GEAR2S), University of Colorado at Boulder, 
+2013 
+16.  Jose Ordonez, National Prize for Best Dissertation in Natural Sciences, Mexico, 2012.  
+17.  Jun Liu, the First Place Prize of NSF CBET/CMMI student poster competition in 
+ASME/IMECE 2012. 
+18.  Xiaokun Gu, the Second Place Prize of NSF CBET/CMMI student poster competition in 
+ASME/IMECE 2012. 
+ 
+19.  Xiaokun Gu, NSF Travel Award for attending ASME/IMECE 2012 in Houston, TX. 
+20.  Jun Liu, NSF Travel Award for attending ASME/IMECE 2012 in Houston, TX. 
+21.  Miao Tian, May 2012, Mechanical Engineering Graduate Student of the Month, CU-
+Boulder. 
+22.  Jun Liu, March 2012, “Most Excited Molecules” for his presentation at 12th GEAR2S 
+Conference, Mechanical Engineering, CU-Boulder. 
+23.  Christopher Oshman, Qian Li, Li-Anne Liew, Ronggui Yang, Yung-Cheng Lee, Victor M. 
+Bright “Development of Flexible Thermal Ground Planes,” DARPA/iMINT Center Best 
+Poster Award (1 out of 3 from a total of 30), November 2011. 
+24.  Yadong Zhang, May 2011, Outstanding Ph.D Dissertation Award in Mechanical 
+Engineering, CU-Boulder.  
+
+-----
+ 
+48 
+ 
+25.  Xiaobo Li, September 2010, Mechanical Engineering Graduate Student of the Month, CU-
+Boulder. 
+26.  Jun Liu, February 2010, Mechanical Engineering Graduate Student of the Month, CU-
+Boulder. 
+27.  Qing Li , Mark Siemens , Ronggui Yang , Keith Nelson, Erik Anderson , Margaret Murnane 
+, Henry Kapteyn, Quasi-ballistic thermal transport from a nanoscale hotspot observed using 
+ultrafast coherent extreme ultraviolet beams, Fall 2009 Meeting of the Four Corners Section 
+of the APS, Best Presentation Award, Golden, CO, October 23-24, 2009. 
+28.  Mark Siemens, 2009 National Research Council Postdoctoral Fellowship. 
+29.  Yadong Zhang, October 2009, Mechanical Engineering Graduate Student of the Month, 
+CU-Boulder. 
+30.  Jen-Hau Cheng, August 2009, Mechanical Engineering Graduate Student of the Month, CU-
+Boulder. 
+31.  Wei Wang, Dae Up Ahn, Chen Li, Victor Bright, Y. C. Lee and Ronggui Yang, Fabrications 
+of Nanowire Arrays for Emerging Energy Application, DARPA/iMINT Center First Prize 
+Best Poster Award (1 out of 2 from a total of 30), March 2009. 
+32.  Chris Oshman, Bo Shi, Chen Li, Ronggui Yang, Y. C. Lee and Victor Bright, A New 
+Direction in Cooling Photovoltaics, DARPA/iMINT Center Second Prize Best Poster 
+Award (1 out of 3 from a total of 30), March 2009. 
+33.  Jun Liu, Best Graduate Teaching Assistant (TA) award of 2008-2009 academic year, 
+Department of Mechanical Engineering. 
+34.  Dave Makhija, Best Presentation of the First Year Graduate Students, 9th GEARS 
+Conference, Department of Mechanical Engineering. 
+35.  Suraj Joottu Thiagarajan, Engineering Dean’s Research Assistantship (RA paid by the Dean 
+for a semester, 1 out of 7 total awarded in 2008 in the college.), 2008. 
+36.  Dave Makhija, Engineering Dean’s Research Assistantship (RA paid by the Dean for a 
+semester, 1 out of 7 total awarded in 2008 in the college.), 2008.  
+37.  Yadong Zhang, Travel Fellowship for attending the 2008 SID Display Seminar and 
+Exhibition, Society for Information Display, May 2008. 
+38.  Yadong Zhang, David miller, J. Bertrand, Ronggui Yang, Martin L. Dunn, Steven M. 
+George, and Y.C. Lee,  et al, ‘Visualization of Defects and Cracks in Atomic Layer 
+Deposition-base Barrier Coatings,” DARPA/iMINT Center Best Poster Award (1 out of 3 
+from a total of 30), March 2008. 
+39.  Bo Shi, Victor M. Bright, Ronggui Yang, G.P. Peterson, Keith Peterson, and Chen Li, 
+“Thermal Modeling and Design of Flexible Thermal Ground Plane,” DARPA/iMINT 
+Center Best Poster Award (1 out of 3 from a total of 30), March 2008. 
+40.  Weixue Tian, Jen-Hau.Cheng, Scott R. Johnson, Y.C. Lee, Victor Bright, and Ronggui 
+Yang, ‘Photonic Crystal enabled Micro Heat Pipe Arrays and Micro Capillary Pumped 
+Loops,” DARPA/iMINT Center Best Poster Award (1 out of 3 from a total of 25), March 
+2007. 
+ 
+4). Member of Ph.D Thesis Committee for  
+Ms. Kathleen Hoogeboom-Pot (Professor Margaret Murnane’s Group in JILA/Physics) 
+Ms. Staci Van Norman (Professor Al Weimer's Group of ChemE) 
+Mr. Darwin Arifin (Professor Al Weimer's Group of ChemE) 
+Mr. Zheng Zhang (Professor Yifu Ding's Group) 
+
+-----
+ 
+49 
+ 
+Mr. Liang Wang (Professor Yifu Ding's Group) 
+Mr. Collin Coolidge (Professor YC Lee's group) 
+Ms. Daniela M. Piper (Professor Sehee Lee’s Group) 
+Mr. Jaeha Woo (Professor Sehee Lee’s Group) 
+Ms. Qing Li (Professor Margaret Murnane’s Group in JILA/Physics) 
+Mr. Mike Simons (Professor Victor Bright’s Group) 
+Mr. Christopher Oshman (Professor Victor Bright’s Group) 
+Mr. Ryan Lewis (Professor YC Lee’s Group) 
+Mr. Mark Siemens (Professor Margaret Murnane’s Group in JILA/Physics) 
+Mr. Mu-Hong "Martin" Lin (Professor YC Lee’s Group) 
+Mr. Ric Chuang (Professor Victor Bright’s Group) 
+Mr. Alexander Laws (Professor YC Lee’s Group) 
+Mr. Thomas Yersak (Professor Sehee Lee’s group) 
+Mr. Boris Chubukov (Professor Al Weimer’s group of Chemical Engineering) 
+Mr. Alexander S. Yersak (Professor YC Lee’s group) 
+ 
+
+-----
+ 
+50 
+ 
+PROFESSIONAL SERVICES 
+ 
+a). Technical Committees 
+07/2015 – 06/2017, Chair, K-9 Technical Committee on Nanoscale Thermal Transport, ASME 
+Heat Transfer Division. 
+12/2014 – 12/2016, Chair, Nanoengineering for Energy and Sustainability (NEES) Steering 
+Committee, ASME Nanoengineering Council (also known as ASME Nanotechnology 
+Institute). 
+2013 - present, Committee Member, ASME K-7 & AICHE Joint Technical Committee on 
+Thermophysical Properties, ASME Heat Transfer Division & AICHE. 
+2012 – 06/2015, Founding Vice Chair, K-9 Technical Committee on Nanoscale Thermal 
+Transport, ASME Heat Transfer Division. 
+2012 – 06/2014, Vice Chair, Nanoengineering for Energy and Sustainability (NEES) Steering 
+Committee Member, ASME Nanoengineering Council. 
+2009 - 2013, Committee Member, K-8 Technical Committee on Fundamentals and Theory of 
+Heat Transfer, ASME Heat Transfer Division. 
+2009 – 2012, Committee Member, Nanoengineering for Energy and Sustainability Steering 
+Committee (NEES), ASME Nanoengineering Council. 
+2006 – 2009, Committee Member, Nanoscale Transport Phenomena, ASME Nanotechnology 
+Institute. 
+2006 - 2009, Committee Member, K-15 Technical Committee on Thermal Transport in 
+Manufacturing, ASME Heat Transfer Division. 
+ 
+b). Journal Editor  
+•  2016-      present,  Associate Editor, Journal of Heat Transfer, published by ASME. 
+•  2016-      present  Associate Editor, Heat Transfer Research, published by Begell House. 
+•  2014-  2016, Guest Editor (in charge of Invited Topical Reviews), ASME Journal of 
+Electronic Packaging.     
+•  2014- present, Editorial Board Member, Scientific Reports, published by Nature Publishing 
+Group. 
+•  2006-2008, Co-Guest Editor for a special issue on “Nanoscale Heat Transfer” in Journal of 
+Computational and Theoretical Nanoscience, Published in February 2008, American 
+Scientific Publishers.     
+ 
+c). Conference Recently Organized/Co-Organized 
+•  Track Organizer for “Nanoscale Thermal Transport”, ASME Summer Heat Transfer 
+Conference, Washington DC, July 2016. (responsible for reviewing and sorting about 80 
+abstracts submitted to this track and recruit session chairs) 
+•  Topic Co-Organizers, Topic 13-13 NEES Panel on Nanoengineering for Sustainability and 
+Water, ASME International Mechanical Engineering Conference and Exhibitions (ASME 
+IMECE), Houston, TX, Nov. 13-19, 2015. 
+•  Topic Co-Organizers, Topic 10-9 Fundamentals of Boiling and Phase Change Heat Transfer 
+including Nanoscale Effects, ASME International Mechanical Engineering Conference and 
+Exhibitions (ASME IMECE), Houston, TX, Nov. 13-19, 2015. (responsible for reviewing 
+and sorting about 15 abstracts submitted to this topic and recruit session chairs) 
+
+-----
+ 
+51 
+ 
+•  Topic Co-Organizers, Topic 10-13 Nanoscale Heat Conduction, ASME International 
+Mechanical Engineering Conference and Exhibitions (ASME IMECE), Houston, TX, Nov. 
+13-19, 2015. (responsible for reviewing and sorting about 60 abstracts submitted to this 
+track and recruit session chairs). 
+•  Session Organizer, Energy Conversion (3 sessions), First Thermal and Fluids Engineering 
+Conference, American Society of Thermal and Fluids Engineers, The Roosevelt Hotel in 
+New York, August 9-12, 2015 
+•  Topic Co-Organizer, Five sessions on Thermal Properties of Nanostructured Materials, the 
+19th ASME/AICHE/NIST Symposium on Thermophysical Properties, Boulder, CO, June 
+21-26, 2015. (responsible for reviewing and sorting about 25 abstracts submitted to this 
+topic and recruit session chairs) 
+•  Conference Co-Chair, The 9th International Conference on Boiling and Condensation Heat 
+Transfer, Boulder, CO, USA, April 26-30, 2015. 
+•  Chair, ASME-Wide Micro and Nano Forum, ASME International Mechanical Engineering 
+Conference and Exhibitions (ASME IMECE), Montreal, Canada, Nov. 14-20, 2014,  
+•  Co-Organizer, ASME Workshop on Scalable Nanomanufacturing: Benchmarks, Standards, 
+and Metrics, Buffalo-Niagara Convention Center, Buffalo, NY, USA, August 17, 2014.  
+•  Chair, Best Poster Award Committee, the 2nd International Conference on Phononics and 
+Thermal Energy Science, Tongji University, Shanghai, China, May 26-31, 2014. 
+•  Session Chair, the 2nd International Conference on Phononics and Thermal Energy Science, 
+Tongji University, Shanghai, China, May 26-31, 2014. 
+•  Track Co-Chair, Track #9 Thermal Metrology at Micro/Nanoscales, The 4th ASME 
+Micro/Nanoscale Heat & Mass Transfer International Conference (MNHMT-13), The 
+University of Hongkong, Hongkong, China, December 11 – 14, 2013 
+•  Co-Chair, 
+ASME-Wide 
+Micro 
+and Nano Forum, ASME 
+International 
+Mechanical 
+Engineering Conference and Exhibitions (ASME IMECE), San Diego, CA, Nov. 2013.  
+•  Topic Co-Organizers, Nanoengineering for Energy and Sustainability,  ASME International 
+Mechanical Engineering Conference and Exhibitions (ASME IMECE), San Diego, CA, 
+Nov. 2013. 
+•  Topic Organizer, Nanoscale Thermal Transport (15 Technical Sessions), ASME IMECE, 
+San Diego, CA, Nov. 2013. 
+•  Topic Co-Organizers, Nanoengineering for Energy and Sustainability, (Session Chair or Co-
+Chair of 6 technical sessions in this topic under 10-4, managed the review for 28 abstracts), 
+ASME IMECE, Houston, TX, Nov 11-15, 2012. 
+•  Topic Organizer with two Co-Organizers, Fundamentals of Nanoscale Heat Transport, 
+(Session Chair or Co-Chair of 7 technical sessions in this topic under 7-3, managed the 
+review for 40 abstracts and 25 full papers), ASME IMECE, Houston, TX, Nov 11-15, 2012. 
+•  Topic Organizer with two Co-Organizers, Fundamentals of Phase-Change Heat Transport, 
+(Session Chair or Co-Chair of 7 technical sessions in this topic under 7-3, managed the 
+review for 40 abstracts and 20 full papers), ASME IMECE, Houston, TX, Nov 11-15, 2012. 
+•  Topic Co-Organizer (managed the review for 42 abstracts, chaired 2 out of 7 technical 
+sessions organized), Thermal Properties of Nanostructured Materials, the 18th 
+ASME/AICHE/NIST Symposium on Thermophysical Properties, Boulder, CO, June 24-29, 
+2012. 
+
+-----
+ 
+52 
+ 
+•  Track Co-Organizer, Track #4 Nanoengineering for Energy and Sustainability (6 technical 
+sessions), ASME IMECE, Denver, CO, November 2011. 
+•  Topic Co-Organizer, Fundamentals of Nanoscale Heat Transport (12 technical sessions), 
+ASME IMECE, Denver, CO, November 2011. 
+•  Topic Organizer, Fundamentals and Applications of Phase-Change Heat Transport (7 
+technical sessions), ASME IMECE, Denver, CO, November 2011. 
+•  Track Co-Organizer, Track #6 Nanoengineering for Energy, ASME International 
+Mechanical Engineering Conference and Exhibitions, 2010. 
+•  Topic Co-Organizer, Topic #25 Thermal Properties of Nanostructured Materials (8 technical 
+sessions), the 17th ASME/AICHE/NIST Symposium on Thermophysical Properties, 
+Boulder, CO, June 21-26, 2009. 
+•  Topic Organizer, Topic 9-1 Transport Phenomena in Materials Processing and 
+Manufacturing 2008 ASME Summer Heat Transfer Conference, Jackonsville, Florida, 
+August 10-14, 2008. 
+•  Program Committee Member, the 2nd ASME Integration & Commercialization of Micro & 
+Nanosystems International Conference & Exhibition, June 2008, Hong Kong. 
+•  Track Organizer, Track #5 Nano/Micro-scale Thermal Transport and Integrated System 
+Applications, the 2nd ASME Integration & Commercialization of Micro & Nanosystems 
+International Conference & Exhibition, Hongkong, June 2008,  
+•  Session Chair, Session 5-3 Nano/Micro-Enabled Enery Systems, the 2nd Integration & 
+Commercialization of Micro & Nanosystems International Conference & Exhibition, ASME 
+Nano-Institute, Hongkong, June 2008,.  
+•  Session Chair, Session 8 Solid-Liquid Interface, the 6th US-Japan Joint Seminar on 
+Nanoscale Transport Phenomena - Science and Engineering, Radisson Hotel, Boston, MA, 
+July 13-16, 2008. 
+•  Session Chair, Micro/Nanoscale Energy Transport Poster Session, International Conference 
+on Integration and Commercialization of Micro- and Nanosystems, Sanya, Hainan, China, 
+January 10 - 13, 2007 
+•  Session Chair, Properties at the Nanoscale 2 – Thermal Properties of Nanoscale Materials, 
+16th Symposium on Thermophysical Properties, Boulder, CO, July 30-Aug. 04, 2006 
+•  Session Chair, Nanomaterials Poster Session, Energy Nanotechnology International 
+Conference, ASME Nano-Institute, MIT, MA, June 25-28, 2006. 
+•  Session Chair, Session 1-1 and 1-2, Design and Modeling of Nanocomposites, 
+Multifunctional NANOcomposites 2006 International Conference, ASME Nano-Institute, 
+Honolulu, Hawaii, Sept. 20-22, 2006. 
+•  Local Organizer, 15th U.S. National Congress on Theoretical and Applied Mechanics, 
+Boulder, CO, June 25-30, 2006. 
+ 
+d). Proposal Review Panelist/Reviewer for Federal and Private Funding Agencies  
+•  Review Panelist, NSF/CBET Thermal Transport Program, Arlington, VA, 2006-present.  
+•  Review Panelist, NSF/CMMI Nanomanufacturing Program, Arlington, VA, 2008-present 
+•  Review Panelist, NSF/ECCS Energy, Power, Control and Network, Arlington, VA, 2010-
+present 
+•  Review Panelist, NSF/Sandia National Laboratories Program, Albuquerque, NM, June 29, 
+2006. 
+
+-----
+ 
+53 
+ 
+•  Review Panelist, NSF – NIRT Proposals, Arlington, VA, March 1-2, 2006. 
+•  Proposal Review, NSF/DOE Vehicle Thermoelectric Program, Summer 2010.  
+•  Proposal Reviewer, NSF, February 2006 ~  
+•  Proposal Reviewer, Department of Energy, March 2007 ~   
+•  Proposal Reviewer, Air Force Office of Scientific Research, August 2008- 
+•  Proposal Reviewer, Army Research Office, October 2010- 
+•  Proposal Reviewer, U.S. Civilian Research and Development Foundation, 2007~ 
+•  Proposal Reviewer, American Chemical Society Petroleum Research Fund, March 2006 ~ 
+•  Proposal Reviewer, Kentucky Science and Engineering Foundation, November 2006 
+•  Proposal Reviewer, Research Award Program, City University of New York, 2008- 
+•  Proposal Reviewer, Global Climate and Energy Project (GCEP), Stanford University, 2008-  
+•  Proposal Referee, European Research Council, 2009-2013 (appointed by ERC President 
+Fotis C. Kafatos) 
+ 
+e). Referee for Journal Manuscripts (Partial List) 
+     Interdisciplinary and Nanotechnology Journals: 
+Science (2006~); Nature (2007~); Nature Nanotechnology (2009~); Nature Materials 
+(2006~); Nature Communications (2012~); Physical Review Letters (2005~ ); 
+Physical Review B (2005~ ); Nano Letters (2005~ ); ACS Nano (2010~); Applied 
+Physics Letters (2004~ ); Journal of Applied Physics (2005~ ); Physics Letters A 
+(2005~); Journal of Physics D: Applied Physics (2006~); Nanotechnology (2006~ ); 
+IEEE Transactions on Electronic Devices (2006~); Superlattices and Microstructures 
+(2003~ ); Journal of Computational and Theoretical Nanoscience (2006 ~ ); Journal 
+of Electronic Materials (2007~ ); Computational Physics Communications (2007~ ); 
+Journal of Microengine and Micromechanics (2007~ ); Journal of Physics and 
+Chemistry of Solids (2008~); Review of Scientific Instruments (2008~); IEEE 
+Transactions on Very Large Scale Integration Systems (2008~), IEEE Transactions 
+on Electronic Devices (2007-), IEEE/ASME Journal of MicroElectroMechanical 
+Systems (2008~), Nano Research Letters (2008~), Journal of Solid-State Chemistry 
+(2009~), Measurement Science and Technology (2009~), Computer Modeling in 
+Engineering and Sciences (2009~), Nanoscale (2012~) ACS Nano (2010~),  Journal 
+of Physical Chemistry (2010~); Carbon (2010~); AIP Advances (2011~); Composite 
+Science and Technology (2012~); Chemistry of Materials (2013~); Materials 
+Research Express (2014~) 
+ 
+    Heat Transfer and Energy Journals: 
+ASME Journal of Heat Transfer (2002~ ); International Journal of Heat and Mass 
+Transfer (2005~); Nanoscale/Microscale Thermophysical Engineering (2004~ ); 
+AIAA Journal of Thermophysics and Heat Transfer (2006 ~ ); International Journal 
+of Thermophysics (2006~ ); International Journal of Thermal Sciences (2009~); 
+Energy Conversion and Management (2004~ ); Applied Thermal Engineering 
+(2005~ ); Microfluidics and Nanofluidics (2007~); IEEE Transactions on 
+Components and Packaging Technologies (2006~); HVAC&R Research Journal 
+(2008~); Heat Transfer Engineering Journal (2007~) 
+      
+     Book Proposal Reviewer for John Wiley & Sons, UK. 
+
+-----
+ 
+54 
+ 
+f). Conference Manuscript Reviewer:  
+ASME/JSME Joint Thermal Engineering Conference, 2003, 2011 (AJTE 2003/2011). 
+ASME International Mechanical Engineering Conference and Exhibitions (IMECE 2002, 
+2004, 2006-2015). 
+ASME Summer Heat Transfer Conference (2005, 2006, 2007, 2008, 2009, 2012, 2013, 
+2014). 
+The ASME/Pacific Rim Technical Conference and Exhibition on Integration and 
+Packaging of MEMS, NEMS, and Electronic Systems (InterPACK 2005, 2007, 2009, 
+2011, 2013). 
+ASME Multifunctional NANOcomposites International Conference (MN06, MN 07) 
+The 15th International Heat Transfer Conference (IHTC-15), Kyoto, Japan, 2014.  
+The 14th International Heat Transfer Conference (IHTC-14), Washington, DC, 2010.  
+The 13th International Heat Transfer Conference (IHTC-13), Sydney, Australia, 2006.  
+The 36th SAE International Conference on Environmental Systems (ICES), 2006. 
+Proceedings of MRS Fall Meetings and Spring Meetings, 2003-2014 
+ASME Energy Nanotechnology International Conference(ENIC06), 2006, 2008 
+ASME International Conference on Integration and Commercialization of Micro- and 
+Nanosystems (MicroNano 2007, 2008) 
+ASME Micro/Nanoscale Heat Transfer Int. Conference (MNHT08), Taiwan, January 
+2008. 
+ 
+g). Outreach Activities (PreK-12 Schools, Program, and Organization): 
+2013-2015, School Principle, Bohua Chinese School (offering Chinese classes taught in English 
+and in Chinese, and extracurricular culture classes, for about 300 K-9 grade students). 
+2012-2013, School Council Member (in Charge of Faculty Recruitment and Training, of ~20 
+Chinese Teachers), Bohua Chinese School. 
+2012-2015, Judge and Volunteer Counselor, Science Fair, Summit Middle School, BVSD. 
+2009-2013, Judge, Science Fair, High Peaks Elementary School, BVSD. 
+2011-2012, Volunteer Teacher, Math Olympiad, High Peaks Elementary School, BVSD. 
+ 
+ 
+
+-----
+ 
+55 
+ 
+UNIVERSITY SERVICES 
+ 
+Reverse Chronical List of my Services to the Department of Mechanical Engineering 
+•  Graduate Committee, Department of Mechanical Engineering, Fall 2016 – Spring 2017 
+•  Faculty Search Committee, Department of Mechanical Engineering, Fall 2015 – Spring 
+2016. 
+•  Faculty Search Committee, Department of Mechanical Engineering, Fall 2014 – Spring 
+2015. 
+•  Executive Committee, Department of Mechanical Engineering, Fall 2014. 
+•  Strategic Planning Committee, Department of Mechanical Engineering, Fall 2014. 
+•  Personnel Committee, Department of Mechanical Engineering, Fall 2013 - Summer 2014 
+•  Faculty Search Committee, Department of Mechanical Engineering, Fall 2011 - Spring 2012 
+•  Undergraduate Committee, Department of Mechanical Engineering, Fall 2011 – Spring 
+2012 
+•  Undergraduate Committee, Department of Mechanical Engineering, Fall 2010 – Spring 
+2011 
+•  Graduate Committee, Department of Mechanical Engineering, Fall 2009 – Spring 2010 
+•  Graduate Committee, Department of Mechanical Engineering, Fall 2008 – Spring 2009 
+•  Graduate Committee, Department of Mechanical Engineering, Fall 2007 – Spring 2008 
+•  Graduate Committee, Department of Mechanical Engineering, Fall 2006 – Spring 2007 
+•  Chair of Departmental Seminars, Department of Mechanical Engineering, Fall 2007 – 
+Spring 2009 
+ 
+Reverse Chronical List of my Services to the College of Engineering and Applied Sciences 
+and the University 
+•  Member, Faculty Research Committee, College of Engineering (led by Associate Dean for 
+Research, Professor Scott Palo), Fall 2015 – present. 
+•  Member, College-wide Committee for Colorado Nanofabrication Labs (CNL), Fall 2015 - 
+present. 
+•  Faculty Fellow, Materials Science and Engineering Program, Fall 2012 – present. 
+•  Faculty Affiliate, CU/NREL Renewable and Sustainable Energy Institute (RASEI) Fall 
+2009 – present 
+•  Member, Task Force for Campus Materials Initiative, Fall 2010-Spring 2012 
+•  Dean's Blue Ribbon Committee-Major Proposals, Summer 2012 
+•  APPM Review Subcommittee, College of Engineering and Applied Sciences, Fall 2010 – 
+Spring 2011 
+•  Reviewer for Undergraduate Research Opportunities Program (UROP) Proposals. 
+•  Reviewer for CU Innovation Seed Grant program.  
+ 
+
+-----

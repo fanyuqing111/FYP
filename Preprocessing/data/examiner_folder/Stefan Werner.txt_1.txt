@@ -1,0 +1,653 @@
+List of Publications, January 2017 (Stefan Werner)
+A. Peer-
+reviewed
+scientific
+articles
+A1. Journal article (refereed), original research
+[53] P. Mathecken, T. Riihonen, S. Werner, R. Wichman, ”Constrained phase noise es-
+timation in OFDM using scattered pilots without decision feedback,” IEEE Trans-
+actions on Signal Processing, Jan. 2016 (In press).
+[52] E. Antonio-Rodr´
+ıguez, S. Werner, R. L´
+opez-Valcarce, T. Riihonen, R. Wichman,
+“Wideband full-duplex MIMO relays with blind adaptive self-interference cancella-
+tion,” Signal Process., vol. 130, pp. 74–85, Jan. 2017.
+[51] R. Arablouei, K. Dogan¸
+cay, S. Werner, Y.-F. Huang, “On the asymptotic bias of
+the diffusion-based distributed Pareto optimization,” Signal Process., vol. 130, pp.
+337–342, Jan. 2017.
+[50] S. Werner, J. Lund´
+en, “Smart load tracking and reporting for real-time metering
+in electric power grids,” IEEE Transactions on Smart Grid, vol. 7, pp. 1723–1731,
+May 2016.
+[49] P. Mathecken, T. Riihonen, S. Werner, R. Wichman, ”Phase noise estimation in
+OFDM: Utilizing its associated spectral geometry,” IEEE Transactions on Signal
+Processing, vol. 64, pp. 1999–2012, April 2016.
+[48] F. Chierchie, J. Cousseau, E. Paolini, S. Werner, ”Mitigation of pulse-width-modulation
+distortion using a digital predistorter based on memory polynomials,” Signal Pro-
+cessing, vol. 120, pp. 562–571, March 2016.
+[47] R. Arablouei, S. Werner, K. Dogan¸
+cay, Y.-F. Huang, “Analysis of a reduced-
+communication diffusion LMS algorithm,” Signal Processing, vol. 117, pp. 355–361,
+December 2015.
+[46] R. Arablouei, K. Dogan¸
+cay, S. Werner, “On the mean-square performance of the
+constrained LMS algorithm,” Signal Processing, vol. 117, pp. 192–197, December
+2015.
+[45] R. Arablouei, K. Dogan¸
+cay, S. Werner, “Recursive total least-squares algorithm
+based on the inverse power method and the dichotomous coordinate-descent iter-
+ations,” IEEE Transactions on Signal Processing, vol. 63, pp. 1941–1949, April
+2015.
+[44] R. Arablouei, K. Dogan¸
+cay, S. Werner, “Adaptive frequency estimation of three-
+phase power systems,” Signal Processing, vol. 109, pp. 290–300, April 2015.
+[43] N. Kashyap, S. Werner, Y.-H. Huang, T. Riihonen, “Power system state estimation
+under incomplete PMU observability – A reduced-order approach,” IEEE Journal
+of Selected Topics in Signal Processing, Special Issue on Signal Processing in Smart
+Electric Power Grid, vol. 8, pp. 1051–1062, December 2014.
+[42] R. Arablouei, K. Dogan¸
+cay, S. Werner, Y.-F. Huang, “Adaptive distributed esti-
+mation based on recursive least-squares and partial diffusion,” IEEE Transactions
+on Signal Processing, vol. 62, pp. 3510–3522, July 2014.
+[41] R. Arablouei, S. Werner, K. Dogan¸
+cay, “Analysis of the gradient-descent total least-
+squares adaptive filtering algorithm,” IEEE Transactions on Signal Processing, vol.
+62, pp. 1256–1264, March 2014.
+[40] R. Arablouei, S. Werner, Y.-F. Huang, K. Dogan¸
+cay, “Distributed least mean-
+square estimation with partial diffusion,” IEEE Transactions on Signal Processing,
+vol. 62, pp. 472–484, January 2014.
+[39] G. Gonz´
+alez, F. Gregorio, J. Cousseau, R. Wichman, S. Werner, “Uplink CFO
+compensation for FBMC multiple access and OFDMA in a high mobility scenario,”
+Physical Communications (in press), October 2013.
+1 of 11
+
+-----
+[38] F. Gregorio, J. Cousseau, S. Werner, T. Riihonen, R. Wichman, “EVM analysis for
+broadband OFDM direct-conversion transmitters,” IEEE Transactions on Vehicular
+Technology, vol. 62, pp. 3443–3451, September 2013.
+[37] C. Schmidt, J. Figueroa, J. Cousseau, R. Wichman, S. Werner, “Post-compensation
+of a CT first-order sigma-delta ADC using PWL dynamic systems,” Latin American
+Applied Research, vol. 43, pp. 287–293, 2013.
+[36] G. Gonz´
+alez, F. Gregorio, J. Cousseau, S. Werner, R. Wichman, “Data-aided CFO
+estimators based on the averaged cyclic autocorrelation,” Signal Processing, July
+2012.
+[35] M. Y. Cheong, S. Werner, J. Figueroa, J. Cousseau, R. Wichman, “Adaptive piece-
+wise linear predistorters for nonlinear power amplifiers with memory,” IEEE Trans-
+actions on Circuits and Systems I, vol. 59, pp. 1519–1532, July 2012.
+[34] P. Mathecken, T. Riihonen, N. N. Tchamov, S. Werner, M. Valkama, R. Wich-
+man, “Characterization of OFDM radio link under PLL-based oscillator phase noise
+and multipath fading channel,” IEEE Transactions on Communications, vol. 60,
+pp. 1479–1485, June 2012.
+[33] T. Riihonen, R. Wichman, S. Werner, “Comments on ’Simple formulas for SIMO
+and MISO ergodic capacities’,” Electronics Letters, vol. 48, p. 127, January 2012.
+[32] T. Riihonen, R. Wichman, S. Werner, “Evaluation of OFDM(A) relaying protocols:
+capacity analysis in infrastructure framework,” IEEE Transactions on Vehicular
+Technology , vol. 61, pp. 360–374, January 2012.
+[31] T. Riihonen, S. Werner, R. Wichman, “Mitigation of self-interference in full-duplex
+MIMO relays,” IEEE Transactions on Signal Processing, vol. 59, pp. 5983–5993,
+December 2011.
+[30] C. Schmidt, J. Figueroa, J. Cousseau, R. Wichman, S. Werner, “Nonlinearities
+modeling and post-compensation in continuous-time sigma-delta modulators,”IET
+Microwaves, Antennas & Propagation, vol. 5. pp. 1796–1804, December 2011.
+[29] J. F. Schmidt, J. E. Cousseau, R. Wichman, S. Werner, “Bit loading using im-
+perfect CSIR for prediction based resource allocation in mobile OFDMA,” IEEE
+Transactions on Vehicular Technology, vol. 60, pp. 4082–4088 October 2011.
+[28] J. F. Schmidt, J. E. Cousseau, R. Wichman, S. Werner, “Low-complexity channel
+prediction using approximated recursive DCT,” IEEE Transactions on Circuits and
+Systems I, vol. 58, pp. 2520–2530, October 2011.
+[27] T. Riihonen, S. Werner, R. Wichman, “Hybrid full-duplex/half-duplex relaying
+with transmit power adaptation,” IEEE Transactions on Wireless Communications,
+pp. 3074–3085, September 2011
+[26] F. Gregorio, J. Cousseau, S. Werner, T. Riihonen, R. Wichman, “Predistorter with
+IQ imbalance and crosstalk compensation for broadband MIMO OFDM transmit-
+ters,” EURASIP Journal on Advances in Signal Processing 2011, 2011:19.
+[25] P. Mathecken, T. Riihonen, S. Werner, R. Wichman, “Performance analysis of
+OFDM with Wiener phase noise and frequency selective fading channel,” IEEE
+Transactions on Communications, vol. 59, pp. 1321–1331, May 2011.
+[24] F. Gregorio, S. Werner, J. Cousseau, J. Figueroa, R. Wichman, “Receiver-side non-
+linearities mitigation using an extended iterative decision-based technique,” Signal
+Processing vol. 91, pp. 2042–2056 March 2011.
+[23] T. Riihonen, S. Werner, R. Wichman, “Hypoexponential power-delay profile and
+performance of multihop OFDM relay links,” IEEE Transactions on Wireless Com-
+munications, vol. 9, pp. 3878–3888, December 2010.
+2 of 11
+
+-----
+[22] E. Zacar´
+ıas, S. Werner, R. Wichman, “Decentralized limited-feedback multiuser
+MIMO for temporally correlated channels,” Journal of Electrical and Computer
+Engineering, vol. 2010, Article ID 915653. doi:10.1155/2010/915653.
+[21] M. Shoaib, S. Werner, J. A. Apolin´
+ario Jr., “Multichannel fast QR-decomposition
+algorithms: weight identification and new applications,” IEEE Transactions on
+Signal Processing, vol. 58, pp. 175–188, January 2010.
+[20] T. Riihonen, S. Werner, R. Wichman, “Optimized gain control for single-frequency
+relaying with loop interference,” IEEE Transactions on Wireless Communications,
+vol. 8, pp. 2801–2806, June 2009.
+[19] M. Bruno, J Cousseau, S. Werner, J. Figueroa, M. Cheong, R. Wichman, “An
+efficient CS-CPWL based predistorter,” Radioengineering, June 2009.
+[18] E. Zacar´
+ıas, S. Werner, R. Wichman, “Limited feedback multiuser MIMO tech-
+niques for time-correlated channels,” EURASIP Journal on Advances in Signal
+Processing, 2009.
+[17] M. Shoaib, S. Werner, J. A. Apolin´
+ario Jr., “Reduced complexity solution for weight
+extraction in QRD-LSL algorithms,” IEEE Signal Processing Letters, vol. 15, pp.
+277–280, February 2008.
+[16] F. H. Gregorio, S. Werner, J. H¨
+am¨
+al¨
+ainen, R. Wichman, “BEP analysis of OSTBC-
+OFDM systems with broadband PA and imperfect memory compensation,” IEEE
+Communications Letters, vol. 11, no. 12, pp. 940–942, December 2007.
+[15] J. Cousseau, S. Werner, P. Do´
+nate, “Factorized all-pass based IIR adaptive notch
+filters,” IEEE Transactions on Signal Processing, vol. 55, no. 11, pp. 5225–5236,
+November 2007.
+[14] F. H. Gregorio, S. Werner, J. Cousseau, T. Laakso, “Receiver cancellation tech-
+nique for nonlinear power amplifier distortion in SDMA-OFDM systems,” IEEE
+Transactions of Vehicular Technology, vol. 56, pp. 2499–2516, September 2007.
+[13] A. Ramos, J. A. Apolin´
+ario Jr., S. Werner, “Multichannel fast QRD-RLS adap-
+tive filtering: block-channel and sequential-channel algorithms based on updating
+backward prediction errors,” Signal Processing, vol. 87, pp. 1781–1798, July 2007.
+[12] S. Werner, M. With, V. Koivunen, “Householder multistage Wiener filter for space-
+time navigation receivers,” IEEE Transactions on Aerospace and Electronic Sys-
+tems, vol. 43, pp. 975–988, July 2007.
+[11] J. E. Cousseau, J. L. Figueroa, S. Werner, T. I. Laakso, “Efficient nonlinear Wiener
+model identification using a complex-valued simplicial PWL filter,” IEEE Transac-
+tions on Signal Processing, vol. 55, pp. 1780–1792, May 2007.
+[10] S. Werner, J. A. Apolin´
+ario Jr., P. S. R. Diniz, “Set-membership proportionate
+affine projection algorithms,” EURASIP Journal on Audio, Speech, and Music
+Processing, vol. 2007, Article ID 34242, 10 pages, 2007.
+[9] J. Figueroa, J. Cousseau, S. Werner, T. Laakso, “Adaptive control of a Wiener
+type system: application to a pH neutralization reactor,” International Journal of
+Control, vol. 80, pp. 231–240, February 2007.
+[8] E. Zacar´
+ıas, S. Werner, R. Wichman, “Distributed Jacobi eigen-beamforming for
+closed loop MIMO systems,” IEEE Communications Letters, vol 10, pp. 825–827,
+December 2006.
+[7] S. Werner, M. L. R. de Campos, J. A. Apolin´
+ario Jr., P. S. R. Diniz, “Low-
+complexity constrained affine-projection algorithms,” IEEE Transactions on Signal
+Processing, vol. 53, pp. 4545–4555, December 2005.
+3 of 11
+
+-----
+[6] S. Werner, M. L. R. de Campos, P. S. R. Diniz, “Partial-update NLMS algorithms
+with data-selective updating,” IEEE Transactions on Signal Processing, vol. 52,
+pp. 938–949, April 2004.
+[5] S. Werner, M. L. R. de Campos , J. A. Apolin´
+ario Jr., “On the equivalence of RLS
+implementations of LCMV and GSC processors,” IEEE Signal Processing Letters,
+vol. 10, pp. 356–359, December 2003.
+[4] S. Werner, M. L. R. de Campos, P. S. R. Diniz, “Mean-squared analysis of the
+partial-update NLMS algorithm,” Brazilian Telecommunications Journal -SBT, vol.
+18, pp. 77–85, June 2003.
+[3] P. S. R. Diniz, S. Werner, “Set-membership binormalized data reusing algorithms,”
+IEEE Transactions on Signal Processing, vol. 51, pp. 124–134, January 2003.
+[2] M. L. R. de Campos, S. Werner, J. A. Apolin´
+ario Jr., “Constrained adaptation
+algorithms employing Householder transformation,” IEEE Transaction on Signal
+Processing, vol. 50, pp. 2187–2195, September 2002.
+[1] S. Werner, P. S. R. Diniz, “Set-membership affine projection algorithm,” IEEE
+Signal Processing Letters, vol. 8, pp. 231–235, August 2001.
+A2. Review article, Literature review, Systematic review
+[1] Y.-H. Huang, S. Werner, J. Huang, N. Kashyap, V. Gupta, “State estimation in
+electric power grids – meeting new challenges presented by the requirements of the
+future grid,” IEEE Signal Processing Magazine, September 2012.
+A3. Book section, chapters in research books
+[3] S. Werner, M. Mohammed, “Weight extraction of fast QRD-RLS algorithms,” In
+Jos´
+e A. Apolin´
+ario Jr. (Ed.), QRD-RLS Adaptive Filtering, Springer Verlag (2009).
+[2] A. L. L. Ramos, S. Werner, “Multichannel fast QRD-RLS algorithms,” In Jos´
+e A.
+Apolin´
+ario Jr. (Ed.), QRD-RLS Adaptive Filtering, Springer Verlag (2009).
+[1] M. L. R. de Campos, S. Werner, J. A. Apolin´
+ario Jr., “Constrained Adaptive Filter-
+ing Algorithms,” In Sathish Chandran (Ed.), Adaptive Antenna Array Techniques,
+Springer Verlag (2004).
+A4. Conference proceedings
+[103] N. Kashyap, S. Werner, Y.-H. Huang, R. Arablouei “Privacy preserving decentral-
+ized power system state estimation with phasor measurement units,” IEEE Sensor
+Array and Multichannel Signal Processing Workshop, SAM, Rio de Janeiro, July
+2016.
+[102] N. Kashyap, S. Werner, J. Lund´
+en, “Signal-dependent preprocessing of buffered
+PMU measurements for hybrid state estimation,” IEEE International Instrumen-
+tation and Measurement Technology Conference, I2MTC, Taipei, May 2016.
+[101] S. Werner, J. Lund´
+en, “Event-triggered real-time metering in smart grids,” Euro-
+pean Signal Processing Conference, EUSIPCO, Nice, France, September 2015.
+[100] N. Kashyap, S. Werner, Y.-H. Huang, “Decentralized power system state estimation
+with reduced inter-area communication,” IEEE International Conference on Digital
+Signal Processing, DSP, Singapore, July 2015.
+[99] E. Antonio-Rodr´
+ıguez, R. L´
+opez-Valcarce, T. Riihonen, S. Werner, R. Wichman,
+“Subspace-constrained SINR optimization in MIMO full-duplex relays under lim-
+ited dynamic range,” IEEE Workshop on Signal Processing Advances in Wireless
+Communications, SPAWC, Stockholm, June 2015.
+4 of 11
+
+-----
+[98] R. Arablouei, K. Dogan¸
+cay, S. Werner, Y.-H. Huang, “Model-distributed solution of
+regularized least-squares problem over sensor networks,” IEEE International Con-
+ference on Acoustics, Speech and Signal Processing, ICASSP, Brisbane, Australia,
+April 2015.
+[97] P. Mathecken, S. Werner, T. Riihonen, and R. Wichman, “Subspace-based phase
+noise estimation in OFDM receivers,” IEEE International Conference on Acoustics,
+Speech and Signal Processing, ICASSP, Brisbane, Australia, April 2015.
+[96] J. Lund´
+en, S. Werner, “Real-time smart metering with reduced communication and
+bounded error,” IEEE International Conference on Smart Grid Communications,
+SmartGridComm, Venice, Italy, November 2014.
+[95] R. Arablouei, K. Dogan¸
+cay, S. Werner, “Recursive total least-squares estimation of
+frequency in three-phase power systems,” European Signal Processing Conference,
+EUSIPCO, Lisbon, Portugal, September 2014.
+[94] E. Antonio-Rodr´
+ıguez, R. L´
+opez-Valcarce, T. Riihonen, S. Werner, R. Wichman,
+“SINR optimization in wideband full-duplex MIMO relays under limited dynamic
+range,” IEEE Sensor Array and Multichannel Signal Processing Workshop, SAM,
+A Coru˜
+na, Spain, June 2014.
+[93] R. Arablouei, K. Dogan¸
+cay, S. Werner, “Estimating frequency of three-phase power
+systems via widely-linear modeling and total least-squares,” The Fifth International
+Workshop on Computational Advances in Multi-Sensor Adaptive Processing, CAM-
+SAP, Saint Martin, December 2013.
+[92] R. Arablouei, K. Dogan¸
+cay, S. Werner, “Partial-diffusion recursive least-squares
+estimation over adaptive networks,” The Fifth International Workshop on Compu-
+tational Advances in Multi-Sensor Adaptive Processing, CAMSAP, Saint Martin,
+December 2013.
+[91] T. Rautiainen, J. Lund´
+en, S. Werner, V. Koivunen, “Demand side management
+through electricity pricing in competitive environments,” IEEE European Innova-
+tive Smart Grid Technologies, ISGT, October 2013.
+[90] R. Arablouei, K. Dogan¸
+cay, S. Werner, “Reduced-complexity distributed least-
+squares estimation over adaptive networks,” IEEE Workshop on Signal Processing
+Advances in Wireless Communications, SPAWC, June 2013.
+[89] E. Antonio-Rodr´
+ıguez, R. L´
+opez-Valcarce, T. Riihonen, S. Werner, R. Wichman,
+“Adaptive self-interference cancellation in wideband full-duplex decode-and-forward
+MIMO relays,” IEEE Workshop on Signal Processing Advances in Wireless Com-
+munications, SPAWC, June 2013.
+[88] J. Lund´
+en, S. Werner, V. Koivunen, “Distributed demand-side optimization with
+load uncertainty,” IEEE International Conference on Acoustics, Speech and Signal
+Processing, ICASSP, Vancouver, Canada, May 2013.
+[87] R. Arablouei, S. Werner, K. Dogan¸
+cay, “Adaptive frequency estimation of three-
+phase power systems with noisy measurements,” IEEE International Conference on
+Acoustics, Speech and Signal Processing, ICASSP, Vancouver, Canada, May 2013.
+[86] R. Arablouei, S. Werner, K. Dogan¸
+cay, “Diffusion-based distributed adaptive es-
+timation utilizing gradient-descent total least-squares,” IEEE International Con-
+ference on Acoustics, Speech and Signal Processing, ICASSP, Vancouver, Canada,
+May 2013.
+[85] E. Antonio-Rodr´
+ıguez, R. L´
+opez-Valcarce, T. Riihonen, S. Werner, R. Wichman,
+“Autocorrelation based adaptation rule for feedback equalization in wideband full-
+duplex amplify-and-forward MIMO relays,” IEEE International Conference on Acous-
+tics, Speech and Signal Processing, ICASSP, May 2013.
+5 of 11
+
+-----
+[84] F. C. Ribeiro Jr., M. L. R. de Campos, S. Werner, “Distributed cooperative spec-
+trum sensing with double-topology,” IEEE International Conference on Acoustics,
+Speech and Signal Processing, ICASSP, Vancouver, May 2013.
+[83] N. Kashyap, S. Werner, Y.-H. Huang, T. Riihonen, “Reduced-order synchrophasor-
+assisted state estimation for smart grids,” IEEE International Conference on Smart
+Grid Communications, SmartGridComm, Tainan city, Taiwan, November 2012.
+[82] P. Mathecken, T. Riihonen, S. Werner, R. Wichman,“Constrained least-squares
+estimation and compensation of phase noise in OFDM radio link,” IEEE Asilomar
+Conference on Signals, Systems, and Computers, ACSSC, Pacific Grove, California,
+November 2012.
+[81] P. Mathecken, T. Riihonen, S. Werner, R. Wichman,“Average capacity of Rayleigh-
+fading OFDM link with Wiener phase noise and frequency offset,” IEEE Interna-
+tional Symposium on Personal, Indoor and Mobile Radio Communications, PIMRC,
+Sydney, Australia, September 2012.
+[80] F. C. Ribeiro Jr., M. L. R. de Campos, S. Werner,“Distributed cooperative spec-
+trum sensing with selective updating,” European Signal Processing Conference,
+EUSIPCO, Bucharest, Romania, August 2012.
+[79] F. C. Ribeiro Jr., M. L. R. de Campos, S. Werner,“Distributed cooperative spec-
+trum sensing with adaptive combining,” IEEE International Conference on Acous-
+tics, Speech, and Signal Processing, ICASSP, Kyoto, Japan, March 2012.
+[78] N. Kashyap, S. Werner, Y.-H. Huang,“Event-triggered multi-area state estimation
+in power systems,” The Fourth International Workshop on Computational Ad-
+vances in Multi-Sensor Adaptive Processing, CAMSAP, San Juan, Puerto Rico,
+December 2011.
+[77] P. Mathecken, T. Riihonen, S. Werner, R. Wichman,“Accurate characterization and
+compensation of phase noise in OFDM receiver,” 45th Annual Asilomar Conference
+on Signals, Systems, and Computers, ACSSC, Pacific Grove, California, November
+2011.
+[76] T. Riihonen, S. Werner, R. Wichman, “Transmit power optimization for multi-
+antenna decode-and-forward relays with loopback self-interference from full-duplex
+operation,” 45th Annual Asilomar Conference on Signals, Systems, and Computers,
+ACSSC, Pacific Grove, California, November 2011.
+[75] G. Gonz´
+alez, F. Gregorio, J. Cousseau, S. Werner, R. Wichman, “Cyclostationary
+autocorrelation based CFO estimators,” European Signal Processing Conference,
+EUSIPCO, Barcelona, Spain, August 2011.
+[74] J. Huang, S. Werner, Y.F. Huang, “Optimum reduced-order DSE for power systems
+with PMU measurements,” presented at the 7th Annual Carnegie-Mellon Confer-
+ence on the Electricity Industry, Pittsburgh, PA, March, 2011.
+[73] T. Riihonen, A. Balakrishnan, K. Haneda, S. Wyne, S. Werner, R. Wichman,
+“Optimal eigenbeamforming for suppressing self-interference in full-duplex MIMO
+relays,” Conference on Information Sciences and Systems, CISS, Baltimore, MD,
+USA, March 2011.
+[72] J. F. Schmidt, J. E. Cousseau, R. Wichman, S. Werner, “Prediction based resource
+allocation in OFDMA,” Conference on Information Sciences and Systems, CISS,
+Baltimore, MD, USA, March 2011.
+[71] F. Gregorio, J. Cousseau, S. Werner, T. Riihonen, R. Wichman, “Compensation of
+IQ imbalance and transmitter nonlinearities in broadband MIMO-OFDM,” IEEE
+International Symposium on Circuits and Systems, ISCAS, Rio de Janeiro, Brazil,
+May 2011.
+6 of 11
+
+-----
+[70] S. Werner, Y.-F. Huang, “Time- and coefficient selective diffusion strategies for
+distributed parameter estimation,” IEEE Asilomar Conference on Signals, Systems
+and Computers, ACSSC, Pacific Grove, California, November 2010 (Invited).
+[69] T. Riihonen, S. Werner, R. Wichman, “Residual self-interference in full-duplex
+MIMO relays after null-space projection and cancellation,” IEEE Asilomar Con-
+ference on Signals, Systems and Computers, ACSSC, Pacific Grove, California,
+November 2010.
+[68] T. Riihonen, S. Werner, R. Wichman, “Rate-interference trade-off between du-
+plex modes in decode-and-forward relaying,” IEEE International Symposium on
+Personal, Indoor and Mobile Radio Communications, PIMRC, Istanbul, Turkey,
+September 2010.
+[67] M. Y. Cheong, S. Werner, J. Cousseau, R. Wichman, “Spectral characteristics of
+a piecewise linear function in modeling power amplifier type nonlinearities,” IEEE
+International Symposium on Personal, Indoor and Mobile Radio Communications,
+PIMRC, Istanbul, Turkey, September 2010.
+[66] T. Riihonen, S. Werner, R. Wichman, “Generalized exponential decay model for
+power-delay profiles of multipath channels,” XXXII Finnish URSI Convention on
+Radio Science, Oulu, August 2010.
+[65] S. Werner, T. Riihonen, Y.-F. Huang, “Energy-efficient distributed estimation with
+partial updates,” International Conference on Green Circuits and Systems, ICCGN,
+Shanghai, China, June 2010 (Invited).
+[64] F. Gregorio, J. Cousseau, S. Werner, R. Wichman, T. Riihonen, “Sequential com-
+pensation of RF impairments in OFDM systems,” IEEE Wireless Communications
+and Networking Conference, WCNC, Sydney, Australia, April 2010.
+[63] T. Riihonen, S. Werner, F. Gregorio, R. Wichman, J. H¨
+am¨
+al¨
+ainen, “BEP analysis
+of OFDM relay links with nonlinear power amplifiers,” IEEE Wireless Communi-
+cations and Networking Conference, WCNC, Sydney, Australia, April 2010.
+[62] C. Schmidt, J. Cousseau, J. Figueroa, R. Wichman, S. Werner, “Characterization
+and compensation of nonlinearities in a continuous-time first-order ADC,” IEEE
+International Microwave Workshop, Aveiro, Portugal, February 2010.
+[61] T. Riihonen, R. Wichman, S. Werner, “Capacity evaluation of DF protocols for
+OFDMA infrastructure relay links,” IEEE Global Communications Conference,
+GLOBECOM, Honolulu, Hawaii, December 2009
+[60] T. Riihonen, S. Werner, R. Wichman, “Spatial loop interference suppression in
+full-duplex MIMO relays,” IEEE Asilomar Conference on Signals, Systems and
+Computers, ACSSC, Pacific Grove, California, November 2009.
+[59] G. Gonz´
+alez, J. Cousseau, F. Gregorio, R. Wichman, S. Werner, “Single-carrier
+cyclic-extension block DFE in time varying channels,” 4th Conference on Micro-
+Nanoelectronics, Technology, and Applications, CAMTA, San Carlos de Bariloche,
+Argentina, October 2009.
+[58] G. Gonz´
+alez, J. Cousseau, F. Gregorio, R. Wichman, S. Werner, “A study of OFDM
+signal detection using cyclostationarity,” XIII Workshop on Information Processing
+and Control RPIC, Santa F´
+e, Argentina, September 2009.
+[57] C. Schmidt, J. Cousseau, J.L. Figueroa, S. Werner, R. Wichman, “ADC post-
+compensation using a Hammerstein model,” 4th Conference on Micro-Nanoelectronics,
+Technology, and Applications, CAMTA, San Carlos de Bariloche, Argentina, Oc-
+tober 2009.
+[56] T. Riihonen, K. Haneda, S. Werner, R. Wichman, “SINR analysis of full-duplex
+OFDM repeaters,” 20th IEEE International Symposium on Personal, Indoor and
+Mobile Radio Communications, PIMRC, Tokyo, Japan, September 2009.
+7 of 11
+
+-----
+[55] M. Shoaib, S. Werner, J. A. Apolin´
+ario Jr., S. A. Alshebieli, “Multi-input multi-
+output fast QR decomposition algorithm for active noise control,” European Signal
+Processing Conference, EUSIPCO, Glasgow, Scotland, August 2009.
+[54] A. Malipatil, Y.-H. Huang, S. Werner, “A SMF approach to distributed average
+consensus in clustered sensor networks,” IEEE Workshop on Signal Processing Ad-
+vances in Wireless Communications, SPAWC, Perugia, Italy, June 2009.
+[53] E. Zacar´
+ıas, S. Werner, R. Wichman, T. Riihonen, “Single-bit closed-loop quasi-
+orthogonal space time codes for MIMO systems,” IEEE Workshop on Signal Pro-
+cessing Advances in Wireless Communications, SPAWC, Perugia, Italy, June 2009.
+[52] T. Riihonen, S. Werner, R. Wichman, E. Zacar´
+ıas B., “On the feasibility of full-
+duplex relaying in the presence of loop interference,” IEEE Workshop on Signal
+Processing Advances in Wireless Communications, SPAWC, Perugia, Italy, June
+2009.
+[51] S. Werner, Y.-F. Huang, M. L. R. de Campos, V. Koivunen, “Distributed pa-
+rameter estimation with selective cooperation,” IEEE International Conference on
+Acoustics, Speech, and Signal Processing, ICASSP, Taipei, Taiwan, April 2009.
+[50] V. del Razo, T. Riihonen, F. Gregorio, S. Werner and R. Wichman, “Nonlinear
+amplifier distortion in cooperative amplify-and-forward OFDM systems,” IEEE
+Wireless Communications and Networking Conference, WCNC, Budapest, Hun-
+gary, April 2009.
+[49] T. Riihonen, S. Werner, R. Wichman, Jyri H¨
+am¨
+al¨
+ainen, “Outage probabilities in
+infrastructure-based single-frequency relay links IEEE Wireless Communications
+and Networking Conference, WCNC, Budapest, Hungary, April 2009.
+[48] T. Riihonen, S. Werner, R. Wichman, “Comparison of full-duplex and half-duplex
+modes with a fixed amplify-and-forward relay,” IEEE Wireless Communications
+and Networking Conference, WCNC, Budapest, Hungary, April 2009.
+[47] T. Riihonen, S. Werner, J. Cousseau, R. Wichman, “Design of co-phasing allpass fil-
+ters for full-duplex OFDM relays,” IEEE Asilomar Conference on Signals, Systems
+and Computers, ACSSC, Pacific Grove, California, October 2008.
+[46] S. Werner, M. Mohammed, Y. H. Huang, V. Koivunen, “Decentralized set-membership
+adaptive estimation for clustered sensor networks,” IEEE International Conference
+on Acoustics, Speech, and Signal Processing, ICASSP, Las Vegas, USA, April 2008.
+[45] E. Zacar´
+ıas, S. Werner, R. Wichman, “Link adaptation with distributed Jacobi
+eigenbeamforming for MIMO systems,” IEEE International Symposium on Wireless
+Communication Systems, ISWCS, Trondheim, Norway, October 2007.
+[44] J. A. Apolin´
+ario Jr., M. Shoaib, S. Werner, “Inverse QRD-Beacon algorithm,”
+Brazilian Telecommunication Symposium, Recife, Brazil, September 2007.
+[43] F. H. Gregorio, S. Werner, J. Cousseau, R. Wichman, “Broadband power amplifier
+distortion cancellation with model estimation in the receiver,” IEEE Workshop
+on Signal Processing Advances in Wireless Communications, SPAWC, Helsinki,
+Finland, June 2007.
+[42] F. H. Gregorio, S. Werner, J. Cousseau, R. Wichman, “Split predistortion approach
+for reduced complexity terminal in OFDM systems,” IEEE Vehicular Technology
+Conference, VTC-Spring, Dublin, Ireland, April 2007.
+[41] M. Y. Cheong, H.-L. M¨
+a¨
+att¨
+anen, S. Werner, S.-G. H¨
+aggman, “A combined PAPR
+reduction and predistorter scheme for OFDM systems in nonlinear channels,” IEEE
+Radio and Wireless Symposium, RWS, CA, USA, January 2007.
+8 of 11
+
+-----
+[40] M. Y. Cheong, S. Werner, J. Cousseau, J. Figueroa, T. I. Laakso, “A simplicial
+canonical piecewise linear predistorter for quasi-static and dynamic power ampli-
+fiers,” European Signal Processing Conference, EUSIPCO, Florence, Italy, Septem-
+ber 2006.
+[39] M. Shoaib, S. Werner, J. A. Apolin´
+ario Jr., T. I. Laakso, “System identification
+using multichannel fast QR decomposition RLS algorithms,” European Signal Pro-
+cessing Conference, EUSIPCO, Florence, Italy, September 2006.
+[38] F. H. Gregorio, S. Werner, J. Cousseau, T. Laakso, “Analysis of SDMA-OFDM
+systems in the presence of power amplifier nonlinearities,” IEEE Workshop on
+Signal Processing Advances in Wireless Communications, SPAWC, Cannes, France,
+July 2006.
+[37] F. H. Gregorio, S. Werner, J. Cousseau, T. Laakso, “Iterative channel estimation for
+multiuser OFDM systems in the presence of power amplifier nonlinearities,” IEEE
+International Symposium on Personal, Indoor and Mobile Radio Communications,
+PIMRC, Helsinki, Finland, September 2006.
+[36] E. Zacar´
+ıas, S. Werner, R. Wichman, “Enhanced partial update for closed loop
+MIMO systems,” IEEE International Symposium on Personal, Indoor and Mobile
+Radio Communications, PIMRC, Helsinki, Finland, September 2006.
+[35] S. Werner, M. Enescu, V. Koivunen, “Combined frequency and time domain chan-
+nel estimation in mobile MIMO-OFDM systems,” IEEE International Conference
+on Acoustics, Speech, and Signal Processing, ICASSP, Toulouse, France, May 2006.
+[34] M. Shoaib, S. Werner, J. A. Apolin´
+ario Jr., T. I. Laakso, “Solution to the weight
+extraction problem in fast QR decomposition RLS algorithms,” IEEE International
+Conference on Acoustics, Speech, and Signal Processing, ICASSP, Toulouse, France,
+May 2006.
+[33] E. Zacar´
+ıas, S. Werner, R. Wichman, “Partial update adaptive transmit beamform-
+ing with limited feedback,” IEEE International Conference on Acoustics, Speech,
+and Signal Processing, ICASSP, Toulouse, France, May 2006.
+[32] S. Werner, P. S. R. Diniz, J. E. W. Moreira, “Set-membership affine projection
+algorithm with variable data-reuse factor,” IEEE International Symposium on Cir-
+cuits and Systems, ISCAS (special session on set-membership identification), Kos,
+Greece, May 2006.
+[31] P. S. R. Diniz, R. P. Braga, S. Werner, “Set-membership affine projection algorithm
+for echo cancellation,” IEEE International Symposium on Circuits and Systems,
+ISCAS, Kos, Greece, May 2006.
+[30] M. Shoaib, S. Werner, J. A. Apolin´
+ario Jr, T. I. Laakso, “Equivalent output fil-
+tering using fast QRD-RLS algorithm for burst-time training,” IEEE International
+Symposium on Circuits and Systems, ISCAS, Kos, Greece, May 2006.
+[29] J. Figueroa, J. Cousseau, S. Werner, T. Laakso, “Adaptive control of a neutral-
+ization reactor,” International Symposium on Advanced Control of Chemical Pro-
+cesses, ADCHEM, Gramado, Brazil, April 2006.
+[28] E. Zacar´
+ıas, S. Werner, R. Wichman, “Adaptive transmit eigenbeamforming with
+stochastic unitary plane rotations in MIMO systems with linear receivers,” Zurich
+Seminar on Communications, IZS, Zurich, Switzerland, February 2006.
+[27] S. Werner, M. Enescu, V. Koivunen, “Low-complexity time-domain channel esti-
+mators for mobile wireless OFDM systems,” IEEE Workshop on Signal Processing
+Systems, SIPS, Athens, Greece, November 2005.
+[26] S. Werner, J. A. Apolin´
+ario Jr., P. S. R. Diniz, T. I. Laakso, “A set-membership
+approach to normalized proportionate adaptation algorithms,” European Signal
+Processing Conference, EUSIPCO, Antalaya, Turkey, September 2005.
+9 of 11
+
+-----
+[25] A. Ramos, J. A. Apolin´
+ario Jr., S. Werner, “A general approach to the deriva-
+tion of block multichannel fast QRD-RLS algorithms,” European Signal Processing
+Conference, EUSIPCO, Antalaya, Turkey, September 2005.
+[24] E. Zacar´
+ıas, R. Wichman, S. Werner, “Filtered gradient algorithm for closed loop
+MIMO systems,” IEEE Vehicular Technology Conference, VTC-Spring, Stockholm,
+Sweden, June 2005.
+[23] M. Y. Cheong, S. Werner, J. Cousseau, T. I. Laakso, “Predistorter identification
+using the simplicial canonical piecewise linear function,” International Conference
+on Telecommunications, ICT, Capetown, South Africa, May 2005.
+[22] S. Werner, M. With, V. Koivunen, “Householder-based low-rank space-time proces-
+sor for anti-jamming navigation receivers,” European Signal Processing Conference,
+EUSIPCO, Vienna, Austria, September 2004.
+[21] M. With, S. Werner, V. Koivunen, “Householder-based anti-jamming navigation
+receiver structures,” IEEE Sensor Array and Multichannel Signal Processing Work-
+shop, SAM, Sitges, Barcelona, Spain, July 2004.
+[20] M. Y. Cheong, S. Werner, T. I. Laakso, “Design of predistorters for power am-
+plifiers in future mobile communications systems,” IEEE Nordic Signal Processing
+Symposium, NORSIG, Espoo, Finland, June 2004.
+[19] M. L. R. de Campos, S. Werner, J. A. Apolin´
+ario Jr., “On an efficient implementa-
+tion of the multistage Wiener filter through Householder reflections for DS-CDMA
+interference suppression,” IEEE Global Communications Conference, GLOBECOM,
+San Fransisco, USA, December 2003.
+[18] S. Werner, M. L. R. de Campos, J. A. Apolin´
+ario Jr., “On the equivalence of the
+constrained RLS and the GSC-RLS beamformers,” IEEE International Telecom-
+munication Symposium, ITS, Natal, Brazil, September 2002.
+[17] S. Werner, M. L. R. de Campos, P. S. R. Diniz, “Mean-squared analysis of the
+partial-update NLMS algorithm,” IEEE International Telecommunication Sympo-
+sium, ITS, Natal, Brazil, September 2002.
+[16] S. Werner, M. L. R. de Campos, P. S. R. Diniz, “Partial-update NLMS algo-
+rithms with data-selective updating,” IEEE International Conference on Acoustics,
+Speech, and Signal Processing, ICASSP, Orlando, USA, May 2002.
+[15] J. A. Apolin´
+ario Jr., S. Werner, “Conjugate gradient algorithm with data selec-
+tive updating,” 19th Brazilian Telecommunication Symposium, Fortaleza, Brazil,
+September 2001.
+[14] S. Werner, J. A. Apolin´
+ario Jr., M. L. R. de Campos, “Data-selective constrained
+affine projection algorithm,” IEEE International Conference on Acoustics, Speech,
+and Signal Processing, ICASSP, Salt Lake City, Utah, USA, May 2001.
+[13] P. S. R. Diniz, S. Werner, “Adaptive filtering for wireless communication systems,”
+First Balkan Conference on Signal Processing, Communications, Circuits and Sys-
+tems, Istanbul, Turkey, June 2000. Invited paper.
+[12] P. S. R. Diniz, S. Werner, “Set-membership binormalized data-reusing algorithms,”
+IFAC Symposium on System Identification, SYSID, Santa Barbara, California,
+USA, June 2000. Invited paper.
+[11] S. Werner, M. L. R. de Campos, J. A. Apolin´
+ario Jr., “Kalman based chip equaliza-
+tion for WCDMA downlink,” European Signal Processing Conference, EUSIPCO,
+Tampere, Finland, September 2000.
+[10] S. Werner, J. Lilleberg, “Downlink channel decorrelation in CDMA systems with
+long codes,” IEEE Vehicular Technology Conference, VTC-Spring, Houston, Texas,
+USA, May 1999.
+10 of 11
+
+-----
+[9] M. L. R. de Campos, S. Werner, J. A. Apolin´
+ario Jr., “Householder-transform con-
+strained LMS algorithms with reduced-rank updating, ” IEEE International Con-
+ference on Acoustics, Speech, and Signal Processing, ICASSP, Phoenix, Arizona,
+USA, March 1999.
+[8] J. A. Apolin´
+ario Jr., S. Werner, T. Laakso, P. S. R Diniz, “Constrained normalized
+adaptive filtering for CDMA mobile communications,” European Signal Processing
+Conference, EUSIPCO, Island of Rhodes, Greece, September 1998.
+[7] R. Baghaie, S. Werner, T. Laakso, “Relaxed look-ahead technique for pipelined
+implementation of adaptive multiple-antenna CDMA mobile receivers,” European
+Signal Processing Conference, EUSIPCO, Island of Rhodes, Greece, September
+1998.
+[6] M. L. R. de Campos, S. Werner, J. A. Apolin´
+ario, T. Laakso, “Constrained quasi-
+Newton algorithm for CDMA mobile communications,” SBT/IEEE International
+Telecommunications Symposium, ITS, August 1998, S˜
+ao Paulo, Brazil.
+[5] S. Werner, J. A. Apolin´
+ario, “Multiple-antenna CDMA mobile reception using con-
+strained normalized adaptive algorithms,” SBT/IEEE International Telecommuni-
+cations Symposium, ITS, August 1998, S˜
+ao Paulo, Brazil.
+[4] S. Werner, T. Laakso, J. Lilleberg, “Multiple-antenna receiver for CDMA mobile re-
+ception,” IEEE International Conference on Communications, ICC, Atlanta, Geor-
+gia, USA, June 1998.
+[3] S. Werner, J. A. Apolin´
+ario, “Application of constrained normalized algorithms
+for a multiple-antenna CDMA mobile receiver,” IEEE Nordic Signal Processing
+Symposium, NORSIG, Vigsø, Denmark, June 1998.
+[2] R. Baghaie, S. Werner, “Pipelined adaptive CDMA mobile receivers,” IEEE Nordic
+Signal Processing Symposium, NORSIG, Vigsø, Denmark, June 1998.
+[1] R. Baghaie, S. Werner, T. Laakso, “Pipelined implementation of adaptive multiple-
+antenna CDMA mobile receivers,” IEEE International Conference on Acoustics,
+Speech, and Signal Processing, ICASSP, Seattle Washington, USA, May 1998.
+B. Non-
+refereed
+scientific
+articles
+B1. Non-refereed journal articles
+[1] S. Werner, F. Gregorio, J. Cousseau, J. Figueroa, R. Wichman, “Broadband power
+amplifier nonlinearity cancellation in OFDM systems,” Acta Technica Napocensis
+- Electronics and Telecommunications, vol. 49, no. 4/2008, pp. 19–22.
+G. Theses
+G4. Doctoral dissertation (monograph)
+[1] Dr. Tech. Thesis: Reduced Complexity Adaptive Filtering Algorithms with Ap-
+plications to Communications Systems, Helsinki University of Technology, Depart-
+ment of Electrical Engineering, Signal Processing Laboratory, October 2002.
+11 of 11
+
+-----

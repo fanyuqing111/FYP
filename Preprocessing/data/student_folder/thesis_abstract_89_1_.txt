@@ -1,0 +1,63 @@
+EPILEPSY DETECTION FROM SCALP EEG: A MACHINE
+LEARNING APPROACH
+John Thomas
+Supervisor: Assoc. Prof. Justin Dauwels
+11th September 2018
+I. INTRODUCTION
+Epilepsy refers to a group of chronic brain disorders which are characterized by unpredictable seizures. It is rated as
+the fourth most common neurological disorder by the Epilepsy Foundation. Approximately 65 million people are affected
+worldwide. An electroencephalogram (EEG) is a recording of the electrical activity of the brain collected by placing electrodes
+on the scalp of subjects. Interictal epileptiform discharges (IEDs) that appear in the EEG are distinctive biomarkers of epilepsy.
+IEDs are further categorized into sharp waves, spikes, spike-wave-complexes and polyspike-wave-complexes. We primarily
+focus on spikes in this research. The presence of spikes allows a physician to make a confident diagnosis of epilepsy,
+predict seizure recurrence, and prescribe an appropriate treatment. In current clinical practice, spikes have to be visually
+identified by neurologists. This process is tedious and time-consuming. Moreover, there is significant disagreement over EEG
+interpretation amongst experts. Spike detection is a difficult task as the spikes exhibit a large morphological variety across
+patients. In addition, a standard definition of spikes is not available. Consequently, the reliability of the diagnosis heavily
+depends on the experience and expertise of the experts. There exists a great need for epilepsy diagnosis system based on
+automated spike detection. Automated spike detection would be more objective, faster, and potentially more accurate. Several
+methods have been tested to develop reliable automated spike detection systems. Unfortunately, these methods have not been
+validated on a sizable dataset and consequently are not universally accepted. We developed an automated EEG classification
+system to detect epileptic EEGs based on IEDs. The system comprises of three major modules: preprocessing, waveform-
+level classification, and EEG-level classification. The pre-processing module performs the necessary filtering, normalization,
+and configures the EEG montage. The waveform-level classification module detects the various IED patterns in the EEG
+signal. The EEG-level classification module is developed based on the output of the waveform-level classification to identify
+epileptic EEGs. We employ a Convolutional Neural Network (CNN for waveform-level classification and a Support Vector
+Machine (SVM) with Gaussian kernel for EEG-level classification. We developed and validated the system by applying a
+dataset of 156 subjects (93 epileptic and 63 non-epileptic) with 18,164 annotated IEDs. The data was recorded according
+to the International 10-20 electrode system from Massachusetts General Hospital (MGH), Boston. We achieved a mean
+4-fold classification accuracy of 83.86% for identifying EEGs with and without IEDs on the MGH dataset. We evaluated
+our system trained on the MGH dataset, on EEG data recorded at different centers. We compared our system with Persyst’s,
+the current market leader. Our system significantly outperformed Persyst for IED identification.
+II. PUBLICATIONS
+1) Rajamanickam Yuvaraj, John Thomas, Tilmann Kluge, and Justin Dauwels, Sydney S. Cash, and M. Brandon Westover.
+”A deep Learning Scheme for Automatic Seizure Detection from Long-Term Scalp EEG.” Accepted for presentation
+at Asilomar Conference on Signals, Systems, and Computers 2018 to be held on Oct. 28-31 at Pacific Grove, CA,
+USA.
+2) John Thomas, Rahul Rathakrishnan, Jing Jin, Justin Dauwels, Sydney S. Cash, and M. Brandon Westover. ”Machine
+learning-based epileptic EEG identification system: a multi-center study.” Accepted for presentation at American
+Epilepsy Society Annual Meeting 2018 to be held on Nov. 30-Dec. 4 at New Orleans, LA, USA.
+3) Yuvaraj R, John Thomas, and Justin D. Hybrid deep convolutional neural network and hidden markov model for auto-
+matic seizure detection from long-term scalp EEG. ICNF Neuroinformatics 2018, (doi: 10.7490/f1000research.1115871.1).
+4) John Thomas, Luca Comoretto, Jing Jin, Justin Dauwels, Sydney S. Cash, and M. Brandon Westover. ”EEG Classifi-
+cation via Convolutional Neural Network-Based Interictal Epileptiform Event Detection.” In Engineering in Medicine
+and Biology Society (EMBC), 2018 40th Annual International Conference of the IEEE, 2018 (in press).
+5) John Thomas, Sinha N, Shaju N, Maszczyk T, Jin J, Cash SS, et al. P290 Convolutional Neural Network-based
+Interictal Epileptiform Discharge Detection, 26th Annual Computational Neuroscience Meeting (CNS*2017): Part 3.
+BMC Neuroscience. 2017 Aug;18(1):60. Available from: https://doi.org/10.1186/ s12868-017-0372-1.
+6) Dharamsi, Tejas, Payel Das, Tejaswini Pedapati, Gregory Bramble, Vinod Muthusamy, Horst Samulowitz, Kush R.
+Varshney Rajamanickam, John Thomas, and Justin Dauwels. ”Neurology-as-a-Service for the Developing World.”
+arXiv preprint arXiv:1711.06195 (2017).
+
+-----
+7) John Thomas, Jing Jin, Justin Dauwels, Sydney S. Cash, and M. Brandon Westover. ”Automated epileptiform spike
+detection via affinity propagation-based template matching.” In Engineering in Medicine and Biology Society (EMBC),
+2017 39th Annual International Conference of the IEEE, pp. 3057-3060. IEEE, 2017.
+8) John Thomas, Tomasz Maszczyk, Nishant Sinha, Tilmann Kluge, and Justin Dauwels. ”Deep learning-based classifi-
+cation for brain-computer interfaces.” In Systems, Man, and Cybernetics (SMC), 2017 IEEE International Conference
+on, pp. 234-239. IEEE, 2017.
+9) John Thomas, Jing Jin, Justin Dauwels, Sydney S. Cash, and M. Brandon Westover. ”Clustering of interictal spikes
+by dynamic time warping and affinity propagation.” In Acoustics, Speech and Signal Processing (ICASSP), 2016 IEEE
+International Conference on, pp. 749-753. IEEE, 2016.
+
+-----

@@ -1,0 +1,2940 @@
+Jovica V. Milanovic (Professor) 
+Address: 
+School of Electrical & Electronic Engineering 
+The University of Manchester 
+Manchester M13 9PL, UK 
+Email: jovica.milanovic@manchester.ac.uk 
+Phone: +44 161 306 8724 
+Biography – copied from Prof’s web site 
+I joined The University of Manchester (formerly UMIST) in January 1998. From April 2007 I have 
+been a member of School Leadership Team,  as  Director of Research (4/2007‐4/2010),  Director 
+of External Affairs (5/2010‐) and  Deputy Head of School (10/2013‐). I was Head of Electrical 
+Energy and Power Systems Group between 2/2014‐1/2016.   I am  Visiting Professor at the 
+University of Novi Sad, Novi Sad,  Serbia (1/2010‐) and the University of Belgrade, Belgrade, 
+Serbia (7/2015‐) and Conjoint Professor at the University of Newcastle, Newcastle, Australia 
+(4/2012‐). 
+Prior to joining The University of Manchester I worked with Energoprojekt, engineering and 
+consulting company in Belgrade, Yugoslavia (http://eng.energoprojekt.rs/), University of 
+Belgrade, 
+Yugoslavia 
+(http://www.etf.bg.ac.rs) 
+and 
+the 
+universities 
+of 
+Newcastle 
+(http://www.newcastle.edu.au/school/electrical‐engineering‐computer‐science/) and Tasmania 
+(http://fcms.its.utas.edu.au/scieng/eng/people.asp) in Australia. As Lecturer in Power 
+Engineering in the Department of Electrical Engineering and Computer Science of the University 
+of Tasmania, I co‐established with, then Dr Michael Negnevitsky, one of Australia's first (if not 
+the first) centres for power quality research. 
+My research and consultancy work over the years has been equally split between the areas of 
+Power System Dynamics and Power Quality with a common, underlying stream of probabilistic / 
+stochastic modelling of uncertainties of events and system parameters. As far as my contribution 
+to national and international industry is concerned, apart from some software tools developed 
+by my team of researchers and occasional consultancy work,  it  is probably best reflected  
+through my involvement in development of industrial guidelines and best practices as a member 
+of CIGRE/CIRED/IEEE Working Groups. I am or was a member of several CIGRE/CIRED/IEEE  WGs 
+and a  convenor of CIGRE WG C4.605 "Modelling and aggregation of loads in flexible power 
+networks", CIGRE/CIRED JWG C4.112 "Guidelines for power quality monitoring, analysis and 
+presentation of results"  (http://www.e‐cigre.org/) and a co‐chair of IEEE TF " Stability definitions 
+and characterisation of dynamic behaviour in systems with high penetration of power electronic 
+interfaced technologies ". 
+
+-----
+In addition to being involved in tens of technical and programme committees of international 
+conferences I was Chairman of the   7th IASTED International Conference on Power and Energy 
+Systems (EuroPES 2007), Vice‐Chairman of Local Organising Committee of the 16th Power System 
+Computation Conference (PSCC 2008), Chairman of the 2nd IEEE PES Conference on Innovative 
+Smart Grid Technologies – Europe, (ISGT PES‐Europe 2011) and Chairman of the  12th IEEE PES 
+PowerTech Conference, (PowerTech Manchester 2017). 
+Since January 2015 I am IEEE Power & Energy Society (PES) Regional representative for Europe, 
+Middle East and Africa and member of IEEE PES Governing Board and since 2016 I am a member 
+of the IEEE PES Fellows Committee. 
+Qualifications 
+ Dipl.Ing. (Elec. Eng.), The University of Belgrade, Belgrade, Yugoslavia. 
+ M.Sc. (Elec. Eng.), The University of Belgrade, Belgrade, Yugoslavia. 
+ Ph.D. (Elec. Eng.), The University of Newcastle, Newcastle, Australia. 
+ D.Sc. (Elec. Eng.), The University of Manchester, Manchester, UK. 
+Memberships of committees and professional bodies. 
+ Charted Engineer. 
+ Fellow (foreign) of Serbian Academy of Engineering Sciences. 
+ Fellow IEEE. 
+ Fellow IET. 
+ IEEE PES Distinguished Lecturer. 
+ IEEE PES Regional Representative Europe, Middle East & Africa. 
+ Member IEEE PES Governing Board. 
+ Member IEEE PES Fellows Committee. 
+Research interests 
+The results of research in general areas of   Power System Dynamics and Power Quality  that I  
+was fortunate   to be able to carry out  over the  years with my teams of exceptionally  talented 
+and  hard‐working Postdoctoral Research Associates (14), PhD students (26),  MSc students (68) 
+and  academic visitors (22) are  in over to 450 research papers (including over 140  journal papers)  
+and presented at 75 academic and 56 industrial courses and lectures that I  have given around 
+the world. 
+My research interests are still in the area of probabilistic studies of uncertain systems and 
+currently include: 
+ Probabilistic modelling and analysis of uncertain and complex interconnected systems . 
+ Application of Data Analytics to power systems. 
+ Close to real time assessment of Power system dynamic behavior. 
+ Risk based stability assessment and control of power systems. 
+
+-----
+ Global assessment/mitigation of Power Quality in sparsely monitored networks. 
+ Modelling and operation of networks with DG & RES. 
+ Power system load modelling. 
+Citation counts: 
+ Web of Science: unavailable. 
+ Google scholar: unavailable. 
+ Scopus: 3507 total citations by 2441 documents.  
+ 
+Publications 
+Critical appraisal of tools and methodologies for studies of cascading failures in coupled critical 
+infrastructure systems, Chen, Y. & Milanovic, J. V. 17 Aug 2017 IEEE EUROCON 2017 ‐17th 
+International Conference on Smart Technologies. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Cyber‐physical system failure analysis based on Complex Network theory 
+Zhu, W. & Milanovic, J. V. 17 Aug 2017 Smart Technologies, IEEE EUROCON 2017 ‐17th 
+International Conference on. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/EUROCON.2017.8011177  
+E‐pub ahead of print 
+Estimation and Validation of Characteristic Load Profile through Smart Grid Trials in a Medium 
+Voltage Distribution Network 
+ 
+Tang, X., Hasan, K. N., Milanovic, J. V., Bailey, K. & Stott, S. J. 17 Aug 2017 In : IEEE Transactions 
+on Power Systems. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2017.2740563 
+Zonal Mitigation of Power Quality Using FACTS Devices for Provision of Differentiated Quality of 
+Electricity Supply in Networks with Renewable Generation 
+ 
+
+-----
+Liao, H., Abdelrahman, S. & Milanovic, J. V. Aug 2017 In : IEEE Transactions on Power Delivery. 
+32, 4, p. 1975‐1985 11 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2016.2585882 
+An approach to controlled islanding based on PMU measurements 
+Awadalla, M., Papadopoulos, P. & Milanovic, J. V. 20 Jul 2017 PowerTech, 2017 IEEE Manchester. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Application of data analytics for advanced demand profiling of residential load using smart meter 
+data 
+Milanovic, J. V. & Ponocko, J. 20 Jul 2017 PowerTech, 2017 IEEE Manchester. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+Efficient identification of critical load model parameters affecting power system voltage stability 
+Zhu, Y. & Milanovic, J. V. 20 Jul 2017 PowerTech, 2017 IEEE Manchester. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Feasibility of Different Corrective Control Options for the Improvement of Transient Stability 
+Morales Alvarado, J., Papadopoulos, P. & Milanovic, J. V. 20 Jul 2017 PowerTech, 2017 IEEE 
+Manchester. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Identification of Critical Parameters Affecting Voltage Stability in Networks with Renewable 
+Generations using Sensitivity Analysis Methods 
+Qi, B. & Milanovic, J. V. 20 Jul 2017 PowerTech, 2017 IEEE Manchester. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PTC.2017.7981186 
+Interdepedency modeling of cyber‐physical systems using a weighted complex network approach 
+Zhu, W. & Milanovic, J. V. 20 Jul 2017 PowerTech, 2017 IEEE Manchester. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+
+-----
+ 
+Probabilistic framework for transient stability assessment of power systems with high 
+penetration of renewable generation 
+Papadopoulos, P. & Milanovic, J. V. Jul 2017 In : IEEE Transactions on Power Systems. 32, 4, p. 
+3078‐3088 11 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2016.2630799 
+Accepted/In press 
+Probabilistic stability analysis – the way forward for stability analysis of sustainable power 
+systems 
+ 
+Milanovic, J. V. 17 May 2017 In : Royal Society of London. Proceedings A. Mathematical, Physical 
+and Engineering Sciences. 
+Research output: Contribution to journal › Article 
+ 
+Accepted/In press 
+Methodology for Online identification of dynamic behavior of power systems with increased 
+amount of power electronics interfaced units 
+ 
+Papadopoulos, P. & Milanovic, J. V. 1 Apr 2017 In : CSEE Journal of Power and Energy Systems. 
+Research output: Contribution to journal › Article 
+ 
+On capability of different FACTS devices to mitigate a range of power quality phenomena 
+Liao, H. & Milanović, J. V. 30 Mar 2017 In : IET Generation, Transmission and Distribution. 11, 5, 
+p. 1202‐1211 10 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1049/iet‐gtd.2016.1017 
+Probabilistic Framework for Online Identification of Dynamic Behavior of Power Systems with 
+Renewable Generation 
+
+-----
+Papadopoulos, P., Guo, T. & Milanovic, J. V. 28 Mar 2017 In : IEEE Transactions on Power Systems. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2017.2688446 
+Towards Application of Text Mining for Enhanced Power Network Data Analytics – Part II: Off‐
+line analysis of Textual Data 
+Chen, Y., Ponocko, J., Milosevic, N., Nenadic, G. & Milanovic, J. V. 23 Mar 2017 Mediterranean 
+Conference on Power Generation, Transmission, Distribution and Energy Conversion : MedPower 
+2016. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1049/cp.2016.1077 
+Application of data analytics for information retrieval from a typical DSO's database 
+Ponocko, J., Milanovic, J. V., Preece, R. & Wooley, N. C. 16 Feb 2017 PES Innovative Smart Grid 
+Technologies Conference Europe (ISGT‐Europe), 2016 IEEE. Institute of Electrical and Electronics 
+Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ISGTEurope.2016.7856314 10.1109/ISGTEurope.2016.7856314 
+Feasibility Study of Applicability of Recurrence Quantification Analysis for Clustering of Power 
+System Dynamic Responses 
+Papadopoulos, P., Milanovic, J. V., Bhui, P. & Senroy, N. 16 Feb 2017 PES Innovative Smart Grid 
+Technologies Conference Europe (ISGT‐Europe), 2016 IEEE. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ISGTEurope.2016.7856236 
+Probabilistic ranking of critical parameters affecting voltage stability in network with renewable 
+generation 
+Qi, B., Zhu, Y. & Milanovic, J. V. 16 Feb 2017 PES Innovative Smart Grid Technologies Conference 
+Europe (ISGT‐Europe), 2016 IEEE. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+
+-----
+DOI: 10.1109/ISGTEurope.2016.7856275 
+Probabilistic ranking of power system loads for voltage stability studies in networks with 
+renewable generation 
+Zhu, Y., Qi, B. & Milanovic, J. V. 16 Feb 2017 PES Innovative Smart Grid Technologies Conference 
+Europe (ISGT‐Europe), 2016 IEEE. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ISGTEurope.2016.7856274 
+Modelling of Interconnected Critical Infrastructure Systems Using Complex Network Theory 
+Milanovic, J. V. & Zhu, W. 7 Feb 2017 In : IEEE Transactions on Smart Grid. 99 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TSG.2017.2665646 
+Methodology for the analysis of voltage unbalance in networks with single‐phase distributed 
+generation 
+Liao, H. & Milanović, J. V. 30 Jan 2017 In : IET Generation, Transmission and Distribution. 11, 2, p. 
+550‐559 10 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1049/iet‐gtd.2016.1155 
+ASSESSMENT OF THE IMPACT OF DEMAND SIDE MANAGEMENT ON DISTRIBUTION NETWORK 
+VOLTAGE STABILITY 
+Tang, X. & Milanovic, J. V. 2017 CIRED 2017. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Automatic Identification of Power System Load Models Based on Field Measurements 
+Zhu, Y. & Milanovic, J. V. 2017 In : IEEE Transactions on Power Systems. 1 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2017.2763752 
+ 
+
+-----
+Efficient Identification of Transient Instability States of Uncertain Power Systems 
+Papadopoulos, P. & Milanovic, J. V. 2017 IREP 2017, X Bulk Power Systems Dynamics and Control 
+Symposium. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Fast online identification of power system dynamic behaviour 
+Papadopoulos, P., Bhui, P., Milanovic, J. V. & Senroy, N. 2017 IEEE PES General Meeting. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+SMART METER‐DRIVEN ESTIMATION OF RESIDENTIAL LOAD FLEXIBILITY 
+Ponocko, J. & Milanovic, J. V. 2017 CIRED 2017. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+The Influence of Load on Risk‐based Small‐Disturbance Security Profile of a Power System 
+Hasan, K., Preece, R. & Milanovic, J. 2017 In : IEEE Transactions on Power Systems. PP, 99 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2017.2693502 
+2016 
+Application of sequential testing problem to online detection of transient stability status for 
+power systems 
+Gonzalez, J., Kitapbayev, Y., Guo, T., Milanovic, J. V., Peskir, G. & Moriarty, J. 29 Dec 2016 2016 
+IEEE 55th Conference on Decision and Control (CDC). 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/CDC.2016.7798484 
+Assessment of power quality performance in distribution networks: Part I – Measurement 
+campaign and initial analysis 
+Gasch, E., Domagk, M., Meyer, J., Abdelrahman, S., Liao, H. & Milanovic, J. V. 15 Dec 2016 
+Harmonics and Quality of Power (ICHQP), 2016 17th International Conference on. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+
+-----
+DOI: 10.1109/ICHQP.2016.7783325 
+Assessment of power quality performance in distribution networks: Part II – Performance indices 
+and ranking of network buses 
+Abdelrahman, S., Liao, H., Milanovic, J. V., Gasch, E., Domagk, M. & Meyer, J. 15 Dec 2016 
+Harmonics and Quality of Power (ICHQP), 2016 17th International Conference on. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ICHQP.2016.7783326 
+Probabilistic Estimation of Distribution Network Performance With Respect to Voltage Sags and 
+Interruptions Considering Network Protection Setting: Part I – The Methodology 
+Cebrian, J. C., Kagan, N. & Milanovic, J. V. 1 Dec 2016 In : IEEE Transactions on Power Delivery. 99 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2016.2633518 
+Accepted/In press 
+Probabilistic Estimation of Distribution Network Performance With Respect to Voltage Sags and 
+Interruptions Considering Network Protection Setting: Part II – Economic Assessment 
+Cebrian, J. C., Kagan, N. & Milanovic, J. V. 1 Dec 2016 In : IEEE Transactions on Power Delivery. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2016.2633520 
+A Framework to assess the effect of reduction in inertia on system frequency response 
+Adrees, A., Papadopoulos, P. & Milanovic, J. V. 14 Nov 2016 Power and Energy Society General 
+Meeting (PESGM), 2016. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PESGM.2016.7741695 
+Efficient identification of critical parameters affecting the small‐disturbance stability of power 
+systems with variable uncertainty 
+Hasan, K., Preece, R. & Milanovic, J. V. 14 Nov 2016 Power and Energy Society General Meeting 
+(PESGM), 2016. 
+
+-----
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PESGM.2016.7741291 
+Probabilistic assessment of transient stability in reduced inertia systems 
+Papadopoulos, P., Adrees, A. & Milanovic, J. V. 14 Nov 2016 Power and Energy Society General 
+Meeting (PESGM), 2016. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PESGM.2016.7741651 
+Priority Ranking of Critical Uncertainties Affecting Small‐Disturbance Stability Using Sensitivity 
+Analysis Techniques 
+ 
+Hasan, K., Preece, R. & Milanovic, J. 20 Oct 2016 In : IEEE Transactions on Power Systems. PP, 99 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2016.2618347 
+Real time synchronous generator dynamic reactive reserve monitoring by coordinated reactive 
+power voltage controller 
+ 
+Dragosavac, J., Janda, Ž., Arnautović, D., Gajić, T., Dobričić, S., Milanovic, J. V., Subotic, S. & Mihic, 
+B. 24 Aug 2016 CIGRE 2016. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Study of frequency response in power system with renewable generation and energy storage 
+Adrees, A. & Milanovic, J. V. 11 Aug 2016 Power Systems Computation Conference (PSCC), 2016. 
+Research output: Chapter in Book/Report/Conference proceeding › Chapter 
+ 
+DOI: 10.1109/PSCC.2016.7540912 
+Pathway to cost‐efficient state estimation of future distribution networks 
+Liao, H. & Milanovic, J. V. 17 Jul 2016 Power and Energy Society General Meeting (PESGM), 2016. 
+Research output: Chapter in Book/Report/Conference proceeding › Chapter 
+
+-----
+ 
+DOI: 10.1109/PESGM.2016.7741337 
+The influence of different storage technologies on large power system frequency response 
+Adrees, A., Song, J. & Milanovic, J. V. 14 Jul 2016 Power Electronics and Motion Control 
+Conference (IPEMC‐ECCE Asia), 2016 IEEE 8th International. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/IPEMC.2016.7512295 
+Frequency Stabilisation Using VSC‐HVDC 
+Shen, L., Barnes, M., Preece, R. & Milanovic, J. Jul 2016 2016 IEEE PES GM Proceedings. Institute 
+of Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Power Quality 
+Milanovic, J. Jul 2016 Smart Grid Handbook, Part III Distribution, Section 38. Liu, C., McArthur , S. 
+& Lee, . S‐J. (eds.). United KIngdom: Wiley, Vol. 2, p. 727 – 744 17 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Chapter 
+ 
+Comparison of dynamic models of battery energy storage for frequency regulation in power 
+system 
+Adrees, A., Andami, H. & Milanovic, J. V. 23 Jun 2016 Electrotechnical Conference (MELECON), 
+2016 18th Mediterranean. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/MELCON.2016.7495314 
+Validation of performance of Joint Excitation and Reactive Power Controllers using commercially 
+available power system analysis software packages 
+Mihic, B., Subotic, S., Dragosavac, J., Janda, Ž., Arnautović, D. & Milanovic, J. V. 22 Mar 2016 32nd 
+International conference Energy 2016. 
+Research output: Chapter in Book/Report/Conference proceeding › Chapter 
+ 
+
+-----
+ 
+Efficient Estimation of the Probability of Small‐disturbance Instability of Large Uncertain Power 
+Systems 
+Preece, R. & Milanovic, J. V. Mar 2016 In : I E E E Transactions on Power Systems. 31, 2, p. 1063‐
+1072 10 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2015.2417204 
+Comparative analysis of data availability and data requirements for efficient management and 
+control of future distribution networks 
+Ponocko, J. & Milanovic, J. V. 2016 IET Conference Publications. CP711 ed. Institution of 
+Engineering and Technology , Vol. 2016 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Day‐ahead Prediction and Shaping of Dynamic Response of Demand at Bulk Supply Points 
+Xu, Y. & Milanovic, J. V. 2016 In : IEEE Transactions on Power Systems. 31, 4, p. 3100‐3108 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2015.2477559 
+Methodology for close to real time profiling of aggregated demand using data streams from 
+smart meters 
+Li, K., Ponocko, J., Zhang, L. & Milanovic, J. V. 2016 IET Conference Publications. CP711 ed. 
+Institution of Engineering and Technology , Vol. 2016 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+On‐line identification of power system dynamic signature using PMU measurements and data 
+mining 
+Guo, T. & Milanovic, J. V. 2016 In : IEEE Transactions on Power Systems. 31, 3, p. 1760‐1768 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2015.2453424 
+
+-----
+ 
+Optimisation Framework for Development of Cost‐effective Monitoring in Distribution Networks 
+Liao, H., Liu, Z. & Milanovic, J. V. 2016 In : IET Generation, Transmission and Distribution. 10, 1, 
+p. 240‐246 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1049/iet‐gtd.2015.0757 
+Quantification of uncertainty in end‐of‐life failure models of power transformers for transmission 
+systems reliability studies 
+Awadallah, S., Milanovic, J. V. & Jarman, P. N. 2016 In : IEEE Transactions on Power Systems. 31, 
+5, p. 4047‐4056 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2015.2497969 
+Towards application of text mining for enhanced power network data analytics ‐ Part I: Retrieval 
+and ranking of textual data from the internet 
+Chen, P., Ponocko, J., Milosevic, N., Nenadic, G. & Milanovic, J. V. 2016 IET Conference 
+Publications. CP711 ed. Institution of Engineering and Technology , Vol. 2016, 8 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Towards application of text mining for enhanced power network data analytics ‐ Part II: Offline 
+analysis of textual data 
+Chen, Y., Ponocko, J., Milosevic, N., Nenadic, G. & Milanovic, J. V. 2016 IET Conference 
+Publications. CP711 ed. Institution of Engineering and Technology , Vol. 2016 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+2015 
+The Effect of VSC HVDC Control and Operating Condition on Dynamic Behavior of Integrated 
+AC/DC System 
+Shen, L., Barnes, M., Preece, R., Milanovic, J., Bell, K. R. W. & Belivanis, M. 18 Mar 2015 In : I E E 
+E Transactions on Power Delivery. 31, 3, p. 1085‐1095 11 p. 
+Research output: Contribution to journal › Article 
+
+-----
+ 
+DOI: 10.1109/TPWRD.2015.2414824 
+IET GB Power System Modelling Capability Reports for the Council of Science and Technology: 
+“Modelling Requirements to Assess The Resilience of The Electricity System as it is Adapted to 
+Deliver Low Carbon Transition: “Dynamic Analysis of Systems with New Equipment, Devices, 
+Control Approaches and Operating Modes”. 
+Milanovic, J. V. Mar 2015 Institution of Engineering and Technology . 
+Research output: Book/Report › Commissioned report 
+ 
+Integrated AC/DC model for power system stability studies 
+Shen, L., Wang, W., Barnes, M. & Milanovic, J. 10 Feb 2015 host publication. Birmingham: 
+Institution of Engineering and Technology , p. 1‐6 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+A Step‐by‐Step Data Processing Guideline for Load Model Development Based on Field 
+Measurements 
+Hasan, K. N., Milanovic, J., Turner, P. & Turnham, V. 2015 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Artificial Intelligence Based Methodology for Load Disaggregation at Bulk Supply Point 
+Xu, Y. & Milanovic, J. 2015 In : IEEE Transactions on Power Systems. 30, 2, p. 795‐803 9 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/tpwrs.2014.2337872 
+Assessing the Applicability of Uncertainty Importance Measures for Power System Studies 
+Preece, R. & Milanovic, J. 2015 In : I E E E Transactions on Power Systems. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2015.2449082 
+Assessment of Suitability of Different Reliability Importance Measures for Prioritising 
+Replacement of Transmission System Components 
+
+-----
+ 
+Awadallah, S. K. E., Milanovic, J., Wang, Z. & Jarman, P. N. 2015 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Case Studies of Application of Process Immunity Time in Assessment of Financial Losses due to 
+System Faults Induced Industrial Process Interruptions 
+Cebrian, J. C., Milanovic, J. & Kagan, N. 2015 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Characterisation of Power Quality Performance at Network Buses Using Unified Power Quality 
+Index 
+Liao, H., Abdelrahman, S. & Milanovic, J. 2015 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Characterization of power quality performance at network buses using unified power quality 
+index 
+Abdelrahman, S., Liao, H. & Milanovic, J. V. 2015 23rd International Conference on Electricity 
+Distribution, CIRED 2015. p. 1‐5 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Comparative Analysis of Different Voltage Sag Characterisation Indices 
+Liao, H. & Milanovic, J. 2015 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Comparison of Ensemble Decision Tree Methods for On‐line Identification of Power System 
+Dynamic Signature Considering Availability of PMU Measurements 
+Guo, T., Papadopoulos, P., Mohammad, P. & Milanovic, J. 2015 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Framework for Sensitivity Analysis of Torsional modes 
+Adrees, A. & Milanovic, J. 2015 host publication. 
+
+-----
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Global Assessment of Power Quality Performance of Networks using the Analytic Hierarchy 
+Process Model 
+Abdelrahman, S., Liao, H., Guo, T., Guo, Y. & Milanovic, J. 2015 
+Research output: Contribution to conference › Paper 
+ 
+Global Assessment of Power Quality Performance of the Network Using Analytic Hierarchy 
+Process Model 
+Abdelrahman, S., Liao, H., Guo, T., Guo, Y. & Milanovic, J. 2015 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Identification of Weak Areas of Network based on Exposure to Voltage Sags — Part II: Assessment 
+of Network Performance using Sag Severity Index 
+Liao, H., Abdelrahman, S., Guo, Y. & Milanovic, J. 2015 In : I E E E Transactions on Power Delivery. 
+30, 6, p. 2401 ‐ 2409 9 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2014.2362957 
+Identification of Weak Areas of Power Network Based on Exposure to Voltage Sags—Part I: 
+Development of Sag Severity Index for Single‐Event Characterization 
+Liao, H., Abdelrahman, S., Guo, Y. & Milanovic, J. 2015 In : I E E E Transactions on Power Delivery. 
+30, 6, p. 2392‐2400 9 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2014.2362965 
+Impact of Measurement Signals on the Accuracy of On‐line Identification of Power System 
+Dynamic Signature 
+Papadopoulos, P. N., Guo, T., Wang, X. & Milanovic, J. 2015 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+
+-----
+Impact of Penetration of Non‐Synchronous Generators on Power System Dynamics 
+Papadopoulos, P. N. & Milanovic, J. 2015 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Optimal Compensation of Transmission Lines Based on Minimisation of the Risk of SSR 
+Adrees, A. & Milanovic, J. 2015 In : I E E E Transactions on Power Systems. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2015.2422775 
+Overview of Power System Reliability Assessment Considering Age Related Failure of Equipment 
+Awadallah, S. K. E., Milanovic, J., Wang, Z. & Jarman, P. 2015 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Parallel Operation of Two Adjacent Steam Power Plants Under Coordinated Q‐V Control 
+Dragosavac, J., Janda, Ž., Gajić, T., Arnautović, D. & Milanovic, J. 2015 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Practical aspects of developing load models at distribution network buses based on field 
+measurements 
+Hasan, K., Milanovic, J. V., Turnham, V. & Turner, P. 2015 CIRED 2015. p. 1‐5 5 p. 0395 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Probabilistic Assessment of Financial Losses in Distribution Network due to Fault Induced Process 
+Interruptions Considering Process Immunity Time 
+Cebrian, J. C., Milanovic, J. & Kagan, N. 2015 In : I E E E Transactions on Power Delivery. 30, 3, p. 
+1478‐1486 8 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2014.2364558 
+Probabilistic estimation of rated demand at bulk supply point 
+
+-----
+Xu, Y. & Milanovic, J. 2015 PowerTech, 2015 IEEE Eindhoven. Institute of Electrical and Electronics 
+Engineers , p. 1‐6 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Probabilistic Estimation of Voltage Unbalance in MV Distribution Networks with Unbalanced Load 
+Liu, Z. & Milanovic, J. 2015 In : I E E E Transactions on Power Delivery. 30, 2, p. 693‐703 10 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2014.2322391 
+Probabilistic Risk Assessment of Rotor Angle Instability Using Fuzzy Inference Systems 
+Preece, R. & Milanovic, J. 2015 In : I E E E Transactions on Power Systems. 30, 4, p. 1‐11 10 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2014.2352678 
+Provision of Differentiated Power Quality Using Network Based Mitigating Solutions 
+Liao, H., Saif, J. & Milanovic, J. 2015 CIRED 2015. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Provision of Differentiated Voltage Sag Performance Using FACTS Devices 
+Liao, H., Abdelrahman, S. & Milanovic, J. 2015 CIRED 2015. p. 1‐5 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Risk‐based Small‐disturbance Security Assessment of Power Systems 
+Preece, R. & Milanovic, J. 2015 In : I E E E Transactions on Power Delivery. 30, 2, p. 590‐598 8 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2014.2301876 
+Robust Methodology for Cost‐effective Design of Large Offshore Wind Farms 
+Ali, M., Nedic, D. P. & Milanovic, J. 2015 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+
+-----
+The influence of modelling transformer age related failures on system reliability 
+Awadallah, S. K. E., Milanovic, J. & Jarman, P. N. 2015 In : I E E E Transactions on Power Systems. 
+30, 2, p. 970‐979 9 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2014.2331103 
+2014 
+CIGRE/CIRED JWG C4.112: “Guidelines for power quality monitoring– measurement locations, 
+processing and presentation of data” 
+Milanovic, J. , Kilter, J. , Bahramirad, S. , Ball, R. , Barrera, V. , Bollen, M. H. J. , Correia, D. , 
+Čukalevski, N. , Dabin, A. , Doyle, P. , Elphick, S. , Gilson, P. , Howe, B. , Höglund, J. , Meyer, J. , 
+Neumann, R. , Parent, B. , Schaug‐Pettersen, J. , Ribeiro, P. F. , Romero, J. M. & 10 others Oct 
+2014 No publisher name. 
+Research output: Book/Report › Commissioned report 
+ 
+Assessing Transformer Reliability using Post‐Mortem Data and Health Indices 
+Patel, B., Wang, Z. D., Milanovic, J. & Jarman, P. Sep 2014 Condition Monitoring and Diagnosis 
+(CMD) ,2014 International Conference on. p. 472‐475 4 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+Methodology for Estimation of Dynamic Response of Demand Using Limited Data 
+V Milanovic, J. & Yizheng, X. 19 Aug 2014 In : IEEE Transactions on Power Systems. 30, 2, p. 1288‐
+1297 9 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2014.2343691 
+Potential interactions between VSC HVDC and STATCOM 
+Shen, L., Barnes, M., Milanovic, J. V., Bell, K. & Belivanis, M. 19 Aug 2014 host publication. 
+Wroclaw, Poland: Institute of Electrical and Electronics Engineers , p. 1‐7 7 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PSCC.2014.7038319 10.1109/PSCC.2014.7038319 
+
+-----
+Assessment of the Economic Value of Voltage Sag Mitigation Devices to Sensitive Industrial Plants 
+Chan, J. Y. & Milanovic, J. Aug 2014 In : IEEE Transactions on Power Delivery. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2014.2355877 
+Interactions between STATCOM and VSC HVDC in dynamic GB system 
+Shen, L., Barnes, M. & Milanovic, J. Apr 2014 host publication. Institution of Engineering and 
+Technology , p. 1‐6 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+CIGRE WG C4.605 : “Modelling and aggregation of loads in flexible power networks” 
+Milanovic, J. , Matevosiyan, J. , Gaikwad, A. , Borghetti, A. , Djokić, S. Ž. , Dong, Z. Y. , Halley, A. , 
+Korunović, L. M. , Villanueva, S. M. , Ma, J. , Pourbeik, P. , Resende, F. , Sterpu, S. , Villella, F. , 
+Yamashita, K. , Auer, O. , Karoui, K. , Kosterev, D. , Leung, S. K. , Mtolo, D. & 3 others Feb 2014 No 
+publisher name. 
+Research output: Book/Report › Commissioned report 
+ 
+Modelling and aggregation of loads in flexible power networks 
+Milanovic, J. , Matevosiyan, J. , Gaikwad, A. , Borghetti, A. , Djokić, S. Ž. , Dong, Z. Y. , Halley, A. , 
+Korunović, L. M. , Villanueva, S. M. , Ma, J. , Pourbeik, P. , Resende, F. , Sterpu, S. , Villella, F. , 
+Yamashita, K. , Auer, O. , Karoui, K. , Kosterev, D. , Leung, S. K. , Mtolo, D. & 3 others Feb 2014 In 
+: Electra. p. 62‐69 7 p. 
+Research output: Contribution to journal › Article 
+ 
+ 
+Tuning of a damping controller for multiterminal VSC‐HVDC grids using the probabilistic 
+collocation Method 
+ 
+Preece, R. & Milanovic, J. V. Feb 2014 In : IEEE Transactions on Power Delivery. 29, 1, p. 318‐326 
+8 p., 6675861 
+Research output: Contribution to journal › Article 
+ 
+
+-----
+DOI: 10.1109/TPWRD.2013.2258945 
+ 
+Accuracy of ANN based methodology for load composition forecasting at bulk supply buses 
+ 
+Xu, Y. & Milanovic, J. V. 2014 host publication. 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/pmaps.2014.6960611 
+ 
+Applying Process Immunity Time to Assess Annual Industrial Process Trips 
+ 
+Cebrian, J. C., Kagan, N. & Milanovic, J. 2014 host publication. Institute of Electrical and 
+Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PESGM.2014.6939243 
+ 
+CIGRE/CIRED JWG C4.112 – Power Quality Monitoring 
+ 
+Bollen, M. H. J., Milanovic, J. & Čukalevski, N. 2014 In : Unknown Journal. 12 
+Research output: Contribution to journal › Article 
+ 
+ 
+CIGRE/CIRED JWG C4.112 – Power Quality Monitoring ‐ invited paper 
+ 
+Bollen, M. H. J., Milanovic, J. & Čukalevski, N. 2014 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+
+-----
+Comparison of Point Estimate and Cumulant Techniques for Efficient Estimation of Critical 
+Oscillatory Modes 
+ 
+Preece, R., Huang, K. & Milanovic, J. V. 2014 host publication. Institute of Electrical and 
+Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PESGM.2014.6938815 
+ 
+Definisanje uslova za rad uređaja za grupnu regulaciju pobude i reaktivnih snaga (GRPRS) u 
+sistemu automatskog upravljanja naponima u mreži 
+ 
+Arnautović, D., Dragosavac, J., Janda, Ž., Milanovic, J. & Mihajlović, L. 2014 In : Unknown Journal. 
+24, p. 1‐14 13 p. 
+Research output: Contribution to journal › Article 
+ 
+ 
+Effectiveness of Asymmetrical Series Compensation for Mitigation of SSR in Meshed Power 
+Networks 
+ 
+Adrees, A. & Milanovic, J. 2014 host publication. Institute of Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ISGTEurope.2014.7028835 
+ 
+Efficient implementation of Power Quality monitoring campaigns ‐ Position paper of Joint WG 
+CIGRE/CIRED C4.112 
+ 
+Meyer, J., Ribeiro, P., Paulillo, G., Zavoda, F., Gordon, J. M. R. & Milanovic, J. 2014 host 
+publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+
+-----
+ 
+ 
+Estimation of percentage of controllable load in total demand at bulk supply point 
+ 
+Xu, Y. & Milanovic, J. 2014 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Evaluation of Classification Methods for On‐line Identification of Power System Dynamic 
+Signature 
+ 
+Guo, T., He, J., Li, Z. & Milanovic, J. 2014 host publication. Institute of Electrical and Electronics 
+Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PSCC.2014.7038430 
+ 
+Grid inertia supporting by energy storage inverters 
+ 
+Antic, R., Nikolic, A., Janda, Ž., Milanovic, J. & Milosavljević, Z. 2014 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Guidelines for monitoring power quality in contemporary and future power networks – results 
+from CIGRE/CIRED JWG C4.112 
+ 
+Milanovic, J., Bollen, M. H. J. & Cukalevski, N. 2014 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+
+-----
+Guidelines for Power Quality Monitoring – Results from CIGRE/CIRED JWG C4.112 
+ 
+Kilter, J., Meyer, J., Elphick, S. & Milanovic, J. 2014 host publication. Institute of Electrical and 
+Electronics Engineers , p. 703‐707 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ICHQP.2014.6842924 
+ 
+Guidelines for power quality monitoring– measurement locations, processing and presentation 
+of data 
+ 
+Milanovic, J. 2014 In : Electra. 227, p. 42‐47 5 p. 
+Research output: Contribution to journal › Article 
+ 
+ 
+Identification of Power System Dynamic Signature Using Hierarchical Clustering 
+ 
+Guo, T. & Milanovic, J. 2014 host publication. Institute of Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PESGM.2014.6938816 
+ 
+Impact of the Application of Process Immunity Time on Distribution Expansion Planning 
+ 
+Cebrian, J., Milanovic, J. & Kagan, N. 2014 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Integration of Coordinated Q–V Controller for Multi Machine Power Plant into Secondary Voltage 
+Control 
+
+-----
+ 
+Arnautović, D., Dragosavac, J., Janda, Z., Milanovic, J. & Mihailović, L. 2014 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+International industry practice on power‐quality monitoring 
+ 
+Milanovic, J. V., Meyer, J., Ball, R. F., Howe, W., Preece, R., Bollen, M. H. J., Elphick, S. & Cukalevski, 
+N. 2014 In : IEEE Transactions on Power Delivery. 29, 2, p. 934‐941 7 p., 6631511 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2013.2283143 
+ 
+Intra‐Plant Reactive Power–Voltage Control: Practices, Drawbacks and Challenges 
+ 
+Dragosavac, J., Awadallah, S. K. E., Janda, Ž., Milanovic, J. & Arnautović, D. 2014 host publication. 
+Institute of Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PESGM.2014.6939176 
+ 
+Investigation of maximum likelihood percentile estimates for transformer asset management 
+ 
+Patel, B., Wang, Z. D., Milanovic, J. V. & Jarman, P. 2014 Probabilistic Methods Applied to Power 
+Systems (PMAPS), 2014 International Conference on. p. 1‐6 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PMAPS.2014.6960655 
+ 
+Methodology for evaluation of risk of subsynchronous resonance in meshed compensated 
+networks 
+
+-----
+ 
+Adrees, A. & Milanovic, J. 2014 In : I E E E Transactions on Power Systems. 29, 2, p. 815‐823 8 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2013.2288418 
+ 
+Modelling transformer short‐circuit reliability using multi‐stress accelerated test data 
+ 
+Patel, B., Wang, Z. D., Milanovic, J. V. & Jarman, P. 2014 Probabilistic Methods Applied to Power 
+Systems (PMAPS), 2014 International Conference on. p. 1‐6 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PMAPS.2014.6960670 
+ 
+On accuracy of demand forecasting and its extension to demand composition forecasting using 
+artificial intelligence based methods 
+ 
+Xu, Y. & Milanovic, J. V. 2014 host publication. 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ISGTEurope.2014.7028865 
+ 
+Practical implementation of coordinated q–v control in a multi machine power plant 
+ 
+Dragosavac, J., Janda, Ž., Milanovic, J., Mihajlović, L. & Radojičić, B. 2014 In : I E E E Transactions 
+on Power Systems. 29, 6, p. 2883‐2891 8 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2014.2318794 
+ 
+
+-----
+Probabilistic assessment of the impact of distributed generation and non‐linear load on harmonic 
+propagation in power networks 
+ 
+Abdelrahman, S., Liao, H., Yu, J. & Milanovic, J. 2014 
+Research output: Contribution to conference › Paper 
+ 
+ 
+Probabilistic assessment of the impact of ditributed generation and non‐linear load on harmonic 
+propagation in power networks 
+ 
+Abdelrahman, S., Liao, H. & Milanovic, J. 2014 host publication. Institute of Electrical and 
+Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PSCC.2014.7038371 
+ 
+Probabilistic Estimation of Voltage Sags Using Erroneous Measurement Information 
+ 
+Woolley, N. C., Avendano‐Mora, M., Woolley, A. P., Preece, R. & Milanovic, J. 2014 In : Electric 
+Power Systems Research. 106, 1, p. 142‐150 8 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1016/j.epsr.2013.07.021 
+ 
+Probabilistic Framework for Assessing the Accuracy of Data Mining Tool for On‐line Prediction of 
+Transient Stability 
+ 
+Guo, T. & Milanovic, J. 2014 In : I E E E Transactions on Power Systems. 29, 1, p. 377‐385 8 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2013.2281118 
+
+-----
+ 
+Probabilistic indicators for assessing age‐ and loading‐based criticality of transformers to 
+cascading failure events 
+ 
+Awadallah, S. K. E., Milanovic, J., Jarman, P. N. & Wang, Z. A. 2014 In : IEEE Transactions on Power 
+Systems. 29, 5, p. 2558‐2566 9 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2014.2308581 
+ 
+Probabilistic small‐disturbance stability assessment of uncertain power systems using efficient 
+estimation methods 
+ 
+Preece, R., Huang, K. & Milanović, J. V. 2014 In : IEEE Transactions on Power Systems. 29, 5, p. 
+2509‐2517 8 p., 6774476 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2014.2308577 
+ 
+Reliability Based Framework for Cost‐Effective Replacement of Power Transmission Equipment 
+ 
+Awadallah, S. K. E., Milanovic, J. & Jarman, P. N. 2014 In : I E E E Transactions on Power Systems. 
+29, 5, p. 2549‐2557 8 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2014.2309337 
+ 
+Risk‐based framework for establishing and visualising Operational Constraints of Power Systems 
+ 
+Preece, R., Adrees, A. & Milanovic, J. 2014 host publication. Institute of Electrical and Electronics 
+Engineers 
+
+-----
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PSCC.2014.7038339 
+ 
+The effect of temporal and spatial variation of harmonic sources on annual harmonic 
+performance of distribution networks 
+ 
+Abdelrahman, S. & Milanovic, J. 2014 host publication. Institute of Electrical and Electronics 
+Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ISGTEurope.2014.7028848 
+ 
+The Power Quality Monitoring for Transmission System in Liberalized Environment 
+ 
+Čukalevski, N., Milanovic, J. & Bollen, M. H. J. 2014 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+2013 
+ 
+Advantages and application constraints of PLC based laboratory test rig of multi‐generator steam 
+power plant for coordinated reactive power voltage controller testing 
+ 
+Dragosavac, J., Janda, Ž., Pavlović, J., Milanovic, J. & Arnautović, D. 2013 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Application of Dynamic Equivalence Techniques to Derive Aggregated Models of Active 
+Distribution Network Cells and MicroGrids – Critical Overview 
+ 
+
+-----
+Resende, F. O., Matevosyan, J. & Milanovic, J. 2013 host publication. Institute of Electrical and 
+Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PTC.2013.6652356 
+ 
+Assessing the risk of small disturbance instability in mixed AC/DC networks 
+ 
+Preece, R., Milanovic, J. V. & Milanović, J. V. 2013 Proceedings of IREP Symposium: Bulk Power 
+System Dynamics and Control ‐ IX Optimization, Security and Control of the Emerging Power Grid, 
+IREP 2013|Proc. IREP Symp. Bulk Power Syst. Dyn. Control ‐ Optim., Secur. Control Emerg. Power 
+Grid, IREP. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/IREP.2013.6629353 
+ 
+Assessment of generator’s reactive power capability in realtime (in Serbian) 
+ 
+Janda, Ž., Dragosavac, J., Gajić, T., Dobričić, S., Pavlović, J., Radojičić, B., Milanovic, J., Jankivić, . 
+U., Ninković, P., Arnautović, D., Mihajlović, L. & Klasnić, G. 2013 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Assessment of probability of thermal stress induced dependent failure of power transformers 
+ 
+Awadallah, S., Milanovic, J. & Jarman, P. N. 2013 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Challenges in Power Quality Monitoring – CIGRE WG C4.112 Perspective 
+ 
+
+-----
+Ribeiro, P., Paulillo, G., Meyer, J., Howe, W., Zavoda, F., Tenti, L., Milanovic, J., Bollen, M., Doyle, 
+P. & Gordon, J. M. R. 2013 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Contribution of dispersed inverters to small distrubance stability of power system 
+ 
+Antic, R., Nikolic, A., Janda, Ž. & Milanovic, J. 2013 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Damping of inter‐area oscillations in mixed AC/DC networks using WAMS based supplementary 
+controller 
+ 
+Preece, R., Milanović, J. V., Almutairi, A. M. & Marjanovic, O. 2013 In : IEEE Transactions on Power 
+Systems. 28, 2, p. 1160‐1169 9 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2012.2207745 
+ 
+Design, implementation and on‐site performance of coordinated intra‐plant reactive power‐
+voltage controller 
+ 
+Dragosavac, J., Janda, Z., Arnautovic, D., Milanovic, J. V., Mihajlovic, L. & Radojicic, B. 2013 2013 
+IEEE Grenoble Conference PowerTech, POWERTECH 2013|IEEE Grenoble Conf. PowerTech, 
+POWERTECH. Institute of Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PTC.2013.6652163 
+ 
+
+-----
+Design, implementation and performance of coordinated intra‐plant reactive power‐voltage 
+controller (in Serbian) 
+ 
+Dragosavac, J., Janda, Ž., Gajić, T., Dobričić, S., Pavlović, J., Radojičić, B., Milanovic, J., Ninković, 
+P., Arnautović, D., Mihajlović, L. & Klasnić, G. 2013 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Developmnet of probabilistic daily demand curves for different categories of customers 
+ 
+Milanovic, J. V. & Xu, Y. 2013 host publication. 4 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1049/cp.2013.0722 
+ 
+Foreword for the Special Section on Analysis and Simulation of Very Large Power Systems 
+ 
+Milanovic, J., Gomez‐Exposito, A. & Abur, A. 2013 In : I E E E Transactions on Power Systems. 28, 
+4, p. 4885‐4887 2 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2013.2282839 
+ 
+Framework for estimation of daily variation of dynamic response of aggregate load 
+ 
+Xu, Y. & Milanović, J. V. 2013 2013 4th IEEE/PES Innovative Smart Grid Technologies Europe, ISGT 
+Europe 2013|IEEE/PES Innovative Smart Grid Technol. Europe, ISGT Europe. Institute of Electrical 
+and Electronics Engineers , 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ISGTEurope.2013.6695241 
+
+-----
+ 
+Generic model of active distribution network for large power system stability studies 
+ 
+Mat Zali, S. & Milanovic, J. V. 2013 In : IEEE Transactions on Power Systems. 28, 3, p. 3126‐3133 
+7 p., 6403906 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2012.2233223 
+ 
+Generic Model of Coastal Distribution Network for Power System Studies 
+ 
+Strugar, V., Katić, V. & Milanovic, J. 2013 In : PRZEGLĄD ELEKTROTECHNICZNY. 89, 1a, p. 149‐155 
+Research output: Contribution to journal › Article 
+ 
+ 
+Identifying generators at risk of SSR in meshed compensated AC/DC power networks 
+ 
+Milanovic, J. V. & Adrees, A. 2013 In : IEEE Transactions on Power Systems. 28, 4, p. 4438‐4447 9 
+p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2013.2262717 
+ 
+Index for ranking generators based on risk of subsynchronous resonance in the network 
+ 
+Adrees, A. & Milanovic, J. V. 2013 2013 IEEE Grenoble Conference PowerTech, POWERTECH 
+2013|IEEE Grenoble Conf. PowerTech, POWERTECH. Institute of Electrical and Electronics 
+Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PTC.2013.6652165 
+
+-----
+ 
+International industry practice on power system load modeling 
+ 
+Milanović, J. V., Yamashita, K., Martínez Villanueva, S., Djokić, S. Ž. & Korunović, L. M. 2013 In : 
+IEEE Transactions on Power Systems. 28, 3, p. 3038‐3046 8 p., 6399552 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2012.2231969 
+ 
+On Adequacy of Superpostition Method for Probabilistic Assessment of Unbalance in Distribution 
+Network 
+ 
+Liu, Z. & Milanovic, J. 2013 host publication. Institute of Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PTC.2013.6652144 
+ 
+On‐line prediction of transient stability using decision tree method ‐ Sensitivity of accuracy of 
+prediction to different uncertainties 
+ 
+Guo, T. & Milanovic, J. 2013 host publication. Institute of Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PTC.2013.6652106 
+ 
+Probabilistic estimation of voltage unbalance in distribution networks with asymmetrical loads 
+ 
+Liu, Z. & Milanović, J. V. 2013 IET Conference Publications|IET Conf Publ. Institution of 
+Engineering and Technology , Vol. 2013 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+
+-----
+DOI: 10.1049/cp.2013.0784 
+ 
+Probabilistic evaluation of damping controller in networks with multiple VSC‐HVDC lines 
+ 
+Preece, R., Milanović, J. V., Almutairi, A. M. & Marjanovic, O. 2013 In : IEEE Transactions on Power 
+Systems. 28, 1, p. 367‐376 9 p., 6212495 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2012.2197641 
+ 
+Quantification of Aleatory and Epistemi Uncertainty in Bulk Power System Reliability Evaluation 
+ 
+Awadallah, S. & Milanovic, J. 2013 host publication. Institute of Electrical and Electronics 
+Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PTC.2013.6652164 
+ 
+Risk‐based framework for assessment of operational constraints for power systems focusing on 
+small‐disturbance stability and sub‐synchronous resonance 
+ 
+Preece, R., Adrees, A. & Milanovic, J. V. 2013 2013 4th IEEE/PES Innovative Smart Grid 
+Technologies Europe, ISGT Europe 2013|IEEE/PES Innovative Smart Grid Technol. Europe, ISGT 
+Europe. Institute of Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ISGTEurope.2013.6695237 
+ 
+Robustness of commissioned coordinated Q‐V controller for multimachine power plant 
+ 
+
+-----
+Dragosavac, J., Janda, Ž., Milanović, J. V. & Arnautović, D. 2013 In : IEEE Transactions on Power 
+Systems. 28, 2, p. 1415‐1424 9 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2012.2227512 
+ 
+Self‐disconnection and Self‐recovery of Loads Due to Voltage Sags and Short Interruptions 
+ 
+Yamashita, K., Djokić, S. Ž., Villanueva, F. & Milanovic, J. 2013 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Study of subsynchronous resonance in meshed compensated AC/DC network 
+ 
+Adrees, A. & Milanovic, J. V. 2013 Proceedings of IREP Symposium: Bulk Power System Dynamics 
+and Control ‐ IX Optimization, Security and Control of the Emerging Power Grid, IREP 2013|Proc. 
+IREP Symp. Bulk Power Syst. Dyn. Control ‐ Optim., Secur. Control Emerg. Power Grid, IREP. 
+Institute of Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/IREP.2013.6629357 
+ 
+The effect of quality and availability of measurement signals on accuracy of on‐line prediction of 
+transient stability using decision tree method 
+ 
+Guo, T. & Milanovic, J. V. 2013 2013 4th IEEE/PES Innovative Smart Grid Technologies Europe, 
+ISGT Europe 2013|IEEE/PES Innovative Smart Grid Technol. Europe, ISGT Europe. Institute of 
+Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ISGTEurope.2013.6695256 
+
+-----
+ 
+The probabilistic collocation method for power‐system damping and voltage collapse studies in 
+the presence of uncertainties 
+ 
+Preece, R., Woolley, N. C. & Milanovic, J. V. 2013 In : IEEE Transactions on Power Systems. 28, 3, 
+p. 2253‐2262 9 p., 6399551 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2012.2227837 
+ 
+The use of Prony analysis and Padé approximation for the identification of transfer functions of 
+excitation system components 
+ 
+Janda, Ž., Dragosavac, J., Pavlović, J., Milanovic, J., Radojčić, B. & Arnautović, D. 2013 host 
+publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Validation of equivalent dynamic model of active distribution network cell 
+ 
+Milanovic, J. V. & Mat Zali, S. 2013 In : IEEE Transactions on Power Systems. 28, 3, p. 2101‐2110 
+9 p., 6389745 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2012.2227844 
+ 
+Wind farm model aggregation using probabilistic clustering 
+ 
+Ali, M., Ilie, I. S., Milanovic, J. V. & Chicco, G. 2013 In : IEEE Transactions on Power Systems. 28, 
+1, p. 309‐316 7 p., 6238339 
+Research output: Contribution to journal › Article 
+
+-----
+ 
+DOI: 10.1109/TPWRS.2012.2204282 
+2012 
+ 
+Control of VSC HVDC system integrated with AC network 
+ 
+Shen, L., Barnes, M., Milanovic, J. V. & Preece, R. Dec 2012 IET Conference Publications|IET Conf 
+Publ. Birmingham: Institution of Engineering and Technology , Vol. 2012, p. 1‐6 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1049/cp.2012.1954 
+ 
+Generalized formulation of the optimal monitor placement problem for fault location 
+ 
+Avendaño‐Mora, M. & Milanović, J. V. Dec 2012 In : Electric Power Systems Research. 93, p. 120‐
+126 6 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1016/j.epsr.2012.07.010 
+ 
+Probabilistic assessment of wind farm annual energy production 
+ 
+Ali, M., Matevosyan, J. & Milanović, J. V. Aug 2012 In : Electric Power Systems Research. 89, p. 
+70‐79 9 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1016/j.epsr.2012.01.019 
+ 
+Monitor placement for reliable estimation of voltage sags in power networks 
+ 
+
+-----
+Avendaño‐Mora, M. & Milanović, J. V. Apr 2012 In : IEEE Transactions on Power Delivery. 27, 2, 
+p. 936‐944 8 p., 6156803 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2012.2183897 
+ 
+Ranking the importance of synchronous generators for renewable energy integration 
+ 
+Alhasawi, F. B. & Milanović, J. V. Feb 2012 In : IEEE Transactions on Power Systems. 27, 1, p. 416‐
+423 7 p., 5930336 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2011.2159250 
+ 
+A comparative review of transformer reliability on a individual and population scale and an 
+assessment of reliability methodologies 
+ 
+Patel, B., Wang, Z. D., Milanovic, J. V. & Jarman, P. 2012 Proceedings of 2012 IEEE International 
+Conference on Condition Monitoring and Diagnosis, CMD 2012|Proc. IEEE Int. Conf. Cond. Monit. 
+Diagn., CMD. p. 870‐873 3 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/CMD.2012.6416289 
+ 
+CIGRE WG C4.065 Recommendations on Measurement Based and Component Based Load 
+Modelling Practice 
+ 
+Dong, Z. Y., Borghetti, A., Yamashita, K., Gaikwad, A., Pourbeik, P. & Milanovic, J. 2012 host 
+publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+
+-----
+ 
+Contemporary and future aspects of cost effective power quality monitoring Position paper of 
+CIGRE WG C4.112 
+ 
+Meyer, J., Kilter, J., Howe, B., Zavoda, F., Tenti, L., Gordon, J. M. R. & Milanovic, J. V. 2012 PQ 
+2012: 8th International Conference ‐ 2012 Electric Power Quality and Supply Reliability, 
+Conference Proceedings|PQ: Int. Conf. ‐ Electr. Power Qual. Supply Reliab., Conf. Proc.. p. 83‐88 
+5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PQ.2012.6256208 
+ 
+Coordinated Q‐V Controller for Multi‐machine Steam Power Plant: Design and Validation 
+ 
+Dragosavac, J., Janda, Z., Milanovic, J. & Arnautović, D. 2012 host publication. IET: Institution of 
+Engineering and Technology , Vol. 2010 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1049/cp.2010.0887 
+ 
+Coordinated reactive power‐voltage controller for multimachine power plant 
+ 
+Dragosavac, J., Janda, Ž. & Milanović, J. V. 2012 In : IEEE Transactions on Power Systems. 27, 3, p. 
+1540‐1549 9 p., 6153414 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2012.2184144 
+ 
+Current practice and future challenges for power quality monitoring ‐ CIGRE WG C4.112 
+perspective 
+ 
+
+-----
+Kilter, J., Meyer, J., Howe, B., Zavoda, F., Tenti, L., Milanovic, J. V., Bollen, M., Ribeiro, P. F., Doyle, 
+P. & Gordon, J. M. R. 2012 Proceedings of International Conference on Harmonics and Quality of 
+Power, ICHQP|Proc. Int. Conf. Harmonics Qual. Power, ICHQP. p. 390‐397 7 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ICHQP.2012.6381311 
+ 
+Economic Assessment of Voltage Sags Based on Optimal Monitoring Schemes 
+ 
+Avendano‐Mora, J. M., Milanovic, J. & Madrigal‐Martínez, M. 2012 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Effects of uncertainties in shaft mechanical parameters on maximum torsional torques in meshed 
+networks with HVDC lines 
+ 
+Adrees, A. & Milanovic, J. V. 2012 Proceedings of the IEEE Power Engineering Society 
+Transmission and Distribution Conference|Proc IEEE Power Eng Soc Trans Distrib Conf. Institute 
+of Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/TDC.2012.6281542 
+ 
+Modelling and aggregation of loads in flexible power networks ‐ Scope and status of the work of 
+cigre WG C4.605 
+ 
+Yamashita, K., Djokic, S., Matevosyan, J., Resende, F. O., Korunovic, L. M., Dong, Z. Y. & Milanovic, 
+J. V. 2012 IFAC Proceedings Volumes (IFAC‐PapersOnline)|IFAC Proc. Vol. (IFAC‐PapersOnline). 
+Vol. 8, p. 405‐410 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.3182/20120902‐4‐FR‐2032.00072 
+
+-----
+ 
+On‐line estimation of available generator reactive power for network voltage support 
+ 
+Milanovic, J., Dragosavac, J., Janda, Ž., Milanovi, J. V., Arnautovic, D. & Radojicic, B. 2012 IET 
+Conference Publications|IET Conf Publ. Institution of Engineering and Technology , Vol. 2012 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1049/cp.2012.2014 
+ 
+Overview of Existing Load Models and Their Applications 
+ 
+Korunović, L. M., Yamashita, K., Djokić, S. Ž., Villella, F., Milanovic, J., Gaikwad, A. & Villanueva, S. 
+M. 2012 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Overview of Existing Methodologies for Load Model Development 
+ 
+Yamashita, K., Villanueva, S. M., Djokić, S. Ž., Ma, J., Gaikwad, A. & Milanovic, J. 2012 host 
+publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Pegase R&D project: Advanced algorithms for state estimation and simulation of the Pan‐
+European power system 
+ 
+Rapoport, S., Panciatici, P., Lopez, J. J., Merckx, C., Haut, B., Erlich, I., Leclerc, S. & Milanovic, J. 
+2012 44th International Conference on Large High Voltage Electric Systems 2012|Int. Conf. Large 
+High Voltage Electr. Syst.. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+
+-----
+ 
+Power Oscillation Damping using VSC‐based Multi‐terminal HVDC grids 
+ 
+Preece, R. & Milanović, J. V. 2012 IFAC Proceedings Volumes (IFAC‐PapersOnline)|IFAC Proc. Vol. 
+(IFAC‐PapersOnline). Vol. 8, p. 20‐25 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.3182/20120902‐4‐FR‐2032.00006 
+ 
+Probabilistic Identification of Power System Reliability Map 
+ 
+Awadallah, S., Milanovic, J. & Wang, Z. 2012 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Processing of load parameters based on existing load models 
+ 
+Korunovic, L. M., Sterpu, S., Djokic, S., Yamashita, K., Villanueva, S. M. & Milanovic, J. V. 2012 IEEE 
+PES Innovative Smart Grid Technologies Conference Europe|IEEE PES Innovative. Smart Grid 
+Technol. Conf. Europe. Institute of Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ISGTEurope.2012.6465741 
+ 
+Statistical estimation of the source and level of voltage unbalance in distribution networks 
+ 
+Woolley, N. C. & Milanović, J. V. 2012 In : IEEE Transactions on Power Delivery. 27, 3, p. 1450‐
+1460 10 p., 6208838 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2012.2195230 
+
+-----
+ 
+Techno‐economic contribution of FACTS devices to the operation of power systems with high 
+level of wind power integration 
+ 
+Alhasawi, F. B. & Milanović, J. V. 2012 In : IEEE Transactions on Power Systems. 27, 3, p. 1414‐
+1421 7 p., 6165405 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2012.2186594 
+ 
+The Effects of Uncertainty in Mechanical Parameters on SSR in Meshed Power Networks with 
+Different HVDC Technologies 
+ 
+Adrees, A. & Milanovic, J. 2012 12th International Conference on Probabilistic Methods Applied 
+to Power Systems (PMAPS2012) ‐ Best Student Paper Award. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+The Probabilistic Collocation Method for dealing with uncertainties in power system small 
+disturbance studies 
+ 
+Preece, R. & Milanovic, J. V. 2012 IEEE Power and Energy Society General Meeting|IEEE Power 
+Energy Soc. Gen. Meet.. Institute of Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PESGM.2012.6344707 
+2011 
+ 
+PLC‐based model of reactive power flow in steam power plant for pre‐commissioning validation 
+testing of coordinated Q‐V controller 
+ 
+
+-----
+Dragosavac, J., Janda, Ž. & Milanović, J. V. Nov 2011 In : IEEE Transactions on Power Systems. 26, 
+4, p. 2256‐2263 7 p., 5746556 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2011.2127498 
+ 
+Comparison of wind farm aggregate models for transient stability studies 
+ 
+Milanovic, J., Ali, M., Milanović, J. V., Ilie, I‐S. & Chicco, G. Aug 2011 CD Rom of the 17th Power 
+Systems Computation Conference (PSCC'11), (paper 157). 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Development of equivalent dynamic model of distribution network using clustering procedure 
+ 
+Milanovic, J., Zali, S. M., Wooley, N. C. & Milanović, J. V. Aug 2011 host publication. CD Rom of 
+the 17th Power Systems Computation Conference (PSCC'11), (paper 98) 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Probabilistic assessment of wind farm energy yield 
+ 
+Milanovic, J., Ali, M., Matevosyan, J. & Milanović, J. V. Aug 2011 CD Rom of the the 17th Power 
+Systems Computation Conference (PSCC'11), (paper 186). 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+CIGRE/CIRED JWG C4.107 : “Economic Framework for Power Quality” 
+ 
+Milanovic, J. , Iglesias (Convenor), J. G. , Arlt, D. , Bartak, G. , Bollen, M. , Byrne, D. , Chapman, D. 
+, Delahunty, A. , Eyrolles, P. , Fumagalli, E. , Hager, M. , Hanzelka, Z. , Howe, B. , Jahn, R. , 
+
+-----
+McEachern, A. , McMichaes, I. , Milanović, J. V. , Pazos, P. , Targosz, R. , Tremblay, M. & 4 others 
+Jun 2011 No publisher name. 
+Research output: Book/Report › Commissioned report 
+ 
+ 
+Economic Framework for Power Quality 
+ 
+Iglesias, J. G. , Arlt, D. , Bartak, G. , Bollen, M. , Byrne, D. , Chapman, D. , Delahunty, A. , Eyrolles, 
+P. , Fumagalli, E. , Hager, M. , Hanzelka, Z. , Howe, B. , Jahn, R. , McEachern, A. , McMichaes, I. , 
+Milanovic, J. , Milanović, J. V. , Pazos, P. , Targosz, R. , Tremblay, M. & 4 others Jun 2011 In : 
+Electra. 256 
+Research output: Contribution to journal › Article 
+ 
+ 
+Facilitating the integration of wind turbines into power networks while maintaining frequency 
+stability 
+ 
+Milanovic, J., Whitey, S. & Milanović, J. V. Jun 2011 CD Rom of the 21st CIRED 2011, (paper 0807). 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Methodology for Flexible, Cost‐Effective Monitoring of Voltage Sags 
+ 
+Milanovic, J., Avendano‐Mora, J. M. & Milanović, J. V. Jun 2011 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Probabilistic assessment of wind farm energy yield considering wake turbulence and variable 
+turbine availabilities 
+ 
+Milanovic, J., Ali, M. & Milanović, J. V. Jun 2011 CD Rom of the 21st CIRED 2011, (paper 0528). 
+
+-----
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Estimation of cost of downtime of industrial process due to voltage sags 
+ 
+Vegunta, S. C. & Milanović, J. V. Apr 2011 In : IEEE Transactions on Power Delivery. 26, 2, p. 576‐
+587 11 p., 5371823 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2009.2035366 
+ 
+Risk‐based assessment of financial losses due to voltage sag 
+ 
+Chan, J. Y., Milanović, J. V. & Delahunty, A. Apr 2011 In : IEEE Transactions on Power Delivery. 26, 
+2, p. 492‐500 8 p., 5738431 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2009.2037426 
+ 
+An immune system inspired clustering and classification method to detect critical areas in 
+electrical power networks 
+ 
+Woolley, N. C. & Milanović, J. V. Mar 2011 In : Natural Computing. 10, 1, p. 305‐333 28 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1007/s11047‐010‐9204‐2 
+ 
+Flexible AC Transmission Systems 
+ 
+
+-----
+Milanovic, J., Milanović, J. V., Papic, I., Alabdujabbar, A. A., Zhang, Y., Wilamowski, B. (ed.) & Irwin, 
+J. D. (ed.) Feb 2011 The Industrial Electronics Handbook: Power Electronics and Motor Drives. 2 
+ed. Taylor & Francis Group, CRC Press, Vol. 4, p. 37.1‐37.29 29 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Chapter 
+ 
+ 
+Validated models for gas turbines based on thermodynamic relationships 
+ 
+Milanovic, J., Yee, S. K., Milanovi, J. V. & Hughes, F. M. Feb 2011 In : IEEE Transactions on Power 
+Systems. 26, 1, p. 270‐281 11 p., 5462974 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2010.2046428 
+ 
+Aggregated models of wind‐based generation and active distribution network cells for power 
+system studies ‐ Literature overview 
+ 
+Matevosyan, J., Martinez Villanueva, S., Djokic, S. Z., Acosta, J. L., Mat Zali, S., Resende, F. O. & 
+Milanovic, J. V. 2011 2011 IEEE PES Trondheim PowerTech: The Power of Technology for a 
+Sustainable Society, POWERTECH 2011|IEEE PES Trondheim PowerTech: Power Technol. 
+Sustainable Soc., POWERTECH. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PTC.2011.6019296 
+ 
+Damping of electromechanical oscillations by VSC‐HVDC active power modulation with 
+supplementary wams based modal LQG controller 
+ 
+Preece, R., Almutairi, A. M., Marjanovic, O. & Milanović, J. V. 2011 IEEE Power and Energy Society 
+General Meeting|IEEE Power Energy Soc. Gen. Meet.. Institute of Electrical and Electronics 
+Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+
+-----
+ 
+DOI: 10.1109/PES.2011.6039046 
+ 
+Effectiveness of a supplementary MLQG power oscillation damping controller installed at an 
+HVDC line within a meshed network 
+ 
+Preece, R., Almutairi, A. M., Marjanovic, O. & Milanovic, J. V. 2011 CIGRE 2011 Bologna 
+Symposium ‐ The Electric Power System of the Future: Integrating Supergrids and 
+Microgrids|CIGRE Bologna Symp. ‐ Electr. Power Syst. Future: Integr. Supergrids Microgrids. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Generalized Formulation for Optimal Meter Placement for Fault Location 
+ 
+Avendano‐Mora, J. M. & Milanovic, J. 2011 CD Rom of the IEEE on Smart Measurements for 
+Future Grids (SMFG 2011). 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Initial results of international survey on industrial practice on power system load modelling 
+conducted by CIGRE WG C4.605 
+ 
+Yamashita, K., Martínez Villanueva, S. & Milanović, J. V. 2011 CIGRE 2011 Bologna Symposium ‐ 
+The Electric Power System of the Future: Integrating Supergrids and Microgrids|CIGRE Bologna 
+Symp. ‐ Electr. Power Syst. Future: Integr. Supergrids Microgrids. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Integration of cost effective bus profiling in distribution networks 
+ 
+Woolley, N. C., Milanović, J. V. & Avendaño‐Mora, J. M. 2011 IFAC Proceedings Volumes (IFAC‐
+PapersOnline)|IFAC Proc. Vol. (IFAC‐PapersOnline). Vol. 18, p. 12219‐12224 5 p. 
+
+-----
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.3182/20110828‐6‐IT‐1002.01088 
+ 
+Mathematical model of steam power plant for voltage and reactive power control 
+ 
+Awadallah, S., Dragosavac, J., Janda, Ž. & Milanović, J. V. 2011 2011 IEEE PES Trondheim 
+PowerTech: The Power of Technology for a Sustainable Society, POWERTECH 2011|IEEE PES 
+Trondheim PowerTech: Power Technol. Sustainable Soc., POWERTECH. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PTC.2011.6019433 
+ 
+Probabilistic fault location using erroneous measurement devices 
+ 
+Woolley, N. C., Avendaño‐Mora, M., Milanovic, J. V. & Woolley, A. P. 2011 SMFG 2011 ‐ IEEE 
+International Conference on Smart Measurements for Grids, Proceedings|SMFG ‐ IEEE Int. Conf. 
+Smart Meas. Grids, Proc.. p. 101‐106 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/SMFG.2011.6125781 
+ 
+Software tool for automated design and cost benefit analysis of offshore grid 
+ 
+Nedić, D. P., Ali, M. & Milanović, J. V. 2011 IEEE PES Innovative Smart Grid Technologies 
+Conference Europe|IEEE PES Innovative. Smart Grid Technol. Conf. Europe. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ISGTEurope.2011.6162744 
+ 
+Subsynchronous resonance in meshed networks with HVDC lines 
+
+-----
+ 
+Adrees, A. & Milanovic, J. V. 2011 IEEE PES Innovative Smart Grid Technologies Conference 
+Europe|IEEE PES Innovative. Smart Grid Technol. Conf. Europe. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ISGTEurope.2011.6162756 
+2010 
+ 
+Assessment of techno‐economic contribution of FACTS devices to power system operation 
+ 
+Alabduljabbar, A. A. & Milanović, J. V. Oct 2010 In : Electric Power Systems Research. 80, 10, p. 
+1247‐1255 8 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1016/j.epsr.2010.04.008 
+ 
+Global voltage sag mitigation with FACTS‐based devices 
+ 
+Zhang, Y. & Milanović, J. V. Oct 2010 In : IEEE Transactions on Power Delivery. 25, 4, p. 2842‐2850 
+8 p., 5560765 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2010.2052396 
+ 
+Modeling of FACTS devices for voltage sag mitigation studies in large power systems 
+ 
+Milanović, J. V. & Zhang, Y. Oct 2010 In : IEEE Transactions on Power Delivery. 25, 4, p. 3044‐3052 
+8 p., 5565540 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2010.2052395 
+
+-----
+ 
+Damping of system oscillatory modes by a phase compensated gas turbine governor 
+ 
+Yee, S. K., Milanović, J. V. & Hughes, F. M. Jun 2010 In : Electric Power Systems Research. 80, 6, 
+p. 667‐674 7 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1016/j.epsr.2009.10.013 
+ 
+CIGRE/CIRED/UIE JWG C4.110: “Voltage Dip Immunity of Equipment and Installations” 
+ 
+Bollen, M. , Stephens, M. , Djokić, S. , Stockman, K. , Milanovic, J. , Milanović, J. V. , Gordón, J. R. 
+, Neumann, R. , Ethier, G. , Corcoles, F. , Ferguson, A. , Goossens, P. , Ligot, P. , Leiria, A. L. , 
+Marteyn, P. , McEachern, A. , Mentzer, J. , McMichael, I. , Minnaar, U. , Reusel, K. V. & 2 others 
+Apr 2010 No publisher name. 
+Research output: Book/Report › Commissioned report 
+ 
+ 
+Global minimization of financial losses due to voltage sags with FACTS based devices 
+ 
+Milanovic, J. V. & Zhang, Y. Jan 2010 In : IEEE Transactions on Power Delivery. 25, 1, p. 298‐306 8 
+p., 5352295 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2009.2035419 
+ 
+Modelling of V‐Hz and vector controlled ASDs in PSCAD/EMTDC for voltage sag studies 
+ 
+Vegunta, S. C., Milanović, J. V. & Djokić, S. Ž. Jan 2010 In : Electric Power Systems Research. 80, 
+1, p. 1‐8 7 p. 
+Research output: Contribution to journal › Article 
+
+-----
+ 
+DOI: 10.1016/j.epsr.2009.07.015 
+ 
+Comparison of dynamic performance of meshed networks with different types of HVDC lines 
+ 
+Preece, R. & Milanović, J. V. 2010 IET Conference Publications|IET Conf Publ. Vol. 2010 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1049/cp.2010.1001 
+ 
+Voltage dip immunity aspects of powerelectronics equipment ‐ Recommendations from 
+CIGRE/CIRED/UIE JWG C4.110 
+ 
+Bollen, M. H. J., Cundeva, S., Gordon, J. M. R., Djokic, S. Z., Stockman, K., Milanovic, J. V., 
+Neumann, R. & Ethier, G. 2010 Proceedings of EPE‐PEMC 2010 ‐ 14th International Power 
+Electronics and Motion Control Conference|Proc. EPE‐PEMC ‐ Int. Power Electron. Motion 
+Control Conf.. p. T1517‐T1524 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/EPEPEMC.2010.5606512 
+ 
+Voltage‐dip immunity of equipment and installations – status and need for further work 
+ 
+Milanovic, J., Bollen, M. H. J., Gordon, J. R., Djokić, S. Ž., Stockman, K., Milanović, J. V., Neumann, 
+R., Ethier, G. & Zavoda, F. 2010 CD Rom of the China International Conference on Electricity 
+Distribution (CICED’2010). 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+2009 
+ 
+Phase compensated gas turbine governor for damping oscillatory modes 
+
+-----
+ 
+Yee, S. K., Milanović, J. V. & Hughes, F. M. Aug 2009 In : Electric Power Systems Research. 79, 8, 
+p. 1192‐1199 7 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1016/j.epsr.2009.02.013 
+ 
+CIGRE WG C4.102: “Voltage Dip Evaluation and Prediction Tools” 
+ 
+Milanovic, J., Martinez‐Velasco (Convenor), J. A., Bollen, M., Milanović, J. V., Olguin, G., Leborgne, 
+R. C., Abi‐Samra, N., Hatziargyriou, N., Schilder, M., Aung, M. T. & Djokić, S. Ž. Feb 2009 CIGRE. 
+Research output: Book/Report › Commissioned report 
+ 
+ 
+Voltage Dip evaluation and prediction tools 
+ 
+Martínez‐Velasco, J. A., Abi‐Samra, N., Aung, M. T., Bollen, M., Djokic, S. Z., Hatziargyriou, N., 
+Leborgne, R. C., Milanović, J. V., Milanovic, J., Olguin, G. & Schilder, M. Feb 2009 In : Electra. 209, 
+p. 67‐76 5 p. 
+Research output: Contribution to journal › Article 
+ 
+ 
+The impact of distributed synchronous generators on quality of electricity supply and transient 
+stability of real distribution network 
+ 
+Calderaro, V., Milanovic, J. V., Kayikci, M. & Piccolo, A. Jan 2009 In : Electric Power Systems 
+Research. 79, 1, p. 134‐143 9 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1016/j.epsr.2008.05.022 
+ 
+
+-----
+Advanced characterization of voltage sags and assessment of equipment sensitivity 
+ 
+Gnativ, R. M. & Milanović, J. V. 2009 In : International Journal of Power and Energy Systems. 29, 
+1, p. 19‐27 8 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.2316/Journal.203.2009.1.203‐3858 
+ 
+Dynamic contribution of DFIG‐based wind plants to system frequency disturbances 
+ 
+Kayikçi, M. & Milanović, J. V. 2009 In : IEEE Transactions on Power Systems. 24, 2, p. 859‐867 8 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2009.2016062 
+ 
+Generic failure‐risk assessment of industrial processes due to voltage sags 
+ 
+Chan, J. Y., Milanović, J. V. & Delahunty, A. 2009 In : IEEE Transactions on Power Delivery. 24, 4, 
+p. 2405‐2414 9 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2009.2014493 
+2008 
+ 
+Assessing transient response of DFIG‐based wind plants ‐ The influence of model simplifications 
+and parameters 
+ 
+Kayikçi, M. & Milanović, J. V. May 2008 In : IEEE Transactions on Power Systems. 23, 2, p. 545‐
+554 9 p. 
+Research output: Contribution to journal › Article 
+ 
+
+-----
+DOI: 10.1109/TPWRS.2008.919310 
+ 
+The influence of induction motors on voltage sag propagation ‐ Part I: Accounting for the change 
+in sag characteristics 
+ 
+Milanovic, J. V., Aung, M. T. & Vegunta, S. C. Apr 2008 In : IEEE Transactions on Power Delivery. 
+23, 2, p. 1063‐1071 8 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2007.915846 
+ 
+The Influence of Induction Motors on Voltage Sag Propagation‐Part II: Accounting for the Change 
+in Sag Performance at LV Buses 
+ 
+Milanović, J. V., Vegunta, S. C. & Aung, M. T. Apr 2008 In : IEEE Transactions on Power Delivery. 
+23, 2, p. 1072‐1078 6 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2007.915851 
+ 
+Dynamic load modelling based on measurements in medium voltage distribution network 
+ 
+Stojanović, D. P., Korunović, L. M. & Milanović, J. V. Feb 2008 In : Electric Power Systems 
+Research. 78, 2, p. 228‐238 10 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1016/j.epsr.2007.02.003 
+ 
+Overview and comparative analysis of gas turbine models for system stability studies 
+ 
+
+-----
+Yee, S. K., Milanović, J. V. & Hughes, F. M. Feb 2008 In : IEEE Transactions on Power Systems. 23, 
+1, p. 108‐118 10 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2007.907384 
+ 
+Fuzzy logic controller for decentralized stabilization of multimachine power systems 
+ 
+Yee, S. K. & Milanović, J. V. 2008 In : IEEE Transactions on Fuzzy Systems. 16, 4, p. 971‐981 10 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TFUZZ.2008.917296 
+ 
+Identification of static load characteristics based on measurements in medium‐voltage 
+distribution network 
+ 
+Korunović, L. M., Stojanović, D. P. & Milanović, J. V. 2008 In : IET Generation, Transmission and 
+Distribution. 2, 2, p. 227‐234 7 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1049/iet‐gtd:20070091 
+ 
+Power electronics in smart electrical energy networks 
+ 
+Milanovic, J., Strzelecki, R. & Benysek, G. 2008 Power Systems|Power Systems. Springer , Vol. 34, 
+42 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Chapter 
+ 
+DOI: 10.1007/978‐1‐84800‐318‐7 
+2007 
+ 
+
+-----
+Minimization of voltage sag costs by optimal reconfiguration of distribution network Using 
+genetic algorithms 
+ 
+Bahadoorsingh, S., Milanović, J. V., Zhang, Y., Gupta, C. P. & Dragovic, J. Oct 2007 In : IEEE 
+Transactions on Power Delivery. 22, 4, p. 2271‐2278 7 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2007.899524 
+ 
+Reactive power control strategies for DFIG‐based plants 
+ 
+Kayikçi, M. & Milanović, J. V. Jun 2007 In : IEEE Transactions on Energy Conversion. 22, 2, p. 389‐
+396 7 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TEC.2006.874215 
+ 
+Establishing harmonic distortion level of distribution network based on stochastic aggregate 
+harmonic load models 
+ 
+Au, M. T. & Milanović, J. V. Apr 2007 In : IEEE Transactions on Power Delivery. 22, 2, p. 1086‐1092 
+6 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2007.893193 
+ 
+Development of stochastic aggregate harmonic load model based on field measurements 
+ 
+Au, M. T. & Milanović, J. V. Jan 2007 In : IEEE Transactions on Power Delivery. 22, 1, p. 323‐330 7 
+p. 
+Research output: Contribution to journal › Article 
+
+-----
+ 
+DOI: 10.1109/TPWRD.2006.881455 
+ 
+Planning approaches for the strategic placement of passive harmonic filters in radial distribution 
+networks 
+ 
+Au, M. T. & Milanović, J. V. Jan 2007 In : IEEE Transactions on Power Delivery. 22, 1, p. 347‐353 6 
+p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2006.881453 
+ 
+Advanced voltage sag characterisation II: Point on wave 
+ 
+Djokić, S. Ž., Milanović, J. V. & Rowland, S. M. 2007 In : IET Generation, Transmission and 
+Distribution. 1, 1, p. 146‐154 8 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1049/iet‐gtd:2005043 
+ 
+CIGRE/CIRED/UIE JWG C4.110, Voltage dip immunity of equipment in installations 
+ 
+Milanovic, J., Bollen, M., Stephens, M., Stockman, K., Djokić, S., McEachern, A. & Gordón, J. R. 
+2007 In : 2007 9th International Conference on Electrical Power Quality and Utilisation, EPQU. 
+4424214 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/EPQU.2007.4424214 
+ 
+Influence of distributed wind generation and load composition on voltage sags 
+ 
+
+-----
+Milanović, J. V., Ali, H. & Aung, M. T. 2007 In : IET Generation, Transmission and Distribution. 1, 
+1, p. 13‐22 9 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1049/iet‐gtd:20050111 
+ 
+Power quality and compatibility levels: A general approach 
+ 
+Djokić, S. Ž. & Milanović, J. V. 2007 In : IEEE Transactions on Power Delivery. 22, 3, p. 1857‐1862 
+5 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2007.899270 
+2006 
+ 
+Advanced voltage sag characterisation. Part I: Phase shift 
+ 
+Djokić, S. Ž. & Milanović, J. V. Jul 2006 In : IEE Proceedings: Generation, Transmission and 
+Distribution. 153, 4, p. 423‐430 7 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1049/ip‐gtd:20050350 
+ 
+Probabilistic assessment of equipment trips due to voltage sags 
+ 
+Gupta, C. P. & Milanovíc, J. V. Apr 2006 In : IEEE Transactions on Power Delivery. 21, 2, p. 711‐
+718 7 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2005.855447 
+ 
+
+-----
+Probabilistic assessment of financial losses due to interruptions and voltage sags ‐ Part I: The 
+methodology 
+ 
+Milanović, J. V. & Gupta, C. P. Apr 2006 In : IEEE Transactions on Power Delivery. 21, 2, p. 918‐
+924 6 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2006.870988 
+ 
+Probabilistic assessment of financial losses due to interruptions and voltage sags ‐ Part II: Practical 
+implementation 
+ 
+Milanović, J. V. & Gupta, C. P. Apr 2006 In : IEEE Transactions on Power Delivery. 21, 2, p. 925‐
+932 7 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2006.870987 
+ 
+Closure on "Sensitivity of personal computers to voltage sags and short interruptions" 
+ 
+Djokić, S. Ž. & Milanović, J. V. Jan 2006 In : IEEE Transactions on Power Delivery. 21, 1, p. 544‐545 
+1 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2005.860419 
+ 
+Stochastic prediction of voltage sags by considering the probability of the failure of the protection 
+system 
+ 
+Aung, M. T. & Milanović, J. V. Jan 2006 In : IEEE Transactions on Power Delivery. 21, 1, p. 322‐329 
+7 p. 
+
+-----
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2005.852385 
+ 
+The influence of transformer winding connections on the propagation of voltage sags 
+ 
+Aung, M. T. & Milanović, J. V. Jan 2006 In : IEEE Transactions on Power Delivery. 21, 1, p. 262‐269 
+7 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2005.855446 
+ 
+Nonlinear time‐response optimisation method for tuning power system stabilisers 
+ 
+Yee, S. K. & Milanović, J. V. 2006 In : IEE Proceedings: Generation, Transmission and Distribution. 
+153, 3, p. 269‐275 6 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1049/ip‐gtd:20050312 
+ 
+Power Quality Standards: Shortfalls, Gaps and Ambiguities 
+ 
+Milanovic, J., Djokić, S. Ž., Milanović, J. V. & Chapman, D. 2006 In : Power quality application 
+guide, Section 5.4.1, Leonardo Power Quality Initiative. 
+Research output: Contribution to journal › Article 
+ 
+2005 
+ 
+Propagation and single‐tuned filter based mitigation of harmonics in distribution networks 
+ 
+
+-----
+Milanovic, J., Dragović, J., Milanović, J. V., Katić, V. A. & Au, M. T. Dec 2005 In : Unknown Journal. 
+9, 2, p. 60‐65 6 p. 
+Research output: Contribution to journal › Article 
+ 
+ 
+Contribution of DFIG based wind plants to power quality and stability of local network 
+ 
+Milanovic, J., Kayikci, M. & Milanović, J. V. Nov 2005 Paper T7‐1.4. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Propagation and single‐tuned filter based mitigation of harmonics in distribution networks 
+ 
+Milanovic, J., Dragović, J., Milanović, J. V., Katić, V. A. & Au, M. T. Nov 2005 Paper T6‐1.1. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+The influence of distributed generation and power conditioning equipment on distribution 
+network performance 
+ 
+Milanovic, J., Djokić, S. Ž., Milanović, J. V. & Kayikci, M. Nov 2005 Paper T6‐1.5. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+A new method for classification and presentation of voltage reduction events 
+ 
+Djokić, S. Ž., Milanović, J. V., Chapman, D. J., McGranaghan, M. F. & Kirschen, D. S. Oct 2005 In : 
+IEEE Transactions on Power Delivery. 20, 4, p. 2576‐2584 8 p. 
+Research output: Contribution to journal › Article 
+ 
+
+-----
+DOI: 10.1109/TPWRD.2005.852322 
+ 
+Assessment of the quality of supply in networks with distributed generators based on 
+measurements and computer simulations ‐ invited paper 
+ 
+Djokić, S. Ž. & Milanovic, J. Oct 2005 host publication. p. 4.2/1‐4.2/10 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Establishing An Aggregate Harmonic Load Model at Low Voltage Bus Based on Harmonic Field 
+Measurements 
+ 
+Milanovic, J., Au, M. T. & Milanović, J. V. Jun 2005 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Shortfalls of existing methods for classification and presentation of voltage reduction events 
+ 
+Djokić, S. Ž., Milanović, J. V., Chapman, D. J. & McGranaghan, M. F. Apr 2005 In : IEEE Transactions 
+on Power Delivery. 20, 2, p. 1640‐1649 9 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2004.833880 
+ 
+Qualitative and quantitative analysis of voltage sags in networks with significant penetration of 
+embedded generation 
+ 
+Gnativ, R. M. & Milanovic, J. V. Jan 2005 In : European Transactions on Electrical Power. 15, 1, p. 
+77‐93 16 p. 
+Research output: Contribution to journal › Article 
+ 
+
+-----
+DOI: 10.1002/etep.37 
+ 
+Sensitivity of AC adjustable speed drives to voltage sags and short interruptions 
+ 
+Djokić, S. Ž., Stockman, K., Milanović, J. V., Desmet, J. J. M. & Belmans, R. Jan 2005 In : IEEE 
+Transactions on Power Delivery. 20, 1, p. 494‐505 11 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2004.832353 
+ 
+Sensitivity of personal computers to voltage sags and short interruptions 
+ 
+Djokić, S. Ž., Desmet, J. J. M., Vanalme, G., Milanović, J. V. & Stockman, K. Jan 2005 In : IEEE 
+Transactions on Power Delivery. 20, 1, p. 375‐383 8 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2004.837828 
+ 
+The influence of fault distribution on stochastic prediction of voltage sags 
+ 
+Milanović, J. V., Aung, M. T. & Gupta, C. P. Jan 2005 In : IEEE Transactions on Power Delivery. 20, 
+1, p. 278‐285 7 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2004.835052 
+ 
+Analytical assessment of the effects of voltage sags on induction motor dynamic responses 
+ 
+Aung, M. T. & Milanović, J. V. 2005 2005 IEEE Russia Power Tech, PowerTech|IEEE Russ. Power 
+Tech, PowerTech. Institute of Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+
+-----
+ 
+DOI: 10.1109/PTC.2005.4524363 
+ 
+Comparison of the fuzzy logic and "classical" methods for robust tuning of multiple PSSs 
+ 
+Yee, S. K. & Milanović, J. V. 2005 2005 IEEE Power Engineering Society General Meeting|Power 
+Eng. Soc. Gen. Meet.. Vol. 2, p. 1375‐1380 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PES.2005.1489409 
+ 
+Contributions of enhanced generator excitation control to power system stability 
+ 
+Benarouche, A., Milanović, J. V. & Hughes, F. M. 2005 2005 IEEE Russia Power Tech, 
+PowerTech|IEEE Russ. Power Tech, PowerTech. Institute of Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PTC.2005.4524402 
+ 
+Costs of voltage sags: Comprehensive assessment procedure 
+ 
+Gupta, C. P. & Milanović, J. V. 2005 2005 IEEE Russia Power Tech, PowerTech|IEEE Russ. Power 
+Tech, PowerTech. Institute of Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PTC.2005.4524795 
+ 
+DFIG modelling and the relevance of model simplification 
+ 
+Kayikci, M. & Milanovic, J. V. 2005 IEE Conference Publication|IEE Conf Publ. Institution of 
+Engineering and Technology , Vol. 4, p. 373‐377 4 p. 
+
+-----
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Power quality and compatibility levels: A general approach 
+ 
+Djokić, S. Ž. & Milanović, J. V. 2005 2005 IEEE Russia Power Tech, PowerTech|IEEE Russ. Power 
+Tech, PowerTech. Institute of Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PTC.2005.4524449 
+ 
+Sensitivity of electrical equipment to voltage sags and short interruptions: recommendations for 
+testing 
+ 
+Milanovic, J., Djokić, S. Ž. & Milanović, J. V. 2005 In : Electrical Power Quality and Utilization 
+Journal. 11, 1, p. 17‐32 16 p. 
+Research output: Contribution to journal › Article 
+ 
+ 
+Strategies for DFIG voltage control during transient operation 
+ 
+Kayikci, M., Anaya‐Lara, O., Milanovic, J. V. & Jenkins, N. 2005 IEE Conference Publication|IEE 
+Conf Publ. Institution of Engineering and Technology , Vol. 4, p. 379‐383 4 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+2004 
+ 
+Propagation of asymmetrical sags and the influence of boundary crossing lines on voltage sag 
+prediction 
+ 
+
+-----
+Aung, M. T., Milanović, J. V. & Gupta, C. P. Oct 2004 In : IEEE Transactions on Power Delivery. 19, 
+4, p. 1819‐1827 8 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2004.835427 
+ 
+Sensitivity of AC coil contactors to voltage sags, short interruptions, and undervoltage transients 
+ 
+Djokić, S. Ž., Milanović, J. V. & Kirschen, D. S. Jul 2004 In : IEEE Transactions on Power Delivery. 
+19, 3, p. 1299‐1307 8 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRD.2004.824396 
+ 
+Identification of Electromechanical Modes and Placement of PSSs Using Relative Gain Array 
+ 
+Milanović, J. V. & Duque, A. C. S. Feb 2004 In : IEEE Transactions on Power Systems. 19, 1, p. 410‐
+417 7 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2003.821454 
+ 
+Automated comprehensive assessment and visualization of voltage sag performance 
+ 
+Aung, M. T., Milanović, J. V. & Simmons, P. A. 2004 2004 11th International Conference on 
+Harmonics and Quality of Power|Int. Conf. Harmonics Qual. Power. Institute of Electrical and 
+Electronics Engineers , p. 191‐198 7 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ICHQP.2004.1409352 
+ 
+
+-----
+Comparison of the optimisation and linear sequential method for tuning of multiple PSSs 
+ 
+Yee, S. K. & Milanović, J. V. 2004 2004 IEEE Power Engineering Society General Meeting|IEEE 
+Power Eng. Soc. Gen. Meet.. Institute of Electrical and Electronics Engineers , Vol. 2, p. 1743‐1748 
+5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PES.2004.1373176 
+ 
+The influence of process equipment composition on financial losses due to voltage sags 
+ 
+Gupta, C. P., Milanovic, J. V. & Aung, M. T. 2004 2004 11th International Conference on 
+Harmonics and Quality of Power|Int. Conf. Harmonics Qual. Power. Institute of Electrical and 
+Electronics Engineers , p. 28‐34 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ICHQP.2004.1409324 
+2003 
+ 
+Influence of Voltage Sags on Personal Computers and PWM Drives 
+ 
+Milanovic, J., Djokić, S. Ž., Milanović, J. V., Desmet, J. J. M., Stockman, K. & Vanalme, G. Nov 2003 
+Paper T6‐1.4. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Modular Software for the Assessment and Visualisation of Voltage Sag Performance 
+ 
+Milanovic, J., Aung, M. T., Milanović, J. V. & Simmons, P. A. Nov 2003 Paper T6‐1.5. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+
+-----
+ 
+Power quality: state of the art and future trends ‐ invited paper 
+ 
+Milanovic, J. & Milanović, J. V. Nov 2003 Paper IP3‐1. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Voltage‐tolerance Curves of PWM Drives: Comparison of Simulation and Measurement Results 
+ 
+Djokić, S. Ž., Milanovic, J., Stockman, K. & Belmans, R. Nov 2003 Paper T6‐1.3. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Equipment sensitivity to disturbances in voltage supply‐ invited paper 
+ 
+Milanovic, J., Milanović, J. V. & Djokić, S. Ž. Oct 2003 host publication. p. 3.7/1‐3.7/14 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Assessment of sensitivity of three‐phase motor drives to asymmetrical voltage disturbances 
+ 
+Djokić, S. Ž., Milanovic, J., Stockman, K. & Desmet, J. J. M. Sep 2003 host publication. p. 781‐786 
+6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Road map for tuning power system controllers 
+ 
+Milanovic, J., Milanović, J. V. & Yee, S. K. Sep 2003 host publication. p. 767‐774 8 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+
+-----
+ 
+ 
+Strategic placement of harmonic filters in distribution networks 
+ 
+Milanovic, J. & Yee, S. K. Sep 2003 host publication. p. 787‐793 7 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+New digital multispeed method for indirect measurement of transient electrical and shaft 
+torques 
+ 
+Radosavljević, R. L. J. & Milanović, J. V. Feb 2003 In : Electric Power Components and Systems. 
+31, 2, p. 189‐209 20 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1080/15325000390112143 
+ 
+Influence of Voltage Sags on Personal Computers and PWM Drives 
+ 
+Milanovic, J., Djokić, S. Ž., Milanović, J. V., Desmet, J. J. M., Stockman, K. & Vanalme, G. 2003 In : 
+Elektronika . 7, 2, p. 110‐113 
+Research output: Contribution to journal › Article 
+ 
+ 
+Load Modeling for Voltage Sag Studies 
+ 
+Martinez, J. A., Martin‐Arnedo, J. & Milanovic, J. V. 2003 2003 IEEE Power Engineering Society 
+General Meeting, Conference Proceedings|2003 IEEE Power Eng. Soc. Gen. Meet. Conf. Proc.. 
+Institute of Electrical and Electronics Engineers , Vol. 4, p. 2508‐2513 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+
+-----
+DOI: 10.1109/PES.2003.1271037 
+ 
+Power quality: state of the art and future trends 
+ 
+Milanovic, J. & Milanović, J. V. 2003 In : Unknown Journal. 7, 2, p. 32‐37 
+Research output: Contribution to journal › Article 
+ 
+2002 
+ 
+Assessment of Customer Damage Costs due to Sags 
+ 
+Gupta, C. P., Aung, M. T., Kirschen, D. S. & Milanovic, J. Nov 2002 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Damping of the low‐frequency oscillations of the generator: Dynamic interactions and the 
+effectiveness of the controllers 
+ 
+Milanović, J. V. Nov 2002 In : IEE Proceedings: Generation, Transmission and Distribution. 149, 6, 
+p. 753‐760 7 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1049/ip‐gtd:20020700 
+ 
+Modelling of voltage disturbance generator in PSCAD/EMTDC 
+ 
+Djokić, S. Ž., Milanovic, J. & Charalambous, K. A. Nov 2002 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+
+-----
+Power Quality Waveforms Compression and Reconstruction using Wavelets 
+ 
+Mokhtar, A., Li, H. & Milanovic, J. Nov 2002 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Software for extraction of voltage sag characteristics from measured voltage disturbance 
+waveforms 
+ 
+Gnativ, R. & Milanovic, J. Nov 2002 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Robust ranking of loads by using sensitivity factors and limited number of points from a 
+hyperspace of uncertain parameters 
+ 
+Maslennikov, V. A., Milanović, J. V. & Ustinov, S. M. Aug 2002 In : IEEE Transactions on Power 
+Systems. 17, 3, p. 565‐570 5 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/TPWRS.2002.800892 
+ 
+Comparative Analysis Of Transient Operation of Two Different Embedded Gas Turbine Power 
+Plants 
+ 
+Chilvers, I. & Milanovic, J. Jun 2002 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Inherent dynamic properties of interconnected power systems 
+ 
+
+-----
+Ustinov, S. M., Milanović, J. V. & Maslennikov, V. A. Jun 2002 In : International Journal of Electrical 
+Power and Energy Systems. 24, 5, p. 371‐378 7 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1016/S0142‐0615(01)00044‐8 
+ 
+Method for considering uncertainties for robust tuning of PSS and evaluation of stability limits 
+ 
+Maslennikov, V. A., Ustinov, S. M. & Milanović, J. V. May 2002 In : IEE Proceedings: Generation, 
+Transmission and Distribution. 149, 3, p. 295‐299 4 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1049/ip‐gtd:20020105 
+ 
+Power system load‐model identification through simulation of field measurements 
+ 
+Milanovic, J. V., Halley, A. J. & Piekutowski, M. Mar 2002 In : European Transactions on Electrical 
+Power. 12, 2, p. 151‐158 7 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1002/etep.4450120210 
+ 
+Computer simulation of voltage sag generator 
+ 
+Milanovic, J., Dokić, S. Ž., Milanović, J. V. & Charalambous, K. A. 2002 host publication. Institute 
+of Electrical and Electronics Engineers , Vol. 2, p. 649‐654 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ICHQP.2002.1221512 
+ 
+Identification of voltage sag characteristics from the measured responses 
+
+-----
+ 
+Milanovic, J., Gnativ, R. M. & Milanović, J. V. 2002 host publication. Institute of Electrical and 
+Electronics Engineers , Vol. 2, p. 535‐540 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ICHQP.2002.1221492 
+ 
+Improvements in power system voltage control and power transfer capabilities using advanced 
+generator excitation control 
+ 
+Benarouche, A., Milanovic, J. & Hughes, F. M. 2002 host publication. p. 275‐280 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Stability of distribution networks with embedded generators and induction motors 
+ 
+Milanović, J. V. & David, T. M. 2002 Proceedings of the IEEE Power Engineering Society 
+Transmission and Distribution Conference|Proc IEEE Power Eng Soc Trans Distrib Conf. Institute 
+of Electrical and Electronics Engineers , Vol. 2, p. 1023‐1028 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PESW.2002.985164 
+ 
+Transient analysis of a combined cycle power plant (CCGT) connected directly to the distribution 
+network 
+ 
+Chilvers, I. M. & Milanović, J. V. 2002 IEE Conference Publication|IEE Conf Publ. Institution of 
+Engineering and Technology , p. 461‐466 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1049/cp:20020079 
+
+-----
+2001 
+ 
+Sensitivity of torsional modes and torques to uncertainty in shaft mechanical parameters 
+ 
+Milanović, J. V., Fu, C. P. N., Radosavljević, R. & Lazarević, Z. Oct 2001 In : Electric Power 
+Components and Systems. 29, 10, p. 867‐881 14 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1080/15325000152646497 
+ 
+Characteristics And Presentation Of Voltage Sags In 0dq Axes 
+ 
+Gnativ, R. & Milanovic, J. Sep 2001 host publication. p. 298‐303 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Voltage sags in distribution networks with embedded generators and induction motors 
+ 
+Milanovic, J., Milanović, J. V. & Gnativ, R. Feb 2001 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Characteristics of voltage sags in radial networks with dynamic loads and embedded generators 
+ 
+Milanović, J. V. & Gnativ, R. 2001 2001 IEEE Porto Power Tech Proceedings|IEEE Porto Power 
+Tech Proc.. Institute of Electrical and Electronics Engineers , Vol. 1, p. 215‐221 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PTC.2001.964601 
+ 
+
+-----
+Load model development based on measured data 
+ 
+Dai, F. T., Milanovic, J. V., Jenkins, N. & Roberts, V. 2001 Proceedings of the Universities Power 
+Engineering Conference|Proc Univ Power Eng Conf. Vol. 36, p. 1703‐1708 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Power System Load Model Identification Based On Measurement Data 
+ 
+Dai, F., Milanovic, J., Jenkins, N. & Roberts, V. 2001 host publication. p. 344‐349 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Selection of auxiliary input signal and location of a SVC for damping electromechanical 
+oscillations 
+ 
+Chen, J., Milanovic, J. V. & Hughes, F. M. 2001 Proceedings of the IEEE Power Engineering Society 
+Transmission and Distribution Conference|Proc IEEE Power Eng Soc Trans Distrib Conf. Vol. 2, p. 
+623‐627 4 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PESW.2001.916921 
+ 
+The influence of load bus voltage variation on the assessment of load model parameters 
+ 
+Dai, F., Milanovic, J., Jenkins, N. & Roberts, V. 2001 host publication. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+The influence of load composition on operation of autonomous wind‐diesel system 
+ 
+
+-----
+Milanovic, J. & Sultanis, N. 2001 host publication. Institute of Electrical and Electronics Engineers 
+, Vol. 4 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PTC.2001.964836 
+ 
+The use of relative gain array for optimal placement of PSSs 
+ 
+Milanović, J. V. & Duque, A. C. S. 2001 Proceedings of the IEEE Power Engineering Society 
+Transmission and Distribution Conference|Proc IEEE Power Eng Soc Trans Distrib Conf. Institute 
+of Electrical and Electronics Engineers , Vol. 3, p. 992‐996 4 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PESW.2001.917203 
+ 
+Voltage sag propagation in systems with embedded generation and induction motors 
+ 
+Gnativ, R. & Milanović, J. V. 2001 Proceedings of the IEEE Power Engineering Society Transmission 
+and Distribution Conference|Proc IEEE Power Eng Soc Trans Distrib Conf. Institute of Electrical 
+and Electronics Engineers , Vol. 1, p. 474‐479 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PESS.2001.970072 
+2000 
+ 
+The influence of load dynamics on voltage stability 
+ 
+Milanovic, J., Benarouche, A. & Milanović, J. V. Sep 2000 CD Rom. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+
+-----
+Small‐disturbance stability of saturated anisotropic synchronous machine models 
+ 
+Milanovic, J., Milanović, J. V., Al‐Jowder, F. & Levi, E. Aug 2000 Vol. 2. p. 898‐902 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Sensitivity of harmonic load model parameters to voltage and current waveforms 
+ 
+Milanovic, J., Gul, O. & Milanović, J. V. 2000 host publication. Vol. 3, p. 1041‐1046 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ICHQP.2000.896872 
+ 
+The influence of distribution network topology on voltage sag propagation 
+ 
+Gnativ, R. & Milanovic, J. V. 2000 Proceedings of the Universities Power Engineering 
+Conference|Proc Univ Power Eng Conf. p. 160 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+The influence of loading conditions and network topology on voltage sags 
+ 
+Milanovic, J., Milanović, J. V., Gnativ, R. & Chow, K. W. M. 2000 host publication. Institute of 
+Electrical and Electronics Engineers , Vol. 2, p. 757‐762 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ICHQP.2000.897773 
+ 
+The influence of measurement delays on estimated load model parameters 
+ 
+
+-----
+Milanovic, J., Fangtao, D., Milanović, J. V. & Jenkins, N. 2000 host publication. Institute of 
+Electrical and Electronics Engineers , Vol. 1, p. 324‐328 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ICHQP.2000.897048 
+1999 
+ 
+Influence of dynamic cross‐saturation on simulation accuracy of saturated anisotopic 
+synchronous machine models 
+ 
+Milanovic, J., Levi, E. & Milanović, J. V. Sep 1999 Vol. 3. p. 365‐370 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+The assessment and mitigation of voltage sags and harmonics ‐ invited paper 
+ 
+Milanovic, J. & Milanović, J. V. Mar 1999 host publication. p. 1‐9 9 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+On unreliability of exponential load models 
+ 
+Milanović, J. V. 15 Feb 1999 In : Electric Power Systems Research. 49, 1, p. 1‐9 8 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1016/S0378‐7796(98)00047‐9 
+ 
+Comparison of the effectiveness of PSS and SVC in damping power system oscillations 
+ 
+
+-----
+Chen, J., Milanovic, J. & Hughes, F. M. 1999 host publication. Budapest, Hungary: Institute of 
+Electrical and Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PTC.1999.826534 
+ 
+Higher order dynamic load models in small‐signal stability studies 
+ 
+Milanovic, J. & Koh, K. N. A. 1999 host publication. Budapest, Hungary: Institute of Electrical and 
+Electronics Engineers 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/PTC.1999.826499 
+ 
+Ranking loads in power systems comparison of different approaches 
+ 
+Milanovic, J. V., Hiskens, I. A. & Maslennikov, V. A. 1999 In : IEEE Transactions on Power Systems. 
+14, 2, p. 614‐619 5 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/59.761888 
+1998 
+ 
+Power Quality Survey in Tasmania 
+ 
+Negnevitsky, M., Milanovic, J. & Green, M. Nov 1998 host publication. Hong Kong, Vol. 1, p. 304‐
+314 11 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1049/cp:19971891 
+ 
+
+-----
+Modal analysis and damping of subsynchronous oscillations 
+ 
+Milanovic, J., Milanović, J. V. & Koh, M. C. A. Sep 1998 Vol.1. p. 30‐35 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Variation in damping and frequency of torsional modes caused by uncertainty in shaft mechanical 
+parameters 
+ 
+Milanovic, J., Milanović, J. V. & Fu, C. P. N. Sep 1998 Vol.1. p. 36‐41 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Damping enhancement by robust tuning of svc controllers in the presence of load parameters 
+uncertainty 
+ 
+Milanovic, J. V. & Hiskens, I. A. 1998 In : IEEE Transactions on Power Systems. 13, 4, p. 1298‐1303 
+5 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/59.736268 
+ 
+Power quality problems and solutions: current understanding 
+ 
+Milanovic, J., Milanović, J. V. & Negnevitsky, M. 1998 host publication. Vol. 1, p. 30‐35 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/ICHQP.1998.759835 
+ 
+The influence of shaft spring constant uncertainty on torsional modes of turbogenerator 
+
+-----
+ 
+Milanović, J. V. 1998 In : IEEE Transactions on Energy Conversion. 13, 2, p. 170‐175 5 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/60.678981 
+1997 
+ 
+Comparative study on quality of electricity supply in Tasmania 
+ 
+Milanovic, J., Negnevitsky, M., Milanović, J. V. & Green, M. Sep 1997 Vol. 2. p. 271‐276 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Quality of electricity supply in Tasmania: Problems reported by the utility and industry 
+ 
+Milanovic, J., Milanović, J. V. & Negnevitsky, M. Sep 1997 Vol.2. p. 361‐364 4 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Torsional behaviour of the shaft of turbogenerator in the presence of mechanical parameters 
+uncertainty 
+ 
+Milanovic, J. & Milanović, J. V. Sep 1997 Vol. 1. p. 167‐172 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Improvement of communications and control by digital modulation used on power line carriers 
+ 
+Milanovic, J., Cosic, A. J., Faulkner, M. & Milanović, J. V. Jul 1997 Vol.3. p. 20‐25 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+
+-----
+ 
+ 
+On robust tunning of FACTS controllers for the systems with uncertain parameters 
+ 
+Milanovic, J. & Milanović, J. V. Jul 1997 Vol. 3. p. 49‐55 7 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Effect of load uncertainty on small disturbance stability margins in open‐access power systems ‐ 
+invited paper 
+ 
+Milanovic, J., Hill, D. J. & Milanović, J. V. 1997 host publication. Institute of Electrical and 
+Electronics Engineers , Vol. 5, p. 648‐657 10 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/HICSS.1997.663228 
+ 
+Locating dynamic loads which significantly influence damping 
+ 
+Hiskens, I. A. & Milanović, J. V. 1997 In : IEEE Transactions on Power Systems. 12, 1, p. 255‐261 6 
+p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/59.574946 
+ 
+Overview, current trends and latest results in estimating the effects of load modelling on power‐
+system damping and stability 
+ 
+Milanovic, J. V. 1997 In : European Transactions on Electrical Power. 7, 2, p. 107‐113 6 p. 
+Research output: Contribution to journal › Article 
+ 
+
+-----
+DOI: 10.1002/etep.4450070205 
+ 
+Tuning of SVC stabiliser to compensate the influence of voltage dependent loads 
+ 
+Milanovic, J. & Milanović, J. V. 1997 host publication. San Diego, CA: Institute of Electrical and 
+Electronics Engineers , Vol. 3, p. 2553‐2558 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+DOI: 10.1109/CDC.1997.657730 
+1996 
+ 
+Comparison of two different methods for locating important loads in power system 
+ 
+Milanovic, J., Milanović, J. V., Maslennikov, V. A. & Hiskens, I. A. Oct 1996 Vol. 1. p. 113‐118 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+On synchronous generator steady‐state stability in the presence of uncertainty in local load 
+parameters 
+ 
+Milanovic, J. & Milanović, J. V. Sep 1996 Vol.3. p. 336‐341 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Statistical analysis of power system damping variation due to load model uncertainty 
+ 
+Milanovic, J., Milanović, J. V. & Hiskens, I. A. Sep 1996 Vol. 2. p. 347‐352 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+
+-----
+Torsional oscillations and stability of turbogenerator 
+ 
+Milanovic, J., Dobrijević, D. M. & Milanović, J. V. Jun 1996 host publication. p. 138‐141 4 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+1995 
+ 
+Determining loads which significantly influence power system damping 
+ 
+Milanovic, J., Milanović, J. V. & Hiskens, I. A. Sep 1995 Vol.3. p. 391‐397 7 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Oscillatory interaction between synchronous generator and local voltage‐dependent load 
+ 
+Milanovic, J. V., Hiskens, I. A. & Milanović, J. V. Sep 1995 In : IEE Proceedings: Generation, 
+Transmission and Distribution. 142, 5, p. 473‐480 7 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1049/ip‐gtd:19952120 
+ 
+Turbine‐generator shaft torsional torques due to single‐phase to ground fault with automatic 
+reclosing 
+ 
+Milanovic, J. & Milanović, J. V. Sep 1995 host publication. p. 145‐150 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Damping control of SVCs in the presence of dynamic loads 
+ 
+
+-----
+Milanovic, J., Hiskens, I. A. & Milanović, J. V. Jun 1995 Vol. Power Systems. p. 376‐379 4 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Effects of load dynamics on power system damping 
+ 
+Milanovic, J., Milanović, J. V. & Hiskens, I. A. 1995 In : IEEE Transactions on Power Systems. 10, 2, 
+p. 1022‐1028 6 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/59.387947 
+ 
+Load modelling in studies of power system damping 
+ 
+Milanovic, J., Hiskens, I. A. & Milanović, J. V. 1995 In : IEEE Transactions on Power Systems. 10, 4, 
+p. 1781‐1788 8 p. 
+Research output: Contribution to journal › Article 
+ 
+DOI: 10.1109/59.476041 
+1994 
+ 
+The influence of load dynamics on power system oscillations 
+ 
+Milanovic, J., Milanović, J. V. & Hiskens, I. A. Nov 1994 Vol.1. p. 171‐176 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+The effects of dynamic load on steady state stability of synchronous generator 
+ 
+Milanovic, J., Milanović, J. V. & Hiskens, I. A. Sep 1994 Vol.2. p. 722‐727 6 p. 
+
+-----
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+1993 
+ 
+The effects of distributed mechanical torques on stable operation of the turbogenerator 
+ 
+Milanovic, J., Milanović, J. V. & Dobrijević, D. M. Sep 1993 Vol.2. p. 303‐308 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+Modelling of the components of the electro‐mechanical system for analysing the 
+electromechanical disturbances 
+ 
+Milanovic, J., Milanović, J. V. & Petrović, D. S. 1993 In : Unknown Journal. No. 1/93, p. E1‐E6 
+Research output: Contribution to journal › Article 
+ 
+1992 
+ 
+The influence of torsional oscillations on the static stability of the turbogenerator 
+ 
+Petrović, D. S., Milanovic, J. & Dobrijević, D. M. Sep 1992 host publication. p. 88‐92 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+1991 
+ 
+The effects of different fault clearing and reclosing times on the torsional stresses of the shafts 
+of the turbine‐generators' 
+ 
+Milanovic, J., Jovanović, M. G. & Petrović, D. S. Nov 1991 Vol. 1. p. 259‐269 11 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+
+-----
+ 
+ 
+Frequency converter starting a self‐controlled synchronous motor 
+ 
+Milanovic, J., Milanović, J. V. & Petrović, D. S. Aug 1991 Pt. 1. p. 352‐357 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+The effects of system faults and faults clearing on the mechanical stressing of large turbine‐
+generators' 
+ 
+Milanovic, J., Jovanović, M. G. & Petrović, D. S. Aug 1991 Pt. 2. p. 670‐675 6 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+An algorithm for the computation of the symmetrical components based on the four‐sample 
+method' 
+ 
+Djurić, M. B., Terzija, V., Skokljev, I. & Milanovic, J. 1991 Vol.1. p. 177‐181 5 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+ 
+The influence of different switching times and regulators on the peak shaft torques of the 
+turbine‐generators 
+ 
+Milanovic, J. & Milanović, J. V. 1991 In : Publications of the Faculty of the Electrical Engineering, 
+University of Belgrade. Electroenergetics, p. 29‐38 
+Research output: Contribution to journal › Article 
+ 
+1990 
+ 
+
+-----
+The analysis of the influence of rotor's circuit resistances to dynamics of the salient pole 
+synchronous machine during asynchronous starting' 
+ 
+Milanovic, J. & Petrović, D. S. Sep 1990 Vol. 4. p. 163‐174 12 p. 
+Research output: Chapter in Book/Report/Conference proceeding › Conference contribution 
+ 
+
+-----

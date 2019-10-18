@@ -1,0 +1,351 @@
+3/8/2017
+Scopus - Author details (Lo, David)
+ The Scopus Author Identifier assigns a unique number to groups of documents written by the same author via an algorithm that matches authorship based on a certain criteria. If a document cannot be
+confidently matched with an author identifier, it is grouped separately. In this case, you may see more than 1 entry for the same author.
+Author details
+Lo, David
+Singapore Management University, School of
+Information Systems, Singapore City, Singapore
+Author ID: 35269388000
+http://orcid.org/0000­0002­4367­7201
+Other name formats: Lo, D.
+About Scopus Author Identifier |  View potential author matches
+Co­authors:
+Subject area:
+Documents:
+Analyze author output
+Citations:
+View citation overview
+h­index:
+View h­graph
+View documents
+View documents
+View documents
+ 
+Follow this Author
+ 
+Receive emails when this author  
+publishes new articles
+Get citation alerts
+Add to ORCID  
+Request author detail corrections
+Author History
+Publication range: 2006 ­ Present
+References: 3875
+Source history:  
+Proceedings ­ International Computer Software and
+Applications Conference 
+International Journal of Software Engineering and Knowledge
+Engineering 
+Proceedings of the ACM SIGSOFT 20th International
+Symposium on the Foundations of Software Engineering, FSE
+2012 
+View More
+Show Related Affiliations
+Print |  
+E­mail
+217
+2173 total citations by 1221 documents
+25  
+150 (maximum 150 co­authors can be displayed)
+Computer Science ,  Engineering View More
+217 documents
+Export all  |  
+Add all to list  |  
+Set document alert  |  
+Set document feed
+217 Documents | Cited by 1221 documents | 150 co­authors
+View all in search results format
+Sort on: Date Cited by
+...
+Why and how developers fork what from whom in GitHub  Jiang, J., Lo, D., He, J.,
+(...), Kochhar, P.S.,
+Zhang, L.
+ 2017  Empirical Software
+Engineering
+ 
+ 
+View at Publisher
+Recommending code changes for automatic backporting
+of linux device drivers
+ Thung, F., Le, X.­B.D.,
+Lo, D., Lawall, J.
+ 2017  Proceedings ­ 2016
+IEEE International
+Conference on Software
+Maintenance and
+Evolution, ICSME 2016
+ 
+ 
+View at Publisher
+"Automated debugging considered harmful" considered
+harmful: A user study revisiting the usefulness of
+spectra­based fault localization techniques with
+professionals using real bugs from large systems
+ Xia, X., Bao, L., Lo, D.,
+Li, S.
+ 2017  Proceedings ­ 2016
+IEEE International
+Conference on Software
+Maintenance and
+Evolution, ICSME 2016
+ 
+ 
+View at Publisher
+Enhancing automated program repair with deductive
+verification
+ Le, X.­B.D., Le, Q.L.,
+Lo, D., Le Goues, C.
+ 2017  Proceedings ­ 2016
+IEEE International
+Conference on Software
+Maintenance and
+Evolution, ICSME 2016
+ 
+ 
+View at Publisher
+Empirical study on synthesis engines for semantics­
+based program repair
+ Le, X.­B.D., Lo, D., Le
+Goues, C.
+ 2017  Proceedings ­ 2016
+IEEE International
+Conference on Software
+Maintenance and
+Evolution, ICSME 2016
+ 
+ 
+View at Publisher
+Inferring links between concerns and methods with multi­
+abstraction vector space model
+ Zhang, Y., Lo, D., Xia,
+X., (...), Scanniello, G.,
+Sun, J.
+ 2017  Proceedings ­ 2016
+IEEE International
+Conference on Software
+Maintenance and
+Evolution, ICSME 2016
+ 
+ 
+View at Publisher
+What permissions should this android app request?
+ Bao, L., Lo, D., Xia, X.,
+Li, S.
+ 2016  Proceedings ­ 2016
+International Conference
+on Software Analysis,
+Testing and Evolution,
+SATE 2016
+ 
+ 
+0
+0
+0
+0
+0
+0
+0
+Years
+Documents
+Citations
+Documents
+Citations
+2007
+2017
+0
+38
+0
+657
+Search
+Sources
+Alerts
+Lists
+Help
+SciVal ↗
+Register
+Login
+
+-----
+3/8/2017
+Scopus - Author details (Lo, David)
+Display:  
+ results per page
+Page 1
+ 
+View at Publisher
+Will this localization tool be effective for this bug?
+Mitigating the impact of unreliability of information
+retrieval based bug localization tools
+ Le, T.­D.B., Thung, F.,
+Lo, D.
+ 2016  Empirical Software
+Engineering
+  Article in Press
+ 
+ 
+View at Publisher
+ORPLocator: Identifying Read Points of Configuration
+Options via Static Analysis
+ Dong, Z., Andrzejak,
+A., Lo, D., Costa, D.
+ 2016  Proceedings ­
+International Symposium
+on Software Reliability
+Engineering, ISSRE
+ 
+ 
+View at Publisher
+Combining Word Embedding with Information Retrieval
+to Recommend Similar Bug Reports
+ Yang, X., Lo, D., Xia,
+X., Bao, L., Sun, J.
+ 2016  Proceedings ­
+International Symposium
+on Software Reliability
+Engineering, ISSRE
+ 
+ 
+View at Publisher
+On the unreliability of bug severity data
+ Tian, Y., Ali, N., Lo, D.,
+Hassan, A.E.
+ 2016  Empirical Software
+Engineering
+ 
+ 
+View at Publisher
+AmaLgam+: Composing Rich Information Sources for
+Accurate Bug Localization
+ Wang, S., Lo, D.
+ 2016  Journal of Software:
+Evolution and Process
+ 
+ 
+View at Publisher
+HYDRA: Massively compositional model for cross­project
+defect prediction
+ Xia, X., Lo, D., Pan,
+S.J., Nagappan, N.,
+Wang, X.
+ 2016  IEEE Transactions on
+Software Engineering
+ 
+ 
+View at Publisher
+How Practitioners Perceive the Relevance of ESEM
+Research
+ Carver, J.C., Dieste,
+O., Kraft, N.A., Lo, D.,
+Zimmermann, T.
+ 2016  International Symposium
+on Empirical Software
+Engineering and
+Measurement
+ 
+ 
+View at Publisher
+Predicting Crashing Releases of Mobile Applications
+ Xia, X., Shihab, E.,
+Kamei, Y., Lo, D.,
+Wang, X.
+ 2016  International Symposium
+on Empirical Software
+Engineering and
+Measurement
+ 
+ 
+View at Publisher
+AutoQuery: automatic construction of dependency
+queries for code search
+ Wang, S., Lo, D.,
+Jiang, L.
+ 2016  Automated Software
+Engineering
+ 
+ 
+View at Publisher
+What Security Questions Do Developers Ask? A Large­
+Scale Study of Stack Overflow Posts
+ Yang, X.­L., Lo, D., Xia,
+X., Wan, Z.­Y., Sun, J.­
+L.
+ 2016  Journal of Computer
+Science and Technology
+Open Access
+ 
+ 
+View at Publisher
+An effective change recommendation approach for
+supplementary bug fixes
+ Xia, X., Lo, D.
+ 2016  Automated Software
+Engineering
+  Article in Press
+ 
+ 
+View at Publisher
+Condensing Class Diagrams With Minimal Manual
+Labeling Cost
+ Yang, X., Lo, D., Xia,
+X., Sun, J.
+ 2016  Proceedings ­
+International Computer
+Software and
+Applications Conference
+ 
+ 
+View at Publisher
+It Takes Two to Tango: Deleted Stack Overflow Question
+Prediction with Text and Meta Features
+ Xia, X., Lo, D., Correa,
+D., Sureka, A., Shihab,
+E.
+ 2016  Proceedings ­
+International Computer
+Software and
+Applications Conference
+ 
+ 
+View at Publisher
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+20
+
+-----
+3/8/2017
+Scopus - Author details (Lo, David)
+About Scopus
+What is Scopus
+Content coverage
+Scopus blog
+Scopus API
+Privacy matters
+Language
+日本語に切り替える
+切换到简体中文
+切換到繁體中文
+Customer Service
+Help
+Live Chat
+Contact us
+Terms and conditions
+ Privacy policy
+Copyright © 2017 Elsevier B.V. All rights reserved. Scopus® is a registered trademark of Elsevier B.V.
+Cookies are set by this site. To decline them or learn more, visit our Cookies page.
+The data displayed above is compiled exclusively from articles published in the Scopus database. To request corrections to any inaccuracies or provide any further feedback, please contact us (registration required).
+The data displayed above is subject to the privacy conditions contained in the privacy policy .
+Top of page
+
+-----

@@ -1,0 +1,41 @@
+PHYSICS-BASED COMPACT MODELING OF QUASI-BALLISTIC TRANSISTORS 
+ABSTRACT 
+This Ph.D. study deals with the development of physics-based compact models for 
+advanced semiconductor devices with a focus on quasi-ballistic (QB) transistors. The initial 
+part of the thesis deals with Fermi potential modeling of III-V (InGaAs)-based High Electron 
+Mobility Transistors with rectangular quantum well. The III-V material based devices usually 
+have higher mobility due to their large mean free path (λ). When compared to silicon-based 
+devices, the large λ devices show a faster onset of ballistic effects with channel length 
+scaling. The drift-diffusion (DD) based devices are scattering limited whereas the QB 
+devices are limited by the injection velocity. The mobility (µ), which is defined in a scattering 
+dominant environment, loses its validity in QB regime. Hence, the DD based models cannot 
+be used to study the physics of devices operating in QB regime. Similarly, the QB models in 
+literature fail to capture the DD device physics.  The current literature lacks models that 
+exclusively study the DD to QB transition even though DD and QB devices have been well 
+modeled individually.  
+In the major part of this thesis, critical length (δ), defined based on the thermal 
+energy drop with respect to the virtual source, is presented as a better parameter for  
+ballisticity. The δ is derived from the Quasi-2D solution of the Poisson equation and 
+captures the device parameter (oxide thickness, body thickness, doping, and channel 
+length) dependencies. The proposed model is validated with extracted Monte-Carlo 
+simulation results from the literature. The model can be used to predict the onset of ballistic 
+behavior based on the relative magnitude of the δ to λ. The δ model is further used to 
+calculate the apparent µ, which could be used similarly to diffusive µ to predict the electrical 
+characteristics in QB regime. To exclusively study the DD to QB transition, the velocity vs. 
+electric field characteristics of the DD devices is extended to the QB regime. This new 
+approach is used for an in-depth analysis of the transition region in conceptual MOS 
+devices. The impact of various material parameters like λ, thermal velocity, and saturation 
+velocity are well studied at different channel length scales. The proposed model tallies well 
+with the DD and QB regime device physics. The model is also tested for its temperature 
+dependence, which is, to the best of our knowledge, the first in literature. The model is 
+validated with SOI measurement data for channel lengths spanning from DD to QB regimes. 
+The last part of the thesis focuses on the study of QB transport on the low-frequency 
+noise (LFN). A modified (gm/Id)2 method for the subthreshold regime is proposed to aid in 
+characterizing the LFN origin. Also, the recent measurement results on devices operating in 
+ballistic regime show LFN scaling trend that cannot be explained using the well-established 
+carrier number (CNF) and correlated mobility fluctuation (CMF) theories developed for DD 
+devices. The CNF/CMF theory is extended to the QB regime to give a physical explanation 
+for the anomalous LFN scaling behavior. The proposed models are validated with 
+measurement data extracted from the literature. 
+
+-----

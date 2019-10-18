@@ -1,0 +1,1156 @@
+Shantanu Chakrabartty                                                   May 2017 
+1 
+Shantanu Chakrabartty 
+ 
+Department of Electrical and Systems Engineering 
+Washington University in St. Louis. 
+Campus Box: 1042, One Brookings Drive 
+St. Louis, MO 63130, USA. 
+Citizenship:U.S.A. 
+ 
+Work: 314-935-4583 
+Fax: 314-935-7302 
+Email: shantanu@wustl.edu 
+Research URL: http://aimlab.seas.wustl.edu 
+ 
+ 
+RESEARCH INTERESTS 
+ 
+Analog computing and Analog integrated circuits with focus on: (a) Energy scavenging and self-
+powered sensors, circuits and systems; (b) biomedical and implantable circuits and systems; (c) 
+neuromorphic engineering; (d) neuromorphic systems; (e) floating-gate circuits and systems.  
+ 
+EDUCATION  
+ 
+The Johns Hopkins University, Baltimore, MD 
+Ph.D., Electrical and Computer Engineering, 2004. 
+Dissertation: Design and Implementation of Ultra-low-power Pattern Recognizers and Sequence 
+Decoders;  
+Advisor: Gert Cauwenberghs 
+The Johns Hopkins University, Baltimore MD 
+M.S., Electrical and Computer Engineering, 2001. 
+Indian Institute of Technology, New Delhi 
+B.Tech, Electrical Engineering, 1996. 
+ 
+PROFESSIONAL EXPERIENCE  
+ 
+Washington University, St. Louis, MO                                                           7/2015 – Present 
+Professor, Department of Electrical and Systems Engineering 
+Professor (by courtesy), Department of Biomedical Engineering 
+Professor (by courtesy), Department of Computer Science and Engineering 
+Michigan State University, East Lansing, MI                                                 7/2010 – 6/2015 
+Associate Professor, Department of Electrical and Computer Engineering 
+Michigan State University, East Lansing, MI                                                 1/2012 – 6/2015 
+Adjunct Professor, Department of Biosystems Engineering 
+Piezonix LLC., East Lansing, MI                                                                      5/2013 – Present 
+Co-founder and Chief Scientific Officer 
+Data Guild Inc., Palo Alto, California                                                              7/2013 – Present 
+Affiliate 
+Michigan State University, East Lansing, MI                                                  8/2004 – 6/2010 
+Assistant Professor, Department of Electrical and Computer Engineering 
+The Johns Hopkins University, Baltimore, MD                                              5/1999 – 8/2004 
+
+-----
+Shantanu Chakrabartty                                                     May  2017 
+2 
+Research Assistant, Electrical and Computer Engineering 
+ 
+University of Tokyo,  Tokyo, Japan                                                                  9/2002 - 12/2002 
+Visiting Researcher, Department of Informatics 
+Qualcomm Incorporated, San Diego, CA                                                       1/1996 – 5/1999 
+Engineer, Network and Switching Subsystem Group 
+ 
+AWARDS AND HONORS  
+ 
+ MSU Innovation of the Year Award, 2012. 
+ NSF CAREER Award, 2010. 
+ MSU Teacher-Scholar Award, 2011. 
+ Alumni, U.S. National Academy Frontiers of Engineering.  
+ Honarary Mention, Best Paper Award, IEEE ISCAS 2015. 
+ Best Paper Award in Sensory Systems, IEEE ISCAS 2014. 
+ Best Paper Award in Sensory Systems, IEEE ISCAS 2013. 
+ Honorary Mention, Best Paper Award, IEEE ISCAS 2012. 
+ Honarary Mention, Best Paper Award, IEEE ISCAS 2011. 
+ Invited Member, Defense Science Research Council, USA, 2006. 
+ Catalyst Foundation Fellow, 1999-2004. 
+ Academic Frontiers Student Exchange Scholarship (Japanese Govt.), 2002. 
+ Best Undergraduate Thesis, IIT Delhi, 1996. 
+ National Talent Search Scholarship Recipient, India, 1990. 
+ Junior Talent Search Scholarship Recipient, India, 1989. 
+TEACHING 
+ 
+Average Student Instructional Rating Score (over last 3 years): 3.84/4.00 
+Courses: 
+ Analog Integrated Circuits, Spring 2009, Spring 2010, 2012, 2014. 
+ Introduction to Mixed-signal Integrated Circuits, Fall 2007,2008,2009,2010,2011,2012,2014. 
+ Biomedical Instrumentation, Fall 2007. 
+ Low-power analog and mixed-signal VLSI systems,   Michigan State University, Fall 2004, 
+Spring 2006, Spring 2007. Spring 2008 
+ Mixed-signal Prototyping and Testing, Michigan State University, Spring 2005. 
+ Algorithms of Circuit Design, Michigan State University, Fall 2005, Fall 2006. 
+ Introduction to Electronic Instrumentation, Washington University, Spring 2016,2017. 
+ Analog Integrated Circuits, Washington University, Fall 2015,2016,2017. 
+ 
+INVITED PRESENTATIONS 
+ 
+ 
+ 
+ 
+ Spiking, Bursting, Noise-shaping and Population Dynamics in a Network of Growth Transform 
+Neurons, Brain, Computing and Learning Workshop, Indian Institute of Science, Bangalore, 
+India, Jan. 2018 (Host: Chetan Thakur). 
+ 
+
+-----
+Shantanu Chakrabartty                                                   May 2017 
+3 
+ 
+ 
+Towards a Universal Analog Computing Paradigm, Department of Mathematics and 
+Computer Science Colloquium, University of Missouri, St. Louis, MO, Nov. 2017 (Host: 
+Ravindra Giraviru). 
+ 
+Expeditions in Self-powered Sensing, Air Force Research Laboratory, Dayton, OH, Oct. 2017 
+(Host: Jeremy Ward). 
+ 
+Zero-power Dynamic Signature for Trust Verification of Passive Sensors and Tags, Internet2 
+Cybersecurity Symposium, Indianapolis, Oct. 2017 (Host: Emily Nichols). 
+ 
+Zero-power Dynamic Signature for Trust Verification of Passive Sensors and Tags, Global 
+Research Consortium, Bangalore, India, Jan. 2016 (Host: William Joyner Jr.). 
+ 
+Expeditions in Self-powered Sensing, Computing and Imaging, Department of Biomedical 
+Engineering, Washington University in St. Louis, MO, Nov. 2015 (Host: Prof. Baranidharan 
+Raman). 
+ 
+Expeditions in Floating-gate Circuits and Systems: Self-powered sensing and computing, 
+Department of Electrical and Computer Engineering, Stony Brook University, NY, Dec. 2013 
+(Host: Prof. Milutin Stanacevic). 
+ 
+Expeditions in Floating-gate Circuits and Systems: Self-powered sensing and computing, 
+Department of Electrical and Computer Engineering, Tufts University, MA, Nov. 2013 (Host: 
+Prof. Valencia Koomson). 
+ 
+Expeditions in Floating-gate Circuits and Systems: From Self-powered sensors to nano-watt 
+analog processors, Department of Electrical and Computer Engineering, University of 
+Toronto, Canada, Nov. 2013 (Host: Prof. Roman Genov). 
+ 
+Expeditions in Floating-gate Circuits and Systems: From Self-powered sensors to nano-watt 
+analog processors, Department of Computer Science and Engineering, Washington 
+University, St. Louis, Oct. 2013 (Host: Prof. Viktor Gruev). 
+ 
+Approaching limits of sensing using neuromorphic noise-exploitation principles, SPIE, San 
+Diego, Mar. 2013 (Host: Prof. R.J. Martin-Palma) 
+ 
+Reproducing Kernel-based Methods for Extracting and Identifying Noise-robust Speech 
+Features, IEEE Asilomar Conference on Signal, Systems and Computers, Nov. 2012. (Host: 
+Ghassan Alregib) 
+ 
+Noise-exploitation and Adaptation in Neuromorphic Sensors, SPIE, San Diego, Mar. 2012 
+(Host: Prof. Akhlesh Lakhtakia). 
+ 
+Grand Challenge: Sensing-to-learn and Learning-to-sense – Exploiting biological symbiosis 
+of sensing, computing, memory and adaptation for designing the next-generation of smart 
+sensors, NSF sponsored US-Japan Joint Workshop on Bioinspired Sensing and Actuation, 
+Berkeley, Nov 12-13, 2011. 
+ 
+Morphing, Synthesis and Monitoring: Exploring the trinity of Hybrid Analog Integrated 
+Circuits, Department of Engineering Mechanics, Penn State University, Apr. 2011 (Host: 
+Prof. Akhlesh Lakhtakia). 
+ 
+CMOS Integrated Circuits for Energy Scavenging and Self-powered Sensors, IEEE 
+Biomedical Circuits and Systems Conference, Paphos, Cyprus, Nov, 2010 (Host: Dr. Jennifer 
+Blain) 
+
+-----
+Shantanu Chakrabartty                                                     May  2017 
+4 
+ 
+Designing Microsystems that Learn: Algorithms and Hardware, Pattern Recognition and 
+Machine Intelligence (PReMI09), Indian Institute of Technology, Delhi, Dec. 2009 (Host: 
+Prof. Jayadeva). 
+ 
+Forward error-correcting biosensors: Hybrid bio-CMOS circuits and systems, CMOS 
+Emerging Technologies Workshop, Sep. 2009 (Host: Dr. Kris Iniweski). 
+ 
+Design of Neuromorphic Data Converters, Telluride Neuromorphic and Cognitive Workshop, 
+Telluride, Colorado, Jul. 2009 (Host: Prof. John G. Harris). 
+ 
+Sigma-Delta Learning: Bridging the gap between neuromorphic systems, machine learning 
+and mixed-signal processing, Department of Informatics, University of Tokyo, Japan, June 
+2009 (Host: Prof. Toshihiko Yamasaki). 
+ 
+Sensors and Processors for Structural Health Monitoring, VDEC, University of Tokyo, 
+Japan, June 2009 (Host: Prof. Tadashi Shibata). 
+ 
+Operating below the sub-microwatt barrier – Explorations in Analog Computing, Invited 
+Presentation, Wireless Integrated Microsystems (WIMS), University of Michigan, Ann Arbor, 
+April 2009 (Host: Prof. Jerome K. Lynch). 
+ 
+CMOS Circuits for Biomechanical Implants, Invited Presentation, CMOS Emerging 
+Technologies Workshop, Vancouver, August 2008 (Host: Dr. Kris Inieweski). 
+ 
+Sub-microwatt Sensors for Structural Health Monitoring of Biomechanical Implants, Invited 
+Presentation, Department of Bioengineering, University of California, San Diego, August 
+2008 (Host: Prof. Gert Cauwenberghs). 
+ 
+Towards Reliable Multi-pathogen Biosensors using High-dimensional Encoding and 
+Decoding Techniques, Invited Presentation, SPIE Symposium on NanoScience+Engineering, 
+CA 2008 (Host: Prof. Gert Cauwenberghs, UCSD) . 
+ 
+High-dimensional Encoding-Decoding Techniques for Reliable Pathogen Detection, Invited 
+Presentation, Hunter College, City University of New York, Feb 2008 (Host: Prof. Hiroshi 
+Matsui). 
+ 
+Mixed-signal data mining on microphone array hearing aids, Invited Presentation, Radio-
+Frequency Integrated Circuits Symposium, Atlanta Georgia, July, 2008 (Host: Sudipto 
+Chakraborty, Texas Instruments). 
+ 
+Trainable Mixed-signal Interfaces, Invited Presentation, Defense Science Research Council 
+(DSRC) Adaptive Electronics Workshop, Arlington VA, Nov 28th 2006 (Host: Prof. Peter 
+Asbeck, UCSD). 
+ 
+Micro-power Speaker Verification System-on-chip, Invited Presentation, Applied Physics 
+Laboratory, Laurel, MD, July 2005 (Host: Dr. Chris P. Diehl). 
+ 
+Sequence Learning and Decoding in Margin Propagation Networks, Invited Presentation, 
+Snowbird Learning Workshop, Snowbird, Utah, April 2005 (Host: Dr. Yoshua Bengio). 
+ 
+Hardware-Algorithm Tradeoffs in Implementing Support Vector Machines in Silicon, PRIP 
+Seminar Series, Michigan State University, 2004 (Host: Prof. Anil Jain). 
+ 
+Design of a floating-gateCMOS kernel machine for speech recognition, Tutorial on Floating 
+Gate Technology, IEEE International Symposium on Circuits and Systems, Phoenix AZ, 
+2002 (Host: Prof. Paul Hasler, Georgia Tech). 
+
+-----
+Shantanu Chakrabartty                                                   May 2017 
+5 
+ 
+A hybrid HMM/SVM speech recognition system, IEEE Midwest Symposium on Circuits and 
+Systems, Lansing MI, 2000. 
+ 
+RESEARCH GRANTS AND CONTRACTS  
+ 
+ 
+Current Grants and Contracts 
+[G1] Principal Investigator and Project Lead, Self-powered Sensing and Data-logging for Large-
+scale In-vivo Monitoring of Neural Ensemble Activity, National Institute of Health R21, 
+09/01/2017-08/31/2019, $457,000. 
+[G2] Multi-Principal Investigator, Development of a Wireless Biosensor to Track Bone Resorption 
+in Periodontitis, National Institute of Health R01, 09/01/2017-08/31/2021, $1,525,000 
+(Credit 30%). 
+ 
+[G3] Principal Investigator and Project Lead, CPS:TTP Option: Synergy: Collaborative Research: 
+Internet of Self-powered Sensors - Towards a Scalable Long-term Condition-based 
+Monitoring and Maintenance of Civil Infrastructure, National Science Foundation, 
+09/01/2016-08/31/2020, $1,100,000. 
+[G4] Co-Principal Investigator, Hybrid Chemical Sensing with bio-electronic nose, Office of Naval 
+Research, 06/01/2016-05/31/2019, $750,000 (Credit: 30%). 
+[G5] Principal Investigator and Project Lead, STARSS: Small: Collaborative: Zero-Power Dynamic 
+Signature for Trust Verification of Passive Sensors and Tags, National Science 
+Foundation / Semiconductor Research Corporation, 8/16/2015 - 8/15/2018, $450,000.  
+[G6] Principal Investigator, Scavenging Thermal-noise Energy and Quantum Fluctuations for Self-
+powered Time-stamping and Sensing, National Science Foundation, 8/16/2015 - 
+8/15/2018, $344,387.  
+[G7] Co-Principal Investigator, CSR: Medium: Self-organizing Cyber Substrates: Exploring a 
+Modular Computing and Communications Architecture for Structural Health Monitoring, 
+National Science Foundation, 08/01/14-07/30/18, $1,000,000 (Credit 30%). 
+Completed Grants and Contracts 
+[G8] Co-Principal Investigator, Ultra-low Power Wireless Sensing System for Multi-metric Self-
+Powered Monitoring of Bridge Components, United States Department of 
+Transportation, 08/01/13-07/30/17, $937,135 (Credit 30%). 
+[G9] Principal Investigator, SHF:FAST: A Simulation and Analysis Framework for Designing 
+Large-Scale Biomolecular-Silicon Hybrid Circuits, National Science Foundation, 
+09/01/11-08/30/17, $386,602. 
+[G10] Principal Investigator, CAREER: Integrated Research and Education in Self-powered 
+Microsensing for Embedded and Implantable Structural Health Monitoring, 04/01/10-
+03/31/16, National Science Foundation, CMMI:0954752, $406,000. 
+[G11] Principal Investigator, Motion Artifact Cancelling MIMO method for Ambulatory 
+Respiratory-rate Monitoring, National Institute of Health/General Electrical Global 
+Research, 08/01/13-07/31/16, $164,000. 
+[G12] Principal Investigator, Trusted Verification of CMOS Integrated Circuits using Zero-power 
+Timers and Synchronization Circuits, Defense Advanced Research Projects Agency 
+
+-----
+Shantanu Chakrabartty                                                     May  2017 
+6 
+(DARPA), 9/1/2014 - 8/31/2015, 133,564. 
+[G13] Senior Personnel, Mechanically-Equivalent Response Amplifiers and Frequency Modulators 
+for Energy-harvesting Devices, National Science Foundation, 8/16/2014 - 8/15/2017, 
+$324,309.00 (Credit 10%) 
+[G14] Principal Investigator, STTR Phase I: Health Monitoring of Orthopedic Implants using Self-
+powered Piezo-floating-gate Sensing Technology, Piezonix LLC/National Science 
+Foundation, 07/01/14-12/31/14, $72,253. 
+[G15] Principal Investigator, Self-powered RFID Sensing for Monitoring Complex Product Supply-
+chain, Midland Research Institute for Value Chain Creation, 05/20/14-05/19/17, 
+$300,000. 
+[G16] Principal Investigator, Design and Evaluation of Self-powered Time-stamped Event-logger, 
+Johns Hopkins Applied Physics Laboratory/US Department of Navy, 04/01/14-
+09/30/14, $68,000. 
+[G17] Co-Principal Investigator, Smart Pavement Monitoring System, Federal Highway 
+Administration (Contract: DTFH61-13-C-00015), 08/15/13-08/14/16, $444,944 (Credit 
+25%). 
+[G18] Co-Principal Investigator, Center for Cyber-enabled Cognitive Structures, Strategic 
+Partnership Grant, Michigan State University, 08/01/13-07/31/16, $481,000 (Credit 
+35%). 
+[G19] Principal Investigator, Development of Self-powered Age-monitoring Sensor, Targeted 
+Support Grant for Technology Development (TSGTD), MSU Foundation, 09/01/12-
+08/01/13, $60,000. 
+[G20] Principal Investigator, Fabrication and Testing of Gen-II Age-monitoring Sensors, Johns 
+Hopkins Applied Physics Laboratory, 03/01/12-08/30/12, $47,574. 
+[G21] Principal Investigator, AIR: Development and Evaluation of Self-Powered Piezo-Floating-
+Gate Sensor Chipsets for Embedded and Implantable Structural Health Monitoring, 
+National Science Foundation, 08/01/11-07/31/14, $258,000. 
+[G22] Principal Investigator, Self-powered Age Monitoring Sensors, Johns Hopkins Applied 
+Physics Laboratory, 04/15/11-08/30/11, $65,000. 
+[G23] Principal Investigator, Low-power Speaker Identification System (LPSIS), Johns Hopkins 
+Applied Physics Laboratory (sub-contract through MSU Foundation), 10/01/09-
+07/30/11, $286,046. 
+[G24] Co-Principal Investigator, Smart Pavement Monitoring System, Federal Highway 
+Administration, Contract: DTFH61-08-C-00015, 08/15/08-08/14/11, $375,000 (Credit 
+25%) 
+[G25] Principal Investigator, SGER: Cooperative Learning-Unlearning Algorithms for Identifying 
+Noise Robust Auditory Manifolds, National Science Foundation, IIS: 0836278, 
+08/01/08-07/31/09, $62,010. 
+[G26] Principal Investigator, Investigation into non-conventional analog decoders for low-density 
+parity check codes, National Science Foundation, CCF: 0728996, 010/01/07-09/30/10, 
+$250,000. 
+
+-----
+Shantanu Chakrabartty                                                   May 2017 
+7 
+[G27] Principal Investigator, A sub-microwatt self-powered fatigue sensor, CMMI: 0700632, 
+National Science Foundation, 05/01/07-04/30/10 $295,999. 
+[G28] Principal Investigator, Development of forward error-correcting biosensor based on 
+molecular biowires,  National Science Foundation, ECCS: 0622056, 09/01/06-08/30/10  
+$270,000. 
+[G29] Principal Investigator, Development of micro-power VLSI devices, Johns Hopkins Applied 
+Physics Laboratory (sub-contract through MBI International), Contract No: 0905899, 
+04/01/08-03/31/09, $75,300. 
+[G30] Co-Principal Investigator, Advanced Microsystems for Neural Information Processing, 
+National Institute of Health, 04/01/06-03/31/08  $375,000 (Credit 25%). 
+[G31] Principal Investigator, Micropower speaker verification systems, Johns Hopkins Applied 
+Physics Laboratory (sub-contract through MBI), Contract No: 0939031, 12/01/2005-
+11/30/2006, $75,000. 
+[G32] Principal Investigator, Development of ultra-low power acoustic sensors, Intramural 
+Research Grant Program, Michigan State University, 12/01/2005-12/14/2007, $50,000. 
+PATENTS 
+ 
+Issued Patents 
+[P1] N. Lajnef, S. Chakrabartty, R. Burgueno, W. Borchani ``Self-Powered Sensing System for the 
+Monitoring of Quasi-static Structural Response", US patent: 9,793,830, 10/17/2017 
+[P2] S. Chakrabartty, ``Temperature Compensation Method for High-density Floating-gate 
+Memory”, US patent: 9,437,602, 09/06/2016 
+[P3] S. Chakrabartty, ``Self-powered Strain-gauge”, US patent: 9,331,265, Issued: 05/03/2016. 
+[P4] S. Chakrabartty, ``Self-powered Timer Apparatus’’,  US patent: 8,963,647 , Issued Feb. 24, 
+2015. 
+[P5] S. Chakrabartty, ``Margin Decoding Communication System’’,  US patent: 8,060,810 , Issued 
+Nov. 15, 2011. 
+[P6] S. Chakrabartty, N. Lajnef, N. Elvin, A.Gore, ``Self-powered Sensor”, US Patent: 8,056,420, 
+Issued Nov. 15, 2011. 
+[P7] S. Chakrabartty, ``Self-powered Strain-rate Sensor”, US Patent: 7,757,565, Issued Jul. 20, 
+2010.  
+[P8] S. Chakrabartty, ``Multiple-input Multiple-output Analog-to-digital Converter’’,  US Patent 
+no: 7,479,911,  Issued Jan. 20, 2009. 
+Pending Patents 
+[P9] S. Chakrabartty, A. Gangopadhyay, `` Growth Transform Neural Network, Neuromorphic 
+Processsors and Analog-to-digital Converters”, Washington University in St. Louis, 
+Disclosure Reference Number, 016836, 2017. 
+[P10] S. Chakrabartty, L. Zhou, `` Self-powered Sensors for Long-term Monitoring”, Washington 
+University in St. Louis, Disclosure Reference Number, PCT/US2017/019967, 2017. 
+[P11] S. Chakrabartty, L. Zhou, `` Method and Apparatus for Robust Long-term Self-powered Time-
+keeping”, Washington University in St. Louis, Disclosure Reference Number, 016736, 
+
+-----
+Shantanu Chakrabartty                                                     May  2017 
+8 
+2017. 
+[P12] S. Chakrabartty, S. Kondapalli, X. Zhang, `` Variance-Based Logic and Self-Powered 
+Microprocessor”, Washington University in St. Louis, Disclosure Reference Number, 
+016445, 2016. 
+[P13] S. Chakrabartty, W.A. Qureshi, ``Method and Apparatus for On-Chip Optical Spectroscopy”, 
+Michigan State University Disclosure Reference Number, TEC2011-0020, 2010. 
+[P14] A. Fazel, S. Chakrabartty, ``Sparse Auditory Reproducing Kernel (SPARK) Features for 
+Noise-robust Speech and Speaker Recognition”, US provisional patent: 61/643,550, 
+Filed: 05/07/2012. 
+PROFESSIONAL ACTIVITIES 
+ 
+ Senior Member, IEEE 
+ Member, American Society for Engineering Education (ASEE) 
+ Associate Editor, IEEE Transactions of Biomedical Circuits and Systems. 
+ Associate Editor, Advances in artificial neural systems, Hindawi Publications. 
+ Review Editor, Frontiers in Neuromorphic Engineering. 
+ Chair, IEEE Circuits and Systems Society, Neural Systems and Applications Technical 
+Committee. 
+ Panelist : 
+- National Science Foundation, ECCS, 2006, 2008.  
+- National Science Foundation, CISE, 2014, 2015, 2016.  
+- National Science Foundation, CMMI, 2007, 2010, 2012. 
+- National Science Foundation, IIP, 2011, 2012, 2013, 2014,2015. 
+ Panelist : 
+- American Society of Engineering Education, SMART Scholarship, 2012.  
+- American Society of Engineering Education, NDSEG Scholarship, 2012.  
+ International Panel Reviewer : 
+- Natural Sciences and Engineering Research Council of Canada (NSERC), 2008.  
+- Dutch Technology Foundation STW, 2009. 
+ Keynote Panel: 
+          - Pattern Recognition and Machine Intelligence (PReMI09), IIT Delhi, 2009. 
+ Organizing Committee : 
+- 
+IEEE Biomedical Circuits and Systems Conference, San Diego, 2011.  
+- 
+IEEE Electro-Information Technology Conference, East Lansing, MI, 2006. 
+ Technical Committee Member : 
+- IEEE Circuits and Systems: Sensory Systems  
+- IEEE Circuits and Systems: Biomedical circuits and systems 
+- IEEE Circuits and Systems: Neural systems and applications. 
+ Program Committee Member : 
+- 20th Symposium on Integrated Circuits and Systems Design, 2007. 
+- 22nd Symposium on Integrated Circuits and Systems Design, 2009  
+- IEEE Biomedical Circuits and Systems Conference, 2006-2011.  
+- IEEE Statistical Signal Processing Workshop, Ann Arbor, 2012.  
+
+-----
+Shantanu Chakrabartty                                                   May 2017 
+9 
+ Session Chair/Co-chair: 
+- 
+Neural Systems and Applications, ISCAS 2012, Seoul, Korea. 
+- 
+Analog Circuits and IC Technology, ISCAS 2009, Taipei, Taiwan. 
+- 
+Sensor Networks and Algorithms, ISCAS 2009, Taipei, Taiwan. 
+- 
+Image Sensors, ISCAS 2009, Taipei, Taiwan 
+- 
+Biomedical Instrumentation and Bioanalysis, BIOCAS 2008, Baltimore, MD, USA. 
+- 
+Sigma-Delta Modulators, ISCAS 2007, New Orleans, USA. 
+ Reviewer  
+- IEEE Journal of Solid-State Circuits. 
+- IEEE transactions on Circuits and Systems I and II (TCAS). 
+- IEEE transactions on Signal Processing (TSP).  
+- IEEE transactions on Very Large Scale Integration (TVLSI). 
+- IEEE transactions on Neural Networks (TNN) 
+- IEEE sensor journal 
+- IEEE transactions on Biomedical Engineering (TBME) 
+- IEEE transactions on Biomedical Circuits and Systems (TBioCAS)  
+- IEEE transactions on Neural Systems and Rehabilitation Engineering 
+- Pattern Recognition Journal 
+- IEEE Communication Letters 
+- Advances in fuzzy systems, Hindawi. 
+- Fuzzy sets and systems, Elsevier.  
+- Sensors and Actuators, Elsevier. 
+- Analytical Chemistry 
+- IEEE Int. Symp. On Circuits and Systems (ISCAS). 
+ 
+INSTITUTIONAL SERVICES 
+ 
+ Chair, Graduate Studies Committee (Michigan State Univ.), 2011 – 2013 
+ Publicity Chair, (MSU Electrical and Computer Engineering), 2013 – 2015. 
+ Member, Department Advisory Committee (MSU Electrical and Computer Engineering), 2011- 
+2013, 2014 – 2015. 
+ Member, Strategic Research Task force Committee (MSU Electrical and Computer 
+Engineering), 2011- 2015. 
+ Member, College Graduate Studies Committee (Michigan State Univ.), 2011-2012. 
+ Advisor, Computer Engineering, 2015 - current 
+. 
+GRADUATE ADVISEES 
+ 
+Past Graduate Advisees 
+- 
+Tao Feng, (Ph.D. Fall 2016) Currently Research Engineer, Skyworks Inc., Ames, IA. (Thesis: 
+Design and Implementation of Efficient Energy Harvesting Circuits for Ultra-low-power and 
+Impact Energy Applications).   
+- 
+Hassan Aqeel Khan, (Ph.D. Fall 2015) Currently Assistant Professor, National University of 
+Sciences and Technology, Islamabad. (Thesis: Kernel Methods for Biosensing Applications). 
+- 
+Ming Gu, (Ph.D. Spring 2012) Currently Principal Engineer, Fairchild Semiconductors, 
+California. (Thesis: Theory, synthesis and implementation of current-mode CMOS piecewise-
+
+-----
+Shantanu Chakrabartty                                                     May  2017 
+10 
+linear circuits using margin propagation). 
+- 
+Pikul Sarkar, (M.S. Summer 2012). Currently Senior Engineer, LSI Corp., Bangalore, India 
+(Thesis: Programmable and Reconfigurable Strain-powered Micro-data-loggers based on 
+Linear Piezo-Floating-Gate Injectors).  
+- 
+Amin Fazel, (Ph.D. 2012) Currently Research Staff, CRS Inc., Auburn Hills, Michigan. (Thesis: 
+Robust Signal Processing Methods for Miniature Acoustic Sensing, Seperation and 
+Recognition). 
+- 
+Chenling Huang, (Ph.D. 2011) Currently Staff Engineer, Qualcomm Incorporated, San Diego. 
+(Thesis: Design and Implementation of Integrated Self-powered Sensors, Circuits and 
+Systems). 
+- 
+Ravi Shaga, (M.S. 2011) Currently Senior Engineer, Apple., Cupertino,CA. (Thesis: Noise-
+shaping Stochastic Optimization and Online Learning with Applications in Digitally-assisted 
+Analog Circuits). 
+- 
+Yang Liu, (Ph.D. 2010) Currently CEO and co-founder, Piezonix LLC, East Lansing. (Thesis: 
+Forward Error-Correcting Biosensors: Design, Modeling and Fabrication). 
+- 
+Amit Gore, (Ph.D. 2008) Currently Research Scientist, General Electric Corporate Research, 
+New York, USA. (Thesis: Design of High-dimensional Oversampling Converters with On-chip 
+Learning: Theory, Design and Hardware Realization). 
+- 
+Nizar Lajnef, (Ph.D. 2008) Currently Associate Professor, Department of Civil and 
+Environmental Engineering, Michigan State University, East Lansing, MI, USA. (Thesis: 
+Self-powered sensing in structural health and usage monitoring)  
+- 
+Paul Kucher, (M.S. 2007), Currently Research Scientist, Johns Hopkins University, Applied 
+Physics Laboratory, Laurel, MD, USA. (Thesis: Design and evaluation of an automated test 
+platform for large-scale analog floating-gate programming.) 
+- 
+Cheong Kun, (M.S. 2006) Currently Senior Engineer, Qualcomm Incorporated, San Diego, CA, 
+USA. (Thesis: Design, implementation and testing of hybrid algorithmic sigma-delta A/D 
+converters). 
+ 
+Current Graduate Advisees 
+- 
+Kenji Aono, Ph.D. Candidate (Expected Fall 2017) 
+- 
+Mingquan Yuan, Ph.D. Candidate (Expected Fall 2018) 
+- 
+Liang Zhou, Ph.D. Candidate (Expected Fall 2018) 
+- 
+Yarub Alazzawi, Ph.D. Candidate (Expected Fall 2019) 
+- 
+Oindrila Chatterjee, Ph.D. Candidate (Expected Fall 2019) 
+- 
+Ahana Gangopadhyay, Ph.D. Candidate (Expected Fall 2019) 
+- 
+Sri Harsha Kondapalli, Ph.D. Candidate (Expected Fall 2019) 
+- 
+Darshit Mehta, Ph.D. Candidate (Expected Fall 2019) 
+ 
+PUBLICATIONS 
+ 
+Book Chapters 
+ 
+[B1] S.Chakrabartty, N. Lajnef, N.Elvin, A.Elvin, ``Toward Self-powered Sensors and Circuits for 
+Biomechanical Implants’’, VLSI Circuits for Biomedical Applications, eds. Krzysztof 
+
+-----
+Shantanu Chakrabartty                                                   May 2017 
+11 
+Iniewski, Artech House, 2008. 
+[B2] S.Chakrabartty, E.C. Alocilja, Y.Liu, ``Integrated Nano-Bio-VLSI Approach for Designing 
+Error-free Biosensors”, Nano-biosensors, eds. Sandro Carrara, Springer, 2010. 
+[B3] T. Hindo, S. Chakrabartty, ``Noise-exploitation in Neuromorphic Sensors”, Engineered 
+Biomimicry: Bioinspiration, Biomimetics and Bioreplication, eds. A. Lakhtakia, R.J. 
+Martin-Palma, Elsevier, 2013. 
+[B4] S. Chakrabartty, ``Asynchronous Self-powered Sensing, Computation and Data-logging”, 
+Advances in Energy Harvesting Methods, eds. A. Ertuk, N. Elvin, Springer, 2013.  
+ 
+ 
+ 
+Journal Publications in Chronological order (* denotes corresponding author) 
+ 
+[J1] L.Zhou*, K.Aono, S. Chakrabartty, ``A CMOS Timer-Injector Integrated Circuit for Self-
+powered Sensing of Time-of-Occurrence”, IEEE Journal of Solid-State Circuits, 2018. 
+[J2] S. Kondapalli, X. Zhang, S. Chakrabartty*, ``Energy Dissipation Limits in Variance-based 
+Computing’’, Fluctuations and Noise Letters, 2018. 
+[J3] H. A. Khan, A. Gore, J. Ashe and S. Chakrabartty*, `` Virtual Spirometry and Activity 
+Monitoring using Multi-channel Electrical Impedance Plethysmographs in Ambulatory 
+Settings”, IEEE Transactions of Biomedical Circuits and Systems, 2017 (in press). 
+[J4] M. Ibrahim, L. Zhou, S. Chakrabartty, J. Ren, ``Dynamic Authentication Protocol Using Self-
+powered Timers for Passive Internet of Thing”, IEEE Internet of Things Journal, 2017 (in 
+press). 
+[J5] H. Hasni, A.H. Alavi, N. Lajnef, M. Abdelbarr, S.F. Masri, S. Chakrabartty, ``Self-Powered 
+Piezo-Floating-Gate Sensors for Health Monitoring of Steel Plates”, Engineering 
+Structures, 2017 in press. DOI: 10.1016/j.engstruct.2017.06.063. 
+[J6] S. Kondapalli, Y. Alazzawi, M. Malinowski, T. Timek, S. Chakrabartty*, ``Multi-access In-
+vivo Biotelemetry using Sonomicrometry and M-scan Ultrasound Imaging’’, IEEE 
+Transactions on Biomedical Engineering, 2017, DOI: 10.1109/TBME.2017.2697998 
+[J7] H. Hasni, A.H. Alavi, P. Jiao, N. Lajnef, K. Chatti, K. Aono, S. Chakrabartty, A new approach 
+for damage detection in asphalt concrete pavements using battery-free wireless sensors 
+with non-constant injection rates, Measurement, 2017, 10.1016/j.measurement.2017.06.035 
+[J8] A. Gangopadhyay, S. Chakrabartty*, ``Spiking, Bursting and Population Dynamics in a 
+Network of Growth Transform Neurons”, IEEE Transactions of Neural Networks and 
+Learning Systems, 2017, DOI: 10.1109/TNNLS.2017.2695171. 
+[J9] A. Gangopadhyay, O. Chatterjee, S. Chakrabartty*, ``Extended Polynomial Growth 
+Transforms for Design and Training of Generalized Support Vector Machines”, IEEE 
+Transactions 
+of 
+Neural 
+Networks 
+and 
+Learning 
+Systems, 
+2017, 
+DOI: 
+10.1109/TNNLS.2017.2690434. 
+[J10] 
+L. Zhou, S. Chakrabartty*, `` Self-Powered Timekeeping and Synchronization Using Fowler–
+Nordheim Tunneling-Based Floating-Gate Integrators”, IEEE Transactions on Electron 
+Devices, vol. 64, no:3, pp.1254-1260, 2017. 
+[J11] 
+L. Zhou, S. Chakrabartty*, ``Linearization of CMOS Hot-electron Injectors for Self-powered 
+Monitoring of Biomechanical Strain Variations”, IEEE Transactions of Biomedical 
+Circuits and Systems, vol 11, no:2, 2017. 
+[J12] 
+S Das, H Salehi, Y Shi, S Chakrabartty, R Burgueno, S Biswas, ``Towards packet-less 
+ultrasonic sensor networks for energy-harvesting structures”, Computer Communications 
+101, 94-105, 2016. 
+[J13] 
+M. Yuan, K-K. Lu, S. Singamaneni, S. Chakrabartty*, ``Self-powered Forward Error-
+
+-----
+Shantanu Chakrabartty                                                     May  2017 
+12 
+correcting Biosensor based on Integration of Paper-based Microfluidics and Self-
+assembled Quick Response Codes”, IEEE Transactions of Biomedical Circuits and 
+Systems, vol. 10, no:5, pp. 963-971, 2016. 
+[J14] 
+L. Zhou, A. Abraham, S. Tang, S. Chakrabartty*, ``A 5nW Quasi-linear CMOS Hot-electron 
+Injector for Self-powered Monitoring of Biomechanical Strain Variations”, IEEE 
+Transactions 
+of 
+Biomedical 
+Circuits 
+and 
+Systems, 
+2016, 
+DOI: 
+10.1109/TBCAS.2016.2523992. 
+[J15] 
+M. Yuan, E.C. Alocilja, S.Chakrabartty*, Self-powered Wireless Affinity-based Biosensor 
+based on Integration of Paper-based Microfluidics and Self-assembled RFID Antennas”, 
+IEEE 
+Transactions 
+of 
+Biomedical 
+Circuits 
+and 
+Systems, 
+2016, 
+DOI: 
+10.1109/TBCAS.2016.2535245. 
+[J16] 
+W. Borchani, K. Aono, N. Lajnef, S. Chakrabartty*, ``Monitoring Of Post-Operative Bone 
+Healing Using Smart Trauma-Fixation Device with Integrated Self-Powered Piezo-
+Floating-Gate Sensors’’, IEEE Transactions on Biomedical Engineering, 2015, DOI: 
+10.1109/TBME.2015.2496237.  
+[J17] 
+H. Khan, S. Chakrabartty*, ``On the Channel Capacity of High-Throughput Proteomic 
+Microarrays”, 
+IEEE 
+Transactions 
+on 
+Molecular, 
+Biological 
+and 
+Multi-Scale 
+Communications, vol: 1, no: 1, 2015. 
+[J18] 
+M. Yuan, P. Chahal, E.C Alocilja, S. Chakrabartty*, ``Wireless Biosensing Using Silver-
+Enhancement Based Self-assembled Antennas in Passive Radio Frequency Identification 
+(RFID) Tags”, IEEE Sensors Journal, vol: 15, no: 8, pp. 4442-4450, 2015. 
+[J19] 
+T. Feng, K. Aono, T. Covassin, S. Chakrabartty*, `` Self-powered Monitoring of Repeated 
+Head Impacts using Time-dilation Energy Measurement Circuit”, IEEE Transactions on 
+Biomedical Circuits and Systems, vol:9, no:2, pp. 217-226, 2015. 
+[J20] 
+T. Feng*, N. Lajnef, S. Chakrabartty, ``Design of a CMOS System-on-Chip for Passive, 
+Near-field Ultrasonic Energy Harvesting and Back-telemetry”, IEEE Transactions on 
+Very Large Scale Integration, 2015, DOI: 10.1109/TVLSI.2015.2401037. 
+[J21] 
+N. Lajnef, W. Borchani, R. Burgueno, S. Chakrabartty*, ``Self-powered Piezo-floating-gate 
+Smart-gauges based on Quasi-static Mechanical Energy Concentrators and Triggers”, 
+IEEE Sensors Journal, vol. 15, no: 2, pp.676-683, 2015. 
+[J22] 
+T. T. Nguyen*, T. Feng, P.  Häfliger, S. Chakrabartty, ``Hybrid CMOS Rectifier based on 
+Synergistic RF-Piezoelectric Energy Scavenging”, IEEE Transactions of Circuits and 
+Systems – I, vol. 61, no: 12, pp.3330-3338, 2014.  
+[J23] 
+M. Yuan, Alocilja E. C., S. Chakrabartty*, ``A Novel Biosensor based on Silver-enhanced 
+Self-assembled Radio-frequency Antennas”, IEEE Sensors Letters, vol. 14, no: 4, pp. 941-
+942, 2014. 
+[J24] 
+M. Gu, S. Chakrabartty*, ``Design of a Programmable Gain, Temperature Compensated 
+Current-input Current-output CMOS Logarithmic Amplifier”, IEEE Transactions of 
+Biomedical Circuits and Systems, vol.8, no: 3, pp.423-431, 2014. 
+[J25] 
+P. Sarkar, S. Chakrabartty*, ``Compressive Self-powering of Piezo-Floating-Gate Mechanical 
+Impact Detectors”, IEEE Transactions of Circuits and Systems-I, (TCAS), vol. 60, no: 9, 
+2013.  
+[J26] 
+S. Chakrabartty*, R. Shaga, K. Aono ``Noise-shaping Gradient Descent based Online 
+Optimization Algorithms for Digital Calibration of Analog Circuits”, IEEE Transactions 
+of Neural Networks and Learning Systems, vol. 24, no:4, pp.554-565, 2013. 
+[J27] 
+M. Gu, S. Chakrabartty*, ``FAST: A Framework for Simulation and Analysis of Large-scale 
+Protein-Silicon Biosensor Circuits”, IEEE Transactions of Biomedical Circuits and 
+Systems, vol.7, no:4, 2013. 
+
+-----
+Shantanu Chakrabartty                                                   May 2017 
+13 
+[J28] 
+P. Sarkar, C. Huang, S. Chakrabartty*, ``An Ultra-linear Piezo-Floating-Gate Strain-Gauge for 
+Self-powered Measurement of Quasi-static-strain”, IEEE Transactions of Biomedical 
+Circuits and Systems, vol. 7, no: 4, Aug 2013. 
+[J29] 
+K. Aono, R. Shaga, S. Chakrabartty*, ``Exploiting Jump-resonance Hysteresis in Silicon 
+Cochlea for Extracting Speaker Discriminative Formant Trajectories”, IEEE Transactions 
+of Biomedical Circuits and Systems, vol.7, no:4, pp. 389-400, 2013. 
+[J30] 
+M. Gu, S. Chakrabartty*, ``A Varactor-driven, Temperature Compensated CMOS Floating-
+gate Current Memory with 130ppm/K Temperature Sensitivity”, IEEE Journal of Solid-
+State Circuits, vol. 47, no: 11, pp. 2846-2856, Nov. 2012. 
+[J31] 
+A. Fazel, S.Chakrabartty*, ``Sparse Auditory Reproducing Kernel (SPARK) Features for 
+Noise-Robust Speech Recognition”, IEEE Transactions of Audio, Speech and Language 
+Processing, DOI:10.1109/TASL.2011.2179294, vol.20, no:4, 2012. 
+[J32] 
+C. Huang, S. Chakrabartty*, ``An Asynchronous Analog Self-powered Sensor-Data-Logger 
+with a 13.56MHz RF Programming Interface”, IEEE Journal of Solid-State Circuits, 
+DOI:10.1109/JSSC.2011.2172159, vol. 47, no: 2, Feb, 2012. 
+[J33] 
+M. Gu, S. Chakrabartty*, ``Synthesis of Bias-Scalable Analog Computing Circuits based on 
+Margin Propagation”, IEEE Transactions of Circuits and Systems-I, vol. 69, no:2, Feb. 
+2012. DOI:10.1109/TCSI.2011.2163968. 
+[J34] 
+C. Huang, P. Sarkar, S. Chakrabartty*, ``Rail-to-Rail Hot-electron Injection Programming of 
+Floating-gate Voltage Bias Generators at a Resolution of 13bits”, IEEE Journal of Solid-
+State Circuits, vol. 46, no:1, Nov. 2011. 
+[J35] 
+M. Gu, S. Chakrabartty*, ``An Adaptive, 100pJ/bit, (32,8,4), ``Analog LDPC Decoder based 
+on Margin Propagation”, IEEE Journal of Solid-State Circuits, vol. 46, no:6, pp.1433-
+1442, 2011. 
+[J36] 
+C. Huang*, S. Chakrabartty, `` A current-input current-output CMOS logarithmic amplifier 
+based on translinear Ohm's law”, Electronics Letters, vol. 47, no:7, pp.433-434, 2011. 
+[J37] 
+C. Huang*, S. Chakrabartty, ``A Compact Self-powered CMOS Strain-rate Monitor for 
+Piezoelectric Energy Scavengers”, Electronics Letters, vol. 47, no:4, pp. 277-278, 2011. 
+[J38] 
+A. Fazel, S. Chakrabartty*,``Statistical Pattern Recognition Techniques for Speaker 
+Verification”, IEEE Circuits and Systems Magazine. vol: 11, no:2, pp. 62-81, 2011. 
+[J39] 
+Y. Liu*, M. Gu, E.C. Alocilja, S. Chakrabartty, Co-detection: Ultra-reliable Nanoparticle-
+Based Electrical Detection of Biomolecules in the Presence of Large Background 
+Interference, Biosensors and Bioelectronics, Vol. 26, No:3, pp.1087-1092, 2010. 
+[J40] 
+Y. Liu*, E.C. Alocilja, S. Chakrabartty, ``Biomolecules Detection using a Silver-Enhanced 
+Gold Nanoparticle-Based Biochip”, Nano Research Letters, 2010, DOI 10.1007/s11671-
+010-9542-0. 
+[J41] 
+A.Fazel, A.Gore, S.Chakrabartty*, ``Resolution Enhancement in Sigma-delta Learners for 
+Super-Resolution Source Separation”, IEEE Transactions of Signal Processing, vol. 58, 
+no:3, pp. 1193 – 1204, 2010, DOI: 10.1109/TSP.2009.2034909. 
+[J42] 
+A.Gore, A.Fazel, S. Chakrabartty*, ``Far-field Acoustic Source Localization and Bearing 
+Estimation using Sigma-delta Learners”, IEEE Transactions of Circuits and Systems I, vol. 
+
+-----
+Shantanu Chakrabartty                                                     May  2017 
+14 
+57, no:4, pp. 783 – 792, 2010, DOI: 10.1109/TCSI.2009.2027627. 
+[J43] 
+C.Huang, N.Lajnef, S. Chakrabartty*, ``Calibration and Characterization of Self-powered 
+Floating-gate Usage Monitors with Single Electron per Second Operational Limit”, IEEE 
+Transactions of Circuits and Systems I, vol. 57, no: 3, pp. 556 – 567, 2010, DOI: 
+10.1109/TCSI.2009.2024976. 
+[J44] 
+A.Gore, S. Chakrabartty*, ``A Min-Max Optimization Framework for Designing SigmaDelta  
+Learners: Theory and Hardware”, IEEE Transactions of Circuits and Systems I, vol. 57, 
+no: 3, pp. 604 – 617, 2010, DOI: 10.1109/TCSI.2009.2025002. 
+[J45] 
+Y.Liu, S.Chakrabartty*, ``Factor Graph based Biomolecular Circuit Analysis for Designing 
+Forward Error Correcting Biosensors”, IEEE Transactions of Biomedical Circuits and 
+Systems, vol. 3, no. 3, pp.150-159, June 2009. 
+[J46] 
+N. Lajnef, N. Elvin, A. Elvin and S. Chakrabartty*,  ``Piezo-Powered Floating Fate Injector for 
+Self-Powered Fatigue Monitoring in Biomechanical Implants”,  IEEE Transactions of 
+Biomedical Circuits and Systems, pp.164-172, Vol. 2, Sept. 2008.  
+[J47] 
+Y. Liu*, A. Gore, S. Chakrabartty, and E. C.Alocilja, ``Characterization of Sub-systems of a 
+Molecular Bio-wire based Biosensor Device,”  Microchimica Acta , 2008, DOI: 
+10.1007/s00604-008-0950-0. 
+[J48] 
+Y. Liu*, S. Chakrabartty, and E. C.Alocilja, ``Fundamental Building Blocks for Molecular 
+Bio-wire based Forward-error Correcting Biosensors”, Nanotechnology, 18, (2007), 
+4240172. 
+[J49] 
+S. Chakrabartty*, G.Cauwenberghs, ``A Sub-microwatt Analog VLSI Trainable Pattern 
+Classifier”, IEEE Journal of Solid-State Circuits, vol. 42, no: 5, May 2007. 
+[J50] 
+S. Chakrabartty* and G. Cauwenberghs, ``Gini-Support Vector Machine:  Quadratic Entropy 
+Based Multi-class Probability Regression”, Journal of Machine Learning Research, 
+Volume 8, pp. 813-839, April 2007. 
+[J51] 
+V. Venkataramani*, S. Chakrabartty , and  W. Byrne, ``Gini-Support Vector Machines for 
+Segmental Minimum Bayes Risk Decoding of Continuous Speech”, Computer Speech and 
+Language, Volume 21, Issue 3, July 2007, pp. 423-442. 
+[J52] 
+S. Chakrabartty*, Y. Deng and G. Cauwenberghs, ``Robust Speech Feature Extraction by 
+Growth Transformation in Reproducing Kernel Hilbert Space”,  IEEE Transactions on 
+Speech, Language and Acoustics, pp. 1842-1849, Vol. 15  Issue: 6, Aug. 2007.  
+[J53] 
+C. Kong and S.Chakrabartty*, ``Analog Iterative Decoders based on Margin Propagation” , 
+IEEE Transactions on Circuits and Systems II, pp. 1140-1144, Vol. 54, no. 12, Dec. 2007.  
+[J54] 
+A. Gore,  S. Chakrabartty*, S. Pal, E.C. Alocilja, ``A Multichannel Femtoampere-Sensitivity 
+Potentiostat Array for Biosensing Applications”, IEEE Transactions on Circuits and 
+Systems I: Regular Papers,Volume 53,  Issue 11,  Nov. 2006 Page(s):2357-2363. 
+[J55] 
+Y. Zuo; S. Chakrabartty*, S. Pal, Z. Tahir,E.C. Alocilja, ``Spatio-temporal Processing of 
+Multi-channel Biosensors using Support Vector Machines”, IEEE Sensors Journal, 
+Volume 6, Issue 6, Page(s): 1644-1651, Dec 2006. 
+[J56] 
+R. Genov, S. Chakrabartty and G.Cauwenberghs*, ``Silicon Support Vector Machine with On-
+Line Learning”, Int. J. Pattern Recognition and Artificial Intelligence, vol. 17 (3), pp. 385-
+
+-----
+Shantanu Chakrabartty                                                   May 2017 
+15 
+404, 2003. 
+ 
+Refereed Conference Publications in Chronological Order 
+[C1] 
+L. Zhou, S. Chakrabartty, `` Self-powered Continuous Time-Temperature Monitoring for 
+Cold-Chain Management”, IEEE Mid-west Symposium of Circuits and Systems 
+(MWSCAS 2017), Boston, USA, 2017. 
+[C2] 
+Y. Alazzawi, S. Chakrabartty, `` Self-powered System-on-Chip for Substrate Computing 
+and Ultrasonic Communications”, EEE Mid-west Symposium of Circuits and Systems 
+(MWSCAS 2017), Boston, USA, 2017. 
+[C3] 
+B. Scheid, S. Chakrabartty, ``Feasibility of Hybrid Ultrasound-Electrical Nerve Stimulation 
+for Electroceuticals”, IEEE Symposium of Circuits and Systems (ISCAS 2017), 
+Baltimore, USA, 2017. 
+[C4] 
+L. Zhou, S. Chakrabartty, `` Secure Dynamic Authentication of Passive Assets and Passive 
+IoTs Using Self-Powered Timers”, IEEE Symposium of Circuits and Systems (ISCAS 
+2017), Baltimore, USA, 2017. 
+[C5] 
+D. Mehta, A. Ege, B. Raman, S. Chakrabartty, `` Behaving Cyborg Locusts for Standoff 
+Chemical Sensing”, IEEE Symposium of Circuits and Systems (ISCAS 2017), 
+Baltimore, USA, 2017. 
+[C6] 
+M. Yuan, S. Singamaneni, S. Chakrabartty, `` Analyte Sampling in Paper Biosensors 
+Powered by Graphite-Based Light Absorption” IEEE Symposium of Circuits and 
+Systems (ISCAS 2017), Baltimore, USA, 2017. 
+[C7] 
+S. Kondapalli, X. Zhang, S. Chakrabartty, `` Variance-Based Digital Logic for Energy 
+Harvesting Internet-of-Things” IEEE Symposium of Circuits and Systems (ISCAS 
+2017), Baltimore, USA, 2017. 
+[C8] 
+L. Zhou, A. Abraham, S. Tang, S. Chakrabartty ``Approaching the Limits of 
+Piezoelectricity Driven Hot-Electron Injection for Self-Powered in-Vivo Monitoring of 
+Micro-Strain Variations”, IEEE Symposium of Circuits and Systems (ISCAS 2016), 
+Montreal, Canada, 2016. 
+[C9] 
+Y. Alazzawi, S. Chakrabartty, ``Design of CMOS Telemetry Circuits for In-vivo Wireless 
+Sonomicrometry”, IEEE Symposium of Circuits and Systems (ISCAS 2016), Montreal, 
+Canada, 2016. 
+[C10] L. Zhou, S. Chakrabartty `` Self-powered Sensing and Time-stamping of Rare Events using 
+CMOS Fowler-Nordheim Tunneling Timers”, IEEE Symposium of Circuits and 
+Systems (ISCAS 2016), Montreal, Canada, 2016. 
+[C11] K.Aono, N. Lajnef, F.Faridazar, S.Chakrabartty, `` Infrastructural Health Monitoring Using 
+Self-Powered Internet-of-Things”, IEEE Symposium of Circuits and Systems (ISCAS 
+2016), Montreal, Canada, 2016. 
+[C12] H. Salehi, R. Burgueño, S. Das, S. Biswas, S. Chakrabartty, ``Structural health monitoring 
+from discrete binary data through pattern recognition", Proceedings of the 6th 
+International Conference on Structural Engineering, Mechanics and Computation, 
+SEMC 2016, 2016. 
+
+-----
+Shantanu Chakrabartty                                                     May  2017 
+16 
+[C13] M. Yuan, E.C. Alocilja, S. Chakrabartty, `` Self-powered Wireless Biosensing based on 
+Integration of Paper-based Microfluidics with Self-assembling RFID Antennas”, IEEE 
+Conference on Biomedical Circuits and Systems (BioCAS 2015), Atlanta, USA, 2015. 
+[C14] Y. Alazzawi, C. Qian, S. Chakrabartty, `` Feasibility of Non-Contact Ultrasound Generation 
+using Implanted Metallic Surfaces as Electromagnetic Acoustic Transducers”, IEEE 
+Conference on Biomedical Circuits and Systems (BioCAS 2015), Atlanta, USA, 2015. 
+[C15] L. Zhou, S. Chakrabartty, `` Design of Low-Gm Transconductors using Varactor-based 
+Degeneration and Linearization Technique”, IEEE Conference on Biomedical Circuits 
+and Systems (BioCAS 2015), Atlanta, USA, 2015. 
+[C16] M. Yuan, P. Chahal, E.C. Alocilja, S. Chakrabartty, ``Sensing by Growing Antennas: A 
+Novel Approach for Designing Passive RFID based Biosensors”, IEEE Symposium on 
+Circuits and Systems (ISCAS 2015), Lisbon, Portugal, 2015. 
+[C17] L. Zhou, S. Chakrabartty, ``A Continuous-time Varactor-based Temperature Compensation 
+Circuit for Floating-gate Multipliers and Inner-product Circuits”, IEEE Symposium on 
+Circuits and Systems (ISCAS 2015), Lisbon, Portugal, 2015 (Honorary mention for best 
+paper award). 
+[C18] B. Fang, T. Feng, M. Zhang, S. Chakrabartty, `` Feasibility of B-mode Diagnostic 
+Ultrasound Energy Transfer and Telemetry to a cm2 sized Deep-tissue Implant”, IEEE 
+Symposium on Circuits and Systems (ISCAS 2015), Lisbon, Portugal, 2015. 
+[C19] N. Lajnef, R. Burgueno, W. Borchani, S. Chakrabartty, ``Sub-Hz Self-Powered Sensing 
+Based on Mechanical-Buckling Driven Hot-Electron Injection”, IEEE Symposium on 
+Circuits and Systems (ISCAS 2014), Melbourne, Australia, 2014 (Best paper award). 
+[C20] L. Zhou, S. Chakrabartty, ``A 7-Transistor-Per-Cell, High-Density Analog Storage Array 
+with 500µV Update Accuracy and Greater Than 60dB Linearity”, IEEE Symposium on 
+Circuits and Systems (ISCAS 2014), Melbourne, Australia, 2014. 
+[C21] M. Gu, S. Chakrabartty, ``A Bias-Scalable Current-Mode Analog Support Vector Machine 
+Based on Margin Propagation”, IEEE Symposium on Circuits and Systems (ISCAS 
+2014), Melbourne, Australia, 2014. 
+[C22] K. Aono, T. Covassin, S. Chakrabartty, ``Monitoring of Repeated Head Impacts Using Time-
+Dilation Based Self-Powered Sensing”, IEEE Symposium on Circuits and Systems 
+(ISCAS 2014), Melbourne, Australia, 2014. 
+[C23] N. Lajnef, S. Chakrabartty, R. Burgueno, W. Borchani, ``Quasi-static self-powered sensing 
+and data logging”, Proceedings of SPIE NDE/Smart Structures, San Diego, USA, 2014.  
+[C24] S. Chakrabartty, N. Lajnef, ``Compressive Piezo-floating-gate sensors for self-powered 
+sensing of wide-dynamic-range mechanical events”, Proceedings of SPIE NDE/Smart 
+Structures, San Diego, USA, 2014.   
+[C25] M. Gu, S. Chakrabartty, `` A 120dB Input Dynamic Range, Current-Input Current-Output 
+CMOS Logarithmic Amplifier with 230ppm/K Temperature Sensitivity”, IEEE Midwest 
+Symposium on Circuits and Systems (MWSCAS 2013), Columbus, Ohio, 2013. 
+[C26] M. Gu, S. Chakrabartty, `` Bias-Scalable Inner-Product Approximation Circuit Using Analog 
+Margin Propagation”, IEEE Midwest Symposium on Circuits and Systems (MWSCAS 
+2013), Columbus, Ohio, 2013. 
+
+-----
+Shantanu Chakrabartty                                                   May 2017 
+17 
+[C27] L. Zhou, P. Sarkar, S. Chakrabartty, ``Scavenging Thermal-Noise Energy for Implementing 
+Long-Term Self-Powered CMOS Timers”, IEEE Symposium on Circuits and Systems 
+(ISCAS 2013), Beijing, China, 2013. 
+[C28] P. Sarkar, S. Chakrabartty, ``A Compressive Piezoelectric Front-End Circuit for Self-
+Powered Mechanical Impact Detectors”, IEEE Symposium on Circuits and Systems 
+(ISCAS 2013), Beijing, China, 2013. 
+[C29] S. Chakrabartty, ``Approaching limits of sensing using neuromorphic noise-exploitation 
+principles”, SPIE Smart Structures and Materials + Nondestructive Evaluation and Health 
+Monitoring, San Diego, California, 2013. 
+[C30] S. Chakrabartty, T. Feng, K. Aono, ``Gen-2 RFID compatible, zero down-time, 
+programmable mechanical strain-monitors and mechanical impact detectors”, SPIE Smart 
+Structures and Materials + Nondestructive Evaluation and Health Monitoring, San Diego, 
+California, 2013. 
+[C31] S. Chakrabartty, ``Reproducing Kernel-based Methods for Extracting and Identifying Noise-
+robust Speech Features”, IEEE Asilomar Conference on Signal, Systems and Computers, 
+Nov. 2012. 
+[C32] K. Aono, R. Shaga, S. Chakrabartty, ``Exploiting Jump-Resonance Hysteresis in Silicon 
+Cochlea for Formant Trajectory Encoding”, IEEE Proc. Of 55th International Midwest 
+Symposium on Circuits and Systems, Boise, Idaho, 2012.  
+[C33] F. Tao, S. Chakrabartty, ``Analysis and Design of High-Efficiency Inductive Power-links 
+Using a Novel Matching Strategy”, IEEE Proc. Of 55th International Midwest Symposium 
+on Circuits and Systems, Boise, Idaho, 2012.  
+[C34] M. Gu, S. Chakrabartty, ``Varactor-Driven Temperature Compensation of CMOS Floating-
+Gate Current Memory”, Proc. of IEEE Symposium of Circuits and Systems (ISCAS 2012), 
+Seoul, South Korea, 2012. 
+[C35] P. Sarkar, S. Chakrabartty, ``A Self-Powered Static-Strain Sensor Based on Differential 
+Linear Piezo-Floating-Gate Injectors”, Proc. of IEEE Symposium of Circuits and Systems 
+(ISCAS 2012), Seoul, South Korea, 2012. 
+[C36] R. Shaga, S. Chakrabartty, ``Sigma-Delta Gradient-Descent Learning for Online Real-Time 
+Calibration of Digitally-Assisted Analog Circuits”, Proc. of IEEE Symposium of Circuits 
+and Systems (ISCAS 2012), Seoul, South Korea, 2012. 
+[C37] T. Hindo, S. Chakrabartty, ``Noise-exploitation in Neuromorphic Sensors”, Biomimetics, 
+Bioreplication and Bioinspiration Conference, Proc. Of SPIE (2012), San Diego, 2012. 
+[C38] A. Fazel, S. Chakrabartty, ``Sparse Kernel Cepstral Coefficients (SKCC): Inner-Product 
+Based Features for Noise-Robust Speech Recognition”, Proc. of IEEE Symposium of 
+Circuits and Systems (ISCAS 2011), Rio de Janiero, 2011. 
+[C39] C. Huang, S. Chakrabartty, ``A Hybrid Energy Scavenging Sensor for Long-Term 
+Mechanical Strain Monitoring”, Proc. of IEEE Symposium of Circuits and Systems 
+(ISCAS 2011), Rio de Janiero, 2011. 
+[C40] M. Gu, S. Chakrabartty, `` An Adaptive Analog Low-Density Parity-Check Decoder Based 
+on Margin Propagation”, Proc. of IEEE Symposium of Circuits and Systems (ISCAS 
+2011), Rio de Janiero, 2011. 
+
+-----
+Shantanu Chakrabartty                                                     May  2017 
+18 
+[C41] C. Huang, S. Chakrabartty, `` Multi-functional self-powered sensor for long-term ambient 
+vibration monitoring”, Proc. of SPIE Smart Structures + NDE, San Diego, 2011. 
+[C42] C. Huang, S. Chakrabartty, `` A miniature batteryless health and usage monitoring system 
+based on hybrid energy harvesting”, Proc. of SPIE Smart Structures + NDE, San Diego, 
+2011. 
+[C43] C. Huang, S.Chakrabartty, ``A Temperature Compensated Array of CMOS Floating-Gate 
+Analog Memory”, Proc. of IEEE Symposium of Circuits and Systems (ISCAS 2010), Paris, 
+2010. 
+[C44] M.Gu, Y. Liu, S.Chakrabartty, ``Fast: a Simulation Framework for Solving Large-Scale 
+Probabilistic Inverse Problems in Nano-Biomolecular Circuits”, Proc. of IEEE Symposium 
+of Circuits and Systems (ISCAS 2010), Paris, 2010. 
+[C45] A. Fazel, S.Chakrabartty, `` Sigma-Delta Learning for Super-resolution Source Separation on 
+High-density Microphone Arrays”, Proc. of IEEE Symposium of Circuits and Systems 
+(ISCAS 2010), Paris, 2010. 
+[C46] S.Chakrabartty, S.C. Liu, ``Exploiting Spike-based Dynamics in a Silicon Cochlea for 
+Speaker Identification”, Proc. of IEEE Symposium of Circuits and Systems (ISCAS 2010), 
+Paris, 2010. 
+[C47] C. Huang, N. Lajnef, S.Chakrabartty, `` Infrasonic energy harvesting for embedded structural 
+health monitoring micro-sensors”, Proc. of SPIE Smart Structures and Materials + Non-
+destructive Evaluation and Health Monitoring, San Diego, March 2010. 
+[C48] S.Chakrabartty, ``Multiple-input multiple-output (MIMO) analog-to-feature converter 
+chipsets for sub-wavelength acoustic source localization and bearing estimation”, Proc. of 
+SPIE Symposium on Defense, Security and Sensing, Orlando, April 2010. 
+[C49] M. Gu, K. Misra, H. Radha, S. Chakrabartty, ``Sparse Decoding of Low-density Parity 
+Check Codes based on Margin Propagation”, Proc. of IEEE Globecomm, Honolulu, HI, 
+2009.  
+[C50] Y. Liu, E. Alocilja, S. Chakrabartty, ``Exploiting Sub-Threshold and Above-Threshold 
+Characteristics in a Silver-Enhanced Gold Nanoparticle Based Biochip”, Proc. of  IEEE 
+Conference on Engineering in Medicine and Biology, Minneapolis, 2009. 
+[C51] Y. Liu, E. Alocilja, S. Chakrabartty, ``Co-detection in Forward Error Correcting 
+Biosensors”, Nano-DDS Conference, FL, 2009. 
+[C52] Y. Liu, E. Alocilja, S. Chakrabartty, ``Time-based Forward Error Correcting Biosensors”, 
+Nano-DDS Conference, FL, 2009. 
+[C53] A. Fazel, S. Chakrabartty, ``Non-Linear Filtering in Reproducing Kernel Hilbert Spaces for 
+Noise-Robust Speaker Verification”, Proc. of IEEE International Symposium on Circuits 
+and Systems (ISCAS), Taipei, Taiwan, 2009. 
+[C54] Y. Liu, D. Zhang, E. C.Alocilja, and S. Chakrabartty, ``Design and Characterization of a 
+Silver-Enhanced Gold Nanoparticle-Based Biochip”, Proc. of  IEEE International 
+Symposium on Circuits and Systems, Taipei, Taiwan, 2009. 
+[C55] N. Lajnef, C. Huang and S. Chakrabartty, ``Infrasonic Power-Harvesting and Nanowatt Self-
+Powered Sensors”, Proc. of  IEEE International Symposium on Circuits and Systems, 
+
+-----
+Shantanu Chakrabartty                                                   May 2017 
+19 
+Taipei, Taiwan, 2009. 
+[C56] S. Chakrabartty and A.Gore, ``Sigma-Delta Analog to LPC Feature Converters for Portable 
+Recognition Interfaces”, Proc. of  IEEE International Symposium on Circuits and Systems, 
+Taipei, Taiwan, 2009. 
+[C57] C. Huang and S. Chakrabartty, ``Reducing Indirect Programming Mismatch Due to Oxide-
+Traps Using Dual-Channel Floating-Gate Transistors”, Proc. of  IEEE International 
+Symposium on Circuits and Systems, Taipei, Taiwan, 2009. 
+[C58] M. Shi, A.Abbas, S. Chakrabartty and G. Cauwenberghs, ``An Analog Wavelet Transform 
+CMOS APS Imager Chip”, Proc. of  IEEE International Symposium on Circuits and 
+Systems, Taipei, Taiwan, 2009. 
+[C59] C. Huang and S. Chakrabartty,``Low-threshold Voltage Multipliers based on Floating-gate 
+Charge-pumps”, IEEE Biomedical Circuits and Systems Conference, Baltimore, USA, 
+2008. 
+[C60] C. Huang and S. Chakrabartty,`` Self-powered CMOS Impact-rate Monitors for 
+Biomechanical Implants”, IEEE Biomedical Circuits and Systems Conference, Baltimore, 
+USA, 2008. 
+[C61] Y. Liu, E. C.Alocilja and S. Chakrabartty,  ``Forward Error Correcting Biosensors: Modeling, 
+Algorithm, and Fabrication,” IEEE Biomedical Circuits and Systems Conference, 
+Baltimore, USA, 2008. 
+[C62] S. Chakrabartty and Y. Liu, ``Towards Reliable Multi-pathogen Biosensors using High-
+dimensional 
+Encoding 
+and 
+Decoding 
+Techniques”, 
+SPIE 
+Symposium 
+on 
+NanoScience+Engineering, San Diego, CA, 2008. 
+[C63] A. Fazel , S. Chakrabartty, ``Sigma-Delta Learning for Super-Resolution Independent 
+Component Analysis”, IEEE International Symposium on Circuits and Systems (ISCAS), 
+Seattle, WA, 2008. 
+[C64] Y. Liu, S. Chakrabartty, E. C.Alocilja, ``A Multiplexed Biosensor based on Biomolecular 
+Nanowires,” IEEE International Symposium on Circuits and Systems , Seattle, USA, 2008. 
+[C65] Y. Liu, S. Chakrabartty, ``Computer Aided Simulation and Verification of Forward Error-
+Correcting Biosensors,” IEEE International Symposium on Circuits and Systems , Seattle, 
+USA, 2008. 
+[C66] N. Lajnef, S. Chakrabartty and N. Elvin, ``Calibration and Characterization of Self-powered 
+Floating-gate Sensor Arrays for Long-term Fatigue Monitoring”, IEEE Symposium on 
+Circuits and Systems (ISCAS), Seattle WA, May 2008. 
+[C67] A. Fazel , S. Chakrabartty, ``Sigma-Delta Resolution Enhancement for Far-field Acoustic 
+Source Separation”, IEEE International Conference on Acoustics, Speech, and Signal 
+Processing (ICASSP), Las Vegas, NV, 2008. 
+[C68] Y. Liu, A. Gore, S. Chakrabartty, E. C.Alocilja, ``A Molecular Bio-wire based Multi-array 
+Biosensor with Integrated potentiostats,” IEEE Biomedical Circuits and Systems 
+Conference, Montréal, Canada, Nov.2007. 
+[C69] Y. Liu, S. Chakrabartty, D. S. Gkinosatis, A. K.Mohanty, and N. Lajnef, ``Multi-walled 
+Carbon Nanotubes/Poly(L-lactide) Nanocomposite Strain Sensor for Biomechanical 
+Implants,” IEEE Biomedical Circuits and Systems Conference, pp. 119-122, Montréal, 
+
+-----
+Shantanu Chakrabartty                                                     May  2017 
+20 
+Canada, Nov.2007. 
+[C70] Y. Liu, A. Gore, S. Chakrabartty, E. C.Alocilja, ``A Molecular Bio-wire based Multi-array 
+Biosensor with Integrated potentiostats,” IEEE Biomedical Circuits and Systems 
+Conference, pp. 29-32, Montréal, Canada, Nov.2007. (Invited) 
+[C71] Y. Liu , D. S. Gkinosatis, A. K.Mohanty, and S. Chakrabartty, ``Carbon Nanotube/Polylactide 
+Nanocomposites for Wearable Strain Sensors”, Nano and Giga Challenges in Electronics 
+and Photonics, Phoenix, Arizona, March, 2007, U.S.A  
+[C72] P. Kucher and S. Chakrabartty , ``An Energy-Scalable Margin Propagation-Based Analog 
+VLSI Support Vector Machine”,  IEEE Symposium on Circuits and Systems 
+(ISCAS'2007), New Orleans 2007. 
+[C73] N. Lajnef, S. Chakrbartty, N. Elvin and A. Elvin, ``Piezo-Powered Floating Fate Injector for 
+Self-Powered Fatigue Monitoring in Biomechanical Implants”,  IEEE Symposium on 
+Circuits and Systems (ISCAS'2007), New Orleans 2007.  
+[C74] N. Lajnef, S. Chakrbartty, N. Elvin and A. Elvin,``A sub-microwatt self-powered fatigue 
+sensor” ,  14th International Symposium on: Smart Structures and Materials & 
+Nondestructive Evaluation and Health Monitoring, San Diego, March 2007. 
+[C75] A. Gore and S. Chakrbartty , ``Large Margin Analog-to-digital converters with applications in 
+Neural Prosthetics”,  Adv. Neural Information Processing Systems (NIPS'2006). 
+[C76] S. Chakrbartty, A.Gore and K.Oweiss, ``An Adaptive multiple-input multiple-output sigma-
+delta converter for high-density neuroposthetic electrode arrays”, IEEE Conference on 
+Engineering in Medicine and Biology (EMBC 2006), New York.   
+[C77] A.Gore, S.Chakrabartty, S. Pal and E. Alocilja, ``A Multi-channel Femtoampere Sensitivity 
+Conductometric Array for Biosensing Applications”, IEEE Conference on Engineering in 
+Medicine and Biology (EMBC 2006), New York.   
+[C78] N. Lajnef, S.Chakrabartty and N.Elvin, ``A Sub-microwatt Piezo-floating-gate Sensor for 
+Long-term Fatigue Monitoring in Biomechanical Implants”, IEEE Conference on 
+Engineering in Medicine and Biology (EMBC 2006), New York.   
+[C79] C. Kong and S.Chakrabartty, ``Analog Margin Propagation based Iterative LDPC Decoders”, 
+Analog Decoding Workshop, Torino, Italy 2006. 
+[C80] S. Chakrabartty, ``CMOS analog iterative decoders using margin propagation circuits”,  
+Proceedings of IEEE International Symposium on Circuits and Systems (ISCAS 2006), 21-
+24 May 2006 
+[C81] P. Kucher and S. Chakrabartty, ``An Adaptive CMOS Imager with Time-based Compressive 
+Active-pixel Response” , Proceedings of IEEE International Symposium on Circuits and 
+Systems (ISCAS 2006), 21-24 May 2006. 
+[C82] A. Gore and S. Chakrabartty, ``Online Calibration of Floating-gate Detectors for RFID 
+Sensors”, Midwest Symposium on Circuits and Systems 2005 (Invited Presentation), 7-10 
+Aug. 2005 Page(s):87 - 90 Vol. 1.  
+[C83] S. Chakrabartty and G. Cauwenberghs ,``Sub-Microwatt Analog VLSI Support Vector 
+Machine for Pattern Classification and Sequence Estimation”, Adv. Neural Information 
+Processing Systems (NIPS'2004), Cambridge: MIT Press, 17, 2005 
+
+-----
+Shantanu Chakrabartty                                                   May 2017 
+21 
+[C84] C. Kun, S. Chakrabartty and A. Mason, ``A Dynamic Reconfigurable A/D Converter for 
+Sensor Applications” , IEEE Sensors Conference, 30 Oct.-3 Nov. 2005. 
+[C85] S. Chakrabartty and G. Cauwenberghs, ``Fixed-current Method for Programming Large 
+Floating Gate Arrays” , Proceedings of IEEE International Symposium on Circuits and 
+Systems (ISCAS 2005), 23-25 May 2005. 
+[C86] R. J. Vogelstein, K. Murari, K.; P.H. Thakur, C. Diehl, S. Chakrabartty,  G. Cauwenberghs, 
+``Spike sorting with support vector machines”, IEEE Conference on Engineering in 
+Medicine and Biology (EMBC 2004),Volume 1,  2004 Page(s):546 - 549 Vol.1. 
+[C87] S. Chakrabartty and G. Cauwenberghs, ``Margin Propagation and Forward Decoding in 
+Analog VLSI”, Proc. IEEE Int. Symp. Circuits and Systems (ISCAS'2004), Vancouver 
+Canada, 2004. 
+[C88] Y. Deng, S. Chakrabartty and G. Cauwenberghs, ``A Three Decades Programmable Fully 
+Differential OTA Design”, Proc. IEEE Int. Symp. Circuits and Systems (ISCAS'2004), 
+Vancouver Canada, 2004. 
+[C89] S. Chakrabartty, Y. Deng and G. Cauwenberghs, ``Robust Speech Feature Extraction by 
+Growth Transformation in Reproducing Kernel Hilbert Space”,  Proc. IEEE Int. Conf. 
+Acoustics Speech and Signal Processing (ICASSP'2004), Montreal Canada, 2004. 
+[C90] V. Venkataramani, S. Chakrabartty and W. Byrne, ``Support Vector Machines for Segmental 
+Minimum Bayes Risk Decoding of Continuous Speech”, IEEE Automatic Recognition and 
+Understanding Wokshop (ASRU’03)  St. Thomas, U.S. Virgin Islands, Nov. 30-Dec. 4, 
+2003. 
+[C91] S. Chakrabartty, G. Cauwenberghs and Jayadeva, ``Sparse Probability Regression by Label 
+Partitioning”, Proc. 16th Conf. Computational Learning Theory (COLT'03), Washington 
+DC, Aug. 24-27, 2003. 
+[C92] S. Chakrabartty and G. Cauwenberghs, ``Power Dissipation Limits and Large Margin in 
+Wireless Sensors”, Proc. IEEE Int. Symp. Circuits and Systems (ISCAS'2003), Bangkok 
+Thailand, May 25-28, 2003. 
+[C93] S. Chakrabartty, M. Yagi, T. Shibata and G. Cauwenberghs, ``Robust Cephalometric 
+Landmark Identification Using Support Vector Machines”, Proc. IEEE Int. Conf. Acoustics 
+Speech and Signal Processing (ICASSP'2003), Hong Kong, Apr. 6-10, 2003. 
+[C94] S. Chakrabartty and G. Cauwenberghs, ``Expectation Maximization of Forward Decoding 
+Kernel Machines”, Proc. 9th Int. Workshop Artificial Intelligence and Statistics 
+(AISTATS'2003), Key West FL, Jan. 3-6, 2003. 
+[C95] S. Chakrabartty and G. Cauwenberghs, ``Forward-Decoding Kernel-Based Phone Sequence 
+Recognition”, Adv. Neural Information Processing Systems (NIPS'2002), Cambridge: MIT 
+Press, vol. 15, 2003. 
+[C96] S. Chakrabartty and G. Cauwenberghs, ``Forward Decoding Kernel Machines: A Hybrid 
+HMM/SVM Approach to Sequence Recognition”,  Proc. SVM'2002, Lecture Notes in 
+Computer Science, vol. 2388, pp. 278-292, 2002. 
+[C97] S. Chakrabartty and G. Cauwenberghs, ``Sequence Estimation and Channel Equalization 
+Using Forward Decoding Kernel Machines”, Proc. IEEE Int. Conf. Acoustics Speech and 
+Signal Processing (ICASSP'2002), Orlando FL, May 13-17, 2002. 
+
+-----
+Shantanu Chakrabartty                                                     May  2017 
+22 
+[C98] S. Chakrabartty and G. Cauwenberghs, ``Hybrid Support Vector Machine, Hidden Markov 
+Model Approach for Continuous Speech Recognition”, Proc. 43rd IEEE Midwest Symp. 
+Circuits and Systems (MWSCAS'2000), Lansing MI, August 8-11, 2000. 
+[C99] S. Chakrabartty, M. Stanacevic and T.D. Tran, ``Adaptive Image Database Using 
+Wavelets”,  Proc. 34th IEEE Asilomar Conference on Signals,Systems and Computers, vol. 
+2, pp. 1856-1860, Pacific Grove, Oct. 2000. 
+ 
+
+-----

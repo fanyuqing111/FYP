@@ -1,0 +1,18 @@
+Author’s Publications 
+Journal Papers 
+(i) Huang, J., Guo, M., Wang, S., & Chen, S. A 64x64 Motion Sensor with On-Chip 
+Pixel Rendering Module for Optical Flow Estimation. Submitted and under review. 
+(ii) Huang, J., Wang, S., Guo, M., & Chen, S. An Event-guided Structured Output 
+Tracking of Fast Moving Objects using CeleX Sensor. Submitted and under review. 
+Conference Papers 
+(i) Huang, J., Guo, M., Wang, S. & Chen, S. (2018, May). A Motion Sensor with 
+On-Chip Pixel Rendering for Optical Flow Gradient Extraction. In Circuits and 
+Systems (ISCAS), 2017 IEEE International Symposium on. IEEE. Accepted. 
+(ii) Huang, J., Guo, M., & Chen, S. (2017, May). A dynamic vision sensor with 
+direct logarithmic output and full-frame picture-on-demand. In Circuits and 
+Systems (ISCAS), 2017 IEEE International Symposium on (pp. 1-4). IEEE. 
+(iii) Guo, H., Huang, J., Guo, M., & Chen, S. (2016, May). Dynamic resolution 
+event-based temporal contrast vision sensor. In Circuits and Systems (ISCAS), 2016 
+IEEE International Symposium on (pp. 1422-1425). IEEE. 
+
+-----

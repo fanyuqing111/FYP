@@ -1,0 +1,490 @@
+Home
+About/Contact
+Research
+Studies at INI
+People
+Publications
+Seminars
+Available Positions
+News & Events
+INI in the media
+External Collaborators
+Spin-Offs
+INI Blog
+Links
+Internal
+Tobi Delbruck
+Position: 
+Professor 
+Email: 
+tobi@ini.uzh.ch
+Work phone: 
+41 44/ 635 30 38 
+Home page: 
+http://www.ini.uzh.ch/~tobi
+Location: 
+55g84-d5
+I studied physics and applied math as an undergraduate in San Diego and then 
+Computation in Neural Systems as a graduate student at Caltech. After projects 
+with Christof Koch and David van Essen, I settled on building neuromorphic 
+vision sensors with Carver Mead for my PhD work. After my graduate work, I 
+went to Silicon Valley to work as a consultant on electronic imaging, first with 
+Synaptics, and then with Arithmos, National Semiconductor and Foveon. I 
+joined INI in 1998, together with Dr. Shih-Chii Liu. Aside from a major detour to 
+work on the luminous tactile floor of INI's "Ada" contribution to the 2003 Swiss 
+national exhibition, I have been working on developing neuromorphic vision 
+sensors for real-world applications in machine vision. Together with my doctoral 
+student Patrick Lichtsteiner, we achieved a breakthrough with the first highly 
+functional Dynamic Vision Sensor event-based silicon retina in 2006. Since then, 
+the Sensors group has been evolving this technology and exploring its manifold 
+applications in event-driven vision. Our most recent breakthrough is our 
+flagship sensor called DAVIS. In my spare time, I also really enjoy reading and 
+like to play tennis and basketball. I like riding my bike to work and sometimes I 
+practice some card magic and I even rejoined the Magic Castle in Hollywood 
+recently. For holidays we often travel back to our home in Pasadena where I 
+grew up as a faculty child. 
+Main-Projects
+
+-----
+Avaliable Positions/Projects
+Spin-Off Companies
+IniLabs
+Insightness
+iniVation AG
+Teaching
+INI-404, 227-1033-00 Neuromorphic Engineering I
+INI-405, 227-1032-00 Neuromorphic Engineering II
+227-1042-00 Electronics for Physicists II (Digital)
+INI-434, 227-1049-00 Block: Insights Into Neuroinformatics 
+INI-502, 227-1039-00 Basics of instrumentation, measurement and analysis
+Publications
+2017
+Anumula, J., Neil, D., Xiaoya Li, X., Delbruck, T., and Liu, S-C. Live 
+Demonstration: Event-Driven Real-Time Spoken Digit Recognition 
+System, IEEE Int. Symposium on Circuits and Systems (ISCAS), 2017 
+Moeys, D., Li, C., Martel, J., Bamford, S., Longinotti, L., Motsnyi, V., Bello, D., 
+Delbruck, T. Color Temporal Contrast Sensitivity in Dynamic Vision 
+Sensors, IEEE Int. Symposium on Circuit and Systems (ISCAS), 2017 pdf
+Yang, M-H., Liu, S-C., and Delbruck, T. Analysis of Encoding Degradation in 
+Spiking Sensors Due to Spike Delay Variation, IEEE Transactions on Circuits 
+and Systems I: Regular Papers, 64:(1) 145-155, 2017 
+2016
+Bodo Rueckauer, Tobi Delbruck Evaluation of Event-Based Algorithms for 
+Optical Flow with Ground-Truth from Inertial Measurement Sensor, 
+Frontiers in Neuroscience, 10:(176) 1-17, 2016 OpticalFlowBenchmarking
+Ceolini, E., Neil, D., Delbruck, T., and Liu, S-C. Temporal Sequence Recognition 
+in a Self-Organizing Recurrent Network , IEEE Second International 
+Conference on Event-Based Control, Communication and Signal Processing 
+(EBCCSP), 2016 
+Neuromorphic 
+Vision Sensors, 
+Processing, 
+Algorithms
+Neuromorphic Processor Project [Paid 
+Position]
+We have a number of available PhD and postdoc 
+positions available now for the Neuromorphic 
+Processor Project (NPP). more
+
+-----
+Christian Brändli, Jonas Strubel, Susanne Keller, Davide Scaramuzza, Tobi 
+Delbruck ELiSeD - An Event-Based Line Segment Detector, Event-Based 
+Control, Communication and Signal Processing (EBCCSP 2016), 2:, 2016 
+Hu Y., Liu H., Pfeiffer M., and Delbruck T. DVS Benchmark Datasets for Object 
+Tracking, Action Recognition and Object Recognition, Frontiers in 
+Neuromorphic Engineering, 10:(405), 2016 
+Lee JH, Delbruck T., and Pfeiffer M. Training deep spiking neural networks 
+using backpropagation, Frontiers in Neuromorphic Engineering, 10:(508), 
+2016 
+Liu, H., Moeys, D., Neil, D., Liu, S., Delbruck, T. Combined frame- and event-
+based detection and tracking , IEEE Int. Symposium on Circuits and Systems 
+(ISCAS), 2016 pdf
+Moeys, D., Corradi F., Kerr, E., Vance, P., Das, G., Neil, D., Kerr, D., Delbrück, T. 
+Steering a Predator Robot using a Mixed Frame/Event-Driven 
+Convolutional Neural Network, IEEE Second International Conference on 
+Event-Based Control, Communication and Signal Processing (EBCCSP), 2016 pdf
+Moeys, D., Delbruck, T., Rios-Navarro, A., Linares-Barranco, A. Live 
+Demonstration: Retinal Ganglion Cell Software and FPGA 
+Implementation for Object Detection and Tracking, IEEE Int. Symposium 
+on Circuits and Systems (ISCAS), 2016 pdf
+Moeys, D., Delbruck, T., Rios-Navarro, A., Linares-Barranco, A. Retinal Ganglion 
+Cell Software and FPGA Implementation for Object Detection and 
+Tracking, IEEE Int. Symposium on Circuits and Systems (ISCAS), 2016 pdf
+Yang, M-H., Chien, C-H., Delbruck, T. , and Liu, S-C. A 0.5V 55 uW 64X2-channel 
+binaural silicon cochlea for event-driven stereo-audio sensing, 2016 IEEE 
+International Solid-State Circuits Conference (ISSCC) 388-389, 2016 
+2015
+Li, C. and Brandli, C. and Berner, R. and Liu, H. and Yang, M. and Liu, S.-C. and 
+Delbruck, T. Design of an RGBW Color VGA Rolling and Global Shutter 
+Dynamic and Active-Pixel Vision Sensor, IEEE International Symposium on 
+Circuits and Systems (ISCAS) 718 - 721 , 2015 
+Liu, H. and Brandli, C. and Li, C. and Liu, S.-C. and Delbruck, T. Design of a 
+Spatiotemporal Correlation Filter for Event-based Sensors, IEEE 
+International Symposium on Circuits and Systems (ISCAS) 722 - 725 , 2015 pdf
+Liu, S-C. and Yang, M-H. and Steiner, A. and Moeckel, R. and Delbruck, T. 1kHz 
+2D visual motion sensor using 20x20 silicon retina optical sensor and 
+DSP microcontroller, IEEE Transactions on Biomedical Circuits and Systems, 9:
+(2) 207 - 216 , 2015 
+Moeys, D. and Delbruck, T. and Liu, S-C. Current-mode automated quality 
+control cochlear resonator for bird identity tagging, IEEE Int. Symposium 
+on Circuits and Systems (ISCAS) 1734 - 1737 , 2015 pdf
+Yang, M-H and Liu, S-C and Delbruck, T. A Dynamic Vision Sensor with 1% 
+Temporal Contrast Sensitivity and In-Pixel Asynchronous Delta 
+Modulator for Event Encoding, IEEE Journal of Solid-State Circuits, 50:(9), 
+2015 
+
+-----
+Event-Based Neuromorphic Systems, Shih-Chii Liu, Tobi Delbruck, Giacomo 
+Indiveri, Adrian Whatley, Rodney Douglas (Eds.), Wiley, 2015 
+2014
+Braendli, C. and Berner, R. and Yang, M-H and Liu, S-C. and Delbruck, T. A 
+240x180 130dB 3us latency global shutter spatiotemporal vision 
+sensor, IEEE Journal of Solid-State Circuits (JSSC), 49:(10) 2333-2341, 2014 
+Braendli, C. and Berner, R. and Yang, M-H. and Liu, S-C. and Villeneuva, V. and 
+Delbruck, T. Live demonstration: The “DAVIS” Dynamic and Active-Pixel 
+Vision Sensor, 2014 IEEE International Symposium on Circuits and Systems
+440, 2014 
+Brandli, C. and Mantel, T. and Hutter, M. and Hopflinger, M. and Berner, R. and 
+Siegwart, R. and Delbruck, T. Adaptive Pulsed Laser Line Extraction for 
+Terrain Reconstruction using a Dynamic Vision Sensor, Frontiers in 
+Neuroscience - Neuromorphic Engineering, 2014 
+Brandli, Christian and Muller, Lorenz and Delbruck, Tobi Real-Time, High-
+Speed Video Decompression Using a Frame- and Event-Based DAVIS 
+Sensor , Circuits and Systems (ISCAS), 2014 IEEE International Symposium on, 
+2014 
+Lang, M. and Delbruck, T. Robotic Goalie with 3ms Reaction Time at 4% CPU 
+Load Using Event-Based Dynamic Sensor, Frontiers in Neuromorphic 
+Engineering, 2014 
+Lee, J-H and Delbruck, T. and Pfeiffer, M. and Park, P.K.J. and Shin, C-W and Ryu, 
+H. and Kang, B.C. Real-Time Gesture Interface Based on Event-Driven 
+Processing from Stereo Silicon Retinas, IEEE Transactions on Neural 
+Networks and Learning Systems 1-14, 2014 
+Steiner, A. and Moeckel, R. and Thurer, R. and Floreano, D. and Delbruck, T. and 
+Liu, S-C. 1kHz 2D silicon retina motion sensor platform, 2014 IEEE 
+International Symposium on Circuits and Systems 41-44, 2014 
+Yang, M-H and Liu, S-C and Delbruck, T. Subthreshold DC-Gain enhancement 
+by exploiting small size effects of MOSFETs, Electronics Letters, 50:(11) 
+835-837, 2014 
+Yang, M-H. and Liu, S-C. and Delbruck, T. Comparison of spike encoding 
+schemes in asynchronous vision sensors: Modeling and design, 2014 IEEE 
+International Symposium on Circuits and Systems 2632 - 2635, 2014 
+2013
+Berner, R. and Brandli, C. and Yang, M. and Liu, S.-C. and Delbruck, T. A 240x180 
+120dB 10mW 12us‐latency sparse output vision sensor for mobile 
+applications, Symposium on VLSI Circuits, 2013 
+Berner, Raphael and Brandli, Christian and Yang, Minhao and Liu, Shih-Chii and 
+Delbruck, Tobi A 240x180 120dB 10mW 12us‐latency Sparse Output 
+Vision Sensor for Mobile Applications, IISW 2013, 2013 
+Censi, Andrea and Strubel, Jonas and Brandli, Christian and Delbruck, Tobi and 
+Scaramuzza, Davide Low-latency localization by Active LED Markers 
+
+-----
+tracking using a Dynamic Vision Sensor, RSJ IEEE/RSJ International 
+Conference on Intelligent Robots and Systems IROS, 2013 
+Liu, S-C. and Schaik, A. van and Minch, B. and Delbruck, T. Asynchronous 
+binaural spatial audition sensor with 2x64x4 channel output, IEEE 
+Transactions on Biomedical Circuits and Systems, 2013 
+O'Connor, P. and Neil, D. and Liu, S-C. and Delbruck, T. and Pfeiffer, M. Real-
+Time Classification and Sensor Fusion with a Spiking Deep Belief 
+Network, Frontiers in Neuromorphic Engineering, 7:(178), 2013 
+Park, P. and Ryu, H. and Lee, J. H. and Shin, C. W. and Lee, K. B. and Woo, J. Y. and 
+Kim, J-S. and Kang, B. C. and Liu, S-C. and Delbruck, T. Fast neuromorphic 
+sound localization for binaural hearing aids, IEEE Engineering in Medicine 
+and Biology Society, 2013 
+2012
+Katz, M. and Nikolic, K. and Delbruck, T. Live demonstration: Behavioural 
+Emulation of Event-Based Vision Sensors, IEEE Intl. Symp. on Circuits and 
+Systems (ISCAS 2012) 741-745, 2012 
+Lee, J. and Delbruck, T. and Park, P.K.J. and Pfeiffer, M. and Shin, C.W. and Ryu, H. 
+and Kang, B.C. Live demonstration: Gesture-Based remote control using 
+stereo pair of dynamic vision sensors, IEEE Intl. Symp. on Circuits and 
+Systems (ISCAS 2012) 736-740, 2012 
+Li, C-H. and Delbruck, T. and Liu, S-C. Real-time speaker identification using 
+the AEREAR2 event-based silicon cochlea, 2012 IEEE International 
+Symposium on Circuits and Systems 1159– 1162, 2012 
+Sejnowski, T. and Delbruck, T. The Language of the Brain, Scientific American
+(Oct.) 54-59, 2012 
+Yang, M. H. and Liu, S-C. and Li, C-H. and Delbruck, T. Addressable current 
+reference array with 170dB dynamic range, 2012 IEEE International 
+Symposium on Circuits and Systems 3110-3113, 2012 
+T. Delbruck and S-C. Liu Spiking silicon retinas and cochleas for vision and 
+audition, Frontiers in Sensing - From Biology to Engineering 88-99, 2012 
+2011
+Abshire, P. and Bermak, A. and Berner, R. and Cauwenberghs, G. and Chen, S. 
+and Christen, JB and Constandinou, T. and Culurciello, E. and Dandin, M. and 
+Datta, T. and Delbruck, T. and Dudek, P. and Eftekhar, A. and Etienne-
+Cummings, R. and Indiveri, G. and Law M.K. and Linares-Barranco, B. and 
+Tapson, J. and Tang, W. and Zhai, Y. Confession session: Learning from 
+others mistakes, Circuits and Systems (ISCAS), 2011 IEEE International 
+Symposium on 1149-1162, 2011 
+Berner, R. and Delbruck, T. Event-Based Pixel Sensitive to Changes of Color 
+and Brightness, Circuits and Systems I: Regular Papers, IEEE Transactions on, 
+58:(7) 1581-1590, 2011 
+
+-----
+Drazen, D. and Lichtsteiner, P. and Haefliger, P. and Delbruck, T. and Jensen, A. 
+Toward real-time particle tracking using an event-based dynamic vision 
+sensor, Experiments in Fluids 1465-1469, 2011 
+Indiveri, G. and Linares-Barranco, B. and Hamilton, T.J. and Van Schaik, A. and 
+Etienne-Cummings, R and Delbruck, T. and Liu, S.C. and Dudek, P. and 
+Häfliger, P. and Renaud, S. and Schemmel, S. and Cauwenberghs, G. and 
+Arthur, J. and Hynna, K. and Folowosele, F, and Saighi, S. and Serrano-
+Gottarredona, T. and Wijekoon, J. and Wang, Y., and Boahen, K. 
+Neuromorphic silicon neuron circuits, Frontiers in neuroscience, 5:(73), 
+2011 
+2010
+Berner, R and Delbruck, T Event-based color change pixel in standard CMOS, 
+Circuits and Systems (ISCAS), Proceedings of 2010 IEEE International Symposium 
+on 349-352, 2010 
+Delbruck, T and Berner, R and Lichtsteiner, P and Dualibe, C 32-bit 
+Configurable bias current generator with sub-off-current capability, 
+Circuits and Systems (ISCAS), Proceedings of 2010 IEEE International Symposium 
+on 1647-1650, 2010 
+Delbruck, T and Koch, T and Berner, R and Hermansky, H Fully integrated 
+500uW speech detection wake-up circuit, Circuits and Systems (ISCAS), 
+Proceedings of 2010 IEEE International Symposium on 2015-2018, 2010 
+Liu, S C and Delbruck, T Neuromorphic sensory systems, Current Opinion in 
+Neurobiology, 20:(3) 288-295, 2010 
+Liu, S C and van Schaik, A and Minch, B A and Delbruck, T Event-based 64-
+channel binaural silicon cochlea with Q enhancement mechanisms, 
+Proceedings of 2010 IEEE International Symposium on Circuits and Systems 
+(ISCAS) : Paris, France, 30 May - 2 June 2010 2027-2030, 2010 
+2009
+Boerlin, M and Delbruck, T and Eng, K Getting to Know Your Neighbors: 
+Unsupervised Learning of Topography from Real-World, Event-Based 
+Input, Neural Computation, 21:(1) 216-238, 2009 pdf
+Conradt, J. and Berner, R. and Cook, M. and Delbruck, T. An Embedded AER 
+Dynamic Vision Sensor for Low-Latency Pole Balancing, IEEE Workshop on 
+Embedded Computer Vision (ECV09), Kyoto, Japan, 2009 pdf
+Conradt, J and Cook, M and Berner, R and Lichtsteiner, P and Douglas, RJ and 
+Delbruck , T A Pencil Balancing Robot using a Pair of AER Dynamic Vision 
+Sensors, International Conference on Circuits and Systems (ISCAS) 781-785, 
+2009 pdf
+Linares-Barranco, A. and Gomez-Rodriguez, F. and Jimenez, G. and Delbruck, T. 
+and Berner, R. and Liu, S-C. Implementation of a time-warping AER 
+mapper, Proceedings of IEEE International Symposium on Circuits and Systems
+2886-2889, 2009 pdf
+
+-----
+Nageswaran, Jayram Moorkanikara and Wang, Yingxue and Delbrueck, Tobi and 
+Dutt, Nikil Computing spike-based convolutions on GPUs, EEE 
+International Symposium on Circuits and Systems 2009 (ISCAS 2009) 1917-1920, 
+2009 pdf
+Serrano-Gotarredona, R. and Oster, M. and Lichtsteiner, P. and Linares-Barranco, 
+A. and Paz-Vicente, R. and Gomez-Rodriguez, F. and Camuñas-Mesa, L. and 
+Berner, R. and Rivas, M. and Delbruck , T. and Liu, S-C. and Douglas, R. J. and 
+Hafliger, P. and Moreno, G. and Civit, A. and Serrano-Gotarredona, T. and 
+Acosta-Jimenez, A. and Linares-Barranco, B. CAVIAR: a 45k neuron, 5M 
+synapse, 12G connects/s AER hardware sensory-processing-learning-
+actuating system for high-speed visual object recognition and tracking, 
+IEEE Transactions on Neural Networks, 20:(9) 1417-1438, 2009 
+2008
+Berner, R and Lichtsteiner, P. and Delbruck, T. Self-timed vertacolor 
+dichromatic vision sensor for low power pattern detection, IEEE 
+International Symposium on Circuits and Systems (ISCAS 2008) 1032-1035, 
+2008 pdf
+Conradt, J and Lichtsteiner, P and Berner, R and Delbruck, T and Douglas, RJ and 
+Cook, M A Pencil Balancing Robot Using Only Spike-based Visual Input., 
+Neural Information Processing Systems, 2008 pdf
+Delbruck, T. Frame-free dynamic digital vision, Invited paper in International 
+Symposium on Secure-Life Electronics, 1:(1) 21-26, 2008 pdf
+Delbruck, T and Schrag, M and Boerlin, M and Eng, K Real-time Topology 
+Learning, NIPS 2008 (Demonstration Track), 2008 
+Fu, Z. and Culurciello, E. and Lichtsteiner, P. and Delbruck, T. Fall detection 
+using an address-event temporal contrast vision sensor, IEEE 
+International Symposium on Circuits and Systems (ISCAS 2008) 424-427, 2008 
+Fu, Z. and Delbruck, T. and Lichtsteiner, P. and Culurciello, E. An address-event 
+fall detector for assisted living applications, IEEE Transactions on 
+Biomedical Circuits and Systems, 2:(2) 88-96, 2008 pdf
+Lichtsteiner, P. and Posch, C. and Delbruck, T. A 128×128 120dB 15us Latency 
+Asynchronous Temporal Contrast Vision Sensor, IEEE Journal of Solid State 
+Circuits, 43:(2) 566-576, 2008 pdf
+Indiveri, G. and Liu, S.-C. and Delbruck, T. and Douglas, R. Neuromorphic 
+systems, The New Encyclopedia of Neuroscience 521-528, 2008 
+2007
+Berner, R. and Delbruck, T. A 5 Meps $100 USB2.0 Address-Event Monitor-
+Sequencer Interface, IEEE International Symposium on Circuits and Systems 
+(ISCAS 2007) 2451-2454, 2007 pdf
+Chicca, E. and Whatley, A. M. and Lichtsteiner, P. and Dante, V. and Delbruck, T. 
+and Del Giudice, P. and Douglas, R. J. and Indiveri, G. A multi-chip pulse-
+based neuromorphic infrastructure and its application to a model of 
+
+-----
+orientation selectivity, IEEE Transactions on Circuits and Systems I, Regular 
+Papers, 54:(5) 981-993, 2007 pdf
+Delbruck, T. and Lichtsteiner, P. Fast sensory motor control based on event-
+based hybrid neuromorphic-procedural system, IEEE International 
+Symposium on Circuits and Systems (ISCAS 2007) 845-848, 2007 pdf
+Delbrück, T. and Whatley, A. M. and Douglas, R. and Eng, K. and Hepp, K. and 
+Verschure, P. F. M. J. A tactile luminous floor for an interactive 
+autonomous space , Robotics and Autonomous Systems, 55:(6) 433-443, 2007 
+pdf
+Fasnacht, D. and Delbruck, T. Dichromatic spectral measurement circuit in 
+vanilla CMOS, IEEE International Symposium on Circuits and Systems (ISCAS 
+2007) 3091-3094, 2007 pdf
+Linares-Barranco, A. and Gomez-Rodriguez, F. and Jimenez, A. and Delbruck, T. 
+and Lichtsteiner, P. Using FPGA for visuo-motor control with a silicon 
+retina and a humanoid robot, IEEE International Symposium on Circuits and 
+Systems (ISCAS 2007) 119-1195, 2007 pdf
+Oster, M. and Lichtsteiner, P. and Delbruck, T. and Liu, S-C. A spike-based 
+saccadic recognition system, 2007 IEEE International Symposium on Circuits 
+and Systems (ISCAS 2007) 3083-3086, 2007 pdf
+2006
+Chicca, E. and Lichtsteiner, P. and Delbruck, T. and Indiveri, G. and Douglas, R. J. 
+Modeling Orientation Selectivity Using a Neuromorphic Multi-Chip 
+System, Proceedings of IEEE International Symposium on Circuits and Systems
+1235-1239, 2006 pdf
+Delbruck, T. and Lichtsteiner, P. Fully programmable bias current generator 
+with 24 bit resolution per bias, 2006 IEEE International Symposium on 
+Circuits and Systems (ISCAS 2006), 2006 pdf
+Eng, K. and Mintz, M. and Delbruck, T. and Douglas, R. J. and Whatley, A. M. and 
+Manzolli, J. and Verschure, P. F. M. J. An Investigation of Collective Human 
+Behavior in Large-scale, Mixed Reality Spaces, Presence: Teleoperators and 
+Virtual Environments, 15:(4) 403-418, 2006 pdf
+Lichtsteiner, P. and Delbruck, T. and Posch, C. A 100dB dynamic range high-
+speed dual-line optical transient sensor with asynchronous readout, 
+2006 IEEE International Symposium on Circuits and Systems (ISCAS 2006), 2006 
+Lichtsteiner, P. and Posch, C. and Delbruck, T. A 128×128 120dB 30mW 
+Asynchronous Vision Sensor that Responds to Relative Intensity 
+Change, ISSCC Digest of Technical Papers 2006 508-509, 2006 pdf
+Nufer, Stephan K. and Buehlmann, Mathias and Delbruck, Tobi and Joller, Josef 
+A mixture of experts for learning lighting control, Proceedings from the 
+Workshop on Artificial Intelligence Techniques for Ambient Intelligence 
+(AITAmI'06), 2006 pdf
+
+-----
+2005
+Delbruck, T. and Fenkart, A. and Zwicker, R. Using personal computers for 
+enchanced presence detection in building automation, HCI International, 
+11th International Conference on Human-Computer Interaction, 2005 
+Delbruck, T and van Schaik, A Bias current generators with wide dynamic 
+range, Analog Integrated Circuits and Signal Processing, 43:(3) 247-268, 2005 
+pdf
+Grover, D. and Delbruck, T. and King, M. An eye tracking system using 
+multiple near-infrared channels with special application to efficient 
+eye-based communication, Thirteenth European Conference on Eye 
+Movements ECEM13 36-39, 2005 
+Lichtsteiner, P and Delbruck, T 64x64 Event-Driven Logarithmic Temporal 
+Derivative Silicon Retina, 2005 IEEE Workshop on Charge-Coupled Devices 
+and Advanced Image Sensors 157-160, 2005 
+Lichtsteiner, P. and Delbruck, T. A 64x64 AER Logarithmic temporal 
+derivative silicon retina, Research in Microelectronics and Electronics, 2005 
+PhD (PRIME 2005) , 2: 202-205, 2005 pdf
+Serrano-Gotarredona, R. and Oster, M. and Lichtsteiner, P. and Linares-Barranco, 
+A. and Paz-Vincent, R. and Gómez-Rodríguez, F. and Kolle Riis, H. and 
+Delbrück, T. and Liu, S. C. and Zahnd, S. and Whatley, A. M. and Douglas, R. 
+and Häfliger, P. and Jimenez-Moreno, G. and Civit, A. and Serrano-
+Gotarredona, T. and Acosta-Jiménez, A. and Linares-Barranco, B. AER 
+Building Blocks for Multi-Layer Multi-Chip Neuromorphic Vision 
+Systems, Advances in Neural Information Processing Systems (NIPS), 18: 1217-
+1224, 2005 pdf
+2004
+Delbruck, T. and Liu, S-C. A silicon visual system as a model animal , Vision 
+Research, 44:(17) 2083-2089, 2004 pdf
+Delbruck, T. and Oberhof, D. Self biased low power adaptive photoreceptor, 
+2004 IEEE Internation Symposium on Circuits and Systems IV-844-847, 2004 
+Delbruck, T. and Oberhoff, D. Self biasing low power adaptive photoreceptor, 
+2004 IEEE International Symposium on Circuits and Systems (ISCAS 2004) IV-
+844-847, 2004 pdf
+Delbruck, T. and van Schaik, A. Bias current generators with wide dynamic 
+range, 2004 IEEE International Symposium on Circuits and Systems (ISCAS 2004)
+I-337-340, 2004 pdf
+Lichtsteiner, P. and Kramer, J. and Delbruck, T. Improved on/off temporally 
+differentiating address-event imager, ICECS 2004. Proceedings of the 2004 
+11th IEEE International Conference on Electronics, Circuits and Systems 211-214, 
+2004 pdf
+
+-----
+2003
+Delbruck, T. and Eng, K. and Baebler, A. and Bernardet, U. and Blanchard, M. and 
+Briska, A. and Costa, M. and Douglas, R. and Hepp, K. and Klein, D. and 
+Manzolli, J. and Mintz, M. and Roth, F. and Rutishauser, U. and Wassermann, 
+K. and Wittmann, A. and Whatley, A. M. and Wyss, R. and Verschure, P. F. M. J. 
+Ada: a playful interactive space, Human-Computer Interaction --- 
+INTERACT'03 : IFIP TC13 International Conference on Human-Computer 
+Interaction, 1st-5th September 2003, Zürich, Switzerland. 989-992, 2003 pdf
+Eng, K. and Baebler, A. and Bernardet, U. and Blanchard, M. and Costa, M. and 
+Delbruck, T. and Douglas, R. J. and Hepp, K. and Klein, D. and Manzolli, J. and 
+Mintz, M. and Roth, F. and Rutishauser, U. and Wassermann, K. and Whatley, 
+A. M. and Wittmann, A. and Wyss, R. and Verschure, P. F. M. J. Ada - 
+Intelligent Space: An artificial creature for the Swiss Expo.02, 
+Proceedings of the 2003 IEEE International Conference on Robotics and 
+Automation (ICRA 2003), 3: 4154 
+4159, 2003 
+Eng, K. and Klein, D. and Baebler, A. and Bernardet, U. and Blanchard, M. and 
+Costa, M. and Delbruck, T. and Douglas, R. J. and Hepp, K. and Manzolli, J. 
+and Mintz, M. and Roth, F. and Rutishauser, U. and Wassermann, K. and 
+Whatley, A. M. and Wittmann, A. and Wyss, R. and Verschure, P. F. M. J. 
+Design for a brain revisited: The neuromorphic design and functionality 
+of the interactive space Ada, Reviews in the Neurosciences, 14:(1-2) 145-180, 
+2003 pdf
+Zahnd, S and Lichtsteiner, P and Delbruck, T Integrated vision sensor for 
+detecting boundary crossings, International Symposium on Circuits and 
+Systems (ISCAS), II: 376, 2003 
+2002
+Eng, K. and Bäbler, A. and Bernardet, U. and Blanchard, M. and Briska, A. and 
+Conradt, J. and Costa, M. and Delbrück, T. and Douglas, R. J. and Hepp, K. and 
+Klein, D. and Manzolli, J. and Mintz, M. and Netter, T. and Roth, F. and 
+Rutishauser, U. and Wassermann, K. and Whatley, A. M. and Wittmann, A. and 
+Wyss, R. and Verschure, P. F. M. J. Ada: Constructing a Synthetic Organism, 
+Proceedings of the 2002 IEEE/RSJ International Conference on Intelligent Robots 
+and Systems (IROS 2002), EPFL, Lausanne, Switzerland, 2: 1808-1813, 2002 pdf
+Liu, S-C. and Kramer, J. and Indiveri, G. and Delbruck, T. and Douglas, R. 
+Orientation-selective aVLSI spiking neurons, Advances in Neural 
+Information Processing Systems, 14:, 2002 pdf
+Zahnd, S and Lichtsteiner, P and Delbrück, T Integrated vision sensor that 
+detects objects crossing its boundaries, ISCAS2003, 2002 pdf
+Liu, S-C. and Kramer, J. and Indiveri, G. and Delbruck, T. and Douglas, R. Analog 
+VLSI: Circuits and Principles, MIT Press, 2002 
+2001
+Delbruck, T and Liu, S-C. and Chicca, E and Ricci, GM and Bovet, S A Retina/V1 
+simple cell chip for physiology experiment design or classroom 
+
+-----
+demonstration, IEEE CCD and AIS meeting, June 7-9, 2001, Lake Tahoe, 
+California , 2001 pdf
+Eng, K. and Baebler, A. and Bernardet, U. and Blanchard, M. and Briska, A. and 
+Costa, M. and Delbruck, T. and Douglas, R. and Hepp, K. and Klein, D. and 
+Manzolli, J. and Mintz, M. and Netter, T. and Roth, F. and Wassermann, K. and 
+Whatley, A. and Wittmann, A. and Verschure, P. Ada - Buildings as 
+Organisms, Game, Set and Match (Proceedings), Faculty of Architecture, TU 
+Delft, 2001 
+Liu, S-C. and Kramer, J. and Indiveri, G. and Delbruck, T. and Burg, T. and 
+Douglas, R. Orientation-selective aVLSI spiking neurons, Neural Networks, 
+14:(6/7) 629-643, 2001 
+2000
+Delbruck, T Silicon retina for autofocus, ISCAS 2000, Geneva, Switzerland, May 
+27-31, 2000 IV-393-396, 2000 pdf
+1997
+Delbrück, T. and Mascarenhas, M. and Chi, M. and Bergemont, A. and Mead, C. 
+Pulsed bipolar CMOS imager, IEEE CCD and AIS Meeting, Brugge, Belgium, 
+June 5-7, 1997, 1997 
+1994
+Delbrück, T. and Mead, C.A. Analog VLSI adaptive logarithmic wide-dynamic-
+range photoreceptor, Procedings of the International Circuits and Systems 
+Meeting, 1994 
+1993
+Delbrück, T. Silicon Retina with Correlation-Based, Velocity-Tuned Pixels, 
+IEEE Transactions on Neural Networks, 4: 529-541, 1993 
+Sarpeshkar, R. and Delbrück, T. and Mead, C. White noise in MOS transistors 
+and resistors, IEEE Circuits and Devices 23-29, 1993 
+1991
+Benson, R.G. and Delbrück, T. Direction Selective Silicon Retina that uses Null 
+Inhibition, Advances in Neural Information Processing Systems 4 756-763, 
+1991 
+Delbrück, T. ``Bump'' circuits for computing similarity and dissimilarity of 
+analog voltages, Proc. IJCNN I-475-479, 1991 
+Delbrück, T. and Mead, C.A. Time-derivative adaptive silicon photoreceptor 
+array, Infrared Sensors: Detectors, Electronics, and Signal Processing, 1541: 92-
+99, 1991 
+
+-----
+Mead, C.A. and Delbrück, T. Scanners for Visualizing Activity of Analog VLSI 
+Circuitry, Analog Integrated Circuits and Signal Processing, 1: 93-106, 1991 
+1989
+Mahowald, M. and Delbrück, T. Cooperative stereo matching using static and 
+dynamic image features, Analog VLSI Implementation of Neural Systems 213-
+238, 1989 
+© 2017 Institut für Neuroinformatik 
+
+-----

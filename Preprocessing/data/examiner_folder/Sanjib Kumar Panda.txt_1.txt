@@ -1,0 +1,324 @@
+3/25/2015
+Electrical Machines and Drives Laboratory (EMDL)
+http://www.ece.nus.edu.sg/emdl/SKPanda.htm
+1/3
+ 
+ 
+Dr. Sanjib Kumar Panda
+       Department of Electrical and Computer Engineering
+                 
+Associate Professor
+Area Director Power & Energy
+Department of Electrical & Computer Engineering
+National University of Singapore
+Engineering Drive 3, Singapore  117583
+Contact : +65 6516 6484   
+Email : eleskp@nus.edu.sg    
+      
+ 
+Dr. Sanjib Kumar Panda received Bachelor of Engineering Degree with 1st Class Honours from Sardar Vallabhabhai Regional College of
+Engineering and Technology, Surat, India, in 1983. He was awarded the Gold Medal for securing the highest marks not only amongst
+the B. Engg. (Electrical) but also for securing the highest marks amongst all the B. Engg. (Civil, Mechanical and Electrical) students. He
+finished Masters of Technology Degree from Indian Institute of Technology, Banaras Hindu University, Varanasi, India in 1987. He was
+awarded the Gold Medal for securing the highest marks amongst all the M. Tech. (Electrical) students. Subsequently, he earned a PhD.
+Degree from the University of Cambridge, U.K., in 1991. He was awarded the Nehru Cambridge Fellowship and Overseas Research
+Studentship from the Cambridge Commonwealth Trust for Cambridge University for his PhD studies, 1987­1991.
+He joined as a Lecturer in the Department of Electrical and Computer Engineering at the National University of Singapore in 1992. He is
+currently serving as an Associate Professor. He has served as Director (Education) at the Design Technology Institute, a joint­venture
+between NUS and TU/e, The Netherlands and funded by EDB, Singapore. He has served as the Group Head of the Drives, Power and
+Control Group from 2007­2009. He was appointed as Area Director, Power & Energy Research Group of the Department of Electrical &
+Computer Engineering at NUS on 1st January 2010.
+Dr. Panda has carried out extensive research in various areas of control of electric drives and power electronic converters. He has co­
+authored 1 Book, 2 Book Chapters, 6 patents, 70+ International Refereed Journals 150+ International Refereed Conference Papers and
+2 Technology Primers for NRF. His current research interests are, high efficient power electronic converters, energy harvesting both at
+high power level as well as at very low­power level for wireless sensor nodes and networks, control of distributed renewable energy
+generation, assistive technology and mechatronics.
+Dr. Panda has been a very active member in the Institute of Electrical and Electronics Engineers (IEEE) and presently a Senior Member
+of IEEE. He has served in various capacities as Chapter Officer in the IEEE Singapore Section Joint Power Electronics and Industry
+Applications Society Chapter. He has served as the Chairman of the IEEE Singapore Section in 2004. He was the Organizing Chairman
+for the International IEEE Power Electronics and Drives Systems Conference in 2003 as well as the International Conference on
+Sustainable Energy Technologies in 2008. He is the recipient of the IEEE 3rd Millennium Medal. He also received the Best Volunteer
+Award by the IEEE Singapore Section in 2006.
+ 
+  Research Projects                       Electrical Machines & Drives Lab                                         
+Publications
+ 
+ABOUT US
+RESEARCH
+PUBLICATIONS
+TEACHING
+ACHIEVEMENTS
+PEOPLE
+EVENTS
+CONTACT US
+ 
+ 
+National University of Singapore
+myEMAIL
+IVLE
+LIBRARY
+MAPS
+CALENDAR
+SITEMAP
+CONTACT
+ 
+
+-----
+3/25/2015
+Publications
+http://www.ece.nus.edu.sg/emdl/publications.htm#2000
+1/9
+HOME
+ABOUT US
+RESEARCH
+PUBLICATIONS
+TEACHING
+ACHIEVEMENTS
+EVENTS
+PEOPLE
+CONTACT US
+ 
+ 
+Electrical Machines and Drives Laboratory
+Department of Electrical and Computer Engineering
+Home > Publications
+ 
+Publications
+ 
+=================================================================================
+2014   2013     2012    2011    2010     2009     2008     2007
+2006    2005     2004     2003     2002     2001     2000­
+=================================================================================
+2014
+Journal Publications
+1. D. C. Hoang, R. Kumar, S. K. Panda, "Real­time Development of Energy Efficient Clustering Protocol for
+Wireless Sensor Networks using Harmony Search Algorithm", IEEE Transactions on Industrial Informatics,
+Vol. 10, No. 1, 2014.
+ 
+Conference Proceeding
+1. Krishnanand K.R., S.M.F. Hasani, J. Soni and S. K. Panda “Neutral Current Mitigation Using Controlled Electric
+Springs Connected to Microgrids within Built Environment”, In IEEE Energy Conversion Congress & Expo (ECCE),
+Pittsburgh, USA, September 14­18, 2014. (Accepted for publication)
+ 
+2013
+Journal Publications
+1. D. C. Hoang, R. Kumar, S. K. Panda, "Realization of a Cluster­based Protocol using Fuzzy C­Means Algorithm
+for Wireless Sensor Networks", IET Journal of Wireless Sensor Systems, Vol. 3, No. 3, 2013.
+2. Snehasis Despande, I. V. Prasanna, S. K. Panda, "An Efficient Impedance Matching Technique for Improving
+Narrowband Power Line Communication in Residential Smart Grids", International Journal of Advanced Research
+in Electrical, Electronics and Instrumentation Engineering Vol. 2, Issue 7, July 2013, ISSN : 2278­8875
+3. Snehasis Despande, I. V. Prasanna, S. K. Panda, "An Adaptive Impedance Matching Technique for Narrowband
+Power line Communication in Residential Smart Grids",International Journal of Engineering Research &
+Technology (IJERT) Vol. 2 Issue 9, September 2013, ISSN: 2278­0181
+4. Moirangthem, Joymala, Bijaya Ketan Panigrahi, Krishnanand K. R., and Sanjib Kumar Panda. "Robust Protective
+Relay Setting and Coordination Using Modified Differential Evolution Considering Different Network Topologies."
+In Swarm, Evolutionary, and Memetic Computing, pp. 107­118. Springer International Publishing, 2013 [Book Chapter]
+5. Moirangthem, Joymala, Krishnanand K. R., Subhransu Sekhar Dash, and Ramas Ramaswami. "Adaptive
+differential evolution algorithm for solving non­linear coordination problem of directional overcurrent relays."
+IET Generation, Transmission & Distribution 7, no. 4 (2013): 329­336
+6. Krishnanand, K. R., Syed Muhammad Farzan Hasani, Bijaya Ketan Panigrahi, and Sanjib Kumar Panda.
+"Optimal Power Flow Solution Using Self–Evolving Brain–Storming Inclusive Teaching–Learning–Based Algorithm."
+In Advances in Swarm Intelligence, pp. 338­345. Springer Berlin Heidelberg, 2013 [Book Chapter]
+[Won Best Student Paper Award at ICSI Conference]
+Conference Proceeding
+1. Solution Using Self­Evolving Brain­Storming Inclusive Teaching­Learning­Based Algorithm”.
+4th International Conference on Swarm Intelligence, 2013. ICSI­2013, 12­15 Jun 2013, Harbin, China.
+2. Jeevan Adhikari, Student Member, IEEE, Akshay K. Rathore, Member, IEEE S K Panda, Senior Member,
+IEEE “Modular Interleaved ZVS Current Fed Isolated DC­DC Converter for Harvesting High Altitude Wind
+Power” IECON 2013, Austria
+3. Jeevan Adhikari, Student Member, IEEE, Akshay K. Rathore, Member, IEEE S K Panda, Senior Member,
+IEEE “Harnessing High Altitude Wind Power Using Light Gas Filled Blimp” IECON 2013, Austria
+4. Jeevan Adhikari, Student Member, IEEE, Akshay K. Rathore, Member, IEEE S K Panda, Senior Member,
+IEEE “Comparison of ZVS Based Isolated DC­DC Converters for High Altitude Wind Power Application”
+ISGT 2013, Bangalore, India
+5. Krishnanand K.R., Bhuneshwar Prasad, Hoang Duc Chinh, A.K. Rathore and Sanjib Kumar Panda,
+“Smart­Metering for Monitoring Building Power Distribution Network using Instantaneous Phasor Computations
+of Electrical Signals”. 39th International Conference on Industrial Electronics, 2013. IECON­2013,
+10­13 Nov 2013, Vienna, Austria.
+HOME
+ABOUT US
+RESEARCH
+PUBLICATIONS
+TEACHING
+ACHIEVEMENTS
+EVENTS
+PEOPLE
+CONTACT US
+ 
+ 
+National University of Singapore
+myEMAIL
+IVLE
+LIBRARY
+MAPS
+CALENDAR
+SITEMAP
+CONTACT
+ 
+
+-----
+3/25/2015
+Publications
+http://www.ece.nus.edu.sg/emdl/publications.htm#2000
+2/9
+2012
+Journal Publications
+1. S. Dasgupta, S. N. Mohan, S. K. Sahoo, S. K. Panda, “Lyapunov function based current controller to control
+active and reactive power flow from a renewable energy source to a generalized three­phase micro­grid system,”
+accepted for publication in IEEE Transactions on Industrial Electronics, June 2012.
+2. S. Dasgupta, S. N. Mohan, S. K. Sahoo, S. K. Panda, “Application of four­switch based three­phase grid connected
+inverter to connect renewable energy source to a generalized unbalanced micro­grid system,” accepted for
+publication in IEEE Transactions on Industrial Electronics, May 2012.
+3. S. Dasgupta, S. N. Mohan, S. K. Sahoo, S. K. Panda, “A plug and play operational approach for implementation
+of an autonomous­micro­grid system,” accepted for publication in IEEE Transactions on Industrial Informatics,
+March 2012.
+4.  D. C. Hoang, R. Kumar, S. K. Panda, "Optimal Data Aggregation Tree for Wireless Sensor Network using Intelligent
+Water Drop Algorithm", IET Journal of Wireless Sensor Systems, 2012.
+ 
+Conference Proceeding
+ 
+1. S. Dasgupta, I.V. Prasanna, S. K. Panda, “A novel four­leg three­phase inverter control strategy to reduce the
+Data Center thermal losses: Elimination of neutral current,” accepted for publication in the Annual Conference
+of the IEEE Industrial Electronics Society, IECON 2012, Montreal, Canada, Oct. 25­28, 2012.
+ 
+2. S. Dasgupta, S. N. Mohan, S. K. Sahoo, S. K. Panda, “A grid voltage sensor­less operational approach of
+interconnecting distributed generating source based inverter to an un­balanced generalized three­phase grid
+together with local load at PCC,” accepted for publication in the IEEE Energy Conversion Congress &
+Exposition, ECCE 2012, Raleigh, North Carolina, Sept 15­20, 2012.
+ 
+3. S. Dasgupta, S. N. Mohan, S. K. Sahoo, S. K. Panda, “Signature voltage identification technique for implementation
+of a reliable autonomous­micro­grid system,” accepted for publication in the IEEE International Symposium of
+Industrial Electronics, ISIE 2012, China, May 28­31, 2012.
+4.D. C. Hoang, K. T. Ching, R. Kumar, S. K. Panda, "Intra­Cluster Power Management for Wireless Sensor Networks",
+IEEE International Symposium on Industrial Electronics (ISIE­2012), Hangzhou, China, 2012.
+5.D. C. Hoang, S. K. Panda, "Real­time Power Configuration for Energy Conservation in Wireless Sensor Networks",
+IEEE International Conference on Communication Systems (ICCS­2012), Singapore, 2012.
+6.Chowdhury Abhra Roy, Prasad. B; Vishwanathan. V; Kumar. R; Panda. S K “Implementation of a BCF Mode Bio­mimetic
+Robotic Fish Underwater Vehicle based on Lighthill Mathematical Model”, 2012 IEEE RAS ICROS International
+Conference on Control, Automation and Systems (ICCAS 2012),ICC Jeju, Korea, pp : 437­ 442 (Student Best Paper Award)
+7.Chowdhury Abhra Roy, Prasad. B; Vishwanathan. V; Kumar. R; Panda. S K “Kinematics study and implementation of a
+biomimetic robotic­fish underwater vehicle based on Lighthill slender body model", 2012 IEEE/OES Autonomous
+Underwater Vehicles (AUV), National Oceanography Centre, Southampton UK, pp 1­6.
+Back to top
+===================================================================================================
+2011
+Journal Publications
+1.     S. K. Sahoo, S. Dasgupta, S. K. Panda and J. X. Xu “A Lyapunov function based Robust Direct Torque Controller for
+Switched Reluctance Motor Drive System”, accepted for publication in IEEE Transactions on Power Electronics, 2011.
+Conference Proceeding
+1.     Ko Ko Win, S. Dasgupta, S. K. Panda, “An Optimized MPPT Circuit for Thermoelectric Energy Harvester for Low
+Power Applications”, accepted for publication in IEEE International Conference on Power Electronics (ICPE), Korea,
+May 30­June3, 2011.
+2.     S. Dasgupta, S. N. Mohan, S. K. Sahoo, S. K. Panda, “Derivation of instantaneous Current References for Three
+Phase PV Inverter Connected to Grid with active and reactive Power flow Control”, accepted for publication in IEEE
+International Conference on Power Electronics (ICPE), Korea, May 30­June3, 2011.
+3.     S. Dasgupta, S. N. Mohan, S. K. Sahoo, S. K. Panda, “A Lyapunov function based current controller to control active
+and reactive power flow of a three phase grid connected PV inverter under generalized grid voltage conditions in the
+presence of non­linear load at the grid”, accepted for publication in IEEE International Conference on Power Electronics
+(ICPE), Korea, May 30­June3, 2011.
+4.     S. Dasgupta, S. N. Mohan, S. K. Sahoo, S. K. Panda, “A FBD theory based grid frequency independent current
+reference generation method for a three phase inverter interfacing renewable energy sources to generalized
+micro­grid system ,” accepted for publication in Annual Conference of the IEEE Industrial Electronics Society (IECON),
+Melbourne, Nov. 7­10, 2011.
+5. S. Dasgupta, S. N. Mohan, S. K. Sahoo, S. K. Panda, “Evaluation of current reference generation methods for a
+three­phase inverter interfacing renewable energy sources to generalized micro­grid,” accepted and presented in
+International Conference on Power Electronics and Drive System (PEDS), Singapore, Dec. 5­8, 2011.
+Back to top
+=================================================================================================
+2010
+Journal Publications
+1. Y.K. Tan and S.K. Panda, "Optimized Wind Energy Harvesting System Using Resistance Emulator and Active
+Rectifier for Wireless Sensor Nodes", IEEE Transactions on Power Electronics, accepted for publication, 2010.
+2. S. Dasgupta, S.K. Sahoo and S.K. Panda, “Single­phase inverter control techniques for interfacing renewable
+energy sources with micro­grid ­ Part­I : Parallel connected inverter topology with active and reactive power flow
+control along with grid current shaping,” accepted for publication in IEEE Transactions on Power Electronics, 2010.
+3. S. Dasgupta, S.K. Sahoo, S.K. Panda and G.A.J. Amaratunga, “Single phase inverter control techniques for interfacing
+renewable energy sources with micro­grid ­ Part­II: Series connected inverter topology to mitigate voltage related
+problems along with active power flow control,” accepted for publication in IEEE Transactions on Power Electronics, 
+4. H. Zhou, T. Bhattacharya, D. Tran, T. Siew and A. M. Khambadkone, “Composite Energy Storage System Involving
+Battery and Ultracapacitor with Dynamic Energy  Management in Microgrid Applications”, Accepted by IEEE Transactions
+
+-----
+3/25/2015
+Publications
+http://www.ece.nus.edu.sg/emdl/publications.htm#2000
+3/9
+on Power Electronics, 2010
+Conference Proceeding
+ 1. S.F. Lim and A.M. Khambadkone, “A Simple Digital DCM Control Scheme for Boost PFC Operating in Both CCM and DCM”,
+Accepted by IEEE Energy Conversion Congress and Exposition, ECCE 2010.
+2. S. Dasgupta, S.K. Sahoo and S.K. Panda, “Design of a Spatial Iterative Learning Controller for Single Phase Series
+Connected PV Module Inverter for Grid Voltage Compensation,” at IEEE International Power Electronic Conference (IPEC),
+2010, Japan, pp. 1980­1987, June 21­24, 2010.
+3. S. Dasgupta, S.K. Sahoo and S.K. Panda, “A novel current control scheme using Lyapunov function to control
+the active and reactive power flow in a single phase hybrid PV inverter system connected to grid,” at IEEE International
+Power Electronic Conference (IPEC), 2010, Japan, pp. 1701­1708, June 21­24, 2010.
+4. S. Dasgupta, S.K. Sahoo, S.K. Panda and J.X. Xu, “A Chattering free Lyapunov function based sliding mode controller
+applied to single phase series connected PV inverter for grid voltage compensation,” accepted for publication in
+Annual Conference of the IEEE Industrial Electronics Society (IECON), Nov. 7­10, 2010.
+5. Sasidhar Sangit ; Panda, S.K. ; Xu, J., “A Real Time Control Algorithm for a Myoelectric Glove for the Rehabilitation
+of Wrist and Elbow of stroke Patients”, ICCA 2010.
+6. H. Wang, Ashwin M. Khambadkone and Xiaoxiao yu, “Dynamic Electro­Thermal Modeling in Power Electronics Building
+Block (PEBB) Applications”, IEEE ECCE 2010, Sep. 2010.
+7. X. Yu, A. Khambadkone and H. Wang, “Control of Paralleled Power Converter Modules to Facilitate the Effective
+Operation of Microgrid”, IEEE International Power Electronics Conference (IPEC’10), 2010.
+8. X. Yu, H. Wang and A. Khambadkone, “Control of Paralleled PEBBs to Facilitate the Effective Operation of Microgrid”,
+IEEE International Symposium on Industrial Electronics (ISIE’10), 2010.
+9. X. Yu, H. Wang, A. Khambadkone, and T. Siew “A Hybrid Control Architecture for Low Voltage Microgrid”, IEEE Energy
+Conversion Congress and Exposition (ECCE’10), 2010.
+10. Haihua Zhou, Tanmoy Bhattacharya, Duong Tran, Terence Siew and Khambadkone, A.M, ”Composite Energy Storage
+System with Flexible Energy Management Capability for Micro­grid Applications”, IEEE Energy Conversion Congress
+and Expo, ECCE 2010.
+11. Haihua Zhou, Tanmoy Bhattacharya and Khambadkone, A.M, ”Composite Energy Storage System Using Dynamic
+Energy Management in Microgrid Applications”, International Power Electronics Conference ECCE­Asia 2010.
+12. Haihua Zhou, Duong Tran, Terence Siew and Khambadkone, A.M.,, “Interleaved Bi­directional Dual Active Bridge
+DC­DC Converter for Interfacing Ultracapacitor In Micro­Grid Application”, 2010 IEEE International Symposium on
+Industrial  Electronics, ISIE 2010.
+13. Parikshit Yadav, Rajesh Kumar, S. K. Panda, C. S. Chang, “Optimization of the Power Generation Scheduling in
+Oil­Rig Platforms”, IEEE International Symposium on Industrial Electronics (ISIE’10), 2010.
+14. Duong Tran, Haihua Zhou and Ashwin M. Khambadkone. “A simple design of DC power system to operate stably
+under constant power load”. IEEE PEDG conference, 2010.
+ 15 D. C. Hoang, R. Kumar, S. K. Panda, "Fuzzy C­Means Clustering Protocol for Wireless Sensor Networks",  IEEE
+International Symposium on Industrial Electronics (ISIE­2010), Bari, Italy, 2010.
+16. D. C. Hoang, P. Yadav, R. Kumar, S. K. Panda, "A Robust Harmony Search Algorithm based Clustering Protocol for
+Wireless Sensor Networks", International Conference on Communications (ICC 2010), Cape Town, South Africa, 2010.
+17. S. Dasgupta, Kunlin C, S.K. Sahoo and S.K. Panda, “A Novel Control Strategy for Fast Tracking of  Photovoltaic
+Maximum Power Point Voltage,” accepted for publication in 2nd IEEE international conference ICSET, Sri Lanka,
+Dec. 6­9, 2010.
+18.    S. Dasgupta, Freddy Wilyanto Suwandi, S.K. Sahoo and S.K. Panda, “Dual Axis Sun Tracking System with PV
+Cell as the Sensor, Utilizing Hybrid Electrical Characteristics of the Cell to Determine Insolation,” accepted for
+publication in 2nd IEEE international conference ICSET, Sri Lanka, Dec. 6­9, 2010.
+19. Ko Ko Win, Xinhui Wu, Souvik Dasgupta, Wong Jun Wen, Rajesh Kumar, and Panda S.K, “Efficient Solar Energy
+Harvester for Wireless Sensor Nodes,” accepted and presented in IEEE international conference on communication
+systems ICCS 2010, Nov. 17­19, 2010.
+20. D.Tran, H. Zhou and A. M. Khambadkone , “Energy management and dynamic control of Composite Energy
+Storage System for micro­grid”, 36th Annual Conference on IEEE Industrial Electronics Society (IECON) ,
+pp. 1818 ­ 1824, Nov. 2010
+Back to top
+======================================================================================
+2009
+Journal Publications
+1. Haihua Zhou and Khambadkone, A.M. ” Hybrid Modulation for Dual Active Bridge Bi­Directional Converter with
+Extended Power Range for Ultracapacitor Application,” Accepted to be published in IEEE Transactions on Industry
+Applications  Vol.45,No.4, July/August 2009.
+2. Haihua Zhou, Khambadkone, A.M. and Xin Kong”, Passivity Based Control for an Interleaved Current Fed Full Bridge
+converter With a Wide Operating Range using the Brayton Moser Form,” Accepted to be published in IEEE Transactions
+on Power Electronics.
+3. B. Yin, R. Oruganti, S. K. Panda, and A. K. S. Bhat, “A simple single­input­single­output (SISO) model for a three­phase
+PWM rectifier,” IEEE Transactions on Power Electronics, vol. 24, no.3, pp:620­631, March, 2009.     
+ 
+Conference Proceeding
+1. D.C. Hoang, Y.K. Tan and S.K. Panda, “Thermal Energy Harvesting From Human Warmth For Wireless Body Area
+Network In Medical Healthcare System”, The Eighth International Conference on Power Electronics and Drive
+Systems (PEDS’09), accepted, 2009.
+2. Xiaoxiao Yu, Ashwin M Khambadkone, “Combined Active and Reactive Power Control of Power Converter Building
+Block to Facilitate the Connection of Micro­grid to Electric Power System”, Accepted to IEEE Energy Conversion Congress
+and Exposition (ECCE) 2009.
+3. S.F. Lim and A.M. Khambadkone, “Non Linear Inductor Design for Improving Light Load Efficiency of Boost PFC”,
+IEEE Energy Conversion Congress and Exposition, ECCE 2009, pp.1339­1346, 2009.
+4. S. Dasgupta, S.K. Sahoo and S.K. Panda, “A New Control Strategy for Single Phase Series Connected PV Module Inverter
+for Grid Voltage Compensation,” at the IEEE International Conference on Power Electronics and Drives Systems (PEDS),
+Taiwan, pp. 1317­1322, Nov 2­5, 2009.
+5. Sasidhar Sangit; Panda, S.K.;  Xu, J., “Design of a Myoelectric Glove for Upper Limb Stroke Rehabilitation”, ICREATE 2009.
+
+-----

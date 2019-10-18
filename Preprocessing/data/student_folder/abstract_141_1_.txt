@@ -1,0 +1,70 @@
+Cloud Detection and Attenuation Modelling in Tropical Region 
+Feng Yuan, Yee Hui Lee & Yu Song Meng 
+Cloud plays a significant role in both the Earth's climate system and ground-to-
+space radio communication system. In this thesis, various types of data are collected from 
+different kinds of instruments including radiosonde, ceilometer, dual-polarization weather 
+radar, Ka-band beacon receiver, weather stations and whole sky imagers. By processing 
+and analyzing the data collected from these instruments, the study of various aspects of 
+the cloud including cloud vertical structure, melting layer of rain clouds, and the impact 
+of cloud on the satellite communication for tropical region is performed.   
+In this research, a new method for the detection of cloud vertical structure and 
+cloud occurrence for tropical region is proposed. This proposed model [1] is based on the 
+fact that the measured water vapor pressure is larger than the derived critical water vapor 
+pressure at the same level for cloud to be present. The estimated cloud vertical structure 
+using the proposed method is compared with the Salonen and Uppala model, the 
+ceilometer data and two kinds of meteorological observation. The proposed model shows 
+a higher accuracy of prediction of the cloud vertical structure as compared to the existing 
+SU model for tropical region. 
+Next, a method [2] for the detection of the melting layers for the stratiform and 
+convective rain clouds using dual-polarization radar data is proposed. By studying the 
+difference between these two types of rain events, it is found out that among the three 
+radar measurements; reflectivity; differential reflectivity; and cross-correlation 
+coefficient; the cross-correlation coefficient is the best indicator for convective rain 
+melting layer detection in the tropical region, whereas the reflectivity is sufficient for the 
+detection of stratiform rain melting layer. In addition, it has been observed that due to the 
+nature of convective rain events, their raindrops can move upwards to above 6 km as 
+recorded by the radar data. This height is even higher than the top boundary of the 
+melting layer.  
+For satellite communication applications, it is important to be able to differentiate 
+cloud events from rain events along the link. Several cloud detection methods are applied 
+in order to accurately detect the clouds for cloud attenuation estimation [3]. In this 
+research, beacon data are collected and processed to differentiate clouds from rain and 
+then to study cloud attenuation in the tropical region. The cloud attenuation results are 
+compared to the ITU-R model for Ka band frequency. It was concluded that at Ka band, 
+the maximum cloud attenuation is about 4 dB. This shows that the ITU-R model is 
+derived for temperate regions and tends to underestimate the cloud attenuation in the 
+tropical region. 
+
+-----
+Therefore, in this research work, a new cloud attenuation model [4] is proposed 
+for the tropical region. This model incorporates precipitable water vapor (PWV) value to 
+estimate integrated liquid water content, and then determine the cloud attenuation. The 
+estimated cloud attenuation using this new model is compared with the ITU-R model and 
+the cloud attenuation derived from Ka-band beacon data. One of the main advantages of 
+using PWV data from GPS for cloud attenuation modelling is its increase in temporal 
+resolution as compared to the use of radiosonde data. 
+In this thesis, we have proposed a model to detect cloud vertical structure for 
+tropical region, studied the melting layer for both stratiform and convective rain clouds, 
+done statistical analysis of cloud attenuation on a Ka-band satellite link and also proposed 
+a high temporal resolution method for cloud attenuation calculation in tropical region. 
+We believe that the algorithms and techniques developed in this thesis will assist the 
+remote sensing and satellite communication community with a better understanding of 
+clouds. 
+ 
+ 
+ 
+References 
+[1] F. Yuan, Y. H. Lee, Y. S. Meng and J. T. Ong, "Water Vapor Pressure Model for 
+Cloud Vertical Structure Detection in Tropical Region," in IEEE Transactions on 
+Geoscience and Remote Sensing, vol. 54, no. 10, pp. 5875-5883, Oct. 2016. 
+[2] F. Yuan, Y. H. Lee, Y. S. Meng and J. T. Ong, "Characterization of Dual-polarization 
+Radar Data for Stratiform and Convective Melting Layer Detection in Tropical Region," 
+submitted in IEEE Transactions on Geoscience and Remote Sensing. 
+[3] F. Yuan, Y. H. Lee, Y. S. Meng, J. X. Yeo and J. T. Ong, "Statistical Study of Cloud 
+Attenuation on Ka-Band Satellite Signal in Tropical Region," in IEEE Antennas and 
+Wireless Propagation Letters, vol. 16, no., pp. 2018-2021, 2017. 
+[4] F. Yuan, Y. H. Lee, Y. S. Meng and J. T. Ong, "High resolution ITU-R Cloud 
+Attenuation Model for Satellite Communications in Tropical Region," submitted in IEEE 
+Transactions on Antenna and Propagation. 
+
+-----

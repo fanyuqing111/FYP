@@ -1,0 +1,78 @@
+Name of Candidate: Elham Bagheri    
+Start Date of Candidature: 04 August 2014 
+Thesis Title: Automated Spike Detection in EEG of Patients with Epilepsy 
+ 
+Abstract: 
+ 
+Automated annotation of EEG from patients with epilepsy is important for the 
+diagnosis and management of epilepsy. Epilepsy is often associated with the presence 
+of epileptiform transients (ET), which is also known as epileptiform discharges or 
+spikes, in the EEG. Interictal EEG data contains mostly background waveforms, since 
+ETs occur occasionally in most patients, and there is a high disagreement among 
+experts in ET interpretation.  
+In this study, using an annotated dataset provided by Massachusetts General 
+Hospital (MGH), we design a cascade of simple thresholding steps to reject most 
+background waveforms in interictal EEG, while maintaining most ETs. Several 
+simple and quick-to-compute features are chosen. By thresholding these features, 
+background waveforms are rejected sequentially, and the time needed to classify EEG 
+in significantly reduced.  
+Moreover, we propose another boosting method using a cascade of SVM 
+classifiers to further classify the remaining waveforms. Applying this algorithm helps 
+increase the precision in interictal EEG classification.  
+In addition, we employed a dataset provided by Medical University of South 
+Carolina (MUSC), which is annotated by 18 neurologists in a 5-point scale. Inter-rater 
+agreement analysis as well as EEG signal analysis methods are applied on the dataset. 
+Using feature selection and correlation analysis, we determine subsets of features, 
+which correlate with expert scoring, and contribute to agreement or disagreement 
+among experts. Regression model using SVR is fitted to predict scores given by 
+experts to each event. In addition, relation of electrode locations on scalp with expert 
+scores is analysed. The results of this study, give us better understanding of features 
+underlying expert interpretation of EEG. It is significantly helpful in developing 
+automated algorithms for epilepsy diagnosis.  
+Last but not the least, we analysed the performance of an ET detection 
+software claimed to be non-inefrior to humans (Persyst P13). We apply this software 
+to our dataset from MUSC annottaed by 19 academic clinical neurophysiologists. We 
+compute pairwise pefromances of humans and P13, apply accelerated bootstrap 
+analysis to test the non-inferiority, and compare several aspects of P13 versus experts’ 
+scoring. In addition to developing methods to compare varioys ET detection software, 
+we demonstrate that P13 is still not as accurate as human experts in ET detection. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-----
+Publication List: 
+ 
+1. Elham Bagheri, Jing Jin, Justin Dauwels, Sydney Cash, and M Brandon Westover, 
+“Fast and efficient rejection of background waveforms in interictal eeg,” in 2016 
+IEEE International Conference on Acoustics, Speech and Signal Processing 
+(ICASSP), IEEE, 2016, pp. 744–748. 
+ 
+2. Elham Bagheri, Justin Dauwels, Brian C Dean, Chad G Waters, M Brandon 
+Westover, and Jonathan J Halford, “Interictal epileptiform discharge characteristics 
+underlying expert interrater agreement,” Clinical Neurophysiology, vol. 128, no. 10, 
+pp. 1994–2005, 2017. 
+ 
+3. Elham Bagheri, Jing Jin, Justin Dauwels, Sydney Cash, and M Brandon Westover, 
+“Classifier cascade to aid in detection of epileptiform transients in Interictal eeg,” in 
+2018 IEEE International Conference on Acoustics, Speech and Signal Processing 
+(ICASSP), IEEE, 2018, In Press. 
+ 
+4. Elham Bagheri, Justin Dauwels, Brian C Dean, Chad G Waters, M Brandon 
+Westover, and Jonathan J Halford, “Computers vs human electroencephalographers 
+for annotating epileptiform discharges: Persyst 13 does not yet pass the Turing test,” 
+Under preparation to submit to Clinical Neurophysiology. 
+ 
+5. Elham Bagheri, Justin Dauwels, Brian C Dean, Chad G Waters, M Brandon 
+Westover, and Jonathan J Halford, “A Fast and Automated Method to Facilitate the 
+Detection of Interictal Epileptiform Discharges in the Scalp Electroencephalogram,” 
+Under preparation to submit to Journal of Neural Engineering. 
+ 
+ 
+ 
+ 
+
+-----

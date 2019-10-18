@@ -1,0 +1,65 @@
+DIAGNOSTICS OF FAULTS IN ROTATING ELECTRIC MACHINERY USING WIRELESS SENSORS 
+ABSTRACT 
+In critical applications utilizing rotating electrical machines, condition-monitoring systems (CMS) are 
+deployed to prevent unexpected breakdown and schedule maintenance. The conventional CMS for 
+rotating electrical machines are predominantly based on externally available signals, while the internal 
+signals, especially on the rotor, remain relatively unexplored. To access these internal signals, wireless 
+sensors offer an effective solution in terms of cost and ease of deployment. This opens up an 
+opportunity to explore invasive condition monitoring systems for electrical machines. This thesis 
+presents the development of a wireless sensor based CMS to diagnose multiple electrical faults in a 
+brushless synchronous generator (BLSG).  BLSGs are widely used for electrical power generation in 
+marine, aerospace and industrial applications.   
+A feasibility study is conducted to evaluate the applicability for utilizing wireless RF as communication 
+means inside an electrical machine. Based on the study it is concluded that the wireless link quality 
+metrics do not show any deterioration inside the machine and in fact, are enhanced compared to 
+indoor environment. With the confidence from the experimental feasibility study, a rotor mounted 
+wireless sensing system is developed for a 14 KVA BLSG test bed. The test rig is capable of emulating 
+stator armature faults, rotor field winding faults and rotating rectifier diode faults and simultaneously 
+measuring rotor electrical signals during machine operation. 
+To identify the characteristic electrical fault signatures under stator armature inter-turn, rotor field 
+inter-turn and rectifier diode faults, a phase domain model of a salient pole BLSG is developed. 
+Modified-Winding Function Approach is utilized to compute the inductances of the main generator 
+and exciter generator. The developed model is able to come close to replicating the actual machine 
+behavior during healthy state and progression of the faults.  Based on the model, it is found that the 
+current state of art indicators may not be suitable for reliable diagnosis of multiple faults. A new set 
+of fault indicators based on rotor based electrical signatures is proposed and its effectiveness for fault 
+diagnosis under multiple fault conditions is presented with experimental validation. 
+A comparison of the conventional fault signatures based on stator terminal signals and external casing 
+vibration with the invasive electrical signals from rotor mounted wireless sensors is presented. To 
+enable this comparison under different fault conditions, a normalized fault severity metric is 
+introduced. From the investigation, the rotor based electrical signal measurements obtained through 
+a wireless sensor is found to be more effective in tracking the evolution of a fault. A hybrid fault 
+diagnosis scheme, based on the fusion of conventional and invasive fault signatures is presented. 
+Based on this study, it is found that the overall diagnostic performance is improved compared to the 
+schemes that only rely on either non-invasive or invasive fault signatures.  
+The present work is focused on identifying fault signatures based on internal electrical signals. An 
+investigation into other key physical quantities such as thermal, magnetic and mechanical needs to be 
+carried out. The selection of measurements (noninvasive and invasive) required for reliable diagnosis 
+can be formulated as an optimization problem. This will help in identifying the minimum set of 
+measurements required to achieve high diagnostic accuracy. The fault severity metrics proposed in 
+this thesis captures the resultant effect of the fault on the machine. Estimating the physical fault 
+severity will aid in the better assessment of the machine’s condition and in prognosis, for calculating 
+the remaining useful life.  
+ 
+
+-----
+LIST OF PUBLICATIONS 
+Journal Articles: 
+P. S. Kumar, L. Xie, B. H. Soong, and M. Y. Lee, “Feasibility for utilizing IEEE 802.15.4 Compliant radios 
+inside rotating electrical machines for wireless condition monitoring applications,” IEEE Sensors 
+Journal, vol. PP, no. 99, p. 1, 2018. [Early Access] 
+Conference Articles: 
+P. S. Kumar, L. Xie, M.S.M. Halick, and V. Vaiyapuri, “Online Stator End Winding Thermography using 
+Infrared Sensor Array,” in the  43rd Annual IEEE Applied Power Electronics Conference and Exposition 
+(APEC), 2018. [Presented; to be published in IEEExplore] 
+P. S. Kumar, L. Xie, K. Thiha, B.-H. Soong, V. Vaiyapuri, and S. Nadarajan, “Rotor mounted wireless 
+sensors for condition monitoring of brushless synchronous generator,” in Industrial Electronics 
+Society, IECON 2017-43rd Annual Conference of the IEEE. IEEE, 2017, pp. 3221–3226. 
+P. S. Kumar, L. Xie, and B. H. Soong, “Feasibility of wireless RF communication inside rotating electrical 
+machines for condition monitoring applications,” in Proc. 19th Int. Conf. Electrical Machines and 
+Systems (ICEMS), Nov. 2016, pp. 1–6.  
+P. S. Kumar, Y. Chen, M. Y. Lee, S. Nadarajan, and L. Xie, “Modified winding function approach to stator 
+fault modelling of synchronous generator,” in Proc. 12th IEEE Int. Conf. Control and Automation 
+(ICCA), Jun. 2016, pp. 161–166. 
+
+-----

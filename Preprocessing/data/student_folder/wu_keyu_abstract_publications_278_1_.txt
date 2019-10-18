@@ -1,0 +1,104 @@
+Name: Wu Keyu 
+Matric NO.: G1601111F 
+Thesis Title: Learn to Navigate Through Deep Learning and Deep Reinforcement Learning 
+Abstract 
+It is crucial for robots to navigate autonomously in complex environments safely and efficiently. 
+This thesis is to deal with the autonomous navigation problems of mobile robots through deep 
+learning and deep reinforcement learning. It presents four main parts, including a deep 
+learning-based path planning algorithm, a deep learning-based online path planning algorithm, 
+a deep reinforcement learning-based autonomous steering method, and a deep reinforcement 
+learning-based autonomous navigation method. 
+Firstly, path planning has been extensively studied for decades since it plays a significant role 
+in autonomous navigation. However, the computational time of most existing methods depend 
+on the scale and complexity of environment, which leads to the compromise between time 
+efficiency and path quality. To tackle this challenge, deep neural network-based planning 
+methods have been actively explored. However, despite the success of deep learning-based 2D 
+planner, 3D path planning, which is a significant primitive for quite a few autonomous robots, 
+is rarely handled by deep neural networks. To address this challenge, a novel end-to-end neural 
+network is proposed to realize 3D path planning. By embedding the action decomposition and 
+composition concept, the proposed network is capable to predict 3D actions merely through 
+2D convolutional neural networks. Besides, the proposed network exhibits high generalization 
+capability and its computational time for each action prediction is almost independent of 
+environmental scale and complexity. 
+Besides, a novel end-to-end deep neural network architecture has also been proposed to tackle 
+the problem of online 3D path planning in completely unknown cluttered environments. 
+Similarly, it also accomplishes a 3D path planning task via considering multiple value iteration 
+updates approximated by recurrent 2D convolutional neural networks. In addition, a path 
+planning framework has also been developed to better pledge the efficacy and efficiency of the 
+planner through switching among multiple networks that consider different environmental 
+ranges. Meanwhile, the line-of-sight checks are also performed to further optimize the 
+predicted paths. Without any prior knowledge of the environment, the proposed deep learning-
+based online planner is competent to generate near-optimal paths while its computational time 
+and effectiveness are independent of environmental conditions. 
+Compared to dealing with the path planning problem separately, it is more superior to achieve 
+autonomous navigation via mapping raw sensor data to control commands directly. In addition, 
+it is also more desirable to learn from experiences automatically and enhance the generalization 
+capability to cope with unseen circumstances. Therefore, an end-to-end deep reinforcement 
+learning algorithm is proposed to improve the performance of autonomous steering in complex 
+environments. As a new variant of Deep Q-Network, the proposed model is capable of deriving 
+steering commands directly and efficiently from raw depth images by embedding a branching 
+noisy dueling architecture. Besides, a new action selection strategy is also introduced to achieve 
+motion filtering by taking the consistency in angular velocity into account. Moreover, the 
+training framework is also meticulously designed to improve the learning efficiency and 
+effectiveness. It is worth noting that the developed model is readily transferable from simple 
+
+-----
+virtual training scenarios to various complicated real-world deployment without any fine-
+tuning. 
+In addition to autonomous steering, a deep reinforcement learning based autonomous 
+navigation method is also proposed. By deriving control commands directly from raw depth 
+images, the developed system is capable to avoid bumping into obstacles, while at the 
+meantime, pursuing to reach the goal positions. Specifically, a dual soft actor-critic method is 
+proposed which trains two networks at the same time. One of the networks is used to derive 
+the desired policy while the other one is adopted to improve the extraction of feature 
+representations from the raw depth inputs. Besides, a joint training framework is also developed 
+by taking advantage of the off-policy nature so as to improve both training effectiveness and 
+efficiency. 
+ 
+Journal Publications 
+[1] Keyu Wu, Mahdi Abolfazli Esfahani, Shenghai Yuan, Han Wang, "Learn to steer through deep 
+reinforcement learning", Sensors 18.11 (2018): 3650. 
+[2] Keyu Wu, Mahdi Abolfazli Esfahani, Shenghai Yuan, Han Wang, "TDPP-Net: Achieving Three-
+Dimensional Path Planning via a Deep Neural Network Architecture", Neurocomputing (In Minor 
+Revision), 2019. 
+[3] Keyu Wu, Mahdi Abolfazli Esfahani, Shenghai Yuan, Han Wang, "OTDPP-Net: Achieving Deep 
+Neural Network based Real-Time 3D Path Planning in Completely Unknown Cluttered Environments", 
+International Journal of Machine Learning and Cybernetics (Under Review), 2019. 
+[4] Keyu Wu, Mahdi Abolfazli Esfahani, Shenghai Yuan, Han Wang, "BND*-DDQN: Learn to Steer 
+Autonomously through Deep Reinforcement Learning", IEEE Transactions on Cognitive and 
+Developmental Systems (In Major Revision), 2019. 
+[5] Keyu Wu, Mahdi Abolfazli Esfahani, Shenghai Yuan, Han Wang, "Learn to Navigate 
+Autonomously through Deep Reinforcement Learning", In Preparation, 2019. 
+[6] Mahdi Abolfazli Esfahani, Keyu Wu, Shenghai Yuan, and Han Wang, "From Local Understanding 
+to Global Regression in Monocular Visual Odometry", International Journal of Pattern Recognition and 
+Artificial Intelligence, 2019 
+[7] Mahdi Abolfazli Esfahani, Keyu Wu, Shenghai Yuan, and Han Wang, "DeepDSAIR: Deep 6-DOF 
+Camera Relocalization using Deblurred Semantic-Aware Image Representation for Large-Scale 
+Outdoor Environments", Image and Vision Computing (Under Review), 2019. 
+[8] Mahdi Abolfazli Esfahani, Han Wang, Keyu Wu, and Shenghai Yuan, "AbolDeepIO: A Novel 
+Deep Inertial Odometry Network for Autonomous Vehicles", IEEE Transactions on Intelligent 
+Transportation Systems (Accepted), 2019. 
+ 
+Conference Publications 
+[9] Keyu Wu, Tao Xi, and Han Wang. "Real-time three-dimensional smooth path planning for 
+unmanned aerial vehicles in completely unknown cluttered environments", In Region 10 Conference 
+(TENCON), IEEE, 2017. 
+
+-----
+[10] Keyu Wu, Mahdi Abolfazli Esfahani, Shenghai Yuan, Han Wang, "Depth-based Obstacle 
+Avoidance through Deep Reinforcement Learning", In International Conference on Mechatronics and 
+Robotics Engineering (ICMRE), ACM, 2019. 
+[11] Mahdi Abolfazli Esfahani, Keyu Wu, Shenghai Yuan, and Han Wang, "A New Approach to Train 
+Convolutional Neural Networks for Real-Time 6-DOF Camera Relocalization", In IEEE 14th 
+International Conference on Control and Automation (ICCA), IEEE, 2018. 
+[12] Mahdi Abolfazli Esfahani, Keyu Wu, Shenghai Yuan, and Han Wang, "A New Approach to Train 
+Convolutional Neural Networks for Monocular Visual Odometry", In International Conference on 
+Pattern Recognition and Artificial Intelligence (ICPRAI), 2018 
+[13] Mahdi Abolfazli Esfahani, Keyu Wu, Shenghai Yuan, and Han Wang, "Towards Utilizing Deep 
+Uncertainty in Traditional SLAM", In IEEE 15th International Conference on Control and Automation 
+(ICCA), IEEE, 2019 
+[14] Han Wang, Shenghai Yuan, and Keyu Wu, "Heterogeneous Stereo: A Human Vision Inspired 
+Method for General Robotics Sensing", In Region 10 Conference (TENCON), IEEE, 2017. 
+ 
+
+-----

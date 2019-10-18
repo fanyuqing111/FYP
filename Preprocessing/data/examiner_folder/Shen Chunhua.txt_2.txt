@@ -1,0 +1,317 @@
+ The Scopus Author Identifier assigns a unique number to groups of documents written by the same author via an algorithm that matches authorship based on a certain criteria. If a document canno
+confidently matched with an author identifier, it is grouped separately. In this case, you may see more than 1 entry for the same author. 
+Author details
+Shen, Chunhua 
+University of Adelaide, School of Computer 
+Science, Adelaide, Australia 
+Author ID: 7402859952
+Other name formats: Shen, C.
+About Scopus Author Identifier | View potential author matches 
+Documents:
+Analyze author output
+Citations:
+View citation overview
+h-index: 
+View h-graph
+Co-authors:
+Subject area:
+View docum
+View docum
+View docum
+Follow this Author
+Receive emails when this author 
+publishes new articles
+Get citation alerts 
+Add to ORCID
+Request author detail corrections
+Author History 
+Publication range: 2003 - Present 
+References: 2918
+Source history:
+Computational Statistics and Data Analysis
+Machine Vision and Applications
+Proceedings - Digital Image Computing: Techniques and 
+Applications, DICTA 2008  
+View More 
+Show Related Affiliations
+Back to results |
+1 of 17 Next >
+Print |
+E-mail 
+143 
+2477 total citations by 1989 documents 
+26 
+114
+Computer Science ,  Mathematics View More
+143 documents
+Export all |
+Add all to list
+|
+Set document alert |
+Set document feed 
+143 Documents | Cited by 1989 documents | 114 co-authors
+View all in search results format 
+Sort on: Date Cited by
+...
+Learning discriminative trajectorylet detector sets for 
+accurate skeleton-based action recognition
+Qiao, R., Liu, L., Shen, 
+C., van den Hengel, A. 
+2017 Pattern Recognition 
+View at Publisher
+Large-scale binary quadratic optimization using 
+semidefinite relaxation and applications
+Wang, P., Shen, C., 
+Van Den Hengel, A., 
+Torr, P.H.S. 
+2017 IEEE Transactions on 
+Pattern Analysis and 
+Machine Intelligence 
+View at Publisher
+Structured learning of metric ensembles with application 
+to person re-identification
+Paisitkriangkrai, S., 
+Wu, L., Shen, C., van 
+den Hengel, A. 
+2017 Computer Vision and 
+Image Understanding 
+View at Publisher
+Mining Mid-level Visual Patterns with Deep CNN 
+Activations
+Li, Y., Liu, L., Shen, C., 
+Hengel, A.V.D. 
+2017 International Journal of 
+Computer Vision 
+View at Publisher
+Learning Depth from Single Monocular Images Using 
+Deep Convolutional Neural Fields
+Liu, F., Shen, C., Lin, 
+G., Reid, I. 
+2016 IEEE Transactions on 
+Pattern Analysis and 
+Machine Intelligence 
+View at Publisher
+Online unsupervised feature learning for visual tracking
+Liu, F., Shen, C., Reid, 
+I., Van Den Hengel, A. 
+2016 Image and Vision 
+Computing 
+View at Publisher
+Pedestrian detection with spatially pooled features and 
+structured ensemble learning
+Paisitkriangkrai, S., 
+Shen, C., Van Den 
+Hengel, A. 
+2016 IEEE Transactions on 
+Pattern Analysis and 
+Machine Intelligence 
+View at Publisher
+Efficient Semidefinite Branch-and-Cut for MAP-MRF 
+Inference
+Wang, P., Shen, C., 
+van den Hengel, A., 
+Torr, P.H.S. 
+2016 International Journal of 
+Computer Vision 
+View at Publisher
+Online Metric-Weighted Linear Representations for 
+Robust Visual Tracking
+Li, X., Shen, C., Dick, 
+A., Zhang, Z.M., 
+Zhuang, Y. 
+2016 IEEE Transactions on 
+Pattern Analysis and 
+Machine Intelligence 
+View at Publisher
+0
+0
+0
+0
+3
+1
+4
+0
+2
+Years
+Documents
+Documents
+Citations
+Citations
+2007
+2017
+0
+22
+Search
+Sources
+Alerts
+Lists
+Help
+SciVal ↗
+Register
+Login
+Page 1 of 3
+Scopus - Author details (Shen, Chunhua)
+23/3/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7402859952
+
+-----
+The data displayed above is compiled exclusively from articles published in the Scopus database. To request corrections to any inaccuracies or provide any further feedback, please contact us (registration required). 
+The data displayed above is subject to the privacy conditions contained in the privacy policy . 
+Top of page 
+Display: 
+results per page
+Page 1
+Hyperspectral compressive sensing using manifold-
+structured sparsity prior
+Zhang, L., Wei, W., 
+Zhang, Y., (...), Shen, 
+C., Shi, Q. 
+2016 Proceedings of the IEEE 
+International Conference 
+on Computer Vision 
+View at Publisher
+A Generalized Probabilistic Framework for Compact 
+Codebook Creation
+Liu, L., Wang, L., Shen, 
+C. 
+2016 IEEE Transactions on 
+Pattern Analysis and 
+Machine Intelligence 
+View at Publisher
+Unsupervised Feature Learning for Dense 
+Correspondences Across Scenes
+Zhang, C., Shen, C., 
+Shen, T. 
+2016 International Journal of 
+Computer Vision 
+View at Publisher
+Fast training of triplet-based deep binary embedding 
+networks
+Zhuang, B., Lin, G., 
+Shen, C., Reid, I. 
+2016 Proceedings of the IEEE 
+Computer Society 
+Conference on 
+Computer Vision and 
+Pattern Recognition 
+View at Publisher
+Less is more: Zero-shot learning from online textual 
+documents with noise suppression
+Qiao, R., Liu, L., Shen, 
+C., Van Den Hengel, A. 
+2016 Proceedings of the IEEE 
+Computer Society 
+Conference on 
+Computer Vision and 
+Pattern Recognition 
+View at Publisher
+Efficient piecewise training of deep structured models for 
+semantic segmentation
+Lin, G., Shen, C., Van 
+Den Hengel, A., Reid, 
+I. 
+2016 Proceedings of the IEEE 
+Computer Society 
+Conference on 
+Computer Vision and 
+Pattern Recognition 
+View at Publisher
+Image co-localization by mimicking a good detector’s 
+confidence score distribution
+Li, Y., Liu, L., Shen, C., 
+van den Hengel, A. 
+2016 Lecture Notes in 
+Computer Science 
+(including subseries 
+Lecture Notes in 
+Artificial Intelligence and 
+Lecture Notes in 
+Bioinformatics) 
+View at Publisher
+Ask me anything: Free-form visual question answering 
+based on knowledge from external sources
+Wu, Q., Wang, P., 
+Shen, C., Dick, A., Van 
+Den Hengel, A. 
+2016 Proceedings of the IEEE 
+Computer Society 
+Conference on 
+Computer Vision and 
+Pattern Recognition 
+View at Publisher
+What value do explicit high level concepts have in vision 
+to language problems?
+Wu, Q., Shen, C., Liu, 
+L., Dick, A., Van Den 
+Hengel, A. 
+2016 Proceedings of the IEEE 
+Computer Society 
+Conference on 
+Computer Vision and 
+Pattern Recognition 
+View at Publisher
+Dictionary Learning for Promoting Structured Sparsity in 
+Hyperspectral Compressive Sensing
+Zhang, L., Wei, W., 
+Zhang, Y., (...), Van 
+Den Hengel, A., Shi, Q. 
+2016 IEEE Transactions on 
+Geoscience and Remote 
+Sensing 
+View at Publisher
+Cluster sparsity field for hyperspectral imagery denoising
+Zhang, L., Wei, W., 
+Zhang, Y., (...), Van 
+Den Hengel, A., Shi, Q. 
+2016 Lecture Notes in 
+Computer Science 
+(including subseries 
+Lecture Notes in 
+Artificial Intelligence and 
+Lecture Notes in 
+Bioinformatics) 
+View at Publisher
+4
+0
+1
+1
+0
+6
+0
+0
+0
+1
+0
+20
+Back to results |
+1 of 17 Next >
+Page 2 of 3
+Scopus - Author details (Shen, Chunhua)
+23/3/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7402859952
+
+-----
+About Scopus
+What is Scopus
+Content coverage
+Scopus blog
+Scopus API
+Privacy matters
+Language
+日本語に切り替える
+切换到简体中文
+切換到繁體中文
+Customer Service
+Help
+Live Chat
+Contact us
+Terms and conditions
+Privacy policy
+Copyright © 2017 Elsevier B.V. All rights reserved. Scopus® is a registered trademark of Elsevier B.V.
+Cookies are set by this site. To decline them or learn more, visit our Cookies page.
+Page 3 of 3
+Scopus - Author details (Shen, Chunhua)
+23/3/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7402859952
+
+-----

@@ -1,0 +1,38 @@
+Abstract 
+
+When learning any form of classical music vocals without a teacher, even subtle 
+deviations can lead to wrong training, which can be difficult to remedy in the 
+future. In this research work, a real-time tool has been developed to deal with this 
+situation by assisting people in learning Indian classical music. This tool will have a 
+set of pre-defined Swaras, Alankaras, and Ragas (Indian classical music concepts). 
+Users can practice any musical piece from this set and the tool will inform them of 
+the mistakes they make, by smartly matching their voice with the dynamically 
+defined pattern. Users are free to sing in any given scale, which they define in the 
+beginning by singing the root note of their preferred scale. 
+
+Using the PredominantPitchMelodia algorithm, the tool identifies the pitch values 
+of the musical piece. From these pitch values, the tool identifies the root-note and 
+set it as a reference. This root-note defines the scale of the user’s voice. Further, 
+for identifying the simplest basic musical piece, the k-means clustering method 
+has been implemented along with some index rearrangement. To identify any 
+general musical piece, moving average, gaussian filter and step-detection 
+algorithm have been implemented along with prominent step-filtering method. 
+Voice stability and Pitch accuracy have been proposed to serve as the evaluation 
+criteria. The functioning of the tool is testified on a varied range of audio samples, 
+namely, male and female voices, Ukulele, and Harmonium audio samples and 
+existing musical instrument tuning applications like GuitarTuna, Ukulele Tuner, and 
+so on have been used as the ground truth for the verification.
+
+For future work, the just intonation tuning method will be implemented as this 
+method is mostly used in Indian classical music. Also, the tool can be formulated 
+for different cultural music (western music, Chinese music, folk music etc.), 
+medical purposes (brain-computer interface, neural disorders like schizophrenia 
+etc.), meditation and for music composition. 
+
+
+-----
+List of Publications 
+1. “Design and Development of an Indian Classical Vocal Training Tool”, 2nd International 
+Conference on Intelligent Autonomous Systems, 2019, (in press).
+
+-----

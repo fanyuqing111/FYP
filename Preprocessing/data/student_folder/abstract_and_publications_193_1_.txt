@@ -1,0 +1,66 @@
+1
+Abstract
+In this thesis, we focus on robots with a marsupial relationship that use computer
+vision as their main sensor. We focused our work on two separate projects.
+In computer vision, drift is still a major drawback when using vision-based local-
+isation methods. The first project of this thesis combines the position information
+from two Unmanned Ground Vehicles (UGV) to reduce this drift in GPS denied
+environments. We use the relative pose measurements between two robots in a
+similar way to loop-closure. The robots start at a neighbouring location and share
+a common field of view. The sharing of the information is done periodically. The
+pose of each robot is calculated using visual odometry. The relative position of
+the robots is calculated using both monocular and stereo image pairs, for initial
+estimation and refining respectively. We then formulated an algorithm to com-
+bine the visual odometry and relative pose estimations from one robot to another
+in a pose graph optimisation scheme to reduce the drift. We have conducted ex-
+periments on both simulations and real-life.
+In our second project, we introduce two new methods that enabled us to au-
+tonomously take-off, track and precisely land with an Unmanned Aerial Vehi-
+cle (UAV) on a UGV using a dual monocular camera setup. In these methods,
+we used predefined markers to compute the relative position of the UAV from
+Nanyang Technological University
+Singapore
+
+-----
+2
+the landing platform that is attached to the UGV. The cameras on the UAV have
+different focal lengths, which are providing better performance than using a sin-
+gle camera. We analysed and compared different markers and detectors pairs to
+achieve a reliable pose estimation. For a UAV, the most critical parts of the flight
+are take-off and landing, as this is the time most prone to crashes. We proposed
+a method, which we named as ”landing calibration”, that helped us to land at
+the precise position we want the UAV to land in a GPS denied environment. We
+verified each method with more than hundred real-world experiments.
+Nanyang Technological University
+Singapore
+
+-----
+AUTHOR’S PUBLICATIONS
+3
+Author’s Publications
+Patents:
+Infinium Robotics Pte. Ltd. (Singapore), Autonomous Taking off, positioning and
+Landing of UAV on a Mobile Platform, 10201802386T, 2018, (Patent Pending)
+Journal Papers:
+1.Wang, H., Mou, W., Mou, X., Yuan, S., Ulun, S., Yang, S., Shin, B.-S.: An auto-
+matic self-calibration approach for wide baseline stereo cameras using sea surface
+images. Unmanned Syst. 3, 277-290 (2015)
+Conference Papers and Workshops:
+Wang, H., Mou, X., Mou, W., Yuan, S., Ulun, S., Yang, S., Shin, B.-S. ”Vision based
+long range object detection and tracking for unmanned surface vehicle.” in Pro-
+ceedings of the IEEE International Conference on CIS-RAM, Cambodia (2015)
+S. Ulun, H. Wang, ”Reducing drift using visual information in a multi-robot scheme,”
+Nanyang Technological University
+Singapore
+
+-----
+4
+AUTHOR’S PUBLICATIONS
+in 13th International Conference on Control and Automation, ICCA 2017.
+S. Ulun, H. Wang, ‘Combining visual odometry of multi-robot using UWB range
+information,” in Workshop on Multi-robot Perception-Driven Control and Planning,
+ICRA 2017.
+Nanyang Technological University
+Singapore
+
+-----

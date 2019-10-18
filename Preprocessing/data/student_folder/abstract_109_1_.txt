@@ -1,0 +1,62 @@
+Investigation of Operational Characteristics of  
+Vanadium Redox Flow Batteries 
+ 
+Abstract 
+ 
+ 
+Redox flow cell energy storage systems are becoming increasingly popular because of the 
+numerous advantages they offer. These systems are modular, highly efficient and the cost is 
+relatively low which makes it easy to scale up. The battery is however is not commercially 
+widespread as Li-ion or Lead acid batteries. One of the major reasons for this is not having 
+enough studies and lack of optimization which are specific to the battery. In this work we 
+investigate aging of the battery due to ion diffusion which is one of the key aspects that are 
+important but understudied for the use of VRB in buildings followed by devising a charging 
+algorithm based on the electrochemical battery model developed in the process.  
+The work begins with the investigation of the issue of capacity decay in Vanadium Redox 
+flow Batteries. The capacity loss due to vanadium ion diffusion is simulated for 10000 cycles 
+of operation. The effect of flow rate on concentration flux in the cell is studied since 
+concentration difference between two half cells is one of the major reasons for species 
+crossover. As a consequence of diffusion, the charge transfer current density in the electrode 
+varies. The relationship between charge transfer current density and the concentration of 
+one species of vanadium is analyzed at different temperatures. 
+
+-----
+The concentration change of different species of vanadium ion is modeled with temperature 
+influence for each of these vanadium ion variants. The concentration change of different 
+vanadium ions due to diffusion is simulated for different temperatures. The change in 
+capacity of the battery is calculated for different temperature profiles and the total loss was 
+partially contributed by intrinsic loss and partly due to diffusion. It was also observed that 
+the difference in the loss at different temperatures is higher during the initial 50% of the 
+total lifecycle and stabilizes as it proceeds. At the end of 200 cycles, the capacity loss at 40oC 
+was higher (14.23%) than that of 30oC (13.37%) and 20oC (12.67%) of which a major part 
+was contributed due to diffusion in the first 100 cycles of operation. Further, an extended 
+dynamic model of the vanadium ion transfer is developed including the effect of temperature 
+and bulk electrolyte transfer. The model is used to simulate capacity decay for a range of 
+different ion exchange membranes that are being used in the VRB. The model is made more 
+comprehensive by including the effect of bulk electrolyte transfer. A volume change of 19% 
+is observed in each half-cell for Nafion 115 membrane based on the simulation parameters. 
+The effect of this change in volume directly affects concentration, and the characteristics are 
+analyzed for each vanadium species as well as the overall concentration in the half-cells. 
+Further, the parameter dependence is analyzed during the charging process of a Vanadium 
+Redox Flow Battery (VRB) for a system-aware building which has distributed sources of 
+energy production and amenable to flexible load scheduling. One of the key features of a flow 
+battery is the ability to control the flow rate and current during the charging process. The 
+flexibility however has a direct effect on charging time and efficiency which calls for a 
+detailed performance study with various modes of charging. An electrical model of a kW 
+scale VRB having an operating SOC range of 15-85% is presented. The presented model 
+considers a 15 cell battery with current range of 80-160 mA/cm-2, overall membrane area of 
+780 cm2 and a flow rate range of 2-6 L/min. The results obtained show that there is a trade-
+off between the charging time and the energy capacity depending on the charging current 
+and the flow rate. This work would aid the process of charging optimization by selecting 
+various modes of operation of VRB, depending on the weightage given by the system for 
+charging time or the energy efficiency. By using the previous knowledge on the capacity fade 
+(aging) of VRB and the performance analysis based on input parameters to develop a 
+comprehensive charging algorithm is developed to enhance the battery operation. This 
+would take both the state of charge as well as state of health into account while satisfying the 
+user needs without causing much damage to either power or energy efficiency of the battery. 
+Thus, by the comprehensive aging model and specific charging algorithm, we hope to have 
+contributed to move the use of VRB in buildings one step closer. 
+ 
+ 
+
+-----

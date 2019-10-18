@@ -1,0 +1,63 @@
+1 
+ 
+Abstract 
+Indium antimonide (InSb) is a competitive semiconductor for the applications in high 
+electron mobility transistor and mid-infrared photodetector. Integration of InSb on GaAs, 
+Ge and Si substrates can increase the performance of devices, decrease the cost of 
+fabrication and become an important component of optoelectronic integrated circuit. 
+Therefore, much efforts has been placed on the investigation of novel heteroepitaxial 
+approaches to overcome the high lattice mismatch (14.6% for InSb/GaAs and 19.3% for 
+InSb/Si) and different crystal structures between InSb and these substrates.  
+The thesis focuses on the integration of InSb on lattice mismatched substrates (GaAs and 
+Si) using solid-state molecular beam epitaxy (MBE) system. First, interfacial misfit (IMF) 
+array was intentionally formed at the InSb/GaAs interface to accommodate the lattice 
+mismatch via surface anion exchange. The relationship between the growth temperature 
+and the formation of IMF was investigated. Transmission electron microscope (TEM) 
+images of the sample grown at 310 °
+C demonstrated an IMF array consisting of 90°
+ misfit 
+dislocations distributing uniformly along the interface and their separation (3.2 nm) agreed 
+well with the calculated result. Grow temperature above 310 °
+C suppressed the surface 
+anion exchange to impede the formation of IMF array. Below 310 °
+C, island coalescences 
+led to the formation of threading dislocations. InSb on GaAs grown at 310 °
+C exhibited an 
+electron mobility of 33840 cm2/Vs at room temperature. 
+Further optimization of growth process focuses on two areas: pre-growth Sb 
+reconstructions and in situ thermal annealing. Sb atoms owns three kinds of reconstructions 
+on GaAs surface and III-Sb (GaSb and InSb) layers were grown on GaAs with different 
+
+-----
+2 
+ 
+pre-growth Sb reconstructions. Simulation demonstrated x-ray reciprocal space map (RSM) 
+can characterize the distribution of misfit dislocations in the IMF array. The results of RSM 
+showed pre-growth (2×
+8) Sb reconstruction promoted the formation of 90°
+ misfit 
+dislocations in an IMF array. The highest carrier mobilities were achieved in the III-Sb 
+layers grown on GaAs with pre-growth (2×
+8) Sb reconstruction. The optimized anneal 
+process is 5 minutes at 590 °
+C for GaSb and 15 minutes at 420 °
+C for InSb. Compared with 
+as-grown III-Sb layers, lower density of threading dislocations, flatter surface and higher 
+carrier mobility was observed in the annealed ones. Annealing also improved the 
+photoresponsivity of GaSb and InSb photoconductors on GaAs.  
+To realize the integration of InSb on Si, GaAs buffer is grown on Ge-on-Si substrates 
+followed by InSb grown on GaAs via IMF array. An InSb p-i-n photodetector is developed 
+based on this structure. An electron barrier layer was inserted into the conventional 
+architecture of p-i-n photodetector to suppress the dark current. The electrical and photonic 
+properties of the photodetector were investigated. 
+Another approach of the integration of InSb on Si through AlSb/GaSb buffer was also 
+investigated. In this buffer, GaSb was grown on Si using IMF array to avoid the formation 
+of threading dislocations and InSb quantum dots (QDs) were grown on AlSb surface to 
+decrease the density of micro-twins. TEM images showed uniform IMF array existed at 
+the GaSb/Si and QDs nucleated at the sites micro-twins to terminate them. AlSb and GaSb 
+were respectively applied on the top layer of buffer to provide a surface for the subsequent 
+growth of InSb. InSb on AlSb surface demonstrated higher crystal quality and electron 
+mobility. Moreover, the photoresponsivity in InSb photoconductor on AlSb is higher than 
+that on GaSb.  
+
+-----

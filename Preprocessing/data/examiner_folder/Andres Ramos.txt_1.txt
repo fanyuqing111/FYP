@@ -1,0 +1,1223 @@
+All
+Since 2013
+Citations
+3813
+2589
+h-index
+30
+28
+i10-index
+62
+47
+Andres Ramos
+Universidad Pontificia Comillas
+Optimization
+Power systems
+Planning and operation of electric…
+Transmission Expansion Planning
+TITLE
+CITED BY
+YEAR
+Electricity market modeling trends
+M Ventosa, A Baıllo, A Ramos, M Rivier
+Energy policy 33 (7), 897-913
+702
+2005
+Demand response in an isolated system with high wind 
+integration
+K Dietrich, JM Latorre, L Olmos, A Ramos
+IEEE Transactions on Power Systems 27 (1), 20-29
+222
+2012
+Tight and compact MILP formulation for the thermal unit 
+commitment problem
+G Morales-España, JM Latorre, A Ramos
+IEEE Transactions on Power Systems 28 (4), 4897-4908
+191
+2013
+Optimal offering strategies for generation companies operating in 
+electricity spot markets
+A Baillo, M Ventosa, M Rivier, A Ramos
+IEEE Transactions on Power Systems 19 (2), 745-753
+167
+2004
+Tight and compact MILP formulation of start-up and shut-down 
+ramping in unit commitment
+G Morales-España, JM Latorre, A Ramos
+IEEE Transactions on Power Systems 28 (2), 1288-1296
+132
+2013
+Modeling competition in electric energy markets by equilibrium 
+constraints
+A Ramos, M Ventosa, M Rivier
+Utilities Policy 7 (4), 233-242
+110
+1999
+Goal programming approach to maintenance scheduling of 
+generating units in large scale power systems
+LM Moro, A Ramos
+IEEE Transactions on Power Systems 14 (3), 1021-1028
+98
+1999
+Optimal underground timetable design based on power flow for 
+maximizing the use of regenerative-braking energy
+M Peña-Alcaraz, A Fernández, AP Cucala, A Ramos, RR Pecharromán
+Proceedings of the Institution of Mechanical Engineers, Part F: Journal of …
+96
+2012
+Fitting electricity market models. A conjectural variations 
+approach
+A Garcia-Alcalde, M Ventosa, M Rivier, A Ramos, G Relano
+Proc. 14th PSCC 2002
+96
+2002
+
+-----
+TITLE
+CITED BY
+YEAR
+Stochastic power generation unit commitment in electricity 
+markets: A novel formulation and a comparison of solution 
+methods
+S Cerisola, Á Baíllo, JM Fernández-López, A Ramos, R Gollmer
+Operations Research 57 (1), 32-46
+80
+2009
+Optimal energy management of an industrial consumer in 
+liberalized markets
+E Gómez-Villalva, A Ramos
+IEEE Transactions on Power Systems 18 (2), 716-723
+78
+2003
+Probabilistic midterm transmission planning in a liberalized 
+market
+P Sánchez-Martín, A Ramos, JF Alonso
+IEEE Transactions on Power Systems 20 (4), 2135-2142
+77
+2005
+Stochastic optimization model for electric power system planning 
+of offshore wind farms
+M Banzo, A Ramos
+IEEE Transactions on Power Systems 26 (3), 1338-1348
+75
+2011
+The new challenges to transmission expansion planning. Survey 
+of recent practice and literature review
+S Lumbreras, A Ramos
+Electric Power Systems Research 134, 19-29
+73
+2016
+Impact of residential demand response on power system 
+operation: A Belgian case study
+B Dupont, K Dietrich, C De Jonghe, A Ramos, R Belmans
+Applied Energy 122, 1-10
+71
+2014
+Optimal design of the electrical layout of an offshore wind farm 
+applying decomposition strategies
+S Lumbreras, A Ramos
+IEEE Transactions on Power Systems 28 (2), 1434-1441
+69
+2013
+An MIP formulation for joint market-clearing of energy and 
+reserves based on ramp scheduling
+G Morales-España, A Ramos, J García-González
+IEEE Transactions on Power Systems 29 (1), 476-488
+65
+2014
+Clustering algorithms for scenario tree generation: Application to 
+natural hydro inflows
+JM Latorre, S Cerisola, A Ramos
+European Journal of Operational Research 181 (3), 1339-1353
+61
+2007
+A generation operation planning model in deregulated electricity 
+markets based on the complementarity problem
+M Rivier, M Ventosa, A Ramos, F Martínez-Córcoles, ÁC Toscano
+Complementarity: Applications, Algorithms and Extensions, 273-295
+61
+2001
+56
+2012
+
+-----
+TITLE
+CITED BY
+YEAR
+Stochastic dual dynamic programming applied to nonconvex 
+hydrothermal models
+S Cerisola, JM Latorre, A Ramos
+European Journal of Operational Research 218 (3), 687-697
+A nonlinear programming approach to optimal static generation 
+expansion planning
+A Aguilera
+IEEE Transactions on Power Systems 4 (3)
+50
+1989
+Tight MIP formulations of the power-based unit commitment 
+problem
+G Morales-España, C Gentile, A Ramos
+OR spectrum 37 (4), 929-950
+49
+2015
+An MCP approach for hydrothermal coordination in deregulated 
+power markets
+M Ventosa, M Rivier, A Ramos, A García-Alcalde
+Power Engineering Society Summer Meeting, 2000. IEEE 4, 2272-2277
+42
+2000
+Stochastic unit commitment considering uncertain wind 
+production in an isolated system
+K Dietrich, J Latorre, L Olmos, A Ramos, I Perez-Arriaga
+4th Conference on Energy Economics and Technology, 1-6
+41
+2009
+The impact of European balancing rules on wind power 
+economics and on short-term bidding strategies
+JP Chaves-Ávila, RA Hakvoort, A Ramos
+Energy Policy 68, 383-393
+35
+2014
+Modelos matemáticos de optimización
+A Ramos, P Sánchez, JM Ferrer, J Barquín, P Linares
+Publicación Técnica 1
+35
+2010
+Short-term strategies for Dutch wind power producers to reduce 
+imbalance costs
+JP Chaves-Ávila, RA Hakvoort, A Ramos
+Energy Policy 52, 573-582
+33
+2013
+Investigación operativa y optimización
+A Ramos
+Universidad Pontificia Comillas
+33
+1993
+Automatic selection of candidate investments for Transmission 
+Expansion Planning
+S Lumbreras, A Ramos, P Sánchez
+International Journal of Electrical Power & Energy Systems 59, 130-140
+31
+2014
+Mathematical programming approach to underground timetabling 
+problem for maximizing time synchronization
+A Ramos, MT Pena, A Fernández, P Cucala
+Dirección y Organización, 88-95
+31
+2008
+
+-----
+TITLE
+CITED BY
+YEAR
+A tight MIP formulation of the unit commitment problem with 
+start-up and shut-down constraints
+C Gentile, G Morales-España, A Ramos
+EURO Journal on Computational Optimization 5 (1-2), 177-201
+29
+2017
+Modelling and assessing the impacts of self supply and market-
+revenue driven Virtual Power Plants
+K Dietrich, JM Latorre, L Olmos, A Ramos
+Electric Power Systems Research 119, 462-470
+29
+2015
+Offshore wind farm electrical design: a review
+S Lumbreras, A Ramos
+Wind Energy 16 (3), 459-473
+29
+2013
+Tight and compact MIP formulation of configuration-based 
+combined-cycle units
+G Morales-España, CM Correa-Posada, A Ramos
+IEEE Transactions on Power Systems 31 (2), 1350-1359
+28
+2016
+Strategic unit commitment for generation in deregulated 
+electricity markets
+A Baíllo, M Ventosa, A Ramos, M Rivier, A Canseco
+The next generation of electric power unit commitment models, 227-248
+28
+2002
+Demand response and its sensitivity to participation rates and 
+elasticities
+K Dietrich, JM Latorre, L Olmos, A Ramos
+Energy Market (EEM), 2011 8th International Conference on the European, 
+717-716
+27
+2011
+Modelos matemáticos de optimización
+P Linares, A Ramos, P Sánchez, Á Sarabia, B Vitoriano
+Madrid: Universidad Pontificia de Comillas
+24
+2001
+Power-capacity and ramp-capability reserves for wind integration 
+in power-based UC
+G Morales-España, R Baldick, J García-González, A Ramos
+IEEE Transactions on Sustainable Energy 7 (2), 614-624
+23
+2016
+Multi-area decentralized optimal hydro-thermal coordination by 
+the Dantzig-Wolfe decomposition method
+JC Enamorado, A Ramos, T Gomez
+Power Engineering Society Summer Meeting 4, 16-20
+23
+2000
+PEV storage in multi-bus scheduling problems
+I Momber, G Morales-España, A Ramos, T Gómez
+IEEE Transactions on Smart Grid 5 (2), 1079-1087
+21
+2014
+Transmission expansion planning using an efficient version of 
+Benders' decomposition. A case study
+S Lumbreras, A Ramos
+PowerTech (POWERTECH), 2013 IEEE Grenoble, 1-7
+19
+2013
+
+-----
+TITLE
+CITED BY
+YEAR
+Strategic bidding in a competitive electricity market: a 
+decomposition approach
+Á Baíllo, M Ventosa, M Rivier, A Ramos
+Power Tech Proceedings, 2001 IEEE Porto 1, 6 pp. vol. 1
+17
+2001
+Modelling profit maximisation in deregulated power markets by 
+equilibrium constraints
+M Ventosa, A Ramos, M Rivier
+13th PSCC Conference, Norway 1, 231-237
+17
+1999
+Impact on reserves and energy delivery of current UC-based 
+market-clearing formulations
+G Morales-España, J García-González, A Ramos
+European energy market (EEM), 2012 9th international conference on the, 1-7
+16
+2012
+Multi-area regional interconnection planning under uncertainty
+JC Enamorado, T Gómez, A Ramos
+Proc. 13th Power Syst. Comput. Conf. Trondheim, 599-606
+16
+1999
+An operational state aggregation technique for transmission 
+expansion planning based on line benefits
+Q Ploussard, L Olmos, A Ramos
+IEEE Transactions on Power Systems 32 (4), 2744-2755
+15
+2017
+Analysis of stochastic problem decomposition algorithms in 
+computational grids
+JM Latorre, S Cerisola, A Ramos, R Palacios
+Annals of Operations Research 166 (1), 355
+15
+2009
+Benders decomposition for mixed-integer hydrothermal problems 
+by Lagrangean Relaxation
+S Cerisola, A Ramos
+Universidad Pontificia Comillas. Instituto de Investigación Tecnológica …
+15
+2002
+A progressive contingency incorporation approach for stochastic 
+optimization problems
+S Lumbreras, A Ramos, S Cerisola
+IEEE Transactions on Power Systems 28 (2), 1452-1460
+14
+2013
+Modeling medium term hydroelectric system operation with large-
+scale penetration of intermittent generation
+A Ramos, L Olmos, JM Latorre, IJ Perez-Arriaga
+Proc. XIV Latin and Iberian Conf. Operations Research (CLAIO 2008), 9-12
+14
+2008
+Optimización estocástica
+A Ramos, S Cerisola
+Pontificia Universidad COMILLAS de Madrid
+14
+2005
+Generating scenario trees for hydro inflows
+B Vitoriano, S Cerisol, A Ramos
+Proceedings of the 6th International Conference Probabilistic Methods …
+14
+2000
+13
+2016
+
+-----
+TITLE
+CITED BY
+YEAR
+CCGT unit commitment model with first-principle formulation of 
+cycling costs due to fatigue damage
+S Wogrin, D Galbally, A Ramos
+Energy 113, 227-247
+Estimating the benefits of transmission expansion projects: An 
+Aumann-Shapley approach
+F Banez-Chicharro, L Olmos, A Ramos, JM Latorre
+Energy 118, 1044-1054
+12
+2017
+Smart charging profiles for electric vehicles
+F Banez-Chicharro, JM Latorre, A Ramos
+Computational Management Science 11 (1-2), 87-110
+12
+2014
+Transmission Expansion Planning in the presence of wind farms 
+with a mixed AC and DC power flow model using an Imperialist 
+Competitive Algorithm
+M Moradi, H Abdi, S Lumbreras, A Ramos, S Karimi
+Electric Power Systems Research 140, 493-506
+11
+2016
+A Benders' decomposition approach for optimizing the electric 
+system of offshore wind farms
+S Lumbreras, A Ramos
+PowerTech, 2011 IEEE Trondheim, 1-8
+11
+2011
+Modeling inflow uncertainty in electricity markets: A stochastic 
+MCP approach
+M Ventosa, A García-Alcalde, A Mencía, M Rivier, A Ramos
+6 th International Conference on Probabilistic Methods Applied to Power 
+Systems
+11
+2000
+How to solve the transmission expansion planning problem 
+faster: acceleration techniques applied to Benders’  
+decomposition
+S Lumbreras, A Ramos
+IET Generation, Transmission & Distribution 10 (10), 2351-2359
+10
+2016
+A medium term bulk production cost model based on 
+decomposition techniques
+A Ramos, L Muñoz, F Martínez Córcoles, V Martín-Corrochano
+Stockholm Power Tech, 110-116
+10
+1995
+An improved version of the model JUANAC: Applications to 
+network adequacy and economic studies in large interconnected 
+power systems
+M Rivier, JI Pérez-Arriaga, P Sánchez, A Ramos, T Gómez
+Proceedings of the 4th Probabilistic Methods Applied to Power Systems …
+10
+1994
+Static models for long-term transmission planning
+G Latorre, IJ Pérez-Arriaga, A Ramos, J Román
+Proc. 1st Spanish-Portuguese Conf. Elect. Eng.
+10
+1993
+
+-----
+TITLE
+CITED BY
+YEAR
+Internalisation of externalities into energy decision-making: A 
+model for the social optimisation of the operation of electrical 
+power systems
+P Linares, L Muñoz, A Ramos, J Montes
+2nd Atlantic Workshop on Energy and Environmental Economics. Isla de la 
+Toja …
+9
+2006
+Node aggregation in stochastic nested Benders decomposition 
+applied to hydrothermal coordination
+S Cerisola, A Ramos
+6th International Conference on Probabilistic Methods Applied to Power …
+9
+2000
+Strategic bidding under uncertainty in a competitive electricity 
+market
+A Baillo, M Ventosa, M Rivier, A Ramos
+Proc. 6th International Conference on Probabilistic Methods Applied to 
+Power …
+9
+2000
+PERLA: A static model for long-term transmission planning
+– Modeling options and suitability analysis
+G Latorre, A Ramos, IJ Pérez-Arriaga, JF Alonso, A Sáiz
+Proc. 2nd Spanish-Portuguese Conf. Elect. Eng.
+9
+1991
+Perla: An optimization model for long term expansion planning of 
+electric power transmission networks
+JF Alonso, A Sáiz, L Martín, G Latorre, A Ramos, IJ Pérez-Arriaga
+Red Eléctrica de España SA
+9
+1991
+Profit-maximization generation maintenance scheduling through 
+bi-level programming
+P Mazidi, Y Tohidi, A Ramos, MA Sanz-Bobi
+European Journal of Operational Research 264 (3), 1045-1057
+8
+2018
+Optimal transmission network expansion planning in real-sized 
+power systems with high renewable penetration
+S Lumbreras, A Ramos, F Banez-Chicharro
+Electric Power Systems Research 149, 76-88
+8
+2017
+Modeling the operation of electric vehicles in an operation 
+planning model
+A Ramos, JM Latorre, F Báñez, Á Hernández, G Morales-España, ...
+17th Power systems computation conference—
+PSCC 11
+8
+2011
+Beneficiaries of transmission expansion projects of an expansion 
+plan: An Aumann-Shapley approach
+F Banez-Chicharro, L Olmos, A Ramos, JM Latorre
+Applied energy 195, 382-401
+7
+2017
+A decision support model for weekly operation of hydrothermal 
+systems by Stochastic Nonlinear Optimization
+A Ramos, S Cerisola, JM Latorre, R Bellido, A Perea, E Lopez
+Stochastic Optimization Methods in Finance and Energy, 143-161
+7
+2011
+
+-----
+TITLE
+CITED BY
+YEAR
+Strategies to fulfill medium-term objectives through short-term 
+operation in competitive power markets
+J Reneses, A Baíllo, E Centeno, M Ventosa, M Rivier, A Ramos
+Power Tech Conference Proceedings, 2003 IEEE Bologna 2, 7 pp. Vol. 2
+7
+2003
+State-of-the-art status on transmission networks planning
+IJ Pérez-Arriaga, T Gomez, A Ramos
+Instituto de Investigación Tecnológica, Madrid, Spain
+7
+1987
+Evaluation of the Impact of Solar Thermal Generation on the 
+Reliability and Economics of an Electrical Utility System
+AJ Conejo, A Ramos, IJ Pérez-Arriaga, A Santamarıa
+IEEE Mediterranean Electrotechnical Conference. MELECON 85 (4), 167-173
+7
+1985
+Large-scale transmission expansion planning: from zonal results 
+to a nodal expansion plan
+S Lumbreras, A Ramos, F Banez-Chicharro, L Olmos, P Panciatici, ...
+IET Generation, Transmission & Distribution 11 (11), 2778-2786
+6
+2017
+Network partition based on critical branches for large-scale 
+transmission expansion planning
+S Lumbreras, A Ramos, L Olmos, F Echavarren, F Banez-Chicharro, ...
+PowerTech, 2015 IEEE Eindhoven, 1-6
+6
+2015
+Coordinated hydropower plant simulation for multireservoir 
+systems
+JM Latorre, S Cerisola, A Ramos, A Perea, R Bellido
+Journal of Water Resources Planning and Management 140 (2), 216-227
+6
+2014
+Rail Infrastructure Manager Problem: Analyzing Capacity Pricing 
+and Allocation in Shared Railway System
+M Pena-Alcaraz, MD Webster, A Ramos, JM Sussman
+Massachusetts Institute of Technology. Engineering Systems Division
+6
+2014
+The role of flexible demands in smart energy systems
+K Dietrich, JM Latorre, L Olmos, A Ramos
+Optimization and Security Challenges in Smart Power Grids, 79-97
+6
+2013
+Optimización bajo incertidumbre
+A Ramos, A Alonso-Ayuso, G Pérez
+Universidad Pontificia Comillas
+6
+2011
+An approximate dynamic programming approach for designing 
+train timetables
+M Pena Alcaraz, M Webster, A Ramos
+Massachusetts Institute of Technology. Engineering Systems Division
+6
+2011
+Security constrained unit commitment using line outage 
+distribution factors
+DA Tejada-Arango, P Sánchez-Martın, A Ramos
+IEEE Transactions on Power Systems 33 (1), 329-337
+5
+2018
+5
+2017
+
+-----
+TITLE
+CITED BY
+YEAR
+Combining economic and fluid dynamic models to determine the 
+optimal spacing in very large wind farms
+RJAM Stevens, BF Hobbs, A Ramos, C Meneveau
+Wind energy 20 (3), 465-477
+Creation of hydroelectric system scheduling by simulation
+JM Latorre, S Cerisola, A Ramos, R Bellido, A Perea
+Complex Decision Making, 83-96
+5
+2008
+Modelos de sitemas de energia eléctrica
+M Ventosa, A Ramos
+Internet: http:/ / www. iit. comillas. edu/ aramos/ presentaciones/ Tema%
+ 20M5 …
+5
+2006
+An iterative algorithm for profit maximization by market 
+equilibrium constraints
+A Ramos, M Ventosa, M Rivier, A Santamaría
+Proc. 14 Power Syst. Comput. Conf.
+5
+2002
+Bidding in a day-ahead electricity market: a comparison of 
+decomposition techniques
+A Baillo, M Ventosa, M Rivier, A Ramos, G Relaño
+Proc. of 14th PSCC
+5
+2002
+Capacity pricing schemes to implement open-access rail in 
+Tanzania
+M Pena-Alcaraz, JI Perez-Arriaga, JM Sussman
+Massachusetts Institute of Technology. Engineering Systems Division
+4
+2014
+Adequate regulation reserve levels in systems with large wind 
+integration using demand response
+K Dietrich, JM Latorre, L Olmos, A Ramos
+11th IAEE European Conference-Energy Economy, Policies and Supply 
+Security …
+4
+2010
+A long-term prospective for the Spanish electricity system
+C Fernandes, P Frías, L Olmos, A Ramos, T Gómez
+Energy Market (EEM), 2010 7th International Conference on the European, 
+1-6
+4
+2010
+A decision support system for generation planning and operation 
+in electricity markets
+A Ramos, S Cerisola, JM Latorre
+Handbook of Power Systems II, 315-335
+4
+2010
+A further step in decision support models for energy markets
+A Ramos, I Adler
+European Journal of Operational Research 181 (3), 1243-1244
+4
+2007
+An algorithm for the mid-term forecast and scenario generation of 
+natural gas and fuel oil prices
+E Gómez-Villalva, A Ramos
+IEEE Transactions on Power Systems, 00124-2004
+4
+2004
+*
+
+-----
+TITLE
+CITED BY
+YEAR
+Modelos matemáticos de optimización
+A Baíllo, P Linares, A Ramos, P Sánchez, A Sarabia, B Vitoriano
+Escuela Técnica Superior de Ingeniería. Universidad Pontificia Comillas. 
+Madrid
+4
+2004
+Gestión Energética Óptima de un Consumidor Industrial de 
+Vapor y Electricidad en Mercados Liberalizados
+E Gómez
+Tesis para Grado de Doctor. Universidad Pontificia Comillas de Madrid …
+4
+2004
+Revisión de las Tendencias de Modelado de la Explotación de la 
+Generación en Mercados de Generación Eléctrica
+M Ventosa, M Rivier, A Ramos
+Instituto de Investigación Tecnológica (Universidad Pontificia de Comillas)
+4
+2000
+Integrated model for capacity planning for manufacturing systems
+A Ramos
+March
+4
+1992
+Security of supply in a carbon-free electric power system: The 
+case of Iceland
+P Duenas, A Ramos, K Tapia-Ahumada, L Olmos, M Rivier, ...
+Applied Energy 212, 443-454
+3
+2018
+Real options valuation applied to transmission expansion 
+planning
+S Lumbreras, DW Bunn, A Ramos, M Chronopoulos
+Quantitative Finance 16 (2), 231-246
+3
+2016
+Optimización bajo incertidumbre
+AR Galán, A Alonso-Ayuso, GPS de Rozas
+Universidad Pontificia Comillas
+3
+2009
+Stochasticity in electric energy systems planning
+A Ramos, S Cerisola, Á Baíllo, JM Latorre
+Coping with Uncertainty, 217-239
+3
+2006
+Risk management and stochastic optimization for industrial 
+consumers
+E Gómez-Villalva, A Ramos
+IEEE Transactions on Power Systems
+3
+2004
+Chronological stochastic simulation of medium-and long-term 
+optimal operation using a multilevel hierarchical model
+E Centeno, A Ramos, F Cuadra
+6th PMAPS, Madeira
+3
+2000
+Linear Programming
+A Ramos, P Sánchez, S Wogrin
+3
+1994
+Expansion planning of the North Sea offshore grid: Simulation of 
+integrated governance constraints
+JG Dedecca, S Lumbreras, A Ramos, RA Hakvoort, PM Herder
+2
+2018
+
+-----
+TITLE
+CITED BY
+YEAR
+Energy Economics 72, 376-392
+Cooperation under uncertainty: Assessing the value of risk 
+sharing and determining the optimal risk-sharing rule for agents 
+with pre-existing business and diverging risk attitudes
+Y Melese, S Lumbreras, A Ramos, R Stikkelman, P Herder
+International Journal of Project Management 35 (3), 530-540
+2
+2017
+Assessment of operation reserves in hydrothermal electric 
+systems with high wind generation
+A Ramos, M Rivier, J Garcia-Gonzalez, JM Latorre, G Morales-España
+European Energy Market (EEM), 2016 13th International Conference on the, 
+1-5
+2
+2016
+Train Timetable Design for Shared Railway Systems using a 
+Linear Programming Approach to Approximate Dynamic 
+Programming
+M Peña-Alcaraz, M Webster, A Ramos
+Massachusetts Institute of Technology. Engineering Systems Division
+2
+2014
+Impact of renewable energy sources in short-term generation 
+planning
+A Ramos
+ESD. S30: Electric Power System Modeling for the Low-Carbon Economy
+2
+2014
+Analysis of the impact of increasing shares of electric vehicles on 
+the integration of res generation
+A Ramos, K Dietrich, F Banez-Chicharro, L Olmos, JM Latorre
+Use, Operation and Maintenance of Renewable Energy Systems, 371-385
+2
+2014
+Tight and compact MILP formulations for unit commitment 
+problems
+G Morales-España, JM Latorre, J García-Gonzalez, A Ramos
+FERC Technical Conference on Increasing Real-Time And Day-Ahead 
+Market …
+2
+2013
+Simulation application to hydropower systems management and 
+design in a market environment
+A Perea, JM Latorre, A Ramos, S Cerisola, R Bellido, E López
+Energy Market (EEM), 2010 7th International Conference on the European, 
+1-6
+2
+2010
+Economic impact of plug-in hybrid electric vehicles on power 
+systems operation
+C Fernandes, P Frías, L Olmos, A Ramos, T Gómez
+Thirty third IAEE international conference, Rio de Janeiro, Brazil
+2
+2010
+Universidad Pontificia Comillas
+A Ramos
+Recuperado el 18
+2
+2010
+Sequential Stochastic Unit Commitment for Large-Scale 
+Integration of RES and Emerging Technologies
+2
+2009
+
+-----
+TITLE
+CITED BY
+YEAR
+A Ramos, K Dietrich, JM Latorre, L Olmos, IJ Pérez-Arriaga
+20th International Symposium of Mathematical Programming (ISMP) Chicago, 
+USA …
+Simulation applications to hydropower systems management and 
+design
+A Perea, JM Latorre, A Ramos, S Cerisola, R Bellido, E Lopez
+11ª  Conferencia Hispano-Lusa de Ingeniería Eléctrica. Zaragoza, Spain
+2
+2009
+Optimización bajo Incertidumbre Universidad Pontificia Comillas
+A Ramos, A Alonso-Ayuso, G Pérez
+Madrid, España
+2
+2008
+Optimización Estocástica
+R Andrés, C Santiago
+Universidad Pontificia Comillas. Madrid-Espana
+2
+2007
+Teoría de la Decisión: Decisión con Incertidumbre, Decisión 
+Multicriterio y Teoría de Juegos
+P Linares, A Ramos, P Sánchez, A Sarabia, V Begoña
+Universidad Pontificia Comillas, Madrid, 41-44
+2
+2006
+A FINITE BENDERS DECOMPOSITION ALGORITHM FOR 
+MIXED INTEGER PROBLEMS. RESOLUTION THROUGH 
+PARAMETRIC BRANCH AND BOUND
+S Cerisola, A Ramos, A Aguilera
+Instituto de Investigación Tecnológica. Universidad Pontificia de Comillas …
+2
+2001
+MARGEN: Un modelo para estudios estratégicos de la 
+expansión y explotación de la generación
+C Meseguer, JIP Arriaga, G De Cuadra, A Ramos, EG Viñas, FP Thoden
+IV Portuguese-Spanish Conference on Electrical Engineering, Oporto
+2
+1995
+Direct computation of derivatives in production cost models 
+based on probabilistic simulation
+A Ramos, L Muñoz-Moro, IJ Pérez-Arriaga
+Conference on Probabilistic Methods Applications in Power Systems, PMAPS-
+94 …
+2
+1994
+A probabilistic production cost model with optimization of the 
+loading order
+A Ramos, IJ Pérez-Arriaga, JR Ubeda
+Probabilistic Methods Applied to Electric Power Systems, 1991., Third …
+2
+1991
+Storage Plants Energy Optimization in Probabilistic Production 
+Cost Models
+A Ramos, J Arrojo, A Aguilera, B Murillo
+Instituto de Investigación Tecnológica
+2
+1991
+An efficient network reduction method for transmission expansion 
+planning using multicut problem and Kron reduction
+Q Ploussard, L Olmos, A Ramos
+IEEE Transactions on Power Systems
+1
+2018
+
+-----
+TITLE
+CITED BY
+YEAR
+How can the renewables targets be reached cost-effectively?  
+Policy options for the development of renewables and the 
+transmission grid
+A Held, M Ragwitz, F Sensfuß , G Resch, L Olmos, A Ramos, M Rivier
+Energy Policy 116, 112-126
+1
+2018
+A benefit-based methodology to rank transmission expansion 
+projects
+F Báñez Chicharro, L Olmos Camacho, A Ramos Galán, ...
+1
+2016
+Impact of support schemes and market rules on renewable 
+electricity generation and system operation: the Spanish case
+JP Chaves-Avila, F Banez-Chicharro, A Ramos
+IET Renewable Power Generation 11 (3), 238-244
+1
+2016
+Node Aggregation in Stochastic Nested Benders Decomposition 
+Applied to Hydrothermal Coordination
+A Ramos, S Cerisola
+PMAPS-Probabilistic Methods Applied to Power Systems
+1
+2013
+Analysis of the Performance of Benders-based Distributed 
+Decomposition Methods for Linear Stochastic Programming
+JM Latorre, R Palacios, A Ramos
+Internal Document Ref No: IIT12016A, Institute for Research in Technology
+1
+2012
+Impact of balancing rules on wind power economics in Belgium, 
+Denmark, Germany and the Netherlands
+JP Chaves-Ávila, RA Hakvoort, A Ramos
+Working Paper
+1
+2012
+How can the use of electric vehicles affect the curtailment of 
+renewable generation?
+K Dietrich, JM Latorre, L Olmos, A Ramos
+6th Conference on Energy Economics and Technology
+1
+2011
+High Wind Integration and Demand Response in an Isolated 
+System
+K Dietrich, JM Latorre, L Olmos, A Ramos
+IEEE Transactions on Power Systems (Submitted for Publication)
+1
+2010
+Internacionalización de externalidades medioambientales en 
+sistemas eléctricos: una aplicación para España
+PL Llamas
+Economía industrial, 149-162
+1
+2007
+Stochastic integer programming solution through a 
+convexification method
+S Cerisola, JM Latorre, A Ramos
+Working paper IIT-07-031A, Instituto de Investigación Tecnológica …
+1
+2007
+Goal programming approach to maintenance scheduling of 
+generating units in large scale power systems
+1
+1999
+
+-----
+TITLE
+CITED BY
+YEAR
+L Munoz Moro, A Ramos
+IEEE Transactions on Power Systems 14, 1021-1028
+Mejoras en la aplicación de técnicas de reducción de varianza a 
+la planificación probabilista de la red de transporte a medio plazo
+P Sánchez-Martín, A Ramos
+5ª  Jornadas Hispano-Lusas de Ingeniería Eléctrica, 837-844
+1
+1999
+Internalization of externalities into energy decision-making: A 
+model for the social optimization of the operation of electricity 
+systems
+P Linares, J Montes, A Ramos, SC de Marcenado, L Muñoz, SA Iberdrola
+Sta Cruz de Marcenado: Instituto de Tnvestigación Tecnologica, 0-25
+1
+1998
+Computational Experience with Optimization for a Bulk 
+Production Cost Model
+A Ramos, L Munoz, I Rupérez, F Martínez Córcoles, V Martín Corrochano
+12th PSCC
+1
+1996
+Modelos de explotación en sistemas eléctricos de potencia
+A Ramos
+Instituto de Investigación Tecnológica Escuela Técnica Superior de …
+1
+1992
+PERLA: Un modelo de planificación estálica a largo plazo de la 
+red de transporte. Opciones de modelado y análisis de idoneidad
+G Latorre-Bayona, A Ramos, JI Pérez-Arriaga, JF Alonso, A Sáiz, ...
+II Jornadas Hispano-lusas de Ingeniería Eléctrica
+1
+1991
+Modelado de las pérdidas óhmicas de transporte en modelos de 
+explo-tación generación/ red a medio plazo
+M Rey, ARP Sánchez-Martín, FMCVM Corrochano
+5ª  Jornadas Hispano-Lusas de Ingeniería Eléctrica, 885-891
+1
+Object oriented simulation and optimization of hydroelectric 
+power systems
+JM Latorre, S Cerisola, A Ramos
+Transactions on Institute of Investigation Tecnology (IIT)
+1
+A Complex-Network Approach to the Generation of Synthetic 
+Power Transmission Networks
+R Espejo, S Lumbreras, A Ramos
+IEEE Systems Journal, 1-4
+2018
+Analysis of transmission-power-grid topology and scalability, the 
+European case study
+R Espejo, S Lumbreras, A Ramos
+Physica A: Statistical Mechanics and its Applications
+2018
+NAVIGATING THE ROADMAP FOR CLEAN, SECURE AND 
+EFFICIENT ENERGY INNOVATION
+PC del Granado, H Marañon, CSN Ledesma, B Gjorgiev, G Sansavini, ...
+2018
+2018
+
+-----
+TITLE
+CITED BY
+YEAR
+NAVIGATING THE ROADMAP FOR CLEAN, SECURE AND 
+EFFICIENT ENERGY INNOVATION
+F Holz, T Scherwath, C Skar, H Maranon-Ledesma, PC del Granado, ...
+Generation reliability
+A Ramos
+2017
+Expansion Governance Simulation for the Northern Seas 
+Offshore Grid
+JG Dedecca, R Hakvoort, P Herder, S Lumbreras, A Ramos
+Meeting the Energy Demands of Emerging Economies, 40th IAEE 
+International …
+2017
+NAVIGATING THE ROADMAP FOR CLEAN, SECURE AND 
+EFFICIENT ENERGY INNOVATION
+S Lumbreras, L Olmos, A Ramos, Q Ploussard, F Sensfuss, G Deac, ...
+2017
+Stochastic Optimization
+A Ramos
+2016
+Enhanced pan-European transmission planning methodology
+C Pache, J Maeght, B Seguinot, A Zani, S Lumbreras, A Ramos, ...
+Power & Energy Society General Meeting, 2015 IEEE, 1-5
+2015
+Modular plan over 2030-2050 for the European transmission 
+system: a complete analysis of costs and benefits
+F Careri, D Huang, TK Vrana, M Gronau, V Viscardi, D van Hertem, ...
+2015
+e-HIGHWAY 2050
+G Migliavacca, S Rossi, FC RSE, L Olmos, A Ramos, M Rivier, ...
+2014
+A Tight MIP Formulation of the Unit Commitment Problemwith 
+Start-up and Shut-down Constraints
+C Gentile, G Morales-España, A Ramos
+2014
+Robustifi ed Reserve Modelling for Wind PowerIntegration in 
+Ramp-Based Unit Commitment
+G Morales-España, R Baldick, J García-González, A Ramos
+2014
+Economic impact analysis of the demonstrations in task-forces 
+TF1 and TF3-Deliverable D15. 1: WP15. Economic impacts of 
+the demonstrations, barriers towards scaling up and …
+J García-González, A Contreras, C Formozo, M Vallés, E Rivero, E Lobato, ...
+2014
+Optimization of AC Electric Power Systems of Offshore Wind 
+Farms
+M Banzo, A Ramos
+Handbook of Wind Power Systems, 747-771
+2013
+Tight and Compact MILP Formulation of Start
+G Morales-España, JM Latorre, A Ramos
+2012
+
+-----
+TITLE
+CITED BY
+YEAR
+Applied Mathematics in the Electricity Industry Management
+A Ramos
+2012
+Engineers, Part F: Journal of Rail and Rapid
+M Peña-Alcaraz, A Fernández, AP Cucala, A Ramos, RR Pecharromán
+Proceedings of the Institution of Mechanical Engineers, Part F: Journal of …
+2012
+Stochastic unit commitment considering uncertain wind 
+production in an isolated system
+L Olmos, K Dietrich, JM Latorre, A Ramos, IJ Perez-Arriaga
+2009
+Introduction to the special issue on APMOD06
+A Alonso-Ayuso, LF Escudero, A Ramos
+Annals of Operations Research 166 (1), 1-4
+2009
+Applied Mathematical Programming and Modelling (ADMOD06)
+A Alonso-Ayuso, LF Escudero, A Ramos
+Springer
+2009
+Optimización bajo incertidumbre. Biblioteca Comillas
+A Ramos, A Alonso-Ayuso, G Pérez
+Publicaciones de la Universidad Pontificia Comillas, España
+2008
+Optimal Location and Management of a Biomass Inventory 
+Facility
+PS Martín, A Ramos
+XI Congreso de Ingeniería de Organización, 0843-0852
+2007
+The integration of environmental externalisation into electricity 
+systems: the Spanish application
+P Linares, L Munoz, A Ramos, J Montes
+Economia Industrial 365, 149-162
+2007
+Análisis de la relación precio marginal y demanda de electricidad 
+mediante conglomerados
+A Ramos, G Cortés, JM Latorre, S Cerisola
+X Congreso de Ingeniería de Organización
+2006
+Equilibrado de puestos de cadenas de montaje en producción 
+por lotes
+PS Martín, SL de Haro, A Ramos
+X Congreso de Ingeniería de Organización
+2006
+Agregación de nodos en descomposición anidada estocástica de 
+benders
+S Cerisola, A Ramos
+XXV Congreso Nacional de Estadística e Investigación Operativa: Vigo, 4-7 
+de …
+2000
+Mejoras computacionales en descomposición anidada 
+estocástica de Benders
+A Ramos, S Cerisola
+2000
+
+-----
+TITLE
+CITED BY
+YEAR
+METODOLOGÍ AS Y MODELOS DE PLANIFICACIÓN DEL 
+EQUIPO GENERADOR
+A Ramos, M Ventosa
+1996
+Classification and Comparison Criteria for Generation Production 
+Cost Models
+A Ramos, IJ Pérez-Arriaga
+1991
+Assessment of the availability impact of limiting conditions for 
+operation in nuclear power plants
+S Garcia, IJ Perez-Arriaga, A Ramos, MJ Rodeno, MA Sanchez-Fornie
+Proceedings of the 13th inter-ram conference
+1986
+GENETIC ALGORITHM MODEL FOR PROFIT MAXIMIZATION 
+OF GENERATING COMPANIES IN DEREGULATED 
+ELECTRICITY MARKETS
+S Cerisola, Á Baíllo, JM Fernández-López, A Ramos, R Gollmer
+IEEE Transactions on Sustainable Energy 6 (4)
+Go to Section
+S Cerisola, Á Baíllo, JM Fernández-López, A Ramos, R Gollmer
+European Journal of Operational Research 271 (3)
+Métodos Cuantitativos para la Decisión 2018-19
+A Ramos, S Wogrin, CÓ Sorzano, J Herrera, P Moreno
+“ Decision support models in the electric
+A Ramos
+Impact of Renewables on System Operation in Practice
+A Ramos
+Medium Term Stochastic Hydrothermal Coordination Model
+A Ramos
+of the session Electric Power System Modeling for a Low-Carbon 
+Economy
+A Ramos
+Guest Editorial Special Section on Reserve and Flexibility for 
+Handling Variability and Uncertainty of Renewable 
+Generation.......................... JPS Catalao, J. Contreras …
+G Morales-Espana, R Baldick, J Garcıa-González, A Ramos
+Mathematical programming approach to underground timetabling 
+for maximizing the use of regenerative braking power
+A Ramos, MT Peña, A Fernández, P Cucala
+Parameters 2 (2), 2
+New Methodology for Long-Term Transmission Grid Planning
+– General Description
+C Pache, J Maeght, B Seguinot, A Zani, S Lumbreras, A Ramos, ...
+
+-----
+TITLE
+CITED BY
+YEAR
+Demand Response Mechanism Design and the Impact of Crucial 
+Parameters on its Effectiveness
+K Dietrich, JM Latorre, L Olmos, A Ramos
+Gestión de operaciones 2013-14
+A Ramos
+MPO: A tool for hydrothermal scheduling and pricing in a 
+competitive framework
+ARMRM Ventosa, MRSCL Palacios, A Aguilera
+A tool for hydro energy scheduling and bidding in the Spanish 
+framework
+ARMRM Ventosa, SALPM Rey, A Aguilera
+Max/ Min Output Polytopes Including Startup and Shutdown 
+Capabilities: The Case of The Unit Commitment Problem
+G Morales-España, A Ramos
+Medium-term Hydro-scheduling in Iberdrola
+A Perea, R Bellido, P Sanz, E López, JM Latorre, A Ramos, S Cerisola
+A Two-Stage Stochastic Model for Energy Contracting Decisions 
+of an Industrial Consumer
+E Gómez-Villalva, A Ramos
+Hydroelectric System Scheduling by Simulation
+JM Latorre, S Cerisola, A Ramos, R Bellido, A Perea
+Course: Mathematical Methods
+A Ramos
+PROGRAMACIÓN MATEMÁTICA: Métodos de optimización
+B Vitoriano, A Ramos
+MÉ TODOS MATEMÁTICOS
+B Vitoriano, A Ramos, Á Sarabia
+TO UNDERGROUND TIMETABLING PROBLEM FOR 
+MAXIMIZING TIME SYNCHRONIZATION
+A RAMOS, MT PENA, A FERNANDEZ, P CUCALA
+D IRECCION Y O RGANIZACION, 88
+Modelos de ayuda a la decisión en el sector eléctrico
+A Ramos, M Rivier
+Risk assessment in a contract of energy exchanging
+J Reneses, E Centeno, A Ramos, FP Thoden
+Session 19: Demand-side management
+K Dietrich, JM Latorre, L Olmos, A Ramos, M Bucher, S Koch, ...
+
+-----
+TITLE
+CITED BY
+YEAR
+MODELOS MATEMÁTICOS DE OPTIMIZACIÓN Y 
+SIMULACIÓN
+B Vitoriano, A Ramos, Á Baíllo, Á Sarabia
+Unit Commitment Estratégico para Empresas de Generación: 
+Descomposición por Relajación Lagrangiana
+Á Baíllo, JM Latorre, M Ventosa, M Rivier, A Ramos
+Asignatura: Técnicas de optimización de
+A Ramos
+Simulación de cuencas hidráulicas mediante Programación 
+Orientada a Objetos
+JM Latorre, S Cerisola, A Ramos, A Perea, R Bellido
+Train Timetabling Problem for Complex Railway Systems
+M Peña, A Ramos, A Fernández, AP Cucala
+Asignatura: Investigación Operativa 2014-15
+A Ramos
+Analysis of short-term dynamic behavior of an electricity market
+A Ramos, Á Baíllo, S López, M Rivier, M Ventosa, A Aguilera
+Gestión del riesgo frente a la incertidumbre en las aportaciones 
+hidráulicas en un Mercado Eléctrico mediante el Problema 
+Complementario
+A García-Alcalde, M Ventosa, M Rivier, A Ramos
+Asignatura: Métodos matemáticos 2012-13
+A Ramos, S Wogrin
+A FINITE BENDERS DECOMPOSITION ALGORITHM FOR 
+MIXED IN-TEGER PROBLEMS BY LAGRANGEAN 
+RELAXATION
+S Cerisola, A Ramos, A Aguilera
+Modelado de la Explotación de la Generación a Largo Plazo de 
+Sistemas Eléctricos en Competencia Mediante el Problema 
+Complementario
+M Ventosa, A Ramos, M Rivier, A Bautista, R de Andrés
+Stochastic Dual Dynamic Programming ESD. S30 Electric Power 
+System Modeling for a Low Carbon Economy
+A Ramos
+UN MODELO DE COORDINACIÓN HIDROTÉ RMICA DE 
+CORTO PLAZO MEDIANTE DESCOMPOSICIÓN ANIDADA 
+ESTOCÁSTICA DE BENDERS
+A Ramos, S Cerisola
+
+-----
+TITLE
+CITED BY
+YEAR
+An Improved Version of the Model JUANAC: Applications to 
+Network Adequacy and Economic Studies in Large 
+Interconnected Power Systems
+IJ Pérez-Arriaga, M Rivier, P Sánchez, A Ramos, T Gómez
+Cap. 38. La ingeniería de la decisión como herramienta para la 
+sostenibilidad
+P Linares, A Ramos, P Sánchez
+SEQUENTIAL CUT REFINEMENT METHOD IN MULTISTAGE 
+STOCHASTIC INTEGER PROGRAMMING: APPLICATION TO 
+A UNIT COMMITMENT PROBLEM
+S CERISOLA, Á BAÍ LLO, A RAMOS, R GOLLMER
+
+-----

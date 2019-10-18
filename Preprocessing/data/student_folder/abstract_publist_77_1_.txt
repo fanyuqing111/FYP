@@ -1,0 +1,118 @@
+Thesis Title 
+Active control of noise through open windows 
+ 
+Thesis Abstract 
+Active noise control (ANC) is a noise mitigation technique that preserves natural ventilation in dwellings 
+when applied on domestic windows. ANC systems for open windows mitigates noise at the receivers’ end, 
+which augment solutions that are less effective for urban noise in high-rise cities. The target of the ANC 
+system is to reduce noise that propagates through an open aperture, such as a window, into the interior 
+of a room. This thesis presents a systematic approach to the open window ANC system design to address 
+the complex practical implementation challenges.  
+Firstly, the fundamental limits of the ANC system in controlling noise through an open aperture are 
+determined by numerical simulations. Investigation into the performance of different physical 
+arrangements reveal that the upper limit frequency limit of control is determined by the separation 
+distance between the sources of the planar array, distributed evenly in the aperture. As a result, the 
+minimum number of sources required to achieve good control is generalized for an arbitrary aperture size 
+and the dominant noise incidence angles.  
+Next, an experimental setup with a full-sized domestic window is designed and installed on a room model. 
+A total of 24 control sources of the multiple-input multiple-output (MIMO) ANC system are implemented 
+on a fully opened sliding window. To determine the upper limit of control system performance, different 
+active control algorithms are investigated using measured transfer functions from the 24 channel ANC 
+system. The performance of the real-time 24-channel ANC system in attenuating road traffic noise is 
+determined by the energy-averaged sound pressure levels from 27 microphones in the room interior.  
+Lastly, strategies for practical implementation are discussed. Namely, omission of error microphones from 
+the final design, dealing with residual high frequency noise, and high computational complexity of coupled 
+MIMO ANC systems. 
+ 
+
+-----
+List of Publications 
+ 
+Journals (To be included in Thesis) 
+• 
+Elsevier Applied Acoustics (5Y IF:1.98) 
+o Authors: B Lam, SJ Elliott, J Cheer, W-S Gan 
+o Title: Physical limits on the performance of active noise control through open windows 
+o Submitted in: 30 May 2017 (Under review)  
+o Revised and re-submitted: 1 Dec 2017 
+• 
+Elsevier Building & Environment (5Y IF: 4.464) 
+o Authors: B Lam, C Shi, D Shi, W-S Gan 
+o Title: Active control of sound through full-sized open windows 
+o To be submitted 2nd Week Dec 2017 
+• 
+Elsevier Journal of Sound and Vibration (5Y IF:2.955) 
+o Authors: SJ Elliott, J Cheer, B Lam, W-S Gan 
+o Title: A wavenumber approach to the active control of plane waves with arrays of secondary 
+sources 
+o Submitted in: 9 Jun 2017 (Under review)  
+o Revised and re-submitted: 22 Nov 2017 
+ 
+Magazine Articles (To be included in Thesis) 
+• 
+B. Lam, W.-S. Gan, Active Acoustic Windows: Towards a Quieter Home, IEEE Potentials. 35 (2016) 
+11–18. doi:10.1109/MPOT.2014.2310776. 
+ 
+Conference Papers (To be included in Thesis) 
+• 
+B. Lam, S.J. Elliott, J. Cheer, W. Gan, The Physical Limits of Active Noise Control of Open Windows, 
+in: 12th West. Pacific Acoust. Conf., Singapore, 2015: pp. 184–189. 
+• 
+B. Lam, J. He, T. Murao, C. Shi, W.S. Gan, S.J. Elliott, Feasibility of the Full-Rank Fixed-filter Approach 
+in the Active Control of Noise Through Open Windows, in: INTER-NOISE NOISE-CON Congr. Conf. 
+Proc., Hamburg, Germany, 2016: pp. 3548–3555. 
+• 
+B. Lam, C. Shi, W.-S. Gan, Active noise control systems for open windows: Current updates and 
+future perspectives, in: 24th Int. Congr. Sound Vib. ICSV 2017, 2017. 
+• 
+S. Fasciani, J. He, B. Lam, T. Murao, W.S. Gan, Comparative study of cone-shaped versus flat-panel 
+speakers for active noise control of multi-tonal signals in open windows, in: INTER-NOISE NOISE-CON 
+Congr. Conf. Proc., San Francisco, CA, USA, 2015: pp. 1109–1120. 
+• 
+J. He, B. Lam, T. Murao, R. Ranjan, W.S. Gan, Symmetric design of multiple-channel active noise 
+control systems for open windows, in: INTER-NOISE NOISE-CON Congr. Conf. Proc., 2016. 
+• 
+T. Murao, M. Nishimura, J. He, B. Lam, R. Ranjan, C. Shi, W.-S. Gan, Feasibility study on decentralized 
+control system for active acoustic shielding, in: INTER-NOISE NOISE-CON Congr. Conf. Proc., 2016. 
+
+-----
+• 
+R. Ranjan, J. He, T. Murao, B. Lam, W.S. Gan, Selective Active Noise Control System for Open 
+Windows using Sound Classification, in: INTER-NOISE NOISE-CON Congr. Conf. Proc., 2016: pp. 482–
+492. 
+• 
+C. Shi, T. Murao, D. Shi, B. Lam, W.-S. Gan, Open loop active control of noise through open windows, 
+J. Acoust. Soc. Am. 140 (2016) 3313–3313. doi:10.1121/1.4970553. 
+• 
+J.-Y. Hong, B. Lam, Z.-T. Ong, R. Gupta, W.-S. Gan, S.H. Chong, J. Feng, Suitability of natural sounds to 
+enhance soundscape quality in urban residential areas, in: 24th Int. Congr. Sound Vib. ICSV 2017, 
+2017.  
+• 
+S. Elliott, J. Cheer, B. Lam, C. Shi, W.-S.W. Gan, Controlling Incident Sound Fields With Source Arrays 
+in Free Space and Through Apertures, in: Proc. 24th Int. Congr. Sound Vib., London, UK, 2017: pp. 1–
+7. 
+• 
+J. Hong, B. Lam, Z. Ong, R. Gupta, W. Gan, S.H. Chong, J. Feng, Appropriate levels of natural sounds 
+to enhance soundscapes in urban areas, in: INTER-NOISE NOISE-CON Congr. Conf. Proc., Hong Kong 
+SAR, China, 2017: pp. 49–53. 
+ 
+Journal Papers (Not Included in Thesis) 
+• 
+J. Hong, J. He, B. Lam, R. Gupta, W.-S. Gan, Spatial Audio for Soundscape Design: Recording and 
+Reproduction, Appl. Sci. 7 (2017) 627. doi:10.3390/app7060627. 
+ 
+Conferences Papers (Not Included in Thesis) 
+• 
+R. Gupta, B. Lam, J.-Y. Hong, Z.-T. Ong, W.-S. Gan, S.H. Chong, J. Feng, 3D audio AR/VR capture and 
+reproduction setup for auralization of soundscapes, in: 24th Int. Congr. Sound Vib. ICSV 2017, 2017.  
+• 
+K. Ooi, J. Hong, B. Lam, Z.T. Ong, W. Gan, Validation of binaural recordings with head tracking for 
+use in soundscape evaluation, in: INTER-NOISE NOISE-CON Congr. Conf. Proc., Hong Kong SAR, 
+China, 2017: pp. 63–71. 
+• 
+Z.T. Ong, J.Y. Hong, B. Lam, K. Ooi, R. Gupta, Effect of masker orientation on masking efficacy in 
+soundscape applications, in: INTER-NOISE NOISE-CON Congr. Conf. Proc., Hong Kong SAR, China, 
+2017: pp. 55–61. 
+ 
+
+-----

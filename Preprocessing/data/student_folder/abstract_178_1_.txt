@@ -1,0 +1,41 @@
+Low-Profile Vertically-Polarized Omnidirectional Antennas  
+for V2X Communications 
+ 
+PhD Candidate: LIU Ankang (G1400181H) 
+ 
+Abstract 
+ 
+For many such wireless systems as vehicle-to-everything (V2X) communication, vertically-polarized 
+omnidirectional antennas are desired for the full coverage over the horizontal plane.  For these 
+applications, monopole antenna and its variations are the primary choices. The height of the-state-of-
+the-art monopole based antenna is still too high for many applications. The main objective of this 
+study is to innovate new low-profile vertically-polarized omnidirectional antenna designs with wider 
+bandwidth and higher gain for better V2X communications. Based on literature survey, circular patch 
+antenna (CPA) and monocone antenna are two popular and promising candidates for this study. 
+Therefore, much of the study is devoted to the innovative designs based on these two antenna types.   
+The first design is a low-profile circular-patch antenna with over 3 dB gain enhancement in the 
+horizontal plane for the emerging DSRC (Dedicated Short Range Communications) application. To 
+further increase the omni-directional gain in the horizontal plane, six groups of magnetic dipole-like 
+resonators are introduced around a shorted circular patch-ring antenna. These resonators help to 
+guide the wave along the horizontal surface. In addition, the number of resonators in each group can 
+be adjusted to control radiation patterns in the horizontal plane. 
+The second design is a wideband circular patch antenna with omni-directional gain enhancement in 
+the horizontal plane. The gain enhancement over 1 GHz bandwidth is achieved by introducing low-
+profile I-shaped loading structures without increasing the thickness of antennas. The effective 
+refractive index of the new structure is larger than that of conventional substrate with same material, 
+therefore the new structure behaves as a lens to concentrate the energy and enhance the omni-
+directional radiation performance. In addition, the proposed antenna design can achieve a fractional 
+bandwidth of 19% by combining the multiple resonant frequencies of the antenna structures.  
+The third design is an ultrawideband low-profile monocone antenna with dielectric loading. The 
+operating modes of the proposed antenna are different from those of conventional monocone 
+antenna while similar to those of the circular patch antenna. The first mode is studied with the aid of 
+the epsilon-negative transmission line. To further improve the matching properties of the monocone 
+antenna, an innovative dielectric structure is introduced. The dielectric loading can effectively change 
+the impedance of the monocone antenna and provide additional freedom for increasing the fractional 
+bandwidth.  
+In summary, three new low-profile vertically-polarized omnidirectional antenna designs are presented 
+in the thesis with theoretical study, computer-aided design and optimization, prototype fabrication, 
+measurement verification, and analysis study. The thesis is concluded by pointing out a few 
+recommendations for future investigations. 
+
+-----

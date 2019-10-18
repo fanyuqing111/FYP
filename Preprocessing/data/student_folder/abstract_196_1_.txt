@@ -1,0 +1,56 @@
+ 
+ABSTRACT 
+Low-Power High-Performance SAR ADC with Redundancy and Digital 
+Error Correction 
+The demands for data converters has soared in the last decade, with a boom in consumer 
+electronics, smart devices, autonomous vehicles and automotive segments. The current trend in Nyquist 
+rate data converters, for example SAR ADC is more towards the high speed, medium to high resolution. 
+This is due to the manufacturing advancements in CMOS technology, better capacitor matching, and 
+lower power consumption. Analog-to-digital converters play a major role in every system on chip, and 
+with technology scaling and lower supply voltage for ADC to operate, new design topologies or 
+disruptive innovation have to be considered in order to attain high linearity and superior dynamic 
+performance. Several factors such as supply noise, substrate noise coupling, DAC voltage setting time 
+and comparator meta-stability can cause an erroneous result in the successive approximation register 
+data converter, leading to degradation in dynamic performance. 
+This thesis reviews different redundancy schemes for SAR ADC and analyses the literature for 
+trends in data converters to find an optimum ADC topology to meet the research objectives. This work 
+focuses on the six important contributions to SAR ADC research. Firstly, introduction of binary scaled 
+redundancy that is embedded in the conventional capacitive DAC (CDAC) itself. Secondly, optimizing 
+the use of redundancy by introducing a new CDAC switching scheme. Thirdly, introducing a simple bit 
+overlap and add error correction technique for a 10-bit SAR ADC. The inspiration is drawn from the 
+inherent error correction of a 1.5-bit/stage pipeline ADC. This implementation requires no additional 
+conversion cycles to obtain a 10-bit resolution. A total of four erroneous decisions can be corrected in 
+nine conversion cycles, irrespective of where the erroneous conversion cycle occurred. The bit overlap 
+and add error correction logic provides opportunity for the error to propagate to the next conversion 
+cycle where it can be corrected. Fourthly, introducing a new energy-efficient switching scheme for a 
+multi-bit per cycle SAR ADC. The proposed constant common mode fractional reference voltage 
+(CCM-FRV) switching scheme reduces CDAC switching energy by 83% with 50% area reduction for 
+
+-----
+each CDAC used when compared to conventional switching scheme [1] modified for implementing 
+similar redundancy and error correction concept. Implementation of CCM-FRV switching scheme 
+requires no special arithmetic units or additional hardware overheads to compute the DAC switching 
+pattern, eliminating any speed bottleneck due to logic delay. Furthermore, the redundancy is in-built 
+into the CDAC. Fifthly, the implementation of an event-based asynchronous timing generator is 
+discussed for a multi-bit per cycle SAR ADC. All of the above five contributions are implemented using 
+65nm 1P9M mixed-signal RF CMOS process. The test chip is fabricated in 65nm CMOS technology 
+and occupies 0.038mm2 chip area. The prototype consumes 4.06mW from a 1.2V supply, achieving 
+Nyquist SNDR of 57.81dB, an ENOB of 9.31 bits at an operating frequency of 150MS/s. The Walden 
+figure of merit (FoM) is 42.6fJ/conversion-step.  Sixthly, a “more than Moore” design and fabrication 
+methodology has been adopted to compare CMOS versus III-V compound semiconductor sampling 
+switch performance. An on-chip fully integrated SAR ADC with III-V compound semiconductor 
+sampling switch and remaining circuits in 0.18μm CMOS technology is implemented. On-chip 
+integration is achieved by using a hybrid PDK that permits direct integration of Au-free III-V devices 
+into a foundry-proven CMOS process. The 6-bit 125MSps SAR ADC occupies 0.0225mm2 chip area, 
+achieves a post-layout simulated peak SNDR of 35.98dB /35.56dB and SFDR of 53.17dB / 48.7dB for 
+InGaAs / CMOS based sampling switch ADC. The InGaAs based sampling switch ADC has 4.47dB 
+better SFDR than CMOS based sampling switch. 
+ 
+Reference 
+ 
+[1] B. P. Ginsburg, and A. P. Chandrakasan, “An energy-efficient charge recycling approach for a SAR 
+converter with capacitive DAC,” in IEEE Int. Symp. on Circuits and Systems (ISCAS), 2005, pp. 
+184-187. 
+ 
+
+-----

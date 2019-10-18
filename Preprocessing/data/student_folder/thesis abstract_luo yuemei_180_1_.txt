@@ -1,0 +1,56 @@
+Catheter-based High-resolution Optical Coherence Tomography 
+Luo Yuemei (G1303278D) 
+Abstract 
+Coronary artery disease and gastrointestinal (GI) cancers are among the top killers 
+worldwide and in Singapore. Acute myocardial infarction (AMI, = heart attack) is one 
+of the leading causes of global morbidity and mortality. Due to the high prevalence and 
+high risk of AMI, identification of vulnerable plaque associated with AMI is critical for 
+early detection and subsequently interventional treatment. Esophageal, gastric and 
+colorectal cancers are among the commonly diagnosed cancers worldwide and early 
+diagnosis of cancers is vital for the effective therapeutics. Neoplasia of the GI tracts 
+which easily develops into cancer usually arises from the epithelium of the mucosa. It 
+is impossible to take biopsy from coronary arteries. Even though biopsies can be 
+routinely taken from GI tissues, the ability to detect early neoplastic changes in GI 
+tracts at early stages is still limited. Therefore, a nondestructive imaging tool such as 
+intracoronary/transendoscopic optical coherence tomography (OCT) is critical for 
+improving diagnostic accuracy.  
+Owing to the histology-grade resolution and the non-invasive property, micro-OCT 
+(µOCT) has become a promising alternative imaging tool to obtain depth-resolved real-
+time images. However, µOCT is still limited toward clinical translation to visualize GI 
+tracts and coronary arteries to date due to the lack of a miniature and flexible probe to 
+reach the target area of internal organs. In this dissertation, we proposed and fabricated 
+a µOCT endomicroscopy system with a miniature and flexible probe, and then verified 
+its feasibility for ex vivo visualization of the cellular-level morphological information in 
+GI tracts and coronary arteries. 
+One of the major technical difficulties with μOCT to image tissue in vivo is well-known 
+trade-off between the lateral resolution and depth-of-focus (DOF). A high lateral 
+resolution with 1-3 µm usually shortens the DOF to tens of micrometers, which 
+precludes practical applications of µOCT endomicroscopy when imaging through a 
+relatively thick tissue depth. To moderately extend the DOF, a fiber-optics probe with 
+annular apodization design was adopted in this study. Besides, we also employed a 
+
+-----
+rigid sheath surrounding the probe to mitigate the issue of limited DOF so that area of 
+interests was properly maintained around the relative small focal region. 
+The dispersion caused by the optical components is another issue affecting the axial 
+resolution and the image quality. To alleviate the effect of chromatic dispersion, we 
+proposed a common path design, so that the sample and reference arms share almost 
+the same path. In addition, the polarization mismatch between the sample and reference 
+arms can be eliminated during the rotation of the probe for circumferential scanning.  
+The novelty of this study includes: 1) the annular apodization design of the probe that 
+moderately extends the DOF without compromising lateral resolution; 2) usage of a 
+rigid sheath to mitigate the limited DOF; 3) the common path design to minimize the 
+dispersion and polarization mismatch; 4) We are the first in the world to demonstrate 
+cellular resolution imaging of GI tissue and coronary atherosclerosis using a fiber-optic 
+catheter. These results demonstrate µOCT endomicroscope is potentially an in vivo 
+histological diagnostic tool for screening precancerous lesions and for the assessment 
+of plaque vulnerability.  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+
+-----

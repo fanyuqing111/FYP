@@ -1,0 +1,105 @@
+Abstract 
+In the modern microgrids systems, more and more interconnected renewable energy 
+sources are utilized. They reduce the fossil fuel consumption and the running cost of the 
+systems. However, due to the unstable and intermittency nature of renewable energy sources, 
+power reliability and quality problems are more acute. The voltage sag and swell, and voltage 
+harmonic distortion of the supply, current harmonic distortion of nonlinear load, and low 
+power factor are the most common power quality problems in the power systems. The 
+overload, sudden change of the loads, connection and disconnection of large loads, 
+connection of large capacitor banks, nonlinear loads, and increase of the magnetizing current 
+may cause the aforementioned power quality problems, which will lead to multiple 
+disturbances to the systems. Therefore, it is essential to compensate the power quality 
+problems in the systems to avoid the potential breakdown and damages of power system 
+components.  
+ 
+The existing power quality compensators in the market are capacitor banks, static var 
+compensators (SVCs), dynamic voltage restorers (DVRs), distribution static compensators 
+(DSTATCOMs), etc. These power quality compensators can solve only one or two specific 
+problems. In order to solve all the power quality issues in the microgrids, it is required to 
+install more than one kind of devices. Such a solution is obviously cost prohibitive. 
+Moreover, it is a complex and expensive task to manage and maintain these individual 
+components. Increasing attention has been paid to the unified power quality conditioner 
+(UPQC) system which has the capability of improving power quality at both the source side 
+and load side. The existing state-of-the-art topologies and techniques of the UPQCs can be 
+classified according to their physical structures and compensating techniques. Among the 
+various categories of the UPQC, the voltage source converter (VSC) is the most widely 
+utilized type of converters in the UPQCs; the three-phase three-wire arrangement is the most 
+popular system; the right shunt UPQC is the most common configuration; and the UPQC-P 
+(P for active power) is the most popular compensating technique in the UPQC applications 
+due to the effective compensation capability for both voltage sag and swell of the system. The 
+three-phase three-wire VSC based right shunt UPQC-P is chosen as the basic study case in 
+this thesis. 
+ 
+
+-----
+The first system investigated in this thesis is the UPQC-P. The active and reactive power 
+flows are illustrated in the general block diagram of the UPQC-P. The detailed phasor 
+diagram of the UPQC-P is also presented. The corresponding control method is designed to 
+implement the system. The Matlab/Simulink based simulation results validate that the UPQC-
+P can provide the superior performance in mitigating almost all major power quality 
+problems. However, during the compensation of the UPQC-P, the series converter only 
+handles the active power, while the shunt converter supports all the load reactive power 
+demand. 
+ 
+In order to coordinate the reactive power between the series and shunt converters, the 
+variable phase angle control (PAC) method is applied in the controller of the UPQC. The 
+series converter can thus be fully utilized during the operation. Based on the variable PAC 
+method, a two-stage algorithm is proposed to optimize the ratings of the shunt and series 
+converters in order to obtain the maximum utilization rates of the power converters in the 
+UPQC. The corresponding control algorithm is developed to reduce the online VA loadings 
+of the proposed UPQC and the safe operation of the system under the different compensating 
+conditions. The mathematical model based analysis, the Matlab/Simulink based simulation 
+results, and the real-time control hardware-in-loop (CHIL) results are provided to validate the 
+performance of the proposed UPQC during all the operating conditions. The results indicate 
+that the proposed UPQC does not compromise the power quality compensation abilities and 
+has the maximum average utilization rate of the series and shunt converters compared with 
+that of other UPQC approaches. The optimal capital cost of the UPQC system is also 
+investigated in this thesis. Based on the compensation requirements, both the ratings of the 
+series transformer and power converters are handled in the proposed generalized strategy, 
+which can determine the minimum total capital cost of the UPQC system. The corresponding 
+control method is developed to implement the proposed UPQC system. The mathematical 
+model based simulation results and the OPAL-RT based real-time simulation results indicate 
+that the proposed UPQC can satisfy the power quality compensating requirements while 
+ensuring that the online VA loadings are within the VA ratings. Moreover, the displacement 
+angle can achieve smooth changeover during the transient states. 
+ 
+ 
+ 
+ 
+
+-----
+Publication 
+Journal publications 
+[1] 
+Ye Jian, Hoay Beng Gooi and Wu Fengjiang, "Optimization of the size of UPQC 
+system based on data-driven control design," in IEEE Transactions on Smart Grid 
+(early access). 
+Conference publications 
+[1] 
+N. K. S. Naidu, Hoay Beng Gooi, Tang Yi, Ye Jian, Sathish Kumar Kollimalla, Narsa 
+Reddy Tummuru and Pravat Kumar Ray "Coordinated active power control between 
+shunt and series converters of UPQC for distributed generation applications," in Proc. 
+IECON, Dec. 2016, pp. 3697-3702. 
+[2] 
+Ye Jian, Wang Benfei, Manadhar Ujjal, Abhisek Ukil and Gooi Hoay Beng 
+“Enumerated-MPC-based Dynamic Voltage Restorer using LC Filter with Damping 
+Resistor”, in Proc. Asian Conference on Energy, Power and Transportation 
+Electrification, Singapore, Oct. 2017. 
+[3] 
+Wang Benfei, Ye Jian, Manadhar Ujjal, Abhisek Ukil and Gooi Hoay Beng “A DC 
+Microgrid Integrated Dynamic Voltage Restorer with Model Predictive Control”, in 
+Proc. Asian Conference on Energy, Power and Transportation Electrification, 
+Singapore, Oct. 2017. 
+[4] 
+Wang Benfei, Xian Liang, Manadhar Ujjal, Ye Jian, Abhisek Ukil and Gooi Hoay 
+Beng “A Stand-Alone Hybrid PV-Fuel Cell Power System using Single-Inductor 
+Dual-Input Single-Output Boost Converter with Model Predictive Control”, in Proc. 
+Asian Conference on Energy, Power and Transportation Electrification, Singapore, 
+Oct. 2017. 
+Conference presentations 
+[1] 
+Ye Jian, Hoay Beng Gooi and Wu Fengjiang, "Optimization of the size of UPQC 
+system based on data-driven control design," in Proc. IEEE Power and Energy Society 
+General Meeting, Chicago, Jul. 2017. 
+
+-----

@@ -1,0 +1,14 @@
+Strong interaction between localized surface plasmons and nanoscale objects has led to the 
+development of highly sensitive biochemical sensing in planar metallic nanostructures with sensing 
+performances mainly dependent on the interaction volume and the local electric field. However, the 
+sensitivity and the interaction volume of these planar structures have been limited by the achievable 
+aspect ratios based on standard lift-off process. Here, we propose combining electron beam lithography 
+(EBL) for template definition with pulsed electrodeposition directly onto indium tin oxide-coated glass 
+for structure growth. We first show the advantages of pulsed electrodeposition over that using direct 
+current. We demonstrate how this can be used to fabricate arrays of high quality gold dimer structures 
+with high aspect ratio sub-10-nm gaps. We also compare the sensitivity of the proposed high aspect 
+ratio structures with that of their planar counterparts, and investigate the feasibility of using them as a 
+practical biosensing substrate. We also demonstrate the process of using negative resist with 
+electrodeposition to fabricate inverse structures. 
+
+-----

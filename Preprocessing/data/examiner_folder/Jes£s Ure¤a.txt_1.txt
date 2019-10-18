@@ -1,0 +1,1287 @@
+Jesús Ureña 
+Departments of Electronics, University of Alcala, Alcala de Henares, Spain 
+urena@depeca.uah.es 
++34 918856544 
+ 
+Jesús Ureña (M’06) was born in Alcalá la Real, Jaén, Spain, in 1964. He received the B.S. 
+degree in Electronics Engineering and the M.S. degree in Telecommunications Engineering 
+from the Polytechnic University of Madrid, Madrid, Spain, in 1986 and 1992, respectively; 
+and the Ph.D. degree in Telecommunications from the University of Alcalá, Madrid, Spain, in 
+1998. 
+Since 1986, he has been with the Department of Electronics, University of Alcalá, currently 
+as a Full Professor. During the period 1993-1997 he was the Head of the Department. He has 
+directed or collaborated in more than 40 educational and research projects in the area of 
+electronic control and sensorial systems for mobile robots and assisted wheelchairs and in the 
+area of electronic distributed systems for railways. 
+Dr. Ureña has co-authored more than 130 papers in International Journals and Conferences. 
+Dr. Ureña is member of IEEE (Instrumentation and Measurement Society Membership). He 
+has been or is in the TPC of several IEEE International Conferences as WISP, I2MTC, 
+ETFA, VECIMS, ICARA, ... He served as the General Co-chair of WISP2007 and as the 
+Special Session Chair in WISP2009. 
+As an Associate Editor of the Transactions on Instrumentation and Measurements his areas of 
+expertise are centered in: Acoustics instrumentation and measurements, Electronic Circuits 
+and Equipments, Digital Communications and Telecommunication Measurements, 
+Automation, Controls and Control Systems, Signal Processing, Vision Systems, Ultrasonics. 
+ 
+SCOPUS author statistics 
+Documents: 168 
+Citations: 1119 total citations by 701 documents 
+h-index: 17 
+Co-authors: 125 
+ 
+ 
+
+-----
+Publications 
+Books 
+GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús (ed.). Conference Proceedings Book. 2007 
+IEEE International Symposium on Intelligent Signal Processing. WISP2007. 2007. 991 p. ISBN: 1-4244-
+0829-6. 
+GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús (ed.). Conference Proceedings CD. 2007 IEEE 
+International Symposium on Intelligent Signal Processing. WISP2007. 2007. ISBN: 1-4244-0830-X. 
+ 
+Chapter of books 
+NOMBELA BLANCO, Francisco José; GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, Jesús; HERNÁNDEZ 
+ALONSO, Álvaro; POUDEREUX CLEMENTE, Pablo. "Algoritmo Robusto de Sincronización para PLC de 
+Banda Ancha Basado en Wavelet-OFDM.". Actas del XXII Seminario Anual de Automática, Electrónica 
+Industrial e Instrumentación (SAAEI 2015). (ISBN: 978-84-944131-2-4) . 2015, p. 1-6. 
+GARCÍA NÚÑEZ, Enrique; POUDEREUX CLEMENTE, Pablo; HERNÁNDEZ ALONSO, Álvaro; UREÑA 
+UREÑA, Jesús; GUALDA GÓMEZ, David. "A robust UWB indoor positioning system for highly complex 
+environments". Proc. IEEE International Conference on Industrial Technology (ISBN: 978-1-4799-
+7799-4) . 2015. 
+ALCALÁ ORZÁEZ, José Manuel; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro. "Activity 
+Supervision Tool using Non-Intrusive Load Monitoring Systems.". Proc. of 2015 IEEE Conference on 
+Emerging Technologies & Factory Automation (ETFA 2015). (ISBN: 978-1-4673-7928-1) . 2015, p. 1-4. 
+PAJUELO CABEZAS, Pablo; PÉREZ RUBIO, María del Carmen; VILLADANGOS CARRIZO, José Manuel; 
+GARCÍA NÚÑEZ, Enrique; GUALDA GÓMEZ, David; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, 
+Álvaro. "Implementation of indoor positioning algorithms using Android smartphones.". Proc. of 
+2015 IEEE Conference on Emerging Technologies & Factory Automation (ETFA 2015). (ISBN: 978-1-
+4673-7928-1) . 2015, p. 1-4. 
+NOMBELA BLANCO, Francisco José; GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, Jesús; HERNÁNDEZ 
+ALONSO, Álvaro; POUDEREUX CLEMENTE, Pablo. "Robust Synchronization Algorithm for Broadband 
+PLC based on Wavelet-OFDM.". Proc. of 2015 IEEE Conference on Emerging Technologies & Factory 
+Automation (ETFA 2015). (ISBN: 978-1-4673-7928-1) . 2015, p. 1-7. 
+GARCÍA NÚÑEZ, Enrique; POUDEREUX CLEMENTE, Pablo; HERNÁNDEZ ALONSO, Álvaro; UREÑA 
+UREÑA, Jesús; GUALDA GÓMEZ, David. "A Robust UWB Indoor Positioning System for Highly 
+Complex Environments.". Proc. of 2015 IEEE International Conference on Industrial Technology (ICIT 
+2015). (ISBN: 978-1-4799-7799-4) . 2015, p. 3386-3391. 
+GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, Jesús; GUALDA GÓMEZ, David; HERNÁNDEZ ALONSO, 
+Álvaro; NOMBELA BLANCO, Francisco José. "Discrete Multitone Modulation for Ultrasonic Indoor 
+Positioning Systems.". Proc. of 2015 International Conference on Indoor Positioning and Indoor 
+Navigation (IPIN 2015). . 2015, p. 1-4. 
+HERNÁNDEZ ALONSO, Álvaro; GARCÍA NÚÑEZ, Enrique; GUALDA GÓMEZ, David; VILLADANGOS 
+CARRIZO, José Manuel; GUTIÉRREZ LÓPEZ, Sara; NOMBELA BLANCO, Francisco José; PÉREZ RUBIO, 
+María del Carmen; UREÑA UREÑA, Jesús. "Flexible Ultrasonic Beacon Unit Based on SoC for Local 
+
+-----
+Positioning Systems.". Proc. of 2015 International Conference on Indoor Positioning and Indoor 
+Navigation (IPIN 2015). . 2015, p. 1-5. 
+GUALDA GÓMEZ, David; UREÑA UREÑA, Jesús; GARCÍA GARCÍA, Juan Carlos; GARCÍA NÚÑEZ, 
+Enrique; RUIZ PEREDA, DANIEL; LINDO MAÑAS, Alejandro. "Fusion of data from ultrasonic LPS and 
+isolated beacons for improving MR navigation". 2014 IEEE International Instrumentation and 
+Measurement Technology Conference (I2MTC 2014) (ISBN: 978-1-4673-6385-3) . 2014. 
+RUIZ PEREDA, DANIEL; GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, Jesús; VILLADANGOS CARRIZO, José 
+Manuel; GARCÍA DOMÍNGUEZ, Juan Jesús; DE MARZIANI , CARLOS. "Performance comparison of 
+correlation-based receive filters in an ultrasonic indoor positioning system". 2014 IEEE International 
+Instrumentation and Measurement Technology Conference (I2MTC 2014) (ISBN: 978-1-4673-6385-3) 
+. 2014. 
+DE MARZIANI , CARLOS; UREÑA UREÑA, Jesús; GARCÍA NÚÑEZ, Enrique; GARCÍA DOMÍNGUEZ, Juan 
+Jesús; VILLADANGOS CARRIZO, José Manuel; HERNÁNDEZ ALONSO, Álvaro; RUIZ PEREDA, DANIEL; 
+ALCOLEAS , Rómulo; PIRES , Jorge. "Detección de señales codificadas con correlación generalizada 
+cruzada en UWB-LPS". Congreso bianual de IEEE Argentina (ARGENCON 2014) (ISBN: 978-1-4799-
+4269-5) . 2014. 
+LINDO MAÑAS, Alejandro; PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; GUALDA GÓMEZ, 
+David; GARCÍA NÚÑEZ, Enrique; VILLADANGOS CARRIZO, José Manuel. "Ultrasonic signal acquisition 
+module for smartphone indoor positioning". Proceeding of the 19th International Conference on 
+Emerging Technologies and Factory Automation (ETFA 2014) (ISBN: 978-1-4799-4846-8) . 2014. 
+HADAD , Matías; GARCÍA NÚÑEZ, Enrique; FUNES , Marcos; G. DONATO, Patricio; UREÑA UREÑA, 
+Jesús. "Hardware optimization of generalized pairwise complementary sequences generation". 
+Proceedings of the 2014 Argentine School of Micronanoelectronics, Technology and Applications 
+(EAMTA 2014) (ISBN: 978-987-1907-86-1) . 2014. 
+GARCÍA NÚÑEZ, Enrique; PÉREZ RUBIO, María del Carmen; HERNÁNDEZ ALONSO, Álvaro; UREÑA 
+UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; CASTILLA GÓMEZ, Jose María; LINDO MAÑAS, 
+Alejandro. "Hardware Implementation of an Efficient Correlator for Golay Pairs Derived from Kernels 
+of Lengths 2, 10 and 26.". XXIX Conference on Design of Circuits and Integrated Systems (DCIS 2014). 
+(ISBN: 978-1-4799-5743-9) . 2014, p. 1-6. 
+RUIZ PEREDA, Francisco Daniel; GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, Jesús; DIEGO LÓPEZ, Daniel 
+de; GUALDA GÓMEZ, David; GARCÍA GARCÍA, Juan Carlos. "Extensive Ultrasonic Local Positioning 
+System for navigating with mobile robots". 2013 10th Workshop on Positioning, Navigation and 
+Communication (WPNC) (ISBN: 978-1-4673-60333-3) Dresden(Alemania). 2013, p. 1-6. 
+POUDEREUX CLEMENTE, Pablo; GARCÍA NÚÑEZ, Enrique; HERNÁNDEZ ALONSO, Álvaro; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús. "Implementación de un emisor y receptor UWB para 
+un sistema de posicionamiento local". Actas del XX Seminario Anual de Automática, Electrónica 
+Industrial e Instrumentación (ISBN: 978-84-15302-60-5) . 2013, p. 1-6. 
+RUIZ PEREDA, Francisco Daniel; GARCÍA NÚÑEZ, Enrique; DIEGO LÓPEZ, Daniel de; UREÑA UREÑA, 
+Jesús; GUALDA GÓMEZ, David; GARCÍA GARCÍA, Juan Carlos. "Sistema de Posicionamiento Local 
+Ultrasónico para la Navegación de Robots Móviles en Áreas Extensas". Actas del XX Seminario Anual 
+de Automática, Electrónica Industrial e Instrumentación. (ISBN: 978-84-15302-60-5) . 2013, p. 1-6. 
+
+-----
+CASTILLA GÓMEZ, Jose María; PÉREZ RUBIO, María del Carmen; GARCÍA NÚÑEZ, Enrique; GARCÍA 
+ORTIZ, Rodrigo; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús. "Implementación hardware 
+de un correlador eficiente para parejas Golay derivadas de kernels de longitud 2, 10 y 26". Actas del 
+XX Seminario Anual de Automática, Electrónica Industrial e Instrumentación. (ISBN: 978-84-15302-
+60-5) . 2013, p. 1-6. 
+DIEGO LÓPEZ, Daniel de; RUIZ PEREDA, Francisco Daniel; UREÑA UREÑA, Jesús; VILLADANGOS 
+CARRIZO, José Manuel. "Implementación hardware de un emisor ultrasónico usando DS-CDMA". 
+Actas del XX Seminario Anual de Automática, Electrónica Industrial e Instrumentación. . 2013. 
+APARICIO SOSA, Joaquín; JIMÉNEZ MARTÍN, Ana; ÁLVAREZ FRANCO, Fernando Javier; RUIZ PEREDA, 
+Francisco Daniel; UREÑA UREÑA, Jesús. "Modelo de propagación acústica subacuática para el 
+estudio de sistemas de comunicaciones o de localización". Actas: Congreso Nacional de I+D en 
+Defensa y Seguridad (ISBN: 978-84-7402-399-2) Madrid. 2013, p. 175-182. 
+GARCÍA GARCÍA, Juan Carlos; MARRÓN ROMERA, Marta; UREÑA UREÑA, Jesús; GUALDA GÓMEZ, 
+David. "Intelligent Wheelchairs: Filling the Gap between Labs and People.". Assistive Technology: 
+From Research to Practice. (ISBN: 978-1-61499-303-2) (Holanda (Países Bajos)): IOS PRESS. 2013, vol 
+33, p. 202-209. 
+HADAD , Matías; A. FUNES, M.; G. DONATO, P.; GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, Jesús; 
+CARRICA , D.. "Architectures for simultaneous generation and correlation of GPC sequences". Libro 
+de Actas de la XV reunión de trabajo en procesamiento de la información y control (RPIC) . 2013. 
+APARICIO SOSA, Joaquín; JIMÉNEZ MARTÍN, Ana; ÁLVAREZ FRANCO, Fernando Javier; UREÑA 
+UREÑA, Jesús; MARZIANI , Carlos Manuel de; DIEGO GUIJARRO, Cristina. "Influence of different 
+phenomena on the errors in distance measurement using underwater acoustics coded signals". 
+Proceedings of 2013 MTS/IEEE OCEANS (ISBN: 978-1-4799-0000-8) Bergen(Noruega). 2013. 
+POUDEREUX CLEMENTE, Pablo; GARCÍA NÚÑEZ, Enrique; HERNÁNDEZ ALONSO, Álvaro; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús. "Performance Comparison of a TDMA-and CDMA-
+based UWB Local Positioning System". Proceedings of the 2013 International Conference on Indoor 
+Positioning and Indoor Navigation . 2013. 
+GUALDA GÓMEZ, David; UREÑA UREÑA, Jesús; GARCÍA GARCÍA, Juan Carlos; GARCÍA NÚÑEZ, 
+Enrique; RUIZ PEREDA, DANIEL. "RSSI Distance Estimation Based on Genetic Programming". 
+Proceedings of the 2013 International Conference on Indoor Positioning and Indoor Navigation . 
+2013. 
+GUALDA GÓMEZ, David; PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; GARCÍA GARCÍA, 
+Juan Carlos; RUIZ PEREDA, DANIEL; GARCÍA NÚÑEZ, Enrique; LINDO MAÑAS, Alejandro. "Ultrasonic 
+LPS Adaptation for Smartphones". Proceedings of the 2013 International Conference on Indoor 
+Positioning and Indoor Navigation . 2013. 
+HADAD , Matías; FUNES , Marcos; DONATO , Patricio; GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, 
+Jesús; CARRICA , Daniel. "Architectures for simultaneous generation and correlation of GPC 
+sequences". XV Reunión de Trabajo en Procesamiento de la Información y Control (Argentina). 2013, 
+p. 343-348. 
+PÉREZ RUBIO, María del Carmen; HERNÁNDEZ ALONSO, Álvaro; ESCUDERO PUENTE, Rodrigo; 
+VILLADANGOS CARRIZO, José Manuel; DIEGO GUIJARRO, Cristina; UREÑA UREÑA, Jesús. "Local 
+Maximum Detection for Active Sensory Systems based on Encoding and Correlation Techniques". 
+
+-----
+2012 IEEE International Instrumentation and Measurement Technology Conference (I2MTC 2012) 
+(ISBN: 978-1-4577-1771-0) (Austria). 2012, p. 1697-1702. 
+RUIZ PEREDA, Francisco Daniel; PÉREZ RUBIO, María del Carmen; SANZ SERRANO, Rebeca; UREÑA 
+UREÑA, Jesús; GARCÍA GARCÍA, Juan Carlos; GARCÍA NÚÑEZ, Enrique. "Filtro de partículas para 
+fusión de datos de odometría y de un LPS ultrasónico para navegación con robots móviles". Actas del 
+XIX Seminario Anual de Automática, Electrónica Industrial e Instrumentación. (ISBN: 978-972-98603-
+5-5) Guimaraes(Portugal). 2012, p. 634-639. 
+GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; PÉREZ RUBIO, 
+María del Carmen; RUIZ PEREDA, Francisco Daniel; DIEGO GUIJARRO, Cristina. 
+"Generador/Correlador para Implementación Eficiente de Secuencias GPC". Actas del XIX Seminario 
+Anual de Automática, Electrónica Industrial e Instrumentación. (ISBN: 978-972-98603-5-5) . 2012, p. 
+677-681. 
+GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; PÉREZ RUBIO, 
+María del Carmen; RUIZ PEREDA, Francisco Daniel; GUALDA GÓMEZ, David. "Implementación 
+Eficiente de Correladores Genéricos para Pares de Secuencias Golay". Actas del XIX Seminario Anual 
+de Automática, Electrónica Industrial e Instrumentación. (ISBN: 978-972-98603-5-5) . 2012, p. 682-
+686. 
+APARICIO SOSA, Joaquín; JIMÉNEZ MARTÍN, Ana; ÁLVAREZ FRANCO, Fernando Javier; UREÑA 
+UREÑA, Jesús; MARZIANI , Carlos Manuel de; DIEGO GUIJARRO, Cristina. "Comparative Analysis of an 
+Underwater Acoustic Relative Positioning System Using Coded Signals". CDROM Proceedings of the 
+11th European Conference on Underwater Acoustics (ECUA 2012) (ISBN: 978-1-906913-13-7) . 2012, 
+p. 502-509. 
+GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; PÉREZ RUBIO, 
+María del Carmen; RUIZ PEREDA, Francisco Daniel; DIEGO GUIJARRO, Cristina; APARICIO SOSA, 
+Joaquín. "Multilevel LS Sequences with Flexible ZCZ Length and their Application to Local Positioning 
+Systems". Proceedings of the 2012 IEEE International Instrumentation and Measurement Technology 
+Conference I2MTC 2012. (ISBN: 978-1-4577-1771-0) Graz(Austria). 2012, p. 1665-1669. 
+RUIZ PEREDA, Francisco Daniel; PÉREZ RUBIO, María del Carmen; SANZ SERRANO, Rebeca; UREÑA 
+UREÑA, Jesús; GARCÍA GARCÍA, Juan Carlos; GARCÍA NÚÑEZ, Enrique; HERNÁNDEZ ALONSO, Álvaro. 
+"Particle filter for merging internal and external positioning information in mobile robot navigation". 
+Proceedings of the IEEE IV'12 Intelligent Vehicles Symposium Workshop (ISBN: 978-84-695-3472-4) . 
+2012, p. 1-6. 
+GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; PÉREZ RUBIO, 
+María del Carmen; RUIZ PEREDA, DANIEL; DIEGO GUIJARRO, Cristina; APARICIO SOSA, Joaquín. 
+"Multilevel LS Sequences with Flexible ZCZ Length and their Application to Local Positioning 
+Systems". Proceedings of the IEEE International Instrumentation and Measurement Technology 
+Conference (I2MTC 2012) (ISBN: 978-1-4577-1771-0) (Austria). 2012. 
+PÉREZ RUBIO, María del Carmen; RUIZ PEREDA, Francisco Daniel; UREÑA UREÑA, Jesús; GARCÍA 
+GARCÍA, Juan Carlos; GARCÍA NÚÑEZ, Enrique. "Particle filter for merging internal and external 
+positioning information for mobile robot navigation". WS5 Workshop Perception in Robotics (ISBN: 
+978-84-695-3472-4) . 2012. 
+SANZ SERRANO, Rebeca; PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; MARZIANI , Carlos 
+Manuel de; DIEGO GUIJARRO, Cristina; APARICIO SOSA, Joaquín. "Optimización de un Correlador 
+
+-----
+para Conjuntos Ortogonales de Secuencias Complementarias". Actas del Congreso: XVIII Edición del 
+Seminario Anual de Automática, Electrónica Industrial e Instrumentación (ISBN: 978-84-933682-3-4) 
+Badajoz. 2011, p. 707-712. 
+MARZIANI , Carlos Manuel de; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; ÁLVAREZ 
+FRANCO, Fernando Javier; FALCÓN , Javier; ALCOLEAS , Rómulo; GARCÍA DOMÍNGUEZ, Juan Jesús; 
+PÉREZ RUBIO, María del Carmen; SANZ SERRANO, Rebeca; APARICIO SOSA, Joaquín. "Protocolo de 
+Comunicación de Datos Acústico para Sistema de Posicionamiento Relativo". Actas del Congreso: 
+XVIII Edición del Seminario Anual de Automática, Electrónica Industrial e Instrumentación (ISBN: 
+978-84-933682-3-4) Badajoz. 2011, p. 855-860. 
+ESCUDERO PUENTE, Rodrigo; PÉREZ RUBIO, María del Carmen; HERNÁNDEZ ALONSO, Álvaro; UREÑA 
+UREÑA, Jesús; APARICIO SOSA, Joaquín. "Detección de Máximos Locales en Sistemas Sensoriales 
+Activos Basados en Correlación". Actas del Congreso: XVIII Edición del Seminario Anual de 
+Automática, Electrónica Industrial e Instrumentación (ISBN: 978-84-933682-3-4) Badajoz. 2011, p. 
+903-908. 
+GARCÍA NÚÑEZ, Enrique; GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; HOLM , Sverre. 
+"Enlace Ultrasónico para LPS Codificado versus LPS de Bajo Ancho de Banda". Actas del XVIII 
+Seminario Anual de Automática, Electrónica Industrial e Instrumentación. (ISBN: 978-84-933682-3-4) 
+. 2011, p. 795-800. 
+RUIZ PEREDA, Francisco Daniel; UREÑA UREÑA, Jesús; GARCÍA GARCÍA, Juan Carlos; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; FERNÁNDEZ ARCONES, Samuel; GUALDA GÓMEZ, David. "Calibración 
+global de varios LPSs ultrasónicos usando un robot móvil". Actas del XVIII Seminario Anual de 
+Automática, Electrónica Industrial e Instrumentación. (ISBN: 978-84-933682-3-4) Badajoz. 2011, p. 
+837-843. 
+APARICIO SOSA, Joaquín; ÁLVAREZ FRANCO, Fernando Javier; JIMÉNEZ MARTÍN, Ana; MARZIANI , 
+Carlos Manuel de; UREÑA UREÑA, Jesús; DIEGO GUIJARRO, Cristina. "Underwater Channel Modeling 
+for a Relative Positioning System". CDROM Proceedings of the OCEANS 2011 IEEE Santander 
+Conference & Exhibition (ISBN: 978-1-4577-0087-3) . 2011. 
+MARZIANI , Carlos Manuel de; ALCOLEAS , Rómulo; COLOMBO , Francisco; COSTA , Nicolás; PUJANA , 
+Francisco; COLOMBO , Alejandro; ÁLVAREZ FRANCO, Fernando Javier; JIMÉNEZ MARTÍN, Ana; 
+UREÑA UREÑA, Jesús; APARICIO SOSA, Joaquín; HERNÁNDEZ ALONSO, Álvaro. "A Low Cost 
+Reconfigurable Sensor Network for Coastal Monitoring". CDROM Proceedings of the OCEANS 2011 
+IEEE Santander Conference & Exhibition (ISBN: 978-1-4577-0087-3) . 2011. 
+FERNÁNDEZ ARCONES, Samuel; GUALDA GÓMEZ, David; GARCÍA GARCÍA, Juan Carlos; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; GUTIÉRREZ RIVAS, Raquel. "Indoor Location System 
+based on ZigBee devices and Metric Description Graphs". IEEE 7th International Symposium on 
+Intelligent Signal Processing, WISP-2011 (ISBN: 978-1-4577-1401-6) Piscataway, NJ(Estados Unidos): 
+IEEE. 2011, p. 4-8. 
+APARICIO SOSA, Joaquín; JIMÉNEZ MARTÍN, Ana; ÁLVAREZ FRANCO, Fernando Javier; MARZIANI , 
+Carlos Manuel de; UREÑA UREÑA, Jesús; DIEGO GUIJARRO, Cristina. "Underwater Acoustic Relative 
+Positioning System Based on Complementary Set of Sequences". Proc. of 2011 International 
+Conference on Indoor Positioning and Indoor Navigation (IPIN 2011) (ISBN: 978-972-8692-63-6) 
+Guimaraes(Portugal). 2011, p. 1-4. 
+
+-----
+GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; PÉREZ RUBIO, 
+María del Carmen; RUIZ PEREDA, Francisco Daniel; GUALDA GÓMEZ, David; GUTIÉRREZ RIVAS, 
+Raquel; JAVIER ÁLVAREZ FRANCO, Fernando. "Genetic Algorithm for searching a Doppler Resilient 
+Multilevel Complementary Waveform". Proceedings of 2011 IEEE International Symposium on 
+Intelligent Signal Processing (WISP 2011). (ISBN: 978-1-4577-1401-6) Floriana(Malta). 2011, p. 1-5. 
+GARCÍA NÚÑEZ, Enrique; HOLM , Sverre; GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús. 
+"Link Budget for Low Bandwidth and Coded Ultrasonic Indoor Location Systems". Proceedings of 
+2011 International Positioning and Indoor Navigation (IPIN 2011) (ISBN: 978-972-8692-63-6) 
+(Portugal). 2011, p. 1-4. 
+RUIZ PEREDA, Francisco Daniel; UREÑA UREÑA, Jesús; GARCÍA GARCÍA, Juan Carlos; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; HERNÁNDEZ ALONSO, Álvaro; PÉREZ RUBIO, María del Carmen. "LPS Self-
+Calibration Method using a Mobile Robot". Proceedings of the 2011 IEEE International 
+Instrumentation and Measurement Technology Conference I2MTC 201. (ISBN: 978-1-4244-7934-4) 
+Binjiang, Hangzhou(China). 2011, p. 1698-1703. 
+RUIZ PEREDA, Francisco Daniel; UREÑA UREÑA, Jesús; GARCÍA GARCÍA, Juan Carlos; HERNÁNDEZ 
+ALONSO, Álvaro; GARCÍA NÚÑEZ, Enrique; APARICIO SOSA, Joaquín. "Posicionamiento de un robot 
+móvil y autocalibración de un LPS simultánea en espacios inteligentes". Actas del XVII Seminario 
+Anual de Automática, Electrónica Industrial e Instrumentación (ISBN: 978-84-95809-75-9) Bilbao. 
+2010, p. 130-135. 
+APARICIO SOSA, Joaquín; UREÑA UREÑA, Jesús; JIMÉNEZ MARTÍN, Ana; ÁLVAREZ FRANCO, Fernando 
+Javier; SANZ SERRANO, Rebeca; GARCÍA NÚÑEZ, Enrique. "Sistema de medida para las características 
+de un canal en comunicaciones acústicas subacuáticas". Actas del XVII Seminario Anual de 
+Automática, Electrónica Industrial e Instrumentación (ISBN: 978-84-95809-75-9) Bilbao. 2010, p. 
+482-487. 
+FELIPE SEGOVIA, Alberto; GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; MAZO QUINTAS, 
+Manuel R.; SANTISO GÓMEZ, Enrique; HERNÁNDEZ ALONSO, Álvaro; RUIZ PEREDA, Francisco Daniel; 
+LÓPEZ , R.. "Simulador de circuito de vía para la detección bidireccional de la presencia de tren.". 
+Actas del XVII Seminario Anual de Automática, Electrónica Industrial e Instrumentación (SAAEI 2010). 
+(ISBN: 978-84-95809-75-9) . 2010, p. 559-564. 
+RUIZ PEREDA, Francisco Daniel; UREÑA UREÑA, Jesús; GARCÍA GARCÍA, Juan Carlos; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; GARCÍA NÚÑEZ, Enrique. "Ultrasonic LPS: Autocalibration and mobile robot 
+navigation". Libro de Abstracts de la 2010 International Conference on Indoor Positioning and Indoor 
+Navigation . 2010, p. 434-435. 
+APARICIO SOSA, Joaquín; ÁLVAREZ FRANCO, Fernando Javier; UREÑA UREÑA, Jesús; JIMÉNEZ 
+MARTÍN, Ana; DIEGO GUIJARRO, Cristina; GARCÍA NÚÑEZ, Enrique. "Swell Effect in Shallow 
+Underwater Acoustic Communications". Proc. of 2010 IEEE International Conference on Emerging 
+Technologies and Factory Automation (ETFA 2010) (ISBN: 978-1-4244-6849-2) . 2010, p. 1-4. 
+ÁLVAREZ FRANCO, Fernando J.; JIMÉNEZ MARTÍN, Ana; UREÑA UREÑA, Jesús; GUDE RODRÍGUEZ, 
+Isaac; RUIZ PEREDA, Francisco Daniel; HERNÁNDEZ ALONSO, Álvaro; MARZIANI , Carlos Manuel de; 
+PÉREZ RUBIO, María del Carmen; APARICIO SOSA, Joaquín. "Accurate 3D localization of reflectors 
+with an EMFi sensor array". Proc. of 2010 IEEE International Symposium on Industrial Electronics 
+(ISIE 2010) (ISBN: 978-1-4244-6391-6) . 2010, p. 2823-2827. 
+
+-----
+RUIZ PEREDA, Francisco Daniel; UREÑA UREÑA, Jesús; GARCÍA GARCÍA, Juan Carlos; HERNÁNDEZ 
+ALONSO, Álvaro; GARCÍA NÚÑEZ, Enrique; APARICIO SOSA, Joaquín. "Simultaneous mobile robot 
+positioning and LPS self-calibration in a smart space". Proc. of 2010 IEEE International Symposium on 
+Industrial Electronics (ISIE 2010) (ISBN: 978-1-4244-6391-6) . 2010, p. 2865-2870. 
+RUIZ PEREDA, Francisco Daniel; GARCÍA NÚÑEZ, Enrique; GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA 
+UREÑA, Jesús; PÉREZ RUBIO, María del Carmen. "Multilevel Complementary Sets of Sequences and 
+Their Application in UWB". Proceedings of 2010 International Conference on Indoor Positioning and 
+Indoor Navigation (ISBN: 978-1-4244-5864-6) . 2010, p. 320-324. 
+GARCÍA NÚÑEZ, Enrique; GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; PÉREZ RUBIO, 
+María del Carmen; RUIZ PEREDA, DANIEL. "Multilevel Complementary Sets of Sequences and their 
+application in UWB". Proceedings of the 2010 IEEE International Conference on Indoor Positioning 
+and Indoor Navigation (ISBN: 978-1-4244-5864-6) . 2010, p. 1-5. 
+PÉREZ RUBIO, María del Carmen; MARZIANI , Carlos Manuel de; UREÑA UREÑA, Jesús; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ MARTÍN, Ana; ALCOLEAS , Rómulo. 
+"Detección de señales acústicas codificadas con secuencias LS para posicionamiento relativo de 
+robots móviles". Trabajos Completos de las VI Jornadas Argentinas de Robótica (JAR'2010). . 2010, p. 
+68-73. 
+MARZIANI , Carlos Manuel de; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; FERNÁNDEZ , 
+Rómulo; GARCÍA DOMÍNGUEZ, Juan Jesús; JIMÉNEZ MARTÍN, Ana; PÉREZ RUBIO, María del Carmen; 
+DONATO , Patricio. "Análisis de precisión en la determinación de distancias en redes de sensores 
+empleando señales acústicas codificadas.". Actas de XIII Reunión de Trabajo en Procesamiento de la 
+Información y Control (RPIC'09). (ISBN: 950-665-340-2) (Argentina). 2009, p. 46-51. 
+MARZIANI , Carlos Manuel de; HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; PÉREZ RUBIO, 
+María del Carmen; GARCÍA DOMÍNGUEZ, Juan Jesús; JIMÉNEZ MARTÍN, Ana; VILLADANGOS 
+CARRIZO, José Manuel. "Algoritmo de cómputo de distancias en redes de sensores acústicos 
+implementado en FPGAs.". Actas de las IX Jornadas de Computación Reconfigurable y Aplicaciones 
+(JCRA 2009). (ISBN: 978-84-8138-832-9) . 2009, p. 31-140. 
+RUIZ PEREDA, Francisco Daniel; UREÑA UREÑA, Jesús; GUDE RODRÍGUEZ, Isaac; VILLADANGOS 
+CARRIZO, José Manuel; PÉREZ RUBIO, María del Carmen; GARCÍA NÚÑEZ, Enrique. "Posicionamiento 
+Hiperbólico basado en el Bideterminante de Cayley-Menger.". Actas del XVI Seminario Anual de 
+Automática, Electrónica Industrial e Instrumentación (SAAEI 2009). (ISBN: 978-84-692-2596-7) . 
+2009, p. 1-6. 
+PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ 
+MARTÍN, Ana; ÁLVAREZ FRANCO, Fernando Javier; MARZIANI , Carlos Manuel de. "Comparativa de 
+las prestaciones de diferentes códigos en un sistema ultrasónico de detección asíncrona y acceso 
+compartido al medio.". Actas del XVI Seminario Anual de Automática, Electrónica Industrial e 
+Instrumentación (SAAEI 2009). (ISBN: 978-84-692-2596-7) . 2009, p. 1-6. 
+RUIZ PEREDA, Francisco Daniel; VILLADANGOS CARRIZO, José Manuel; UREÑA UREÑA, Jesús; 
+HERNÁNDEZ ALONSO, Álvaro; MAZO QUINTAS, Manuel R.; JIMÉNEZ MARTÍN, Ana; GUDE 
+RODRÍGUEZ, Isaac; MARZIANI , Carlos Manuel de. "Medida de Tiempos de Vuelo Mediante la 
+Correlación Cruzada Generalizada en un Sistema LPS Ultrasónico". Actas del XVI Seminario Anual de 
+Automática, Electrónica Industrial e Instrumentación (SAAEI 2009). . 2009. 
+
+-----
+RUIZ PEREDA, Francisco Daniel; PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; HERNÁNDEZ 
+ALONSO, Álvaro; JIMÉNEZ MARTÍN, Ana; MARZIANI , Carlos Manuel de; ÁLVAREZ DE LOS HEROS, 
+Fernando. "Efficient hardware implementation for detecting CSS-based Loosely Synchronous codes 
+in a Local Positioning System.". Proceedigns of 14th IEEE International Conference on Emerging 
+Technologies and Factory Automation ETFA'09 (ISBN: 978-1-4244-2728-4) . 2009. 
+GARCÍA NÚÑEZ, Enrique; GARCÍA DOMÍNGUEZ, Juan Jesús; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ 
+MARTÍN, Ana; UREÑA UREÑA, Jesús; RUIZ PEREDA, Francisco Daniel; PÉREZ RUBIO, María del 
+Carmen. "Ultrasonic Positioning System by using UWB techniques". Proceedigns of 2009 IEEE 
+Conference on Emerging Technologies & Factory Automation (ETFA 2009) (ISBN: 978-1-4244-2728-4) 
+. 2009, p. 1-4. 
+PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ 
+MARTÍN, Ana; RUIZ PEREDA, Francisco Daniel; MARZIANI , Carlos Manuel de; ÁLVAREZ FRANCO, 
+Fernando J.. "Efficient hardware implementation for detecting CSS-based Loosely Synchronous codes 
+in a Local Positioning System". Proceedigns of 2009 IEEE Conference on Emerging Technologies & 
+Factory Automation (ETFA 2009) (ISBN: 978-1-4244-2728-4) . 2009, p. 1-4. 
+HERNÁNDEZ ALONSO, Álvaro; PÉREZ RUBIO, María del Carmen; JIMÉNEZ MARTÍN, Ana; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; GARCÍA NÚÑEZ, Enrique; MAZO QUINTAS, Manuel 
+R.. "Implementation of a Transmission Encoding System for a Track Circuit". Proceedigns of 2009 
+IEEE Conference on Emerging Technologies & Factory Automation (ETFA 2009) (ISBN: 978-1-4244-
+2728-4) . 2009, p. 1-4. 
+JIMÉNEZ MARTÍN, Ana; HERNÁNDEZ ALONSO, Álvaro; SANTOLAYA , Carla; UREÑA UREÑA, Jesús; 
+PÉREZ RUBIO, María del Carmen; GARCÍA DOMÍNGUEZ, Juan Jesús; RUIZ PEREDA, Francisco Daniel; 
+GARCÍA NÚÑEZ, Enrique; ÁLVAREZ FRANCO, Fernando J.. "Aqueous-liquids Characterization Based 
+on Encoded Ultrasonic Signals". Proceedigns of 6th IEEE International Symposium on Intelligent 
+Signal Processing (WISP 2009) (ISBN: 978-1-4244-5058-9) Budapest(Hungría). 2009, p. 99-104. 
+PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ 
+MARTÍN, Ana; RUIZ PEREDA, Francisco Daniel; ÁLVAREZ FRANCO, Fernando J.; MARZIANI , Carlos 
+Manuel de. "Performance Comparison of Different Codes in an Ultrasonic Positioning System using 
+DS-CDMA". Proceedigns of 6th IEEE International Symposium on Intelligent Signal Processing (WISP 
+2009) (ISBN: 978-1-4244-5059-6) Budapest(Hungría). 2009, p. 125-130. 
+MARZIANI , Carlos Manuel de; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; JIMÉNEZ MARTÍN, Ana; PÉREZ RUBIO, María del Carmen; ÁLVAREZ 
+FRANCO, Fernando J.; VILLADANGOS CARRIZO, José Manuel. "Relative Localization and Mapping 
+combining Multidimensional Scaling and Levenberg-Marquardt optimization". Proceedigns of 6th 
+IEEE International Symposium on Intelligent Signal Processing (WISP 2009) (ISBN: 978-1-4244-5059-
+6) Budapest(Hungría). 2009, p. 43-48. 
+ÁLVAREZ FRANCO, Fernando J.; HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; JIMÉNEZ 
+MARTÍN, Ana; PÉREZ RUBIO, María del Carmen; GARCÍA DOMÍNGUEZ, Juan Jesús; GUDE RODRÍGUEZ, 
+Isaac; MARZIANI , Carlos Manuel de. "Encoding Ultrasonic Signals with Kasami Sequences to perform 
+Spectrum-based Localization". Proceedigns of 6th IEEE International Symposium on Intelligent Signal 
+Processing (WISP 2009) (ISBN: 978-1-4244-5059-6) Budapest(Hungría). 2009, p. 49-54. 
+GARCÍA DOMÍNGUEZ, Juan Jesús; HERNÁNDEZ ALONSO, Álvaro; PÉREZ RUBIO, María del Carmen; 
+JIMÉNEZ MARTÍN, Ana; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; GARCÍA NÚÑEZ, Enrique. 
+
+-----
+"Implementation of a Transmission Encoding System for a Track Circuit". Proceedings 14th IEEE 
+International Conference on Emerging Technologies and Factory Automation ETFA'09. (ISBN: 978-1-
+4244-2728-4) . 2009. 
+RUIZ PEREDA, Francisco Daniel; UREÑA UREÑA, Jesús; GUDE RODRÍGUEZ, Isaac; VILLADANGOS 
+CARRIZO, José Manuel; PÉREZ RUBIO, María del Carmen; GARCÍA NÚÑEZ, Enrique. "Hyperbolic 
+Ultrasonic LPS using a Cayley-Menger bideterminant-based algorithm". Proceedings of the 2009 IEEE 
+International Instrumentation and Measurement Technology Conference I2MTC 2009 (ISBN: 978-1-
+4244-3353-7) . 2009, p. 785-790. 
+GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MAZO 
+QUINTAS, Manuel R.. "IR Barrier Data Integration for Obstacle Detection". Sensor and data fusion 
+(ISBN: 978-3-902613-52-3) (Croacia): In-Teh. 2009. 
+MARZIANI , Carlos Manuel de; DONATO , Patricio; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, 
+Álvaro; BERNS , D. W.; FERNÁNDEZ , R. D.; ALCOLEAS , E.. "Comunicaciones en sistemas de 
+localización relativo empleando señales acústicas codificadas.". Actas de las V Jornadas Argentinas 
+de Robótica (JAR 2008). (ISBN: 9789876550116) (Argentina). 2008, p. 1-6. 
+GARCÍA NÚÑEZ, Enrique; GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; HERNÁNDEZ 
+ALONSO, Álvaro; DÍAZ GONZÁLEZ, María Jesús. "Gestión eficiente de un sistema de adquisición de 
+datos para su uso en una barrera multisensorial". Actas del XV Seminario Anual de Automática, 
+Electrónica Industrial e Instrumentación (ISBN: 978-84-96997-04-2) Cartagena. 2008, p. 1-6. 
+RUIZ PEREDA, Francisco Daniel; UREÑA UREÑA, Jesús; VILLADANGOS CARRIZO, José Manuel; GUDE 
+RODRÍGUEZ, Isaac; GARCÍA DOMÍNGUEZ, Juan Jesús; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ 
+MARTÍN, Ana. "Optimización de la posición de los puntos de medida para calibración de un sistema 
+LPS.". Actas del XV Seminario Anual de Automática, Electrónica Industrial e Instrumentación (ISBN: 
+978-84-96997-04-2) . 2008. 
+RUIZ PEREDA, Francisco Daniel; UREÑA UREÑA, Jesús; VILLADANGOS CARRIZO, José Manuel; GUDE 
+RODRÍGUEZ, Isaac; GARCÍA DOMÍNGUEZ, Juan Jesús; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ 
+MARTÍN, Ana. "Optimal test-point positions for calibrating an ultrasonic LPS system". Proceedigns of 
+13th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA 2008) 
+(ISBN: 1-4244-1506-3) Hamburgo(Alemania). 2008, p. 339-344. 
+GARCÍA NÚÑEZ, Enrique; GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; HERNÁNDEZ 
+ALONSO, Álvaro; JIMÉNEZ MARTÍN, Ana; DÍAZ GONZÁLEZ, María Jesús. "Efficient management of an 
+advanced data acquisition system with real time streaming". Proceedigns of 13th IEEE International 
+Conference on Emerging Technologies and Factory Automation (ETFA 2008) (ISBN: 1-4244-1506-3) 
+Hamburgo(Alemania). 2008, p. 745-750. 
+RUIZ PEREDA, Francisco Daniel; UREÑA UREÑA, Jesús; JIMÉNEZ CALVO, José A.; VILLADANGOS 
+CARRIZO, José Manuel; GARCÍA DOMÍNGUEZ, Juan Jesús; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ 
+MARTÍN, Ana. "Data processing for the calibration of an acoustic local position system". Proceedings 
+of the 2008 IEEE International Instrumentation and Measurement Technology Conference I2MTC 
+2008 (ISBN: 1-4244-1541-1) Victoria(Canadá). 2008, p. 2085-2090. 
+GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; VÁZQUEZ , 
+Juan F.; MAZO QUINTAS, Manuel R.; DÍAZ GONZÁLEZ, María Jesús. "Multi-sensory system for 
+obstacle detection on railways". Proceedings of the 2008 IEEE International Instrumentation and 
+
+-----
+Measurement Technology Conference I2MTC 2008 (ISBN: 1-4244-1541-1) Victoria(Canadá). 2008, p. 
+2091-2096. 
+UREÑA UREÑA, Jesús; PÉREZ RUBIO, María del Carmen; OCHOA BRUST, Alberto Manuel; 
+HERNÁNDEZ ALONSO, Álvaro; MARZIANI , Carlos Manuel de; ÁLVAREZ FRANCO, Fernando J.; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; JIMÉNEZ MARTÍN, Ana; JIMÉNEZ CALVO, José A.. "Separation of concurrent 
+echoes depending on the emitting source using DS-CDMA.". Official Publication of the 19th 
+International Congress on Acoustics (ICAགྷ). (ISBN: 84-87985-12-2) . 2007, p. 1-6. 
+ÁLVAREZ FRANCO, Fernando J.; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ 
+MARTÍN, Ana; VILLADANGOS CARRIZO, José Manuel; PÉREZ RUBIO, María del Carmen. "Modeling a 
+turbulent atmosphere as a dynamic channel for narrow-band ultrasonic signals.". Official Publication 
+of the 19th International Congress on Acoustics (ICA'07). (ISBN: 84-87985-12-2) . 2007, p. 1-6. 
+MARZIANI , Carlos Manuel de; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; MAZO QUINTAS, Manuel R.; JIMÉNEZ MARTÍN, Ana; VILLADANGOS 
+CARRIZO, José Manuel; PÉREZ RUBIO, María del Carmen; OCHOA BRUST, Alberto Manuel; BALIÑAS 
+SANTOS, Javier; ÁLVAREZ FRANCO, Fernando Javier. "Implementation of Acoustic Sensor Network 
+for Relative Positioning System.". Proceedings of 2007 IEEE International Symposium on Industrial 
+Electronics (ISIEགྷ). (ISBN: 1-4244-0755-9) . 2007, p. 1559-1564. 
+JIMÉNEZ MARTÍN, Ana; HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, 
+Juan Jesús; VILLADANGOS CARRIZO, José Manuel; MAZO QUINTAS, Manuel R.; MARZIANI , Carlos 
+Manuel de; PÉREZ RUBIO, María del Carmen; ÁLVAREZ FRANCO, Fernando Javier. "Piezopolymeric 
+Transducer for Ultrasonic Sensorial Systems.". Proceedings of 2007 IEEE International Symposium on 
+Industrial Electronics (ISIE'07). (ISBN: 1-4244-0755-9) . 2007, p. 1458-1463. 
+VILLADANGOS CARRIZO, José Manuel; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MAZO 
+QUINTAS, Manuel R.; MARZIANI , Carlos Manuel de; JIMÉNEZ MARTÍN, Ana; ÁLVAREZ FRANCO, 
+Fernando Javier. "Improvement of Cover Area in Ultrasonic Local Positioning System Using 
+Cylindrical PVDF Transducer.". Proceedings of 2007 IEEE International Symposium on Industrial 
+Electronics (ISIE'07). (ISBN: 1-4244-0755-9) . 2007, p. 1473-1477. 
+PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ 
+MARTÍN, Ana; MARNANE , William; ÁLVAREZ FRANCO, Fernando Javier. "Efficient Real-Time 
+Correlator for LS Sequences.". Proceedings of 2007 IEEE International Symposium on Industrial 
+Electronics (ISIE'07). (ISBN: 1-4244-0755-9) . 2007, p. 1663-1668. 
+MARZIANI , Carlos Manuel de; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; JIMÉNEZ MARTÍN, Ana; ÁLVAREZ FRANCO, Fernando J.; VILLADANGOS 
+CARRIZO, José Manuel; PÉREZ RUBIO, María del Carmen; OCHOA BRUST, Alberto Manuel; BALIÑAS 
+SANTOS, Javier. "Performance Analysis of an Acoustic Relative Positioning System.". Proceedings of 
+2007 IEEE International Symposium on Intelligent Signal Processing (WISPགྷ). (ISBN: 1-4244-0829-6) . 
+2007, p. 879-884. 
+HERNÁNDEZ ALONSO, Álvaro; OCHOA BRUST, Alberto Manuel; UREÑA UREÑA, Jesús; JIMÉNEZ 
+CALVO, José A.; PÉREZ RUBIO, María del Carmen. "PCA-Based Classification for 3D Ultrasonic 
+Reflectors.". Proceedings of 2007 IEEE International Symposium on Intelligent Signal Processing 
+(WISP'07). (ISBN: 1-4244-0829-6) . 2007, p. 519-524. 
+
+-----
+ÁLVAREZ FRANCO, Fernando J.; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ 
+MARTÍN, Ana; MARZIANI , Carlos Manuel de; VILLADANGOS CARRIZO, José Manuel; PÉREZ RUBIO, 
+María del Carmen. "Detecting ultrasonic signals in a turbulent atmosphere: performance of different 
+codes.". Proceedings of 2007 IEEE International Symposium on Intelligent Signal Processing 
+(WISP'07). (ISBN: 1-4244-0829-6) . 2007, p. 613-618. 
+VILLADANGOS CARRIZO, José Manuel; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MAZO 
+QUINTAS, Manuel R.; MARZIANI , Carlos Manuel de; PÉREZ RUBIO, María del Carmen; ÁLVAREZ 
+FRANCO, Fernando J.; GARCÍA DOMÍNGUEZ, Juan Jesús; GUDE RODRÍGUEZ, Isaac. "Ultrasonic Local 
+Positioning System with Large Covered Area.". Proceedings of 2007 IEEE International Symposium on 
+Intelligent Signal Processing (WISP'07). (ISBN: 1-4244-0829-6) . 2007, p. 935-940. 
+HERNÁNDEZ ALONSO, Álvaro; PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; MARZIANI , 
+Carlos Manuel de; JIMÉNEZ MARTÍN, Ana; VILLADANGOS CARRIZO, José Manuel; ÁLVAREZ FRANCO, 
+Fernando J.. "Ultrasonic beacon-based Local Positioning System using Loosely Synchronous codes.". 
+Proceedings of 2007 IEEE International Symposium on Intelligent Signal Processing (WISP'07). . 2007, 
+p. 923-928. 
+VILLADANGOS CARRIZO, José Manuel; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; MARZIANI 
+, Carlos Manuel de; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ MARTÍN, Ana; GARCÍA DOMÍNGUEZ, Juan 
+Jesús. "Interfaz DS-CDMA ultrasónica para posicionamiento en espacios inteligentes.". Actas de II 
+Congreso Iberoamericano sobre Computación Ubícua (CICU 2006). (ISBN: 84-8138-703-7) . 2006, p. 
+97-105. 
+JIMÉNEZ MARTÍN, Ana; HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; MARZIANI , Carlos 
+Manuel de; ÁLVAREZ FRANCO, Fernando Javier; ALONSO HUERTA, Marta; PÉREZ RUBIO, María del 
+Carmen; VILLADANGOS CARRIZO, José Manuel; MAZO QUINTAS, Manuel R.; GARCÍA DOMÍNGUEZ, 
+Juan Jesús; PÉREZ , Laura. "Diseño de una Baliza Ultrasónica para un Sistema de Posicionamiento 
+Local.". Actas de VI Jornadas de Computación Reconfigurable y Aplicaciones (JCRA 2006). (ISBN: 84-
+611-1315-2) . 2006, p. 153-158. 
+PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MARNANE , 
+William; MARZIANI , Carlos Manuel de. "Implementación hardware de un correlador eficiente de 
+macrosecuencias generadas a partir de conjuntos complementarios de secuencias.". Actas de VI 
+Jornadas de Computación Reconfigurable y Aplicaciones (JCRA 2006). (ISBN: 84-611-1315-2) . 2006, 
+p. 167-172. 
+HERNÁNDEZ ALONSO, Álvaro; ÁLVAREZ FRANCO, Fernando Javier; UREÑA UREÑA, Jesús; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; JIMÉNEZ MARTÍN, Ana; SANTA TERESA , Pablo. "Implementación del 
+módulo de detección de un sistema sónar avanzado.". Actas de VI Jornadas de Computación 
+Reconfigurable y Aplicaciones (JCRA 2006). (ISBN: 84-611-1315-2) . 2006, p. 223-228. 
+JIMÉNEZ MARTÍN, Ana; HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; MARZIANI , Carlos 
+Manuel de; PÉREZ RUBIO, María del Carmen; ÁLVAREZ FRANCO, Fernando Javier; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; PÉREZ , Sergio; CAÑAMERO , Alejandro; MAZO QUINTAS, Manuel R.. 
+"Transductor Piezopolimérico para Sistemas Sensoriales Ultrasónicos.". Actas del XIII Seminario 
+Anual de Automática, Electrónica Industrial e Instrumentación (SAAEI 2006). (ISBN: 84-8317-564-9) . 
+2006, p. 1-5. 
+HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ MARTÍN, Ana; UREÑA UREÑA, Jesús; VILLADANGOS CARRIZO, 
+José Manuel; HERNÁNDEZ , M A.; GARCÍA DOMÍNGUEZ, Juan Jesús; ÁLVAREZ FRANCO, Fernando 
+
+-----
+Javier; MARZIANI , Carlos Manuel de; PÉREZ RUBIO, María del Carmen. "Automatización de la 
+Configuración de un Sistema de Posicionamiento Local basado en Ultrasonidos.". Actas del XIII 
+Seminario Anual de Automática, Electrónica Industrial e Instrumentación (SAAEI 2006). (ISBN: 84-
+8317-564-9) . 2006, p. 1-5. 
+PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MARZIANI , 
+Carlos Manuel de; JIMÉNEZ MARTÍN, Ana. "Macrosecuencias de conjuntos complementarios versus 
+secuencias Kasami para detección asíncrona.". Actas del XIII Seminario Anual de Automática, 
+Electrónica Industrial e Instrumentación (SAAEI 2006). (ISBN: 84-8317-564-9) . 2006, p. 1-6. 
+MARZIANI , Carlos Manuel de; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; JIMÉNEZ MARTÍN, Ana; VILLADANGOS CARRIZO, José Manuel; PÉREZ 
+RUBIO, María del Carmen; OCHOA BRUST, Alberto Manuel; ÁLVAREZ FRANCO, Fernando Javier. 
+"Generación y correlación eficiente de macro-secuencias a partir de secuencias complementarias.". 
+Actas del XIII Seminario Anual de Automática, Electrónica Industrial e Instrumentación (SAAEI 2006). 
+(ISBN: 84-8317-564-9) . 2006, p. 1-6. 
+OCHOA BRUST, Alberto Manuel; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MAZO 
+QUINTAS, Manuel R.; ÁLVAREZ FRANCO, Fernando Javier; MARZIANI , Carlos Manuel de. "Obtención 
+de información del entorno con un array ultrasónico.". Actas del XIII Seminario Anual de Automática, 
+Electrónica Industrial e Instrumentación (SAAEI 2006). (ISBN: 84-8317-564-9) . 2006, p. 1-6. 
+DÍAZ GONZÁLEZ, María Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; GARCÍA GARCÍA, Juan Carlos; UREÑA 
+UREÑA, Jesús; MAZO QUINTAS, Manuel R.; LOSADA GUTIÉRREZ, Cristina; HERNÁNDEZ ALONSO, 
+Álvaro. "Diseño de un enlace óptico basado en sensores infrarrojos con control automático de la 
+potencia de emisión.". Actas del XIII Seminario Anual de Automática, Electrónica Industrial e 
+Instrumentación (SAAEI 2006). (ISBN: 84-8317-564-9) . 2006, p. 1-6. 
+LOSADA GUTIÉRREZ, Cristina; GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; MAZO 
+QUINTAS, Manuel R.; HERNÁNDEZ ALONSO, Álvaro; DÍAZ GONZÁLEZ, María Jesús; MARZIANI , Carlos 
+Manuel de. "Uso de la técnica PCA para la validación de la detección de objetos en entornos 
+ferroviarios.". Actas del XIII Seminario Anual de Automática, Electrónica Industrial e Instrumentación 
+(SAAEI'06). Edición en CD. (ISBN: 84-8317-564-9) Gijon. 2006. 
+MARZIANI , Carlos Manuel de; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; MAZO QUINTAS, Manuel R.; JIMÉNEZ MARTÍN, Ana; VILLADANGOS 
+CARRIZO, José Manuel; PÉREZ RUBIO, María del Carmen; ÁLVAREZ FRANCO, Fernando Javier. "Inter-
+Symbol Interference Reduction on Macro-Sequences Generated from Complementary Set of 
+Sequences.". Proc. of 32nd IEEE International Annual Conference on Industrial Electronics, Control 
+and Instrumentation (IECON 2006). (ISBN: 1-4244-0136-4) Paris(Francia). 2006, p. 3367-3372. 
+JIMÉNEZ MARTÍN, Ana; HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; ALONSO HUERTA, 
+Marta; MARZIANI , Carlos Manuel de; PÉREZ RUBIO, María del Carmen; VILLADANGOS CARRIZO, José 
+Manuel; MAZO QUINTAS, Manuel R.; GARCÍA DOMÍNGUEZ, Juan Jesús; ÁLVAREZ FRANCO, Fernando 
+Javier. "FPGA-based Implementation of an Ultrasonic Beacon for a Local Positioning System.". Proc. 
+of 32nd IEEE International Annual Conference on Industrial Electronics, Control and Instrumentation 
+(IECON 2006). (ISBN: 1-4244-0136-4) Paris(Francia). 2006, p. 4945-4950. 
+GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; LOSADA 
+GUTIÉRREZ, Cristina; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ CALVO, José A.; JIMÉNEZ MARTÍN, Ana; 
+MARZIANI , Carlos Manuel de; ÁLVAREZ FRANCO, Fernando J.. "Reliability improvement of obstacle 
+
+-----
+detection in an IR barrier.". Proc. of 32nd IEEE International Annual Conference on Industrial 
+Electronics, Control and Instrumentation (IECON 2006). (ISBN: 1-4244-0136-4) (Francia). 2006, p. 
+3176-3181. 
+PÉREZ RUBIO, María del Carmen; HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; MARZIANI , 
+Carlos Manuel de; JIMÉNEZ MARTÍN, Ana. "FPGA-based implementation of a correlator for Kasami 
+sequences.". Proceedings of 11th IEEE International Conference on Emergy Technologies and Factory 
+(ETFA 2006). (ISBN: 1-4244-0681-1) Praga(República Checa). 2006, p. 1141-1144. 
+GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; LOSADA 
+GUTIÉRREZ, Cristina; HERNÁNDEZ ALONSO, Álvaro; MARZIANI , Carlos Manuel de; ÁLVAREZ FRANCO, 
+Fernando Javier. "Data Integration by considering spatial diversity in an IR barrier.". Proceedings of 
+11th IEEE International Conference on Emergy Technologies and Factory (ETFA 2006). (ISBN: 1-4244-
+0681-1) Praga(República Checa). 2006, p. 1149-1152. 
+MARZIANI , Carlos Manuel de; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MAZO QUINTAS, 
+Manuel R.; GARCÍA DOMÍNGUEZ, Juan Jesús; JIMÉNEZ MARTÍN, Ana; PÉREZ RUBIO, María del 
+Carmen; OCHOA BRUST, Alberto Manuel; VILLADANGOS CARRIZO, José Manuel. "Relative 
+positioning system using simultaneous round trip time of flight measurements.". Proceedings of 11th 
+IEEE International Conference on Emergy Technologies and Factory (ETFA 2006). (ISBN: 1-4244-0681-
+1) Praga(República Checa). 2006, p. 602-605. 
+OCHOA BRUST, Alberto Manuel; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MAZO 
+QUINTAS, Manuel R.; MARZIANI , Carlos Manuel de; PÉREZ RUBIO, María del Carmen. "Processing 
+algorithm for obtaining the impulse response in a MIMO ultrasonic system.". Proceedings of 11th 
+IEEE International Conference on Emergy Technologies and Factory (ETFA 2006). (ISBN: 1-4244-0681-
+1) Praga(República Checa). 2006, p. 977-980. 
+ÁLVAREZ FRANCO, Fernando Javier; HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; JIMÉNEZ MARTÍN, Ana; SANTA TERESA , Pablo; PÉREZ RUBIO, María del 
+Carmen. "Detection module in a complementary set of sequences-based pulse compression 
+system.". Proceedings of the 2006 International Conference on Field Programmable Logic and 
+Applications (FPL 2006). (ISBN: 1-4244-0312-X) . 2006, p. 73-78. 
+ 
+Journal articles 
+LINDO MAÑAS, Alejandro; GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, Jesús; PÉREZ RUBIO, María del 
+Carmen; HERNÁNDEZ ALONSO, Álvaro. "Multiband Waveform Design for an Ultrasonic Indoor 
+Positioning System." (ISSN:1530-437X). IEEE Sensors Journal. 2015, vol 15, núm 12, p. 7190-7199 
+JIMÉNEZ MARTÍN, Ana; HERNÁNDEZ ALONSO, Álvaro; RUIZ PEREDA, Francisco Daniel; GUDE 
+RODRÍGUEZ, Isaac; MARZIANI , Carlos Manuel de; PÉREZ RUBIO, María del Carmen; ÁLVAREZ 
+FRANCO, Fernando Javier; GUTIÉRREZ FERNÁNDEZ, César; UREÑA UREÑA, Jesús. "EMFi-Based 
+Ultrasonic Sensory Array for 3D Localization of Reflectors Using Positioning Algorithms." (ISSN:1530-
+437X). IEEE Sensors Journal. 2015, vol 5, núm 15, p. 2951-2962 
+PÉREZ RUBIO, María del Carmen; GARCÍA ORTIZ, Rodrigo; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ 
+MARTÍN, Ana; DIEGO GUIJARRO, Cristina; UREÑA UREÑA, Jesús. "SoC-based Architecture for an 
+Ultrasonic Phased Array with Encoded Transmissions." (ISSN:1057-7122). IEEE Transactions on 
+Circuits and Systems I: Fundamental Theory and Applications. 2015, vol 62(3), p. 873-880 
+
+-----
+GARCÍA GARCÍA, Juan Carlos; JIMÉNEZ CALVO, José A.; ESPINOSA ZAPATA, Felipe; HERNÁNDEZ 
+ALONSO, Álvaro; FERNÁNDEZ LORENZO, Ignacio; PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, 
+Jesús; MAZO QUINTAS, Manuel R.; GARCÍA DOMÍNGUEZ, Juan Jesús. "Characterization of railway line 
+impedance based only on short-circuit measurements." (ISSN:0098-9886). International Journal of 
+Circuit Theory and Applications. 2015, vol 8, núm 43, p. 984-994 
+GUTIÉRREZ FERNÁNDEZ, César; JIMÉNEZ MARTÍN, Ana; MARTÍN ARGUEDAS, Carlos Julián; UREÑA 
+UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro. "A novel encoded excitation scheme in a phased array 
+for the improving data acquisition rate." (ISSN:1424-8220). Sensors. 2014, vol 14, p. 549-563 
+GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; PÉREZ RUBIO, 
+María del Carmen. "Efficient architectures for the generation and correlation of binary CSS derived 
+from different kernel lengths" (ISSN:1053-587X). IEEE Transactions on Signal Processing. 2013, vol 
+61, núm 19, p. 4717-4728 [acceso al texto completo] 
+GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús. "Generation and 
+correlation architectures of multilevel complementary sets of sequences" (ISSN:1053-587X). IEEE 
+Transactions on Signal Processing. 2013, vol 61, núm 24, p. 6333-6343 
+GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; RUIZ PEREDA, 
+Francisco Daniel; PÉREZ RUBIO, María del Carmen; GARCÍA GARCÍA, Juan Carlos. "Efficient filter for 
+the generation/correlation of Golay binary sequence pairs. (DOI: 10.1002/cta.1901)" (ISSN:0098-
+9886). International Journal of Circuit Theory and Applications. 2013 [acceso al texto completo] 
+PÉREZ RUBIO, María del Carmen; HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; MARZIANI , 
+Carlos Manuel de; ÁLVAREZ FRANCO, Fernando; MORENO , José Antonio. "Doppler-tolerant receiver 
+for an ultrasonic LPS based Kasami sequences" (ISSN:0924-4247). Sensors and Actuators, A: Physical. 
+2013, vol 12, núm 10, p. 2931-2940 
+RUIZ PEREDA, Francisco Daniel; UREÑA UREÑA, Jesús; GARCÍA GARCÍA, Juan Carlos; PÉREZ RUBIO, 
+María del Carmen; VILLADANGOS CARRIZO, José Manuel; GARCÍA NÚÑEZ, Enrique. "Efficient 
+trilateration algorithm using time differences of arrival. (DOI: 10.1016/j.sna.2012.12.021)" 
+(ISSN:0924-4247). Sensors and Actuators, A: Physical. 2013, vol 193, p. 220-232 
+GARCÍA NÚÑEZ, Enrique; POUDEREUX CLEMENTE, Pablo; HERNÁNDEZ ALONSO, Álvaro; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús. "DS-UWB indoor positioning system implementation 
+based on FPGA." (ISSN:0924-4247). Sensors and Actuators, A: Physical. 2013, vol 201, p. 172-181 
+[acceso al texto completo] 
+GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; PÉREZ RUBIO, 
+María del Carmen; RUIZ PEREDA, Francisco Daniel. "Efficient Generator/Correlator of GPC Sequences 
+for QS-CDMA" (ISSN:1089-7798). IEEE Communications Letters. 2012, vol 16, núm 10, p. 1676-1679 
+[acceso al texto completo] 
+MARZIANI , Carlos Manuel de; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; ÁLVAREZ FRANCO, Fernando Javier; JIMÉNEZ MARTÍN, Ana; PÉREZ RUBIO, 
+María del Carmen; VILLADANGOS CARRIZO, José Manuel; APARICIO SOSA, Joaquín; ALCOLEAS , 
+Rómulo. "Simultaneous Round-Trip Time-of-Flight Measurements with Encoded Acoustic Signals" 
+(ISSN:1530-437X). IEEE Sensors Journal. 2012, vol 12, núm 10, p. 2931-2940 
+PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; MARZIANI , Carlos Manuel de; HERNÁNDEZ 
+ALONSO, Álvaro; SANZ SERRANO, Rebeca; ÁLVAREZ FRANCO, Fernando Javier. "Correlator 
+
+-----
+Implementation for Orthogonal CSS used in an Ultrasonic LPS" (ISSN:1530-437X). IEEE Sensors 
+Journal. 2012, p. 2807-2816 
+MARZIANI , Carlos Manuel de; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; ÁLVAREZ FRANCO, Fernando J.; JIMÉNEZ MARTÍN, Ana; PÉREZ RUBIO, 
+María Carmen; VILLADANGOS CARRIZO, José Manuel; ALCOLEAS , Rómulo. "Simultaneous Round-
+Trip Time-of-Flight Measurements With Encoded Acoustic Signals." (ISSN:1530-437X). IEEE Sensors 
+Journal. 2012, p. 2931-2940 
+HERNÁNDEZ ALONSO, Álvaro; PÉREZ RUBIO, María del Carmen; GARCÍA DOMÍNGUEZ, Juan Jesús; 
+JIMÉNEZ MARTÍN, Ana; GARCÍA GARCÍA, Juan Carlos; ESPINOSA ZAPATA, Felipe; MAZO QUINTAS, 
+Manuel R.; UREÑA UREÑA, Jesús. "FPGA-based Track Circuit for Railways using Transmission 
+Encoding. (DOI:10.1109/TITS.2011.2170976)" (ISSN:1524-9050). IEEE Transactions on Intelligent 
+Transportation Systems. 2012, vol 2, núm 13, p. 437-448 
+APARICIO SOSA, Joaquín; JIMÉNEZ MARTÍN, Ana; ÁLVAREZ FRANCO, Fernando Javier; UREÑA 
+UREÑA, Jesús; MARZIANI , Carlos Manuel de; DIEGO GUIJARRO, Cristina. "Comparative Analysis of an 
+Underwater Acoustic Relative Positioning System Using Coded Signals". Proceedings of Meetings on 
+Acoustics. 2012, vol 17 
+ÁLVAREZ FRANCO, Fernando Javier; HERNÁNDEZ ALONSO, Álvaro; MORENO , José Antonio; PÉREZ 
+RUBIO, María Carmen; UREÑA UREÑA, Jesús; MARZIANI , Carlos Manuel de. "Doppler-tolerant 
+receiver for an ultrasonic LPS based on Kasami sequences." (ISSN:0250-6874). Sensors and 
+Actuators. 2012 
+PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MARZIANI , 
+Carlos Manuel de; GARCÍA DOMÍNGUEZ, Juan Jesús; JIMÉNEZ MARTÍN, Ana. "Optimized correlator 
+for LS codes-based CDMA systems" (ISSN:1089-7798). IEEE Communications Letters. 2011, vol 2, 
+núm 15, p. 223-225 
+RUIZ PEREDA, Francisco Daniel; UREÑA UREÑA, Jesús; GARCÍA GARCÍA, Juan Carlos; JIMÉNEZ 
+MARTÍN, Ana; HERNÁNDEZ ALONSO, Álvaro; GARCÍA DOMÍNGUEZ, Juan Jesús. "LPS auto-calibration 
+algorithm with predetermination of optimal zones. (DOI: 10.3390/s111110398)" (ISSN:1424-8220). 
+Sensors. 2011, vol 11, núm 11, p. 10398-10414 [acceso al texto completo] 
+RUIZ PEREDA, Francisco Daniel; VILLADANGOS CARRIZO, José Manuel; UREÑA UREÑA, Jesús; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; MAZO QUINTAS, Manuel R.; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ RUIZ, 
+Antonio; MARZIANI , Carlos Manuel de. "Measuring time-of-flight in an Ultrasonic LPS System using 
+Generalized Cross-Correlation. (DOI:10.3390/s111110326)" (ISSN:1424-8220). Sensors. 2011, vol 11, 
+p. 10326-10342 
+VILLADANGOS CARRIZO, José Manuel; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; 
+MAZO QUINTAS, Manuel R.; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ MARTÍN, Ana; RUIZ , Daniel; DE 
+MARZIANI , Calos. "Measuring time-of-flight in an Ultrasonic LPS System using Generalized Cross-
+Correlation" (ISSN:1424-8220). Sensors. 2011, vol 11, p. 10326-10342 
+APARICIO SOSA, Joaquín; JIMÉNEZ MARTÍN, Ana; ÁLVAREZ FRANCO, Fernando Javier; UREÑA 
+UREÑA, Jesús; MARZIANI , Carlos Manuel de; DIEGO GUIJARRO, Cristina. "Modeling the Behavior of 
+an Underwater Acoustic Relative Positioning System Based on Complementary Set of Sequences" 
+(ISSN:1424-8220). Sensors. 2011, núm 11, p. 11188-11205 
+
+-----
+PÉREZ RUBIO, María del Carmen; MARZIANI , Carlos Manuel de; UREÑA UREÑA, Jesús; HERNÁNDEZ 
+ALONSO, Álvaro; GARCÍA DOMÍNGUEZ, Juan Jesús; ÁLVAREZ FRANCO, Fernando Javier; JIMÉNEZ 
+MARTÍN, Ana. "Recursive algorithm to directly obtain the sum of correlations in a CSS" (ISSN:0165-
+1684). Signal Processing. 2011, vol 9, núm 5, p. 1343-1346 
+PÉREZ RUBIO, María del Carmen; HERNÁNDEZ ALONSO, Álvaro; MARZIANI , Carlos Manuel de; 
+UREÑA UREÑA, Jesús; JIMÉNEZ MARTÍN, Ana. "Optimized Correlator for LS Codes-Based CDMA 
+Systems" (ISSN:0165-1684). Signal Processing. 2011, vol 91, núm 5, p. 1343-1346 
+APARICIO SOSA, Joaquín; GARCÍA NÚÑEZ, Enrique; JIMÉNEZ MARTÍN, Ana; ÁLVAREZ FRANCO, 
+Fernando Javier; UREÑA UREÑA, Jesús. "Modelos de propagación de señales acústicas en entornos 
+subacuáticos (I)" (ISSN:1136-7539). CONECtronica-tecnologia y elementos de conexion y 
+conectividad. 2010, núm 137, p. 40-43 
+APARICIO SOSA, Joaquín; GARCÍA NÚÑEZ, Enrique; JIMÉNEZ MARTÍN, Ana; ÁLVAREZ FRANCO, 
+Fernando Javier; UREÑA UREÑA, Jesús. "Modelos de propagación de señales acústicas en entornos 
+subacuáticos (II)" (ISSN:1136-7539). CONECtronica-tecnologia y elementos de conexion y 
+conectividad. 2010, núm 139, p. 40-41 
+APARICIO SOSA, Joaquín; GARCÍA NÚÑEZ, Enrique; JIMÉNEZ MARTÍN, Ana; ÁLVAREZ FRANCO, 
+Fernando Javier; UREÑA UREÑA, Jesús. "Modelos de propagación de señales acústicas en entornos 
+subacuáticos (III)" (ISSN:1136-7539). CONECtronica-tecnologia y elementos de conexion y 
+conectividad. 2010, núm 140, p. 39-43 
+PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; MARZIANI , Carlos Manuel de; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; ÁLVAREZ FRANCO, Fernando Javier; HERNÁNDEZ ALONSO, Álvaro. "Very 
+efficient correlator for Loosely Synchronized codes" (ISSN:0013-5194). Electronics Letters. 2010, vol 
+46, núm 16, p. 1127-1129 
+GARCÍA NÚÑEZ, Enrique; PÉREZ RUBIO, María del Carmen; GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA 
+UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro. "Generation algorithm for multilevel LS codes" 
+(ISSN:0013-5194). Electronics Letters. 2010, vol 46, núm 21, p. 1465-1467 [acceso al texto completo] 
+PÉREZ RUBIO, María del Carmen; GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; 
+HERNÁNDEZ ALONSO, Álvaro; GARCÍA NÚÑEZ, Enrique. "Generation algorithm for Multilevel LS 
+Codes" (ISSN:0013-5194). Electronics Letters. 2010, vol 46, núm 21, p. 1465-1467 
+GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MAZO 
+QUINTAS, Manuel R.; JIMÉNEZ CALVO, José A.; ÁLVAREZ FRANCO, Fernando J.; DE MARZIANI , 
+Carlos; JIMÉNEZ MARTÍN, Ana; DÍAZ , Mª Jesús; LOSADA , Cristina; GARCÍA , Enrique. "Efficient Multi-
+sensory Barrier for Obstacle Detection on Railways. (DOI:10.1109/TITS.2010.2052101)" (ISSN:1524-
+9050). IEEE Transactions on Intelligent Transportation Systems. 2010, vol 11, núm 3, p. 702-713 
+GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; HERNÁNDEZ 
+ALONSO, Álvaro; JIMÉNEZ CALVO, José A.; GARCÍA NÚÑEZ, Enrique; ÁLVAREZ FRANCO, Fernando 
+Javier; JAVIER ÁLVAREZ FRANCO, Fernando; DE MARZIANI , CARLOS; JIMÉNEZ MARTÍN, Ana; DÍAZ 
+GONZÁLEZ, María Jesús; LOSADA GUTIÉRREZ, Cristina. "Efficient Multi-sensory barrier for obstacle 
+detection on railways (DOI:10.1109/TITS.2010.2052101)" (ISSN:1524-9050). IEEE Transactions on 
+Intelligent Transportation Systems. 2010, vol 11, núm 3, p. 702-713 
+DONATO ABELLA, Patricio G.; MARZIANI , Carlos Manuel de; DANIEL , Carrica; FUNES , M.; UREÑA 
+UREÑA, Jesús. "Algorithm for complementary-derived orthogonal sequences applied to 
+
+-----
+measurements in noisy channels" (ISSN:1751-9675). IET Signal Processing. 2010, vol 6, núm 4, p. 
+610-617 
+GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; ESPINOSA 
+ZAPATA, Felipe; HERNÁNDEZ ALONSO, Álvaro; LOSADA , Cristina; JIMÉNEZ MARTÍN, Ana; DE 
+MARZIANI , Carlos; GARCÍA , Enrique. "Sensory system for obstacle detection on high-speed lines. 
+(DOI: 10.1016/j.trc.2009.10.002)" (ISSN:0968-090X). Tramsportation Research, Part C: Emerging 
+Technologies. 2010, vol 18, núm 4, p. 536-553 
+PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MAZO 
+QUINTAS, Manuel R.; JIMÉNEZ CALVO, José A.; OCHOA BRUST, Alberto Manuel. "Ultrasonic multi-
+transducer system for classification and 3D location of reflectors based on PCA (DOI: 
+10.1109/TIM.2009.2016820)" (ISSN:0018-9456). IEEE Transactions on Instrumentation and 
+Measurement. 2009, vol 58, núm 9, p. 3031-3041 
+UREÑA UREÑA, Jesús; VARKONYI , Annamaria R.. "Guest Editorial Special Section on the 2007 IEEE 
+International Symposium on Intelligent Signal Processing" (ISSN:0018-9456). IEEE Transactions on 
+Instrumentation and Measurement. 2009, vol 8, núm 58, p. 2375-2467 
+PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ 
+MARTÍN, Ana; DE MARZIANI , Carlos. "Efficient Generation and Correlation of Sequence Pairs with 
+Three Zero.Correlation Zones" (ISSN:1053-587X). IEEE Transactions on Signal Processing. 2009, vol 
+57, núm 9, p. 3450-3466 
+HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; JIMÉNEZ MARTÍN, Ana; JIMÉNEZ CALVO, José A.; PÉREZ RUBIO, María del 
+Carmen; DE MARZIANI , Carlos; ÁLVAREZ FRANCO, Fernando J.; SÉROT , J.; DÉRUTIN , J.P.. "Advanced 
+Adaptive Sonar for Mapping Applications (DOI:10.1007/s10846-008-9291-9)" (ISSN:0921-0296). 
+Journal of Intelligent and Robotic Systems: Theory and Applications. 2009, vol 55, núm 1, p. 81-106 
+DE MARZIANI , Carlos; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MAZO QUINTAS, Manuel 
+R.; GARCÍA DOMÍNGUEZ, Juan Jesús; JIMÉNEZ MARTÍN, Ana; PÉREZ RUBIO, María del Carmen; 
+ÁLVAREZ FRANCO, Fernando J.; VILLADANGOS CARRIZO, José Manuel. "Acoustic sensor network for 
+relative positioning of nodes (DOI:10.3390/s91108490)" (ISSN:14248220). Sensor. 2009, vol 9, núm 
+11, p. 8490-8507 
+ÁLVAREZ FRANCO, Fernando J.; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MAZO 
+QUINTAS, Manuel R.; GARCÍA DOMÍNGUEZ, Juan Jesús; JIMÉNEZ MARTÍN, Ana. "Influence of 
+atmospheric refraction on the performance of an outdoor ultrasonic pulse compression system 
+(DOI:10.1016/j.apacoust.2007.07.006)" (ISSN:0003-682X). Applied Acoustics. 2008, núm 69, p. 994-
+1002 
+PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ 
+MARTÍN, Ana; DE MARZIANI , Carlos. "Efficient Correlator for LS Codes Generated from Orthogonal 
+CSS" (ISSN:1089-7798). IEEE Communications Letters. 2008, vol 12, núm 10, p. 764-766 
+PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; MARZIANI , Carlos Manuel de; HERNÁNDEZ 
+ALONSO, Álvaro; ÁLVAREZ FRANCO, Fernando; JIMÉNEZ MARTÍN, Ana. "Efficient correlator for LS 
+codes generated from orthogonal CSS" (ISSN:1089-7798). IEEE Communications Letters. 2008, vol 
+12, núm 10, p. 764-766 
+
+-----
+JIMÉNEZ MARTÍN, Ana; HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; PÉREZ RUBIO, María del 
+Carmen; ÁLVAREZ FRANCO, Fernando J.; DE MARZIANI , Carlos; GARCÍA DOMÍNGUEZ, Juan Jesús; 
+VILLADANGOS CARRIZO, José Manuel. "EMFi-based ultrasonic transducer for robotics applications" 
+(ISSN:0924-4247). Sensors and Actuators, A: Physical. 2008, vol 148, núm 1, p. 342-349 
+DE MARZIANI , Carlos; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MAZO QUINTAS, Manuel 
+R.; ÁLVAREZ FRANCO, Fernando J.; GARCÍA DOMÍNGUEZ, Juan Jesús; DONATO , Patricio. "Modular 
+Architecture for Efficient Generation and Correlation of Complementary Set of Sequences 
+(DOI:10.1109/TSP.2006.890931)" (ISSN:1053-587X). IEEE Transactions on Signal Processing. 2007, vol 
+3, núm 13, p. 388-406 
+PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MARZIANI , 
+Carlos Manuel de; JIMÉNEZ MARTÍN, Ana; MARNANE , William. "Hardware implementation of an 
+efficient correlatof for interleaved complementary sets of sequences" (ISSN:0948-6968). Journal of 
+Universal Computer Science. 2007, vol 13, núm 3, p. 388-406 
+UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ MARTÍN, Ana; VILLADANGOS CARRIZO, 
+José Manuel; MAZO QUINTAS, Manuel R.; GARCÍA GARCÍA, Juan Carlos; GARCÍA DOMÍNGUEZ, Juan 
+Jesús; ÁLVAREZ FRANCO, Fernando Javier; DE MARZIANI , Carlos; PÉREZ RUBIO, María del Carmen; 
+JIMÉNEZ CALVO, José A.; JIMÉNEZ RUIZ, Antonio Ramón; SECO GRANJA, Fernando. "Advanced 
+sensorial system for an acoustic LPS (DOI:10.1016/j.micpro.2007.02.003)" (ISSN:0141-9331). 
+Microprocessors and Microsystems. 2007, vol 31, núm 6, p. 393-401 
+HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; JIMÉNEZ MARTÍN, Ana; ÁLVAREZ FRANCO, Fernando J.. "Reduction of blind 
+zone in ultrasonic transmitter/receiver transducer" (ISSN:0924-4247). Sensors and Actuators, A: 
+Physical. 2007, vol 1, núm 133, p. 96-103 
+LUNA VÁZQUEZ, Carlos Andrés; MAZO QUINTAS, Manuel R.; LÁZARO GALILEA, José Luis; VÁZQUEZ 
+GONZÁLEZ, Juan Felipe; UREÑA UREÑA, Jesús; PALAZUELOS CAGIGAS, Sira Elena; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; ESPINOSA ZAPATA, Felipe; SANTISO GÓMEZ, Enrique. "Methods to 
+measure the rotation angles in vibrating systems (DOI:10.1109/TIM.2005.860868)" (ISSN:0018-
+9456). IEEE Transactions on Instrumentation and Measurement. 2006, vol 55, núm 1, p. 232-239 
+ÁLVAREZ FRANCO, Fernando J.; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; HERNÁNDEZ 
+ALONSO, Álvaro; GARCÍA DOMÍNGUEZ, Juan Jesús; DE MARZIANI , Carlos. "High reliability outdoor 
+sonar prototype based on efficient signal coding (DOI: 10.1109/TUFFC.2006.118)" (ISSN:0885-3010). 
+IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. 2006, vol 53, p. 1863-1870 
+ÁLVAREZ FRANCO, Fernando J.; HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; MAZO 
+QUINTAS, Manuel R.; GARCÍA DOMÍNGUEZ, Juan Jesús; JIMÉNEZ CALVO, José A.; JIMÉNEZ MARTÍN, 
+Ana. "Real-time Implementation of an Efficient Correlator for Complementary Sets of Four 
+Sequences Applied to Ultrasonic Pulse Compression Systems" (ISSN:0141-9331). Microprocessors 
+and Microsystems. 2006, vol 1, núm 30, p. 43-51 
+PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; RUIZ PEREDA, Francisco Daniel; GARCÍA 
+NÚÑEZ, Enrique. "Descripción y análisis de una experiencia de innovación en la asignatura de 
+convertidores avanzados de potencia. (Revista digital de investigación en docencia Caracciolos)". 
+http://www3.uah.es/caracciolos/index.php/caracciolos. 2013 
+ 
+
+-----
+Conference papers 
+ALCALÁ ORZÁEZ, José Manuel; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; GARCÍA 
+DOMÍNGUEZ, Juan Jesús. "Análisis no intrusivo de la actividad humana a través de la monitorización 
+del consumo energético.". Nacional. Bilbao(02/09/2015 - 04/09/2015) 
+MARRÓN ROMERA, Marta; MAZO QUINTAS, Manuel R.; GARCÍA GARCÍA, Juan Carlos; UREÑA 
+UREÑA, Jesús; GUALDA GÓMEZ, David. "Sillas de Ruedas Inteligentes: del Laboratorio al Mercado". 
+Congreso. Internacional. "VII Congreso Iberoamericano de Tecnologías de Apoyo a la Discapacidad: 
+Iberdiscap 2014". Santo Domingo(República Dominicana)(28/11/2014 - 29/11/2014) 
+POUDEREUX CLEMENTE, Pablo; GARCÍA NÚÑEZ, Enrique; HERNÁNDEZ ALONSO, Álvaro; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús. "Performance comparison of a TDMA-and CDMA-
+based UWB Local Positioning System". Conferencia. Internacional. "2013 International Conference 
+on Indoor Positioning and Indoor Navigation". Montbéliard-Felfort(Francia)(28/10/2013 - 
+31/10/2013) 
+GUALDA GÓMEZ, David; UREÑA UREÑA, Jesús; GARCÍA GARCÍA, Juan Carlos; GARCÍA NÚÑEZ, 
+Enrique; RUIZ PEREDA, DANIEL. "RSSI distancia estimation based on Genetic Programming". 
+Conferencia. Internacional. "2013 International Coference on Indoor Positioning and Indoor 
+Navigation". Montbéliard-Felfort(Francia)(28/10/2013 - 31/10/2013) 
+GUALDA GÓMEZ, David; PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; GARCÍA GARCÍA, 
+Juan Carlos; RUIZ PEREDA, DANIEL; GARCÍA NÚÑEZ, Enrique; LINDO MAÑAS, Alejandro. "Ultrasonic 
+LPS adaptation for smartphones". Conferencia. Internacional. "2013 International Conference on 
+Indoor Positioning and Indoor Navigation". Montbéliard-Felfort(Francia)(28/10/2013 - 31/10/2013) 
+GARCÍA GARCÍA, Juan Carlos; MARRÓN ROMERA, Marta; UREÑA UREÑA, Jesús; GUALDA GÓMEZ, 
+David. "Intelligent Wheelchairs: Filling the Gap between Labs and People.". Conferencia. 
+Internacional. "AAATE 2013 conference. 12th biennial European conference of the Association for 
+the Advancement of Assistive Technology in Europe". Vilamoura(Portugal)(19/09/2013 - 
+22/09/2013) [acceso al texto completo] 
+FERNÁNDEZ ARCONES, Samuel; GUALDA GÓMEZ, David; GARCÍA GARCÍA, Juan Carlos; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; GUTIÉRREZ RIVAS, Raquel. "Indoor Location System 
+based on ZigBee devices and Metric Description Graphs.". Congreso. Internacional. "IEEE 7th 
+International Symposium on Intelligent Signal Processing, WISP-2011". Floriana(Malta)(19/09/2011 - 
+21/09/2011) 
+GARCÍA NÚÑEZ, Enrique; GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; PÉREZ RUBIO, 
+María del Carmen; RUIZ PEREDA, DANIEL. "Multilevel Complementary Sets of Sequences and their 
+application in UWB". Conferencia. Internacional. "2010 International Conference on Indoor 
+Positioning and Indoor Navigation". Zurich(Suiza)(15/09/2010 - 17/09/2010) 
+UREÑA UREÑA, Jesús; RUIZ PEREDA, DANIEL; GARCÍA GARCÍA, Juan Carlos; GARCÍA DOMÍNGUEZ, 
+Juan Jesús; GARCÍA NÚÑEZ, Enrique. "Ultrasonic LPS: Autocalibration and mobile robot navigation". 
+Conferencia. Internacional. "2010 International Conference on Indoor Positioning and Indoor 
+Navigation". Zurich(Suiza)(15/09/2010 - 17/09/2010) 
+GARCÍA GARCÍA, Juan Carlos; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús. "Improving 
+ZigBee 2D5 localization in large buildings using Metric Description Graphs ". Congreso. Internacional. 
+"2010 International Conference on Indoor Positioning and Indoor Navigation (IPIN-2010)". 
+Zürich(Suiza)(15/09/2010 - 17/09/2010) 
+
+-----
+UREÑA UREÑA, Jesús; GARCÍA GARCÍA, Juan Carlos; GARCÍA DOMÍNGUEZ, Juan Jesús; GARCÍA 
+NÚÑEZ, Enrique. "Ultrasonic LPS: Autocalibration and mobile robot navigation". Congreso. 
+Internacional. "2010 International Conference on Indoor Positioning and Indoor Navigation (IPIN-
+2010)". Zürich(Suiza)(15/09/2010 - 17/09/2010) 
+GARCÍA DOMÍNGUEZ, Juan Jesús; GARCÍA NÚÑEZ, Enrique; UREÑA UREÑA, Jesús; PÉREZ RUBIO, 
+María del Carmen; RUIZ PEREDA, Francisco Daniel. "Multilevel Complementary Sets of Sequences 
+and their application in UWB ". Internacional. Zurich(Suiza)(15/09/2010 - 17/09/2010) 
+RUIZ PEREDA, Francisco Daniel; UREÑA UREÑA, Jesús; GARCÍA GARCÍA, Juan Carlos; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; GARCÍA NÚÑEZ, Enrique. "Ultrasonic LPS: Autocalibration and mobile robot 
+navigation ". Internacional. (Suiza)(15/09/2010 - 17/09/2010) 
+UREÑA UREÑA, Jesús; GARCÍA GARCÍA, Juan Carlos; HERNÁNDEZ ALONSO, Álvaro; GARCÍA NÚÑEZ, 
+Enrique; APARICIO SOSA, Joaquín. "Simultaneous mobile robot positioning and LPS self-calibration in 
+a smart space". Congreso. Internacional. "2010 IEEE International Symposium on Industrial 
+Electronics, (ISIE10)". Bari(Italia)(04/07/2010 - 07/07/2010) 
+HERNÁNDEZ ALONSO, Álvaro; PÉREZ RUBIO, María del Carmen; JIMÉNEZ MARTÍN, Ana; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; GARCIA , Enrique; MAZO QUINTAS, Manuel R.. " 
+Implementation of a Transmission Encoding System for a Track Circuit". Congreso. Internacional. 
+"2009 IEEE Conference on Emerging Technologies & Factory Automation (ETFA´09).". Palma de 
+Mallorca(2009 - 2009) 
+GARCÍA NÚÑEZ, Enrique; GARCÍA DOMÍNGUEZ, Juan Jesús; HERNÁNDEZ ALONSO, Álvaro; JIMÉNEZ 
+MARTÍN, Ana; UREÑA UREÑA, Jesús; PÉREZ RUBIO, María del Carmen. "Ultrasonic Positioning 
+System by using UWB Techniques". Congreso. Internacional. "14th IEEE International Conference on 
+Emerging Technologies and Factory Automation ETFA'09". (España)(22/09/2009 - 26/09/2009) 
+JIMÉNEZ MARTÍN, Ana; HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; PÉREZ RUBIO, María del 
+Carmen; GARCÍA DOMÍNGUEZ, Juan Jesús; RUIZ PEREDA, Francisco Daniel; GARCÍA NÚÑEZ, Enrique; 
+JAVIER ÁLVAREZ FRANCO, Fernando. "Aqueous-liquids Characterization Based on Encoded Ultrasonic 
+Signals". Congreso. Internacional. "6th IEE International Symposium on Intelligent Signal Processing, 
+WISP 2009". Budapest(Hungría)(26/08/2009 - 28/08/2009) 
+RUIZ PEREDA, Francisco Daniel; PÉREZ RUBIO, María del Carmen; UREÑA UREÑA, Jesús; HERNÁNDEZ 
+ALONSO, Álvaro. "Performance and application of codes derived from Complementary Set of 
+Sequences". Workshop. Internacional. "The Claude Shannon Institute Workshop on Coding & 
+Cryptography". Cork(Irlanda)(19/05/2009 - 20/05/2009) 
+RUIZ PEREDA, Francisco Daniel; UREÑA UREÑA, Jesús; GUDE RODRÍGUEZ, Isaac; VILLADANGOS 
+CARRIZO, José Manuel; GARCÍA ARRIBAS, Juan Carlos; PÉREZ RUBIO, María del Carmen; GARCÍA 
+NÚÑEZ, Enrique. "Hyperbolic Ultrasonic LPS using a Cayley-Menger Bideterminant-based Algorithm". 
+Congreso. Internacional. "IEEE International Instrumentation and Measurement Technology 
+Conference, I2MTC 2009". (Singapur)(05/05/2009 - 07/05/2009) 
+GARCÍA NÚÑEZ, Enrique; GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; HERNÁNDEZ 
+ALONSO, Álvaro; JIMÉNEZ MARTÍN, Ana; DÍAZ GONZÁLEZ, María Jesús. "Efficient management of an 
+advanced data acquisition system with real time streaming". Congreso. Internacional. "13th IEEE 
+International Conference on Emerging Technologies and Factory Automation. ETFA'08". 
+Hamburgo(Alemania)(15/09/2008 - 18/09/2008) 
+
+-----
+GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MAZO 
+QUINTAS, Manuel R.; VAZQUEZ , Juan; DIAZ , Maria Jesus. " Multi-sensory system for obstacle 
+detection on railways". Congreso. Internacional. "I2MTC 2008, IEEE International Instrumentation 
+and Measurement Technology Conference 1". Victoria, British Columbia(Canadá)(12/05/2008 - 
+15/05/2008) 
+DE MARZIANI , Calos; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MAZO QUINTAS, Manuel 
+R.; GARCÍA DOMÍNGUEZ, Juan Jesús; JIMÉNEZ MARTÍN, Ana; VILLADANGOS CARRIZO, José Manuel; 
+PÉREZ RUBIO, María del Carmen; OCHOA , Alberto; BALIÑAS , J.; ALVAREZ , Fernando. 
+"Implementation of Acoustic Sensor Network for Relative Positioning System.". Congreso. 
+Internacional. "2007 IEEE Internacional Symposium in Industrial Electronics (ISIE’07).". (España)(2007 
+- 2007) 
+OCHOA , Alberto; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MAZO QUINTAS, Manuel R.; 
+JIMÉNEZ MARTÍN, Ana; PÉREZ RUBIO, María del Carmen. "PCA-Based Classification for 3D Ultrasonic 
+Reflectors". Congreso. Internacional. "IEEE International Symposium on Intelligent Signal 
+Processing". Alcalá de Henares(03/10/2007 - 05/10/2007) 
+DE MARZIANI , Calos; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; HERNÁNDEZ ALONSO, 
+Álvaro; GARCÍA DOMÍNGUEZ, Juan Jesús; JIMÉNEZ MARTÍN, Ana; VILLADANGOS CARRIZO, José 
+Manuel; PÉREZ RUBIO, María del Carmen; OCHOA , Alberto; BALIÑAS , J.. "Performance Analysis of 
+an Acoustic Relative Positioning System ". Congreso. Internacional. " IEEE International Symposium 
+on Intelligent Signal Processing (WISP 07)". Alcalá de Henares(03/10/2007 - 05/10/2007) 
+VILLADANGOS CARRIZO, José Manuel; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; 
+HERNÁNDEZ ALONSO, Álvaro; MARZIANI , Carlos Manuel de; PÉREZ RUBIO, María del Carmen; 
+ÁLVAREZ FRANCO, Fernando Javier; GARCÍA DOMÍNGUEZ, Juan Jesús; JIMÉNEZ MARTÍN, Ana; GUDE 
+RODRÍGUEZ, Isaac. "Ultrasonic Local Positioning System with Large Covered Area". Simposio. 
+Internacional. "WISP 2007, International Symposium on Intelligent Signal Processing". Alcalá de 
+Henares(03/10/2007 - 05/10/2007) 
+JIMÉNEZ MARTÍN, Ana; HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, 
+Juan Jesús; VILLADANGOS CARRIZO, José Manuel; MAZO QUINTAS, Manuel R.; DE MARZIANI , Calos; 
+PÉREZ RUBIO, María del Carmen; ALVAREZ , Fernando J.. "Piezopolymeric Transducer for Ultrasonic 
+Sensorial Systems". Congreso. Internacional. "IEEE International Symposium on Industrial Electronics 
+ISIE'07.". Vigo(07/2007) 
+VILLADANGOS CARRIZO, José Manuel; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; 
+HERNÁNDEZ ALONSO, Álvaro; DE MARZIANI , Calos; JIMÉNEZ MARTÍN, Ana; ÁLVAREZ , Fernando. 
+"Improvement of Cover Area in Ultrasonic Local Positioning System Using Cylindrical PVDF 
+Transducer ". Congreso. Internacional. "IEEE International Symposium on Industrial Electronics(ISIE 
+07)". Vigo(06/2007 - 06/2007) 
+UREÑA UREÑA, Jesús; HERNÁNDEZ BRAVO, Adolfo; MAZO QUINTAS, Manuel R.; JIMÉNEZ CALVO, 
+José A.; JIMÉNEZ MARTÍN, Ana; ALVAREZ , F.; GARCIA , J.J.; VILLADANGOS CARRIZO, José Manuel; 
+DONATO ABELLA, Patricio Gabriel; MARZIANI , Carlos Manuel de; OCHOA BRUST, Alberto Manuel; 
+PÉREZ RUBIO, María del Carmen. "Advanced US sensor for robotics". Internacional. "Workshop pn 
+biomimetic ultrasound". (02/03/2006) 
+
+-----
+DONATO ABELLA, Patricio Gabriel; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; HERNÁNDEZ 
+BRAVO, Adolfo; GARCIA , J.J.. "Ajuste de un puente de alterna para su uso en un array de sensores de 
+posición". Nacional. "SAAEI 2005". Santander(28/09/2005) 
+JIMÉNEZ MARTÍN, Ana; UREÑA UREÑA, Jesús; HERNÁNDEZ BRAVO, Adolfo; CASADO , C.; MAZO 
+QUINTAS, Manuel R.; GARCIA , J.J.; ALVAREZ , F.. "Plataforma modular de procesamiento de un 
+sistema sensorial ultrasónico". Nacional. "SAAEI 2005". Santander(28/09/2005) 
+GARCIA , J.J.; LOSADA GUTIÉRREZ, Cristina; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; 
+HERNÁNDEZ BRAVO, Adolfo; DONATO ABELLA, Patricio Gabriel; ÁLVAREZ DE COZAR, Felipe. 
+"Simulador para detección de obstáculos en vías férreas, basado en ténicas ópticas". Nacional. 
+"SAAEI 2005". Santander(28/09/2005 - 30/09/2005) 
+VÁZQUEZ GONZÁLEZ, Juan Felipe; LUNA VÁZQUEZ, Carlos Andrés; MAZO QUINTAS, Manuel R.; 
+LÁZARO GALILEA, José Luis; UREÑA UREÑA, Jesús; GARCIA , J.J.. "Umbral adaptativo para la 
+detección de objetos en movimiento usando visión computacional". Nacional. "SAAEI 2005". 
+Santander(28/09/2005) 
+PÉREZ RUBIO, María del Carmen; HERNÁNDEZ BRAVO, Adolfo; UREÑA UREÑA, Jesús. "Optimización 
+de un correlador de secuencias-m mediante la trasnformada Walsh". Nacional. "JCRA 2005. V 
+Jornadas de computación reconfigurable y aplicaciones". Granada(13/09/2005) 
+HERNÁNDEZ BRAVO, Adolfo; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; JIMÉNEZ MARTÍN, 
+Ana; GARCIA , J.J.; MARZIANI , Carlos Manuel de; OCHOA BRUST, Alberto Manuel; VILLADANGOS 
+CARRIZO, José Manuel; JIMÉNEZ CALVO, José A.. "A comparison of computing architectures for 
+ultrasonic signal processing". Internacional. "WISP 2005". Faro(Portugal)(01/09/2005) 
+VILLADANGOS CARRIZO, José Manuel; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; 
+HERNÁNDEZ BRAVO, Adolfo; ALVAREZ , F.; GARCIA , J.J.; MARZIANI , Carlos Manuel de; ALONSO 
+JIMENEZ, Diego. "Improvement of ultrasonic beacon-based local position system using multi-access 
+techniques". Internacional. "WISP 2005". (Portugal)(01/09/2005) 
+GARCIA , J.J.; UREÑA UREÑA, Jesús; HERNÁNDEZ BRAVO, Adolfo; MAZO QUINTAS, Manuel R.; 
+ALVAREZ , A.; VILLADANGOS CARRIZO, José Manuel; MARZIANI , Carlos Manuel de; LOSADA 
+GUTIÉRREZ, Cristina. "Sensor codification with mutually orthogonal complementary set of 
+sequences". Internacional. "WISP 2005". (Portugal)(01/09/2005) 
+MARZIANI , Carlos Manuel de; UREÑA UREÑA, Jesús; HERNÁNDEZ BRAVO, Adolfo; MAZO QUINTAS, 
+Manuel R.; ALVAREZ , F.; GARCIA , J.J.; VILLADANGOS CARRIZO, José Manuel; JIMÉNEZ MARTÍN, Ana. 
+"Simultaneous measurement of times-of-flight and communications in acoustic sensor networks". 
+Internacional. "WISP 2005". (Portugal)(01/09/2005) 
+ALVAREZ , F.; UREÑA UREÑA, Jesús; HERNÁNDEZ BRAVO, Adolfo; MAZO QUINTAS, Manuel R.; 
+GARCIA , J.J.; MARZIANI , Carlos Manuel de; VILLADANGOS CARRIZO, José Manuel; JIMÉNEZ MARTÍN, 
+Ana. "Using complementary sets of sequences for direct channel estimation in asynchronous 
+systems". Internacional. "WISP 2005". (Portugal)(01/09/2005) 
+VÁZQUEZ GONZÁLEZ, Juan Felipe; MAZO QUINTAS, Manuel R.; LÁZARO GALILEA, José Luis; LUNA 
+VÁZQUEZ, Carlos Andrés; UREÑA UREÑA, Jesús; GARCIA , J.J.; GUILLAN , E.. "Adaptive threshold for 
+motion detection in outdoor environment using computer vision ". Internacional. "ISIE 2005". 
+(Croacia)(20/06/2005) 
+
+-----
+LUNA VÁZQUEZ, Carlos Andrés; MAZO QUINTAS, Manuel R.; LÁZARO GALILEA, José Luis; VÁZQUEZ 
+GONZÁLEZ, Juan Felipe; UREÑA UREÑA, Jesús; GARCIA , J.J.; SARMIENTO , H.. "Reduction of 
+vibration-induced errors in 3D measurement systems with vision and structured light ". 
+Internacional. "ISIE 2005". (Croacia)(20/06/2005) 
+OCHOA BRUST, Alberto Manuel; HERNÁNDEZ BRAVO, Adolfo; UREÑA UREÑA, Jesús; MAZO 
+QUINTAS, Manuel R.; JIMÉNEZ CALVO, José A.; GARCIA , J.J.; JIMÉNEZ MARTÍN, Ana. "Ultrasonic 
+pattern recognition based on ANN and PCA techniques". Internacional. "ISIE 2005". 
+(Croacia)(20/06/2005) 
+MARZIANI , Carlos Manuel de; UREÑA UREÑA, Jesús; HERNÁNDEZ BRAVO, Adolfo; MAZO QUINTAS, 
+Manuel R.; JIMÉNEZ MARTÍN, Ana; ÁLVAREZ LÓPEZ, María Fátima; VILLADANGOS CARRIZO, José 
+Manuel. "Reative positioning system using acoustic sensors for ubiquitous computing applications". 
+Internacional. "CICU 2005". (06/05/2005) 
+ALVAREZ , F.J.; UREÑA UREÑA, Jesús; GARCIA , J.J.; MAZO QUINTAS, Manuel R.; MARZIANI , Carlos 
+Manuel de; HERNÁNDEZ BRAVO, Adolfo; VILLADANGOS CARRIZO, José Manuel. "A comparative 
+analysis of two modulations schemes for the efficient transmission of complementary sequences in a 
+pulse compression ultrasonic sistem". Internacional. "IADAT 2004. International conference on 
+telecommunications and computer networks". (01/12/2004) 
+GARCIA , J.J.; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; HERNÁNDEZ BRAVO, Adolfo; 
+ALVAREZ , F.; MARZIANI , Carlos Manuel de; VILLADANGOS CARRIZO, José Manuel; LOSADA 
+GUTIÉRREZ, Cristina. "Codification techniques of complementary sequences for multimode 
+synchronous system for IR sensors". Internacional. "IADAT 2004. International conference on 
+telecommunications and computer networks". (01/12/2004) 
+VILLADANGOS CARRIZO, José Manuel; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; 
+HERNÁNDEZ BRAVO, Adolfo; ÁLVAREZ LÓPEZ, María Fátima; GARCIA , J.J.; ALONSO JIMENEZ, Diego. 
+"Use of DS-CDMA based gold sequences for a local position system with ultrasonic beacons". 
+Internacional. "IADAT 2004. International conference o telecommunications and computer 
+networks". (01/12/2004) 
+MARZIANI , Carlos Manuel de; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; HERNÁNDEZ 
+BRAVO, Adolfo; ÁLVAREZ LÓPEZ, María Fátima; GARCIA , J.J.; VILLADANGOS CARRIZO, José Manuel. 
+"Use of orthogonal sets of eight complementary sequences for asynchronous DS-CDMA". 
+Internacional. "IADAT 2004. International conference on telecommunications and computer 
+networks". (01/12/2004) 
+OCHOA BRUST, Alberto Manuel; BOQUETE VÁZQUEZ, Luciano; HERNÁNDEZ ALONSO, Álvaro; UREÑA 
+UREÑA, Jesús; JIMÉNEZ CALVO, José A.; MAZO QUINTAS, Manuel R.; GARCÍA DOMÍNGUEZ, Juan 
+Jesús. "Implementación de redes neuronales en FPGA's para la clasificación de reflectores usando 
+transductores de utrasonicos". Internacional. "2004 International Conference on Reconfigurable 
+Computing and FPGas". (México)(20/09/2004) 
+VÁZQUEZ GONZÁLEZ, Juan Felipe; MAZO QUINTAS, Manuel R.; LÁZARO GALILEA, José Luis; LUNA 
+VÁZQUEZ, Carlos Andrés; CABELLO , J.; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús. 
+"Fusión de algoritmos para detectar objetos en movimiento". Internacional. "Seminario Annual de 
+Automática, Electronica Industrial e Instrumentación Electronique de Puissance du Futur". 
+(Francia)(15/09/2004) 
+
+-----
+GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; HERNÁNDEZ 
+ALONSO, Álvaro; GARCÍA GARCÍA, Juan Carlos; ALVAREZ , F.; JIMÉNEZ CALVO, José A.. "Ir sensor 
+array for detecting obstacles in railways". Internacional. "Seminario Annual de Automática, 
+Electronica Industrial e Instrumentación Electronique de Puissance du Futur". (Francia)(15/09/2004) 
+DE MARZIANI , C.; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; HERNÁNDEZ ALONSO, Álvaro; 
+VILLADANGOS CARRIZO, José Manuel. "Sistema de localización en redes de sensores acústicos 
+inteligentes utilizando secuencias Golay". Internacional. "Seminario Annual de Automática, 
+Electronica Industrial e Instrumentación Electronique de Puissance du Futur". (Francia)(15/09/2004) 
+ALVAREZ , F.J.; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; HERNÁNDEZ ALONSO, Álvaro; 
+GARCÍA DOMÍNGUEZ, Juan Jesús; JIMÉNEZ CALVO, José A.; DONATO ABELLA, Patricio Gabriel. 
+"Sistema de sensores ultrasónicos para la detección de obstáculos basado en la transmisión de 
+secuencia GOLAY con modulación QPSK y portadoras de distinta frecuencia". Internacional. 
+"Seminario Annual de Automática, Electronica Industrial e Instrumentación Electronique de 
+Puissance du Futur". (Francia)(15/09/2004) 
+HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; JIMÉNEZ CALVO, 
+José A.; GARCÍA DOMÍNGUEZ, Juan Jesús; ALVAREZ , F.. "Implementación eficiente de algoritmos de 
+proceso de señales ultrasónicas.". Internacional. "VI Jornadas internacionales de ciencias 
+computacionales". Colima(México)(01/09/2004) 
+ÁLVAREZ DE COZAR, Felipe; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; HERNÁNDEZ 
+ALONSO, Álvaro; GARCÍA DOMÍNGUEZ, Juan Jesús; JIMÉNEZ CALVO, José A.; DONATO ABELLA, 
+Patricio Gabriel. "Complementary sets of sequences-based codign for ultrasonic array sensor". 
+Internacional. "2004 IEEE Sensor Assay and Multichannel Signal Processing Workshop Proceedings". 
+(18/07/2004) 
+DONATO ABELLA, Patricio Gabriel; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; ÁLVAREZ DE COZAR, Felipe. "Electromagnetic sensor array for train wheel 
+detection". Internacional. "2004 IEEE Sensor Assay and Multichannel Signal Processing Workshop 
+Proceedings". (18/07/2004) 
+GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; MAZO 
+QUINTAS, Manuel R.; GARCÍA GARCÍA, Juan Carlos; ÁLVAREZ DE COZAR, Felipe; JIMÉNEZ CALVO, José 
+A.; DONATO ABELLA, Patricio Gabriel; PÉREZ RUBIO, María del Carmen. "IR Sensor array 
+configuration and signal proccesing for detecting obstacles in railways". Internacional. "2004 IEEE 
+Sensor Assay and Multichannel Signal Processing Workshop Proceedings". (18/07/2004) 
+HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; JIMÉNEZ CALVO, José A.; ALVAREZ , F.J.; VILLADANGOS CARRIZO, José 
+Manuel. "Accurate distance determination using ultrasonic transducers". Internacional. "TELEC'04 
+International Conference". (Cuba)(14/07/2004) 
+VÁZQUEZ GONZÁLEZ, Juan Felipe; MAZO QUINTAS, Manuel R.; LÁZARO GALILEA, José Luis; LUNA 
+VÁZQUEZ, Carlos Andrés; CABELLO , J.; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús. 
+"Background updating alternative for detection of objects in motion". Internacional. "TELEC'04 
+International Conference". (Cuba)(14/07/2004) 
+VILLADANGOS CARRIZO, José Manuel; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; MARTIN , 
+M.; HERNÁNDEZ ALONSO, Álvaro; MARZIANI , Carlos Manuel de. "Global positioning of mobile 
+
+-----
+robots by codified ultrasonin beacons". Internacional. "TELEC'04 International Conference". 
+(Cuba)(14/07/2004) 
+DONATO ABELLA, Patricio Gabriel; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; ALVAREZ , F.. "Magnetic field suty for an axle train detector". Internacional. 
+"TELEC'04 International Conference". (Cuba)(14/07/2004) 
+ALVAREZ , F.J.; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; HERNÁNDEZ ALONSO, Álvaro; 
+GARCÍA DOMÍNGUEZ, Juan Jesús; JIMÉNEZ CALVO, José A.; DONATO ABELLA, Patricio Gabriel. "New 
+algorithm for the efficient generation of complementary sets of four sequences". Internacional. 
+"TELEC'04 International Conference". (Cuba)(14/07/2004) 
+MARZIANI , Carlos Manuel de; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; VILLADANGOS 
+CARRIZO, José Manuel; HERNÁNDEZ ALONSO, Álvaro. "Positioning algorithm in localization systems 
+for intelligent acoustic sensor networks". Internacional. "TELEC'04 International Conference". 
+(Cuba)(14/07/2004) 
+OCHOA BRUST, Alberto Manuel; BOQUETE VÁZQUEZ, Luciano; HERNÁNDEZ ALONSO, Álvaro; UREÑA 
+UREÑA, Jesús; MAZO QUINTAS, Manuel R.; MARTÍN SÁNCHEZ, José Luis. "Reflector classification 
+using ultrasonic transducers and neural networks". Internacional. "TELEC'04 International 
+Conference". (Cuba)(14/07/2004) 
+GARCÍA DOMÍNGUEZ, Juan Jesús; PÉREZ RUBIO, María del Carmen; GARCÍA GARCÍA, Juan Carlos; 
+UREÑA UREÑA, Jesús; ALVAREZ , F.; DONATO ABELLA, Patricio Gabriel; HERNÁNDEZ ALONSO, Álvaro; 
+MARTÍN SÁNCHEZ, José Luis. "Specific-purpose hardware for codified infrared emision processing". 
+Internacional. "TELEC'04 International Conference". (Cuba)(14/07/2004) 
+DONATO ABELLA, Patricio Gabriel; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; HERNÁNDEZ ALONSO, Álvaro; ÁLVAREZ DE COZAR, Felipe. "Optimization of 
+train detection in intelligent railway trnsportation systems". Internacional. "5th IFAC/Euron 
+Symposium on Intelligent Autonomous Vehicles". (Portugal)(05/07/2004) 
+BUENO PEÑA, Emilio José; ESPINOSA ZAPATA, Felipe; RODRÍGUEZ SÁNCHEZ, Francisco Javier; UREÑA 
+UREÑA, Jesús; CÓBRECES ÁLVAREZ, Santiago. "Current control of voltage source converters 
+connected to the grid through an LCL-filter". Internacional. "35th Annual Power Electronics 
+Specialists Conference (PESC 2004)". Aachen(Alemania)(20/06/2004) 
+VÁZQUEZ GONZÁLEZ, Juan Felipe; MAZO QUINTAS, Manuel R.; LÁZARO GALILEA, José Luis; LUNA 
+VÁZQUEZ, Carlos Andrés; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; CABELLO , J.; 
+HIERREZUELO SABATELA, Lisset. "Detection of moving objects in railway using vision". Internacional. 
+"2004 IEEE Intelligent Vehicles Symposium". (Italia)(14/06/2004) 
+GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; HERNÁNDEZ ALONSO, Álvaro; GARCÍA 
+GARCÍA, Juan Carlos; MAZO QUINTAS, Manuel R.; LÁZARO GALILEA, José Luis; PÉREZ RUBIO, María 
+del Carmen; ÁLVAREZ DE COZAR, Felipe. "Low cost obstacle detection for smart railway 
+infraestructures". Internacional. "2004 IEEE Intelligent Vehicles Symposium". (Italia)(14/06/2004) 
+ÁLVAREZ GARCÍA, Francisco José; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; HERNÁNDEZ 
+ALONSO, Álvaro; GARCÍA DOMÍNGUEZ, Juan Jesús; DONATO , P.. "Ultrasonic sensor system for 
+detecting falling objects on railways". Internacional. "2004 IEEE Intelligent Vehicles Symposium". 
+(Italia)(14/06/2004) 
+
+-----
+HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; MAZO 
+QUINTAS, Manuel R.; DERUTIN , J.P.; SEROT , J.. "Implementación de un algoritmo de detección de 
+máximos locales procedentes de ecos ultrasónicos". Nacional. "Seminario Anual de Automática, 
+Electrónica Industrial e Instrumentación. SAAEI 2003". Vigo(11/09/2003) 
+UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; MAZO QUINTAS, Manuel R.; HERNÁNDEZ 
+ALONSO, Álvaro; GARCÍA GARCÍA, Juan Carlos; GARCÍA FERNÁNDEZ, Roberto. "Mejora en la 
+detección con sensores de infrarrojos mediante la codificación de la emisión". Nacional. "Seminario 
+Anual de Automática, Electrónica Industrial e Instrumentación. SAAEI 2003". Vigo(11/09/2003) 
+JIMÉNEZ CALVO, José A.; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; HERNÁNDEZ ALONSO, 
+Álvaro; HERNANDEZ , R.; SANTISO GÓMEZ, Enrique. "Simulador de sistemas de ecodetección por 
+ultrasonidos para entornos tridimensionales". Nacional. Vigo(11/09/2003) 
+DONATO , P.; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; MORENO MANZANO, M. 
+Victoria; HERNÁNDEZ ALONSO, Álvaro. "Sistema de detección de paso de ruedas de tren sin 
+electrónica en vía". Nacional. "Seminario Anual de Automática, Electrónica Industrial e 
+Instrumentación. SAAEI 2003". Vigo(11/09/2003) 
+ALVAREZ , F.; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; HERNÁNDEZ ALONSO, Álvaro; 
+GARCÍA DOMÍNGUEZ, Juan Jesús. "Uso de sensores de ultrasonidos en la detección de obstáculos en 
+vías ferroviarias". Nacional. "Seminario Anual de Automática, Electrónica Industrial e 
+Instrumentación. SAAEI 2003". Vigo(11/09/2003) 
+BUENO PEÑA, Emilio José; ESPINOSA ZAPATA, Felipe; UREÑA UREÑA, Jesús; MARRÓN ROMERA, 
+Marta; GARDEL VICENTE, Alfredo. "Control de corriente y del DC-bus de un VSC trifásico". Nacional. 
+"Seminario Anual de Automática, Electrónica Industrial e Instrumentación. SAAEI 2003". 
+Vigo(10/09/2003 - 13/09/2003) 
+OCHOA , A.; HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; 
+MAZO QUINTAS, Manuel R.. "Sistema genérico especificado en VHDL para codificación y 
+procesamiento de señales sensoriales". Internacional. "IV Congreso Internacional de Ciencias de la 
+Computación". (México)(08/09/2003) 
+HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; JIMÉNEZ CALVO, José A.; ÁLVAREZ GARCÍA, Francisco José. "Advanced 
+sonar module for mapping applications". Internacional. "2003 IEEE Conference on emerging 
+technologies and factory automation proceedings". (Portugal)(30/06/2003) 
+JIMÉNEZ CALVO, José A.; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; SANTISO GÓMEZ, 
+Enrique; MECA MECA, Francisco J.; HERNÁNDEZ ALONSO, Álvaro. "Characterisation of an ultrasonic 
+sensor designed to identify reflectors in 3D environments". Internacional. "The 11 th International 
+Conference on Advanced Robotics". (Portugal)(30/06/2003) 
+JIMÉNEZ CALVO, José A.; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; SANTISO GÓMEZ, 
+Enrique; HERNÁNDEZ ALONSO, Álvaro. "Three-dimensional discrimination between planes, coners 
+and edges using ultrasonic sensors". Internacional. "2003 IEEE Conference on merging technologies 
+and factory automation proceedings". (Portugal)(30/06/2003) 
+DONATO , P.; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; MAZO QUINTAS, Manuel R.; 
+HERNÁNDEZ ALONSO, Álvaro. "Use of codes signals to whell train detection". Internacional. "2003 
+
+-----
+IEEE Conferencie on emerging technologies and factory automation proceedings". 
+(Portugal)(30/06/2003) 
+HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; GARCÍA GARCÍA, Juan Carlos; MAZO QUINTAS, 
+Manuel R.; DERUTIN , J.P.; SEROT , J.. "Ultrasonic sensor performance improvement using DSP-FPGA 
+based architectures". Internacional. "28th Annual Conference of the IEEE Industrial Electronic 
+Society". (05/11/2002) 
+DÍAZ FUENTE, Vicente; HERNANZ , D.; UREÑA UREÑA, Jesús. "Using complementary sequences for 
+direct transmission path identificacion". Internacional. "28th Annual Conference of the IEEE 
+Industrial Electronic Society". (05/11/2002) 
+HERNÁNDEZ ALONSO, Álvaro; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; DIAZ , V.; 
+MAZO QUINTAS, Manuel R.; HERNANZ CHILOECHES, Daniel; DERUTIN , J.P.; SERUT , J.. "Ultrasonic 
+signal processing using configurable systems.". Internacional. "b'02. IFAC 15th. World Congress". 
+(26/07/2002) 
+CAMBRALLA DIANA, Rafael; GONZÁLEZ FABÓN, Francisco; LÁZARO GALILEA, José Luis; UREÑA 
+UREÑA, Jesús. "Automatización del proceso de limpieza de barricas de roble para envejecimiento de 
+vinos.". Internacional. "TELEC¿02". (Cuba)(17/07/2002) 
+GARCÍA GARCÍA, Juan Carlos; UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; MARRÓN ROMERA, 
+Marta; PALAZUELOS CAGIGAS, Sira Elena. "Sillas de ruedas autónomas: buses serie e interacción con 
+el entorno.". Congreso. Internacional. "Congreso Iberoamericano IBERDISCAP01". Mar de 
+Plata(Argentina)(27/10/2001 - 27/10/2001) 
+BOQUETE VÁZQUEZ, Luciano; GARCÍA FERNÁNDEZ, Roberto; BAREA NAVARRO, Rafael; MAZO 
+QUINTAS, Manuel R.; GARCÍA GARCÍA, Juan Carlos; UREÑA UREÑA, Jesús; ESPINOSA ZAPATA, Felipe; 
+LÁZARO GALILEA, José Luis; ESCUDERO HERNANZ, M. Soledad. "Control with reference model using 
+recurrent neural networks". Internacional. "International ICSC/IFAC Symposium on Neural 
+Computation". (Canadá)(23/09/1998) 
+MAZO QUINTAS, Manuel R.; GARCÍA DOMÍNGUEZ, Juan Jesús; UREÑA UREÑA, Jesús; RODRÍGUEZ 
+SÁNCHEZ, Francisco Javier; LÁZARO GALILEA, José Luis; ESPINOSA ZAPATA, Felipe; GARCÍA 
+FERNÁNDEZ, Roberto; REVENGA DE TORO, Pedro Alfonso; SANTISO GÓMEZ, Enrique; MATEOS GIL, 
+Raúl; BUENO PEÑA, Emilio José; HERNÁNDEZ BRAVO, Adolfo. "Equipo didáctico DÉDALO: Experiencia 
+de aplicación". Nacional. "TAEE'98. III Congreso de Tecnologías Aplicadas a la Enseñanza de la 
+Electrónica.". Madrid(16/09/1998) 
+UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; MAZO QUINTAS, Manuel R.; BUENO PEÑA, 
+Emilio José; HERNÁNDEZ BRAVO, Adolfo. "Detección y discriminación de ecos en sensores de 
+ultrasonidos para robots móviles. ". Nacional. "V Seminario Anual de Automática, Electrónica, 
+Industrial e Instrumentación". Pamplona(15/09/1998) 
+UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; GARCÍA DOMÍNGUEZ, Juan Jesús; BUENO PEÑA, 
+Emilio José; HERNANZ , D.. "Low-cost improvement of an ultrasonic sensor and its characterization 
+for map-building". Internacional. "ICV'98 Intelligent Components for Vehicles. International 
+Federation Automatic Control". Barcelona(23/03/1998) 
+UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; GARCÍA DOMÍNGUEZ, Juan Jesús; BUENO PEÑA, 
+Emilio José; GARCÍA GARCÍA, Juan Carlos. "Ultrasonic sensor module for an autonomous industrial 
+
+-----
+vehicle". Internacional. "IAV'98. Intelligent Autonomous Vehicles. International Federation 
+Automatic Control". (02/03/1998) 
+UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; GARCÍA DOMÍNGUEZ, Juan Jesús; BUENO PEÑA, 
+Emilio José. "Implementación sobre FPGA's de un correlador para la obtención de tiempos de vuelo 
+precisos en medidas con ultrasonidos". Internacional. "FIE'97. 50 Aniversario de la Universidad de 
+Oriente". (Cuba)(01/10/1997) 
+MAZO QUINTAS, Manuel R.; UREÑA UREÑA, Jesús; RODRÍGUEZ SÁNCHEZ, Francisco Javier; GARDEL 
+VICENTE, Alfredo; GARGALLO , M.A.; ESPEJO , J.L.. "Implementación de un nodo inteligente para el 
+control de la tracción y dirección de un vehículo industrial". Nacional. "Seminario anual de 
+Automática, Electrónica Industrial e Instrumentación SAAEI' 97. Editado por Enrique J. Dede García-
+Santamaría". Valencia(17/09/1997) 
+UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; GARCÍA DOMÍNGUEZ, Juan Jesús; BUENO PEÑA, 
+Emilio José; CASAMAYOR , J.. "Modelado de un sistema sensorial de ultrasonidos para localización y 
+clasificación de objetos aplicable a un robot móvil". Nacional. "Seminario anual de Automática, 
+Electrónica Industrial e Instrumentación SAAEI' 97. Editado por Enrique J. Dede García-Santamaría". 
+Valencia(17/09/1997) 
+UREÑA UREÑA, Jesús; BUENO PEÑA, Emilio José; MAZO QUINTAS, Manuel R.; GARCÍA DOMÍNGUEZ, 
+Juan Jesús. "Sistema electrónico para la integración de sonar y odómetro en una carretilla 
+industrial". Nacional. "Seminario anual de Automática, Electrónica Industrial e Instrumentación 
+SAAEI' 97. Editado por Enrique J. Dede García-Santamaría". Valencia(17/09/1997) 
+UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; GARCÍA DOMÍNGUEZ, Juan Jesús; BUENO PEÑA, 
+Emilio José. "Arquitectura de un sistema sensorial de ultrasonidos para un vehículo industrial 
+autónomo". Internacional. "VIII Simpoio de Ingeniería Eléctrica. SIE'97". (Cuba)(01/06/1997) 
+GARCÍA CORONADO, Rubén; MATAIX GÓMEZ, César; MAZO QUINTAS, Manuel R.; MECA MECA, 
+Francisco J.; LÁZARO GALILEA, José Luis; UREÑA UREÑA, Jesús. "Desarrollo de prácticas de 
+electrónica analógica basada en EPACs". Internacional. "VIII Simposio de Ingeniería Eléctrica. SIE'97". 
+(Cuba)(01/06/1997) 
+MAZO QUINTAS, Manuel R.; UREÑA UREÑA, Jesús; RODRÍGUEZ SÁNCHEZ, Francisco Javier; GARCÍA 
+DOMÍNGUEZ, Juan Jesús; LÁZARO GALILEA, José Luis; SANTISO GÓMEZ, Enrique; ESPINOSA ZAPATA, 
+Felipe; GARCÍA CORONADO, Rubén; REVENGA DE TORO, Pedro Alfonso; GARCÍA GARCÍA, Juan 
+Carlos; MATEOS GIL, Raúl; BUENO PEÑA, Emilio José. "Equipo Didáctico para el Control de Motores 
+Dc, Brushless y Paso- Paso". Nacional. "TAEE¿96". Sevilla(01/09/1996) 
+GARCÍA DOMÍNGUEZ, Juan Jesús; MATAIX GÓMEZ, César; MAZO QUINTAS, Manuel R.; MECA MECA, 
+Francisco J.; UREÑA UREÑA, Jesús. "Tarjeta Reprogramable para Prácticas de Electrónica Analógica 
+basada en EPAC¿s". Nacional. "TAEE¿96". Sevilla(01/09/1996) 
+MAZO QUINTAS, Manuel R.; RODRÍGUEZ SÁNCHEZ, Francisco Javier; UREÑA UREÑA, Jesús; GARCÍA 
+CORONADO, Rubén; ESPINOSA ZAPATA, Felipe; LÁZARO GALILEA, José Luis; GARCÍA GARCÍA, Juan 
+Carlos; SOTELO VÁZQUEZ, Miguel A.; BOQUETE VÁZQUEZ, Luciano. "Automatización de una 
+Carretilla Industrial". Nacional. "Seminario Anual de Automática y ELectrónica Industrial SAAEI¿96". 
+Zaragoza(01/09/1996) 
+
+-----
+UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; MAZO QUINTAS, Manuel R.; BUENO PEÑA, 
+Emilio José. "Sistema Sensorial de Ultrasonidos con Multirecepción Simultánea ". Nacional. 
+"Seminario Anual de Automática y Electrónica Industrial SAAEI'96". Zaragoza(01/09/1996) 
+MAZO QUINTAS, Manuel R.; UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; RODRÍGUEZ 
+SÁNCHEZ, Francisco Javier; LÁZARO GALILEA, José Luis; GARCÍA GARCÍA, Juan Carlos; SANTISO 
+GÓMEZ, Enrique; REVENGA DE TORO, Pedro Alfonso. "Ayuda a la Movilidad para Personas 
+Discapacitadas y/o Mayores". Nacional. "I Jornadas sobre Inteligencia Artificial, Control y Sistemas 
+Expertos". Alcalá de Henares(01/07/1996) 
+UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; MAZO QUINTAS, Manuel R.; BUENO PEÑA, 
+Emilio José. "Sistema Integral de Navegación de Robot Móvil Mediante Ultrasonidos". Nacional. "I 
+Jornadas sobre Inteligencia Artificial, Control y Sistemas Expertos". Alcalá de Henares(01/07/1996) 
+MAZO QUINTAS, Manuel R.; GARCÍA CORONADO, Rubén; UREÑA UREÑA, Jesús; ESPINOSA ZAPATA, 
+Felipe; RODRÍGUEZ SÁNCHEZ, Francisco Javier; LÁZARO GALILEA, José Luis; GARCÍA GARCÍA, Juan 
+Carlos; SOTELO VÁZQUEZ, Miguel A.; BOQUETE VÁZQUEZ, Luciano. "Sistemas Sensorial Distribuido 
+para el Guiado de una Carretilla Industrial". Nacional. "I Jornadas sobre Inteligencia Artificial, Control 
+y Sistemas Expertos". Alcalá de Henares(01/07/1996) 
+UREÑA UREÑA, Jesús; MAZO QUINTAS, Manuel R.; LÁZARO GALILEA, José Luis; REVENGA DE TORO, 
+Pedro Alfonso; GARCÍA GARCÍA, Juan Carlos; RODRÍGUEZ SÁNCHEZ, Francisco Javier; SANTISO 
+GÓMEZ, Enrique. "Sensores de ultrasonidos e infrarrojos usados en la detección de obstáculos e 
+irregularidades del suelo para aplicaciones de robots móviles". Nacional. "VI Jornadas de Tecnología 
+Electrónica". Palmas de Gran Canaria (Las)(17/02/1995) 
+MAZO QUINTAS, Manuel R.; RODRÍGUEZ SÁNCHEZ, Francisco Javier; LÁZARO GALILEA, José Luis; 
+UREÑA UREÑA, Jesús; GARCÍA DOMÍNGUEZ, Juan Jesús; GARCÍA GARCÍA, Juan Carlos; SANTISO 
+GÓMEZ, Enrique; REVENGA DE TORO, Pedro Alfonso. "Electronic control for a wheel-chair guided by 
+oral commands and ultrasonic and infrared sensors". Internacional. "Symposium on artificial 
+intelligence in real-time control (AIRTC'94)". Valencia(04/10/1994) 
+ 
+
+-----

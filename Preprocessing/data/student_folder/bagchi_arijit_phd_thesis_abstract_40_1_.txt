@@ -1,0 +1,82 @@
+Power System Adequacy and Cost/Worth Assessment Incorporating Virtual Power Plants 
+ABSTRACT 
+A variety of factors such as the emergence of novel business models in deregulated power markets, 
+adoption of smart grid technologies, economic recession as well as climate change has led to a proliferation 
+of distributed energy resources (DER) in low and medium voltage power networks over the last decade. 
+The DER portfolio can consist of any given combination of renewable and/or conventional source based 
+distributed generators (DG), energy storage devices (ESD) as well as controllable loads. Today’s 
+distribution networks are therefore gradually getting transformed from their traditional ‘passive’ roles to an 
+‘active’ system featuring advanced coordination and control of its constituent DER components and 
+protection equipment. Indiscriminate addition of DERs on the demand side, however, poses a number of 
+visibility and security related challenges for the system operators, primarily owing to the modest capacities 
+most DERs possess (a few kW to a few MW) coupled with the inherent intermittencies associated with 
+renewable resources. The concept of aggregating several active distribution network components like DERs 
+and loads in the form of a virtual power plant (VPP) has therefore often been proposed for tackling the 
+above mentioned challenges. 
+The incorporation of VPPs into conventional power systems, however, introduces several 
+additional problems in the execution of traditional adequacy assessment procedures. Since the VPP is to be 
+represented as a single entity with respect to the transmission grid, the proposed methodology must take 
+into consideration the combined effects of the VPP’s constituent DERs and local loads along with relevant 
+information about its internal distribution network parameters like topology and constraints. In the current 
+literatures pertaining to the reliability evaluation of power systems incorporating VPPs, the system studies 
+are all carried out at the distribution network level, meaning that they fail to quantify the average energy 
+that the VPP can export to the transmission grid after meeting local distribution network demands and 
+constraints. Additionally, the evaluation of system reliability at the distribution level does not adequately 
+portray the possible improvements which can be brought about in the overall system reliability due to the 
+
+-----
+injection of excess energy into the external grid by the VPP. This thesis addresses these limitations by 
+proposing generic methodologies for performing generation and bulk power system adequacy assessments 
+and cost/worth analysis incorporating VPPs. 
+A Monte Carlo simulation based generation adequacy assessment methodology incorporating VPPs 
+is presented first. The disparate operating characteristics as well as capacities of individual DGs and local 
+loads along with information about distribution network features like topology and constraints are combined 
+together to form an equivalent model of a VPP using a linearized network flow based optimization 
+formulation. The VPP is mathematically represented as a single entity with respect to the transmission grid, 
+and it’s ‘prosumer’ (producer/consumer) characteristics are portrayed using a probability density function. 
+The equivalent VPP model is used in conjunction with several new indices introduced for quantifying 
+different aspects of the VPP’s performance. Key reliability indices are presented for quantifying the VPP’s 
+contributions in improving overall system reliability. Impacts of changes in the total installed VPP 
+generation capacity as well as the load forecast uncertainty on the VPP performance indices and the system 
+reliability indices are also analyzed. 
+A general methodology for investigating the impacts of incorporating ESDs into a VPP model and 
+subsequently using it for performing generation adequacy studies is proposed next. A linear programming 
+based multi-stage optimization formulation is presented for combining the stochastic hourly-output based 
+models of several DGs, ESDs and loads along with distribution network features like topology and 
+constraints into an aggregated probabilistic representation of the VPP. Several modes pertaining to the 
+charging/discharging of the distributed ESDs are integrated with the formulation using a fair energy 
+allocation based operating strategy. The VPP performance indices are suitably modified for quantifying the 
+impacts of the ESDs’ incorporation into the VPP profile. Sensitivity studies are carried out for analyzing 
+the effects of variations in the ESD rated capacities and charging/discharging periods on the VPP 
+performance and system adequacy indices. 
+A systematic procedure for assessing bulk power system adequacy incorporating the equivalent 
+VPP model developed before is introduced next. A linearized DC load flow based multi-objective optimal 
+
+-----
+power flow (OPF) formulation is proposed for performing transmission network contingency analysis. The 
+OPF problem minimizes the total load curtailment and generation costs for the system, while also enabling 
+priority dispatch of the VPP output (if available) into the external grid. The VPP performance indices are 
+suitably modified for highlighting the impacts of transmission network constraints and contingencies on 
+the VPP profile. Key reliability indices computed at the system as well as at individual transmission bus 
+levels are presented, and the impacts of changes in factors such as the VPP’s point of connection to the 
+transmission grid and the failure rates of transmission lines on the VPP’s performance metrics as well as 
+on the bus and system adequacy indices are also studied. 
+The DC load flow based OPF formulation described before is then combined with composite 
+system cost/worth analysis techniques for determining an optimal DER portfolio for the VPP so as to 
+minimize the total perceived costs pertaining to the VPP’s participation in day-ahead electricity markets. 
+The costs associated with the VPP are sub-divided into five categories – import, customer interruption, 
+operation, investment and revenues – and different DER configurations are examined to determine the 
+optimal portfolio which offers the highest cost savings for the VPP aggregator. Impacts of changes in the 
+VPP’s point of connection to the transmission grid on the configuration of the optimal DER portfolio 
+determined are also investigated. 
+The overall methodology proposed in this paper is tested using the Roy Billinton Test System 
+(RBTS) as well as the IEEE Reliability Test System (RTS). Two distribution network test beds are 
+separately used for modeling the VPP: the RBTS Bus 4 distribution network and the (larger) IEEE 69-bus 
+distribution network. Sequential Monte Carlo techniques are employed for performing the simulations as 
+part of this thesis. Several extensions to the studies performed in this thesis are listed as potential areas of 
+future research work. The results presented in this thesis can not only provide valuable information to the 
+VPP aggregator and the system operator regarding important facets of the VPP’s performance, but also 
+offer them critical insights pertaining to the economic benefits which can be obtained from incorporating 
+VPPs into existing power networks. 
+
+-----

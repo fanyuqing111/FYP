@@ -1,0 +1,95 @@
+Abstract
+The atmospheric water vapor is generally expressed in terms of Precipitable water
+vapor (PWV). It is an important indicator of water vapor climatology and variabil-
+ity in the lower troposphere and related climate processes. PWV values are tradi-
+tionally calculated using the radiosondes, microwave-radiometers and satellite based
+instruments. These technologies have limitations in capturing PWV data with good
+spatial and temporal resolutions in all weather conditions. Therefore, to overcome
+these short comings, Global Positioning System (GPS) satellite signals are being
+used to derive PWV values with high spatio-temporal resolution which is available
+in all-weather conditions. The PWV values are derived using the delay information
+from GPS signals. When GPS signals travel from a GPS satellite to a receiver on
+the ground, the signal undergoes delay caused by the ionosphere and the troposphere
+layers. In troposphere layer, the delay caused by the water vapor is termed as wet
+delay.
+PWV values are derived using these zenith wet delay (ZWD) values.
+In
+this thesis, a comprehensive literature review is done on the tropospheric delays and
+different terminologies associated to it.
+When converting the ZWD values to PWV, it involves the use of a dimensionless
+constant called PI. This PI value is found to rely on a water-vapor weighted mean
+temperature (Tm) value which varies according to different locations and different
+seasons. It is therefore, both site and time specific. Analysis of the PI value and its
+effect on the retrieved PWV from the data obtained for tropical, sub-tropical and
+temperate regions show that although the PI value is time and site specific, the
+change in the median value of PI for different years is minimal and is dependent
+only on factors like the latitude coordinates of the particular site and the day-of-
+iii
+
+-----
+the year. Therefore, using the data obtained from 174 different sites, a latitude-
+coordinate and day-of-year based PI value model is proposed for the retrieval of
+PWV. The proposed model has been successfully validated using data from different
+databases: the IGS GPS NASA database (International Global Navigation Satel-
+lite System Service, National Aeronautics and Space Administration), the IGS GPS
+GGOS database (Geodetic Observing System) and the very-long-baseline interfer-
+ometry (VLBI) database. Results show a strong agreement between PWV values
+calculated using the proposed model and that calculated using the temperature de-
+pendent models with 99%, 98% and 93% of error within ±1 mm for IGS GPS NASA,
+IGS GPS GGOS and VLBI databases, respectively. Moreover, the proposed model
+allows for the ease of PWV retrieval.
+With the rapid deployment of the GPS stations, many researchers are studying
+the PWV values and its usefulness in prediction of a rainfall event. In literature, there
+are long term rainfall prediction algorithms that are proposed using the data from
+tropical and sub-tropical stations. We review these algorithms and apply on the data
+from tropical region. It was found that the absolute value of PWV plays an important
+role in long term rainfall prediction, unlike temperate and sub-tropical region. In
+addition to the long term rain forecasting, a simple algorithm is proposed to perform
+the nowcasting of a rainfall event in the tropical region.
+The algorithm applies
+GPS-derived PWV values and its second derivative for the short-term prediction
+of rainfall. The proposed algorithm incorporates the seasonal dependency of PWV
+values for the prediction of a rain event in the coming 5 minutes based on the past
+30 minutes of PWV data. This proposed algorithm is based on the statistical study
+of 4 years of PWV and rainfall data from a station in Singapore and is validated
+using 2 years of independent data for the same station. The results show that the
+algorithm can achieve an average true detection rate and a false alarm rate of 87.7
+% and 38.6 % respectively. To analyze the applicability of the proposed algorithm,
+further validations are done using 1 year of data from one independent station from
+Singapore and 2 years of data from one station from Brazil. It is shown that the
+proposed algorithm performs well for both the independent stations. For the station
+from Brazil, the average true detection and false alarm rates are around 84.7 % and
+iv
+
+-----
+37 % respectively. All these observations are compared to the existing literature and
+it is concluded that the proposed algorithm is reliable and works well with a good
+detection rate for tropical region.
+It has been pointed out that the occurrence of rainfall is dependent on myriad of
+atmospheric parameters. Thus, in this thesis, we also systematically analyze various
+parameters that affect the precipitation in the atmosphere. Different ground based
+weather features like Temperature, Relative Humidity, Dew Point, Solar Radiation,
+PWV along with the Seasonal and the Diurnal features are identified and a detailed
+feature correlation study is presented.
+It has been shown that all features play
+a significant role in rainfall classification, whereas only a few parameters; PWV ,
+Solar Radiation, Seasonal and Diurnal features stand out for the rainfall prediction
+applications. Therefore, an optimum set of features are used in a data-driven machine
+learning algorithm for rainfall prediction. The train/test results using a four year
+(2012-2015) database show a true detection rate of 83.0%, false alarm rate of 24.0%,
+and an overall accuracy of 76.0%. When these results are compared to the existing
+literature, which shows the true detection and false alarm rates of 87.7% and 38.6%
+respectively, our proposed implementation shows a significant drop of up to 14.6%
+in the false alarm rates for rainfall prediction.
+In summary, in this thesis, we have studied the GPS signal delays and related
+processes in detail. We have proposed a simplified PI model that is globally applica-
+ble, easy to implement and has good resolution. We have analyzed different rainfall
+prediction algorithms using data from the tropical region and proposed a rainfall
+nowcasting algorithm that works with better accuracy for stations from the tropical
+region. We have implemented a data-driven approach that uses other meteorological
+parameters to improve the rainfall prediction. We believe that the models and algo-
+rithms proposed in this thesis will assist researchers in remote sensing and satellite
+communication applications.
+v
+
+-----

@@ -1,0 +1,37 @@
+Abstract 
+Aligning to Singapore's smart nation and smart city goals, the buildings could be upgraded into 
+smart buildings in Singapore. The concept of smart buildings is making buildings more energy-
+efficient and high performance on thermal comfort of residents with non-intrusive wearable 
+sensors and internet of things (IOTs). It can result in reducing the emissions of greenhouse gases, 
+and the created innovation economy in smart building's implementations can lead to greener, 
+cleaner and smarter buildings toward sustainable growth and life enhancements for Singapore.  
+The components of Air-Conditioning and Mechanical Ventilation (ACMV) systems are air 
+handling units (AHU), water chiller units (WCU), liquid dehumidification units (LDU), air ducts, 
+diffusers and smart dampers. The environmental parameters, such as air temperature, air velocity, 
+air relative humidity, air carbon dioxide concentration and so forth, are modeled through recent 
+state-of-the-art machine learning approaches that are classified as supervised learning, 
+unsupervised learning or reinforcement learning, and the models can be further optimized by 
+computationally intelligent algorithms (i.e. genetic algorithm, particle swarm optimization, 
+augmented firefly algorithm, batch/stochastic gradient descent, etc.). During my PhD study, it 
+had shown that our optimal solutions altering operation schemes can conserve energy resources 
+by about at least 20% compared to ordinary operation conditions on the platform of NTU 
+laboratory. 
+The indoor thermal comfort of residents can be evaluated under two ways. One way is a passive 
+approach to make use of ambient sensors to obtain current environmental profiles, such as air 
+temperature, air velocity, air relative humidity, air carbon dioxide concentration and so forth. 
+Based on the developed Fanger’s Predicted Mean Vote (PMV) model, the indoor thermal 
+comfort sensation of residents is indirectly determined. Another way is an active approach to 
+directly obtain residents’ physiological parameters through wearable and non-intrusive devices. 
+The main physiological parameters in my PhD study showed that height, weight, clothing, 
+gender, skin temperature and skin temperature gradient can make significant impacts over indoor 
+thermal comfort sensation of residents. It had showed that active approach (at least 70% 
+predicting accuracy) presents better results than passive approach, and there are still a lot of 
+potential researches to be carried out in active approach study. Based on the thermal comfort 
+models and ACMV systems models, objective functions had been established for balancing 
+energy consumption and thermal comfort sensations. The objective functions had been further 
+optimized by optimization algorithms for looking up optimal solutions in searching spaces. The 
+results had presented that the ACMV systems can perform about at least 14% more efficient than 
+ordinary operating conditions without sacrificing the thermal comfort sensations of occupants on 
+the platform of NTU laboratory. 
+
+-----

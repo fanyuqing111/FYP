@@ -1,0 +1,55 @@
+Abstract
+Complex networks emerge in diverse areas, ranging from social to biological, economic and technological
+systems.
+Among these applications, controlling the complex networks is one of the most important
+problem, which can guarantee the reliable and efficient operations of the network. Specifically, according
+to control theory, a dynamic network system is controllable if it can be driven from any initial state to any
+desired final state with appropriate external inputs. Existing works mainly focus on the problem of finding
+the minimum number of nodes connected with external input signals under different conditions such that
+the resulting network system is controllable. However, as we know when the Gramian matrix tend to be
+singular, the control cost of the network will be prohibitively large, resulting in the network is theoretically
+controllable but practically uncontrollable. Therefore, controlling the network with minimum cost has
+been an important problem to be solved.
+In this dissertation, we mainly focus on two problems. The first problem is to locate a subset of nodes
+connected with a given number of external control sources to drive the network at minimum control
+cost. For this problem, projected gradient method (PGM) and projected trust-region method (PTM) are
+proposed with established convergence property. We show that PGM is more computationally efficient
+than PTM. Simulation results demonstrate satisfactory performance of the algorithms. We further extend
+PGM in Monte-Carlo scenario and revisited projected gradient method (R-PGM) is proposed. It is found
+that the importance index of a node is strongly correlated to occurrence rate of that node to be selected
+as a key node in Monte-Carlo realizations and key nodes tends to divide elementary topologies equally
+when the control cost reaches its minimum.
+In addition, we reformulate the minimum-control-cost model in Boolean constraints.
+By relaxing
+these constraints into their convex hull, Inexact Alternating Direction Method of Multipliers (ADMM)
+is applied and a lower bound is obtained based on the global optimal value. We also introduce a simple
+but efficient algorithm which can greedily identify key nodes one by one and obtain the upper bound
+control cost. The proposed two algorithms are validated by examples ranging from Erd˝
+os-R´
+enyi networks,
+scale-free networks to some real-life networks.
+The second issue we deal with is to design the network topology with given external control sources
+such that the control cost is minimum. A matrix function optimization model is proposed to study how
+the network topology evolves when the objective is to achieve an optimal control of the networks. By
+obtaining the direction of network topology evolution, a normalized gradient descent method (NPGM)
+based on the obtained gradient of the network topology evolution is developed to solve the proposed
+optimization model. It is proven that NPGM linearly converges to a local minimum point. We also
+derive an optimality condition to determine whether a converged solution is global minimum or not, and
+1
+
+-----
+such a condition is verified through numerous experimental tests on directed networks. We find that a
+network adaptively changes its topology in such a way that many sub-networks are gradually evolved
+towards a pre-established control target. Such a finding enables us to model and explain how real-world
+complex networks adaptively self-organize themselves to many similar subnetworks during a relatively
+long evolution process.
+We further extend the model to another case, i.e. to investigate how connection strengths between
+nodes vary in accordance with control cost for complex networks with fixed topological structure. By
+considering optimal control of the networks, we obtain the optimal connection strength matrix with
+proposed NPGM. It is discovered that several control-flow subnetworks are self-formed. Moreover, the
+control cost with optimal weight matrix is smallest when pre-located controller sources distribute evenly.
+These observations provide a comprehensive understanding of the impact of connection link weight on
+control cost for complex networks.
+2
+
+-----

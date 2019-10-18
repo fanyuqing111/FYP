@@ -1,0 +1,65 @@
+Agent-Based Modelling of EV Charging For Optimized Charging Station Operation 
+ 
+Chaudhari Kalpesh Subhash 
+ 
+G1403252L 
+List of Publications 
+Journal Publications 
+1. K. Chaudhari, N. K. Kandasamy, A. Krishnan, A. Ukil and H. B. Gooi, "Agent Based 
+Aggregated Behavior Modelling For Electric Vehicle Charging Load," in IEEE 
+Transactions on Industrial Informatics. doi: 10.1109/TII.2018.2823321. 
+2. K. Chaudhari A. Ukil, K. Nandha Kumar, U. Manandhar and S. K. Kollimalla, ``Hybrid 
+optimization for energy storage management of PV integrated EV charging station," 
+IEEE Transactions on Industrial Informatics, 2017. doi: 10.1109/TII.2017.2713481. 
+3. A. Paudel, K. Chaudhari, H. B. Gooi, ``Peer-to-Peer Energy Trading in a Prosumer Based 
+Community Microgrid: A Game-Theoretic Model," IEEE Transactions on Industrial 
+Electronics, 2018. (Under Revision) 
+4. U. Manandhar, A. Ukil, H. B. Gooi and N. R. Tummuru and S. K. Kollimalla and B. Wang 
+and K. Chaudhari, ``Energy Management and Control for Grid Connected Hybrid 
+Energy Storage System under Different Operating Modes,'' IEEE Transactions on Smart 
+Grid, 2017. doi: 10.1109/TSG.2017.2773643 
+5. U. Manandhar, N. Tummuru, S. Kollimalla,A.Ukil, H. B. Gooi, K. Chaudhari, ``Validation 
+of Faster Joint Control Strategy for Battery and Supercapacitor Based Energy Storage 
+System,” 
+IEEE 
+Transactions 
+on 
+Industrial 
+Electronics, 
+2017. 
+doi: 
+10.1109/TIE.2017.2750622. 
+Conference Publications 
+1. K. Chaudhari, S. Piao Sen,  K. Nandha Kumar, A. Ukil, H. B. Gooi, ``Agent-Based 
+Modelling of EV Energy Storage Systems Considering Human Crowd Behavior," IECON 
+2017 - 43rd Annual Conference of the IEEE Industrial Electronics Society, Beijing, 2017  
+2. K. Chaudhari, K. Nandha Kumar, R. K. Kanamarlapudi, H. B. Gooi,  A. Ukil, ``Modeling 
+of Charging Profiles for Stationary Battery Systems using Curve Fitting Approach," 
+IECON 2017 - 43rd Annual Conference of the IEEE Industrial Electronics Society, 
+Beijing, 2017 
+3. K. Chaudhari, A. Ukil, S. K. Kollimalla and U. Manandhar, ``Energy storage 
+management for EV charging stations: Comparison between uncoordinated and 
+statistical charging loads," IECON 2016 - 42nd Annual Conference of the IEEE Industrial 
+Electronics Society, Florence, 2016.} 
+4. K. Chaudhari and A. Ukil, ``TOU pricing based energy management of public ev 
+charging stations using energy storage system,” in IEEE International Conference on 
+Industrial Technology (ICIT), pp. 460–465, March 2016. 
+ 
+ 
+
+-----
+Agent-Based Modelling of EV Charging For Optimized Charging Station Operation 
+ 
+Chaudhari Kalpesh Subhash 
+ 
+G1403252L 
+5. L.P.M. Sampath, A. Krishnan, K. Chaudhari, H. B Gooi and A. Ukil, ``A Control 
+Architecture for Optimal Power Sharing among Interconnected Microgrids,” in 2017 
+IEEE PES General Meeting ,Chicago, USA. July 2017 
+6. S. Kollimalla, A. Ukil, H. B. Gooi, NK S. Naidu, U. Manandhar and K. Chaudhari, 
+``Application of Two Stage Rate Limit Control for Different Operating Modes of 
+Battery,” in IEEE International Conference on Industrial Technology (ICIT), March 2017 
+ 
+         
+
+-----

@@ -1,0 +1,690 @@
+Dr. Chi-Yung Chung 
+Professor  
+Department of Electrical and Computer Engineering  
+The University of Saskatchewan 
+ 
+Contact Details 
+ 
+School of Electrical Engineering and Telecommunications 
+Address: 3B37 Engineering Building  
+The University of Saskatchewan 
+57 Campus Drive, Saskatoon, SK S7N 5A9 
+Canada  
+Office Phone:  +1 (306) 9662340 
+Email: c.y.chung@usask.ca 
+ 
+CV 
+ 
+Education History 
+Ph.D. degree in electrical engineering from The Hong Kong Polytechnic University, China 
+ 
+Current Positions 
+Professor in the Department of Electrical and Computer Engineering, University of Saskatchewan 
+NSERC/SaskPower Senior Industrial Research Chair, Smart Grid Technologies 
+SaskPower Chair in Power Systems Engineering, Smart Grid Technologies 
+SaskPower Chair in Power Systems Engineering, University of Saskatchewan 
+Fellow of IEEE and IET 
+IEEE PES Distinguished Lecturer 
+Member-at-Large (Global Outreach) of IEEE PES Governing Board 
+Editor of IEEE Transactions of Power Systems  
+Editor of IEEE Transactions on Sustainable Energy  
+Editor of IEEE Power Engineering Letters 
+Associate Editor of IET Generation 
+Associate Editor of Transmission & Distribution  
+Associate Editor of CSEE Journal of Power and Energy Systems  
+Associate Editor of Journal of Modern Power Systems and Clean Energy 
+ 
+Biography 
+Dr. C.Y. Chung is a Professor, the NSERC/SaskPower Senior Industrial Research Chair in Smart Grid 
+Technologies, and the SaskPower Chair in Power Systems Engineering in Smart Grid Technologies, 
+and the SaskPower Chair in Power Systems Engineering in the Department of Electrical and Computer 
+Engineering at the University of Saskatchewan, Saskatoon, SK, Canada. He is a prominent leader for 
+advancing academic activities and applied research in power systems engineering development in the 
+province of Saskatchewan. He is now leading a research team, supported by SaskPower and NSERC 
+of Canada, to conduct cutting-edge and long-term smart grid research for SaskPower and address 
+critical technical issues associated with smart grid technologies and their applications to real power 
+systems. He is a Fellow of IEEE and IET. He is also an IEEE PES Distinguished Lecturer and the 
+Member-at-Large (Global Outreach) of IEEE PES Governing Board. 
+ 
+Dr. Chung received the B.Eng degree (with First Class Honors) and the Ph.D. degree in electrical 
+engineering from The Hong Kong Polytechnic University, China, in 1995 and 1999, respectively. His 
+
+-----
+research work has not only generated 3 US patents, 2 book chapters, and over 120 international journal 
+papers, but has also resulted in successful transference of two new commercial software packages 
+developed for power system analysis. Software package "Small Signal Analysis Tool (SSAT)" 
+developed by him is now being used by over 80 power companies and nearly 90 universities worldwide. 
+ 
+Dr. Chung was the Member-at-Large (Smart Grid) of IEEE PES Governing Board, the Past Chairman 
+of the IEEE Hong Kong Section, IEEE Hong Kong Joint Chapter of PES/IAS/PELS/IES and IET Hong 
+Kong PES. He was the General Chair of IEEE EPEC2017 and IEEE PES APPEEC2014, Co-Chair of 
+IEEE TENCON2015, IEEE PES APPEEC2013 and IEEE ICHQP2012, Vice-Chairman of IET 
+APSCOM 2015 and IET APSCOM 2012, Technical Chairman of IET APSCOM 2009, and Honorary 
+Secretary of IEEE DRPT2004 and IEEE IAS 2005 Annual Meeting. 
+ 
+Dr. Chung is currently an Editor of IEEE Transactions of Power Systems, IEEE Transactions on 
+Sustainable Energy, and IEEE Power Engineering Letters, and an Associate Editor of IET Generation, 
+Transmission & Distribution, CSEE Journal of Power and Energy Systems, and Journal of Modern 
+Power Systems and Clean Energy. 
+ 
+Citation Report and Publication List  
+(Results searched from Citation Report, Web of Science) 
+ 
+From Web of Science Search 
+Results found: 
+64 
+Sum of the Times Cited  
+350 
+Average Citations per Item:  
+5.47 
+h-index                               : 11 
+ 
+  Citation Report 
+Total 
+Citations 
+Average 
+per Year 
+350 
+70 
+1 
+Title: A Novel Probabilistic Optimal Power Flow Model With Uncertain 
+Wind Power Generation Described by Customized Gaussian Mixture Model 
+By: Ke, Deping; Chung, C. Y.; Sun, Yuanzhang 
+Source: IEEE TRANSACTIONS ON SUSTAINABLE 
+ENERGY   Volume: 7  Issue: 1  Pages: 200-212  Published: JAN 2016   
+35 
+8.75 
+2 
+Title: Reliability Evaluation of Distribution Systems Including Vehicle-to-
+Home and Vehicle-to-Grid 
+By: Xu, N. Z.; Chung, C. Y. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 31  Issue: 1  Pages: 759-768  Published: JAN 2016   
+29 
+7.25 
+3 
+Title: Optimal planning and operation of energy storage systems in radial 
+networks for wind power integration with reserve support 
+By: Qin, Mingwen; Chan, Kevin Wing; Chung, Chi Yung; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 10  Issue: 8  Pages: 2019-2025  Published: MAY 
+19 2016   
+28 
+7 
+
+-----
+4 
+Title: A fuzzy Petri net based approach for fault diagnosis in power 
+systems considering temporal constraints 
+By: Zhang, Yan; Zhang, Yong; Wen, Fushuan; et al. 
+Source: INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY 
+SYSTEMS   Volume: 78  Pages: 215-224  Published: JUN 2016   
+24 
+6 
+5 
+Title: Optimal scheduling of virtual power plant with battery degradation 
+cost 
+By: Zhou, Bin; Liu, Xi; Cao, Yijia; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 10  Issue: 3  Special Issue: SI  Pages: 712-
+725  Published:FEB 18 2016   
+22 
+5.5 
+6 
+Title: Scenario-Based Comprehensive Expansion Planning for Distribution 
+Systems Considering Integration of Plug-in Electric Vehicles 
+By: Yao, Weifeng; Chung, C. Y.; Wen, Fushuan; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 31  Issue: 1  Pages: 317-328  Published: JAN 2016   
+21 
+5.25 
+7 
+Title: Economic MPC of Aggregating Commercial Buildings for Providing 
+Flexible Power Reserve 
+By: Mai, Weijie; Chung, C. Y. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 30  Issue: 5  Pages: 2685-2694  Published: SEP 2015   
+17 
+3.4 
+8 
+Title: Novel Multi-Step Short-Term Wind Power Prediction Framework 
+Based on Chaotic Time Series Analysis and Singular Spectrum Analysis 
+By: Safari, Nima; Chung, C. Y.; Price, G. C. D. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 1  Pages: 590-601  Published: JAN 2018   
+16 
+8 
+9 
+Title: A Novel Adaptive Wide Area PSS Based on Output-Only Modal 
+Analysis 
+By: Zhang, Junbo; Chung, C. Y.; Lu, Chao; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 30  Issue: 5  Pages: 2633-2642  Published: SEP 2015   
+13 
+2.6 
+10 
+Title: Design of Probabilistically-Robust Wide-Area Power System 
+Stabilizers to Suppress Inter-Area Oscillations of Wind Integrated Power 
+Systems 
+By: Ke, Deping; Chung, C. Y. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 31  Issue: 6  Pages: 4297-4309  Published: NOV 2016   
+12 
+3 
+11 
+Title: Challenges in Future Competition of Electric Vehicle Charging 
+Management and Solutions 
+By: Xu, N. Z.; Chung, C. Y. 
+Source: IEEE TRANSACTIONS ON SMART 
+GRID   Volume: 6  Issue: 3  Pages: 1323-1331  Published: MAY 2015   
+12 
+2.4 
+12 
+Title: Sectionalizing strategies for minimizing outage durations of critical 
+loads in parallel power system restoration with bi-level programming 
+By: Liu, Weijia; Lin, Zhenzhi; Wen, Fushuan; et al. 
+Source: INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY 
+SYSTEMS   Volume: 71  Pages: 327-334  Published: OCT 2015   
+11 
+2.2 
+
+-----
+13 
+Title: Uncertainties of EV Charging and Effects on Well-Being Analysis of 
+Generating Systems 
+By: Xu, N. Z.; Chung, C. Y. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 30  Issue: 5  Pages: 2547-2557  Published: SEP 2015   
+9 
+1.8 
+14 
+Title: Online Damping Ratio Prediction Using Locally Weighted Linear 
+Regression 
+By: Zhang, Junbo; Chung, C. Y.; Han, Yingduo 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 31  Issue: 3  Pages: 1954-1962  Published: MAY 2016   
+8 
+2 
+15 
+Title: Power System Sensitivity Identification-Inherent System Properties 
+and Data Quality 
+By: Zhang, Junbo; Zheng, Xiangtian; Wang, Zejing; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 32  Issue: 4  Pages: 2756-2766  Published: JUL 2017   
+7 
+2.33 
+16 
+Title: Time Series Modeling for Dynamic Thermal Rating of Overhead 
+By: Zhan, Junpeng; Chung, C. Y.; Demeter, Elemer 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 32  Issue: 3  Pages: 2172-2182  Published: MAY 2017   
+7 
+2.33 
+17 
+Title: An Analytic Model for Fault Diagnosis in Power Systems Utilizing 
+Redundancy and Temporal Information of Alarm Messages 
+By: Zhang, Yan; Chung, Chi Yung; Wen, Fushuan; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 31  Issue: 6  Pages: 4877-4886  Published: NOV 2016   
+7 
+1.75 
+18 
+Title: Synchrophasor measurement-based fault location technique for 
+multi-terminal multi-section non-homogeneous transmission lines 
+By: Wu, Ting; Chung, Chi-Yung; Kamwa, Innocent; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 10  Issue: 8  Pages: 1815-1824  Published: MAY 
+19 2016   
+6 
+1.5 
+19 
+Title: Online re-dispatching of power systems based on modal sensitivity 
+identification 
+By: Zhang, Junbo; Lu, Chao; Chung, Chi Yung; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 9  Issue: 12  Pages: 1352-1360  Published: SEP 4 
+2015   
+6 
+1.2 
+20 
+Title: Optimal torque control based on effective tracking range for 
+maximum power point tracking of wind turbines under varying wind 
+conditions 
+By: Yin, Minghui; Li, Weijie; Chung, Chi Yung; et al. 
+Source: IET RENEWABLE POWER 
+GENERATION   Volume: 11  Issue: 4  Special Issue: SI  Pages: 501-
+510  Published: MAR 15 2017   
+5 
+1.67 
+
+-----
+21 
+Title: A Novel Decomposition-Based Localized Short-Term Tidal Current 
+Speed and Direction Prediction Model 
+By: Safari, Nima; Ansari, Osama Aslam; Zare, Alireza; et al. 
+Conference: 2017 IEEE Power & Energy Society General 
+Meeting Location: Chicago, IL Date: JUL 16-20, 2017 Sponsor(s): IEEE 
+Source: 2017 IEEE POWER & ENERGY SOCIETY GENERAL MEETING   Book 
+Series: IEEE Power and Energy Society General Meeting 
+PESGM  Published: 2017   
+5 
+1.67 
+22 
+Title: Coordinated Supplementary Damping Control of DFIG and PSS to 
+Suppress Inter-Area Oscillations With Optimally Controlled Plant Dynamics 
+By: Zhang, Chen; Ke, Deping; Sun, Yuanzhang; et al. 
+Source: IEEE TRANSACTIONS ON SUSTAINABLE 
+ENERGY   Volume: 9  Issue: 2  Pages: 780-791  Published: APR 2018   
+4 
+2 
+23 
+Title: A Fast Solution Method for Stochastic Transmission Expansion 
+Planning 
+By: Zhan, Junpeng; Chung, C. Y.; Zare, Alireza 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 32  Issue: 6  Pages: 4684-4695  Published: NOV 2017   
+4 
+1.33 
+24 
+Title: Inertia compensation scheme of WTS considering time delay for 
+emulating large-inertia turbines 
+By: Yin, Minghui; Li, Weijie; Chung, Chi Yung; et al. 
+Source: IET RENEWABLE POWER 
+GENERATION   Volume: 11  Issue: 4  Special Issue: SI  Pages: 529-
+538  Published: MAR 15 2017   
+4 
+1.33 
+25 
+Title: System State Estimation Considering EV Penetration With Unknown 
+Behavior Using Quasi-Newton Method 
+By: Nie, Yongquan; Chung, C. Y.; Xu, N. Z. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 31  Issue: 6  Pages: 4605-4615  Published: NOV 2016   
+4 
+1 
+26 
+Title: Single-Stage Wireless-Power-Transfer Resonant Converter With 
+Boost Bridgeless Power-Factor-Correction Rectifier 
+By: Liu, Junwei; Chan, Ka Wing; Chung, Chi Yung; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+ELECTRONICS   Volume: 65  Issue: 3  Pages: 2145-2155  Published: MAR 
+2018   
+3 
+1.5 
+27 
+Title: Eigen-analysis of hydraulic-mechanical-electrical coupling 
+mechanism for small signal stability of hydropower plant 
+By: Yang, Weijia; Norrlund, Per; Chung, Chi Yung; et al. 
+Source: RENEWABLE ENERGY   Volume: 115  Pages: 1014-
+1025  Published: JAN 2018   
+3 
+1.5 
+28 
+Title: A Fast State Estimator for Systems Including Limited Number of 
+PMUs 
+By: Wu, Ting; Chung, C. Y.; Kamwa, Innocent 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 32  Issue: 6  Pages: 4329-4339  Published: NOV 2017   
+3 
+1 
+
+-----
+29 
+Title: Noise Effect and Noise-Assisted Ensemble Regression in Power 
+System Online Sensitivity Identification 
+By: Zhang, Junbo; Chung, C. Y.; Guan, Lin 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 13  Issue: 5  Pages: 2302-2310  Published: OCT 
+2017   
+3 
+1 
+30 
+Title: A Generalized Approach for Computing Most Sensitive Eigenvalues 
+With Respect to System Parameter Changes in Large-Scale Power Systems 
+By: Chung, C. Y.; Dai, Bo 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 31  Issue: 3  Pages: 2278-2288  Published: MAY 2016   
+3 
+0.75 
+31 
+Title: Instantaneous Electromechanical Dynamics Monitoring in Smart 
+Transmission Grid 
+By: Zhang, Junbo; Chung, C. Y.; Wang, Zejing; et al. 
+Source: IEEE TRANSACTIONS ON INDUSTRIAL 
+INFORMATICS   Volume: 12  Issue: 2  Pages: 844-852  Published: APR 
+2016   
+3 
+0.75 
+32 
+Title: A Fuzzy Adaptive Probabilistic Wind Power Prediction Framework 
+Using Diffusion Kernel Density Estimators 
+By: Khorramdel, Benyamin; Chung, C. Y.; Safari, Nima; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 6  Pages: 7109-7121  Published: NOV 2018   
+2 
+1 
+33 
+Title: Optimal Scheduling of Biogas-Solar-Wind Renewable Portfolio for 
+Multicarrier Energy Supplies 
+By: Zhou, Bin; Xu, Da; Li, Canbing; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 6  Pages: 6229-6239  Published: NOV 2018   
+2 
+1 
+34 
+Title: A Distributionally Robust Chance-Constrained MILP Model for 
+Multistage Distribution System Planning With Uncertain Renewables and 
+Loads 
+By: Zare, Alireza; Chung, C. Y.; Zhan, Junpeng; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 5  Pages: 5248-5262  Published: SEP 2018   
+2 
+1 
+35 
+Title: Stochastic Transmission Expansion Planning Considering Uncertain 
+Dynamic Thermal Rating of Overhead Lines 
+By: Zhan, Junpeng; Liu, Weijia; Chung, C. Y. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 34  Issue: 1  Pages: 432-443  Published: JAN 2019   
+1 
+1 
+36 
+Title: Power System Operational Adequacy Evaluation With Wind Power 
+Ramp Limits 
+By: Gong, Yuzhong; Chung, C. Y.; Mall, R. S. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 3  Pages: 2706-2716  Published: MAY 2018   
+1 
+0.5 
+37 
+Title: Application of Information Gap Decision Theory to the Design of 
+Robust Wide-Area Power System Stabilizers Considering Uncertainties of 
+Wind Power 
+By: Ke, Deping; Shen, Feifan; Chung, C. Y.; et al. 
+Source: IEEE TRANSACTIONS ON SUSTAINABLE 
+ENERGY   Volume: 9  Issue: 2  Pages: 805-817  Published: APR 2018   
+1 
+0.5 
+
+-----
+38 
+Title: Locally Weighted Ridge Regression for Power System Online 
+Sensitivity Identification Considering Data Collinearity 
+By: Zhang, Junbo; Wang, Zejing; Zheng, Xiangtian; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 2  Pages: 1624-1634  Published: MAR 2018   
+1 
+0.5 
+39 
+Title: Enhancing Frequency Stability of Asynchronous Grids 
+Interconnected with HVDC Links 
+By: Wen, Yunfeng; Chung, C. Y.; Ye, Xi 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 2  Pages: 1800-1810  Published: MAR 2018   
+1 
+0.5 
+40 
+Title: A Bi-Level Polyhedral-Based MILP Model for Expansion Planning of 
+Active Distribution Networks Incorporating Distributed Generation 
+By: Zare, Alireza; Chung, C. Y.; Safari, Nima; et al. 
+Conference: IEEE-Power-and-Energy-Society General Meeting 
+(PESGM) Location: Portland, OR Date: AUG 05-10, 2018Sponsor(s): IEEE 
+Power & Energy Soc 
+Source: 2018 IEEE POWER & ENERGY SOCIETY GENERAL MEETING 
+(PESGM)   Book Series: IEEE Power and Energy Society General Meeting 
+PESGM  Published: 2018   
+1 
+0.5 
+41 
+Title: A successive approximation approach for short-term cascaded 
+hydro scheduling with variable water flow delay 
+By: Ge, Xiaolin; Xia, Shu; Lee, Wei-Jen; et al. 
+Source: ELECTRIC POWER SYSTEMS RESEARCH   Volume: 154  Pages: 213-
+222  Published: JAN 2018   
+1 
+0.5 
+42 
+Title: A Simple Parameter Estimation Approach to Modeling of 
+Photovoltaic Modules Based on Datasheet Values 
+By: Feng, Xiangsai; Qing, Xiangyun; Chung, C. Y.; et al. 
+Source: JOURNAL OF SOLAR ENERGY ENGINEERING-TRANSACTIONS OF 
+THE ASME   Volume: 138  Issue: 5    Article 
+Number:051010  Published: OCT 2016   
+1 
+0.25 
+43 
+Title: Switching-loss reduction technique in active power filters without 
+auxiliary circuits 
+By: Lam, Chi-Seng; Wong, Man-Chung; Dai, Ning-Yi; et al. 
+Source: IET POWER ELECTRONICS   Volume: 9  Issue: 4  Pages: 728-
+742  Published: MAR 30 2016   
+1 
+0.25 
+44 
+Title: Reliability Assessment of Microgrid with Renewable Generation and 
+Prioritized Loads 
+By: Ansari, Osama Aslam; Safari, Nima; Chung, C. Y. 
+Conference: IEEE Green Energy and Systems Conference Location: Long 
+Beach, CA Date: NOV 06-07, 2016 Sponsor(s): IEEE 
+Source: 2016 IEEE GREEN ENERGY AND SYSTEMS CONFERENCE 
+(IGSEC)   Published: 2016   
+1 
+0.25 
+45 
+Title: Tidal Current and Level Uncertainty Prediction via Adaptive Linear 
+Programming 
+By: Safari, Nima; Mazhari, Seyed Mahdi; Khorramdel, Benyamin; et al. 
+Source: IEEE TRANSACTIONS ON SUSTAINABLE 
+ENERGY   Volume: 10  Issue: 2  Pages: 748-758  Published: APR 2019   
+0 
+0 
+
+-----
+46 
+Title: Very Short-Term Wind Power Prediction Interval Framework via Bi-
+Level Optimization and Novel Convex Cost Function 
+By: Safari, N.; Mazhari, S. M.; Chung, C. Y. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 34  Issue: 2  Pages: 1289-1300  Published: MAR 2019   
+0 
+0 
+47 
+Title: Investigations of Large-Scale Voltage-Dependent Loads for Damping 
+Inter-Area Oscillations: Mechanism and Robust Decentralized Control 
+By: Zhang, Chen; Ke, Deping; Sun, Yuanzhang; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 6  Pages: 6037-6048  Published: NOV 2018   
+0 
+0 
+48 
+Title: Frequency Stability Enhancement of Integrated AC/VSC-MTDC 
+Systems With Massive Infeed of Offshore Wind Generation 
+By: Wen, Yunfeng; Zhan, Junpeng; Chung, C. Y.; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 5  Pages: 5135-5146  Published: SEP 2018   
+0 
+0 
+49 
+Title: A Hybrid Fault Cluster and Thevenin Equivalent Based Framework 
+for Rotor Angle Stability Prediction 
+By: Mazhari, Seyed Mahdi; Safari, Nima; Chung, C. Y.; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 5  Pages: 5594-5603  Published: SEP 2018   
+0 
+0 
+50 
+Title: A Computationally Efficient Method to Design Probabilistically 
+Robust Wide-Area PSSs for Damping Inter-Area Oscillations in Wind-
+Integrated Power Systems 
+By: Zhou, Jingsen; Ke, Deping; Chung, C. Y.; et al. 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 5  Pages: 5692-5703  Published: SEP 2018   
+0 
+0 
+51 
+Title: Hierarchical Interactive Risk Hedging of Multi-TSO Power Systems 
+By: Wen, Yunfeng; Chung, C. Y.; Liu, Xuan 
+Source: IEEE TRANSACTIONS ON POWER 
+SYSTEMS   Volume: 33  Issue: 3  Pages: 2962-2974  Published: MAY 2018   
+0 
+0 
+52 
+Title: A Hybrid Probabilistic Wind Power Prediction Based on An Improved 
+Decomposition Technique and Kernel Density Estimation 
+By: Khorramdel, B.; Azizi, M.; Safari, N.; et al. 
+Conference: IEEE-Power-and-Energy-Society General Meeting 
+(PESGM) Location: Portland, OR Date: AUG 05-10, 2018Sponsor(s): IEEE 
+Power & Energy Soc 
+Source: 2018 IEEE POWER & ENERGY SOCIETY GENERAL MEETING 
+(PESGM)   Book Series: IEEE Power and Energy Society General Meeting 
+PESGM  Published: 2018   
+0 
+0 
+53 
+Title: A Nonparametric Probability Distribution Model for Short-Term Wind 
+Power Prediction Error 
+By: Khorramdel, B.; Khorramdel, H.; Zare, A.; et al. 
+Conference: IEEE Canadian Conference on Electrical & Computer 
+Engineering (CCECE) Location: Quebec, CANADA Date: MAY 13-16, 2018  
+Source: 2018 IEEE CANADIAN CONFERENCE ON ELECTRICAL & COMPUTER 
+ENGINEERING (CCECE)   Book Series: Canadian Conference on Electrical 
+and Computer Engineering  Published: 2018   
+0 
+0 
+
+-----
+54 
+Title: A Novel Unscented Transformation-Based Framework for 
+Distribution Network Expansion Planning Considering Smart EV Parking 
+Lots 
+By: Zare, Alireza; Chung, C. Y.; Khorramdel, Benyamin; et al. 
+Conference: IEEE Canadian Conference on Electrical & Computer 
+Engineering (CCECE) Location: Quebec, CANADA Date: MAY 13-16, 2018  
+Source: 2018 IEEE CANADIAN CONFERENCE ON ELECTRICAL & COMPUTER 
+ENGINEERING (CCECE)   Book Series: Canadian Conference on Electrical 
+and Computer Engineering  Published: 2018   
+0 
+0 
+55 
+Title: Submodule-Based Modeling and Simulation of a Series-Parallel 
+Photovoltaic Array Under Mismatch Conditions 
+By: Qing, Xiangyun; Sun, Hao; Feng, Xiangsai; et al. 
+Source: IEEE JOURNAL OF 
+PHOTOVOLTAICS   Volume: 7  Issue: 6  Pages: 1731-1739  Published: NOV 
+2017   
+0 
+0 
+56 
+Title: Available Capacity based AGC Signal Distribution Strategy with 
+Energy Storage System 
+By: Gong, Yuzhong; Chung, C. Y. 
+Conference: 2017 IEEE Power & Energy Society General 
+Meeting Location: Chicago, IL Date: JUL 16-20, 2017 Sponsor(s): IEEE 
+Source: 2017 IEEE POWER & ENERGY SOCIETY GENERAL MEETING   Book 
+Series: IEEE Power and Energy Society General Meeting 
+PESGM  Published: 2017   
+0 
+0 
+57 
+Title: Reliability Evaluation of Bulk Power System Considering 
+Compressed Air Energy Storage 
+By: Ansari, Osama Aslam; Bhattarai, Safal; Karki, Rajesh; et al. 
+Conference: IEEE Electrical Power and Energy Conference 
+(EPEC) Location: Saskatoon, CANADA Date: OCT 22-25, 
+2017Sponsor(s): IEEE 
+Source: 2017 IEEE ELECTRICAL POWER AND ENERGY CONFERENCE 
+(EPEC)   Book Series: IEEE Electrical Power and Energy 
+Conference  Pages: 231-236  Published: 2017   
+0 
+0 
+58 
+Title: An Advanced Multistage Multi-Step Tidal Current Speed and 
+Direction Prediction Model 
+By: Safari, Nima; Khorramdel, Benyamin; Zare, Alireza; et al. 
+Conference: IEEE Electrical Power and Energy Conference 
+(EPEC) Location: Saskatoon, CANADA Date: OCT 22-25, 
+2017Sponsor(s): IEEE 
+Source: 2017 IEEE ELECTRICAL POWER AND ENERGY CONFERENCE 
+(EPEC)   Book Series: IEEE Electrical Power and Energy 
+Conference  Pages: 591-596  Published: 2017   
+0 
+0 
+59 
+Title: A Spatiotemporal Wind Power Prediction based on Wavelet 
+Decomposition, Feature Selection, and Localized Prediction 
+By: Safari, N.; Chen, Y.; Khorramdel, B.; et al. 
+Conference: IEEE Electrical Power and Energy Conference 
+(EPEC) Location: Saskatoon, CANADA Date: OCT 22-25, 
+2017Sponsor(s): IEEE 
+Source: 2017 IEEE ELECTRICAL POWER AND ENERGY CONFERENCE 
+(EPEC)   Book Series: IEEE Electrical Power and Energy 
+Conference  Pages: 597-602  Published: 2017   
+0 
+0 
+
+-----
+60 
+Title: Guest Editorial: Optimal Utilisation of Storage Systems in 
+Transmission and Distribution Systems 
+By: Chung, C. Y.; Wen, Fushuan; Ledwich, Gerard; et al. 
+Source: IET GENERATION TRANSMISSION & 
+DISTRIBUTION   Volume: 10  Issue: 3  Special Issue: SI  Pages: 563-
+565  Published:FEB 18 2016   
+0 
+0 
+61 
+Title: Model Predictive Control based on thermal dynamic building model 
+in the demand-side management 
+By: Mai, Weijie; Chung, C. Y. 
+Conference: IEEE-Power-and-Energy-Society General Meeting 
+(PESGM) Location: Boston, MA Date: JUL 17-21, 2016 Sponsor(s):IEEE 
+Power & Energ Soc 
+Source: 2016 IEEE POWER AND ENERGY SOCIETY GENERAL MEETING 
+(PESGM)   Book Series: IEEE Power and Energy Society General Meeting 
+PESGM  Published: 2016   
+0 
+0 
+62 
+Title: Instantaneous Sensitivity Identification in Power Systems - 
+Challenges and Technique Roadmap 
+By: Zhang, Junbo; Guan, Lin; Chung, C. Y. 
+Conference: IEEE-Power-and-Energy-Society General Meeting 
+(PESGM) Location: Boston, MA Date: JUL 17-21, 2016 Sponsor(s):IEEE 
+Power & Energ Soc 
+Source: 2016 IEEE POWER AND ENERGY SOCIETY GENERAL MEETING 
+(PESGM)   Book Series: IEEE Power and Energy Society General Meeting 
+PESGM  Published: 2016   
+0 
+0 
+63 
+Title: A Predictive Direct Power Control Technique for Transformerless 
+Grid Connected PV Systems Application 
+By: Safari, Nima; Ansari, Osama Aslam; Chung, C. Y. 
+Conference: IEEE Electrical Power and Energy Conference 
+(EPEC) Location: Ottawa, CANADA Date: OCT 12-14, 2016 Sponsor(s):IEEE 
+Source: 2016 IEEE ELECTRICAL POWER AND ENERGY CONFERENCE 
+(EPEC)   Book Series: IEEE Electrical Power and Energy 
+Conference  Published: 2016   
+0 
+0 
+64 
+Title: A Comprehensive Framework for Unidirectional Vehicle-to-Grid 
+Regulation Services 
+By: Xu, N. Z.; Huang, Huazhang; Chung, C. Y. 
+Conference: IEEE PES Asia-Pacific Power and Energy Engineering 
+Conference (IEEE PES APPEEC) Location: IEEE Hong Kong Joint Chapter 
+Power & Energy Ind Applicat Power Elect Ind E, Hong Kong, PEOPLES R 
+CHINA Date: DEC 07-10, 2014 Sponsor(s):IEEE Power & Energy Soc; IEEE; 
+CLP Power Hong Kong Ltd; Honghong Elect Co Ltd; Schneider Elect Ltd; 
+Siemens; Mitsubishi Ltd; Jiangshu Shangshang Cable Grp Co Ltd; Wardson 
+Ltd; Natl Sci Fdn; Off Naval Res; Dept Energy 
+Source: 2014 IEEE PES ASIA-PACIFIC POWER AND ENERGY ENGINEERING 
+CONFERENCE (IEEE PES APPEEC)   Book Series: Asia-Pacific Power and 
+Energy Engineering Conference  Published: 2014   
+0 
+0 
+ 
+ 
+ 
+
+-----

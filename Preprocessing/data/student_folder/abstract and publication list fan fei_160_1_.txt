@@ -1,0 +1,82 @@
+Abstract 
+In the recent years, pulse width modulated (PWM) variable frequency drives (VFDs) 
+are commonly used in modern control of electro-mechanical drive systems. Although the 
+presence of insulated-gate bipolar transistor (IGBT) and higher switching frequencies help 
+to reduce harmonics and increase operation efficiency, they subject motors to a high 
+frequency common-mode (CM) voltage and resultant CM current. Bearing currents 
+induced by the CM voltage and its steep rising edges have the potential to create premature 
+failure inside motor bearings, such as frosting, fluting and pitting. Consequently, new drive 
+installations can fail within months after start-up, which results in unplanned and costly 
+system downtime. Thus, it is significantly important to understand the different cause-and-
+effect chains of different types of bearing current, to find cost-effective mitigation 
+techniques for a certain drive configuration. A prototype with commercial inverter and a 
+5.5 kW induction motor is developed to analyze the mechanism of bearing degradation. 
+One efficient remedy is the design of CM filter to reduce the CM current entering the 
+induction machine so as to weaken the circulating bearing current which is dominant for 
+large-sized machines. Optimized CM filter design requires accurate knowledge of both 
+source and the termination impedance. In order to measure the source and termination 
+impedance, methods for online impedance extraction are reviewed, such as inductive 
+coupling method and two-port ABCD network approach. However, existing methods 
+require further improvement when it comes to the motor drive system due to the lack of 
+phase information or insufficient signal-to-noise ratio. An improved in-circuit impedance 
+extraction method is proposed to determine the CM impedance for a motor drive system. 
+
+-----
+Proposed method offers increased signal-to-noise ratio with amplifier while protecting the 
+test instrument with either bidirectional coupler or external attenuator. The validity of the 
+proposed method is demonstrated on several measurements of passive elements. Based on 
+the measured source and termination impedances, an optimized CM choke is designed 
+systematically to achieve the required attenuation without a trial-and-error approach. With 
+the information of noise termination impedances, one can also evaluate the effect of the 
+mode transformation on the CM filter design in a quantitative way. 
+ 
+ 
+ 
+ 
+
+-----
+Publication list 
+· Fan F, See K Y, Banda J K, et al. Investigation and mitigation of premature bearing 
+degradation in motor drive system[J]. IEEE Electromagnetic Compatibility Magazine, 
+2019, 8(1): 75-81. 
+· Fan F, See K Y, Li K, et al. In-circuit common-mode impedance measurement for 
+motor 
+drive 
+system[C]//2017 
+Asia-Pacific 
+International 
+Symposium 
+on 
+Electromagnetic Compatibility (APEMC). IEEE, 2017: 1-3. 
+· Fan F, See K Y, Banda J K, et al. Simulation of three-phase motor drive system with 
+bearing discharge process[C]//2017 Progress in Electromagnetics Research 
+Symposium-Fall (PIERS-FALL). IEEE, 2017: 2091-2097. 
+· Fan F, See K Y, Li K, et al. Efficient inductive coupled in-circuit impedance extraction 
+with enhanced SNR and instrument protection[C]//2018 IEEE International 
+Symposium on Electromagnetic Compatibility and 2018 IEEE Asia-Pacific 
+Symposium on Electromagnetic Compatibility (EMC/APEMC). IEEE, 2018: 1288-
+1292. 
+· Svimonishvili T, Fan F, See K Y, et al. High-frequency model and simulation for the 
+investigation of bearing current in inverter-driven induction machines[C]//2016 IEEE 
+Region 10 Conference (TENCON). IEEE, 2016: 55-59. 
+· Zaixing W, Fei F, Seng L J, et al. Reduction of common mode voltage of 2-level 
+voltage source inverter-fed machine[C]//2017 Asian Conference on Energy, Power 
+and Transportation Electrification (ACEPT). IEEE, 2017: 1-5. 
+· Liul Y, Fei F, See K Y, et al. Switching Devices Comparison and RC Snubber for 
+Ringing Suppression in one Single Leg T-type Converter[C]//2018 Asian Conference 
+on Energy, Power and Transportation Electrification (ACEPT). IEEE, 2018: 1-5. 
+· Li K R, See K Y, Fan F. Study of EMI filter performance without LISN based on noise 
+impedances[C]//2017 Asia-Pacific International Symposium on Electromagnetic 
+Compatibility (APEMC). IEEE, 2017: 115-117. 
+· Rathnayaka S B, See K Y, Prajapati M, Kangrong L, Nishshanka B N, Fei F. Inductive 
+
+-----
+coupling method for on-line frequency response analysis (FRA) for transformer 
+winding diagnostic[C]//TENCON 2017-2017 IEEE Region 10 Conference. IEEE, 
+2017: 88-92. 
+· Rathnayaka S B, See K Y, Prajapati M, Kangrong L, Nishshanka B N, Fei F. Influence 
+of temperature on transformer’s winding defect analysis using inductive 
+probes[C]//2017 Progress in Electromagnetics Research Symposium-Fall (PIERS-
+FALL). IEEE, 2017: 2285-2289. 
+
+-----

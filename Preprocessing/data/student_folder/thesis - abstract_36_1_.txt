@@ -1,0 +1,53 @@
+Software Defined Networking Approach 
+for Efficient Information Dissemination 
+in Vehicular Networks  
+Abstract 
+Vehicular ad-hoc networks (VANET) have emerged as a viable solution for the network related problems in 
+intelligent transportation system (ITS). However, with its current architecture, especially with the unavailability 
+of global network information, VANET has not been able to fulfill some of the necessities for efficient 
+information dissemination and most critically still lacking flexibility and programmability. Recently, software 
+defined networking (SDN) has been introduced into the vehicular domain in order to overcome the 
+shortcomings in VANET. SDN is capable of handling the dynamic nature of networks with intelligent 
+applications while lowering operational costs through simplified hardware and software. Yet, the architectural 
+limitations of presented software defined vehicular networks (SDVN), especially the centralization of control 
+plane and its placement, have imposed doubts on its usability especially in the midst of stringent delay 
+requirement of VANET applications.   
+Alternatively, in this thesis, we propose a novel hierarchical distributed controller architecture for SDVN (HD-
+SDVN) in which multiple controllers are hierarchically distributed and a layer of control is brought down to the 
+Road Side Unit (RSU) level cutting down the southbound communication latency, while still leveraging the 
+logically centralized pros such as collective global network view. Further, an optimized placement of controllers 
+in several selected RSUs is proposed together with a proactive flow instantiation (FI) to further reduce the 
+operational latency of SDVN. Implementation of HD-SDVN and proposed proactive operational mode in NS3 
+exhibits latency measurements in tens of milliseconds which is satisfactory to most of the VANET applications.  
+The thesis further emphasizes the effect of software defined approach on efficient information dissemination in 
+vehicular networks by scrutinizing the link stability in multi-hop data routing. As a middle ground for the 
+shortest path approach and most stable path approach in the current literature, we propose an optimization based 
+data routing model, which scrutinizes multiple stable enough paths with less travel times, that can deliver a 
+given set of packets using SDVN. The problem formulation follows a minimum cost capacitated flow problem, 
+embedded with an incremental packet allocation scheme to shift the computational complexity to a realizable 
+level for real-time communication. Moreover, a source routing based FI scheme with effective route caching is 
+presented to reduce the extent of communication with the control plane while still utilizing the knowledge of the 
+controller. We further acknowledge the possible limitations in network information which confine the 
+improvement of aforementioned proposals and incorporate both centralized and distributed routing techniques in 
+combinations to overcome the black holes in the network. The simulation experiments with realistic mobility 
+patterns support the stated claims with enhanced packet reception ratios among competitive latencies and 
+routing overheads. 
+We finally present a primordial study on cooperative scheduling of diverse vehicular communication channels 
+for a better dissemination of data in multi-hop routing scenarios. The system utilizes vehicle-to-vehicle (V2V), 
+vehicle-to-infrastructure (V2I), and infrastructure-to-vehicle (I2V) channels of dedicated short range 
+communication (DSRC), and infrastructure-to-infrastructure (I2I) interface cooperatively to maximize the 
+delivery of data packets under delay tolerance and link connectivity regions. The model avoids possible packet 
+collisions, multiple simultaneous transmissions, routing loops by means of constraints while scrutinizing the 
+wireless nature of links. The problem is formulated as an integer linear programming (ILP) problem and it 
+further thrives on the minimization of service delay based on the traffic type as well.  
+
+-----
+The proposed SDVN system model and information dissemination schemes highlight the improvement that can 
+be brought upon vehicular networks via SDN, which is the core objective of this thesis. This study further 
+exhibits, unlike in VANET, how intelligent applications can be easily incorporated to scrutinize diverse 
+features/attributes of vehicular networks for an enhanced performance. 
+ 
+ 
+ 
+
+-----

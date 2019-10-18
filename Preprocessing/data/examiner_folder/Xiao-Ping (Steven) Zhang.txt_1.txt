@@ -1,0 +1,104 @@
+Dr. Xiao-Ping Zhang
+https://www.ee.ryerson.ca/~xzhang/[2/6/2018 1:44:39 PM]
+Dr. Xiao-Ping (Steven) Zhang
+Professor, P.Eng., Senior Member, IEEE
+Department of Electrical & Computer Engineering 
+Finance Department at the Ted Rogers School of Management 
+Ryerson University
+Contact Information
+350 Victoria Street 
+Toronto, Ontario 
+CANADA, M5B 2K3
+Office : Centre for Computing and Engineering (245 Church St), ENG 451
+Voice : (416) 979-5000 ext. 6686 
+Fax    : (416) 979-5280 
+Email : xzhang at ee dot ryerson dot ca
+Postdoc Positions Available Now (NEW Update!)
+ 
+Short Biography
+Research Interests
+My area of interest is signal/information processing and machine learning based theoretical and
+application research. Currently, my specific interests include the following aspects:
+o    Multimedia Signal/Content Processing and Big Data Analytics
+My current multimedia research focuses not only on traditional image/video problems, such as object
+segmentation and extraction and noise suppression, but also on multimedia content processing
+including the statistical model based/content-based video and image analysis, digital watermarking,
+data hiding, content-based information retrieval (CBIR), and e-commerce applications. Multimedia
+communication is an emerging application in which signal processing and communications are
+pertinent. With the rapid development of broadband, Internet, and the exponential increase of
+multimedia content online, multimedia content analysis and processing are critical to further
+improvement. We would like to develop new techniques and theories not only to address traditional
+multimedia communication issues but more to address research problems in video/image/audio
+content analysis applications using signal processing, statistical modeling and machine learning
+methods.
+o    Signal/Information Processing for Finance, Economics and Marketing
+I have extended my research to the areas of finance, economics and marketing. The Chicago school
+of economics maintains that a free market can optimally allocate resources and correctly price assets
+most of the time. The end of the cold war and the rapid development of emerging economies like
+China are prime examples of market power. A free market operates as a powerful distributed
+information processor – people and markets in aggregate can accurately and promptly process
+information. While economists often take efficient information processing for granted, my goal as a
+
+-----
+Dr. Xiao-Ping Zhang
+https://www.ee.ryerson.ca/~xzhang/[2/6/2018 1:44:39 PM]
+researcher is to determine the rationale for these phenomena and develop information processing
+tools to analyze the massive amount of digital information in the financial market. Intrigued by the
+information processing power of the free market and impressed by the world-class thinkers at the
+University of Chicago Booth School of Business, I took my sabbatical there in 2006-2008.
+o    Signal Processing for Sensor Networks
+Modern digital communication systems and sensor networks demand advanced detection/estimation,
+tracking and data fusion techniques. My research is to use the signal processing and machine learning
+algorithms to solve specific problems in sensor networks, radar systems and communication systems.
+We are developing novel data fusion and target tracking methods based on statistical filtering in radar
+and sensor networks.
+o    Wavelets, Filterbanks and Time-Frequency/Time-Scale Analysis
+For over two decades, the use of wavelet transforms (WT) has been ubiquitous in signal processing
+due to the power of its flexible time-frequency resolution and the existence of fast algorithms. It has
+become a better alternative to traditional Fourier analysis especially for non-stationary, time-varying
+signals. In many applications, the signal in the wavelet domain has exhibited good statistical
+properties. My objective is to exploit these properties and design innovative algorithms as efficient
+and effective features to solve specific application problems.
+ 
+Selected Publications and Patents (Some e-prints available.)
+(NEW!) My perspective article on AI for Finance: “To the Victor Go
+the Spoils: AI in Financial Markets,” IEEE Signal Processing
+Magazine, November 2017.
+(NEW!) Tutorial: “Signal Processing for Finance, Economics, and
+Marketing,” IEEE Signal Processing Magazine. [PDF]
+Conference Organization
+(NEW!) General Co-Chair, the 46th IEEE International
+Conference on Acoustics, Speech and Signal Processing (ICASSP
+2021), Toronto, Canada (Mark your calendar!)
+(NEW!) General Co-Chair, 2017 GlobalSIP Symposium on Signal
+and Information Processing for Finance and Business, November
+14-16, 2017, Montreal, Canada
+General Chair, IEEE International Workshop on Multimedia Signal
+Processing - MMSP2015
+Tutorial in IJCNN2017: Graphical Probabilistic Modeling and
+Machine Learning for Multimedia Content Analysis
+
+-----
+Dr. Xiao-Ping Zhang
+https://www.ee.ryerson.ca/~xzhang/[2/6/2018 1:44:39 PM]
+Tutorial in ICASSP2014: Signal Processing for Finance, Economics
+and Marketing Modeling and Information Processing
+Editorship
+Senior Area Editor, IEEE Transactions on Signal Processing
+Associate Editor, IEEE Transactions on Image Processing
+Associate Editor, IEEE Transactions on Multimedia
+Associate Editor, IEEE Transactions on Circuits and Systems for Video
+Technology
+Associate Editor, IEEE Signal Processing Letters
+Research Lab -- Communications and Signal Processing Applications
+Lab (CASPAL)
+Teaching
+Entrepreneur
+o    EidoSearch.com
+Lifestyle Activities (Running, Sports, and Arts)
+Please contact me if you are self-motivated and wish to do your graduate
+study with me. 
+Please read this FAQ carefully before you contact me.
+ 
+
+-----

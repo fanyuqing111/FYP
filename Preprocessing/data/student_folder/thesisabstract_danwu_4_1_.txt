@@ -1,0 +1,30 @@
+Abstract 
+As the demand for secure, clean and sustainable energy increases, extensive research 
+attention has been directed to photovoltaics (PVs) owing to its inexhaustibility, abundance 
+and wide availability. Despite the great efforts devoted, for large scale implementation, 
+price reduction of solar cells is still the main issue to enable the solar cells to be fully 
+cost-competitive with traditional energy sources. On one hand, organic PVs have provided 
+a low cost solution. On the other hand, semiconductor nanowire (NW) arrays open a new 
+pathway to greatly reduce material consumption while maintaining or even improving 
+device performance. To further lower the cost and improve energy conversion efficiency, 
+hybrid solar cells (HSCs) based on III-V and organic materials have emerged as promising 
+candidates to combine the advantages of inorganic materials and the low cost and 
+flexibility provided by organic materials. In this work, at the first stage, an effective and 
+efficient design is provided to guide the geometrical dimensions and topology for NW 
+arrays to achieve maximal light harvesting regardless of the material, single or multiple 
+diameters of NWs. Compared with time-consuming simulations, the proposed method 
+maintains a low tolerance of below 2.2%. Next, an opto-electrical model is built to fully 
+evaluate the performance of the HSCs elaborating the photo-generated excitons 
+dissociation, transportation and collection within the hybrid active layer. Validation with 
+published experimental results has proved the effectiveness of our theoretical work. Thirdly, 
+highly efficient core-shell inorganic-inorganic HSCs are designed and experimentally 
+fabricated combining nanospheres lithography, dry etching and PV fabrication techniques. 
+Hexagonal closely packed polystyrene nanospheres of various diameters are achieved at 
+centimeter scale. Plasma etching is accompanied to tune the diameter and inter-sphere 
+spacing among adjacent nanospheres. Using these nanospheres as etching masks, ordered 
+NWs arrays are obtained by optimizing various etching parameters including the flow rates 
+of chlorine, boron trichloride, trifluoromethane, and the radio frequency power etc.. 
+Inorganic core/organic shells are optimized serving as hybrid active layer. Finally HSCs are 
+fabricated to fully unravel the role of inorganic NWs effect on the performance of device.  
+
+-----

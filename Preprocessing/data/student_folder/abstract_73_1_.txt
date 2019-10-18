@@ -1,0 +1,57 @@
+Abstract  
+Title: Modeling and control of energy efficient liquid desiccant regeneration system at vacuum 
+condition 
+Liquid Desiccant Dehumidification System (LDDS) has been one of the potential alternatives 
+to replace the conventional mechanical dehumidification system in building air conditioning 
+system due to its higher energy efficiency. LDDS is able to shift the electrical energy towards the 
+renewable or low grade energy and improve indoor air quality with better humidity control. 
+However, the conventional adiabatic packed bed requires higher regeneration temperature to 
+regenerate higher desiccant solution concentration. This limits the use of the renewable or low-
+grade energy as the heat source in the regeneration system of LDDS. Therefore, a novel 
+Absorption-based Liquid Desiccant Regeneration (ALDR) system which operates in vacuum 
+condition is proposed in this work.  
+ 
+In our research work, the feasibility of the proposed desiccant regeneration system operating 
+in vacuum condition is our concern. Therefore, the system regeneration performance and the 
+regeneration temperature should be determined to validate its feasibility and compared with other 
+existing desiccant regeneration systems. The ALDR system is first designed and built in the 
+laboratory. A Singapore patent application of the proposed ALDR system has been filed. The 
+regeneration performance of the ALDR system is then investigated and a regeneration 
+performance prediction model is then developed. The prediction model is verified with the 
+experimental data and the experimental results agree well with the predicted results. In addition, 
+the regeneration performance of the newly proposed ALDR system is also compared with those of 
+the conventional adiabatic type liquid desiccant regenerator from available literatures. The 
+regeneration temperature of the ALDR system is found to be significantly less than those of other 
+existing desiccant regeneration systems which is around 35-40oC. 
+ 
+The difference between the evaporation and condensation rate at respective generator and 
+condenser side is found to be affecting the regeneration performance and energy efficiency of the 
+ALDR system. Therefore, the system energy efficiency is closely dependent on the 
+thermodynamic states of desiccant solution, and heating and cooling sources. A proper regulation 
+of the relevant thermo-physical variables and dynamic behavior can result in energy-efficient 
+operation of the ALDR system. These variables will be modulated so as to affect the mass transfer 
+process and hence increase the regeneration performance of the ALDR system at maximum energy 
+efficiency. Therefore, the role of each component in affecting the overall system behavior must be 
+clarified in advance. In order to realize the control of the various inputs so as to achieve the control 
+objectives, an understanding of the dynamic behavior in each component of the ALDR system is 
+indispensable.  
+ 
+An effective model is developed to describe the dynamics of the ALDR system for the purpose 
+of designing a model-based control applicable to the system. The dynamic model is developed 
+based on the internal and external enthalpy balances and mass balances in the components and it 
+accounts for dynamic behavior due to the heat and mass transfer process in the components. This 
+approach is simpler as detailed enthalpy at each state point can be avoided. The developed dynamic 
+model is verified using the data obtained from the experimental platform built in the laboratory. 
+
+-----
+The dynamic response of the simulation results are in good agreement with the experimental data. 
+This model is able to predict the relevant parameters such as the temperature, concentration and 
+mass flow of the desiccant solution and also temperature of the heating and cooling sources when 
+a step change of inlet water temperature is applied to system. The developed model is then used to 
+design a control strategy to balance the evaporation and condensation rate in the enclosed 
+regenerator tank so as to achieve the control objective of increasing the energy efficiency of the 
+system. Control methods for the regeneration process in ALDR system are presented and the 
+control performance of the proposed system is also investigated.  
+ 
+
+-----

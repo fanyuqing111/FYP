@@ -1,0 +1,46 @@
+Abstract 
+The scaling down of device sizes and increasing in power dissipation make 
+heat transport and removal a major technological impediment to the future 
+development for electronic applications. The limiting heat conduction issues cause 
+serious localized self-heating problems. To solve these issues, the development of 
+highly effective heat transfer material, such as heat sink and thermal interface material, 
+has attracted extensive attention.  
+Carbons based materials, such as graphite, carbon nanotube (CNT), diamond, 
+as well as graphene, have been found to possess high thermal conductivities, and are 
+attractive for thermal management applications. In this dissertation, the thermal 
+properties of two kinds of carbon-based materials: polycrystalline diamond and 
+carbon nanotube, are investigated in details. Diamond and CNT are proposed to be 
+promising candidates for heat spreader and thermal interface material respectively. 
+For thermal characterization, 3ω method and thermal imaging analysis have been 
+developed for the determination of in-plane and cross-plane thermal conductivities. 
+The theoretical thermal models and the experimental studies have been investigated in 
+this dissertation. 
+Diamond has been proposed as an advanced heat spreader for high power 
+devices. In this study, the influence of optically active defects on thermal conductivity 
+of polycrystalline diamond has been investigated. Polycrystalline diamond with 
+different crystalline quality and impurity concentration were grown by microwave 
+plasma assisted chemical vapor deposition (MPCVD). The thermal conductivities of 
+
+-----
+PCDs on the top (growth) and bottom (nucleation) surfaces were characterized with 
+3ω technique. For top surfaces, the heat transport is limited by the presence of Ns0 
+defect. For the bottom surface, non-diamond carbon phase, Si vacancy, C-H stretch 
+and Ns0 defects all lead to an obvious reduction in the thermal conductivity. The 
+correlation between thermal conductivity and optical transmission was studied, 
+making a fast estimation of thermal conductivity available. 
+For the study of CNT based thermal interface material (TIM), a novel three 
+dimensional carbon nanotube (3D CNT) network structure has been proposed to 
+improve the thermal performance of currently used TIMs. The 3D CNT network is 
+composed of vertically aligned CNT array (primary CNT) that is bridged with 
+randomly oriented secondary CNTs. The thermal characterization of CNT is always a 
+challenge. In this dissertation, two novel thermal characterization techniques, 
+free-standing sensor-based 3ω technique and thermal imaging technique, have been 
+well developed for the characterization of cross-plane and in-plane thermal 
+conductivities of CNT. The cross-plane thermal conductivity of 3D CNT network has 
+been measured to be 55.9% higher than that of the primary CNT array with a density 
+of 5.6 × 108 /cm2. The in-plane thermal conductivity of 3D CNT network has been 
+measured to be 5.4W/mK, which is more than 50 times higher than the bare CNT 
+array. 
+ 
+
+-----

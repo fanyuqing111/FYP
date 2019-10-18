@@ -1,0 +1,33 @@
+Abstract
+The high dynamic range imaging (HDR) techniques can provide excellent visual ex-
+perience which is comparable to the human visual system, thus it is supposed to be 
+the future of imaging techniques. However, because of the relative slow pavement in 
+development and deployment of HDR display technology, most consumers, who are 
+only equipped with conventional low dynamic range (LDR) displays, cannot benefit 
+from the new imaging technology because the HDR images are not directly viewable 
+on LDR displays. Backward-compatible solutions are needed so that LDR consumers 
+can gradually accept and upgrade legacy LDR imaging techniques to HDR ones.
+In this thesis, we provide three backward-compatible solutions in the acquisition, dis-
+play and compression stages of the high dynamic range imaging pipeline.
+In the
+acquisition stage, we propose a detail-enhanced exposure fusion algorithm to directly
+acquire an HDR-like LDR image by merging a bracket of differently exposed LDR im-
+ages. The acquired LDR image, which preserves information in brightest and darkest
+regions as well as the find-details of the scene, can provide superior HDR-like visual
+experience without generating the HDR images. In the display stage, we propose
+an efficient saliency-aware tone mapping operator to reproduce the HDR image on
+conventional LDR displays. Our method takes the overall brightness, contrast and
+details preservation and visual attention into consideration.
+We manage to view
+
+-----
+HDR images on LDR displays without degrading its visual quality too much. In the
+compression stage, we propose an two-layer local inverse tone mapping algorithm to
+estimate an HDR image from its locally tone-mapped version. And we successfully
+adopt it in HDR image scalable coding to improve the coding efficiency for efficient
+backward-compatible distribution of HDR images.
+In conclusion, our backward-compatible solutions enable LDR consumers to enjoy
+the superior visual experience provided by the HDR imaging techniques. Our work
+should be helpful for transition from LDR imaging techniques to HDR ones.
+
+-----

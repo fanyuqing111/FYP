@@ -1,0 +1,75 @@
+Abstract 
+Electric propulsion with on-board dc distribution has become the solution for 
+large marine vessels due to the growing concerns of environmental pollution, 
+operating cost, and better dynamic performance as compared to the conventional 
+combustion engine propulsion. Variable frequency operating diesel generators and 
+azimuth thrusters are the primary components in such electrified ships, and it currently 
+became prevalent. However, the mechanical failures among bevel gear, coupling, and 
+bearing in the propulsion system are reported commonly, and it may be attributed to 
+the harsh operating condition in extreme sea state. The diesel generator system 
+suffers disturbance from the engine side and the electrical load side, whereas the 
+azimuth thruster is subjected to extreme hydrodynamic load disturbances. These 
+disturbances result in torsional stresses in the drivetrain and are the main reasons for 
+failure.  One main advantage of using the electric propulsion is its flexible and instant 
+torque control that can mitigate the adverse effect of torsional stress in the drivetrain. 
+The electro-mechanical interaction and torsional vibration reductions using torque 
+control were investigated in wind, steel, and automobile industries and solutions were 
+suggested to reduce stress through advanced control of the power electronic 
+converter. Similar studies can be carried out in marine propulsion system to explore 
+potential electrical control solution to reduce fatigue and thereby prolong the life. This 
+thesis is to develop advanced control strategies for mitigating electro-mechanical 
+interaction and torsional vibration load in marine propulsion system which are excited 
+due to extreme disturbances. This thesis is divided into four main parts: (1) 
+Development of detailed models for marine propulsion system components (2) 
+Development of power electronics based control algorithm to reduce elevated load 
+levels induced during disturbances (3) Application of the proposed power electronic 
+control algorithm to azimuth thruster and diesel generator system (4) Experimental 
+validation of the proposed control algorithm on a multi-inertia lab test rig.  
+In the first part of the thesis, detailed models are developed for 2 MW azimuth 
+thruster and diesel generator system, and their transient responses are analysed 
+under extreme disturbances. The azimuth thruster is tested under rapid ventilation, 
+whereas the diesel generator is tested under engine transients and electrical load 
+disturbance. Simulations with the detailed models have illustrated torque overloads, 
+
+-----
+dynamic speed differences, torsional stresses, and potential damage to critical 
+components. The results show the need for an active torque control algorithm to 
+manage the excessive drivetrain torque caused by a sudden load change. 
+In the second part of the thesis, two control solutions are proposed to manage 
+excessive drivetrain torque and torsional stress caused by the sudden load change. 
+The proposed controllers can change the damping ratio and natural frequency by the 
+introduction of virtual material damping and virtual stiffness in the system, and these 
+changes can reduce resonant torque amplitudes in the driveline. Theoretical analysis 
+and control gain design are presented for the proposed solutions and are bench 
+marked against solutions in other industries such as wind, steel, and automobile. 
+In the third part of the thesis, the proposed solutions are applied to marine 
+propulsion system.  Active control gain design, positioning of sensors, and observer 
+design are explained in detail in this section. The proposed solutions can reduce shaft 
+over torque, torsional stresses, and vibration duration considerably in azimuth thruster 
+and diesel generator system. The proposed solutions resulted in torsional energy 
+transfer problem in DC link and which is solved using an effective torsional energy 
+absorption system based on supercapacitor.   
+In the final part of the thesis, a 1.2 kW multi-inertia test rig which emulates the 
+drivetrain of an azimuth thruster is designed and is subsequently used to validate the 
+proposed control algorithms. Simulation model for the test rig is developed using 
+SIMPACK software and MATLAB, and initial verification of the proposed control 
+algorithm is done. A power electronic circuit is created to induce extreme load 
+fluctuations in the experimental setup.   The experimental results illustrated that the 
+proposed solutions can reduce shaft over torque, dynamic speed difference, and 
+torsional vibrations. 
+Finally, the conclusions of the mentioned studies are presented, and future 
+directions of the research work are discussed. 
+ 
+ 
+Rapid ventilation- The propeller is momentarily lifted out of water due to rough sea 
+state.  
+Foreign body impact- The propeller crushing a block of ice or foreign body.  
+
+-----
+Index Term: Azimuth propeller, diesel generator system, foreign body impact, 
+electromechanical interaction, extreme sea condition, mechanical drive train, natural 
+frequency, rapid ventilation, ship propulsion, speed control, torque control. 
+ 
+ 
+
+-----

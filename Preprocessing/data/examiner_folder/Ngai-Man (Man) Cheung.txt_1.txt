@@ -1,0 +1,203 @@
+Faculty
+Faculty
+Alexander Binder
+Sudipta Chattopadhyay
+Ngai-Man (Man) Cheung
+Ngai-Man (Man) Cheung
+Ernest Chong
+Dorien Herremans
+Jianying Zhou
+Oka Kurniawan
+Hyowon Lee
+Norman Lee Tiong Seng
+
+
+
+
+
+
+
+
+
+Ngai-Man (Man) Cheung
+Home / People / Faculty / Ngai-Man (Man) Cheung
+Associate Professor
+Associate Professor
+Email:
+Email: 
+ 
+Website:
+Website: https:/
+/sites.google.com/site/mancheung0407/ 
+Telephone:
+Telephone: +65 6499 4542 
+O�ce #:
+O�ce #: 1.502-17 
+Pillar / Cluster:
+Pillar / Cluster: Information Systems Technology and Design 
+Research Areas:
+Research Areas:: Arti�cial and Augmented Intelligence, Visual Computing, Data
+Science 
+BIOGRAPHY
+EDUCATION BACKGROUND
+RESEARCH OPPORTUNITIES
+RESEARCH GROUP
+AWARDS
+SELECTED PUBLICATIONS
+RESEARCH INTEREST
+Biography
+Biography
+I received my Ph.D. degree in Electrical Engineering from University of
+Southern California (USC), Los Angeles, CA, in 2008. My Ph.D. research
+focused on image and video coding, and the work was supported in part
+by NASA-JPL.
+From 2009-2011, I was a postdoctoral researcher with the Image, Video
+and Multimedia Systems group at Stanford University, Stanford, CA.
+I have also held research positions with Texas Instruments Research Center
+Japan, Nokia Research Center, IBM T. J. Watson Research Center, HP Labs
+Japan, Hong Kong University of Science and Technology (HKUST),
+and Mitsubishi Electric Research Labs (MERL). My industrial work has
+resulted in 6 U.S. patents granted with several pending.
+My research interest is to develop advanced algorithms to enable e�cient
+processing of multimedia data. I am also interested in exploring
+collaborative and interdisciplinary research that involves applying signal
+processing or multicore technology to address problems in other areas.
+Education Background
+Education Background
+Ph.D. in Electrical Engineering, University of Southern California
+(USC), Los Angeles, CA, USA, 2008
+Research Opportunities
+Research Opportunities
+I am currently looking for Postdoc, Research Assistant and Visiting Student.
+If interested, kindly send me your CV via email.
+Research Group
+Research Group
+Hossein Nejati (Postdoc); PhD – NUS (National University of
+Singapore); Bachelor of Computer Science and Engineering, Shiraz
+RESEARCH INTEREST
+RESEARCH INTEREST
+Image, Video and Signal
+Processing
+Multimedia Communication
+Computer Vision
+
+ISTD
+TESTIMONIALS
+NEWS & EVENTS
+PEOPLE
+EDUCATION
+RESEARCH
+
+We use cookies to ensure that you get the best experience while browsing our website. By continuing, you are agreeing to our Cookie Policy. To decline cookies, modify your browser settings at
+any time.
+Ok, I got it.
+Ok, I got it.
+X
+X
+
+-----
+University, Iran
+Fang Lu (Postdoc, 5/2012 – ); PhD – HKUST (Hong Kong University of
+Science and Technology); B.Eng. – USTC (University of Science and
+Technology of China)
+Mohammad Rostami (Research Assistant, 8/2012 – ); MS – University
+of Waterloo, Canada; BSc – Sharif University of Technology, Tehran,
+Iran
+Ma Rui (Visiting Student, 6/2012 – 8/2012); PhD Candidate – HKUST
+(Hong Kong University of Science and Technology); B.S. – Nanjing
+University
+Awards
+Awards
+Best Poster Award, IEEE Life Sciences Grand Challenges Conference
+2013
+Best Student Paper Award, 20th IEEE International Conference on
+Image Processing (ICIP) 2013 (Total 2102 submissions)
+Honorable Mention, ACM Multimedia Open Source Software
+Competition 2011
+Best Paper Award Nomination, IEEE Transactions on CSVT (Circuit
+and System for Video Technology) 2010
+Best Paper Second Place Award from IS&T/SPIE VCIP 2008 (Visual
+Communications and Image Processing)
+Best Student Paper Award Honorable Mention – USC Electrical
+Engineering 2008
+Best Student Paper Award, IEEE MMSP 2007 (International Workshop
+on Multimedia Signal Processing)
+Best Paper Award (co-recipient) from EURASIP JASP 2006 (Journal
+on Advances in Signal Processing)
+Best Paper Award Finalists at PCS 2007 (Picture Coding Symposium,
+technically sponsored by IEEE, EURASIP and IET)
+USC O�ce of International Services Academic Achievement Award
+2008
+Croucher Foundation Fellowship 2008
+Selected Publications
+Selected Publications
+Dothanh Toan, Quang D. Tran, Ngai-Man Cheung, “Embedding based
+“Embedding based
+on function approximation for image retrieval,”
+on function approximation for image retrieval,” in Proc. IEEE CVPR
+2015. The 28th IEEE Conference on Computer Vision and Pattern
+Recognition.
+Yijian Xiang, Lu Fang, Ren Li, Ngai-Man Cheung, “Depth Error Induced
+“Depth Error Induced
+Virtual View Synthesis Distortion Estimation for 3D Video Coding,”
+Virtual View Synthesis Distortion Estimation for 3D Video Coding,” in
+Proc. The 25th IEEE Data Compression Conference (DCC) 2015.
+Yichen Zhang, Ngai-Man Cheung, Lu Yu, “On the E�ciency of View
+“On the E�ciency of View
+Synthesis Prediction for 3D Video Coding,”
+Synthesis Prediction for 3D Video Coding,” in Proc. The 25th IEEE Data
+Compression Conference (DCC) 2015.
+Lu Fang, Ngai-Man Cheung, Dong Tian, Anthony Vetro, Huifang Sun,
+Oscar C. Au, “An Analytical Model for Synthesis Distortion Estimation
+“An Analytical Model for Synthesis Distortion Estimation
+in 3D Video,”
+in 3D Video,” IEEE Transactions on Image Processing, Jan, 2014.
+Bernd Girod, Vijay Chandrasekhar, David Chen, Ngai-Man Cheung,
+Radek Grzeszczuk, Yuriy Reznik, Gabriel Takacs, Sam Tsai,
+Ramakrishna Vedantham, “Mobile Visual Search,”
+“Mobile Visual Search,” IEEE Signal
+Processing Magazine – Special Issue on Mobile Media Search, vol.
+28, no. 4, pp. 61-76, July 2011.
+Sherif Halawa, Derek Pang, Ngai-Man Cheung, and Bernd
+Girod, “ClassX – An Open Source Interactive Lecture Streaming
+“ClassX – An Open Source Interactive Lecture Streaming
+System,”
+System,” in Proc. ACM Multimedia (ACM MM) 2011.[Also reported
+in: Stanford News, Stanford Daily, ACM TechNews, Computer Vision
+Central, myScience, WorldJournal]
+
+We use cookies to ensure that you get the best experience while browsing our website. By continuing, you are agreeing to our Cookie Policy. To decline cookies, modify your browser settings at
+any time.
+Ok, I got it.
+Ok, I got it.
+X
+X
+
+-----
+Ngai-Man Cheung, Xiaopeng Fan, Oscar C. Au, Man-Cheung
+Kung, “Video Coding on Multi-Core Graphics Processors,”
+“Video Coding on Multi-Core Graphics Processors,”IEEE Signal
+Processing Magazine, vol. 27, no. 2, pp. 79-89, March 2010.
+Ngai-Man Cheung and Antonio Ortega, “Distributed Compression of
+“Distributed Compression of
+Hyperspectral Imagery,”
+Hyperspectral Imagery,” in Distributed Source Coding, Pier Luigi
+Dragotti and Michael Gastpar, Eds., Academic Press, pp. 269-292,
+2009.
+Ngai-Man Cheung, Huisheng Wang, Antonio Ortega, “Sampling-
+“Sampling-
+based Correlation Estimation for Distributed Source Coding Under
+based Correlation Estimation for Distributed Source Coding Under
+Rate and Complexity Constraints,”
+Rate and Complexity Constraints,” IEEE Transactions on Image
+Processing, vol. 17, no. 11, pp. 2122-2137, Nov. 2008.
+2012 - 2019. Information Systems Technology and Design (ISTD) | Singapore University of Technology and Design (SUTD). All Rights Reserved.
+
+We use cookies to ensure that you get the best experience while browsing our website. By continuing, you are agreeing to our Cookie Policy. To decline cookies, modify your browser settings at
+any time.
+Ok, I got it.
+Ok, I got it.
+X
+X
+
+-----

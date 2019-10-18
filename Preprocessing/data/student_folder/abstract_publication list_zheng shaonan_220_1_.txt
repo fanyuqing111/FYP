@@ -1,0 +1,99 @@
+ON-CHIP SPECTROMETER AND FABRICATION 
+PROCESSES 
+ 
+Optical spectrometer has been one of the most important instruments for spectrum 
+analysis in various applications such as chemical analysis, environment monitoring, remote 
+sensing in satellites and so on. It has been made smaller and smaller for more convenience and 
+less cost as it is critical to bring the chemical/biological sensing, spectroscopy, and spectral 
+imaging into robust, compact and cost-effective devices. A promising way to implement a 
+miniaturized spectrometer is on the photonic integrated circuits platform. 
+ 
+The first part of the thesis reports a high-resolution photonic spectrometer using a 
+tunable MRR filter. The MRR is thermally tunable by exploiting thermo-optic (TO) effect with 
+a high resolution of 0.1 nm and a large tunable range of 19 nm. The model of thermal 
+modulation of MRR is theoretically analysed and built. Thermally tunable MRR can be very 
+effective to finely shifting the resonance wavelength and only needs one detector for a single 
+device. Besides, it has much higher tolerance of fabrication and is more compact compared to 
+the approaches using the stationary MRR array. The implementation of tunable MRR array 
+with an arrayed waveguide grating (AWG) before the array is designed, fabricated and 
+experimentally tested. The AWG functions as a fixed filter to pre-disperse the input spectrum 
+while the following tunable MRRs retrieve the corresponding dispersed spectra with high 
+resolution (0.015 nm) to realize broad band (27 nm). By adoption of AWG before the tunable 
+MRR array, the working band can be broadened while maintaining final resolution of the 
+device thanks to the fine tuning ability of MRR. It is practical for especially high resolution 
+applications. 
+ 
+The second part focuses on the development of a microring resonator cavity-enhanced 
+Fourier-transform spectrometer (CEFTS). In this design, Fourier-transform spectrometer (FTS) 
+is realized with a thermally tunable photonic Mach-Zehnder interferometer (MZI). A MRR 
+with high quality factor is cascaded before the Mach-Zehnder interferometer to pre-filter the 
+input spectrum while the MZI is exploited to reconstruct the filtered spectra. By finely tuning 
+the MRR, the filtered spectrum is shifted for the tunable MZI to reconstruct. Thus, by 
+combining the reconstructed filtered spectra, the input spectrum is obtained. The model of 
+thermal modulation of MZI is theoretically analysed and built. The proposed spectrometer has 
+both high resolution (0.47 nm) and very large bandwidth (150 nm) thanks to the large 
+transparency window of MZI and high quality factor of the MRR. The thermal modulation of 
+MZI is theoretically analysed and built. Low-loss Si slab waveguide is proposed and developed 
+to reduce insertion loss and improve resolution. 
+ 
+The third part presents the fabrication processes using the nano-silicon-photonic (NSP) 
+fabrication technology to fabricate the on-chip spectrometers. Using the advanced NSP 
+technology, single-mode strip waveguide is achieved with low loss (1-2 dB/cm). And low-loss 
+slab waveguides (0.1 dB/m) is also achieved with small footprint. TiN heaters and thermal 
+isolation trenches are also developed and fabricated. TiN as resistive layer for heat generation 
+has the advantages of high resistivity and compatibility with the NSP fabrication technology. 
+Thermal isolation trenches are formed by etching away the top SiO2 cladding and partial Si 
+substrate removal (with Si substrate isotropic and anisotropic etching). Si3N4 waveguides are 
+also developed and fabricated for potential applications of on-chip spectrometers in the visible 
+range. 
+ 
+
+-----
+Publication list 
+ 
+ 
+Journal papers 
+[1] S. Zheng, H. Cai, Y. D. Gu, L. K. Chin, D. L. Kwong, Z. P. Lin, A. Q. Liu, ‘High-resolution 
+Microring Resonator Cavity-enhanced Fourier-transfrom Spectrometer on a Silicon Photonic 
+Chip’, 2018. (submitted). 
+[2] S. Zheng, H. Cai, Y. D. Gu, L. K. Chin, D. L. Kwong, Z. P. Lin, A. Q. Liu, ‘AWG Pre-
+dispersed Integrated On-chip Spectrometer with Tunable Microring Resonator Array’, 2018. 
+(prepared) 
+ 
+Conference papers 
+[1] Zheng, S, Cai, H., Gu, Y., Chin, L. K., & Liu, A. Q. "On-chip Fourier transform 
+spectrometer for chemical sensing applications." CLEO: Applications and Technology. Optical 
+Society of America, 2016.  
+[2] Zheng, S., Cai, H., Gu, Y. D., Chin, L. K., & Liu, A. Q. "High-resolution on-chip 
+spectrometer with a tunable micro-ring resonator filter". Lasers and Electro-Optics (CLEO), 
+2016 Conference on. IEEE, 2016. 
+[3] Zheng, Shaonan, L. K. Chin, and Ai Qun Liu. "On-chip spectrometer enhanced by ring 
+resonator cavity: High-resolution and large-bandwidth." CLEO: Science and Innovations. 
+Optical Society of America, 2017. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PhD candidate: Zheng Shaonan 
+ 
+Supervisor: Liu Ai-Qun 
+
+-----

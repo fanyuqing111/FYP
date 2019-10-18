@@ -1,0 +1,40 @@
+Abstract 
+CMOS has been wildly used in biomedical applications for personalized diagnosis and 
+treatment. The biomedical application of CMOS can be divided into two broad categories: 
+invasive and noninvasive treatments. The invasive procedure includes the micro-electrical 
+stimulation and recording systems that involve microelectrode insertion on tissue for 
+neurological and physiological studies and clinical treatments. The noninvasive procedure 
+includes the wearable health systems, where the optical sensing photoplethysmography 
+(PPG) sensor has been of recent interest due to the electrode-free operation for the heart-
+rate, the variability extraction for heart-rate and blood oxygen level monitoring (SpO2).  
+In the micro-electrical stimulation/recording systems, the electrode-tissue interface 
+impedance plays an important role to ensure charge balance, maintain stimulus intensity, 
+limit the over-potential of the electrode under the water window, prevent tissue damage, 
+and more. It is therefore crucial to have an equivalent circuit model with precise fitting to 
+the practical behavior of the electrode-electrolyte interface, which confers great benefits in 
+biomedical studies, circuit designs, impedance monitoring, etc. Meanwhile, the electrode-
+electrolyte interface impedance will change over time after the implantation of the 
+electrodes in clinical applications, possibly due to tissue growth, inflammation, electrode 
+erosion and so on. It is also vital to monitoring the electrode-electrolyte interface 
+impedance characteristics. For the PPG sensor in non-invasive wearable application, a cost-
+effective approach is the key requirement in all internet of things (IOT) applications. 
+Consequently, a hybrid-π model and parameter extraction method is explored for 
+electrode-electrolyte interface characterization with superbly accurate reactance in high 
+
+-----
+frequency biomedical applications. A training-based compensation scheme is proposed for 
+the non-ideal circuit effects in I/Q impedance measurement architectures, which has been 
+verified through simulation results obtained from Simulink analysis. A current-excited 
+triple-time-voltage oversampling impedance sensing method is provided to deduce 
+different component values by solving triple simultaneous electric equations (TSEEs) at 
+different time nodes during current excitation. To reduce the power consumption, a time-
+domain impedance sensor readout circuit in the absence of Analog-to-Digital Converter 
+(ADC) is developed. This prototype is fabricated in 0.18-µm CMOS technology. It 
+consumes only 9.84 to 73.2 nJ of energy, and requires merely 3 ms per measurement. As 
+for the PPG sensor in non-invasive wearable health systems, having low power 
+consumption is also vital. A PPG sensor with time-to-digital converter architecture for low 
+power consumption without the use of high accuracy ADC is therefore proposed whereby 
+the design has been verified by fabrication using the 0.18-µm CMOS technology. 
+ 
+
+-----

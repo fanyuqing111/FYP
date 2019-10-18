@@ -1,0 +1,46 @@
+Abstract 
+In the transceivers of both wireless communication and wireline communication, automatic 
+gain control (AGC) system is widely used to provides a constant output power independent of 
+the input signal strength. The variable gain amplifier (VGA), as the core block of AGC, is not 
+only required to provide a wide gain variation range but also desirable for a dB-linear gain 
+characteristic. Due to the absence of intrinsic exponential relationship in standard CMOS 
+technology, it is difficult to realize an accurate dB-linear characteristic with low power 
+consumption and small die area. In addition, if a broad bandwidth is demanded for high-speed 
+communications, the design becomes more challenging. 
+In this thesis, novel ideas are proposed to extend the gain range effectively with minimum 
+hardware. Firstly, the approach by tuning the transconductance and output resistance of the 
+amplifier simultaneously is brought forward. If both of the parameters can be tuned in the same 
+direction while preserving an exponential feature in each, the total gain range would be the 
+summation of the changes, leading to an extended gain tuning range as well as savings in power 
+budget. Secondly, a new constructing method to improve the gain range is presented by 
+exploiting the convex and concave functions together. As a result, an inverse S-shaped curve 
+is obtained, which also offers the flexibility to choose various dB-linear accuracy for different 
+applications. 
+Furthermore, a wideband VGA for wireless communication and a 10Gb/s AGC system for 
+wireline communication are designed with the proposed exponential approximation methods 
+respectively. Several broadband techniques are adopted in order to achieve an inductorless 
+design while minimizing the chip area.  Both of them are fabricated with 65 nm CMOS 
+process and demonstrate a competitive performance compared with the state-of-art works. 
+With the help of proposed exponential realization methods, VGA and AGC with large gain 
+range, wide bandwidth while low power consumption are achieved. 
+ 
+ 
+
+-----
+Publication List 
+[1] L. Kong, Y. Chen, C. C. Boon, P.-I. Mak. And R. P. Martins, “A wideband inductorless 
+dB-linear automatic-gain control amplifier using a single-branch negative exponential 
+generator for wireline applications,” IEEE Transactions on Circuits and Systems I: 
+Regular Papers, vol. 65, no. 10, pp. 3196-3206, Oct. 2018. 
+[2] H. Liu, X. He, X. Zhu, C. C. Boon, X. Yi and L. Kong, “A wideband analog-controlled 
+variable-gain amplifier with dB-linear characteristic for high-frequency applications,” 
+IEEE Trans. Microw. Theory Tech., vol. 64, no. 2, pp.533–540, Feb. 2016. 
+[3] H. Liu, X. Zhu, C. C. Boon, X. Yi and L. Kong, “A 71 dB 150 μW variable-gain amplifier 
+in 0.18 μm CMOS technology,” IEEE Microw. Wireless Compon. Lett., vol. 25, no. 5, pp. 
+334–336, May 2015. 
+[4] L. Kong, C. C. Boon, H. Liu, X. Zhu, “Design of a wideband VGA with 40 dB gain range 
+and ±0.6 dB gain error in 65 nm CMOS Technology for high-speed wireless 
+communication system,” prepared for submission.  
+ 
+
+-----

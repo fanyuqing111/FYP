@@ -1,0 +1,22 @@
+Alternative approaches for enhancing plasmonic sensor 
+performance 
+Alana M. Soehartono 
+ 
+Abstract 
+ 
+Strong light localization within metal nanostructures occurs by collective oscillations of 
+plasmons in the form of electric and magnetic resonances. The high susceptibility of such 
+localized surface plasmons (LSP) to refractive index changes has made it an excellent platform 
+for rapid and label-free sensing, particularly in the development of low-cost sensing platforms in 
+the visible spectrum. However, the linear relationship between sensitivity and resonance 
+wavelength indicates that sensitivity decreases for shorter wavelengths. In this thesis, alternative 
+plasmon resonance mechanisms are explored to address the challenges of plasmonic sensing in 
+the visible frequency range. The numerical and experimental investigation of the magnetic-type 
+LSP resonance is contrasted with the electric-type used in conventional LSP-based sensing. The 
+role of geometry, especially height, on the resonance mechanisms is studied, in which it is found 
+that higher aspect ratio structures, realized by a cost-effective electrodeposition process, support 
+hybridized waveguide-type modes which far outperform typical planar resonance mechanisms 
+both in sensitivity and in figure of merit (FOM). Furthermore, the practical implications of the 
+work are discussed. 
+
+-----

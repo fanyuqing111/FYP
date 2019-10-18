@@ -1,0 +1,34 @@
+Modeling, Optimization and Thermal Characterization of Micropillar 
+Evaporator Based High Performance Silicon Vapor Chamber 
+To overcome the high heat generation challenge and ensure sustainable development in the 
+semiconductor industries, thermal management for high density electronic devices has drawn 
+much attention in recent years. Being a passive thermal management device with high heat 
+removal capability, vapor chamber that spreads concentrated heat via liquid-to-vapor phase 
+change phenomena was proven to be a promising cooling technique. Evaporator is the 
+determinant section that governs the performance of a vapor chamber. Silicon vapor chamber 
+with micropillar evaporator possess large thin film evaporation area, mature manufacturing 
+technique and can be integrated with electronic devices homogeneously to eliminate excess 
+thermal interface layer as well as avoid thermal expansion mismatch. However, comprehensive 
+and systematic study on silicon vapor chamber and micropillar evaporators is lacking. Predictive 
+models that evaluate the performance limit of vapor chamber and evaporators are limited, 
+selection of micropillar geometries is trial-and-error based in previous work. In this thesis, we 
+developed three semi-analytical models in predicting the capillary-limited dryout heat flux of 
+uniform evaporator with squarely packed cylindrical micropillars, biporous evaporators with 
+micropillar islands separated by microchannels and sealed silicon vapor chamber with 2D liquid 
+flow. We performed optimization to determine the best geometric combinations of the 
+evaporators and vapor chambers by taking the temperature rise into consideration. Accordingly, 
+we fabricated the evaporators and vapor chambers by micro-electro-mechanical-systems (MEMS) 
+process to define micropillar patterns with deep-reactive-ion-etching (DRIE) and embedded 
+resistance-temperature-detectors (RTDs). We also conducted systematic experiments to 
+characterize the dryout heat flux and heat transfer coefficient of samples with various geometries. 
+The three models were validated against experiment results with less than 20 % over-prediction. 
+A 1 cm ×
+ 1 cm uniform and biporous evaporators were able to dissipate a maximum dryout heat 
+flux of 25.7 and 55.9 W/cm2, respectively. An ultra-thin Si vapor chamber with thickness of 1.25 
+mm can handle 98.1 W/cm2 heat flux before dryout. Heat transfer coefficient was found to 
+increase with larger micropillar diameter/pitch ratio, smaller micropillar height, wider 
+micropillar islands and narrower microchannel width. This thesis provides deep insights, with 
+experimental verification, into the design and optimization of vapor chamber with micropillar 
+evaporators. 
+
+-----

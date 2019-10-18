@@ -1,0 +1,108 @@
+Title: Engineering Functional Nanomaterials for Biophotonics and Nanomedicine 
+Applications 
+ 
+Abstract： 
+   To date, functional nanomaterials have been commonly synthesized and applied 
+for various biomedical applications such as sensing, imaging, drug delivery, and 
+tissue engineering due to their unique optical, electronic, and biocompatible property. 
+In this PhD work, two types of nanomaterials have been engineered, characterized, 
+and studied for biophotonic sensing and nanodrug delivery therapy, namely, 2D 
+nanomaterials and triboelectric nanogenerator (TENG). The engineered solutions 
+presented in the thesis aims at addressing the current limitations in optical biosensors 
+and self-powered skin patch drug delivery devices. In the first part of thesis, we 
+studied the physical and optical property of a series two-dimensional (2D) 
+nanomaterials such as molybdenum disulfide, tungsten disulfide, and molybdenum 
+diselenide, etc., to develop and optimize next generation of plasmonic biosensors with 
+sensitivity as high as 100 Deg/RIU. Upon coating these 2D nanomaterials on the 
+surface of gold sensing chip, the detection sensitivity was discovered to increase by at 
+least 2 folds due to the high refractive index up to ~4.7. Through modeling and 
+experimental studies, a 300% increment in the detection sensitivity was achieved by 
+using the engineered 2D nanomaterials-based plasmonic biosensor when compared to 
+traditional devices. In addition, we showed that 1-2 orders of magnitude enhancement 
+could be achieved in the phase-sensing mode that supports real-time submolecular 
+detection in our designed nanoplasmonic sensor.  
+   In the second part of the work, we designed and studied the triboelectric 
+nanogenerator (TENG) in creating a miniaturized self-powered drug delivery device 
+for transdermal patch application. TENG system can effectively convert various 
+mechanical energies into electricity. TENG has many advantages such as large output 
+of power, low cost, simple fabrication and high conversion efficiency. Our prepared 
+TENG was able to power the transdermal patch we designed. The designed 
+TENG-based transdermal patch composed of a conductive and nanoporous polymer 
+and the drugs embedded in the polymer matrix were released upon receiving 
+electric-stimuli externally. Such mechanism can allow one to achieve precise control 
+in programming the drug delivery profile by tailoring the appropriate TENG action 
+time. More importantly, we showed that the TENG-based transdermal patch system 
+can be effectively used to deliver the desired drug concentration to the ex vivo 
+porcine skin. The drug delivery efficiency in dermis was noted to improve by at least 
+50% when compared with the absence of TENG triggered reaction.  
+   In conclusion, this PhD work has generated reliable and emerging engineering 
+solutions to overcome challenges we faced in the current healthcare diagnostic and 
+therapeutic technology especially in the areas of SPR sensors and skin patch drug 
+delivery devices. Such solutions can be further integrated into other sensing and drug 
+delivery systems for personalized treatment applications. 
+ 
+ 
+
+-----
+Publication: 
+ 
+Journal 
+[1] Ouyang, Q., Feng, X., Kuang, S., Song, P., Yang, G., Yang, C., Chien, Y.H., Chan, K.K., Yoon, 
+H.S., Liedberg, B.G., Zhu, G., Wang, Z., Yong, K.T. Self-powered wearable transdermal delivery 
+systems based on triboelectric nanogenerator. 2018. (Preparation) 
+[2] Ouyang, Q., Zeng, S., Jiang, L., Qu, J., Dinh, X.Q., Qian, J., He, S., Coquet, P. and Yong, K.T. 
+Two-dimensional transition metal dichalcogenide enhanced phase-sensitive plasmonic biosensors: 
+theoretical insight. The Journal of Physical Chemistry C, 2017, 121(11), pp.6282-6289.  
+[3] Ouyang, Q., Zeng, S., Jiang, L., Hong, L., Xu, G., Dinh, X.Q., Qian, J., He, S., Qu, J., Coquet, P. 
+and 
+Yong, 
+K.T. 
+Sensitivity 
+enhancement 
+of 
+transition 
+metal 
+dichalcogenides/silicon 
+nanostructure-based surface plasmon resonance biosensor. Scientific reports, 2016, 6, p.28190. 
+[4] Lin, G.,* Ouyang, Q.,* Hu, R., Ding, Z., Tian, J., Yin, F., Xu, G., Chen, Q., Wang, X. and Yong, 
+K.T. In vivo toxicity assessment of non-cadmium quantum dots in BALB/c mice. Nanomedicine: 
+Nanotechnology, Biology and Medicine, 2015, 11(2), pp.341-350. (*Contributed equally) 
+[5] Sreekanth, K.V.,* Dong, W.,* Ouyang, Q.,* Sreejith, S., Mohamed ElKabbash, Chwee Teck Lim，
+ 
+C.T., Strangi, G., Yong, K.T., Simpson, R.E., Singh, R. Femtomole biosensitivity using nanoporous 
+silver-stibnite plasmonics. 2018. (*Contributed equally. Submitted) 
+[6] Sreekanth, K.V., Ouyang, Q., Han, S., Yong, K.T., Singh, R., Giant enhancement in Goos-Hänchen 
+shift at the singular phase of a nanophotonic cavity. 2018. Applied Physics Letters, 112(16), 161109. 
+[7] Yuan, Y., Yu, X., Ouyang, Q., Shao, Y., Song, J., Qu, J. and Yong, K.T. Highly anisotropic black 
+phosphorous-graphene hybrid architecture for ultrassensitive plasmonic biosensing: Theoretical insight. 
+2D Materials, 2018, 5(2), p.025015. 
+[8] Jiang, L., Zeng, S., Ouyang, Q., Dinh, X.Q., Coquet, P., Qu, J., He, S. and Yong, K.T. Graphene‐
+TMDC‐graphene hybrid plasmonic metasurface for enhanced biosensing: a theoretical analysis. 
+Physica status solidi (a), 2017, 214(12). 
+[9] Yuan, Y., Yu, X., Ouyang, Q., Peng, X., Soehartono, A.M., Shao, Y., Dinh, X.Q., Song, J., Qu, J., 
+Yong, K.T. Promising phase-sensitive plasmonic biosensing device: antimonene-graphene hybrid 
+architectures. 2018. (Submitted) 
+[10] Jiang, L., Zeng, S., Xu, Z., Ouyang, Q., Zhang, D.H., Chong, P.H.J., Coquet, P., He, S. and Yong, 
+K.T., 2017. Multifunctional hyperbolic nanogroove metasurface for submolecular detection. Small, 13 
+(30). pp 1700600 
+[11] Hong, L., Cheung, T.L., Rao, N., Ouyang, Q., Wang, Y., Zeng, S., Yang, C., Cuong, D., Chong, 
+P.H.J., Liu, L., Law, W.C. and Yong, K.T., Millifluidic synthesis of cadmium sulfide nanoparticles and 
+their application in bioimaging. RSC Advances, 2017, 7(58), pp.36819-36832. 
+[12] Wu, Q., Lin, Y., Wo, F., Yuan, Y., Ouyang, Q., Song, J., Qu, J. and Yong, K.T. Novel magnetic‐
+luminescent janus nanoparticles for cell labeling and tumor photothermal therapy. Small, 2017, 13 (39). 
+pp 1701129 
+[13] Hu, R., Yang, C., Wang, Y., Lin, G., Qin, W., Ouyang, Q., Law, W.C., Nguyen, Q.T., Yoon, H.S., 
+Wang, X. and Yong, K.T. Aggregation-induced emission (AIE) dye loaded polymer nanoparticles for 
+gene silencing in pancreatic cancer and their in vitro and in vivo biocompatibility evaluation. 
+NanoResearch, 2015, 8 (5), pp.1563-1576. 
+ 
+Conference 
+
+-----
+[14] Ouyang, Q., Panwar, N., Zeng, S., Wang, X., Jiang, L., Dinh, X.Q., Tay, B.K., Coquet, P. and 
+Yong, K.T. Monolayer WS2 enhanced high sensitivity plasmonic biosensor based on phase modulation. 
+Conference on Lasers and Electro-Optics (CLEO), IEEE, 2017. pp 1-2. 
+[15] Ouyang, Q., Zeng, S., Dinh, X. Q., Coquet, P., & Yong, K. T. Sensitivity enhancement of MoS2 
+nanosheet based surface plasmon resonance biosensor. Procedia engineering, 2 
+
+-----

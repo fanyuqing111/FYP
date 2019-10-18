@@ -1,0 +1,40 @@
+List of Publications 
+ 
+● 
+“A 0.013-mm² 0.53-mW/Gb/s 32-Gb/s Hybrid Analog Equalizer Under 21-dB Channel Loss in 65-
+nm CMOS”  
+Arya Balachandran, Yong Chen and Chirn Chye Boon 
+IEEE Transaction on Very Large Scale Integrated (VLSI) Systems, Nov 2017 
+● 
+“A 0.058 mm² 13 Gb/s Inductorless Analog Equalizer with Low Frequency Equalization 
+Compensating 15 dB Channel Loss”  
+Arya Balachandran, Yong Chen, Pilsoon Choi and Chirn Chye Boon 
+IET Electronic Letters, Nov 2017 
+● 
+ “A 0.33-mm² 32-Gb/s Receiver Front-End with a Hybrid CTLE and Distributed Edge and Data 
+DFE in 65-nm CMOS”  
+Arya Balachandran, Yong Chen and Chirn Chye Boon 
+IEEE Transaction on Microwave Theory and Techniques (TMTT), under review 
+● 
+“An Energy Efficient 1-Gb/s On-Chip Opto-electronic Transceiver Link using Monolithically-
+Integrated CMOS + III-V LEDs”  
+Arya Balachandran, Li-Shiuan Peh and Chirn Chye Boon 
+The 22nd OptoElectronics and Communications Conference jointly with The 12 th Conference on Lasers 
+and Electro-Optics       Pacific Rim (CLEO-PR) and The 5th Photonics Global Conference 2017, Singapore, 
+Aug 2017 
+ 
+● 
+ “Automatic place-and-route of emerging LED-driven wires within a monolithically-integrated 
+CMOS+III-V process”  
+Tushar Krishna, Arya Balachandran, Siau Ben Chiah, Li Zhang, Bing Wang, Cong Wang, 
+Kenneth Lee Eng Kian,  
+Jurgen Michael and Li-Shiuan Peh  
+Design Automation and Test in Europe (DATE), Switzerland, Mar 2017 (Best Paper Award) 
+ 
+● 
+“Novel low delay slew rate controlled I/Os” 
+Vikas Narang, Arya B. and Karthik Rajagopal 
+1st Asia Symposium on Quality Electronic Design (ASQED), Malaysia, Jul 2009 
+ 
+
+-----

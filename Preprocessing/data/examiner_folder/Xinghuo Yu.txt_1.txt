@@ -1,0 +1,1913 @@
+ Professor Xinghuo Yu is the Associate Deputy Vice-Chancellor 
+Research Capability and Distinguished Professor of RMIT University 
+(Royal Melbourne Institute of Technology), Melbourne, Australia.  He 
+received the Bachelor of Engineering and Master of Engineering degrees 
+from the University of Science and Technology of China, Hefei, China in 
+1982 and 1984, and the Doctor of Philosophy degree from Southeast 
+University, Nanjing, China in 1988, respectively. Professor Yu started his 
+academic career in 1989 when he took up a Postdoctoral Research 
+Fellowship in the University of Adelaide, Adelaide, Australia. In 1991, he joined Central 
+Queensland University (CQU), Rockhampton, Australia as Lecturer, and was then promoted 
+to Senior Lecturer, Associate Professor, and Professor and Personal Chair in Intelligent 
+Systems. He was the Associate Dean (Research) of CQU’s Faculty of Informatics and 
+Communication between 1998 and 2002. Since 2002, he has been with RMIT University 
+where he has occupied a number of managerial positions, including Discipline Head, 
+Associate Dean, and Research Institute Director.  
+Professor Yu has worked extensively with Industry. He was on the Board of Governors of the 
+Australian Photonics Cooperative Research Centre (CRC) (2003-2006) and a member of the 
+Science Advisory Committee of the Advanced Manufacturing CRC (2008-2013). 
+Professor Yu’s research interests include variable structure and nonlinear control, complex 
+and intelligent systems, and industrial information technologies. He has published over 500 
+refereed papers in technical journals, books and conference proceedings. In 2015, He was 
+named a Highly Cited Researcher by Thomson Reuters, ranking him top 1% researchers in his 
+field and year of publication. Professor Yu received a number of awards for his contributions, 
+including the 2013 Dr.-Ing. Eugene Mittelmann Achievement Award of IEEE Industrial 
+Electronics Society, the 2012 IEEE Industrial Electronics Magazine Best Paper Award, and a 
+Chang Jiang Scholar (Chair Professor) Award from the Ministry of Education, China in 2009. 
+He is serving/served as an Associate Editor of IEEE Transactions on Automatic Control, 
+IEEE Transactions on Circuits and Systems Part I: Regular Papers, IEEE Transactions on 
+Industrial Informatics, IEEE Transactions on Industrial Electronics, and several other 
+scholarly journals.  
+Professor Yu is currently President-Elect (2016-2017) of IEEE Industrial Electronics Society 
+(IES). He is a Fellow of the IEEE, the Institution of Engineering and Technology (UK), 
+Engineers Australia , Australian Computer Society, Australian Institute of Company Directors, 
+and International Energy Foundation.  
+ Further details about Professor Yu can be found from his homepage: 
+https://sites.google.com/site/xinghuoyu 
+  
+
+-----
+PUBLICATION LIST (Xinghuo Yu) 
+ 
+Books 
+ 
+1. 
+J. Lu, X. Yu, G. Chen, and W. Yu, Complex Systems and Networks: Dynamics, Controls and 
+Applications,  Understanding Complex Systems, Springer, 2015.  
+2. 
+X. Yu and O. Efe (Editors), Recent Advances in Sliding Modes: From Control to Intelligent 
+Mechatronics, Studies in Systems, Decision and Control, vol. 24, Springer, 2015. 
+3. 
+S. Marshall, W. Taylor, and X. Yu (Editors), Encyclopedia of Developing Regional Communities 
+with Information and Communication Technology, Idea Publishing Group, 2005. 
+4. 
+G. Webb and X. Yu (Editors), AI 2004: Advanced in Artificial Intelligence, Proceedings of 17th 
+Australian Joint Conference on AI, Lecture Notes in Artificial Intelligence, vol. 3339, 2004. 
+5. 
+X. Yu and J. Kacprzyk (Editors), Applied Decision Support with Soft Computing, Studies in 
+Fuzziness and Soft Computing, vol. 124, Springer, 2003. 
+6. 
+S. Marshall, W. Taylor, and X. Yu (Editors), Using Community Informatics to Transform Regions, 
+Idea Publishing Group, 2003. 
+7. 
+G. Chen and X. Yu (Editors), Chaos Control: Theory and Applications, Lecture Notes in Control 
+and Information Sciences, vol. 292, Springer, 2003. 
+8. 
+G. Chen, D. J. Hill, and X. Yu (Editors), Bifurcation Control: Theory and Applications, Lecture 
+Notes in Control and Information Sciences, vol. 293, Springer, 2003.  
+9. 
+S. Marshall, W. Taylor, and X. Yu (Editors), Closing the Digital Divide: Transform Regional 
+Economy and Industry using Information Technology, Greenwood Publishing, 2003. 
+10. 
+X. Yu and J.‐X. Xu, (Editors), Variable Structure Systems: Towards the 21st Century, Lecture 
+Notes in Control and Information Sciences, vol. 274, Springer, 2002. 
+11. 
+X. Yu and J.‐X. Xu, (Editors), Advances in Variable Structure Systems: Analysis, Integration and 
+Applications, Proceedings of 6th International Workshop on Variable Structure Systems, World 
+Scientific, November 2000. 
+12. 
+R.J. Stonier and X. Yu (Editors), Complex Systems: Mechanism of Adaptation, IOS Press 
+Amsterdam and Ohmsha Tokyo, September 1994. 
+ 
+ 
+Book Chapters 
+ 
+1. 
+H. Du, X. Yu, and S. Li, “Dynamic behaviors of discrete‐time terminal sliding mode control 
+systems,” in Recent Advances in Sliding Modes: From Control to Intelligent Mechatronics, X. Yu 
+and O. Efe (Eds), Studies in Systems, Decision and Control, vol. 24, pp. 77‐98, Springer, 2015.  
+2. 
+Y. Feng, X. Yu, and F. Han, “On digitization of variable structure control for permanent magnet 
+synchronous motors,” in AC Electric Motors Control: Advanced Design Techniques and 
+Applications, F. Giri (Ed), ch. 18, John Wiley & Sons, UK, 2013 
+3. 
+Y. Yan and X. Yu, “Quantization behaviours on equivalent control based sliding mode control 
+systems,” in Advances in Sliding Mode Control, B. Bandyopadhyay, S. Janardhanan, S. K. 
+Spurgeon (Eds), Lecture Notes on Control and Information Sciences, vol. 440, pp. 221‐241, 2013. 
+4. 
+Z. Man, S. Khoo, X. Yu, J. Jin, and F. Tay, “A new design of sliding mode control systems,” Sliding 
+Modes after the first decade of the 21st Century, L. Fridman et al (Eds),  vol. 412, pp. 151‐167, 
+Springer, 2011. 
+5. 
+Z. Galias and X. Yu, “On Euler’s discretisation of sliding mode control systems with relative 
+degree restrictions,” Modern Sliding Mode Control Theory: New Perspective and Applications, G. 
+Bartolini, L. Fridman, A. Pisano and E. Usai (Eds), vol. 375, vol. pp. 119‐236, Springer, 2008. 
+6. 
+Y. Feng and X. Yu, “Sliding mode control for chaotic systems,” in Control of Chaos in Nonlinear 
+Circuits and Systems, B. W.‐K. Ling, H. H.‐C. Iu, and H.‐K. Lam (Eds), Series on Nonlinear Sciences, 
+Series A, vol. 64, pp. 55‐78, World Scientific, 2008. 
+7. 
+X. Yu and G. Chen, “Sliding mode control and chaos,” in Variable Structure Systems: From 
+Principles to Implementation, A. Sabanovic, L. Fridman, S. Spurgeon (Eds), vol. 66, pp. 219‐242, 
+IEE Press, 2004. 
+
+-----
+8. 
+A. Chiou and X. Yu, “P‐Expert: Implementation and deployment of large scale fuzzy expert 
+advisory system,” in Classification and Clustering for Knowledge Discovery, S. K. Halgamuge and 
+L. Wang (Eds), Studies in Computational Intelligence, vol. 4, 159‐173, Springer, 2005. 
+9. 
+A. Chiou and X. Yu, “Thematic fuzzy prediction of weed dispersal using spatial dataset,” in 
+Computational Intelligence for Modelling and Predictions, S. K. Halgamuge and L. Wang (Eds), 
+Studies in Computational Intelligence, vol. 2, 147‐162, Springer, 2005. 
+10. 
+Y.‐P. Tian and X. Yu, “Time‐delayed impulsive stabilization of unstable periodic orbits in chaotic 
+hybrid systems,” in Chaos Control: Theory and Applications, Lecture Notes in Control and 
+Information Sciences, vol. 292, pp. 51‐70, G. Chen and X. Yu (Eds), Springer, 2003 
+11. 
+J.‐Q. Fang, G. Chen, and X. Yu, “Formation mechanisms and control methods of beam halo‐chaos 
+in high‐current ion linacs,” in Chaos Control: Theory and Applications, Lecture Notes in Control 
+and Information Sciences, vol. 292, pp. 205‐246, G. Chen and X. Yu (Eds), Springer, 2003 
+12. 
+A. Chiou and X. Yu, “Prediction of parthenium weed dispersal using fuzzy logic on GIS spatial 
+image,” in Applied Decision Support with Soft Computing, Studies in Fuzziness and Soft 
+Computing, X. Yu and J. Kacprzyk (Eds), vol. 124, pp. 402‐418, Springer, 2003. 
+13. 
+B. Wu and X. Yu, “Evolving agents for global optimization,” in Optimization and Industry: New 
+Frontiers, P. Pardalos and V. Korotkich (Eds), pp. 281‐292, Applied Optimization, vol. 78, Kluwer 
+Academic, 2003. 
+14. 
+A. Chiou, X. Yu, and K. Adsett, “P‐Expert Project: Development of a prototype expert system for 
+control and management of parthenium weed in Central Queensland,” in Closing the Digital 
+Divide: Transforming Regional Economies and Communities with Information Technology, S. 
+Marshall, W. Taylor and X. Yu (Eds), pp. 153‐166, Greenwood Publishing, 2003. 
+15. 
+X. Yu and Z. Man, “Variable structure systems with terminal sliding modes,” in Variable 
+Structure Systems: Towards the 21st Century, Lecture Notes in Control and Information Sciences, 
+G. Chen and X. Yu (Eds), vol. 274, pp.109‐128, Springer, 2002. 
+16. 
+M. O. Efe, O. Kaynak, and X. Yu, “Variable structure systems theory in computational 
+intelligence,” in Variable Structure Systems: Towards the 21st Century, Lecture Notes in Control 
+and Information Sciences, X. Yu and J.‐X. Xu (Eds), vol. 274, pp.365‐390, Springer, 2002. 
+17. 
+Y. Feng, F. Han, X. Yu, D. Stonier, and Z. Man, “Tracking precision analysis of terminal sliding 
+mode control systems with saturation functions,” in Advances in Variable Structure Systems: 
+Analysis, Integration and Applications, X. Yu and J.X. Xu (Eds), pp. 325‐334, World Scientific, 
+2000.  
+18. 
+S. Chong, X. Yu, and Z. Man, “Robust terminal sliding mode control of a flexible robot arm,” in 
+Advances in Variable Structure Systems: Analysis, Integration and Applications, X. Yu and J.X. Xu 
+(Eds), pp. 500‐508, World Scientific, 2000.  
+19. 
+S. Yu, X. Yu, and W. Qiang, “Time delayed discrete variable structure control with quasi sliding 
+modes,” in Advances in Variable Structure Systems: Analysis, Integration and Applications, X. Yu 
+and J.X. Xu (Eds), pp. 84‐92, World Scientific, 2000.  
+20. 
+S. Gregor and X. Yu, “Exploring explanatory capabilities of intelligent systems technologies,” in 
+Fuzzy Logic in the New Millennium, V. Dimitrov and V. Korotkich (Eds), pp. 288‐300, Springer, 
+2001.  
+21. 
+S. Yu, X. Yu, and Z. Man, “Indirect adaptive fuzzy control of nonlinear systems with terminal 
+sliding modes,” in Fuzzy Logic in the New Millennium, V. Dimitrov and V. Korotkich (Eds), pp. 
+263‐276, Springer, 2001.  
+22. 
+A. Chiou, X. Yu, and J. Lowry, “Prototype application of fuzzy advisory expert in management and 
+control of parthenium weed in Fitzroy basin at Central Queensland,” in Fuzzy Logic in the New 
+Millennium, V. Dimitrov and V. Korotkich (Eds), pp. 311‐325, Springer, 2001.  
+23. 
+M. Rahman, X. Yu, and B. Srinivasan, "A neural networks based approach for fast mining 
+characteristic rules," in Lecture Notes in Artificial Intelligence ‐ AI'99, pp. 36‐47, N. Foo (Ed), 
+Sydney, December 1999.  
+24. 
+X. Yu, Y. Wu, and Z. Man, "On global stabilisation of nonlinear dynamical systems," in Variable 
+Structure Systems, Sliding Mode and Nonlinear Control, Lecture Notes in Control and 
+Information Science, D. Young and U. Ozguner (Eds), vol. 247, pp. 109‐122, Springer, 1999.  
+25. 
+X. Yu, G. Chen, and Y. Tian, "Time delayed feedback control of chaotic systems," in Controlling 
+Chaos and Bifurcation in Engineering Systems, G. Chen (Ed), CRC Press, 1999.  
+
+-----
+26. 
+S.M. Rahman, X. Yu, and Z. Man, "Feedforward neural networks with adaptive learning," in 
+Complex Systems: From Local Interactions to Global Phenomena, R. Stocker, H. Jelinek, B. 
+Durnota and T. Bossomaier (Eds), IOS Press, pp.214‐219, 1996.  
+27. 
+X. Yu, "Tracking periodic orbits in chaotic systems," in Complex Systems: From Local 
+Interactions to Global Phenomena, R. Stocker, H. Jelinek, B. Durnota and T. Bossomaier (Eds), IOS 
+Press, pp.107‐112, 1996.  
+28. 
+Z. Man, X. Yu, and N. Ritter, “A RBF neural network‐based adaptive controller for robotic 
+manipulators,” in Artificial Intelligence ‐ AI’95, X. Yao (Ed), World Scientific, pp. 81‐88, 1995.  
+29. 
+F. Lin, X. Yu, S. Gregor, and R. Irons, “Time series forecasting with a neural network,” in Complex 
+Systems: Mechanism of Adaptation, R. Stonier and X. Yu (Eds), IOS Press, Amsterdam, 
+pp.245‐252, 1994.  
+30. 
+X. Yu, “A perceptron adaptation algorithm for neural networks and its application,” in  Artificial 
+Intelligence – AI’94, C. Zhang, J. Debenham and D. Lukose (Eds), World Scientific, pp. 411‐417, 
+1994.  
+31. 
+X. Yu, “Discretisation effect on a dynamical system with discontinuity,” in  Chaotic Numerics, P. 
+Kloeden and K. Palmer (Eds.), Contemporary Mathematics, vol. 172, pp.269‐277, American 
+Mathematical Society, 1994.  
+32. 
+X. Yu, “Digital variable structure control with pseudo‐sliding modes,” in Variable Structure and 
+Lyapunov Control, A.S.I. Zinober (Ed), Springer, pp.103‐129, 1993. 
+ 
+ 
+Journal Articles 
+ 
+1. 
+G. Wen, W. Yu, Z. Li, X. Yu, and J. Cao, “Neuro‐adaptive consensus tracking of multi‐agent systems 
+with a high‐dimensional leader,” IEEE Transactions on Cybernetics, accepted for publication, 16 
+April 2016. 
+2. 
+Y. Orouskhani, M. Jalili, and X. Yu, “Optimizing dynamical network structure for pinning control,” 
+Scientific Reports, accepted for publication, 18 March 2016. 
+3. 
+M. Jalili, X. Yu, “Enhancement of synchronizability in networks with community structure 
+through adding efficient inter‐community links,” IEEE Transactions on Network Science and 
+Engineering, accepted for publication, 14 March 2016. 
+4. 
+X. Lu, Y. Wang, X. Yu, and J. Lai, “Finite‐time control for robust tracking consensus in MASs with 
+an uncertain leader,” IEEE Transactions on Cybernetics, accepted for publication, 22 March 
+2016. 
+5. 
+C. Li, X. Yu, W. Yu, and T. Huang, “Efficient computation for sparse load shifting in demand side 
+management,” IEEE Transactions on Smart Grid, accepted for publication, 7 January 2016. 
+6. 
+H. Du, X. Yu, M. Z. Q. Chen, and S. Li, “Chattering‐free discrete‐time sliding mode control,” 
+Automatica, accepted for publication, 5 January 2016. 
+7. 
+Q. Zhu, X. Yu, T. Zhang, Z. Cao, Y. Yang, and Y. Yi, “Sliding mode control of MIMO Markovian Jump 
+Systems,” Automatica, accepted for publication, 30 December 2015. 
+8. 
+W. Sun, J. Lu, X. Yu, Y. Chen, and S. Chen, “Cooperation of multi‐agent systems with unmatched 
+parameters: a point view of power systems,” IEEE Transactions on Circuits and Systems II, 
+accepted for publication, 20 December 2015. 
+9. 
+P. Wang, Y. Chen, J. Lu, Q. Wang, and X. Yu, “Graphical features of functional genes in human 
+protein interaction network,” IEEE Transactions on Biomedical Circuits and Systems, accepted 
+for publication, 16 December 2015. 
+10. 
+S. Wen, T. Huang, X. Yu, and Z. Zeng, “Aperiodic sampled‐data sliding‐mode control of fuzzy 
+systems with communication delays via the event‐triggered method,” IEEE Transactions on 
+Fuzzy Systems, accepted for publication, 23 October 2015. 
+11. 
+X.‐M. Zhang, Q.‐L. Han, and X. Yu, “Survey on recent advances in networked control systems,” 
+IEEE Transactions on Industrial Informatics, accepted for publication, 23 October 2015. 
+12. 
+Q. Zhu, X. Yu, T. Zhang, Z. Cao, Y. Yang, and Y. Yi, “The mean‐square stability probability of Hinf 
+control of Markovian Jump Systems,” IEEE Transactions on Automatic Control, accepted for 
+publication, September 2015. 
+
+-----
+13. 
+G. Wen, M. Z. Q. Chen, and X. Yu, “Event‐triggered master‐slave synchronization with 
+sampled‐data communication,” IEEE Transactions on Circuits and Systems II, accepted for 
+publication, August 2015. 
+14. 
+C. Li, X. Yu, T. Huang, X. He, and G. Chen, “A generalized Hopfield network for nonsmooth 
+constrained convex optimization: Lie derivative approach”, IEEE Transactions on Neural 
+Networks and Learning Systems, accepted for publication, September 2015. 
+15. 
+C. Li, X. Yu, W. Yu, T. Huang, and Z. Liu, “Distributed event‐triggered scheme for economic 
+dispatch in smart grids,” IEEE Transactions on Industrial Informatics, accepted for publication, 
+August 2015. 
+16. 
+H. Du, G. Wen, X. Yu, S. Li, and M. Z. Q. Chen, “Finite‐time consensus of multiple nonholonomic 
+chained‐form systems based on recursive distributed observer,” Automatica, vol. 62, pp. 
+236‐242, 2015. 
+17. 
+Y. Yan, X. Yu, C. Sun, and S. Yu, “Quantization effect on ZOH discretization of multi‐input 
+sliding‐mode control systems,” IET Control Theory & Applications, vol. 9, no. 18, pp. 2613‐2618, 
+2015. 
+18. 
+D. Savage, X. Zhang, X. Yu, Q. Wang, and P. Chou, “Detection of opinion spam based on anomalous 
+rating deviation,” Expert Systems with Applications, vol. 41, no. 22, pp. 8650‐8657, 2015. 
+19. 
+G. Wen, W. Yu, G. Hu, J. Cao, and X. Yu, “Pinning synchronization of directed networks with 
+switching topologies: A multiple Lyapunov functions approach,” IEEE Transactions on Neural 
+Networks and Learning Systems, vol. 26, no. 12, pp. 3239‐3250, 2015. 
+20. 
+Y. Yan, X. Yu, and C. Sun, “Quantization effect on sliding mode control of uncertain dynamical 
+systems,” Asian Journal of Control, in press, DOI: 10.1002/asjc.1173, May 2015. 
+21. 
+W. Xiong, D. Ho, and X. Yu, “Saturated finite interval iterative learning for tracking of dynamic 
+systems with HNN‐structural output,” IEEE Transactions on Neural Networks and Learning 
+Systems, accepted for publication, May 2015. 
+22. 
+D. Alahakoon and X. Yu, “Smart electricity meter data intelligence for future energy systems: A 
+survey,” IEEE Transactions on Industrial Informatics, vol. 12, no. 1, pp. 425‐436, February 2016. 
+23. 
+M. Jalili, O. A. Sichani, and X. Yu, “Optimal pinning controllability of complex networks: 
+Dependence on network structure,” Physical Review E, vol. 91, no. 1, 012803, 2015. 
+24. 
+S. Wen, X. Yu, Z. Zeng, and J. Wang, “Event‐triggering load frequency control for multi‐area 
+power systems with communication delays,” IEEE Transactions on Industrial Electronics, 
+accepted for publication, February 2015. 
+25. 
+S. Wen, Z. Zeng, T. Huang, X. Yu, and M. Xiao, “New criteria of passivity analysis for fuzzy 
+time‐delay systems with parameter uncertainties,” IEEE Transactions on Fuzzy Systems, 
+accepted for publication, March 2015. 
+26. 
+G. Wen, W. Yu, G. Hu, J. Cao, and X. Yu, “Pinning synchronization of directed networks with 
+switching topologies: A multiple Lyapunov functions approach,” IEEE Transactions on Neural 
+Networks and Learning Systems, accepted for publication, January 2015. 
+27. 
+M. Combariza‐Pacheco, X. Yu, A. Mitchell, N. Warwick, and F. Tovar‐Lopez, “Nonlinear dynamic 
+modelling of platelet aggregation via microfluidic devices,” IEEE Transactions on Biomedical 
+Engineering, accepted for publication, January 2015. 
+28. 
+W. Sun, X. Yu, J. Lu, and S. Chen, “Synchronization of coupled harmonic oscillators with random 
+noises,” Nonlinear Dynamics, vol. 79, no. 1, pp. 473‐484, 2015. 
+29. 
+W. Yu, J. Lu, X. Yu, and G. Chen, “Distributed adaptive control for synchronization in directed 
+complex networks,” SIAM Journal on Control and Optimization, vol. 53, no. 5, pp. 2980‐3005, 
+September 2015. 
+30. 
+X. Liu, X. Yu, and H. Xi, “Finite‐time synchronization of neutral complex networks with 
+Markovian switching based on pinning controller,” Neurocomputing, vol. 153, pp. 148‐158, 
+2015. 
+31. 
+X. Wang, S. John, S. Watkins, X. Yu, H. Xiao, X. Liang, and H. Wei, “Similarity and duality of 
+electromagnetic and piezoelectric vibration energy harvesters,” Mechanical Systems and Signal 
+Processing, vol. 52, pp. 672‐684, 2015. 
+32. 
+P. Wang, J. Lu and X. Yu, “Colored noise induced bistable switch in the genetic toggle switch 
+systems,” IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol. 12, no. 3, 
+pp. 579‐589, June 2015.  
+
+-----
+33. 
+P. Wang, Y. Zhang, J. Lu, and X. Yu, “Functional characteristics of additional positive feedback in 
+genetic circuits,” Nonlinear Dynamics, vol. 79, no. 1, 397‐408, 2015. 
+34. 
+Y. Zhou, X. Yu, C. Sun, and W. Yu, “Higher‐order finite‐time consensus protocol for 
+heterogeneous multi‐agent systems,” International Journal of Control, vol. 88, no. 2, pp. 285‐294, 
+2015. 
+35. 
+P. Wang, X. Yu, and J. Lu, “Duplication and divergence effect on network motifs in undirected 
+bio‐molecular networks,” IEEE Transactions on Biomedical Circuits and Systems, vol. 9, no. 3, pp. 
+312‐320, June 2015.  
+36. 
+S. Li, H. Sun, J. Yang, and X. Yu, “Continuous finite‐time output regulation for disturbed systems 
+under mismatching condition,” IEEE Transactions on Automatic Control, vol. 60, no. 1, pp. 
+277‐282, 2015. 
+37. 
+Y. Zhou, X. Yu, C. Sun, and W. Yu, “Robust synchronization of second‐order multi‐agent system 
+via pinning control,” IET Control Theory & Applications, vol. 9, no. 5, pp. 775‐783, 2014. 
+38. 
+G. Wen, W. Yu, M. Z. Q. Chen, X. Yu, and G. Chen, “Hinf pinning synchronization of directed 
+networks with aperiodic sampled‐data communications,” IEEE Transactions on Circuits and 
+Systems – I: Regular Papers, vol. 61, no. 11, 3245‐3255, November 2014. 
+39. 
+S. Wen, Z. Zeng, T. Huang, and X. Yu, “Noise cancelation of memristive neural networks,” Neural 
+Networks, vol. 60, pp. 74‐83, December 2014. 
+40. 
+Q. Zhu, X. Yu, A. Song, S. Fei, Z. Cao, and Y. Yang, “On sliding mode control of single input 
+Markovian jump systems,” Automatica, vol. 50, no. 11, pp. 2897‐2904, 2014. 
+41. 
+P. Wang, J. Lu, and X. Yu, “Identification of important nodes in directed biological networks: A 
+network motif approach,” PLOS ONE, vol. 8, no. 8, doi:10.1371/journal.pone.0106132m, August 
+2014. 
+42. 
+A. Almalawi, X. Yu, Z. Tari, A. Fahad, and I. Khalil, “An Unsupervised anomaly‐based detection 
+approach for integrity attack on SCADA systems,” Computer & Security, vol. 36, pp. 94‐110, 
+October 2014.  
+43. 
+D. Savage, X. Z. Zhang, X. Yu, Q. Wang, and P. Chou, “Anomaly detection in online social 
+networks,” Social Networks, vol. 39, pp. 62‐70,  2014. 
+44. 
+Q. Wang and X. Yu, “Ontology based automatic feature recognition framework”, Computers in 
+Industry, vol. 65, no. 7, pp. 1041‐1052, September 2014. 
+45. 
+W. Sun, J. Lu, S. Chen, and X. Yu, “Pinning impulsive algorithms for complex network,” Chaos, vol. 
+24, no. 1, to appear, 2014. 
+46. 
+W. Sun, J. Lu, S. Chen, and X. Yu, “Synchronization of directed coupled harmonic oscillators with 
+sampled‐data,” IET Journal Control Theory & Applications, vol. 8, no. 11, pp. 937‐947, 2014. 
+47. 
+W. Yu, G. Wen, X. Yu, Z. Wu, and J. Lu, “Bridging the gap between complex networks and smart 
+grids,” Journal of Control and Decision, vol. 1, no. 1, pp. 102‐144, 2014. 
+48. 
+H. Li, Y. Liu, J. Lu, T. Zheng, and X. Yu, “Suppressing EMI in power converters via chaotic SPWM 
+control based on spectrum analysis approach,” IEEE Transactions on Industrial Electronics, vol. 
+61, no. 11, pp. 6128‐6137, 2014. 
+49. 
+P. Wang, X. Yu, and J. Lu, “Identification and evolution of structurally dominant nodes in 
+protein‐protein interaction networks,” IEEE Transactions on Biomedical Circuits and Systems, 
+vol. 8, no. 1, pp. 87‐97, February 2014.  
+50. 
+W. Yu, X. Yu, and J. Lu, “Pinning observability in complex networks,” IET Journal of Control 
+Theory & Applications, vol. 8, no. 18, pp. 2136‐2144, July 2014. 
+51. 
+Y. Feng, X. Yu, and F. Han, “Chattering free full‐order sliding mode control,” Automatica, vol. 50, 
+no. 4, pp. 1310‐1314, 2014. 
+52. 
+B.‐L. Zhang, Q. Han, X.‐M. Zhang, and X. Yu, “Sliding mode control with mixed current and 
+delayed states for offshore steel jacket platforms,” IEEE Transactions on Control Systems 
+Technology, vol. 22, no. 5, pp. 1769‐1983, September 2014. 
+53. 
+S. Li, H. Du, and X. Yu, “Discrete‐time terminal sliding mode control systems based on Euler’s 
+discretization,” IEEE Transactions on Automatic Control, vol. 59, no. 2, pp. 546‐552, February 
+2014. 
+54. 
+W. Xiong, W. Yu, J. Lu, and X. Yu, “Fuzzy Modelling and Consensus of Nonlinear Multiagent 
+Systems With Variable Structure,” IEEE Transactions on Circuits and Systems I: Regular Papers, 
+vol. 61, no. 4, pp. 1183‐1191, 2014. 
+
+-----
+55. 
+J. Yang, S. Li, and X. Yu, “High‐order mismatched disturbance compensation for motion control 
+systems via a continuous dynamic sliding‐mode approach,” IEEE Transactions on Industrial 
+Informatics, vol. 10, no. 1, pp. 604‐614, 2014. 
+56. 
+W. Yu, J. Lu. S. Chen, and X. Yu, “Synchronization of directed coupled harmonic oscillators with 
+sampled‐data,” IET Journal of Control Theory & Applications, vol. 8, no. 11, pp. 937‐947,  July 
+2014. 
+57. 
+S. Tan, J. Lu, X. Yu, and D. Hill, “Evolution and maintenance of cooperation via inheritance of 
+neighbourhood relationship,” China Science Bulletin, vol. 58, no. 28/29, pp. 3491‐3498, 2013. 
+58. 
+Y. Chen, J. Lu, X. Yu, and D. J. Hill, “Multi‐agent systems with dynamical topologies: Consensus 
+and applications,” IEEE Circuits and Systems Magazine, vol. 13, no. 3, pp. 21‐34, August 2013. 
+59. 
+Y. Chen, J. Lu, X. Yu, and Z. Lin, “Consensus of discrete‐time second order multi‐agent systems 
+based on infinite products of general stochastic matrices,” SIAM Journal on Control and 
+Optimization, vol. 51, no. 4, pp.3274‐3301, 2013. 
+60. 
+S. Khoo, J. Yin, Z. Man, and X. Yu, “Finite‐time stabilization of stochastic nonlinear systems in 
+strict‐feedback form,” Automatica, vol. 45, no. 5, pp. 1403‐1410, 2013. 
+61. 
+J. Yang, S. Li, J. Su, and X. Yu, “Continuous nonsingular terminal sliding mode control for systems 
+with mismatched disturbances,” Automatica, vol. 49, no. 7, 2287‐2291, 2013. 
+62. 
+W. Yu, L. Zhou, X. Yu, J. Lu, and R. Lu, “Consensus in multi‐agent systems with second‐order 
+dynamics and sampled data,” IEEE Transactions on Industrial Informatics, vol. 9, no. 4, pp. 
+2137‐2146, November 2013. 
+63. 
+Y. Feng, X. Yu, and F. Han, “On non‐singular terminal sliding mode control of nonlinear systems,” 
+Automatica, vol. 49, no. 6, pp. 1715‐1722, 2013. 
+64. 
+S. Li, M. Zhou, and X. Yu, “Design and implementation of terminal sliding mode control method 
+for PMSM speed regulation system,” IEEE Transactions on Industrial Informatics, vol. 9, no. 4, pp. 
+1879‐1891, 2013. 
+65. 
+A. Levant, S. Li, and X. Yu, “Accuracy of some popular non‐homogeneous 2‐sliding modes,” IEEE 
+Transactions on Automatic Control, vol. 58, n0. 10, pp. 2615‐2619, 2013. 
+66. 
+X. Li, X. Yu, and Q. Han, ‘Stability analysis of second‐order sliding mode control systems with 
+input delay through Poincare map,” IEEE Transactions on Automatic Control, vol. 58, no. 9, pp. 
+2410‐2415, 2013. 
+67. 
+L. Tang, J.‐A. Lu, J. Lu, and X. Yu, “Bifurcation analysis of synchronized regions in complex 
+dynamical networks,” International Journal of Bifurcation and Chaos, vol. 22, no. 11, November 
+2012. 
+68. 
+Y. Feng, X. Yu, and F. Han, “High‐order terminal sliding‐mode observer for parameter estimation 
+of a permanent magnet synchronous motor,” IEEE Transactions on Industrial Electronics, vol. 
+60, no. 10, pp. 4272‐4280, 2013. 
+69. 
+Y. Yan, X. Yu, and S. Yu, “Quantization effect on a second‐order dynamical system under sliding 
+mode control,” International Journal of Bifurcation and Chaos, vol. 23, no. 8, August 2013. 
+70. 
+J. Yang, S. Li, and X. Yu, “Sliding‐mode control for systems with mismatched uncertainties via a 
+disturbance observer,” IEEE Transactions on Industrial Electronics, vol. 60, no. 1, pp. 160‐169, 
+2013. 
+71. 
+J. Zhu, J. Lu, and X. Yu, “Flocking of multi‐agent non‐holonomic systems with proximity graphs,” 
+IEEE Transactions on Circuits and Systems – Part I Regular Papers, vol. 60, no.1, pp.199‐210, 
+January 2013. 
+72. 
+Z. Xu, H. Wu, X. Yu, and B. Qiu, “Adaptive progressive filer o remove impulse noise in highly 
+corrupted color images,” Signal, Image and Video Processing, vol. 7, no. 5, pp. 817‐831, 2013. 
+73. 
+A. Dwivedi and X. Yu, “A maximum flow based complex network approach for power system 
+vulnerability analysis,” IEEE Transactions on Industrial Informatics, vol. 9, no. 1, pp. 81‐88, 
+January 2013. 
+74. 
+W. Xu, G. Lei, T. Wang, X. Yu, J. Zhu, and Y. Guo, “Theoretical research in new laminated structure 
+flux switching permanent magnet machine for novel topologic plug‐in hybrid electrical vehicle,” 
+IEEE Transactions on Magnetics, vol. 48, no.11, pp. 4050‐4053, 2012. 
+75. 
+Z. Galias and X. Yu, “Dynamical behaviors of discretised second‐order terminal sliding mode 
+control systems,” IEEE Transactions on Circuits and Systems – Part II, vol. 59, no. 9, pp. 597‐601, 
+September 2012.  
+
+-----
+76. 
+C. van der Velden, C. Bil, and X. Yu, “Adaptable methodology for automation application 
+development,” Advanced Engineering Informatics, vol. 26, pp. 231‐250, 2012. 
+77. 
+X. Yu, B. Wang, and X. Li, “Computer‐controlled variable structure systems: the state of the art,” 
+IEEE Transactions on Industrial Informatics, vol. 8, no. 2, pp. 197‐205, 2012. 
+78. 
+S. Yu, J. Lu, X. Yu, and G. Chen, “Design and implementation of grid multi‐wing hyperchaotic 
+Lorenz system family via switching control and constructing super‐heteroclinic loops,” IEEE 
+Transactions on Circuits and Systems – Part I Regular Papers, vol. 59, no. 5, pp. 1015‐1028, 
+2012. 
+79. 
+B. L. Zhang, Q.‐L. Han, X.‐M. Zhang, and X. Yu, “Integral sliding mode control for offshore steel 
+jacket platforms,” Journal of Sound and vibration, vol. 331, pp. 3171‐3185, 2011. 
+80. 
+J. Yin, S. Khoo, Z. Man, and X. Yu, “Finite‐time stability and instability of stochastic nonlinear 
+systems,” Automatica, vol. 47, no. 12, pp. 2671‐2677, December 2011. 
+81. 
+Z. Xu, H. Wu, X. Yu, K. Horadam, and B. Qiu, “Robust shape‐feature‐vector‐based face recognition 
+system,” IEEE Transactions on Instrumentation and Measurement, vol. 60, no. 12, pp. 
+3781‐3791, December 2011. 
+82. 
+D. De Silva, X. Yu, D. Alahakoon, and G. Holmes, “A data mining framework for electricity 
+consumption analysis from meter data,” IEEE Transactions on Industrial Informatics, vol. 7, no. 
+3, pp.399‐407, August 2011. 
+83. 
+Z. Xu, H.R. Wu, X. Yu, and B. Qiu, “Adaptive progressive filter to remove impulse noise in highly 
+corrupted color images”, Signal, Image and Video Processing, Springer, (online first) October 
+2011. 
+84. 
+Y. Chen, J. Lu, F. Han, and X. Yu, “On the cluster consensus of discrete‐time multi‐agent systems,” 
+Systems & Control Letters, vol. 60, no. 7, pp. 517‐523, 2011. 
+85. 
+P. Wang, D. Li, X. Wu, J. Lü, and X. Yu, ``Ultimate bound estimation of a class of high dimensional 
+quadratic autonomous dynamical systems,'' International Journal of Bifurcation and Chaos, vol. 
+21, no. 9, pp. 2679‐2694, September 2011. 
+86. 
+W. Guo, J. Lü, S. Chen, and X. Yu, ``Second‐order tracking control for leader‐follower multi‐agent 
+flocking in directed graphs with switching topology,'' Systems & Control Letters, vol. 60, no. 12, 
+pp. 1051‐1058, Dec. 2011. 
+87. 
+Y. Chen, J. Lü, and X. Yu, ``Robust consensus of multi‐agent systems with time‐varying delays in 
+noisy environment,'' Sci. China: Technol. Sci., vol. 54, no. 8, pp. 2014‐2023, August 2011. 
+88. 
+C. Y.‐K. Ho, B. W.‐K. Ling, J. D. Reiss, and X. Yu, “Global stability, limit cycles and chaotic behaviors 
+of second order interpolative sigma delta modulators,” International Journal of Bifurcation and 
+Chaos, vol. 21, no. 6, pp. 1755‐1722, 2011. 
+89. 
+X. Yu, C. Cecati, T. Dillon, and M. Simoes, “The new frontier of Smart Grids: An industrial 
+electronics perspective,” IEEE Industrial Electronics Magazine, vol. 5, no.3, pp. 49‐63, September 
+2011. 
+90. 
+X. Li, H. Gao, and X. Yu, “A unified approach to the stability of generalized static neural networks 
+with linear fractional uncertainties and delays,” IEEE Transactions on Systems, Man and 
+Cybernetics, Part B, vol. 41, no. 5, pp. 1275‐1286, 2011. 
+91. 
+Z. Galias and X. Yu, “Study of periodic solutions of discretized two‐dimensional sliding mode 
+control systems,” IEEE Transactions on Circuits and Systems – Part II Briefs, vol. 58, no.6, pp. 
+381‐385, 2011. 
+92. 
+S. Yu, J. Lu, G. Chen, and X. Yu, “Generating grid multi‐wing chaotic attractors by constructing 
+heteroclinic loops into switching systems,” IEEE Transactions on Circuits and Systems – Part II 
+Briefs, vol. 58, no. 5, pp. 314‐318, May 2011. 
+93. 
+X. Yu, B. Wang, B. Batbayar, L. Wang, and Z. Man, “An improved training algorithm for neural 
+networks learning based on terminal attractors,” Journal of Global Optimization, vol. 51, no. 2, 
+pp. 271‐284, 2011. 
+94. 
+R. Dodd, R. Broadfoot, X. Yu, and A. Chiou, “Implementation plans for supervisory control of pan 
+stage operations,” International Sugar Journal, vol. 112, no. 1344, pp.671‐677, December 2010. 
+95. 
+S. Yu, J. Lu, G. Chen, and X. Yu, “Design and implementation of grid multi‐wing butterfly chaotic 
+attractors from a piecewise Lorenz system,” IEEE Transactions on Circuits and Systems – Part II 
+Briefs, vol. 57, no. 10, pp. 803‐807, October 2010. 
+96. 
+Y. Wang and X. Yu, “New coordinated control design for thermal power generation units”, IEEE 
+Transactions on Industrial Electronics, vol. 57, no. 11, pp. 3848‐3856, November 2010. 
+
+-----
+97. 
+Z. Xu, H. Wu, X. Yu, and B. Qiu, “Colour image enhancement by virtual histogram approach,” IEEE 
+Transactions on Consumer Electronics, vol. 56, no. 2, pp.704‐712, May 2010. 
+98. 
+R. Dodd, A. Chiou, R. Broadfoot, and X. Yu, “Composite process models used in stock tank 
+quantity prediction for mill crystallisation stage knowledge based supervisory support,” Journal 
+of Systems and Control Engineering, vol. 224, no. 17, pp.811‐824, November 2010. 
+99. 
+C. P. Tan, X. Yu, and Z. Man, “Terminal sliding mode observers for a class of nonlinear systems,” 
+Automatica, vol. 46, no. 8, pp.1401‐1404, August 2010.  
+100. X. Yu and O. Kaynak, “Sliding mode control with soft computing: A survey,” IEEE Transactions on 
+Industrial Electronics, vol. 56, no. 9, pp.3275‐3285, September 2009. 
+101. Y. Feng, J. Zheng, X. Yu, and N. V. Truong, “Hybrid terminal sliding mode observer design method 
+for a permanent magnet synchronous motor control system”, IEEE Transactions on Industrial 
+Electronics, vol. 56, no. 9, pp. 3424‐3431, September 2009.   
+102. Z. Xu, H. R. Wu, B. Qiu, and X. Yu, “Geometric features based filtering for suppression of impulse 
+noise in color images,” IEEE Transactions on Image Processing, vol. 18, no. 8, pp. 1742‐1759, 
+August 2009. 
+103. K. L. Wong, S. Pathak, and X. Yu, “An investigation of leakage current flow in wooden pole,” IEEE 
+Transactions on Dielectrics and Electrical Insulation, vol. 16, no. 1, pp. 133‐138, 2009. 
+104. S. Gao, Z. Man, and X. Yu, “Feedback control of T‐S fuzzy systems based on LTV system theory,” 
+International Journal of Electrical Engineering Education, vol. 46, no. 1, pp. 47‐58, January 2009. 
+105. H. Zhang, G. K. Raikundalia, Y. Zhang, and X. Yu, “Application of multi‐agent technology to 
+information systems: An agent‐based design architecture for decision support systems,” 
+Australian Journal of Information Systems, vol. 15, no. 2, 2009. 
+106. J. Hu, X. Yu, D. Qui, and H.‐H. Chen, “A simple and efficient hidden Markov model scheme for 
+host‐based anomaly intrusion detection,” IEEE Network, pp. 42‐47, January/February 2009. 
+107. X. Li, X. Yu, C. Wang, and B. Ling, “Periodic input response of a second‐order digital filter with 
+two’s complement arithmetic,” IEEE Transactions on Circuits and Systems – Part II, vol. 56, no. 3, 
+pp. 225‐229, 2009. 
+108. B. Wang, X. Yu, and G. Chen, “ZOH discretization effect on single‐input sliding mode control 
+systems with matched uncertainties,” Automatica, vol. 45, pp. 118‐125, 2009. 
+109. B. Wang, X. Yu, and X. Li, “ZOH discretization effect on high‐order sliding mode control systems,” 
+IEEE Transactions on Industrial Electronics, vol. 55, no. 11, pp. 4055‐4064, November 2008. 
+110. Z. Galias and X. Yu, “Analysis of zero‐order holder discretization of two‐dimensional sliding 
+mode control systems,” IEEE Transactions on Circuits and Systems – part II, vol. 55, no. 12, pp. 
+1269‐1273, December 2008. 
+111. X. Yu, B. Wang, Z. Galias, and G. Chen, “Discretization effect on equivalent control based multi 
+input sliding mode control systems,” IEEE Transactions on Automatic Control, vol. 53, no.6, 
+1563‐1569, July 2008. 
+112. Q. Han, A. Xue, S. Liu, and X. Yu, “Robust absolute stability criteria for uncertain Lur’e systems of 
+neutral type,” International Journal of Robust and Nonlinear Control, vol. 18, pp. 278‐295, 2008. 
+113. C. Van der Velden, C. Bil, X. Yu, and A. Smith, “An intelligent system for automatic layout routing 
+in aerospace design,” Innovation in Systems and Software Engineering, vol. 3, pp. 117‐128, 2007. 
+114. P. Radcliffe and X. Yu, “A new time independent asynchronous communication protocol and its 
+applications,” IEEE Transactions on Industrial Informatics, vol.3, no.2, pp.143‐153, May 2007. 
+115. K. Abidi, J. X. Xu, and X. Yu, “On the discrete‐time integral sliding mode control,” IEEE 
+Transactions on Automatic Control, vol. 52, no. 4, pp. 709‐715, April 2007. 
+116. F. Han, X. Yu, M. Al‐Dabbagh, and Y. Wang, “Locating phase‐to‐ground short‐circuits faults on 
+radial distribution lines,” IEEE Transactions on Industrial Electronics, vol. 54, no. 3, 
+pp.1581‐1590, 2007. 
+117. F. Han, X. Yu, Y. Feng, and J. Hu, “On multi‐scroll chaotic attractors in hysteresis‐based piecewise 
+linear systems,” IEEE Transactions on Circuits and Systems Part II, vol.54, no. 1, pp. 1004‐1008, 
+May 2007. 
+118. L. Li, J. Zhou, X. Yu, and X. Li. “Constrained power plants unit loading optimization using particle 
+swarm optimization algorithm,” WSEAS Transactions on Information Science and Applications, 
+vol. 4, no. 2, pp.296‐302, February 2007. 
+119. Y. Feng, X. Han, Y. Wang, and X. Yu, “Second order terminal sliding mode control of uncertain 
+multivariable systems,” International Journal of Control, vol. 80, no. 6, pp. 856‐862, June 2007. 
+
+-----
+120. Z. Galias and X. Yu, “Euler’s discretization of single input sliding mode control systems,” IEEE 
+Transactions on Automatic Control, vo.l. 52, pp. 1726‐1730, October 2007. 
+121. Z. Hussain, A. Z. Sadik, X. Yu, and P. J. O’Shea, “An approach for stability analysis of a single‐bit 
+high‐order digital sigma‐delta modulator,” Digital Signal Processing, vol. 17, pp. 1040‐1054, 
+2007. 
+122. X. Yu, J.‐X. Xu, Y. Hong, and S. Yu, “Analysis of a class of discrete‐time systems with power rule,” 
+Automatica, vol. 43, pp. 562‐566, 2007. 
+123. C. Y.‐F. Ho, B. W.‐K. Ling, J. D. Reiss, and X. Yu, “Nonlinear behaviors of bandpass sigma‐delta 
+modulators with stable system matrices,” IEEE Transactions on Circuits and Systems – Part II 
+Express Briefs, vol. 53, no. 11, November 2006. 
+124. Z. Galias and X. Yu, “Complex discretization behaviors of a sliding mode control system,” IEEE 
+Transactions on Circuits and Systems – part II, vol.53, no.8, pp.652‐656, 2006. 
+125. Z. Man, S. Liu, H. Wu, and X. Yu, “A new adaptive back‐propagation algorithm based on Lyapunov 
+stability theory for neural networks”, IEEE Transactions on Neural Networks, vol. 17, no.6, 
+1580‐1591, November 2006. 
+126. Y. Feng, X. Yu, and M. Song, “Second‐order terminal sliding mode control of input‐delay systems” 
+Asian Journal of Control, vol.8, no. 1, pp.12‐20,  2006. 
+127. F. Han, J. Lv, X. Yu, and G. Chen, “Dynamical behaviors of a 3D hysteresis based system,” Chaos, 
+Solitons and Fractals, vol. 28, pp. 182‐192, 2006. 
+128. C. Y.‐F. Ho, B. W.‐K. Ling, J. D. Reiss, and X. Yu, “Occurrence of elliptical fractal patterns in 
+multi‐bit bandpass sigma delta modulators,” International Journal of Bifurcation and Chaos, vol. 
+15, pp.3377‐3380, 2005.  
+129. S. Yu, X. Yu, and B. Shirinzadeh, “Continuous finite‐time control for robotic manipulators with 
+terminal sliding modes,” Automatica, vol. 41, no. 11, pp. 1957‐1964, August 2005. 
+130. F. Han, J. Lű, X. Yu, G. Chen, and Y. Feng, “Generating multi‐scroll chaotic attractors via a linear 
+second‐order hysteresis system,” Dynamics of Continuous, Discrete and Impulsive Systems, 
+Series B: Applications & Algorithms, vol.12, pp.95‐110,  2005. 
+131. S. Yu, X. Yu, and Z. Man, “A fuzzy neural network approximator with fast terminal sliding mode 
+and its applications,” Fuzzy Sets and Systems, vol. 148, no. 3, pp. 469‐486, 2004. 
+132. Q. Han, X. Yu, and K. Gu, “On computing the maximum time‐delay bound for stability of linear 
+neutral systems,” IEEE Transactions on Automatic Control, vol. 49, no. 12, pp. 2281‐2285, 
+December 2004. 
+133. J.‐Q. Fang and X. Yu, “A new type of cascading synchronization for halo‐chaos and its potential 
+for communication applications,” Chinese Physical Letters, pp.1429‐1432, no. 8, vol. 21, 2004. 
+134. J. Lu, G. Chen, X. Yu, and H. Leung, “Analysis and design of multi‐scroll chaotic attractors from 
+saturated function series,” IEEE Transactions on Circuits and Systems – Part I, vol. 51, no. 12, pp. 
+2476‐2490, December 2004. 
+135. Y. Tian, X. Yu, and L.O. Chua, “Time‐delayed impulsive control of chaotic hybrid systems,” 
+International Journal of Bifurcation and Chaos, vol. 14, no. 3, pp. 1091‐1104, 2004. 
+136. J. Lv, X. Yu, and G. Chen, “Chaos synchronization of general small‐world chaotic networks,” 
+Physica A: Statistical Mechanics and its Applications, vol. 334, pp. 281‐302, 2004. 
+137. Y. Feng, S. Bao, and X. Yu, “Inverse dynamics non‐singular terminal sliding mode control of 
+two‐link flexible manipulators,” International Journal of Robotics and Automation, vol. 19, no. 2, 
+pp. 91‐102, 2004. 
+138. J. Lv, F. Han, X. Yu, and G. Chen, “Generating 3‐D multi‐scroll chaotic attractors: A hysteresis 
+series switching method,” Automatica, vol. 40, pp. 1677 – 1687, 2004. 
+139. F. Han, J. Lv, X. Yu, G. Chen, and Y. Feng, “Generating multi‐scroll chaotic attractors via a linear 
+second‐order hysteresis system,” Dynamics of Continuous, Discrete and Impulsive Systems – 
+Series B: Applications & Algorithms, vol. 12, pp. 95‐110, 2005. 
+140. L. Sun, Y. Feng, and X. Yu, “Terminal sliding mode decomposed control of multivariable linear 
+uncertain systems,” (in Chinese), Control and Decision, vol.19, no.3, pp.331‐338, 2004. 
+141. J. Lv, X. Yu, G. Chen, and D. Cheng, “Characterizing the synchronization of small world dynamical 
+networks,” IEEE Transactions on Circuits and Systems Part I, vol. 51, no. 4, pp. 787‐796, April 
+2004. 
+
+-----
+142. F. Han, X. Yu, Y. Wang, Y. Feng, and G. Chen, “n‐scroll chaotic oscillators by second‐order systems 
+and double‐hysteresis blocks,” Electronics Letters, vol. 39, no. 23, pp. 1636‐1638, November 
+2003. 
+143. X. Yu, L. Yang, and G. Chen, “Discretization behaviour analysis of a switching control system from 
+a unified mathematical approach,” Journal of Control Theory and Applications, vol. 1, no. 1, pp. 
+43‐52, November 2003. 
+144. Y. Feng, X. Zheng, and X. Yu, “Second order terminal sliding mode decomposed control of 
+uncertain multivariable systems,” Asian Journal of Control, vol.5, no. 4, pp. 505‐512, May 2003. 
+145. Y. Tian and X. Yu, “Robust learning control for a class of nonlinear systems with periodic and 
+aperiodic uncertainties,” Automatica, vol. 39, no. 11, pp. 1957‐1966, November 2003. 
+146. Q. Han, K. Gu, and X. Yu, “An improved estimate of time‐delay in the robust stability problem of 
+time delay systems with norm‐bounded uncertainty,” IEEE Transactions on Automatic Control, 
+vol. 48, no. 9, pp. 1629–1634, September 2003. 
+147. X. Yu and G. Chen, “Discretization behaviours of equivalent control based variable structure 
+systems,” IEEE Transactions on Automatic Control, vol. 48, no. 9, pp. 1641–1646, September 
+2003.  
+148. B. W.‐K. Ling, P. Tam, and X. Yu, “Step response of a second order digital filter with two’s 
+compliment arithmetic,” IEEE Transactions on Circuits and Systems – Part I, vol. 50, no. 4, pp. 
+510 – 522, April 2003. 
+149. M.O. Efe, C. Unsal, O. Kaynak, and X. Yu, “Variable structure control of a class of uncertain 
+systems,” Automatica, vol. 40, no. 1, January 2004. 
+150. M.O. Efe, O. Kaynak, B. M. Wilamowski, and X. Yu, “A robust on‐line learning algorithm for 
+intelligent control systems,” International Journal of Adaptive Control and Signal Processing, vol. 
+17, pp. 489‐500, 2003.  
+151. J. Lv, X. Yu, and G. Chen, “Generating chaotic attractors with multiple merged basins of 
+attraction: A switching piecewise‐linear control approach,” IEEE Transactions on Circuits and 
+Systems – Part I, vol. 50, no. 2, 198‐207, February 2003.  
+152. J. Lv, G. Chen, X. Yu, and S. Zhang, “Dynamical behaviours of a unified chaotic system,” Dynamics 
+of Continuous, Discrete and Impulsive Systems, Series B, vol. 10, 2003. 
+153. Y. Song and X. Yu, “Chaos synchronization using an invariant manifold approach,” Dynamics of 
+Continuous, Discrete and Impulsive Systems, Series B, vol. 10, pp. 879‐889, 2003. 
+154. Z. Guan, T.‐H. Qian, and X. Yu, “Controllability and observability of linear time varying impulsive 
+systems,” IEEE Transactions on Circuits and Systems Part I, vol. 48, no.8, pp.1198‐1208, August 
+2002.  
+155. Y. Feng, S. Bao, and X. Yu, “Design method of non‐singular terminal sliding mode control 
+systems,” (in Chinese), Control and Decision, vol. 17, no. 2, pp. 194‐198, 2002. 
+156. Y. Feng, S. Bao, and X. Yu, “Fast chattering free terminal sliding mode control of rigid 
+manipulators,” (in Chinese), Control and Decision, vol. 17, no. 3, pp. 381‐384, 2002. 
+157. Z. Guan, T.‐H. Qian, and X. Yu, “On controllability and observability for a class of impulsive 
+systems,” Systems and Control Letters, vol. 47, pp. 247‐257, 2002. 
+158. Z. Man and X. Yu, “A new output regulation using sliding mode technique for SISO linear time 
+varying systems,” IEEE Transactions on Circuits and Systems – Part I, vol. 49, no. 12, pp. 
+1880‐1883, December  2002.  
+159. Z‐H. Guan, G. Chen, X. Yu, and Y. Qin, “Robust decentralized stabilization for large scale 
+time‐delay uncertain impulsive dynamical systems,” Automatica, vol. 38, pp. 2075‐2084, 2002. 
+160. Y. Feng, X. Yu, and Z. Man, “Nonsingular terminal sliding mode control for robotic manipulators,” 
+Automatica, vol. 38, pp. 2159‐2167, 2002. 
+161. X. Yu, O. Efe, and O. Kaynak, “A general backpropagation algorithm for feedforward neural 
+network learning,” IEEE Transactions on Neural Networks, vol. 13, no.1, pp.251‐254, 2002.  
+162. Y. Song, X. Yu, G. Chen, J.‐X. Xu, and Y. Tian, “Time delayed repetitive learning control for chaotic 
+systems”, International Journal of Bifurcation and Chaos, vol. 12, no. 5, pp.1057‐1066, 2002.  
+163. Y. Zheng, C. Zhang, and X. Yu, “Invariant structure of nonlinear systems with applications to 
+chaos control,” International Journal of Bifurcation and Chaos, vol. 12, no. 5, pp.1149‐1158, 
+2002.  
+164. X. Yu and Z. Man, “Fast terminal sliding mode control design for nonlinear dynamic systems,” 
+IEEE Transactions on. Circuits and Systems – Part I, vol 39, no. 2, pp. 261‐264, 2002.  
+
+-----
+165. X. Yu and Z. Galias, "Periodic behaviours in a digital filter with two's complement arithmetic," 
+IEEE Transactions on. Circuits and Systems Part I, vol. 48, no. 10, pp. 1177‐1190, 2001.   
+166. X. Yu, G. Chen, Y. Xia, Y. Song, and Z Cao, "An invariant manifold approach for controlling higher 
+order chaotic systems," IEEE Transactions on. Circuits and Systems‐ Part I, vol. 48, no. 8, pp. 
+930‐937, 2001.  
+167. J. He and X. Yu, “Conditions for the convergence of evolutionary algorithms,” Journal of Systems 
+Architecture, vol. 47, pp. 601‐612, 2001.   
+168. X. Yu and Y Song, “Chaos synchronization via controlling partial state of chaotic systems,” 
+International Journal of Bifurcation and Chaos, vol. 11, no. 6, pp. 1737‐1743, June 2001.  
+169. F. Martin, A. Pinkney, and X. Yu, “Cane railway scheduling via constraint logic programming: 
+Labelling order and constraints in a real life application,” Annals of Operations Research, vol. 
+108, pp. 193‐209, 2001.  
+170. Y. Wu, H. Li, H. Sun, and X. Yu, “Adaptive controller for linear multivariable systems based on the 
+backstepping approach,” Control and Decision (in Chinese), vol. 16, no. 1, pp. 90‐96, 2001. 
+171. Y. Wu, X. Yu, and C. Feng, “The controller of global stabilization for multivariable nonlinear 
+dynamical systems,” Control Theory and Application, vol. 18, no. 1, pp. 363‐367, 2001. 
+172. X. Yu and S. Yu, “Discrete sliding mode control with invariant sliding sectors,” ASME Journal of 
+Dynamic Systems, Measurement and Control, vol. 122, no. 4, pp. 776‐782, December 2000.  
+173. X. Wang, G. Chen, and X. Yu, "Chaotification of continuous time systems via time delay feedback", 
+Chaos, vol. 10, no. 4, pp. 771‐779, December 2000.  
+174. M. O. Efe, O. Kaynak, and X. Yu, “Sliding mode control of a three degrees of freedom anthropoid 
+robot by driving the controller parameters to an equivalent regime,” ASME J. of Dynamic 
+Systems, Meaurement and Control, vol. 122, no. 4, pp. 632‐640, December 2000. 
+175. Y. Tian and X. Yu, "Stabilizing unstable periodic orbits of chaotic systems with an optimal 
+principle," Journal of the Franklin Institute, vol. 337, no. 6, pp. 771‐779, 2000. 
+176. X. Yu and B. Wu, "An adaptive penalty function method for constrained optimization with 
+evolutionary programming," Journal of Advanced Computational Intelligence, vol. 4, no. 2, pp. 
+164‐170, 2000. 
+177. Y. Xia, X. Yu, and W. Oghanna, "Adaptive robust fast control for induction motors," IEEE 
+Transactions on Industrial Electronics, vol. 47, no. 4, pp. 854‐862, August 2000.  
+178. Y. Wu, X. Yu, and C. Feng, “Variable structure control for MRAC systems with perturbations in 
+input and output channels,” Science in China Series E‐Technological Sciences. vol. 31, no. 2, pp. 
+151‐16, 2000. 
+179. Y.‐P. Tian and X. Yu, "Stabilizing unstable periodic orbits of chaotic systems with unknown 
+parameters,"  International Journal of Bifurcation and Chaos, Special Issue on Chaos Control, vol. 
+10, no.3, pp. 611‐620, 2000. 
+180. X. Yu and Y. Xia, "Detecting unstable periodic orbits in Chen's chaotic attractor," International 
+Journal of Bifurcation and Chaos, vol. 10, no. 8, pp. 1987‐1992, August 2000. 
+181. Y.‐P. Tian and X. Yu, "Adaptive control of chaotic dynamical systems with invariant manifold 
+approach,"  IEEE Transactions on Circuits and Systems ‐ Part I, vol. 47, no. 10, pp. 1537‐1542, 
+October 2000. 
+182. Y. Xia, X. Yu, G. Ledwich, and W. Oghanna, "Self‐tuning relay control design for MIMO systems 
+with fast convergence,"  IEEE Transactions on Circuits and Systems ‐ Part I, vol. 47, no. 10, pp. 
+1548‐1552, October 2000. 
+183. B. Wu and X. Yu, "Fuzzy modelling and identification with genetic algorithm based learning," 
+Fuzzy Sets and Systems, vol. 113, no. 3, pp. 351‐365, 2000.  
+184. X. Yu, Z. Man, S. Chong, and M. Fei, "Adaptive sliding mode control of robotic manipulators," 
+International Journal of Robotics and Automation, vol. 14, no.2, pp. 54‐60, 1999.  
+185. X. Yu  and Z. Man, "Fuzzy sliding mode control systems with adaptive estimation,"  Cybernetics 
+and Systems: an International Journal, vol. 30, no. 7, pp. 663‐680, 1999. 
+186. X. Yu, Y. Xia, G. Ledwich, and W. Oghanna, "LQR‐based nonlinear tuning relay control design with 
+fast convergence,"  International Journal of Applied Mathematics and Computer Science, vol. 9, 
+no. 2, pp. 313‐326, 1999. 
+187. G. Chen and X. Yu, "On time delayed feedback control of chaotic systems," IEEE Transactions on 
+Circuits and systems ‐ Part I, vol. 46, no. 6, pp. 767‐772, 1999. 
+
+-----
+188. X. Yu, "Tracking inherent periodic signals in chaotic systems using adaptive variable structure 
+time delayed control," IEEE Transactions on Circuits and Systems ‐ Part I, vol. 46, no. 11, pp. 
+1408‐1411, 1999. 
+189. Z. Man, M. O'Day, and X. Yu, "A robust adaptive terminal sliding mode control for rigid robotic 
+systems," Journal of Intelligent & Robotic Systems, vol. 24, pp. 23‐41, 1999. 
+190. X. Yu, Y. Xia, and W. Oghanna, "Switching control design for inverted‐fed induction motor," 
+International Journal of Modelling and Simulation, Vol 19, no. 2, pp. 144‐149, 1999. 
+191. Y. Wu and X. Yu, "Variable structure control design of uncertain dynamic systems with 
+disturbances in input and output channels," Automatica, Vol 35, no. 2, pp. 311‐319, 1999. 
+192. Y. Tian and X. Yu, "Adaptive control of Lorenz Chaos," Complexity International, vol. 6, January 
+1999. 
+193. Y. Wu, X. Yu and Z. Man, "Terminal sliding mode control design for uncertain dynamic systems,"  
+Systems and Control Letters, vol. 34, no.5, pp.281‐288, 1998. 
+194. X. Yu, W. Zheng, B. Wu, and X. Yao, "A novel penalty function  approach to constrained 
+optimization problems with genetic algorithms," Journal of Advanced Computation Intelligence, 
+vol. 2, no. 6, pp. 208‐213, 1998. 
+195. S.S. Chong, X. Yu, and Z. Man, "Robust adaptive sliding mode control with modified regressor 
+matrix and composite adaptation for robotic manipulators," Advanced Robotics, vol. 12, no. 1, 
+pp. 53‐66, 1998. 
+196. X. Yu and Z. Man, "Multi‐input uncertain linear systems with terminal sliding mode control", 
+Automatica, vol. 34, no. 3, pp. 389‐392,  1998. 
+197. Z. Man, X. Yu, and H.R. Wu, "An RBF neural network based adaptive control for SISO linearizable 
+nonlinear systems," Neural Computing and Application, vol. 7, pp.71‐77, 1998.  
+198. Z. Cao and X. Yu, "Switching based signal estimation with digital implementation," Signal 
+Processing, vol. 65, no. 1, pp. 135‐141, 1998. 
+199. X. Yu, Z. Man, and S.M.M. Rahman, "Adaptive sliding mode approach for learning in a 
+feedforward neural network," Neural Computing and Application, vol. 9, pp. 289‐294, 1998. 
+200. X. Yu, "Discretization effect on a sliding mode control system with bang‐bang type switching,"  
+International Journal of Bifurcation and Chaos, vol. 8, no. 6, pp. 1245‐1257, 1998. 
+201. Y. Wu and X. Yu, "Adaptive output feedback variable structure control for uncertain systems,"  
+International Journal of Control, vol. 69, no. 1, pp. 145‐162, 1998. 
+202. F. Mei, Z. Man, X. Yu, and D. T. Nguyen, "A robust tracking control scheme for a class of nonlinear 
+systems with fuzzy nominal model,"  International Journal of Applied Mathematics and 
+Computer Science, vol. 8, no. 1, pp. 145‐158, 1998. 
+203. Z. Man and X. Yu, "An adaptive control using fuzzy basis function expansions for a class of 
+nonlinear systems," Journal of Intelligent & Robotics Systems, vol. 21, pp. 257‐275, 1998. 
+204. Y. Wu and X. Yu, "Adaptive sliding mode control of uncertain nonlinear systems ‐ Backstepping 
+approach,"  Journal of Control Theory and Application, vol. 15, no. 6, pp. 900‐907, 1998.  
+205. X. Yu, Z. Man, and B. Wu, "Design of fuzzy sliding mode control systems," Fuzzy Sets and 
+Systems, vol. 95, no. 3, pp. 295‐306, 1998. 
+206. B. Wu and X. Yu, "Evolutionary programming based modelling scheme for fuzzy systems," 
+Special issue on Intelligent and Evolutionary Systems,  Australian Journal of Intelligent 
+Information Processing Systems, vol. 4, no. 3/4, pp. 249‐257, 1997. 
+207. X. Yu, "Bifurcation and chaotic behaviors in the variable structure system with unlimited control 
+magnitudes," International Journal of Bifurcation and Chaos, vol. 7, no. 8, pp. 1897‐1993, 1997. 
+208. X. Yu, "Controlling chaos using input‐output linearisation approach," International Journal of 
+Bifurcation and Chaos, vol. 7, no. 7, pp. 1659‐1664, 1997. 
+209. Z. Man and X. Yu, "Adaptive terminal sliding mode tracking control for rigid robotic 
+manipulators with uncertain dynamics," JSME International Journal, vol. 40, no.3, pp. 493‐502, 
+1997. 
+210. X. Yu, "Variable structure approach for controlling chaos," Chaos, Solitons and Fractals, vol. 8, 
+no. 9, pp. 1577‐1586, 1997. 
+211. Z. Man and X. Yu, "Terminal sliding mode control of MIMO linear systems,"  IEEE Transactions 
+on Circuits and Systems: Part I, vol. 44, no. 11, pp.1065‐1070, November, 1997. 
+212. X. Yu, M. Mohammadian, and J.D. Smith,   "Automated fuzzy knowledge acquisition with 
+connectionist adaptation," Neural Computing & Applications, vol.4, no.1, pp. 27‐34, 1996. 
+
+-----
+213. X. Yu and J.‐X. Xu, "A novel nonlinear signal derivative estimator," vol. 31, no. 16, pp. 1445‐1447, 
+Electronics Letters, 1996. 
+214. X. Yu, "Discretisation effect on the optimal control of harmonic oscillators,"  Electronics Letters, 
+vol. 32, no.4,  pp. 412‐413, 1996. 
+215. J.‐X. Xu, T.H. Lee, M. Wang, and X. Yu, "Design of variable structure control systems with 
+continuous switching control," International Journal of Control, vol. 65, no.2, pp. 409‐431, 1996 
+216. X. Yu, "Discretization chaos: Variable structure systems with finite switching values," Journal of 
+Applied Mathematics and  Computer Science, vol.6, no. 1, pp. 49‐66, 1996. 
+217. X. Yu, "Controlling Lorenz chaos," International Journal of Systems Science, vol. 27, pp. 355‐361, 
+1996. 
+218. X. Yu and Z. Man, "Model reference adaptive control systems with terminal sliding modes," vol. 
+64, no. 6, pp. 1165‐1176,  International Journal of Control, 1996. 
+219. X. Yu, "Discretization chaos in the switching control system with finite switching values,"  
+International Journal of Bifurcation and Chaos, vol.5, no.6, pp. 1749‐1755, 1995. 
+220. X. Yu, H. Sira‐Ramirez, and G. Ledwich, "Switching control strategy for the power system 
+stabilization problem," International Journal of Control, vol.62, no.5, pp. 1021‐1036, 1995. 
+221. R.B. Potts and X. Yu, "Difference equation modelling of a variable structure system," Computers 
+and Mathematics with Applications, vol.28, no.1‐3, pp.281‐189, 1994. 
+222. X. Yu, "Exponential discretisation of variable structure control systems," Pure Mathematics and 
+Application, vol.4, no.1, pp.5‐33, 1993. 
+223. X. Yu, "Discrete variable structure control systems,"  International Journal of Systems Science, 
+vol. 24, no.2, pp373‐386, 1993. 
+224. X. Yu and R.B. Potts, "Analysis of discrete variable structure systems with pseudo‐sliding 
+modes," International Journal of Systems Science, vol.23, no.4, pp.503‐516, 1992. 
+225. X. Yu and R.B. Potts, "Computer‐controlled variable structure systems," Journal of Australian 
+Mathematical Society, Series B, vol.34, pp.1‐17, 1992. 
+226. R.B. Potts and X. Yu, "Discrete variable structure system with pseudo‐sliding modes," Journal of 
+Australian Mathematical Society, Series B, vol.32, pp.365‐376, 1991. 
+227. C.‐B. Feng and X. Yu, "The design of feedback control systems with logic switching," Chinese 
+Journal of Automation, vol.1, no.1, pp.928‐931, 1989. 
+ 
+ 
+Conference Papers 
+ 
+1. 
+W. Haider, J. Hu, X. Yu, and Y. Xie, “Integer data zero‐watermark assisted system calls abstraction 
+and normalization for host based anomaly detection systems,” IEEE CSCloud, accepted for 
+presentation, 15 August 2015. 
+2. 
+C. Li, X. Yu, W. Yu, and T. Huang, “Networked optimization for demand‐side management based 
+on non‐cooperative game,” Proceedings of 2015 IEEE International Conference on Industrial 
+Informatics (INDIN’15), Cambridge, UK, July 2015. 
+3. 
+L. Xu, X. Yu, Y. Feng, F. Han, J. Hu, and Z. Tari, “A fast terminal sliding mode observers for TCP/IP 
+network anomaly traffic detection,” Proceedings of 2015 IEEE International Conference on 
+Industrial Technology (ICIT’15), pp. 28‐33,  Seville, Spain, March 2015. 
+4. 
+Y. Yan, X. Yu, and C. Sun, “Discretization behaviours of a super‐twisting algorithm based sliding 
+mode control system,” Proceedings of 2015 International Workshop on Recent Advances in 
+Sliding Modes (RAMS’15), June 2015. 
+5. 
+S. Janghoban, Q. Wang, D.G. Holmes, and X, Yu, “A knowledge‐based magnetic component design 
+system with finite element analysis integration,” Applied Power Electronic Conference and 
+Exposition (APEC), pp. 1038‐1044, 2015 
+6. 
+W. Yu, C. Li, X. Yu, G. Wen, and J. Lu, “Distributed consensus strategy for economic power 
+dispatch in a smart grid,” Proceedings of 10th Asian Control Conference, June 2015.  
+7. 
+P. Wang, Y. Zhang, J. Lu, and X. Yu, “Topological characterization of housekeeping genes in 
+human protein‐protein interaction network,” Proceedings of 2014 9th International Conference 
+on Systems Biology (ISB’14), pp. 1‐6, 2014. 
+
+-----
+8. 
+S. Janghorban, C. Teixeira, D. G. Holmes, P. McGoldrick, and X. Yu, “Magnetic design for a 2.5‐kw 
+battery charger,” Proceedings of 2014 Australasian Universities Power Engineering Conference 
+(AUPEC’14), pp. 1‐6, September 2014. 
+9. 
+Y. Yan, X. Yu, and S. Yu, “Periodical behaviors of a discretized twisting algorithm based sliding 
+mode control system,” Proceedings of 2014 13th International Workshop on Variable Structure 
+Systems (VSS’14), pp. 1‐6, June 2014. 
+10. 
+Y. Li, W. Yu, G. Wen, X. Yu, and L. Yao, “Observer design for consensus of general fractional‐order 
+multi‐agent systems,” Proceedings of the 2014 IEEE International Symposium on Circuits and 
+Systems (ISCAS’14), pp. 1792‐1795, June 2014. 
+11. 
+Y. Li, W. Yu, G. Wen, and X. Yu, “Consensus tracking of multi‐agent systems with reduced 
+information: A fractional‐order protocol approach,” Proceedings of the 33rd Chinese Control 
+Conference (CCC’14), pp. 1529‐1533, June 2014. 
+12. 
+Y. Yan, X. Yu, and S. Yu, “Quantization effect on the discrete‐time sliding‐mode control systems,” 
+Proceedings of 2013 32nd Chinese Control Conference (CCC’13),  pp. 3199‐3204, June 2013. 
+13. 
+W. Sun, J. Lu, S. Chen, and X. Yu, “Consensus of multi‐agent systems with unbalanced topology,” 
+Proceedings of 2013 32nd Chinese Control Conference (CCC’13),  pp. 1141‐1145, June 2013 
+14. 
+Y. Yan, X. Yu, and C. Sun, “Periodic behaviors of a discretized twisting algorithm based sliding 
+mode control system,” Proceedings of 2014 13th International Workshop on Variable Structure 
+Systems (VSS’14), June 2014. 
+15. 
+Q. Zhu, X. Yu, A. Song, S. Fei, Z. Cao, and Y. Yang, “Stability probability in sliding mode control of 
+second order Markovian jump systems,” Proceedings of 2014 26th Chinese Control and Decision 
+Conference (CCDC’14), pp. 2453‐2458, June 2014. 
+16. 
+Y. Li, W. Yu, G. Wen, and X. Yu, “Observer design for consensus of general fractional‐order 
+multi‐agent systems,” Proceedings of 2014 IEEE International Symposium on Circuits and 
+Systems (ISCAS’14), Melbourne, Australia, June 1‐4, 2014. 
+17. 
+P. Wang, X. Yu, J. Lu, and A. Chen, “Identification of important nodes in artificial bio‐molecular 
+networks,” Proceedings of 2014 IEEE International Symposium on Circuits and Systems 
+(ISCAS’14), pp. 1267‐1270, Melbourne, Australia, June 1‐4, 2014. 
+18. 
+Z. Galias and X. Yu, “On zero‐order holder discretization of delayed sliding mode control 
+systems,” Proceedings of 2014 IEEE International Symposium on Circuits and Systems 
+(ISCAS’14), pp. 1255‐1258, Melbourne, Australia, June 1‐4, 2014. 
+19. 
+P. Solokowski, X. Li, X. Yu, and Y. Feng, “Characterizing leakage current on polluted insulators by 
+measuring nonlinearity,” Proceedings of 23rd IEEE International Symposium on Industrial 
+Electronics (ISIE’14), Istanbul, Turkey, June 2014.  
+20. 
+M. Combariza, X. Yu, F. J. Tovar‐Lopez, W. S. Nesbittx, and A. Mitchell, “Modeling of dynamic 
+platelet aggregation in response to shear rate micro‐gradients in a microfluidics device,” 
+Proceedings of 2013 ISSNIP Biosignals and Biorobotics Conference (BBC’13), 2013. 
+21. 
+Z. Xu, X. Yu, Y. Feng, J. Hu, Z. Tari, and F. Han, “A multi‐module anomaly detection scheme based 
+on system call prediction,” Proceedings of 8th IEEE International Conference on Industrial 
+Electronics and Applications (ICIEA’13), pp. 1376‐1381, May 2013. 
+22. 
+M. Zhou, Y. Feng, and X. Yu, “High‐order terminal sliding‐mode observer for speed estimation of 
+induction motors,” Proceedings of 8th IEEE International Conference on Industrial Electronics 
+and Applications (ICIEA’13), pp. 1045‐1048, May 2013. 
+23. 
+W. Yu, J. Lu, X. Yu, and G. Chen,“A step forward to pinning control of complex networks: finding 
+an optimal vertex to control,” Proceedings of 2013 9th Asian Control Conference (ASCC’13), 
+Istanbul, Turkey, June 23‐26, 2013. 
+24. 
+S. Tan, J. Lu, X. Yu, and D. Hill, “Inheritance of spatial neighbourhood: A feasible mechanism for 
+evolution and maintenance of cooperation,” Proceedings of 25th Chinese Control and Decision 
+Conference (CCDC’13), pp. 1205‐1209, June 2013. 
+25. 
+Y. Feng, M. Zhou, and X. Yu, “High‐order sliding‐mode based energy saving control of induction 
+motor,” Proceedings of 25th Chinese Control and Decision Conference (CCDC’13), pp. 4657‐4660, 
+June 2013 
+26. 
+S. Tan, J. Lu, X. Yu, and D. Hill, “Characterizing the effect of network structure on evolutionary 
+dynamics via a novel measure of structural heterogeneity,” Proceedings of 25th Chinese Control 
+and Decision Conference (CCDC’13), pp. 784‐789, June 2013 
+
+-----
+27. 
+Z. Xu, X. Yu, Z. Tari, F. Han, Y. Feng, and J. Hu, “Top‐k future system call prediction based 
+multi‐module anomaly detection system,” Proceedings of 2013 6th International Congress on 
+Image and Signal Processing (CISP’13), pp. 1748‐1753, 2013. 
+28. 
+W. Yu and X. Yu, “A forward step for adaptive synchronization in directed complex networks,” 
+Proceedings of 2013 IEEE International Symposium on Circuits and Systems (ISCAS’13), Beijing, 
+China, May 19‐23, 2013.  
+29. 
+W. Xiong, W. Yu, J. Lu, and X. Yu, “Fuzzy sampled controller design for consensus of multiagent 
+networks with varying connections,” Proceedings of 2013 9th Asian Control Conference 
+(ASCC’13), Istanbul, Turkey, June 23‐26, 2013. 
+30. 
+C. Mu, X. Yu, and C. Sun, “Analysis on transient time of nonsingular terminal sliding mode 
+control,” Proceedings of 2013 32nd Chinese Control Conference (CCC’13), pp. 3194‐3198, July 
+2013. 
+31. 
+Z. Yang, W. Xu, and X. Yu, “Optimal PHEV charge scheduling for additional power loss ratio and 
+charging cost minimizations,” Proceedings of 2013 International Conference on Electrical 
+Machines and Systems (ICEMS’13), pp. 465‐469, 2013. 
+32. 
+M. Wang, W. Xu, H. Jia, and X. Yu, “A new method for DFIG fault ride through using resistance 
+and capacity crowbar circuit,” Proceedings of 2013 IEEE International Conference on Industrial 
+Technology (ICIT’13), pp. 2004‐2009, 2013. 
+33. 
+Z. Galias and X. Yu, “Discretization effects in single input delayed sliding mode control systems,” 
+Proceedings of 2013 European Conference on Circuit Theory and Design (ECCTD’13), 2013. 
+34. 
+M. Lennard and X. Yu, “Preliminary investigation of the viability of Islanded Microgrids in urban 
+environments,” Proceedings of 2013 Australasian Universities Power Engineering Conference 
+(AUPEC’13), August 2013. 
+35. 
+W. Xu, X. Yu, and W. Yang “Decoupling model based predictive torque control algorithm with 
+low switching frequency for flux‐switching permanent magnet synchronous machines,” 
+Proceedings of 2013 Australasian Universities Power Engineering Conference (AUPEC’13), 
+August 2013. 
+36. 
+W. Yu, G. Wen, J. Lu, and X. Yu, “Observers design in complex networks: Pinning observability,” 
+Proceedings of 2013 10th IEEE International Conference on Control and Automation (ICCA’13), 
+pp. 141‐146, 2013. 
+37. 
+Q. Wang, S. Janghorban, X. Yu, and G. Holmes, “Computer‐Aided power transformer design: A 
+short review,” Proceedings of 2013 Australasian Universities Power Engineering Conference 
+(AUPEC’13), 2013. 
+38. 
+D. Alahakoon and X. Yu, “Advanced analytics for harnessing the power of smart meter big data,” 
+Proceedings of 2013 IEEE International Workshop on Intelligent Energy Systems (IWIES’13), 
+Vienna, Austria, November 2013. 
+39. 
+T. Wang, X. Yu, D. Alahakoon, and S. Fei, “An enhancing dynamic self‐organizing map for data 
+clustering,” Proceedings of 2013 10th IEEE International Conference on Control and Automation 
+(ICCA’13), pp. 1324‐1329, 2013. 
+40. 
+S. Tan, J. Lu, X. Yu, and D. Hill, “Monotonicity of fixation probability of evolutionary dynamics on 
+complex networks,” Proceedings of 38th Annual Conference of IEEE Industrial Electronics Society 
+(IECON’12), pp. 2337‐2341, Montreal, Canada, October 2012. 
+41. 
+M. Wang, W. Xu, H. Jia, and X. Yu, “A new control system to strengthen the LVRT capacity of DFIG 
+based on both crowbar and DC chopper circuits,” Proceedings of 2012 Innovative Smart Grid 
+Technologies – Asia (ISGT Asia’12), pp. 1‐6, Tianjin, China, May 2012. 
+42. 
+M. Wang, W. Xu, H. Jia, and X. Yu, “A novel method to optimize the active crowbar resistance for 
+low voltage ride through operation of doubly‐fed induction generator based on wind energy,” 
+Proceedings of 2012 IEEE International Conference on Industrial Electronics (ISIE’12), pp. 
+957‐962,  May 2012. 
+43. 
+S. Tan, J. Lu, X. Yu, and D. Hill, “Exploring evolutionary dynamics in a class of structured 
+populations,” Proceedings of 2012 IEEE International Symposium on Circuits and Systems 
+(ISCAS’12), pp. 169‐172, May 2012. 
+44. 
+W. Xu, W. Yang, X. Yu, and J. He, “One new model based predictive torque control algorithm for 
+doubly salient permanent magnet synchronous machines,” Proceedings of 38th Annual 
+Conference of IEEE Industrial Electronics Society (IECON’12), pp. 4133‐4138, Montreal, Canada, 
+October 2012. 
+
+-----
+45. 
+X. Li and X. Yu, “a generalized power transfer distribution factor for power injection analysis of 
+power grids,” Proceedings of 38th Annual Conference of IEEE Industrial Electronics Society 
+(IECON’12), pp. 4724‐4728, Montreal, Canada, October 2012. 
+46. 
+J. Shi, X. Yu, Y. Yan, and S. Yu, “Comparison of two types of nonlinear controllers for magnetic 
+bearing system stabilization: An experimental approach,” Proceedings of the 3rd International 
+Conference on Intelligent Control and Information Processing (ICICIP’12), pp. 167‐173, July 
+2012. 
+47. 
+Y. Chen, J. Lu, H. Dong, and X. Yu, “On the Lyapunov exponent of consensus algorithm,” 
+Proceedings of the 10th World Congress on Intelligent Control and Automation (WCICA’12), pp. 
+931‐936, July 2012. 
+48. 
+Y. Feng, M. Zhou, H. Shi, and X. Yu, “Flux estimation of induction motors using high‐order 
+terminal sliding‐mode observer,” Proceedings of the 10th World Congress on Intelligent Control 
+and Automation (WCICA’12), pp. 1860‐1863, July 2012. 
+49. 
+J. Shi, Y. Yan, S. Yu, and X. Yu, “Dynamic output feedback sliding mode control for magnetic 
+bearing system stabilization,” Proceedings of the 10th World Congress on Intelligent Control and 
+Automation (WCICA’12), pp. 1547‐1552, July 2012. 
+50. 
+L. Tan, W. Yang, C. Zeng, D. Dorrell, and  X. Yu, “A linear‐prediction maximum power point 
+tracking algorithm for photovoltaic power generation,” Proceedings of 38th Annual Conference of 
+IEEE Industrial Electronics Society (IECON’12), pp. 3334‐3339, Montreal, Canada, October 2012. 
+51. 
+X. Li, W. Xu, X. Yu, and Y. Feng, “Sliding mode control of wind energy generation systems using 
+PMSG and input‐output linearization,” Proceedings of the 31st Chinese Control Conference, pp. 
+6841‐6846, Hefei, China, July 2012. 
+52. 
+Y. Feng, B. Chen, X. Yu, and Y. Yang, “Terminal sliding mode control of induction generator for 
+win energy conversion systems,” Proceedings of 38th Annual Conference of IEEE Industrial 
+Electronics Society (IECON’12), pp. 4741‐4746, Montreal, Canada, October 2012. 
+53. 
+Y. Yan, X. Yu, and S. Yu, “Quantization effect on sliding‐mode control of a second‐order 
+dynamical system,” Proceedings of the 12th International Workshop on Variable Structure 
+Systems, pp. 243‐247, Mumbai, India, January 2012. 
+54. 
+Q. Wang and X. Yu, “Reasoning over OWL/SWRL ontologies under CWA and UNA for industrial 
+applications,” Proceedings of Australasian Joint Conference on Artificial Intelligence (AI’11), 
+Perth, Australia, December 2011. 
+55. 
+Feng, F. Han, X. Yu, Z. Tari, L. Li, and J. Hu, Terminal sliding mode observer for anomaly detection 
+in TCP/IP networks. Proceedings of IEEE Conference on Computer Science and Network 
+Technology Conference (ICCSNT’11), Harbin China. Dec. 2011. 
+56. 
+H. Shi, Y. Feng, X. Yu, and L. Li, “Adaptive high‐order terminal sliding mode control with 
+decoupling stator current for induction motor,” Proceedings of 37th Annual Conference of IEEE 
+Industrial Electronics Society (IECON’11), Melbourne Australia, November 2011. 
+57. 
+Q. Wang and X. Yu, “Improving reasoning capability for ontology‐based geometric product 
+model,” Proceedings of 37th Annual Conference of IEEE Industrial Electronics Society 
+(IECON’11), pp. 3048‐3053, Melbourne Australia, November 2011. 
+58. 
+C. Mu, C. Sun, and X. Yu, “Observation and control for air‐breathing hypersonic aircrafts based on 
+sliding mode method,” Proceedings of 37th Annual Conference of IEEE Industrial Electronics 
+Society (IECON’11), pp. 3965‐3967, Melbourne Australia, November 2011. 
+59. 
+Y. Chen, J. Lu, and X. Yu, “Convexity‐preserving formation control of multi‐agent systems,” 
+Proceedings of 37th Annual Conference of IEEE Industrial Electronics Society (IECON’11), pp. 
+4029‐4034, Melbourne, Australia, November 2011. 
+60. 
+J. Yang, S. Li, and X. Yu, “Sliding mode control for systems with mismatched uncertainties via a 
+disturbance observer,” 37th Annual Conference of IEEE Industrial Electronics Society 
+(IECON’11), pp. 3988‐3993, Melbourne, Australia, November 2011. 
+61. 
+L. Li, X. Yu, X. Li, and W. Gu, “A dynamic neighborhood particle swarm optimization algorithm 
+for constrained optimization,” Proceedings of 37th Annual Conference of IEEE Industrial 
+Electronics Society (IECON’11), pp. 3042‐3047, Melbourne, Australia, November 2011. 
+62. 
+Y.‐L. Wang, Q.‐L. Han, and X. Yu, “Stabilization of non‐uniform sampling networked control 
+systems,” Proceedings of 37th Annual Conference of IEEE Industrial Electronics Society 
+(IECON’11), pp. 2624‐2629, Melbourne, Australia, November 2011.  
+
+-----
+63. 
+Y.‐L. Wang, Q.‐L. Han, and X. Yu, “One‐step prediction‐based packet dropout compensation for 
+networked control systems,” Proceedings of 2011 American Control Conference (ACC’11), pp. 
+2849‐2854, 2011. 
+64. 
+Y. Xu, H.R. Wu, X. Yu, Z. Man, and D. M. Tan, “Composite video noise modelling and suppressing”, 
+Proceedings of 13th IASTED International Conference on Signal and Image Processing (SIP’11), 
+Dallas, Texas USA, December 2011.  
+65. 
+Z. Man, S. Khoo, X. Yu, and J. Jin, “A new sliding mode‐based learning control scheme ,” 
+Proceedings of the 6th IEEE Conference on Industrial Electronics and Applications (ICIEA’11), 
+pp. 1906 – 1911, Beijing, June 2011.  
+66. 
+Y. Chen, J. Lu, F. Han, and X. Yu, “Cluster consensus of discrete‐time multi‐agent systems with 
+fixed topology,” Proceedings of the 8th Asian Control Conference (ASCC’11), pp. 794 ‐799, 
+Kaohsiung, Taiwan, May 2011.  
+67. 
+Z. Xu, H.R. Wu, X. Yu, and Z. Man, “Adaptive surveillance video noise suppression”, Proceedings 
+of 24th Canadian Annual Conference on Electrical and Computer Engineering (CCECE’11), pp. 
+985‐988, May 2011, Niagara Falls, Canada.  
+68. 
+(*)D. De Silva, X. Yu, D. Alahakoon, and G. Holmes, “Incremental pattern characterization 
+learning and forecasting for electricity consumption using smart meters,” Proceedings of 2011 
+IEEE International Symposium on Industrial Electronics (ISIE’11), pp. 807 – 812, Gdansk, 
+Poland, May 2011. 
+69. 
+A. Dwivedi and X. Yu, “Fault location in radial distribution lines using travelling waves and 
+network theory,” Proceedings of 2011 IEEE International Symposium on Industrial Electronics 
+(ISIE’11), pp. 1051 – 1056, Gdansk, Poland, May 2011.  
+70. 
+S. Yu, J. Lu, G. Chen, and X. Yu, “Design of grid multi‐wing butterfly chaotic attractors from 
+piecewise Lü system based on switching control and heteroclinic orbit,” Proceedings of 2011 
+IEEE International Symposium on Circuits and Systems (ISCAS’11), pp. 1335 – 1338, Rio de 
+Janeiro, Brazil, May 2011.  
+71. 
+Y.‐L. Wang, Q.‐L. Han, and X. Yu, “One step prediction‐based packet dropout compensation for 
+networked control systems,” Proceedings of 2011 American Control Conference (ACC’11), pp. 
+2849 – 2854, San Francisco, June/July 2011.  
+72. 
+X. Li, A. Dwivedi, and X. Yu, “Assessing cascading failure in power networks based on power line 
+correlations,” proceedings of 2011 International Conference on Power Engineering, Energy and 
+Electrical Drives (POWERENG’11),  pp. 1 – 6, Malaga, Spain, May 2011.  
+73. 
+C. Mu, B. Wang, C. Sun, and X. Yu, “Tracking control of air‐breathing hypersonic aircrafts in 
+cruising flight based on sliding mode method,” Proceedings of 30th Chinese Control Conference 
+(CCC’11), pp. 5245 – 5249, Yantai, China, July 2011.  
+74. 
+S. Li, M. Zhou and X. Yu, “Disturbance observer based terminal sliding mode control method for 
+PMSM speed regulation system,” Proceedings of 30th Chinese Control Conference (CCC’11), pp. 
+6287 – 6292, Yantai, China, July 2011.   
+75. 
+B. Wang, X. Yu, L. Wang, and Z. Zhang, “Periodic behaviors in sampled‐data sliding mode based 
+observers,” Proceedings of 30th Chinese Control Conference (CCC’11), pp. 2544 – 2548, Yantai, 
+China, July 2011.   
+76. 
+Z. Galias and X. Yu, “Periodic behaviors in discretized second‐order terminal sliding mode 
+control systems,” Proceedings of the 20th European Conference on Circuit Theory and Design 
+(ECCTD’11), pp. 636 – 639, Linkoping, Sweden, August 2011.   
+77. 
+J. Lu, G. Chen, and X. Yu, “Modelling, analysis and control of multi‐agent systems: A brief 
+overview,” Proceedings of 2011 IEEE International Symposium on Circuits and Systems 
+(ISCAS’11), pp. 2103 – 2106, Rio de Janeiro, Brazil, May 2011.   
+78. 
+C. Yao, J. Lu, X. Yu, and D. W. C. Ho, “Consensus of second order discrete‐time multi‐agent 
+systems with switching topology,” Proceedings of 30th Chinese Control Conference (CCC’11),  pp. 
+5981 – 5986, Yantai, China, July 2011.   
+79. 
+X. Li, X. Yu, Q. Han, H. Gao, and C. Wang, “A discontinuous output feedback control law for 
+stabilization of oscillators with bounded delayed input,” Proceedings of 30th Chinese Control 
+Conference (CCC’11), pp. 208 – 213, Yantai, China, July 2011.   
+80. 
+S.M.M. Rahman, M.R.A. Kotwal, and X. Yu, “Mining classification rules via an priori approach,” 
+Proceedings of 13th International Conference on Computer and Information Technology 
+(ICCIT’10), pp. 388‐393, 2010. 
+
+-----
+81. 
+Z. Xu, H.R. Wu, X. Yu, and Z. Man, “Modelling of surveillance video noise,” Proceedings of 8th 
+IASTED International Conference on Signal Processing, Pattern Recognition and Applications 
+(SPPRA’11), pp.184‐191, Innsbruck, Austria, February 2011 
+82. 
+B. Wang, X. Yu, and L. Wang, “Convergence accuracy analysis of discretized sliding mode control 
+systems,” Proceedings of 11th International Conference on Control, Automation, Robotics and 
+Vision (ICARCV’10), pp. 1370‐1374, Singapore, December 2010. 
+83. 
+B.L. Zhang, Q. Han, X.‐M. Zhang, and X. Yu, ” Sliding mode control for offshore steel jacket 
+platforms,” Proceedings of 36th Annual Conference of IEEE Industrial Electronics Society 
+(IECON’10), 7‐10 November 2010. 
+84. 
+H. Shi, Y. Feng, and X. Yu, “High‐order terminal sliding mode  control for induction motor,”  
+Poceedings of 36th Annual Conference of IEEE Industrial Electronics Society (IECON’10), 7‐10 
+November 2010. 
+85. 
+A. Dwivedi, X. Yu, and P. Sokolowski, “Fault location in power networks using network graph 
+theory, Proceedings of 36th Annual Conference of IEEE Industrial Electronics Society (IECON’10), 
+7‐10 November 2010. 
+86. 
+Y. Feng, J. Li, and X. Yu, “Multi‐dimensional signals transmission via single channel for chaos 
+synchronization” Proceedings of 36th Annual Conference of IEEE Industrial Electronics Society 
+(IECON’10), 7‐10 November 2010. 
+87. 
+X. Li, X. Yu, and Q.‐L. Han, “Chattering analysis of time‐delayed second‐order sliding mode 
+control systems using Poincare map,” Proceedings of 49th IEEE Conference on Decision and 
+Control (CDC’10), December 2010. 
+88. 
+Y.‐L. Wang, Q.‐L. Han, and X. Yu, “Packet dropout separation‐based networked control systems 
+quantitative synthesis,” Proceedings of 49th IEEE Conference on Decision and Control (CDC’10), 
+December 2010. 
+89. 
+Y.‐L. Wang, Q.‐L. Han, and X. Yu, “Performance optimization for networked control systems with 
+limited channels and data drift,” Proceedings of 49th IEEE Conference on Decision and Control 
+(CDC’10), December 2010. 
+90. 
+X. Li, X. Yu, Q. Han, and C. Wang, “Time‐delay effect on continuous approximation of sliding 
+mode control,” Proceedings of 2010 International Workshop on Variable Structure Systems 
+(VSS’10), Mexico, June 2010.  
+91. 
+Z. Man, S. Khoo, X. Yu, C. Miao, and Jiong Jin, “A new design of sliding mode control systems,”  
+Proceedings of 2010 International Workshop on Variable Structure Systems (VSS’10), Mexico, 
+June 2010. 
+92. 
+H. Shi, Y. Feng, and X. Yu, “Adaptive backstepping hybrid terminal sliding mode control for 
+permanent magnet synchronous motor,” Proceedings of 2010 International Workshop on 
+Variable Structure Systems (VSS’10), Mexico, June 2010.  
+93. 
+Q. Wang, W. Peng, and X. Yu, “Ontology based geometry recognition for STEP,” Proceedings of 
+2010 IEEE International Symposium on Industrial Electronics (ISIE’10), pp.1686‐1691, Bari, 
+Italy, June 2010.  
+94. 
+H. L. Zhang, C.H.C. Leung, X. Yu, and J. He, “An optimised design for agent capability reuse,” 
+Proceedings of 2010 IEEE/WIC/ACM International Conference on Web Intelligence and 
+Intelligent Agent Technology (WI‐IAT’10), pp. 231‐234, July 2010. 
+a. 
+A. Dwivedi, X. Yu, and P. Solokowski, “Analysing power network vulnerability with maximum 
+flow based centrality approach,” Proceedings of 2010 IEEE Conference on Industrial Informatics 
+(INDIN’10), Osaka, Japan, July 2010.  
+95. 
+Y. Feng, H. Shi, and X. Yu, “A sliding mode observer design method for induction motor control 
+system,’ Proceedings of 34d International Symposium on Systems and Control in Aeronautics 
+and Astronautics (ISSCAA’10), pp. 1116‐1120, Harbin, China, July 2010. 
+96. 
+Q. Wang, W. Peng, and X. Yu,” Building an explanation generation mechanism in probabilistic 
+knowledge‐based systems,” Proceedings of 2010 IEEE Conference on Industrial Informatics 
+(INDIN’10), Osaka, Japan, July 2010. 
+97. 
+W. Guo, S. Chen, J. Lu, and X. Yu, “Consensus of multi‐agent systems with an active leader and 
+asymmetric adjacency matrix,” Proceedings of 48th IEEE Conference on Decision and Control 
+(CDC’09), pp. 3697‐3702, Shanghai, China, December 2009. 
+
+-----
+98. 
+B. Wang and X. Yu, “Euler discretization of second‐order terminal sliding mode control systems,” 
+Proceedings of 48th IEEE Conference on Decision and Control (CDC’09), pp. 6697‐6702, 
+Shanghai, China, December 2009. 
+99. 
+X. Yu, A. Dwivedi, and P. Sokolowski, “On complex network approach for fault detection in 
+power grids,” Proceedings of 2009 IEEE Conference on Control and Automation (CCA’09), pp. 
+13‐16, Christchurch, New Zealand, December 2009. 
+100. Y. Feng and X. Yu, “Nonsingular terminal sliding mode control of uncertain two‐link flexible 
+manipulator,” Proceedings of 35th Annual Conference of IEEE Industrial Electronics Society 
+(IECON’09), pp. 2295‐2300, Porto, Portugal, November 2009. 
+101. Y. Feng and X. Yu, “A novel symmetric image encryption approach based on an invertible 
+two‐dimensional map,” Proceedings of 35th Annual Conference of IEEE Industrial Electronics 
+Society (IECON’09), pp. 1973‐1978, Porto, Portugal, November 2009. 
+102. R. Dodd, A. Chiou, X. Yu, and R. Broadfoot, “Functional characteristics and proposed deployment 
+infrastructure of an industrial decision support system within a sugar mill crystallisation stage,” 
+Proceedings of 3rd IEEE International Conference on Networks and System Security (NSS’09), pp. 
+495‐500, Gold Coast, October 2009.   
+103. R. Dodd, A. Chiou, X. Yu, and R. Broadfoot, “Industrial process model integration using a 
+blackboard model within a pan stage decision support system,” Proceedings of 3rd IEEE 
+International Conference on Networks and System Security (NSS’09), pp. 489‐494, Gold Coast, 
+October 2009. 
+104. L. Li, X. Yu, X. Li, and J. Zhou, “A modified PSO algorithm for constrained multi‐objective 
+optimization,” Proc of 3rd IEEE International Conference on Networks and System Security 
+(NSS’09), pp. 462‐467, Gold Coast, October 2009. 
+105. C. Queiroz, A. Mahmood, J. Hu, Z. Tari, and X. Yu, “Building a SCADA security testbed,” Proc 
+eedings of 3rd IEEE International Conference on Networks and System Security, pp. 357‐364, 
+Gold Coast, October 2009. 
+106. C. Van der Velden, H. L. Zhang, X. Yu, T. Jones, I. Fieldhouse, and C. Bil, “A knowledge based 
+Systems approach to automated feature recognition”, Proceedings of 13th Australian 
+Aeronautical Conference, Melbourne, Australia, 2009. 
+107. C. Van der Velden, H. L. Zhang, X. Yu, T. Jones, I. Fieldhouse, and C. Bil, “Extracting engineering 
+features from Geometric Models”, Proceedings of 2009 AutoCRC Conference, Melbourne, 
+Australia, 2009. 
+108. H. L. Zhang,  C. Van der Velden, X. Yu, T. Jones, I. Fieldhouse, and C. Bil, “A knowledge‐based 
+system approach for feature recognition in aerospace components design processes”, 
+Proceedings of 2009 AutoCRC Conference, Melbourne, Australia, 2009. 
+109. H. L. Zhang,  C. Van der Velden, X. Yu, C. Bil, T. Jones, and I. Fieldhouse, “Developing a rule engine 
+for automated feature recognition from CAD models”, Proceedings of 35th Annual Conferences 
+of the IEEE and Industrial Electronics Society (IECON’09), Porto, Portugal, 2009.  
+110. C. Van der Velden, H. L. Zhang, X. Yu, T. Jones, I. Fieldhouse, and C. Bil, “Structuring rules in an 
+automated feature extraction system”, Proceedings of 2009 Asia‐Pacific International 
+Symposium on Aerospace Technology, Gifu, Japan, 2009.  
+111. C. Van der Velden, H. L. Zhang, X. Yu, T. Jones, I. Fieldhouse, and C. Bil, “Extracting engineering 
+features from B‐Rep geometric models”, Proceedings of 27th Congress of the International 
+Council of Aeronautical Sciences, Niece, France, 2009.  
+112. X. Yu, “Knowledge based industrial decision support systems and applications,” Proceedings of 
+International Symposium on Industrial Electronics (ISIE’09), Seoul Korea, July 2009. 
+113. Z. Xu, H.R. Wu, and X. Yu, “Interest points based object tracking with controlled cameras,” 
+Proceedings of IEEE International Conference on Industrial Technology (ICIT’09), pp. 1‐6, 
+Melbourne, Australia, February 2009.  
+114. X. Li, X. Yu, and C. Wang, “A networked sliding mode controller for servomechanical systems,” 
+Proceedings of IEEE International Conference on Industrial Technology (ICIT’09), pp. 1‐5, 
+Melbourne, Australia, February 2009.  
+115. P. Sokolowski, A. Dwivedi, S. Pathak, F. Buratto, and X. Yu, “Investigating the impedance of a 
+wooden power pole after a pole fire,” Proceedings of Australian Universities Power Engineering 
+Conference (AUPEC’09), pp. 1‐6, December 2009. 
+
+-----
+116. B. Batbayar and X. Yu, “An improved Levenberg‐Marquardt learning algorithm for neural 
+networks based on terminal attractors,” Proceedings of 2008 International Symposium on 
+Systems and Control in Aerospace and Aeronautics (ISSCAA’08), Shenzhen, China, December 
+2008. 
+117. Z. Xu, B. Qiu, H.R. Wu, and X. Yu, “Adaptive geometric features based filtering impulse noise in 
+colour images,” Proceedings of 2008 IEEE 10th Workshop on Multimedia Signal Processing, pp. 
+247‐251, Cairns, 8‐10 October 2008 
+118. Z. Xu, H.R. Wu, and X. Yu, “Colour image enhancement by hybrid approach,” Proceedings of 2008 
+IEEE 10th Workshop on Multimedia Signal Processing, pp. 252‐257, Cairns, 8‐10 October 2008 
+119. X. Li, X. Yu, and C. Wang, “Stabilization of oscillators with bounded delayed input: Sliding mode 
+control method,” Proceedings or 2008 International Symposium on Systems and Control in 
+Aerospace and Aeronautics (ISSCAA’08), Shenzhen, China, December 2008.  
+120. X. Li, X. Yu. Q. Han, and C. Wang, “Stability analysis of time‐delayed single‐input sliding mode 
+control systems,” Proceedings of the 34th Annual Conference of Industrial Electronics Society 
+(IECON’08), Orlando, USA, 10‐13 November 2008. 
+121. Y. Wang, Y. Feng, and X. Yu, “Fuzzy terminal sliding mode control of two‐link flexible 
+manipulators,” Proceedings of the 34th Annual Conference of Industrial Electronics Society 
+(IECON’08), Orlando, USA, 10‐13 November 2008. 
+122. W. Becker, X. Yu, and J. Tu, “An adaptive grid method and its application to CFD learning and 
+prediction,” Proceedings of the 34th Annual Conference of Industrial Electronics Society 
+(IECON’08), Orlando, USA, 10‐13 November 2008. 
+123. N. Cai, J. Wang, and X. Yu, “SCADA system security: Complexity, history and new developments,” 
+Proceedings of 2008 IEEE Conference on Industrial Informatics (INDIN’08), pp. 569‐574, 
+Daejeon, July 2008. 
+124. L. Li, X. Li, and X. Yu, “Power generation loading optimization  using a multi‐objective 
+constraint‐handling method via PSO algorithm,” Proceedings of 2008 IEEE Conference on 
+Industrial Informatics (INDIN’08), pp. 1632‐1637, Daejeon, July 2008.  
+125. Z. Man, W. Shen, and X. Yu, “A new terminal sliding mode tracking control for a class of 
+nonminimum phase systems with uncertain dynamics,” Proceedings of the 10th International 
+Workshop on Variable Structure Systems (VSS’08), pp. 147‐152, Antalya Turkey, 8‐10 June 
+2008. 
+126. X. Yu, S. Yu, Z. Man, and Y. Feng, “On singularity free terminal sliding mode control,” Proceedings 
+of the 10th International Workshop on Variable Structure Systems (VSS’08), pp. 163‐166, Antalya 
+Turkey, 8‐10 June 2008. 
+127. J. Zheng, Y. Feng, and X. Yu, “Hybrid terminal sliding mode observer design method for 
+permanent magnetic synchronous motor control systems,” Proceedings of the 10th International 
+Workshop on Variable Structure Systems (VSS’08), pp. 106‐111, Antalya Turkey, 8‐10 June 
+2008. 
+128. X. Yu, Q. Han, X. Li, and C. Wang, “Time‐delay effect on equivalent control based single‐input  
+sliding mode control systems,” Proceedings of the 10th International Workshop on Variable 
+Structure Systems (VSS’08), pp. 13‐18, Antalya Turkey, 8‐10 June 2008. 
+129. L. Li, X. Li, and X. Yu, “A multi‐objective constraint‐handling method with PSO algorithm for 
+constrained engineering optimization problems,” Proceedings of IEEE Congress on 
+Computational Intelligence – Evolutionary Computation (CEC’08), pp. 1528‐1535, Hong Kong, 
+June 2008. 
+130. B. Batybayar and X. Yu, “Fast terminal attractor based learning algorithm for feedforward neural 
+networks,” Proceedings of the 2007 International Conference on Intelligent Sensors, Sensor 
+Networks and Information Processing (ISSNIP’07), pp. 521‐526, Melbourne, 3‐6 December 2007. 
+131. A. Chiou and X. Yu, “A large‐scale agro decision support system: framework for fusion of a 
+multi‐input and multi‐output hybrid system,” Proceedings of the 2007 International Conference 
+on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP’07), pp. 527‐532, 
+Melbourne, 3‐6 December 2007. 
+132. A. Chiou and X. Yu, “Remote sensing in decision support systems: Using fuzzy post adjustment in 
+localisation of weed prediction,” Proceedings of the 33rd Annual Conference of the IEEE 
+Industrial Electronics Society (IECON’07), Taipei, Taiwan, November 2007. 
+
+-----
+133. Y. Wang, Y. Feng, and X. Yu, “High‐order non‐singular terminal sliding mode control of uncertain 
+multivariable systems,” Proceedings of the 33rd Annual Conference of the IEEE Industrial 
+Electronics Society (IECON’07), Taipei, Taiwan, November 2007. 
+134. Y. Wang and X. Yu, “A new nonlinear controller for power generation unit,” Proceedings of the 
+33rd Annual Conference of the IEEE Industrial Electronics Society (IECON’07), Taipei, Taiwan, 
+November 2007. 
+135. Y. Yang, X. Huang, and X. Yu, “Real‐time ECG mornitoring system based on FPGA,” Proceedings of 
+the 33rd Annual Conference of the IEEE Industrial Electronics Society (IECON’07), Taipei, 
+Taiwan, November 2007. 
+136. W. Becker, X. Yu, and J. Tu, “A generalised CFD learning and prediction system,” Proceedings of 
+2007 IEEE International Conference on Industrial Informatics (INDIN’07), Vienna Austria, July 
+2007. 
+137. C. van der Velden, C. Bil, X. Yu, and A. Smith, “An intelligent system for routing automation” 
+Proceedings of IPROMS 2007,  July 2007.   
+138. Z. Galias and X. Yu, “Equivalence of two discretization schemes in a simple sliding mode control 
+system,” Proceedings of IEEE International Symposium on Circuits and Systems (ISCAS’07), pp. 
+1677‐1680, New Orleans, 27‐30 May 2007. 
+139. F. Han, J. Hu, and X. Yu, “A biometric encryption approach incorporating fingerprint indexing in 
+key generation,” Proceedings of International Conference on Intelligent Computing, Kunming, 
+Yunnan Province, China, 16‐19 August 2006. 
+140. K. Abidi, J. X. Xu, and X. Yu, “On the discrete‐time integral sliding mode control,” Proceedings of 
+2006 International Workshop on Variable Structure Systems (VSS’06), Alghero, Italy, June 2006. 
+141. P.J. Radcliffe and X. Yu, “A microprocessor communications for cost sensitive products,” 
+Proceedings of IEEE International Conference on Industrial Informatics (INDIN’06), Singapore, 
+August 2006. 
+142. P.J. Radcliffe and X. Yu, “A novel time independent asynchronous communication protocol & its 
+applications,” Proceedings of the 32nd Annual Conference of IEEE Industrial Electronics Society 
+(IECON’06), Paris, November 2006. 
+143. Y. Yang, X. Yu, and C. Sun, “A novel method for continuous periodic interference suppression in 
+on‐line PD monitoring of transformers,” Proceedings of the 32nd Annual Conference of IEEE 
+Industrial Electronics Society (IECON’06), Paris, November 2006.  
+144. Y. Feng and X. Yu, “Nonsingular terminal sliding mode control of uncertain multivariable 
+systems,” Proceedings of 2006 International Workshop on Variable Structure Systems (VSS’06), 
+Algero, Italy, June 2006. 
+145. W. Becker, X. Yu, and J. Tu, “Single compartment fire risk analysis using a fuzzy neural network,” 
+Proceedings of 2006 IEEE International Joint Conference on Neural Networks, Vancouver 
+Canada, July 2006. 
+146. B. Wang, X. Yu, and G. Chen, “Discretization behaviors of sliding mode control systems with 
+uncertainties,” Proceedings of 2006 World Congress on Intelligent Control and Automation 
+(WCICA’06), Dalian, June 2006. 
+147. X. Li, C. Wang, G. Ma, X. Yu, and B. Wang, “Digital redesign of sliding mode control for LTI 
+systems,” Proceedings of 2006 World Congress on Intelligent Control and Automation 
+(WCICA’06), Dalian, June 2006. 
+148. F. Han, J. Hu, and X. Yu, “A novel hybrid crypto‐biometric authentication scheme for ATM based 
+banking application”, LNCS 3832, Advances in Biometrics, Proceedings of International 
+Conference on Biometrics, pp.95‐110, Hong Kong, China, January 2006. 
+149. X. Yu, A. Chiou and R. Dodd, “A novel decision support framework for industrial processes,” 
+Proceedings of the 31st Annual Conference of IEEE Industrial Electronics Society, pp. 2210‐2215, 
+Raleigh, USA, November 2005. 
+150. F. Han, J. Hu, X. Yu and Y. Wang, “A new fingerprint image encryption approach based on 
+two‐dimensional  chaotic attractors,” Proceedings of International Conference on Intelligent 
+Computing,  Hefei, China,  August 23‐26, 2005. 
+151. F. Han, X. Yu, and J. Hu, “A new way of generating grid chaos and its application in biometric 
+authentication,” Proceedings of the 31st Annual Conference of IEEE Industrial Electronics Society 
+(IECON’05), pp. 61‐66, Raleigh, USA, November 2005. 
+
+-----
+152. F. Han, J. Hu, X. Yu, and Y. Wang, “A new fingerprint  image encryption approach based on 
+two‐dimensional  chaotic attractors”, Proceedings of International Conference on Intelligent 
+Computing,  Hefei, China,  August, 2005. 
+153. R. Dodd, R. Broadfoot, X. Yu, and A. Chiou, “Development of a smart supervisory control system 
+in a sugar mill crystallisation stage,” Proceedings of I*PROMS’05, pp.527‐534, Cardiff, UK, July 
+2005. 
+154. X. Jiang, Q.‐L. Han, and X. Yu, “Robust H/sub /spl infin// control for uncertain Takagi‐Sugeno 
+fuzzy systems with interval time‐varying delay,” Proceedings of American Control Conference 
+(ACC’05), vol. 2, pp. 1114 – 1119, June 2005. 
+155. B. W.‐K. Ling, C. Y.‐F. Ho, X. Yu, and J. D. Reiss, "Nonlinear behaviors of bandpass sigma delta 
+modulators with stable system matrices", Proceedings of International Conference of Acoustics, 
+Speech and Signal Processing (ICASSP’05), vol. 4, pp.73‐76,  Philadelphia, March 2005. 
+156. A. Chiou and X. Yu, “Prediction of weed dispersal dynamics: Determining multiple concurrent 
+consequences using priority stacks on a blackboard model,” Proceedings of IEEE International 
+Conference on Industrial Informatics (INDIN’05), Perth, Australia, August 2005. 
+157. X. Yu, F. Han, Y. Feng, and G. Chen, “Domain of attraction of hysteresis‐series based chaotic 
+attractors,” Proceedings of Complex’04, Cairns, Dec 6‐9, 2004. 
+158. F. Han, X. Yu, M. Al‐Dabbagh, and Y. Wang, “Detecting fault location in radial power distribution 
+networks using a dual frequency approach,” Proceedings of Complex’04, , Cairns, Dec 6‐9, 2004. 
+159. A. Chiou and X. Yu, “P‐Expert: Integrated expert advisory system for control and management of 
+parthenium weed infestation,” Proceedings of the 30th Annual Conference of IEEE Industrial 
+Electronics Society (IECON’04), Pusan, Korea, Nov 2‐6, 2004. 
+160. N. Zhang, Y. Feng, and X. Yu, “Optimization of terminal sliding mode control for two‐link flexible 
+manipulators,” Proceedings of the 30th Annual Conference of IEEE Industrial Electronics Society 
+(IECON’04), Pusan, Korea, Nov 2‐6, 2004.  
+161. F. Han, X. Yu, Y. Wang and M. Al‐Dabbagh, “Sinusoidal steady‐state analysis for fault location,” 
+Proceedings of the 30th Annual Conference of IEEE Industrial Electronics Society (IECON’04), 
+Pusan, Korea, Nov 2‐6, 2004. 
+162. Y. Feng, L. Sun, and X. Yu, “Finite time synchronization of chaotic systems with unmatched 
+uncertainties,” Proceedings of the 30th Annual Conference of IEEE Industrial Electronics Society 
+(IECON’04), Pusan, Korea, Nov 2‐6, 2004. 
+163. Z. Han and X. Yu, “A model free adaptive control and its application,” Proceedings of 2nd IEEE 
+Conference on Industrial Informatics (INDIN’04), Berlin, June 2004.  
+164. J. Lu, G. Chen, X. Yu, and H. Leung, “Generating multi‐scroll chaotic attractors via switching 
+control,” Proceedings of the 5th Asian Control Conference, 20‐23 July 2004. 
+165. D. Yue, Q. Han, and X. Yu, “Hinf non‐fragile controller design for uncertain descriptor systems 
+with time varying discrete and distributed delays,” Proceedings of the 5th Asian Control 
+Conference (ASCC’04), 20‐23 July 2004. 
+166. Z.‐H. Guan, D.J. Hill, X. Shen, and X. Yu, “Synchronization of chaotic systems via hyprid impulsive 
+and switching control,” Proceedings of the 5th Asian Control Conference (ASCC’04), 20‐23 July 
+2004. 
+167. X. Yu, L. Yang, and G. Chen, “Periodic discretization behaviours in a bang‐bang type switching 
+control system,” Proceedings of the 5th Asian Control Conference (ASCC’04), 20‐23 July 2004. 
+168. Z. Man, X. Yu, X. Zhang, and S. Gao, “A new dynamical fuzzy modelling and control for SISO 
+complex systems,” Proceedings of the 29th Annual Conference of the IEEE Industrial Electronics 
+Society (IECON’03), pp. 2995‐3000, Roanoke, USA, November 2003. 
+169. S. Yu, X. Yu, and M. Efe, “Modelling‐error based adaptive fuzzy sliding mode control for 
+trajectory‐tracking of nonlinear systems,” Proceedings of the 29th Annual Conference of the IEEE 
+Industrial Electronics Society (IECON’03), pp. 3001‐3006, Roanoke, USA, November 2003. 
+170. Y. Feng, X. Chen, X. Yang, and X. Yu, “Model of a TDI line scan camera and its electronics,” 
+Proceedings of the 29th Annual Conference of tie IEEE Industrial Electronics Society (IECON’03), 
+pp. 2215‐2220, Roanoke, USA, November 2003. 
+171. Y. Wang, Y. Feng, X. Yu, and N. Zhang, “Terminal sliding mode control of MIMO linear systems 
+with unmatched uncertainties,” Proceedings of the 29th Annual Conference of tie IEEE Industrial 
+Electronics Society (IECON’03), pp. 1146‐1151, Roanoke, USA, November 2003. 
+
+-----
+172. J. Lu, G. Chen, X. Yu, and S. Zhang, “Dynamical behaviours of a unified chaotic system,” DCDIS 
+Proceedings: Intelligent and Complex Systems, pp. 115‐124, Watam Press Waterloo, 2003. 
+173. S. Gao, Z. Man, and X. Yu, “Stabilization of T‐S fuzzy systems using LTV system theory,” 
+Proceedings of IEEE International Symposium on Intelligent Control (ISIC’03), pp. 122‐127, 
+Houston, October 2003.  
+174. S. Yu, X. Yu, and R. Stonier, “Continuous finite time control for robotic manipulators with 
+terminal sliding modes,” Proceedings of the Sixth International Conference of Information 
+Fusion, vol. 2, pp. 1433‐1440, July 2003. 
+175. M.O. Efe, O. Kaynak, C. Unsal, and X. Yu, “Sliding mode control of a class of uncertain systems,” 
+Proceedings of 2003 IEEE Conference on Control Applications (CCA’03), June 23‐25, 2003. 
+176. F. Han, X. Yu, G. Chen, W. Liu, and Y. Feng, “Generation of milti0scroll chaos using second order 
+linear systems with hysteresis,” Proceedings of the 2003 International Symposium, on Circuits 
+and Systems (ISCAS’03), vol. 3, 25‐28 May 2003. 
+177. J. Lu, X. Yu, and G. Chen. "Switching control for multi‐scroll chaos generation: An overview", 
+Proceedings of International Conference Physics and Control, pp. 420‐428, Saint Petersburg, 
+Russia, August 20‐22, 2003. 
+178. Y. Wu, J. Gu, and X. Yu, “Finite time sliding mode control for time delay systems,” Proceedings of 
+4th World Congress on Intelligent Control and Automation (IFAC’02), pp. 872‐877, Shanghai, 
+June 2002 
+179. S. Yu and X. Yu, “Robust global fast terminal sliding mode controller for rigid robotic 
+manipulators,” Proceedings of IEEE TENCON’02, pp. 1335‐1338, October 2002. 
+180. F. Han, L. Sun, Y. Feng, P. Wang, and X. Yu, “Synchronization of the Duffing oscillator by using 
+terminal sliding mode control,” Proceedings of IEEE TENCON’02, October 2002. 
+181. A. Chiou and X. Yu, “Prediction of weed dispersal using fuzzy logic on spatial image,” 
+Proceedings of 1st International Conference on Fuzzy Systems and Knowledge Discovery 
+(FSKD’02), vol. 2, pp. 524‐528, Singapore, November 2002. 
+182. A. Chiou and X. Yu, “P‐Expert: Framework for fuzzy expert advisory system for the control and 
+management of parthenium weed,” Proceedings of 1st International Conference on Fuzzy 
+Systems and Knowledge Discovery (FSKD’02), vol. 2, pp. 136‐140, Singapore, November 2002. 
+183. X. Yu, R. Dodd, R. Broadfoot, and A. Chiou, “Development of a smart supervisory control system 
+for pan‐stage operations in sugar factories,” Proceedings of ItiRA02 – Using IT: Make IT Happen, 
+pp. 368‐375, Rockhampton, Australia, August 2002. 
+184. A. Chiou, X. Yu, and K. Adsett, “The design of an intelligent system in unifying diverse resource 
+components into manageable framework,” Proceedings of ItiRA02 – Using IT: Make IT Happen, 
+pp. 270‐278, Rockhampton, Australia, August 2002 
+185. W. Li and X. Yu, “Applying an evolutionary algorithm to Web search: the methodology of 
+Evagent,” Proceedings of the 2002 International Conference on Artificial Intelligence, 
+pp927‐933, Las Vegas, USA, June 2002. 
+186. X. Yu and G. Chen, “Discretization analysis of a class of second order SMC systems,” Proceedings 
+of the 7th International Workshop on Variable Structure Systems (VSS’02), pp. 77‐86, Sarajevo, 
+Bosnia, July 2002. 
+187. Y. Feng, X. Zheng, and X. Yu, “Terminal sliding mode decomposed control of high dimensional 
+multivariable linear uncertain systems,” Proceedings of the 7th International Workshop on 
+Variable Structure Systems (VSS’02), pp. 215‐224, Sarajevo, Bosnia, July 2002. 
+188. S. Chong, Y. Feng, X. Yu, and Z. Man, “Robust controller design for a single link flexible 
+manipulator,” Proceedings of the 7th International Workshop on Variable Structure Systems 
+(VSS’02), pp. 309‐318, Sarajevo, Bosnia, July 2002. 
+189. X. Yu, G. Chen, and J.‐Q. Fang, “Stabilizing halo‐chaos by variable structure control,” Proceedings 
+of the 7th International Workshop on Variable Structure Systems (VSS’02), pp. 345‐352, 
+Sarajevo, Bosnia, July 2002. 
+190. Y. Tian and X. Yu, “A backstepping iterative learning control,” Proceedings of the 15th IFAC 
+World Congress (IFAC’02), Barcelona, Spain, July 2002. 
+191. Q.‐L. Han and X. Yu, “Improved estimate of time‐delay for stability of linear systems,” 
+Proceedings of the 15th IFAC World Congress (IFAC’02), Barcelona, Spain, July 2002. 
+
+-----
+192. Q.‐L. Han and X. Yu, “A discretized Lyapunov functional approach to stability of linear delay 
+differential systems of neural type,” Proceedings of the 15th IFAC World Congress, Barcelona 
+(IFAC’02), Spain, July 2002. 
+193. Y. Wu, X. Yu, and Z. Man, “A finite time variable structure controller for robot manipulator”, 
+Proceedings of the 15th IFAC World Congress (IFAC’02), Barcelona, Spain, July 2002. 
+194. Y. Wu, J. Gu, and X. Yu, “Finite time sliding mode control for time delay systems,” Proceedings of 
+the 4th World Congress on Intelligent Control and Automation (WCICA’02), pp. 872‐877, June 
+2002. 
+195. S. Yu, X. Yu, and Z. Man, “A fuzzy neural network approximator with fast terminal sliding mode 
+and its applications,” Proceedings of the 9th International Conference on Neural Information 
+Processing, pp. 1257‐1261, November 2002.  
+196. X. Yu, Z. Man, Y. Feng, and Z. Guan, “Nonsingular terminal sliding mode control of a class of 
+nonlinear uncertain systems ”, Proceedings of the 15th IFAC World Congress (IFAC’02), 
+Barcelona, Spain, July 2002. 
+197. M. O. Efe, O. Kaynak, X. Yu, and S. Iplicki, “Cost effect computational intelligent control – An 
+augmented switching manifold approach,” Proceedings of the 27th Annual Conference of the 
+IEEE Industry Electronics Society (IECON’01), pp. 31‐35, 2001. 
+198. M. O. Efe, O. Kaynak, and B. M. Wilamowski, “Radial basis function neural networks in variable 
+structure control of a class of biochemical processes,” Proceedings of the 27th Annual Conference 
+of the IEEE Industry Electronics Society (IECON’01), pp. 31‐35, 2001.  
+199. A. Chiou and X. Yu, “Prediction of parthenium weed infestation using fuzzy logic applied to 
+Geographic Information System (GIS) spatial image”, Proceedings of 10th IEEE International 
+Conference on Fuzzy Systems, (FUZZY’01), vol. 3, Melbourne, Dec 2001.  
+200. Y. Song, X. Yu, G. Chen, and J.‐X. Xu, “A repetitive time delayed learning control for chaotic 
+systems,” Proceedings of 3rd IFAC Workshop on Time Delay Systems, Santa Fe, New Mexico, 
+U.S.A. Dec 2001.  
+201. A. Chiou, X. Yu, and K. Adsett, “Parthenium weed problem in regional Queensland: The role of an 
+expert advisory system,” Proceedings of ITiRA’01, September 2001. 
+202. X. Yu, “Discretizing sliding mode control: From chattering to unstable motion,” Proceedings of 
+IEEE Conference on Decision and Control (CDC’01), pp. 914‐919, Orlando, Dec 2001 
+203. Y. Song, X. Yu, J.‐X. Xu, and G. Chen, “Time delayed chaos control with repetitive learning,” 
+Proceedings of IEEE Conference on Decision and Control (CDC’01), pp. 4915‐3919, Orlando, Dec 
+2001. 
+204. Y. Feng, X. Yu, and Z. Man, “Adaptive fast terminal sliding mode tracking control of robotic 
+manipulators,” Proceedings of IEEE Conference on Decision and Control (CDC’01), pp. 
+4021‐4026, Orlando, Dec 2001 
+205. Wu, X. Yu, and L. Liu, “ Fuzzy penalty function approach for constrained function optimization 
+with evolutionary algorithms,” Proceedings of International Conference on Neural Information 
+Processing, pp. 299‐304, Shanghai, China, November 14‐18, 2001. 
+206. M.O. Efe, O. Kaynak, X. Yu, and B. M. Wilamowski, "Sliding mode control of nonlinear systems 
+using Gaussian radial basis function neural networks," Proceedings of INNS‐IEEE Int. Joint Conf. 
+on Neural Networks (IJCNN’01), July 14 – 19, Washington, DC, U.S.A., pp. 474‐479, 2001. 
+207. M. Jiang and X. Yu, “Terminal attractor based backpropagation learning for feedforward neural 
+networks,” Proceedings of 2001 IEEE International Symposium on Circuits and Systems 
+(ISCAS’01), vol. III, pp. 711‐714, Sydney May 2001. 
+208. X. Yu, M. O. Efe, and O. Kaynak, “A backpropagation framework for feedforward neural 
+networks,” Proceedings of 2001 IEEE International Symposium on Circuits and Systems 
+(ISCAS’01), vol. III, pp. 700‐702, Sydney May 2001. 
+209. Y. Feng, X. Yu, and Z. Man, “Non singular terminal sliding mode control and its applications to 
+robot manipulators,” Proceedings of 2001 IEEE International Symposium on Circuits and 
+Systems (ISCAS’01), vol. III, pp. 545‐548, Sydney May 2001.  
+210. Y. Wu, X. Yu, and L. Liu, “A fuzzy penalty function approach for constrained function 
+optimisation problems,” Proceedings of 2001 International Conference on Neural Information 
+Processing (ICONIP’01), Shanghai, China, November 2001. 
+
+-----
+211. X. Yu, G. Ledwich, and Y. Xia, “Switching control of linear systems with actuators,” Proceedings of 
+the IASTED International Conference on Modelling and Simulation, pp. 272‐275, Pittsburgh, May 
+2000.  
+212. X.F. Wang, G. Chen, and X.Yu: "Chaotification of continuous‐time systems via time‐delay 
+feedback," Proceedings of the 2nd International Conference on Control of Oscillations and Chaos, 
+St. Petersburg, Russia, vol. 2, pp. 213‐216, July 5‐7, 2000. 
+213. X. Yu, G. Chen, Y. Xia, Y. Song, and Z Cao, "A generalised OGY method for controlling higher order 
+chaotic systems," Proceedings of the 39th IEEE Conference on Decision and Control (CDC’00), pp. 
+2054‐2059, Sydney, December 2000.  
+214. X. Yu and S. Yu, “Invariant sliding sectors for discrete variable structure control design,” 
+Proceedings of 39th IEEE Conference on Decision and Control (CDC’00), pp. 2605‐2606, Sydney, 
+December 2000.  
+215. Y Song and X Yu, “Multi‐parameter modulation for secure communication via Lorenz chaos,” 
+Proceedings of 39th IEEE Conference on Decision and Control (CDC’00), pp. 42‐46, Sydney, 
+December 2000.  
+216. S. Yu, X. Yu, and M. Zhihong, “Global terminal sliding mode control design,” Proceedings of 39th 
+IEEE Conference on Decision and Control (CDC’00), pp. 2198‐2203, Sydney, December 2000.  
+217. X. Yu and Z Man, "Fast terminal sliding mode control", Proceedings of 2000 Asian Control 
+Conference (ASCC’00), pp. 1694‐1699, Shanghai, Jul 2000. 
+218. Y. Wu X. Xie, and X Yu, "High‐gain controller with memory function for uncertain singularly 
+perturbed systems," Proceedings of 2000 Asian Control Conference (ASCC’00), pp. 995‐1000,  
+Shanghai, Jul 2000.  
+219. M. Zhihong, X. Yu, and X. Zhang, "A new sliding mode control for a class of chaotic systems" 
+Proceedings of 2000 Asian Control Conference (ASCC’00), pp.1700‐1702, Shanghai, China, July 
+2000.  
+220. Y.‐P. Tian and X. Yu, "Time‐delayed feedback control of chaotic systems based on an optimal 
+principle", Proceedings of 2000 Asian Control Conference (ASCC’00), pp.989‐994, Shanghai, 
+China, July 2000.  
+221. B. Wu and X. Yu, "Evolutionary fuzzy system approach for dynamic modelling," Proceedings of 
+3rd Australian‐Japan Joint Workshop on Intelligent and Evolutionary Systems, pp. 124‐130, 
+23‐25 November 1999. 
+222. M. Chen and X. Yu, "Evolutionary strategies for internet search agents," Proceedings of 3rd 
+Australian‐Japan Joint Workshop on Intelligent and Evolutionary Systems, pp. 240‐245, 23‐25 
+November 1999. 
+223. X. Yu, "Periodic behaviours in a digital filter with two's complement arithmetic," Proceedings of 
+the 5th International Symposium on Signal Processing and its Applications, vol. 2, pp. 399‐402, 
+Brisbane Australia, August 1999.  
+224. B. Wu and X. Yu, "Evolutionary design of fuzzy gain scheduling controllers," Proceedings of 
+Congress on Evolutionary Computation (CEC’99), vol. 3, pp. 2139‐2144, Washington, July 1999. 
+225. X. Yu, Y. Wu, and Z. Man, "Finite time output tracking control of nonlinear dynamic systems with 
+nonminimum phase," Proceedings of the 14th IFAC World Congress on Automatic Control 
+(IFAC’99), pp. 383‐387, Beijing, July 1999.  
+226. Z. Man, X. Yu, and  F. Mei, "Terminal sliding mode control for SISO nonlinear systems with new 
+fuzzy model," Proceedings of the 14th IFAC World Congress on Automatic Control (IFAC’99), pp. 
+359‐362, Beijing, July 1999. 
+227. M. Fei, Z. Man, and X. Yu, "Sliding mode control signal analysis," Proceedings of the 14th IFAC 
+World Congress on Automatic Control (IFAC’99), 349‐353, Beijing, July 1999. 
+228. B. Wu and X. Yu, "Evolutionary Programming approach for constraint optimization problems," 
+Proceedings of the 2nd Asia‐Pacific Conference on Simulated Evolution and Learning (SEAL’98), 
+vol. 2, 1998. 
+229. X. Yu and G. Chen, "Controlling chaotic systems to unstable periodic orbits,"  Proceedings of the 
+37th IEEE Conference on Decision and Control (CDC’98), pp. 1942‐1945, Tampa FL, December 
+1998. 
+230. G. Lu, Y. Zheng, C. Zhang, and X. Yu, "Global asymptotic stabilization of MIMO bilinear systms 
+with undamped natural response,"  Proceedings of the 37th IEEE Conference on Decision and 
+Control (CDC’98), pp. 1989‐1994, Tampa FL, December 1998. 
+
+-----
+231. Y. Wu and X. Yu, "Adaptive control of linear MIMO systems using backstepping approach,"  
+Proceedings of 1998 American Control Conference (ACC’98), pp.599‐603, Philadephia, June 
+1998. 
+232. X. Yu, Y. Wu, and X. Chu, "Controller design for linear time varying systems by backstepping,"   
+Proceedings of 1998 American Control Conference (ACC’98), pp. 3726‐3732, Philadephia, June, 
+1998. 
+233. B. Wu and X. Yu, "Enhanced evolutionary programming for function optimization,"  Proceedings 
+of 1998 International Conference on Evolutionary Computation (CEC’98), pp. 695‐698, Alaska, 
+May 1998. 
+234. B. Wu and X. Yu, "Evolutionary programming based modelling scheme for fuzzy systems,"  
+Proceedings of 1st Australian‐Japan Joint Workshop on Intelligent and Evolutionary Systems, X. 
+Yao, M. Gen, Y. Tsujimura and R.I. McKay (Eds), pp. 150‐157, Canberra, Australia, November 
+1997. 
+235. X. Yu, Y. Wu, S.M.M. Rahman, and Z. Man, "Adaptive hysteresis method of finite time tracking for 
+uncertain nonlinear systems and its application,"  Proceedings of International Conference on 
+Computational Intelligence and Multimedia Applications, pp. 167‐172, Gippsland, Vic, Australia, 
+February 1998. 
+236. F. Mei, Z. Man, T. Nguyen, and X. Yu, "A sliding mode control system with fuzzy logic controller," 
+Proceedings of International Conference on Computational Intelligence and Multimedia 
+Applications, pp. 516‐524, Gippsland, Vic, Australia, February 1998. 
+237. S.M.M. Rahman, X. Yu, M.S. Rahman, Y. Wu, and Z. Man, "Designing a neuro‐controller using 
+Lyapunov approach," Proceedings of International Conference on Computational Intelligence 
+and Multimedia Applications, pp. 300‐305, Gippsland, Vic, Australia, February 1998. 
+238. X. Yu, W. Zheng, B. Wu, and X. Yao, "Solving constrained optimization problems with new 
+penalty function approach using genetic algorithms," Proceedings of 1997 International 
+Conference on Neural Information Processing and Intelligent Information Systems, pp.416‐419, 
+Dunedin, New Zealand, November 1997. 
+239. S.M.M. Rahman, X. Yu, and Z. Man, " System identification problems via a single layer 
+feedforward neural network," Proceedings of 1997 International Conference on Neural 
+Information Processing and Intelligent Information Systems, pp.959‐962, Dunedin, New Zealand, 
+November 1997.  
+240. S.M.M. Rahman, X. Yu, and G. Martin, "Neural network approach for data mining,"  Proceedings 
+of 1997 International Conference on Neural Information Processing and Intelligent Information 
+Systems, pp.851‐854, Dunedin, New Zealand, November 1997. 
+241. Y. Wu and X. Yu, "Adaptive control design for linear time varying systems," Proceedings of 1997 
+International Conference on Neural Information Processing and Intelligent Information Systems, 
+pp.963‐966, Dunedin, New Zealand, November 1997. 
+242. Y. Wu and X. Yu, "Adaptive conrol design for linear multivariable systems via backstepping 
+approach," Proceedings of 1997 International Conference on Neural Information Processing and 
+Intelligent Information Systems, pp.955‐958, Dunedin, New Zealand, November 1997.  
+243. Y. Wu and X. Yu, "Variable structure control design for systems with unmodeled dynamics and 
+disturbances in input and output channels," Proceedings of 1997 Australian Control Conference 
+(CONTROL'97), pp. 554‐558, Sydney, July 1997. 
+244. X. Yu and Y. Wu, "Adaptive control of uncertain nonlinear systems in generalised 
+parametric‐strict‐feedback form," Proceedings of 1997 Australian Control Conference 
+(CONTROL'97), pp. 551‐553, Sydney, July 1997. 
+245. R.J. Stonier, P. Keleher, and X. Yu, "Finite  time switching control forarticulated robots," 
+Proceedings of 1997 Australian Control Conference (CONTROL'97),  pp. 294‐299, Sydney, July 
+1997. 
+246. X. Yu, Z. Man, and Y. Wu, "Terminal sliding modes with fast transient performance," Proceedings 
+of 36th International Conference on Decision and Control (CDC’97), pp. 962‐963, San Diego, 
+December 1997. 
+247. X. Yu, "Tracking inherent periodic orbits in chaotic systems via adaptive self‐control," invited 
+paper, Proceedings of 36th International Conference on Decision and Control (CDC’97), pp. 
+401‐405, San Diego, December 1997.  
+
+-----
+248. Z. Man, Q. P. Ha, and X. Yu, "A study of uncertainty bound for rigid robot control systems," 
+Proceedings of the 2nd Asian Control Conference (ASCC’97), vol. I, pp. 867‐870, Seoul Korea, July 
+1997.  
+249. Z. Man, Q. P. Ha, and X. Yu, "Adaptive control using fuzzy basis function expansion for SISO 
+linearizable nonlinear systems," Proceedings of the 2nd Asian Control Conference (ASCC’97), vol. 
+III, pp. 695‐698, Seoul Korea, July 1997. 
+250. Y. Xia, X. Yu, and W. Oghanna, "Fast AC motor position control with variable switching plane 
+controller," Proceedings of 2nd International Power Electronics and Motion Control Conference, 
+China, 3‐6 November, 1997.  
+251. Z. Man and X. Yu, "Robust sliding mode control of vibrational systems," Proceedings of the 2nd 
+Asian Control Conference (ASCC’97), Vo. I, pp. 549‐552, Seoul Korea, July 1997. 
+252. X. Yu and Z. Man, "Model reference adaptive control of MIMO systems with terminal sliding 
+modes," invited paper, Proceedings of the 2nd Asian Control Conference (ASCC’97), vol. I 
+385‐388, Seoul Korea, July 1997. 
+253. X. Yu and G. Ledwich, "Multi‐machine power systems stabilization using variable series 
+compensation,"  Proceedings of the 2nd Asian Control Conference (ASCC’97), vol. III, pp. 299‐302, 
+Seoul Korea, July 1997. 
+254. Y.Z. Zheng and X. Yu, "Tracking signals in continuous time chaotic systems,"   Proceedings of the 
+2nd Asian Control Conference  (ASCC’97), vol. III, pp. 651‐654, July 1997. 
+255. X. Yu, Y. Xia, G. Ledwich, and W. Oghanna,"Finite time adaptive switching control based on LQR 
+design," Proceedings of the 2nd Asian Control Conference  (ASCC’97), vol. I, pp. 369‐372, Seoul 
+Korea, July 1997. 
+256. B. Wu and X. Yu, "A fuzzy model identification approach," Proceedings of International 
+Conference on Computational Intelligence and Multimedia Applications, pp.181‐184,Gold Coast, 
+Australia, 1997. 
+257. X. Yu and Z. Man, "A neural model reference controller," Proceedings of Int. Conference on 
+Computational Intelligence and Multimedia Applications (ICCIMA’97), pp.296‐300, Gold Coast, 
+Australia, 1997.  
+258. Z. Man, X. Yu, N. Ritter and J. Copper, "A robust tracking controller using fuzzy basis function 
+networks for a class of nonlinear systems," Proceedings of the 4th International Conference on 
+Control, Automation, Robotics and Vision (ICARV’96), pp. 2189‐2193, Singapore, December 
+1996.  
+259. Z. Man, X. Yu, N. Ritter, and J. Copper, "A robust adaptive terminal sliding mode control for rigid 
+robotic manipulators," Proceedings of the 4th International Conference on Control, Automation, 
+Robotics and Vision (ICARV’96), pp. 508‐512, Singapore, December 1996. 
+260. R.J. Stonier and X. Yu, "Finite time switching control for collision‐avoidance of mobile robots," 
+Proceedings of the 4th International Conference on Control, Automation, Robotics and Vision 
+(ICARV’96), pp.1140‐1144, Singapore, December 1996. 
+261. S.S. Chong, X. Yu, and Z. Man, "A robust adaptive sliding mode controller for robotic 
+manipulators,"  Proceedings of 1996 IEEE International Workshop on Variable Structure 
+Systems (VSS’96), pp. 31‐35, Tokyo, Japan, December 1996. 
+262. X. Yu and Z. Man, "On finite time mechanism: Terminal sliding modes," Proceedings of 1996 
+IEEE International Workshop on Variable Structure Systems (VSS’96), pp. 164‐168, Tokyo, 
+Japan, December 1996. 
+263. X. Yu, "Controlling chaos using variable structure," Proceedings of the 35th IEEE Conference on 
+Decision and Control (CDC’96), pp. 2167‐2168, Kobe, Japan, December 1996. 
+264. Z. Man and X. Yu, "Terminal sliding mode control of MIMO linear systems," Proceedings of the 
+35th IEEE Conference on Decision and Control (CDC’96), pp. 4619‐4625, Kobe, Japan, December 
+1996. 
+265. Z. Man and X. Yu, "A RBF neural network based adaptive control for a class of nonlinear 
+systems," Proceedings of 1996 IMACS‐IEEE Multi Conferences: Symposium on Robotics and 
+Cybernetics, pp. 829‐833, Lille, France, July 1996. 
+266. Z. Jiang, J. Zhang, and X. Yu, "A DSP based multi‐user type single phase electricity meter with 
+automatic meter readings," Proceedings of 1996 IMACS‐IEEE Multi Conferences: Symposium on 
+Control, Optimization and Supervision, vol. 2, pp. 733‐737, Lille, France, July 1996. 
+
+-----
+267. X. Yu and Z. Man, "Finite time output tracking problem using terminal sliding modes," 
+Proceedings of 1996 IMACS‐IEEE Multi Conferences: Symposium on Control, Optimization and 
+Supervision, vol. 1, pp. 28‐31,Lille, France, July 1996. 
+268. Y. Xia, X. Yu, and W. Oghanna, "Switching control strategy for the inverter‐fed induction motor," 
+Proceedings of 1996 IMACS‐IEEE Multi Conferences: Symposium on Control, Optimization and 
+Supervision, vol. 2, pp. 768‐772, Lille, France, July 1996. 
+269. X. Yu, Z. Man, and B. Wu, "Adaptive sliding mode control for fuzzy systems," Proceedings of 1996 
+IMACS‐IEEE Multi Conferences: Symposium on Control, Optimization and Supervision, vol. 1, 
+pp.47‐52, Lille, France, July 1996. 
+270. X. Yu, and G. Ledwich, "Multi‐machine power systems stabilization using variable series 
+compensation," Proceedings of the 13th IFAC World Congress on Automatic Control (IFAC’96), 
+vol. F, pp.217‐222, San Francisco, USA, July 1996. 
+271. X. Yu, "Discretisation chaos in an oscillatory system under sliding mode control with finite 
+switching values," Proceedings of the 13th IFAC World Congress on Automatic Control 
+(IFAC’96), vol. O, pp. 241‐246, San Francisco, USA, July 1996. 
+272. B. Wu and X. Yu, "Fuzzy modelling using Genetic Algorithms,"  Proceedings of the First 
+International Discourse on Fuzzy Logic and The Management of Complexity, pp.273‐277,  
+Sydney, January 1996. 
+273. B. Wu and X. Yu, "Evolutionary computation solution of a hoist scheduling program," 
+Proceedings of the First International Discourse on Fuzzy Logic and The Management of 
+Complexity, pp.270‐272, 15‐18 January 1996, Sydney, 1996.  
+274. Z. Man, X. Yu, K. Ashraghian, and M. Palaniswami, "An adaptive supervisory controller for 
+nonlinear fuzzy logic control systems,"  Proceedings of the 3rd Australian & New Zealand 
+Conference on Intelligence Information Systems, pp. 198‐203, December 1995. 
+275. Z. Man, and X. Yu, "A robust model reference adaptive variable structure control scheme," 
+Proceedings of 1995 Australian Control Conference (CONTROL'95), pp. 453‐457, Melbourne, 
+Australia, 23‐25 October 1995. 
+276. Z. Man, X. Yu, and K. Ashraghian, "A robust adaptive sliding mode tracking control using a RBF 
+neural network for robotic manipulators," Proceedings of IEEE International Conference on 
+Neural Networks (IJCNN’95), pp. 2403‐2408, December 1995. 
+277. X. Yu, and Z. Man, "Adaptive learning in a neural network using sliding modes," Proceedings of 
+IEEE International Conference on Neural Networks and Signal Processing (ICNNSP’95), 
+pp.709‐712, Nanjing, China, December 1995. 
+278. X. Yu, and J.‐X. Xu, "Adaptive signal derivative estimation using terminal sliding modes," 
+Proceedings of IEEE International Conference on Neural Networks and Signal Processing 
+(ICNNSP’95), pp.182‐184, Nanjing, China, December 1995. 
+279. G. Ledwich, J. Fernandez‐Vargas, and X. Yu, "Switching control of multi‐machine power systems," 
+Stockholm Power Tech, Vol:Invited Sessions, pp.138‐142, June 1995. 
+280. X. Yu, "Controlling Lorenz Chaos," Proceedings of 1995 Australian Control Conference 
+(CONTROL'95), Melbourne, Australia, pp. 407‐409, October 1995.  
+281. X. Yu and Z. Man, "On the adaptation law for estimation of upper bound of uncertainty for sliding 
+mode control," Proceedings of 1995 Australian Control Conference (CONTROL'95),  Melbourne, 
+Australia, pp. 103‐105, October 1995. 
+282. M. Mohammadian, X. Yu and R.J. Stonier, "Tuning and optimization of membership functions of 
+fuzzy logic controllers by genetic algorithms," Proceedings of 3rd International Workshop of 
+Robot and Human Communication (RWRHC’95), Nagoya, Japan, pp.362‐367, July 1995. 
+283. X. Yu, G. Ledwich and H. Sira‐Ramirez, "An adaptive switching control strategy for the 
+stabilization of a power system,"   Proceedings of the 3rd International Workshop on Robust 
+Control via Variable Structure and Lyapunov Techniques (VSS’94), pp. 336‐341, Italy, September 
+1994. 
+284. X. Yu, "Sampling period selection for digital variable structure control," Proceedings of IFAC 
+12th World Congress on Automatic Control (IFAC’93), vol. 2, pp.357‐360, Sydney, July 1993. 
+285. X. Yu, "Conditions for the existence of discrete‐time sliding mode," Invited paper, Proceedings of 
+IFAC 12th World Congress on Automatic Control (IFAC’93), vol.10, pp.47‐50, Sydney, July 1993. 
+286. M. Mohammadian, X. Yu, and J.D. Smith, "A case study of knowledge acquisition: from 
+connectionist learning to an optimized fuzzy knowledge base," Proceedings of  2nd IEEE Int. 
+
+-----
+Workshop on Emerging Technologies & Factory Automation (ETFA’93), pp. 106‐111, Palm Cove 
+‐ Cairns, Australia, September 1993. 
+287. X. Yu, "Sampling period selection for the digital implementation of a variable structure control,"   
+Proceedings of the 32nd IEEE Conference on Decision and Control (CDC’93), pp.900‐902, USA, 
+December 1993. 
+288. X. Yu, "Digital sliding mode control of linear systems," Proceedings of the 2nd IEEE Int. 
+Workshop on Variable Structure and Lyapunov Control of Uncertain Dynamical Systems 
+(VSS’92), pp.191‐196, Sheffield, UK, September 1992. 
+289. X. Yu, "Sliding mode model‐following control of nonlinear dynamic systems," Proceedings of the 
+2nd IEEE International Workshop on Variable Structure and Lyapunov Control of Uncertain 
+Dynamical Systems (VSS’92), pp.197‐201, Sheffield, UK, September 1992. 
+290. X. Yu, "Chaos in discrete variable structure systems," Proceedings of the 31st IEEE Conference 
+on Decision and Control (CDC’92), pp.1862‐1863, vol.2, Arizona, December 1992. 
+291. X. Yu and R.B. Potts, "A class of  discrete  variable  structure systems,"   Proceedings of the 30th 
+IEEE Conference on Decision and Control (CDC’91), vol.2, pp.1367‐1372, Brighton, U.K., 
+December 1991. 
+292. X. Yu and R.B. Potts, "Discrete VSS control for a cylindric robot," Proceedings of the 1st IEEE 
+International Workshop on Variable Structure Systems (VSS’90), Sarajevo, Yugoslavia, 
+pp.98‐109, March 1990. 
+293. X.G. Cheng and X. Yu, "A new model of discrete event dynamic systems," Proceedings of 
+International Conference on Systems Engineering (ICSE’88), Beijing, 1988. 
+294. X.G. Cheng and X. Yu, "Modelling and analysis of discrete event dynamic systems," Proceedings 
+of IEEE International Conference on Systems, Man and Cybernetics (SMC’88), vol.2, 
+pp.998‐1001, Beijing/Shenyan, 1988. 
+295. X. Yu and C.‐B. Feng, "Design of  variable structure control systems,"   Proceedings of the 8th 
+IFAC Symposium on Identification and System Parameter Estimation, vol.2, pp.928‐931, Beijing, 
+1988. 
+296. X. Yu and C.‐B. Feng, "A Lyapunov approach for the design of variable structure systems," 
+Proceedings of the 10th IFAC World Congress on Automatic Control (IFAC’87), vol.8, 
+pp.321‐325, Munich, 1987. 
+ 
+ 
+
+-----

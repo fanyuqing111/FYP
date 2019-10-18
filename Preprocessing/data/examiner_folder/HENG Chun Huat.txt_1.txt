@@ -1,0 +1,433 @@
+Heng Chun Huat
+Associate Professor
+PhD UIUC; 2003
+MEng NUS; 1999
+BEng(Hons) NUS; 1996
+(65) 
+6516 1628
+Click here to Email (mailto:elehch{at}nus.edu.sg?body=Please 
+adjust the {at} to the correct symbol in the TO: email address 
+(anti SPAM measure).)
+Professional Working Experience
+1997-1998 Senior Tutor at National University of Singapore 
+2001-2003 IC Designer at Wireless Interface Technologies, US 
+2003-2004 IC Designer at Chrontel, US 
+2013-2014 Area Director for ICES 
+2014-present Associate Head (UG Programme) 
+Professional Activities
+IEEE Senior Member 
+Associate Editor for IEEE Transactions on Circuits and Systems II: Expres
+s Briefs 2011-2013 
+Technical Program Committee Member for International Solid-State Circuits
+ Conference 
+Technical Program Committee Member for Asian Solid-State Circuits Confere
+nce 
+Technical Program Committee Co-Chair for Radio Frequency Integration Tech
+nology 2012 
+Technical Program Committee Member for IEEE International Wireless Sympos
+ium 2013 
+University Design Contest Chair for Asia and South Pacific Design Automat
+ion Conference 2014
+Page 1 of 13
+ECE@NUS
+10/4/2017
+https://www.ece.nus.edu.sg/staff/web.asp?id=elehch
+
+-----
+Research Interest
+1.  RF and Mixed-Signal CMOS IC 
+2.  VLSI implementation of DSP
+3.  Spice modeling and circuit applications of novel devices 
+4.  OPC for IC mask design flow
+Patents Granted
+1. D. Kang, C. H. Heng, "Complex digital signal channel select filter for
+ analog cable television," US Patent, No. 7463874, granted Dec. 2008. 
+2. S. J. Cheng, Y. Gao, C. H. Heng, "Transmitter," US Patent, No. 9148323
+ B2, granted Sep. 2015. 
+3. S. J. Cheng, Y. Gao, Y. Zheng, C. H. Heng, "Frequency shift keying tra
+nsmitter," US Patent, No. 9331878 B2, granted May 2016. 
+4. Z. Luo, B. Lau, C. H. Heng, Y. Lian, "Ultra low voltage ring oscillato
+r with redundant inverter," US Patent, No. 9698763 B1, granted July 2017.
+Page 2 of 13
+ECE@NUS
+10/4/2017
+https://www.ece.nus.edu.sg/staff/web.asp?id=elehch
+
+-----
+Selected Publications
+Page 3 of 13
+ECE@NUS
+10/4/2017
+https://www.ece.nus.edu.sg/staff/web.asp?id=elehch
+
+-----
+Journal Papers
+1.  C. H. Heng and B. S. Song, "1.8-GHz CMOS fractional-N frequency synth
+esizer with randomized multiphase VCO," IEEE J. of Solid-State Circuits,  
+Vol. 38, pp. 848-854, June 2003. 
+2.  T. Cho, D. Kang, C. H. Heng, B. S. Song, "2.4GHz dual-mode 0.18um CMO
+S transceiver for Bluetooth and 802.11b," IEEE J. of Solid-State Circuits
+,  
+Vol. 39, pp. 1916-1926, Nov. 2004. 
+3.  C. H. Heng, D. Kang, M. gupta, S. Lee, B. S. Song, "A CMOS TV tuner/d
+emodulator IC with digital image rejection," IEEE J. of Solid-State  
+Circuits, Vol. 40, pp. , Dec. 2005. (Invited)
+4.  J. Lin, E. H. Toh, C. Shen, D. Sylvester, C. H. Heng, G. Samudra, Y. 
+C. Yeo, "Compact HSPICE model for IMOS device," Electronics Letters, Vol.
+44, pp. 91-92, Jan. 2008. 
+5.  S. Diao, Y. Zheng, C. H. Heng, "A CMOS ultra low power and highly eff
+icient UWB-IR transmitter for WPAN applications," IEEE Trans. on Circuits
+and Systems II, vol. 56, pp. 200-204, Mar. 2009. 
+6.  Y. Hong, Y. Yang, L. Yang, G. S. Samudra, C. H. Heng,and Y. C. Yeo, "
+SPICE behavioral model of the tunneling field-effect transistor for  
+circuit simulation," IEEE Trans. On Circuits and Systems II, vol. 56, no.
+ 12, pp. 946-950, Dec. 2009. 
+7.  S. H. Teh, C. H. Heng, and A. Tay, "Performance-based optical proximi
+ty correction methodology," IEEE Trans. On Computer-Aided Design of  
+Integrated Circuits and Systems, vol. 29, pp. 51-64, no. 1, Jan. 2010. 
+8.  S. H. Teh, C. H. Heng, and A. Tay, "Adaptive library-based device per
+formance-driven optical proximity correction," Electronics Letters, vol.  
+46, no. 7, pp. 513-515, Apr. 2010. 
+9.  P. Guo, Y. Yang, G. S. Samudra, C. H. Heng, and Y. C. Yeo, "Temperatu
+re independent current biasing employing TFET," Electronics Letters, vol.
+46, no. 11, pp. 786-787, May. 2010. 
+10. K. Kang, F. Lin, D. D. Pham, J. Brinkhoff, C. H. Heng, Y. Guo, and X.
+ Yuan, "60-GHz OOK receiver with an on-chip antenna in 90nm CMOS," IEEE J
+.  
+of Solid-State Circuits, vol.45, pp.1720-1731, Sep. 2010.  
+11. S. J. Cheng, L. Qiu, Y. Zheng, C. H. Heng,"50-250MHz DS DLL for Clock
+ Synchronization," IEEE J. of Solid-State Circuits, vol.45, pp.2445-2456,
+Nov. 2010. 
+12. M. Nair, Y. Zheng, C. W. Ang, Y. Lian, X. Yuan, and C. H. Heng, "A lo
+w SIR impulse-UWB transceiver utilizing chirp FSK in 0.18um CMOS," IEEE J
+.  
+Page 4 of 13
+ECE@NUS
+10/4/2017
+https://www.ece.nus.edu.sg/staff/web.asp?id=elehch
+
+-----
+of Solid-State Circuits, vol.45, pp.2388-2403, Nov. 2010. 
+13. C. H. Heng, A. Bansal, and Y. Zheng, "Design of 1.94GHz CMOS noise ca
+ncellation VCO," IEEE. Trans. on Microwave Theory and Techniques, vol. 59
+,  
+pp. 368-374, Feb. 2011. 
+14. Y. Gao, Y. Zheng, S. Diao, C. W. Ang, M. Je, and C. H. Heng, "Low pow
+er ultra-wideband wireless telemetry transceiver for medical sensor  
+applications," IEEE Trans. on Biomedical Engineering, vol. 58, pp. 768-77
+2, Mar. 2011. 
+15. W. D. Toh, Y. Zheng, and C. H. Heng,"Low power digital baseband for i
+mpulse radio ultra-wideband transceiver," Circuits, Systems and Signal  
+Processing, vol. 31, no. 1, pp. 223-235, Feb. 2012. 
+16. S. Diao, Y. Zheng, Y. Gao, S. J. Cheng, X. Yuan, M. Je, C. H. Heng, "
+A 50Mbps CMOS QPSK/O-QPSK Transmitter Employing Injection Locking for  
+Direct Modulation," IEEE Trans. on Microwave Theory and Techniques, vol. 
+60, no. 1, pp.120-130, Jan. 2012. 
+17. M. Izad, C. H. Heng, "A Pulse Shaping Technique for Spur Suppression 
+in Injection-Locked Synthesizers," IEEE J. of Solid-State Circuits, vol.  
+47, pp.652-664, Mar. 2012. 
+18. I. M. Darmayuda, Y. Gao, M. T. Tan, S. J. Cheng, Y. Zheng, M. Je, C. 
+H. Heng, "A self-powered power conditioning IC for piezoelectric energy  
+harvesting from short duration vibrations," IEEE Trans. on Circuits and S
+ystems II, vol. 59, pp. 578-582, Sep. 2012. 
+19. J. Tan, C. H. Heng, Y. Lian, "Design of Efficient Class-E Power Ampli
+fiers for Short-Distance Communications," IEEE Trans. on Circuits and  
+Systems I, vol. 59, pp. 2210-2220, Oct. 2012. 
+20. L. Wang, Y. Lian, C. H. Heng, "3~5GHz 4-channel UWB beamforming trans
+mitter with 1-degree phase resolution through calibrated vernier delay  
+line in 0.13-um CMOS," IEEE J. of Solid-State Circuits, vol. 47, pp. 3145
+-3159, Dec. 2012. (Invited)
+21. L. Zhou, M. Annamalai, J. Koh, M. Je, L. Yao, and C. H. Heng, "A crys
+tal-less temperature independent reconfigurable transmitter targeting for
+high temperature wireless acoustic telemetry applications," IEEE Trans. o
+n Circuits and Systems II, pp. 542-546, Sep. 2013. 
+22. Y. Gao, S. J. Cheng, W. D. Toh, Y. S. Kwok, K. C. Tan, X. Chen, W. M.
+ Mok, H. H. Win, B. Zhao, S. Diao, C. Alper, Y. Zheng, S. Sun, M. Je, and
+C. H. Heng, "An asymmetrical QPSK/OOK transceiver SoC and 15:1 JPEG encod
+er IC for multifunction wireless capsule endoscopy," IEEE J. of Solid- 
+State Circuits, pp. 2717-2733, Nov. 2013.(Invited)
+23. J. Tan, W. S. Liew, C. H. Heng, and Y. Lian, "A 2.4 GHz ULP Reconfigu
+rable Asymmetric Transceiver for Single-Chip Wireless Neural Recording  
+IC," IEEE Trans. on BioCAS, vol. 8, no. 4, pp. 497-509, Aug. 2014. 
+24. L. Wang, C. H. Heng, Y. Lian, "A Sub-GHz Mostly Digital Impulse Radio
+ UWB Transceiver for Wireless Body Sensor Networks," IEEE JETCAS, vol. 4,
+no. 3, pp. 344-353, Sep. 2014. 
+Page 5 of 13
+ECE@NUS
+10/4/2017
+https://www.ece.nus.edu.sg/staff/web.asp?id=elehch
+
+-----
+25. Y. Zheng, Y. Zhu, C. W. Ang, Y. Gao, and C. H. Heng, "A 3.54 nJ/bit-R
+X, 0.671 nJ/bit-TX Burst Mode Super-Regenerative UWB Transceiver in 0.18- 
+um CMOS," IEEE Trans. on Circuits and Systems I, vol. 61, no. 8, pp. 2473
+-2481, Aug. 2014. 
+26. X. Liu, M. Izad, L. Yao, and C. H. Heng, "A 13-pJ/bit 900-MHz QPSK/16
+-QAM transmitter with band shaping for biomedical application," IEEE J. o
+f  
+Solid-State Circuits, vol. 49, no. 11, pp. 2408-2421, Nov. 2014.(Invited)
+27. L. Zhou, M. Annamalai, M. Je, L. Yao, C. H. Heng, "A fully integrated
+ temperature-independent reconfigurable acoustic transmitter with digital
+on-chip resistor temperature coefficient calibration for oil drilling app
+lication," IEEE Trans. on Circuits and Systems II, vol. 62, no. 6, pp.  
+810-813, Jun. 2015. 
+28. J. Nankoo and C. H. Heng, "A digitally-assisted error compensation gr
+ouping method for element matching improvement in data converters," Analo
+g  
+Integrated Circuits and Signal Processing,vol. 83, no. 2, pp. 231-242, Ma
+y 2015. 
+29. C. J. Deepu, X. Zhang, C. H. Heng, and Y. Lian, "A 3-lead ECG-on-chip
+ with QRS detection and lossless compression for wireless sensors," IEEE  
+Trans. on Circuits and Systems II, no. 12, pp. 1151-1155, Dec. 2016. 
+30. C. J. Deepu, C. H. Heng, Y. Lian, "A hybrid data compression scheme f
+or power reduction in wireless sensors for IoT," IEEE Trans. on BioCAS,  
+pp. 1-10, Nov. 2016. 
+31. K. H. Teng, T. Wu, X. Liu, Z. Yang, C. H. Heng, "A 400MHz wireless ne
+ural signal processing IC with 625x on-chip data reduction and  
+reconfigurable BFSK/QPSK transmitter based on sequential injection lockin
+g," IEEE. Trans on BioCAS, 547-557, May 2017. 
+32. K. H. Teng and C. H. Heng, "A 370pJ/b multi-channel BFSK/QPSK transmi
+tter using injection-locked fractional-N synthesizer for wireless  
+biotelemetry devices," IEEE J. of Solid-State Circuits, pp. 867-880, Jan.
+ 2017. 
+Page 6 of 13
+ECE@NUS
+10/4/2017
+https://www.ece.nus.edu.sg/staff/web.asp?id=elehch
+
+-----
+Conference Papers
+Page 7 of 13
+ECE@NUS
+10/4/2017
+https://www.ece.nus.edu.sg/staff/web.asp?id=elehch
+
+-----
+1.  C. H. Heng and B. S. Song, "1.8GHz CMOS fractional-N frequency synthe
+sizer with randomized multiphase VCO," Proc. CICC, pp. 427-430, May 2002. 
+2.  T. Cho, D. Kang, S. Dow, C. H. Heng, B. S. Song, "2.4GHz dual-mode 0.
+18um CMOS transceiver for Bluetooth and 802.11b," ISSCC Dig. Tech. Papers
+,  
+Feb. 2003, pp. 88-89. 
+3.  C. H. Heng, M. Gupta, S. Lee, D. Kang, B. S. Song, "CMOS TV tuner/dem
+odulator IC with digital image rejection," ISSCC Dig. Tech. Papers, pp.  
+432-433, Feb. 2005. 
+4. C. W. Ang, Y. Zheng, C. H. Heng, "A multi-band CMOS low noise amplifie
+r for multi-standard wireless receivers," Proc. ISCAS, pp., May 2007.  
+5. S. H. Teh, C. H. Heng, A. Tay, "Device performance-based OPC for optim
+al circuit performance and mask cost reduction," SPIE Proceedings, Vol.  
+6925, Mar. 2008. 
+6. S. H. Teh, C. H. Heng, A. Tay, "Design-process integration for perform
+ance-based OPC framework," Proc. of 45th DAC, pp. 522-527, Jun. 2008. 
+7. Y. Gao, Y. Zheng, C. H. Heng, "Low-power CMOS RF front-end for non-coh
+erent UWB-IR receiver," Proc. ESSCIRC, pp. 386-389, Sept. 2008. 
+8. A. Bansal, Y. Zheng, C. H. Heng, "2GHz CMOS noise cancellation VCO," P
+roc. ASSCC, pp. 461-464, Nov. 2008.  
+9. S. J. Cheng, Y. Zheng, C. H. Heng, "1.1 to 1.9GHz CMOS VCO for Tuner A
+pplication with Resistively Tuned Variable Inductor," Proc. RFIC, pp. 87- 
+90, June 2009. 
+10. S. Diao, Y. Zheng, Y. Gao, X. Yuan, C. H. Heng, "3-5GHz IR-UWB timed 
+array transmitter in 0.18um CMOS," Proc. ASSCC, pp. 365-368, Nov. 2009. 
+11. D. D. Pham, J. Brinkhoff, K. Kang, C. W. Ang, F. Lin, C. H. Heng, "Fe
+edforward technique for offset cancellation in broadband differential  
+amplifiers," Proc. ISIC, pp. 429-432, Dec. 2009. 
+12. K. Kang, D. D. Pham, J. Brinkhoff, C. H. Heng, F. Lin, X. Yuan, "A po
+wer efficient 60GHz 90nm CMOS OOK receiver with an on-chip antenna," Proc
+.  
+RFIT, pp. 36-39, Dec. 2009. 
+13. C. H. Heng, A. Bansal, S. J. Cheng, "Techniques for improving CMOS VC
+O performance," Proc. RFIT, pp. 182-186, Dec. 2009. (Invited)
+14. Y. Zheng, S. Diao, C. W. Ang, Y. Gao, F. C. Choong, Z. Cheng, X. Liu,
+ Y. S. Wang, X. Yuan, C. H. Heng, "A 0.92/5.3nJ/b UWB impulse radio SoC  
+for communication and localization," ISSCC Dig. Tech. Papers, pp. 230-231
+, Feb. 2010. 
+15. Y. Zheng, Y. Gao, S. Diao, C. W. Ang, D. Han, and C. H. Heng, "Advanc
+e on pulse-based UWB integrated transceiver circuits and systems: Invited
+paper," Proc. ICUWB, pp. 1-4, Sep. 2010. 
+16. J. Brinkhoff, F. Lin, K. Kang, D-D Pham, and C. H. Heng, "A 60 GHz he
+terodyne quadrature transmitter with a new simplified architecture in 90n
+m  
+CMOS," Proc. ASSCC, pp. 293-296, Nov. 2010. 
+17. S. Diao, Y. Zheng, Y. Gao, X. Yuan, M. Je, and C. H. Heng, "A 5.9mW 5
+0Mbps CMOS QPSK/O-QPSK transmitter employing injection locking for direct
+Page 8 of 13
+ECE@NUS
+10/4/2017
+https://www.ece.nus.edu.sg/staff/web.asp?id=elehch
+
+-----
+modulation," Proc. ASSCC, pp. 37-40, Nov. 2010.  
+18. S. Diao, Y. Zheng, Y. Gao, C. H. Heng, M. Je, "A 7.2mW 15Mbps ASK CMO
+S transmitter for ingestible capsure endoscopy," Proc. APCCAS, pp. 512- 
+515, Dec. 2010. 
+19. Y. Gao, Y. Zheng, S. Diao, Y. Zhu, C. H. Heng, "An Integrated beamfor
+mer for IR-UWB receiver in 0.18-um CMOS," Proc. ISCAS, pp.1548-1551, May  
+2011. 
+20. W. D. Toh, B. Zhao, Y. Gao, Y. Zheng, M. Je, C. H. Heng, "A Low Power
+ JPEG Image Compression IC for Wireless Ingestible Endoscopy," Proc. ISIC
+,  
+pp. 396-399, Dec. 2011. 
+21. A. Cabuk, Y. Gao, S. Diao, Y. Zheng, M. Je, C. H. Heng,"Low-Power Wir
+eless Receivers for Healthcare Applications," Proc. ISIC, pp.  356-359,  
+Dec. 2011. 
+22. L. Wang, Y. X. Guo, Y. Lian, C. H. Heng, "3-to-5GHz 4-Channel UWB Bea
+mforming Transmitter with 1 deg Phase Resolution through Calibrated  
+Vernier Delay Line in 0.13um CMOS," ISSCC Tech. Dig. Paper, pp. 444-445, 
+Feb. 2012. 
+23. M. Izad and C. H. Heng, "A 17pJ/bit 915MHz 8PSK/O-QPSK transmitter fo
+r high data rate biomedical applications," Proc. CICC, pp. 1-4, Sep. 2012
+.  
+(Intel/Analog Devices/Catalyst Foundation CICC Student Scholarship Award
+recipient for being one of the highest rated student paper, 6th 
+TSMC OSR Award Commendation Prize )
+24. Y. Gao, S. J. Cheng, W. D. Toh, Y. S. Kwok, K. C. Tan, X. Chen, W. M.
+ Mok, B. Zhao, S. Diao, C. Alper, Y. Zheng, S. Sun, M. Je, C. H. Heng, "A
+QPSK/OOK transceiver SoC and JPEG encoder chipset for multifunction wirel
+ess capsule endoscope," Proc. ASSCC, pp. 341-344, Nov. 2012. 
+25. Y. Gao, X. Liu, Y. Zheng, S. Diao, W. Toh, Y. Wang, B. Zhao, M. Je, C
+. H. Heng, "A low power interference robust IR-UWB transceiver SoC for  
+WBAN applications," Proc. RFIT, pp. 153-155, Nov. 2012. 
+26. S. J. Cheng, Y. Gao, W. D. Toh, Y. Zheng, M. Je, C. H. Heng, "A 110pJ
+/b multi-channel FSK/GMSK/QPSK/pi/4-DQPSK transmitter with phase- 
+interpolated dual-injection DLL-based synthesizer employing hybrid FIR," 
+ISSCC Dig. Tech. Papers, pp. 450-451, Feb. 2013. 
+27. C. H. Heng, Y. Gao, M. Izad, S. Diao, S. J. Cheng, Y. Zheng and M. Je
+, "Energy efficient transmitters for high data rate biomedical  
+applications," IEEE International Wireless Symposium, pp. 1-4, Apr. 2013.
+(Invited)
+28. X. Liu, M. Izad, L. Yao, and C. H. Heng, "A 13-pJ/bit 900-MHz QPSK/16
+-QAM transmitter with band shaping for biomedical application," Proc.  
+ASSCC, pp. 189-192, Nov. 2013.(2013 ASSCC Student Design Contest Runner U
+p)
+29. L. Zhou, M. Annamalai, W. K. Han, L. Sutha, Y. L. Guan, M. Je, L. Yao
+, and C. H. Heng, "25 to 300 degree celcius 80bps acoustic transmitter  
+based on crystal-less temperature-independent frequency reference with di
+Page 9 of 13
+ECE@NUS
+10/4/2017
+https://www.ece.nus.edu.sg/staff/web.asp?id=elehch
+
+-----
+fferential modulation for drilling noise power cancellation," Proc. ASSCC
+,  
+pp. 456-456, Nov. 2013. 
+30. Y. Gao, D. I. Made, S. J. Cheng, M. Je, C. H. Heng, "An energy-autono
+mous piezoelectric energy harvester interface circuit with 0.3V startup  
+voltage," Proc. ASSCC, pp. 445-448, Nov. 2013. 
+31. S. Diao, Y. Wang, C. Wang, F. Lin, C. H. Heng, "VCO Design for Low-Po
+wer, High-Efficiency Transmitter Applications," Proc. RFIT, pp. 1-4, Aug.
+2014. (Invited)
+32. L. Wang, Y. Lian and C. H. Heng, "A 1.44mm2 4-Channel UWB Beamforming
+ Receiver with Q-Compensation in 65nm CMOS," Proc. ASSCC, pp. 253-256,  
+Nov. 2014. 
+33. X. Liu, Y. Gao, W. D. Toh, S. J. Cheng, M. Je, and C. H. Heng, "A 103
+ pJ/bit Multi-channel Reconfigurable GMSK/PSK/16-QAM Transmitter with  
+Band-shaping," Proc. ASSCC, pp. 269-272, Nov. 2014. 
+34. L. Wang, C. H. Heng, and Y. Lian, "CMOS UWB Beamforming Radar System,
+" ICECS, pp. 810-813, Dec. 2014.(Invited)
+35. L. Wang, C. H. Heng, Y. Lian, "A sub GHz Mostly Digital BPSK IR UWB T
+ransceiver," Proc. ISCAS, pp. 1242-1245, May 2015. 
+36. X. Meng, L. Zhou, F. Lin, and C. H. Heng, "390-640MHz Tunable Oscilla
+tor based on Phase Interpolation with -120dBc/Hz in-band Noise," Proc.  
+CICC, pp. 1-4, Sep. 2015. 
+37. K. H.Teng, T. Wu, X. Liu, Z. Yang, and C. H. Heng, "A 400-MHz Wireles
+s Neural Signal Processing IC with 625x on-Chip Data Reduction and  
+Reconfigurable BFSK/QPSK Transmitter Based on Sequential Injection Lockin
+g," Proc. ASSCC, pp. 1-4, Nov. 2015. 
+38. K. Ali, F. Li, Y. H. Lua, C. H. Heng, "Compact spin transfer torque n
+on-volatile flip flop design for power-gating architecture," Proc. APCCAS
+,  
+pp. 119-122, Oct. 2016. 
+39. W. Mao, Y. Li, C. H. Heng, and Y. Lian, "Dynamic mapping method for s
+tatic and dynamic performance improvement on current-steering digital-to- 
+analog converter," Proc. APCCAS, pp. 336-339, Oct. 2016. 
+Tutorials and Workshop
+1. Biomedical Circuits and Systems Conference, "Energy efficient high dat
+a rate 
+transmitters for biomedical applications," Nov. 2012. 
+2. International Wireless Symposium, "Reconfigurable energy efficient tra
+nsmitter with 
+Page 10 of 13
+ECE@NUS
+10/4/2017
+https://www.ece.nus.edu.sg/staff/web.asp?id=elehch
+
+-----
+band-shaping and multi-channel support," Mar. 2015. 
+Book Chapter
+1. Yuan Gao, Xin Liu, Yuanjin Zheng, Shengxi Diao, Weida Toh, Yisheng Wan
+g, Bin Zhao, Minkyu Je and Chun-Huat Heng, "A Low Power Interference Robu
+st  
+IR-UWB Transceiver SoC for WBAN Applications," Book Chapter in Ultra-Wide
+band and 60 GHz Communication for Biomedical Applications, pp. 23-44, 201
+4,  
+by Springer. 
+2. Chun-Huat Heng and Yuan Gao, "Energy Efficient High Data Rate Transmit
+ter for Biomedical Applications," Book Chapter in Wireless Transceiver  
+Circuits - System Perspectives and Circuit Aspects, pp. 371-401, 2015, by
+ CRC Press. 
+3. Chun-Huat Heng, Yuan Gao, "Energy Efficient High Data Rate Transmitter
+ for Biomedical Applications," Book Chapter in Wireless Medical Systems  
+and Algorithms: Design and Applications, pp. 189-218, 2016, by CRC Press. 
+Page 11 of 13
+ECE@NUS
+10/4/2017
+https://www.ece.nus.edu.sg/staff/web.asp?id=elehch
+
+-----
+Research Students Supervised
+Ph. D students
+Cheng San Jeow (with DSO, Singapore)
+Amit Bansal (with IME, Singapore)
+Mehran Izad (with Qualcomm, San Diego)
+John Serge Nankoo (with Schlumberger, Singapore)
+Liu Xiayun (with Xilinx, Singapore)
+Zhou Lianhong (with Global Foundries, Shanghai) 
+Teh Siew Hong (with Micron, Singapore)
+Tan Jun (with Qualcomm, San Diego)
+Wang Lei (with NXP, Singapore)
+Teng Kok Hin (with HiSilicon, Singapore)
+Tao Jingcheng
+Luo Zhihong (Global Foundries, Singapore)
+Luo Yuxuan
+M. Eng students
+Qiu Lin
+Ang Chyuen Wei (with Micron, Singapore)
+Toh Wei Da (with IME, Singapore)
+Saisundar Sankaranarayanan (with IME, Singapore)
+Li Yunming
+Chan Pozan
+Awards
+Teaching
+1. 2015 ATEA Honour Roll 
+2. 2014/2015 Faculty of Engineering Commendation List 
+3. 2013/2014 NUS Annual Teaching Excellence Award 
+4. 2013/2014 Faculty of Engineering Honours List 
+5. 2010/2011 NUS Annual Teaching Excellence Award 
+6. 2010/2011 Faculty of Engineering Honours List 
+7. 2009/2010 Faculty of Engineering Honours List 
+8. 2008/2009 Faculty of Engineering Innovative Teaching Award 
+9. 2008/2009 Faculty of Engineering Commendation List 
+10. 2007/2008 NUS Annual Teaching Excellence Award 
+11. 2007/2008 Faculty of Engineering Honours List 
+12. 2006/2007 Faculty of Engineering Commendation List 
+Page 12 of 13
+ECE@NUS
+10/4/2017
+https://www.ece.nus.edu.sg/staff/web.asp?id=elehch
+
+-----
+Teaching Courses
+EE6506 Advanced Integrated Circuit Design 
+EE5507 Analog IC Analysis and Design
+EE4434 Integrated Circuit Technology, Design and Testing 
+EE2005 Electronics 
+EE2005E Electronics
+EE2021 Devices and Circuits 
+EE2031 Circuits and Systems Design Lab
+Page 13 of 13
+ECE@NUS
+10/4/2017
+https://www.ece.nus.edu.sg/staff/web.asp?id=elehch
+
+-----

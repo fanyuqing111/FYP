@@ -1,0 +1,855 @@
+Prof. Nikhil R. Pal, 
+Prof. Nikhil R. Pal, Ph.D., FIETE, FNASc., FNAE, 
+FNA, FIFSA, FTWAS, FIEEE
+President, IEEE Computational Intelligence Society (2018-2019)
+Vice-President for Publications, IEEE Computational Intelligence 
+Society (2013-2016)
+INAE Chair Professor (2015-2016) 
+President, IEEE Computational Intelligence Society (2018-2019)
+Vice-President for Publications, IEEE Computational Intelligence 
+Society (2013-2016)
+INAE Chair Professor (2015-2016) 
+Electronics and Communication Sciences Unit (ECSU) 
+Indian Statistical Institute 
+203 B T Road, Calcutta - 700108
+Telephones : 25752906, 25752910 
+Fax : + 91-33-2577-6680, 2577-3035
+E-mail : nikhil@isical.ac.in
+To know more about me:
+• A tribute to my "teachers" who mattered the most (in The 
+Mind of an Engineer)
+• 5 Minutes with Prof. Nikhil R. Pal (IEEE CIS Newsletter 
+Interview)
+Page 1 of 1
+Prof. Nikhil R. Pal
+4/29/2019
+https://www.isical.ac.in/~nikhil/main.htm
+
+-----
+List of publications of Dr. Nikhil R. Pal
+Books
+1. Evolutionary and Swarm Intelligence Algorithms, Springer Verlag, (Co-editors J. Bansal
+and P. Singh), 2018.
+2. Advanced Techniques in Data mining and Knowledge discovery, Springer Verlag, (co-
+editor L. C. Jain), 2005.
+3. Neural Information Processing- ICONIP 2004, Springer Verlag, LNCS 3316, (Co-editor N.
+Kasabov, R Mudi, S. Pal and S. Parui), 2004.
+4. Advances in Soft Computing - AFSS 2002, Springer Verlag, LNAI 2275, 2002 (Co-editor
+M. Sugeno)
+5. Pattern Recognition in Soft Computing Paradigm, World Scientific, FLSI Vol. 2, 2001
+(Editor)
+6. Fuzzy Models and Algorithms for Pattern Recognition and Image Processing, Kluwer
+Academic Publisher, 1999, (co-authored with J. C.Bezdek, J. M. Keller and R. Krishnapuram)
+7. Advances in Pattern Recognition and Digital Techniques- ICAPRDT’
+99, Narosa Pub-
+lishing Co., India, 1999 (Co-editors A. K. De and J. Das)
+Journal publications:
+1. Huaqin Zhang, Jian Wang, Zhanquan Sun, Jacek M. Zurada, and Nikhil R. Pal, Feature Selection
+for Neural Networks Using Group Lasso Regularization, IEEE Transactions on Knowledge and
+Data Engineering, 2019, to appear
+2. Hao Zhang, Nikhil R. Pal, Yin Sheng, and Zhigang Zeng, Distributed Adaptive Tracking Synchro-
+nization for Coupled Reaction-Diffusion Neural Network IEEE Transactions on Neural Networks
+and Learning Systems Accepted.
+3. Jian Wang, Qingquan Chang, Qin Chang, Yusong Liu and Nikhil R. Pal, Weight noise injection-
+based MLPs with group lasso penalty: Asymptotic Convergence and application to node pruning,
+IEEE Transactions on Cybernetics, 2018, to appear.
+4. Tao Gao, Jian Wang, Bingjie Zhang, Huaqing Zhang, Peng Ren, and Nikhil R. Pal, A Polak-
+Ribi`
+ere-Polyak conjugate gradient-based neuro-fuzzy network and its convergence, IEEE Access,
+Vol. 7, pp 41551 - 41565, 2018, DOI: 10.1109/ACCESS.2018.2848117.
+5. Kaustuv Nag, Tandra Pal, Rajani K. Mudi, and Nikhil R. Pal, Robust Multiobjective Optimiza-
+tion with Robust Consensus, IEEE Trans. on Fuzzy Systems, 2018, DOI: 10.1109/TFUZZ.2018.2848261.
+6. Ignacio Montes, Nikhil R. Pal, and Susana Montes, Entropy Measures for Atanassov intuitionistic
+fuzzy sets based on divergence, Soft Computing, August 2018, Volume 22, Issue 15, pp 50515071,
+DOI https://doi.org/10.1007/s00500-018-3318-3
+7. Bikram Karmakar, Nikhil R Pal, How to make a neural network say Dont know. Information
+Sciences.Vol 430-431, pp 444-466, March 2018
+8. R. Panja and N. R. Pal, MS-SVM: Minimally Spanned Support Vector Machine, Applied soft
+Computing, DOI 10.1016/j.asoc.2017.12.017, Vol 64; pp 356-365 March 2018.
+9. C-T Lin, T-Y Hsieh, Y-T Liu,Y-Y Lin, C-N Fang, Y-K Wang, G Yen, N. R. Pal, C-H Chuang,
+Minority Oversampling in Kernel Adaptive Subspaces for Class Imbalanced Datasets, IEEE Trans.
+on Knowledge and Data Engineering, DOI 10.1109/TKDE.2017.2779849, Nov 2017.
+10. Liu, Yu-Ting, Nikhil R. Pal, Amar R. Marathe, Yu-Kai Wang, and Chin-Teng Lin.
+”Fuzzy
+Decision-Making Fuser (FDMF) for Integrating Human-Machine Autonomous (HMA) Systems
+with Adaptive Evidence Sources.” Frontiers in neuroscience, 11 (332), DOI: https://doi.org/10.3389/fnins.2017.0033
+2017.
+
+-----
+11. G. Ochoa, I. Lizasoain, D. Paternain, H. Bustince, and Nikhil R Pal, From quantitative to qualita-
+tive orness for Lattice OWA operators, International Journal of General Systems, doi:10.1080/03081079.2017.1319364
+Vol. 46(6), pp 640-669, 2017.
+12. Chung, I-Fang, Yi-Cheng Chen, and Nikhil Pal. ”Feature selection with controlled redundancy in a
+fuzzy rule based framework.” IEEE Transactions on Fuzzy Systems, 10.1109/TFUZZ.2017.2688358,
+March 2017.
+13. P. Dey, K. Nag, T. Pal, and Nikhil R. Pal,Regularizing Multi-Layer Perceptron for Robustness,
+IEEE Trans. on Systems, Man, and Cybernetics: Systems, 10.1109/TSMC.2017.2664143, Febru-
+ary 2017.
+14. Yu-Ting Liu, Nikhil R. Pal, Shang-Lin Wu, Amar Marathe and Chin-Teng Lin, Weighted Fuzzy
+Dempster-Shafer Framework for Multi-Modal Information Integration, IEEE Transactions on
+Fuzzy Systems, DOI 10.1109/TFUZZ.2017.2659764, January 2017.
+15. Prantik Chatterjee and Nikhil R. Pal, Construction of synergy networks from gene expression
+data related to disease, GENE, May 21, 2016. doi: 10.1016/j.gene.2016.05.029.
+16. A. Pathak and Nikhil R. Pal,Clustering of mixed data by integrating fuzzy, probabilistic and
+collaborative clustering framework, International Journal of Fuzzy Systems, 2016, 10.1007/s40815-
+016-0168-y
+17. Prantik Chatterjee, and Nikhil R. Pal, Discovery of synergistic genetic network: a minimum
+spanning tree-based approach. Journal of bioinformatics and computational biology, Vol. 14 (1),
+2016, pp 1650003-19, DOI: 10.1142/S0219720016500037.
+18. K. Sarkar, P. Chatterjee and Nikhil R. Pal, Finding synergy networks from gene expression data: a
+fuzzy rule based approach, IEEE Transactions on Fuzzy systems, DOI 10.1109/TFUZZ.2016.2540062,
+2016
+19. P. Singh, Nikhil R. Pal,S Verma, and O P Vyas, Fuzzy Rule-Based Approach for Software Fault
+Prediction, IEEE Transactions on Systems, Man and Cybernetics: Systems, 2DOI 10.1109/TSMC.2016.2521840,
+2015
+20. C-S Huang,Nikhil R. Pal,C-H Chuang,and C-T Lin, Identifying Changes in EEG Information
+Transfer during Drowsy Driving by Transfer Entropy, Frontiers in Human Neuroscience, 2015,
+DOI: 10.3389/fnhum.2015.00570; October 2015, .
+21. Monami Banerjee and Nikhil R Pal, Unsupervised Feature Selection with Controlled Redun-
+dancy (UFeSCoR), IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING,
+doi:10.1109/TKDE.2015.2455509, Vol. 27 (12) pp 3390-3403; 2015.
+22. Ignacio Montes, Vladimir Janis, Nikhil R. Pal, and Susana Montes, Local Divergences for Intu-
+itionistic Fuzzy Sets, IEEE Transactions on Fuzzy systems, DOI 10.1109/TFUZZ.2015.2457447,
+2015
+23. Swapna Agarwal, Pradip Ghanty, Nikhil R. Pal, Identification of a small set of plasma signalling
+proteins using neural network for prediction of Alzheimer’
+s disease, Bioinformatics, 31(15), 2015,
+pp 25052513, doi: 10.1093/bioinformatics/btv173
+24. Kaustuv Nag and Nikhil R Pal, A Multiobjective Genetic Programming based Ensemble for Simul-
+taneous Feature Selection and Classification, IEEE Transactions on Cybernetics, DOI 10.1109/TCYB.2015.2404806,
+Vol. 46 (2), PP 499-510; 2016.
+25. Hsei-Wei Wang, Hsing-Jen Sun, Ting-Yu Chang, Hung-Hao Lo, Wei-Chung Cheng, George C
+Tseng, Chin-Teng Lin, Shing-Jyh Chang, Nikhil Ranjan Pal and I-Fang Chung,Discovering mono-
+tonic stemness marker genes from time-series stem cell microarray data, BMC Genomics, January
+2015, 16 (Suppl 2):S2 doi:10.1186/1471-2164-16-S2-S2v
+26. Kaustuv Nag, Tandra Pal, Nikhil R Pal, ASMiGA: An Archive-Based Steady-State Micro Genetic
+Algorithm,IEEE Transactions on Cybernetics, vol.45, no.1, pp.40,52, Jan. 2015, doi: 10.1109/TCYB.2014.2317693
+27. Santiago Garcia-Jimenez,Humberto Bustince, Eyke H¨
+ullermeier, Radko Mesiar, Nikhil R. Pal,
+and Ana Pradera, Overlap indices: construction of and application to interpolative fuzzy systems,
+IEEE Transactions on Fuzzy systems, DOI: 10.1109/TFUZZ.2014.2349535, Vol 23(4); PP 1259-
+1273, 2015.
+
+-----
+28. Yang-Yin Lin, Nikhil R. Pal, and Chin-Teng Lin, An Interval Type-2 Neural Fuzzy System for
+Online System Identification and Feature Elimination (IT2NFS-SIFE), IEEE Transactions on
+Neural Networks and Learning Systems, DOI: 10.1109/TNNLS.2014.2346537, Vol 26 (7), PP 1442-
+1455, 2015.
+29. Sen Bong Gee, Kay Chen Tan, Vui Ann Shim, and Nikhil R. Pal, Online Diversity Assessment
+in Evolutionary Multiobjective Optimization: A Geometrical Perspective, IEEE Transactions on
+Evolutionary Computation, DOI: 10.1109/TEVC.2014.2353672, pp 542 - 559, VOL. 19, NO. 4,
+AUGUST 2015.
+30. Amit Singh, Amar Kishore, and Nikhil R. Pal, Stancu OWA Operator, IEEE Transactions on
+Fuzzy systems, Vol 23 (4), PP 1306-1313, DOI 10.1109/TFUZZ.2014.2336696, 2015.
+31. Rudrasis Chakraborty and Nikhil R Pal, Sensor (Feature-Group) Selection with Controlled Redun-
+dancy in a Connectionist Framework, International Journal of Neural Systems, Vol. 24(6):1450021.
+doi: 10.1142/S012906571450021X ,2014.
+32. Pulak Purkait, Nikhil R Pal,and Bhabatosh Chanda A Fuzzy-Rule Based Approach for Single
+Frame Super Resolution, IEEE Transactions on Image Processing, VOL. 23, NO. 5, MAY 2014,
+pp 2277-2290, 2014.
+33. Ignacio Montes, Nikhil R. Pal, Vladimir Janis, and Susana Montes, Divergence Measures for
+Intuitionistic Fuzzy Sets, IEEE Transactions on Fuzzy systems, VOL. 23, NO. 2, pp 444-456,
+APRIL 2015, DOI:10.1109/ TFUZZ.2014.2315654.
+34. S Chakraborty, A Konar, A Ralescu and N R Pal, A Fast Algorithm to Compute Precise Type-2
+Centroids for Real-Time Control Applications, IEEE Transactions on Cybernetics, VOL. 45, NO.
+2, FEBRUARY 2015, pp 340-353, DOI: 10.1109/TCYB.2014.2308631.
+35. Rudrasis Chakraborty and Nikhil R. Pal, Feature Selection Using a Neural Framework with
+Controlled Redundancy, IEEE Transactions on Neural Networks and Learning Systems, Vol. 26,
+No. 1, January 2015, pp 35-50, DOI 10.1109/TNNLS.2014.2308902.
+36. Monami Banerjee and Nikhil R Pal, Feature Selection with SVD Entropy: some modification and
+extension, Information Science, Volume 264, 20 April 2014, Pages 118-134, DOI: http://dx.doi.org/
+10.1016/j.ins.2013.12.029
+37. Amar Kishore, Amit Singh and Nikhil R. Pal, Orness Measure of OWA Operators:A New Ap-
+proach, IEEE Transactions on Fuzzy Systems,Vol 22, No. 4, pp 1039-1045, 2014, DOI: 10.1109/TFUZZ.2013.2282299
+38. P. Ghanty, Nikhil R. Pal and R. K. Mudi, PREDICTION OF PROTEIN SECONDARY STRUC-
+TURE USING PROBABILITY BASED FEATURES AND A HYBRID SYSTEM, Journal of
+Bioinformatics and Computational Biology, Vol 11, Issue 5: 1350012-1:25, October 2013, DOI:
+10.1142/S0219720013500121
+39. Nikhil R. Pal and Kaushik Sarkar, What and when can we gain from the kernel versions of c-
+means algorithm?, IEEE Transactions on Fuzzy systems, VOL. 22, NO. 2, pp 363-379, APRIL
+2014, DOI 10.1109/TFUZZ.2013.2255612.
+40. Yang-Yin Lin, Jyh-Yeong Chang, Nikhil R. Pal, Chin-Teng Lin. A Mutually Recurrent Inter-
+val Type-2 Neural Fuzzy System (MRIT2NFS) with Self-evolving Structure and Parameters,
+IEEE Transactions on Fuzzy systems, Volume: 21 , Issue: 3, Page(s): 492 - 509, 2013, DOI:
+10.1109/TFUZZ.2013.2255613. .
+41. A. Chakraborty, A. Konar, Nikhil R. Pal and L. C. Jain, Extending the Contraposition Property
+of Propositional Logic for Fuzzy Abduction, IEEE Transactions on Fuzzy Systems, Vol 21, No 4,
+pp 719-734, DOI 10.1109/TFUZZ.2012.2230006, August 2013.
+42. A. Halder, A. Konar, R. Mandal, A. Chakraborty, P. Bhowmik1, Nikhil R. Pal, and A. K. Nagar,
+General and Interval Type-2 Fuzzy Face-Space Approach to Emotion Recognition, IEEE Trans-
+actions on Systems, Man & Cybern.
+- Part A, Vol.
+43 , Issue: 3, Page(s): 587 - 605, May
+2013.
+43. N. R Pal, H Bustince, M Pagola, U K Mukherjee, D P Goswami, G Beliakov, Uncertainties
+with Atanassovs intuitionistic fuzzy sets: Fuzziness and lack of knowledge, Information Science,
+Volume 228, 10 April 2013, Pages 61V74, DOI 10.1016/j.ins.2012.11.016
+
+-----
+44. Nikhil R. Pal and R. Panja, Finding Short Structural motifs for Re-Construction of Proteins 3D
+Structure, Applied Soft Computing, Vol. 13, pp 1214 - 1221, 2013.
+45. D. P. Muni and Nikhil R. Pal, Evolution of Fuzzy Classifiers Using Genetic Programming, Fuzzy
+Information Engineering, Vol. 4, No. 1, pp 29-50, 2012, DOI 10.1007/s12543-012-0099-8.
+46. Chun-Hung Su, Nikhil R. Pal, Ken-Li Lin, I-Fang Chung, Identification of Amino Acid Propensi-
+ties That Are Strong Determinants of Linear B-cell Epitope Using Neural Networks, PLoS ONE
+7(2): e30617. doi:10.1371/journal.pone.0030617, 2012.
+47. Rajesh Kumar, Nikhil R. Pal, Bhabatosh Chanda and J. D. Sharma, Forensic Detection of Fraud-
+ulent Alteration in Ball-Point Pen Strokes, IEEE Transactions on Information Forensics & Se-
+curity, DOI 10.1109/TIFS.2011.2176119, Vol. 7(2), PP 809-820,2012.
+48. Yi-Cheng Chen, Nikhil R. Pal, and I-Fang Chung, Integrated mechanism for feature selection and
+fuzzy rule extraction for classification, IEEE Transactions on Fuzzy Systems, Volume: 20 , Issue:
+4 Page(s): 683 - 698, 2012, DOI 10.1109/TFUZZ.2011.2181852.
+49. Tsai Y-S, Aguan K, Pal NR, Chung I-F (2011), Identification of Single- and Multiple-Class Specific
+Signature Genes from Gene Expression Profiles by Group Marker Index, PLoS ONE 6(9): e24259.
+doi:10.1371/journal.pone.0024259
+50. Y-C Chen , K Aguan, C-W Yang, Y-T Wang, N R Pal, Discovery of Protein Phosphoryla-
+tion Motifs through Exploratory Data Analysis. PLoS ONE 6(5): e20025. doi:10.1371/ jour-
+nal.pone.0020025, 2011.
+51. G. Beliakov; Humberto Bustince; D. P. Goswami; U. K. Mukherjee; Nikhil R. Pal, On Averaging
+Operators for Atanassov’
+s Intuitionistic Fuzzy Sets, Information Sciences, 181, 6, pp 1116?124,
+March, 2011, doi:10.1016/j.ins.2010.11.024
+52. K-L. Lin, C-T. Lin, and Nikhil R. Pal Incremental Mountain Clustering Method to Find Building
+Blocks for Constructing Structures of Proteins, IEEE Transactions on NanoBioscience, Vol. 9,
+No. 4 , pp 278-288, December 2010.
+53. A. Saxena, Nikhil R. Pal and M. Vora, Evolutionary Methods for Unsupervised Feature Selection
+Using Sammons Stress Function, Fuzzy Information and Engineering - An International Jour-
+nal,Vol. 2, 3, pp 229-247, 2010, DOI 10.1007/s12543-010-0047-4.
+54. P. Ghanty and Nikhil R. Pal, Prediction of Protein Folds : Extraction of New Features, Dimension-
+ality Reduction, and Fusion of Heterogeneous Classifiers, IEEE Transactions on NanoBioscience,
+2009 Vol. 8(1, pp 100-110, D.O.I 10.1109/TNB.2009.2016488
+55. P. Ghanty, S. Paul and Nikhil R. Pal, NEUROSVM: An Architecture to Reduce the Effect of the
+Choice of Kernel on the Performance of SVM, Jour of Machine Learning Research, 10, 2009, pp
+591-622.
+56. Yu-Shuen Tsai, Chin-Teng Lin, I-Fang Chung, Nikhil R. Pal and George C. Tseng, Discovery of
+Dominant and Dormant Genes from Expression Data Using a Novel Generalization of SNR for
+Multi-class Problems, BMC Bioinformatics, 2008, 9:425doi:10.1186/1471-2105-9-425
+57. Nikhil R. Pal and S. Saha, Simultaneous structure identification and fuzzy rule generation for
+Takagi-Sugeno models, IEEE Trans.
+Syst., Man and Cybern.
+-B, Volume: 38, Issue: 6, pp:
+1626-1638, 2008, DOI : 10.1109/TSMCB.2008.2006367 .
+58. Nikhil R. Pal, C. Y. Chuang, L. W. Ko, C. F. Chao, T. P. Jung, S. F. Liang, and C. T. Lin,
+EEG-based Subject- and Session-independent Drowsiness Detection: An Unsupervised Approach,
+EURASIP Journal on Advances in Signal Processing, Vol.
+2008 (2008), Article ID 519480,
+doi:10.1155/2008/519480
+59. K. Lin, C. T. Lin, Nikhil R. Pal, and S. Ojha,Construction of Protein 3-D Structures Using a
+Structural Variant of Mountain Clustering Method, IEEE Engineering and Medicine in Biology
+Magazine, JULY/AUGUST 2009, pp 38-44, 2009.
+60. Nikhil R. Pal, A. Sharma and S. Sanadhyaa, Deriving meaningful rules from gene expression data
+for classification, Journal of Intelligent & Fuzzy Systems, Vol. 19, No. 3, pp 171-180, 2008
+
+-----
+61. P. Ghanty, M. Vasudevan, D.P. Mukherjee1, Nikhil R. Pal, N. Chandrasekhar, V. Maduraimuthu,
+A.K. Bhaduri, P. Barat, and Baldev Raj, An Artificial Neural Network Approach for Estimating
+Weld Bead Width and Depth of Penetration from Infrared Thermal Image of Weld Pool,Science
+and Technology of Welding and Joining, Vol. 13(4) pp 395-401, 2008.
+62. P. Ghanty, S. Paul, A. Roy, D. P. Mukherjee, Nikhil R. Pal, M. Vasudevan, H. Kumar, and A.K.
+Bhaduri, A Fuzzy Rule Based Approach for Predicting Weld Bead Geometry in Gas Tungsten
+Arc Welding,Science and Technology of Welding and Joining, VOL 13, NO 2, pp 167-175, 2008.
+63. D. Chakraborty and Nikhil R. Pal, Selecting Useful Groups of Features in a Connectionist Frame-
+work, IEEE Transactions on Neural Networks, vol 19, no 3, pp. 381-396, 2008.
+64. Nikhil R. Pal, B. Bhowmick, S. K. Patel, S. Pal and J. Das, A Multi-Stage Neural Network Aided
+System for Detection of Microcalcifications in Digitized Mammograms, Neurocomputing, Vol. 71,
+pp 2625-2634, 2008, DOI 10.1016/j.neucom.2007.06.015
+65. P. Ghanty, S. Paul, D. P. Mukherjee, M. Vasudevan, Nikhil R. Pal and A.K. Bhaduri, Modelling
+Weld Bead Geometry Using Neural Networks for GTAW of an Austenitic Stainless Steel, Science
+and Technology of Welding and Joining, vol. 12, no. 7, pp. 649-658,Oct 2007.
+66. A. Laha, B. Chanda and Nikhil R. Pal, Fast codebook searching in a SOM-based vector quantizer
+for image compression,Signal Image and Video Processing,(DOI 10.1007/s11760-007-0034-3) Vol.
+2, No. 1, pp 39-49, 2007
+67. S. S. Bagui, S. C. Bagui, Nikhil R. Pal and M. A. Matin, Comparison between k-NN and k-RNN
+classification rules: A monte carlo simulation study, Journal of Statistical Research,41(1), 69-79,
+2007.
+68. Nikhil R. Pal, S. Sanadhya and A. Sharma, Computation of consensus hydrophobicity scales
+with self-organizing maps and fuzzy clustering along with applications to protein fold prediction,
+Journal of Neural, Parallel and Scientific Computation, Vol. 15, No. 1, pp 75-90, 2007
+69. Nikhil R. Pal, K. Aguan, A. Sharma and S. Amari, Discovering biomarkers from gene expression
+data for predicting cancer subgroups using neural networks and relational fuzzy clustering, BMC
+Bioinformatics, 8:5, 2007.
+70. J. M. Keller, J C. Bezdek, M Popescu, N R Pal, J A. Mitchell, and J Huband, Gene ontology sim-
+ilarity measures based on linear order statistics, International Journal of Uncertainty, Fuzziness
+and Knowledge-based Systems Vol. 14, No. 6 (2006), pp. 639 - 661.
+71. Nikhil R. Pal, A. K. Mandal , Srimanta Pal, J. Das, and V. Lakshmanan, Fuzzy Rule Based
+Approach for Detection of Bounded Weak Echo Regions in Radar Images, Journal of Applied
+Meteorology and Climatology, Vol. 45, No. 9, pp 1304-1312, 2006.
+72. A. Laha, Nikhil R. Pal and J. Das, Land cover classification using fuzzy rules and aggregation of
+contextual information through evidence theory, IEEE Trans. Geoscience and Remote Sensing,
+Vol. 24, No. 6, pp 1633-1641, 2006.
+73. Nikhil R. Pal, A. Sharma, S. Sanadhya and Karmeshu, Identifying Marker Genes from Gene
+Expression Data in a Neural Framework through Online Feature Analysis, International Journal
+of Intelligent Systems, Volume 21, Issue 4, April 2006, Pp: 453-467
+74. A. Ghosh, Nikhil R. Pal and J. Das, A fuzzy rule based approach to cloud cover estimation,
+Remote Sensing of Environment Volume 100, Issue 4 , 28 February 2006, Pages 531-549.
+75. S. Pal, S. Bhattacharya, and N R. Pal, A novel connectionist framework for computation of an
+approximate convex hull of a set of planer points, circles and ellipses International Journal of
+Neural Systems, Vol. 16, No. 1, pp 15-28, 2006.
+76. N R Pal, James M. Keller, M Popescu, J C. Bezdek, J A. Mitchell, and J Huband, Gene Ontology-
+based Knowledge Discovery Through Fuzzy Cluster Analysis, Neural, Parallel and Scientific Com-
+putations, pp 337-362, vol 13, 2005.
+77. D. Muni, Nikhil R. Pal and J. Das, Genetic Programming for Simultaneous Feature Selection and
+Classifier Design, IEEE Trans. Systems, Man and Cybern - B, Vol. 36, pp 106-117, Feb. 2006.
+
+-----
+78. Nikhil R. Pal, K. Pal, J. Keller and J. Bezdek, A Possibilistic Fuzzy c- Means Clustering Algorithm,
+IEEE Transactions on Fuzzy Systems, Vol. 13, No. 4, pp 517-530, 2005.
+79. Nikhil R. Pal, A. Laha and J. Das, Designing fuzzy rule based classifier using self-organizing feature
+map for analysis of multispectral satellite images, International Journal of Remote Sensing, Vol.
+26, No. 10, 2219?240, May 2005,
+80. K. Pal, Nikhil R. Pal, J. Keller and J. Bezdek, Relational Mountain (Density) clustering method
+and web log analysis, International Journal of Intelligent Systems, Vol 20, No. 3, pp 375-392,
+2005
+81. S. Pal, Nikhil R. Pal and A. Dutta, A multilayer Dynamic Neural Network for Convex-Hull
+Computation, Neural, Parallel and Scientific Computations, Vol. 12, pp 505-520, 2004.
+82. A. Laha, Nikhil R. Pal and B. Chanda, Design of vector quantizer for image processing using
+self-organizing feature map and surface fitting, IEEE Trans. Image Processing, Vol. 13, No. 10,
+pp 1291-1303, 2004
+83. Nikhil R. Pal, R. Mudi, K. Pal, and D. Patranabish, Rule extraction to exploratory data analysis
+for self-tuning fuzzy controllers, Int. Jour. Fuzzy Systems, Vol 6, No. 2, pp 71-80, 2004
+84. D. Muni, Nikhil R. Pal and J. Das, A novel approach to design classifiers using genetic program-
+ming, IEEE Trans. on Evolutionary Computation, Vol 8, No. 2, pp 183- 196, 2004
+85. N R Pal, S Pal, J Das and K. Majumder, SOFM-MLP : A Hybrid Neural Network for Atmospheric
+Temperature Prediction, IEEE Trans. Geoscience and Remote Sensing, Vol. 41, No. 12, 2783-
+2791, 2003
+86. D. Chakraborty and Nikhil R. Pal, A neuro-fuzzy scheme for simultaneous feature selection and
+fuzzy rule-based classification, IEEE Trans. Neural Networks, Vol. 15, No. 1, pp 110-123, 2004.
+87. C. D. Huang, C. T. Lin and Nikhil R. Pal, Hierarchical learning architecture with automatic
+feature selection for multiclass protein fold classification, IEEE Trans. on Nanobioscience, Vol.
+2, No. 4, pp 221- 232, 2003.
+88. S. Pal and N. R.Pal, Connectionist models for approximate solutions of non-linear equations in
+one variable, Neural, Parallel and Scientific Computation, Vol. 11, pp 185-206, 2003.
+89. T. Pal and N. R.Pal, SOGARG : A self-organized genetic algorithm based rule generation scheme
+for fuzzy controllers, IEEE Trans. Evolutionary Computation, Vol. 7, No. 4, pp 397-415, 2003.
+90. Nikhil R. Pal and R. K. Mudi, Computational intelligence for decision-making systems., Int. Jour.
+Intell. Systems, Vol. 18, No. 5, 483-486, 2003.
+91. T. Pal, Nikhil R. Pal and M. Pal, Learning Fuzzy Rules for Controllers with Genetic Algorithms
+Int. Jour. Intell. Systems, Vol. 18, No. 5, 2003, 569-592.
+92. D. Chakraborty and Nikhil R. Pal, A novel training scheme for multilayered perceptrons to realize
+proper generalization and incremental learning , IEEE Trans. Neural Networks, Vol. 14, No. 1,
+pp 1-14, 2003.
+93. S. Bagui, S. Bagui, K. Pal, and Nikhil R. Pal, Breast cancer detection using rank-nearest classi-
+fication rules, Pattern recognition, Vol. 36, pp 25-34, 2003.
+94. Nikhil R. Pal and Srimanta Pal, Computational Intelligence for Pattern Recognition, Int. Jour.
+Patt. Recogn. Artificial Intell., Vol. 16, No. 7, 773-779,2002.
+95. S. Raha, Nikhil R. Pal and K. S. Ray, Similarity based approximate reasoning : methodology and
+application, IEEE Trans. Systems, Man and Cybern - A, Vol 32, No. 4, pp 541-547, 2002.
+96. Nikhil R. Pal and J. C. Bezdek,Complexity reduction for large image processing, IEEE Trans. on
+Systs., Man and Cybern.- B, Vol 32, No. 5, pp 598-611,2002.
+97. K. Pal, R. Mudi and Nikhil R. Pal, A new scheme for fuzzy rule based system identification and its
+application to self-tuning fuzzy controllers, IEEE Trans. Systems Man and Cybern - B, Volume
+32, No. 4, pp 470-482, 2002.
+
+-----
+98. Nikhil R. Pal, E. Vijay Kumar and G. Mandal, Fuzzy logic approaches to structure preserving
+dimensionality reduction, IEEE Trans. Fuzzy Systems Vol 10, No. 3, pp 277 -286, 2002.
+99. S. Chakraborty, K. Pal and Nikhil R. Pal, A neuro-fuzzy framework for inferencing, Neural Net-
+works, Vol. 15, pp 247-261, 2002.
+100. S. Pal, A. Dutta and Nikhil R. Pal, A multilayer self-organizing model for convex hull computation,
+IEEE Trans. Neural Networks, Vol. 12 (6), pp 1341-1347, 2001.
+101. A. Laha and Nikhil R. Pal, Some Novel Classifiers Designed Using Prototypes Extracted by a
+New Scheme Based on Self-Organizing Feature Map, IEEE Trans. on Systs., Man and Cybern.-
+B, Vol. 31, No. 6, pp 881-890, 2001
+102. K. Pal and Nikhil R. Pal, Connectionist models in material science : characterization of sorption
+properties of hydrogen storage materials, Neural Computing & Applications, Vol. 10, No. 4, pp
+195-205, 2001.
+103. Nikhil R. Pal, T. Cahoon, J. C. Bezdek, and K. Pal, A New Approach To Target Recognition for
+LADAR Data, IEEE Trans. Fuzzy Systems, Vol. 9, No. 1, pp 44-52, 2001.
+104. Nikhil R. Pal and S. Ghosh, Some Classification Algorithms Integrating Dempster-Shafer Theory
+of Evidence with the Rank Nearest Neighbor Rules, IEEE Trans. Syst., Man & Cybern.- A, Vol.
+31, No. 1, pp 59-66, 2001.
+105. D. Chakraborty and Nikhil R. Pal, Integrated feature analysis and fuzzy rule based system iden-
+tification in a neuro-fuzzy paradigm, IEEE Trans. Systems Man and Cybern - B, Vol. 31, No. 3,
+391-400, 2001
+106. R. Mudi and Nikhil R. Pal, A note on fuzzy PI-type controller with resetting action, Fuzzy Sets
+and Systems, Vol 121, No 1,pp 149-159, 2001.
+107. Nikhil R. Pal and S. Chakraborty, Fuzzy Rule Extraction from ID3 type Decision Trees for Real
+Data, IEEE Trans. Systems, Man and Cybern - Part B, Vol. 31, No. 5, pp 745-754, 2001
+108. Nikhil R. Pal and A. Laha, A multi-prototype classifier and its application to remotely sensed
+image analysis, Australian Jour. Intell. Infor Processing Systems, Vol. 6, No. 2, pp 110-118,
+2000.
+109. R. Mudi and Nikhil R. Pal, A self-tuning fuzzy PI controller, Fuzzy Sets and Systems, Vol. 115,
+No. 2, pp 327-338, 2000.
+110. Nikhil R. Pal and D. Chakraborty, Mountain and Subtractive clustering methods : Improvements
+and Generalizations, Int. Jour. Intell. Systems, Vol. 15, No. 4, pp 329-341, 2000.
+111. S. Biswas and Nikhil R. Pal, On hierarchical segmentation for image compression, Pattern Recog-
+nition Letter, Vol. 21, No. 2, pp 131 - 144, 2000.
+112. A. Dutta, S. Pal and Nikhil R. Pal, A connectionist model for convex hull, Neural Networks, Vol.
+13, No. 3, pp 377-384, 2000.
+113. A. Laha and Nikhil R. Pal, Dynamic generation of Prototypes with Self-Organizing Feature Maps
+for classifier design, Pattern Recognition, Vol. 34:2, pp. 315-321, 2001.
+114. R. Mudi and Nikhil R. Pal, A robust self-tuning scheme for PI and PD type fuzzy controllers,
+IEEE Trans. Fuzzy Systems, Vol. 7, No. 1, pp 2-16, 1999.
+115. Nikhil R. Pal, Soft Computing for Pattern Recognition, Fuzzy Sets and Systems, Vol. 103, pp
+197-200, 1999.
+116. Nikhil R. Pal, Soft Computing for Feature Analysis, Fuzzy Sets and Systems, Vol. 103, pp 201-221,
+1999.
+117. Nikhil R. Pal, On quantification of different facets of uncertainty, Fuzzy Sets and Systems, Vol.
+107, No. 1, pp 81-91, 1999.
+118. Nikhil R. Pal and T. Pal, On rule pruning using fuzzy neural networks, Fuzzy Sets and Systems,
+Vol. 106, No. 3, pp 335-347, 1999.
+
+-----
+119. Nikhil R. Pal and K. Pal, Handling of inconsistent rules with an extended model of fuzzy controller,
+Jour. Intell. and Fuzzy Systs., Vol. 7, pp 55-73, 1999.
+120. Nikhil R. Pal, G. Mandal and E. Vijay Kumar, A note on the fuzzy neural network of Kwan and
+Cai, IEEE Trans. Fuzzy Systems, Vol. 7, No. 4, pp 479-480, 1999.
+121. Nikhil R. Pal and C. Bose, Context sensitive inferencing and reinforcement type learning algo-
+rithms for fuzzy logic controllers, Jour. Knowledge Based Intell. Engg. Systs, Vol. 3, No. 4, , pp
+230-239, 1999
+122. J. C. Bezdek, J. M. Keller, R. Krishnapuram, L. I. Kuncheva, and Nikhil R. Pal, Will the real
+Iris data please stand up?, IEEE Trans. Fuzzy Systems, Vol. 7, No. 3, pp 368-369, 1999.
+123. K. Pal and Nikhil R. Pal, A neuro-fuzzy system for inferencing, Int. Journal of Intell. Systems,
+Vol. 14, no. 11, pp 1155-1182, 1999.
+124. J. C. Bezdek and Nikhil R. Pal, Some new indices of cluster validity, IEEE Trans. Syst., Man
+and Cybern., Vol. 28, No. 3, pp 301-315, 1998.
+125. Nikhil R. Pal, S. Nandi and M. K. Kundu, Self-crossover : a new genetic operator and its appli-
+cation to feature selection, Int. Jour. of Syst. Science , Vol. 29, No. 2, pp 207-212, 1998.
+126. Nikhil R. Pal and K. Chintalapudi, A simple scheme for pruning a multilayer perceptron network,
+Jour Knowledge Based Intell. Engg. Systs, Vol. 2, No. 3, pp 145-163, 1998.
+127. K. Pal, Nikhil R. Pal and J. M. Keller, Some neural net realizations of fuzzy reasoning, Int.
+Journal of Intell. Systems, Vol. 13, pp 859-886, 1998.
+128. Nikhil R. Pal and E. Vijay Kumar, Two efficient connectionist schemes for structure preserving
+dimensionality reduction, IEEE Trans. Neural Networks Vo. 9, No. 6, pp 1142-1153, 1998.
+129. R. Mudi and Nikhil R. Pal, A self-tuning fuzzy PD controller, Journal of IETE, Vol. 44, No. 4-5,
+pp 177-189, 1998.
+130. K. Pal and Nikhil R. Pal, Learning of rule importance for fuzzy controllers to deal with inconsistent
+rules and for rule selection, Journal of Control and Cybernetics, Vol. 27, No. 4, pp 521-543, 1998.
+131. Nikhil R. Pal, S. Chakraborty and A. Bagchi, RID3 : An ID3 like algorithm for real data,
+Information Sciences - applications, Vol. 96, pp 271-290, 1997.
+132. Nikhil R. Pal and T. George, Metric structures on possibility distributions, Int.
+Jour.
+Gen.
+Systems, Vol. 25, No. 4, pp 389-398, 1997.
+133. Nikhil R. Pal and J. Biswas, Cluster validation using graph theoretic concepts, Pattern Recogni-
+tion, Vol. 30(6), pp 847-857, 1997.
+134. R. Hemasinha, Nikhil R. Pal and J. C. Bezdek, The determinant of a fuzzy matrix with respect
+to T- and and co T-norms, Fuzzy Sets and Systems, Vol. 87, pp 297-306, 1997.
+135. N. R.Pal and K. Chintalapudi, A connectionist system for feature selection, Neural, Parallel and
+Scientific Computation, Vol. 5, No. 3, pp 359-381, 1997.
+136. R. De, Nikhil R. Pal and S. K. Pal, Feature analysis : Neural network and fuzzy set theoretic
+approaches, Pattern Recognition Vol. 30, No. 10, pp 1579-1590, 1997.
+137. T. George and Nikhil R. Pal, Quantification of Conflict in Dempster-Shafer framework : a new
+approach, Int. Jour. Gen. Systems, Vol. 24, No. 4, pp 407-423, 1996.
+138. S. Biswas, Nikhil R. Pal and S. K.Pal, Smoothing of Digital Images Using the Concept of Diffusion
+Process, Pattern Recognition , Vol. 29, No. 3, pp 497-510, 1996.
+139. Nikhil R. Pal, On minimum cross entropy thresholding, Pattern Recognition, Vol. 29, No. 4 , pp
+575-580, 1996.
+140. Nikhil R. Pal, J. C. Bezdek and R. J. Hathaway, Sequential competitive learning and the fuzzy
+c-means clustering algorithms, Neural Networks , Vol. 9, No. 5, pp 787-796, 1996.
+141. N. Karayiannis, J. C. Bezdek, Nikhil R. Pal, R. J. Hathaway and P. I. Pai, Repairs to GLVQ :
+a new family of competitive learning Schemes, IEEE Trans. Neural Networks, Vol. 7, No. 5, pp
+1062-1071, 1996.
+
+-----
+142. J. Basak, Nikhil R. Pal and P. S. Patel, Thinning in binary and gray images, Journal of IETE
+Vol. 42, No. 4-5, pp 305-313, 1996.
+143. S. K. Pal and Nikhil R. Pal, Soft Computing : Goals, Tools and Feasibility, Journal of IETE Vol.
+42, No. 4-5, pp 195-204, 1996.
+144. J. C. Bezdek and Nikhil R. Pal, An index of topological preservation for feature extraction, Pattern
+Recognition, Vol. 28, No. 3, pp 381-391, 1995.
+145. J. Basak, Nikhil R. Pal and S. K. Pal, A connectionist system for learning and recognition of
+structures : application to handwritten characters, Neural Networks, Vol. 8, No. 4, pp 643-657,
+1995.
+146. A. Ghosh, Nikhil R. Pal and S. K. Pal, Modeling of component failure in neural networks for
+robustness evaluation : an application to object extraction, IEEE Trans. Neural Nets., Vol. 6,
+pp 648-656, 1995.
+147. S. Bagui and Nikhil R. Pal, A multistage generalization of the rank nearest neighbor classification
+rule, Pattern Recognition Letter , Vol. 16, pp 601-614, 1995.
+148. J. C. Bezdek and Nikhil R. Pal, A note on self-organizing semantic maps, IEEE Trans. neural
+networks Vol. 6, No. 5, pp 1029-1036, 1995.
+149. Nikhil R. Pal and J. C. Bezdek, On cluster validity for the fuzzy c-means model, IEEE Trans.
+Fuzzy Systs. , Vol. 3, No 3, pp 370-379, 1995.
+150. J. C. Bezdek and Nikhil R. Pal, Two relatives of learning vector Quantization, Neural Networks,
+Vol. 8, No. 5, pp 729-743, 1995.
+151. J. C. Bezdek, R. J. Hathaway and Nikhil R. Pal, Norm-induced shell-prototypes (NISP) clustering,
+Neural, Parallel and Scientific Computations , Vol. 3, pp 431-450, 1995.
+152. Nikhil R. Pal and J. C. Bezdek, Measuring Fuzzy Uncertainty , IEEE Trans. Fuzzy Syst., Vol. 2,
+No. 2, pp 107-118, 1994.
+153. A. Ghosh, Nikhil R. Pal and S.K. Pal, Neural Computing: An Introduction and Some Applications
+, J. Inst. Electron. Telecom. Engg., 35, pp 105-125, 1994.
+154. D. Bhandari, Nikhil R. Pal and S. K. Pal, Directed mutation in genetic algorithms, Information
+Sciences, Vol. 79, pp 251-270, 1994.
+155. Nikhil R. Pal, J. C. Bezdek and R. Hemasinha, Uncertainty measure for evidential reasoning - II
+: A new measure , Inter. Jour. Approximate Reasoning, Vol. 8, No. 1, pp 1-16, 1993.
+156. A. Ghosh, Nikhil R. Pal and S.K. Pal, Self-organization for Object Extraction using a Multilayer
+Neural Network and Fuzziness Measures , IEEE Trans. Fuzzy Systems, Vol. 1, No. 1, pp 54-68,
+1993.
+157. D. Bhandari and Nikhil R. Pal, Some new information measures for fuzzy sets , Information
+Sciences, Vol. 67, No. 3, pp 209-228, 1993.
+158. Nikhil R. Pal and S. K. Pal, A review on image segmentation, Pattern Recognition, Vol. 26, No.
+9, pp 1277-1294, 1993.
+159. Nikhil R. Pal and D. Bhandari, Image thresholding : some new techniques , Signal Processsing,
+Vol. 33, No. 2, pp 139-158, 1993.
+160. Nikhil R. Pal, P. Pal and A. K. Basu, A new shape representation scheme and its application to
+shape discrimination using a neural network , Pattern Recognition, Vol. 26, No. 4, pp 543-551,
+1993.
+161. Nikhil R. Pal, J. C. Bezdek and E. C. Tsao, Generalized clustering networks and Kohonen’
+s
+Self-organizing scheme , IEEE Trans. Neural Nets. , Vol. 4, No. 4, pp 549-557, 1993.
+162. R. Hemasinha, Nikhil R. Pal and J. C. Bezdek, Iterates of fuzzy circulant matrices , Fuzzy Sets
+and Systems, Vol. 60, pp 199-206, 1993.
+163. Nikhil R. Pal and S.K. Pal, Higher order fuzzy entropy and hybrid entropy of a set , Information
+Sciences, Vol. 61, No. 3, pp 211-231, 1992.
+
+-----
+164. Nikhil R. Pal and S.K. Pal, Some properties of the Exponential entropy , Information Sciences,
+Vol. 66, No.1-2, pp 119-137, 1992.
+165. A. Ghosh, Nikhil R. Pal and S.K. Pal, Object background classification using hopfield type neural
+network , Int. J. Patt. Recog. and Artificial Intell., Vol. 6, No. 5, pp 989-1008, 1992.
+166. D. Bhandari, Nikhil R. Pal and D. Dutta Majumder, Fuzzy divergence, probability measure of
+fuzzy events and image thresholding , Pattern Recognition Letters, Vol. 13, pp 857-867, 1992.
+167. Nikhil R. Pal and D. Bhandari, On object - background classification , Int. Jour. of Systems
+Sciences, Vol. 23, No. 11, pp 1903-1920, 1992.
+168. Nikhil R. Pal, J. C. Bezdek and R. Hemasinha, Uncertainty measure for evidential reasoning - I
+: A review , Inter. Jour. Approximate Reasoning, Vol. 7, No. 3,4, pp 165-183, 1992.
+169. Nikhil R. Pal and S.K. Pal, Image model, Poisson distribution and object extraction , Int. J.
+Patt. Recog. and Artificial Intell., Vol. 5, No. 3, pp 459-483, 1991.
+170. Nikhil R. Pal and S.K. Pal, Entropy: a new definition and its applications , IEEE Trans. Syst,
+Man and Cyberns., Vol. SMC-21, No. 5, pp 1260-1270, 1991.
+171. A. Ghosh, Nikhil R. Pal and S.K. Pal, Image segmentation using a neural network , Biological
+Cybernetics, Vol. 66, No. 2, pp 151-158, 1991.
+172. Nikhil R. Pal and S.K. Pal, Entropic thresholding , Signal Processing, Vol. 16, No. 2, pp 97-108,
+1989.
+173. Nikhil R. Pal and S.K. Pal, Object-background segmentation using new definitions of entropy ,
+IEE Proceedings-E, Vol. 136, No. 4, pp 284-295, 1989.
+174. S.K. Pal and Nikhil R. Pal, Segmentation using contrast and homogeneity measures , Pattern
+Recognition Letters, Vol. 5, No. 4, pp 293-304, 1987.
+175. S.K. Pal and Nikhil R. Pal, Segmentation based on measures of contrast, homogeneity, and region
+Size , IEEE Trans. Syst. Man and Cyberns., Vol. 17, No. 5, pp 857-868, 1987.
+Articles Published in Books/Edited Volumes/Referred Conference Proceed-
+ings
+176. Qin Chang, Junze Wang, Huaqing Zhang, Lina Shi, Jian Wang and Nikhil R. Pal, Structure Op-
+timization of Neural Networks with L1 Regularization on Gates, IEEE International Symposium
+Series on Computational Intelligence, SSCI 2018, November 18-21, Bangalore, accepted.
+177. Kaustuv Nag and Nikhil R. Pal. ”Genetic Programming for Classification and Feature Selection.”
+In Evolutionary and Swarm Intelligence Algorithms, pp. 119-141. Springer, Cham, 2018.
+178. Montes, Ignacio, Susana Montes, and Nikhil Pal. ”On the Use of Divergences for Defining En-
+tropies for Atanassov Intuitionistic Fuzzy Sets.” In Advances in Fuzzy Logic and Technology 2017,
+pp. 554-565. Springer, Cham, August 2017.
+179. Liu, Yu-Ting, Nikhil R. Pal, Shang-Lin Wu, Tsung-Yu Hsieh, and Chin-Teng Lin. ”Adaptive
+subspace sampling for class imbalance processing.” In Fuzzy Theory and Its Applications (iFuzzy),
+2016 International Conference on, pp. 1-5. IEEE, 2016.
+180. A. Guillon, M. J. Lesot, C. Marsala, and Nikhil R. Pal, Proximal Optimization for Fuzzy Subspace
+Clustering. International Conference on Information Processing and Management of Uncertainty
+in Knowledge-Based Systems, pp. 675-686, Springer International Publishing, 2016.
+181. Lu, C.L., Tang, W.C., Tsai, Y.S., Pal, N.R. and Chung, I.F., 2016, October. Feature Selection
+with Non-Linear Dependence Based on Multi-objective Strategy.
+In IEEE 16th International
+Conference on Bioinformatics and Bioengineering (BIBE), 2016, pp. 346-349, 2016
+182. Nikhil R. Pal, Fuzzy Rule Based Approaches to Dimensionality reduction, Perception and Machine
+Intelligence, PerMin 2012, LNCS 7143, 2012., Eds. M. K. Kundu, S. Mitra, D. Mazumdar and S.
+K. Pal
+
+-----
+183. Yu-Shuen Tsai, I-Fang Chung, Chin-Teng Lin, and Nikhil R. Pal, Identification of Different Sets
+of Biomarkers for Diagnostic Classification of Cancers, Neural Information Processing/ICONIP
+2007, Eds. M. Ishikawa, K. Doya, H. Miyamoto and T. Yamakawa, Vol. 4985/2008, pp 866-875,
+2008.
+184. D. Chakraborty and Nikhil R. Pal, ”Strict Generalization in Multilayered Perceptron Networks”,
+Foundations of Fuzzy Logic and Soft Computing, Proceedings of IFSA 2007, Lecture Notes in
+Artificial Intelligence (LNAI) 4529, pp. 722-731, 2007
+185. Nikhil R. Pal and D. Chakraborty, Some new features for protein fold prediction, in Artificial
+Neural Networks and Neural Information Processing - ICANN/ICONIP 2003, Eds.Kaynak, O.,
+Alpaydin, E., Oja, E., Xu, L. (Eds.) , Lecture Notes in Computer Science. Vol.. 2714 , Springer,
+pp. 1176 - 1183, 2003.
+186. C.-D. Huang, I-F. Chung, Nikhil R. Pal, and C. T. Lin, Machine Learning for Multi-class Protein
+Fold Classification Based on Neural Networks with Feature Gating, Artificial Neural Networks
+and Neural Information Processing - ICANN/ICONIP 2003, Eds.Kaynak, O., Alpaydin, E., Oja,
+E., Xu, L. (Eds.) , Lecture Notes in Computer Science. Vol.. 2714 , Springer, pp 1168 - 1175,
+2003
+187. Karmeshu and Nikhil R. Pal, Uncertainty, Entropy and Maximum Entropy Principle – An Overview,
+In Entropy Measures, Maximum Entropy Principle and Emerging Applications, Ed. Karmeshu,
+Springer-Verlag, 1-53, 2003
+188. D. P. Mandal and Nikhil R. Pal, On the utility of different entropy measures in image thresholding,
+In Entropy Measures, Maximum Entropy Principle and Emerging Applications, Ed. Karmeshu,
+Springer-Verlag, pp 177-198, 2003
+189. J. C. Bezdek, Nikhil R. Pal, T. Runkler, and K. Pal, Should tendency assessment precede rule
+extraction by clustering? (No!), in Advances in Computational Intelligence and Learning: Methods
+and Applications, eds. H. Zimmermann, G. Tslentis, M. V. Someren and G. Dounias, Kluwer,
+Norwell, MA, 17-41, 2002.
+190. Nikhil R. Pal and A. Sarkar, Extraction of fuzzy rules from numerical data for classifiers, Pattern
+Recognition in Soft Computing Paradigm, World Scientific, Ed. Nikhil R. Pal, pp 249-274, 2001.
+191. D. P. Mandal and Nikhil R. Pal, Non-Shannon entropies for image thresholding, Current Trends
+in Information theory, statistics and O. R., Ed. Om Prakash, Guru Nanak Dev University, India,
+pp 32-46, 2001
+192. K. Pal and Nikhil R. Pal, Fuzzy rule extraction for classifier design, Current Trends in Information
+theory, statistics and O. R., Ed. Om Prakash, Guru Nanak Dev University, India, pp 47-59, 2001
+193. Nikhil R. Pal and J. C. Bezdek, Quantifying different facets of fuzzy uncertainty, Handbook of
+Fuzzy Sets , Kluwer Academic Publishers, Eds. D. Dubois & H. Prade, pp 459-480, 2000.
+194. Nikhil R. Pal and D. Chakraborty, Simultaneous feature analysis and system identification in a
+neuro-fuzzy framework, Neuro-fuzzy Pattern Recognition, Eds. H. Bunke and A. Kandel, World
+Scientific, pp 3-22, 2000.
+195. Nikhil R. Pal, Connectionist approaches for feature analysis, Neuro-Fuzzy Tools and Techniques,
+Physica-Verlag, Heidelberg, pp 147-167, 1999 Eds. N. Kasabov and R. Kozma
+196. M. K. Kundu and Nikhil R. Pal, Self-crossover and its application to the travelling salesman
+problem, Lecture Notes in Artificial Intelligence 1611 Eds. I. Imam, Y. Kodratoff, A. El-Dessouki,
+and M. Ali, pp 326-332, 1999.
+197. Nikhil R. Pal and E. Vijay Kumar, Neural networks for dimensionality reduction, Progress in
+Connectionist-Based Information Systems, Proc. Fourth Int. Conf. Neural Info. Processing,
+ICONIP’
+97, Ed. Kasabov et al. , Springer, New Zealand, Vol. 1, pp 221-224, 1997
+198. Nikhil R. Pal Neural networks for feature selection (invited) Progress in Connectionist-Based
+Information Systems, Proc. Fourth Int. Conf. Neural Info. Processing, ICONIP’
+97, Ed. Kasabov
+et al., Springer, New Zealand, pp 1121-1124, Vol. 2, 1997
+
+-----
+199. Nikhil R. Pal and S. Chakraborty, A hierarchical algorithm for classification and its tuning by
+genetic algorithm, Proc. Fourth Int. Conf. Neural Info. Processing, ICONIP’
+97, Ed. Kasabov
+et al., Springer, New Zealand, Vol. 1, pp 404-407, 1997
+200. Nikhil R. Pal and C. Bose, Adaptive fuzzy controllers with rule dependent inferencing, Method-
+ologies for the conception, design, and applications of intelligent systems - 4th Int. Conf. Soft
+Computing, IIZUKA’
+96, Eds. T. Yamakawa and G. Matsumoto, World Scientific, pp 350-353,
+1996
+201. K. Pal and Nikhil R. Pal, A flexible fuzzy controller with relative importance of rules, Method-
+ologies for the conception, design, and applications of intelligent systems - 4th Int. Conf. Soft
+Computing, IIZUKA’
+96, Eds. T. Yamakawa and G. Matsumoto, World Scientific, pp 398-401,
+1996
+202. Nikhil R. Pal and S. Mukhopadhyay, A psychovisual fuzzy reasoning edge detector, Methodologies
+for the conception, design, and applications of intelligent systems - 4th Int. Conf. Soft Computing,
+IIZUKA’
+96, Eds. T. Yamakawa and G. Matsumoto, World Scientific, pp 201-204, 1996
+203. J. C. Bezdek, Nikhil R. Pal, Cluster validity with generalized Dunn’
+s indices, Proc. 1995 2nd
+NZ Int. Two-Stream Conf. on ANNES, 1995, Eds. N. Kasabov and G. Coghill, IEEE Press,
+Piscataway, NJ, pp 190-193, 1995
+204. Nikhil R. Pal and J. C. Bezdek, Measures of fuzziness : a review and several new classes, Fuzzy
+sets, Neural nets and Soft computing, Eds. R. R. Yager and L. A. Zadeh, ITP - Van Nostrand
+Reinhold, NY, pp 194-212, 1994.
+205. A. Ghosh, Nikhil R. Pal and S.K. Pal, Neural Network, Gibbs Distribution and Object Extraction
+, Intelligent Robotics - Int. Symp. on Intell. Robotics (ISIR), Eds. M. Vidyasagar and M. Trivedi,
+Tata McGraw Hill, India, pp 95-106, 1991.
+206. A. Ghosh, Nikhil R. Pal and S.K. Pal, Object Extraction Using a Self-Organizing Neural Network
+, Intelligent Robotics - Int. Symp. on Intell. Robotics (ISIR), Eds. M. Vidyasagar and M. Trivedi,
+Tata McGraw Hill, India, pp 686-697, 1991.
+207. S.K. Pal and Nikhil R. Pal, Higher Order Entropy, Hybrid Entropy and Their Applications , in
+Spectrum Analysis in One or Two Dimensions (eds. S. Prasad and R.L. Kashyap), Oxford & IBH
+Pub. Co., New Delhi, pp 285-300, 1990.
+208. G. Ochoa, I. Lizasoain, D. Paternain, H. Bustince, and Nikhil R. Pal, Some properties of lattice
+OWA operators and their importance in image processing, Proceedings of World Congress of the
+International Fuzzy Systems Association and Conference of the European Society for Fuzzy Logic
+and Technology, IFSA-EUSFLAT 2015, doi:10.2991/ifsa-eusflat-15.2015.178, pp 1261-1265, 2015,
+Atlantis Press.
+209. Kaustuv Nag, Tandra Pal, Nikhil R. Pal, Robust Consensus: A New Measure for Multicriteria
+Robust Group Decision Making Problems Using Evolutionary Approach, The 13th International
+Conference on Artificial Intelligence and Soft Computing (ICAISC 2014), June 1-5, 2014, Poland,
+Artificial Intelligence and Soft Computing Lecture Notes in Computer Science, Volume 8467, pp
+384-394.
+210. Shang-Lin Wu, Chun-Wei Wu, Nikhil R. Pal, Chih-Yu Chen, Shi-An Chen, and Chin-Teng Lin,
+Common Spatial Pattern and Linear Discriminant Analysis for Motor Imagery Classification,
+Proceedings of the 2013 IEEE Symposium on Computational Intelligence, Cognitive Algorithms,
+Mind, and Brain (CCMB), 978-1-4673-5871-2/13/, SSCI April 16-19, Singapore, 2013.
+211. N R. Pal and M. Malpani, Redundancy-Constrained Feature Selection with Radial Basis Function
+Networks, Prof. WCCI 2012 IEEE World Congress on Computational Intelligence June, 10-15,
+2012 - Brisbane, Australia, DIO: 10.1109/IJCNN.2012.6252638
+212. Ching-Yi Chen, Chun-Hung Su, I-Fang Chung, and Nikhil R. Pal, Prediction of Mammalian
+MicroRNA Binding Sites Using Random Forests, Proc. 2012 International Conference on System
+Science and Engineering June 30-July 2, 2012, Dalian, China, pp 91-95, 2012 received the Best
+Paper Award
+
+-----
+213. K. Sarkar and Nikhil R. Pal, Is it rational to partition a data set using Kernel-clustering?, 2011
+IEEE International Conference on Fuzzy Systems, Fuzz-IEEE 2011, Taipei, Taiwan, June 27-
+30,2011.
+214. Nishchal K. Verma and Nikhil R. Pal, Prediction of Satellite Images using Fuzzy Rule based
+Gaussian Regression, 2010 IEEE Applied Imagery Pattern Recognition Workshop (AIPR), DOI
+10.1109/AIPR.2010.5759679, pp.1-8, Oct. 2010.
+215. Yu-Kai Wang, Nikhil R. Pal, Chin-Teng Lin and Shi-An Chen, Analyzing Effect of Distraction
+Caused by Dual-Tasks on Sharing of Brain Resources Using SOM, 2010 IEEE World Congress on
+Computational Intelligence, WCCI 2010, Proc. IJCNN 2010, IEEE, Barcelona, pp 927-932.
+216. A. Anand, Nikhil R. Pal and Ponnuthurai Suganthan, Integration of Functional Information of
+Genes in Fuzzy Clustering of Short Time Series Gene Expression Data, 2010 IEEE World Congress
+on Computational Intelligence, WCCI 2010, Proc. IEEE CEC 2010,Barcelona, pp 3002-3009.
+217. R.Kumar, Nikhil R. Pal, J.D. Sharma, and B. Chanda, A Novel Approach for Detection of Alter-
+ation in Ball Pen Writings, PReMi 2009, LNCS 5909, pp. 400?05, 2009.
+218. Hwa-Shan Huang, Nikhil R. Pal, Li-Wei Ko and Chin-Teng Lin, Automatic Identification of Useful
+Independent Components with a View to Removing Artifacts from EEG Signal, 2009 Int. Joint
+Conf. Neural Networks, IJCNN 2009, June 14-19, 2009, Atlanta, USA
+219. Chin-Teng Lin, Nikhil R. Pal, Chien-Yao Chuang, Tzyy-Ping Jung, Li-Wei Ko, Sheng-Fu Liang,
+”An EEG-based Subject- and Session-independent Drowsiness Detection” Proceedings of Inter-
+national Joint Conference on Neural Networks(IJCNN), World Congress on Computational In-
+telligence, pp. 3448-3454, June 1-6, 2008.
+220. Nikhil R. Pal, A fuzzy rule based approach to identify biomarkers for diagnostic classification of
+cancers, IEEE Int. Conf. Fuzzy Systems, Fuzz-IEEE 2007, pp 1-6, DOE 10.1109/FUZZY.2007.4295533
+.
+221. D. P. Muni, Nikhil R. Pal and J. Das, Texture Generation For Fashion Design Using Genetic
+Programming, Proc.
+the 9th International Conference on Control, Automation, Robotics and
+Vision, ICARCV-2006, IEEE, Singapore, December 5 - 8, pp 1940-1944, 2006.
+222. A. Laha, B. Chanda, and Nikhil R. Pal, Accelerated codebook searching in a SOM-based Vector
+Quantizer, 2006 International Joint Conference on Neural Networks, WCCI 2006, Vancouver,
+Canada, July 16-21, pp 5945-5950, 2006.
+223. B. Saha, A. Mazumdar and Nikhil R. Pal, Bidirectional Fuzzy-Regression Model for Road-lines
+Detection, IEEE International Conference on Engineering of Intelligent Systems, ICEIS’
+2006,
+Islamabad, Pakistan,22-23 April, 2006.
+224. B. Bhowmick, Nikhil R. Pal, S. Pal, S. K. Patel & J. Das, Detection of Microcalcification with Neu-
+ral Networks, IEEE International Conference on Engineering of Intelligent Systems, ICEIS’
+2006,
+Islamabad, Pakistan,22-23 April, 2006.
+225. Nikhil R. Pal, K. Pal, J. Keller and J. Bezdek, A New Hybrid c-Means Clustering Model, Proc.
+2004 IEEE International Conference on Fuzzy Systems, FuzzIEEE2004, Budapest, Hungary, pp.
+179-184, 2004.
+226. D. Chakraborty and Nikhil R. Pal, Expanding the training set for better generalization, Proc.
+International Conference on Communications, Devices and Intelligent Systems, CODIS 2004, 8 -
+10 January, 2004, Calcutta, Eds. A.K. Mandal, A.K. Bandyopadhayay, B. Gupta, S.K. Choudhary
+and S.K. Sarkar , Jadavpur University, Calcutta, pp 454 - 457.
+227. S. K. Patel, Nikhil R. Pal and S. Pal, Fuzzy edge detection with human psychovisual facts, Proc.
+International Conference on Communications, Devices and Intelligent Systems, CODIS 2004, 8 -
+10 January, 2004, Calcutta, Eds. A.K. Mandal, A.K. Bandyopadhayay, B. Gupta, S.K. Choudhary
+and S.K. Sarkar , Jadavpur University, Calcutta, pp 496 - 499
+228. D. P. Muni, Nikhil R. Pal and J. Das, Multicategory classifier design using genetic programming,
+Proc. International Conference on Communications, Devices and Intelligent Systems, CODIS
+2004, 8 - 10 January, 2004, Calcutta, Eds. A.K. Mandal, A.K. Bandyopadhayay, B. Gupta, S.K.
+Choudhary and S.K. Sarkar , Jadavpur University, Calcutta, pp 597 - 599
+
+-----
+229. S. Chakraborty and N. R. Pal, Selection of Structure Preserving Features with Neural Networks,
+Proc. 2003 IEEE Int. Conf. Fuzzy Systems, Fuzz-IEEE’
+03, pp 822-827, 2003
+230. D. Chakraborty and Nikhil R. Pal, Two Connectionist Schemes for Selecting Groups of Features
+(Sensors) Proc. 2003 IEEE Int. Conf. Fuzzy Systems, Fuzz-IEEE’
+03, pp 161-166, 2003
+231. D. Chakraborty and Nikhil R. Pal, Making a multilayer perceptron say “Don’
+t Know” when it
+should, Proc. International Conference on Neural Information Processing, ICONIP 2002, Vol. 1,
+pp 45-49, Dec. 18-22, 2002, Singapore.
+232. A. Laha, Nikhil R. Pal and J. Das, Satellite image analysis with fuzzy rules and theory of evi-
+dence, Proc. Conference on Fuzzy set theory and its mathematical aspects and applications, Allied
+Publishers Pvt. Ltd., pp 33-39, 2002, Benaras, India
+233. J. C. Bezdek and Nikhil R. Pal, Blind detection of targets from LADAR data, Joint 9th IFSA
+World Congress and 20th NAFIPS International Conference: Fuzziness and Soft Computing in the
+New Millenium, Vancouver, Canada, July 25-28, 2001, IEEE Press, Piscataway, NJ, 1127-1133.
+234. Nikhil R. Pal and S. Chakraborty, IRID3 : An improved version or RID3 for classification, Asian
+Fuzzy Systems Symposium, 2000, Vol. 2, 987-992
+235. S. Chakraborty and Nikhil R. Pal , Generation of fuzzy rules from a decision tree, Asian Fuzzy
+Systems Symposium, 2000, Vol. 2, 993-997.
+236. A. Laha and Nikhil R. Pal, and J. Das, Designing prototype-based classifiers and their application
+to multispectral satellite images, Proc. 6th Int. conference on Soft Computing, IIZUKA2000,
+Japan, 2000, CDROM ISBN 4-938717-04-2.
+237. Pal, K., Bezdek, J. C., Pal, N. R. and Runkler, T., Some notes on fuzzy rule extraction by
+clustering, Proc. 5th Iberoamerican Symp. on Patt. Recog., eds. F. Muge, R. C. Pinto and M.
+Piedade, ISBN 972-97711-1-1, 19-27.
+238. Pal, K., Pal, N. R., Runkler, T. and Bezdek, J. C., Fuzzy rule extraction by clustering : the role of
+tendency assessment, Proc. COIL 2000, Evolutionary computing, fuzzy logic, machine learning,
+neural networks, 22-23 June 2000, Greece, pp 1-13
+239. T. Pal, Nikhil R. Pal and S. Dev Roy, A self organized rule generation scheme for fuzzy logic
+controllers, Proc. 9th Int. Conf. Fuzzy Systems, FUZZIEEE-2000, Vol 1, 13-18.
+240. A. Laha and Nikhil R. Pal, Design of a Nearest-Prototype Classifier with Dynamically Generated
+Prototypes using Self-Organizing Feature Maps, Proc. 1999 Int. Conf. on Neural Information
+Processing, ICONIP’
+99, pp 746-751, Vol. 2, November 1999, Australia.
+241. A. Laha and Nikhil R. Pal, On different variants of self-organizing feature map and their proper-
+ties, Prc. 1999 IEEE Hong Kong Symp. on Robotics & Control, Vol. I, pp 344-349, 1999.
+242. N. R.Pal, G.Mandal and E. Vijay Kumar, Structure Preserving Dimensionality Reduction : A
+Fuzzy Logic Approach, Asian Fuzzy Syztems Symposium, 1998, Korea, pp 426-431.
+243. S. Raha, Nikhil R. Pal and K. S. Ray, Some new similarity based approaches in approximate rea-
+soning and their applications to pattern recognition, Asian Fuzzy Syztems Symposium, 1998,Ko-
+rea, pp 719-724.
+244. K. Pal and Nikhil R. Pal, Modeling Dehydriding Behavior of Hydrogen Storage Materials
+with Neural Networks, Fifth Int. Conf. Neural Information Processing, ICONIP,98, Japan, 703-
+706, 1998.
+245. Nikhil R. Pal, K. Banerjee and Y. Hayashi, SUM-PI NETWORK : a new multilayered feed-
+forward network, Fifth Int. Conf. Neural Information Processing, ICONIP,98, Japan, 687-690,
+1998.
+246. P. N. Suganthan and Nikhil R. Pal, Pattern classification using multiple SOMs, Fifth Int. Conf.
+Neural Information Processing, ICONIP,98, Japan, 1065-1068, 1998.
+247. K. Pal, R. Mudi and Nikhil R. Pal, Rule extraction and reduction through exploratory data anal-
+ysis for designing a self-tuning fuzzy controller, Proc. of the Japan-Vietnam Bilateral Symposium
+on Fuzzy Systems and Applications, VJFUZZY’
+98, Sept. 30 - Oct. 2, 1998, pp 607-613, Ha-Long
+Bay, Vietnam
+
+-----
+248. Nikhil R. Pal and Y. Hayashi, A proposal for direct fuzzy rule generation from numerical data
+Proc. Fifth Int. Conf. Fuzzy Logic, Neural Nets and Soft Computing, IIZUKA’
+98, Japan, pp
+971-974, 1998.
+249. K. Pal and Nikhil R. Pal,Using fuzzy rules with importance factors for time series prediction and
+rule selection, Proc. Fifth Int. Conf. Fuzzy Logic, Neural Nets and Soft Computing, IIZUKA’
+98,
+Japan, 1998, 418-421.
+250. K. Chintalapudi and Nikhil R. Pal, A novel scheme to determine the architecture of a multi-layer
+perceptron, IEEE Int. Conf. on Syst. Man and Cybern., USA, 1998, pp 2297-2303.
+251. Nikhil R. Pal, K. Pal, J. C. Bezdek and T. Runkler, Some issues in system identification using
+clustering, Int. Joint Conf. on Neural Networks, ICNN 1997, IEEE Press, Piscataway, NJ, 2524-
+2529, 1997.
+252. Nikhil R. Pal, K. Pal and J. C. Bezdek, A mixed c-means clustering model, 1997 IEEE Int. Conf.
+on Fuzzy Systems, Spain, 11-21, 1997.
+253. R. Mudi and Nikhil R. Pal, A robust self-tuning scheme for PI-type controllers, EUFIT - 1997,
+Germany.
+254. Nikhil R. Pal and T. George, A new conflict measure for Dempster-Shafer framework, Sixth Int.
+World Congress of the Int. Fuzzy syst. Asso., IFSA-1995, Sao-Paulo, Brazil, 353-356.
+255. J. C. Bezdek, R. Hathaway and Nikhil R. Pal, Shell protype clustering models, Proc. ICNN, 4,
+IEEE Press, Piscataway, NJ, 1617-1621, 1995
+256. J. Basak, Nikhil R. Pal and P. S. Patel, A connectionist model for graytone thinning, Proc. ICNN,
+4, IEEE Press, Piscataway, NJ, 1460-1465, 1995
+257. J. C. Bezdek, Nikhil R. Pal, R. J. Hathaway and N. B. Karayiannis, Some new competitive
+learning schemes, Proc. SPIE, 1995.
+258. B. Umashankar and Nikhil R. Pal, FFCM : An effective approach for large data sets, Proc. Third
+Int. Conf. Fuzzy Logic, Neural Nets and Soft Computing, IIZUKA, Japan, pp 331-332,1994.
+259. S. Biswas, Nikhil R. Pal and S. K. Pal, A Quantitative Index for Termination of Iterative Im-
+age Smoothing Algorithms. Proc. Third International Conference on Automation, Robotics and
+Computer Vision, 1107-1111, Nov 9-11, 1994.
+260. Nikhil R. Pal and J. C. Bezdek, Several new classes of measures of fuzziness , Proc. IEEE Int.
+Conf. on Fuzzy Syst., 928-933, Mar. 1993.
+261. J. C. Bezdek and Nikhil R. Pal, Prototype generating clustering algorithms, Proc. Fifth IFSA
+World Congress, Soel, Korea, Vol. 1, pp XXXVI-XLIII, 1993.
+262. J. C. Bezdek and Nikhil R. Pal, An index of topological preservation and its application to self-
+organizing feature maps, Int. Joint Conf. Neural Nets., 1993, Nagyo, Japan, pp 2435-2440.
+263. J. Basak, Nikhil R. Pal and S. K. Pal, A connectionist system for handwritten character recogni-
+tion, Proc. Symposium on Intelligent Systems, Bangalore, India, 1993, pp 21-27.
+264. Nikhil R. Pal and J. C. Bezdek, Extensions of self-organizing feature maps for improved visual
+displays, Int. Joint Conf. Neural Nets., 1993, Nagyo, Japan, pp 2441-2447.
+265. D. Bhandari, Nikhil R. Pal and S. K. Pal, Directed mutation : a new concept to expedite search
+in genetic algorithms, Proc. Symposium on Intelligent Systems, Bangalore, India, 1993, pp 1-7.
+266. Nikhil R. Pal and J. C. Bezdek, Assessment of clustering tendency and cluster validity : some
+fuzzy methods, Proc. First Asian Fuzzy Syst. Symp., Singapore, Nov 23-26, 1993, pp 444-449.
+267. J. Basak, Nikhil R. Pal and S. K. Pal, A connectionist implementation of Hough transform, Int.
+Conf. on Advances in Pattern Recogn. and Digital Techniques, Dec 28-31, 1993, India.
+268. J. C. Bezdek and Nikhil R. Pal, Fuzzification of self-organizing feature map : will it work?, Proc.
+Application of Fuzzy Logic Technology, SPIE Vol. 2061, 142-162, Boston, USA, 1993.
+269. J.Basak, N.R.Pal, and S.K.Pal, A novel connectionist approach for automatic peak selection in
+Hough space, Proc. Indo-US workshop, Pune, India, 1993.
+
+-----
+270. J. C. Bezdek, E. C. Tsao and Nikhil R. Pal, Fuzzy Kohonen clustering networks , Proc. IEEE
+Int. Conf. of Fuzzy Syst., March 1992, San Diego, USA, pp 1035-1043.
+271. D. Bhandari, Nikhil R. Pal and D. Dutta Majumder, Measures of discrimination and ambiguity
+for fuzzy sets , Proc. IEEE Int. Conf. of Fuzzy Systems, March 1992, San Diego, USA, pp
+145-152.
+272. E. C. Tsao, W. C. Lin, J. C. Bezdek and Nikhil R. Pal, A neural network system for medical
+image understanding , Proc. Fifth Florida AI Research Symposium, Florida, April 7-10, 1992, pp
+24-28.
+273. Nikhil R. Pal, J. C. Bezdek and E. C. Tsao, Improving convergence and performance of Kohonen’
+s
+Self-organizing Scheme , SPIE Proc., Science of Artificial Neural Networks, Orlando, Vol. 1710,
+pp 500-509, 1992.
+274. Nikhil R. Pal, J. C. Bezdek, Average total uncertainty : A new measure and its properties , Proc.
+2nd Int. Conf. on Fuzzy Logic and Neural Networks, July 1992, Iizuka, Japan, pp 583-586.
+275. D. Bhandari, Nikhil R. Pal and D. Dutta Majumder. Fuzzy divergence : A new measure for
+image segmentation , Proc. Int. Conf. on Fuzzy Logic and Neural Networks, July 1992, Iizuka,
+Japan, pp 645-648.
+276. E. C. Tsao, J. C. Bezdek and Nikhil R. Pal, Image segmentation using LVQ clustering networks
+, Proc. North American Fuzzy Info. Proc. Soc. (NAFIPS-92), Mexico, pp 98-107.
+277. J. C. Bezdek, Nikhil R. Pal and E. C. Tsao, Two generalizations of Kohonen clustering networks
+, Proc. Third Int. Workshop on Neural Networks and Fuzzy Logic-92, Jun. 1-3, 1992, NASA
+Huston, Pub # 10111, VII, pp 199-226.
+278. Nikhil R. Pal and S.K. Pal, Some Information Measures on Fuzzy Set and Their Application to
+Image Processing , Proc. NACONECS-89, Roorkee, India, Tata McGraw-Hill, New Delhi, pp
+94-96, 1989.
+279. S.K. Pal and Nikhil R. Pal, Object-Background Classification Using A New Definition of Entropy
+, Proc. IEEE. Int. Conf. Syst., Man and Cyberns., Shenyang, China, pp 773-776, 1988.
+280. S.K. Pal and Nikhil R. Pal, Object Extraction Using Higher Order Entropy , Proc. 9th Int. Conf.
+Patt. Recog., Rome, Italy, pp pp 348-350, 1988.
+281. Nikhil R. Pal and S.K. Pal, New Entropic Thresholding , Proc. Seminar on Parallel Process.
+Syst. and Their Appl., Calcutta, pp 120-123, 1988.
+282. S.K. Pal and Nikhil R. Pal, Two Stage Segmentation Algorithm Incorporating Psychovisual Phe-
+nomena in Contrast Homogeneity Measure , Proc. Platinum Jubilee Conf. Syst. and Sig. Process.,
+Indian Institute of Science, Bangalore, India, pp 366-369, 1986.
+
+-----

@@ -1,0 +1,692 @@
+Ardalan Vahidi, Ph.D. 
+Professor of Mechanical Engineering, Clemson University 
+Clemson, South Carolina, 29634-0921 
+web: hJps://cecas.clemson.edu/~avahidi/ 
+(P) +1 (864) 656-4718 (E) avahidi@clemson.edu 
+ 
+EDUCATION 
+Ph.D., Mechanical Engineering, University of Michigan, Ann Arbor, Michigan 
+ 
+ 
+ 
+09/2001-08/2005 
+M.Sc., TransportaVon Safety, George Washington University, Washington DC 
+ 
+ 
+ 
+01/1999-08/2001 
+M.Sc., Structural Engineering, Sharif University of Technology, Tehran  
+ 
+ 
+                09/1996-07/1998 
+B.Sc., Civil Engineering, Sharif University of Technology, Tehran 
+ 
+ 
+ 
+ 
+09/1992-07/1996 
+POSITIONS 
+Clemson University, Professor of Mechanical Engineering 
+ 
+ 
+ 
+ 
+ 
+08/2017- present 
+IFP Energies Nouvelles, Rueil-Malmaison, France, ScienVfic Visitor 
+ 
+ 
+ 
+ 
+05/2017-08/2017 
+Clemson University, Associate Professor of Mechanical Engineering  
+ 
+ 
+ 
+08/2011- 07/2017 
+University of California, Berkeley, VisiVng Scholar  
+ 
+ 
+ 
+ 
+ 
+06/2012-08/2013 
+BMW Group Technology Office USA, Research Fellow 
+ 
+ 
+ 
+ 
+ 
+06/2012-08/2013 
+Clemson University, Assistant Professor of Mechanical Engineering 
+ 
+ 
+ 
+ 
+08/2005-07/2011 
+HONORS AND AWARDS 
+Eastman Award of Research and Teaching Excellence, Clemson University 
+ 
+  
+ 
+ 
+     2012 
+First Prize, Graduate Student Symposiums, Dept. Mechanical Eng., University of Michigan         
+           
+          2003/2004 
+Department RecruiVng Fellowship, University of Michigan 
+ 
+ 
+ 
+ 
+ 
+ 
+     2001 
+Third Prize, The First Iranian UniversiVes Civil Eng. Olympiad, Awarded by Ministry of Higher EducaVon              
+     1996 
+Ranked 11th, NaVonwide University Entrance ExaminaVon for Iranian UniversiVes among 300,000 ParVcipants  
+     1992 
+EXPERIENCE HIGHLIGHTS 
+PublicaNons and Patents: 3700 citaVons on more than 60 journal/refereed conference publicaVons. 3 published patents. 
+Research Grants: 3.0 million dollars in 15 grants as PI with $2.1M share of funding.  
+Student Advising: Graduated 7 Ph.D. and 9 Master students. Currently advising 2 Ph.D. and 2 Master students. Advised 17 
+undergraduate students.  
+Teaching: Have taught 3 undergraduate and 4 graduate courses in Dynamic Systems and Control, in 32 secVons with end-
+of-semester student raVngs above 4.0/5.0.  
+Research Interests: Advanced Controls applied to: 1. Autonomous Driving, Vehicular ConnecVvity, Intelligent 
+TransportaVon Systems 2. AlternaVve Energy GeneraVon and Storage 3. Real-Time Human Health Monitoring.  
+Research Experience: Control and dynamical systems with applicaVon to vehicle acVve safety and crash avoidance 
+systems at the George Washington University (1999-2001), fuel cell power systems and advanced energy storage systems 
+at the University of Michigan (2001-2005), hybrid energy systems, connected and autonomous vehicles at Clemson (2005-
+present). Machine learning and data mining from vehicular traffic data during recent sabbaVcal year at UC, Berkeley and 
+BMW Technology Office in California (2012-2013).  
+�  
+1
+
+-----
+PUBLICATIONS     
+ 
+ 
+     Google Scholar Link [3700 CitaVons, August 2017] 
+Journals (Published or Accepted) 
+J29. A. Fayazi and A. Vahidi, “Mixed Integer Linear Programming for OpVmal Scheduling of Autonomous Vehicle 
+Passage Through Intelligent IntersecVons,” under review, 2017. 
+J28. N. Wan, C., and A. Vahidi, “ProbabilisVc AnVcipaVon and Control in Autonomous Car Following,” accepted, IEEE 
+Transac*ons on Control Systems Technology, 2017. 
+J27. Y. Parvini and A. Vahidi, “Heuristic versus Optimal Charging of Supercapacitors, Lithium-Ion and Lead-Acid 
+Batteries: An EfBiciency Point of View,” to appear, IEEE Transac*ons on Control Systems Technology, 2017. 
+J26. R. Hutchison, R., G. Klapthor, K. Edwards, A. Vahidi, G. Mocko, G., K. Bruneau, “Validity and Reproducibility of the 
+Garmin Vector Power Meter when Compared to the SRM Device,” Journal of Sports Science, in print, 2017 . 
+J25. B. HomChaudhuri, A. Vahidi, and P. Pisu, "Fast Model PredicVve Control Based Fuel Efficient Control Strategy for a 
+Group of Connected Vehicles in Urban Road CondiVons," IEEE Transac*ons on Control Systems Technology, 760-767, 
+25, 2017. 
+J24. N. Wan and A. Vahidi, and A. Luckow, “OpVmal Speed Advisory For Connected Vehicles in Arterial Roads and 
+The Impact on Mixed Traffic,” Transporta*on Research: Part C, 69, 548-563, 2016. 
+J23. N. Wan, A. Vahidi, and A. Luckow, “ReconstrucVng Maximum Likelihood Trajectory of Probe Vehicles Between 
+Sparse Updates,” Transporta*on Research: Part C, 65, 16-30, 2016. 
+J22. A. Fayazi, A. Vahidi, “Crowdsourcing Phase and Timing of Pre-Timed Traffic Signals in Presence of Queues: 
+Algorithms and Backend System Architecture,” IEEE Transac*ons on Intelligent Transporta*on Systems, 17, 870-881, 
+2016. 
+J21. S. Schepmann and A. Vahidi, “Ultracapacitor Power Assist with Preview-based Energy Management For 
+Reducing Fuel ConsumpVon of Heavy Vehicles,” Accepted and Available Online, Interna*onal Journal of Powertrain, 
+2016.  
+J20. Y. Parvini, J. Siegel, A. Stefanopoulou, and A. Vahidi, “IdenVficaVon and ValidaVon of an Electro-Thermal Model 
+of Cylindrical Double Layer Supercapacitors for Low and High Power and Temperature OperaVons,” IEEE Transac*ons 
+on Industrial Electronics, 63, 1574-1585, 2016. 
+J19. A. Fayazi, A. Vahidi, G. Mahler, and A. Winckler, “Traffic Signal Phase and Timing EsVmaVon from Low-Frequency 
+Vehicular Probe Data,” IEEE Transac*ons on Intelligent Transporta*on Systems, 16, 19-28, 2015. 
+J18. G. Mahler and A. Vahidi, “An OpVmal Velocity-Planning Scheme for Vehicle Energy Efficiency Through 
+ProbabilisVc PredicVon of Traffic-Signal Timing,” IEEE Transac*ons on Intelligent Transporta*on Systems, 15, 
+2516-2523, 2014. 
+J17. H. Borhan and A. Vahidi, “Model predictive control of a hybrid electric powertrain with combined battery 
+and ultracapacitor energy storage system,” Interna*onal Journal of Powertrain, 1, 351-376, 2012. 
+�  
+2
+
+-----
+J16. H. Borhan, A. Vahidi, Tony Phillips, Ming Kuang, Ilya Kolmanovsky, and Stefano Di Cairano, “MPC-based Energy 
+Management of a Power-Split Hybrid Electric Vehicle,” IEEE Transac*ons on Control Systems Technology, 20, 593-603, 
+2012.  
+J15. C. Zhang and A. Vahidi, “Route Preview in Energy Management of Plug-in Hybrid Vehicles,” IEEE Transac*ons on 
+Control Systems Technology, 20, 546-553, 2012. 
+J14. B. Asadi and A. Vahidi, “PredicVve Cruise Control for Improving Fuel Economy and Reducing Trip Time,” IEEE 
+Transac*ons on Control Systems Technology, 19, 707-714, 2011. 
+J13. D. Rotenberg, A. Vahidi, and I. Kolmanovsky, “Ultracapacitor Assisted Powertrains: Modeling, Control, Sizing, and 
+The Impact on Fuel Economy,” IEEE Transac*ons on Control Systems Technology, 19, 576-589, 2011.  
+J12. C. Zhang, A. Vahidi, P. Pisu, X. Li, and K. Tennant, “Role of Terrain Preview in Energy Management of Hybrid 
+Electric Vehicles,” IEEE Trans. on Vehicular Technology, 59, 1139-1147, 2010. 
+J11. W. Greenwell and A. Vahidi, “PredicVve Control of Voltage and Current in a Fuel Cell-Ultracapacitor Hybrid,” IEEE 
+Transac*ons on Industrial Electronics, 57, 1954-1963, 2010.  
+J10. M. McIntyre, T. GhoVkar, A. Vahidi, X. Song, and Darren Dawson, “A Two-Stage Lyapunov-Based EsVmator for 
+EsVmaVon of Vehicle Mass and Road Grade,” IEEE Transac*ons on Vehicular Technology, 58, 3177-3185, 2009.  
+J9. W. Schmitnger and A. Vahidi, “A Review of the Main Parameters Influencing Long-Term Performance and 
+Durability of PEM Fuel Cells,” Journal of Power Sources, 180, 1-14, 2008.  
+J8. A. Vahidi, I. Kolmanovsky, and A. Stefanopoulou, “Constraint Handling in a Fuel Cell System: A Fast Reference 
+Governor Approach,” IEEE Transac*ons on Control Systems Technology, 15, 86-98, 2007.  
+J7. A. Vahidi, A. Stefanopoulou, and H. Peng, “Current Management in a Hybrid Fuel Cell Power System: A Model 
+PredicVve Control approach,” IEEE Trans. on Control Systems Technology, 14, 1047-1057, 2006.  
+J6. A. Vahidi, A. Stefanopoulou, and H. Peng, “AdapVve Model PredicVve Control for CoordinaVon of Compression 
+and FricVon Brakes in Heavy Duty Vehicles,” Interna*onal Journal of Adap*ve Control and Signal Processing, 20, 
+581-598, 2006.  
+J5. A. Vahidi, A. Stefanopoulou, and H. Peng, “Recursive Least Squares with Forgetng for Online EsVmaVon of Vehicle 
+Mass and Road Grade: Theory and Experiments,” Vehicle System Dynamics, 43, 31-57, 2005.  
+J4. A. Vahidi and A. Eskandarian, “Research Advances in Intelligent Collision Avoidance and AdapVve Cruise Control,” 
+IEEE Transac*ons on Intelligent Transporta*on Systems, 4, 3, pp. 143-153, 2003.  
+J3. A. Vahidi and A. Eskandarian, “Influence of Preview UncertainVes in the Preview Control of Vehicle Suspensions,” 
+Journal of Mul*-Body Dynamics, 216, pp. 295-301, 2002. 
+J2. A. Vahidi and A. Eskandarian, “PredicVve Time-Delay Control of Vehicle Suspensions,” Journal of Vibra*on and 
+Control, 7, pp. 1195-1211, 2001.  
+J1. A. Joghataie and A. Vahidi, “Designing A General Neuro-Controller for Water Towers,” ASCE Journal of Engineering 
+Mechanics, 126, pp. 582-587, 2000.  
+�  
+3
+
+-----
+Refereed Conference PublicaNons 
+C37. A. Dollar and A. Vahidi, “QuanVfying the Impact of Limited InformaVon and Control Robustness on Connected 
+Automated Platoons,” to appear, Proceedings of IEEE 20th Interna*onal Conference on Intelligent Transporta*on 
+Systems, Yokohama, Japan, 2017. 
+C36. G. Mahler, A. Winckler, A. Fayazi, A. Vahidi, and M. Filusch, “Cellular CommunicaVon of Traffic Signal State to 
+Connected Vehicles for Arterial Eco-Driving,” to appear, Proceedings of IEEE 20th Interna*onal Conference on 
+Intelligent Transporta*on Systems, Yokohama, Japan, 2017. 
+C35. A. Fayazi and A. Vahidi, “A Smart City Traffic Management Scheme and Vehicle-in-the-loop (VIL) VerificaVon 
+Plavorm for Autonomous Driving,” Proceedings of IEEE Conference on Control Technology and Applica*ons, Kohala 
+Coast, HI, 2017 . 
+C34. A. Fayazi, A. Vahidi, and A. Luckow, “OpVmal Scheduling of Autonomous Vehicle Arrivals at Intelligent 
+IntersecVons via MILP” Proceedings of American Control Conference, SeaJle, WA, 2017. 
+C33. Y. Parvini and A. Vahidi, “Maximizing Charging Efficiency of Lithium-Ion and Lead-Acid BaJeries Using OpVmal 
+Control Theory, ” in Proceedings of American Control Conference, Chicago, IL, 2015. 
+C32. B. HomChaudhuri, A. Vahidi, and P. Pisu “A Fuel Economic Model PredicVve Control Strategy for a Group of 
+Connected Vehicles in Urban Roads,” in Proceedings of American Control Conference, Chicago, IL, 2015.  
+C31. N. Wan and A. Vahidi, "Maximum Likelihood EsVmaVon of Vehicle Trajectories at IntersecVons Using Sparse 
+Transit Bus Data," in Proceedings of Transporta*on Research Board, Washington DC, 2015. 
+C30. N. Wan and A. Vahidi, “ProbabilisVc EsVmaVon of Travel Times in Arterial Streets Using Sparse Transit Bus Data,” 
+in Proceedings of IEEE Intelligent Transporta*on Systems Conference, Qingdao, China, 2014 
+C29. Y. Parvini, J. Siegel, A. Stefanopoulou, and A. Vahidi, “Preliminary Results on IdenVficaVon of an Electro-Thermal 
+Model for Low Temperature and High Power OperaVon of Cylindrical Double Layer Ultracapacitors, ” in Proceedings 
+of American Control Conference, Portland, OR, 2014.  
+C28. N. Wan, A. Fayazi, H. Saeedi, and A. Vahidi, “OpVmal Power Management of an Electric Bicycle based on Terrain 
+Preview and Considering Human FaVgue Dynamics,” Proceedings of American Control Conference, Portland, OR, 
+2014.  
+C27. N. Wan, G. Gomes, A. Vahidi, R. Horowitz, “PredicVon on Travel-Time DistribuVon for Freeways Using Online 
+ExpectaVon MaximizaVon Algorithm,” Proceedings of Transporta*on Research Board, Washington, DC, 2014. 
+C26. A. Fayazi, N. Wan, S. Lucich, A. Vahidi, and G. Mocko, “OpVmal Pacing in a Cycling Time-Trial Considering Cyclist's 
+FaVgue Dynamics,” in Proceedings of American Control Conference, Washington, DC, 2013. 
+C25. Y. Parvini and A. Vahidi, “OpVmal Charging of Ultracapacitors During RegeneraVve Braking,” in Proceedings of 
+IEEE Interna*onal Electric Vehicle Conference, Greenville, SC, 2012. 
+C24. G. Mahler and A. Vahidi, “Reducing Idling at Red Lights Based on ProbabilisVc PredicVon of Traffic Signal 
+Timings,” Proceedings of American Control Conference, Montreal, Canada, 2012. 
+�  
+4
+
+-----
+C23. C. Zhang and A. Vahidi, “Model PredicVve Cruise Control with ProbabilisVc Constraints for Eco Driving,” 
+Proceedings of the 2011 ASME DSCC Conference, Arlington, VA, 2011.  
+C22. H. Borhan, W. Liang, A. Vahidi, A. Phillips, M. Kuang, S. Di Cairano, and R. McGee “Nonlinear Model PredicVve 
+Control of a Power-split Hybrid Electric Vehicle with BaJery and Engine Dynamics,” Proceedings of the ASME DSCC 
+Conference, Arlington, VA, 2011. 
+C21. S. Schepmann and A. Vahidi, “Heavy Vehicle Fuel Economy Improvement Using Ultracapacitor Power Assist and 
+Preview-based MPC Energy Management,” Proceedings of American Control Conference, San Francisco, CA, 2011. 
+C20. H. Borhan, C. Zhang, A. Vahidi, T. Phillips, M. Kuang, and S. Di Cairano, “Nonlinear Model PredicVve Control for 
+Power-split Hybrid Electric Vehicles,” Proceedings of IEEE Conference on Decision and Control, Atlanta, GA, 2011. 
+C19. B. Asadi, C. Zhang and A. Vahidi, “The Role of Traffic Flow Preview For Planning Fuel OpVmal Vehicle Velocity,” in 
+Proceedings of ASME Dynamic Systems and Control Conference, Boston, MA, 2010. 
+C18. C. Zhang and A. Vahidi, “Real-Time OpVmal Control of Plug-in Hybrid Vehicles with Trip Preview,” Proceedings of 
+American Control Conference, BalVmore, MD, 2010.  
+C17. H. Borhan and A. Vahidi, “Model PredicVve Control of a Power-split Hybrid Electric Vehicle with Combined 
+BaJery and Ultracapacitor Energy Storage,” Proceedings of American Control Conference, BalVmore, MD, 2010.  
+C16. C. Zhang, A. Vahidi, X. Li, and D. Essenmacher, “Role of Trip InformaVon Preview in Fuel Economy of Plug-in 
+Hybrid Vehicles,” Proceedings of ASME Dynamic Systems and Control Conference, Hollywood, CA, 2009.  
+C15. C. Zhang, A. Vahidi, P. Pisu, X. Li, and K. Tennant, “UVlizing Road Grade Preview for Increased Fuel Economy of 
+Hybrid Vehicles,” Proceedings of IFAC Symposium on Control in Transporta*on Systems, Redondo Beach, CA, 2009.  
+C14. B. Asadi and A. Vahidi, “PredicVve Use of Traffic Signal State for Fuel Saving,” Proceedings of 12th IFAC 
+Symposium on Control in Transporta*on Systems, Redondo Beach, CA, 2009.  
+C13. H. Borhan, A. Vahidi, T. Phillips, M. Kuang, and I. Kolmanovsky, “PredicVve Energy Management of a Power-Split 
+Hybrid Electric Vehicle,” Proceedings of American Control Conference, St. Louis, MO, 2009.  
+C12. W. Greenwell and A. Vahidi, “Experiments in PredicVve CoordinaVon of a Fuel Cell/Ultracapacitor Hybrid,” 
+Proceedings of ASME Dynamic Systems and Control Conference, Ann Arbor, MI, 2008.  
+C11. D. Rotenberg, A. Vahidi, and Ilya Kolmanovsky, “Ultracapacitor Assisted Powertrains: Modeling, Control, Sizing, 
+and The Impact on Fuel Economy,” Proceedings of American Control Conference, SeaJle, WA, 2008. 
+C10. A. Vahidi, and W. Greenwell, “A Decentralized Model PredicVve Control Approach to Power Management of a 
+Fuel-Cell Ultracapacitor Hybrid,” Proceedings of American Control Conference, New York, NY, 2007.  
+C9. M. McIntyre, A. Vahidi, and D. Dawson, “An Online EsVmator for Heavy Vehicle’s Mass and Road Grade,” 
+Proceedings of ASME Dynamic Systems and Control Division, Chicago, IL, 2006. 
+C8. A. Vahidi, I. Kolmanovsky, and A. Stefanopoulou, “Constraint Management in Fuel Cells: A Fast Reference 
+�  
+5
+
+-----
+Governor Approach,” Proceedings of American Control Conference, Portland, OR, 2005.  
+C7. A. Vahidi, A. Stefanopoulou, and H. Peng, “AdapVve Model PredicVve Control for Vehicle Braking Assist System 
+Design,” Proceedings of ASME Dynamic Systems and Control Division, Anaheim, CA, 2004. 
+C6. A. Vahidi, A. Stefanopoulou, and H. Peng, “Model PredicVve Control for StarvaVon PrevenVon in a Fuel Cell 
+System,” Proceedings of American Control Conference, Boston, MA, 2004.  
+C5. A. Vahidi, A. Stefanopoulou, and H. Peng, “Experiments for Online EsVmaVon of Heavy Vehicle's Mass and Time-
+Varying Road Grade,” Proceedings of ASME Dynamic Systems and Control Division, Washington, DC,  2003.  
+C4. A. Vahidi, M. Druzhininia, A. Stefanopoulou, and H. Peng, “Simultaneous Mass and Time-Varying Grade 
+EsVmaVon for Heavy Duty Vehicles,” Proceedings of American Control Conference, Denver, CO, 2003.  
+C3. A. Vahidi and A. Eskandarian, “A Study on the Effect of Preview UncertainVes in Preview Control of Vehicle 
+Suspensions,” ASME Design Engineering Division DE, New York, NY, 2001. 
+C2. A. Vahidi, and A. Eskandarian, “PredicVve Control of Vehicle Suspensions with Time-Delay for a Quarter Car 
+Model,” Proceedings of Mul*-Body Dynamics: Monitoring and Simula*on Techniques, pp. 97-105, 2000. 
+C1. A. Joghataie and A. Vahidi, “Neural Networks in the Control of Water Towers,” Proceedings of the Ar*ficial Neural 
+Networks in Engineering; pp. 733-738, 1999. 
+   Abstracts 
+A1. G. Klapthor,, R. Hutchison, K. Edwards, K. Knowles, K. Humes, G. Mocko, A. Vahidi, “Validity And Reliability Of A 
+Pedal-based Power Meter During Maximal Ergometer TesVng,” ACSM Medicine and Science in Sports and Exercise, 48 
+(5),  pp. 107, 2016. 
+A2. R. Hutchison, G. Klapthor, K. Knowles, K. Edwards, K. Humes, G. Mocko, A. Vahidi, “Comparison Of VenVlatory 
+Thresholds Via V-slope Method to Lactate Thresholds With NIRS,”  ACSM Medicine and Science in Sports and Exercise, 
+48 (5),  pp. 107, 2016. 
+A3. K. Edwards, R. Hutchison, G. Klapthor, K. Knowles, G. Mocko, A. Vahidi, K. Humes, M. Murr, “Comparison of 
+Threshold DeterminaVons between Blood Lactate Samples and Near Infrared Spectroscopy,” ACSM Medicine and 
+Science in Sports and Exercise, 48 (5),  pp. 434, 2016. 
+Other PublicaVons 
+M4. A. Vahidi, “Constrained OpVmal Control Applied to Fuel Cells and Vehicle Systems,” Ph.D. DissertaVon, University 
+of Michigan, 2005. 
+M3. A. Vahidi, A. Stefanopoulou, X. Wang, and T.-C. Tsao, “Experimental VerificaVon of Discretely Variable 
+Compression Braking Control for Heavy Duty Vehicles,” PATH Technical Report, UC Berkeley, 2004. 
+M2. A. Vahidi, A. Stefanopoulou, P. Farias, and T.-C. Tsao, “Experimental VerificaVon of Discretely Variable 
+Compression Braking Control for Heavy Duty Vehicles,” PATH Technical Report, UC Berkeley, 2003. 
+M1. A. Vahidi, “AcVve VibraVon Control of Water Towers under Earthquake Loading,” Master’s Thesis, Sharif 
+University of Technology, Tehran, Iran, 1998. (in Persian) 
+�  
+6
+
+-----
+PATENTS 
+1. A. Vahidi and G. Mahler, “System and Method for UVlizing Traffic Signal InformaVon for Improving Fuel Economy 
+and Reducing Trip Time,” US Patent 8,478,500, 2013. 
+2. G. Mahler, A. Winckler, A. Vahidi, A. Luckow, “Systems and Methods for PredicVng Traffic Signal InformaVon,” US 
+Patent 8,972,145, 2015. 
+3. A. Vahidi, A. Fayazi, G. Mahler, A. Winckler, “Systems and Methods for EsVmaVng Traffic Signal InformaVon,” US 
+Patent 9,183,743, 2015. 
+SPONSORED RESEARCH 
+S15. “BoosVng Energy Efficiency of Heterogeneous Connected Automated Vehicle (CAV) Fleets via AnVcipaVve and 
+CooperaVve Vehicle Guidance,” US Department of Energy, PI (with B. Ayalew, Y. Jia, D. Karbowski), $1,343,193 
+(awarded July 2017) 
+S14. “Improving Energy Efficiency and Mobility of Connected Fleets via Route Preview and CooperaVve Control” US 
+Army TACOM, PI (100%), $270,747 (7/1/2015-6/30/2017)  
+S13. “Increased Mobility and Energy Efficiency Enabled by Vehicle to Vehicle and Vehicle to Infrastructure 
+ConnecVvity” BMW, PI (100%), $133,473, (1/1/2015-current) 
+S12. “Understanding Human Muscle FaVgue Dynamics During Prolonged ExerVons” Clemson University Internal 
+Grant, PI (50%, With G. Mocko), $15,000, (3/1/2014-2/28/2015) 
+S11. “EsVmaVon and PredicVon of the State of Traffic Signals” BMW, PI (100%), $215,873, (1/1/2011-12/31/2014) 
+S10. “Ultracapacitor Energy Storage for Improving Fuel Economy and Extending BaJery Life in Heavy Vehicles” US 
+Army TACOM, PI (100%), $257,885 (6/1/2011-6/30/2015)  
+S9. “PredicVve Energy Management in Smart Vehicles: ExploiVng Traffic and Terrain Preview for Fuel Saving” NaVonal 
+Science FoundaVon (CMMI-0928533), PI (100%), $260,000, (8/1/2009-7/31/2013) 
+S8. “UVlizing 3D Aerial Terrain Maps for Improving Energy Management of Hybrid Vehicles” US Army TACOM, PI 
+(55%), $84,000 (8/15/2008-8/15/2010) 
+S7. “Ultracapacitors for Power Boost in Vehicles”, US Army TACOM, PI (48%), $80,000 (8/15/2008-8/15/2010)  
+S6. “Ford URP: OpVmizaVon-based Control for Advanced Hybrid Powertrain System” Ford Motor Company, PI (100%), 
+$120,000, (3/1/2007 - 3/1/2010) 
+S5. “Online Parameter EsVmaVon for Advanced Control of Heavy Vehicles” Eaton CorporaVon Research Lab, PI 
+(100%), $80,787 (4/1/2007-7/30/2008) 
+S4. “QuanVfying the PotenVals of 3D Road Maps for Improving the Energy Management of Hybrid Electric Vehicles” 
+Intermap Technologies, PI (100%), $59,850 (9/1/2007-8/31/2009) 
+S3. “MulV-core CompuVng for ImplementaVon of Advanced Engine Control Algorithms” General Motors Research 
+Lab, co-PI (50%), $43,788, (5/1/2007-11/1/2007) 
+�  
+7
+
+-----
+S2. “Next-GeneraVon ActuaVon Technologies in Vehicle Control” BMW, PI (100 %), $25,587, (9/1/2006-12/31/2006) 
+S1. “Ultracapacitors for Power Boost in ICE Vehicles: System IntegraVon, Supervisory Control Design, and Hardware-
+in-the-loop Experiments” Ford Motor Company, PI (50%), $25,000, (9/1/2006-5/31/2007) 
+INVITED PRESENTATIONS 
+P30. “OpVmal CoordinaVon of Connected and Autonomous Cars in Smart CiVes”, New York University, Abu Dhabi, 
+November 2017. 
+P29. “OpVmal CoordinaVon of Connected and Autonomous Cars in Smart CiVes”, University of California, Berkeley, 
+November 3, 2017. 
+P28. “Eco Driving with Connected and Automated Vehicles”,  IFP Energies Nouvelles - Technology, Computer Science, 
+and Applied MathemaVcs Division, Rueil-Malmaison, France, June 1, 2017. 
+P27. “Efficient Vehicular Mobility Via ConnecVvity and Control”, Control Seminar Series, University of Michigan, Ann 
+Arbor, March 31, 2017. 
+P26. “CoordinaVng Connected Cars and Signals in Smart CiVes”, Winter School on Intelligent TransportaVon, 
+Singapore, January 17, 2017.  
+P25. “CoordinaVng Connected Cars and Signals in Smart CiVes”,  Smart CiVes Workshop, IEEE Conference on Decision 
+and Control, Las Vegas, NV, December 11, 2016.  
+P24. “OpportuniVes for Increasing Fleet Energy Efficiency with Connected and Autonomous Cars,” Research and 
+InnovaVon Center, Ford Motor Company, May 24, 2016.  
+P23. “Driver Decision Support For Improving Energy Efficiency of Connected Cars and The Impact on Arterial Traffic,” 
+InsVtute for Pure and Applied MathemaVcs, University of California, Los Angeles, November 17, 2015.  
+P22. “Increasing The Energy Efficiency of Connected Cars,” Department of Mechanical and Aerospace Engineering, 
+George Washington University, Washington DC, October 2, 2015.  
+P21. “Increasing The Energy Efficiency of Connected Cars,” Department of Electrical And Computer Engineering, 
+University of Maryland, College Park, October 10, 2014.  
+P20. “Constrained OpVmal Control of AutomoVve Systems,” Department of Mechanical and Aerospace Engineering, 
+University of California, Davis, California, November 5, 2013. 
+P19. “Eco-driving via Connected Vehicle Technologies,” IEEE InternaVonal Sustainable Mobility and Connected Vehicle 
+Leadership Forum, Santa Clara, California, October 23, 2013 
+P18. “OpVmizaVon-based Energy Management of Hybrid Powertrains,” Eaton CorporaVon Global Research and 
+Technology, Southfield, Michigan, June 4, 2013. 
+P17. “Traffic and Terrain Preview for Energy Saving of Connected Vehicles,” BMW Group Technology Office USA, 
+Mountain View, California, July 12, 2012.  
+�  
+8
+
+-----
+P16. “PredicVve Use of Upcoming Traffic Signal InformaVon for Improving Fuel Economy,” Innomobility 2011. 
+P15. “Role of Traffic and Terrain Preview in Energy Saving of Connected Vehicles,” ITS Georgia Annual MeeVng, 
+Greensboro, Georgia, September 19, 2011. 
+P14. “Saving Energy by Data Sharing and CompuVng on the Cloud,” Annual IEEE Vehicular Technology MeeVng, 
+Vehicles in the Cloud Panel, San Francisco, September 8, 2011.  
+P13. “A Cyberphysical Framework for Increasing Energy Efficiency and Mobility of Networked Vehicles,” Department 
+of Mechanical Engineering, University of Texas, AusVn, November 5, 2010. 
+P12. “A Cyberphysical Framework for Increasing Energy Efficiency and Mobility of Networked Vehicles,” Department 
+of Mechanical And Aerospace Engineering, University of California, Irvine, October 29, 2010. 
+P11. “PredicVve Energy Management in Networked Vehicles: UVlizing Traffic and Terrain Preview for Fuel Saving,” 
+Department of Mechanical Engineering, Georgia InsVtute of Technology, Atlanta, September 24, 2010. 
+P10. “PredicVve Energy Management in Networked Vehicles: UVlizing Traffic and Terrain Preview for Fuel Saving,” 
+Control Seminar Series, University of Michigan, Ann Arbor, December 4, 2009. 
+P9. “Energy Savings in Networked Vehicles by ExploiVng Traffic, Traffic Signal, and Terrain InformaVon”, BMW 
+InformaVon Technology Research Center, Greenville, South Carolina, June 15, 2009.  
+P8. “Role of System Engineering and TelemaVcs in Energy Management of Next generaVon Hybrid   Vehicles” 
+Clemson University InternaVonal Center for AutomoVve Research, January 14, 2009. 
+P7. “Role of System Engineering and TelemaVcs in Energy Management of Next GeneraVon hybrid Vehicles” 
+Department of Mechanical Engineering, University of North Carolina, CharloJe, October 30, 2008.  
+P6. “Overview on Modeling and Control of Hybrid Electric Powertrains” Tutorial PresentaVon, American Control 
+Conference, SeaJle, WA, June 11, 2008. 
+P5. “Control Engineering of Fuel Cell Systems” Invited Panel, Fuel Cell South MeeVng, Atlanta, GA, December 2006. 
+P4. “Model PredicVve Control for Controlling the Air Supply System in a Hybrid Fuel Cell System” ScienVfic Research 
+Lab, Ford Motor Company, Dearborn, Michigan, July 14, 2004. 
+P3. “Fuel Cell Control for AutomoVve ApplicaVons: ComputaVonal and Real-Time PerspecVves” NaVonal Instrument/
+ACTC AutomoVve Workshop, Dearborn, Michigan, February 7, 2005. 
+P2. “Power and Constraint Management in Fuel Cells” The Wilson Center for Research and Technology”, Xerox 
+CorporaVon, Webster, New York, March 24, 2005. 
+P1. “CoordinaVon of Propulsion Systems in Vehicles” General Motors Research Lab, Warren, Michigan, April 1, 2005. 
+�  
+9
+
+-----
+TEACHING 
+Course 
+Number
+Course 
+Title
+G/UG
+Credits
+Semester
+Number of 
+Students
+Review 
+(out of 5)
+ME305
+Modeling and 
+Analysis of Dynamics 
+Systems
+UG
+3
+F05
+27
+4.6
+S06
+36
+4.7
+F07
+45
+4.3
+F08
+35
+4.0
+F16
+41
+4.6
+ME416
+Control of Mechanical 
+Systems
+UG
+3
+F06
+26
+4.5
+F07
+15
+3.8
+ME403
+Control and 
+IntegraVon of 
+Dynamic Systems
+UG
+3
+S09
+28
+4.3
+F10
+41
+4.2
+S10
+27
+4.6
+F13
+50
+4.3
+S14
+38
+4.3
+F14
+87
+4.0
+F15
+72
+4.1
+ME616
+Control of Mechanical 
+Systems
+G
+3
+F06
+29
+4.9
+F07
+22
+4.8
+ME820
+Modern Control 
+(Linear Systems)
+G
+3
+S07
+32
+4.4
+S08
+22
+4.7
+S09
+30
+4.6
+S10
+35
+4.6
+S11
+13
+4.6
+S12
+33
+4.7
+S16
+23
+4.4
+ME823
+Control of Mechanical 
+Systems
+G
+3
+F09
+20
+4.6
+F10
+21
+4.7
+F11
+34
+4.8
+F09
+19
+4.5
+�
+ 
+10
+
+-----
+STUDENT ADVISING 
+Current Graduate Students 
+1. Shahab Karimi (Ph.D.) Research: “Autonomous Off-Road Vehicles,” (Since Summer 2016) 
+2. AusVn Dollar (Ph.D.) Research: “Look-ahead Control of Autonomous Vehicles” (Since Fall 2016)  
+3. Angshuman Goswami (M. Sc.) Research: “Connected Off-Road Fleets,” (Since Fall 2015) 
+4. Faraz AshVani (M. Sc.) Research: “Modeling Dynamics of Muscle FaVgue and Recovery,” (Since Spring 2016) 
+Past Graduate Students 
+1. Alireza Fayazi (Ph.D.) DissertaVon: “Connected Vehicles At Signalized IntersecVons: Arterial Eco-Driving And Traffic 
+Signal OpVmizaVon” (August 2011-December 2016). 
+2. Yasha Parvini, (Ph.D.) DissertaVon: “Modeling, HybridizaVon, and OpVmal Charging of Electrical Energy Storage 
+Systems” (May 2011-August 2016), Now: Assistant Professor at University of Detroit, Mercy. 
+3. Nianfeng Wan (Ph.D.) DissertaVon: “EsVmaVon and Control of Traffic Relying on Vehicular ConnecVvity” (August 
+11- May 16) Now at: IAV AutomoVve, California. 
+4. Judhajit Roy (Ph.D. co-advised with Harry Law) DissertaVon: “Design of Cab Suspensions and Semi-acVve Seat 
+Damping Control Strategies for Tractor Semi-Trailers” Now at: Ford Motor Company 
+5. Grant Mahler, (Ph.D.) DissertaVon: “Enhancing Energy Efficiency in Connected Vehicles Via Access to Traffic Signal 
+InformaVon” (September 09-November 13) Now at: BMW Technology Office, California. 
+6. Hosseinali Borhan, (Ph.D.) DissertaVon: “OpVmizaVon-Based Power Management Of Hybrid Power Systems With 
+ApplicaVons In Advanced Hybrid Electric Vehicles And Wind Farms,” (January 07-July 2011), Now at: Cummins. 
+7. Chen Zhang, (Ph.D.) DissertaVon: “PredicVve Energy Management In Connected Vehicles: UVlizing Route 
+InformaVon Preview For Energy Saving,” (September 07-December 2010), Now at: Ford Motor Company. 
+8. Lei Fan, (M.Sc.) Research Project: “Strategizing The Energy Management Of An Experimental Electric 
+Bicycle” (Fall2010-May 2011) 
+9. Seneca Schepmann, (M.Sc.) Thesis: “Ultracapacitor Heavy Hybrid Vehicle: Model PredicVve Control Using Future 
+InformaVon to Improve Fuel ConsumpVon” (Aug. 2009-Aug. 2010) Now at: Proterra Electric Bus Company. 
+10. Behrang Asadi, (M.Sc.) Thesis: “PredicVve Energy Management In Smart Vehicles: ExploiVng Traffic And Traffic 
+ME893
+OpVmal Control
+G
+3
+S12
+13
+5.0
+F14
+21
+4.9
+F16
+14
+4.9
+ME893
+Advanced EsVmaVon 
+G
+3
+F13
+26
+4.7
+S15
+13
+4.7
+�
+ 
+11
+
+-----
+Signal Preview For Fuel Saving” (August 2007-August 2009) Now at: Head of Advanced AnalyVcs at Danaher 
+CorporaVon. 
+11. Wesley Greenwell, (M.Sc.) Thesis: “Real-Time Power Management of A Fuel Cell/Ultracapacitor Hybrid” (July 06 - 
+May 08) Hired by: Michelin USA. 
+12. Dean Rotenberg, (M.Sc.) Thesis: “Ultracapacitor Assisted Powertrains: Modeling, Control, Sizing, and The Impact 
+on Fuel Economy” (September 06 - July 08) Hired by: Department of Defense- Aberdeen Proving Ground. 
+13. Saurabh Keni, (M.Sc. co-advised with Mohammed Daqaq) Thesis: “Stability Analysis and Decentralized Control of 
+Coupled Oscillators with Feedback Delays” (September 06 - July 08) Hired by: Caterpillar. 
+14. Tejas GhoVkar, (M.Sc.) Thesis: “EsVmaVon Of Vehicle Mass And Road Grade” (September 06 - July 08) Hired by: 
+Caterpillar. 
+15. Aditya Bhandari, (M.Sc.) Research Project: “Dynamic Programming For Energy OpVmizaVon Of Ultracapacitor 
+Hybrids” (September 06 - July 08) Hired by: Caterpillar. 
+16. Wolfgang Schmitnger, (M.Sc.) Research Project: “A Survey Of CondiVons Influencing A PEM Fuel Cell 
+Life” (September 05 - May 07) Hired by: Husky, Luxemburg.  
+Undergraduate Student Advising 
+1. Stefan Topper, “Control of a platoon of connected cars for improved mobility” (Spring 2016) 
+2. Hannah Willingham, “ComparaVve study of muscle faVgue models” (Spring 2016) 
+3. David Geyer, “CreaVng a scaled autonomous vehicle: so|ware implementaVon”(Spring 2016) 
+4. MaJhew Chicky, “CreaVng a scaled autonomous vehicle: hardware assembly” (Spring 2016) 
+5. Robert Hanlin, “ValidaVon of a human muscle faVgue model based on electromyography” (Spring 2014) 
+6. Stephen Lucich, “Modeling muscle faVgue dynamics in cycling” (Spring 12-Summer 12) 
+7. Zack O’Brien (Honor College), “AdopVng an iPhone as wireless control module of an electric bicycle”, (2009-2010) 
+8. JusVn Elgin, “AdopVng an iPhone as wireless control module of an electric bicycle”, (Fall 09) 
+9. Glenn Milner (Honor College), “Energy harvesVng wireless mouse” (Spring 09-Fall 10) 
+10. Eric Fenimore, “Energy harvesVng wireless mouse” (Spring 09) 
+11. Lance Clark, “DetecVon of human vital signs via wireless sensors with applicaVon in an electric bicycle 
+hapVcs” (Spring 09) 
+12. Erica Nasto, “IntegraVon of rider’s heart rate monitor in an electric bicycle’s control system” (Fall 08 and Spring 
+09) 
+13. Seneca Schepmann, (Honor College), “Development of an energy recuperaVon mechanism for an electric bicycle” 
+�
+ 
+12
+
+-----
+(Fall 07 and Spring 08) 
+14. Carl Eichel, “Development and performance verificaVon of an ultracapacitor hybrid bicycle" (Spring 07 and Fall 
+08) 
+15. Maria Koon, “Onboard control algorithms for a hybrid ultracapacitor bicycle” (Spring 07) 
+16. Tim Stoval, “Development and performance verificaVon of an ultracapacitor hybrid bicycle” (Spring 07) 
+17. Amir Matlock, “Survey of actuaVon mechanisms for control of lightweight structures" (Fall 06) 
+SERVICE 
+CommiJees and Memberships 
+●
+Associate Editor, Journal of Dynamic Systems, Measurement, and Control 
+●
+Vice Chair, Student Programs, 2016 American Control Conference 
+●
+Member, ASME ExecuVve CommiJee (treasurer) (2012-2015) 
+●
+Program CommiJee and Associate Editor: 2011-2015 American Control Conference 
+●
+Associate Editor: 2009-2011 ASME Dynamic Systems and Control Conference 
+●
+Member, American Society of Mechanical Engineers, ASME, (2001-) 
+●
+Member, InsVtute of Electrical and Electronics Engineers, IEEE, (2007-) 
+●
+IEEE Technical CommiJee on AutomoVve Controls (TCAC), (2005-) 
+●
+ASME Technical CommiJee on AutomoVve and TransportaVon Systems (ATS), (2005-) 
+Journal Reviews 
+●
+AutomaVca 
+●
+ASME Journal of Energy Resources Technology 
+●
+ASME Journal of Dynamic Systems, Measurement, and Control 
+●
+ASME Journal of VibraVon and AcousVcs 
+●
+IEEE TransacVons on Control System Technology 
+●
+IEEE TransacVons on Intelligent TransportaVon Systems 
+●
+IEEE/ASME TransacVons on Mechatronics 
+●
+Journal of Vehicle System Dynamics 
+●
+InternaVonal Journal of AdapVve Control and Signal Processing 
+●
+InternaVonal Journal of Systems Science 
+●
+European Journal of Control 
+●
+Control Engineering PracVce 
+●
+ACM TransacVons in Embedded CompuVng Systems 
+Proposal Reviews 
+●
+Ontario Research Fund, Government of Ontario, Canada - May 2016 
+●
+NaVonal Science FoundaVon Panel Reviewer – CMMI – Jun. 2015 
+●
+NaVonal Science FoundaVon Panel Reviewer - CMMI – Jun. 2010 
+●
+NaVonal Science FoundaVon Panel Reviewer - CMMI – Nov. 2008 
+●
+Natural Sciences and Engineering Research Council of Canada Reviewer – Oct. 2009 
+●
+U.S. Army Research Office – Feb. 2010. 
+�
+ 
+13
+
+-----

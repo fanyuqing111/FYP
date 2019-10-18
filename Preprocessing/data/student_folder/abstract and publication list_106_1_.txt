@@ -1,0 +1,193 @@
+i 
+ 
+3-D FREQUENCY-SELECTIVE STRUCTURE 
+AND ITS APPLICATIONS 
+ 
+ 
+ 
+ 
+ 
+AHMED ABDELMOTTALEB ABDELFATTAH ATTIA 
+OMAR 
+ 
+ 
+ 
+ 
+School of Electrical and Electronic Engineering 
+ 
+ 
+A thesis submitted to the Nanyang Technological University 
+in partial fulfillment of the requirement for the degree of 
+Doctor of Philosophy 
+ 
+2018 
+
+-----
+ii 
+ 
+ABSTRACT 
+Frequency-selective surfaces are 2-D infinite arrays that act as a filter for the 
+incident electromagnetic waves. They have been used in hybrid radomes, 
+dichroic main reflector, sub-reflector, microwave absorbers, absorptive 
+frequency-selective surfaces, high impedance surfaces and many other 
+applications. These 2-D arrays consist of slots in a conducting plate or 
+conducting strips printed on a dielectric layer, which is able to produce band-
+pass or band-stop frequency response, respectively. The traditional 2-D 
+frequency-selective surface suffers from some drawbacks, such as poor 
+selectivity and for some cases its performance is sensitive to oblique incidence. 
+Recently, 3-D frequency-selective structure was presented in the literature. By 
+employing multi-mode resonators, pseudo-elliptic response can be achieved, 
+which has better selectivity compared to 2-D surfaces. Here, we focus on 
+multiband high-order bandstop frequency-selective structure, ultra-wideband 
+absorber and absorptive frequency-selective transmission structure. 
+First, a general and systematic methodology is proposed to design multiband 
+high-order bandstop 3-D frequency-selective structures. By adjusting the 
+coupling between identical resonators, high-order response is achieved. 
+Through introducing multiple resonators in a single unit cell, one can readily 
+obtain multiband filtering response. Detailed analysis for the coupling between 
+identical resonators is provided, so are equivalent circuit models to explain the 
+operating principle. Two structures are designed, fabricated, and measured to 
+verify the proposed methodology. The first structure is a tri-band second-order 
+frequency-selective structure, while the second structure exhibits a dual-band 
+third-order response. 
+Although the 3-D frequency-selective structure has a good performance, it has 
+two problems; one is the thickness problem, which may limit its practical 
+applications and the other is the operation under dual-polarized incident wave. 
+A loop resonator is then proposed in the unit cell of the bandstop structure 
+instead of microstrip resonator aiming to achieve maximum reduction in the 
+
+-----
+iii 
+ 
+structure thickness. Using elliptical loop with stepped-impedance resonator, an 
+80% reduction in structure thickness is achieved without degrading the 
+performance compared to the original structure, which makes it suitable for the 
+practical applications. 
+In addition, folded substrate technique is employed for the bandpass frequency-
+selective structure to reduce its thickness. A 67% and 79% thickness reduction 
+compared to the basic bandpass 3-D frequency-selective structure is achieved 
+by employing three- and five-layer folded substrate, respectively. Moreover, a 
+half-cylindrically shaped radome as an example of conformal frequency-
+selective surface is constructed based on the proposed technique and integrated 
+with a broadband horn antenna. Besides working as a radome it shows good 
+filtering properties. A fabricated prototype of this radome is measured in the 
+presence of a broadband horn antenna. 
+Furthermore, double-sided parallel-strip line resonator is employed in the unit 
+cell of a 3-D frequency-selective structure in order to exhibit the desired 
+response (bandstop, bandpass and absorption) under an incident wave of 
+arbitrary polarization. It is found that this unit cell supports the propagation of 
+three quasi-TEM modes. A dual-polarized bandstop 3-D frequency-selective 
+structure is then proposed. Moreover, a dual-polarized absorber is also realized 
+employing a unit cell with double-sided parallel-strip line resonator. By 
+properly exciting and absorbing the second mode of the modified unit cell, an 
+ultra-wideband dual-polarized absorber is constructed. 
+As the last application example, which is absorptive frequency-selective 
+transmission structure, a tailoring methodology is proposed to achieve arbitrary 
+frequency response within a wide absorption band. An ultra-wideband absorber 
+utilizing multiple resonances in the unit cell of 3-D frequency-selective 
+structure is utilized as the textile for the proposed designs. Two structures are 
+proposed; one is the absorptive frequency-selective reflection structure and the 
+other is the absorptive frequency-selective transmission structure. Two 
+prototypes are designed, fabricated, and measured to validate the proposed 
+methodology. The first one is an ultra-wideband absorber, while the second one 
+
+-----
+iv 
+ 
+is an absorptive frequency-selective transmission structure with wide absorption 
+bands at both sides of its transmission window. A good agreement is achieved 
+between simulated and measured results. 
+Finally, a few suggestions and recommendations are made for further 
+investigation. For example, a tunable absorptive frequency selective 
+transmission is proposed, which may be integrated with a tunable antenna to 
+achieve a low radar cross-section tunable antenna system. The structure 
+employing double-sided parallel-strip line resonator may be suitable for 
+transmit / reflect arrays as well. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-----
+v 
+ 
+AUTHOR'S PUBLICATIONS 
+Journal papers 
+1. 
+A. A. Omar and Z. Shen, “Multiband high-order bandstop 3-D 
+frequency-selective structures,” IEEE Trans. Antennas Propag., vol. 
+64, no. 6, pp. 2217–2226, Jun. 2016. 
+2. 
+A. A. Omar and Z. Shen, “Thin bandstop frequency-selective 
+structures based on loop resonator,” IEEE Trans. Microw. Theory 
+Techn., vol. 65, no. 7, pp. 2298–2309, July. 2017. 
+3. 
+A. A. Omar and Z. Shen, “Double-sided parallel-strip line resonator 
+for dual-polarized 3-D frequency-selective structure and absorber,” 
+IEEE Trans. Microw. Theory Techn., vol. 65, no. 10, pp. 3744–3752, 
+Oct. 2017. 
+4. 
+A. A. Omar, Z. Shen, and H. Huang, “Absorptive frequency-
+selective reflection and transmission structures,” IEEE Trans. 
+Antennas Propag., vol. 65, no. 11, pp. 6173–6178, Nov. 2017. 
+5. 
+A. A. Omar and Z. Shen, “Thin bandpass 3-D frequency-selective 
+structure based on folded substrate for conformal radome 
+application,” IEEE Trans. Antennas Propag., to be submitted. 
+ 
+
+-----
+vi 
+ 
+Conference papers 
+1 
+A. A. Omar and Z. Shen, “Multi-band second-order bandstop 
+frequency selective structure with controllable band ratios,” IEEE 
+AP-S Antennas and Propag. Symp., Vancouver, British Columbia, 
+Canada, July 19-24, 2015. 
+2 
+A. A. Omar and Z. Shen, “A loop resonator for 3-D frequency 
+selective structure,” International Symp. On Antennas and Propag. 
+(ISAP), Hobart, Tasmania, Australia, November 09-12, 2015. 
+3 
+A. A. Omar and Z. Shen, “Dual-polarized absorber based on 3-D 
+frequency-selective structure,” IEEE AP-S Antennas and Propag. 
+Symp., Fajardo, Puerto Rico, USA, June 26- July 01, 2016, pp. 675–
+676. 
+4 
+A. A. Omar and Z. Shen, “An ultra-wideband absorber based on 
+multiple 
+resonators 
+in 
+3-D 
+frequency-selective 
+structure,” 
+International Conference on Electromagnetics in Advanced 
+Applications (ICEAA), Verona, Italy, September 11-15, 2017, pp. 
+1802–1804. 
+5 
+A. A. Omar and Z. Shen, “Ultra-wideband harmonic-suppressed 
+bandpass/stop frequency-selective surface based on L-C lumped 
+elements,” 12th European Conference on Antennas and Propagation 
+(EUCAP), London, UK, April 09-13, 2018. 
+
+-----
+vii 
+ 
+6 
+A. A. Omar and Z. Shen, “Tunable absorptive frequency-selective 
+transmission structure,” IEEE AP-S Antennas and Propag. Symp., 
+Boston, MA, USA, July 08-13, 2018 to be presented. 
+ 
+
+-----

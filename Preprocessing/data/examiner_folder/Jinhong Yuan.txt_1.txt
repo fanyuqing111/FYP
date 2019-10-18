@@ -1,0 +1,1280 @@
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+1/20
+WIRELESS COMMS LAB
+People>Yuan
+ 
+Prof. Jinhong Yuan
+ 
+Address:
+    School of Electrical Engineering and Telecommunications     
+ 
+    The University of New South Wales 
+ 
+    SYDNEY NSW 2052 
+ 
+    AUSTRALIA
+ 
+ 
+ 
+Email: j(dot)yuan(at)unsw(dot)edu(dot)au
+ 
+Phone: +61 2  9385 4244
+ 
+Fax:      +61 2  9385 5993
+Employment History:
+The University of Sydney, Research Fellow, 1997-2000
+The University of New South Wales, Lecturer, 2000-2001
+The University of New South Wales, Senior Lecturer, 2002-2005
+The University of New South Wales, Assoc. Professor, 2006-2009
+The University of New South Wales, Professor, 2010-
+Membership:
+IEEE FELLOW
+Editor for IEEE Transactions on Communications 2012-now
+Editor for European Transactions on Telecommunications 2011-now
+Guest Editor for EURASIP Journal on Wireless Communications and Networking, 2008
+Editor for ETRI Journal, South Korean, Oct. 2006- Sept. 2009
+A TPC Member of IEEE ICC 2005, 2006, 2007, 2008, 2009, 2010, 1011, 2012 Globecom 2003,
+2004, 2005, 2007, 2008, 2009, 2010, 2011, VTC2004 2005, 2006 2007 , etc
+TPC CO-CHAIR FOR IEEE ICC WCS 2014
+TPC CO-CHAIR FOR IEEE GLOBECOM CTS 2016
+TUTORIAL CHAIR FOR IEEE VTC 2017 SPRING
+General Chair of the 10thAustralian Communications Theory Workshop 2009, Sydney
+Chair of Communications Theory Symposium of The 13th IEEE international conference on
+communication technology (ICCT)
+Program Chair of Information and Coding Theory of the 7th International Conference on
+Communications and Networking in China(ChinaCOM 2012)
+General Chair for ACoRN workshop on cooperative wireless communications in 2007 in Sydney,
+2008 in Melbourne, 2009 in NICTA at Australian Technology Park, and 2014 in Sydney
+Research Interest:
+Mobile and Wireless Communications
+Information Theory
+Turbo Coding and Iterative Processing
+Home
+Research
+People
+Future Students
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+2/20
+Space Time Coding and MIMO Techniques
+Wideband CDMA and OFDM
+Awards:
+2011: Best Paper Award of IEEE Wireless Communications and Networking Conference (WCNC),
+Cancun, Mexico, 2011.  G. Wang, W. Xiang, J. Yuan, and T. Huang, "Outage Performance of Analog
+Network Coding in Generalized Two-way Multi-Hop Networks".
+2007: Best paper award of IEEE International Symposium on Wireless Communications Systems
+(ISWCS), October 2007, Trondheim, Norway. I. Nevat and J. Yuan, “Error Propagation Mitigation for
+Iterative Channel Tracking, Detection and Decoding of BICM-OFDM Systems”, Proceedings of
+IEEEInternational Symposium on Wireless Communications Systems (ISWCS), October 2007,
+Trondheim, Norway. (Sponsored jointly by IEEE Communications Society and IEEE Vehicular
+Technologies Society)
+2007: Best paper awardof International conference on wireless broadband and ultra wideband
+communications, Sept. 2007, Sydney, Australia. K. Huang, and J. Yuan, “Power Allocation for MMSE
+Feedback Precoder on Multi-Antenna Broadcast Channels”, International conference on wireless
+broadband and ultra wideband communications, Sept. 2007, Sydney, Australia
+2001:  Anthony Mason International Fellowship, the University of New South Wales 
+1997:  Norman I Fellowship, the University of Sydney
+1996:  Young Scientist Award of Chinese Institute of Electronics for a research paper
+Publications:
+Books
+Book Chapters
+Editorials
+Selected Journals
+Refereed Conferences
+Patents
+Books:                                                                                         Top
+      Branka Vucetic and Jinhong Yuan,  TURBO CODING: PRINCIPLES AND APPLICATIONS,
+Kluwer Academic Publishers,  May 2001.
+      Branka Vucetic and Jinhong Yuan, SPACE-TIME CODING, John Wiley & Sons, April 2003.
+Book Chapters:                                                                           Top
+      J. Yuan, B. Vucetic, W. Feng, and M. Tan, Chapter 2. Design of Cyclic-shift interleavers for
+turbo codes, (pp. 10-28), Edited by Michel Jezequel andRamesh Pyndiah,Turbo Codes:
+Error-Correcting Codes of Widening Application, Hermes Penton Science, 2002.
+        K. Huang, and J. Yuan, Chapter 6. Power Allocation for MMSE Feedback Precoder on Multi-
+Antenna Broadcast Channels, (pp. 133-152)J. Agbinya et al. Ed., The River Publishers’
+Series in Communications on Advances on Broadband Communication and Networks, 2008.
+        G. Geraci, and J. Yuan, Chapter 6. Physical Layer Security for Multiuser MIMO
+Communications, Recent Trends in Multi-user MIMO Communications, (pp.141-156), ISBN
+978-953-51-1210-5, edited by Maha Ben Zid, Recent Trends in Multi-user MIMO
+Communications, 2013.
+Editorial:                                                                                    Top
+           Y. Li, J. Yuan, A. Stefanov, and B. Vucetic, Advanced Error Control Coding Techniques,
+EURASIP Jour. on Wireless Communications and Networking, 2008.
+           X. Cheng, J. Yuan, A. Tajer, A. Hu, W. Zhou, Special issue on recent advances in network
+and information security-security and communication networks journal, Security and
+Communication Networks 8(1):1-1 10 Jan 2015
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+3/20
+           J. Yuan, Y. Yang and N. Zhou, Special Topic: Physical layer security for wireless and
+quantum communications, ZTE Communications, vol. 11, no. 3, Sept. 2013.
+Selected Journal Papers:                                                          Top 
+1.         H. Deng, H. M. Wang, J. Yuan, W. Wang, Q. Yin, Secure Communication in Uplink
+Transmissions: User Selection and Multiuser Secrecy Gain. IEEE Transactions on
+Communications, 2016, 64(8), 3492-3506. doi:10.1109/TCOMM.2016.2585128
+2.         L. Yang, T. Yang, Y. Xie, J. Yuan, and J.An, Linear physical-layer network coding
+and information combining for the K-user fading multiple-access relay network.
+IEEE Transactions on Wireless Communications, 2016, 15(8), 5637-5650.
+3.          F. K. Gong, G. Li, J. Ge, and J. Yuan, Distributed Concatenated Recursive
+Alamouti-Circulant STBC for Two-Way Multi-Relay Networks. IEEE Transactions on
+Communications, 2016, 64(8), 3262-3274. doi:10.1109/TCOMM.2016.2589269
+4.          D. Jia, Z. Fei, J. Yuan, S. Tian, andJ. Kuang, A Hybrid EF/DF Protocol With
+Rateless Coded Network Code for Two-Way Relay Channels. IEEE Transactions on
+Communications, 2016, 64(8), 3133-3147. doi:10.1109/TCOMM.2016.2583422
+5.         L. Yang, T. Yang, Y. Xie, J. Yuan and J. An, Multiuser Decoding Scheme for K-user
+Fading Multiple-Access Channel Based on Physical-Layer Network Coding. IEEE
+Communications 
+Letters, 
+2016, 
+20(5), 
+1046-1049.
+doi:10.1109/LCOMM.2016.2542132
+6.         Y. Xie, L. Yang and J. Yuan, Q-Ary Chain-Containing Quantum Synchronizable
+Codes. 
+IEEE 
+Communications 
+Letters, 
+2016, 
+20(3), 
+414-417.
+doi:10.1109/LCOMM.2015.2512261
+7.         H. Wang, T. Zheng, J. Yuan, D. Towsley and M. Lee, Physical Layer Security in
+Heterogeneous Cellular Networks. IEEE Transactions on Communications, 2016,
+64(3), 1204-1219. doi:10.1109/TCOMM.2016.2519402
+8.         Y. Xie, L. Yang, P. Kang, &J. Yuan, Euclidean geometry based spatially-coupled
+LDPC codes for storage. IEEE Journal on Selected Areas in Communications, vol.
+34, no. 9, Sept. 2016, pp. 2498-2509. doi:10.1109/JSAC.2016.2603703
+9.         Y. Liu, Z. Ding, M. Elkashlan, and J. Yuan, Non-orthogonal multiple access in
+large-scale underlay cognitive radio networks, IEEE Transactions on Vehicular
+Technology, Feb. 2016.
+10.       N. Yang, M. Elkashlan, T. Q. Duong, J. Yuan, and R. Malaney, Optimal
+transmission with artificial noise in MISOME wiretap channels, IEEE Transactions on
+Vehicular Technology, April 2016, vol 65, no. 4, pp. 2170-2181.
+11.      T. Zheng, H. Wang, J. Yuan, D. Towsley and M. Lee, Multi-Antenna Transmission
+with Artificial 
+Noise 
+Against 
+Randomly 
+Distributed 
+Eavesdroppers, 
+IEEE
+Transactions on Communications, vol. 63, no. 11, pp. 4347-4362, 2015.
+12.       S. Yan, N. Yang, G. Geraci, R. Malaney, and J. Yuan, Optimization of Code Rates
+in SISOME Wiretap Channels, IEEE Transactions on Wireless Communications, vol.
+14, no. 11, pp. 6377-6388, 2015.
+13.       B. He, N. Yang, X. Zhou, and J. Yuan, Base Station Cooperation for Confidential
+Broadcasting 
+in 
+Multi-Cell 
+Networks, 
+IEEE 
+Transactions 
+on 
+Wireless
+Communications, vol. 14, no. 10, pp. 5287-5299, 2015.
+14.       L. Yang, T. Yang, J. Yuan, and J. An, Achieving the near-capacity performance of
+two-way relay channels with modulation-coded physical-layer network coding, IEEE
+Transactions on Wireless Communications, vol. 14., no. 9, pp. 5225-5239, 2015
+15.       M. Shirvanimoghaddam, Y. Li, B. Vucetic, and J. Yuan, Binary Compressive
+Sensing Via Analog Fountain Coding, IEEE Transactions on Signal Processing, vol.
+63, no. 24, pp. 6540-6552, 2015.
+16.       L. Yao, N. Yang, M. Elkashlan, and J. Yuan, Partial Channel Quality Information
+Feedback in Multiuser Relay Networks over Nakagami-m Fading, IEEE Transactions
+on Wireless Communications, vol. 14, no. 9, pp. 4783-4796, 2015.
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+4/20
+17.       J. Guo, T. Yang, J. Yuan and J. Zhang, Linear Vector Physical-Layer Network
+Coding for MIMO Two-Way Relay Channels: Design and Performance Analysis, IEEE
+Transactions on Communications63(7):2591-2604 01 Jul 2015
+18.       C. Liu, N. Yang, J. Yuan, and R. Malaney, Location-Based Secure Transmission for
+Wiretap Channels, IEEE Journal on Selected Areas in Communications, 33(7):1458-
+1470 01 Jul 2015
+19.       N. Yang, S. Yan, J. Yuan, R. Malaney, R. Subramanian, I. Land, Artificial noise:
+Transmission optimization in multi-input single-output wiretap channels, IEEE
+Transactions on Communications,63(5):1771-1783 01 May 2015
+20.       N. Yang, L. Wang, G. Geraci, M. Elkashlan, J. Yuan, M. Di Renzo, Safeguarding 5G
+wireless 
+communication 
+networks 
+using 
+physical 
+layer 
+security, 
+IEEE
+Communications Magazine, 53(4):20-27 01 Apr 2015
+21.       G. Wang, W. Xiang, J. Yuan, Multihop compute-and-forward for generalised two-
+way 
+relay 
+channels, 
+Transactions 
+on 
+Emerging 
+Telecommunications
+Technologies26(3):448-460 01 Mar 2015
+22.       J. Li, J. Yuan, R. Malaney, Wireless network coding design based on LDPC codes
+for 
+a 
+multiple-access 
+relaying 
+system, 
+Transactions 
+on 
+Emerging
+Telecommunications Technologies26(3):380-388 01 Mar 2015
+23.       T. Yang, Q. T. Sun, J. Yuan, J. A. Zhang, A Linear Network Coding Approach for
+Uplink Distributed MIMO Systems: Protocol and Outage Behavior, IEEE Journal on
+Selected Areas in Communications33(2):250-263 01 Feb 2015
+24.       I. Nevat, G. W. Peters, A. Doucet, J. Yuan, Joint channel and Doppler offset
+estimation in dynamic cooperative relay networks, IEEE Transactions on Wireless
+Communications, vol. 13, no. 12, pp. 6570-6579, Dec 2014
+25.       A. Razi, D. J. Ryan, J. Yuan and I. Collings, Sum rates for multi-user MIMO vector
+perturbation precoding with regularization, Physical Communication, vol. 13, Dec.
+2014, pp. 187-196.
+26.       C. Cao, Z. Fei, J. Yuan, J. Kuang, Low complexity list successive cancellation
+decoding of polar codes, IET Communications8(17):3145-3149 27 Nov 2014
+27.       M. Huang, and J. Yuan, Error Performance of Physical-Layer Network Coding in
+Multiple-Antenna TWRC, IEEE Transactions on Vehicular Technology63(8):3750-
+3761 Oct 2014
+28.       G. Wang, W. Xiang, J. Yuan,  Generalized Wireless Network Coding Schemes for
+Multihop 
+Two-Way 
+Relay 
+Channels, 
+IEEE 
+Transactions 
+on 
+Wireless
+Communications13(9):5132-5147 Sep 2014
+29.       F. Dong, A. Burr, J. Yuan, Linear Physical-Layer Network Coding Over Hybrid
+Finite Ring for Rayleigh Fading Two-Way Relay Channels, IEEE Transactions on
+Communications62(9):3249-3261 Sep 2014
+30.       N. Yang, G. Geraci, J. Yuan, R. Malaney, Confidential Broadcasting via Linear
+Precoding in Non-Homogeneous MIMO Multiuser Networks, IEEE Transactions on
+Communications62(7):2515-2530 Jul 2014
+31.       Q. Wang, D-W Yue, J. Yuan, An optimal cooperative spectrum sensing strategy
+with exponential primary link traffic, Wireless Communications and Mobile
+Computing14(8):789-802 10 Jun 2014
+32.       G. Geraci, H. S. Dhillon, JG Andrews, J. Yuan, Collings IB, Physical Layer Security
+in 
+Downlink 
+Multi-Antenna 
+Cellular 
+Networks, 
+IEEE 
+Transactions 
+on
+Communications62(6):2006-2021 Jun 2014
+33.       G. Geraci, S. Singh, J. Andrews, J. Yuan, I. B. Collings, Secrecy Rates in Broadcast
+Channels with Confidential Messages and External Eavesdroppers, IEEE
+Transactions on Wireless Communications13(5):2931-2943 May 2014
+34.       S. Yan, N. Yang, R. Malaney, and J. Yuan, “Transmit antenna selection with
+Alamouti coding and power allocation in MIMO wiretap channels,” IEEE Trans.
+Wireless Communications, 13(3):1656-1667 Mar 2014
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+5/20
+35.       L. Wang, N. Yang, M. Elkashlan, P. L. Yeoh, and J. Yuan, “Physical layer security
+of maximal ratio combining in two-wave with diffuse power fading channels,” IEEE
+Transactions on Information Forensics and Security, vol. 9, no. 2, pp. 247-258,
+Feb. 2014
+36.       M. A. Karim, J. Yuan, Z. Chen, and J. Li, Distributed Space-Time Code with Mutual
+Information 
+Based 
+Soft 
+Information 
+Relaying, 
+IEEE 
+Communications
+Letters,17(12):2276-2279, Dec 2013
+37.       N. Yang, M. Elkashlan, P. L. Yeoh, and J. Yuan, “An introduction to transmit
+antenna 
+selection 
+in 
+MIMO 
+wiretap 
+channels,” 
+Invited 
+Paper
+forZTE Communications, vol. 11, no. 3, pp. 26-32, Sept. 2013
+38.       J.A. Zhang, I.B. Collings, C. Chen, L. Roullet, L. Luo, S. Ho and J. Yuan, "Evolving
+Small-Cell 
+Communications 
+Towards 
+Mobile-Over-FTTx 
+Networks", 
+IEEE
+Communications Magazine, vol. 51, no. 12, pp. 92-101, Dec 2013.
+39.       Q. T. Sun, T. Huang, and J. Yuan, On Lattice-Partition-Based Physical-Layer
+Network Coding over GF(4), IEEE Communications Letters, vol. 17, No. 10, Oct
+2013, pp. 1988-1991
+40.       N. Yang, P. L. Yeoh, M. Elkashlan, R. Schober, and  J. Yuan,  MIMO Wiretap
+Channels: Secure Transmission Using Transmit Antenna Selection and Receive
+Generalized Selection Combining,   IEEE Communications Letters, vol. 19, no. 9,
+Sept 2013, pp. 1754-1757.
+41.       Z. Fei, A. Yang, C. Xing, J. Yuan, J. Kuang ,“Performance of  Superposition Coding
+for Downlink Coordinated Two-Point System”,   IEEE Transactions on Vehicular
+Technology, vol. 62, no. 8, Oct 2013, pp. 4057-4064.
+42.       G. Geraci, A. Y. Al-nahari, J. Yuan, and I. Collings, Linear Precoding for Broadcast
+Channels with Confidential Messages under Transmit-Side Channel Correlation,
+IEEE Communications Letters, Vol. 17, No. 6, pp. 1164-1167, June 2013.
+43.       G. Geraci, R. Couillet, J. Yuan, M. Debbah, and I. B. Collings, Large System
+Analysis of Linear Precoding in MISO Broadcast Channels with Confidential
+Messages, IEEE Journal on Selected Areas in Communications-PHYSEC, vol 31, no.
+9, Sept 2013, pp. 1660-1671.
+44.       M. H. Azmi, J. Li, J. Yuan, and R. Malaney, LDPC codes for soft decode-and-
+forward in half-duplex relay channels, IEEE Journal on Selected Area in
+Communications, in Special Issue on Theories and Methods for Advanced Wireless
+Relays, vol. 31, no. 8, Aug. 2013, pp. 1402-1413
+45.       Q. T. Sun, J. Yuan,  T. Huang, and K. W. Shum, Lattice Network Codes Based on
+Eisenstein Integers, IEEE Transactions on Communications, vol. 61, no. 7, Jul
+2013, pp. 2713-2725
+46.       A. Yang, Z. Fei, C. Xing, M. Xiao, J. Yuan, and J. Kuang, Design of Binary Network
+Codes for Multi-user  Multi-way Relay Networks, IEEE Transactions on Vehicular
+Technologies, vol. 62, no. 8, Oct 2013, pp. 3786-3799
+47.       J. Li, W. Chen, A. Norsratinia, J. Yuan, On The Throughput-Reliability Tradeoff for
+Amplify-and-Forward Cooperative Systems,  IEEE Transactions on Communications,
+Vol. 61, no. 4, April 2013, pp.1290-1303.
+48.      T. Yang, X. Yuan, P. Li, I. B. Collings and J. Yuan, A new physical-layer network
+coding scheme with eigen-direction alignment precoding for MIMO two-way
+relaying,   IEEE Transactions on Communications, vol 61, no 3, Mar. 2013, pp.973-
+986
+49.       G. Wang, W. Xiang, and J. Yuan, "Multi-Hop Compute-and-Forward for
+Generalized 
+Two-Way 
+Relay 
+Channels," 
+Transactions 
+on 
+Emerging
+Telecommunications Technologies, Apr. 2013.
+50.       J. Li, M. A. Karim, J. Yuan, Z. Chen, Z. Lin, B. Vucetic, “Novel Soft Information
+Forwarding Protocols in Two-Way Relaying Channels,”   IEEE Transactions on
+Vehicular Technology, vol. 62, no. 5, May 2013, pp. 2374-2381.
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+6/20
+51.       J. Li, J. Yuan, and R. Malaney, “Wireless Network Coding Design based on LDPC
+Codes for a Multiple-Access Relaying System,” European Transactions on Emerging
+Telecommunications Technologies, Jan 2013.
+52.       T. Huang, T. Yang, J. Yuan, and I. Land, Design of irregular repeat-accumulate
+coded physical-layer network coding for Gaussian Two-way relay channels,  IEEE
+Transactions on Communications, vol. 61, no. 3, Mar. 2013, pp. 897-909.
+53.       J. C. F. Li, W. Zhang, A. Nosratinia, and J. Yuan, SHARP: Spectrum harvesting
+with ARQ retransmission and probing in cognitive radio, IEEE Transactions on
+Communications, vol. 61, no. 3, pp. 951-960, Mar, 2013
+54.       G. Wang, W. Xiang, and J. Yuan, Outage Analysis for Compute-and-Forward in
+Generalized Multi-Way Relay Channels, IEEE Communications Letter, vol. 16, pp.
+2099-2102, Dec 2012.
+55.       James C. F. Li, Wei Zhang, Aria Nosratinia, and Jinhong Yuan, SHARP: Spectrum
+harvesting with ARQ retransmission and probing in cognitive radio, IEEE
+Transactions on Communications, vol. 61, no. 3, Mar 2013, pp. 951-960.
+56.       Gareth Peters, Ido Nevat, and Jinhong Yuan, System Identification in Wireless
+Relay Networks via Gaussian Process, IEEE Transactions on Vehicular Technologies,
+vol. 61 no. 9, pp. 3969-3983, 2012
+57.       N. Yang, P. L. Yeoh, M. Elkashlan, J. Yuan, and I. B. Collings, “Cascaded TAS/MRC
+in 
+MIMO 
+multiuser 
+relay 
+networks,” 
+IEEE 
+Transactions 
+on 
+Wireless
+Communications, vol. 11, no. 10, Oct 2012, pp. 3829-3839.
+58.       Q. Wang, Dianwu Yue, and Jinhong Yuan, An Optimal Cooperative Spectrum
+Sensing Strategy with Exponential Primary Link Traffic,  Wireless Communications
+and Mobile Computing, April 2012
+59.       Marwan H. Azmi, Jun Li, Jinhong Yuan, and Robert Malaney, LDPC codes for soft
+decode-and-forward in half-duplex relay channels, IEEE Journal on Selected Area in
+Communications, Special Issue on Theories and Methods for Advanced Wireless
+Relays, vol. 31, no. 11, Nov. 2013, pp. 2517-2527
+60.       Giovanni Geraci, Malcolm Egan, Jinhong Yuan, Adeel Razi, Iain Collings, Secrecy
+Sum-Rates for Multi-User MIMO Regularized Channel Inversion Precoding,   IEEE
+Transactions on Communications, vol. 60, no. 11, Nov 2012, pp. 3472-3482.
+61.      N. Yang, M. Elkashlan, Phee Lep Yeoh, and J. Yuan, “Multiuser MIMO relay
+networks in Nakagami-m fading channels,” IEEE Transactions on Communications,
+vol. 60, no. 11, Nov 2012, pp. 3298-3310.
+62.       Jun Li, Jinhong Yuan, Robert Malaney, Ming Xiao and Wen Chen, “Full-diversity
+binary frame-wise Network Coding for Multiple-Source Multiple-Relay Networks
+over slow-fading channels,” vol. 61, no. 3,  IEEE Transactions onVehicular
+Technologies, pp. 1346-1360, 2012.
+63.       Md Anisul Karim, Jinhong Yuan, Zhuo Chen and Jun Li, Soft information relaying
+in fading channels, IEEE Wireless Communications Letters, vol. 1, no. 3, pp. 233-
+236, June 2012.
+64.       Tao Yang, Ingmar Land, Tao Huang, Jinhong Yuan, and Zhuo Chen, Distance
+spectrum and performance of channel-coded physical-layer network coding for
+binary-input 
+Gaussian 
+two-way 
+relay 
+channels, 
+IEEE 
+Transactions 
+on
+Communications, vol. 60, no. 6, pp. 1499-1510, June 2012.
+65.        Adeel Razi, Yubin Shao, Jinhong Yuan: User scheduling for multi-antenna
+downlink channels with limited feedback. Trans. European Transactions on
+Telecommunications, Emerging Telecommunications Technologies (ETT) 23(1):36-
+49 (2012)
+66.       M. H. Azmi, J. Yuan, G. Lechner, and L. K. Rasmussen, , Design of Multi-Edge-
+Type Bilayer-Expurgated LDPC Codes for Decode-and-Forward in Relay Channels,
+IEEE Transactions on Communications, vol. 59, no. 11, pp. 2993 – 3006, 2011
+67.       J. C. F. Li, W. Zhang, and J. Yuan, “Opportunistic spectrum sharing in cognitive
+radio networks based on primary limited feedback,” IEEE Transactions on
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+7/20
+Communications, vol. 59, no. 10, October, pp. 3272-3277, 2011
+68.       G. Wang, W. Xiang, J. Yuan, and T. Huang, "Outage Analysis of Non-Regenerative
+Analog Network Coding for Two-Way Multi-Hop Networks", IEEE Communications
+Letters, vol. 15, no. 6, pp. 662-664, 2011.
+69.       Jun Li, Jinhong Yuan, Robert Malaney, Marwan H. Azmi, and Ming Xiao,
+“Network Coded LDPC Code Design for a Multi-source Relaying System,” IEEE
+Transactions on Wireless Communications. vol. 10, no. 5, pp. 1538-1551, 2011
+70.       N. Yang, M. Elkashlan, and J. Yuan, “Impact of Opportunistic Scheduling on
+Cooperative Dual-Hop Relay Networks ", IEEE Transactions on Communications,
+vol. 59, no. 3, Mar 2011, pp. 689-694.
+71.       D. Yue, J. Yuan, “On the power of MIMO broadcast systems under SNR
+constraints with limited feedback”, IEEE Transactions on Vehicular Technologies,
+vol. 60, no. 1, pp. 349-353, Jan. 2011
+72.      T. Yang, J. Yuan, and W. Zhang, “Recovering cooperative multiplexing gain in
+wireless relay networks” IEEE Transactions on Communications, vol. 58, no. 12, pp.
+3538-3549,  Dec. 2010
+73.       G.W. Peters, I. Nevat, S. Sisson, Y. Fan and J. Yuan, “Bayesian symbol detection
+in wireless relay networks via likelihood-free inference,” IEEE Transactions On
+Signal Processing, vol. 58, no. 10, pp. 5206-5218, Oct. 2010.
+74.       Md. A. Karim, T. Yang, J. Yuan, Z. Chen, and I. Land “A Novel Soft Forwarding
+Technique for Memoryless Relay Channels Based on Symbol-Wise Mutual
+Information,”  IEEE Communication Letters,  vol. 14, no. 10, pp. 927-929, Oct.
+2010
+75.       N. Yang, M. Elkashlan, J. Yuan, and T. Shen, “On the SER of Fixed Gain Amplify-
+and-Forward 
+Relaying 
+with 
+Beamforming 
+in 
+Nakagami-m 
+Fading”,IEEE
+Communication Letters, vol. 14, no. 10, pp. 942-944, Oct. 2010.
+76.       Nevat, T. Yang, K. Avnit, and J. Yuan, “MIMO Detection With High-level
+Modulations using Power Equality Constraints,” IEEE Transactions on Vehicular
+Technologies, vol. 59, no. 7, pp. 3383-3392, Sept.  2010
+77.       N. Yang, M. Elkashlan, and J. Yuan, “Outage Probability of Multiuser Relay
+Networks in Nakagami-m Fading Channels", IEEE Transactions on Vehicular
+Technology, vol. 59, no. 5, pp. 2120-2132, June 2010.
+78.       Nevat, G. W. Peters and J. Yuan, “Detection of Gaussian Constellations in MIMO
+systems under Imperfect CSI,” IEEE Transactions on Communications, vol. 58, no.
+4, pp. 1151-1160, April 2010,
+79.       J. Yuan, Y. Li, and L. Chu, “Differential Modulation and Relay Selection With
+Detection-and-forward Cooperative Relaying,” IEEE Transactions on Vehicular
+Technology, vol. 59, no. 1, Jan 2010, pp. 261-268.
+80.       H.Q. Huynh, S.I. Husain, J. Yuan, A.Razi and H. Suzuki, “Performance Analysis of
+Multi-branch Dual-hop Non-regenerative Relay Systems”, EURASIP Journal on
+Wireless Communications and Networking. vol. 2010, Article ID 835498, 2010.
+doi:10.1155/2010/835498
+81.       T. Yang, and J. Yuan, “Performance of Iterative Decoding for Superposition
+Modulation-based Cooperative Transmission”, IEEE Transactions on Wireless
+Communications, vol. 9, no. 1, pp. 51-59, Jan. 2010
+82.       Razi, D. J. Ryan, I. B. Collings, J. Yuan, “Sum rates, rate allocation and user
+scheduling for multi-user MIMO vector perturbation precoding”, IEEE Transactions
+on Wireless Communications, vol. 9, no. 1, Jan. 2010, pp. 356-365.
+83.       J. Yuan, Z. Chen, Y. Li and J. Chu, “Distributed Space-time trellis codes for a
+cooperative system”,  IEEE Trans. Wireless Communications. 2009, vol. 8, No. 10,
+Oct 2009, pp. 4897-4905
+84.       G. W. Peters, Ido Nevat, and J. Yuan, Channel Estimation in OFDM Systems with
+Unknown Power Delay Profile using Trans-dimensional MCMC via Stochastic
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+8/20
+Approximation and Conditional Path Sampling, IEEE Trans. Signal Processing,  
+Sep. 2009, vol 57, No. 9 pp. 3545-3561.
+85.       T. Yang, J. Yuan, and Z. Shi, “Rate Optimization for IDMA systems with iterative
+joint multiuser decoding”,   IEEE Trans. Wireless Communications.  vol 8. No. 3,
+March, 2009, pp.1148-1153.
+86.       Syed, J. Yuan, J. Zhang, and R. K. Martin, “Time Domain Equalizer Design Using
+Bit Error Rate Minimization for UWB Systems,” EURASIP Journal on Wireless
+Communications and Networking, March 2009. doi:10.1155/2009/786291
+87.       Nevat and J. Yuan, “Joint Channel Tracking and Decoding for BICM-OFDM
+Systems using Consistency Tests and Adaptive Detection Selection,”  IEEE
+Transactions on Vehicular Technology, vol 58 no 8, pp. 4316-4328. 2009
+88.       T. Yang, J. Yuan, and Z. Shi , “Joint Gaussian approximation and multi-stage LLR
+combining in the iterative receiver for MIMO-BICM systems”, IEEE Trans. Wireless
+Communications, vol. 7, no. 12, Dec. 2008, pp. 5250-5256
+89.       T. Yang, J. Yuan, Z. Shi and M. C. Reed, Convergence Behavior Analysis and
+Detection Switching for the Iterative Receiver of MIMO-BICM Systems, IEEE
+Transactions on Vehicular Technology, vol. 57, no. 4, July 2008, pp. 2642-2648.
+90.       K. Allan, Y. Li and B. Vucetic, J. Yuan "Power allocation and code construction for
+space–time turbo trellis codes with partial CSI feedback," IEE Electronics Letters,
+May 2008 vol. 44, no. 11, pp. 689-690.
+91.       L. Chu, J. Yuan, and Z. Chen, “A Coded Beamforming Scheme for Frequency-Flat
+MIMO Fading Channels,” IEE Proceedings Communications, no 5, pp. 1075-1081,
+Oct. 2007.
+92.       X. Shao, J. Yuan, and Y, Shao, “Error performance analysis of linear zero forcing
+and MMSE precoders for MIMO broadcast 
+channels,” 
+IEE 
+Proceedings
+Communications, Oct. 2007, no 5, pp. 1067–1074.
+93.       S. I. Husain, J. Yuan and J. Zhang, “Modified channel shortening receiver based
+on MSSNR algorithm for UWB channels,” IEE Electronics Letters, vol. 43, no 9, April
+2007, pp. 535-537
+94.       J. Yuan, “Adaptive transmit antenna selection with pragmatic space-time trellis
+codes,”IEEE Transactions on Wireless Communications, vol. 5, no. 7, pp. 1706-
+1715, July 2006.
+95.       X. Shao and J. Yuan, “Multiuser scheduling for MIMO broadcast and multiple
+access channels with linear precoders and receivers,”IEE Proc-Communi., vol. 153,
+no. 4, pp. 541-547, August 2006.
+96.       J. Choi, Y. Hong and J. Yuan, "An approximate MAP-based iterative receiver for
+MIMO channels using modified sphere detection", IEEE Transactions on Wireless
+Communications, vol. 5, no. 8, pp. 2119-2126, July 2006.
+97.       Y. Yu, S. Kerouedan, and J. Yuan, “Transmit antenna shuffling for quasi-
+orthogonal space-time block codes with linear receivers”, IEEE Communications
+Letters, vol. 10, no. 8, pp. 596-598, August 2006.
+98.       Y. Yu, S. Kerouedan, and J. Yuan, “Closed-loop extended orthogonal space-time
+block codes for three and four transmit antennas”, IEEE Signal Processing Letters,
+vol 13, no. 5, pp. 273-276, May 2006.
+99.       T. Yang, and J. Yuan, “Performance of MIMO-BICM with Parallel Interference
+Canceller on Slow Fading Channels”, IEE Electronics Letters, vol. 42, issue 22, pp.
+1292-1293, Oct 2006.
+100.     Z. Chen, J. Yuan, and B. Vucetic, “Analysis of transmit antenna
+selection/maximal-ratio combining in Rayleigh fading channels”, IEEE Transactions
+on Vehicular Technology, vol. 54, no. 4, pp. 1312-1321, July 2005.
+101.     Z. Chen, B. Vucetic, and J. Yuan, “Asymptotic performance of space-time block
+codes with imperfect transmit antenna selection”, IEE Electronics Letters, vol. 41,
+no. 9, pp. 538-539, April 2005.
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+9/20
+102.     Y. Hong, J. Yuan, Z. Chan, B. Vucetic, “Space-time turbo trellis code for two,
+three and four transmit antennas,”  IEEE Transactions on  Vehicular Technology, 
+vol. 53, no.2, pp. 318-328, Mar. 2004.
+103.     Y. Hong, J. Yuan and J. Choi, "Performance analysis of space-time trellis coded
+OFDM over quasi-static frequency selective fading channels", accepted by IEEE
+Transactions on Vehicular Technology in Sept. 2004.
+104.     J. Yuan and Z. Chen, "On the performance of space-time block codes on fading
+channels", accepted by IEICE Transactions on Communications in May 2004.
+105.     J. Yuan, Z. Chen, B. S. Vucetic, and W. Firmanto, “Performance and design of
+space-time coding in fading channels,” IEEE Transactions on Communications, vol.
+51, no. 12, pp. 1991-1996, Dec. 2003.
+106.     Z. Chen, J. Yuan, B. Vucetic, and Z. Zhou, "Performance of  Alamouti scheme with
+transmit antenna selection,"  IEE Electronics Letters, vol. 39, no. 23, pp. 1666-
+1668, Nov. 2003.
+107.     X. Shao and J. Yuan, "A New differential space-time block coding scheme", IEEE
+Communications Letters, vol. 7, no. 9, pp. 437-439, Sep. 2003.
+108.     Z. Chen, B. Vucetic, and J. Yuan, “Space-time trellis codes with transmit antenna
+selection,”  IEE Electronics Letters, vol. 39, no. 11, pp. 854-855, May 2003.
+109.     J. Yuan,  W. Feng,  and  B. Vucetic,  Parallel and Serially Concatenated Codes for
+Fading Channels, IEEE Transactions on Communications, vol. 50, no. 10, Oct.
+2002, pp. 1600-1608.
+110.     W. Firmanto, J. Yuan, and B. Vucetic, Recursive space-time TCM for Serial/Parallel
+Concatenation, IEICE Transactions on Communication, vol. E85-B, no. 9, Sep.
+2002, pp. 1846-1848.
+111.     W. Feng, J. Yuan,  and  B. Vucetic,  A Code Matched Interleaver Design for Turbo
+Codes, IEEE Transactions on Communications, vol. 50, no. 6, June. 2002, pp. 926-
+937.
+112.     W. Firmanto, J. Yuan, and B. Vucetic, Turbo codes with transmit diversity:
+performance analysis and evaluation, IEICE Transactions on Communication, vol.
+E85-B, no. 5, May 2002, pp. 859-865.
+113.     W. Firmanto, B. Vucetic, J. Yuan, and Z. Chen, “Space-time turbo trellis coded
+modulation for wireless data communications,” EURASIP Journal on Applied Signal
+Processing, vol. 2002, no. 5, pp. 459-470, May 2002.
+114.     Z. Chen, B. Vucetic, J. Yuan, and K L. Lo, “Space-time trellis codes for 8-PSK with
+two, three and four transmit antennas in quasi-static flat fading channels,” IEE
+Electronics Letters, vol. 38, no. 10, pp. 462-464, May 2002.
+115.     Z. Chen, B. S. Vucetic, J. Yuan, and K. L.  Lo, “Space-time trellis codes for 4-PSK
+with three and four transmit antennas in quasi-static flat fading channels,” IEEE
+Communications Letters, vol. 6, no. 2, pp. 67-69, Feb. 2002.
+116.     J. Yuan, W. Firmanto, and B. Vucetic, Trellis Coded 2XMPSK Modulation with
+Transmit Diversity,  Journal of Communications and Networks, Sep. 2001, pp. 273-
+280.
+117.     J. Yuan, B. Vucetic, W. Feng, M. Tan, Design of Cyclic Shift Interleavers for Turbo
+Codes, Annals of Telecommunications, vol. 56, no. 7-8, Jul-Aug, 2001, pp. 384-
+393.
+118.     W. Firmanto, B. Vucetic, and J. Yuan, Space-Time TCM with Improved
+Performance on Fast Fading Channels, IEEE Communications Letters, April 2001,
+vol. 5, No. 4, pp. 154-156.
+119.     Z. Chen, J. Yuan, and B. Vucetic, “Improved space-time trellis coded modulation
+scheme on slow Rayleigh fading channels,” IEE Electronics Letters, vol. 37, no. 7,
+pp. 440-442, Mar. 2001.
+120.     Jinhong Yuan  and  Branka Vucetic,  Turbo Trellis Coded Modulations for Fading
+Channels,  IEE  Electronics Letters,  Aug., 2000, vol. 36, no. 18, pp. 1562-1563.
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+10/20
+121.     Jinhong Yuan,  Branka Vucetic  and  Wen Feng,  Combined Turbo Codes and
+Interleaver Design, IEEE Transactions on Communications,  vol. 47, no. 4, Apr.
+1999, pp. 484-487.
+122.     Jinhong Yuan  and  Jingming Kuang,  Trellis Coded Orthogonal Frequency
+Division Multiplexing for Fading Channels,  Journal of Communications, vol. 19, no.
+2, Feb. 1998,  pp. 38-43.
+123.     Jinhong Yuan  and  Jingming Kuang,  The Key Techniques of Digital Mobile
+Communications,  Electronics Reference,  Nov. 1995,  pp. 22-24.
+124.     Jinhong Yuan,  Jingming Kuang  and  Yong Wang,  The Techniques and
+Development of Digital Mobile Communications,  Special Issue of Journal of Beijing
+Institute of Technology,  Oct. 1995,  pp. 131-140.
+125.     Jinhong Yuan  and  Jingming Kuang,  An Efficient Algorithm for Computing Free
+Euclidean Distance and Product Distance of TCM Codes,  Journal of Beijing Institute
+of Technology,  Aug. 1995,  vol.15, no.3,  pp. 311-316.
+126.     Jinhong Yuan,  Jingming Kuang  and  Youan Ke,  Punctured Convolutional
+Coding Combined with MPSK Modulation,  Journal of Beijing Institute of
+Technology,  May. 1995, vol.15, no.2,  pp. 163-170.
+127.   Jinhong Yuan  and  Jingming Kuang,  A Simulation for Mobile Radio Channels and Its
+Application,  Journal of Beijing Institute of Technology,  Aug. 1994,  vol.14, no.3,  pp.
+299-304.
+Selected Refereed Conference Papers:                          Top
+1.          Z. Sun, Y. Xie, J. Yuan and T. Yang, Coded Slotted ALOHA Schemes for Erasure
+Channels, accepted by  ICC, 2016
+2.          Y. Deng, L. Wang, M. Elkashlan, M. D. Renzo, and J. Yuan, K-tier Heterogeneous
+Cellular Networks with Wireless Power Transfer, accepted by  ICC, 2016
+3.          L. Zhao, T. Yang, G. Geraci, and J. Yuan, Downlink Multiuser Massive MIMO in
+Rician Channels under Pilot Contamination, accepted by  ICC, 2016
+4.          B. He, N. Yang, X. Zhou, J. Yuan, Confidential broadcasting via coordinated
+beamforming in two-cell networks, ICC, 2015, London, pp. 7376-7382.
+5.         Y. Deng, L. Wang, Z. S.A.R. J. Yuan, M. Elkashlan, On the security of large scale
+spectrum sharing networks, ICC, 2015, London, pp.4877-4882.
+6.         J. Dai, T. Shuang, J. Yuan, Z. Fei, J. Kuang, A hybrid EF/DF protocol with rateless
+coded network code for two-way relay channels, 2015 International Symposium on
+Network Coding (NetCod), Sydney, pp. 91-95.
+7.         S. Yan, N. Yang and J. Yuan, Fundamental properties of on-off transmission
+scheme for wiretap channels, 2015 International Conference on Wireless
+Communications and Signal Processing (WCSP), 2015.
+8.         T. Huang, J. Yuan, X. Cheng, and L. Wan, Advanced Link-to-System Modeling of
+MMSE-SIC Receiver in MIMO-OFDM Systems , The 9th International Conference on
+Signal Processing and Communication Systems, Cairns, Australia, 2015
+9.         T. Huang, J. Yuan, X. Cheng, and L. Wan,  Design of degree of distribution of LDS-
+OFDM, The 9th International Conference on Signal Processing and Communication
+Systems, Cairns, Australia, 2015
+10.       J. Yuan, L. Yang, T. Yang, and J. An, Design of non-binary irregular repeat-
+accumulate codes for reliable physical-layer network coding, in Proc. 22nd Int.
+Conf. Telecommun. (ICT 2015), Sydney, NSW, Apr. 2015.
+11.       M. Huang and J. Yuan, Lattice network coding in multiple-antenna two-way relay
+channels, in Proc. 22nd Int. Conf. Telecommun. (ICT 2015), Sydney, NSW, Apr.
+2015.
+12.       J. Guo, T. Yang, J. Yuan, and J. A. Zhang, Design of linear physical-layer network
+coding for MIMO two-way relay channels without transmitter CSI, in Proc. 2015
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+11/20
+IEEE Wireless Commun. and Netw Conf. (IEEE WCNC 2015), New Orleans, LA, Mar.
+2015.
+13.       S. Yan, N. Yang, R. Malaney, and J. Yuan, Antenna switching for security
+enhancement in full-duplex wiretap channels, in Proc. 2014 IEEE Globecom
+Workshops (GC Wkshps 2014), Austin, TX, Dec. 2014.
+14.       T. Huang, X. Yuan, J. Yuan, Degrees of Freedom of Half-duplex MIMO Multi-way
+Relay Channel with Full Data Exchange, IEEE Globecom 2014
+15.       M. A. Girnyk, M. Vehkapera, J. Yuan, L. K. Rasmussen, On the ergodic secrecy
+capacity of MIMO wiretap channels with statistical CSI, Proceedings of 2014
+International Symposium on Information Theory and Its Applications, IEEE ISITA
+2014. pp. 398-402. 08 Dec 2014
+16.       Y. Xie, J. Yuan, and Y. Fujiwara, Quantum synchronizable codes from quadratic
+residue codes and their supercodes, in Proc. 2014 IEEE Inf. Theory Workshop (ITW
+2014), Hobart, TAS, Nov. 2014, pp. 172-176.
+17.       C. Liu, N. Yang, S. Yan, J. Yuan, and R. Malaney, Secure adaptive transmission in
+two-way relay wiretap channels, in Proc. 2014 IEEE/CIC International Conference
+on Communications in China (ICCC 2014), Shanghai, Oct. 2014, pp. 664-669.
+18.       L. Yang, T. Yang, J. Yuan, and J. An, Irregular repeat-accumulate coded physical-
+layer network coding design for two-way relay channels, in Proc. 2014 IEEE/CIC
+International Conference on Communications in China (ICCC 2014), Shanghai, Oct.
+2014, pp. 91-96.
+19.       N. Yang, J. Yuan, R. Malaney, R. Subramanian, and I. Land, Artificial noise with
+optimal power allocation in multi-input single-output wiretap channels, in Proc.
+2014 IEEE Int. Conf. Commun. (ICC 2014), Sydney, NSW, Jun. 2014, pp. 2184-
+2190.
+20.       G. Geraci, J. Yuan, HS. Dhillon, J. G. Andrews, I. B. Collings, A new model for
+physical layer security in cellular networks, 2014 IEEE International Conference on
+Communications, ICC 2014 2147-2152 2014
+21.       A.Chakrapani, R. Malaney, J. Yuan, Low complexity power allocation scheme for
+regenerative multi-user relay networks, 2014 IEEE International Conference on
+Communications, ICC 2014 5419-5425 2014
+22.       G. Geraci, J. Yuan, S. Singh, J. G. Andrews, and I. B. Collings, MIMO multi-user
+secrecy rate analysis, in Proc. 2014 IEEE Int. Conf. Commun. (ICC 2014), Sydney,
+NSW, Jun. 2014, pp. 1023-1028.
+23.       S. Yan, G. Geraci, N. Yang, R. Malaney, and J. Yuan,On the target secrecy rate for
+SISOME wiretap channels, in Proc. 2014 IEEE Int. Conf. Commun. (ICC 2014),
+Sydney, NSW, Jun. 2014, pp. 987-992.
+24.       L. Wang, N. Yang, M. Elkashlan, P. L. Yioh, and J. Yuan, Physical layer security in
+wiretap two-wave with diffuse power fading channels, in Proc. 2014 IEEE Int. Conf.
+Commun. (ICC 2014), Sydney, NSW, Jun. 2014, pp. 981-986.
+25.       M. Huang, J.  Yuan, Physical-layer network coding with Alamouti scheme for the
+TWRC with linear decoder,  2014 Australian Communications Theory Workshop,
+AusCTW 2014 108-113 2014
+26.       C. Liu, N. Yang, G.Garaci, J. Yuan, R. Malaney, Secrecy in MIMOME wiretap
+channels: Beamforming with imperfect CSI, 2014 IEEE International Conference on
+Communications, ICC 2014 4711-4716 2014
+27.       C. Liu, G. Geraci, N. Yang, J. Yuan, R. Malaney, Beamforming for MIMO
+Gaussian wiretap channels with imperfect channel state information, in
+Proc. 2013 IEEE Globecom, Atlanta, GA, Dec. 2013, pp. 3253-3258.
+28.       S. Yan, N. Yang, R. Malaney, J. Yuan, Transmit antenna selection with Alamouti
+scheme in MIMO wiretap channels, in Proc. 2013 IEEE Globecom, Atlanta, GA, Dec.
+2013, pp. 665-670.
+29.       A. Huang, J. Yuan, Y.Fan, L. Tao, Flag dual amplitude pulse position modulation
+for atmospheric FSO communications, 2013, 7th International Conference on Signal
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+12/20
+Processing and Communication Systems, ICSPCS 2013
+30.       Giovanni Geraci, Romain Couillet, Jinhong Yuan, Merouane Debbah, Iain Collings,
+'Secrecy Sum-Rates with Regularized Channel Inversion Precoding under Imperfect
+CSI at the Transmitter, ICASSP 2013
+31.       T. Huang, J. Yuan, T. J. Li, Analysis of Compute-and-Forward with QPSK in Two-
+way Relay Fading Channels, AusCTW 2013.
+32.       F. Dong, N. Yang, M. Elkashlan, P. L. Yeoh, J. Yuan, Cooperative Jamming
+Protocols in Two Hop Amplify-and-Forward Wiretap Channels, IEEE ICC 2013.
+33.       N. Ding, I. nevat, G. Peters and J. Yuan, Opportunistic Network Coding for Two-
+way Relay Fading Channels, IEEE ICC 2013.
+34.       T. Huang, J. Yuan and Q. T. Sun, 'Opportunistic Pair-wise Compute-and-Forward in
+Multi-way Relay Channels, IEEE ICC 2013.
+35.       Yuanye Ma, Tao Huang, Jun Li, Jinhong Yuan, Zihuai Lin, Branka Vucetic, “Novel
+Nested Convolutional Lattice Codes for Multi-Way Relaying Systems over Fading
+Channels,” IEEE Wireless Communications and Networking Conference (WCNC),
+2013.
+36.       M. Huang, J. Yuan and T. Yang, Error probability of physical-layer network coding
+in multiple-antenna two-way relay channel, IEEE Globecom 2012.
+37.       Q. T. Sun, and J. Yuan, Lattice network codes based on Eisenstein integers, IEEE
+International Conference on Wireless and Mobile Computing, Networking and
+Communications, WiMob, 2012. Oct., Barcelona
+38.       M. A., Karim, J. Yuan, J. Li, and Z. Chen, A simple forwarding technique for two-
+way relay channels, invited paper to the 31stProgress in Electromagnetic Research
+Symposium (PIERS), pp. 277-280, March, 2012
+39.       Ido Nevat, Gareth Peters, and Jinhong Yuan, 'Blind Spectrum Sensing in Cognitive
+Radio over Fading Channels and Frequency Offsets', 2012 IEEE Wireless
+Communications and Networking Conference (WCNC 2012)
+40.       Giovanni Geraci, Jinhong Yuan and Iain Collings, 'Large System Analysis of the
+Secrecy Sum-Rates with Regularized Channel Inversion Precoding', 2012 IEEE
+Wireless Communications and Networking Conference (WCNC 2012)
+41.       Ido Nevat, Gareth Peters,  Jinhong Yuan, and Iain Collings, 'System Identification
+in Wireless Relay Networks via Gaussian Process Iterated Conditioning on the
+Modes Estimation',  2012 IEEE Wireless Communications and Networking
+Conference (WCNC 2012)
+42.       Yixuan Xie, Jun Li, Robert Malaney and Jinhong Yuan, Channel identification and
+its impact on Quantum LDPC code performance, AusCTW, 2012.
+43.       N. Yang, M. Elkashlan, and J. Yuan, “Wireless multiuser relay networks in
+Nakagami-m fading channels,” in Proc. IEEE VTC 2011 Fall, San Francisco, CA, Sep.
+2011.
+44.       N. Yang, P. L. Yeoh, M. Elkashlan, J. Yuan, and I. B. Collings, “On the SER of
+distributed TAS/MRC in MIMO multiuser relay networks,” in Proc. IEEE VTC 2011
+Spring, Budapest, Hungary, May 2011.
+45.       N. Yang, P. L. Yeoh, M. Elkashlan, J. Yuan, and I. B. Collings, “Transmit antenna
+selection with maximal-ratio combining in MIMO multiuser relay networks”, in Proc.
+IEEE GlobeCOM 2011, Houston, TX, Dec. 2011.
+46.       M. H. Azmi, J. Li, R. A. Malaney, and J. Yuan, 'Optimization for Pragmatic Half-
+Duplex Relay Network', IEEE Global Telecommunications Conference (GLOBECOM
+2011), 2011 IEEE, Houston Texas, USA, 5-9 December 2011
+47.       Md. Anisul Karim, J. Yuan, Z. Chen,  J. Li, 'Analysis of Mutual Information Based
+Soft Forwarding Relays in AWGN Channels ', Global Telecommunications
+Conference (GLOBECOM 2011), 2011 IEEE , Houston Texas, USA, 5-9 December
+2011,
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+13/20
+48.       T. Yang, I. Land, T. Huang, J. Yuan and Z. Chen, "Distance properties and
+performance of physical layer network coding with binary linear codes for Gaussian
+two-way relay channels", IEEE Int. Symp. Inf. Theory, 2011, Russia.
+49.       T. Yang, X. Yuan, P. Li, I. B. Collings and J. Yuan, "Eigen-direction alignment aided
+physical layer network coding for MIMO two-way relay channels", IEEE Int. Symp.
+Inf. Theory, 2011, Russia.
+50.       M.H. Azmi, J. Li, J. Yuan, and R. Malaney, “Soft Decode-and-Forward using
+distributed LDPC coding in Half-Duplex Relay Channels” , IEEE Int. Symp. Inf.
+Theory, 2011, Russia
+51.       Giovanni Geraci, Jinhong Yuan, Adeel Razi and Iain B. Collings, "Secrecy Sum-
+Rates for Multi-User MIMO Linear Precoding", 2011 IEEE The Eighth International
+Symposium on Wireless Communication Systems. Aachyen, Germany, Nov, 2011
+52.       Tao Huang, Tao Yang, Jinhong Yuan, and Ingmar Land, 'Convergence analysis for
+channel-coded physical layer network coding in Gaussian two-way relay channels,
+The Eighth International Symposium on Wireless Communication Systems.
+Aachyen, Germany, Nov, 2011
+53.       T. Yang and J. Yuan, "Cooperative transmission with a slotted incremental decode-
+and-forward protocol", in Proc. IEEE ICC 2011.
+54.       M.H. Azmi, J. Li, J. Yuan, and R. Malaney,  ”Design of Distributed Multi-Edge Type
+LDPC Codes for Two-Way Relay Channels” , IEEE International Communication
+Conference (ICC), 2011, Kyoto, Japan
+55.       Jun Li, Jinhong Yuan, Robert Malaney, and Ming Xiao, “Binary Field Network
+Coding for a Multiple-Source Multiple-Relay Network,” IEEE International
+Communication Conference (ICC), 2011, Kyoto, Japan.
+56.       M.H. Azmi, J. Li, J. Yuan, and R. Malaney, ”Design of Distributed Multi-Edge Type
+LDPC Codes for Multiple Access Relay Channels”, in Proc. 12th Australian
+Communication Theory Workshop, 2011, Melbourne, Australia.
+57.       D. Duyck, M. Moeneclaey, M.H. Azmi, J. Yuan, and J. Boutros, “Universal LDPC
+codes for Cooperative Communications”, in Proc. 6th International Symposium on
+Turbo Codes & Iterative Information Processing, Brest, France, 2010
+58.       Y. Xie, J. C. Mu, J. Yuan, “Design of rate-compatible protograph based LDPC codes
+with mixed circulants”,  in Proc. 6th International Symposium on Turbo Codes &
+Iterative Information Processing, Brest, France, 2010
+59.       J. C. F. Li, W. Zhang, A., Nosratinia, J. Yuan, “Opportunistic Spectrum Sharing
+Based on Exploiting ARQ Retransmission in Cognitive Radio Networks”, in Proc.
+2010 IEEE Global Telecommunications Conference, Dec. 2010
+60.       Jun Li, Marwan H. Azmi, Robert Malaney, and Jinhong Yuan, "Design of network-
+coding based multi-edge type LDPC codes for a multi-source relaying system," in
+Proc. 6th International Symposium on Turbo Codes & Iterative Information
+Processing, Brest, France, 2010
+61.       J. Li, J. Yuan, M. H. Azmi, and R. Malaney, “Novel LDPC code structure for the
+nonergodic block-fading channels”, in Proc. 6th International Symposium on Turbo
+Codes & Iterative Information Processing, Brest, France, 2010
+62.       Chakrapani, J. Li, R. Malaney, J. Yuan, “The optimal performance of cooperative
+communication systems as a function of location information quality”, in Proc. 2010
+IEEE Globecom Workshop, Dec. 2010
+63.       A. Razi, D. J. Ryan, J. Yuan, and I. B. Collings, “Performance of Vector
+Perturbation Multiuser MIMO Systems over Correlated Channels”, in Proc. 2010
+IEEE Wireless Communications and Networking Conference (WCNC), April 2010
+64.       N. Yang, M. Elkashlan, and J. Yuan, “Dual-Hop Amplify-and-Forward MIMO
+Relaying with Antenna Selection in Nakagami-m Fading”,in Proc. 2010 IEEE Global
+Telecommunications Conference, Miami, FL. Dec. 2010
+65.       N. Yang, M. Elkashlan, and J. Yuan, “Cooperative Selection Diversity in  Wireless
+Multiuser Relay Networks” IEEE Vehicular Technology Conference Fall (VTC-
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+14/20
+Fall),Ottawa, Canada, Sept. 2010
+66.       M. A. Karim, J. Yuan and Z. Chen, “Nested Distributed Turbo Code for Relay
+Channels”, ” IEEE Vehicular Technology Conference Spring (VTC-Spring), 2010
+67.       Chakrapani,  R. Malaney, J. Yuan, “Energy Efficiency of Hybrid-ARQ based
+geographic Routing”, 2010 IEEE RIVF International Conference on Computing and
+Communication Technologies, Research, Innovation and Vision for the Future. 2010
+68.       N. Yang, M. Elkashlan, and J. Yuan, “Symbol Error rate of Wireless Multiuser Relay
+Networks in Nakagami-m Fading Channels”, IEEE ICC, Cape Town, South Africa,
+May 2010
+69.       I. Nevat, G.W. Peters, and J. Yuan, "Channel Estimation in OFDM Systems with
+Unknown Power Delay Profile using Trans-dimensional MCMC via Stochastic
+Approximation," in Proc. IEEE Vehicular Technology Conference (VTC’09),
+Barcelona, Spain, April 2009.
+70.       N. Yang, M. Elkashlan, and J. Yuan, 'Outage Analysis of Multiuser Relay Networks
+with CSI-based Amplify-and-Forward Relaying in Nakagami-m Fading Channels”, In
+Proceedings of PIMRC 2009.
+71.       Y. Li, B. Vucetic, Z. Chen, J. Yuan, “Distributed Turbo Coding with Selective
+Relaying”, In Proceedings of PIMRC 2009.
+72.       I. Nevat, G.W. Peters, and J. Yuan, "Coherent Detection for Cooperative Networks
+with Arbitrary Relay Functions using "Likelihood Free'' Inference," in Proc.
+NEWCOM-ACorn Workshop, Barcelona, Spain, April 2009. 
+73.       H.Q. Huynh, S.I. Husain, J. Yuan, A. Razi and D.S. Taubman, “Performance
+Analysis of Multi-branch Non-regenerative Relay Systems”,  IEEE Vehicular
+Technology Conference, Anchorage, USA, Sep 2009.
+74.       T. Yang, and J. Yuan, “Rate Optimization for IDMA Systems with Iterative Multi-
+user Decoding"   IEEE Globecom 2009
+75.       W. Zhang and J. Yuan, ``A simple design of space-time block codes achieving full
+diversity with linear receivers,'' in Proc.IEEE International Conference on Acoustics,
+Speech and Signal Processing (ICASSP 2009),  Taipei, Apr. 20-24, 2009
+76.       T. Yuan, and J. Yuan, "Iterative Decoding for Superposition Modulation-based
+Cooperative Transmission", Proc. IEEE ISIT 2009
+77.       W. Zhang and J. Yuan, ``Linear receiver based high-rate space-time block codes,''
+in Proc.IEEE International Symposium on Information Theory (ISIT 2009),  Seoul,
+Korea, June 29-July 3, 2009
+78.       M. Azmi, and J. Yuan, Design of Multi-edge type Bilayer LDPC Codes”, Proceedings
+of ISIT 2009. Seoul, Korea, June 29-July 3, 2009
+79.       A. Razi, D. J. Ryan, I. B. Collings,J. Yuan, “Sum Rates and User Scheduling for
+Multi-user MIMO Vector Perturbation Precoding”, IEEE Int. Conference on
+Communications (ICC), Dresden, Germany, June 2009.
+80.       A. Chakrapani, R. Malaney, and J. Yuan, Energy efficient cooperative
+communications using location based relaying, in Proceedings of AusCTW 2009
+81.       H.Q. Huynh, S.I. Husain, J. Yuan, A. Razi and D.S. Taubman, “Performance
+Analysis of Multi-branch Dual-hop Non-regenerative fixed-gain Relay Systems in
+Nakagami-m Channels”, in Proceedings of AusCTW 2009.
+82.       M. Azmi, and J. Yuan, “Improved Bilayer LDPC Codes Using Irregular Check Node
+Degree Distribution”, in Proc.IEEE International Symposium on Information Theory
+(ISIT), 2008
+83.       Y. Liu, J. Ning, and J. Yuan, Min-Sum decoding algorithms for non-binary LDPC
+codes,  IEEE ISITA 2008.
+84.       I. Nevat, G. W. Peters, and J. Yuan, "Bayesian Inference in Linear Models With a
+Random Gaussian Matrix : Algorithms and Complexity",   PIMRC 2008.
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+15/20
+85.       I. Nevat, G.W. Peters and J.Yuan."OFDM CIR Estimation with Unknown Length via
+Bayesian Model Selection and Averaging", ,VTC Spring  2008, pp.  1413-1417
+86.       A. Razi, J. Yuan, Feedback reduction schemes for MIMO broadcast channels, 
+PIMRC 2008.
+87.       T. Yang and J. Yuan, Performance of Cooperative Spatial-interleaved Superposition
+Modulation in Fading Multiple-Access Channels, IEEE Inter. Conf. Comm. (ICC)
+2008.
+88.       Y Shao, and J. Yuan, A lower bound to the sum-rate of MIMO broadcast channels
+with limited-rate feedback,  IEEE International Conference on Communications
+(ICC) 2008.
+89.       I. Nevat, G. W. Peters and J. Yuan, Maximum A-Posteriori Estimation in Linear
+Models With a Random Gaussian Model Matrix: a Bayesian-EM Approach, IEEE
+proceedings of International Conference on Acoustics, Speech and Signal
+Processing (ICASSP), March 2008, Las Vegas, USA. pp.2889-2892.
+90.       L. Chu, J. Yuan, Y. Li, Differential Modulation and Selective Combining for Multiple-
+Relay Networks, IEEE International Conference on Communications (ICC) 2008,
+May 2008.
+91.       L. Chu, J. Yuan, Z. Chen, Y. Li, Performance Analysis and Code Design of
+Distributed Space-time Trellis Codes for the Detection-And-Forward Systems,
+Proceedings. Australian Communications Theory Workshop (AusCTW) 2008, Jan.
+2008.
+92.       I. Syed, J. Yuan, and J. Zhang, Channel Shortening through Bit Error Rate
+Minimization for UWB Systems, Proceedings. Australian Communications Theory
+Workshop (AusCTW) 2008, Jan. 2008.
+93.       J. Ning and J. Yuan, Design of Systematic LDPC Codes Using Density Evolution
+Based on Tripartite Graph, Proceedings. Australian Communications Theory
+Workshop (AusCTW) 2008, Jan. 2008.
+94.       T. Yang and J. Yuan, Successive LLR Combining in the Iterative Receiver for
+MIMO-BICM systems, Proc. IEEE Globecom 2007. Washington DC, Nov 2007.
+95.       I. Nevat and J. Yuan, Channel Tracking Using Pruning for MIMO-OFDM Systems
+over Gauss-Markov Channels, Proceedings of IEEE International Conference on
+Acoustics, Speech and Signal Processing (ICASSP), April 2007, Hawaii, USA
+96.       I. Nevat and J. Yuan, Error Propagation Mitigation for Iterative Channel Tracking,
+Detection and Decoding of BICM-OFDM Systems, Proceedings of ISWCS, October
+2007, Trondheim, Norway.
+97.       K. Huang, and J. Yuan, Adaptive Modulation for MIMO Broadcast Channels,
+International conference on signal processing and communication systems
+(ICSPCS), Dec. 2007.
+98.       S. I. Husain, J. Yuan, and J. Zhang, Rake Performance after Channel Shortening by
+Decay Factor Optimization in UWB Channels, Proceedings of IEEE 66th Semiannual
+Vehicular Technology Conference, 2007 VTC-Fall, Sept. 2007.
+99.       K. Huang, and J. Yuan, Power Allocation for MMSE Feedback Precoder on Multi-
+Antenna Broadcast Channels, Australian workshop on wireless communications,
+AusWireless, 2007.
+100.    I. Nevat , A. Wiesel, J. Yuan and Y. C. Eldar, Maximum A-posteriori Estimation in
+Linear Models With A Random Gaussian Model Matrix,  Proceedings of IEEE
+Conference on Information Sciences and Systems (CISS-2007), March 2007,
+Baltimore, USA
+101.    Syed, J. Yuan, and J. Zhang, Effective Channel Shortening by Modified MSSNR
+Algorithm for simplified UWB Receiver, Accepted by IEEE ICC, 2007
+102.    J. Chu, and J. Yuan, performance analysis of cooperative space-time coded
+systems, Accepted by IEEE VTC-spring 2007.
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+16/20
+103.    L. Chu, J. Yuan, Y. Li, Performance Analysis and Code Design of Distributed Space-
+time Trellis Codes for a Detection-And-Forward System, Proceedings. IEEE 66th
+Semiannual Vehicular Technology Conference, 2007 VTC-Fall, Sept. 2007.
+104.    I. Nevat and J. Yuan, Iterative detection and decoding for BICM MIMO-OFDM
+systems, 2007 IEEE International Conference on Acoustics, Speech and Signal
+Processing, ICASSP
+105.    M. Lalam, D. Feng, J. Yuan, K. Amis and D. Leroux, An improved iterative decoding
+algorithm for block turbo codes, in Proc. IEEE ISIT, Seattle, USA, 2006.
+106.    J. Yuan, Design of LDPC codes based on generalized difference-set cyclic codes, in
+Proc. WITSP, Dec. 2006.
+107.    Yi Yu; Kerouedan, S.; Jinhong Yuan , Extended orthogonal space-time block codes
+with partial feedback for wireless communications, Wireless Communications and
+Networking Conference, 2006. WCNC 2006. IEEE, Volume 3,  3-6 April 2006
+Page(s):1632 – 1637.
+108.    Suzuki, H.; Hedley, M.; Daniels, G.; Jinhong Yuan, Performance of MIMO-OFDM-
+BICM on Measured Indoor Channels, Proc. IEEE Vehicular Technology Conference,
+2006. VTC 2006-Spring. IEEE 63rd, Volume 5,  2006 Page(s):2073 – 2077.
+109.    Yi Yu; Kerouedan, S.; Jinhong Yuan, Transmit Antenna Shuffling for Quasi-
+Orthogonal Space-Time Block Codes With Linear Receivers, Proc. IEEE Vehicular
+Technology Conference, 2006. VTC 2006-Spring. IEEE 63rd, Volume 4,  2006
+Page(s):1670 – 1674
+110.    D. Feng, J. Yuan and K. Amis, Rate-Compatible Shortened Turbo Product Codes,
+Proc. IEEE Vehicular Technology Conference, 2006. VTC 2006-Spring. IEEE 63rd,
+Volume 5,  2006 Page(s):2489 – 2493.
+111.    Payaro, M.; Wiesel, A.; Jinhong Yuan; Lagunas, M.A.; On the Capacity of Linear
+Vector Gaussian Channels with Magnitude Knowledge and Phase Uncertainty,
+Acoustics, Speech and Signal Processing, 2006. ICASSP 2006 Proceedings. 2006
+IEEE International Conference on,  Volume 4,  2006 Page(s):IV-565 -568.
+112.    T. Yang, J. Yuan, Z. Shi and M. Reed, Detection switching in the iterative receivers
+for MIMO-BICM, Proc. IEEE Information Theory Workshop, ITW 2006, Oct. 2006.
+113.    T. Yang, J. Yuan, Z. Shi, a new scheduling for the iterative receiver of MIMO-BICM,
+proc. IEEE TENCON 2006, Nov. 2006.
+114.    Miquel Payaro, J. Yuan, and Miguel Angel Lagunas, On the Capacity of MIMO
+Systems with Magnitude Knowledge and Phase Uncertainty, AusCTW 2006, Perth,
+1-3 Feb. 2006 Page(s):43 - 48
+115.    Miquel Payaro, , Antonio Pascual, J. Yuan, and Miguel Angel Lagunas, A Convex
+Optimization Approach for the Robust Design of Multiuser and Multiantenna
+Downlink Communication Systems, The Seventh IEEE International Workshop on
+Signal Processing Advances in Wireless Communications, 2006.
+116.    K. Wu, L. Ping and J. Yuan, A Quasi-Random Approach to Space-Time Codes, 4 th
+International Symposium on Turbo Codes in connection with 6th International ITG-
+Conference on Source and Channel Coding - ISTC'06
+117.    I. Nevat and J. Yuan, Channel tracking for OFDM systems using detections pruning,
+NEWCOM-ACoRN Joint Workshop 2006 - NAW06
+118.    Z. Chen, B. Vucetic and J. Yuan, Performance of the Alamouti scheme with
+imperfect transmit antenna selection, PIMRC,   Volume 1,  11-14 Sept. 2005
+Page(s):122 - 125
+119.    J. Chu and J. Yuan, Performance of a trellis coded beamforming scheme for MIMO
+fading channels, in Proc. 6th Australian Communications Theory Workshop, Feb
+2005, AusCTW 2005, pp. 135-139.
+120.    J. Chu and J. Yuan, Design of A Trellis Coded Beamforming Scheme Over MIMO
+Fading Channels, IEEE ICC 2005, Korea, 2005.
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+17/20
+121.    X. Shao, J. Yuan and P. Rapajic, Performance Analysis and Precoder Design in
+MIMO Broadcast Channel, IEEE ICC 2005, Korea, 2005, Volume 2,  16-20 May 2005
+Page(s):788 - 794 Vol. 2
+122.    X. Shao, J. Yuan, P. Rapajic, Precoder Design for MIMO Broadcast Channels, in
+Proc. 6th Australian Communications Theory Workshop, Feb 2005, AusCTW 2005,
+pp. 112-128.
+123.    J. Chu and J. Yuan, Performance Analysis of a Trellis Coded Beamforming Scheme
+for MIMO Fading Channels, IEEE VTC 2005-Spring, Sweden, 2005.
+124.    Yi Hong; Jinho Choi; Jinhong Yuan , Performance analysis of space-time trellis
+coded OFDM system, Vehicular Technology Conference, 2005. VTC 2005-Spring.
+2005 IEEE 61st, Volume 2,  30 May-1 June 2005, Page(s):1176 - 1180 Vol. 2
+125.    K. O-teng, S. Nooshabadi, and J. Yuan, Adaptive turbo-coded hybrid-ARQ in OFDM
+systems over fading channels,  in Proc. IEEE VTC 2004 Fall.
+126.    X. Shao, and J. Yuan, Precoder design for MIMO broadcast channel using the
+MMSE DFE structure, in Proc. ISITA 2004, Italy, 2004.
+127.    J. Chu and J. Yuan, Performance Analysis of Weighted Trellis Codes, The Ninth
+International Conference on Communications Systems, 2004. ICCS 2004, 6-8 Sept.
+2004, pp. 270-274.
+128.    Y. Hong, J. Choi, J. Yuan and P. Rapajic, A new approach for iterative decoding on
+MIMO channels via sphere decoding, 2004 IEEE Eighth International Symposium on
+Spread Spectrum Techniques and Applications, 30 Aug.-2 Sept. 2004, pp. 520-524.
+129.    X. Shao, J. Yuan and P. Rapajic, Multiuser diversity for MIMO broadcast and
+multiple access channel with linear precoder and receiver,15th IEEE International
+Symposium on Personal, Indoor and Mobile Radio Communications, 2004. PIMRC
+2004, Volume: 3, 5-8 Sept. 2004, pp. 1597 - 1602
+130.    J. Yuan, "Adaptive transmit antenna selection with pragmatic space-time trellis
+codes", in Proc. of AusCTW 2004, Newcastle, Feb. 2004.
+131.    Wong, J. Yuan, and J. Choi, "New 16-QAM space-time trellis codes for Rayleigh
+fading channels", in Proc. of AusCTW 2004, Newcastle, Feb. 2004.
+132.    J. Choi, Y. Hong, and J. Yuan, On the soft-decision in the iterative receiver for
+coded MIMO systems, in Proc. of IEEE ISIT2004, June-July, 2004, Chicago, US, pp.
+133.
+133.    J. Choi and J. Yuan, "On the beamformer design for coded signals with known
+channel", in Proc. of ICC 2004, June, 2004, France, pp. 2777-2781.
+134.    Wong, J. Yuan and J. Choi, "Design of 16-QAM space-time trellis codes for quasi-
+static  fading channels", in Proc. of IEEEVTC2004Spring, Milan, Italy, May 2004,
+vol. 2, pp. 880-883.
+135.    J. Choi and J. Yuan, "Eigenbeamforming for coded signals without feedback", in
+Proc. of IEEE VTC 2004Spring, Milan, Italy, May 2004, pp. 794 - 798.
+136.    K. Oteng, S. Nooshabadi, J. Yuan, Asymmetric rate compatible turbo codes in
+hybrid automatic repeat request schemes, The Ninth International Conference on
+Communications Systems, 2004. ICCS 2004, 6-8 Sept. 2004, pp. 489 – 494.
+137.    K. Oteng, S. Nooshabadi, J. Yuan, Turbo punctured hybrid-ARQ strategies over
+OFDM systems, 2004 International Workshop on Ultrawideband Systems and
+Technologies Joint with Conference on Ultra Wideband Systems, Joint UWBST &
+IWUWBS, 18-21 May 2004, pp. 212 – 216.
+138.    Z. Chen, B. Vucetic, J. Yuan, and Z. Zhou, “Performance analysis of space-time
+trellis codes with transmit antenna selection in Rayleigh fading channels,” in Proc.
+of IEEE WCNC'04, Mar. 2004, Atlanta, pp. 2456-2462.
+139.    Z. Chen, J. Yuan, B. Vucetic and Z. Zhou, “Performance of Alamouti scheme with
+transmit antenna selection,” in Proc. IEEE PIMRC’04, Barcelona, Spain, Sept. 2004,
+pp. 1135 - 1141.
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+18/20
+140.    V. Trajkovic, P. Rapajic, J. Yuan, Adaptive decision aided turbo equalization of
+unknown channels using SOVA and MAP decoding algorithms,10th International
+Conference on Telecommunications, 2003. ICT 2003, Volume: 1, 23 Feb.-1 March
+2003,Pages:665 – 670.
+141.    M Kuang, J. Yuan, P. Rapajic, Chebyshev detection of layered space time codes,
+Proceedings of the 2003 International Conference on Neural Networks and Signal
+Processing, 2003, Volume: 2 , 14-17 Dec. 2003, Pages:1433 – 1436.
+142.    Y. Hong, Z. Dong and J. Yuan, "Genetic algorithm based distance spectrum
+technique for performance union bound of space-time trellis coded OFDM", in Proc.
+of the 2003 Congress on Evolutionary Computation, Dec. 2003, Canberra, Australia,
+pp. 2659-2664.
+143.    Y. Hong, Z. Dong and J. Yuan, "Genetic algorithm based efficient searching method
+for maximum likelihood decoding", in Proc. of the second international conference
+on computational intelligence robotics and autonomous systems, CIRAS2003,
+Singapore, Dec. 2003.
+144.    Y. Hong, J. Yuan, J. Choi and X. Shao, "Performance analysis of space-time trellis
+coded OFDM over Quasi-static Frequency selective fading channels," in Proc. of
+2003 Joint Conference of the fourth International Conference on Information,
+Communications and signal Processing and Fourth Pacific-Rim Conference on
+Multimedia, Dec. 2003, Singapore, 1478-1482.
+145.    Y. Hong, J. Yuan, B. Vucetic, and Z. Chen, “Design of space-time turbo trellis codes
+for two, three and four transmit antennas”, in Proc. of IEEE ICCS’02, Singapore,
+Nov. 2002, pp. 203-207.
+146.    J. Yuan and X. Shao, “A new differential space-time block coding scheme”, in Proc.
+of IEEE ICCS’02, Singapore, Nov. 2002, pp.183-187.
+147.    J. Yuan, "On the performance of space-time block codes on slow Rayleigh fading
+channels", in Proc. IEEE PIMRC'03, Beijing, China, Sept. 2003.
+148.    Y. Hong, J. Yuan, and X. Shao, "Robust space-time trellis codes for OFDM systems
+over quasi-static frequency selective fading channels", in Proc. IEEE PIMRC'03,
+Beijing, China, Sept. 2003.
+149.    X. Shao and J. Yuan, "Blind detection of space-time block codes and applications
+for coded systems", in Proc. IEEE VTC'03-Fall, Orlando, Florida, 6-9 October 2003.
+150.    K. Oteng -Amoako, J. Yuan, and S. Nooshabadi, "Adaptation of turbo punctured
+codes for Hybrid-ARQ", in Proc. IEEE VTC'03-Fall, Orlando, Florida, 6-9 October
+2003.
+151.    J. Yuan, X. Shao, and Y. Hong, "Differential space-time block codes with iterative
+detection", in Proc. IEEE ISIT 2003, Yokohama, Japan, June 29-July 4, 2003, p. 61.
+152.    X. Shao, J. Yuan, and P. Rapajic, "Antenna Selection for MIMO-OFDM spatial
+multiplexing system", in Proc. IEEE ISIT 2003, Yokohama, Japan, June 29-July 4,
+2003, p. 90.
+153.    Z. Chen, B. Vucetic, J. Yuan, and K. L. Lo, “Analysis of transmit antenna
+selection/maximal-ratio combining in Rayleigh fading channels,” in Proc. IEEE ISIT
+2003, Yokohama, Japan, June 29-July 4, 2003, p. 94. 
+154.    K. Oteng-Amoako, J. Yuan, and S. Nooshabadi, "Selective hybrid-ARQ schemes
+with various combining methods in fading channels", in Proc. of the Workshop
+Wiopt'03 Modeling and optimization in Mobile , Ad Hoc and Wireless Networks, Mar.
+2003, INRIA Sophia Antipolis, France, pp. 339-341.
+155.    J. Yuan, and X. Shao, New Differential Space-Time Block Code  for Two, Three and
+Four Transmit antennas,  in Proc. of IEEE VTC’03 Spring, Jeju Island, Korea, Apr.
+2003.
+156.    H. Yang, J. Yuan, and B. Vucetic, Interference Suppression Schemes for Space-
+Time Trellis Coded WCDMA Systems,  in Proc. of IEEE VTC’03 Spring, Jeju Island,
+Korea, Apr. 2003..
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+19/20
+157.    Z. Chen, B. Vucetic, and J. Yuan, “Comparison of three closed-loop transmit
+diversity schemes,” in Proc. of IEEE VTC’03 Spring, Jeju Island, Korea, Apr. 2003.
+158.    Z. Chen, B. Vucetic, J. Yuan, and K. Lo, “Analysis of transmit antenna
+selection/maximal-ratio combinings in Rayleigh fading channels”, in Proc. of  IEEE
+ICCT’03, Beijing, P.R.China, Apr. 2003.
+159.    J. Yuan, "New differential space-time block codes for MIMO systems", the 5th
+Smart Antenna waorkshop with emphasis on SDR application, Soeul, Korea, Apr.
+2003, pp. 279-299.
+160.    Z. Chen, B. Vucetic, J. Yuan and K.L. Lo, "Space-time trellis coded modulation on
+quasi-static fading channels", IEEE ICC’02, New York, June 2002.
+161.    Y. Yang, J.Yuan, “Space-time trellis codes for WCDMA systems on frequency-
+selective fading channels”, IEEE VTC2002.
+162.    Yuan J., and Vucetic B., Design of Space-Time TCM and Space-Time Turbo TCM for
+Fading Channels, IEEE Information Theory Workshop (ITW), Sep. 2001, Cairns,
+Australia, pp. 123-125.
+163.    Yuan J., Vucetic B., Chen Z., and Firmanto W., Performance Analysis and Design of
+Space-Time Coding on Fading Channels'', IEEE ISIT 2001, Washington DC, June
+2001.
+164.    Yuan J., and, Vucetic B., Performance of Space-Time TCM and its Applications in
+CDMA Systems, IEEE VTC 2001-Spring, May 2001.
+165.    Chen Z., Yuan J. and Vucetic B., An Improved Space-Time Trellis Coded Modulation
+Scheme on Slow Rayleigh Fading Channels, IEEE ICC 2001
+166.    Firmanto W., Yuan J. and Vucetic B., Trellis Coded 2xMPSK Modulation with
+Transmit Diversity: Code Design and Construction, Proc. of IEEE International Conf.
+on Third Generation Wireless and Beyond, San Francisco 2001
+167.    Firmanto W., Chen Z., Vucetic B., and Yuan J., Design of Space-Time Turbo Trellis
+Coded Modulation on Fading Channels, IEEE Globecom 2001.
+168.    Firmanto W., Yuan J., and Vucetic B., Layered Space-Time Coding: Performance
+Analysis and Design Criteria, IEEE Globecom 2001.
+169.    Jinhong Yuan, Welly Firmanto, and  Branka Vucetic,  Trellis-Coded Multi-
+dimensional Modulation with Transmit Diversity,  IEEE  International Conference on
+Communications (ICC2000),  New Orleans, USA,  Jun.  2000.
+170.    J. Yuan, "On the design of space-time codes for fading channels", 2nd Australian
+Communications Theory Workshop, Adelaide, Feb. 2001.
+171.    Jinhong Yuan, Mark Tan, and  Branka Vucetic,  Cyclic Shift Interleavers for Turbo
+Codes,  International Symposium on Turbo Codes & related Topics,  Brest, France,
+Sep. 2000. pp. 547-550
+172.    Jinhong Yuan, Wen Feng, and  Branka Vucetic,  Turbo Trellis Coded Modulation for
+fading Channels,  IEEE Annual vehicular Technology Conference (VTC2000-
+Spring),  Japan,  May 2000, pp. 2059-2063.
+173.    Welly Firmanto, Jinhong Yuan, and  Branka Vucetic,  Space-Time Trellis-Coded 
+Modulation for Fading Channels,  IEEE  International Symposium on Information
+Theory and Applications (ISITA2000),  USA,  Jun.  2000, pp. 477-480.
+174.    Jinhong Yuan  and  Branka Vucetic,  Performance Analysis of Turbo Codes for
+Rician Fading Channels, Proceedings of IEEE  International Conference on
+Communications (ICC99),  Vancouver, Canada,  Jun.  1999,  pp. 83-87.
+175.    B. Vucetic, J. Yuan and W. Firmanto, “Space-Time Coding for Wireless
+Communication”, Wireless Forum, Dallas, Oct., 1999.
+176.    Jinhong Yuan,  Wen Feng  and  Branka Vucetic,  Parallel and Serially Concatenated
+Codes for Fading Channels,  Proceedings of  The 10th  International Symposium on
+Personal, Indoor and Mobile Radio Communications (PIMRC99), Osaka, Japan, Sep.
+1999, pp. 862-866.
+
+-----
+10/13/2017
+WCL
+http://www2.ee.unsw.edu.au/wcl/JYuan.html
+20/20
+177.    Wen Feng,  Jinhong Yuan  and  Branka Vucetic,  A Code Matched Interleaver
+Design for Turbo Codes, Proceedings of  The 10th  International Symposium on
+Personal, Indoor and Mobile Radio Communications (PIMRC99),  Osaka, Japan,
+Sep. 1999, pp. 578-582.
+178.    Jinhong Yuan,  Branka Vucetic,  I-Q Turbo Coded Modulation,  Proceedings of 
+IEEE Int. Conf. On Global Communications (GLOBECOM98), Communications
+Theory Mini Conference,  Sydney, Australia,  Nov. 1998,  pp. 191-195.
+179.    Jinhong Yuan, Branka Vucetic, Space-Time Turbo Codes for Fast and Slow Fading
+Channels,  Workshop on Wireless Data Transmission, Melbourne, Australia, Sep.
+1999.
+180.    Hong Xiao,  Jinhong Yuan and Branka Vucetic, Channel-Codec Optimised Soft Input
+Source Decoding and its Application for Low-Bit-rate Speech Transmission,
+Proceedings of  IEEE Int. Conf. On Global Communications (GLOBECOM98), 
+Sydney, Australia, Nov. 1998,  pp. 815-820.
+181.    Jinhong Yuan, Branka Vucetic  and  Wen Feng,  Combined Turbo Codes and
+Interleaver Design,  Proceedings of  IEEE International Symposium On Information
+Theory (ISIT98),  MIT, Boston,  USA,  Aug. 1998,  pp. 176.
+182.    Jinhong Yuan  and  Branka Vucetic,  Maximum Likelihood Decoding of Reed-
+Solomon Codes and Turbo Codes,  the 2nd  Ericsson/Vodafone Research and
+Development Conference,  Hunter Vally, Australia,  Oct. 1997
+183.    Jinhong Yuan  and  Jingming Kuang,  An Efficient Algorithm for Computing Free
+Distances of Irregular TCM Codes,  New Advances in Theory and Applications of
+Electronics and Information,  Sep. 1996,  pp. 612-615.
+184.    Jinhong Yuan  and  Jingming Kuang,  Trellis Coded Orthogonal Frequency Division
+Multiplexing for PCS,  Proceedings International Symposium on New Transmission
+& Switching  Technologies (ISNTST96),  Sep. 1996,  pp. 410-413.
+185.    Jinhong Yuan  and  Jingming Kuang,  Performance Simulation of Time-varying
+Punctured Trellis Coded Modulation for Land Mobile Satellite Channels, 
+Proceedings of International Conference on Personal Mobile Radio and Spread
+Spectrum Communications  (ICPMSC'94),  Oct. 1994, pp. 84-87.
+186.    Jinhong Yuan,  Jingming Kuang  and  Youan Ke,  Punctured Convolutional Trellis
+Coded Modulation,  Proceedings of International Conference on Communications
+Technology (ICCT'94),  vol.2, June 1994, pp. 1139-1142.
+187.    Botao Liu,  Jinhong Yuan  and  Jingming Kuang,  The Application of Weighted
+Linear Predictive Filter to Fast Self Excited Vocoders,  Proceedings of International
+Conference on Signal Processing  (ICSP'93),  vol.1,  Oct. 1993, pp. 271-274.
+ Patents:                                                                           Top
+ 
+1.       Z. Chen,  W. Firmanto, B. Vucetic,  J. Yuan and Z. Chen, Space-time turbo trellis
+coding arrangement and method thereof, Patent filed by Nortel Networks, 22 Nov
+2000, US Serial No 09/717,286.  WO2002043313 A2
+2.       J. Yuan, etc, Method and apparatus for generating quasi-cycliclow-densityparity-
+check codes and encoding, Patent filed by Huawei,  26 Aug 2008, WO2010022602
+A1
+3.       J. Yuan, etc, Method and device for encoding or decoding variablecodelength LDPC
+codes 
+andencoderanddecoder, 
+Patent 
+filed 
+by 
+Huawei, 
+19 
+Nov 
+2008,
+WO2010057407 A1
+4.       J. Yuan, Method and device for generating and coding quasi-cyclic LDPC code, 生
+成准循环LDPC码及编码的方法与装置, 200810142175.0, CN101662290 B
+5.       J. Yuan etc, 可变码长LDPC码编码或译码的方法与装置及编码器和译码器,
+200810217377.7, CN101741396 B
+ 
+                    Copyright 2013 | Admin: Shane Xie
+
+-----

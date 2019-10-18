@@ -1,0 +1,35 @@
+ 
+Page 1 of 1 
+ 
+ 
+ 
+Place detection through analysis of descriptor sequences of 3D point clouds 
+Place detection through analysis of 
+descriptor sequences of 3D point clouds 
+ABSTRACT 
+Place awareness is a critical component of safe decision-making in autonomous mobile 
+robotics. Significance of place detection is more appreciable in large-scale outdoor 
+environment in which, safety measures, mission planning, and responsive intelligent behavior 
+depend on individual circumstances of each specific place. Besides, recall of revisited places 
+assists the generations of loop closure and map merging clues for mapping components of 
+mobile robots in large-scale outdoor exploration missions. In GPS-denied outdoor 
+environment, place identification confronts challenges caused by viewpoint uncertainties, 
+Field of view limitations, and environmental changes. These challenges contribute to 
+inconsistency of feature extraction and feature association in such environment. The place 
+identification methodology presented in this thesis, introduces novel ideas to address all the 
+aforementioned concerns by proper sensing of dense and uniform 3D point clouds, and by 
+incorporation of a non-feature-based descriptor for characterization, which to the best of 
+knowledge was never applied for place detection before. Moreover, this research introduces 
+a new approach for clustering the environment to meaningful and distinct places. A novel 
+procedure for confident identification of revisited places through analysis of sequences and 
+similarity patterns is proposed as well. Experiments using the custom-made sensory system 
+demonstrate the robustness of the methodology in clustering the explored environment to 
+meaningful places, which is attributed to the non-appearance-based characterization. 
+Moreover, the experiments demonstrate highly confident capability of recalling the revisited 
+places and previously experienced scenarios, which is attributed to matching sets of 
+sequences and pattern of similarity values rather than matching a single observation to 
+another. 
+ 
+ 
+
+-----

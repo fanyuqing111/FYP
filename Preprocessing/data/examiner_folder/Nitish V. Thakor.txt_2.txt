@@ -1,0 +1,53 @@
+People
+Nitish V. Thakor, PhD
+Professor
+Professor of Biomedical Engineering
+O�ce: Traylor 701 
+Lab: Neuroengineering & Biomedical Instrumentation Lab (http://neuroengineering.bme.jhu.edu/)
+410-955-7093 
+nthakor@bme.jhu.edu
+Education
+B.Tech., Electrical Engineering, Indian Institute of Technology, 1974
+M.S., Biomedical Engineering, University of Wisconsin, Madison; 1978
+Ph.D., Electrical and Computer Engineering, 1981
+Research Interests
+“Nano and Micro” Project: We are developing novel microfabricated sensors and devices for neuroscience research. The first example
+is the development of microelectromechanical (MEMS) techniques that allow us to grown neurons and neural networks on a chip
+(“Neuro Chip.
+”). In chip we can study basic neuronal functions such as axonal injury, myelination, neuromuscular junction formation.
+Basic studies then translate into ex vivo and in vivo study of nerve and spinal cord injury.
+“Neural Devices” Project: A number of very large scale integrated circuit (VLSIC) chips are under development. One is a VLSI chip to
+interface neural microsensors to amplifiers and telemetry. The potentiostat chip is capable of measuring pA level currents for
+neurotransmitter measurmeents. A sub-microvolt amplifier chip records multichannel EEG and neural activity. These are then
+coupled to wireless data transfer and power harvesting. These neural devices are useful for recording neural activity in rodents and
+eventually in man for building brain machine interfaces.
+“Neuro Imaging” Project: Optical methods, such as laser speckle imaging and photo-acoustic imaging provide a window into the
+brain, by shining coherent laser light and imaging speckle contrast or acoustic signature. Using these methods we image the
+microvessels in the brain, as well as the blood flow and oxygenation. A novel microscope suitable for imaging from awake, behaving
+animals is under development. Laser speckle imaging used to image tumor related angiogenesis (enhance vasculature) in brain as
+well as blood flow and oxygenation changes in a stroke model. Retinal imaging technology is under development by a startup spun
+o� out of our lab.
+“Brain Monitoring” from “Bench to Bedside”: We have a long term interest in studying the basic mechanisms of brain injury,
+developing mathematical models of neurons and neural networks, and signal processing methods for analyzing brain rhythms. On the
+basic research side, we study what happens to brain when heart stops, using neural recording and signatures such as EEG and evoked
+potential. On the clinical side, we are developing diagnostic monitors for brain injury detection in the operating room and neurological
+intensive care. Through a “startup”, we are doing technology transfer to take ideas from “bench to bedside.
+” Our instruments are now
+presently approaching clinical evaluation (e.g. we monitored patients undergoing high risk brain surgery).
+“Brain Machine Interface” Project: This is an exciting new field where we record brain activity, build quantitative data analysis
+methods and then use the methods to control robotic and prosthetic arms (for future amputee applications). Noninvasive methods
+are based on EEG while invasive methods are based on Electrocorticogram signals and direct neural signals recorded from population
+of neurons. Our brain machine algorithms decode dexterous hand and finger movements, resulting in a better understanding of brain
+organization, and applications to building neuroprosthetic devices.
+“Prosthesis: from Research to Practice”: Our goal here is simple — to build dexterous prosthetic arm, here and now and make them
+available to amputees. Our collaboration, with a technology spino� or startup, is to develop components of the prosthesis, including
+electrode, battery, electronics, and controller for myoelectric (muscle signal) pattern recognition. Hundreds of amputees have
+presently benefited from this research and development partnership of students, engineers, prosthetists, clinicians and
+entrepreneurs.
+
+-----
+Selected Publications
+From Pub Med (http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=Search&Term=Nitish V. Thakor%5BAuthor%5D)   |  
+Google Scholar Profile (http://scholar.google.com/citations?user=DEgZaUoAAAAJ&hl=en)
+
+-----

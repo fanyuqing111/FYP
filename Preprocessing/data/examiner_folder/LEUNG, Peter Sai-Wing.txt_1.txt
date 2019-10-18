@@ -1,0 +1,603 @@
+Department of Electronic 
+Engineering
+http://www.ee.cityu.edu.hk/~pswleung/
+Dr. LEUNG, Peter Sai-Wing 梁世榮
+B.Sc.,  Ph.D.(CityU London), MIET,  Senior MIEEE,  Chartered Engineer
+Room: G6359  Tel: (852) 3442-7757 Fax: (852) 2788-7791 Email: eeswl@cityu.edu.hk
+Associate Professor, City University of Hong Kong
+Founding Chairman, and Chairman of 2007 & 08, EMC  Chapter, 
+IEEE Hong Kong Section
+Page 1 of 16
+Dr
+1/25/2018
+http://www.ee.cityu.edu.hk/~pswleung/
+
+-----
+Founding Chairman, and Chairman of 2009,  PSE (Product Safety 
+Engineering)  Chapter, IEEE Hong Kong Section
+                        Me, at the laboratory                                                                                      My office 
+      Applied Electromagnetic Laboratory P7822
+G6359, Take Lift 6 or 
+Lift 7, Level 6
+Page 2 of 16
+Dr
+1/25/2018
+http://www.ee.cityu.edu.hk/~pswleung/
+
+-----
+                       ......................... at APEMC 2011 in Korean                                                   ...and in 
+International EMC Symposium in Kyoto 2009
+Dr. Leung was born in Hong Kong, and completed his first degree at the City University, 
+London in 1976, graduating with first class honours. He then obtained his doctorate degree 
+in 1981 at the same university. His Ph.D. thesis was in electromagnetic analysis in linear 
+motors in High Speed Ground Transport applications, under the supervision of the research 
+team led by Professor Arthur J Ellison. Professor Ellison was renowned in his research in 
+electromagnetic field analysis in electrical motors as well as in psychic and paranormal 
+phenomena; Dr. Leung has been greatly influenced by Professor Ellison's interest in these 2 
+areas.
+Dr. Leung joined CHAM Ltd. a computer consultancy firm headed by Professor Spalding of 
+Imperial College, University of London, as project Engineer in 1981. He was responsible for 
+the programme development of a general-purpose 3D-field solution computer programme. 
+In 1982, he joined the Engineering Division of ERA Technology Ltd., as Senior Engineer and 
+was responsible for various research projects funded by industry.
+He joined The Engineering Science Division of Hirst Research Centre, GEC Research Co. Ltd. 
+as Principal Engineer, in March 1984, and was responsible for leading a project on the 
+development of electromagnetic launchers for armour-piercing applications. In 1985 he 
+joined the Weapon Department of Thorn EMI Electronics Ltd., and was responsible for the 
+development of the Radar tracking of the multi-launch rocker system. In 1988, Dr. Leung 
+Page 3 of 16
+Dr
+1/25/2018
+http://www.ee.cityu.edu.hk/~pswleung/
+
+-----
+moved to the USA joining Martin Marietta Aerospace in Orlando, working on the same 
+system.
+In 1988 Dr. Leung joined the City University of Hong Kong as Senior Lecturer, and at present 
+he is an Associate Professor in the Electronic Engineering Department, and team members of 
+the Applied Electromagnetics Laboratory. His research interests has been in Electromagnetic 
+Compatibility (EMC), including  Human safety on RF exposure, EMC in Fixed Installations and 
+Large Systems, EMC Management, and EMC in Railway Systems.
+Dr. Leung is actively involved in numerous consultancy projects assisting industry, in both 
+Hong Kong and overseas,  in solving EMC/EMI problems. he was the Director of 
+Electromagnetic Compatibility (EMC) Consulting Group of CityU Professional Services Ltd, 
+City University of Hong Kong; he is also a Non-executive Director of EMC Consortium 
+Limited, Hong Kong.
+He is Programme Leader of the Master of Science in Electronic and Information Engineering
+Programme (MScEIE) of City University of Hong Kong fomr 2001 to 2016.
+Dr. Leung is also the Authorized Representative and Technical manager to the calibration of 
+Antennas for radiated Measurement of antenna factors  in accordance with ANSI C63.5-2006, 
+and the EMC Test facilities of the City University of Hong Kong. 
+He is also Assessor of the Hong Kong Laboratory Accreditation Scheme (HoKLAS) on EMC 
+area, and a member of the working party on Electrical and Electronic Products, Accreditation 
+Advisory Board, Innovation and Technology Commission (ITC), Government of Hong Kong 
+SAR.
+Dr. Leung is also the founding Chairman of EMC  Hong Kong Chapter, of IEEE Hong Kong 
+Section. 
+Page 4 of 16
+Dr
+1/25/2018
+http://www.ee.cityu.edu.hk/~pswleung/
+
+-----
+RESEARCH INTERESTS
+•
+Electromagnetic Compatibility (EMC)
+•
+Human safety on RF exposure
+•
+Bio-medical impacts electromagnetic field to human cells
+•
+EMC in Fixed Installations and Large Systems
+•
+EMC Management 
+•
+EMC in Railway Systems
+Recent Sponsored EMC Research Projects ( *HYPER LINKS TO PROJECTS BELOW 
+FOR DETAILS)
+• GRF 2016 Grant -  Study of Human Brain Wave for Neuro-Psychological 
+Changes Due To Electromagnetic Exposure (PI)
+• GRF 2015 Grant -  Reconstruction of Equivalent Source Using a Single 
+Component of the Near Field Measurement for Predicting Far Field 
+Emissions (9042213, Co-PI)
+Page 5 of 16
+Dr
+1/25/2018
+http://www.ee.cityu.edu.hk/~pswleung/
+
+-----
+• SRG 2015 Grant - Study of the Impact on Human Brain Wave Activities due to EMI 
+Exposure (7004443) 
+• SRG 2014 Grant - Biological Effects of Cell Viability and DNA Damage on Human 
+Skin Cells due to Millimeter Wave Exposure (7004235)
+• SRG 2013 Grant - Analysis of Specific Absorption Rate (SAR) of 4G Long 
+Term Evolution (LTE) Mobile Devices
+• SRG 2012 Grant -  Biological effects of direct induced millimeter wave 
+surface current generated by wireless communication devices on human 
+skin cells.
+• SRG 2012 Grant - Study of induced EMI in cardiac pacemaker due to 
+magnetic field radiation in high-rise building.
+• GRF 2011 Grant - SAR Evaluation of Wireless Communication Devices with 
+a Multi-frequency Operation
+• SRG 2011 Grant -  Investigation of Induced Body Current Due to Milli-
+meter Wave Emission
+• GRF 2011 Grant - Investigation of Magnetic Field induced in Human body 
+in High-Rise buildings
+• GRF 2009 Grant - SAR Evaluation Using Fractional Body Models for Human 
+Safety Considerations of Exposure to RFI
+Page 6 of 16
+Dr
+1/25/2018
+http://www.ee.cityu.edu.hk/~pswleung/
+
+-----
+* Those who are interested in a position of Research Fellows, or a Research 
+Studentship for  PhD research studies to my research projects,  please 
+contact me!!
+Recent Completed Sponsored EMC Research Projects
+Project 
+No.
+Project title
+Completion 
+Date
+7004056 Analysis of Specific Absorption Rate (SAR) of 4G Long Term 
+Evolution (LTE) Mobile Devices
+2015
+Completed
+9041672 SAR Evaluation of Wireless Communication Devices with a 
+Multi-frequency Operation
+2014
+Completed
+7002828 Biological Effects of Electromagnetic Wave Generated by 
+Wireless Communication Devices on Human Skin Cells
+2014
+Completed
+9041360 An Effective Approach for Evaluating the SAR and the 
+Electromagnetic Field inside an Electrically Large Complex 
+Cavity
+2011
+Completed
+9041242 Specific Absorption Rates and Electromagnetic Field 
+Radiation by Mobile Phones in Metallic Enclosures
+2010
+Completed
+7002281 Investigation of Fractional Body Models for SAR Evaluation
+2009
+Completed
+7002019 Investigation of Fractional Phantom Head Models for SAR 
+Evaluation
+2009
+Completed
+7001934 Specific Absorption Rates and Electromagnetic Field 
+Radiation by Mobile Phones in Metallic Enclosures
+2007
+Completed
+COURSES TAUGHT IN CITY UNIVERISTY OF HONG KONG
+Post-graduate elective course: 
+·
+EE6449 – EMC Electromagnetic Compatibility - EMC Theory, Design and 
+Measurement
+·
+EE5604  -   Applied Electromagnetics in Electronic Design
+* Please click below links to see:
+Page 7 of 16
+Dr
+1/25/2018
+http://www.ee.cityu.edu.hk/~pswleung/
+
+-----
+EMC Consortium Limited
+Consultancy information on EMC System management and assessment.
+Electromagnetic Compatibility (EMC) Consulting Group
+CityU Professional Services Ltd., City University of Hong Kong
+EMC SHORT COURSES PROVIDED BY DR PETER LEUNG 
+• EMC Workshop on Design, Testing and Theory, 12-14, 18 June 1996,  Hong Kong. 
+Organized by CityU, sponsored by HKIE, and IEE.
+• EMC Workshop on EMC Design and Measurement, 13-17 Jan 1997,  Hong Kong. 
+Organized by CityU, sponsored by HKIE and IEE.
+• EMC Short Course: Introduction to EMC Testing and Measurement, 22-24 July, Hong 
+Kong. For UL International Limited (Hong Kong). 
+• Short Course  : EMC – Fundamentals, Standards, Measurement and Design, March 
+2005, Hong Kong. Organized by EMC Consulting Group of CPS Professional Services 
+Ltd,  supported by IEEE, Consumer Electronics Chapters.
+• Workshop on Transportation/Fixed Installation EMC, Singapore, 2006, for Asia Pacific 
+EMC 2006 Conference, 2006.
+• EMC Professional Development Course :EMC from Fundamental to Standard, 
+Measurement and Design, 6 March 2009, for Hong Kong Science Park, Hong Kong. 
+• EMC Workshop for Doha Metro, 17-19 July 2016, Doha, Qatar.
+SELECTED RECENT EMC CONSULTANCY PROJECTS
+1. EMC Management Consultancy on Brazil San Paolo SPL6 Metro, EMC Consortium Ltd, 
+2016.
+2. EMC Management Consultancy on Railways Applications,EMC Consortium Ltd, 2015.
+3. Electromagnetic Compatibility ("EMC") Management Consulting Services to MHI for 
+Doha Metro Project - Design stage I, MHI, 2015.
+4. EMC Assessment to Data centre - Tsuen Wan I-Tech Tower, Wellford Properties 
+Limited, 2015.
+5. EMI Assessment of 2.4 GHz radio noise in Signaling  for  MLRT, HKSTC, 2014.
+6. EMI Assessment for Macau Light Rail Transport, Hong Kong Standards and Testing 
+Center, September, 2013
+7. EMC Management Consulting Services to MHI for Railway Project SPRLRT 2 in 
+Singapore, Mitsubishi Consortium, October, 2013.
+Page 8 of 16
+Dr
+1/25/2018
+http://www.ee.cityu.edu.hk/~pswleung/
+
+-----
+8.  EMC assessment of New Buildings to HK- BEAM, ATAL Engineering Limited, 2012. 
+9. EMI Assessment for Macsment at Red Hill Peninsula, Hong Kong, Hutchison Telephone 
+Company Limited, 2012. 
+10. EMC Management  Consulting Services for Macau Light Rapid Transit  (MLRT) System 
+in Macau,  by Mitsubushi Heavy Industries. Japan, 2011.
+11. EMC Management  Consulting Services to MHI for APM ( Automated People Mover, 
+Railways)  system in Dubai, UAE, by MHI, Japan. 2011.
+12. EMC - Electrostatic Discharge assessment, by Audio Mechanical Corp. Ltd. 2010.
+13. Consultancy on EMC Conducted Emission issues of Motor/pump design,   by 
+Providence Enterprise Ltd. 2010.
+14. Electromagnetic Compatibility Management Consulting Services to MHI for Project 
+SPRLRT 2 (Railway System)  in Singapore, MHI. 2010
+15. EMC Assessment on Radiated Emission from Large Panel of LEDs, by Esprit Regional 
+Services Ltd. 2010.
+16. EMC Environmental and Human Safety Assessment of 220KV high tension cables, by 
+Fong's National Engineering Co., Ltd.  2010.
+17. Calibration of antenna to ANSIC63.5 for EMC measurement, by Bureau Veritas EMC 
+Testing Laboratory. 2010.
+18. EMC Railways System Management Consulting Services  to North Terminal APM for 
+Miami , USA, Mitsubushi Heavy Industries, Japan,2010.
+19. EMC Assessment on Shielding Characteristics of Solar Control Window Films, V-Kool 
+Consultant (HK) Ltd. November 2009.
+20. Expert Witness Report on Electro-Static Discharge Testing of Electronic Lock, Audio 
+Mechanical Corp. Ltd. September 2009.
+21. Design and EMC Developments of Display Systems, BT Automotive, TPO Displays Corp. 
+August 2009.
+22. On-site EMC Assessment in E&M plant room of I-Tech Tower, Wellford Properties 
+Limited, August 2009
+23. EMC Railways Management Consulting Project to APM System for Hartsfield- Jackson 
+Atlanta International Airport, MHI, Japan, 2009.
+24. A Professional Development of a 1 day EMC Course  for HKSTP, Hong Kong Science & 
+Technology Parks Corporation, March 2009.
+25. Study in relation to EMC of UWB Radio-communications, Office of the 
+Telecommunications Authority, Hong Kong, May 2008.
+26. RF Power Assessment of Bi-Directional Amplifier, EMSD, Government of Hong 
+KongSAR, March 2008
+27. EMC Provision of Test on EMI from WLAN on Medical Devices for Kwong Wah Hospital, 
+Hospital Authority of Hong Kong, Nov 2007. 
+28. On-site EMC Assessment in E&M plant room of I-Tech Tower, Grand Tech Construction 
+Co. July 2007.
+29. Radiation Assessment on Safety of Human Exposure to EM Field at Oceania Heights, 
+Sino Estates Management Ltd., May 2007.
+30. EMC Verification assessment on the UPS Systems, MGE UPS Systems, MGE China/Hong 
+Kong Ltd, May 2007.
+31. Assessment on Air-condition split units in HACTL, ATAL Engineering Ltd. March 2007.
+Page 9 of 16
+Dr
+1/25/2018
+http://www.ee.cityu.edu.hk/~pswleung/
+
+-----
+32. EMC Near-field radiations assessment for the high-data rate cables. Solomon Systech 
+Ltd. March 2007.
+33. ELF EM Assessment on Safety of Human Exposure to nearby submarine power cables, 
+Swire Properties Management Limited, February, 2007.
+34. EMC Assessment on Safety of Human Exposure to RFID Reader Equipment at Chek Lap 
+Kok Airport, Airport Authority of Hong Kong, January 2007.
+35. Consultancy on EMC Management of SIDS for Macau Ferry Terminal for Marine 
+Department, KML Engineering Limited, December 2006. 
+36. EMC Assessment on Safety of Human Exposure to RFI in Central Plaza. Central Plaza 
+Management Co. Ltd., December, 2006.
+37. Study on Strategy for Adoption of Wireless Telecommunications Technology in 
+Hospital Authority, Hong Kong Hospital Authority, July 2006. 
+38. EMC assessment and redesign of a CPU board, Freescale Semiconductor Ltd., June 
+2006
+39. Low Frequency Magnetic Field Radiation Assessment for ASTRIs Office, Hong Kong 
+Applied Science & Technology Research Institute Co. Ltd, May 2006.
+40. EM Environment Assessment KCRC East Rail Extension Contract No. DB1561 – 
+Integration Radio System for KCRC. Radio Frequency Engineering Ltd., April 2006.
+41. EMC design for display panels, Philips Electronics (HK) Ltd - Mobile Display System, 
+January 2006.
+42. EMC pre-test consultancy services PePLink Company, July 2005 
+43. Consultancy on EMC facility for product re-design, Derrick Law (Export Sales) Limited, 
+Latitude Limited, November 2005.
+44. EMC assessment safety of human exposure to FRI in tall buildings , Central Plaza Mgt 
+Co Ltd , March 2005
+45. Market Survey and Technology Update in Bluetooth Devices, i.Tech Dynamic Limited, 
+January 2005. 
+46. EMC Consultancy, East Bloom Industrial Ltd, December 2004. 
+47. EMC Assessment on Safety of Human Exposure to RFID Reader Equipment at Chek Lap 
+Kok Airport, Hong Kong Airport Authority. November 2004. 
+48. EMC design of MPEG3 players.  AVC Technology Ltd. November 2004. 
+49. EMC Training Workshop, UL International (HK) Limited, July 2004.  
+50. EM assessment of Blue Tooth device. Group Sense Ltd., July 2004. 
+51. EMC Site Assessment on Human safety aspect. Fong’s National Engineering Co. Ltd, 
+July 2004. 
+52. EM Environment Assessment for KCRC project East Rail External Contracts DB1551 & 
+DB1553, Radio Frequency Engineering Ltd, July 2004. 
+53. EMC redesign- radiation emission reduction of FTDW85 RF dryer, Fong’s National 
+Engineering Co. Ltd, March 2004. 
+54. EM Field measurement, Global Challenge Technologies Ltd., March 2004. 
+55. EMC consultancy on Singapore LTA Contract C413 Design, Integration, supply, Install, 
+Test and Commission of the KPL Expressways Electrical Systems, MWH Consultants (S) 
+Pte Ltd, Jan 2004 
+56. EMC redesign - PCB redesign for reduction of NEXT on Cat 5 sockets, Lee’s Industrial 
+(Int’l) Co. Ltd., Jan 2004. 
+Page 10 of 16
+Dr
+1/25/2018
+http://www.ee.cityu.edu.hk/~pswleung/
+
+-----
+57. EMC assessment on safety of human exposure to RFI - SAR of Mobile Phones with 
+Bluetooth Attachment, i.Tech Dynamic Limited. Jan 2004. 
+58. Consultancy and technical support on EMC assessment of BRE system. SHSI Co Ltd. 
+December 2003. 
+59. EMC assessment on safety of human exposure to RFI, Central Plaza Management Co. 
+Ltd., October, 2003 
+60. EMC assessment on safety of human exposure to RFI of power cable, Fong’s National 
+Engineering Co. Ltd., Sept., 2003 
+61. EMC assessment of KCRC trains. SHSI Co. Ltd., July 2003 
+62. Design of Doppler radar sensor, Jetfly International Limited. July 2003 
+63. EMC redesign of LCD module, BT Automotive, Philips Electronics (HK) Ltd., June 2003. 
+64. EMC Consultancy of Gate equipment for Penny’s Bay Line of MTR Corporation Limited, 
+KML Engineering Ltd, June 2003 
+65. EMC assessment and management of Broadcasting Equipment installation for KCRC-
+MLR trains. Shun Hing Systems Integration Co. Ltd., May 2003    
+66. EMC consulting services to Sumitomo Corporation of America on the North Terminal 
+APM for Miami airport, MHI Ltd Japan, January 2003    
+67. EMC redesign of a Blue tooth Mobile handset hand-free unit, Unifat Technology Ltd, 
+January 2003 
+68. EMC Radiation Measurement, Avantwave Ltd, July 2002 
+69. EMC consultancy, IDT Limited, February 2002 
+70. Electromagnetic design of Wireless communications accessories, Two in One co. Ltd., 
+October 2001. 
+71. ESD assessment of Products. Jetfly International Ltd., September 2001. 
+72. EMC Radiated Measurement, IDT Limited, July 2001 
+73. EMC management on Singapore Light Rail Systems for Sengkang and Punggol New 
+Towns, Mitsubishi Heavy Industries, Hiroshima, Japan. June 2001 
+74. EMC Management on Safety of Human Being Exposure to Power Frequency, 
+Golin/Harris International Ltd., June 2001 
+75. Consultancy on EMC redesign and Measurement, Talentone Development Ltd., June 
+2001 
+76. Consultancy on Interference Effect of Current and Further Technologies on Spectrum 
+Management Requirement and Recommendation Using Twisted Pairs Cable, PCCW-
+HKT, April 2001. 
+77. EMC assessment HKTA 1035 for meter interface unit, Fortune Technology Ltd., March 
+2001 
+78. EMC assessment on safety of human exposure to RF at Pacific place, Swire Properties 
+Management Ltd., Nov 2000 
+79. Consultancy on EMC product design - Meyer Electronics Ltd., May 2000 
+80. Consumer products redesign - Computime Ltd., April 2000. 
+81. EMC Redesign- Sincere electronics Ltd., March 2000. 
+82. An EMC/RFI assessment of telecommunication transmitter on IT equipment – CTM 
+Companhia de Telecomunidacoes de Macau, February 2000 
+83. PC Design Modification- PC Partner Ltd., February 2000 
+Page 11 of 16
+Dr
+1/25/2018
+http://www.ee.cityu.edu.hk/~pswleung/
+
+-----
+84. EMC assessment of a building site for IT equipment installation - CCL International Ltd., 
+Jan 2000 
+85. EMC Radiated Emission Design - Newton Power Ltd., November 99 
+86. Consultancy on EMC radiated Emission design - UniVision Engineering Ltd. July 99 
+87. EMC testing and consultation - Teletone Development Ltd., May 99 
+88. EMC design and Modification of Baby Alarms - Lung Cheong Toys Limited, June 1998. 
+89. Emission measurement of Cellular phones - Office of Telecommunications Authority, 
+May 1998. 
+90. Measurement of Audio Noise Emission - Kingwall Ltd. January 1998. 
+91. RFI Measurement of GSM Mobile Phones - Consumer Council. December 1997. 
+92. Radiation limit study for Subscription TV System - Pacific Satellite International Ltd. Oct 
+1997. 
+93. Evaluation of Mains Disturbance Generation by different products - TUV Product 
+Services (Asia) Ltd., September 1997. 
+94. Family Radio service - Motorola Semiconductors HK Ltd. July 1997 
+95. EMC requirement Review for LV switchboards - Fed-Supremetech Ltd., May 1997 
+96. EMC Assessment for MTRC Universal Gate Adaption Kit – MTRC, Feb 1997 
+97. EMC requirement review for switchgear design - Fed-Supremetech Ltd. Nov., 1996 
+98. Audio noise measurement of electronic products and parts - Standard Success 
+Electrical Co. Ltd., 1996 
+99. Performance Analysis & measurement of Philips Audio Speakers - Philips China Hong 
+Kong Group, 1996 
+100. Comparison of EMC Immunity on Various Toys  - Inchcape Testing Services. June 1996 
+101. EMC Radiated & Conducted Measurements - Team Concept International Ltd. May 
+1996 
+102. Dimmer Noise Evaluation using Voltage probe, HKSTC. Oct 1996 
+103. EMC redesign on Computer Product - VTEC Electronics Ltd. Aug. 1996. 
+104. EMC Conducted (ESD, FT, CE) measurement - HKSTC Ltd., 1996. 
+105. EMC radiated measurement - Team Concept Ltd. 
+106. EMC of telephone set - HB Electronics Ltd. 
+107. Performance Analysis & measurement of Philips Audio Speakers -Philips Hong Kong 
+Ltd. 
+108. EMC RE/RS measurement - HB Electronics Ltd. 
+109. ESD Evaluation of Consumer Product - Inchcape Testing Services Hong Kong Ltd., 
+110. Radiated Immunity Evaluation on a Power Supply Unit- Astec Custom Power Ltd. 
+111. EMC design Modification of telephone set of interference- Everwell Technology Ltd. 
+112. Immunity Test of telephone set - Team Concept Ltd. 
+113. EMC Monitoring of a Factory Site in DongGuan, China - Pulse Components Ltd. 
+114. EMC Design of Answering Machine- Everwell Technology Ltd. 
+115. Immunity Test of Cordless telephone - Philips Communications System Ltd. 
+116. EMC Leakage Measurement - TUV Product Services (Asia Ltd). 
+117. EMC redesign of telephone set - Team Concept Ltd. 
+118. Design modifications of Power converter on EMC improvement- MIT Technology Co. 
+Ltd. 
+119. Development of Motor specifications HKPC. 
+Page 12 of 16
+Dr
+1/25/2018
+http://www.ee.cityu.edu.hk/~pswleung/
+
+-----
+120. EMC design - Team Concept Ltd. 
+121. EMC design of Hair dryer- Idea Industry International Ltd. 
+122. Audio noise measurement of electronic components and parts - Standard Success 
+Electrical Co. Ltd. 
+123. Electrostatic Discharge Tests - Inchcape Testing Services (Hong Kong) Ltd. 
+SELECTED PUBLICATIONS
+1. YL Diao, SW Leung, YQ He,WN Sun, KH Chan, YM Siu, YC Kong, : “ Detailed 
+Modeling of Palpebral Fissure and Its Influence on SAR and Temperature Rise in 
+Human Eye Under GHz Exposures” , Bioelectromagnetics,  37:256- 263, 2016.
+2. YQ He, SW Leung, WN Sun, KH Chan, YM Siu and YC Kong, : “Impacts of Radio 
+Frequency Interference on Human Brain Waves and Neuropsychological 
+Changes”,  Journal of Bioinformatics and Neuroscience (JBINS), ISSN 2188-8116, 1 
+(1): 8-13, 2015.
+3. Y Q He; S W Leung, et al : " Impacts of Radio Frequency Interference on Human 
+Brain Waves and Neuro-psychological Changes", ICIIBMS 2015, pp257-261, Paper 
+T3fp-20929, Track 3: Bioinformatics, Medical Imaging and Neuroscience, Okinawa, 
+Japan.
+4. Diao Yl, Sun Wn, Leung S W, Chan K H, Siu YM : “Prediction of magnetic field 
+emissions by current source reconstruction using radial basis function network”,  
+Electronics Letters,  pp. 1243–1245, Vol. 51 No. 16,  2015. 
+5. Yongle Wu, Shao Yong Zheng, Sai-Wing Leung, Yuanan Liu, and Quan Xue, “An 
+Analytical Design Method for a Novel Dual-Band Unequal Coupler with Four 
+Arbitrary Terminated Resistances”, IEEE Transactions on Industrial Electronics, 
+Vol. 61, No. 10, October 2014.
+6. Yongle Wu, Weinong Sun, Sai-Wing Leung, Yinliang Diao, K H Chan, and Yun-
+Ming Siu, “Single-Layer Microstrip High- Directivity Coupled-Line Coupler With 
+Tight Coupling,” IEEE Transactions on Microwave Theory and Techniques, 61(2), 
+pp 746-753, 2/2013.
+7. Yongle Wu, Weinong Sun, Sai-Wing Leung, Yinliang Diao, K H Chan, “A Compact 
+Microstrip Wideband Arbitrary Branch-Line Coupler with Coupled-Line 
+Impedance-Transforming Structures,” Electromagnetics, pp 256-270, Vol 33, 
+Issue  3, 2013.
+8. Yongle Wu, Junyu Shen, Yuanan Liu, Sai-Wing Leung, and Quan Xue, 
+“Miniaturized Arbitrary Phase-Difference Couplers for Arbitrary Coupling 
+Coefficients,” IEEE Transactions on Microwave Theory and Techniques, 61(6), pp 
+2317-2324, 5/2013.
+9. Y Wu, WN Sun, S W Leung, YL Diao, and K H Chan, :  “A novel compact dual-
+frequency coupled-line transformer with simple analytical Design equations for 
+frequency-dependent complex load impedance", Progress In Electromagnetics 
+Research, Vol. 134, 47-62, 2013.
+Page 13 of 16
+Dr
+1/25/2018
+http://www.ee.cityu.edu.hk/~pswleung/
+
+-----
+10. S W Leung, Y L Diao, KH Chan, et al:  “Specific Absorption Rate Evaluation for 
+Passengers Using Wireless Communication Devices inside Vehicles with Different 
+Handedness, Passenger Counts, and Seating Locations" , IEEE Transactions on 
+Biomedical Engineering,  TBME-00336-2012, P1, Volume: PP, Issue 99.
+11. S W Leung, K H Chan, “Development of Electromagnetic Compatibility Courses 
+at the City University of Hong Kong”, pp50-54, IEEE Electromagnetic 
+Compatibility Magazine, Vol 1, 2012.
+12. S W Leung, K H Chan, et al,"Electromagnetic Interference of IEEE 802.11 Wireless 
+LAN Systems in Medical Equipment", IEICE. Transactions on Communications, 
+E94-B(5), pp 1463-1466,  2011
+13. S W Leung, K H Chan, L C Fung, " Investigation of Power Frequency Magnetic 
+Field Radiation in Typical High-Rise Building" European Transactions on Electrical 
+Power, 2011.
+14. K. H. Chan and S. W. Leung, "Evaluation of EM Field Distribution in Automobiles", 
+Safety and EMC Magazine, pp29-33, Vol. 3, April 2010, China. 
+15. K H Chan, S W Leung, " 香港金融数据中心信息科技设备的实地电磁兼容评估  ", 电
+磁干扰与兼容, September, 2010.
+16. C K Tang, K H Chan, L C Fung, S W Leung, "Electromagnetic Interference 
+Immunity Testing of Medical Equipment to Second- and Third-Generation Mobile 
+Phones", IEEE Transactions  on  Electromagnetic Compatibility, Vol. 51, No. 3, 
+pp659-664,  August 2009.
+17. C K Tang, K H Chan, L C Fung, S W Leung, "Effect on radio frequency human 
+exposure of mobile phone inside an enclosed metallic elevator", Microwave and 
+Optical Technology Letters, 50(8), August 2008, pp 2207-2210, doi: 
+10.1002/mop.23612.
+18. LEUNG, S W, FUNG, L C and CHAN, K H, "Consultancy Study in relation to 
+Electromagnetic Compatibility of Ultra-wideband Radiocommunications Devices", 
+Contract research by OFTA, HKSAR Government, Office of the 
+Telecommunications Authority (OFTA), The government of the HKSAR, Hong 
+Kong, PRC, 19 February 2009.
+19. C. K. Tang, K. H. Chan, L. C. Fung, and S. W. Leung, "Effect on Radio Frequency 
+human exposure of mobile phone inside an enclosed metallic elevator", 
+Microwave and Optical Technology Letters, vol. 50, no. 8, pp. 2207-2210, August 
+2008. 
+20. K M Lee, S W Leung, Y M Siu, "Fuzzy Integration Detector for Multi-Access UWB 
+Impulse Radio", IEEE Transactions on Aerospace and Electronic System, October 
+2007
+21. L C Fung, K H Chan, S W Leung, Y F Wong, Paul W K Wu, and C K Tang, "EM 
+Assessment on Human Safety of RFID System at Hong Kong International 
+Airport", accepted to be published in Microwave and Optical Technology Letters, 
+in  2007. 
+22. K H Chan, C K Tang, K H Wong, L C Fung and S W Leung, "Study of Ground Plane 
+of Dual-Band Patch Antenna on SAR",  Microwave and Optical Technology 
+Letters, 2007. 
+Page 14 of 16
+Dr
+1/25/2018
+http://www.ee.cityu.edu.hk/~pswleung/
+
+-----
+23. Y.M. Siu, K.K. Soo, W.S. Chan and S.W. Leung, "Admission Control for Variable 
+Spreading Gain CDMA Cellular System with Imperfect Power Control and 
+Shadowing" Wireless Communications & Mobile Computing (WCMC) Journal, 
+2005.
+24. K H Chan, L.C. Fung, S W Leung, “SAR of Internal Antenna in Mobile Phone 
+Applications ", pp 286-290, Vol 45/no. 4, Microwave and Optical Technology 
+Letters, May 2005. 
+25. K H Chan, L.C. Fung, S W Leung, " Experimental Study of SAR Characteristics of 
+Mobile Phones", Microwave and Optical Technology Letters, pp.140-144, Vol 44, 
+January 2004. 
+26. K H Chan, L.C. Fung, S W Leung, , " Effect of ESD Injection Locations on Induced 
+Noise Inside a Shielded Enclosure", Microwave and Optical Technology Letters, 
+August 2003. 
+27. L.C. Fung, S W Leung, K H Chan , " Experimental Study of SAR Reduction on 
+Commercial Products and Shielding Materials in Mobile Phone Applications ", 
+Microwave and Optical Technology Letters, March 2003. 
+28. L C Fung, S W Leung, Wan Lixi "Investigation of Ground Bounce effect on PCBs”
+Microwave and Optical Technology Letters, Vol. 32, number 4, pp259-264, 2002. 
+29. S W Leung, J Minett, Y M Siu, "A Fuzzy Approach to Signal Integration", IEEE 
+Transactions on Aerospace and Electronic System, Vol.38, pp.346-351, January 
+2002. 
+30. Y.M. Siu, Y S Zhu and S W Leung, "System Performance Enhancement in CDMA 
+Mobile System with Up-link Adaptive Power-control Based on Fuzzy Logic", IEEE 
+Transactions on Professional Communications, October 2001, Volume 19, issue 1, 
+pp. 25-35. 
+31. L.C. Fung, S W Leung, Lixi Wan : " A Model for Cross-Talk Prediction in PCB 
+Layout", Microwave and Optical Technology Letters, pp142-144, Vol. 30, no 2, July 
+2001. 
+32. Y M Siu, W S Chan and S W Leung, " A SFH Spread Spectrum Synchronisation 
+Algorithm for Data broadcasting", IEEE Transactions in Broadcasting, pp71-75, 
+Vol. 47, no. 1, March 2001. 
+33. S W Leung and James W. Minett, "The Use of Fuzzy Spaces in Radar Signal 
+Detection", pp175-184, Vol. 114/2, International Journal of Fuzzy Sets and 
+Systems, September 2000. 
+34. S W Leung, J Minett and C F Chung, "An Analysis of the Shadow Feature 
+Technique in Radar Detection" IEEE Transactions on Aerospace and Electronic 
+System, vol. 35 no.3, pp1104-1106, July 1999. 
+35. Edward K N Yung, S W Leung, " An Integrated Training Program on Product 
+Design in an Undergraduate Course", IEEE Transactions on Education, pp46-
+52,Vol 40, no.1. Feb 1997. 
+36. Y S Zhu, S W Leung & C M Wong " Adaptive Non-uniform Sampling Delta 
+Modulation for Audio/Image Processing" IEEE Transactions On Consumer 
+Electronics, pp1062-1072, vol. 42, no.4, Nov. 1996 
+Page 15 of 16
+Dr
+1/25/2018
+http://www.ee.cityu.edu.hk/~pswleung/
+
+-----
+37. Y S Zhu, S W Leung & C M Wong "A Digital Audio Processing System Based on 
+Non-uniform Sampling Delta Modulation" IEEE Transactions On Consumer 
+Electronics, pp80-86, vol. 42, Feb. 1996 
+38. Y S Zhu and S W Leung, "Non-uniform Sampling Delta Modulation for Digital 
+Audio Processing”, Chinese Journal of Acoustics (English Language Edition), vol. 
+4, pp367-374, 1996, copyright by Acoustical Society of China, PRC and Allerton 
+Press INC., USA 
+AWARDS :
+• Chapter Founder Award, by IEEE EMC Society 2007.
+• Certificate of Services, for Service and Contribution as an Vice Chairman, 
+Technical Programme Committee in the Asia Pacific Microwave Conference 
+2008. 
+• Certificate of Appreciation, for Services and Contributions towards the 
+Advancement of IEEE and the Engineering Professions, IEEE EMC Society. 
+2009.
+• Certificate in Recognition and appreciation of valued Services and 
+Contributions as Chair (2009) of Product Safety Engineering Society, Hong 
+Kong Chapter, IEEE. 2009
+• Certificate of Service, in Appreciated of Outstanding Service and contribution 
+as Programme Leader in MScEIE, for 6 years form academic year 2004/05 to 
+2009/10. Department of Electronic Engineering, City University of Hong 
+Kong.
+C:/documents and settings/eeswl/Desktop……. July 2016
+Page 16 of 16
+Dr
+1/25/2018
+http://www.ee.cityu.edu.hk/~pswleung/
+
+-----

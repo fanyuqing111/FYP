@@ -1,0 +1,623 @@
+Prof Mark Zwolinski
+I'm a Professor in the Electronic Systems Design Group.  I am in 59/4205 (Zepler).
+My main research interests are reliability, modelling and testing of digital systems. I'm the author 
+of Digital Design with VHDL. I am also co-author of a book on Circuit Simulation. The contents 
+page is available here.
+Research
+For a list of my publications from the Departmental database, click here.
+Projects
+If you wish to study with me, as a PhD student, or as part of your current course, please read this 
+page first.
+Find Me
+My University Web Page
+Google Scholar
+Wordpress Blog
+Follow me on Academia.edu
+Follow @MarkZwolinski
+Mark Zwolinski
+Page 1 of 2
+Mark Zwolinski
+11/9/2018
+https://www.southampton.ac.uk/~mz1/
+
+-----
+School of Electronics & Computer Science,
+University of Southampton,
+Highfield, Southampton SO17 1BJ
+Telephone: (+44) (0) 23 8059 3528
+FAX: (+44) (0) 23 8059 2901
+Email: (This is a GIF image; to defeat automatic email gathering programs.)
+Page 2 of 2
+Mark Zwolinski
+11/9/2018
+https://www.southampton.ac.uk/~mz1/
+
+-----
+Professor Mark Zwolinski 
+ECS, Faculty of Physical and Applied Sciences 
+University of Southampton 
+Southampton, United Kingdom. SO17 1BJ 
+ 
+ 
+Telephone: Work (Voice): +44 (0)23 8059 3528  
+Email: mz@ecs.soton.ac.uk 
+ 
+Curriculum Vitae: 
+Mark Zwolinski received the B.Sc. and Ph.D. degrees from the University of Southampton, Southampton, U.K., in 
+1982 and 1986, respectively. From 1990 to 2005, he was a Lecturer, Senior Lecturer, and Reader in the School of 
+Electronics and Computer Science, University of Southampton, and since 2005, he has been a Full Professor. His 
+current research interests include electronic design automation, low-power and reliable design, and multicore 
+platforms. He has published over 140 refereed journal and conference papers and is the author of three books. Dr. 
+Zwolinski has served on the Technical Program Committees of many conferences including DAC, DATE, and ETS, 
+and was the Technical Program Chair for ICECS 2007. He is a Fellow of the IET and of BCS and a Senior Member 
+of ACM. 
+ 
+Publications: 
+• 
+Kulakov, Anton and Zwolinski, Mark  (2011)  ?Reducing the Active Paths Interference in the Chialvo-Bak 
+“Minibrain” Model. International Journal of Modeling and Optimization   
+• 
+Chalk, C.D. and Zwolinski, M.  (1997)  A Design for Test Technique to Increase the Resolution of Supply 
+Current Monitoring in Analogue Circuits. Electronics Letters, 33, (21)   
+• 
+Bello, Ibrahim, Halak, Basel, El-Hajjar, Mohammed and Zwolinski, Mark  (2015)  A Survey of VLSI 
+Implementations of Tree Search Algorithms for MIMO Detection. Circuits, Systems, and Signal Processing, 1-
+31.  (doi:10.1007/s00034-015-0218-y).   
+• 
+Zwolinski, M.  (2001)  A Technique for Transparent Fault Injection and Simulation. Microelectronics and 
+Reliability, 41, (6), 797-804.   
+• 
+Lin, Yang, Zwolinski, Mark and Halak, Basel  (2015)  A low-cost, radiation-hardened method for pipeline 
+protection in microprocessors. IEEE Transactions on Very Large Scale Integration (VLSI) Systems   
+• 
+Mohammadat, Mohamed Tagelsir, Zain Ali, Noohul Basheer, Hussin, Fawnizu Azmadi and Zwolinski, Mark  
+(2014)  A multi-voltage aware resistive open fault model. IEEE Transactions on Very Large Scale Integration 
+(VLSI) Systems, 22, (2), 220-231.  (doi:10.1109/TVLSI.2013.2243926).   
+• 
+Kumar, Manoj, Gaur, Manoj Singh, Laxmi, Vijay, Daneshtalab, Masoud, Zwolinski, Mark and Ko, Seok-Bum  
+(2015) 
+ 
+A 
+novel 
+highly 
+adaptive 
+routing 
+for 
+networks-on-chip. 
+Electronics 
+Letters, 
+1-2.  
+(doi:10.1049/el.2015.1024 ).   
+• 
+Oikonomakos, Petros and Zwolinski, Mark, Jha, Niraj (eds.)  (2006)  An Integrated High-level On-line Test 
+Synthesis Tool. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 25, (11), 
+2479-2491.   
+• 
+Zwolinski, M., Chalk, C. and Wilkins, B. R.  (1996)  Analogue Fault Modelling and Simulation for Supply 
+Current Monitoring. European Design and Test Conference, 547-552.   
+• 
+Litovski, V, Andrejevic, M and Zwolinski, M, Stojadinovic, N (eds.)  (2006)  Analogue electronic circuit 
+diagnosis based on ANNs. Microelectronic Reliability, 46, (8), 1382-1391.   
+• 
+Al-Hashimi, Bashir, Xie, Yan and Zwolinski, Mark  (2003)  Analysis of mirror mismatch and clock-
+feedthrough in Brouton transformation switched current wave filters. IEE Proceedings- Circuits, Devices and 
+Systems, 150, (1), 6-15.   
+• 
+Zwolinski, M., Garagate, C., Mrcarica, Z., Kazmierski, T. J. and A.D, Brown  (1995)  Anatomy of a simulation 
+backplane. IEE Proc.-Comput. Digit. Tech,, Vol. 1   
+• 
+Zwolinski, M., Yang, Z.R. and Kazmierski, T.J.  (2000)  Applying Mutual Information Theory to Behavioural 
+Analogue Fault Modelling. International Journal of Electronics, 87, (12), 1461-71.   
+• 
+Kilic, Y and Zwolinski, M  (2004)  Behavioral fault modeling and simulation using VHDL-AMS to speed-up 
+analog fault simulation. Analog Integrated Circuits and Signal Processing, 39, (2), 177-190.   
+• 
+Milton, DJD, Brown, AD, Zwolinski, M and Wilson, PR  (2004)  Behavioural synthesis utilising dynamic 
+memory constructs. IEE PROCEEDINGS-COMPUTERS AND DIGITAL TECHNIQUES, 151, (3), 252-264.   
+
+-----
+• 
+Yang, Z.R., Zwolinski, M. and Chalk, C.D.  (1998)  Bootstrap, an alternative to Monte Carlo simulation. 
+Electronics Letters, 34, (12)   
+• 
+Litovski, VB, Litovski, IV and Zwolinski, M  (2004)  Concurrent analogue fault simulation, the equation 
+formulation aspect. INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS, 32, (6), 
+487-507.   
+• 
+Brown, A. D., Zwolinski, M., Nichols, K. G. and Kazmierski, T J  (1992)  Confidence in Mixed-mode Circuit 
+Simulation. Computer-Aided Design, v. 24, (2), 115-118.   
+• 
+Sokolovic, M, Litovski, V and Zwolinski, M  (2009)  Efficient and realistic statistical worst case delay 
+computation using VHDL. Electrical Engineering, 91, (4-5), 197-210.   
+• 
+Li, L., Maunder, R.G., Al-Hashimi, B.M., Zwolinski, M. and Hanzo, L.  (2013)  Energy-conscious turbo 
+decoder design: a joint signal processing and transmit energy reduction approach. IEEE Transactions on 
+Vehicular Technology, 62, (8), 3627-3638.   
+• 
+Perkins, A.J., Zwolinski, M., Chalk, C.D. and Wilkins, B.R.  (1998)  Fault Modeling And Simulation Using 
+VHDL-AMS. Analog Integrated Circuits and Signal Processing, 16, (2)   
+• 
+Ahmadi, Arash and Zwolinski, Mark  (2011)  Fixed-point multiplication: a probabilistic bit-pattern view. 
+Microelectronics Reliability, 51, (4), 790-796.  (doi:10.1016/j.microrel.2010.11.011).   
+• 
+Spinks, SJ, Chalk, CD, Bell, IM and Zwolinski, M  (2004)  Generation and Verification of Tests for Analog 
+Circuits Subject to Process Parameter Deviations. Journal of Electronic Testing: Theory and Applications, 20, 
+(1), 11-23.   
+• 
+Crutchley, Duncan and Zwolinski, Mark  (2003)  Globally convergent algorithms for dc operating point 
+analysis of nonlinear circuits. IEEE Transactions on Evolutionary Computing, 7, (1), 2-10.   
+• 
+Wang, YG and Zwolinski, M  (2008)  Impact of NBTI on the Performance of 35nm CMOS Digital Circuits. 
+2008 9TH INTERNATIONAL CONFERENCE ON SOLID-STATE AND INTEGRATED-CIRCUIT 
+TECHNOLOGY, VOLS 1-4, 440-443.   
+• 
+Zwolinski, M and Gaur, M S  (2003)  Integrating testability with design space exploration. Microelectronics 
+Reliability, 43, (5), 685-694.   
+• 
+Baker, KR and Zwolinski, M  (1992)  Interleaving: An Additional Topological Compaction Technique for 
+Weinberger Array Generation. Computer-Aided Design, 24, (3), 169-176.   
+• 
+Brown, AD, Nichols, KG and Zwolinski, M  (1995)  Issues in the design of a logic simulator: an improved 
+caching technique for event-queue management. IEE PROCEEDINGS-CIRCUITS DEVICES AND SYSTEMS, 
+142, (5), 293-298.   
+• 
+Chalk, C and Zwolinski, M  (1995)  Macromodel of CMOS operational amplifier including supply current 
+variation. Electronics Letters, 171, (31), 1398-1400.   
+• 
+Wang, Yangang, Zwolinski, Mark, Appleby, Andrew, Scoones, Mark, Caldwell, Sonia, Azam, Touqeer, Hurat, 
+Philippe and Pitchford, Chris  (2012)  Managing variability in 40NM and 28NM designs. Electronics World, 
+118, (1912), 34-39.   
+• 
+Merrett, Michael and Zwolinski, Mark  (2014)  Monte Carlo Static Timing Analysis with statistical sampling. 
+Microelectronics Reliability, 54, (2),  464-474.  (doi:10.1016/j.microrel.2013.10.016).   
+• 
+Zwolinski, M. and Yang, Z.R.  (2001)  Mutual Information Theory for Adaptive Mixture Models. IEEE 
+Transactions on Pattern Analysis and Machine Intelligence, 23, (4), 396-403.   
+• 
+Sokolovic, Miljana, Litovski, Vanco and Zwolinski, Mark  (2009)  New concepts of worst-case delay and yield 
+estimation in asynchronous VLSI circuits. Microelectronics Reliability, 49, (2), 186-198.   
+• 
+Oikonomakos, Petros and Zwolinski, Mark  (2006)  On the Design of Self-checking Controllers with Datapath 
+Interactions. IEEE Transactions on Computers, 55, (11), 1423-1434.   
+• 
+Ahmadi, Arash, Mangieri, Eduardo, Maharatna, Koushik, Dasmahapatra, Srinandan and Zwolinski, Mark  
+(2011)  On the VLSI implementation of adaptive-frequency hopf oscillator. IEEE Transactions on Circuits and 
+Systems I Regular Papers, 58, (7), 1076-1088.  (doi:10.1109/TCSI.2010.2092070).   
+• 
+Andrejević Stošović, Miona, Milić, Miljana, Zwolinski, Mark and Litovski, Vančo  (2013)  Oscillation-based 
+analog diagnosis using artificial neural networks based inference mechanism. Computers & Electrical 
+Engineering, 39, (2) (doi:10.1016/j.compeleceng.2012.12.006).   
+• 
+Nichols, K G, Kazmierski, T J, Brown, A D and Zwolinski, M  (1994)  Overview of SPICE simulation 
+algorithms. IEE Proc. Circuits, Devices and Systems, v. 141, (no. 4), 242-250.   
+• 
+Nechma, T. and Zwolinski, M.  (2014)  Parallel sparse matrix solution for circuit simulation on FPGAs. IEEE 
+Transactions on Computers, 64, (4), 1090-1103.  (doi:10.1109/TC.2014.2308202).   
+
+-----
+• 
+Baddam, Karthik and Zwolinski, Mark  (2008)  Path switching: a technique to tolerate dual rail routing 
+imbalances. Design Automation for Embedded Systems   
+• 
+Bishnoi, Rimpy, Laxmi, Vijay, Gaur, Manoj Singh and Zwolinski, Mark  (2015)  Resilient Routing 
+Implementation in 2D Mesh NoC. Microelectronics Reliability (doi:10.1016/j.microrel.2015.11.003).   
+• 
+Mohammadat, M.T., Ali, N.B.Z., Hussin, F.A. and Zwolinski, M.  (2015)  Resistive open faults detectability 
+analysis and implications for testing low power nanometric ICs. IEEE Transactions on Very Large Scale 
+Integration (VLSI) Systems, 23, (3), 580-583.  (doi:10.1109/TVLSI.2014.2312357).   
+• 
+Miller, PR, Zwolinski, M and Jesshope, CR  (1989)  Using Ella As A Design Tool. INTERNATIONAL 
+JOURNAL OF ELECTRICAL ENGINEERING EDUCATION, 26, (1-2), 134-145.   
+• 
+Asgary, Reza, Mohammadi, Karim and Zwolinski, Mark, Stojadinovic, N (eds.)  (2007)  Using neural networks 
+as a fault detection mechanism in MEMS devices. Microelectronic Reliability, 47, (1), 142-149.   
+• 
+Zwolinski, M, Yang, Z R and Kazmierski, T J  (2000)  Using robust adaptive mixing for statistical fault 
+macromodelling. IEE Proc. Circuits Devices & Syst., 147, (Issue ), 267-270.   
+• 
+Al-Sulaifanie, Ahmed, Ahmadi, Arash and Zwolinski, Mark  (2010)  Very Large Scale Integration Architecture 
+for Integer Wavelet Transform. IET Computers & Digital Techniques, 4, (6), 471-483.   
+• 
+Bell, I.M., Spinks, S.J., Taylor, D., Milne, A., Zwolinski, M. and Chalk, C.D.  (1998)  A Comparison of 
+Structural Analogue Testing Techniques.  UNSPECIFIED   
+• 
+Chalk, C. and Zwolinski, M.  (1998)  A Design for Test Technique to Increase the Resolution of Analogue 
+Supply Current Tests.  UNSPECIFIED   
+• 
+Soleimani, H., Maleki, M.A., Ahmadi, A., Bavandpour, M., Maharatna, K. and Zwolinski, M.  (2012)  A GPU 
+based simulation platform for adaptive frequency hopf oscillators. In,  2012 20th Iranian Conference on 
+Electrical Engineering (ICEE), Tehran, IR,  , 884-888.  (doi:10.1109/IranianCEE.2012.6292478).   
+• 
+Lin, Yang, Zwolinski, Mark and Halak, Basel  (2014)  A Low-Cost Radiation Hardened Flip-Flop. In,  Design, 
+Automation and Test in Europe (DATE),    
+• 
+Wilson, Peter R, Al Hashimi, Bashir, Brown, Andrew D and Zwolinski, Mark  (2006)  A Masters Course in 
+System on Chip. In,  European Workshop on Microelectronics Education, Stockholm,   , 11-14.   
+• 
+Yang, Z.R. and Zwolinski, M.  (1998)  A Methodology for Statistical Behavioral Fault Modeling.  
+UNSPECIFIED   
+• 
+Ahmadi, Arash and Zwolinski, Mark  (2010)  A Modified Izhikevich Model For Circuit Implementation of 
+Spiking Neural Networks. In,  LASCAS 2010: IEEE Latin American Symposium on Circuit and system, Brasil,  
+24 - 26 Feb 2010.   
+• 
+Ahmadi, Arash and Zwolinski, Mark  (2007)  A New Structure for Datapath Synthesis. In,  12th International 
+CSI Computer Conference 20 - 22 Feb 2007.   
+• 
+Ahmadi, Arash and Zwolinski, Mark  (2007)  A Symbolic Noise Analysis Approach to Word-Length 
+Optimization in DSP Hardware. In,  International Symposium on Integrated Circuits (ISIC 2007),  26 - 28 Sep 
+2007. IEEE, 497-500.   
+• 
+Zwolinski, M.  (2000)  A Technique for Transparent Fault Injection and Simulation in VHDL.  Small System 
+Simulation Symposium (SSSS)   
+• 
+Williams, A.C., Brown, A.D. and Zwolinski, M.  (2000)  A VHDL Behavioural Synthesis System Featuring 
+Simultaneous Optimisation of Dynamic Power, Area and Delay.  UNSPECIFIED , 23-30.   
+• 
+Thapliyal, Himanshu, Srinivas, M.B. and Zwolinski, Mark  (2005)  A beginning in the reversible logic synthesis 
+of sequential circuits. In,  Military and Aerospace Applications of Programmable Devices and Technologies 
+International Conference (MAPLD) , Washington, US,  07 - 09 Sep 2005.   
+• 
+Brown, Andrew D., Furber, Steven B., Reeve, Jeff S., Wilson, Peter R., Zwolinski, Mark, Chad, John E., Plana, 
+Luis and Lester, David R.  (2010)  A communication infrastructure for a million processor machine. At  
+Proceedings of the 7th ACM international conference on Computing frontiers ACM, 75-76.   
+• 
+Lin, Yang and Zwolinski, Mark  (2014)  A cost-efficient self-checking register architecture for radiation 
+hardened designs. In,  International Symposium on Circuits and Systems, Melbourne, AU,  01 - 05 Jun 2014.   
+• 
+Litovski, V, Andrejevic, M and Zwolinski, M  (2004)  ANN based modeling, testing and diagnosis of MEMS. 
+In,  NEUREL 2004: SEVENTH SEMINAR ON NEURAL NETWORK APPLICATIONS IN ELECTRICAL 
+ENGINEERING, Belgrade, Serbia,  23 - 25 Sep 2004. IEEE, 183-188.   
+• 
+Maache, Ahmed, Reeve, Jeff and Zwolinski, Mark  (2009)  Accelerating CMOS Device Model Evaluation 
+Using Multi-FPGA Systems. At  Fifth UK Embedded Forum, Leicester, UK,  23 - 24 Sep 2009.   
+
+-----
+• 
+Suresh, L., Rameshan, N., Gaur, M.S., Zwolinski, M. and Laxmi, V.  (2011)  Acceleration of Functional 
+Validation using GPGPU. At  Proceedings of the 2011 IEEE 6th International Workshop on Electronic Design, 
+Test and Application (DELTA 2011) IEEE Computer Society, 211-216.   
+• 
+Gaur, Manoj Singh, Laxmi, Vijay, V., Lakshminarayanan, Cahndra, Kamal and Zwolinski, Mark  (2011)  
+Acceleration of packet filtering using Gpgpu. In,  SIN2011: 4th International Conference on Security of 
+Information and Networks, Sydney, AU,  14 - 19 Nov 2011. ACM, 227-230.   
+• 
+Nawi, Illani, Halak, Basel and Zwolinski, Mark  (2016)  Ageing Impact on a High Speed Voltage Comparator 
+with Hysteresis. At  Workshop on Early Reliability Modeling for Aging and Variability in Silicon Systems,     
+• 
+Abbas, Haider, Halak, Basel and Zwolinski, Mark  (2015)  An Application-Specific NBTI Ageing Analysis 
+Method. In,  International Workshop on CMOS Variability, Rua da Fonte do Boi, 216 - Rio Vermelho, Bahia,, 
+Brazil,  IEEE.   
+• 
+Lin, Yang, Zwolinski, Mark and Halak, Basel  (2014)  An Energy-Efficient Radiation Hardened Register File 
+Architecture for Reliable Microprocessors. At  Silicon Errors in Logic - System Effects (SELSE),    
+• 
+Lin, Yang, Zwolinski, Mark and Halak, Basel  (2014)  An energy efficient radiation hardened register file 
+architecture. In,  Designing with Uncertainty - Opportunities & Challenges Workshop, York, GB,  17 - 19 Mar 
+2014. 3pp.   
+• 
+Wang, Wei and Zwolinski, M.  (2013)  An improved instruction-level energy model for RISC microprocessors. 
+In,  9th Conference on Ph.D. Research in Microelectronics and Electronics (PRIME 2013) ,  24 - 27 Jun 2013. 
+Villach, AT, , 349-352.   
+• 
+Wang, Wei and Zwolinski, Mark  (2014)  An improved instruction-level power model for ARM11 
+microprocessor. In,  High Performance Energy Efficient Embedded Systems (HIP3ES), Berlin, DE,  23 Jan 
+2013. 7pp.   
+• 
+Forcer, T M, Nixon, M S and Zwolinski, M  (2002)  An integrated framework for digital electronics education - 
+programmable logic and IC design tools.  Engineering Education 2002 - Professional Engineering Scenarios 
+The Institution of Electrical Engineers, 37/1-37/6.   
+• 
+Zwolinski, M. and Lam, Y.  (2000)  Analog Circuit Synthesis With Over-designed Circuits.  Asia Pacific 
+Conference on Circuits and Systems   
+• 
+Nawi, Illani Mohd, Halak, Basel and Zwolinski, Mark  (2015)  Analysis of the Reliability of Comparator 
+circuits. In,  IEEE PRIME, Glasgow City, GB,   IEEE.   
+• 
+Wang, Yangang and Zwolinski, Mark  (2009)  Analytical Transient Response and Propagation Delay Model for 
+Nanoscale CMOS Inverter. At  ISCAS, Taipei. , Taiwan,    
+• 
+Ahmadi, Arash and Zwolinski, Mark  (2005)  Area Word-Length Trade off in DSP Algorithm Implementation 
+and Optimization. In,  IEE/EURASIP Conference on DSPenabledRadio, Southampton, UK,  19 - 20 Sep 2005. , 
+16/1-16/6.   
+• 
+Kilic, Yavuz and Zwolinski, Mark  (2002)  Behavioural Fault Modelling using VHDL-AMS and Slow 
+Transient Analysis with hAMSter Simulator to Speed-up Analogue Fault Simulation.  European Test Workshop   
+• 
+Wilson, Peter R, Kilic, Yavuz, Ross, J. Neil, Zwolinski, Mark and Brown, Andrew D.  (2002)  Behavioural 
+Modelling of Operational Amplifier Faults using VHDL-AMS. In,  Design, Automation and Test in Europe , 
+1133.   
+• 
+Wilson, P R, Kilic, Y, Ross, J N, Zwolinski, M and Brown, A D  (2001)  Behavioural Modelling of Operational 
+Amplifier Faults using analogue Hardware Description Languages. In,  Behavioral Modeling and Simulation 
+Workshop   
+• 
+Litovski, V, Andrejević, M and Zwolinski, M  (2005)  Behavioural Modelling, Simulation, Test and Diagnosis 
+of MEMS using ANNs. In,  International Symposium on Circuits and Systems, Kobe, Japan,  23 - 26 May 2005. 
+IEEE.   
+• 
+Wang, Yangang, Zwolinski, Mark and Merrett, Michael  (2008)  Behavioural modelling for stability of CMOS 
+SRAM cells subject to random discrete doping. In,  IEEE Inernational Behavioral Modeling and Simulation 
+Workshop (BMAS), San Jose, CA, USA,    
+• 
+Brown, AD and Zwolinski, M  (2004)  Behavioural modelling of analogue faults in VHDL-AMS - A case study. 
+In,  2004 IEEE INTERNATIONAL SYMPOSIUM ON CIRCUITS AND SYSTEMS, Vancouver, Canada,  23 - 
+26 May 2004. IEEE, V632-V635.   
+• 
+Zwolinski, M and Reeve, JS  (2005)  Behavioural synthesis of an adaptive Viterbi decoder. In,  
+DSPenabledRadio, 2005. The 2nd IEE/EURASIP Conference on, Southampton, UK,  19 - 20 Sep 2004. IEE.   
+• 
+Kilic, Y. and Zwolinski, M.  (2001)  Behavioural/Macro Modelling To Speed-Up Analogue Fault Simulation.  
+Proceedings of ELECO'01   
+
+-----
+• 
+Kumar, M., Laxmi, V., Gaur, M.S., Ko, S.-B. and Zwolinski, M.  (2014)  CARM: congestion adaptive routing 
+method for on chip networks. In,  VLSI Design and 2014 13th International Conference on Embedded Systems, 
+2014 
+27th 
+International 
+Conference 
+on, 
+Mumbai, 
+ 
+05 
+- 
+09 
+Jan 
+2014. 
+IEEE, 
+240-245.  
+(doi:10.1109/VLSID.2014.48).   
+• 
+Zwolinski, M. and Tan, C.H.  (1999)  Characterisation of Analog Macromodels under Fault Conditions using a 
+Probabilistic Neural Network.  UNSPECIFIED , 157-60.   
+• 
+Zwolinski, M., Glaser, H. and Peh, K.  (1992)  Circuit Simulation - A Functional Programming Approach.  
+Research Journal Dept. of Electronics and Computer Science, University of Southampton, UK, 99-102.   
+• 
+Lam, K.C.A. and Zwolinski, M.  (2013)  Circuit simulation using state space equations. In,  9th Conference on 
+Ph.D. Research in Microelectronics and Electronics (PRIME 2013) , Villach, AT,  24 - 27 Jun 2013. , 177-180.   
+• 
+Zwolinski, M. and Kilic, Y.  (2000)  Closeness Measurement in Concurrent Analogue Fault Simulation.  
+International Conference on Signals and Electronic Systems (ICSES)   
+• 
+Kulakov, Anton and Zwolinski, Mark  (2011)  Combining Hebbian and Reinforcement Methods in a 
+Biologically-inspired Adaptive Agent. In,  3rd International Conference on Machine Learning and Computing,     
+• 
+Gaur, Manoj Singh, Zwolinski, Mark and Al-Hashimi, Basheer  (2003)  Concurrent Optimisation of Self-
+testable Designs from Behavioural Descriptions by Controller based Estimation Technique. At  IEEE European 
+Test Workshop, Mastricht, The , Netherlands,  25 - 28 May 2003.   
+• 
+Baker, K R, Zwolinski, M and Brown, A D  (1995)  Concurrent Testing of Latent Modules in Synthesized 
+Systems.  1st IEEE International On-Line Testing Workshop, Nice, France,   IEEE, 196-200.   
+• 
+Kilic, Yavuz and Zwolinski, Mark  (2000)  Concurrent Transient Fault Simulation of Nonlinear Analogue 
+Circuits.  6th International Mixed-Signal Testing Workshop   
+• 
+Oikonomakos, Petros and Zwolinski, Mark  (2003)  Controller Self-checking in a Controller / Datapath 
+Architecture.  3rd SIGDA UK Workshop on Electronic Design Automation, Southampton, UK,  11 - 12 Sep 
+2003.   
+• 
+Crutchley, DA and Zwolinski, M  (2004)  DC operating point analysis using evolutionary computing. In,  24th 
+International Conference on Microelectronics (MIEL 2004), Nis and Montenegro, Serbia,   IEEE, 727-730.   
+• 
+Zain Ali, Noohul Basheer, Zwolinski, Mark and Ahmadi, Arash  (2008)  Delay Fault Modelling/Simulation 
+using VHDL-AMS in Multi-Vdd Systems. In,  26th International Conference on Microelectronics, Nis, Serbia,  
+11 - 14 May 2008.   
+• 
+Merrett, Michael, Wang, Yangang, Zwolinski, Mark, Maharatna, Koushik and Alioto, Massimo  (2010)  Design 
+Metrics for RTL level estimation of delay variability due to intradie (random) variations. In,  ISCAS, Paris,    
+• 
+Kilic, Y., Chalk, C.D. and Zwolinski, M.  (1999)  Design and Realisation of a New Built-In Current Sensor for 
+Mixed-Signal IDDD Test.  UNSPECIFIED , 55-60.   
+• 
+Lechner, A., Perkins, A., Richardson, A., Zwolinski, M. and Hermes, B.  (1998)  Design for Testability 
+Strategies for a High Performance Automatic Gain Control Circuit.  UNSPECIFIED   
+• 
+Baddam, Karthik and Zwolinski, Mark  (2008)  Divided Backend Duplication Methodology for Balanced Dual 
+Rail Routing. In,  Workshop on Cryptographic Hardware and Embedded Systems 2008 (CHES 2008)   
+• 
+Zain Ali, Noohul Basheer, Zwolinski, Mark, Al-Hashimi, Bashir M and Harrod, Peter  (2006)  Dynamic 
+Voltage Scaling Aware Delay Fault Testing. In,  European Test Symposium, Southampton,  21 - 25 May 2006.   
+• 
+Qi, Ji and Zwolinski, Mark  (2014)  Efficient simulation and modelling of non-rectangular NoC topologies. At  
+DATE: Design, Automation, & Test in Europe, Dresden, DE,  24 - 28 Mar 2014. IEEE.  
+(doi:10.7873/DATE2014.298).   
+• 
+Baddam, K. and Zwolinski, M.  (2007)  Evaluation of dynamic voltage and frequency scaling as a differential 
+power analysis countermeasure. At  2007 20th International Conference on VLSI Design IEEE Comput. Soc.   
+• 
+Zwolinski, M., Crutchley, D. and Yang, Z.R.  (2000)  Evolutionary Computing for Operating Point Analysis of 
+Nonlinear Circuits.  International Conference on Signals and Electronic Systems (ICSES)   
+• 
+Yang, Z.R. and Zwolinski, M.  (1999)  Fast, robust DC and transient fault simulation for nonlinear analogue 
+circuits.  UNSPECIFIED , 244-8.   
+• 
+Yang, Z. R., Zwolinski, M. and Chalk, C.D.  (1998)  Fault Detection and Classification in Analogue Integrated 
+Circuits using Robust Heteroscedastic Probabilistic Neural Networks.  UNSPECIFIED   
+• 
+Andrejevic, M, Litovski, V and Zwolinski, M  (2006)  Fault diagnosis in digital part of mixed-mode circuit. In,  
+25TH INTERNATIONAL CONFERENCE ON MICROELECTRONICS, Belgrade, Serbia,  14 - 17 May 2006. 
+IEEE, 437-440.   
+
+-----
+• 
+Oikonomakos, Petros and Zwolinski, Mark  (2003)  Foundation of Combined Datapath and Controller Self-
+checking Design.  9th IEEE International On-Line Testing Symposium, Kos Island, Greece,  07 - 09 Jul 2003. 
+IEEE Computer Society, 30-34.   
+• 
+Oikonomakos, Petros and Zwolinski, Mark  (2002)  High-Level Synthesis for On-Line Testability.  
+Postgraduate Research in Electronics, Photonics, communications and software, Nottingham, UK,  17 - 19 Apr 
+2002.   
+• 
+Kumar, Manoj, Laxmi, Vijay, Gaur, Manoj, Daneshtalab, Masoud, Ko, Seok-Bum and Zwolinski, Mark  (2014)  
+Highly adaptive and congestion-aware routing for 3D NoCs. At  Proceedings of the 24th edition of the Great 
+Lakes Symposium on VLSI (GLSVLSI '14), Houston, US,  21 - 23 May 2014. ACM, 97-98.  
+(doi:10.1145/2591513.2591581).   
+• 
+Gaur, MS and Zwolinski, M  (2004)  Integrating Self Testability with Design Space Exploration by a Controller 
+based Estimation Technique. In,  17th International Conference on VLSI Design (VLSID’04), Mumbai, India,   
+IEEE, 901-906.   
+• 
+Ahmadi, Arash and Zwolinski, Mark  (2007)  MW²P-Bus: A New Bus Structure for Datapath Synthesis. In,  3rd 
+UK Embedded Forum, Durham, UK,  02 - 03 Apr 2007. IET.   
+• 
+Brown, A D, Zwolinski, M and Redman-White, W  (1990)  Mixed mode simulation of oversampled A/D 
+converters.  UNSPECIFIED   
+• 
+Zwolinski, M., Garagate, C. and Kazmierski, T. J.  (1994)  Mixed-signal simulation using the ALFA simulation 
+backplane.  Proc. IEE Coll. on Mixed Mode Modelling and Simulation, London   
+• 
+Amirsoleimani, A., Soleimani, H., Ahmadi, A., Bavandpour, M. and Zwolinski, M.  (2013)  Modeling the effect 
+of process variations on the delay and power of the digital circuit using fast simulators. In,  2013ICEE: 21st 
+Iranian Conference on Electrical Engineering, Mashhad, IR,  14 - 16 May 2013. , 1-6.   
+• 
+Bushager, Aisha and Zwolinski, Mark  (2010)  Modelling Smart Card Security Protocols in SystemC TLM. In,  
+Embedded and Ubiquitous Computing (EUC), 2010 IEEE/IFIP 8th International Conference on  IEEE 
+Computer Society, 637-643.   
+• 
+Merrett, M., Asenov, P., Wang, Yangang, Zwolinski, M., Reid, D., Millar, C., Roy, S., Liu, Zhenyu, Furber, S. 
+and Asenov, A.  (2011)  Modelling circuit performance variations due to statistical variability: Monte Carlo 
+static timing analysis. At  Design, Automation Test in Europe Conference Exhibition (DATE), 2011 , 1 -4.   
+• 
+Zwolinski, M. and Kazmierski, T. J.  (1994)  Modelling in VHDL-A,.  Proc. IEE Coll. on Mixed Mode 
+Modelling and Simulation, London   
+• 
+Yee, Tack Boon, Zwolinski, Mark and Brown, Andrew D  (2005)  Multi-FPGA Synthesis with Asynchronous 
+Communication Subsystems. In,  IFIP International Conference on Very Large Scale Integration (VLSI-SOC 
+2005)   
+• 
+Sai, Gaole, Halak, Basel and Zwolinski, Mark  (2016)  Multi-Path Ageing Sensor for Cost-efficient Delay-Fault 
+Prediction. At  Workshop on Early Reliability Modeling for Aging and Variability in Silicon Systems,     
+• 
+Zwolinski, Mark  (2010)  Multi-Threaded Circuit Simulation using OpenMP. In,  LASCAS 2010: IEEE Latin 
+American Symposium on Circuits and Systems, Brasil,  24 - 26 Feb 2010.   
+• 
+Ahmadi, Arash and Zwolinski, Mark  (2007)  Multiple-Width Bus Partitioning Approach to Datapath Synthesis. 
+In,  IEEE International Symposium on Circuits and Systems (ISCAS), New Orleans, USA,  27 - 30 May 2007. 
+IEEE, 2994 -2997.   
+• 
+Mispan, Mohd, Halak, Basel and Zwolinski, Mark  (2016)  NBTI analysis on PUF-based differential 
+architectures. In,  22nd IEEE International Symposium on On-Line Testing and Robust System Design  IEEE.   
+• 
+Sokolovic, Miljana, Litovski, Vanco and Zwolinski, Mark  (2008)  New concepts of worst-case delay 
+evaluation in asynchronous VLSI SoC. In,  26th International Conference on Microelectronics (MIEL 2008), 
+Nis, Serbia,  11 - 14 May 2008.   
+• 
+Ahmadi, Arash and Zwolinski, Mark  (2008)  On The Probability Distribution Of Fixed-Point Multiplication. In,  
+IEEE International Conference on Electronics Circuits and Systems,   IEEE, 25-28.   
+• 
+Shukla, V., Ali, N.B.Z., Hussin, F.A. and Zwolinski, M.  (2013)  On testing of MEDA based digital 
+microfluidics biochips. In,  Quality Electronic Design (ASQED), 2013 5th Asia Symposium on, Penang, 
+Malaysia,  26 - 28 Aug 2013. , 60-65.   
+• 
+Oikonomakos, Petros and Zwolinski, Mark  (2002)  On-Line Testability in a Transformation-Based and Cost 
+Function-Driven High-Level Synthesis Environment. At  UK ACM SIGDA Workshop on Electronic Design 
+Automation, Bournemouth,  16 - 17 Sep 2002.   
+
+-----
+• 
+Maache, Ahmed, Reeve, Jeff and Zwolinski, Mark  (2009)  Optimising Physical Wires Usage in Mesh-based 
+Multi-FPGA Systems using Partition Swapping. At  21st International Conference on Microelectronics 
+(ICM09),  19 - 22 Dec 2009.   
+• 
+Nechma, Tarek, Zwolinski, Mark and Reeve, Jeff  (2010)  Parallel Sparse Matrix Solver for Direct Circuit 
+Simulations on FPGAs. In,  ISCAS, Paris,    
+• 
+Ahmadi, Arash, Mangieri, Eduardo, Maharatna, Koushik and Zwolinski, Mark  (2009)  Physical Realizable 
+Circuit Structure For Adaptive Frequency Hopf Oscillator. In,  NEWCAS-TAISA'09, Toulouse, France,  28 Jun 
+- 01 Jul 2009. IEEE.   
+• 
+Zwolinski, Mark and Allen, Robin W.  (2001)  Practical algorithms for fully decoupled mixed-mode simulation 
+of electronic circuits.  International Symposium on Circuits and Systems IEEE, V 451-4.   
+• 
+Kilic, Yavuz and Zwolinski, Mark  (2001)  Process variation independent built-in current sensor for analogue 
+built-in self-test.  International Symposium on Circuits and Systems IEEE, IV 398-401.   
+• 
+Nawi, Illani Mohd , Halak, Basel and Zwolinski, M.  (2015)  Reliability Analysis of Comparators. In,  DATE 
+Workshop: Designing with Uncertainty - Opportunities & Challenges DADATE Workshop: Designing with 
+Uncertainty - Opportunities & Challenges.   
+• 
+Nichols, K.G., Kazmierski, T J, Zwolinski, M and Brown, A D  (1993)  Reliability of circuit-level simulation,.  
+Proc. IEE Colloquium on SPICE IEE.   
+• 
+Thapliyal, Himanshu and Zwolinski, Mark  (2006)  Reversible logic to cryptographic hardware: a new 
+paradigm. In,  49th IEEE International Midwest Symposium on Circuits and Systems (MWSCAS '06), San Juan, 
+US,  06 - 09 Aug 2006. IEEE5pp.   
+• 
+Lin, Yang and Zwolinski, Mark  (2012)  SETTOFF : a fault tolerant flip-flop for building cost-efficient reliable 
+systems. In,  IOLTS 2012: 18th IEEE International On-Line Testing Symposium, Sitges, ES,  27 - 29 Jun 2012.   
+• 
+Kilic, Y. and Zwolinski, M.  (2001)  Speed-up Techniques for Fault-based Analogue Fault Simulation.  
+Proceedings of ETW'01   
+• 
+Haider, Abbas, Halak, Basel and Zwolinsk , Mark  (2016)  Static Aging Analysis Using 3-Dimensional Delay 
+Library. At  Workshop on Early Reliability Modeling for Aging and Variability in Silicon Systems,    
+• 
+Wang, Yangang, Merrett, M. and Zwolinski, M.  (2010)  Statistical power analysis for nanoscale CMOS. At  
+2010 International Conference on Signals and Electronic Systems (ICSES) IEEE, 201-204.   
+• 
+Ahmadi, Arash and Zwolinski, Mark  (2009)  Symbolic Error Analysis In Digital Computation. At  3rd MRS 
+Network Workshop - Numerical Accuracy and Reliability, Queen's University Belfast, UK,     
+• 
+Ahmadi, Arash and Zwolinski, Mark  (2008)  Symbolic Noise Analysis Approach to Computational Hardware 
+Optimization. In,  Design Automation Conference (DAC),  09 - 13 Jun 2008. IEEE, 391-396.   
+• 
+MISPAN, Mohd Syafiq, Halak, Basel, Chen, Zufu and Zwolinski, Mark  (2015)  TCO-PUF: A Subthreshold 
+Physical Unclonable Function. In,  IEEE PRIME,  IEEE.   
+• 
+Kilic, Y. and Zwolinski, M.  (1999)  Testing analog circuits by supply voltage variation and supply current 
+monitoring.  UNSPECIFIED , 155-8.   
+• 
+Zain Ali, Noohul Basheer, Zwolinski, Mark and Al-Hashimi, Bashir  (2007)  Testing of Level Shifters in 
+Multiple Voltage Designs. At  14th IEEE International Conference on Electronics, Circuits and Systems,  11 - 
+14 May 2007.   (1984)  The Design of a Hierarchical Circuit-Level Simulator.  Electronic Design Automation, 
+Warwick,   IEE.   
+• 
+Brown, AD and Zwolinski, M  (2003)  The continuous-discrete interface - What does this really mean? - 
+Modelling and simulation issues. In,  IEEE INTERNATIONAL SYMPOSIUM ON CIRCUITS AND 
+SYSTEMS, Bangkok, Thailand,  25 - 28 May 2003. IEEE, 894-897.   
+• 
+NAWI, Illani Mohd , Halak, Basel and Zwolinski, Mark  (2016)  The influence of hysteresis voltage on single 
+event transients in a 65nm CMOS high speed comparator. At  21st IEEE European Test Symposium ieee.   
+• 
+Mokhtarpour Ghahroodi, M.M., Zwolinski, M., Wong, R. and Wen, S.  (2011)  Timing vulnerability factors of 
+ultra deep-sub-micron CMOS. At  2011 16th IEEE European Test Symposium (ETS), Trondheim, NO,  23 - 27 
+May 2011. , 202.  (doi:10.1109/ETS.2011.40).   
+• 
+Lam, Y. and Zwolinski, M.  (1999)  Topology Selector for Analogue Circuits.  UNSPECIFIED , 209-12.   
+• 
+Oikonomakos, Petros and Zwolinski, Mark  (2002)  Transformation Based Insertion of On-Line Testing 
+Resources in a High-Level Synthesis Environment. At  IEEE International On-Line Testing Workshop, Isle of 
+Bendor, France,  08 - 10 Jul 2002. IEEE Computer Society, 185.   
+
+-----
+• 
+Crutchley, D A and Zwolinski, M  (2002)  Using Evolutionary and Hybrid Algorithms for DC Operating Point 
+Analysis of Nonlinear Circuits.  IEEE World Congress on Computational Intelligence - Congress on 
+Evolutionary Computation , 753-8.   
+• 
+Oikonomakos, Petros and Zwolinski, Mark  (2001)  Using High-Level Synthesis to Implement On-Line 
+Testability.  IEEE Real-Time Embedded Systems Workshop   
+• 
+Bello, Ibrahim A., Halak, Basel, El-Hajjar, Mohammed and Zwolinski, Mark  (2015)  VLSI Implementation of 
+a Scalable K-best MIMO Detector. In,  The 15th International Symposium on Communications and Information 
+Technologies (ISCIT 2015) , Japan, JP,  IEEE.   
+• 
+Mishra, B, Al-Hashimi, Bashir and Zwolinski, Mark  (2009)  Variation Resilient Adaptive Controller for 
+Subthreshold Circuits. In,  DATE, 2009, Nice, France,  20 - 24 Apr 2009.   
+• 
+Oikonomakos, P., Zwolinski, M. and Al-Hashimi, B. M.  (2003)  Versatile High-Level Synthesis of Self-
+Checking Datapaths Using an On-Line Testability Metric.  Design Automation and Test in Europe (DATE), 
+Munich,  03 - 07 Mar 2003. ACM/IEEE, 596-601.   
+• 
+(2003)  Versatile High-level Synthesis of Self-checking Datapaths Using an On-line Testability Metric.  Design 
+Automation and Test in Europe Conference and Exhibition, Munich, Germany,  03 - 07 Mar 2003. IEEE 
+Computer Society.   
+• 
+Ahmadi, Arash and Zwolinski, Mark  (2006)  Word-Length Oriented Multiobjective Optimization of Area and 
+Power Consumption in DSP Algorithm Implementation. In,  2006 25th International Conference on 
+Microelectronics, Belgrade and Montenegro, Serbia,  14 - 17 May 2006. IEEE, 614-617.   
+
+-----

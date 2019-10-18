@@ -1,0 +1,321 @@
+ The Scopus Author Identifier assigns a unique number to groups of documents written by the same author via an algorithm that matches authorship based on a certain criteria. If a document canno
+confidently matched with an author identifier, it is grouped separately. In this case, you may see more than 1 entry for the same author. 
+Search
+Sources
+Alerts
+Lists
+Help
+SciVal ↗
+Author details
+Ortmanns, Maurits 
+Universitat Ulm, Institute of Microelectronics, Ulm, 
+Germany 
+Author ID: 21834897500
+Other name formats: Ortmanns, M.
+About Scopus Author Identifier | View potential author matches 
+Documents:
+Analyze author output
+Citations:
+View citation overview
+h-index: 
+View h-graph
+Co-authors:
+Subject area:
+View docum
+View docum
+View docum
+Follow this Author
+Receive emails when this author 
+publishes new articles
+Get citation alerts 
+Add to ORCID
+Request author detail corrections
+Author History 
+Publication range: 2001 - Present 
+References: 1294
+Source history:
+IEEE Transactions on Circuits and Systems II: Express B
+ISCAS 2012 - 2012 IEEE International Symposium on Cir
+and Systems  
+IEEE Journal of Solid-State Circuits
+View More 
+Show Related Affiliations
+Back to results |
+1 of 1 
+Print |
+Email 
+233 
+1715 total citations by 1150 documents 
+20 
+147
+Engineering ,  Computer Science View More
+233 documents
+Export all |
+Add all to list
+|
+Set document alert |
+Set document feed 
+233 Documents | Cited by 1150 documents | 147 co-authors
+View all in search results format 
+Sort on: Date Cited by
+...
+Designing CT ΣΔ modulators with www.sigma-delta.de
+Wagner, J., Ortmanns, 
+M. 
+2017 2016 IEEE International 
+Conference on 
+Electronics, Circuits and 
+Systems, ICECS 2016 
+View at Publisher
+A continuous-time field programmable analog array with 
+1 GHz GBW
+Becker, J., Anders, J., 
+Ortmanns, M. 
+2017 2016 IEEE International 
+Conference on 
+Electronics, Circuits and 
+Systems, ICECS 2016 
+View at Publisher
+Enhanced Arbiter PUFs using custom sized structures for 
+reduced noise sensitivity
+Herkle, A., Schuster, 
+M., Becker, J., 
+Ortmanns, M. 
+2017 2016 IEEE International 
+Conference on 
+Electronics, Circuits and 
+Systems, ICECS 2016 
+View at Publisher
+Designing CT ΣΔ modulators with shaped feedback 
+waveforms using www.sigma-delta.de
+Wagner, J., Chi, J., 
+Ortmanns, M. 
+2017 2016 IEEE International 
+Conference on 
+Electronics, Circuits and 
+Systems, ICECS 2016 
+View at Publisher
+Phase noise vs. jitter analysis in continuous-time LP and 
+BP ΣΔ modulators with interferers
+Chi, J., Ritter, R., 
+Wagner, J., Anders, J., 
+Ortmanns, M. 
+2017 2016 IEEE International 
+Conference on 
+Electronics, Circuits and 
+Systems, ICECS 2016 
+View at Publisher
+Finite GBW in single OpAmp CT ΣΔ modulators
+Wagner, J., Reich, S., 
+Ritter, R., Anders, J., 
+Ortmanns, M. 
+2017 2016 IEEE International 
+Conference on 
+Electronics, Circuits and 
+Systems, ICECS 2016 
+View at Publisher
+A bidirectional neural interface featuring a tunable 
+recorder and electrode impedance estimation
+Haas, M., Anders, J., 
+Ortmanns, M. 
+2017 Proceedings - 2016 
+IEEE Biomedical 
+Circuits and Systems 
+Conference, BioCAS 
+2016 
+View at Publisher
+Design and validation of a 10-bit current mode SAR ADC 
+with 58.4 dB SFDR at 50 MS/s in 90 nm CMOS
+Elkafrawy, A., Anders, 
+J., Ortmanns, M. 
+2016 Analog Integrated 
+Circuits and Signal 
+Processing 
+View at Publisher
+0
+1
+0
+0
+0
+0
+0
+0
+Years
+Documents
+Citations
+2007
+2018
+0
+43
+Register
+Login
+Page 1 of 3
+Scopus - Author details (Ortmanns, Maurits)
+11/2/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=218348975...
+
+-----
+The data displayed above is compiled exclusively from articles published in the Scopus database. To request corrections to any inaccuracies or provide any further feedback, please contact us (registration required). 
+The data displayed above is subject to the privacy conditions contained in the privacy policy . 
+Top of page 
+Display: 
+results per page
+Page 1
+An array of fully-integrated quadrature TX/RX NMR field 
+probes for MRI trajectory mapping
+Handwerker, J., Eder, 
+M., Tibiletti, M., (...), 
+Ortmanns, M., Anders, 
+J. 
+2016 European Solid-State 
+Circuits Conference 
+View at Publisher
+Sigma-delta ADCs with improved interferer robustness (
+ Book Chapter) 
+Ritter, R., Chi, J., 
+Ortmanns, M. 
+2016 Wideband Continuous-
+time ΣΔ ADCs, 
+Automotive Electronics, 
+and Power 
+Management: Advances 
+in Analog Circuit Design 
+2016
+View at Publisher
+A tunable, robust pseudo-resistor with enhanced linearity 
+for scanning ion-conductance microscopy
+Djekic, D., Ortmanns, 
+M., Fantner, G., 
+Anders, J. 
+2016 Proceedings - IEEE 
+International Symposium 
+on Circuits and Systems 
+View at Publisher
+A bidirectional neural interface IC with high voltage 
+compliance and spectral separation
+Haas, M., Bihr, U., 
+Anders, J., Ortmanns, 
+M. 
+2016 Proceedings - IEEE 
+International Symposium 
+on Circuits and Systems 
+View at Publisher
+Using www.sigma-delta.de to rapidly obtain ELD 
+compensated CT ΣΔ modulators
+Wagner, J., Ritter, R., 
+Ortmanns, M. 
+2016 Proceedings - IEEE 
+International Symposium 
+on Circuits and Systems 
+View at Publisher
+A hybrid comparator for high resolution SAR ADC
+Almarashli, A., Anders, 
+J., Ortmanns, M. 
+2016 Proceedings - IEEE 
+International Symposium 
+on Circuits and Systems 
+View at Publisher
+A floating high-voltage level-shifter with high area 
+efficiency for biomedical implants
+Haas, M., Ortmanns, 
+M. 
+2016 2016 12th Conference 
+on Ph.D. Research in 
+Microelectronics and 
+Electronics, PRIME 
+2016 
+View at Publisher
+STF engineering in CT sigma-delta modulators using 
+www.sigma-delta.de
+Wagner, J., Ritter, R., 
+Ortmanns, M. 
+2016 2016 12th Conference 
+on Ph.D. Research in 
+Microelectronics and 
+Electronics, PRIME 
+2016 
+View at Publisher
+Delta compression in time-multiplexed multichannel 
+neural recorders
+Pagin, M., Haas, M., 
+Becker, J., Ortmanns, 
+M. 
+2016 2016 12th Conference 
+on Ph.D. Research in 
+Microelectronics and 
+Electronics, PRIME 
+2016 
+View at Publisher
+A study on op-amp nonlinearity in a single-bit CT ΔΣ 
+modulator employing GBW compensation
+Chu, C., Wagner, J., Al 
+Marashli, A., Chi, J., 
+Ortmanns, M. 
+2016 2016 12th Conference 
+on Ph.D. Research in 
+Microelectronics and 
+Electronics, PRIME 
+2016 
+View at Publisher
+Exploiting weak PUFs from data converter nonlinearity - 
+E.g., A multibit CT ΔΣ modulator
+Herkle, A., Becker, J., 
+Ortmanns, M. 
+2016 IEEE Transactions on 
+Circuits and Systems I: 
+Regular Papers 
+View at Publisher
+A 10 MHz Bandwidth, 70 dB SNDR Continuous Time 
+Delta-Sigma Modulator With Digitally Improved 
+Reconfigurable Blocker Rejection
+Ritter, R., Kauffman, 
+J.G., Becker, J., 
+Ortmanns, M. 
+2016 IEEE Journal of Solid-
+State Circuits 
+View at Publisher
+0
+0
+1
+2
+1
+0
+0
+1
+0
+0
+1
+5
+20
+Back to results |
+1 of 1 
+Page 2 of 3
+Scopus - Author details (Ortmanns, Maurits)
+11/2/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=218348975...
+
+-----
+About Scopus
+What is Scopus
+Content coverage
+Scopus blog
+Scopus API
+Privacy matters
+Language
+日本語に切り替える
+切换到简体中文
+切換到繁體中文
+Русский язык
+Customer Service
+Help
+Contact us
+Terms and conditions
+Privacy policy
+Copyright © 2017 Elsevier B.V. All rights reserved. Scopus® is a registered trademark of Elsevier B.V.
+Cookies are set by this site. To decline them or learn more, visit our Cookies page.
+Page 3 of 3
+Scopus - Author details (Ortmanns, Maurits)
+11/2/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=218348975...
+
+-----

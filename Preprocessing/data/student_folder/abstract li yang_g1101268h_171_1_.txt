@@ -1,0 +1,76 @@
+Thesis title 
+Planar and Non-Gold Metal Stacks Processes and 
+Conduction Mechanisms for AlGaN/GaN High-electron-
+mobility Transistors on Silicon 
+  
+Abstract 
+          AlGaN/GaN high-electron-mobility transistors (HEMTs) have demonstrated 
+great potentials in high voltage and high frequency applications due to the advantage 
+in their intrinsic material properties such as wide band gap, high electron saturation 
+velocity, high sheet carrier density, etc. Conventionally, AlGaN/GaN HEMTs are 
+realized in III-V fabrication line using the processes that cannot be used in Si CMOS 
+line, e.g. mesa isolation, gold-based ohmic contacts and gate electrodes etc.  
+          With the advances of epitaxial growth technology, the crack-free AlGaN/GaN 
+heterostructure can be realized in large diameter (200 mm) Si substrate with low 
+wafer bowing values, which provides the possibility of fabricating devices with high 
+throughput to satisfy the rapidly increased market of GaN electronics. In recent years, 
+CMOS-compatible processes have received considerable attentions. This approach 
+allows high-volume low-cost fabrication of AlGaN/GaN HEMTs by utilizing the 
+existing Si foundries. Also, the CMOS-compatible processes offer the opportunity of 
+on-chip integration of GaN devices with Si integrated circuits (ICs).  
+          In this thesis, the focus is to develop the key process modules which will be 
+CMOS compatible for AlGaN/GaN HEMTs. The three process modules include 
+planar isolation by ion-implantation, non-gold ohmic contact, and non-gold Schottky 
+gate. In addition, the conduction mechanisms and its physical origin are also 
+
+-----
+systematically analyzed to understand the impact of developed processes to the 
+characteristics of fabricated AlGaN/GaN HEMTs on Si substrate.  
+          The planar isolation is achieved in AlGaN/GaN HEMTs using multi-energy 
+ultra-heavy 131Xe+ ion-implantation. About an order of magnitude lower buffer 
+leakage current, and an order of magnitude higher buffer sheet resistance and 
+ON/OFF current ratio are observed in the implant-isolated HEMTs when compared to 
+the conventional mesa-isolated HEMTs. The Arrhenius plot reveals an activation 
+energy (0.513 eV) that belongs to the lattice damage caused by heavy ions, which is 
+the origin of the high resistivity in the implanted region. The implant-isolated 
+AlGaN/GaN HEMTs exhibit comparable DC output and transfer characteristics to the 
+mesa-isolated HEMTs. Due to the elimination of leakage paths at the mesa side wall, 
+the buffer breakdown voltage is almost not changed with and without Si3N4 
+passivation, the OFF-state breakdown voltage is also improved and the gate leakage 
+current is reduced.  
+          The reproducible non-gold ohmic contacts are realized by Ta/Si/Ti/Al/Ni/Ta 
+metal stacks with a low contact resistance (~0.22 Ω·mm) and a smooth surface 
+morphology. The low contact resistance is attributed to the formation of low work 
+function Titanium Silicides (TiSix) at the metal-semiconductor (M-S) interface. As the 
+AlGaN/GaN epi-layers are protected by the refractory bottom-Ta layer, the metal 
+stacks do not react with (Al)GaN. Hence, the conduction mechanism of AlGaN/GaN 
+HEMTs with our non-gold metal stacks is confirmed to be thermionic emission (TE) 
+through a low energy barrier (~0.113 eV) at the M-S interface, which is different from 
+the thermionic-field emission (TFE) observed in conventional gold-based ohmic 
+contacts.  
+
+-----
+          The non-gold Schottky gate is realized by sputtered TiN with an improved 
+Schottky barrier height (SBH ~1.1 eV) as compared to other reported TiN-based gates. 
+The improvement of SBH may be due to the incorporation of oxygen, the surface 
+crystal orientation, or the relatively high N2 ratio in the total gas flow. The study on 
+gate leakage current reveals that the conduction mechanism is dominated by Poole-
+Frenkel emission at low reverse bias (-3.2 V < VR < 0) through an interface state of 
+0.53 eV, and by trap-assisted tunneling at high reverse bias (-20 V < VR < -3.2 V) 
+through another interface state of ~0.115 eV. The AlGaN/GaN HEMTs with sputtered 
+TiN gate demonstrate comparable DC output and transfer characteristics and 
+dynamic/static ON-resistance ratio, improved OFF-state breakdown voltage, and 
+reduced gate leakage current as compare to the device with conventional Ni/Au gate.  
+          In summary, three important and challenging process modules in developing 
+CMOS-compatible processes for the fabrication of AlGaN/GaN HEMTs on Silicon 
+substrate have been systematically studied and reported in this thesis. The multi-
+energy ultra-heavy 131Xe+ implantation, ohmic contacts with non-gold metal stacks 
+(Ta/Si/Ti/Al/Ni/Ta), and non-gold Schottky gate (sputtered TiN) are demonstrated 
+with improved device performance. The conduction mechanism of both ohmic and 
+Schottky contacts is also systematically studied. The findings in this thesis provide 
+valuable solutions for the development of CMOS-compatible processes, which can be 
+potentially used for the high-volume and low-cost fabrication of AlGaN/GaN HEMTs 
+in Si foundries for commercial applications.  
+     
+
+-----

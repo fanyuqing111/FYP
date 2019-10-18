@@ -1,0 +1,223 @@
+Ortmanns - Ulm University
+https://www.uni-ulm.de/en/in/institute-of-microelectronics/institute/ortmanns/[11/2/2017 3:02:30 PM]
+Ulm University logo
+Prof. Dr.-Ing. Maurits Ortmanns
+Maurits Ortmanns received the Dipl.-Ing. in electrical
+engineering from the Saarland University, Saarbruecken,
+Germany, in 1999 and the Dr.-Ing.degree from the Albert-
+Ludwigs-University, Freiburg, Germany, in 2004, both with
+highest honors.
+In 1997 and 1998, he was with the Research Center
+Karlsruhe, Germany, and with EXAR, Inc., Fremont, CA, as
+an engineering intern working in the field of Microsensors. In
+1999, he joined the Institute of Microelectronics at the
+Saarland University, where he was working as are search
+assistant. In 2001, he moved to the Institute of Microsystem
+Director of Institute
+Institute of Microelectronics
+Teaching
+Research
+Institute
+Links
+DE
+I understand
+This website uses cookies to enhance user friendliness. More information
+ 
+
+-----
+Ortmanns - Ulm University
+https://www.uni-ulm.de/en/in/institute-of-microelectronics/institute/ortmanns/[11/2/2017 3:02:30 PM]
+Technology, 
+Albert-Ludwigs-University, 
+where 
+he 
+was
+working toward the Ph.D. degree in the field of continuous-
+time sigma-delta modulator design until 2004.
+From 2004 - 2005, he has been with sci-worx GmbH,
+Hannover, Germany, where he was working in the field of
+mixed-signal and analog circuits for biomedical implants, low-
+voltage, low-power applications, and high-speed circuits. In
+the beginning of 2006, Dr. Ortmanns joined the HSG-IMIT,
+Villingen-Schwenningen, Germany, and was additionally a
+guest lecturer at the University of Freiburg, Germany. In May
+2006, he was appointed a Juniorprofessorship for Integrated
+Interface 
+Circuits 
+at 
+the 
+Institute 
+for 
+Microsystems
+Engineering in Freiburg.
+Since May 2008, Prof. Ortmanns is full professor at at the
+Faculty of Electrical Engineering and Computer Science at
+the University of Ulm, where he heads the Institute of
+Microelectronics.
+Prof. Ortmanns received the VDI and the VDE award for his
+Master studies in electrical engineering from the Saarland
+University in 1999, the ITG Publication Award 2015, and the
+Best Student Paper Awards at MWSCAS 2009 and at
+SampTA 2011. He also received the faculty's teaching award
+2012 and 2015.
+He served as program committee member of the European
+Solid State Circuits Conference (ESSCirC), the Design
+Automation and Test Conference (DATE) and the European
+Conference on Circuit Theory and Design (ECCTD), 
+Associate Editor of the IEEE Transactions of Circuits and
+Systems I, Guest Editor of the IEEE Journal Solid State
+Circuits, and is currently Associate Editor of the IEEE
+Transactions of Circuits and Systems II. Prof. Ortmanns is a
+Technical Program Committee member of the IEEE
+International Solid-State Circuits Conference (ISSCC) since
+2012,  an Executive Committee member of ISSCC since 2013
+and European TPC Chair of ISSCC 2015. He holds a dozen
+patents, is author of the book “Continuous-Time Sigma-Delta
+A/D Conversion”, and published several other book chapters
+Contact
+Room: 43.2.405
+Telephone: +49 (0)731 50
+26200
+maurits.ortmanns(at)uni-
+ulm.de
+Consultation hours
+By arrangement.
+Teaching
+Publications
+
+-----
+Ortmanns - Ulm University
+https://www.uni-ulm.de/en/in/institute-of-microelectronics/institute/ortmanns/[11/2/2017 3:02:30 PM]
+and more than 190 IEEE journal and conference papers.
+ 
+Ulm University A–Z
+A–Z
+Campus maps
+Press releases
+Job opportunities
+Phone Directory
+Events calendar
+About this Website
+About this Website
+Privacy Disclaimer
+Responsible for the content of this page: 
+https://www.uni-ulm.de/index.php?id=11928
+Markus Prokein
+Last modified:
+09/16/2016
+
+-----
+Publications - Prof. Dr.-Ing. M. Ortmanns 
+Article | Books
+273. Pagin, M.; Ortmanns, M.
+A Neural Data Lossless Compression Scheme Based on Spatial and Temporal 
+Prediction
+2017 IEEE Biomedical Circuits and Systems Conference (BioCAS), Torino, Italy, 
+October 2017 
+272. Djekic, D.; Fantner, G.; Behrends, J.; Lips, K.; Ortmanns, M.; Anders, J.
+A Transimpedance Amplifier Using a Widely Tunable PVT-Independent Pseudo-
+Resistor for High-Performance Current Sensing Applications
+43rd European Solid State Circuits Conference (ESSCIRC), Leuven, Belgium, 
+September 2017 
+271. Djekic, D.; Lips, K.; Behrends, J.; Fantner, G.; Ortmanns, M.; Anders, J.
+Article 
+Institute of Microelectronics
+This website uses cookies to enhance user friendliness. More information
+Page 1 of 6
+Prof. Dr.-Ing. M. Ortmanns - Ulm University
+11/2/2017
+https://www.uni-ulm.de/en/in/institute-of-microelectronics/research/publications/prof-d...
+
+-----
+
+
+
+
+Linearisierter, Temperatur- und Prozess-unabhängiger 
+Transimpedanzverstärker für hochsensitive Stromausleseschaltungen
+Kleinheubacher Tagung, Miltenberg, Germany, 
+September 2017 
+270. Anders, J.; Chu, A.; Handwerker, J.; Schlecker, B.; Ortmanns, M.; Künstner, S.; 
+Möser, J.; Lips, K.
+Energy-based modeling of CMOS voltage-controlled oscillators for continuous-
+wave- and rapid scan ESR experiments
+59th Rocky Mountain Conference on Magnetic Resonance, Quebec, Canada, 
+July 2017 
+269. Haas, M.; Schweizer, B.; Anders, J.; Ortmanns, M.
+A miniaturized UWB antenna for implantable data telemetry
+International Conference of the IEEE Engineering in Medicine an Biology 
+Society (EMBC) 2017, JeJu, Korea, 
+July 2017 
+268. Pagin, M.; Ortmanns, M.
+Evaluation of Logarithmic vs. Linear ADCs for Neural Signal Acquisition and 
+Reconstruction
+39th Annual International Conference of the IEEE Engineering in Medicine & 
+Biology Society (EMBC'17), Jeju Island, South Korea, 
+July 2017 
+267. Al Marashli, A.; Anders, J.; Becker, J.; Ortmanns, M.
+A 107 dB SFDR, 80 kS/s Nyquist-rate SAR ADC using a hybrid capacitive and 
+incremental Σ∆ DAC
+2017 Symposium on VLSI Circuits (VLSI Circuits), Kyoto, Japan, 
+June 2017 
+266. Pagin, M.; Becker, J.; Ortmanns, M.
+Evaluation of Spike Sorting and Compression for Digitally Reconfigurable Non-
+Uniform Quantization
+IEEE 15th International NEWCAS Conference, Strasbourg, France, 
+June 2017 
+265. Wagner, J.; Chi, J.; Ortmanns, M.
+Designing CT Bandpass Sigma-Delta Modulators with Arbitrary STF Shapes
+IEEE International Symposium on Circuits and Systems (ISCAS 2017), Baltimore, 
+USA, 
+May 2017 
+264. Chi, J.; Wagner, J.; Anders, J.; Ortmanns, M.
+This website uses cookies to enhance user friendliness. More information
+Page 2 of 6
+Prof. Dr.-Ing. M. Ortmanns - Ulm University
+11/2/2017
+https://www.uni-ulm.de/en/in/institute-of-microelectronics/research/publications/prof-d...
+
+-----
+Digital Interferer Suppression and Jitter Reduction in Continuous-Time Bandpass 
+Sigma Delta Modulators
+IEEE International Symposium on Circuits and Systems (ISCAS 2017), Baltimore, 
+USA, 
+May 2017 
+263. Handwerker, J.; Perez-Rodas, M.; Ortmanns, M.; Scheffler, K.; Anders, J.
+Towards CMOS-based In-vivo NMR Spectroscopy and Microscopy
+IEEE International Symposium on Circuits and Systems (ISCAS 2017), Baltimore, 
+USA, 
+May 2017 
+262. Wagner, J.; Chi, J.; Ortmanns, M.
+Designing CT ΣΔ Modulators with Shaped Feedback Waveforms using www.sigma-
+delta.de
+23rd IEEE International Conference on Electronics, Circuits and Systems (ICECS), 
+Monaco, 
+December 2016 
+261. Wagner, J.; Reich, S.; Ritter, R.; Anders, J.; Ortmanns, M.
+Finite GBW in Single OpAmp CT ΣΔ Modulators
+23rd IEEE International Conference on Electronics, Circuits and Systems (ICECS), 
+Monaco, 
+December 2016 
+260. Herkle, A.; Schuster, M.; Becker, J.; Ortmanns, M.
+Enhanced Arbiter PUFs using custom sized structures for reduced noise sensitivity
+23rd IEEE International Conference on Electronics, Circuits and Systems (ICECS), 
+Monaco, 
+December 2016 
+259. Becker, J.; Anders, J.; Ortmanns, M.
+A Continuous-Time Field Programmable Analog Array with 1 GHz GBW
+23rd IEEE International Conference on Electronics, Circuits and Systems (ICECS), 
+Monaco, 
+December 2016 
+258. Chi, J.; Ritter, R.; Wagner, J.; Ortmanns, M.
+Phase Noise vs. Jitter Analysis in Continuous-Time LP and BP Sigma Delta 
+Modulators with Interferers
+23rd IEEE International Conference on Electronics, Circuits and Systems (ICECS), 
+Monaco, 
+December 2016 
+This website uses cookies to enhance user friendliness. More information
+Page 3 of 6
+Prof. Dr.-Ing. M. Ortmanns - Ulm University
+11/2/2017
+https://www.uni-ulm.de/en/in/institute-of-microelectronics/research/publications/prof-d...
+
+-----

@@ -1,0 +1,32 @@
+Abstract 
+Three-dimensional (3D) display technology is a fascinating research topic with wide 
+applications such as 3D entertainment, medical imaging, interactive displays and virtual 
+reality, etc. However the prevailing solutions has various defects such as great loss of 
+resolution, low brightness, fixed view location and the constraint of wearing special 
+glasses.  Glasses-free 3D displays which can provide vivid 3D scene without any 
+constraints are particularly attractive and will greatly change the way human beings 
+perceive the world. In this thesis, two high resolution Autostereoscopic 3D displays 
+have been proposed and experimentally demonstrated. 
+ For the first prototype, an eye-tracked 3D display using modulated laser-based 
+backlight has been proposed, which is composed of a scanning laser module, a 
+ferroelectric liquid crystal (FLC) spatial light modulator (SLM) array module, an 
+assembled liquid crystal display (LCD) module. In our proposed system, the scanning 
+laser backlight is modulated by the aperture pairs generated on FLC SLM array. Each 
+aperture pair projects two exist pupils on single viewer’s left and right eyes in time 
+sequence. By means of eye tracking technology, the dynamic aperture pairs are mapped 
+with the location of viewers’ eye pupils simultaneously, which enables free movements 
+of multi-viewers. A prototype system has been set up to verify this method. The 
+experimental result shows that the 3D image resolution is lossless. High brightness, low 
+crosstalk 3D contents are achieved due to collimated laser backlight. Viewers are 
+enabled to move freely to observe 3D contents without wearing any glasses. 
+For the second prototype, an autostereoscopic 3D display using a set of cylindrical 
+optical elements as the backlight steering is proposed. The high density LED-based lens 
+array controls the direction of the backlight for the user’s right and left views. A 
+prototype system using a set of LED-based cylindrical lens, LED array modules and a 
+high resolution LCD module is constructed. The directional backlight beams are 
+synchronized with the right and left images alternately on the LCD screen, and two 
+convergent viewing zones are formed alternately for one viewer. The experimental 
+result shows a stereo video image with a natural 3D effect. A good colour 3D perception 
+with full resolution is achieved without wearing glasses. 
+
+-----

@@ -1,0 +1,57 @@
+ABSTRACT 
+This thesis studied the RF SOI technology used in RF Front-end Module (FEM) today to 
+explore its potential for power amplifier (PA) enablement. Conventional power MOSFETs are 
+first fabricated to identify typical issues of such devices on SOI. Different body contacts were 
+studied and compared, and the adoption of an under-source body contact involving our novel 
+device architecture and process optimizations have resulted in an EDNMOS device suitable for 
+use as a PA in modern FEM systems. This device achieves a competitive Ron of 1.6Ω-mm and 
+39GHz fT with a breakdown voltage of 15V. 
+The adoption of an EDNMOS architecture with under-source body contact however limits the 
+performance of the RF switch through further thickness scaling of silicon. A variable silicon 
+thickness process was introduced to do selective thinning of the active silicon on which the RF 
+switch device is fabricated, while the EDNMOS is fabricated on the global silicon thickness. 
+Characterization of the RF switch device shows the performance improvement obtained from 
+thinning down the active silicon, as well as a competitive Ron-Coff of 120fs and harmonics 
+comparable with the state-of-the-art RF SOI technologies today. 
+Load-pull testing is carried out on our novel EDNMOS device to obtain its PA performance. 
+Results shows that key challenges related to floating-body effects on SOI has been averted, and 
+a 2mm power cell is able to achieve 20dB gain, 77% maximum PAE and 25dBm saturated 
+Pout measured at 2.4GHz. At 4.5GHz, the gain reduces to 16.5dB and PAE drops to 55% due 
+to frequency limitations of the device. However, the frequency range of the power cell can be 
+extended when cascoded with a LV high fT NMOS, achieving a 20dB gain with 75% PAE 
+measured at 4.5GHz. These results are very respectable and promising to be used in the design 
+of modern FEM systems today.  
+ 
+
+-----
+LIST OF PUBLICATIONS 
+[1] R. T. Toh, S. Parthasarathy, T. Sun, S. Q. Zhang, P. R. Verma, C. S. Zhu, V. S. Nune, 
+J. S. Wong, M. Govindarajan, Y. K. Yoo, K. W. Chew, D. S. Ang, "A 300mm foundry 
+HRSOI technology with variable silicon thickness for integrated FEM applications." 
+IEEE 
+Int. 
+Electron 
+Devices 
+Meeting, 
+2016, 
+pp. 
+2.4.1-2.4.4. 
+doi: 
+10.1109/IEDM.2016.7838031 
+[2] R. T. Toh, S. Parthasarathy, S. Zhang, M. Govindarajan, J. S. Wong, K. W. Chew, L. 
+Andia, D. S. Ang, “A CMOS-SOI Power Amplifier Technology Using EDNMOS for 
+Sub 6GHz Wireless Applications”, IEEE RFIC, 2018. 
+[3] R. T. Toh, D. S. Ang, S. Parthasarathy, J. S. Wong, H. K. Yap, S. Zhang, “RF 
+Performance of a Highly-Linear Power Amplifier EDNMOS Transistor on Trap-Rich 
+SOI”, IEEE Electron Devices Letters, 2018 (accepted for publication) 
+LIST OF PATENTS 
+[1] R. T. Toh, G. H. See, S. Q. Zhang, P. R. Verma, “Extended drain metal-oxide-
+semiconductor transistor”, U.S. Patent 9,899,514, issued Feb 20, 2018. (patent for the 
+EDNMOS device architecture) 
+[2] R. T. Toh, G. H. See, S. Q. Zhang, P. R. Verma, “Integrated circuits using silicon on 
+insulator substrates and methods of manufacturing the same”, U.S. Patent 9,922,868, 
+issued Mar 20, 2018. (patent detailing the silicon thinning process to fabricate the RF 
+switch device on thinned silicon) 
+ 
+
+-----

@@ -1,0 +1,17 @@
+Abstract 
+The increasing deployment of smart devices has proved that Internet of Things (IoT) is a new trend for 
+the next era. IEEE 802.11ah, a specification belonging to 802.11 wireless local area network (WLAN) 
+protocol family, has been recently released to support the long-range, low-power and low-rate wireless 
+communication among smart devices used in IoT systems. However, security requirements of the energy-
+constrained devices have plenty of features different from the traditional line-powered devices. Due to 
+the high overhead and latency, link setup protocol, such as IEEE 802.11i, does not meet the requirements 
+of IoT networks. It requires that the lightweight protocol has to support low-power and low-latency as 
+well as the long-lasting features of IoT devices. To meet these demands, an upcoming solution proposed 
+by IEEE 802.11 group, which was specified in IEEE 802.11ai. It is called Fast Initial Link Setup (FILS), 
+a brand-new method aiming at establishing fast and secure links among devices to be applied to 802.11ah 
+networks. Based on the premise that FILS is applied to 802.11ah network, this thesis has proposed two 
+enhancement proposals for the authentication process in the link setup procedures to improve security 
+and efficiency. 
+ 
+
+-----

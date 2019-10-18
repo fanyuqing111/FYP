@@ -1,0 +1,78 @@
+META-FLUIDIC-MATERIALS DESIGN, FABRICATION AND 
+EXPERIMENT 
+YAN LIBIN 
+Metasurfaces are subwavelength-thick planar materials artificially designed with 
+distinctive electromagnetic properties. The flexibility of tailoring both the permittivity and 
+permeability of the metasurface enables its extraordinary electromagnetic response that cannot be 
+find in natural materials. The extraordinary electromagnetic properties of metasurface lead to many 
+promising and practical applications. This doctorate thesis focuses on the design, simulation, 
+fabrication and experimental measurement of meta-fluidic-material for tailoring the optical 
+properties of electromagnetic waves. Specifically, three types of meta-fluidic-material are studied 
+and discussed, namely: (1) dispersion-controllable metasurface for tailoring the dispersion 
+property of metasurface; (2) polarization-independent tunable metasurface for polarization-
+independent beam control, and (3) Tunable birefringent metasurface for the manipulation of 
+birefringence. 
+The first part of this thesis demonstrates an adaptable metasurface in which the optical 
+response is dynamically controlled according to the incident wavelength for specific functionality. 
+The adaptable metasurface is composed of a periodic array of liquid-metal ring-shaped resonators 
+whereby their geometry can be tuned individually. The adaptable metasurface is designed for 
+dispersion control with applications include deflecting electromagnetic waves of different 
+frequencies into the same directions or focusing them with the same focal length . 
+The second part of this thesis reports a subwavelength-thick polarization-independent 
+metasurface composed of reconfigurable C-shaped resonators (RCRs). The symmetry of RCRs 
+bestows the scattered electromagnetic waves with equal amplitude and phase modulation under 
+TM-polarized incidence and TE-polarized incidence, which empowers the metasurface with the 
+feature of polarization independence. Spin-conserved retroreflection and polarization-independent 
+beam steering are demonstrated by designing the metasurface with certain phase gradient to 
+introduce an in-plane momentum to the incident EM wave.  
+The third part of the thesis presents a tunable birefringent metasurface for manipulation of 
+the birefringence of metasurface. The tunable cross resonators serve as the building blocks of the 
+tunable birefringent metasurface. The two orthogonal resonance eigenmodes of the tunable cross 
+resonators can be independently controlled and tuned to tailor the birefringence of the metasurface. 
+The independent control and tailor of two orthogonal resonance modes is enabled by the flexibility 
+of microfluidic system. Applications such as tunable beam splitting, polarization-insensitive beam 
+steering and quarter waveplates are demonstrated through the manipulation of the birefringence of 
+this tunable birefringent metasurface. 
+In conclusion, dispersion control, polarization independence, and birefringence 
+manipulation are demonstrated using meta-fluidic-material, which paves the way for promising 
+applications in flat optical technologies, communication system and imaging system, to name just 
+a few. 
+ 
+
+-----
+JOURNAL PUBLICATIONS 
+ 
+L. B. Yan, W. M. Zhu, P. C. Wu, H. Cai, Y. D. Gu, L. K. Chin, Z. X. Shen, P. H. J. Chong, Z. C. Yang, W. 
+Ser, D. P. Tsai, and A. Q. Liu “Adaptable Metasurface for Anomalous Reflection”, Applied Physics Letter 
+110(20), 201904 (2017).  
+L. B. Yan, W. M. Zhu, M. F. Karim, H. Cai, A. Gu, C. W. Qiu, D. P. Tsai, Z. X. Shen, P. H. J. Chong, D. 
+L. Kwong and A. Q. Liu “Spin-locked Retroreflection using Adaptable Metasurface”. Advanced 
+Materials (2018) (Submitted) 
+L. B. Yan, W. M. Zhu, M. F. Karim, H. Cai, C. W. Qiu, Z. X. Shen and A. Q. Liu “Multifunctional Beam 
+Control using Tunable Birefringent Metasurface”. (2018) (To be submitted) 
+W. M. Zhu, Q. H. Song, L. B. Yan, W. Zhang, P. C. Wu, L. K. Chin, H. Cai, D. P. Tsai, Z. X. Shen, T. W. 
+Deng, S. K. Ting, Y. D. Gu, D. L. Kwong, Z. C. Yang, R. Huang, A. Q. Liu and N. I. Zheludev, “A flat 
+lens with tunable phase gradient by using random access reconfigurable metamaterial”, Advanced Materials 
+27, 4739-4743 (2015).  
+ 
+ 
+CONFERENCE PRESENTATIONS 
+ 
+L. B. Yan, P. C. Wu, S. Q. Hua, W. M. Zhu, W. Zhang, D. P. Tsai, F. Capasso, and A. Q. Liu " Dynamic 
+beam steering in micro-fluidic-meta-surface," Conference on Lasers and Electro-Optics (CLEO) 2015, San 
+Jose, U.S.A.  
+L. B. Yan, H. Cai, W. M. Zhu, P. C. Wu, Z. X. Shen, P. H. J. Chong, Z. C. Yang, Y. F. Jin, Y. L. Hao, D. 
+L. Kwong, and A. Q. Liu "Dispersion-corrected meta-surface for beam deflector and flat lens," Micro 
+Electro Mechanical Systems (MEMS) 2016, Shanghai, China 
+L. B. Yan, P. C. Wu, W. M. Zhu, Q. H. Song, W. Zhang, D. P. Tsai, and A. Q. Liu, "Microfluidic 
+Metasurface with High Tunability for Multi-Function: Dispersion Compensation and Beam Tracking," 
+Conference on Lasers and Electro-Optics (CLEO) 2016, San Jose, U.S.A. 
+L. B. Yan, J. G. Huang, G. Zhang, L. C. Kwek, J. B. Gong, W. B. Gao, Y. D. Chong, W. Ser and A. Q. Liu 
+“Two-dimensional Quantum Walk using 3D Silicon Photonic Fabrication”, Conference on Lasers and 
+Electro-Optics (CLEO) 2017, San Jose, U.S.A. 
+L. X. Wan*, L. B. Yan*, J. G. Huang, G. Zhang, L. C. Kwek, J. Fitzsimons, Y. D. Chong, J. B. Gong, A. 
+Szameit, X. Q. Zhou, M. H. Yung, X. M. Jin, X. L. Su, W. Ser, W. B. Gao and A. Q. Liu “A Large-Number 
+and Multilayer Quantum Walk using Silicon Nano-photonic Chip”, Conference on Lasers and Electro-
+Optics (CLEO) 2018, San Jose, U.S.A. (* Equal Contribution) 
+
+-----

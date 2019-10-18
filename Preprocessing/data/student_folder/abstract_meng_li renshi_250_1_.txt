@@ -1,0 +1,45 @@
+ABSTRACT 
+ 
+Control of loudspeaker arrays have been studied in the past few years for a wide variety of 
+applications. One of such application is to control a pre-defined listening environment to 
+achieve audible and inaudible zones so as to gain a personalized and immersive sound 
+experience. One existing feasible approach to achieve soundfield control is to compute time- 
+or frequency-domain coefficients for each loudspeaker such that the generated sound signals 
+at the pre-defined listening locations can achieve the desired sound energy level for the 
+superimposed sound signals. Several methodologies have recently been proposed to achieve a 
+desired soundfield within a listening zone of interest. These methods include maximizing the 
+energy ratio between energies of audible and inaudible zones, maximizing energy difference 
+between two zones and maximizing the energy ratio while maintaining a desired sound 
+energy level in the zone of interest. Although the above methods provide directional sound to 
+the zone of interest, they cannot guarantee precise control of the soundfield within the 
+audible/inaudible regions. As a result, undesired fluctuations of the soundfield or even sound 
+distortion may occur. To address the issue, least squares (LS) methods along with 
+regularisation techniques such as ordinary cross validation (OCV), generalized cross 
+validation (GCV), the L-curve and the truncation method have also been proposed to achieve 
+a desired sound energy level in a pre-defined zone of interest. Although these LS methods 
+can improve the performance of soundfield control system, direct application of these 
+methods will however introduce regularisation error (RE). 
+ 
+In this thesis an iterative LS based algorithm is proposed. This algorithm utilizes the round-
+off error (ROE) as a regularisation parameter for the ill-conditioned system matrix over the 
+zone of interest. Unlike existing LS methods, the proposed approach estimates the system 
+matrix inverse iteratively and identifies the best estimate of the matrix inverse. In addition, 
+the proposed algorithm does not accumulate significant ROE when the system matrix is ill-
+conditioned. Instead, the accumulated ROE is taken as a regularisation parameter which is 
+evaluated iteratively to achieve a good trade-off between matrix inverse accuracy and the 
+amount of RE. To achieve the above, a matrix sparseness criterion is proposed to evaluate the 
+accuracy of the inverse estimate. This measure is subsequently used to terminate the iteration 
+process. Furthermore, incorporating this criterion to the proposed method of estimating the 
+loudspeaker coefficients, one can take into account the trade-off between the estimation error 
+
+-----
+(during the convergence of the matrix inverse estimate) and the ROE (caused by 
+mathematical computation when the system is ill-condition). The proposed algorithm is 
+further extended to the scenario when the misplacement error (MPE) is present in the sound 
+control system. It is found that the proposed algorithm can compensate and minimize the 
+effect of MPE on the generated soundfield by exploiting the characteristics of the MPE when 
+computing the regularisation parameter. Simulation results show that the proposed algorithm 
+can outperform other LS-based regularisation methods in terms of normalized output error 
+(NOE) in the presence or absence of MPE. 
+
+-----

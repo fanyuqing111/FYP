@@ -1,0 +1,329 @@
+01/06/2018
+Philippe Martinet | PhD | Ecole Centrale de Nantes, Nantes | EC Nantes | Department of Automatics and Robotics | ResearchGate
+https://www.researchgate.net/profile/Philippe_Martinet
+1/21
+319
+Research items
+17,110
+Reads
+3,322
+Citations
+Introduction
+Design Engineering
+Control Theory
+Computer Vision
+Robotics
+Automobile Engineering
+Automotive Industry
+Kinematics
+Mobile Robotics
+Controller Design
+Automotive
+Machines
+Robot Control
+Adaptive Control
+Robust Control
+Show All
+Research Experience
+Nov 2017 - Oct 2022
+France
+Position
+Sep 2011 - Oct 2017
+irccyn · Nantes, Pays de la Loire, France
+Position
+Description
+Sep 2011
+Department of Automatics and Robotics · Nantes, France
+Philippe Martinet
+Ecole Centrale de Nantes | EC Nantes · Department of Automatics and Robotics
+ 32.45 · PhD
+INRIA Sophia Antipolis
+Research Director
+French National Centre for Scienti�c Research
+Head of Mobile Robots Research Axis
+Researcher at IRCCyN (Vision Based control of robots (Parallel, multi arms, Humanoid, UAV), Platooning, Vision/Force Coupling)
+Ecole Centrale de Nantes
+or
+Discover by subject area
+Join for free
+Log in
+About
+Skills and Expertise
+About
+Projects 5
+Research 319
+
+-----
+01/06/2018
+Philippe Martinet | PhD | Ecole Centrale de Nantes, Nantes | EC Nantes | Department of Automatics and Robotics | ResearchGate
+https://www.researchgate.net/profile/Philippe_Martinet
+2/21
+p
+,
+Position
+Description
+Current institution
+Department of Automatics and Robotics · Nantes, France
+Current position
+Nicolas Bouton's Lab
+Lab head
+Nicolas Bouton
+Lab members (5)
+View All
+Top co-authors
+Co-authors
+View All
+Professor (Full)
+Vision Based Control of Robots (Parallel, Multi Arms System, Humanoid), Platooning, Vision/Force coupling; Head of Mobile robotics
+axis
+Show All
+Ecole Centrale de Nantes | EC Nantes
+Research Director at INRIA (next 5 years)
+Université Clermont Auvergne
+Benoit Thuilot
+Institut FEMTO-ST
+Nicolas Andreff
+Y. Mezouar
+National Research Institute of Science and Technology for Environment and Agriculture
+Roland Lenain
+National Research Institute of Science and Technology for Environment and Agriculture
+Christophe Cariou
+Université Clermont Auvergne
+Benoit Thuilot
+Institut FEMTO-ST
+Nicolas Andreff
+Y. Mezouar
+National Research Institute of Science and Technology for Environment and Agriculture
+Roland Lenain
+Network
+About
+Projects 5
+Research 319
+
+-----
+01/06/2018
+Philippe Martinet | PhD | Ecole Centrale de Nantes, Nantes | EC Nantes | Department of Automatics and Robotics | ResearchGate
+https://www.researchgate.net/profile/Philippe_Martinet
+3/21
+Followers
+View All
+Following
+View All
+Projects (5)
+Project
+P
+j
+t
+National Research Institute of Science and Technology for Environment and Agriculture
+National Research Institute of Science and Technology for Environment and Agriculture
+Christophe Cariou
+University of Valenciennes and Hainaut-Cambresis
+Anh-Tu Nguyen
+MINES ParisTech
+Philip Polack
+Ecole Centrale de Nantes
+Luis F. Contreras-Samamé
+Rabeh Abbassi
+Ecole Centrale de Nantes
+Swaminath Venkateswaran
+Universitat Jaume I
+Angel P
+. del Pobil
+Université de Technologie de Compiègne
+Philippe Bonnifait
+Google Inc.
+Mario Prats
+Institut Français des Sciences et Technologies des Transports, de l’Aménagement et des Réseaux
+S. Glaser
+Laboratoire d'Informatique, de Robotique et de Microélectronique de Montpellier (LIRMM)
+François Pierrot
+Design and control of a �ying parallel robot
+Drone co-manipulation is already an explored �eld, especially in load transportation. Those co-manipulations are generally performed with cables, resulting
+in a sort of �ying cable parallel robot. With such structure, the manipulation workspace is always situated under the drones. The main idea of this project is
+to replace the cables by rigid bodies. With recon�guration techniques developed on classic parallel robots, it will be possible to manipulate an object und…
+[...more]
+View
+RobEcolo
+Projects
+About
+Projects 5
+Research 319
+
+-----
+01/06/2018
+Philippe Martinet | PhD | Ecole Centrale de Nantes, Nantes | EC Nantes | Department of Automatics and Robotics | ResearchGate
+https://www.researchgate.net/profile/Philippe_Martinet
+4/21
+Project
+Project
+Research Items (319)
+Chapter
+Full-text available
+Jul 2018 · Computational Kinematics
+Lila Kaci · 
+Clément Boudaud · 
+Sébastien Briot · 
+Philippe Martinet
+85 Reads
+Conference Paper
+Full-text available
+Jan 2018 · 2018 IEEE International Conference on Robotic Computing (IRC)
+Luis F. Contreras-Samamé · 
+Olivier Kermorgant · 
+Philippe Martinet
+27 Reads
+Conference Paper
+Jan 2018 · 2018 Second IEEE International Conference on Robotic Computing (IRC)
+David Pérez Morales · 
+Olivier Kermorgant · 
+Salvador Dominguez Quijada · 
+Philippe Martinet
+3 Reads
+Poster
+File available
+Nov 2017 · 6èmes Journées Annuelles du GDR 3544 Sciences du bois.
+Lila Kaci · 
+Clément Boudaud · 
+Sébastien Briot · 
+Philippe Martinet
+175 Reads
+Article
+Nov 2017
+Si D
+i
+Séb
+ti
+B i t
+Abd lh
+id Ch i tt
+Phili
+M
+ti
+t
+View
+Singularity crossing of parallel robot
+View
+Show All
+Elastostatic Modelling of a Wooden Parallel Robot
+Eco-design of industrial robots is a �eld of research which has been rarely explored in the past. In order to considerably decrease the
+environmental impact of robot during the design phase, metal or carbon composite parts can be replaced by bio-sourced materials, such as
+wood. Indeed, wood has interesting mechanical properties, but its performance/dimensions will vary with the atmospheric conditions/external…
+View
+Ef�cient Decentralized Collaborative Mapping for Outdoor Environments
+An ef�cient mapping in mobile robotics may involve the participation of several agents. In this context, this article presents a framework for
+collaborative mapping applied to outdoor environments considering a decentralized approach. The mapping approach uses range measurements
+from a 3D lidar moving in six degrees of freedom. For that case, each robot performs a local SLAM. The maps are then merged when…
+View
+Laser-Based Control Law for Autonomous Parallel and Perpendicular Parking
+View
+Design of an Industrial Wooden Robot. Award of the best poster presentation.
+RobEcolo project
+View
+The Kinematics, Dynamics and Control of a Flying Parallel Robot With Three Quadrotors
+Research
+About
+Projects 5
+Research 319
+
+-----
+01/06/2018
+Philippe Martinet | PhD | Ecole Centrale de Nantes, Nantes | EC Nantes | Department of Automatics and Robotics | ResearchGate
+https://www.researchgate.net/profile/Philippe_Martinet
+5/21
+Six Damien · 
+Sébastien Briot · 
+Abdelhamid Chriette · 
+Philippe Martinet
+48 Reads
+Conference Paper
+Oct 2017 · 2017 IEEE 20th International Conference on Intelligent Transportation Systems (ITSC)
+Bogdan Khomutenko · 
+Gaetan Garcia · 
+Philippe Martinet
+4 Reads
+Conference Paper
+Oct 2017 · 2017 IEEE 20th International Conference on Intelligent Transportation Systems (ITSC)
+Yrvann Emzivat · 
+Javier Ibanez-Guzman · 
+Philippe Martinet · 
+Olivier H. Roux
+7 Reads
+Conference Paper
+Full-text available
+Jul 2017 · 2017 IEEE Intelligent Vehicles Symposium (IV)
+Yrvann Emzivat · 
+Javier Ibanez-Guzman · 
+Philippe Martinet · 
+Olivier H. Roux
+252 Reads
+Poster
+File available
+Jul 2017 · 2017 IEEE Intelligent Vehicles Symposium (IV)
+Yrvann Emzivat · 
+Javier Ibanez-Guzman · 
+Philippe Martinet · 
+Olivier H. Roux
+21 Reads
+Article
+Jul 2017
+Six Damien · 
+Abdelhamid Chriette · 
+Sébastien Briot · 
+Philippe Martinet
+14 Reads
+Article
+Jun 2017
+Sébastien Briot · 
+Six Damien · 
+Abdelhamid Chriette · 
+Philippe Martinet
+23 Reads
+Conference Paper
+May 2017 · 2017 IEEE International Conference on Robotics and Automation (ICRA)
+Rafael Balderas Hill · 
+Six Damien · 
+Abdelhamid Chriette · [...] · 
+Philippe Martinet
+12 Reads
+Chapter
+Jan 2017 · New Trends in Mechanism and Machine Science
+Six Damien · 
+Sébastien Briot · 
+Abdelhamid Chriette · 
+Philippe Martinet
+This paper deals with a novel �ying mechanism. Inspired from parallel manipulators, this �ying robot is composed of three quadrotors linked by a
+rigid articulated architecture composed of three legs and a platform. Associating quadrotor co-manipulation and rigid bodies, this new design
+offers novel possibilities for aerial robotics and manipulation. Previous work leads to the design of a �ying parallel robot with two quadrotors.…
+View
+Exciting trajectories for extrinsic calibration of mobile robots with cameras
+View
+Adaptability of automated driving systems to the hazardous nature of road networks
+View
+Dynamic Driving Task Fallback for an Automated Driving System whose Ability to Monitor the Driving Environment has been Compromised
+View
+Dynamic Driving Task Fallback for an Automated Driving System whose Ability to Monitor the Driving Environment has been Compromised
+An Automated Driving System (ADS) is subject to hazardous weather conditions and to failures, both of which can result in a partial or total loss
+of its ability to monitor the driving environment. Yet until high driving automation and full driving automation is achieved, a human driver is
+expected to respond appropriately to any malfunction or adverse on-road conditions preventing the ADS from reliably sustaining the dynamic…
+View
+Dynamic Modeling and Trajectory Tracking Controller of a Novel Flying Parallel Robot
+This paper presents a new �ying robot, composed of two quadrotors linked by a rigid articulated passive chain. The robot obtained is similar to a
+parallel robot where the classic actuators have been replaced by �ying drones. With its rigid structure presenting an internal degree of freedom,
+the robot presented is a step forward in �ying robotics and presents new challenges for the design of its feedback control. In this paper the…
+View
+A Controller Avoiding Dynamic Model Degeneracy of Parallel Robots during Singularity Crossing
+Parallel robots present singular con�gurations that divide the operational workspace into several aspects. It was proven that type 2 and leg
+passive joint twist system (LPJTS) singularities can be crossed with a trajectory respecting a given dynamic criterion. However, the practical
+implementation of a controller able to track such trajectories is up to now limited to restrictive cases of type 2 singularities crossing. Analyzing…
+View
+Crossing type 2 singularities of parallel robots without pre-planned trajectory with a virtual-constraint-based controller
+View
+A Controller for Avoiding Dynamic Model Degeneracy of Parallel Robots During Type 2 Singularity Crossing
+Parallel robots presents singular con�gurations that divide the operational workspace into several aspects. It was proven that such singularities
+can be crossed under the constraint of a dynamic criterion. However, the practical implementation of a robust controller able to track such
+trajectories is up to now limited to a more restrictive criterion By solving the inverse dynamic model in the singularity for the general case we
+About
+Projects 5
+Research 319
+
+-----

@@ -1,0 +1,359 @@
+Homepage of Professor Lior Rokach
+http://www.ise.bgu.ac.il/faculty/liorr/[4/8/2019 5:07:00 PM]
+ 
+ 
+I am a data scientist and a professor of Software and
+Information Systems Engineering. I currently serve as the chair
+of the Department of Software and Information System
+Engineering. I have established the machine learning lab and
+the big data lab which promote innovative adaptations of
+machine learning and data science methods to create the next
+generation of intelligent systems. I currently serve as an as an
+editorial board member of ACM TIST and an area editor for
+Information Fusion (Elsevier). My research interests lie in the
+areas of Data Science, Machine Learning, Big Data, Deep
+Learning and Data Mining and their applications to:
+Recommender Systems
+Cyber Security
+Information Retrieval
+Information Extraction
+Medical Informatics
+READ MORE
+ 
+ 
+ 
+Contact Information:
+Room #006 (department chair)
+Room #210 (regular office)
+Building No. 96
+P.O.B. 653, Beer-Sheva, 
+Israel 8410501
+T: +97286479338
+F: +97286477527
+ 
+liorrk@bgu.ac.il
+Follow Me On:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Books
+ 
+Ensemble Learning 
+2nd Edition of Pattern Classification
+Using Ensemble Methods
+Lior Rokach 
+World Scientific Publishing Company, 2019
+ISBN:978-9811201950
+Check it on Amazon 
+Check it on Google Books
+ 
+推荐系统:技术、评估及高效算法(原书第2版) 
+Recommendation System: Technology, Evaluation,
+and Efficient Algorithms (Chinese edition)
+罗卡赫 (Lior Rokach) 
+China Machine Press, 2018
+ISBN:978-7-111-60075-6
+Check it on Amazon
+Check it on Google Books
+ 
+模式分类的集成方法 
+Pattern Classification Using Ensemble
+Methods(Chinese edition)
+罗卡赫 (Lior Rokach)
+National Defence Industry Press, 2015, 177 p, Hardcover,
+ISBN:978-7-1181-0397-7
+Check it om Amazon
+ 
+Recommender Systems Handbook, 2nd Edition
+Francesco Ricci, Lior Rokach and Bracha Shapira
+Springer, 2015, 1003 p, Hardcover,
+ISBN:978-1-4899-7636-9
+Check it on Amazon
+Check it on Google Books
+ 
+Data Mining with Decision Trees: Theory and
+Applications, 2nd Edition
+Lior Rokach and Oded Maimon
+Series in Machine Perception and Artificial Intelligence - Vol. 81
+World Scientific Publishing, 2015, 380 p, Hardcover,
+ISBN:978-981-4590-07-5
+ 
+Proactive Data Mining with Decision Trees
+Haim Dahan, Shahar Cohen, Lior Rokach, Oded Maimon 
+SpringerBriefs in Computer Science
+Springer, 2014, softcover, 
+ISBN:978-1493905386
+Check it on Amazon
+推荐系统:技术、评估及高效算法 
+Recommender Systems Handbook (Chinese edition)
+弗朗西斯科·里奇 (Francesco Ricci), 利奥·罗卡奇 (Lior
+Rokach),
+夏
+ 
+A Survey of Data Leakage Detection and Prevention
+Solutions
+Asaf Shabtai, Yuval Elovici, Lior Rokach
+SpringerBriefs in Computer Science
+Springer, 2012, Hardcover, ISBN:978-1-4614-2052-1
+Check it on Amazon
+Department of Software and Information Systems Engineering
+Faculty of Engineering Sciences
+Ben-Gurion University of the Negev
+Prof. Lior Rokach
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Home
+Books
+Publications
+Biosketch
+Patents
+Talks\Videos
+Teaching
+Press
+Alumni
+Sponsors
+Resources
+My Proudest Accomplishments
+
+-----
+Homepage of Professor Lior Rokach
+http://www.ise.bgu.ac.il/faculty/liorr/[4/8/2019 5:07:00 PM]
+Check it on Amazon
+Check it on Google Books
+Check it on Google Books
+布拉哈·
+皮拉 (Bracha Shapira), 保罗 B.坎特 (Paul
+B.Kantor),
+China Machine Press, 2015, 558 p. Softcover ISBN:
+9787111503934
+Check it on Amazon China
+Check it on Google Books
+Recommender Systems Handbook
+Francesco Ricci, Lior Rokach, Bracha Shapira, Paul B. Kantor
+(Eds.)
+Springer, 2010, 871 p. Hardcover ISBN: 0387858199
+Check it on Amazon
+Check it on Google Books
+Pattern Classification Using Ensemble Methods
+Lior Rokach
+Series in Machine Perception and Artificial Intelligence - Vol. 75
+World Scientific Publishing, 2010, 225 p, Hardcover, ISBN:981-
+4271-063
+Check it on Amazon
+Check it on Google Books
+ 
+Data Mining with Decision Trees: Theory and
+Applications
+Lior Rokach and Oded Maimon
+Series in Machine Perception and Artificial Intelligence -
+Vol. 61
+World Scientific Publishing, 2007, 270 p, Hardcover,
+ISBN:981-2771-719
+Check it on Amazon
+Check it on Google Books
+ 
+The Data Mining and Knowledge Discovery Handbook
+A Complete Guide for Practitioners and Researchers
+Oded Maimon and Lior Rokach (Eds.)
+Springer, 2005, XXXVI, 1383 p. 400 illus., Hardcover ISBN:
+0-387-24435-2
+Check it on Amazon
+Check it on Google Books
+ 
+The Data Mining and Knowledge Discovery Handbook -
+Second Edition
+A Complete Guide for Practitioners and Researchers
+Oded Maimon and Lior Rokach (Eds.)
+Springer, 2010, 1305 p., Hardcover ISBN: 0387098224
+Check it on Amazon
+Check it on Google Books
+ 
+Decomposition Methodology for Knowledge Discovery and
+Data Mining: 
+Theory and Applications
+Oded Maimon and Lior Rokach
+Series in Machine Perception and Artificial Intelligence - Vol. 61
+World Scientific Publishing, 2005, 323 p, Hardcover, ISBN:981-
+256-079-3
+Check it on Amazon
+Check it on Google Books
+ 
+Soft Computing for Knowledge Discovery and Data
+Mining
+Oded Maimon and Lior Rokach (Eds.) 
+Springer, 2007, 434 p., Hardcover ISBN: 0387699341
+Check it on Amazon
+Check it on Google Books
+
+-----
+Recent Publications
+• Gautam Kunapuli, Rich Maclin & Jude Shavlik (2011). 
+Advice Refinement for Knowledge-Based Support Vector Machines. Proceedings of the 
+Twenty-Fifth Conference on Neural Information Processing Systems (NIPS 2011).
+• G. Kunapuli, R. Maclin & J. Shavlik (2011). 
+Advice Refinement for Knowledge-Based Support Vector Machines. Workshop on Combining 
+Learning Strategies for Reducing Label Cost at ICML 2011.  
+• Gautam Kunapuli, Kristin P. Bennett, Rich Maclin & Jude Shavlik (2010). 
+The Adviceptron: Giving Advice To The Perceptron. Proceedings of the Conference on 
+Artificial Neural Networks In Engineering (ANNIE 2010), St. Louis, MO. 
+• Trevor Walker, Ciaran O'Reilly, Gautam Kunapuli, Sriraam Natarajan, Richard Maclin, 
+David Page & Jude Shavlik (2010). 
+Automating the ILP Setup Task: Converting User Advice about Specific Examples into General 
+Background Knowledge. Proceedings of the 20th International Conference on Inductive Logic 
+Programming, Florence, Italy. 
+• G. Kunapuli, K.P. Bennett, A. Shabbeer, R. Maclin & J. Shavlik (2010).
+Online Knowledge-Based Support Vector Machines. Proceedings of the European Conference 
+on Machine Learning (ECML 2010), Barcelona, Spain.
+• S. Natarajan, G. Kunauli, R. Maclin, D. Page, C. O'Reilly, T. Walker & J. Shavlik 
+(2010). 
+Learning from Human Teachers: Issues and Challenges in Bootstrap Learning. AAMAS 2010 
+Workshop on Agents Learning Interactively from Human Teachers, Toronto, Canada.  
+• L. Torrey, J. Shavlik, T. Walker & R. Maclin (2009). 
+Transfer Learning via Advice Taking. In J. Koronacki, S. Wirzchon, Z. Ras & J. Kacprzyk, 
+editors, Recent Advances in Machine Learning, dedicated to the memory of Ryszard S. 
+Michalski. Springer Studies in Computational Intelligence. 
+• S. Natarajan, G. Kunapuli, C. O'Reilly, R.Maclin, T. Walker, D. Page & J.Shavlik (2009). 
+ILP for Bootstrapped Learning: A Layered Approach to Automating the ILP Setup 
+Problem. Presented at the Nineteenth Conference on Inductive Logic Programming, Leuven, 
+Belgium.  
+• L. Torrey, J. Shavlik, T. Walker & R. Maclin (2008). 
+Rule Extraction for Transfer Learning. In J. Diederich, editor, Rule Extraction from Support 
+Vector Machines, pp. 67-82. Springer.  
+• L. Torrey, T. Walker, R. Maclin & J. Shavlik (2008). 
+Advice Taking and Transfer Learning: Naturally Inspired Extensions to Reinforcement 
+Learning. AAAI Fall Symposium on Naturally Inspired AI, Washington, DC.  
+• R. Maclin, E. Wild, J. Shavlik, L. Torrey and T. Walker (2007). 
+Refining Rules Incorporated into Knowledge-Based Support Vector Learners Via Successive 
+Linear Programming (PDF) . Proceedings of the Twenty Second National Conference on 
+Artificial Intelligence (AAAI'07), Vancouver, BC. 
+• L. Torrey, J. Shavlik, T. Walker and R. Maclin (2007). 
+Relational Macros for Transfer in Reinforcement Learning. (PDF) . Proceedings of the 
+Seventeenth Conference on Inductive Logic Programming (ILP'07), Corvallis, Oregon. 
+• T. Walker, L. Torrey, J. Shavlik, and R. Maclin (2007). 
+Building Relational World Models for Reinforcement Learning. (PDF) . Proceedings of the 
+Seventeenth Conference on Inductive Logic Programming (ILP'07), Corvallis, Oregon. 
+• R. Maclin, J. Shavlik, T. Walker and L. Torrey (2006). 
+A Simple and Effective Method for Incorporating Advice into Kernel Methods (PDF) . 
+Proceedings of the Twenty First National Conference on Artificial Intelligence (AAAI'06), 
+Boston, MA. 
+Page 1 of 3
+Rich Maclin's Recent Publications
+4/11/2019
+http://www.d.umn.edu/~rmaclin/publications/index.html
+
+-----
+• L. Torrey, J. Shavlik, T. Walker and R. Maclin (2006). 
+Skill Acquisition via Transfer Learning and Advice Taking. (PDF) . Proceedings of the 
+Seventeenth European Conference on Machine Learning (ECML'06), Berlin, Germany. 
+• R. Maclin, J. Shavlik, L. Torrey, T. Walker and E. Wild (2005). 
+Giving Advice about Preferred Actions to Reinforcement Learners Via Knowledge-Based 
+Kernel Regression (PDF) . Proceedings of the Twentieth National Conference on Artificial 
+Intelligence (AAAI'05), Pittsburgh, PA. 
+• R. Maclin, J. Shavlik, L. Torrey and T. Walker (2005). 
+Knowledge Based Support Vector Regression for Reinforcement Learning (PDF) . IJCAI'05 
+Workshop on Reasoning, Representation, and Learning in Computer Games, Edinburgh, 
+Scotland. 
+• L. Torrey, T. Walker, J. Shavlik and R. Maclin (2005). 
+Using Advice to Transfer Knowledge Acquired in One Reinforcement Learning Task to 
+Another. (PDF) . Proceedings of the Sixteenth European Conference on Machine Learning 
+(ECML'05), Porto, Portugal. 
+• L. Torrey, T. Walker, J. Shavlik and R. Maclin (2005). 
+Knowledge Transfer Via Advice Taking (PDF) . Proceedings of the Third International 
+Conference on Knowledge Capture (KCAP'05), Banff, Canada. Poster (PDF). Abstract. 
+• M. Joshi, T. Pedersen and R. Maclin (2005). 
+A Comparative study of support vector machines applied to the supervised word sense 
+disambiguation problem in the medical domain (PDF) . Proceedings of the 2nd Indian 
+International conference on Artificial Intelligence (IICAI-05), Pune, India. 
+• T. Walker, J. Shavlik and R. Maclin (2004). 
+Relational Reinforcement Learning via Sampling the Space of First-Order Conjunctive Features 
+(PDF) . Proceedings of the ICML Workshop on Relational Reinforcement Learning, Banff, 
+Canada. 
+• Bennett, K., Demiriz, A. and Maclin, R. (2002). 
+Exploiting Unlabeled Data in Ensemble Methods (PDF) Proceedings of the Eighth ACM 
+SIGKDD Internation Conference on Knowledge Discovery and Data Mining, Edmonton, 
+Alberta, Canada. 
+• Opitz, D. and Maclin, R. (1999). 
+Popular ensemble methods: An empirical study (PDF) (Postscript) . Journal of AI Research, 
+11, 169-198. 
+• Maclin, R. (1998). 
+Boosting classifiers regionally. (PDF) (Postscript) . Proceedings of the Fifteenth National 
+Conference on Artificial Intelligence, pp. 700-705, Madison, WI. 
+• Maclin, R. and Shavlik, J. W. (1998). 
+Creating advice-taking reinforcement learners. (PDF) (Postscript) . in S. Thrun and L. Pratt 
+(eds) Learning to Learn, Kluwer Academic. 
+• Maclin, R. and Opitz, D. (1997). 
+An empirical comparison of bagging and boosting. (PDF) (Postscript) . Proceedings of the 
+Fourteenth National Conference on Artificial Intelligence, Providence, RI. 
+• Asker, L. and Maclin, R. (1997). 
+Feature engineering and classifer selection: A case study in Venusian volcano detection. (PDF) 
+(Postscript) . Proceedings of the Fourteenth International Conference on Machine Learning, 
+Nashville, TN. 
+• Asker, L. and Maclin, R. (1997). 
+Ensembles as a sequence of classifiers. (PDF) (Postscript) . Proceedings of the Fifteenth 
+International Joint Conference on Artificial Intelligence, Nagoya, Japan. 
+• Maclin, R. and Shavlik, J. W. (1996). 
+Creating advice-taking reinforcement learners. (PDF) (Postscript) . Machine Learning, 22, 
+251-281. 
+Page 2 of 3
+Rich Maclin's Recent Publications
+4/11/2019
+http://www.d.umn.edu/~rmaclin/publications/index.html
+
+-----
+• Maclin, R. and Shavlik, J. W. (1995). 
+Combining the predictions of multiple classifiers: Using competitive learning to initialize neural 
+networks. (PDF) (Postscript) . Proceedings of the Fourteenth International Joint Conference 
+on Artificial Intelligence, Montreal, Canada. 
+• Maclin, R. (1995). 
+Learning from Instruction and Experience: Methods for Incorporating Procedural Domain 
+Theories into Knowledge-Based Neural Networks. Ph.D. Thesis, Department of Computer 
+Sciences, University of Wisconsin-Madison. (Also appears as UW Technical Report CS-TR-95-
+1285) 
+First half (Postscript)
+First half (PDF)
+Second half (Postscript)
+Second half (PDF)
+• Maclin, R. and Shavlik, J. W. (1994). 
+Incorporating Advice into Agents that Learn from Reinforcements. (PDF) (Postscript) . 
+Proceedings of the Twelfth National Conference on Artificial Intelligence, pp. 694-699, Seattle, 
+WA. (A longer version appears as UW-CS TR 1227 (PDF) (Postscript) .) 
+• Maclin, R. and Shavlik, J. W. (1993). 
+Using Knowledge-Based Neural Networks to Improve Algorithms: Refining the Chou-Fasman 
+Algorithm for Protein Folding. (PDF) (Postscript) . Machine Learning, 11 (2/3), pp. 195-215. 
+Other versions of this paper appear in the Proceedings of the Tenth National Conference on 
+Artificial Intelligence, 1992, pp. 165-170, and in Hanson, S., Drastal, G. and Rivest, R., eds., 
+Computational Learning Theory and Natural Learning Systems, 1994, MIT Press. 
+• Maclin, R. and Shavlik, J. W. (1991). 
+Refining Domain Theories Expressed as Finite-State Automata. (PDF) (Postscript) . Machine 
+Learning: Proceedings of the Eighth International Conference , pp. 524-528, Chicago, IL. 
+• Stewart, J. and Maclin, R. (1990). 
+Representing Genotype-to-Phenotype Mappings. Journal of Biological Education, 24 (2), pp. 
+113-116. 
+• Maclin, R. and Shavlik, J. W. (1989). 
+Enriching Vocabularies Using Explanation-Based Learning. Machine Learning: Proceedings of 
+the Sixth International Conference , pp. 444-446, Ithaca, NY. 
+• Koedinger, K., Maclin, R., Streibel, M. and Stewart, J. (1987). 
+Intelligent Tutoring Systems Design Issues for a Genetics Laboratory Called MENDEL. 
+Proceedings of the Third International Conference on Artificial Intelligence and Education , 
+Pittsburgh, PA. 
+Page 3 of 3
+Rich Maclin's Recent Publications
+4/11/2019
+http://www.d.umn.edu/~rmaclin/publications/index.html
+
+-----

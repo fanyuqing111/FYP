@@ -1,0 +1,1761 @@
+Curriculum vitae Christian Kurtsiefer
+born August 20, 1967 in Munich, Germany
+Sept 87-Oct 91
+Diploma program in Physics at the University of Konstanz
+Sept 90-Mar 91
+Studies at the Université J. Fourier in Grenoble, France in a student 
+exchange scheme (ERASMUS)
+Dec 91-Dec 92
+Diploma thesis in experimental atom optics in Konstanz
+Jan 93-July 97
+Doctoral thesis in the group of Prof. J. Mlynek on matter wave 
+interference, correlated atom-photon pairs, quantum state tomography
+July 97-July 99
+Postdoc at the IBM Almaden Research Center in San Jose, CA on an 
+experimental quantum computation project with single ions
+July 99 -Oct 03
+Scientific staff member in the group of Prof. H. Weinfurter at the 
+University of Munich, with focus on optical quantum communication and 
+single photon effects
+since Oct 03
+Faculty member of the Physics Department of the National University of 
+Singapore; establishing of an experimental lab in quantum information 
+technology with emphasis on entangled photon sources, their application 
+to quantum key distribution and optimal quantum measurement 
+strategies, and single-photon interaction with single trapped atoms
+since Jan 08
+Principal Investigator at the Centre for Quantum Technologies at the 
+National University of Singapore
+July 09-July 12
+Faculty of Science Dean's Chair at the National University of Singapore
+since Aug 10
+Full Professor at the National University of Singapore
+Institute contact
+Centre for Quantum Information / Department of Physics
+National University of Singapore
+3, Science Drive 2
+Singapore 117543
+Tel. +65-6516-1250, Fax: +65-6777-6126
+christian_kurtsiefer@nus.edu.sg
+http://www.qolah.org
+
+-----
+Publications Christian Kurtsiefer
+(as of 31 Oct 2015)
+Articles in peer-reviewed journals
+1.
+H.S. Poh, S.K. Joshi, A. Cerè, A. Cabello, C. Kurtsiefer: Approaching Tsirelson’s Bound in a Photon Pair 
+Experiment, Phys. Rev. Lett. 
+ 
+ 115
+ 
+ , 180408 (2015).
+2.
+G.K. Gulati, B. Srivathsan, B. Chng, A. Cerè, C. Kurtsiefer: Polarization entanglement and quantum beats of 
+photon pairs from four-wave mixing in a cold Rb-87 ensemble, New Journal of Physics 
+ 
+ 17
+  , 093034 (2015).
+3.
+V. Leong, S. Kosen, B. Srivathsan, G.K. Gulati, A. Cerè, and C. Kurtsiefer: Hong-Ou-Mandel interference 
+between triggered and heralded single photons from separate atomic systems. Phys. Rev. A 
+ 
+ 91
+  , 063829 (2015).
+4.
+V. Scarani and C. Kurtsiefer: The black paper of quantum cryptography: real implementation problems, 
+Theoretical Computer Science 
+ 
+ 560
+ 
+ , 27-32 (2014).
+5.
+B. Srivathsan, G.K. Gulati, A. Cerè, B. Chng, and C. Kurtsiefer: Reversing the temporal envelope of a 
+heralded single photon using a cavity, Phys. Rev. Lett. 
+ 
+ 113
+ 
+ , 163601 (2014).
+6.
+K. Durak, C.H. Nguyen, V. Leong, S. Straupe, and Christian Kurtsiefer: Diffraction-limited Fabry-Perot 
+Cavity in the Near Concentric Regime., New Journal of Physics 
+ 
+ 16
+  , 103002 (2014).
+7.
+G.K. Gulati, B. Srivathsan, B. Chng, A. Cerè, D. Matsukevich, and C. Kurtsiefer: Generation of an 
+exponentially rising single-photon field from parametric conversion in atoms, Phys. Rev. A
+ 
+  90
+  , 033819 (2014).
+8.
+P.K. Tan, G.H. Yeo, H.S. Poh, A.H. Chan, and C. Kurtsiefer: Measuring Temporal Photon Bunching in 
+Blackbody Radiation,  Astrophysics Journal 
+ 
+ 789
+ 
+ , L10 (2014).
+9.
+Q. Liu, A. Lamas-Linares, C. Kurtsiefer, J. Skaar, V. Makarov, and I. Gerhardt: A universal setup for active 
+control of a single-photon detector, Rev. Sci. Instrum. 
+ 
+ 85
+  , 013108 (2014).
+10.
+B. Srivathsan, G.K. Gulati, B. Chng, G. Maslennikov, D. Matsukevich, and C. Kurtsiefer: Narrow Band 
+Source of Transform-Limited Photon Pairs via Four-Wave Mixing in a Cold Atomic Ensemble, Phys. Rev. Lett.
+111
+ 
+ , 123602 (2013).
+11.
+S.A. Aljunid, G. Maslennikov, Y. Wang, D. H. Lan, V. Scarani, and C. Kurtsiefer: Excitation of a single atom 
+with exponentially rising light pulses, Phys. Rev. Lett. 
+ 
+ 111
+ 
+ , 103001 (2013).
+12.
+H.M.Y. Ng, S. Koduru Joshi, C.M. Chia, C. Kurtsiefer, and S. Wehner: Experimental implementation of bit 
+commitment in the noisy-storage model, Nature Communications 
+ 
+ 3
+  , 1326 (2012). 
+13.
+H.L. Dao, S.A. Aljunid, G. Maslennikov, and C. Kurtsiefer: Preparation of an Exponentially Rising Optical 
+Pulse for Efficient Excitation of Single Atoms in Free Space, Rev. Sci. Instr. 
+ 
+ 83
+  , 083104 (2012).
+14.
+I. Gerhardt, Q. Liu, A. Lamas-Linares, J. Skaar, V. Scarani, V. Makarov, and C. Kurtsiefer: Experimentally 
+faking the violation of Bell's inequalities, Phys. Rev. Lett. 
+ 
+ 107
+ 
+ , 170404 (2011).
+15.
+I. Gerhardt, Q. Liu, A. Lamas-Linares, J. Skaar, C. Kurtsiefer, and V.  Makarov: Full-field implementation of a 
+perfect eavesdropper on a quantum cryptography system, Nature Communications, 
+ 
+ 2
+  , 349 (2011).
+16.
+S.A. Aljunid, B. Chng, M. Paesold, G. Maslennikov, and C. Kurtsiefer:Interaction of light with a single atom 
+in the strong focusing regime, J. Mod. Opt. 
+ 
+ 58
+  , 299-305 (2011).
+17.
+T.T. Ng, D. Gosal, A. Lamas-Linares, and C. Kurtsiefer: Sagnac-loop phase shifter with polarization-
+independent operation, Rev. Sci. Instrum. 
+ 
+ 82
+  , 013106 (2011).
+18.
+I. Gerhardt, L. Mai, A. Lamas-Linares, and C. Kurtsiefer: Detection of Single Molecules Illuminated by a 
+Light-Emitting Diode,  Sensors 11, 905-916 (2011).
+19.
+M. Fürst, H. Weier, S. Nauerth, D.G. Marangon, C. Kurtsiefer, and H. Weinfurter: High speed optical quantum 
+random number generation, Optics
+ 
+  
+ Express
+ 
+  
+ 18
+  ,
+  
+ 13029
+ 
+  
+ (2010).
+20.
+H.S. Poh, J. Lim, I. Marcikic, A. Lamas-Linares, C. Kurtsiefer: Eliminating Spectral Distinguishability in 
+Ultrafast Spontaneous Parametric Down-conversion, Phys.
+ 
+  
+ Rev.
+ 
+  
+ A
+   
+ 80
+  ,
+  
+ 043815
+ 
+  
+ (2009).
+21.
+S.A. Aljunid, M. K. Tey, B. Chng, T. Liew, G. Maslennikov, V. Scarani, and C. Kurtsiefer: Phase shift of a 
+weak coherent beam induced by a single atom, Phys.
+ 
+  
+ Rev.
+ 
+  
+ Lett.
+ 
+  
+ 103
+ 
+ ,
+  
+ 153601
+ 
+  
+ (2009).
+22.
+C. Ho, A. Lamas-Linares, and C. Kurtsiefer: Clock synchronization by remote detection of correlated photon 
+pairs, New
+ 
+  
+ J.
+   
+ Phys.
+ 
+  
+ 11
+  ,
+  
+ 045011
+ 
+  
+ (2009).
+
+-----
+23.
+M. P. Peloso, I. Gerhardt, C. Ho, A. Lamas-Linares, and C. Kurtsiefer: Daylight operation of a free space, 
+entanglement-based quantum key distribution system, New J. Phys. 
+ 
+ 11
+  , 045007 (2009) .
+24.
+M.K. Tey, G. Maslennikov, T.C.H. Liew, S.A. Aljunid, F. Huber, B. Chng, Z. Chen, V. Scarani, and 
+C. Kurtsiefer:Interfacing light and single atoms with a lens, New J. Phys. 
+ 
+ 11
+  , 043011 (2009).
+25.
+M.K. Tey, Z. Shen, S.A. Aljunid, B. Chng, F. Huber, G. Maslennikov and C. Kurtsiefer: Strong interaction 
+between light and a single trapped atom without the need for a cavity, Nature Physics 
+ 
+ 4
+  , 924-927 (2008).
+26.
+T. Durt, C. Kurtsiefer, A. Lamas-Linares, and A. Ling,  Wigner tomography of two-qubit states and quantum 
+cryptography, Phys.
+ 
+  
+ Rev.
+ 
+  
+ A
+   
+ 78
+  ,
+  
+ 042338
+ 
+  
+ (2008).
+27.
+A. Ling, M. Peloso, I. Marcikic, A. Lamas-Linares, V. Scarani, and C. Kurtsiefer: Experimental quantum key 
+distribution based on a Bell test, Phys.
+ 
+  
+ Rev.
+ 
+  
+ A
+   
+ 78
+  ,
+  
+ 020301(R),
+ 
+  
+ (2008).
+28.
+C. Branciard, N. Brunner, N. Gisin, A. Lamas-Linares, A. Ling, C. Kurtsiefer and V.Scarani: Testing quantum 
+correlations versus single-particle properties within Leggett's model and beyond, Nature Physics 4, 681-685 
+(2008).
+29.
+A. Ling, A. Lamas-Linares and C. Kurtsiefer: Absolute emission of spontaneous parametric down conversion 
+into single transverse Gaussian modes, Phys.
+ 
+  
+ Rev.
+ 
+  
+ A
+   
+ 77
+  ,
+  
+ 043834
+ 
+  
+ (2008).
+30.
+S. Gaertner, M. Bourennane, C. Kurtsiefer, A. Cabello and H. Weinfurter: Experimental demonstration of a 
+quantum protocol for Byzantine agreement and liar detection , Phys.
+ 
+  
+ Rev.
+ 
+  
+ Lett.
+ 
+  
+ 100
+ 
+ ,
+  
+ 070504
+ 
+  
+ (2008).
+31.
+C. Branciard, A. Ling, N. Gisin, C. Kurtsiefer, A. Lamas-Linares, and V. Scarani: Experimental Falsification 
+of Leggett's Non-Local Variable Model, Phys.
+ 
+  
+ Rev.
+ 
+  
+ Lett.
+ 
+  
+ 99
+  ,
+  
+ 210407
+ 
+  
+ (2007).
+32.
+J. Volz, M. Weber, D. Schlenk, W. Rosenfeld, C. Kurtsiefer, H. Weinfurter: An atom and a photon, Laser
+ 
+  
+Physics
+ 
+  
+ 17
+  ,
+   
+  1007-1016
+ 
+  
+ (2007).
+33.
+A. Lamas-Linares, C. Kurtsiefer: Breaking a quantum key distribution system through a timing side channel, 
+Optics
+ 
+  
+ Express
+ 
+  
+ 15
+  ,
+  
+ 9388-9393
+ 
+  
+ (2007).
+34.
+H.S. Poh, C.Y. Lum, I. Marcikic, A. Lamas-Linares, C. Kurtsiefer: Joint spectrum mapping of polarization 
+entanglement in spontaneous parametric down-conversion, Phys.
+ 
+  
+ Rev.
+ 
+  
+ A
+   
+ 75
+  ,
+  
+ 043816
+ 
+  
+ (2007).
+35.
+T. Schmitt-Manderbach, H. Weier, M. Fürst, R. Ursin, F. Tiefenbacher, T. Scheidl, J. Perdigues, Z. Sodnik, C. 
+Kurtsiefer, J.G. Rarity, A. Zeilinger, H. Weinfurter: Experimental demonstration of free-space decoy-state 
+quantum key distribution over 144 km, Phys.
+ 
+  
+ Rev.
+ 
+  
+ Lett.
+ 
+  
+ 98
+  ,
+  
+ 010504
+ 
+  
+ (2007).
+36.
+S. Gaertner, C. Kurtsiefer, M. Bourennane, and H. Weinfurter: Experimental Demonstration of Four-Party 
+Quantum Secret Sharing, Phys.
+ 
+  
+ Rev.
+ 
+  
+ Lett.
+ 
+  
+ 98
+  ,
+  
+ 020503
+ 
+  
+ (2007).
+37.
+Ivan Marcikic, Antía Lamas-Linares, and Christian Kurtsiefer: Free-space quantum key distribution with 
+entangled photons, Appl.
+ 
+  
+ Phys.
+ 
+  
+ Lett.
+ 
+  
+ 89
+  ,
+  
+ 101122
+ 
+  
+ (2006).
+38.
+H. Weier, T. Schmitt-Manderbach, N. Regner, Ch. Kurtsiefer, H. Weinfurter: Free space quantum key 
+distribution: Towards a real life application, Fortschr.
+ 
+  
+ Phys.
+ 
+  
+ 54
+  ,
+  
+ 840
+ 
+  
+ -
+ 
+  
+ 845
+ 
+  
+ (2006).
+39.
+Alexander Ling, Kee Pang Soh, Antia Lamas-Linares, Christian Kurtsiefer: Experimental polarization state 
+tomography using optimal polarimeters,Phys.
+ 
+  
+ Rev.
+ 
+  
+ A
+   
+ 74
+  ,
+  
+ 22309
+ 
+  
+ (2006).
+40.
+Christian Schmid, Pavel Trojek, Sascha Gaertner, Mohamed Bourennane, Christian Kurtsiefer, Marek 
+Zukowski, and HaraldWeinfurter: Experimental quantum secret sharing, Fortschr.
+ 
+  
+ Phys.
+ 
+  
+ 54
+  ,
+  
+ 831-839
+ 
+  
+ (2006).
+41.
+Markus Weber, Juergen Volz, Karen Saucke, Christian Kurtsiefer, and Harald Weinfurter: Analysis of a single-
+atom dipole trap, Phys.
+ 
+  
+ Rev.
+ 
+  
+ A
+   
+ 73
+  ,
+  
+ 043406
+ 
+  
+ (2006).
+42.
+Carsten Schuck, Gerhard Huber, Christian Kurtsiefer, and Harald Weinfurter: Complete Deterministic Linear 
+Optics Bell State Analysis, Phys.
+ 
+  
+ Rev.
+ 
+  
+ Lett.
+ 
+  
+ 96
+  ,
+  
+ 190501
+ 
+  
+ (2006).
+43.
+Alexander. Ling, Kee Pang Soh, Antia Lamas-Linares, and Christian Kurtsiefer: An optimal photon counting 
+polarimeter, J.
+   
+ Mod.
+ 
+  
+ Opt.
+ 
+  
+ 53
+  ,
+  
+ 1523-1528
+ 
+  
+ (2006).
+44.
+M. Bourennane, M. Eibl, S. Gaertner, N. Kiesel, Ch. Kurtsiefer, and H. Weinfurter: Entanglement Persistency 
+of Multiphoton Entangled States, Phys.
+ 
+  
+ Rev.
+ 
+  
+ Lett.
+ 
+  
+ 96
+  ,
+  
+ 100502
+ 
+  
+ (2006).
+45.
+C. Wang, Ch. Kurtsiefer, H. Weinfurter and B. Burchard: Single photon emission from SiV centres in diamond 
+produced by ion implantation, J.
+   
+ Phys.
+ 
+  
+ B
+   
+ 39
+  ,
+  
+ 37-41
+ 
+  
+ (2006).
+46.
+S. Gaertner, H. Weinfurter, and Ch. Kurtsiefer: Fast and compact multichannel photon coincidence unit for 
+quantum information processing, Rev.
+ 
+  
+ Sci.
+ 
+  
+ Instrum.
+ 
+  
+ 76
+  ,
+  
+ 123108
+ 
+  
+ (2005).
+
+-----
+47.
+J. Volz, M. Weber, D. Schlenk, W. Rosenfeld, J. Vrana, K. Saucke, C. Kurtsiefer, and H. Weinfurter: 
+Observation of Entanglement of a Single Photon with a Trapped Atom, Phys.
+ 
+  
+ Rev.
+ 
+  
+ Lett.
+ 
+  
+ 96
+  ,
+  
+ 030404
+ 
+  
+ (2006).
+48.
+C. Schmid, P. Trojek, M. Bourennane, Ch. Kurtsiefer, M. Zukowski, and H. Weinfurter: Experimental Single 
+Qubit Quantum Secret Sharing, Phys.
+ 
+  
+ Rev.
+ 
+  
+ Lett.
+ 
+  
+ 95
+  ,
+  
+ 230505
+ 
+  
+ (2005).
+49.
+A. Poppe, A. Fedrizzi, T. Loruenser, O. Maurhardt, R. Ursin, H. R. Boehm, M. Peev, M. Suda, C. Kurtsiefer, 
+H. Weinfurter, T. Jennewein, A. Zeilinger: Practical Quantum Key Distribution with Polarization-Entangled 
+Photons, Opt.
+ 
+  
+ Express
+ 
+  
+ 12
+  ,
+  
+ 3865-3871
+ 
+  
+ (2004).
+50.
+K. J. Resch, M. Lindenthal, B. Blauensteiner, H. R. Boehm, A. Fedrizzi, C. Kurtsiefer, A. Poppe, T. Schmitt-
+Manderbach, M. Taraba, R. Ursin, P. Walther, H. Weier, H. Weinfurter, A. Zeilinger: Distributing 
+entanglement and single photons through an intra-city, free-space quantum channel, Opt.
+ 
+  
+ Express
+ 
+  
+ 13
+  ,
+  
+ 202-209
+ 
+  
+(2005).
+51.
+P. Trojek, Ch. Schmid, M. Bourennane, Ch. Kurtsiefer, and H. Weinfurter: Compact source of polarization-
+entangled photon pairs, Optics
+ 
+  
+ Express
+ 
+  
+ 12
+  ,
+  
+ 276-281
+ 
+  
+ (2004).
+52.
+M. Bourennane, M. Eibl, C. Kurtsiefer, S. Gaertner, H. Weinfurter, O. Gühne, P. Hyllus, D. Bruß, M. 
+Lewenstein, A. Sanpera: Experimental Detection of Multipartite Entanglement using Witness Operators, Phys.
+ 
+  
+Rev.
+ 
+  
+ Lett.
+ 
+  
+ 92
+  ,
+  
+ 087902
+ 
+  
+ (2004).
+53.
+M. Bourennane, M. Eibl, S. Gaertner, Ch. Kurtsiefer, A. Cabello, H. Weinfurter: Decoherence-free quantum 
+information processing with four-photon entangled states, Phys.
+ 
+  
+ Rev.
+ 
+  
+ Lett.
+ 
+  
+ 92
+  ,
+  
+ 107901
+ 
+  
+ (2004).
+54.
+M. Eibl, N. Kiesel, M. Bourennane, Ch. Kurtsiefer, H. Weinfurter: Experimental realization of a three-qubit 
+entangled W-state, Phys.
+ 
+  
+ Rev.
+ 
+  
+ Lett.
+ 
+  
+ 92
+  ,
+  
+ 077901
+ 
+  
+ (2004).
+55.
+M. Bourennane, M. Eibl, S. Gaertner, N. Kiesel, Ch. Kurtsiefer, M. Zukowski, and H. Weinfurter: Multiphoton
+entanglement and interferometry Fortschr.
+ 
+  
+ Phys.
+ 
+  
+ 51
+  ,
+  
+ 273,
+ 
+  
+ (2003).
+56.
+S. Gaertner, M. Bourennane, M. Eibl, Ch. Kurtsiefer, and H. Weinfurter: High fidelity source of four photon 
+entanglement, Applied
+ 
+  
+ Physics
+ 
+  
+ B
+   
+ 77
+  ,
+  
+ 803
+ 
+  
+ (2003).
+57.
+M. Eibl, S. Gaertner, M. Bourennane, Ch. Kurtsiefer, M. Zukowski, H. Weinfurter: Four photon entanglement 
+from down-conversion, Phys.
+ 
+  
+ Rev.
+ 
+  
+ Lett.
+ 
+  
+ 90
+  ,
+  
+ 200403
+ 
+  
+ (2003).
+58.
+Ch. Kurtsiefer, P. Zarda, Matthäus Halder; H. Weinfurter, P.M. Gorman, P.R. Tapster, and J.G. Rarity: A step 
+towards global key distribution, Nature
+ 
+  
+ 419
+ 
+ ,
+  
+ 450
+ 
+  
+ (2002).
+59.
+N. Kiesel, M. Bourennane, Ch. Kurtsiefer, H. Weinfurter; D. Kazlikowski, W. Laskowski, M. Zukowski: Three
+photon W state, Journal
+ 
+  
+ of
+   
+ Modern
+ 
+  
+ Optics
+ 
+  
+ 50
+  ,
+  
+ 1131
+ 
+  
+ (2002).
+60.
+O. Schulz, R. Steinhübl, M. Weber, B.-G. Englert, Ch. Kurtsiefer, H. Weinfurter: Ascertaining the values of 
+sigma(x), sigma (y), and sigma (z) of a polarziation qubit, Phys.
+ 
+  
+ Rev.
+ 
+  
+ Lett.
+ 
+  
+ 90
+  ,
+  
+ 177901
+ 
+  
+ (2003).
+61.
+Ch. Braig, P. Zarda, Ch. Kurtsiefer, and H. Weinfurter: Experimental Demonstration of Complementarity with 
+Single Photons, Applied
+ 
+  
+ Physics
+ 
+  
+ B
+   
+ 76
+  ,
+  
+ 113
+ 
+  
+ (2003).
+62.
+A. Beige, B.-G. Englert, Ch. Kurtsiefer, H. Weinfurter: Secure communication with single-photon two-qubit 
+states, J.
+   
+ Phys.
+ 
+  
+ A
+   
+ 35
+   
+ ,
+  
+ L407,
+ 
+  
+ (2002).
+63.
+R. G. DeVoe and C. Kurtsiefer: Experimental study of anomalous heating and trap instabilities in a 
+microscopic 137Ba ion trap, Phys.
+ 
+  
+ Rev.
+ 
+  
+ A
+   
+ 65
+  ,
+  
+ 063407
+ 
+  
+ (2002).
+64.
+A. Beige, B.-G. Englert, Ch. Kurtsiefer, H. Weinfurter: Secure communication with a publicly known key, Acta
+Phys. Pol. A 101, 357 (2002).
+65.
+J. Volz, Ch. Kurtsiefer, and H. Weinfurter: Compact All-Solid-State Source of Polarization Entangled Photon 
+Pairs, Applied
+ 
+  
+ Phys.
+ 
+  
+ Lett.
+ 
+  
+ 79
+  ,
+  
+ 869
+ 
+  
+ (2001).
+66.
+Ch. Kurtsiefer, P. Zarda, S. Mayer, and H. Weinfurter: The breakdown flash of Silicon Avalanche diodes - 
+backdoor for eavesdropper attacks?, Journal
+ 
+  
+ of
+   
+ Modern
+ 
+  
+ Optics
+ 
+  
+ 48
+  ,
+  
+ 2039-2047
+ 
+  
+ (2001).
+67.
+Ch. Kurtsiefer, M. Oberparleiter, and H. Weinfurter: Generation of correlated photon pairs in type-II 
+parametric down conversion -- revisited, Journal
+ 
+  
+ of
+   
+ Modern
+ 
+  
+ Optics
+ 
+  
+ 48
+  ,
+  
+ 1997-2007
+ 
+  
+ (2001).
+68.
+Ch. Kurtsiefer, M. Oberparleiter, and H. Weinfurter: High efficiency entangled photon pair collection in type II
+parametric fluorescence, Phys.
+ 
+  
+ Rev.
+ 
+  
+ A
+   
+ 64
+  ,
+  
+ 010102(R)
+ 
+  
+ (2001).
+69.
+Berthold-Georg Englert, Christian Kurtsiefer, Harald Weinfurter: Universal unitary gate for single-photon 2-
+qubit states, Phys.
+ 
+  
+ Rev.
+ 
+  
+ A
+   
+ 63
+  ,
+  
+ 032303
+ 
+  
+ (2001).
+
+-----
+70.
+Ch. Kurtsiefer, S. Mayer, P. Zarda, and H. Weinfurter: A stable solid-state source of single photons, Phys.
+ 
+  
+ Rev.
+ 
+  
+Lett.
+ 
+   
+  85
+  ,
+  
+ 290
+ 
+  
+ (2000).
+71.
+S. Nowak, Ch. Kurtsiefer, and T. Pfau; C. David: High-Order Talbot fringes for atomic matter waves, Opt. 
+Lett. 22, 1430 (1997).
+72.
+T. Pfau and Ch. Kurtsiefer: Partial reconstruction of the motional Wigner function of an ensemble of Helium 
+atoms, J.
+   
+ Mod.
+ 
+  
+ Opt.
+ 
+  
+ 44
+  ,
+  
+ 2551
+ 
+  
+ (1997).
+73.
+T. Pfau, Ch. Kurtsiefer, J.Mlynek: Double Slit Experiments with Correlated Atom-Photon States, Journal of 
+Quantum and Semiclassical Optics 
+ 
+ 8
+  , 665-671 (1996).
+74.
+Ch. Kurtsiefer, T. Pfau, and J.Mlynek: Experimental determination of the motional Wigner function of a 
+Helium atom, Nature
+ 
+  
+ 386
+ 
+ ,
+  
+ 150
+ 
+  
+ (1997).
+75.
+Christian  Kurtsiefer, Oliver Dross, Dirk Voigt, Christopher R. Ekstrom, Tilman Pfau, and Jürgen Mlynek: 
+Observation of correlated  atom-photon pairs on the single particle level, Phys.
+ 
+  
+ Rev.
+ 
+  
+ A
+    
+  55
+  ,
+  
+ R2539
+ 
+  
+ (1997).
+76.
+Ch. Kurtsiefer, J. Mlynek: A 2-dimensional detector with high spatial and temporal resolution for metastable 
+rare gas atoms, Appl.
+ 
+  
+ Phys.
+ 
+  
+ B
+   
+ 64
+  ,
+  
+ 85-90
+ 
+  
+ (1996).
+77.
+C.R. Ekstrom, Ch. Kurtsiefer, D. Voigt, O. Dross, T.Pfau, J. Mlynek: Coherent excitation of a He* beam 
+observed in atomic momentum distributions, Opt.
+ 
+  
+ Comm.
+ 
+  
+ 123
+ 
+ ,
+  
+ 505
+ 
+  
+ (1996).
+78.
+Ch. Kurtsiefer, T. Pfau, C.R. Ekstrom, J. Mlynek: Time-resolved diffraction of atoms from a standing light 
+wave, Appl.
+ 
+  
+ Phys.
+ 
+  
+ B
+   
+ 60
+  ,
+  
+ 229
+ 
+  
+ (1995).
+79.
+T.Pfau, S. Spälter, Ch.Kurtsiefer, C.R. Ekstrom, J. Mlynek: Measurement of the loss of spatial coherence of an 
+atomic beam, Phys.
+ 
+  
+ Rev.
+ 
+  
+ Lett.
+ 
+  
+ 73
+  ,
+  
+ 1223
+ 
+  
+ (1994).
+80.
+C.S. Adams, T.Pfau, Ch. Kurtsiefer, J. Mlynek: Interaction of atoms with a magneto-optical potential, Phys.
+ 
+  
+Rev.
+ 
+  
+ A
+    
+  48
+  ,
+  
+ 2108
+ 
+  
+ (1993).
+81.
+T. Pfau, Ch. Kurtsiefer, C.S. Adams, M. Sigel, J. Mlynek: A magneto-optical beamsplitter for atoms, Phys.
+ 
+  
+Rev.
+ 
+  
+ Lett.
+ 
+  
+ 71
+  ,
+  
+ 3427
+ 
+  
+ (1993).
+Patents
+1.
+Magiq technologies, M. Bourennane, C. Kurtsifer, C. Schmid, P. Trojek, H. Weinfurter, M. Zukowski: Single-
+particle quantum-enhanced secret sharing, PCT/US2006/000072, filed: 3.1.2006
+2.
+Ch. Kurtsiefer, H. Weinfurter: Vorrichtung und Verfahren für die Quantenkryptographie, Patent Nr. 101 17 
+272.A1, Deutsches Patentamt (2001).
+3.
+D.S. Bethune, R.G. Devoe, Ch. Kurtsiefer, C.T. Rettner, W.P. Risk: System for gated detection of optical pulses
+containing a small number of photons using an avalanche photodiode, U.S. Patent no. 6,218,657 B1
+Proceedings
+1.
+A. Cerè, V. Leong, S. Kosen, B. Srivathsan, G.K. Gulati, C. Kurtsiefer: Controlling the interference of single 
+photons emitted by independent atomic sources,  Quantum Communications and Quantum Imaging XIII, Proc. 
+SPIE 9615, 96150Q (2015).
+2.
+S.A. Aljunid, M.K. Tey, B. Chng, G. Maslennikov, C. Kurtsiefer: Phase Shift of a Weak Coherent Beam by a 
+Single Atom, Conference on Lasers and Electro-optics / Quantum Electronics and Laser Science (CLEO/QELS
+2009), Vols. 1-5, 2123 (2009)
+3.
+I. Gerhardt, M.P. Peloso, C. Ho, A. Lamas-Linares, C. Kurtsiefer: Entanglement-based Free Space Quantum 
+Cryptography in Full Daylight, Conference on Lasers and Electro-Optics/Quantum Electronics and Laser 
+Science (CLEO/QELS 2009), Vols. 1-5, 2405 (2009)
+4.
+J. Lee, S.A. Aljunid, M.K. Tey, G, Maslennikov, C. Kurtsiefer: Measuring atomic oscillator strengths by single
+atom spectroscopy, Conference on Lasers and Electro-Optics/Quantum Electronics and Laser Science 
+Conference (CLEO/QELS 2009), Vols. 1-5, 2969-2970 (2009)
+5.
+M.K. Tey, S.A. Aljunid, F. Huber, B. Chng, Z. Chen, J. Lee, T. Liew, G. Maslennikov, V. Scarani, C. 
+Kurtsiefer: Interfacing light and single atoms with a lens, Proc. SPIE Vol. 7236, Masahide Sasaki (ed.), p. 
+723606 (2009). 
+
+-----
+6.
+A. Ling, M. Peloso, I. Marcikic, A. Lamas-Linares, C. Kurtsiefer: Experimental E91 quantum key distribution, 
+Proc. SPIE Vol. 6903 (Advanced optical concepts in quantum computing, memory, and communication),Z.U. 
+Hasan; A.E. Craig; P.R. Hemmer (eds.), p.U9030 (2008).
+7.
+A. Ling, P. Y. Han, A. Lamas-Linares, and C. Kurtsiefer: Preparation of Bell States with Controlled White 
+Noise, Laser Physics, Vol. 16, No. 7, 1140-1144 (2006).
+8.
+John G. Rarity, Phil M. Gorman, P. R. Knight, Harald Weinfurter, and Christian Kurtsiefer: Quantum 
+communication in space, Proc. SPIE Vol. 5161 (Quantum Communications and Quantum Imaging, R.E. 
+Meyers, Y. Shih (eds.), pp. 240-251 (2004).
+9.
+M. Bourennane, M. Eibl, S. Gaertner, C. Kurtsiefer, H. Weinfurter, A. Cabello, O.Guhne, P. Hyllus, D. Bruss, 
+M. Lewenstein, A. Sanpera. Four photon polarization entanglement tests and applications. Conference 
+proceedings for the 3rd ERATO Quantum Information Science Conference (EQIS 03) International Journal of 
+Quantum Information 2, 133-147 (2004).
+10.
+M. Bourennane, M. Eibl, S. Gaertner, N. Kiesel, Ch. Kurtsiefer, and H. Weinfurter: Multiphoton entanglement;
+S. Liu, G. Guo, H.-K. Lo, N. Imoto (eds.): Quantum optics in computing and communications, Proceedings 
+SPIE 4917, pp. 45-53 (2002).
+11.
+C. Kurtsiefer, P. Zarda, Matthäus Halder, P.M. Gorman, P.R. Tapster, J.G. Rarity, and H. Weinfurter: Long 
+distance free-space quantum cryptography S. Liu, G. Guo, H.-K. Lo, N. Imoto (eds.): Quantum optics in 
+computing and communications, Proceedings SPIE 4917, pp. 25-31 (2002).
+12.
+A. Beige, B.-G. Englert, Ch. Kurtsiefer, and H. Weinfurter: Communication with qubit pairs, R. Brylinski, G. 
+Chen (eds.): Mathematics of quantum computation, CRC Press, pp. 359 (2002).
+13.
+M. Bourennane, M. Eibl, S. Gaertner, N. Kiesel, Ch. Kurtsiefer, M. Zukowski, and H. Weinfurter: Multiphoton
+entanglement G. Leuchs and T. Beth (eds.): Quantum Information Processing, VCH-Wiley, p. 292-299 (2002)
+14.
+Christian Kurtsiefer, Markus Oberparleiter, Jürgen Volz, Harald Weinfurter: Efficient Generation of 
+Polarization-Entangled Photon Pairs with a Laser Diode Source, Laser Physics at the limits, pp. 449-457. 
+Springer Verlag (2001).
+15.
+P. Zarda, C. Kurtsiefer, S. Mayer, Harald Weinfurter: Stable Solid-State Source of Single Photons for Quantum 
+Communication, Computing and Measurement 3, p. 307, Kluwer Academic (2001).
+16.
+Ch. Kurtsiefer, R.C. Spreeuw, M. Drewsen, M. Wilkens, J. Mlynek: Classical and non-classical atom optics,  
+Adv. At. Mol. Opt. Phys. p. 171 (ed.:P. Berman) (1997).
+17.
+T. Pfau, Ch. Kurtsiefer, C.R. Ekstrom, R.J.C. Spreeuw, M. Hartl, U. Janicke, M. Wilkens, and J. Mlynek: 
+"Non-classical" atom optics, p. 529,  Proc. of the Int. School of Physics "Enrico Fermi," Varenna, Course 
+CXXXI on Coherent and Collective Interactions of Particles and Radiation Beams, eds: A. Aspect, W. Barletta,
+and R. Bonifacio, IOS Press (1996).
+18.
+Ch. Kurtsiefer, T. Pfau, S. Spälter, C. R. Ekstrom, and J. Mlynek: A Heisenberg microscope for atoms, Ann. of 
+the New York Acad. of Sci. 755, 162 (1995).
+19.
+T. Pfau, A. Schnetz, C.S. Adams, Ch. Kurtsiefer, M. Sigel, J. Mlynek: "Diffraction of atoms from Optical 
+potentials", Proc. of the workshop "Quantum Interferometry", Trieste, Italy; ed.: F. De Martini, G. Denardo, A.
+Zeilinger, (1993).
+20.
+M. Sigel, T. Pfau, C.S. Adams, Ch. Kurtsiefer, W. Seifert, C. Heine, J.Mlynek: "Optical Elements for atoms", 
+Proc. of the 5th Meeting on Laser Phenomena, Kühtai, Austria; ed.: F. Ehlotzki, (1993).
+Conferences
+1.
+15th Asian Quantum Information Science conference, 24-30 August 2015, KIAS, Seoul, South Korea, 
+Experimental Techniques for Strong Interaction between Photons and Atoms, invited talk.
+2.
+15th Asian Quantum Information Science conference (Satellite workshop), 24-30 August 2015, KIAS, Seoul, 
+South Korea, Bell tests with Entangled Photons - what is left? invited talk.
+3.
+CLEO/Europe -EQEC 2015, 21-25 June 2015,  Munich, Germany, Reversing the Temporal Envelope of a 
+Heralded Single Photon using a Cavity, talk EA.6.2
+4.
+CLEO/Europe -EQEC 2015, 21-25 June 2015,  Munich, Germany, co-author of another talk and two posters
+5.
+Congressi Stefano Franscini / NCCR "Quantum Systems and Technology",  7-12 June 2015, Monte Verità 
+2015, Ascona, Switzerland, Temporal shaping of narrow-band optical photons for interaction with atoms, . 
+
+-----
+Invited talk
+6.
+Conference on Resonator QED (CCQED), 9-13 Sept 2013, Munich, Germany, Atom-light interaction with 
+strongly focused fields, Germany, invited talk.
+7.
+Conference on Lasers an Electro-Optics 2013 , 9-14 June 2013, San Jose, CA, coauthor of two talks by 
+members of my research group.
+8.
+Asia Pacific workshop on Quantum Information Science APWQIS2013, 21-23 May 2013, Tokyo, Japan, 
+Correlated and entangled narrowband photons for interaction with atomic systems, invited talk
+9.
+CLEO/Europe-IQEC Conference 2013, 12-16 May 2013, Munich, Germany, coauthor of two talks by 
+members of my research group.
+10.
+Coherent Control of Complex Quantum Systems, 14-17 April 2013, Okinawa, Japan, Coupling single Photons 
+to single Atoms, invited talk.
+11.
+IPS meeting 2013, 4-6 March 2013, NTU Singapore, Chairman and orgainzer, several contributions as co-
+author
+12.
+DAMOP 2012, Anaheim, US, June 2012; oauthor of two contributions by members of my research group.
+13.
+DPG Tagung 2012, 12.-16. Mar 2012, Stuttgart, Germany, Efficient narrowband PPKTP source for 
+Polarization-entangled photons, 3 other contibutions as co-author
+14.
+IPS meeting 2012, 23.-24. Feb 2012, NUS Singapore, Chairman and main orgainzer, several contributions as 
+co-author
+15.
+CLEO/Europe-EQEC 2011, 22.-26. May 2011, Munich, Germany, three contributions as co-author
+16.
+Conference on Lasers and Electro-optics (CLEO2011), 1.-6. May 2011, Baltimore, MD, Full Eavesdropping 
+on a practical QKD system, invited talk
+17.
+DPG Tagung 2011, 11.-13. March 2011, Dresden, Germany, four contributions as co-author
+18.
+Institute of Physics Singapore annual research meeting 2010, NUSH Singapore, Chairman, several 
+contributions as co-author
+19.
+Workshop on Quantum Information Processing (QIP2011), 10.-14. January 2011, Sentosa, Singapore,  
+Implementation of an attack scheme on a practical QKD system, invited talk
+20.
+Workshop on Cryptography from Storage Imperfections, 19.-23. March 2010, IQI Caltech, Pasadena, CA, 
+Implementation of an attack scheme on a practical QKD system, invited talk
+21.
+DPG Tagung 2010, 8.-13. Mar 2010, Hannover, Germany, Implementation of an attack scheme on a practical 
+QKD system
+22.
+ICQIT 2009 - Int. Conf. on Quantum information and Technology, 2.-5. Dec 2009, NII Tokyo, Japan, 
+Implementation of an attack scheme on a practical QKD system, invited talk
+23.
+SPW09 - Single photon workshop 2009, 3.-6. Nov 2009, NIST Boulder, CO: Substantial scattering of photons 
+by a Single Atom, invited talk
+24.
+EQEC09-CLEO/Europe,14.-19. June 2009, Munich, Germany, Substantial scattering of a Weak Coherent 
+Beam by a Single Atom, invited talk
+25.
+SPIE Photonics West, 24.-29. January 2009, San Jose, CA: Interfacing light and single atoms with a lens, 
+keynote presentation
+26.
+UQC2008, 1.-2.December 2008, Akihabara Tokyo: Status of R&D on Quantum communication and related 
+R&D in Singapore, invited talk
+27.
+DEFCON 16, 8.-10. August 2008, Las Vegas: The Quantum Lounge (experimental exhibition of an 
+entanglement-based QKD system)
+28.
+Black Hat 2008, 2.-7. August 2008, Las Vegas: The Quantum Spookshow (experimental exhibition of an 
+entanglement-based QKD system)
+29.
+17th International Laser Physics Workshop (LPHYS08), 30.June- 4.July 2008, Trondheim, Norway: What can 
+one do with single photons? plenary talk
+30.
+DAMOP2008 meeting, 27.-31. May 2008, Penn State (USA): Strong Interaction Between Light and a Single 
+Trapped Atom Without a Cavity, co-authored talk
+31.
+CLEO/QUELS 08, 4.-9. May 2008, San Jose, CA: QFE6 Absolute Emission Rates of Spontaneous Parametric 
+
+-----
+Down Conversion into a Single Transverse Gaussian Mode co-authored talk
+32.
+CLEO/QUELS 08, 4.-9. May 2008, San Jose, CA: QTuB6 Strong Interaction between Light and a Single 
+Trapped Atom without a Cavity co-authored talk
+33.
+24th Chaos Communication Congres (24C3), 27.-30. Dec 2007, Berlin (Germany): Quantum Cryptography 
+and possible attacks, plenary talk
+34.
+6th International conference on cryptology and network security (CANS), 8.-10. Dec 2007, Singapore: Aspects
+of Practical Quantum Key Distribution Schemes, inv. talk
+35.
+Workshop on Theory and Realisation of Practical Quantum Key Distribution (TROPICAL QKD), 11.-14. June 
+2007, Waterloo (Canada): Spying on a quantum key distribution system through a timing side channel, poster
+36.
+Workshop on Theory and Realisation of Practical Quantum Key Distribution (TROPICAL QKD), 11.-14. June 
+2007, Waterloo (Canada): Free-space QKD with polarization-entangled photon pairs, inv. talk
+37.
+DAMOP 2007 meeting, 5.-9. June 2007, Calgary (Canada): Free-space QKD using polarization-entangled 
+photon pairs, inv. talk
+38.
+Eighth international conference on quantum communication, measurement and computation (QCMC2006) 28. 
+Nov-3. Dec 2006, Tsukuba, Japan: Joint spectrum mapping of polarization entanglement in parametric down 
+conversion, poster.
+39.
+Eighth international conference on quantum communication, measurement and computation (QCMC2006) 28. 
+Nov-3. Dec 2006, Tsukuba, Japan: Free-space quantum key distribution using polarization entangled photons, 
+contrib. talk
+40.
+Defence Technology Prize Exhibition '06, November 2006: Life demonstration of an entangled-photon based 
+QKD system in daylight conditions (experimental exhibit)
+41.
+ARDA-NIST Workshop Toward the Production of a Fast, Robust Source of Entangled Photons on Demand, 
+October 7-8, 2004: beacon-mode/beam-like twin photons, inv. talk
+42.
+Conference on Quantum Information and Quantum Control „Tools for experimental quantum 
+cryptography“,July 19-23, 2004, Toronto, Canada, inv. talk 
+43.
+2nd Asia-PAcific Workshop on Quantum Informtion Science, December 15-19, 2003: Experimental Quantum 
+Cryptography, inv talk
+44.
+Chaos Communication Congress (19C3) Berlin, December 27-30, 2003: Quantenkryptographie, inv. Talk
+45.
+European Research Conference „Quantum Atom Optics“ San Feliu, Spain, September 21-26, 2002:
+Long Distance Quantum Cryptography, inv. talk
+46.
+DPG-Tagung Osnabrück (2002): Freiraum-Quantenkryptographie, inv. talk
+47.
+Second European Comission QIPC workshop, 28.-31.October 2001, Torino, Italy: Free space quantum 
+cryptography,inv. talk
+48.
+The Second ESF Quantum Information Technologies Conference, Gdansk, Poland, July 10-18, 2001: Violation
+of a Bell's inequality with an entangled 4-photon state, inv. talk
+49.
+Coherence and Quantum Optics Conference CQOC8, Rochester, NY (USA), June 13-15, 2001: Experimental 
+Four Photon Entanglement, poster; Efficient collection of polarization-entangled photons on type-II 
+parametric down conversion, contrib. talk
+50.
+International Conference on quantum Information IQCI, Rochester, NY (USA), June 2001:Tools for practical 
+quantum cryptography, poster
+51.
+QUICK conference on Quantum interference and kryptographic keys, Cargese, Corsica/France, April 7-13, 
+2001: Tools for practical Quantum Cryptography, invited talk
+52.
+IQEC/CLEO-Europe, 12 - 14 September 2000, Nice (France): A Robust All-Solid Source for Single Photons, 
+contrib. talk
+53.
+DPG-Tagung Bonn (2000): Kompakte Quelle für einzelne Photonen, contrib. talk
+54.
+Current trends in Nano-optics, May 14-18, 2000 Physikzentrum, Bad Honnef, Germany: A robust all-solid-
+state source for single photon, poster
+55.
+MYSTERIES, PUZZLES AND PARADOXES IN QUANTUM MECHANICS Workshop on 
+ENTANGLEMENT AND DECOHERENCE,  Gargnano (Italy), 20-25 September 1999: Towards a quantum 
+
+-----
+computing experiment with Ba-137 ions, poster; Playing around with type-II parametric down conversion, 
+poster
+56.
+First Annual Workshop of the SquInT network, Albuquerque (USA), March 30 - May 2, 1999: Towards a 
+quantum computing experiment with 137Ba ions, poster 
+57.
+IQEC '98, San Francisco (USA): "Recent experimental results in using 137Ba in a  miniaturized ion trap for 
+quantum computation", poster
+58.
+Spring Meeting of the German Physical Society, Mainz, March 3.-6., 1997: "Vermessung der Wigner-Funktion 
+in einem Doppelspalt-Atominterferometer", contrib. talk.
+59.
+EQEC '96, Hamburg (Germany):  "Measurement of the Wigner Function of a Matter Wave Packet", contrib. 
+talk (1996);  "Coherent Excitation of a He* Beam Observed in Atomic Momentum Distributions", contrib. talk 
+(1996)
+60.
+IQEC '96, Sidney (Australia):  "Correlation measurements between atoms and photons on the single particle 
+level", inv. talk (1996);  "Excitation of a metastable He beam by adiabatic transfer", poster
+61.
+Workshop on atom interferometry, Cairns (Australia):  "Excitation of a metastable He beam by adiabatic 
+transfer", poster;  "Measurement of the Wigner function of a matter wave packet", poster (1996)
+62.
+DPG-Tagung Jena (Germany):  "Atom-photon correlations on a single particle level", contr. talk; "Excitation 
+of a metastable He beam by adiabatic transfer", poster
+63.
+Conference on Quantum interference, Trieste (Italy):  "A Heisenberg microscope for He* atoms", inv. talk 
+(1995)
+64.
+DPG-Tagung Innsbruck (Austria):  "A Heisenberg microscope for atoms", inv. talk (1995)
+65.
+CLEO/EQEC '94, Amsterdam (Netherlands):  "A detector for metastable rare gas atoms with high spatial and 
+temporal resolution", poster, (1994)
+66.
+New York Academy of Science: Fundamental Problems in Quantum Theory, Baltimore:  "A Heisenberg 
+microscope for Helium Atoms", inv. talk (1994)
+67.
+European Quantum Electronics Conference EQEC '93, Firenze (Italy):  "Experimental demonstration of a 
+magneto-optical beamsplitter", (1993)
+68.
+OSA-Meeting Toronto:  "A magneto-optical beamsplitter for atoms", inv. talk (1994)
+69.
+DPG-Tagung Berlin (Germany):  "Experimental realization of a magneto-optical beamsplitter", contrib. talk 
+(1993)
+70.
+European Research Conference on Quantum Optics, Davos (Switzerland): "Magneto-optical beamsplitter", 
+poster (1993)
+Seminars / Lectures
+1.
+Quantum Interface Fest at ICFO, Casteldefels, Spain, 28. June 2012: Single atom-photon interfaces with 
+strongly focused optical modes
+2.
+Lecture Block on at IAS Summer school of Physics, 28/29. May 2012, NTU Singapore: Atom-Light 
+interaction in the strong focusing regime
+3.
+Seminar at NIST Boulder, 10. May 2011: Interaction of photons in strongly focused modes with singe atoms
+4.
+Seminar at LMU Munich, Germany; 15. March 2010: Substantial scattering of photons by a Single Atom
+5.
+Sonderkolloquium Experimentelle Quantenoptik, 1.-2. March 2010, Universität Ulm, Germany: Strongly 
+focused optical fields - an alternative to cavity quantum electrodynamics?
+6.
+Workshop on Atom-Photon Interaction, 14. January 2010, ICFO Castelldefels, Spain: Substantial scattering of 
+Photons by a Single Atom in the Strong Focusing Regime
+7.
+Lecture block at the Les Houches Singapore summer school, July 2009 (together with A. Lamas-Linares): 
+Quantum optics devices
+
+-----
+8.
+Sonderkolloquium Physik-Department der Universität Freiburg, 26. June 2009, Freiburg i.Br., Germany: 
+Substantial scattering of photons by a single atom
+9.
+Lecture at the Asher Peres summer school: From Qubits to Black Holes, Chowder bay, Sydney, 17.-22. 
+November 2008: A taste of experimental quantum information techniques,and: Aspects of Quantum 
+Cryptography
+10.
+Lecture in QKD summer school: Information security in a Quantum World, Waterloo, Canada, 7.-11.August 
+2008: Some aspects of practical QKD systems
+11.
+Seminar in the Atomic and Optical Physics Group of NIST, Gaithersburg, 3.06.2008: Quantum crypto: E91, 
+attacks
+12.
+Defence Research & Development Seminar 2006, NTU Singapore, 23.05.2006: Free-Space Quantum Secret 
+Key distribution using polarization-entangled photons
+13.
+Seminar in the Atomic and Optical Physics Group of NIST, Gaithersburg, 23.01.2004: A free space 
+longdistance QKD experiment
+14.
+Seminar in the statistical physics group, 22.01.2003, Universität Regensburg: Experimentelle Freiraum-
+Quantenkryptographie
+15.
+Education for Physics teachers: Quantenmechanik: „Erfolgreiche experimentlle Bestätigungen und paradoxe 
+Interpretation“, Universität Bayreuth, 10. Oktober 2002: Quantenkryptographie und experimentelle 
+Quantenkommunikation
+16.
+Education for Physics teachers „Neues von Quanten“ am Physikzentrum Bad Honnef, 26.-30. August 2002: 
+Neue Experimente zu Quantenkryptographie
+17.
+Faculty colloquium Sektion Physik an der Ludwig-Maximilians-Universität München, 17. Juli 2002: 
+Experimentelle Quantenkommunikation
+18.
+Quantenforum am Institut für Physik der Universität Stuttgart, 16.05.2002: Quantenkommunikation mit 
+wenigen Photonen
+19.
+Quantum optics school for advanced students, April 2-12, Bonn (Germany): Quantum communication
+20.
+BSI NOSTACK workshop, 21.-23. January 2002, Weyberhöfe (Germany) : Free space quantum cryptography
+21.
+KOLLOQUIUM Quanten-Kommunikation, 10.-11.7.2000, Universität Erlangen-Nürnberg: 
+Quantenkommunikation mit einzelnen Photonen und Photonenpaaren
+22.
+Kolloquium of the SFB 'Control and measurement of coherent Quantum Systems',  17.3.2000, University of 
+Innsbruck: All solid-state single photon source.
+23.
+Los Alamos sessions of the Quantum technology seminar, May 25, 1999, Los Alamos: Towards quantum 
+computation in an ion trap - First experimental Raman cooling results with Ba-137
+24.
+Seminar des Optik-Zentrum Konstanz, 5.12.1996, Universität Konstanz: Experimente mit korrelierten Atom-
+Photon-Paaren
+Bibliometry
+Details under ResearcherID C-2849-2009. Numerics as of Sept 2015 according to ISI web of science:
+
+4765 citations, including about 4% self-citations
+
+over 43 citations per listed item
+
+h-index: 34
+Awards / Honors
+
+IPS World Scientific Medal (February 2013)
+
+Elected IPS fellow (May 2010)
+
+NUS Faculty of Science Teaching Award (Nov 2009)
+
+-----
+
+Named Dean's Chair in the Faculty of Science of NUS (July 2009)
+
+National Science Award Singapore 2008 (together with A. Lamas-Linares and V. Scarani) for „outstanding 
+theoretical and experimental studies on quantum entanglement” (specifically the violation of the Legget model 
+on nonlocal hidden variables)
+
+NUS Faculty of Science research award 2007
+
+Elected Fellow of the American Physical Society (2007)
+
+Phillip Morris Research Award 2003 (together with Harald Weinfurter) for the development of compact 
+modules for quantum cryptography
+Outreach
+
+Exhibition at Singapore X-pariment! 2015 with expeiments on single NV center magnetometry (July 2015)
+
+Exhibition at Singapore Mini Maker Faire 2014 and X-pariment! 2014 with expeiments on optical 
+spectroscopy of ambient light (July 2014)
+
+Enrichment sessiona at Anserson Junior College and Tampines JC (May 2014)
+
+Exhibition at Singapore Mini Maker Faire 2013 with expeiments on optical diffraction and entangled photons
+
+Exhibition of an experiment on Bell inequality violation with photon pairs with X-periment! 2010 exhibition in
+Marina Square Shopping Mall (30. Jul-1. Aug 2010)
+
+Singapore Amazing Machine Competition @Singapore Science Centre: Juror (22. August 2009)
+
+DEFCON17, 31.July-2.August 2009: Demonstration of a Bell inequality violation and the hacking of a QKD 
+system (experimental exhibition)
+
+Exhibition at the Singapore Science Centre (15.-31.March 2009)
+
+Offer and judging of special research projects for secondary school students (SRP)
+
+National Junior Robotics competition 2006: Juror (Sept. 2006)
+
+Physics Enrichment Camp 2006: Quantum computing or quantum information or How a funky theory may 
+affect how we calculate things in the future (May 29-June 1, 2006, Nat. Univ. Singapore)
+
+Physics Enrichment Camp 2005: Quantum computing or quantum information: Concepts, hopes, and 
+promises - and what we can do at the moment (May 30-June 2, 2005, Nat. Univ. Singapore)
+
+Exhibition of an entangled photon pair source for quantum cryptography in the framework of the Infocomm 
+Technology Foresight symposium organized by IDA (March 8, 2005, Raffles City Hotel, Singapore)
+
+IDA symposium on Quantum Cryptography: Seminar to Industrial and academic representatives :Quantum 
+cryptography: Status and Updates, (22. September 2004, National University of Singapore)
+
+Exhibition of an experiment on Interference and the Speed of light in the context of the X-periment '04 
+exhibition in Suntec City Mall (3.-5. September 2004)
+
+-----
+Teaching activities
+Universität Konstanz
+
+Beginners lab course tutorial for science students
+
+Tutorials in atom and molecular physics
+
+Tutorials in classical optics (for final exam topics)
+
+Tutorials in theoretical electrodynamics
+
+Supervision of diploma stdents
+Universität München
+
+Beginners lab course for science students
+
+Design, setup and suervision of an advanced opics lab experiment on Gaussian optics
+
+Tutorials in experimental physics: optics, atom- and molecular physics
+
+Tutorials in theoretical mechanics, exam preparation & correction
+
+Tutorials in quantum mechanics, exam preparation & correction
+
+Tutorials in classical electrodynamics, exam preparation & correction
+
+Student seminar on quantum information and -communication
+
+together with H. Weinfurter: lecture „Experimentelle Quantenoptik“
+
+Supervision of diploma- and PhD students
+
+Student seminar on quantum computation
+National University of Singapore
+
+Supervisor in 3rd year lab
+
+Supervision of honors, masters and graduate students in experimental quantum optics
+
+Lecture and Tutorials for honours year module PC4246 (Quantum Optics)
+
+Lecture and Tutorials for honours year module PC4243 (Atomic and Molecular Physics II)
+
+Formulation and Supervision of various (6) undergraduate research projects (UROPS) 
+
+Supervision of a independent studies module on Bose-Einstein Condensation
+
+Graduate module design and lecture/labs on basic experimental techniques (PC5214)
+
+Graduate module supervisor for QT5201B (formalized assessment for Les Houches summer school attendees)
+
+Special Programme in Science module supervisor (SPS2172) on stellar interferometry
+
+Graduate module coordinator for QT5201I (BREAKTHROUGH TECHNIQUES IN ATOMIC AND MANY-
+BODY PHYSICS)
+
+Special Programme in Science module supervisor (SPS2172) on sonoluminescence
+
+Lecture for 2nd year undergraduate module PC2132 (Classical Mechanics)
+
+-----
+Research Grants
+Universität München
+
+SFB 631 (Festkörperbasierte Quanteninformationsverarbeitung: Physikalische Konzepte und Materialaspekte / 
+Solid State Based Quantum Information Processing: Physical Concepts and Materials Aspects): 
+Einzelphotonenbquellen für Quantenkommunikation und Quantencomputer (role: Co-PI)
+
+Landesschwerpunkt (A8 - Quanteninformation): Mehrteilchen- und Mehrzustands-Quantenkryptographie 
+(role: Co-PI)
+National University of Singapore
+
+Experimental quantum communication (Nat. Univ. Singapore Acad. Research Fund, granted: S$176,000, role: 
+PI)
+
+Quantum Key Distribution Research (Defence Science and Technology Agency, granted: S$399,000, role: PI)
+
+Characterization of Quantum Dots for Quantum Information Processing (NUS ARF, granted: S$178,000, role: 
+PI)
+
+Reference-Free quantum communication (ASTAR/SERC, granted: S$769,000, role: PI)
+
+Light sources for Quantum Interfaces (NUS ARF, granted: S$86,000, role: PI)
+
+Multiphoton state preparation and characterization (NUS ARF, granted: S$106,600; role: Co-PI)
+
+Initiating member of the Centre for Quantum Technologies, an RCE in Singapore, funded by the National 
+Research Foundation and the Ministry of Education in Singapore (total grant sum S$158M over 5-10 years)
+
+Principal investigator at CQT with several projects on quantum information, focused in quantum optics and 
+elementary atom-light interaction and quantum interfaces (core funding of about S$1.3M/yr for the quantum 
+optics group as PI, or Co-PI together with Asst/P Antia Lamas-Linares)
+
+Partner in the EU 7th framework proposal cluster AQUTE with a project on cavityless atom-photon coupling
+
+Randomness from quantum processes (MoE Tier-3 grant, Co-PI, granted about S$9.8M)
+
+DSO grant on magnetometry (about S$280k, PI)
+
+Hybrid Quantum Technologies (NRF Competitive Research Programme round 12, PI, granted: S$4.3M TPV, 
+with 3 Co-PI)
+
+-----
+Academic service
+Universität Konstanz
+
+Mittelbauervertreter im Fakultätsrat
+National University of Singapore
+
+Panel member in Technology scan group "Nanotechnology" for the Singapore Infocom Development Agency 
+(IDA) roadmap
+
+Member in the Physics Department Strategic Plannig Committee
+
+Undergraduate / graduate curriculum committee member at NUS
+
+Member in outreach committee / workshop committee in the NUS Physics Department
+
+Member of curriculum committee at NUS Physics Dept
+
+Member of various search committees for faculty hiring in the NUS Physics Department
+
+Chair of the welfare committee at NUS Physics Dept
+
+Research representative for building infrastructure of the Research Center of Excellence in Quantum 
+Technologies and chair of space allocation committee
+
+Member of standing search committee for faculty recruitment at the Centre for Quantum Technologies
+
+Member of graduate studies committee in the Department of Physics at NUS
+
+Member of the graduate studies committee at the Centre for Quantum Technologies
+
+Chair of experimental infrastructure committee at the Centre for Quantum Technologies
+
+Member of the Faculty Promotion and Tenure committee (senior) at the Science Faculty, NUS
+
+Chairman Workshop committee of the Physics Department, NUS
+Other academic activities
+
+Peer reviewer for various Journals (Nature, Nature Physics, Nature Photonics,  Phys. Rev. Lett, PRA, Opt. 
+Comm., NJP, APL, Appl. Phys. B, several physics journals published by Word Scientific, JMO, Optics 
+Express)
+
+Grant proposal review for national, regional and university research funds in Canada, US and Europe
+
+Grant proposal reviewer for research networks supported by VDI/BMBF (Association of German 
+engineers/Ministry for technology and research), Germany
+
+Review for Marie Curie and ERC grants of the European Union
+
+Council member (ongoing) and treasurer (2007-2008) of the Institute of Physics Singapore
+
+External thesis examiner for graduate students (Germany, Australia, S Africa, Spain)
+
+Initiator and chairman of the annual meetings of the Institute of Physics in Singapore
+
+-----

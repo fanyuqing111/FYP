@@ -1,0 +1,57 @@
+Abstract 
+Recent two decades have witnessed the burgeoning development of quantum dot 
+(QD)-based light-emitting diodes (QLEDs) since its first demonstration in 1994. 
+It has been regarded as one of the next-generation lighting and display 
+technologies, mainly due to the testified extraordinary advantages such as tunable 
+wavelength across the whole visible spectrum, narrow full-width at half-
+maximum (FWHM), superior colour saturation feature and economical 
+manufacture accessibility. Although tremendous achievements in this research 
+area have been made especially in these two to three years, which prove its 
+comparable performance with organic LEDs (OLEDs), there still remain some 
+deficiencies yet to be solved. This thesis will focus on the following topics 
+regarding to the replacement of organic layer, the manipulation of carrier 
+injection balance and the realization of full-inorganic prototype QLEDs. 
+Two inorganic materials, sol-gel prepared copper oxide (CuO) and 
+commercially-available copper thiocyanate (CuSCN) were utilized as the 
+replacements 
+for 
+polyethylene 
+dioxythiophene: 
+polystyrene 
+sulfonate 
+(PEDOT:PSS), respectively. For CuO-based QLED, the operation lifetime is 
+enhanced due to the introduction of inorganic hole injection material, while the 
+device performance is comparable with PEDOT:PSS-based ones. Furthermore, 
+an inorganic CuSCN with simpler preparation method was applied, and the turn-
+on voltage of the corresponding QLED was dramatically decreased due to the 
+better energy band alignment of CuSCN than PEDOT:PSS with comparable 
+device performance. 
+Meanwhile, a novel cathode interfacial material (CIM) was introduced to 
+improve the QLED performance by modulating the charge balance. With its 
+promising electron transport behaviour and low processing temperature, the 
+resultant devices demonstrate better features in terms of EQE, current (CE) and 
+power efficiencies (PE). Furthermore, by incorporating this CIM with traditional 
+LiF together as the cathode buffering layers, the corresponding device showed 
+superior performance, which could be attributed to the better energy band 
+alignment and more balanced charge injection due to the reduced barrier for 
+electron injection from cathode.  
+
+-----
+Moreover, in order to further promote the stability of QLEDs, a series of all 
+inorganic QLEDs with multiple emission wavelengths were proposed with 
+specific design philosophy. By the insertion of thin lithium fluoride (LiF) as the 
+insulating as well as buffering layer, the QD charging and carrier imbalance were 
+suppressed in the working device, resulting in improved performance with an 
+external quantum efficiency of 3.05% and a maximum brightness over 10,000 
+cd/m2, which are among the best reported values to the best of our knowledge. 
+To sum up, this thesis mainly addresses three aspects of the current deficiencies 
+in QLEDs. Two alternative inorganic materials have been introduced as the hole 
+injection material for substituting PEDOT:PSS, resulting in improved device 
+operation lifetime and lower turn-on voltage; On the other hand, a surpassing 
+charge balance was achieved by the manipulation of  cathode buffering layers, 
+demonstrating the feasibility of the CIM in improving the device performance; 
+Furthermore, all inorganic QLEDs with the reported highest performance so far 
+were systematically fabricated with proper device engineering. We believe that 
+our results could make contributions to the development and growth of QLEDs. 
+
+-----

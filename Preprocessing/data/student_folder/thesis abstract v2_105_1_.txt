@@ -1,0 +1,42 @@
+Title 
+High Throughput VLSI Architecture for Gradient Guided Filter with Approximated 
+Arithmetic Operations 
+ 
+Abstract 
+Guided image filtering has been applied widely for increasing demand of high 
+performance filtering, especially for real-time image/video processing. Gradient guided 
+filter improves the filtering quality, reducing the halo-artifacts problem due to its edge-
+aware characteristics. However, the gradient guided filter algorithm has high 
+computation complexity and the computation that involves global pixel, which hinder 
+its VLSI implementation for real-time full-HD application. This work addresses the 
+above issues and a VLSI architecture is proposed for the gradient guided image filter. 
+Subsampling technique is adopted in different stages to reduce computation cost in 
+terms of circuit size, processing speed and power consumption. The output stage uses 
+parallel processing to restore the image to its full-HD size and to achieve high 
+throughput. In addition, the intensive arithmetic computation modules that dominate 
+the critical path delay have been redesigned by adequate approximated operations. 
+Specifically, non-iterative dividers are introduced to replace original dividers for 
+reducing delays in critical paths, at the cost of size and accuracy. With the proposed 
+non-iterative division, the division result is modeled as a normalized curved surface for 
+further approximation after partitioning. Curve fitting method and mixed integer linear 
+programming method are adopted and evaluated for local optimization of the 
+approximation errors. In this way, the dividers are implemented with only simple 
+arithmetic operations and look-up tables. Another intensive computation, the 
+exponentiation function, is also simplified by piecewise linear approximation, and 
+implemented with only shifters and adder trees. As such, the approximated 
+computations are used to improve the computation performance and simplify the 
+designs of the complex arithmetic modules. The trade-offs for the individual modules 
+and the overall architecture are analyzed and evaluated for different design decisions. 
+Based on STM 90nm CMOS technology, the synthesis result shows the proposed VLSI 
+architecture for the gradient guided image filter is able to support Full-HD image 
+filtering at a throughput above 60 frame/s, achieving high throughput, small size and 
+low power consumption comparing to the existing VLSI design for the original guided 
+image filtering. 
+ 
+This thesis describes the proposed VLSI architecture, the details of its design, the 
+designs of the non-iterative dividers and the design of the piecewise linear 
+approximated exponential function. The analysis of the impact of the approximations 
+on the filtering results and the performance comparisons of the proposed designs and 
+the existing designs are included. 
+
+-----

@@ -1,0 +1,25 @@
+Video Anomaly Detection using
+Unsupervised Deep Learning Methods
+YAN MENGJIA
+Supervisor: Yuan Junsong
+Abstract
+Video anomaly detection has played a significant role in computer vision tasks and video
+surveillance tasks. To detect anomalies in videos we need to address two problems: 1) anoma-
+lies are difficult to define, different situations have different anomalies, and 2) the limited
+anomaly samples: abnormal events and behaviors are unusual temporal or spatiotemporal parts
+of videos. To address the above challenges and reduce the computational and memory cost, in
+this thesis, we propose unsupervised deep learning and end-to-end methods for temporal and
+spatiotemporal anomaly detection, respectively.
+For temporal anomaly detection, we formulate it as fake data detection via the discrimi-
+native framework of a designed 3D-GAN. This new formulation only employs normal videos
+during the training phase and detects anomalies according to the deviation estimated by the
+discriminator of 3D-GAN. For spatiotemporal anomaly detection, we design a 3D fully convo-
+lutional autoencoder that is trainable in an end-to-end manner to learn the spatiotemporal repre-
+sentation of normal visual patterns and how to reconstruct them with low errors. Subsequently,
+spatiotemporal patterns can be detected as blurry regions that are not well reconstructed. We
+evaluate the proposed methods for detecting abnormal patterns on benchmark video datasets.
+Compared with state-of-the-art approaches, experiment results demonstrate the effectiveness of
+our methods.
+1
+
+-----

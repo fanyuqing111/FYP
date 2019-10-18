@@ -1,0 +1,328 @@
+Search
+Sources
+Alerts
+Lists
+Help
+SciVal ↗
+Author details
+Lim, Sungkyu 
+Georgia Institute of Technology, School of 
+Electrical and Computer Engineering, Atlanta, 
+United States 
+Author ID: 7404077198
+Other name formats: Lim, S. K.
+Lim, Sung Kyu
+Lim, Sung K.
+About Scopus Author Identifier | View potential author matches 
+Documents:
+Analyze author output
+Citations:
+View citation overview
+h-index: 
+View h-graph
+Co-authors:
+Subject area:
+View docum
+View docum
+View docum
+Follow this Author
+Receive emails when this author 
+publishes new articles
+Get citation alerts 
+Add to ORCID
+Request author detail corrections
+Author History 
+Publication range: 1997 - Present 
+References: 2260
+Source history:
+IEEE Transactions on Circuits and Systems II: Express B
+Proceedings of the International Symposium on Physical 
+Design
+IEEE Design and Test
+View More 
+Show Related Affiliations
+Print |
+E-mail 
+255 
+3245 total citations by 1978 documents 
+32 
+150 (maximum 150 co-authors can be displayed) 
+Engineering ,  Computer Science View More
+255 documents
+Export all |
+Add all to list
+|
+Set document alert |
+Set document feed 
+255 Documents | Cited by 1978 documents | 150 co-authors
+View all in search results format 
+Sort on: Date Cited by
+...
+Improving performance under process and voltage 
+variations in near-threshold computing using 3D ICs
+Samal, S.K., Chen, G., 
+Lim, S.K. 
+2017 ACM Journal on 
+Emerging Technologies 
+in Computing Systems 
+View at Publisher
+Parasitic extraction for heterogeneous face-to-face 
+bonded 3-D ICs
+Peng, Y., Song, T., 
+Petranovic, D., Lim, 
+S.K. 
+2017 IEEE Transactions on 
+Components, Packaging 
+and Manufacturing 
+Technology 
+View at Publisher
+Full Chip Impact Study of Power Delivery Network 
+Designs in Gate-Level Monolithic 3-D ICs
+Samal, S.K., Samadi, 
+K., Kamal, P., Du, Y., 
+Lim, S.K. 
+2017 IEEE Transactions on 
+Computer-Aided Design 
+of Integrated Circuits 
+and Systems 
+View at Publisher
+Residual stress and pop-out simulation for TSVs and 
+contacts in via-middle process
+Rao, C., Wang, T., 
+Peng, Y., (...), Lim, 
+S.K., Lu, X. 
+2017 IEEE Transactions on 
+Semiconductor 
+Manufacturing 
+View at Publisher
+Impact and Design Guideline of Monolithic 3-D IC at the 
+7-nm Technology Node
+Chang, K., Acharya, K., 
+Sinha, S., (...), Yeric, 
+G., Lim, S.K. 
+2017 IEEE Transactions on 
+Very Large Scale 
+Integration (VLSI) 
+Systems 
+Article in Press
+View at Publisher
+Design Methodologies for Low-Power 3-D ICs With 
+Advanced Tier Partitioning
+Jung, M., Song, T., 
+Peng, Y., Lim, S.K. 
+2017 IEEE Transactions on 
+Very Large Scale 
+Integration (VLSI) 
+Systems 
+Article in Press
+View at Publisher
+More Power Reduction With 3-Tier Logic-on-Logic 3-D 
+ICs
+Song, T., Panth, S., 
+Chae, Y.-J., Lim, S.K. 
+2016 IEEE Transactions on 
+Computer-Aided Design 
+of Integrated Circuits 
+and Systems 
+View at Publisher
+Tier partitioning strategy to mitigate BEOL degradation 
+and cost issues in monolithic 3D ICs
+Samal, S.K., Nayak, 
+D., Ichihashi, M., 
+Banna, S., Lim, S.K. 
+2016 IEEE/ACM International 
+Conference on 
+Computer-Aided Design, 
+Digest of Technical 
+Papers, ICCAD 
+View at Publisher
+0
+0
+0
+0
+0
+0
+0
+1
+Years
+Documents
+Documents
+Citations
+Citations
+2007
+2017
+0
+35
+Register
+Login
+Page 1 of 3
+Scopus - Author details (Lim, Sungkyu)
+9/8/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7404077198
+
+-----
+The data displayed above is compiled exclusively from articles published in the Scopus database. To request corrections to any inaccuracies or provide any further feedback, please contact us (registration required). 
+The data displayed above is subject to the privacy conditions contained in the privacy policy . 
+Top of page 
+Display: 
+results per page
+Page 1
+How much cost reduction justifies the adoption of 
+monolithic 3D ICs at 7nm node?
+Ku, B.W., Debacker, 
+P., Milojevic, D., 
+Raghavan, P., Lim, 
+S.K. 
+2016 IEEE/ACM International 
+Conference on 
+Computer-Aided Design, 
+Digest of Technical 
+Papers, ICCAD 
+View at Publisher
+Cascade2D: A design-aware partitioning approach to 
+monolithic 3D IC with 2D commercial tools
+Chang, K., Sinha, S., 
+Cline, B., (...), Yeric, 
+G., Lim, S.K. 
+2016 IEEE/ACM International 
+Conference on 
+Computer-Aided Design, 
+Digest of Technical 
+Papers, ICCAD 
+View at Publisher
+Adaptive Regression-Based Thermal Modeling and 
+Optimization for Monolithic 3-D ICs
+Samal, S.K., Panth, S., 
+Samadi, K., (...), Du, 
+Y., Lim, S.K. 
+2016 IEEE Transactions on 
+Computer-Aided Design 
+of Integrated Circuits 
+and Systems 
+View at Publisher
+Match-making for monolithic 3D IC: Finding the right 
+technology node
+Chang, K., Sinha, S., 
+Cline, B., Yeric, G., 
+Lim, S.K. 
+2016 Proceedings - Design 
+Automation Conference 
+View at Publisher
+Impact of transistor technology on power savings in 
+monolithic 3D ICs
+Samal, S.K., Nayak, 
+D.K., Ichihashi, M., 
+Banna, S., Lim, S.K. 
+2016 2016 International 
+Symposium on VLSI 
+Technology, Systems 
+and Application, VLSI-
+TSA 2016 
+View at Publisher
+Monolithic 3D IC design: Power, performance, and area 
+impact at 7nm
+Acharya, K., Chang, K., 
+Ku, B.W., (...), Yeric, 
+G., Lim, S.K. 
+2016 Proceedings - 
+International Symposium 
+on Quality Electronic 
+Design, ISQED 
+View at Publisher
+Fast bidirectional shortest path on GPU
+Tangjittaweechai, L., 
+Ekpanyapong, M., 
+Watewai, T., (...), Lim, 
+S.K., Tavares, A. 
+2016 IEICE Electronics 
+Express 
+View at Publisher
+Three-tier 3D ICs for more power reduction: Strategies in 
+CAD, design, and bonding selection
+Song, T., Panth, S., 
+Chae, Y.-J., Lim, S.K. 
+2016 2015 IEEE/ACM 
+International Conference 
+on Computer-Aided 
+Design, ICCAD 2015 
+View at Publisher
+A novel entropy production based full-chip TSV fatigue 
+analysis
+Wang, T., Samal, S.K., 
+Lim, S.K., Shi, Y. 
+2016 2015 IEEE/ACM 
+International Conference 
+on Computer-Aided 
+Design, ICCAD 2015 
+View at Publisher
+Full-chip inter-die parasitic extraction in face-to-face-
+bonded 3D ICs
+Peng, Y., Song, T., 
+Petranovic, D., Lim, 
+S.K. 
+2016 2015 IEEE/ACM 
+International Conference 
+on Computer-Aided 
+Design, ICCAD 2015 
+View at Publisher
+Multi-TSV and E-Field Sharing Aware Full-chip Extraction 
+and Mitigation of TSV-To-Wire Coupling
+Peng, Y., Petranovic, 
+D., Lim, S.K. 
+2015 IEEE Transactions on 
+Computer-Aided Design 
+of Integrated Circuits 
+and Systems 
+View at Publisher
+On diagnosable and tunable 3D clock network design for 
+lifetime reliability enhancement
+Jiang, L., Pang, P., 
+Jing, N., (...), Liang, X., 
+Xu, Q. 
+2015 Proceedings - 
+International Test 
+Conference 
+View at Publisher
+0
+0
+1
+1
+0
+1
+0
+3
+1
+1
+0
+0
+20
+Page 2 of 3
+Scopus - Author details (Lim, Sungkyu)
+9/8/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7404077198
+
+-----
+About Scopus
+What is Scopus
+Content coverage
+Scopus blog
+Scopus API
+Privacy matters
+Language
+日本語に切り替える
+切换到简体中文
+切換到繁體中文
+Русский язык
+Customer Service
+Help
+Contact us
+Terms and conditions
+Privacy policy
+Copyright © 2017 Elsevier B.V. All rights reserved. Scopus® is a registered trademark of Elsevier B.V.
+Cookies are set by this site. To decline them or learn more, visit our Cookies page.
+Page 3 of 3
+Scopus - Author details (Lim, Sungkyu)
+9/8/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7404077198
+
+-----

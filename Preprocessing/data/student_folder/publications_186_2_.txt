@@ -1,0 +1,68 @@
+List of Publications 
+ 
+Journals: 
+1) Partha P. Biswas, P. N. Suganthan, and Gehan AJ Amaratunga. "Optimal power flow 
+solutions incorporating stochastic wind and solar power." Energy Conversion and 
+Management 148 (2017): 1194-1207. 
+2) Partha P. Biswas, P. N. Suganthan, R. Mallipeddi, and Gehan AJ Amaratunga. "Optimal 
+power flow solutions using differential evolution algorithm integrated with effective 
+constraint handling techniques." Engineering Applications of Artificial Intelligence 68 
+(2018): 81-100. 
+3) Partha P. Biswas, P. N. Suganthan, B. Y. Qu, and Gehan AJ Amaratunga. 
+"Multiobjective economic-environmental power dispatch with stochastic wind-solar-
+small hydro power." Energy 150 (2018): 1039-1057. 
+4) Partha P. Biswas, R. Mallipeddi, P. N. Suganthan, and Gehan AJ Amaratunga. "A 
+multiobjective approach for optimal placement and sizing of distributed generators and 
+capacitors in distribution network." Applied Soft Computing 60 (2017): 268-280 
+5) Partha P. Biswas, P. N. Suganthan, and Gehan AJ Amaratunga. "Decomposition based 
+multi-objective evolutionary algorithm for windfarm layout optimization." Renewable 
+Energy 115 (2018): 326-337. 
+6) Partha P. Biswas, P. N. Suganthan, and Gehan AJ Amaratunga. "Minimizing Harmonic 
+Distortion in Power System with Optimal Design of Hybrid Active Power Filter using 
+Differential Evolution." Applied Soft Computing 61 (2017): 486-496. 
+ 
+ Conferences: 
+1) Partha P. Biswas, P. N. Suganthan, and Gehan AJ Amaratunga. "Optimal placement of 
+wind turbines in a windfarm using L-SHADE algorithm." In Evolutionary Computation 
+(CEC), 2017 IEEE Congress on, pp. 83-88. IEEE 2017. 
+2) Partha P. Biswas, Noor H. Awad, P. N. Suganthan, Mostafa Z. Ali, and Gehan AJ 
+Amaratunga. "Minimizing THD of multilevel inverters with optimal values of DC 
+voltages and switching angles using LSHADE-EpSin algorithm." In Evolutionary 
+Computation (CEC), 2017 IEEE Congress on, pp. 77-82. IEEE 2017. 
+3) Partha P. Biswas, P. N. Suganthan, and Gehan AJ Amaratunga. "Optimization of Wind 
+Turbine Rotor Diameters and Hub Heights in a Windfarm Using Differential Evolution 
+Algorithm." Proceedings of Sixth International Conference on Soft Computing for 
+Problem Solving. Springer, Singapore, 2017. 
+4) Partha P. Biswas, R. Mallipeddi, P.N. Suganthan, and Gehan AJ Amaratunga. "Optimal 
+reconfiguration and distributed generator allocation in distribution network using an 
+advanced adaptive differential evolution." Computational Intelligence (SSCI), 2017 
+IEEE Symposium Series on. IEEE, 2017. 
+
+-----
+5) Partha P. Biswas, P. N. Suganthan, and Gehan AJ Amaratunga. "Distribution network 
+reconfiguration together with distributed generator and shunt capacitor allocation for loss 
+minimization." IEEE World Congress on Computational Intelligence, IEEE, 2018 
+(accepted). 
+6) Partha P. Biswas, P. N. Suganthan, and Gehan AJ Amaratunga. " Optimal power flow 
+solutions using population reduction technique of success history based adaptive 
+differential evolution algorithm." IEEE World Congress on Computational Intelligence, 
+IEEE, 2018 (accepted). 
+ 
+Unpublished / Under review manuscripts: 
+1) Partha P. Biswas, P. N. Suganthan, R. Mallipeddi, and Gehan AJ Amaratunga. "Multi-
+objective optimal power flow solutions with an effective constraint handling technique." 
+Electric Power Systems Research, submitted. 
+2) Partha P. Biswas, P. N. Suganthan, R. Mallipeddi, and Gehan AJ Amaratunga. "Optimal 
+reactive power dispatch with uncertainties in load demand and solar power." Applied Soft 
+Computing, submitted. 
+3) Partha P. Biswas, P. N. Suganthan, R. Mallipeddi, and Gehan AJ Amaratunga. "Optimal 
+power flow study of a wind integrated electrical network with optimum placement and 
+sizing of FACTS devices." Applied Soft Computing, submitted. 
+4) Partha P. Biswas, P. N. Suganthan, G. Wu, and Gehan AJ Amaratunga. " Parameter 
+estimation of solar cells using datasheet information with an adaptive differential 
+evolution algorithm." Renewable Energy, submitted. 
+5) Partha P. Biswas, and P. N. Suganthan. "Multi-objective evolutionary optimization." 
+Wiley Encyclopedia of Electrical and Electronics Engineering, submitted. 
+ 
+
+-----

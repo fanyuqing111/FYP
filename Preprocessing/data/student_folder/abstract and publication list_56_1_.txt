@@ -1,0 +1,59 @@
+Abstract  
+Developing efficient evolutionary algorithms attracts many researchers due to the fact that 
+numerous real-world applications can be stated as optimization problems. Hence, many 
+evolutionary algorithms were successfully developed to handle the challenges in solving 
+optimization problems with complex landscapes. Differential evolution is one of the efficient 
+and powerful evolutionary algorithms for solving complex optimization problems with diverse 
+characteristics. In this research, we study differential evolution variants that can be successfully 
+applied to solve numerical optimization problems, and develop new efficient differential 
+evolution algorithms. The main objective is to develop new improved differential evolution 
+algorithms which are able to solve challenging optimization problems efficiently when 
+compared to other existing state-of-the-art algorithms. We develop new improved differential 
+evolution algorithms by introducing new ideas such as: hybridizations that combine the 
+strengths of different canonical algorithms, proposed new ensemble control parameter settings 
+and an improved crossover strategy that is used to build a suitable coordinate system during 
+the search. To validate the performance of the developed algorithms, different challenging test 
+suites from the recently developed IEEE-CEC benchmarks were used. Those benchmarks are 
+among the widely used benchmarks which have attracted many researchers to use for testing 
+their developed algorithms. Each of them constitutes problems that are tested on different 
+dimensionalities with a various set of problem features and characteristics, including 
+ruggedness, noise in fitness, multimodality, ill-conditioning, interdependence and non-
+separability. Moreover, a variety of real-world optimization problems taken from diverse fields 
+are used as well. The results statistically affirm the efficiency of the proposed approaches to 
+obtain better results compared to state-of-the-art algorithms from the literature.  
+ 
+ 
+ 
+ 
+ 
+
+-----
+List of publications: 
+1. Noor H. Awad, Mostafa Z. Ali, Rammohan Mallipeddi, Ponnuthurai N. Suganthan, 
+An Improved Differential Evolution Algorithm using Efficient Adapted Surrogate 
+Model for Numerical Optimization. Inf. Sci, vols. 451–452, pp. 326-347, 2018.  
+2. Noor H. Awad, Mostafa Z. Ali, Ponnuthurai N. Suganthan, Ensemble of parameters in 
+a sinusoidal differential evolution with niching-based population reduction, Swarm 
+and Evolutionary Computation, vol. 39, pp. 141-156, 2017.  
+3. Noor H. Awad, Mostafa Z. Ali, Ponnuthurai N. Suganthan, Edward Jaser, A 
+decremental stochastic fractal differential evolution for global numerical optimization, 
+Inf. Sci., vol. 372, pp. 470-491, 2016.  
+4. Noor H. Awad, Mostafa Z. Ali, Ponnuthurai N. Suganthan, Ensemble sinusoidal 
+differential covariance matrix adaptation with Euclidean neighborhood for solving 
+CEC2017 benchmark problems, in Proc. IEEE Congr. Evol. Comput., CEC 2017, pp. 
+372-379.  
+5. Noor H. Awad, Mostafa Z. Ali, Ponnuthurai N. Suganthan, Robert G. Reynolds, Ali 
+M. Shatnawi, A novel differential crossover strategy based on covariance matrix 
+learning with Euclidean neighborhood for solving real-world problems, in Proc. IEEE 
+Congr. Evol. Comput., CEC 2017, pp. 380-386 
+6. Noor H. Awad, Mostafa Z. Ali, Ponnuthurai N. Suganthan, Robert G. Reynolds, An 
+ensemble sinusoidal parameter adaptation incorporated with L-SHADE for solving 
+CEC2014 benchmark problems, in Proc. IEEE Congr. Evol. Comput., CEC 2016, pp. 
+2958-2965.  
+7. Noor H. Awad, Mostafa Z. Ali, Ponnuthurai N. Suganthan, Edward Jaser, Differential 
+evolution with stochastic fractal search algorithm for global numerical optimization, 
+in Proc. IEEE Congr. Evol. Comput., CEC 2016, pp. 3154-3161. 
+ 
+ 
+
+-----

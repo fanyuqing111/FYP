@@ -1,0 +1,44 @@
+Microcoils for NMR microprobes with 
+improved SNR 
+Miniaturisation of NMR probes has been the latest trend which allows portability and analysis of the chemical 
+composition of minute (nL-μL) volumes of sample. NMR experiments typically require that such probes are 
+used in external setups with very strong DC magnetic field and external detector circuits. A critical aspect for 
+the success of such an experiment is to ensure a high signal-to-noise ratio (SNR). However, the resulting value 
+of the SNR delivered by a miniature probe has a complicated dependence on both the external measurement 
+setup, chemical composition of the sample and the probe design. For probe designers there are no clear 
+guidelines to suggest how a given probe will behave under any external measurement setup or chemical 
+composition of the sample under test, or which design factors can be modified to optimize the probe’s SNR. 
+In this thesis, we first begin with formulating a clear guideline on how to design such a microprobe from an 
+electronic engineering perspective. We considered that both the radiofrequency (RF) magnetic field generator 
+and detector is a planar microcoil embedded in silicon with a sample holder on top of it. Detailed 
+electromagnetic simulations of microcoil structures and sample holders revealed the effects of different 
+parameters that may affect the SNR. This analysis led us to the introduction/definition of a totally original and 
+novel parameter: the performance parameter P, whose maximization (by changing a microprobe’s design) 
+optimizes the resultant SNR in any external setup. Several microcoils of ‘large’ and ‘small’ dimensions 
+(depending on the size of the overall surface area covered by the respective microcoils) as well as of different 
+aspect ratios of the conductor have been simulated in detail and the performance factor P was calculated in 
+each case.  
+Next, these coils were fabricated in a high resistivity silicon wafer through electrodeposition of copper inside 
+DRIE trenches initially etched into the substrate. However, post-DRIE scallops posed a severe problem for the 
+continuous deposition of the Cu seed layer in the subsequent step. Hence, an inventive trench wall 
+planarization process has been developed that significantly reduced (with 80%!) the roughness of trench walls, 
+enabling the subsequent seed layer deposition without any problems. 
+The copper electroplating process also had to be optimized using an orthogonal design of experiments (DOE) 
+which determined the deposition parameters necessary to fill the realized trenches without voids. Different 
+optimizations had to be carried out for copper filling of small (trench 7 m wide) and large (trench 25 m 
+wide) trenches as initial I-V measurements revealed a very high resistance that was ultimately found to had 
+been caused by voids inside the filled trenches. For these first batch of coils a novel wet etching technique 
+using sodium persulphate was developed, optimized using another set of orthogonal DOE, to remove the 
+excess Cu overburden post CMP. However, although this method resulted in a fast etch rate, it also exhibited 
+high etching non-uniformity. Moreover, when used on actual device wafers it also unpredictably and non-
+uniformly etched the Cu inside the trenches wherever the etchant was able to seep in through the cracks and 
+voids of the copper layer  
+For the second batch of coils which consisted of different aspect ratios viz 1:3, 1:1 and 3:1 progressive 
+electroplating followed by CMP (for which recipe was again developed) was used for excess copper removal. 
+However, finally a combined CMP + short persulfate dip process was adopted to ensure good planarization and 
+removal of excess copper. 
+These coils were tested under probe station for IV characteristics as well as under low frequency Q values 
+were measured. Furthermore, magnetic field from these coils were also measured and compared with the 
+simulated results. 
+
+-----

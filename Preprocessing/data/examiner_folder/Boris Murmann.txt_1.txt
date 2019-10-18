@@ -1,0 +1,901 @@
+1 of 19 
+Curriculum Vitae 
+Boris Murmann  
+May 31, 2017 
+ 
+Boris Murmann is a Professor of Electrical Engineering at Stanford University. He 
+joined Stanford in 2004 after completing his Ph.D. degree in electrical engineering at 
+the University of California, Berkeley in 2003. He is a Fellow of the IEEE. 
+ 
+ 
+EMPLOMENT 
+1994 to 1997: he was with Neutron Microelectronics, Germany, where he developed 
+low-power and smart-power ASICs in automotive CMOS technology.  
+2004-2007: he has worked as a consultant with numerous Silicon Valley companies. 
+Dr. Murmann’s research interests are in mixed-signal integrated circuit design, with 
+special emphasis on sensor interfaces, data converters and custom circuits for 
+statistical inference.  
+ 
+ 
+AWARDS & PROFESSIONAL COMMITTEES 
+2008 he was a co-recipient of the Best Student Paper Award at the VLSI Circuits 
+Symposium and a recipient of the Best Invited Paper Award at the IEEE Custom 
+Integrated Circuits Conference (CICC). He received the Agilent Early Career 
+Professor Award in 2009 and the Friedrich Wilhelm Bessel Research Award in 2012. 
+He has served as an Associate Editor of the IEEE Journal of Solid-State Circuits, as 
+well as the Data Converter Subcommittee Chair and the Technical Program Chair of 
+the IEEE International Solid-State Circuits Conference (ISSCC). He is also a Fellow of 
+the IEEE. 
+ 
+PATENTS  
+1. S. Hori and B. Murmann, "Filtering circuit with jammer generator," US 8351842, 
+Jan. 8, 2013. [140] 
+2. B. Murmann and Y. Oh, "Arrangements and methods for providing 
+compensation for non-idealities of components in communications systems," US 
+8290031, Oct. 16, 2012. [141] 
+
+-----
+2 of 19 
+3. S. Hori and B. Murmann, "Filtering circuit with jammer generator," US 8208849, 
+June 26, 2012. [142] 
+4. B. Murmann and J. Hu, "Method and system for FET-based amplifier circuits," 
+US 7791410, Sep. 10, 2010. [143] 
+5. E. Iroaga and B. Murmann, "Method and system for driver circuits of capacitive 
+loads," US 7369080, May 6, 2008. [144] 
+ 
+PUBLICATIONS: 
+1 
+2017 A. Omid-Zohoor, C. Young, D. Ta and B. Murmann, "Towards Always-On 
+Mobile Object Detection: Energy vs. Performance Tradeoffs for Embedded 
+HOG Feature Extraction," to appear, IEEE Trans. Circuits and Systems for 
+Video Technology. [1] 
+2 
+2017 D. Adams, Y.C. Eldar and B. Murmann, "A Mixer Frontend for a Four-
+Channel Modulated Wideband Converter with 62 dB Blocker Rejection," to 
+appear, IEEE J. Solid-State Circuits. [2] 
+3 
+2017 E. Lee, D. Miyashita, E. Chai, B. Murmann, S. Wong, "LogNet: 
+Energy-efficient Neural Networks using Logarithmic Computation," to 
+appear at ICASSP 2017.  
+4 
+2017 L. Yang and B. Murmann, "SRAM Voltage Scaling for Energy-
+Efficient Convolutional Neural Networks," ISQED 2017.  
+5 
+2017 M-C. Chen, A. Peña Perez, S-R. Kothapalli, P. Cathelin, A. Cathelin, S.S. 
+Gambhir, and B. Murmann, "A Pixel-Pitch-Matched Ultrasound Receiver for 
+3D Photoacoustic Imaging with Integrated Delta-Sigma Beamformer in 
+28nm UTBB FDSOI," ISSCC Dig. Tech. Papers, San Francisco, CA, Feb. 2017, 
+pp. 456-457. [3] 
+6 
+2017 M. Kramer, E. Janssen, K. Doris and B. Murmann, "A 14 bit, 30 MS/s, 38 mW 
+SAR ADC Using Noise Filter Gear Shifting," in IEEE Trans. on Ckt. Syst. II, vol. 
+64, no. 2, Feb. 2017. [4] 
+7 
+2017 J. Xu, S. Wang, Ging-Ji N. Wang, C. Zhu, S. Luo, L. Jin, X. Gu, S. Chen, V.R. 
+Feig, J.W.F. To, S. Rondeau-Gagné, J. Park, B.C. Schroeder, C. Lu, J.Y. Oh, Y. 
+Wang, Yun-Hi Kim, H. Yan, R. Sinclair, D. Zhou, Gi Xue, B. Murmann, C. 
+Linder, W. Cai, J.B.-H. Tok, J.W. Chung, and Z. Bao, "Highly stretchable 
+polymer semiconductor films through the nanoconfinement effect," 
+Science, vol. 355, no. 6320, pp. 59-64, Jan. 2017. [5] 
+
+-----
+3 of 19 
+8 
+2016 C. Gupta, Aldo Peña Perez, S.R. Fischer, S.B. Weinreich, B. Murmann, and 
+R.T. Howe, "Active control of probability amplitudes in a mesoscale system 
+via feedback-induced suppression of dissipation and noise," Journal of 
+Applied Physics, vol. 120, no. 22, Dec. 2016. [6] 
+9 
+2016 D. Bankman and B. Murmann, "An 8-Bit, 16 Input, 3.2 pJ/op Switched-
+Capacitor Dot Product Circuit in 28-nm FDSOI CMOS," Proc. IEEE Asian 
+Solid-State Circuits Conf., Toyama, Japan, Nov. 2016, pp. 21-24. [7] 
+10 
+2016 Si Chen and B. Murmann, "An 8-Bit 1.25GS/S CMOS IF-Sampling ADC with 
+Background Calibration for Dynamic Distortion," Proc. IEEE Asian Solid-State 
+Circuits Conf., Toyama, Japan, Nov. 2016, pp. 69-72. [8] 
+11 
+2016 D. Robertson, A. Buchwald, M. Flynn, Hae-Seung Lee, Un-Ku Moon, and B. 
+Murmann, "Data Converter Reflections: 19 Papers from the Last Ten Years 
+That Deserve a Second Look," Proc. ESSCIRC, Lausanne, Switzerland, Sep. 
+2016, pp. 161-164. [9] 
+12 
+2016 R. Boesch, K. Zheng, and B. Murmann, "A 0.003 mm2 5.2 mW/tap 20 GBd 
+Inductor-less 5-Tap Analog RX-FFE," in Symp. VLSI Circuits Dig., Honolulu, 
+HI, June 2016, pp. 170-171. [10] 
+13 
+2016 D. Adams, Y.C. Eldar, and B. Murmann, "A Mixer Frontend for a Four-
+Channel Modulated Wideband Converter with 62 dB Blocker Rejection," 
+IEEE Radio Frequency Integrated Circuits Symposium (RFIC), San Francsico, 
+CA, May 2016, pp. 286-289. [11] 
+14 
+2016 T. Hoffmann, C. Fulton, M. Yeary, D. Thompson, A. Saunders, B. Murmann, 
+B. Chen and A. Guo, "IMPACT - A Common Building Block to Enable Next 
+Generation Radar Arrays," IEEE Radar Conference, Philadelphia, PA, May 
+2016. [12] 
+15 
+2016 C.H. Chan, Y. Zhu, S.W. Sin, B. Murmann, S.P. U and R.P. Martins, 
+"Metastablility in SAR ADCs," in IEEE Trans. on Ckt. and Syst. II. [13] 
+16 
+2016 B. Murmann, "The successive approximation register ADC: a versatile 
+building block for ultra-low-power to ultra-high-speed applications," in IEEE 
+Communications Magazine, vol. 54, no. 4, pp. 78-83, Apr. 2016. [14] 
+17 
+2016 D.J. Rogers and B. Murmann, "Digital active gate drives using sequential 
+optimization," IEEE Applied Power Electronics Conference and Exposition 
+(APEC), Long Beach, CA, March 2016, pp. 1650-1656. [15] 
+
+-----
+4 of 19 
+18 
+2016 D. Miyashita, E.H. Lee, and B. Murmann, "Convolutional Neural Networks 
+using Logarithmic Data Representation," arXiv:1603.01025 [cs.NE], March 
+2016. [16] 
+19 
+2015 M. Krämer, E. Janssen, K. Doris, and B. Murmann, "A 14b 35MS/s SAR ADC 
+Achieving 75dB SNDR and 99dB SFDR with Loop-Embedded Input Buffer in 
+40nm CMOS," IEEE J. Solid-State Circuits, vol. 50, no. 12, pp. 2891-2900, 
+Dec. 2015. [17] 
+20 
+2015 M. Saadat and B. Murmann, "A 0.6V - 2.4V Input, Fully Integrated 
+Reconfigurable Switched-Capacitor DC-DC Converter for Energy Harvesting 
+Sensor Tags," in Proc. IEEE Asian Solid-State Circuits Conf., Xiamen, China, 
+Nov. 2015. [18] 
+21 
+2015 B. Murmann, D. Bankman, E. Chai, D. Miyashita, and L. Yang, "Mixed-Signal 
+Circuits for Embedded Machine-Learning Applications," Asilomar 
+Conference on Signals, Systems and Computers, Asilomar, CA, Nov. 
+2015. [19] 
+22 
+2015 J. Spaulding, Y.C. Eldar, and B. Murmann, "A sub-nyquist analog front-end 
+with subarray beamforming for ultrasound imaging," Proc. IEEE 
+International Ultrasonics Symp., Taipei, Taiwan, Oct. 2015. [20] 
+23 
+2015 B. Murmann, "The Race for the Extra Decibel: A Brief Review of Current ADC 
+Performance Trajectories," IEEE Solid-State Circuits Magazine, vol. 7, no. 3, 
+pp. 58-66, 2015. [21] 
+24 
+2015 P.G.A. Jespers and B. Murmann, "Calculation of MOSFET Distortion Using 
+the Transconductance-to-Current Ratio (gm/ID)," in Proc. IEEE Int. Symp. 
+Circuits Syst., Lisbon, Portugal, May 2015, pp. 529-532. [22] 
+25 
+2015 J. Spaulding, Y.C. Eldar, and B. Murmann, "Mixer-Based Subarray 
+Beamforming for Sub-Nyquist Sampling Ultrasound Architectures," Proc. 
+ICASSP, Brisbane, Australia, Apr. 2015, pp. 882-886. [23] 
+26 
+2015 L. Paulsen, T. Hoffmann, C. Fulton, M. Yeary, A. Saunders, D. Thompson, B. 
+Chen, A. Guo, and B. Murmann, "Impact: A low cost reconfigurable digital 
+beamforming common module building block for next generation phased 
+arrays," Proc. SPIE DSS, Baltimore, MD, Apr. 2015. [24] 
+27 
+2015 D. Bankman and B. Murmann, "Passive charge redistribution digital-to-
+analogue multiplier," Electronics Letters, vol. 51, no. 5, pp. 386-388, March 
+5 2015. [25] 
+28 
+2015 M. Krämer, E. Janssen, K. Doris, and B. Murmann, "A 14b 35MS/s SAR ADC 
+Achieving 75dB SNDR and 99dB SFDR with Loop-Embedded Input Buffer in 
+40nm CMOS," ISSCC Dig. Tech. Papers, San Francisco, CA, Feb. 2015, pp. 
+284-285. [26] 
+
+-----
+5 of 19 
+29 
+2015 I. Vaisband, M. Saadat, and B. Murmann, "A Closed-Loop Reconfigurable 
+Switched-Capacitor DC-DC Converter for Sub-mW Energy Harvesting 
+Applications," IEEE Trans. Circuits Syst. I, vol. 62, no. 2, pp. 385-394, Feb. 
+2015. [27] 
+30 
+2014 V. Tripathi and B. Murmann, "A 160 MS/s, 11.1 mW, Single-Channel 
+Pipelined SAR ADC with 68.3 dB SNDR," Proc. CICC, San Jose, CA, Sep. 
+2014. [28] 
+31 
+2014 O. Zabroda and B. Murmann, "Eliminating Complex Conjugate Poles in Two-
+Stage Operational Amplifiers with Current Buffer Miller Compensation," 
+Analog Integrated Circuits and Signal Processing, Sep. 2014. [29] 
+32 
+2014 V. Tripathi and B. Murmann, "Mismatch Characterization of Small Metal 
+Fringe Capacitors," IEEE Trans. Circuits Syst. I, vol. 61, no. 8, pp. 2236-2242, 
+Aug. 2014 [30] 
+33 
+2014 J. Foster, P. Nuyujukian, O. Freifeld, H. Gao, R. Walker, S. Ryu, T. Meng, B. 
+Murmann, M. Black, and K. Shenoy, "A freely-moving monkey treadmill 
+model," Journal of Neural Engineering, vol. 11, no. 4, Jul. 2014. [31] 
+34 
+2014 Y. Guo, C. Aquino, D. Zhang, and B. Murmann, "A Four-Channel, +/- 36 V, 
+780 kHz Piezo Driver Chip for Structural Health Monitoring," IEEE J. Solid-
+State Circuits, vol. 49, no. 7, pp. 1506–1513, Jul. 2014. [32] 
+35 
+2014 N. Hammler, Y.C. Eldar and B. Murmann, "Low-Rate Identification of 
+Memory Polynomials," Proc. IEEE Int. Symp. Circuits Syst., Melbourne, 
+Australia, June 2014, pp. 1034-1037. [33] 
+36 
+2014 S. Seth and B. Murmann, "Design and Optimization of Continuous-Time 
+Filters Using Geometric Programming," Proc. IEEE Int. Symp. Circuits Syst., 
+Melbourne, Australia, June 2014, pp. 2089-2092. [34] 
+37 
+2014 U. Zschieschang, R. Rodel, U. Kraft, K. Takimiya, T. Zaki, F. Letzkus, J. 
+Butschke, H. Richter, J.N. Burghartz, W. Xiong, B. Murmann, and H. Klauk, 
+"Low-voltage organic transistors for flexible electronics," Proc. DATE, 
+Dresden, Germany, March 2014, pp. 1-6. [35] 
+38 
+2014 S. Medawar, B. Murmann, P. Handel, N. Bjorsell, and M. Jansson, "Static 
+Integral Nonlinearity Modeling and Calibration of Measured and Synthetic 
+Pipeline Analog-Digital Converters," IEEE Trans. Instrum. Meas., vol. 63, no. 
+3, pp. 502-511, March 2014. [36] 
+39 
+2013 B. Murmann, "A/D Converter Circuit and Architecture Design for High-
+Speed Data Communication," Tutorial Presentation, Proc. CICC, Sep. 
+2013. [37] 
+
+-----
+6 of 19 
+40 
+2013 V. Tripathi and B. Murmann, "Mismatch Characterization of Small Metal 
+Fringe Capacitors," Proc. CICC, San Jose, CA, Sep. 2013. [38] 
+41 
+2013 Y. Guo, C. Aquino, D. Zhang, and B. Murmann, "A Four-Channel, ±36 V, 780 
+kHz Piezo Driver Chip for Structural Health Monitoring," Proc. ESSCIRC, 
+Bucharest, Romania, Sep. 2013, pp. 85-88. [39] 
+42 
+2013 B. Murmann, "Digitally Assisted Data Converter Design," (Keynote Paper) 
+Proc. ESSCIRC, Bucharest, Romania, Sep. 2013, pp. 24-31. [40] 
+43 
+2013 V. Tripathi and B. Murmann, "An 8-bit 450-MS/s Single-Bit/Cycle SAR ADC in 
+65-nm CMOS," Proc. ESSCIRC, Bucharest, Romania, Sep. 2013, pp. 117-
+120. [41] 
+44 
+2013 Y. Guo, C. Aquino, D. Zhang and B. Murmann, "Integrated Piezo-Element 
+Drive Electronics for Structural Health Monitoring," 9th International 
+Workshop on Structural Health Monitoring (IWSHM), Stanford, CA, Sep. 
+2013. [42] 
+45 
+2013 B. Murmann, "On the use of redundancy in successive approximation A/D 
+converters," International Conference on Sampling Theory and Applications 
+(SampTA), Bremen, Germany, July 2013. [43] 
+46 
+2013 B. Murmann, "Energy limits in A/D converters," (Keynote Paper) IEEE Faible 
+Tension Faible Consommation (FTFC), Paris, France, June 2013. [44] 
+47 
+2013 N. Dolev, M. Kramer, and B. Murmann, "A 12-Bit, 200-MS/s, 11.5-mW 
+Pipeline ADC Using a Pulsed Bucket Brigade Front-End," in Symp. VLSI 
+Circuits Dig., Kyoto, Japan, June 2013, pp. 98-99. [45] 
+48 
+2013 K. Bhardwaj, S. Seth, B. Murmann, and T.H. Lee, "A 0.11mm^2, 5.7-to-
+6.7GHz, Parametrically Pumped Quadrature LC-VCO with Digital Outputs," 
+in Symp. VLSI Circuits Dig., Kyoto, Japan, June 2013, pp. 138-139. [46] 
+49 
+2013 S. Medawar, P. Händel, B. Murmann, N. Björsell, and M. Jansson, "Dynamic 
+Calibration of Undersampled Pipelined ADCs by Frequency Domain 
+Filtering," IEEE Trans. Instrum. Meas., vol. 62, no. 7, pp. 1882-1891, July 
+2013. [47] 
+50 
+2013 S. Seth and B. Murmann, "Settling Time and Noise Optimization of a Three-
+Stage Operational Transconductance Amplifier," IEEE Trans. Circuits Syst. I, 
+vol. 60, no. 5, pp. 1168-1174, May 2013. [48] 
+
+-----
+7 of 19 
+51 
+2013 D.A. Hall, R.S. Gaster, K.A.A. Makinwa, S.X. Wang, and B. Murmann, "A 256 
+Pixel Magnetoresistive Biosensor Microarray in 0.18 µm CMOS," IEEE J. 
+Solid-State Circuits, vol. 48, no. 5, pp. 1290-1301, May 2013. [49] 
+52 
+2013 P. Lajevardi, V.P. Petkov, and B. Murmann, "A ΣΔ Interface for MEMS 
+Accelerometers using Electrostatic Spring-Constant Modulation for 
+Cancellation of Bondwire Capacitance Drift," IEEE J. Solid-State Circuits, vol. 
+48, no. 1, pp. 265-275, Jan. 2013. [50] 
+53 
+2012 S. Seth, S. Wang, T. Kenny and B. Murmann, "A -131-dBc/Hz, 20-MHz MEMS 
+Oscillator with a 6.9-mW, 69-kOhm, Gain-Tunable CMOS TIA," Proc. 
+ESSCIRC, Bordeaux, France, Sep. 2012, pp. 249-252. [51] 
+54 
+2012 J. Kim and B. Murmann, "A 12-bit, 30-MS/s, 2.95-mW Pipelined ADC Using 
+Single-Stage Class-AB Amplifiers and Deterministic Background Calibration," 
+IEEE J. Solid-State Circuits, vol. 47, no. 9, pp. 2141-2151, Sep. 2012. [52] 
+55 
+2012 Y. Chung, O. Johnson, M. Deal, Y. Nishi, B. Murmann, and Z. Bao, 
+"Engineering the metal gate electrode for controlling the threshold voltage 
+of organic transistors," Appl. Phys. Lett., vol. 101, p. 063304 (4 pages), Aug. 
+2012. [53] 
+56 
+2012 B. Murmann, "Thermal Noise in Track-and-Hold Circuits: Analysis and 
+Simulation Techniques," IEEE Solid-State Circuits Magazine, vol.4, no.2, pp. 
+46-54, June 2012. [54] 
+57 
+2012 S. Seth and B. Murmann, "Settling Time and Noise Optimization of a Three-
+Stage Operational Transconductance Amplifier," Proc. IEEE Int. Symp. 
+Circuits Syst., Seoul, Korea, May, 2012, pp. 205-208. [55] 
+58 
+2012 C. Gupta, R.M. Walker, R. Gharpuray, M.M. Shulaker, Z. Zhang, M. 
+Javanmard, R.W. Davis, B. Murmann, and R.T. Howe, "Electrochemical 
+quantum tunneling for electronic detection and characterization of 
+biological toxins," Proc. SPIE 8373, Micro- and Nanotechnology Sensors, 
+Systems, and Applications IV, 837303, May 2012. [56] 
+59 
+2012 H. Gao, R.M. Walker, P. Nuyujukian, K.A.A. Makinwa, K.V. Shenoy, B. 
+Murmann and T.H. Meng, "HermesE: A 96-Channel Full Data Rate Direct 
+Neural Interface in 0.13 μm CMOS," IEEE J. Solid-State Circuits, vol. 47, no. 
+4, pp. 1043-1055, Apr. 2012. [57] 
+60 
+2012 D. Adams, C.S. Park, Y.C. Eldar, and B. Murmann, "Towards an Integrated 
+Circuit Design of a Compressed Sampling Wireless Receiver," Proc. ICASSP, 
+Kyoto, Japan, Mar. 2012, pp. 5305-5308. [58] 
+
+-----
+8 of 19 
+61 
+2012 M. Verhelst and B. Murmann, "Area scaling analysis of CMOS ADCs," 
+Electronics Letters, vol. 48, no. 6, pp. 314-315, March 15 2012. [59] 
+62 
+2012 A. Abusleme, A. Dragone, G. Haller and and B. Murmann, "Mismatch of 
+lateral field Metal-Oxide-Metal Capacitors in a 180-nm CMOS Process," 
+Electronics Letters, vol. 48, no. 5, pp. 286-287, Mar. 1 2012. [60] 
+63 
+2012 P. Lajevardi, V.P. Petkov, and B. Murmann, "A ΣΔ Interface for MEMS 
+Accelerometers using Electrostatic Spring-Constant Modulation for 
+Cancellation of Bondwire Capacitance Drift," ISSCC Dig. Tech. Papers, San 
+Francisco, CA, Feb. 2012, pp. 196-197. [61] 
+64 
+2012 J. Jeon, B.C.-K. Tee, B. Murmann, and Z. Bao, "Micro-imprinted prism 
+substrate for self-aligned short channel organic transistors on a flexible 
+substrate," Appl. Phys. Lett., vol. 100, p. 043301 (4 pages), Jan. 2012. [62] 
+65 
+2011 R. Nguyen, C. Raynaud, A. Cathelin, and B. Murmann, "A 6.7-ENOB, 500-
+MS/s, 5.1-mW Dynamic Pipeline ADC in 65-nm SOI CMOS," Proc. ESSCIRC, 
+Helsinki, Finland, Sep. 2011, pp. 359-362. [63] 
+66 
+2011 Y. Guo and B. Murmann, "Integrated Piezo-element Drive Electronics for 
+Structural Health Monitoring," Proc. 8th International Workshop on 
+Structural Health Monitoring (IWSHM), Stanford, CA, Sep. 2011, pp. 1724–
+1731. [64] 
+67 
+2011 R.M. Walker, H. Gao, P. Nuyujukian, K. Makinwa, K.V. Shenoy, T. Meng, and 
+B. Murmann, "A 96-Channel Full Data Rate Direct Neural Interface in 
+0.13µm CMOS," in Symp. VLSI Circuits Dig., Kyoto, Japan, Jun. 2011, pp. 
+144-145. [65] 
+68 
+2011 D.A. Hall, R.S. Gaster, S.J. Osterfeld, K. Makinwa, S.X. Wang, and B. 
+Murmann, "A 256 Channel Magnetoresistive Biosensor Microarray for 
+Quantitative Proteomics," in Symp. VLSI Circuits Dig., Kyoto, Japan, Jun. 
+2011, pp. 174-175. [66] 
+69 
+2011 D. Kim, T. Matsuura, and B. Murmann, "A Continuous-Time, Jitter 
+Insensitive ∑∆ Modulator Using a Digitally Linearized Gm-C Integrator with 
+Embedded SC Feedback DAC," in Symp. VLSI Circuits Dig., Kyoto, Japan, Jun. 
+2011, pp. 38-39. [67] 
+70 
+2011 B. Murmann and M. El-Chammas, "Background Calibration of Timing Skew 
+in Time-Interleaved A/D Converters," International Conference on Sampling 
+Theory and Applications (SampTA), Singapore, May 2011. [68] 
+
+-----
+9 of 19 
+71 
+2011 M. El-Chammas and B. Murmann, “A 12-GS/s 81-mW 5-bit Time-Interleaved 
+Flash ADC With Background Timing Skew Calibration,” IEEE J. Solid-State 
+Circuits, vol. 46, no. 4, pp. 838-847, Apr. 2011. [69] 
+72 
+2011 Y. Chung, E. Verploegen, A. Vailionis, Y. Sun, Y. Nishi, B. Murmann, and Z. 
+Bao, “Controlling Electric Dipoles in Nanodielectrics and its Applications for 
+Enabling Air-Stable n-Channel Organic Transistors,” Nano Letters, vol. 11, 
+no. 3, pp. 1161-1165, Mar. 2011. [70] 
+73 
+2011 T. Konishi, K. Inazu, J.G. Lee, M. Natsui, S. Masui, and B. Murmann, “Design 
+Optimization of High-Speed and Low-Power Operational Transconductance 
+Amplifier Using gm/ID Lookup Table Methodology,” IEICE Trans. Electronics, 
+vol. E94-C, no. 3, pp. 334-345, Mar. 2011. [71] 
+74 
+2011 S. Hori and B. Murmann, “Feedforward Interference Cancellation 
+Architecture for Short-Range Wireless Communication,” IEEE Trans. Circuits 
+Syst. II, vol. 58, no. 1, pp. 16-20, Jan. 2011. [72] 
+75 
+2010 C. Daigle, A. Dastgheib, and B. Murmann, “A 12-bit 800-MS/s switched-
+capacitor DAC with open-loop output driver and digital predistortion,” in 
+Proc. IEEE Asian Solid State Circuits Conf., Nov. 2010, pp. 1-4. [73] 
+76 
+2010 B. Murmann and W. Xiong, “Design of analog circuits using organic field-
+effect transistors,” in Proc. ICCAD, San Jose, CA, Nov. 2010, pp. 504-
+507. [74] 
+77 
+2010 J. Jeon, B. Murmann, and Z. Bao, “Full-Swing and High-Gain Pentacene Logic 
+Circuits on Plastic Substrate,” IEEE Electron Device Letters, vol. 31, no. 12, 
+pp. 1488-1490, Nov. 2010. [75] 
+78 
+2010 J. Kim and B. Murmann, “A 12-bit, 30-MS/s, 2.95-mW pipelined ADC using 
+single-stage class-AB amplifiers and deterministic background calibration,” 
+in Proc. ESSCIRC, Sevilla, Spain, Sep. 2010, pp. 378-381. [76] 
+79 
+2010 W. Xiong, Y. Guo, U. Zschieschang, H. Klauk, and B. Murmann, “A 3-V, 6-Bit 
+C-2C Digital-to-Analog Converter Using Complementary Organic Thin-Film 
+Transistors on Glass,” IEEE J. Solid-State Circuits, vol. 45, no. 7, pp. 1380-
+1388, Jul. 2010. [77] 
+80 
+2010 M. El-Chammas and B. Murmann, “A 12-GS/s 81-mW 5-bit time-interleaved 
+flash ADC with background timing skew calibration,” in Symp. VLSI Circuits 
+Dig., Honolulu, HI, Jun. 2010, pp. 157-158. [78] 
+
+-----
+10 of 19 
+81 
+2010 R. Nguyen and B. Murmann, “The Design of Fast-Settling Three-Stage 
+Amplifiers Using the Open-Loop Damping Factor as a Design Parameter,” 
+IEEE Trans. Circuits Syst. I, vol. 57, no. 6, pp. 1244-1254, Jun. 2010. [79] 
+82 
+2010 B. Murmann, “Trends in Low-Power, Digitally Assisted A/D Conversion,” 
+IEICE Trans. Electronics, vol. E93-C, no. 6, pp. 718-729, Jun. 2010. [80] 
+83 
+2010 D.A. Hall, R.S. Gaster, S.X. Wang, and B. Murmann, “Portable biomarker 
+detection with magnetic nanotags,” in Proc. IEEE Int. Symp. Circuits Syst., 
+Paris, France, May 2010, pp. 1779-1782. [81] 
+84 
+2010 D. Hall, R. Gaster, S. Osterfeld, B. Murmann, and S. Wang, “GMR biosensor 
+arrays: Correction techniques for reproducibility and enhanced sensitivity,” 
+Biosensors and Bioelectronics, vol. 25, no. 9, pp. 2177-2181, May 2010. [82] 
+85 
+2010 D. Hall, R. Gaster, T. Lin, S. Osterfeld, S. Han, B. Murmann, and S. Wang, 
+“GMR biosensor arrays: A system perspective,” Biosensors and 
+Bioelectronics, vol. 25, no. 9, pp. 2051-2057, May 2010. [83] 
+86 
+2010 Y. Chung, B. Murmann, S. Selvarasah, M.R. Dokmeci, and Z. Bao, “Low-
+voltage and short-channel pentacene field-effect transistors with top-
+contact geometry using parylene-C shadow masks,” Appl. Phys. Lett., vol. 
+96, no. 13, p. 133306 (3 pages), Mar. 2010. [84] 
+87 
+2010 W. Xiong, U. Zschieschang, H. Klauk, and B. Murmann, “A 3V 6b successive-
+approximation ADC using complementary organic thin-film transistors on 
+glass,” in ISSCC Dig. Tech. Papers, San Francisco, CA, Feb. 2010, pp. 134-
+135. [85] 
+88 
+2009 R.S. Gaster, D.A. Hall, C.H. Nielsen, S.J. Osterfeld, H. Yu, K.E. Mach, R.J. 
+Wilson, B. Murmann, J.C. Liao, S.S. Gambhir, and S.X. Wang, “Matrix-
+insensitive protein assays push the limits of biosensors in medicine,” Nature 
+Medicine, vol. 15, no. 11, pp. 1327-1332, Nov. 2009. [86] 
+89 
+2009 W. Xiong, Y. Guo, U. Zschieschang, H. Klauk, and B. Murmann, “A 3-V, 6-bit 
+C-2C digital-to-analog converter using complementary organic thin-film 
+transistors on glass,” in Proc. ESSCIRC, Athens, Greece, Sep. 2009, pp. 212-
+215. [87] 
+90 
+2009 J. Salvia, P. Lajevardi, M. Hekmat, and B. Murmann, “A 56MΩ CMOS TIA for 
+MEMS applications,” in Proc. IEEE Custom Integrated Circuits Conf., San 
+Jose, CA, Sep. 2009, pp. 199-202. [88] 
+
+-----
+11 of 19 
+91 
+2009 P. Nikaeen and B. Murmann, “Digital Compensation of Dynamic Acquisition 
+Errors at the Front-End of High-Performance A/D Converters,” IEEE J. 
+Selected Topics in Signal Processing, vol. 3, no. 3, pp. 499-508, Jun. 
+2009. [89] 
+92 
+2009 M. El-Chammas and B. Murmann, “General Analysis on the Impact of 
+Phase-Skew in Time-Interleaved ADCs,” IEEE Trans. Circuits Syst. I, vol. 56, 
+no. 5, pp. 902-910, May 2009. [90] 
+93 
+2009 J. Hu, N. Dolev, and B. Murmann, “A 9.4-bit, 50-MS/s, 1.44-mW Pipelined 
+ADC Using Dynamic Source Follower Residue Amplification,” IEEE J. Solid-
+State Circuits, vol. 44, no. 4, pp. 1057-1066, Apr. 2009. [91] 
+94 
+2009 T. Sundstrom, B. Murmann, and C. Svensson, “Power Dissipation Bounds for 
+High-Speed Nyquist Analog-to-Digital Converters,” IEEE Trans. Circuits Syst. 
+I, vol. 56, no. 3, pp. 509-518, Mar. 2009. [92] 
+95 
+2009 J. Salvia, R. Melamud, S. Chandorkar, H. Lee, Y. Qu, S. Lord, B. Murmann, 
+and T. Kenny, “Phase Lock Loop based Temperature Compensation for 
+MEMS Oscillators,” in Proc. IEEE MEMS, Sorrento, Italy, Jan. 2009, pp. 661-
+664. [93] 
+96 
+2008 J. Salvia, M. Messana, M. Ohline, M. Hopcroft, R. Melamud, S. Chandorkar, 
+H. Lee, G. Bahl, B. Murmann, and T. Kenny, “Exploring the limits and 
+practicality of Q-based temperature compensation for silicon resonators,” 
+in IEDM Tech. Dig., San Francisco, CA, Dec. 2008, pp. 1-4. [94] 
+97 
+2008 A. Dastgheib and B. Murmann, “Calculation of Total Integrated Noise in 
+Analog Circuits,” IEEE Trans. Circuits Syst. I, vol. 55, no. 10, pp. 2988-2993, 
+Nov. 2008. [95] 
+98 
+2008 P. Nikaeen and B. Murmann, “Digital correction of dynamic track-and-hold 
+errors providing SFDR > 83 dB up to fin = 470 MHz,” in Proc. IEEE Custom 
+Integrated Circuits Conf., San Jose, CA, Sep. 2008, pp. 161-164. [96] 
+99 
+2008 B. Murmann, “A/D converter trends: Power dissipation, scaling and digitally 
+assisted architectures,” in Proc. IEEE Custom Integrated Circuits Conf., San 
+Jose, CA, Sep. 2008, pp. 105-112. [97] 
+100 2008 J. Hu, N. Dolev, and B. Murmann, “A 9.4-bit, 50-MS/s, 1.44-mW pipelined 
+ADC using dynamic residue amplification,” in Symp. VLSI Circuits Dig., 
+Honolulu, HI, Jun. 2008, pp. 216-217. [98] 
+101 2008 B. Murmann, C. Vogel, and H. Koeppl, “Digitally enhanced analog circuits: 
+System aspects,” in Proc. IEEE Int. Symp. Circuits Syst., Seattle, WA, May 
+2008, pp. 560-563. [99] 
+
+-----
+12 of 19 
+102 2008 M. El-Chammas and B. Murmann, “General analysis on the impact of phase-
+skew in time-interleaved ADCs,” in Proc. IEEE Int. Symp. Circuits Syst., 
+Seattle, WA, May 2008, pp. 17-20. [100] 
+103 2008 A. Abusleme and B. Murmann, “Predictive control algorithm for phase-
+locked loops,” in Proc. IEEE Int. Symp. Circuits Syst., Seattle, WA, May 2008, 
+pp. 1528-1531. [101] 
+104 2008 M. Agarwal, S.A. Chandorkar, H. Mehta, R.N. Candler, B. Kim, M.A. 
+Hopcroft, R. Melamud, C.M. Jha, G. Bahl, G. Yama, T.W. Kenny, and B. 
+Murmann, “A study of electrostatic force nonlinearities in resonant 
+microstructures,” Appl. Phys. Lett., vol. 92, no. 10, p. 104106 (3 pages), 
+Mar. 2008. [102] 
+105 2008 P. Nikaeen, B. Murmann, and R. Dutton, “Characterizing the Impact of 
+Substrate Noise on High-Speed Flash ADCs,” in Proc. ISQED, San Jose, CA, 
+Mar. 2008, pp. 396-400. [103] 
+106 2008 J.W. Kim, B. Murmann, and R. Dutton, “Hybrid Integration of Bandgap 
+Reference Circuits Using Silicon ICs and Germanium Devices,” in Proc. 
+ISQED, San Jose, CA, Mar. 2008, pp. 429-432. [104] 
+107 2007 B. Murmann and B. Boser, “Digital Domain Measurement and Cancellation 
+of Residue Amplifier Nonlinearity in Pipelined ADCs,” IEEE Trans. Instrum. 
+Meas., vol. 56, no. 6, pp. 2504-2514, Dec. 2007. [105] 
+108 2007 M. Agarwal, H. Mehta, R.N. Candler, S.A. Chandorkar, B. Kim, M.A. 
+Hopcroft, R. Melamud, G. Bahl, G. Yama, T.W. Kenny, and B. Murmann, 
+“Scaling of amplitude-frequency-dependence nonlinearities in 
+electrostatically transduced microresonators,” J. Appl. Phys., vol. 102, no. 7, 
+p. 074903 (7 pages), Oct. 2007. [106] 
+109 2007 Y. Oh and B. Murmann, “A Low-Power, 6-bit Time-Interleaved SAR ADC 
+Using OFDM Pilot Tone Calibration,” in Proc. IEEE Custom Integrated 
+Circuits Conf., San Jose, CA, Sep. 2007, pp. 193-196. [107] 
+110 2007 E. Iroaga and B. Murmann, “A 12-Bit 75-MS/s Pipelined ADC Using 
+Incomplete Settling,” IEEE J. Solid-State Circuits, vol. 42, no. 4, pp. 748-756, 
+Apr. 2007. [108] 
+111 2007 Shu-Jen Han, Heng Yu, B. Murmann, N. Pourmand, and S. Wang, “A High-
+Density Magnetoresistive Biosensor Array with Drift-Compensation 
+Mechanism,” in ISSCC Dig. Tech. Papers, San Francisco, CA, Feb. 2007, pp. 
+168-594. [109] 
+
+-----
+13 of 19 
+112 2007 M. Agarwal, K.K. Park, S.A. Chandorkar, R.N. Candler, B. Kim, M.A. Hopcroft, 
+R. Melamud, T.W. Kenny, and B. Murmann, “Acceleration sensitivity in 
+beam-type electrostatic microresonators,” Appl. Phys. Lett., vol. 90, no. 1, 
+p. 014103 (3 pages), Jan. 2007. [110] 
+113 2007 M. Agarwal, H. Mehta, R. Candler, S. Chandorkar, Bongsang Kim, M. 
+Hopcroft, R. Melamud, G. Bahl, G. Yama, T. Kenny, and B. Murmann, 
+“Impact of miniaturization on the current handling of electrostatic MEMS 
+resonators,” in Proc. IEEE MEMS, Kobe, Japan, Jan. 2007, pp. 783-786. [111] 
+114 2006 A. Nikoozadeh and B. Murmann, “An Analysis of Latch Comparator Offset 
+Due to Load Capacitor Mismatch,” IEEE Trans. Circuits Syst. II, vol. 53, no. 
+12, pp. 1398-1402, Dec. 2006. [112] 
+115 2006 M. Agarwal, S.A. Chandorkar, R.N. Candler, B. Kim, M.A. Hopcroft, R. 
+Melamud, C.M. Jha, T.W. Kenny, and B. Murmann, “Optimal drive condition 
+for nonlinearity reduction in electrostatic microresonators,” Appl. Phys. 
+Lett., vol. 89, no. 21, p. 214105 (3 pages), Nov. 2006. [113] 
+116 2006 B. Murmann, “Digitally Assisted Analog Circuits,” in Proc. IEEE Dallas/CAS 
+Workshop on Design, Applications, Integration and Software, Dallas, Tx, 
+Oct. 2006, pp. 23-30. [114] 
+117 2006 J. Chun and B. Murmann, “Analysis and Measurement of Signal Distortion 
+due to ESD Protection Circuits,” IEEE J. Solid-State Circuits, vol. 41, no. 10, 
+pp. 2354-2358, Oct. 2006. [115] 
+118 2006 B. Murmann, P. Nikaeen, D. Connelly, and R. Dutton, “Impact of Scaling on 
+Analog Performance and Associated Modeling Needs,” IEEE Trans. Electron 
+Dev., vol. 53, no. 9, pp. 2160-2167, Sep. 2006. [116] 
+119 2006 Y. Oh and B. Murmann, “System embedded ADC calibration for OFDM 
+receivers,” IEEE Trans. Circuits Syst. I, vol. 53, no. 8, pp. 1693-1703, Aug. 
+2006. [117] 
+120 2006 B. Sheahan, J. Fattaruso, J. Wong, K. Muth, and B. Murmann, “4.25 Gb/s 
+laser driver: design challenges and EDA tool limitations,” in Proc. Design 
+Automation Conference, San Francisco, CA, Jul. 2006, pp. 863-866. [118] 
+121 2006 E. Iroaga and B. Murmann, “A 12b, 75MS/s Pipelined ADC Using Incomplete 
+Settling,” in Symp. VLSI Circuits Dig., Honolulu, HI, Jun. 2006, pp. 222-
+223. [119] 
+
+-----
+14 of 19 
+122 2006 M. Agarwal, K.K. Park, R.N. Candler, B. Kim, M.A. Hopcroft, S.A. Chandorkar, 
+C.M. Jha, R. Melamud, T.W. Kenny, and B. Murmann, “Nonlinear 
+Characterization of Electrostatic MEMS Resonators,” in Proc. IEEE Int. Freq. 
+Control Symp., Miami, FL, Jun. 2006, pp. 209-212. [120] 
+123 2006 B. Murmann, “Digitally Assisted Analog Circuits,” IEEE Micro, vol. 26, no. 2, 
+pp. 38-47, Mar. 2006. [121] 
+124 2006 M.A. Hopcroft, M. Agarwal, K.K. Park, B. Kim, C.M. Jha, R.N. Candler, G. 
+Yama, B. Murmann, and T.W. Kenny, “Temperature Compensation of a 
+MEMS Resonator Using Quality Factor as a Thermometer,” in Proc. IEEE 
+MEMS, Istanbul, Turkey, Jan. 2006, pp. 222-225. [122] 
+125 2006 M. Agarwal, K.K. Park, M. Hopcroft, S. Chandorkar, R.N. Candler, B. Kim, R. 
+Melamud, G. Yama, B. Murmann, and T.W. Kenny, “Effects of Mechanical 
+Vibrations and Bias Voltage Noise on Phase Noise of MEMS Resonator 
+Based Oscillators,” in Proc. IEEE MEMS, Istanbul, Turkey, Jan. 2006, pp. 154-
+157. [123] 
+126 2005 M. Agarwal, K. Park, R. Candler, M. Hopcroft, C. Jha, R. Melamud, B. Kim, B. 
+Murmann, and T. Kenny, “Non-linearity cancellation in MEMS resonators 
+for improved power-handling,” in IEDM Tech. Dig., San Francisco, CA, Dec. 
+2005, pp. 286-289. [124] 
+127 2005 E. Iroaga, L. Nathawad, and B. Murmann, “A background correction 
+technique for timing errors in time-interleaved analog-to-digital 
+converters,” in Proc. IEEE Int. Symp. Circuits Syst., Kobe, Japan, May 2005, 
+vol. 6, pp. 5557-5560. [125] 
+128 2005 S. Arekapudi, E. Iroaga, and B. Murmann, “A low-power distributed wide-
+band LNA in 0.18 μm CMOS,” in Proc. IEEE Int. Symp. Circuits Syst., Kobe, 
+Japan, May 2005, vol. 5, pp. 5055-5058. [126] 
+129 2004 B. Murmann, “A/D Conversion gets a Digital Assist,” EE Times, September 
+27, 2004. [127] 
+130 2004 B. Murmann and B. Boser, “Digitally Assisted Analog Integrated Circuits,” 
+ACM Queue, vol. 2, no. 1, pp. 64-71, Mar. 2004. [128] 
+131 2003 B. Murmann and B. Boser, “A 12-bit 75-MS/s pipelined ADC using open-loop 
+residue amplification,” IEEE J. Solid-State Circuits, vol. 38, no. 12, pp. 2040-
+2050, Dec. 2003. [129] 
+132 2003 B. Murmann and B. Boser, “A 12 b 75 MS/s pipelined ADC using open-loop 
+residue amplification,” in ISSCC Dig. Tech. Papers, San Francisco, CA, Feb. 
+2003, pp. 328-329. [130] 
+ 
+
+-----
+15 of 19 
+ 
+ 
+Books & Books Chapters 
+1. B. Murmann, K. Zheng and R. Boesch, "Equalization and A/D Conversion for 
+High-Speed Links," in Selected Topics in RF, Analog and Mixed Signal Circuits 
+and Systems, by K. Gunnam, M. Vahidfar (eds.), River Publishers, 2017. 
+2. M. Elliott and B. Murmann, "High-Performance Pipelined ADCs for Wireless 
+Infrastructure Systems," in Advances in Analog and RF IC Design for Wireless 
+Communication Systems, by G. Manganaro and D.M.W. Leenaerts (eds.), 
+Elsevier, 2013.   
+3. B. Murmann, Analysis and Design of Elementary MOS Amplifier Stages, NTS 
+Press, 2013 
+4. M. El-Chammas and B. Murmann, Background Calibration of Time-Interleaved 
+Data Converters, Springer, 2012. [ 
+5. M. Keller, B. Murmann, and Y. Manoli, "Analog-Digital Interfaces," in CHIPS 
+2020, by B. Hoefflinger (ed.), Springer, 2012.  
+6. B. Murmann, "Low-Power Pipelined A/D Conversion," in Analog Circuit Design, 
+by M. Steyaert, A.H.M. Roermund, A. Baschirotto (eds.), Springer, 2011.   
+7. B. Murmann, "Limits on ADC Power Dissipation," in Analog Circuit Design, by 
+M. Steyaert, A.H.M. Roermund, J.H. van Huijsing (eds.), Springer, 2006.   
+8. B. Murmann and B. E. Boser, Digitally Assisted Pipeline ADCs, Kluwer 
+Academic Publishers, 2004.   
+ 
+PHD THESES: 
+1. Si Chen, "Digitally-assisted IF-sampling ADC with background-calibrated 
+dynamic distortion compensation," 2017.  
+2. M.-C. Chen, "A pixel-size receiver with integrated subarray beamformer for 3-
+dimensional photoacoustic imaging," 2016.  
+3. J. Spaulding, "A sub-nyquist ultrasound imager with subarray beamforming," 
+2016.  
+4. R. Boesch, "Signal preconditioning using feedforward equalizers in ADC-based 
+data links," 2016.   
+5. D. Adams, "A Practical Implementation of the Modulated Wideband Converter 
+Compressive Sensing Receiver Architecture," 2016.   
+6. M. Saadat, "A Reconfigurable Switched-Capacitor DC-DC Converter for 
+Millimeter-Scale Energy Harvesting Sensor Nodes," 2015.   
+
+-----
+16 of 19 
+7. M. Krämer, "High-resolution SAR A/D converters with loop-embedded input 
+buffer," 2015.   
+8. V. Tripathi, "Design of high-speed, high-resolution SAR A/D converters in nano-
+scale CMOS processes," 2014.   
+9. Y. Guo, "Densely integrated interface circuits for structural health monitoring," 
+2014.  
+10. R.M. Walker, "Interface Electronics for Emerging Sensor Systems," 2013.   
+11. N. Dolev, "High-Speed Pipelined ADC Using a Bucket Brigade Front-End," 2013.   
+12. S. Seth, "Symbolic design and optimization techniques for analog integrated 
+circuits," 2013.   
+13. A. Dastgheib, "Calibration ADC and algorithm for adaptive predistortion of 
+high-speed DACs," 2013.   
+14. D. Kim, "Continuous-time sigma-delta modulation using digitally linearized Gm-
+C integration," 2012.   
+15. L. Nguyen, "Dynamic amplifiers for high-speed pipelined A/D conversion," 
+2012.   
+16. P. Lajevardi, "Dynamic offset cancellation for MEMS accelerometers," 2012.   
+17. Y. Chun, "Organic transistors for flexible electronics," 2011.  
+18. D.A. Hall, "GMR spin-valve biochips and interface electronics for ultrasensitive 
+in-vitro diagnostics," 2011.   
+19. K.R. Kim, "Pipelined analog-to-digital conversion using class-AB amplifiers," 
+2010.  
+20. C. Daigle, "Switched-capacitor DACs using open loop output drivers and digital 
+predistortion," 2010.   
+21. W. Xiong, "Analog signal processing circuits in organic transistor technology," 
+2010.   
+22. M. El-Chammas, "Background calibration of timing skew in time-interleaved A/D 
+converters," 2010.  
+23. P. Nikaeen, "Digital compensation of dynamic acquisition errors at the front-end 
+of ADCs," 2008.   
+24. J. Hu, "Low-power dynamic amplifiers for pipelined A/D conversion," 2008.   
+25. M. Agarwal, "Nonlinearities and phase noise in electrostatically-transduced-
+MEMS-resonator based oscillators," 2008.   
+26. Y. Oh, "A/D converters with system embedded calibration for wireless 
+applications," 2007.  
+27. E. Iroaga, "Pipelined analog-to-digital converters using incomplete settling," 
+2006.   
+ 
+
+-----
+17 of 19 
+ 
+
+-----
+18 of 19 
+CITATTIONS: 
+31/5/17, 13(24
+Boris Murmann - Google Scholar Citations
+Page 1 of 2
+https://scholar.google.com/citations?user=AZkVOeAAAAAJ&hl=en
+Boris Murmann
+Stanford University
+Integrated Circuit Design
+Google Scholar
+Citation indices
+All
+Since 2012
+Citations
+4636
+3197
+h-index
+32
+27
+i10-index
+73
+63
+Title
+1–20
+Cited by
+Year
+A 12-bit 75-MS/s pipelined ADC using open-loop residue amplification
+B Murmann, BE Boser
+IEEE Journal of Solid-State Circuits 38 (12), 2040-2050
+599
+2003
+ADC performance survey 1997–2015
+B Murmann
+Online] µΔt Δtdig SARt SAR0 SARk D e
+488
+2015
+Matrix-insensitive protein assays push the limits of biosensors in medicine
+RS Gaster, DA Hall, CH Nielsen, SJ Osterfeld, H Yu, KE Mach, RJ Wilson, ...
+Nature medicine 15 (11), 1327-1332
+282
+2009
+A/D converter trends: Power dissipation, scaling and digitally assisted
+architectures
+B Murmann
+Custom Integrated Circuits Conference, 2008. CICC 2008. IEEE, 105-112
+243
+2008
+A 12-GS/s 81-mW 5-bit time-interleaved flash ADC with background timing
+skew calibration
+M El-Chammas, B Murmann
+IEEE Journal of Solid-State Circuits 46 (4), 838-847
+195
+2011
+A 12-bit 75-MS/s pipelined ADC using incomplete settling
+E Iroaga, B Murmann
+IEEE Journal of Solid-State Circuits 42 (4), 748-756
+149
+2007
+Digitally assisted analog circuits
+B Murmann
+IEEE Micro 26 (2), 38-47
+130
+2006
+An analysis of latch comparator offset due to load capacitor mismatch
+A Nikoozadeh, B Murmann
+IEEE Transactions on Circuits and Systems II: Express Briefs 53 (12), 1398-1402
+117
+2006
+HermesE: A 96-Channel Full Data Rate Direct Neural Interface in 0.13$\ mu $
+m CMOS
+H Gao, RM Walker, P Nuyujukian, KAA Makinwa, KV Shenoy, B Murmann, ...
+IEEE Journal of Solid-State Circuits 47 (4), 1043-1055
+115
+2012
+Impact of scaling on analog performance and associated modeling needs
+B Murmann, P Nikaeen, DJ Connelly, RW Dutton
+IEEE Transactions on Electron Devices 53 (9), 2160-2167
+103
+2006
+
+-----
+19 of 19 
+ 
+31/5/17, 13(28
+Web of Science [v.5.24] - Web of Science Core Collection Citation Report
+Page 1 of 2
+http://apps.webofknowledge.com.ezlibproxy1.ntu.edu.sg/Citati…3HXBWtBTPUMLaS&page=1&cr_pqid=3&viewType=summary&colName=WOS
+Citation Report: 98
+(from Web of Science Core Collection)
+You searched for:  Article Group for: Murmann, B  ...More
+This report reflects citations to source items indexed within Web of Science Core Collection. Perform a Cited Reference Search to include citations to items not indexed within
+Web of Science Core Collection.
+Published Items in Each Year
+ 
+The latest 20 years are displayed.
+Citations in Each Year
+ 
+The latest 20 years are displayed.
+Results found: 98
+Sum of the Times Cited [?] : 1664
+Sum of Times Cited without self-citations [?] : 1591
+Citing Articles [?] : 1405
+Citing Articles without self-citations [?] : 1359
+Average Citations per Item [?] : 16.98
+h-index [?] : 21
+Sort by:  
+ 
+Page 1
+ of 10   
+ 
+2013 
+2014
+2015
+2016
+2017 
+Total
+Average
+Citations
+per Year
+Use the checkboxes to remove individual items from this Citation Report 
+or restrict to items published between 
+and
+218
+214
+251
+246
+77
+1664
+118.86
+A 12-bit 75-MS/s pipelined ADC using open-loop residue
+amplification
+By: Murmann, B; Boser, BE
+Conference: IEEE International Solid-State Circuits Conference Location: SAN
+FRANCISCO, CALIFORNIA Date: FEB 09-13, 2003 
+Sponsor(s): IEEE Solid State Circuits Soc; Bay Area Council; Univ Penn
+IEEE JOURNAL OF SOLID-STATE CIRCUITS   Volume: 38   Issue: 12
+  Pages: 2040-2050   Published: DEC 2003
+15
+19
+20
+15
+3
+229
+15.27
+Matrix-insensitive protein assays push the limits of biosensors
+in medicine
+By: Gaster, Richard S.; Hall, Drew A.; Nielsen, Carsten H.; et al.
+NATURE MEDICINE   Volume: 15   Issue: 11   Pages: 1327-U130   Published:
+NOV 2009
+34
+25
+31
+29
+7
+210
+23.33
+A/D Converter Trends: Power Dissipation, Scaling and Digitally
+Assisted Architectures
+By: Murmann, B.
+Book Group Author(s): IEEE
+Conference: IEEE Custom Integrated Circuits Conference Location: San Jose,
+CA Date: SEP 21-24, 2008 
+Sponsor(s): IEEE; IEEE Custom Integrated Circuits Conf; IEEE Solid State
+Circuits Soc; IEEE Elect Devices Soc
+PROCEEDINGS OF THE IEEE 2008 CUSTOM INTEGRATED CIRCUITS
+21
+8
+12
+13
+1
+89
+8.90
+Web of Science TM
+InCites TM
+Journal Citation Reports ®
+Essential Science Indicators SM
+EndNote TM
+Sign In 
+Help
+English 
+My Tools 
+Search History
+Marked List
+Times Cited -- highest to lowest
+1900
+2017
+1.
+2.
+3.
+Search
+Return to Search Results
+
+-----

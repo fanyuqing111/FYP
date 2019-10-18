@@ -1,0 +1,146 @@
+すべて
+2012 年以来
+引用
+4647
+2009
+h 指標
+35
+23
+i10 指標
+81
+48
+Indrakshi Ray
+Colorado State University
+Security and Privacy
+Databases
+Formal Methods
+タイトル
+引用先
+年
+UML2Alloy: A challenging model transformation
+K Anastasakis, B Bordbar, G Georg, I Ray
+International Conference on Model Driven Engineering Languages and
+Systems …
+291
+2007
+Aspect-oriented approach to early design modelling
+R France, I Ray, G Georg, S Ghosh
+IEE Proceedings-Software 151 (4), 173-185
+281
+2004
+On challenges of model transformation from UML to Alloy
+K Anastasakis, B Bordbar, G Georg, I Ray
+Software and Systems Modeling 9 (1), 69-86
+181
+2010
+Reducing damage assessment latency in survivable
+databases
+I Ray, RM McConnell, M Lunacek, V Kumar
+LECTURE NOTES IN COMPUTER SCIENCE., 106-111
+165
+2004
+Recovering from malicious attacks in workflow systems
+Y Zhu, T Xin, I Ray
+International Conference on Database and Expert Systems Applications,
+14-23
+162
+2005
+A semantic-based transaction processing model for multilevel
+transactions1
+I Ray, P Ammann, S Jajodia
+Journal of Computer Security 6 (3), 181-217
+162
+1998
+A spatio-temporal role-based access control model
+I Ray, M Toahchoodee
+Lecture notes in computer science 4602, 211
+151
+2007
+Using UML to visualize role-based access control constraints
+I Ray, N Li, R France, DK Kim
+Proceedings of the ninth ACM symposium on Access control models
+and …
+134
+2004
+LRBAC: a location-aware role-based access control model
+I Ray, M Kumar, L Yu
+International Conference on Information Systems Security, 147-161
+133
+2006
+
+-----
+タイトル
+引用先
+年
+Using aspects to design a secure system
+G Georg, I Ray, R France
+Engineering of Complex Computer Systems, 2002. Proceedings. Eighth
+IEEE …
+120
+2002
+An aspect-based approach to modeling access control
+concerns
+I Ray, R France, N Li, G Georg
+Information and Software Technology 46 (9), 575-587
+108
+2004
+An anonymous and failure resilient fair-exchange e-commerce
+protocol
+I Ray, I Ray, N Natarajan
+Decision Support Systems 39 (3), 267-292
+97
+2005
+Fair exchange in e-commerce
+I Ray, I Ray
+ACM SIGecom Exchanges 3 (2), 9-17
+94
+2002
+A cryptographic solution to implement access control in a
+hierarchy and more
+I Ray, I Ray, N Narasimhamurthi
+Proceedings of the seventh ACM symposium on Access control models
+and …
+91
+2002
+An anonymous electronic voting protocol for voting over the
+internet
+I Ray, I Ray, N Narasimhamurthi
+Advanced Issues of E-Commerce and Web-Based Information Systems,
+WECWIS 2001 …
+90
+2001
+Towards a location-based mandatory access control model
+I Ray, M Kumar
+Computers & Security 25 (1), 36-44
+85
+2006
+An optimistic fair exchange e-commerce protocol with
+automated dispute resolution
+I Ray, I Ray
+Electronic Commerce and Web Technologies, 84-93
+79
+2000
+An aspect-oriented methodology for designing secure
+applications
+G Georg, I Ray, K Anastasakis, B Bordbar, M Toahchoodee, SH Houmb
+Information and Software Technology 51 (5), 846-864
+78
+2009
+An interoperable context sensitive model of trust
+I Ray, I Ray, S Chakraborty
+Journal of Intelligent Information Systems 32 (1), 75-104
+71
+2009
+
+-----
+タイトル
+引用先
+年
+Achieving privacy in trust negotiations with an ontology-based
+approach
+AC Squicciarini, E Bertino, E Ferrari, I Ray
+IEEE Transactions on Dependable and Secure Computing 3 (1), 13-30
+65
+2006
+
+-----

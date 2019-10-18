@@ -1,0 +1,909 @@
+Bin He
+Distinguished McKnight University Professor of 
+Biomedical Engineering 
+Medtronic-Bakken Chair for Engineering in Medicine 
+Director, Institute for Engineering in Medicine 
+Director, Center for Neuroengineering
+• B.S., Electrical Engineering, Zhejiang University, 1982 
+• M.S., Electrical Engineering, Tokyo Institute of Technology, 1985 
+• Ph.D., Bioelectrical Engineering, Tokyo Institute of Technology, 1988 
+• Postdoctoral Fellowship in Biomedical Engineering, Harvard University - M.I.T., 1991 
+Biography
+Top
+Dr. Bin He received his BS in Electrical Engineering from Zhejiang University in 1982, and PhD in 
+Bioelectrical Engineering from Tokyo Institute of Technology, Japan, a Nobel Prize winning campus in 
+1988, both with the highest honors. He completed a postdoctoral fellowship in Biomedical Engineering at 
+Harvard University - M.I.T. After working as a Research Scientist at M.I.T., he was on the faculty of 
+Electrical Engineering and Bioengineering at the University of Illinois at Chicago, where he was named a 
+University Scholar by the President of the University of Illinois. From January 2004, he has been a 
+Professor of Biomedical Engineering and Director of Biomedical Functional Imaging and 
+Neuroengineering Laboratory at the University of Minnesota. Later he was appointed as a Distinguished 
+McKnight University Professor and Medtronic-Bakken Chair for Engineering in Medicine. He serves as 
+Director of the Institute for Engineering in Medicine, Director of the Center for Neuroengineering, 
+Director of the NSF IGERT Neuroengineering Training Program, as well as Director of the NIH 
+Neuroimaging Training Program, at the University of Minnesota. Dr. He also serves as Director of 
+Graduate Studies of PhD Minor in Neuroengineering, and served as Director of Undergraduate Studies in 
+Biomedical Engineering from 2004-2006. 
+Dr. He's research interests include neuroengineering, functional biomedical imaging, cardiovascular 
+engineering, and biomedical instrumentation. He has published over 230 articles in peer-reviewed core 
+international journals including Neuron, Brain, Journal of Neuroscience, Proceedings of the IEEE, 
+NeuroImage, Human Brain Mapping, Nanomedicine, Heart Rhythm, Epilepsia, Applied Physics Letters, 
+American Journal of Physiology, Journal of Neural Engineering, and various IEEE Transactions, including 
+IEEE Transactions on Biomedical Engineering, IEEE Transactions on Medical Imaging, and IEEE 
+Transactions on Neural Systems and Rehabilitation Engineering. He has also delivered over 40 plenary 
+and keynote talks in various international conferences and workshops. Dr. He’s research has been featured 
+by Nature, New York Times, BBC, CNN, NBC, CBS, ABC, Scientific American, Economist, New 
+Scientist, US News, NPR, among others. A video describing his work on mind controlled flying robot has 
+been viewed ~900,000 times. 
+Dr. He has been named the recipient of 2017 IEEE Technical Field Award of Biomedical 
+Engineering, and is a recipient of the Academic Career Achievement Award and the Distinguished Service 
+Award from the IEEE Engineering in Medicine and Biology Society, the Outstanding Research Award 
+from the International Federation of Clinical Neurophysiology, the Established Investigator Award from 
+the American Heart Association, and the CAREER Award from the National Science Foundation, among 
+others. He is an elected Fellow of the International Academy of Medical and Biological Engineering, 
+IEEE, the American Institute for Medical and Biological Engineering, and the Institute of Physics. Dr. He 
+serves as an Associate Editor or Editorial Board Member of multiple international journals in the field of 
+biomedical engineering, and is the Editor-in-Chief of IEEE Transactions on Biomedical Engineering. He 
+has served as the General Chair of the International Annual Conference of IEEE Engineering in Medicine 
+and Biology Society (2009), Chair of the IEEE EMBS Forum on Grand Challenges in Neuroengineering 
+(2010), Co-Chair of Scientific Committee of the World Congress on Medical Physics and Biomedical 
+Engineering (2012), Chair of IEEE Life Sciences Grand Challenges Conference (2012), Chair of IEEE 
+EMBS International Conference on Neural Engineering (2013), Chair of NSF Workshop on Mapping and 
+Engineering the Brain (2013), and Chair of IEEE EMBS BRAIN Grand Challenges Conference (2014). He 
+is a past president of the International Society of Bioelectromagnetism and of the International Society for 
+Functional Source Imaging, and was the 2009-2010 President of IEEE Engineering in Medicine and 
+Biology Society, consisting of 10,000+ members worldwide. He has been a Member of the NIH BRAIN 
+Multi-Council Working Group. 
+Dr. He has been fortunate to be associated with talented graduate and undergraduate students, and 
+postdoctoral associates, many of whom have taken faculty positions in academia in the US, Canada, Japan, 
+China and Korea, and in major corporations. Many of his PhD students received competitive fellowship 
+awards from various funding agencies or the University, or paper competition awards in international 
+conferences. 
+University Relations
+http://www.umn.edu/urelate
+612-624-6868 
+Page 1 of 11
+Dr. Bin He
+21/8/2017
+http://helab.umn.edu/bhe.htm
+
+-----
+Research Interests
+Top
+Dr. Bin He's major research interests are in the field of neuroengineering and biomedical imaging. 
+His research programs are funded by NIH (NIBIB, NCCIH, NINDS, NHLBI, NEI, OD), NSF, and ONR, 
+among other sponsors. The active research programs in Dr. He's lab are as follows. 
+Multimodal Functional Neuroimaging: Dr. He and his students have developed a unified theory for 
+multimodal neuroimaging integrating the BOLD functional MRI and electrophysiological imaging. 
+Hemodynamic neuroimaging, such as BOLD functional MRI, has high spatial resolution at mm scale but 
+very slow in time. Electrophysiological neuroimaging has high temporal resolution at ms scale but limited 
+spatial resolution. It has been a major frontier in the functional neuroimaging research to attempt to greatly 
+enhance spatio-temporal resolution by integrating functional MRI with electrophysiological imaging. Dr. 
+He and colleagues have developed a rigorous theory on neurovascular coupling, which provides a 
+principled way of integrating BOLD functional MRI signals with electrophysiological signals for event-
+related paradigms. The theory has been tested in human visual system and revealed a dramatic 
+improvement in performance in imaging human visual information pathways. Dr. He and his students have 
+further developed new algorithms to integrate fMRI and EEG/MEG signals for oscillatory brain activity. 
+Currently both theoretical and experimental studies are actively pursued in Dr. He's lab to further develop 
+the high resolution spatio-temporal functional neuroimaging modality, and to study the sensory, motor and 
+cognitive functions of the brain using EEG/fMRI. 
+Functional Neuroimaging of Epilepsy: Dr. He and colleagues have made significant contributions to 
+high-resolution electrophysiological neuroimaging aiding neurosurgical planning in epilepsy patients. Due 
+to the limited spatial resolution of scalp EEG, it is widely practiced in clinical settings that invasive 
+intracranial recordings are obtained, by placing electrode sensors directly on the surface of or within the 
+brain, to aid neurosurgical planning in patients with intractable epilepsy. Dr. He and his students have 
+developed an innovative epilepsy source imaging methodology, in which causal interactions among 
+sources are identified and imaged from noninvasive EEG recordings. Such imaging provides high spatial 
+resolution in imaging distributed brain sources within the 3-dimensional brain volume and reveals neural 
+interactions and connectivity embedded in the brain networks. Dr. He and colleagues have further 
+developed an ICA based seizure imaging methodology and conducted a rigorous validation study in a 
+group of epilepsy patients to image epileptogenic brain, and demonstrated high consistence between the 
+imaged seizure sources and the epileptogenic zones determined by well established clinical procedures in 
+the same patients. Active research is currently being pursued to further establish electrophysiological 
+neuroimaging as a noninvasive tool aiding surgical planning in epilepsy patients. Other than EEG/MEG 
+neuroimaging, Dr. He and his colleagues are also pursuing functional MRI mapping of epileptogenic zone 
+from fMRI. This line of work is carried in collaboration with Mayo Clinic and University of Minnesota 
+Medical Center.
+Electrical Properties Imaging: An important research program in Dr. He’s lab is the development and 
+investigation of novel approaches for noninvasive imaging of electrical properties of biological tissues, 
+including bioimpedance imaging. Dr. He and colleagues have proposed and developed a new approach 
+called magnetoacoustic tomography with magnetic induction (MAT-MI) by integrating ultrasound and 
+biomagnetism, in order to obtain high resolution image of electrical impedance of biological tissue. In the 
+MAT-MI approach, the object is placed in a static magnetic field and a pulsed magnetic field. The pulsed 
+magnetic field induces eddy current in the object. Consequently, the object emits ultrasonic waves through 
+the Lorentz force produced by the combination of the eddy current and the static magnetic field. The 
+acoustic waves are then collected by the detectors located around the object for image reconstruction. 
+MAT-MI takes the advantage of excellent contrast of electrical impedance and the high spatial resolution 
+of ultrasound. The recent work demonstrates that the MAT-MI approach can achieve mm spatial resolution 
+in imaging electrical impedance, which represents a significant advancement in comparison with the 
+spatial resolution of conventional electrical impedance imaging approach, and may play a critically 
+important role in early detection of breast cancer. Along the similar line, Dr. He and his colleagues have 
+been developing a MR based electrical properties tomography (EPT) approach using B1 mapping of MR 
+technology to reconstruct subject specific electrical properties distributions. EPT not only has great 
+potential for clinical applications in cancer detection and diagnosis but also promises to provide subject 
+specific SAR mapping, helping managing safety concerns in high or ultrahigh field MRI systems. The EPT 
+project is carried in collaboration with CMRR investigators. 
+Cardiac Electrical Tomography: Dr. He and colleagues have pioneered the development of 
+electrophysiological cardiac tomography in assessing dynamic cardiac functions. The electrocardiographic 
+inverse imaging problem has historically been solved using point dipole sources, epicardial potentials, or 
+heart surface activation patterns. Dr. He and colleagues have developed cardiac electrical tomography 
+techniques in his lab to image electrical functional information throughout the 3-dimensional volume of 
+the heart from noninvasive electrocardiographic measurements. In collaboration with collaborators at the 
+University of Alabama at Birmingham and the University of Minnesota Medical School, Dr. He and 
+colleagues have validated this cardiac electrical tomography technology in animal models including 
+rabbits, dogs, and swine where simultaneous intracardiac or intracavity potentials are measured together 
+with body surface potential mapping. Currently pilot clinical studies are being carried out to test the 
+efficacy and clinical applications of the cardiac electrical tomography techniques developed in Dr. He’s 
+lab. The establishment of such imaging techniques promises to greatly impact the management of cardiac 
+arrhythmia, a leading cause of public health problem in US and developed countries.
+Brain-Computer Interface: Dr. He has made pioneering contributions to noninvasive brain-computer 
+interface (BCI) research. This work is aimed at developing novel techniques for effectively decoding the 
+intention of human subjects and controlling external device, which may ultimately benefit patients 
+suffering from neurological disorders such as spinal cord injuries or stroke. Dr. He and his colleagues have 
+developed a time-frequency-spatial approach to extract the extremely weak signals accompanying the 
+“thought” of a human subject using an array of electrode sensors placed over the scalp. This method takes 
+the “signatures” of each individual subject and uses them for optimal decoding of the intention of the 
+human subject. Dr. He has proposed the concept of electrophysiological neuroimaging based BCI – an idea 
+to estimate “virtual” intracranial signals from the noninvasive EEG recordings for substantially improving 
+Page 2 of 11
+Dr. Bin He
+21/8/2017
+http://helab.umn.edu/bhe.htm
+
+-----
+the performance of noninvasive EEG based BCI. Dr. He and his colleagues have been aggressively 
+investigating the mechanisms associated with motor imagery based BCI by using advanced neuroimaging 
+techniques to delineate the brain sources accompanying motor imagery. Recently, Dr. He and his students 
+have developed a 3-dimensional continuous brain-computer interface system to allow human subjects to 
+control the flight of a flying robot from noninvasive brain waves. Click the video to see the mind 
+controlled flying robot.
+Neuromodulation: Dr. He and his colleagues are actively pursuing noninvasive neuromodulation 
+modalities including transcranial focused ultrasound (tFUS), transcranial magnetic stimulation (TMS), 
+transcranial direct current stimulation (tDCS), and transcranial alternate current stimulation (tACS). 
+Current interest ranges from basic studies of mechanisms of tFUS, TMS and tDCS/tACS by means of 
+dynamic brain mapping, to clinical investigations in patients with stroke and schizophrenia. Other than 
+treatment purposes, Dr. He and his students are pursuing perturbation based imaging in which 
+neuromodulation is used to perturb the central nervous systems and responses measured using various 
+neuroimaging methods for better understanding of brain circuits, networks and functions. 
+Selected Awards and Recognition
+Top
+• IEEE Technical Field Award of Biomedical Engineering, 2017 
+• Elected to Chair-Elect, International Academy of Medical and Biological Engineering, 2015
+• Academic Career Achievement Award, IEEE Engineering in Medicine and Biology Society, 2015
+• Distinguished Service Award, IEEE Engineering in Medicine and Biology Society, 2014
+• Outstanding Research Award, International Federation of Clinical Neurophysiology, 2012
+• Fellow, International Academy of Medical and Biological Engineering, 2012
+• Medtronic-Bakken Chair for Engineering in Medicine, 2012
+• Co-Chair, IEEE Life Sciences Project Team, 2011-2013 
+• President, IEEE Engineering in Medicine and Biology Society (EMBS), 2009 - 2010
+• Distinguished McKnight University Professorship, 2009
+• President, International Society for Functional Source Imaging, 2007-2008 
+• Fellow, American Institute of Medical and Biological Engineering, 2005
+• Fellow, IEEE, 2004
+• President, International Society of Bioelectromagnetism, 2002-2005 
+• American Heart Association Established Investigator Award, 2001
+• National Science Foundation CAREER Award, 1999
+• University of Illinois University Scholar Award, 1999 
+Editorial Activities (active)
+Top
+• Editor-in-Chief, IEEE Transactions on Biomedical Engineering (2013-Present).
+• Senior Editor, IEEE Transactions on Neural Systems and Rehabilitation Engineering (2012-Present). 
+• Section Editor, Brain Topography (2007-Present). 
+• Academic Editor, PLoS ONE (2014-Present).
+• Editorial Board Member, Current Opinion in Biomedical Engineering (2016-Present).
+• Editorial Board Member, TECHNOLOGY (2013-Present)
+Selected Conference Activities
+Top
+• International Program Committee Chair, IEEE EMBS Annual International Conference, 2020. 
+• Conference Chair, IEEE EMBS BRAIN Grand Challenges Conference, 2014. 
+• Conference Co-Chair, IEEE International Symposium on Biomedical Imaging, 2014.
+• Chair, NSF Workshop on Mapping and Engineering the Brain, 2013. 
+• Conference Chair, Minnesota Neuromodulation Symposium, 2013-Present.
+• Conference Chair, IEEE EMBS International Conference on Neural Engineering, 2013.
+• Conference Chair, IEEE Life Sciences Grand Challenges Conference, 2012.
+• Co-Chair, Scientific Committee, World Congress on Medical Physics and Biomedical Engineering, 
+2012.
+• Chair, Steering Committee, IEEE EMBS Forum on Grand Challenges in Neuroengineering, 2010.
+• Conference Chair, the Annual International Conference of IEEE Engineering in Medicine and Biology 
+Society, 2009. 
+Publications
+Top
+Edited Books
+• He B (Ed): "Neural Engineering," Second Edition, Springer, 2013.
+• Sigg D, Iaizzo P, Yang X, He B (eds): Cardiac Electrophysiology Methods and Models, Springer, 
+2010. 
+• He B (Ed): "Neural Engineering," Kluwer Academic/Plenum Publishers, 2005.
+• He B (Ed): "Modeling & Imaging of Bioelectrical Activity: Principles and Applications," Kluwer 
+Academic Publishers, 2004.
+Books Chapters
+Page 3 of 11
+Dr. Bin He
+21/8/2017
+http://helab.umn.edu/bhe.htm
+
+-----
+• Michel C, He B: “EEG Mapping and Source Imaging,” In: D. Schomer, F. Lopes da Silva (eds): 
+Niedermeyer's Electroencephalography, 7th edition. Wolters Kluwer & Lippincott Williams & 
+Wilkins, Philadelphia, in press. 
+• He B, Gao S, Yuan H, Wolpaw J: “Brain-Computer Interface,” In He B (Ed): Neural Engineering, 
+Springer, pp. 87-151, 2013..
+• He B and Ding L: “Electrophysiological Neuroimaging,” In He B (Ed): Neural Engineering, Springer, 
+499-544, 2013. 
+• Ding M and He B: “Exploring Functional and Causal Connectivity in the Brain,” In He B (Ed): Neural 
+Engineering, Springer, 545-564, 2013. 
+• Michel C, He B: “EEG Mapping and Source Imaging,” In: D. Schomer, F. Lopes da Silva (eds): 
+Niedermeyer's Electroencephalography, 6th edition. Wolters Kluwer & Lippincott Williams & 
+Wilkins, Philadelphia, Chapter 55, pp. 1179-1202, 2011.
+• He B, Liu C: “Noninvasive Electrophysiological Imaging of Cardiac Electric Activity,” In: Sigg, 
+Iaizzo, Yang, He (eds): Cardiac Electrophysiology Methods and Models, Springer, 357-374, 2010.
+• He B, Hori J, Babiloni F: “EEG Inverse Problems,” In Akay M (Ed): Wiley Encyclopedia in 
+Biomedical Engineering, John Wiley & Sons, Inc., Vol. 2, 1355-1363, 2006.
+• Y Okamoto, He B: “ECG Inverse Problems,” In Akay M (Ed): Wiley Encyclopedia in Biomedical 
+Engineering, John Wiley & Sons, Inc., Vol. 2, 1275-1283, 2006.
+• He B, Lian J: “Electrophysiological Neuroimaging,” In He B (Ed): Neural Engineering, Kluwer 
+Academic/Plenum Publishers, 221-262, 2005.
+• Vallabhaneni A, Wang T, He B: “Brain Computer Interface,” In He B (Ed): Neural Engineering, 
+Kluwer Academic/Plenum Publishers, 85-122, 2005.
+• He B: “Electrocardiographic Tomographic Imaging,” In He B (Ed): Modeling and Imaging of 
+Bioelectric Activity – Principles and Applications, Kluwer Academic/Plenum Publishers, 161-182, 
+2004.
+• He B, Lian J: “Body Surface Laplacian Mapping of Bioelectric Sources,” In He B (Ed): Modeling and 
+Imaging of Bioelectric Activity – Principles and Applications, Kluwer Academic/Plenum Publishers, 
+183-212, 2004.
+• He B, Yao D, Wu D: "Imaging Brain Electrical Activity," In JC Lin (Ed): Advances in 
+Electromagnetic Fields in Living Systems, Vol. 3, Plenum Publishers, 73-120, 2000.
+• He B, Wu D: “On the Feasibility of Solving Electrocardiographic Inverse Problems using Laplacian 
+ECG,” In P Johnston (Ed): Computational Inverse Problems in Electrocardiography, WIT Press, 89-
+118, 2000.
+• Rosenbaum D, He B, & Cohen RJ: "New approaches for evaluating cardiac electrical activity: 
+Repolarization alternans and body surface Laplacian imaging," In: Cardiac Electrophysiology, Zipes 
+& Julife Eds., 1187-1197, 1995.
+Articles Published in Peer-reviewed Journals since 2004
+2017
+1. Aarabi A, He B: “Seizure prediction in patients with focal hippocampal epilepsy,” Clinical 
+Neurophysiology, in press.
+2. Roy A, Jamison K, He S, Engel S, He B: “Deactivation in the posterior mid-cingulate cortex reflects 
+perceptual transitions during binocular rivalry: Evidence from simultaneous EEG-fMRI,” 
+NeuroImage, 152: 1-11, 2017.
+3. Liu J, Shao Q, Wang Y, Adriany G, Bischof J, Van de Moortele P-F, He B: “In vivo imaging of 
+electrical properties of an animal tumor model with an 8-channel transceiver array at 7 T using 
+electrical properties tomography,”  Magnetic Resonance in Medicine, in press. 
+4. Petrichella S, Johnson N, He B: “The Influence of Corticospinal Activity on TMS-Evoked Activity 
+and 
+Connectivity 
+in 
+Healthy 
+Subjects: 
+A 
+TMS-EEG 
+Study,” 
+PLoS 
+ONE, 12(4): 
+e0174879. https://doi.org/10.1371/journal.pone.0174879, 2017. 
+5. Case M, Zhang H, Mundahl J, Datta Y, Nelson S, Gipta K, He B: “Characterization of functional brain 
+activity and connectivity using EEG and fMRI in patients with sickle cell disease,” NeuroImage: 
+Clinical, 14: 1-17, 2017. 
+2016
+1. Meng J, Zhang S, Bekyo A, Olsoe J, Baxter B, He B: “Noninvasive Electroencephalogram Based 
+Control of a Robotic Arm for Reach and Grasp Tasks,” Scientific Reports 6, 38565, 
+doi:10.1038/srep38565, 2016. 
+2. Sohrabpour A, Ye S, Worrell G, Zhang W, He B: “Noninvasive Electromagnetic Source Imaging and 
+Granger Causality Analysis: An Electrophysiological Connectome (eConnectome) Approach,” IEEE 
+Transactions on Biomedical Engineering, 63: 2474-2487, 2016. 
+3. He B: “Focused Ultrasound Help Realize High Spatiotemporal Brain Imaging?—A Concept on 
+Acousto-Electrophysiological Neuroimaging,” IEEE Transactions on Biomedical Engineering, 63: 
+2654-2656, 2016. 
+4. Yu K, Sohrabpour A, He B: “Electrophysiological Source Imaging of Brain Networks Perturbed by 
+Low-intensity Transcranial Focused Ultrasound,” IEEE Transactions on Biomedical Engineering, 63: 
+1787-1794, 2016. 
+5. Sohrabpour A, Lu Y, Worrell G, He B: “Imaging Brain Source Extent from EEG/MEG by Means of 
+an Iteratively Reweighted Edge Sparsity Minimization (IRES) Strategy,” NeuroImage, 142: 27-42, 
+2016.   
+6. Baxter B, Edelman B, Nesbitt N, He B: “Sensorimotor Rhythm BCI with Simultaneous High 
+Definition-Transcranial Direct Current Stimulation Alters Task Performance,” Brain Stimulation, 9: 
+834-841, 2016. 
+7. Zhang CH, Sohrabpour A, Lu Y, He B: “Spectral and spatial changes of brain rhythmic activity in 
+response to the sustained thermal pain stimulation," Human Brain Mapping, 37: 2976-2991, 2016. 
+Page 4 of 11
+Dr. Bin He
+21/8/2017
+http://helab.umn.edu/bhe.htm
+
+-----
+8. Yu K, Shao Q, Ashkenazi S, Bischof J, He B: “In Vivo Electrical Conductivity Contrast Imaging in a 
+Mouse Model of Cancer Using High-frequency Magnetoacoustic Tomography with Magnetic 
+Induction (hfMAT-MI),” IEEE Transactions on Medical Imaging, 35: 2301-2311, 2016. 
+9. Liu J, Van de Moortele PF, Zhang X, Wang Y, He B: “Simultaneous Quantitative Imaging of 
+Electrical Properties and Proton Density from B1 Maps Using MRI,” IEEE Transactions on Medical 
+Imaging, 35: 2064-2073, 2016. 
+10. Zhou Z, Jin Q, Yu L, Wu L, He B: “Noninvasive Imaging of Human Atrial Activation during Atrial 
+Flutter and Normal Rhythm from Body Surface Potential Maps,” PLoS ONE 11(10): e0163445. 
+doi:10.1371/journal.pone.0163445, 2016. 
+11. Li X, Yu K, He B: “Magnetoacoustic tomography with magnetic induction (MAT-MI) for imaging 
+electrical conductivity of biological tissue: A tutorial review," Physics in Medicine and Biology, 61: 
+R249-R270, 2016. 
+12. Zhou Z, Jin Q, Chen LY, Yu L, Wu L, He B: “Noninvasive Imaging of High Frequency Drivers and 
+Reconstruction of Global Dominant Frequency Maps in Patients with Paroxysmal and Persistent Atrial 
+Fibrillation,” IEEE Transactions on Biomedical Engineering, 63(6): 1333-1340, 2016. 
+13. Mariappan L, Shao Q, Jiang C, Yu K, Ashkenazi S, Bischof J, He B: “Magneto acoustic tomography 
+with short pulsed magnetic field for in-vivo imaging of magnetic iron oxide nanoparticles,” 
+Nanomedicine: Nanotechnology, Biology, and Medicine, 12(3): 689–699, 2016.  
+14. Edelman B, Baxter B, He B: “EEG Source Imaging Enhances the Decoding of Complex Right Hand 
+Motor Imagery Tasks,” IEEE Transactions on Biomedical Engineering, 63(1): 4-14, 2016. 
+15. Katyal S, Engle S, He B, He S: “Active neural signals for the initiation of binocular rivalry," Journal 
+of Vision, 16, 18. doi:10.1167/16.3.18, 2016. 
+16. Toppi J, Borghini G, Petti M, He EJ, De Giusti V, He B, Astolfi L, Babiloni F: “Investigating 
+Cooperative Behavior in Ecological Settings: An EEG Hyperscanning Study,” PLoS ONE 11(4): 
+e0154236. doi:10.1371/journal.pone.0154236, 2016. 
+17. He B, Sohrabpour A: “Imaging Epileptogenic Brain using High Density EEG Source Imaging and 
+MRI,” Clinical Neurophysiology, 127(1): 5-7, 2016. 
+2015
+1. Edelman B, Johnson N, Sohrabpour A, Tong S, Thakor N, He B: “Systems Neuroengineering : 
+Understanding and Interacting with the Brain,” Engineering, 1(3): 292-308, 2015.  
+2. Wu X, Zhang XT, Tian J, Schmitter S, Hann B, Strupp J, Pfeuffer J, Hamm M, Wang D, Nistler J, He 
+B, Vaughan JT, Ugurbil K, Van de Moortele PF: “Comparison of radiofrequency body coils for MRI 
+at 3 Tesla: a simulation study using parallel transmission on various anatomical targets,” NMR in 
+Biomedicine, 28(10): 1332-1344, 2015. 
+3. Zhang H, Sha Z, Mundahl J, Liu S, Lu Y, Henry TR, He B: “Thalamocortical relationship in epileptic 
+patients with generalized spike and wave discharges - a multimodal imaging study,” NeuroImage: 
+Clinical, 9: 117-127, 2015. 
+4. He B, Baxter B, Edelman B, Cline C, Ye W: “Noninvasive brain-computer interfaces based on 
+sensorimotor rhythms,” Proceedings of the IEEE, 103(6): 907-925, 2015.  
+5. Yu L, Zhou Z, He B: “Temporal Sparse Promoting Three Dimensional Imaging of Cardiac 
+Activation,” IEEE Transactions on Medical Imaging, 34(11): 2309-2319, 2015. 
+6. Shan H, Xu H, Zhu S, He B: "A novel channel selection method for optimal classification in different 
+motor imagery BCI paradigms," BioMedical Engineering OnLine, 14:93, doi:10.1186/s12938-015-
+0087-4, 2015. 
+7. Han C, Pogwizd SM, Yu L, Zhou Z, Killingsworth CR, He B: “Imaging Cardiac Activation Sequence 
+during Ventricular Tachycardia in a Canine Model of Nonischemic Heart Failure,” American Journal 
+of Physiology-Heart and Circulatory Physiology, 308(2): H108-114, 2015 (Cover article). 
+8. Zhou Z, Han C, Yang T, and He B: “Noninvasive Imaging of 3-dimensioal Myocardial Infarction 
+from the Inverse Solution of Equivalent Current Density in Pathological Hearts,” IEEE Transactions 
+on Biomedical Engineering, 62(2):468-476, 2015.  
+9. Sohrabpour A, Lu Y, Kankirawatana P, Blount J, Kim H, He B: “Effect of EEG Electrode Number on 
+Epileptic Source Localization in Pediatric Patients,” Clinical Neurophysiology, 126(3):472-480, 2015 
+(Cover article). 
+10. Jamison KW, Roy AV, He S, Engel SA, He B: “SSVEP Signatures of Binocular Rivalry During 
+Simultaneous EEG and fMRI,” Journal of Neuroscience Methods, 243:53-62, 2015. 
+11. Liu J, Zhang XT, Schmitter S, Van de Moortele PF, He B: “Gradient-based electrical properties 
+tomography (gEPT): A robust method for mapping electrical properties of biological tissues in vivo 
+using magnetic resonance imaging,” Magnetic Resonance in Medicine, 74(3):634-646, 2015.
+2014
+1. Zhang XT, Van de Moortele PF, Liu J, Schmitter S, He B: "Quantitative Prediction of RF Induced 
+Local Heating Derived from B1 Maps in MRI: A Phantom Validation at 7T," Applied Physics Letters, 
+105, 244101, 2014 (cover article).  
+2. Cassady K, You A, Doud A, He B: “The impact of mind-body awareness training on the early learning 
+of a brain-computer interface,” Technology, 2(3): 254-260, 2014. 
+3. Xu H, Lu Y, Zhu S, He B: “Assessing Dynamic Spectral Causality by Lagged Adaptive Directed 
+Transfer Function and Instantaneous Effect Factor,” IEEE Transactions on Biomedical Engineering, 
+61(7): 1979-1988, 2014. 
+4. Mariappan L, Hu G, He B: “Magnetoacoustic tomography with magnetic induction for high-resolution 
+bioimepedance imaging through vector source reconstruction under the static field of MRI magnet,” 
+Medical Physics, 41, 022902, 2014. 
+5. Zhang H, Lu Y, Brinkmann B, Welker K, Worrell G, He B: Lateralization and Localization of 
+Epilepsy Related Hemodynamic Foci Using Presurgical fMRI,” Clinical Neurophysiology, S1388-
+2457(14)00221-1, 2014.   
+6. Roy A, Baxter B, He B: "High definition transcranial direct current stimulation induces both acute and 
+persistent changes in broadband cortical synchronization: a simultaneous tDCS-EEG study," IEEE 
+Transactions on Biomedical Engineering, 61(7): 1967-1978, 2014.
+Page 5 of 11
+Dr. Bin He
+21/8/2017
+http://helab.umn.edu/bhe.htm
+
+-----
+7. Sun J, Tang Y, Lim KO, Wang J, Tong S, Li H, He B: “Abnormal Dynamics of EEG Oscillations in 
+Schizophrenia Patients on Multiple Time Scales,” IEEE Transactions on Biomedical Engineering, 61
+(6): 1756-1764, 2014.
+8. Aarabi A & He B: “Seizure Prediction in Hippocampal and Neocortical Epilepsy Using a Model-based 
+Approach,” Clinical Neurophysiology, 125(5):930-940, 2014. 
+9. Yuan H & He B: "Brain-Computer Interfaces Using Sensorimotor Rhythms: Current State and Future 
+Perspectives," IEEE Transactions on Biomedical Engineering, 61(5): 1425-1435, 2014 (Cover article).
+10. Zhang XT, Liu J, He B: “Magnetic Resonance Based Electrical Properties Tomography: A Review,” 
+IEEE Reviews in Biomedical Engineering, 7: 87-96, 2014.
+11. Lu Y, Worrell G, Zhang H, Yang L, Brinkmann B, Nelson C, He B:“Noninvasive Imaging of the High 
+Frequency Brain Activity in Focal Epilepsy Patients,” IEEE Transactions on Biomedical Engineering, 
+61(6): 1660-1667, 2014.
+12. Zhou L, Zhu S, He B: “A Reconstruction Algorithm of Magnetoacoustic Tomography with Magnetic 
+Induction for Acoustically Inhomogeneous Tissue,” IEEE Transactions on Biomedical Engineering, 
+61(6): 1739-1746, 2014. 
+2013
+1. LaFleur K, Cassady K, Doud A, Shades K, Rogin E, He B: “Quadcopter control in three-dimensional 
+space using a noninvasive motor imagery based brain-computer interface,” Journal of Neural 
+Engineering, 10: 046003, 2013 (Featured in Nature; downloaded over 50,000 times).
+2. Zhang XT, Schmitter S, Van de Moortele PF, Liu J, He B: “From Complex B1 Mapping to Local SAR 
+Estimation for Human Brain MR Imaging Using Multi-channel Transceiver Coil at 7T,” IEEE 
+Transactions on Medical Imaging, 32(6): 1058-1067, 2013.
+3. Han C, Pogwizd S, Killingsworth C, Zhou Z, He B: “Noninvasive cardiac activation imaging of 
+ventricular arrhythmias during drug-induced QT prolongation in the rabbit heart,” Heart Rhythm, 10
+(10):1509-1515, 2013. 
+4. He B, Coleman T, Genin GM, Glover G, Hu X, Johnson N, Liu T, Makeig S, Sajda P, Ye K: “Grand 
+Challenges in Mapping the Human Brain: NSF Workshop Report,” IEEE Transactions on Biomedical 
+Engineering, 60(11): 2983-2992, 2013.
+5. Liu J, Zhang XT, Van de Moortele PF, Schmitter S, He B: “Determining electrical properties based on 
+B(1) fields measured in an MR scanner using a multi-channel transmit/receive coil: a general 
+approach,” Physics in Medicine and Biology, 58(13):4395-4408, 2013. 
+6. Yang R, Li X, Song A, He B, Yan R: “A 3-D Reconstruction Solution to Current Density Imaging 
+Based on Acoustoelectric Effect by Deconvolution: A Simulation Study,” IEEE Transactions on 
+Biomedical Engineering, 60(5): 1181 – 1190, 2013. 
+7. Lai D, Sun J, Li Y, He B: “Usefulness of ventricular endocardial electric reconstruction from body 
+surface maps to noninvasively localize ventricular ectopic activity in patients,” Physics in Medicine 
+and Biology, 58, 3897-3909, 2013. 
+8. He B, Baird R, Butera R, Datta A, George S, Hecht B, Hero A, Lazzi G, Lee RC, Liang J, Neuman M, 
+Peng GCY, Perreault EJ, Ramasubramanian M, Wang MD, Wikswo J, Yang GZ, Zhang YT: “Grand 
+Challenges in Interfacing Engineering with Life Sciences and Medicine,” IEEE Transactions on 
+Biomedical Engineering. 60(3): 589 – 598, 2013. 
+9. Johnson MD, Lim HH, Netoff TI, Connolly AT, Johnson N, Roy A, Holt A, Lim KO, Carey JR, Vitek 
+JL, and He B: “Neuromodulation for Brain Disorders: Challenges and Opportunities,” IEEE 
+Transactions on Biomedical Engineering. 60(3): 610-624, 2013 (Cover article). 
+10. Zhang X, de Moortele PFV, Schmitter S and He B: “Complex B1 mapping and electrical properties 
+imaging of the human brain using a 16-channel transceiver coil at 7T,” Magn Reson Med. 69: 1285
+–1296, 2013. 
+11. Mariappan L & He B: “Magnetoacoustic tomography with magnetic induction: Bioimepedance 
+reconstruction through vector source imaging,” IEEE Transactions on Medical Imaging. 32(3):619-
+627, 2013. 
+12. Bolaños M, Bernat EM, He B, Aviyente S: “A weighted small world network measure for assessing 
+functional connectivity,” Journal of Neuroscience Methods. 212(1):133-142, 2013. 
+13. Gultepe E, He B: “A Linear/nonlinear characterization of Resting State Brain Networks in fMRI Time 
+series,” Brain Topography, 26(1): 39-49, 2013. 
+2012
+1. Liu C, Eggen M, Swingen C, Iaizzo P, He B: “Noninvasive Mapping of Transmural Potentials in 
+Swine Hearts from Body Surface Electrocardiograms,” IEEE Transactions on Medical Imaging, 31(9): 
+1777-1785, 2012.
+2. Yang L, Worrell G, Nelson C, Brinkmann B, He B: “Spectral and spatial shifts of postictal slow waves 
+in temporal lobe seizures,” Brain, 135(10): 3134-3143, 2012.
+3. Yang R, Li X, Song A, He B, Yan R: “Three-dimensional noninvasive ultrasound Joule heat 
+tomography based on the acousto-electric effect using unipolar pulses: A simulation study,” Physics in 
+Medicine and Biology, 57(22): 7689-7708, 2012. 
+4. Lu Y, Yang L, Worrell G, Brinkmann B, Nelson C, He B: “Dynamic imaging of seizure activity in 
+pediatric epilepsy patients,” Clinical Neurophysiology, 123: 2122-2129, 2012 (Cover article).
+5. Aarabi A, He B: “A rule-based seizure prediction method for focal neocortical epilepsy,” Clinical 
+Neurophysiology, 123(6): 1111-1122, 2012 (Award winning). 
+6. Lu Y, Yang L, Worrell G, He B: “Seizure source imaging by means of FINE spatio-temporal dipole 
+localization and directed transfer function in partial epilepsy patients,” Clinical Neurophysiology, 123
+(7): 1275-1283, 2012.  
+7. Hu G and He B: “Magnetoacoustic imaging of magnetic iron oxide nanoparticles embedded in 
+biological tissues with microsecond magnetic stimulation,” Applied Physics Letters, 100(1): 13704, 
+2012. 
+8. Han C, Pogwizd S, Killingsworth C, He B: “Noninvasive Reconstruction of the Three-dimensional 
+Ventricular Activation Sequence during Pacing and Ventricular Tachycardia in the Canine Heart,” 
+American Journal of Physiology-Heart and Circulatory Physiology, 302(1): H244-H252, 2012. 
+9. Dai Y, Zhang W, Dickens DL, He B: "Source connectivity analysis from MEG and its application to 
+epilepsy source localization," Brain Topography, 15(2): 157-166, 2012. 
+Page 6 of 11
+Dr. Bin He
+21/8/2017
+http://helab.umn.edu/bhe.htm
+
+-----
+2011
+1. Zhang P, Jamison K, Engel S, He B, He S: “Binocular rivalry requires visual attention,” Neuron, 362
+–369, 2011. 
+2. Yuan H, Perdoni C, Yang L, He B: “Distributed and disparate coupling of low-frequency EEG 
+oscillations with positive/negative BOLD responses during unilateral hand movements,” Journal of 
+Neuroscience, 31(26): 9585–9593, 2011. 
+3. Yang L, Wilke C, Brinkmann B, Worrell GA, He B: “Dynamic Imaging of Ictal Oscillations Using 
+Non-invasive High-Resolution EEG,” NeuroImage, 56: 1908-1917, 2011. 
+4. Doud AJ, Lucas JP, Pisansky MT, He B: “Continuous Three-Dimensional Control of a Virtual 
+Helicopter Using a Motor Imagery Based Brain-Computer Interface,” PLoS ONE 6(10): e26322. 
+doi:10.1371/journal.pone.0026322, 2011. 
+5. Han C, Pogwizd S, Killingsworth C, He B: “Noninvasive Imaging of Three-dimensional Cardiac 
+Activation Sequence in Hearts with Pacing and Ventricular Tachycardia: A Quantitative Comparison 
+to Intra-cardiac Mapping on a Rabbit Model,” Heart Rhythm, 8(8): 1266-1272, 2011. 
+6. Hu G, He B: “Magnetoacoutic Imaging of Electrical Conductivity of Biological Tissues with Magnetic 
+Induction 
+at 
+a 
+Spatial 
+Resolution 
+Better 
+than 
+2mm,” 
+PLoS 
+ONE 
+6(8): 
+e23421. 
+doi:10.1371/journal.pone.0023421, 2011. 
+7. Qin J, Perdoni C, He B: “One isn’t home when the lights are on: Dissociation of mind wandering and 
+attention lapse by EEG high frequency rhythmic activities,” PLoS ONE, 6(9): e23124. 
+doi:10.1371/journal.pone.0023124, 2011. 
+8. Astolfi L, Cincotti F, Mattia D, De Vico Fallani F, Salinari S, Vecchiato G, Toppi J, Wilke C, Doud A, 
+Yuan H, He B, Babiloni F: “Imaging the Social Brain by Simultaneous “Hyperscanning” of Different 
+Subjects during their Mutual Interactions,” IEEE Intelligent Systems, 26(5): 38 – 45, 2011. 
+9. Yang R, Li X, Liu J, He B: “3D current source density imaging based on acoustoelectric effect: theory 
+and simulation study,” Physics in Medicine and Biology, 56: 3825-3842, 2011. 
+10. Lai D, Liu C, Eggen M, Iaizzo P, He B: "Localization of Endocardial Ectopic Activity by Means of 
+Noninvasive Endocardial Surface Current Density Reconstruction," Physics in Medicine and Biology, 
+56: 4161-4176, 2011. 
+11. Wang G, Yang L, Wilke C, Worrell G, He B: “Interictal spike analysis of high density EEG in patients 
+with partial epilepsy,” Clinical Neurophysiology, 122(6):1098-1105, 2011 (with editorial). 
+12. He B, Yang L, Wilke C, Yuan H: “Electrophysiological Imaging of Brain Activity and Connectivity – 
+Challenges and Opportunities,” IEEE Transactions on Biomedical Engineering, 58 (7): 1918-1931, 
+2011 (Cover Article). 
+13. He B, Dai Y, Astolfi L, Babiloni F, Yuan H, Yang L: "eConnectome: A MATLAB Toolbox for 
+Mapping and Imaging of Brain Functional Connectivity," Journal of Neuroscience Methods, 195
+(2):261-269, 2011. 
+14. Royer A, Rose M, He B: “Goal Selection vs. Process Control while Learning to Use a Brain-Computer 
+Interface,” Journal of Neural Engineering, 8(3):036012, 2011. 
+15. Wilke C, Worrell G, He B: “Graph Analysis of Epileptogenic Networks,” Epilepsia, 52(1):84-93, 
+2011. 
+16. Hu G, Cressman E, He B: “Magnetoacoustic imaging of human liver tumor with magnetic induction,” 
+Applied Physics Letters, 98(2):23703, 2011. 
+17. Ding L, Ni Y, Sweeney J, He B: “Sparse Cortical Current Density Imaging of Motor Potentials 
+Induced by Finger Movement,” Journal of Neural Engineering, 8(3):036008, 2011. 
+18. Liu C, Iaizzo PA, He B: “Three-dimensional Imaging of Intramural Ventricular Activation and 
+Electrograms from Intracavitary Recordings,” IEEE Transactions on Biomedical Engineering, 58
+(4):868-875, 2011.
+19. Mariappan L, Li X, He B: "B-Scan Based Acoustic Source Reconstruction for Magnetoacoustic 
+Tomography with Magnetic Induction (MAT-MI),” IEEE Transactions on Biomedical Engineering, 58
+(3):713-720, 2011. 
+20. Liu C and He B: “Non-invasive Estimation of Global Activation Sequence using Extended Kalman 
+Filter,” IEEE Transactions on Biomedical Engineering, 58(3):541-549, 2011. 
+21. Zhou L, Li X, Zhu S, He B: "Magnetoacoustic Tomography with Magnetic Induction (MAT-MI) for 
+Breast Tumor Imaging: Numerical Modeling and Simulation," Physics in Medicine and Biology, 56
+(7):1967-1983, 2011. 
+22. Bai X, Towle VL, van Drongelen W, He B: “Cortical Potential Imaging of Somatosensory Evoked 
+Potentials by Means of the Boundary Element Method in Pediatric Epilepsy Patients,” Brain 
+Topography, 23(4):333-43, 2011. 
+23. Lai Y, Zhang, X, van Drongelen, W, Korhman, M, Hecox, K, Ni, Y, He B: Noninvasive Cortical 
+Imaging of Epileptiform Activities from Interictal Spikes in Pediatric Patients, NeuroImage, 54(1): 
+244-252, 2011. 
+2010
+1. Bao M, Yang L, Rios C, He B, Engel S: “Perceptual learning increases the strength of the earliest 
+signals in visual cortex,” Journal of Neuroscience, 30(45): 15080-15084, 2010.
+2. Li X, Mariappan L, Hu G, He B: “Three-dimensional Multi-Excitation Magnetoacoustic Tomography 
+with Magnetic Induction,” Journal of Applied Physics, 108, 124702, 2010. 
+3. Royer A, Doud A, Rose M, He B: “EEG Control of a Virtual Helicopter in 3-Dimensional Space 
+Using Intelligent Control Strategies,” IEEE Transactions on Neural Systems and Rehabilitation 
+Engineering, 18: 581-589, 2010 (Cover Article). 
+4. De Vico Fallani F, Nicosia V, Sinatra R, Astolfi L, Cincotti F, Mattia D, Wilke C, Doud A, Latora V, 
+He B, Babiloni F: “Defecting or not defecting: how to “read” human behavior during cooperative 
+games by means of EEG based functional connectivity analysis,” PLoS ONE, 5(12):e14187, 2010. 
+5. Hu G, Li X, He B: “Imaging biological tissues with electrical conductivity contrast below 1 Sm-1 by 
+means of magnetoacoustic tomography with magnetic induction,” Applied Physics Letters, 97(10): 
+103705, 2010. 
+6. Lai D, Liu C, Eggen MD, Iaizzo PA, He B: “Equivalent Moving Dipole Localization of Cardiac 
+Ectopic Activity in a Swine Model during Pacing,” IEEE Transactions on Information Technology in 
+Biomedicine, 14(6): 1318-1326, 2010 (Cover Article).
+Page 7 of 11
+Dr. Bin He
+21/8/2017
+http://helab.umn.edu/bhe.htm
+
+-----
+7. Li X, He B: “Multi-Excitation Magnetoacoustic Tomography with Magnetic Induction for 
+Bioimpedance Imaging,” IEEE Transactions on Medical Imaging, 29(10): 1759-1767, 2010.
+8. Yang L, Liu ZM, He B: “EEG-fMRI reciprocal functional neuroimaging,” Clinical Neurophysiology, 
+21(8): 1240-50, 2010. (Cover Article). 
+9. Liu ZM, Rios C, Zhang N, Yang L, Chen W, He B: “Linear and Nonlinear Relationships between 
+Visual Stimuli, EEG and BOLD fMRI Signals,” NeuroImage, 50: 1054-1066, 2010. 
+10. Yuan H, Perdoni C, He B: “Relationship between Speed and EEG Activity during Imagined and 
+Executed 
+Hand 
+Movements,” 
+Journal 
+of 
+Neural 
+Engineering, 
+7(2), 
+doi:10.1088/1741-
+2560/7/2/026001, 2010.
+11. Yuan H, Liu T, Szarkowski R, Savage M, Ashe J, He B: “An EEG and fMRI Study of Motor Imagery: 
+Negative Correlation of BOLD and EEG Activity in Primary Motor Cortex,” NeuroImage, 49: 2596-
+2606, 2010. 
+12. Zhang XT, Zhu S, He B: “Magnetic Resonance Electric Properties Imaging of Biological Tissues,” 
+IEEE Transactions on Medical Imaging, 29(2): 474-81, 2010. 
+13. Xia R, Li X, He B: “A Comparison Study of Three Different Image Reconstruction Algorithms for 
+MAT-MI,” IEEE Transactions on Biomedical Engineering, 57(3): 708-713, 2010. 
+14. Wilke C, van Drongelen W, Kohrman M, He B:  “Neocortical seizure foci localization by means of a 
+directed transfer function method,” Epilepsia, 51: 564-572, 2010. 
+15. Wilke C, van Drongelen W, Kohrman M, He B:  “Identification of epileptogenic foci from causal 
+analysis of ECoG interictal spike activity,” Clinical Neurophysiology, 120(8): 1449-56, 2010. 
+2009
+1. Ding L, Zhang N, Chen W, He B: “Three-dimensional Imaging of Complex Neural Activation in 
+Humans from EEG,” IEEE Transactions on Biomedical Engineering, 56(8): 1980-8, 2009. 
+2. Lee WH, Liu ZM, Mueller BA, Lim K, He B: “Influence of white matter anisotropic conductivity on 
+EEG source localization: Comparison to fMRI in human primary visual cortex,” Clinical 
+Neurophysiology, 120: 2071–2081, 2009 (Cover Article).
+3. Liu Z, Zhang N, Chen W, He B: “Mapping the Bilateral Visual Integration by EEG and fMRI,” 
+NeuroImage, 46(4): 989-997, 2009. 
+4. Liu Y, Zhu S, He B: “Induced current magnetic resonance electrical impedance tomography of brain 
+tissues based on J-substitution algorithm: a simulation study,” Physics in Medicine and Biology, 54
+(14): 4561-4573, 2009. 
+5. Li X, Li X, Zhu S, He B: “Solving the Forward Problem of Magnetoacoustic Tomography with 
+Magnetic Induction by Means of the Finite Element Method,” Physics in Medicine and Biology, 54
+(9): 2667-2682, 2009. 
+6. Xia R, Li X, He B: “Reconstruction of Vectorial Acoustic Sources in Time Reversal Tomography,” 
+IEEE Transactions on Medical Imaging, 28(5): 669-675, 2009. 
+7. Astolfi L, De Vico Fallani F, Cincotti F, Mattia D, Marciani MG, Salinari S, Sweeney J, Miller GA, 
+He B and Babiloni F: “Estimation of effective and functional cortical connectivity from neuroelectric 
+and hemodynamic recordings”, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 
+17(3): 224-233, 2009. 
+8. Bai X, Liu Z, Zhang N, Chen W, He B: “Three-Dimensional Source Imaging from Simultaneously 
+Recorded ERP and BOLD-fMRI,” IEEE Transactions on Neural Systems and Rehabilitation 
+Engineering, 17(2): 101-106, 2009. 
+9. Royer AS, He B: “Goal Selection vs. Process Control in a Brain-Computer Interface based on 
+Sensorimotor Rhythms,” Journal of Neural Engineering, 6(1): 016005, 2009.
+2008
+1. He B, Liu Z: “Multimodal Functional Neuroimaging: Integrating Functional MRI and EEG/MEG,” 
+IEEE Reviews in Biomedical Engineering, 1: 23-40, 2008.
+2. Wilke C, Ding L, He B: "Estimation of time-varying connectivity patterns through the use of an 
+adaptive directed transfer function," IEEE Transactions on Biomedical Engineering, 55: 2557-2564, 
+2008.
+3. Ma Q & He B: “Magnetoacoustic Tomography with Magnetic Induction: A Rigorous Theory,” IEEE 
+Transactions on Biomedical Engineering, 55(2 Pt 2): 813-816, 2008. 
+4. Yuan H, Doud AJ, Gururajan A, He B: "Cortical Imaging of Event-related (de)Synchronization during 
+Online Control of Brain-computer Interface Using Minimum-norm Estimates in the Frequency 
+Domain," IEEE Transactions on Neural Systems and Rehabilitation Engineering, 16: 425-431, 2008 
+(Cover Article).
+5. Wang K, Zhu S, Mueller B, Lim K, Liu ZM, He B: "A New Method to Derive White Matter 
+Conductivity from Diffusion Tensor MRI," IEEE Transactions on Biomedical Engineering, 55: 2481-
+2486, 2008.
+6. Han C, Liu Z, Zhang X, Pogwizd S, He B: “Noninvasive Three-dimensional Cardiac Activation 
+Imaging from Body Surface Potential Maps: A Computational and Experimental Study on a Rabbit 
+Model,” IEEE Transactions on Medical Imaging, 27: 1622-1630, 2008.
+7. Gao N and He B: “Noninvasive Imaging of Bioimpedance Distribution by means of Current 
+Reconstruction Magnetic Resonance Electrical Impedance Tomography,” IEEE Transactions on 
+Biomedical Engineering, 55: 1530-1538, 2008. 
+8. Zhang XT, Yan D, Zhu S, He B: “Noninvasive Imaging of Head-Brain Conductivity Profiles by 
+Means of Magnetic Resonance Electrical Impedance Imaging,” IEEE Engineering in Medicine and 
+Biology, 27: 78-83, 2008.
+9. Zhang Y, van Drongelen W, Kohrman M, He B: “Three-dimensional Brain Current Source 
+Reconstruction from Intra-cranial ECoG Recordings,” NeuroImage, 42: 683-695, 2008. 
+10. Ding L & He B: “Sparse Source Imaging in EEG with Accurate Field Modeling,” Human Brain 
+Mapping, 29(9): 1053-1067, 2008 (Cover Article). 
+11. Zhang N, Liu Z, He B, Chen W: “A Non-invasive Study of Neurovascular Coupling in Human Visual 
+Cortex,” Journal of Cerebral Blood Flow & Metabolism, 28(2): 280-290, 2008. 
+12. Liu C, Skadsberg ND, Ahlberg SA, Swingen CM, Iaizzo, PA, He B: "Estimation of global ventricular 
+activation sequences by noninvasive 3-dimensional electrical imaging: validation studies in a swine 
+Page 8 of 11
+Dr. Bin He
+21/8/2017
+http://helab.umn.edu/bhe.htm
+
+-----
+model during pacing," Journal of Cardiovascular Electrophysiology, 19(5): 535-540, 2008 (Cover 
+Article). 
+13. Liu ZM & He B: “FMRI-EEG Integrated Cortical Source Imaging by use of Time-Variant Spatial 
+Constraints,” NeuroImage, 39(3): 1198-214, 2008. 
+2007
+1. Xia R, Li X, He B: “Magnetoacoustic tomographic imaging of electrical impedance with magnetic 
+induction,” Applied Physics Letters, 91, 083903, 2007.
+2. Li Z, Zhu S and He B: “Solving the ECG Forward Problem by Means of a Meshless Finite Element 
+Method,” Physics in Medicine and Biology, 52(13):N287-96, July 7 2007. 
+3. Astolfi L, De Vico Fallani F, Cincotti F, Mattia D, Marciani MG, Bufalari S, Salinari S, Colosimo A, 
+Ding L, Edgar JC, Heller W, Miller GA, He B, Babiloni F: “Imaging functional brain connectivity 
+patterns from high-resolution EEG and fMRI via graph theory,” Psychophysiology, 44(6):880-893, 
+2007. 
+4. Bai X, Towle VL, He EJ, He B: Evaluation of cortical current density imaging methods using 
+intracranial electrocorticograms and functional MRI, NeuroImage, 35: 598-608, 2007. 
+5. Astolfi L, Cincotti F, Mattia D, Marciani MG, Baccala L, de Vico Fallani F, Salinari S, Ursino M,  
+Zavaglia M, Ding L, Edgar JC, Miller GA , He B, Babiloni F: “A comparison of different cortical 
+connectivity estimators for high resolution EEG recordings,” Human Brain Mapping, 28(2):143-57, 
+2007. 
+6. Ding L, Wilke C, Xu B, Xu X, van Drongelene W, Kohrman M, He B: EEG Source Imaging: 
+Correlate Source Locations and Extents with ECoG and Surgical Resections in Epilepsy Patients. 
+Journal of Clinical Neurophysiology, 24(2):130-136, 2007.  
+7. Li J, Wang K, Zhu S, He B: “Effects of Holes on the EEG Forward Solutions using a Realistic 
+Geometry Head Model,” J of Neural Engineering, 4, 197-204, 2007. 
+8. Ma Q & He B: “Investigation on magnetoacoustic signal generation with magnetic induction and its 
+application to electrical conductivity reconstruction,” Physics in Medicine and Biology, 52(16):5085-
+99, 2007. 
+9. He B, Liu C, Zhang YC: “Three-dimensional estimation of the cardiac activities by intra-cardiac 
+recordings,” IEEE Transactions on Biomedical Engineering, 54(8):1454 – 1460, 2007. 
+10. Lai Y, van Drongelen W, Hecox K, Frim D, Kohrman M, and He B: Cortical Activation Mapping of 
+Epileptiform Activity Derived from Interictal ECoG Spikes, Epilepsia, 48(2):305-14, 2007. 
+11. Kamousi B, Amini AN, He B: “Classification of Motor Imagery by Means of Cortical Current Density 
+Estimation and Von Neumann Entropy for Brain-Computer Interface Applications,” Journal of Neural 
+Engineering, 4:17-25, 2007.
+12. Li X, Xu Y, He B: “Imaging Electrical Impedance of Biological Tissue from Acoustic Measurements 
+by means of Magnetoacoustic Tomography with Magnetic Induction (MAT-MI): A Model Study,” 
+IEEE Transactions on Biomedical Engineering, 54(2): 323-330, 2007.
+13. Ding L, Worrell GA, Lagerlund TD, He B: “Ictal Source Analysis: Localization and Imaging of 
+Causal Interactions in Humans,” NeuroImage, 34(2): 575-586, 2007.
+14. Im CH, Gururajan A, Zhang N, Chen W, & He B: Spatial Resolution of High Resolution EEG Cortical 
+Source Imaging Revealed by Localization of Retinotopic Organization in Human Primary Visual 
+Cortex, Journal of Neuroscience Methods, 161(1): 142-154, 2007.
+15. Yamawaki N, Wilke C, Hue L, Liu ZM, He B: “Enhancement of classification accuracy of a time-
+frequency approach for an EEG-based brain-computer interface,” Methods of Information in 
+Medicine, 46:155-159, 2007. 
+16. Hori J, Miwa T, Ohshima T, He B: “Cortical dipole imaging of movement-related potentials by means 
+of parametric inverse filters incorporating with signal and noise covariance,” Methods of Information 
+in Medicine, 46: 242-246, 2007.
+2006
+1. Zhang YC, van Drongelen W, He B: Estimation of in vivo human brain-to-skull conductivity ratio 
+with the aid of intracranial electrical simulation, Applied Physics Letters, 89: 223903, 2006. 
+2. Bai X, He B: “Estimation of Number of Independent Brain Electric Sources from the scalp EEGs,” 
+IEEE Transactions on Biomedical Engineering, 53(10): 1883-1892, 2006. 
+3. Liu ZM, Liu C, He B: “Noninvasive Reconstruction of Three-Dimensional Ventricular Activation 
+Sequence from the Inverse Solution of Distributed Equivalent Current Density,” IEEE Transactions on 
+Medical Imaging, 25(10): 1307-1318, 2006.
+4. Zhang Y, Ding L, van Drongelen W, Hecox K, Frim D, He B: “Cortical Potential Imaging by Means 
+of the Finite Element Method and its Application to Simultaneous Extra- and Intra-cranial Electrical 
+Recordings,” NeuroImage, 31(4):1513-1524, 2006.
+5. Ding L, Worrell GA, Lagerlund TD, He B: “3D Source Localization of Interictal Spikes in Epilepsy 
+Patients with MRI Lesions,” Physics in Medicine and Biology, 51(16): 4047-4062, 2006.
+6. Im CH, Liu ZM, Zhang N, Chen W, He B: “Functional Cortical Source Imaging from Simultaneously 
+Recorded ERP and fMRI,” J of Neurosci Method, 157(1): 118-123, 2006.
+7. Liu Z, Keckman F, He B: “Effects of fMRI-invisible Sources in EEG-fMRI Integrated Cortical 
+Current Density Estimation: A Simulation Study,” Clinical Neurophysiology, 117(7): 1610-1622, 
+2006.
+8. Yamawaki N, Wilke C, Liu Z, He B: “An enhanced time-frequency approach for motor imagery 
+classification,” IEEE Transactions on Neural Systems and Rehabilitation Engineering, 14(2): 250-254, 
+2006.
+9. Ding L, He B: “Spatio-temporal EEG Source Localization Using a Three-dimensional Subspace FINE 
+Approach in a Realistic Geometry Inhomogeneous Head Model,” IEEE Transactions on Biomedical 
+Engineering, 53(9):1732-1739, 2006.
+10. Liu C, Zhang X, Liu Z, Pogwizd SM, He B: “Three-Dimensional Myocardial Activation Imaging in a 
+Rabbit Model,” IEEE Transactions on Biomedical Engineering, 53(9):1813-1820, 2006.
+11. Liu ZM, Ding L, He B: “Integration of EEG/MEG with MRI and fMRI in Functional Neuroimaging,” 
+IEEE Engineering in Medicine and Biology Magazine, 25(4): 46-53, 2006.
+Page 9 of 11
+Dr. Bin He
+21/8/2017
+http://helab.umn.edu/bhe.htm
+
+-----
+12. Gao N, Zhu SA, He B: “A New Magnetic Resonance Electrical Impedance Tomography (MREIT) 
+Algorithm: RSM-MREIT Algorithm with Applications to Estimation of Human Head Conductivity,” 
+Physics in Medicine and Biology, 51(12): 3067-3083, 2006.
+13. Li X, Xu Y, He B: “A Phantom Study of Magnetoacoustic Tomography with Magnetic Induction 
+(MAT-MI) for Imaging Electrical Impedance of Biological Tissue,” Journal of Applied Physics, 99 
+(6): Art. No. 066112 MAR 15 2006.
+2005
+1. Xu Y, He B: “Magnetoacoustic Tomography with Magnetic Induction (MAT-MI),” Physics in 
+Medicine and Biology, 50:5175-5187, 2005.
+2. Babiloni F, Babiloni C, Carducci F, Cincotti F, Astolfi L, Basilisco A, Rossini PM, Ding L, Ni Y, 
+Cheng J, Christine K, Sweeney J, and He B: “Assessing time-varying cortical functional connectivity 
+with the multimodal integration of high resolution EEG and fMRI data by Directed Transfer 
+Function,” NeuroImage, 24(1):118-131, 2005.
+3. Zhang X, Ramachandra I, Liu Z, Muneer B, Pogwizd SM, He B: Noninvasive Three-Dimensional 
+Electrocardiographic Imaging of Ventricular Activation Sequence, American Journal of Physiology 
+-Heart and Circulatory Physiology, 289(6):H2724-32, 2005.
+4. Bai X, He B: On the Estimation of Number of Equivalent Source Dipoles, Clinical Neurophysiology, 
+116(9):2037-2043, 2005.
+5. Qin L, He, B: A Wavelet-based Time-Frequency Analysis Approach for Classification of Motor 
+Imagery for Brain-Computer Interface Applications, Journal of Neural Engineering, 2(4):65-72, 2005.
+6. Ding L, Lai Y, He B: “Low resolution brain electromagnetic tomography in a realistic geometry head 
+model: a simulation study,” Physics in Medicine and Biology, 50(1):45-56, 2005.
+7. Gao N, Zhu S, He B: “Estimation of electrical conductivity distribution within the human head from 
+magnetic flux density measurement,” Physics in Medicine and Biology, 50:2675-2687, 2005. 
+8. Kamousi B, Liu Z, He B: "Classification of Motor Imagery Tasks for Brain-Computer Interface 
+Applications by means of Two Equivalent Dipoles Analysis," IEEE Transactions on Neural Systems 
+and Rehabilitation Engineering, 13(2):166-171, 2005
+9. Astolfi L, Babiloni C, Carducci F, Cincotti F, Basilisco A, Rossini PM, Salinari S, Cerutti S, Ben 
+Dayan D, Ding L, Ni Y, He B, and Babiloni F: “Estimation of the cortical connectivity by high 
+resolution eeg and structural equation modeling: simulations and application to finger tapping data,” 
+IEEE Transactions on Biomedical Engineering, 52(5):757-768, 2005.
+10. Astolfi L, Cincotti F, Mattia D, Babiloni C, Carducci F,  Basilisco A, Rossini PM, Salinari S, Ding L, 
+Ni Y, He B and Babiloni F: “Assessing cortical functional connectivity by linear inverse estimation 
+and directed transfer function from scalp EEG,” Clinical Neurophysiology, 116(4):920-932, 2005.
+11. Lai Y, van Drongelen W, Ding L, Hecox KE, Towle VL, Frim DM, He B: “In vivo human skull 
+conductivity estimation from simultaneous extra- and intra-cranial electrical potential recordings,” 
+Clinical Neurophysiology, 116(2):456-465, 2005. 
+12. Liu C, Li G and He B: "Localization of the site of origin of reentrant arrhythmia from body surface 
+potential maps: a model study," Physics in Medicine and Biology, 50(7): 1421-1432, 2005.
+2004
+1. Astolfi L, Cincotti F, Mattia D, Salinari S, Babiloni C, Basilisco A, Rossini PM, Ding L, Ni Y, He B, 
+Marciani MG, Babiloni F: "Estimation of the effective and functional human cortical connectivity 
+with structural equation modeling and directed transfer function applied to high-resolution EEG," 
+Magn Reson Imaging. 22(10):1457-1470, 2004.
+2. Wang T, Deng J, He B: “Classifying EEG-based Motor Imagery Tasks by means of Time-frequency 
+Synthesized Spatial Patterns,” Clinical Neurophysiology, 115(12): 2744-2753, 2004. 
+3. Zhang YC, Zhu SA, and He B: “A High-Order Finite Element Algorithm for Solving the Three-
+Dimensional EEG Forward Problem,” Physics in Medicine and Biology, 49: 2975-2987, 2004.
+4. Hori J, Aiba M, He B: “Spatio-temporal Cortical Source Imaging of Brain Electrical Activity by 
+means of Time-Varying Parametric Projection Filter,” IEEE Trans. Biomedical Engineering, 51: 768-
+777, 2004. 
+5. Qin L, Ding L, He B: "Motor Imagery Classification by Means of Source Analysis for Brain 
+Computer Interface Applications", J of Neural Engineering, 1:135-141, 2004.
+6. Vallabhaneni A and He B: “Motor imagery task classification for brain computer interface 
+applications using spatio-temporal principle component analysis,” Neurological Research, 26(3): 282-
+287, 2004.
+7. Hori J, Lian J, He B: Cortical Potential Imaging of Brain Electrical Activity by Means of Parametric 
+Projection Filter, Methods of Information in Medicine, 43(1): 66-9, 2004.
+8. Wang T and He B: “An efficient rhythmic component expression and weighting synthesis strategy for 
+classifying motor imagery EEG in brain computer interface,” Journal of Neural Engineering, 1(1): 1-7, 
+2004. 
+9. Li G and He B: “Noninvasive estimation of myocardial infarction by means of a heart-model-based 
+imaging approach – a simulation study,” Medical and Biological Engineering and Computing, 42(1): 
+128-136, 2004.
+10. Xu XL, Xu B, He B: “An Alternative Subspace Approach to EEG Dipole Source Localization,” 
+Physics in Medicine and Biology, 49(2): 327-343, 2004.
+Invited Plenary/Keynote Talks in International Conferences/Workshops since 2004
+Top
+1. Electrophysiological Neuroimaging and Brain-Computer Interfaces, BRAIN Plenary Symposium 
+Lecture, 38th Annual International Conference of IEEE EMBS, Orlando, August 2016.
+2. Mapping and Interfacing with the Human Brain, Plenary Lecture, IEEE International Joint Conference 
+on Neural Networks, Vancouver, Canada, July 2016.
+3. Mapping Brain Electrophysiological Connectome, Symposium Lecture, Annual Meeting of the 
+Organization for Human Brain Mapping, Geneva, Switzerland, June 2016. 
+4. Imaging and Modulating the Human Brain, 2nd BRAIN Initiative Investigators Meeting, Bethesda, 
+Dec 2015.
+Page 10 of 11
+Dr. Bin He
+21/8/2017
+http://helab.umn.edu/bhe.htm
+
+-----
+5. Bioelectricity and the Brain: From EEG to BCI, Opening Keynote Lecture, International Conference 
+on Basic and Clinical Multimodal Imaging, Utrecht, Netherlands, September 2015. 
+6. Dynamic Seizure Imaging and Localization from EEG and High Frequency Activity, International 
+Workshop on Seizure Prediction, Invited Workshop Lecture, Melbourne, Australia, August 2015. 
+7. Noninvasive Brain-Computer Interface: Challenges and Opportunities, Symposium Lecture, 7th IEEE 
+EMBS International Conference on Neural Engineering, Montpellier, France, April 2015.
+8. BRAIN Initiative and Dynamic Brain Mapping, Keynote Lecture, International Workshop on Brain 
+Technology Initiative, Shanghai, China, December 2014.
+9. Mapping and Decoding Brain Dynamics in vivo, Plenary Lecture, IEEE EMBS BRAIN Grand 
+Challenges Conference, Washington DC, November 2014.
+10. Dynamic Mapping and Interfacing with the Human Brain, Theme Keynote Lecture, IEEE EMBS 
+Annual International Conference, Chicago, August 2014.
+11. Mind Controlled Medical Devices, Keynote Lecture, MD & M Minneapolis Conference, Minneapolis, 
+October 2013.
+12. High-resolution dynamic neuroimaging of brain activity, NSF Workshop on Mapping and Engineering 
+the Brain, Arlington, August 2013.
+13. Engineering the future of medicine, Plenary Lecture, Design of Medical Devices Conference, 
+Minneapolis, April 2013.
+14. Spatio-Temporal Three-dimensional Cardiac Electric Imaging, Symposium Lecture,The 33rd Annual 
+Scientific Sessions of the Heart Rhythm Society, Boston, May 2012. 
+15. Challenges and Opportunities in Neuroengineering: Understanding and Interfacing with the Brain, 
+Keynote Lecture, Design of Medical Devices Conference, Minneapolis, April 2012.
+16. EEG source and connectivity imaging of epilepsy, Symposium Lecture, American Clinical 
+Neurophysiology Society Annual Meeting, San Antonio, February 2012.
+17. Functional Neuroimaging, Keynote Lecture, Yangtze River International Conference on the 
+Applications of Medical Imaging Physics & The 6th National Annual Meeting of Medical Imaging 
+Physics, Hangzhou, China, October 2011.
+18. Dynamic Integration of EEG with fMRI in Event Related Paradigms and Resting States, Workshop on 
+Multimodal Functional Neuroimaging Integrating EEG, MEG and fMRI: Why and How, 17th Annual 
+Meeting of Organization on Human Brain Mapping, Quebec City, Canada, June 2011 (800+ attended 
+the workshop).
+19. EEG-based Navigational Control of Virtual Helicopter in 3-D Space, DARPA Biologically-driven 
+Navigation (BioNav) Workshop, Arlington, May 2011.
+20. Spatio-Temporal Functional Neuroimaging of Brain Activity, Plenary Lecture, 5thIEEE EMBS 
+International Conference on Neural Engineering, Cancun, April 2011.
+21. Electrical Source and Impedance Imaging: Challenges and Opportunities, Keynote Lecture, Workshop 
+on MR-based Impedance Imaging, Seoul, Korea, December 2010.
+22. Imaging and Interacting with the Brain: Challenges and Opportunities, Plenary Lecture, Annual 
+Conference of Chinese Society of Biomedical Engineering, Beijing, China, December 2010.
+23. Toward High-resolution Spatio-temporal Functional Brain Imaging, Keynote Lecture, IEEE – EMBS 
+Forum on Grand Challenges in Neuroengineering, Bethesda, May 2010.
+24. XIVth Conference on Electrical Biompedance and the 11th Conference on Biomedical Applications of 
+Electrical Impedance Tomography, Plenary Lecture, Gainesville, April 2010.
+25. Emerging Frontiers in Biomedical Engineering and Functional Neuroimaging, Plenary Lecture, 
+Chinese Conference on Biomedical Engineering, Chongqing, China, October 2009.
+26. Neuroengineering: Opportunities and Challenges to Reverse Engineer the Brain, Second International 
+Conference on BioMedical Engineering and Informatics and the Second International Congress on 
+Image and Signal Processing, Keynote Lecture, Tianjin, China, October 2009.
+27. Functional Imaging of Brain and Heart Activity. Plenary Lecture, Joint Meeting of the 
+7th International Symposium on Noninvasive Functional Source Imaging & 7th International 
+Conference on Bioelectromagnetism, Rome, Italy, May 2009.
+28. Electrophysiological Sensing and Imaging of Cardiac Activity, The Xiangshan Science Conferences 
+346th Session, Beijing, China, April 2009.
+29. Multimodal Functional Neuroimaging Integrating fMRI and EEG, NIH Blueprint Workshop on Non-
+invasive Imaging of Brain Structure and Function, Washington DC, September, 2008.
+30. Multimodal Neuroimaging of Brain Activity and Connectivity, Grand Challenges in Neuroscience 
+Workshop, Institute of Medicine of the National Academies, Washington DC, June 2008.
+31. Functional Neuroimaging of Dynamic Brain Activity, Keynote Lecture, 5thInternational Conference 
+on Information Technology and Applications in Biomedicine, Shenzhen, China, May 2008.
+32. Electrophysiological Neuroimaging of Cortical Sources, Symposium Lecture, World Congress on 
+Neuromodulation, Acapulco, Dec 2007.
+33. Electrophysiological Neuroimaging: Past, Present and Future, Keynote Lecture, Joint Meeting of the 
+6th International Symposium on Noninvasive Functional Source Imaging of Brain and Heart and the 
+International Conference on Functional Biomedical Imaging, Hangzhou, China, October 2007.
+34. Electrophysiological Imaging of Brain and Cardiac Electrical Activity, Keynote Lecture, The 
+6th International Conference on Bioelectromagnetism, Aizu, October 2007.
+35. Electrocardiographic Imaging: From 2-dimension towards 3-dimension, Plenary Lecture, Joint 
+Meeting of 5th International Conference on Bioelectromagnetism and 5thInternational Symposium on 
+Noninvasive Functional Source Imaging within the Human Brain and Heart, Minneapolis, May 2005.
+36. From High-resolution EEG to Electrophysiological Neuroimaging, Plenary Lecture, 15th International 
+Congress on Brain Electromagnetic Topography, Tokyo, April 2004. 
+Top
+© 2009 Regents of the University of Minnesota. All rights reserved.
+The University of Minnesota is an equal opportunity educator and employer
+Last modified on August 13, 2017 
+Page 11 of 11
+Dr. Bin He
+21/8/2017
+http://helab.umn.edu/bhe.htm
+
+-----

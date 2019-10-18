@@ -1,0 +1,16 @@
+Abstract 
+This Ph.D. program pertains to the mechanisms and parameters affecting the non-idealities 
+and power-efficiency of Class D Amplifiers (CDAs), and our ensuing novel circuit designs 
+(and proposal of novel architectures) to mitigate the aforesaid.  There are three specific 
+CDA architectures. The first is the PWM-In PWM-Out (PIPO) CDA, an emerging CDA 
+whose input is PWM, hence highly compatible with digital signal processing.  Our effort 
+pertains to addressing its inherent relatively high non-linearities.  The second is the Bang-
+Bang CDA, arguably the simplest CDA architecture, hence the CDA with the lowest 
+hardware, and potentially the most power-efficient CDA.  Our effort pertains to the design 
+of a 3-state Bang-Bang CDA – to our knowledge the first 3-state (filterless) Bang-Bang 
+CDA reported in literature – where we address its fidelity and power-efficiency.  The third 
+is the high-frequency high-efficient CDA for the supply modulator of the Envelop Tracking 
+(ET) Power Amplifier (PA) which serves as the power supply to a radio frequency (RF) 
+PA.  Our effort pertains to addressing the power-efficiency of the wideband PA.   
+
+-----

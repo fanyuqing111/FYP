@@ -1,0 +1,69 @@
+Candidate Name: 
+ZHANG YICHENG (G1303525G) 
+ 
+Thesis title: 
+Distributed Algorithm for Solving Large Resource Allocation Problems 
+ 
+Abstract:  
+Resource allocation problems happen everywhere in our daily lives. Some quick examples like the power 
+scheduling problems, the traffic management problems, the time-slot arrangement problems, the 
+communication server allocation problems and the cloud computing scheduling problems are all resource 
+allocation problems. Resources in these problems could be continuous, e.g., the gas, water, electrical 
+power, or discrete, e.g., the manpower, the equipment. The objectives could be to maximize the 
+performance indices, to minimize the cost or to meet some user oriented performance requirements, e.g., 
+the Quality of Service (QoS) involved in communication systems. 
+Several major technical obstacles appear when moving toward solving resource allocation problems 
+efficiently. Firstly, the constraints involved in resource allocation problems are complex, which are hard 
+to be modeled. Secondly, the numbers of decision variables and constraints are huge, which may lead to 
+extremely high computational complexity for solving these large-scale optimization problems. Thirdly, the 
+nature of resources involved in these problems could be either continuous or discrete and the 
+computational benefits from the convexity may not be able to achieve. 
+To overcome these difficulties, this report proposes (1) a general model of resource allocation problems; 
+(2) a distributed computation structure to reduce the computational complexity; (3) algorithms for solving 
+large resource allocation problems; and (4) examples on various systems with large resource allocation 
+problems. Simulation results in both power systems and traffic systems show that the proposed 
+distributed computational architecture with heuristic algorithms can achieve good performance whilst 
+reduce the computation complexity. 
+In this thesis, we first give a brief introduction about the resource allocation problems, including the 
+concepts, the constraint sets, decision variables and objectives. Then, a review on the methodologies for 
+solving large resource allocation problems is presented and both centralized and distributed 
+methodologies are included in this review. Then, a distributed computation structure is proposed and 
+some algorithms for solving the large resource allocation problems are described based on this structure. 
+Some case studies from the resource allocation problems involved in electrical power systems, microgrids 
+and transportation systems are analyzed in this thesis and the simulation results show the effectiveness 
+and efficiency of the proposed computation structure and algorithms on solving these problems. The 
+conclusions are drawn in the last chapter and some possible further works are listed. 
+ 
+ 
+
+-----
+Publication list: 
+Journal Papers 
+1. Y. Zhang, R. Su, Q. Li, C. G. Cassandras and L. Xie. Distributed flight routing and scheduling in air 
+traffic flow management. IEEE Transactions on Intelligent Transportation Systems, 18(10), 2681-
+2692, 2017. 
+2. Y. Zhang, R. Su, G. G. N. Sandamali and C. G. Cassandras. A Hierarchical Approach for Air Traffic 
+Routing and Scheduling. IEEE Transactions on Intelligent Transportation Systems. Under review. 
+3. Y. Zhang, R. Su, Y. Zhang and C. Sun. Modelling and Traffic Signal Control of Heterogeneous Traffic 
+Systems. IEEE Transactions on Intelligent Transportation Systems. Under review. 
+ 
+Peer Reviewed Conference Papers 
+1. Y. Zhang, R. Su, N. Sandamali, Y. Zhang and C. G. Cassandras. A Hierarchical Approach for Air Traffic 
+Routing and Scheduling. 56th IEEE Conference on Decision and Control (CDC’17), 2017. 
+2. Y. Zhang, R. Su, C. Sun and Y. Zhang. Modelling and Traffic Signal Control of a Heterogeneous 
+Traffic Network with Signalized and Non-Signalized Intersections. 1st IEEE Conference on Control 
+Technology and Applications (CCTA’17), 2017. 
+3. Y. Zhang, R. Su, Q. Li, C. G. Cassandras and L. Xie. Distributed Flight Routing and Scheduling in Air 
+Traffic Flow Management. 55th IEEE Conference on Decision and Control (CDC’16), 2016. 
+4. Y. Zhang, R. Su, C. Wen, M. Y. Lee and C. Gajanayake. Distributed Power Allocation and Scheduling 
+for Electrical Power System in More Electric Aircraft. 42nd Annual Conference of IEEE Industrial 
+Electronics Society (IECON), 2016. 
+5. Y. Zhang, Q. Li and R. Su. Sector-based Distributed Scheduling Strategy in Air Traffic Flow 
+Management. 14-th IFAC Symposium on Control in Transportation Systems (CTS’16), 2016. 
+6. Y. Zhang, R. Su and K. Gao. Urban Road Traffic Light Real-Time Scheduling. The 54th IEEE 
+Conference on Decision and Control (CDC’15), 2015. 
+7. Y. Zhang, Y. Su and R. Su. Real-Time Scheduling in Urban Road Traffic Light Control. 14th Asian 
+Pacific Intelligent Transportation System Conference, 2015. 
+ 
+
+-----

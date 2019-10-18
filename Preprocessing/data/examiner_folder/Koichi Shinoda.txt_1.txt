@@ -1,0 +1,80 @@
+                                      CV 
+ 
+ Koichi SHINODA 
+Personal Information 
+Koichi SHINODA 
+Professor, Tokyo Institute of Technology 
+Senior member of IEEE, IEICE 
+Subject editor of Speech Communication  
+Associate editor of Computer Speech and Language, Elsevier. 
+Citations: 2106; H-index: 22 
+Tel: +81-3-5734-3480 
+Email: shinoda@c.titech.ac.jp 
+Address: Department of Computer Science, School of Computing, Tokyo Institute of Technology 2-12-1, Ookayama, Meguro-
+ku, Tokyo, 152-8552, Japan. 
+ 
+Biography                 
+Koichi Shinoda received the B.S. and M.S. degrees from the University of Tokyo, Tokyo, Japan in 1987 and 1989, 
+respectively, both in physics, and the D. Eng. Degree in computer science from the Tokyo Institute of Technology, Japan, in 
+2001. In 1989, he joined NEC Corporation, Japan, where he was involved in research on automatic speech recognition. From 
+1997 to 1998, he was a Visiting Scholar with Bell Labs, Lucent Technologies, Murray Hill, NJ. From June 2001 to September 
+2001, he was a Principal Researcher with Multimedia Research Laboratories, NEC Corporation. From October 2001 to March 
+2002, he was an Associate Professor with the University of Tokyo, Japan. He is currently a Professor with the Tokyo Institute 
+of Technology. His research interests include speech recognition, video information retrieval, statistical pattern recognition, 
+and human interfaces. He received the Awaya Prize from the Acoustic Society of Japan in 1997 and the Excellent Paper 
+Award from the IEICE in 1998. He was Publicity Chair in INTERSPEECH2010, Video Program Co-Chair in ACM 
+Multimedia 2012. Dr. Shinoda is a senior member of IEEE, IEICE. He is a member of ACM, IPSJ, JSAI, and ASJ. He was a 
+subject editor of Speech Communication from 2013 to 2015. He is currently an associate editor of Computer Speech and 
+Language, Elsevier. 
+ 
+Research Description
+Speech recognition 
+Video information retrieval,  
+Statistical pattern recognition,  
+Human interfaces 
+ 
+Selected Publications 
+[1] S. Sagayama, K. Shinoda, M. Nakai and H. Shimodaira ``Analytic Methods for Acoustic Model Adaptation: A 
+Review,'' in Proc. Isca ITR-Workshop2001, pp. 67-76, Sophia-Antipolis, 2001. 
+
+-----
+                                      CV 
+ 
+[2] T. Emori and K. Shinoda, ``Rapid Vocal Tract Length Normalization using Maximum Likelihood Estimation,'' in Proc. 
+EuroSpeech2001, pp. 1649-1652, Aalborg, 2001. 
+[3] K. Shinoda and C.-H. Lee, ``A structural Bayes approach to speaker adaptation'', IEEE Trans. Speech Audio 
+Processing, vol. 9, no. 3, pp. 276-287, 2001. 
+[4] K. Shinoda and T. Watanabe, ``MDL-based context-dependent subword modeling for speech recognition,'' J. Acoust. 
+Soc. Jpn.(E), vol. 21, no. 2, pp.79-86, 2000. 
+[5] K. Shinoda and C.-H. Lee, ``Unsupervised adaptation using structural Bayes approach,'' in Proc. ICASSP-98, Seattle, 
+pp. II 793-796, 1998. 
+[6] K. Shinoda and C.-H. Lee, ``Structural MAP speaker adaptation using hierarchical priors,'' Proc. IEEE Workshop on 
+Speech Recognition and Understanding, Santa Barbara, pp. 381-387, 1997. 
+[7] K. Shinoda and T. Watanabe, ``Acoustic modeling based on the MDL criterion for speech recognition,'' in Proc. 
+EuroSpeech-97, Rhodes, vol. 1, pp. 99-102, 1997. 
+[8] K. Takagi, K. Shinoda, H. Hattori and T. Watanabe, ``Unsupervised and incremental speaker adaptation under adverse 
+environmental conditions,'' in Proc. ICSLP-96, Atlanta, pp. 2079-2082, 1996. 
+[9] K. Shinoda and T. Watanabe, ``Speaker adaptation with autonomous model complexity control by MDL principle,'' in 
+Proc. ICASSP-96, Atlanta, pp.717-720, 1996. 
+[10] K. Shinoda and T. Watanabe, ``Speaker adaptation with autonomous control using tree structure,'' in Proc. 
+EuroSpeech-95, Madrid, pp. 1143-1146, 1995. 
+[11] T. Watanabe, K. Shinoda, K. Takagi, and K. Iso, ``High speed speech recognition using tree-structured probability 
+density function,'' in Proc. ICASSP-95, Detroit, pp. 556-559, 1995. 
+[12] K. Shinoda and T. Watanabe, ``Unsupervised speaker adaptation for speech recognition using demi-syllable HMM,'' 
+in Proc. ICSLP-94, Yokohama, pp. 435-438, 1994. 
+[13] T. Watanabe, K. Shinoda, K. Takagi, and E. Yamada, ``Speech recognition using tree-structured probability density 
+function,'' in Proc. ICSLP-94, Yokohama, pp. 223-226, 1994. 
+[14] K. Shinoda, K. Iso, and T. Watanabe, ``Speaker Adaptation for Demi-Syllable-Based Continuous-Density HMM,'' in 
+Proc. ICASSP-91, Toronto, pp. 857-860, 1991. 
+[15] K. Shinoda, K. Iso, and T. Watanabe, ``Speaker adaptation for demi-syllable based speech recognition using 
+continuous HMM,'' in Proc. of ICSLP-90, Kobe, pp. 261-264, 1990. 
+ 
+Patents 
+[1] US5274737, Reference pattern adapting device trainable by a small number of training patterns 
+[2] EU0469577, Reference pattern adapting device trainable by a small number of training patterns 
+[3] US5956676, Pattern adapting apparatus using minimum description length criterion in pattern recognition processing 
+and speech recognition system 
+[4] US5960396, Standard pattern production system employing information criterion 
+[5] US6173076B1, Speech Recognition pattern adaptation system using tree scheme 
+
+-----

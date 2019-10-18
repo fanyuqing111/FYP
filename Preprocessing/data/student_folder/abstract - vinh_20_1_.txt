@@ -1,0 +1,25 @@
+Abstract for Ph.D degree - Thesis 
+Title: Focusing, imaging and sensing with optical scattering media 
+ 
+Name of Ph.D student: TRAN THE VINH 
+Matriculation Number: G1500745A 
+Centre for OptoElectronics and Biophotonics, School of EEE, Nanyang Technological University 
+Singapore 
+Supervisor: Asst. Prof. Cuong Dang, school of EEE, Nanyang Technological University Singapore 
+Propagation of light through scattering media such as glass diffuser or biological tissues is 
+usually considered as a random process, challenging our optical access. My research demonstrates 
+multiple approaches to not only overcome but also utilize the randomness of scattering media. 
+First, I will demonstrate a phase modulation technique to focus light behind a scattering medium. 
+Then, I will present a technique to move the focus spot swiftly in three-dimensional space behind 
+the scattering medium by utilizing optical memory effect. With multiple focus spots, we can 
+measure multiple point spreading functions to image the object behind the scattering medium 
+computationally with expanded field of view. In the second part, I show a technique to utilize 
+ground glass diffusers and their sensitivity with inhomogeneous refractive index to develop a 
+simple and powerful optical sensor. Our detection limit of 12 ppm for glucose concentration or 
+3.87×10-6 refractive index unit is comparable to many optical resonant sensors, which require 
+advanced manufacturing techniques. 
+ Key words: optical memory effect, spatial light modulation, focusing, imaging, scattering 
+media, refractive index sensing. 
+ 
+
+-----

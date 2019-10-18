@@ -1,0 +1,96 @@
+CONDITION MONITORING OF CAPACITORS IN POWER 
+ELECTRONIC CONVERTERS 
+ 
+Abstract 
+Marine and aerospace industries are driven towards more electric aircrafts and ships 
+due to the demand to optimise performance using electrical systems which are more efficient 
+than the traditional mechanical systems and to reduce gas emissions caused by fossil fuels. 
+With the indispensable nature of the power converters in applications such as hybrid 
+propulsion, electric vehicles, and many other safety-critical systems, condition monitoring of 
+power converters has become essential to ensure high safety and reliability. A power converter 
+is made up of components like capacitors, inductors, power semiconductor devices, gate 
+drivers, sensors and a control unit. The unexpected failure of one or more of these components 
+may lead to system downtime. In power converters, aluminium electrolytic capacitors play 
+significant roles such as filters, snubbers, and energy storage elements. However, they are also 
+one of the most vulnerable components due to their high failure rates compared to other 
+components in a power converter. Therefore, with the increase in the use of capacitors in 
+critical applications, condition monitoring of capacitors to prevent unexpected failures has 
+become inevitable. The main factors affecting the lifetime of capacitors are environmental 
+factors such as ambient temperature, vibration, humidity, etc., and electrical factors such as 
+operating voltage, ripple current, and charge-discharge duty ratio. 
+Several research findings have been published regarding condition monitoring of 
+capacitors. However, none or a limited number of the methods are adopted by industries 
+because the existing condition monitoring approaches are either unreliable or highly complex 
+and expensive to implement which make them impracticable. Hence, this research focuses on 
+developing and implementing a novel, reliable, and cost-effective prognostic and health 
+monitoring technology for capacitors to predict the failure during the early stages of its 
+degradation and thereby enabling preventive maintenance. This research has been carried out 
+in three phases. The first phase of research focuses on the study of construction, physical 
+properties, equivalent circuit models, and failure mechanisms of an electrolytic capacitor to 
+develop reliable methods to identify and track the dominant failure mechanisms. The most 
+common failure mechanism in an electrolytic capacitor is the electrolyte evaporation which 
+causes the increase in equivalent series resistance (ESR) and decrease in capacitance. 
+Therefore, the ESR and capacitance of the capacitor are selected as the indicators to track 
+capacitor degradation.  Reliable and accurate parameter estimation methods are developed to 
+estimate the ESR and capacitance. The developed methods have been tested experimentally in 
+a three-phase inverter test rig and found that the error in estimation is less than 3% for ESR 
+and 1% for capacitance. The degradation indicators are sensitive to both operating temperature 
+and frequency. Therefore, the indicators must be normalized before decisions can be taken.  
+
+-----
+The second phase of research focuses on accelerated aging tests to study the 
+degradation behavior and physical properties of degradation indicator. For this purpose, 30 
+samples of electrolytic capacitors are divided into five groups of six samples each and subjected 
+to five different voltage levels at accelerated thermal stress of 10°C above the rated value. 
+Based on the analysis of physical properties of electrolytic capacitors before and after ageing, 
+normalization methods are developed to account for frequency and temperature variations. The 
+study of impact of ageing process on physical properties is one of the important contributions 
+by this thesis as it increases failure detection accuracy by a margin as high as 80% in some 
+cases. The final phase of research aims to develop methods to estimate the remaining useful 
+life (RUL) of capacitors. The results from accelerated aging tests are used to develop 
+exponential degradation model to estimate remaining useful life based on the known failure 
+threshold for degradation indicators. Two different methods are developed to estimate 
+remaining useful life using nonlinear regression and extended Kalman filter. The comparison 
+of both methods in terms of performance and complexity is done to highlight the suitability of 
+methods for different applications. 
+ 
+Publications 
+Journals: 
+ 
+ 
+P. Sundararajan, M. H. M. Sathik, F. Sasongko, C. S. Tan, M. Tariq, and R. Simanjorang, "Online 
+condition monitoring system for DC-link capacitor in industrial power converters," IEEE Trans. 
+Ind. Appl., vol. 54, no. 5, pp. 4775-4785, Sept.-Oct. 2018.  
+ 
+P. Sundararajan, M. H. M. Sathik, F. Sasongko, C. S. Tan, J. Pou, F. Blaabjerg and A. Gupta, 
+“Condition Monitoring of DC-Link Capacitors using Goertzel Algorithm for Failure Precursor 
+Parameter 
+and 
+Temperature 
+Estimation,” 
+IEEE 
+Trans. 
+Power 
+Electron. 
+(SUBMITTED/REVISION) 
+ 
+M. Sathik, S. Prasanth, F. Sasongko, and J.Pou, “Lifetime estimation of off-the-shelf aerospace 
+power converters,” IEEE Aerospace Electron. Mag., vol. 33, no. 12, pp. 26-38, Dec. 2018.  
+ 
+M. Sathik, S. Prasanth, F. Sasongko, and J.Pou, “Online condition monitoring of IGBT modules 
+using current-change rate identification,” Microelectron. Reliab., vol. 92, pp. 55-62, Jan. 2019. 
+ 
+Conferences:  
+ 
+ 
+S. Prasanth, M. H. M. Sathik, F. Sasongko, C. S. Tan, P. Yaxin, and R. Simanjorang, “Condition 
+Monitoring of Electrolytic Capacitor based on ESR Estimation and Thermal Impedance model 
+using Improved Power Loss Computation,” in IEEE Proceeding, IPEC/ECCE-ASIA 2018, Niigata, 
+Japan.  
+ 
+S. Prasanth, M. H. M. Sathik, F. Sasongko, T. C. Seng, M. Tariq, and R. Simanjorang, “Online 
+Equivalent Series Resistance Estimation Method for Condition Monitoring of DC-Link 
+Capacitors,” in IEEE Proceeding, ECCE 2017, pp. 1773–1780.  
+ 
+
+-----

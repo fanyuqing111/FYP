@@ -1,0 +1,33 @@
+Author’s Publications
+Journal Papers
+(i) Junpeng Niu, Jun Xu, Lihua Xie, “Hybrid Storage Systems: A Survey of Archi-
+tectures and Algorithms”, Submitted to IEEE Access 2017
+(ii) Junpeng Niu, Mingzhou Xie, Jun Xu, Li Xia, Lihua Xie, “Theoretical Analysis
+of SMR Drive Performance under Different Workload Environment”, Submitted to
+Control Engineering Practice 2017.
+Conference Papers
+(i) Junpeng Niu, Jun Xu, Lihua Xie, “Online Fuzzy Logic Control With Decision
+Tree For Improving Hybrid Cache Performance”, IEEE ICCA, 2016.
+(ii) Junpeng Niu, Jun Xu, Lihua Xie, “Analytical Modeling of SMR Drive under
+Different Workload Environments,” IEEE ICCA, 2017.
+(iii) Junpeng Niu, Jun Xu, Lihua Xie, “A Deep Look at SMR Performance via Sim-
+ulation Approach”, IEEE ICCA, 2017.
+(iv) Junpeng Niu, Jun Xu, Lihua Xie, “Optimal Selection of Garbage Collection Dirty
+Threshold to Balance Power Consumption and Space Release”, IEEE CAC, 2017
+Patents
+(i) Jun Xu, Wei Xi, Guoxiao Guo, Jianyi Wang, Junpeng Niu, “Media Based Cache
+For Data Storage Device” , US Patent Application No 14/857,467, 10/2015
+
+-----
+Chapter 8. Conclusion and Future Directions
+(ii) Junpeng Niu, Jun Xu, Lihua Xie, “Online Fuzzy Logic Control With Deci-
+sion Tree For Improving Hybrid Cache Performance” , US Patent Application No
+62/267,195, 12/2015
+(iii) Jun Xu, Shaun Astarabadi, Grant Mackey, Junpeng Niu, Robin O’Neill, Jie Yu,
+“Flexible Storage Implementation for DASH and/or SVC with VCA”, Accepted
+for US patent application filing, 05/2016
+(iv) Jun Xu, Junpeng Niu, Jie Yu, William Bernard Boyle, “Hybrid Storage Array”,
+Accepted for US patent application filing, 08/2017
+159
+
+-----

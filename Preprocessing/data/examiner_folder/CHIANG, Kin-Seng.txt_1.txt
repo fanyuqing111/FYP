@@ -1,0 +1,541 @@
+CHIANG, Kin-Seng (鄭建成）
+(鄭建成）
+B.Eng., Ph.D., New South Wales, FOSA, MSPIE, MAOS, MIEEE
+Chair Professor of Electronic Engineering 
+Room: G6515 Tel: (852) 3442-9605 Fax: (852) 3442-0562 Email: eeksc@cityu.edu.hk 
+Prof. Chiang received his first-class honours B.Eng. and Ph.D. degrees in electrical engineering from the University of New South Wales, Australia, in 1982 and 
+1986, respectively. His Ph.D. study was on the development of mathematical methods for the analysis of optical fibres and waveguides. In 1986, he spent six months 
+in the Department of Mathematics, Australian Defence Force Academy, Canberra, where he developed theoretical models for optical fibre fused tapered couplers. 
+From 1986 to 1993, he worked for the Division of Applied Physics (also known as the National Measurement Laboratory), Commonwealth Scientific and Industrial 
+Research Organization (CSIRO), Australia, as a Research Scientist/Senior Research Scientist, where he established a fibre-optics laboratory and initiated research in 
+the areas of optical fibre sensors and nonlinear fibre optics. From 1987 to 1988, he received a Japanese Government Research Award for Foreign Specialist and 
+visited the Electrotechnical Laboratory, Tsukuba, Japan, where he worked on an optical fibre interferometric sensor. From 1992 to 1993, he worked concurrently for 
+the Optical Fibre Technology Centre of the University of Sydney, where he led a project on grating-based fibre sensors. In August 1993, he joined the City University 
+of Hong Kong, where he is currently Chair Professor. He holds five patents and has published over 500 papers in international journals and conference proceedings 
+(including over 40 invited papers) as well as several book chapters. His recent research interests include mode-multiplexing devices, fibre and waveguide gratings, 
+surface-plasmon-based devices, polymer waveguide devices, microstructured fibres, fibre lasers, optical sensors, optical interconnect, and nonlinear guided-wave 
+optics.
+Prof. Chiang is a Fellow of the Optical Society of America. He was awarded the Croucher Senior Research Fellowship (“The Croucher Prize”) by the Croucher 
+Foundation in 2000. He was a recipient of 2005 K. C. Wong Education Foundation Sponsorship and a Chang Jiang Chair Professor（長江講座教授）
+（長江講座教授）of the 
+University of Electronic Science and Technology of China (UESTC) (2007 - 2010). He is also a Thousand Talents Program (國家千人計劃
+國家千人計劃) Professor of UESTC 
+(since 2012).
+Prof. Chiang is an Editor of Light: Science & Applications and a member of the Advisory Board of Optics Communications. He was an Associate Editor of 
+IEEE/OSA Journal of Lightwave Technology from 2009 to 2014. He has participated in the organizing of more than 40 international conferences in different 
+capacities. He is a regular reviewer for about 20 international professional journals.
+Prof. Chiang is Director of CityUHK-UESTC Joint Research Center on Optical Fiber Sensing and Communications. He served as Programme Leader (1996 - 1999) 
+and Associate Head (2002 - 2004) for the Department of Electronic Engineering. He has served/is serving on numerous committees at CityU, which cover a broad 
+spectrum of teaching & learning, research, and administration activities.  
+RESEARCH AREAS
+Optical Fibre Communications, Optical Fibre and Waveguide Theory, Fibre and Integrated-optic Devices, Optical Sensors, Nonlinear Guided-wave Optics, Numerical 
+Methods for Waveguide Analysis
+SELECTED PUBLICATIONS
+Book/Book Chapters
+1.
+Y. L. Guo, C. K. Kao（高錕）
+（高錕）, E. H. Li, and K. S. Chiang, Nonlinear Photonics – Nonlinearities in Optics, Optoelectronics and Fiber Communications, 
+The Chinese University Press (Hong Kong) and Springer-Verlag (Berlin), 2002. 
+2.
+H. L. W. Chan and K. S. Chiang, “Optical fiber ultrasonic sensors”, in Ultrasonic Exposimetry, M. C. Ziskin and P. A. Lewin, Eds., CRC Press, Boca 
+Raton, pp.283-314, 1993.
+3.
+K. S. Chiang, “Integrated optic waveguides”,in Encyclopedia of Electrical and Electronics Engineering, J. Webster, Ed., John Wiley, New York, Vol.10, 
+pp.400-418, 1999; updated on-line version, August 2007.
+4.
+K. S. Chiang and V. Rastogi, “Radial effective-index method for the analysis of microstructured fibers”, in Guided Wave Optical Components and 
+Devices, B. P. Pal, Ed., Elsevier, New York, 2006, Chapter 5, pp.83-90.
+Journal Papers
+1.
+K. S. Chiang, “Finite element method for cutoff frequencies of weakly guiding fibres of arbitrary cross-section”, Opt. Quantum Electron., vol. 16, pp. 487-
+493, 1984. 
+2.
+K. S. Chiang, “Construction of refractive-index profiles of planar dielectric waveguides from the distribution of effective indexes”, IEEE/OSA J. 
+Lightwave Technol., vol. LT-3, pp. 385-391, 1985.
+3.
+K. S. Chiang, “Conditions for obtaining zero polarisation mode dispersion in elliptical-core fibres”, Electron. Lett., vol.21, pp.592-593, 1985.
+4.
+K. S. Chiang, “Linearly birefringent fibres with zero polarisation mode dispersion”, Electron. Lett., vol.21, pp.916-917, 1985.
+5.
+K. S. Chiang, “Finite element analysis of weakly guiding fibers with arbitrary refractive-index distribution”, IEEE/OSA J. Lightwave Technol., vol. LT-4, 
+pp. 980-990, 1986.
+Page 1 of 5
+Dr. CHIANG, Kin-Seng, EE CityU HK
+10/19/2018
+http://www.ee.cityu.edu.hk/~kschiang/
+
+-----
+6.
+K. S. Chiang, “Analysis of optical fibers by the effective-index method”, Appl. Opt., vol. 25, pp. 348-354, 1986.
+7.
+K. S. Chiang, “Dual effective-index method for the analysis of rectangular dielectric waveguides”, Appl. Opt., vol. 25, pp. 2169-2174, 1986.
+8.
+K. S. Chiang, “Radial effective-index method for the analysis of optical fibers”, Appl. Opt., vol. 26, pp.2969-2973, 1987.
+9.
+K. S. Chiang, “Perturbation analysis of fused tapered single-mode fibre couplers”, Electron. Lett., vol. 23, pp. 717-718, 1987.
+10.
+K. S. Chiang, “Effect of cores in fused tapered single-mode fiber couplers,” Opt. Lett., vol. 12, no. 6, pp. 431-433, 1987.
+11.
+K. S. Chiang, “Birefringent-fibre polarisation splitters”, Electron. Lett., vol. 23, pp. 908-909, 1987.
+12.
+K. S. Chiang and H. Tsuchida, “Dual-sensor technique for extending the dynamic range of a fiber-optic interferometric sensor”, Opt. Lett., vol. 13, pp. 
+850-852, 1988.
+13.
+K. S. Chiang, “Acousto-optical modulation method for measuring the beat length of a linearly birefringent optical fiber”, Opt. Lett., vol. 14, pp. 1029-
+1031, 1989.
+14.
+K. S. Chiang, “Stress-induced birefringence fibers designed for single-polarization single-mode operation”, IEEE/OSA J. Lightwave Technol., vol. 6, pp. 
+436-441, 1989.
+15.
+H. L. W. Chan, K. S. Chiang, D. C. Price, J. L. Gardner, and J. Brinch, “Use of a fibre-optic hydrophone in measuring the acoustic parameters of high 
+power hyperthermia transducers”, Phys. in Med.& Bio., vol. 34, pp. 1609-1622, 1989.
+16.
+K. S. Chiang, H. L. W. Chan, and J. L. Gardner, “Detection of high-frequency ultrasound with a polarization-maintaining fiber”, IEEE/OSA J. Lightwave 
+Technol., vol. 8, pp. 1221-1227, 1990.
+17.
+K. S. Chiang, D. Wong, and P. L. Chu, “Strain-induced birefringence in a highly birefringent optical fibre”, Electron. Lett., vol. 26, pp. 1344-1346, 1990.
+18.
+K. S. Chiang, “Dispersion characteristics of strip dielectric waveguides”, IEEE Trans. Microwave Theory Tech., vol. 39, pp. 349-352, 1991.
+19.
+K. S. Chiang, “Effective-index method for the analysis of optical waveguide couplers and arrays: An asymptotic theory”, IEEE/OSA J. Lightwave 
+Technol., vol. 9, pp. 62-72, 1991.
+20.
+K. S. Chiang, “Coupled-zigzag-wave theory for guided waves in slab waveguide arrays”, IEEE/OSA J. Lightwave Technol., vol. 10, pp. 1380-1397, 1992.
+21.
+K. S. Chiang, “Stimulated Raman scattering in a multimode optical fiber: Evolution of modes in Stokes waves”, Opt. Lett., vol. 17, pp. 352-354, 1992.
+22.
+K. S. Chiang, “Stimulated Raman scattering in a multimode optical fiber: Self-focusing or mode competition?”, Opt. Commun., vol.95, pp.235-238, 1993.
+23.
+K. S. Chiang and R. A. Sammut, “Effective-index method for spatial solitons in planar waveguides with Kerr-type nonlinearity”, J. Opt. Soc. Amer. B, vol. 
+10, pp. 704-708, 1993.
+24.
+K. S. Chiang, M. G. Sceats, and D. Wong, “Ultraviolet photolytic-induced changes in optical fibers: The thermal expansion coefficient”, Opt. Lett., vol. 
+18, pp. 965-967, 1993.
+25.
+K. S. Chiang, “Measurement of equalization wavelength for two-mode optical fibers by four-wave mixing”, Appl. Opt., vol. 32, pp.7449-7452, 1993.
+26.
+K. S. Chiang, “Review of numerical and approximate methods for the modal analysis of general optical dielectric waveguides”, Opt. Quantum Electron., 
+vol. 26, pp. S113-134, 1994 (review paper).
+27.
+K. S. Chiang and R. A. Sammut, “Iterative methods and stability of TE modes of nonlinear planar waveguides”, Opt. Commun., vol. 109, pp. 59-64, 1994.
+28.
+K. S. Chiang, “Simplified universal dispersion curves for graded-index planar waveguides based on the WKB method”, IEEE/OSA J. Lightwave Technol., 
+vol. 13, pp. 158-162, 1995.
+29.
+K. S. Chiang, “Intermodal dispersion in two-core optical fibers”, Opt. Lett., vol. 20, pp. 997-999, 1995.
+30.
+K. S. Chiang, “Analysis of the effective-index method for the vector modes of rectangular-core dielectric waveguides”, IEEE Trans. Microwave Theory 
+Tech., vol. 44, pp. 692-700, 1996.
+31.
+K. S. Chiang, C. L. Wong, H. P. Chan, and Y. T. Chow, “Refractive-index profiling of graded-index planar waveguides with effective indexes measured 
+for both mode types and at different wavelengths”, IEEE/OSA J. Lightwave Technol., vol. 14, pp. 827-832, 1996.
+32.
+K. S. Chiang, “Propagation of short optical pulses in directional couplers with Kerr nonlinearity”, J. Opt. Soc. Amer. B, vol. 14, pp. 1437-1443, 1997.
+33.
+K. S. Chiang, Y. T. Chow, D. J. Richardson, D. Traverner, L. Dong, L. Reekie, and K. M. Lo, “Experimental demonstration of intermodal dispersion in a 
+two-core optical fiber”, Opt. Commun., vol. 143, pp. 189-192, 1997.
+34.
+K. S. Chiang, K. P. Lor, and Y. T. Chow, “Non-degenerate four-wave mixing in a birefringent optical fiber pumped by a dye laser”, Opt. Lett., vol. 22, pp. 
+510-512, 1997.
+35.
+K. S. Chiang, “Temperature sensitivity of coated stress-induced birefringent optical fibers”, Optical Engineering, vol. 36, pp. 999-1007, 1997.
+36.
+K.-W. Hui, K. S. Chiang, B.-Y. Wu, and Z. H. Zhang, “Electrode optimization for high-speed traveling-wave integrated optic modulators”, IEEE/OSA J. 
+Lightwave Technol., vol. 16, pp. 232-238, 1998.
+37.
+H. Ke, K. S. Chiang, and J. H. Peng, “Analysis of phased-shifted long-period fiber gratings”, IEEE Photonics Technol. Lett., vol. 10, pp. 1596-1598, 1998.
+38.
+K. S. Chiang, C. H. Kwan, and K. M. Lo, “Effective-index method with built-in perturbation correction for the vector modes of rectangular-core optical 
+waveguides”, IEEE/OSA J. Lightwave Technol., vol. 17, pp. 716-722, 1999.
+39.
+K. S. Chiang and W. P. Wong, "Theory of zero-birefringence multiple-quantum-well optical waveguides," IEEE J. Quantum Electron., vol. 35, pp. 1554-
+1564, 1999.
+40.
+Y. Liu, Z. Guo, Y. Zhang, K. S. Chiang, and X. Dong, “Simultaneous pressure and temperature measurement with a polymer-coated fibre Bragg grating”, 
+Electron. Lett., vol.36, pp.564-566, 2000.
+41.
+X. P. Dong, S. Li, K. S. Chiang, M. N. Ng, and B. C. B. Chu, “Multiwavelength erbium-doped fiber laser based on a high-birefringence fiber loop mirror”, 
+Electron. Lett., vol.36, pp.1609-1610, 2000.
+42.
+S. Li, K. S. Chiang, and W. A. Gambling, "Generation of wavelength-tunable single-mode picosecond pulses from a self-seeded gain-switched Fabry-Perot 
+laser diode with a high-birefringence fiber loop mirror," Appl. Phys. Lett., vol. 76, pp.3676-3678, 2000.
+43.
+S. Li, K. S. Chiang, and W. A. Gambling, "Fast accurate wavelength switching of an erbium-doped fiber laser with a Fabry-Perot semiconductor filter and 
+fiber Bragg gratings," Appl. Phys. Lett., vol. 77, pp. 4268-4270, 2000.
+44.
+W. P. Wong and K. S. Chiang, “Design of waveguide structures for polarization-insensitive optical amplification”, IEEE J. Quantum Electron., vol. 36, pp. 
+1243-1250, 2000.
+45.
+K. S. Chiang, C. L. Wong, S. Y. Cheng, and H. P. Chan, "Refractive-index profiling of graded-index planar waveguides from effective indexes measured 
+with different external refractive indexes," IEEE/OSA J. Lightwave Technol., vol. 18, pp. 1412-1417, 2000.
+46.
+V. Rastogi and K. S. Chiang, "Propagation characteristics of a segmented cladding fiber," Opt. Lett., vol. 26, pp. 491-493, 2001.
+47.
+K. S. Chiang, K. P. Lor, and C. K. Chan, “Polarimetric four-wave mixing in a single-mode fiber”, IEEE Photon. Technol. Lett., vol. 13, pp. 803-805,2001.
+48.
+V. Rastogi and K. S. Chiang, "Long-period gratings in planar optical waveguides," Appl. Opt., vol. 41, pp.6351-6355, 2002.
+49.
+V. Rastogi, K. S. Chiang, and N. N. Akhmediev, “Soliton states in a nonlinear directional coupler with intermodal dispersion”, Physics Letters A, vol. 291, 
+pp. 115-123, 2002.
+50.
+M. N. Ng and K. S. Chiang, “Thermal effects on the transmission spectra of long-period fiber gratings”, Opt. Commun., vol.208, pp.321-327, 2002.
+51.
+M. N. Ng, Z. Chen, and K. S. Chiang, “Temperature compensation of long-period grating for refractive-index sensing with bending effect”, IEEE Photon. 
+Technol. Lett., vol. 14, no. 3, pp. 361-362, 2002.
+52.
+K. S. Chiang, R. Kancheti, and V. Rastogi, Temperature-compensated fiber-Bragg-grating-based magnetostrictive sensor for dc and ac measurements, " 
+Optical Engineering, vol. 42, pp. 1906-1909, 2003.
+53.
+K. S. Chiang, K. P. Lor, C. W. Chow, H. P. Chan, V. Rastogi, and Y. M. Chu, "Widely tunable long-period gratings fabricated in polymer-clad ion-
+exchanged glass waveguides," IEEE Photon. Technol. Lett., vol. 15, pp. 1094-1096, 2003.
+54.
+V. Rastogi and K. S. Chiang, “Leaky optical fibre for large mode area single-mode operation”, Electron. Lett., vol. 39, pp. 1110-1112, 2003. 
+55.
+Y. Liu, K. S. Chiang, and P. L. Chu, “Generation of dual-wavelength picosecond pulses with close wavelength separation from a self-seeded Fabry-Perot 
+laser diode”, IEEE Photon. Technol. Lett., vol. 15, pp. 1452-1454, 2003.
+56.
+V. Rastogi and K. S. Chiang, “Holey optical fiber with circularly distributed holes analyzed by the radial effective-index method”, Opt. Lett., vol. 28, pp. 
+249-251, 2003.
+57.
+Q. Liu, K. S. Chiang, and V. Rastogi, “Analysis of corrugated long-period waveguide gratings and their polarization dependence”, IEEE/OSA J. 
+Lightwave Technol., vol. 21, pp.3399-3405, 2003.
+58.
+S. C. Tsang, K. S. Chiang, and K. W. Chow, “Soliton interaction in a two-core optical fiber”, Opt. Commun., vol. 229, pp. 431-439, 2004.
+59.
+V. Rastogi and K. S. Chiang, “Analysis of the segmented cladding fiber by the radial effective-index method”, J. Opt. Soc. Am. B, vol. 21, pp. 258-265,  
+2004.
+60.
+Y. Liu, K. S. Chiang, and P. L. Chu, “Multiplexing of temperature-compensated fiber-Bragg-grating magnetostrictive sensors with a dual-wavelength 
+pulse laser”, IEEE Photon. Technol. Lett., vol. 16, pp. 572-574, 2004.
+61.
+S. Y. Cheng, K. S. Chiang, and H. P. Chan, “Birefringence characteristics of benzocyclobutene rib optical waveguides”, Electron. Lett., vol. 40, pp. 372-
+373, 2004.
+Page 2 of 5
+Dr. CHIANG, Kin-Seng, EE CityU HK
+10/19/2018
+http://www.ee.cityu.edu.hk/~kschiang/
+
+-----
+62.
+K. S. Chiang, C. K. Chow, H. P. Chan, Q. Liu, and K. P. Lor, “Widely tunable polymer long-period waveguide grating with polarization-insensitive 
+resonance wavelength”, Electron. Lett., vol. 40, pp. 422-423, 2004.
+63.
+Y. Liu, K. S. Chiang, and P. L. Chu,  “Generation of dual-wavelength picosecond pulses from a self-seeded Fabry-Perot laser diode and a polarization-
+maintaining fiber Bragg grating”, IEEE Photon. Technol. Lett., vol. 16, pp. 1742-1744, 2004.
+64.
+K. S. Chiang, F. Y. M. Chan, and M. N. Ng, “Analysis of two parallel long-period fiber gratings”, IEEE/OSA J. Lightwave Technol., vol. 22, pp. 1358-
+1366, 2004.
+65.
+K. S. Chiang, K. P. Lor, Q. Liu, C. K. Chow, Y. M. Chu, and H. P. Chan, “Long-period waveguide gratings”, Japanese Journal of Applied Physics, vol. 43, 
+pp. 5690-5696, 2004 (review paper).
+66.
+M. Liu, K. S. Chiang, and P. Shum, “Propagation of short pulses in an active nonlinear two-core optical fiber”, IEEE J. Quantum Electron., vol. 40, pp. 
+1597-1602, 2004.
+67.
+F. Y. M. Chan and K. S. Chiang, “Analysis of apodized phase-shifted long-period fiber gratings”, Opt. Commun., vol. 244, pp. 233-243, 2005.
+68.
+Q. Liu, K. S. Chiang, and K. P. Lor, "Long-period gratings in polymer ridge waveguides", Opt. Express, vol. 13, pp. 1150-1159, 2005.
+69.
+Y. Liu, K. S. Chiang, and P. L. Chu, "Fiber-Bragg-Grating force sensor based on a wavelength-switched self-seeded Fabry-Perot laser diode", IEEE 
+Photon. Technol. Lett.,  vol. 17, pp. 450-452, 2005.
+70.
+K. P. Lor, Q. Liu, and K. S. Chiang, "UV-written long-period gratings on polymer waveguides", IEEE Photon. Technol. Lett.,  vol. 17, pp. 594-596, 2005.
+71.
+K. S. Chiang and C. L. Wong, "Refractive-index profiling of single-mode graded-index optical planar waveguides by the inverse 
+Wentzel-Kramers-Brillouin method with improved accuracy", Optical Engineering, vol. 44, 054601, 2005.
+72.
+Y. Liu, K. S. Chiang, and P. L. Chu, "Generation of picosecond pulses at five close wavelengths by use of a self-seeded Fabry-Perot laser diode and a 
+spectrum-split fiber Bragg grating", Appl. Opt., vol. 44, pp.2895-2901, 2005.
+73.
+K. S. Chiang, "Theory of pulse propagation in optical directional couplers", Nonlinear Optical Physics & Materials, vol. 14, pp. 133-147, 2005 (review 
+paper).
+74.
+Q. Liu, K. S. Chiang, K. P. Lor, and C. K. Chow, "Temperature sensitivity of a long-period waveguide grating in a channel waveguide", Appl. Phys. Lett., 
+vol. 86, 241115, 2005.
+75.
+S. Y. Cheng, K. S. Chiang, and H. P. Chan, "Polarization dependence in polymer waveguide directional couplers", IEEE Photon. Technol. Lett.,  vol. 17, 
+pp. 1465-1467, 2005.
+76.
+Q. Liu, K. S. Chiang, and K. P. Lor, "Tailoring the transmission characteristics of polymer long-period waveguide gratings by UV irradiation", IEEE 
+Photon. Technol. Lett., vol. 17, pp. 2340-2342, 2005.
+77.
+Y. Bai and K. S. Chiang, "Analysis and design of long-period waveguide-grating couplers", IEEE/OSA J. Lightwave Technol., vol. 23, pp. 4363-4373, 
+2005.
+78.
+L. Su, K. S. Chiang, and C. Lu, "Fiber Bragg-grating incorporated microbend sensor for simultaneous mechanical parameter and temperature 
+measurements", IEEE Photon. Technol. Lett., vol. 17, pp.2697-2699, 2005.
+79.
+Y. Liu and K. S. Chiang, "Broad-band optical coupler based on evanescent-field coupling between three parallel long-period fibre gratings", IEEE Photon. 
+Technol. Lett., vol. 18, pp. 229-231, 2006.
+80.
+K. Chen, P. L. Chu, K. S. Chiang, and H. P. Chan, "Design and fabrication of a broadband polymer vertically coupled optical switch", IEEE/OSA J. 
+Lightwave Technol., vol. 24, pp. 904-911, 2006.
+81.
+F. Y. M. Chan and K. S. Chiang, "Transfer-matrix method for the analysis of two parallel dissimilar nonuniform long-period fiber gratings", IEEE/OSA J. 
+Lightwave Technol., vol. 24, pp. 1008-1018, 2006.
+82.
+Y. M. Chu, K. S. Chiang, and Q. Liu, “Widely tunable optical bandpass filter by use of polymer long-period waveguide gratings”, Appl. Opt., vol. 45, no. 
+12, pp.2755-2760, 2006.
+83.
+K. S. Chiang, C. K. Chow, Q. Liu, H. P. Chan, and K. P. Lor, “Band-rejection filter with widely tunable center wavelength and contrast using metal long-
+period grating on polymer waveguide”, IEEE Photon. Technol. Lett., vol. 18, no. 9, pp.1109-1111, 2006.
+84.
+Q. Liu and K. S. Chiang, “Design of long-period waveguide grating filter by control of waveguide cladding profile”, IEEE/OSA J. Lightwave Technol., 
+vol. 24, no. 9, pp.3540-3546, 2006.
+85.
+Q. Liu, K. S. Chiang, and K. P. Lor, “Condition for the realization of a temperature-insensitive long-period waveguide grating”, Opt. Lett., vol. 31, no. 18, 
+pp.2716-2718, 2006.
+86.
+Y. Liu and K. S. Chiang, “Fiber-Bragg-grating cavity sensor interrogated with a self-seeded Fabry-Perot laser diode”, IEEE Photon. Technol. Lett., vol. 
+18, no. 20, pp. 2153-2155, 2006.
+87.
+Y. Bai and K. S. Chiang, “Analysis of long-period waveguide grating arrays”, IEEE/OSA J. Lightwave Technol., vol. 24, no. 10, pp.3856-3863,  2006. 
+88.
+Y. Bai, Q. Liu, K. P. Lor, and K. S. Chiang, “Widely tunable long-period waveguide grating couplers”, Opt. Express, vol. 14, no. 26, pp.12644-12654, 
+2006.
+89.
+K. S. Chiang, S. Y. Cheng, and Q. Liu, "Characterization of ultrathin dielectric films with the prism-coupler method", IEEE/OSA J. Lightwave Technol., 
+vol. 25, no. 5,  pp. 1206-1212, 2007.
+90.
+Y. Liu, K. S. Chiang, and Q. Liu, "Symmetric 3 x 3 optical coupler using three parallel long-period fiber gratings", Opt. Express, vol. 15, no. 10, pp.6494-
+6499, 2007.
+91.
+Q. Liu, K. S. Chiang, and Y. Liu, "Characterization of single-mode fiber with fiber Bragg gratings for the design of long-period gratings", IEEE/OSA J. 
+Lightwave Technol., vol. 25, no. 8, pp. 2129-2134, 2007.
+92.
+J. Li and K. S. Chiang, “Guided modes of one-dimensional photonic bandgap waveguides”, J. Opt. Soc. Am. B, vol. 24, no. 8, pp. 1942-1950, 2007.
+93.
+J. Li and K. S. Chiang, "“Disappearance of modes in planar Bragg waveguides”, Opt. Lett., vol. 32, no. 16, pp. 2369-2371, 2007.
+94.
+Y. Liu, K. S. Chiang, R. J. Rao, Z. L. Ran, and T. Zhu, “Light coupling between two parallel CO2-laser written long-period fiber gratings”, Opt. Express, 
+vol. 15, no. 26, pp. 17645-17651,  2007.
+95.
+H. W. Lee, Y. Liu, and K. S. Chiang, “Writing of long-period gratings in conventional and photonic-crystal polarization-maintaining fibers by CO2-laser 
+pulses”, IEEE Photon. Technol. Lett., vol. 20, no. 2, pp. 132-134, 2008.
+96.
+K. X. Chen, K. S. Chiang, and H. P. Chan, “Broadband multi-port dynamic optical power distributor based on thermo-optic polymer waveguide vertical 
+couplers”, IEEE Photon. Technol. Lett., vol. 20, no. 4, pp.273-275, 2008.
+97.
+K. S. Chiang and S. Y. Cheng, “Technique of applying the prism-coupler method for accurate measurement of the effective indices of channel 
+waveguides”, Opt. Eng., vol. 47, no. 3, pp. 034601(1-4), 2008.
+98.
+K. S. Chiang, Q. Liu, and K. P. Lor, “Refractive-Index profiling of buried planar waveguides by an inverse Wentzel–Kramer–Brillouin method”, 
+IEEE/OSA J. Lightwave Technol., vol. 26, no. 11, pp. 1367-1373, 2008.
+99.
+W. Jin, K. S. Chiang, Q. Liu, C. K. Chow, H. P. Chan, and K. P. Lor, “Lithium-niobate channel waveguide for the realization of long-period gratings”, 
+IEEE Photon. Technol. Lett., vol. 20, pp. 1258-1260, 2008.
+100.
+J. Li and K. S. Chiang, “Leaky modes in coupled photonic bandgap waveguides”, J Opt. Soc. Am. B, vol. 25, no. 8, pp. 1277-1283, 2008.
+101.
+Q. Liu, K. S. Chiang, and Y. Liu, “Six-port optical fiber couplers based on three parallel long-period fiber gratings”, IEEE/OSA J. Lightwave Technol., 
+vol. 26, no. 18, pp.3277-3286, 2008.
+102.
+Y. Liu and K. S. Chiang, “CO2-laser writing of long-period fiber gratings in optical fibers under tension”, Opt. Lett., vol. 33, no. 17, pp. 1933-1935, 2008.
+103.
+J. Yang, H. Ming, and K. S. Chiang, “Analysis of erbium-doped ultra-large-core segmented-cladding fibers for optical amplification”, IEEE/OSA J. 
+Lightwave Technol., vol. 26, no. 17, pp.3098-3103, 2008.
+104.
+J. Li and K. S. Chiang, “Light guidance in a photonic bandgap slab waveguide consisting of two different Bragg reflectors”, Opt. Commun., vol. 281, no. 
+23, pp.5797-5803, 2008.
+105.
+W. Jin, K. S. Chiang, and Q. Liu, “Electro-optic long-period waveguide gratings in lithium niobate”, Opt. Express, vol. 16, no. 25, pp. 20409-20417, 2008.
+106.
+C. K. Chow, K. S. Chiang, Q. Liu, K. P. Lor, and H. P. Chan, “UV-written long-period waveguide grating coupler for broadband add/drop multiplexing”, 
+Opt. Commun., vol. 282, pp. 378-381, 2009.
+107.
+A. Yeung, P. L. Chu, G. D. Peng, K. S. Chiang, and Q. Liu, “Design and fabrication of polymer cross fiber for large-core single-mode operation”, 
+IEEE/OSA J. Lightwave Technol., vol. 27, no. 2, pp. 101-107, 2009.
+108.
+M. Liu and K. S. Chiang, “Propagation of ultrashort pulses in a nonlinear long-period fiber grating”, Applied Physics B, vol. 94, pp. 599-607, 2009.
+109.
+H. W. Lee and K. S. Chiang, “CO2 laser writing of long-period fiber gratings in photonic crystal fibers under tension”, Opt. Express, vol. 17, no. 6, pp. 
+4533-4539, 2009.
+110.
+Y. Liu, H. W. Lee, K. S. Chiang, T. Zhu, and Y. J. Rao, “Glass structure changes in CO2-laser writing of long-period fiber gratings in boron-doped single-
+mode fibers”, IEEE/OSA J. Lightwave Technol., vol. 27, no. 7, pp. 857-863, 2009.
+111.
+K. P. Lor, K. S. Chiang, Q. Liu, and H. P. Chan, “UV-writing of buried waveguide devices in epoxy-coated benzocyclobutene”, Optical Engineering, vol. 
+48, no. 4, pp. 044601(1-6), 2009.
+Page 3 of 5
+Dr. CHIANG, Kin-Seng, EE CityU HK
+10/19/2018
+http://www.ee.cityu.edu.hk/~kschiang/
+
+-----
+112.
+Y. Gu, K. S. Chiang, and Y. J. Rao, “Writing of apodized phase-shifted long-period fiber gratings with a computer-controlled CO2 laser”, IEEE Photon. 
+Technol. Lett., vol. 21, no. 10, pp. 657-659, 2009.
+113.
+Q. Liu and K. S. Chiang, “Refractive-index sensor based on long-range surface plasmon mode excitation with long-period waveguide grating”, Opt. 
+Express, vol. 17, no. 10, pp.7933-7942, 2009.
+114.
+Y. Liu, Q. Liu, and K. S. Chiang, “Optical coupling between a long-period fiber grating and a parallel tilted fiber Bragg grating”, Opt. Lett., vol. 34, no. 
+11, pp. 1726-1728, 2009.
+115.
+K. S. Chiang, “Development of long-period fiber grating coupling devices”, Appl. Opt., vol. 48, no. 25, pp. F61-F67, 2009 (review paper).
+116.
+J. Li and K. S. Chiang, “Analysis of one-dimensional high-index guiding photonic bandgap waveguides”, J. Opt. Soc. Amer. B, vol. 26, no. 11, pp. 2007-
+2015, 2009.
+117.
+T. Zhu, K. S. Chiang, Y. J. Rao, Y. Song, C. H. Shi, and M. Liu, “Characterization of long-period fiber gratings written by CO2 laser in twisted single-
+mode fibers,” OSA/IEEE J. Lightwave Technol., vol. 27, no. 21, pp. 4863-4869, 2009.
+118.
+M. Liu and K. S. Chiang, “Propagation of ultrashort pulses in a nonlinear two-core photonic crystal fiber,” Applied Physics B, vol. 98, pp. 815-820, 2010.
+119.
+W. Jin, K. S. Chiang, and Q. Liu, “Thermally tunable lithium-niobate long-period waveguide grating filter fabricated by reactive ion etching,” Opt. Lett., 
+vol. 35, no. 4, pp. 484-486, 2010.
+120.
+Z. Wang, K. S. Chiang, and Q. Liu, “Microwave photonic filter based on circulating a cladding mode in a fiber ring resonator,” Opt. Lett., vol. 35, no. 5, 
+pp. 769-771, 2010.
+121.
+Q. Liu and K. S. Chiang, “Planar long-period grating filter based on long-range surface plasmon mode of buried metal stripe waveguide,” Opt. Express, 
+vol. 18, no. 9, pp. 8963-8968, 2010 (also selected for the July 06, 2010 issue of the Virtual Journal of Biomedical Optics (VJBO), 
+http://vjbo.osa.org/virtual_issue.cfm)
+122.
+W. Jin, K. S. Chiang, and Q. Liu, “Analysis of lithium niobate electrooptic long-period waveguide gratings,” IEEE/OSA J. Lightwave Technol., vol. 28, 
+no. 10, pp. 1477-1484, 2010.
+123.
+Z. Wang, K. S. Chiang, and Q. Liu, “All-fiber tunable microwave photonic filter based on a cladding-mode coupler,” IEEE Photon. Technol. Lett., vol. 22, 
+no. 16, pp. 1241-1243, 2010.
+124.
+M. Liu and K. S. Chiang, “Pulse propagation in a decoupled two-core fiber,” Opt. Express, vol. 18, no. 20, pp. 21261-21268, 2010.
+125.
+K. P. Lor, K. S. Chiang, Q. Liu, and H. P. Chan, “Bottom-heating approach for the realization of thermooptic polymer waveguide devices,” IEEE Photon. 
+Technol. Lett., vol. 23, no. 3, pp. 155-157, 2011.
+126.
+Y. Liu and K. S. Chiang, “Wavelength switching of picosecond pulses generated from a self-seeded Fabry-Perot laser diode with a tilted fiber Bragg 
+grating formed in a graded-index multimode fiber,” Appl. Opt., vol. 50, no. 6, pp. 829-834, 2011.
+127.
+S. C. Chan, Q. Liu, Z. Wang, and K. S. Chiang, “Tunable negative-tap photonic microwave filter based on a cladding-mode coupler and an optically 
+injected laser of large detuning,” Opt. Express, vol. 19, no. 13, pp. 12045-12052, 2011.
+128.
+J. H. Li, K. S. Chiang, and K. W. Chow, “Modulation instabilities in two-core optical fibers,” J. Opt. Soc. Amer. B, vol. 28, no. 7, pp. 1693-1701, 2011.
+129.
+K. S. Chiang and Q. Liu, “Formulae for the design of polarization-insensitive multimode interference couplers,” IEEE Photon. Technol. Lett., vol. 123, no. 
+18, pp. 1277-1279, 2011.
+130.
+Q. Liu, K. S. Chiang, L. Reekie, and Y. T. Chow, “CO2 laser induced refractive-index changes in optical polymers,” Opt. Express, vol. 20, no. 1, pp. 576-
+582, 2012. 
+131.
+C. Zhang and K. S. Chiang, “Broadband optical fiber tap based on cladding-mode coupling,” Optical Engineering, vol. 57, no. 075001-(1-4), 2012.
+132.
+T. Zhu, F. Xiao, L. Xu, M. Liu, M. Deng, and K. S. Chiang, “Pressure-assisted low-loss fusion splicing between photonic crystal fiber and single-mode 
+fiber,” Opt. Express, Vol. 20, no. 22, pp. 24465-24471, 2012.
+133.
+Q. Liu and K. S. Chiang, “Ultra-uniform field distribution in a finite-width metal-dielectric-metal waveguide,” Plasmonics, vol. 8, no. 2, pp. 277-282, 
+2013.
+134.
+M. Liu and K. S. Chiang, “Two-core photonic crystal fiber with zero intermodal dispersion,” Opt. Commun., vol. 293, pp. 49-53, 2013.
+135.
+F. Tian, J. Kanka, B. Zou, K. S. Chiang, and H. Du, “Long-period gratings inscribed in photonic crystal fiber by symmetric CO2 laser irradiation,” Opt. 
+Express, vol. 21, no. 11, pp. 13208-13218, 2013.
+136.
+J. H. Li, K. S. Chiang, and K. W. Chow, “Suppression of pulse splitting in two-core fibers,” J. Opt. Soc. Amer. B, vol. 30, no. 2, pp. 460-467, 2013.
+137.
+B. Zou and K. S. Chiang, “Phase retrieval from transmission spectrum for long-period fiber gratings,” IEEE/OSA J. Lightwave Technol., vol. 31, no. 13, 
+pp. 2223-2229, 2013. 
+138.
+W. Jin, K. S. Chiang, K. P. Lor, H. P. Chan, Jack T. L. To, and R. H. M. Leung, “Industry compatible embossing process for the fabrication of waveguide-
+embedded optical printed circuit boards,” IEEE/OSA J. Lightwave Technol., vol. 31, no. 24, pp. 4045-4050, 2013. 
+139.
+Y. Wu, B. Yao, Y. Cheng, Y. Rao, X. Zhou, B. Wu, and K. S. Chiang, “Four-wave mixing in a microfiber attached onto a graphene film,” IEEE Photon. 
+Technol. Lett., vol. 26, no. 3, pp. 249-252, 2014.
+140.
+J. H. Li, K. S. Chiang, and K. W. Chow, “Switching of ultrashort pulses in nonlinear high-birefringence two-core optical fibers,” Opt. Commun., vol. 318, 
+pp. 11-16, 2014.
+141.
+J. Dong and K. S. Chiang, “Mode-locked fiber laser with transverse-mode selection based on a two-mode FBG,” IEEE Photon. Technol. Lett., vol. 26, no. 
+17, pp. 1766-1769, 2014.
+142.
+B. Zou and K. S. Chiang, “Application of the Hilbert Transform method for the retrieval of the phase characteristics of plasmonic metal Bragg gratings,” 
+Plasmonics, Sept. 2014, DOI: 10.1007/s11468-014-9783-3.
+143.
+W. Jin and K. S. Chiang, “Mode switch based on electro-optic long-period waveguide grating in lithium niobate,” Opt. Lett., vol. 40, no. 2, pp. 237-240, 
+2015.
+144.
+J. Dong and K. S. Chiang, “Temperature-insensitive mode converters with CO2-laser written long-period fiber gratings,” IEEE Photon. Technol. Lett., vol. 
+27, no. 9, pp.1006-1009, 2015.
+145.
+K. X. Chen, X. P. Li, Y. L. Zheng, and K. S. Chiang, “Lithium-niobate Mach-Zehnder interferometer with enhanced index contrast by SiO2 Film,” IEEE 
+Photon. Technol. Lett., vol. 27, no. 11, pp.1224-1227, 2015.
+146.
+J. Dong, K. S. Chiang, and W. Jin, “Mode multiplexer based on integrated horizontal and vertical polymer waveguide couplers,” Opt. Lett., vol. 40, no. 13, 
+pp.3125-3128, 2015.
+147.
+Y. Wu and K. S. Chiang, “Compact three-core fibers with ultra-low differential group delays for broadband mode-division multiplexing,” Opt. Express, 
+vol. 23, no. 16, pp.20867-20875, 2015.
+148.
+Y. Yang, K. Chen, W. Jin, and K. S. Chiang, “Widely wavelength-tunable mode converter based on polymer waveguide grating, “IEEE Photon. Technol. 
+Lett., vol. 27, no. 18, pp.1985-1988, 2015.
+149.
+J. Dong, K. S. Chiang, and W. Jin, “Compact three-dimensional polymer waveguide mode multiplexer,” IEEE/OSA J. Lightwave Technol., vol. 33, no. 
+22, pp.4580-4588, 2015.
+150.
+M.-Y. Chen and K. S. Chiang, “Mode-selective characteristics of an optical fiber with a high-index core and a photonic bandgap cladding,” IEEE J. Sel. 
+Top. Quantum Electron., vol. 22, no. 2, paper 4900307, 2016.
+151.
+Z. Chang and K. S. Chiang, “Experimental verification of optical models of grahpene with multimode slab waveguides,” Opt. Lett., vol. 41, no. 9, 
+pp.2129-2132, 2016.
+152.
+M. Zhang, K. Chen, W. Jin, and K. S. Chiang, “Electro-optic mode switch based on lithium-niobate Mach-Zehnder interferometer,” Appl. Opt., vol. 55, 
+no. 16, pp. 4418-4422, 2016.
+153.
+W. Jin and K. S. Chiang, “Mode converters based on cascaded long-period waveguide gratings,” Opt. Lett., vol. 41, no. 13, pp.3130-3133, 2016.
+154.
+S. K. Mishra, B. Zou, and K. S. Chiang, “Surface-plasmon-resonance refractive-index sensor with Cu-coated polymer waveguide,” IEEE Photon. Technol. 
+Lett., vol. 28, no. 17 pp. 1835-1838, 2016.
+155.
+J. H. Li, H. Zhou, K. S. Chiang, and S. R. Xiao, “Modulation instabilities in equilateral three-core optical fibers,” J. Opt. Soc. Amer. B, vol. 33, no. 11, pp. 
+2357-1267, 2016.
+156.
+J. Wu, J. Luo, N. Cernetic, K. Chen, K. S. Chiang, and A. K-Y Jen, “PCBM-doped electro-optic materials: dielectric, optical and electro-optic properties 
+investigation for high efficient poling,” Journal of Materials Chemistry C, vol. 4, no. 43, pp. 10286-10292, 2016.
+157.
+Y. Wu and K. S. Chiang, “Mode-selective coupling between few-mode fibers and buried channel waveguides,” Opt. Express, vol. 24, no. 26, pp. 30108-
+30123, 2016.
+158.
+Y. Wu and K. S. Chiang, “Ultra-broadband mode multiplexers based on three-dimensional asymmetric waveguide branches,” Opt. Lett., vol. 42, no. 3, pp. 
+407-410, 2017.
+159.
+S. K. Mishra, B. Zou, and K. S. Chiang, “Wide-range pH sensor based on a smart-hydrogel-coated long-period fiber grating,” IEEE J. Sel. Top. Quantum 
+Electron., vol. 23, no. 2, Paper 5601405, 2017.
+Page 4 of 5
+Dr. CHIANG, Kin-Seng, EE CityU HK
+10/19/2018
+http://www.ee.cityu.edu.hk/~kschiang/
+
+-----
+160.
+W. Wang, J. Wu, K. Chen, W. Jin, and K. S. Chiang, “Ultra-broadband mode converters based on length-apodized long-period waveguide gratings,” Opt. 
+Express, vol. 25, no. 13, pp. 14341-14350, 2017.
+Selected Invited Conference Articles:
+1.
+K. S. Chiang, “Widely tunable long-period waveguide grating filters”, Asia-Pacific Optical and Wireless Communications Conference and Exhibition 
+(APOC-2006) (Gwangju, South Korea, Sept., 2006), Paper 6351-167, 2006. [Link to full paper]
+2.
+K. S. Chiang and Q. Liu, “Long-period gratings for application in optical communications”, Proc. 5th International Conference on Optical Communications 
+and Networks and 2nd International Symposium on Advances and Trends in Fiber Optics and Applications (ICOCN/ATFO 2006) (Chengdu, China, Sept. 
+2006), pp.128-133, 2006. [Link to full paper]
+3.
+Y. Liu and K. S. Chiang, “Recent development on CO2-laser written long-period fiber gratings”, Asia-Pacific Optical Communications (APOC 2008) 
+(Hangzhou, China, Oct., 2008), Proc. SPIE, Vol.7134, Paper no. 713437, 2008. [Link to full paper]
+4.
+K. S. Chiang, “Development of optical polymer waveguide devices,” SPIE Photonics West 2010 (San Francisco, USA, Jan. 2010), Proc. SPIE, Vol. 7605, 
+760507, 2010.
+5.
+K. S. Chiang and W. Jin, “Electro-optic long-period waveguide grating devices,” Proc. 17th Optoelectronics and Communications Conference (OECC 
+2012) (Busan, South Korea, July, 2012), pp. 545-546, 2012.
+6.
+K. S. Chiang, “Multicore fibers: from nonlinear optical switching to mode-division multiplexing,” Asia Communications and Photonics Conference – 
+International Conference on Information Photonics and Optical Communications (ACP-IPOC 2013) (Beijing, China, Nov., 2013), 2013.
+7.
+K. S. Chiang, “Polymer optical waveguide devices for mode-division-multiplexing applications,” SPIE Proc. Integrated Optics: Physics and Simulations 
+III (Prague, Czech Republic, April 2017), SPIE Vol. 10242, Paper 102420R, 2017. http://dx.doi.org/10.1117/12.2265275.
+Science in 2 Minutes - Short video program on fiber optics produced in 2009 for general audience
+Last updated: July 2017
+Page 5 of 5
+Dr. CHIANG, Kin-Seng, EE CityU HK
+10/19/2018
+http://www.ee.cityu.edu.hk/~kschiang/
+
+-----

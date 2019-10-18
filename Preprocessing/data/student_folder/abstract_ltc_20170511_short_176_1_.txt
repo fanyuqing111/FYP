@@ -1,0 +1,17 @@
+Title: Semi-Supervised and Unsupervised Learning Methods for Detecting Driver Distraction 
+Abstract: 
+Driver distraction is one of the major causes of traffic accidents. It is important to detect 
+driver distraction based on some observable measures, such that effective countermeasures 
+can be applied accordingly. One popular approach to constructing distraction detection 
+systems is supervised machine learning, which requires a large amount of labeled training 
+data and thus incurs considerable labeling cost.  
+To alleviate labeling cost, this thesis investigates semi-supervised and unsupervised learning 
+for driver distraction detection. The thesis first answers the research question of ‘which type 
+of Semi-Supervised Learning (SSL) method is more suitable’ by evaluating popular SSL 
+methods on a dataset of drivers’ eye and head movements collected in an on-road experiment. 
+Furthermore, this thesis proposes two novel unsupervised clustering algorithms to generate 
+preliminary labels, such that human experts can use them as a reference to create accurate 
+final labels. Both of the proposed clustering algorithms involve taking advantage of data’s 
+intrinsic local structure and generating better data representations. 
+
+-----

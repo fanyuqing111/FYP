@@ -1,0 +1,72 @@
+Abstract 
+     Wireless power transfer (WPT) technology is gaining its popularity in recent years, 
+which is largely motivated by extensive research work. It is attractive as the power and 
+data transmission can be done through the magnetic field between two coils without the 
+usage of power wires. It offers the convenience of charging or operating a device without 
+having to plug-in. For example, electronic devices such as cell phones, smart watches and 
+electric vehicles could be charged without utilizing power cord as in the conventional 
+way. WPT technology is advantageous to various applications with different 
+specifications and constraints. Besides wireless charging, it contributes greatly to RFID 
+and medical fields as well, such as wireless capsule endoscopy for early detection 
+screening, biomedical implants like cochlear implants, RFID animal tag for prevention of 
+infectious disease, etc. The emerging WPT technology has become an appealing 
+approach in industrial applications and it is expected to continually grow in near future.  
+     In this research, the focus is on the power management integrated circuits (PMIC) 
+design of the wireless power receiver in an inductively WPT system. Several designs are 
+proposed to improve the performance of the receiver for the applications in the range of 
+1mW-100mW of output power and operate in an ISM band of 125 kHz, such as for RFID 
+animal tag or biomedical implants. In a wireless power receiver, a rectifier and a voltage 
+regulator are crucial blocks for AC-DC conversion and DC-DC regulation respectively. 
+Hence, an unbalanced biasing comparator design is proposed to enhance the power 
+efficiency of the rectifier block. A buck regulator with a proposed energy-efficient pulse 
+frequency modulation (PFM) controller is implemented as well. Measurement results 
+show that the rectifier achieves a peak efficiency of 85.92% while the buck regulator 
+achieves a peak efficiency of 91%.  
+     However, the two-stage design restricts the overall power efficiency of the receiver. In 
+order to improve the power efficiency, a one-stage AC-DC regulator is proposed by 
+introducing a dual-mode concept. As a result, the power losses incurred has been reduced 
+from two-stage to one-stage, improving the power efficiency substantially. Fabricated in 
+0.18µ
+m CMOS process, the measured peak efficiency is 93.48% in an output power 
+range of 2mW-80mW. 
+
+-----
+     To maximize the circuits’ performances of embedded applications, more than one 
+supply voltage is often required in a system. Hence, a new architecture which is able to 
+rectify and regulate multiple outputs concurrently in a single-stage is developed. In 
+addition, a multi-mode controller is also proposed to control the multiple switches of the 
+structure efficiently. As a proof of concept, a prototype has been validated for the tri-
+mode dual-output design. Nonetheless, the concept is applicable and extendable to N 
+outputs. The measured peak power efficiency of the tri-mode dual-output design is 91.68% 
+in an output power range of 3.8mW to 114mW.  
+     Lastly, a single-stage voltage doubler regulator is proposed. The previous designs 
+operate with a criterion that the input voltage has to be greater than output voltage. To 
+solve the limitation, a voltage doubler structure is utilized. By embedding the regulation 
+function in the voltage doubler structure, the voltage rectification and regulation can be 
+achieved at an output voltage that is twice of the input voltage amplitude.  
+ 
+ 
+ 
+
+-----
+Publication List 
+Journals: 
+1. Qiong Wei Low, Mi Zhou, Liter Siek, “A Single-Stage Direct-Conversion AC-DC 
+Converter for Inductively Powered Application,” submitted to IEEE Transactions on 
+Very Large Scale Integration (VLSI) Systems. – under revision 
+2. Mi Zhou, Zhuochao Sun, Qiong Wei Low, Liter Siek, “Fast transient response DC-DC 
+converter with start-up in-rush current control,” IET Electronics Letter 2016. 
+ 
+Conferences: 
+1. Qiong Wei Low, Liter Siek, Mi Zhou, “A high efficiency rectifier for inductively power 
+transfer application,” IEEE International Conference on Very Large Scale Integration 
+(VLSI-SoC), Oct 2015. 
+2. Qiong Wei Low, Mi Zhou, Liter Siek, “Performance analysis on active rectifier 
+structures for inductively powered application,” International Symposium on Integrated 
+Circuits (ISIC) 2016. 
+3. Mi Zhou, Qiong Wei Low, Liter Siek, “A high efficiency synchronous buck converter 
+with adaptive dead-time control,” International Symposium on Integrated Circuits (ISIC) 
+2016. 
+ 
+
+-----

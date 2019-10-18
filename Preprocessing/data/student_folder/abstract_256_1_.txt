@@ -1,0 +1,26 @@
+ 
+Design of a one-watt level RF power amplifier for smartphones 
+Abstract 
+Smartphones, embodying wireless data and voice communication means, are increasingly 
+the wireless communications transceiver (phone) of choice. Nevertheless, the primary 
+complaint of smartphone users is the short battery lifespan between charges, and this 
+complaint is exacerbated with the increasing speed and amount of data communications, 
+particularly with the existing 4G Long Term Evolution (LTE) data and impending 5G 
+data communication protocols. 
+The radio frequency power amplifier (RF PA) is one of the most critical blocks in the 
+smartphone, in part because it is the most power-dissipative block therein. To address the 
+said short battery lifespan, it is imperative that the power dissipation of the RF PA be low 
+and its power-efficiency high. 
+The objective of this MEng program is to design a fully integrated one-watt RF power 
+amplifier using 65nm CMOS process. To achieve one-watt output power, the power-
+combining technique is applied to combine two power cells. The linearity and efficiency 
+issues related to the chip, package, printed circuit board are discussed. Further objectives 
+include LTE applications and linearity and efficiency improvement for LEES-SMART 
+InGaAs-on-CMOS process. 
+ 
+ 
+ 
+ 
+ 
+
+-----

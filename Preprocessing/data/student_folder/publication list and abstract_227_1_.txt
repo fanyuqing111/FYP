@@ -1,0 +1,66 @@
+Publication List 
+1. B. Qiang, A. M. Dubrovkin, H. N.S. Krishnamoorthy, Q. Wang, C. Soci, Y. 
+Zhang, J. Teng, Q. J. Wang, “High Q-factor controllable phononic modes in 
+hybrid phononic-dielectrics” (Submitted) 
+2. 
+B. Qiang, A. M. Dubrovkin, H. N.S. Krishnamoorthy, C. Soci, Q. J. Wang, 
+“Hybrid dielectric-phonon metamaterial in mid-infrared” (Submitted) 
+3. A. M. Dubrovkin, B. Qiang, H. N. S. Krishnamoorthy, N. I. Zheludev and Q. J. 
+Wang, "Ultra-confined surface phonon polaritons in molecular layers of van der 
+Waals dielectrics", Nature Communications, 9, 1726, 2018. 
+4. Y. Zeng, G. Liang, B. Qiang, K. Wu, J. Tao, X. Hu, L. Li, A. G. Davies, E. H. 
+Linfield, H. K. Liang, Y. Zhang, Y. Chong, and Q. J. Wang, "Two-dimensional 
+multimode terahertz Random lasing with metal pillars", ACS Photonics, 5, 
+2928−2935, 2018. 
+5. Y. Zeng, G. Liang, B. Qiang, B. Meng, H. K. Liang, S. Mansha, J. P. Li, Z. H. Li, 
+L. H. Li, A. G. Davies, E. H. Linfield, Y. Zhang, Y. Chong, and Q. J. Wang*, 
+“Terahertz Emission from Localized Modes in One-Dimensional Disordered 
+Systems”, Photonics Research, 6, 117-122, 2018.(invited paper) 
+6. T. Liu, D. Qiu, T. Yin, C. Huang, G. Liang, B. Qiang, Y. Shen, H. Liang, Y. Zhang, 
+H. Wang, X. Shen, D. W. Hewak, and Q. J. Wang, "Enhanced light-matter 
+
+-----
+interaction in atomically thin MoS2 coupled with 1D photonic crystal 
+nanocavity", Optic Express, 25, 14691-14696, 2017. 
+7. Meng, B. Qiang, E. Rodriguez, X. Hu, G. Liang, and Q. J. Wang, "Coherent 
+emission from integrated Talbotcavity quantum cascade lasers", Optic Express 25, 
+3077-3082, 2017. 
+ 
+ 
+
+-----
+Abstract 
+The development and progress in nanophotonics is powered by the discovery of new 
+materials and new methods to squeeze electromagnetic wave like into smaller volume 
+and minimize the its loss as much as possible. The large optical mode confinement and 
+low loss are indispensable properties for a vast range of applications, such as cavity 
+quantum electrodynamics, nonlinear high harmonic generation, integrated optical circuit, 
+high sensitivity sensors, super resolution imaging and photon-induced chemical or 
+biological process. Each spectral region has different material platform to achieve the 
+holy grail. The most popular examples are surface plasmon resonance in visible to near 
+infrared, graphene in infrared and superconductors in terahertz. Phonon resonance in 
+mid-infrared also demonstrates superb properties in terms of low-loss and high 
+confinement.  
+During my Ph.D. candidature period, we have made some contribution to explore the 
+properties of phononic-dielectric hybrid material system. In chapter 3, we summarized 
+the experiment skills, material propertie, and some preliminary results. These are the 
+foundation for the main works presented in this thesis. In chapter 4, we explore the limit 
+of confinement that the SiC-MoS2 heterostructure can achieve. By exfoliated MoS2 
+flakes of different thickness onto the SiC substrate, we analyzed the how the 
+confinement of the EM mode energy depends on the thickness and incident wavelength. 
+In chapter 5, we showed that fabricating nanostructures using FIB milling will damage 
+the crystalline lattice. As an alternative approach, we proposed a new method to excite 
+
+-----
+the phonon resonance using a nanostructured dielectric layer of deep subwavelength 
+thick. We showed the hybrid dielectric-phononic scheme has stronger resonance than 
+the phononic nanostructure, when the thickness is thin. We tested our proposed 
+metamaterial through experiment and evaluated its performance as a refractive index 
+sensor. In chapter 6, we investigated the mode interaction and coupling between the 
+localized hyrid phononic-delectric resonance with the propagating surface polariton. Our 
+results show that the coupling strength can be tailored by the changing the germanium 
+ribbon width. The mode energy distribution in near field and the resonant wavelength 
+can be controlled by the coupling between the modes. All these results presented in this 
+thesis will be useful in designing hybrid dielectric-phononic devices. 
+
+-----

@@ -1,0 +1,74 @@
+Abstract 
+The next generation 3D display like the glass-free flat display and hologram calls for advanced 
+spatial light modulation of devices with high density of optical processing efficiency, for which 
+the lossless optical modulation with high processing speed and submicron pixilation would be 
+appreciated. Traditional spatial light modulators (SLM) for 2D display like the LCD and DMD are 
+insufficient for such advanced 3D display. Magneto-optical based SLM can be expected for 
+sensitive detection of the output optical polarization rotation faster than ~10-7 s with only a thin 
+film structure. Mie scattering based all dielectric metasurface show novelty in lossless 
+subwavelength light tailoring with the typical periodicity of the nano structures as small as 
+hundreds of nano-meters. Either of them can be expected a good candidate for the development of 
+SLM for the future 3D display application. Here we proposed two approaches for solution of the 
+idea: the MnBi based magneto-optical SLM (MO-SLM) and liquid crystal (LC) based TiO2 active 
+metasurface. Study of fabrication and optics analysis was carried out to verify the performance 
+and feasibility of the MO-SLM and active metasurface device for application. 
+In this paper, the background and motivation of the research work is given in Chapter 1; the 
+literature review about the MO effect and Mie scattering is given in Chapter 2; the fabrication and 
+optical response of LC infiltrated TiO2 metasurface is introduced and discussed in Chapter 3 to 7. 
+In this paper, the thin layer 60 nm low temperature phase MnBi thin films was successfully 
+obtained with a large perpendicular magnetization anisotropy (PMA) of 480 emu/cm3 and a MO 
+Kerr rotation (MOKE) as much as 0.5o which is much larger than other material candidates. 
+Sample was fabricated by deposition of the interlaced Mn and Bi thin layers as [Mn/Bi]10 with a 
+total thickness ratio of Mn/Bi=20/40 nm before a 350 oC thermal annealing for 2 hrs. An interlaced 
+structure of [Mn/Bi]x can improve the inter-diffusion of Mn and Bi atoms during the thermal 
+annealing thus results in a better MnBi phase formation. However, the sample is apt to be oxidized 
+presented by magnetic measurements comparison between the 14-day interval exposure in ambient 
+environment. Ta capping layer is more effective than Ru for protection of the MnBi surface 
+structure and further the magnetic properties. MO was detected and varies in consistent with the 
+PMA depending on the Mn/Bi contents. A TiO2 dielectric layer can be introduced in contact with 
+the MnBi to induce a dramatic enhancement (0.86o to 9.5o at 633 nm) based on the numerical 
+simulation. However, the large PMA and MOKE can be only received in cost of large coercivity, 
+which would hinder the possible application of the MO-SLM for display application. 
+In the meantime, an electrically drivable active metasurface was realized by LC infiltration with 
+the TiO2 nano cylinder metasurface. A wide range shift in spectra (close to 20 nm) can be obtained 
+in a 1.5 um thin layer LC based metasurface driven by a small voltage below 8V and thus receiving 
+a dynamic phase control about 1.2 . Strong surface anchoring effect is observed inducing a more 
+
+-----
+than 30o deviation of the LC alignment with respect to the preset LC photoalignment and thus the 
+optical response. Based on the measurement of optical observation and Raman spectrum, the LC 
+alignment is co-affected by the rubbing/photoalignment strength, liquid thickness and the surface 
+anchoring energy. Based on the Frank-Oseen model analysis, the stronger surface anchoring effect 
+of the nano structure can be confirmed to suppress the rubbing influence and induces an almost 
+parallel LC alignment along with the anchoring direction of the nano structure for the gentle 
+rubbing strength. The LC alignment can be controllable by either a more accurate define of the 
+nano structure arrays’ periodic direction or a harder rubbing strength performed during the 
+fabrication. The dynamically tunable metasuface can be expected a candidate for the development 
+of the tunable Huygens’ surface device in future. 
+ 
+ 
+
+-----
+Publication list 
+[1] M. Y. Sun, X. W. Xu, X. A. Liang, X. W. Sun* and Y. J. Zheng, Effect of oxidation on 
+perpendicular magnetic behavior of MnBi thin films, J. Alloy. Compd. 672 (2016) 59-63. 
+[2] M. Y. Sun, X. W. Xu, X. W. Sun, X. A. Liang, V. Valuckas, Y. J. Zheng*, R Paniagua-
+Domínguez and A. I. Kuznetsov*, Electrically tunable all dielectric metasurface based on thin 
+layer nematic liquid crystal for visible light modulation, ACS Nano. (in review) 
+[3] M. Y. Sun, X. W. Xu, X. W. Sun, X. S. Q. Li, A. Liang, R. M. Veeti, Y. J. Zheng*, R Paniagua-
+Domínguez and A. I. Kuznetsov*, Nano antennas induced anchoring effect in nematic liquid 
+crystal based metasurface. (In draft) 
+[4] R. Paniagua-Domínguez, S. Q. Li, X. W. Xu, M. Y. Sun, R. M. Veetil, X. A. Liang and A. I. 
+Kuznetsov, Dynamic control at visible wavelengths of all-dielectric metasurfaces embedded 
+in liquid-crystals, OPTO, Photonics West 2018 (oral presentation) 
+[5] M. Y. Sun, H. J. Wang, Y. J. Zheng* and X. W. Sun*, Electrical modulation of all dielectric 
+metamaterial tuned by birefringent liquid crystal, ITQW 2017 (poster presentation) 
+[6] M. Y. Sun, H. J. Wang, Y. J. Zheng* and X. W. Sun*, Active all dielectric metamaterial tuned 
+by super thin liquid crystal, Photonics@SG 2017 (poster presentation) 
+[7] M. Y. Sun and X. W. Sun*, Study of fabrication, magnetization and magneto-optical properties 
+of perpendicular anisotropic MnBi thin film, Thin Film 2016 (poster presentation) 
+[8] S. Z. Wang, M. Y. Sun, P. Surman, J. S. Yuan and X. W. Sun, Maximizing the 2D Viewing 
+Field of a Computational Two-layer Light Field 3D Display, SID Symposium Digest 46 1440 
+(2015); 
+
+-----

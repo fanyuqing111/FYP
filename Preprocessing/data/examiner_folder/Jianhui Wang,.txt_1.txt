@@ -1,0 +1,1803 @@
+Jianhui Wang, Ph.D. 
+Jianhui Wang, Ph.D. 
+Associate Professor
+Department of Electrical Engineering
+Lyle School of Engineering
+Southern Methodist University
+Dallas, TX 75275
+Associate Professor
+Department of Electrical Engineering
+Lyle School of Engineering
+Southern Methodist University
+Dallas, TX 75275
+jianhui@smu.edu
+jianhui@smu.edu
+Section Lead - Advanced Power Grid Modeling
+Center for Energy, Environmental, 
+and Economic Systems Analysis (CEEESA)
+Energy Systems Division
+Argonne National Laboratory
+9700 S. Cass Avenue, Bldg. 362
+Argonne, IL 60439, USA
+email: 
+Section Lead - Advanced Power Grid Modeling
+Center for Energy, Environmental, 
+and Economic Systems Analysis (CEEESA)
+Energy Systems Division
+Argonne National Laboratory
+9700 S. Cass Avenue, Bldg. 362
+Argonne, IL 60439, USA
+email: jianhui.wang@anl.gov
+jianhui.wang@anl.gov
+I have Research Assistant Scholarships and Postdoc 
+Positions Available at Southern Methodist University. 
+Please contact me if you are interested. 
+I have Research Assistant Scholarships and Postdoc 
+Positions Available at Southern Methodist University. 
+Please contact me if you are interested. 
+Google Scholar Profile: 
+Google Scholar Profile: 
+http://scholar.google.com/citations?user=IV2sb-
+http://scholar.google.com/citations?user=IV2sb-
+sAAAAJ&hl=en
+sAAAAJ&hl=en
+Dr. Jianhui Wang is an Associate Professor with the Department of Electrical Engineering at Southern 
+Methodist University. He also holds a joint appointment as the Section Manager for Advanced Power Grid 
+Modeling in the Energy Systems division at Argonne National Laboratory. Dr. Wang is the Principal 
+Investigator for a multitude of energy-related research projects focused on smart grid, microgrids, power 
+system operation and control, renewable integration, grid resilience and cybersecurity. He has also held 
+visiting positions in Europe, Australia and Hong Kong including a VELUX Visiting Professorship at the 
+Technical University of Denmark (DTU). He has been invited to give tutorials and keynote speeches at 
+major conferences including IEEE ISGT, IEEE SmartGridComm, IEEE SEGE, IEEE HPSC and IGEC-XI. 
+ Dr. Wang is the secretary of the IEEE Power & Energy Society (PES) Power System Operations, Planning 
+& Economics committee. Before being promoted and elected to this position, he was the chair of the IEEE 
+PES Power System Operation Methods Subcommittee for six years. He is also the recipient of the IEEE 
+Chicago Section 2012 Outstanding Young Engineer Award.
+ Dr. Wang has authored and/or co-authored more than 300 journal and conference publications, which have 
+been cited for more than 8,500 times by his peers. He is an associate editor of Journal of Energy 
+Engineering, an editorial board member of Applied Energy and IEEE Power and Energy Magazine. He 
+served as guest editor for a special issue of the IEEE Power and Energy Magazine on Electrification of 
+Transportation, which won an APEX Grand Award. Dr. Wang also served as the editor of Artech House 
+Publishers’ Power Engineering Book Series, and as the Technical Program Chair of the 2012 IEEE PES 
+Innovative Smart Grid Technologies conference. 
+Page 1 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+ Dr. Wang is the Editor-in-Chief of the IEEE Transactions on Smart Grid and an IEEE PES Distinguished 
+Lecturer. He is also a guest editor of a Proceedings of the IEEE special issue on power grid resilience. He 
+is the recipient of the IEEE PES Power System Operation Committee Prize Paper Award in 2015. 
+RESEARCH INTEREST
+Smart Grid, Microgrid, Cybersecurity, Grid Resilience, Renewable Integration, Energy Economics and 
+Policy, Electric Power Systems Operations and Control, Electricity Restructuring
+EDUCATION
+   Ph.D. Illinois Institute of Technology, 2007
+      M.S. North China Electric Power University, 2004
+      B.S.  North China Electric Power University, 2001
+APPOINTMENTS
+2017–Present    Associate Professor, Department of Electrical Engineering, Southern Methodist University
+2014–Present Section Manager - Advanced Power Grid Modeling, Argonne National Laboratory
+2016–2017        Senior Institute Fellow, Northwestern/Argonne Institute of Science and Engineering 
+(NAISE), Northwestern University
+2016–2017        Fellow, Computation Institute, University of Chicago
+2014–2017        Adjunct Professor, Department of Electrical Engineering, University of Notre Dame
+2011–2017        Affiliate Professor, Department of Industrial and Systems Engineering, Auburn University
+2014–Present    Fellow, Asian Energy Studies Centre, Hong Kong Baptist University
+2011–2014        Computational Engineer – Energy Systems, Argonne National Laboratory
+2008–2010        Assistant Computational Engineer – Energy Systems, Argonne National Laboratory
+2007–2008        Post-doc Research Appointee, Argonne National Laboratory
+  JOURNAL PAPERS AND BOOK CHAPTERS
+(232 Journal Papers, 8 Book Chapters)
+(232 Journal Papers, 8 Book Chapters)
+INVITED CONTRIBUTIONS
+INVITED CONTRIBUTIONS
+[1] A. Ashok, M. Govindarasu, J. Wang, Cyber-Physical Attack-Resilient Wide-Area Monitoring, 
+Protection, and Control for the Power Grid, Proceedings of the IEEE, Vol. 105, No. 7, pp. 1389 – 1407, 
+2017.
+[2] C. Chen, J. Wang, D. Ton, Modernizing Distribution System Restoration to Achieve Grid 
+Resiliency against Extreme Weather Events: An Integrated Solution, Proceedings of the IEEE, Vol. 
+105, No. 7, pp. 1267 - 1288, 2017.
+[3] J. Qi, A. Hahn, X. Lu, J. Wang, C.C. Liu, Cybersecurity for Distributed Energy Resources and 
+Smart Inverters, IET Cyber-Physical Systems: Theory & Applications, Vol. 1, No. 1, pp. 28 - 39, 2016. 
+Page 2 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[4] X. Lu, J. Wang, L. Guo, Using Microgrids to Enhance Energy Security and Resilience, The 
+Electricity Journal, Vol. 29, No. 10, pp. 8-15, 2016.
+[5] R. Jiang, A. J. Conejo, J. Wang, Day-ahead Scheduling: Reserve Determination and Valuation, 
+Power Grid Operation in a Market Environment: Economic Efficiency and Risk Mitigation, First 
+Edition, edited by Hong Chen, Wiley, 2016.
+[6] W. Su, J. Wang, D. Ton, Smart Grid Impact on Operation and Planning of Electric Energy 
+Systems, Handbook of Clean Energy Systems, edited by A. Conejo and J. Yan, Wiley, 2015.
+[7] W. Su, J. Wang, Z. Hu, Planning, Control, and Management Strategies for Parking Lots for PEVs, 
+Plug in Electric Vehicles in Smart Grids, edited by S. Rajakaruna et al., Springer, pp. 61-98, 2015.
+[8] J. Wang, J. Valenzuela, A. Botterud, R. Bessa, V. Miranda, Reliability Assessment Unit 
+Commitment with Uncertain Wind Power, Handbook of Wind Power Systems: Optimization, Modeling, 
+Simulation and Economic Aspects, edited by P. Pardalos et al., Springer, pp. 3-20, 2013.
+[9] W. Su, J. Wang, Energy Management Systems in Microgrid Operations, The Electricity Journal, 
+Vol. 25. No. 8, pp. 45-60, 2012.
+[10]
+J. Wang, V. Koritarov, J. Kim, Cap and Trade Modeling in Electricity Markets Using an 
+Agent-Based Approach, Handbook of Power Systems: CO2, edited by P. Pardalos et al., Springer, pp. 
+71-87, 2012.
+[11]
+Y. He, L. Wang, J. Wang, Comparing the Effectiveness of Cap-and-Trade and Carbon Taxes 
+Policies in Generation Expansion Planning, Handbook of Power Systems: CO2, edited by P. Pardalos et 
+al., Springer, pp. 53-70, 2012.
+[12]
+C. Liu, M. Shahidehpour, J. Wang, Coordinated Scheduling of Electricity and Natural Gas 
+Infrastructures with a Transient Model for Natural Gas Flow, Chaos, 21(2):025102, June 2011.
+[13]
+J. Wang, C. Liu, D. Ton, Y. Zhou, J. Kim, A. Vyas, Impact of Plug-in Hybrid Electric 
+Vehicles on Power Systems with Demand Response and Wind Power, Energy Policy, Vol. 39, No. 7, 
+pp. 4016-4021, 2011.
+[14]
+M. Wang, J. Wang, D. Ton, Prospects for Renewable Energy: Meeting the Challenges of 
+Integration with Storage, Smart Grid: Integrating Renewable, Distributed & Efficient Energy, edited by 
+Fereidoon P. Sioshansi, Elsevier, 2011.
+[15]
+J. Wang, C. Bloyd, Z. Hu, Z. Tan, Demand Response in China, Energy-the International 
+Journal, Vol. 35, No. 4, pp. 1592-1597, 2010. 
+[16]
+J. Wang, Adaptive Learning in Deregulated Electricity Markets, Evolutionary Computing for 
+Intelligent Power System Optimization and Control, edited by Z. Xu, Nova Science, 2009.
+JOURNAL ARTICLES
+JOURNAL ARTICLES
+[17]
+B. Hua, R. Baldick, J. Wang, Representing Operational Flexibility in Generation Expansion 
+Planning Through Convex Relaxation of Unit Commitment, IEEE Transactions on Power Systems, in 
+press.
+[18]
+D. Rodezno, J. Wang, M. Sarker, A. Padilla-Feltrin, Stochastic Assessment of Distributed 
+Generation Hosting Capacity and Energy Efficiency in Active Distribution Networks, IET Generation, 
+Transmission & Distribution, in press.
+[19]
+C. Shao, Y. Ding, J. Wang, Y. Song, Modeling and Integration of Flexible Demand in Heat 
+and Electricity Integrated Energy System, IEEE PES Transactions on Sustainable Energy, in press. 
+Page 3 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[20]
+W. Wei, L. Wu, J. Wang, S. Mei, Network Equilibrium of Coupled Transportation and 
+Power Distribution Systems, IEEE Transactions on Smart Grid, in press.
+[21]
+B. Chen, C. Chen, J. Wang, K. Butler-Purry, Multi-Time Step Service Restoration for 
+Advanced Distribution Systems and Microgrids, IEEE Transactions on Smart Grid, in press.
+[22]
+Y. Pan, F. Liu, L. Chen, J. Wang, F. Qiu, C. Shen, S. Mei, Towards the Robust Small-Signal 
+Stability Region of Power Systems under Perturbations Such as Uncertain and Volatile Wind 
+Generation, IEEE Transactions on Power Systems, in press.
+[23]
+B. Chen, C. Chen, J. Wang, K. Butler-Purry, Sequential Service Restoration for Unbalanced 
+Distribution Systems and Microgrids, IEEE Transactions on Power Systems, in press.
+[24]
+D. Jin, Z. Li, C. Hannon, C. Chen, J. Wang, M. Shahidehpour, C. Lee, Towards a Cyber 
+Resilient and Secure Microgrid Using Software-Defined Networking, IEEE Transactions on Smart 
+Grid, in press.
+[25]
+C. Wang, W. Wei, J. Wang, F. Liu, S. Mei, Strategic Offering and Equilibrium in Coupled 
+Gas and Electricity Markets, IEEE Transactions on Power Systems, in press.
+[26]
+A. Arif, Z. Wang, J. Wang, B. Mather, H. Bashualdo, D. Zhao, Load Modeling – A Review,
+IEEE Transactions on Smart Grid, in press.
+[27]
+M. Sarker, J. Wang, Z. Li, K. Ren, Security and Cloud Outsourcing Framework for 
+Economic Dispatch, IEEE Transactions on Smart Grid, in press.
+[28]
+S. Xin, Q. Guo, J. Wang, C. Chen, H. Sun, B. Zhang, Information Masking Theory for Data 
+Protection in Future Cloud-based Energy Management, IEEE Transactions on Smart Grid, in press.
+[29]
+W. Wei, J. Wang, L. Wu, Distribution Optimal Power Flow with Real-time Price Elasticity,
+IEEE Transactions on Power Systems, in press.
+[30]
+G. Huang, J. Wang, C. Chen, J. Qi, C. Guo, Integration of Preventive and Emergency 
+Responses for Power Grid Resilience Enhancement, IEEE Transactions on Power Systems, in press.
+[31]
+R. Moghaddass, J. Wang, A Hierarchical Framework for Smart Grid Anomaly Detection 
+Using Large-Scale Smart Meter Data, IEEE Transactions on Smart Grid, in press.
+[32]
+W. Wei, J. Wang, N. Li, S. Mei, Optimal Power Flow of Radial Networks and its Variations: 
+A Sequential Convex Optimization Approach, IEEE Transactions on Smart Grid, in press.
+[33]
+H. Ding, P. Pinson, Z. Hu, J. Wang, Y. Song, Optimal Offering and Operating Strategy for a 
+Large Wind-Storage System as a Price Maker, IEEE Transactions on Power Systems, in press.
+[34]
+H. Zhao, Q. Wu, J. Wang, Z. Liu, M. Shahidehpour, Y. Xue, Combined Active and Reactive 
+Power Control of Wind Farms based on Model Predictive Control, IEEE Transactions on Energy 
+Conversion, in press. 
+[35]
+X. Wang, T. Wang, H. D. Chiang, J. Wang, H. Liu, A Framework for Dynamic Stability 
+Analysis of Power Systems With Volatile Wind Power, IEEE Journal on Emerging and Selected 
+Topics in Circuits and Systems, in press.
+[36]
+Z. Li, Q. Guo, H. Sun, J. Wang. Extended Sufficient Conditions for Exact Relaxation of the 
+Complementarity Constraints in Storage-Concerned Economic Dispatch, CSEE Journal of Power and 
+Energy Systems, in press. 
+Page 4 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[37]
+A. Arif, Z. Wang, J. Wang, C. Chen, Power Distribution System Outage Management with 
+Co-Optimization of Repairs, Reconfiguration, and DG Dispatch, IEEE Transactions on Smart Grid, in 
+press.
+[38]
+J. Zhao, J. Wang, Z. Xu, C. Wang, C. Wan, C. Chen, Distribution Network Electric Vehicle 
+Hosting Capacity Maximization: A Chargeable Region Optimization Model, IEEE Transactions on 
+Power Systems, in press.
+[39]
+H. Liu, J. Qi, J. Wang, P. Li, C. Li, H. Wei, EV Dispatch Control for Supplementary 
+Frequency Regulation Considering the Expectation of EV Owners, IEEE Transactions on Smart Grid, 
+in press.
+[40]
+Y. Kim, J. Wang, X. Lu, A Framework for Load Service Restoration Using Dynamic Change 
+in Boundaries of Advanced Microgrids with Synchronous-Machine DGs, IEEE Transactions on Smart 
+Grid, in press.
+[41]
+A. Bagheri, J. Wang, C. Zhao, Data-Driven Stochastic Transmission Expansion Planning, 
+IEEE Transactions on Power Systems, in press.
+[42]
+J. Zhao, Z. Wang, J. Wang, Robust Time-Varying Load Modeling for Conservation Voltage 
+Reduction Assessment, IEEE Transactions on Smart Grid, in press.
+[43]
+S. Lei, J. Wang, C. Chen, Y. Hou, Mobile Emergency Generator Pre-Positioning and Real-
+Time Allocation for Resilient Response to Natural Disasters, IEEE Transactions on Smart Grid, in 
+press.
+[44]
+J. Qi, Y. Kim, C. Chen, X. Lu, J. Wang, Demand Response and Smart Buildings: A Survey 
+of Control, Communication, and Cyber-Physical Security, ACM Transactions on Cyber-Physical 
+Systems, in press.
+[45]
+Z. Wang, J. Wang, C. Chen, A Three-Phase Microgrid Restoration Model Considering 
+Unbalanced Operation of Distributed Generation, IEEE Transactions on Smart Grid, in press.
+[46]
+Y. Kim, J. Wang, Power Hardware-In-the-Loop Simulation Study on Frequency Regulation 
+through Direct Load Control of Thermal and Electrical Energy Storage Resources, IEEE Transactions 
+on Smart Grid, in press.
+[47]
+Q. Wang, C. Zhang, J. Wang, P. Pinson, J. Østergaard, Real-time Trading Strategies of 
+Proactive DISCO with Heterogeneous DG Owners, IEEE Transactions on Smart Grid, in press.
+[48]
+M. Yang, J. Wang, H. Diao, J. Qi, X. Han, Interval Estimation for Conditional Failure Rates 
+of Transmission Lines with Limited Samples, IEEE Transactions on Smart Grid, in press.
+[49]
+X. Lu, J. Wang, J. M. Guerrero, D. Zhao, Virtual Impedance Based Fault Current Limiters 
+for Inverter Dominated AC Microgrids, IEEE Transactions on Smart Grid, in press.
+[50]
+H. Lin, C. Chen, J.Wang, J. Qi, D. Jin, Z. Kalbarczyk, R. K. Iyer, Self-Healing Attack-
+Resilient PMU Network for Power System Operation, IEEE Transactions on Smart Grid, in press.
+[51]
+C. Zhang, Q. Wang, J. Wang, P. Pinson, J. Morales, J. Østergaard, Real-Time Procurement 
+Strategies of a Proactive Distribution Company with Aggregator-Based Demand Response, IEEE 
+Transactions on Smart Grid, in press.
+[52]
+J. Zhao, G. Zhang, M. La Scala, Z. Dong, C. Chen, J. Wang, Short-Term State Forecasting-
+Aided Method for Detection of Smart Grid General False Data Injection Attacks, IEEE Transactions on 
+Smart Grid, in press.
+Page 5 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[53]
+Z. Li, Q. Guo, H. Sun, J. Wang, A New LMP-Sensitivity-Based Heterogeneous 
+Decomposition for Transmission and Distribution Coordinated Economic Dispatch, IEEE Transactions 
+on Smart Grid, in press.
+[54]
+W. Ma, J. Wang, V. Gupta, C. Chen, Distributed Energy Management for Networked 
+Microgrids Using Online ADMM with Regret, IEEE Transactions on Smart Grid, in press.
+[55]
+A. Taha, J. Qi, J. Wang, J. Panchal, Risk Mitigation for Dynamic State Estimation Against 
+Cyber Attacks and Unknown Inputs, IEEE Transactions on Smart Grid, in press.
+[56]
+Z. Xu, T. Deng, Z. Hu, Y. Song, J. Wang, Data-Driven Pricing Strategy for Demand-Side 
+Resource Aggregators, IEEE Transactions on Smart Grid, in press.
+[57]
+Z. Tan, J. Zhang, J. Wang, Volatility Spillover Effects of International Crude Oil Price and 
+US Dollar Exchange Rate on Chinese Crude Oil Price, Energy Sources, Part B: Economics, Planning, 
+and Policy, in press.
+[58]
+B. Zeng, G. Wu, J. Wang, J. Zhang, M. Zeng, Impact of Behavior-Driven Demand Response 
+on Supply Adequacy in Smart Distribution Systems, Applied Energy, Vol. 202, No. 15, pp 125-137, 
+2017.
+[59]
+S. Xin, Q. Guo, H. Sun, C. Chen, J. Wang, B. Zhang, Information-Energy Flow Computation 
+and Cyber-Physical Sensitivity Analysis for Power Systems, IEEE Journal on Emerging and Selected 
+Topics in Circuits and Systems, Vol. 7, No. 2, pp. 329 – 341, 2017.
+[60]
+C. Wan, J. Lin, J. Wang, Y. Song, Z.Y. Dong, Direct Quantile Regression for Nonparametric 
+Probabilistic Forecasting of Wind Power Generation, IEEE Transactions on Power Systems, Vol. 32, 
+No. 4, pp. 2767 – 2778, 2017.
+[61]
+W. Wei, L. Wu, J. Wang, S. Mei, Expansion Planning of Urban Electrified Transportation 
+Networks: A Mixed-Integer Convex Programming Approach, IEEE Transactions on Transportation 
+Electrification, Vol. 3, No. 1, pp. 210 – 224, 2017.
+[62]
+Y. Zhan, Q. Zheng, J. Wang, P. Pinson, Generation Expansion Planning with Large Amounts 
+of Wind Power via Decision-Dependent Stochastic Programming, IEEE Transactions on Power 
+Systems, Vol. 32, No. 4, pp. 3015 – 3026, 2017. 
+[63]
+C. Wang, W. Wei, J. Wang, F. Liu, F. Qiu, C. M. Correa-Posada, S. Mei, Robust Defense 
+Strategy for Gas-Electric Systems Against Malicious Attacks, IEEE Transactions on Power Systems, 
+Vol. 32, No. 4, pp. 2953 – 2965, 2017. 
+[64]
+P. Li, J. Qi, J. Wang, W. Hua, X. Bai, F. Qiu, An SQP Method Combined with Gradient 
+Sampling for Small-Signal Stability Constrained OPF, IEEE Transactions on Power Systems, Vol. 32, 
+No. 3, pp. 2372 – 2381, 2017. 
+[65]
+R. Chen, J. Wang, A. Botterud, H. Sun, Wind Power Providing Flexible Ramp Product,
+IEEE Transactions on Power Systems, Vol. 32, No. 3, pp. 2049 – 2061, 2017. 
+[66]
+H. Ye, J. Wang, Z. Li, Robust Integration of High-level Dispatchable Renewables in Power 
+System Operation, IEEE Transactions on Sustainable Energy, Vol. 8, No. 2, pp. 826 – 835, 2017.
+[67]
+F. Abbaspourtorbati, A. J. Conejo, J.Wang, R. Cherkaoui, Three- or Two-stage Stochastic 
+Market-Clearing Algorithm?, IEEE Transactions on Power Systems, Vol. 32, No. 4, pp. 3099 – 3110, 
+2017. 
+Page 6 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[68]
+C. Wan, J. Lin, J. Wang, Y. Song, Z. Y. Dong, Direct Quantile Regression for 
+Nonparametric Probabilistic Forecasting of Wind Power Generation, IEEE Transactions on Power 
+Systems, Vol. 32, No. 4, pp. 2767 – 2778, 2017. 
+[69]
+Z. Li, Q. Guo, H. Sun, J. Wang, Impact of Coupled Transmission-Distribution on Static 
+Voltage Stability Assessment, IEEE Transactions on Power Systems, Vol. 32, No. 4, pp. 3311 – 3312, 
+2017. 
+[70]
+W. Wei, S. Mei, L. Wu, J. Wang, Y. Fang, Robust Operation of Distribution Networks 
+Coupled with Urban Transportation Infrastructures, IEEE Transactions on Power Systems, Vol. 32, No. 
+3, pp. 2118 – 2130, 2017.
+[71]
+F. Abbaspourtorbati, A. J. Conejo, J.Wang, R. Cherkaoui, Is Being Flexible Advantageous 
+for Demands?, IEEE Transactions on Power Systems, Vol. 32, No. 3, pp. 2337 – 2345, 2017. 
+[72]
+W. Wei, L. Wu, J. Wang, S. Mei, Expansion Planning of Urban Electrified Transportation 
+Networks: A Mixed Integer Convex Programming Approach, IEEE Transactions on Transportation 
+Electrification, Vol. 3, No. 1, pp. 210 – 224, 2017. 
+[73]
+Z. Wang and J. Wang, Service Restoration Based On AMI and Networked Microgrids Under 
+Extreme Weather Events, IET Generation, Transmission & Distribution, Vol. 11, No. 2, pp. 401 – 408, 
+2017.
+[74]
+Z. Wang, B. Cui, J. Wang, A Necessary Condition for Power Flow Insolvability in Power 
+Distribution Systems with Distributed Generators, IEEE Transactions on Power Systems, Vol. 32, No. 
+2, pp. 1440 – 1450, 2017. 
+[75]
+B. Zou, J.Wang, F. Wen, Optimal Investment Strategies for Distributed Generation in 
+Distribution Networks with Real Option Analysis, IET Generation, Transmission & Distribution, Vol. 
+11, No. 3, pp. 804 – 813, 2017.
+[76]
+F. Abbaspourtorbati, A. Conejo, J. Wang, R. Cherkaoui, Pricing Electricity through a 
+Stochastic Non-Convex Market-Clearing Model, IEEE Transactions on Power Systems, Vol. 32, No. 2, 
+pp. 1248 – 1259, 2017.
+[77]
+H. Ye, J. Wang, Z. Li, MIP Reformulation for Max-min Problems in Two-stage Robust 
+SCUC, IEEE Transactions on Power Systems, Vol. 32, No. 2, pp. 1237 – 1247, 2017. 
+[78]
+F. Qiu, Z. Li, J. Wang, A Data-Driven Approach to Improve Wind Dispatchability, IEEE 
+Transactions on Power Systems, Vol. 32, No. 1, pp. 421 – 429, 2017.
+[79]
+J. Qi, J. Wang, H. Liu, A. Dimitrovski, Nonlinear Model Reduction in Power Systems by 
+Balancing of Empirical Controllability and Observability Covariances, IEEE Transactions on Power 
+Systems, Vol. 32, No. 1, pp. 114 – 126, 2017. 
+[80]
+C. Wang, F. Liu, J. Wang, F. Qiu, W. Wei, S. Mei, S. Lei, Robust Risk-Constrained Unit 
+Commitment with Large-scale Wind Generation: An Adjustable Uncertainty Set Approach, IEEE 
+Transactions on Power Systems, Vol. 32, No.1, pp. 723 – 733, 2017.
+[81]
+C. Li, X. Yu, W. Yu, G. Chen, J. Wang, Efficient Computation for Sparse Load Shifting in 
+Demand Side Management, IEEE Transactions on Smart Grid, Vol. 8, No. 1, pp. 250 – 261, 2017.
+[82]
+J. Zhao, C. Wan, Z. Xu, J. Wang, Risk-Based Day-Ahead Scheduling of Electric Vehicle 
+Aggregator Using Information Gap Decision Theory, IEEE Transactions on Smart Grid, Vol. 8, No. 4, 
+pp. 1609 – 1618, 2017. 
+Page 7 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[83]
+Z. Xu, Z. Hu, Y. Song, J. Wang, Risk-averse Optimal Bidding Strategy for Demand-side 
+Resource Aggregator in Day-ahead Electricity Markets under Uncertainty, IEEE Transactions on Smart 
+Grid, Vol. 8, No.1, pp. 96 – 105, 2017. 
+[84]
+X. Lu, J. Wang, A Game Changer: Electrifying Remote Communities by Using Isolated 
+Microgrids, IEEE Electrification Magazine, vol. 5, no. 2, pp. 56-63, 2017.
+[85]
+W. Wei, J. Wang, L. Wu, Quantifying the impact of road capacity loss on urban electrified 
+transportation networks: An optimization based approach, International Journal of Transportation 
+Science and Technology, Vol. 5, No. 4, pp. 268-288, 2016.
+[86]
+W. Yuan, J. Wang, F. Qiu, C. Chen, C. Kang, B. Zeng, Robust Optimization-Based Resilient 
+Distribution Network Planning Against Natural Disasters, IEEE Transactions on Smart Grid, Vol. 7, 
+No. 6, pp. 2817 – 2826, 2016. 
+[87]
+Z. Li, D. Jin, C. Hannon, M. Shahidehpour, J. Wang, Assessing and Mitigating 
+Cybersecurity Risks of Traffic Light Systems in Smart Cities, IET Cyber-Physical Systems: Theory & 
+Applications, Vol. 1, No. 1, pp. 60 – 69, 2016.  
+[88]
+Y. Chen, J. Wang, A. Dominguez-Garcia, P. Sauer, Measurement-based Estimation of the 
+Power Flow Jacobian Matrix, IEEE Transactions on Smart Grid, Vol. 7, No. 5, pp. 2507-2515, 2016.
+[89]
+H. Sun, Z. Wang, J. Wang, Z. Huang, N. Carrington, J. Liao, Data-Driven Power Outage 
+Detection by Social Sensors, IEEE Transactions on Smart Grid, Vo. 7, No. 5, pp. 2516-2524, 2016.
+[90]
+C. Zhang, Q. Wang, J. Wang, M. Korpås, M. E. Khodayard, Strategy-making for a Proactive 
+Distribution Company in the Real-Time Market with Demand Response, Applied Energy, Vol. 181, pp. 
+540-548, 2016.
+[91]
+W. Wei, F. Liu, J. Wang, L. Chen, S. Mei, T. Yuan, Robust Environmental-economic 
+Dispatch Incorporating Wind Power Generation and Carbon Capture Plants, Applied Energy, Vol. 183, 
+pp. 674–684, 2016.
+[92]
+W. Ma, J. Wang, X. Lu, V. Gupta, Optimal Operation Mode Selection for a DC Microgrid, 
+IEEE Transactions on Smart Grid, Vol. 7, No. 6, pp. 2624-2632, 2016.
+[93]
+W. Wei, N. Li, J. Wang, S. Mei, Estimating the Probability of Infeasible Real-time Dispatch 
+without Exact Distributions of Stochastic Wind Generations, IEEE Transactions on Power Systems, 
+Vol. 31, No. 6, pp. 5022-5032, 2016.
+[94]
+W. Wei, J. Wang, S. Mei, Dispatchability Maximization for co-optimized Energy and 
+Reserve Scheduling with Explicit Reliability Guarantee, IEEE Transactions on Power Systems, Vol. 
+31, No. 3, pp. 3276-3288, 2016.
+[95]
+H. Dashti, A. Conejo, R. Jiang, J. Wang, Weekly Two-Stage Robust Generation Scheduling 
+for Hydrothermal Power Systems, IEEE Transactions on Power Systems, Vol. 31, No. 6, pp. 4554-
+4564, 2016.
+[96]
+Z. Li, Q. Guo, H. Sun, J. Wang, Coordinated Economic Dispatch of Coupled Transmission 
+and Distribution Systems using Heterogeneous Decomposition, IEEE Transactions on Power Systems, 
+Vol. 31, No. 6, pp. 4817-4830, 2016.
+[97]
+M. Golari, N. Fan, J. Wang, Large-scale Stochastic Power Grid Islanding Operations by Line 
+Switching and Controlled Load Shedding, Energy Systems, DOI:10.1007/s12667-016-0215-7, pp.1-21, 
+2016.
+Page 8 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[98]
+X. Fang, Q. Yang, J. Wang, W. Yan, Coordinated Dispatch in Multiple Cooperative 
+Autonomous Islanded Microgrids, Applied Energy, Vol. 162, pp. 40-48, 2016. 
+[99]
+Z. Li, M. Shahidehpour, W. Wu, J. Wang, B. Zhang, Combined Heat and Power Dispatch 
+Considering Pipeline Energy Storage of District Heating Network, IEEE Transactions on Sustainable 
+Energy, Vol. 7, No. 1, pp.12-22, 2016.
+[100]
+W. Wei, J. Wang, S. Mei, Convexification of the Nash Bargain Based Environmental-
+Economic Dispatch, IEEE Transactions on Power Systems, Vol. 31, No. 6, pp. 5208-5209, 2016.
+[101]
+X. Wang, H.D. Chiang, J. Wang, H. Liu, T. Wang, Long-Term Stability Analysis of Power 
+Systems with Wind Power Based on Stochastic Differential Equations: Model Development and 
+Foundations, IEEE Transactions on Sustainable Energy, Vol. 6, No. 4, pp.1534-1542, 2016.
+[102]
+Z. Wang, B. Chen, J. Wang, J. Kim, Decentralized Energy Management System for 
+Networked Microgrids in Grid-Connected and Islanded Modes, IEEE Transactions on Smart Grid, Vol. 
+7, No.2, pp.1097-1105, 2016.
+[103]
+Z. Li, Q. Guo, H. Sun, J. Wang, Sufficient Conditions for Exact Relaxation of 
+Complementarity Constraints for Storage-Concerned Economic Dispatch, IEEE Transactions on Power 
+Systems, Vol. 31, No. 2, pp.1653-1654, 2016.
+[104]
+C. Wang, F. Liu, J. Wang, S. Mei, Risk-Based Admissibility Assessment of Wind Generation 
+Integrated into a Bulk Power System, IEEE Transactions on Sustainable Energy, Vol. 7, No. 1, pp. 
+325-336, 2016.
+[105]
+Z. Li, J. Wang, H. Sun, Q. Guo, Transmission Contingency Screening Considering Impacts of 
+Distribution Grids, IEEE Transactions on Power Systems, Vol. 31, No. 2, pp.1659-1660, 2016.
+[106]
+K. Pan, Y. Guan, JP. Watson, J. Wang, Strengthened MILP Formulation for Certain Gas 
+Turbine Unit Commitment Problems, IEEE Transactions on Power Systems, Vol. 31, No. 2, pp.1440-
+1448, 2016.
+[107]
+Z. Wang, B. Chen, J. Wang, C. Chen, Networked Microgrids for Self-Healing Power 
+Systems, IEEE Transactions on Smart Grid, Vol. 7, No. 1, pp. 310-319, 2016.
+[108]
+C. Chen, J. Wang, F. Qiu, D. Zhao, Resilient Distribution System by Microgrids Formation 
+After Natural Disasters, IEEE Transactions on Smart Grid, Vo. 7, No.2, pp. 958-966, 2016.
+[109]
+Y. Wang, C. Chen, J. Wang, R. Baldick, Research on Resilience of Power Systems under 
+Natural Disasters - A Review, IEEE Transactions on Power Systems, Vol. 31, No. 2, pp. 1603-1613, 
+2016.
+[110]
+C. Zhang, Q. Wang, J. Wang, M. Korpas, P. Pinson, J. Østergaard, M. Khodayar, Trading 
+Strategies for Distribution Company with Stochastic Distributed Energy Resources, Applied Energy, 
+Vol. 177, pp. 625–635, 2016.
+[111]
+F. Qiu, J. Wang, C. Chen, J. Tong, Optimal Black Start Resource Allocation, IEEE 
+Transactions on Power Systems, Vol. 31, No. 3, pp. 2493-2494, 2016.
+[112]
+Z. Li, F. Qiu, J. Wang, Data-Driven Real-Time Power Dispatch for Maximizing Variable 
+Renewable Generation, Applied Energy, Vol. 170, pp. 304-313, 2016.
+[113]
+P. Sreedharan, J. Farbes, E. Cutter, C.K. Woo, J. Wang, Microgrid and Renewable Generation 
+Integration: University of California, San Diego, Applied Energy, Vol. 169, pp. 709-720, 2016.
+Page 9 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[114]
+C. Li, Y. Cao, M. Zhang, J. Wang, J. Liu, H. Shi, Y. Geng, Hidden Benefits of Electric 
+Vehicles for Addressing Climate Change, Nature – Scientific Reports, 5, 9213; DOI:10.1038/srep09213 
+(2015).
+[115]
+Z. Wang, J. Wang, Self-healing Resilient Distribution Systems based on Sectionalization into 
+Microgrids, IEEE Transactions on Power Systems, Vol. 30, No. 6, pp. 3139 - 3149, November 2015.
+[116]
+C.K. Woo, J. Moore, B. Schneiderman, A. Olson, R. Jones, T. Ho, N. Toyama, J. Wang, J. 
+Zarnikau, Merit-Order Effects of Day-Ahead Wind Generation Forecast in the Hydro-Rich Pacific 
+Northwest, Electricity Journal, Vol. 28, No. 9, pp.52-62, 2015.
+[117]
+X. Lu, K. Sun, J. Guerrero, J. Vasquez, L. Huang, J. Wang, Stability Enhancement Based on 
+Virtual Impedance for DC Microgrids with Constant Power Loads, IEEE Transactions on Smart Grid, 
+Vol. 6, No. 6, pp. 2770-2783, 2015.
+[118]
+X. Lu, S. Bahramirad, J. Wang, C. Chen, Bronzeville Community Microgrids: A Reliable, 
+Resilient and Sustainable Solution for Integrated Energy Management with Distribution Systems, 
+Electricity Journal, Vol. 28, No. 10, pp. 29-42, 2015. 
+[119]
+Z. Li, J. Wang, H. Sun, Q. Guo, Transmission Contingency Analysis Based on Integrated 
+Transmission and Distribution Power Flow in Smart Grid, IEEE Transactions on Power Systems, Vol. 
+30, No. 6, pp. 3356 - 3367, November 2015.
+[120]
+H. Liu, Z. Hu. Y. Song, J. Wang, X. Xie, Vehicle-to-Grid Control for Supplementary 
+Frequency Regulation Considering Charging Demands, IEEE Transactions on Power Systems, Vol. 30, 
+No. 6, pp. 3110 - 3119, November 2015.
+[121]
+S. Xin, Q. Guo, H. Sun, B. Zhang, J. Wang, C. Chen, Cyber-Physical Modeling and Cyber 
+Contingency Assessment of Hierarchical Control Systems, IEEE Transactions on Smart Grid, Vol. 6, 
+No. 5, pp. 2375 - 2385, September 2015.
+[122]
+C. Kang, T. Zhou, Q. Chen, J. Wang, Y. Sun, Q. Xia, H. Yan, Carbon Emission Flow from 
+Generation to Demand: A Network Based Model, IEEE Transactions on Smart Grid, Vol. 6, No. 5, pp. 
+2386 - 2394, September 2015.
+[123]
+Z. Li, Q. Guo, H. Sun, J. Wang, Storage-like Devices in Load Leveling: Complementarity 
+Constraints and a New and Exact Relaxation Method, Applied Energy, Vol. 151, pp. 13–22, August 
+2015.
+[124]
+C. Zhang, J. Ramirez-Marquezbd, J. Wang, Critical Infrastructure Protection Using Secrecy - 
+A Discrete Simultaneous Game, European Journal of Operational Research, Vol. 242, No. 1, pp. 212
+–221, 2015.
+[125]
+F. Qiu, J. Wang, Distributionally Robust Congestion Management With Dynamic Line 
+Ratings, IEEE Transactions on Power Systems, Vol. 30, No. 4, pp. 2198 – 2199, 2015.
+[126]
+Q. Zheng, J. Wang, A. Liu, Stochastic Optimization for Unit Commitment – A Review, IEEE 
+Transactions on Power Systems, Vol. 30, No. 4, pp. 1913 – 1924, 2015.
+[127]
+C. Chen, J. Wang, Z. Li, H. Sun, Z. Wang, PMU Uncertainty Quantification in Voltage 
+Stability Analysis, IEEE Transactions on Power Systems, Vol. 30, No. 4, pp. 2196 – 2197, 2015.
+[128]
+F. Qiu, J. Wang, Chance-Constrained Transmission Switching With Guaranteed Wind Power 
+Utilization, IEEE Transactions on Power Systems, Vol. 30, No. 3, pp.1270 – 1278, 2015.
+[129]
+M. Jabarnejad, J. Wang, J. Valenzuela, A Decomposition Approach for Solving Seasonal 
+Transmission Switching, IEEE Transactions on Power Systems, Vol. 30, No. 3, pp. 1203 – 1211, 2015.
+Page 10 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[130]
+Z. Sun, L. Li, M. Fernandez, J. Wang, Inventory Control for Peak Electricity Demand 
+Reduction of Manufacturing Systems Considering the Tradeoff Between Production Loss and Energy 
+Savings, Journal of Cleaner Production, Vol. 82, pp. 84–93, 2014.
+[131]
+C. Chen, J. Wang, H. Zhu, Effects of Phasor Measurement Uncertainty on Power Line Outage 
+Detection, IEEE Journal of Selected Topics in Signal Processing, Vol. 8, No. 6, pp. 1127 – 1139, 2014.
+[132]
+H. Sun, Q. Guo, B. Zhang, Y. Guo, Z. Li, J. Wang, Master-slave-splitting based Global 
+Power Flow Method for Integrated Transmission and Distribution Analysis, IEEE Transactions on 
+Smart Grid, Vol. 6, No. 3, pp. 1484–1492, 2015.
+[133]
+J. Ostrowski, J. Wang, C. Liu, Transmission Switching with Connectivity-Ensuring 
+Constraints, IEEE Transactions on Power Systems, Vol. 29. No.6, pp. 2621 – 2627, 2014.
+[134]
+Z. Wang, H. Chen. J. Wang, M. Begovic, Inverter-less Hybrid Voltage/Var Control for 
+Distribution Circuits with Photovoltaic Generators, IEEE Transactions on Smart Grid, Vol. 5, No. 6, 
+pp. 2718 – 2728, 2014.
+[135]
+B. Chen, J. Wang, L. Wang, Y. He, Z. Wang, Robust Optimization for Transmission 
+Expansion Planning: Minimax Cost vs. Minimax Regret, IEEE Transactions on Power Systems, Vol. 
+29, No. 6, pp. 3069–3077, 2014.
+[136]
+Z. Wang, B. Chen, J. Wang, M. Begovic, Stochastic DG Placement for Conservation Voltage 
+Reduction based on Multiple Replications Procedure, IEEE Transactions on Power Delivery, Vol. 30, 
+No. 3, pp. 1039–1047, 2015.
+[137]
+Z. Wang, B. Chen, J. Wang, M. Begovic, C. Chen, Coordinated Energy Management of 
+Networked Microgrids in Distribution Systems, IEEE Transactions on Smart Grid, Vol. 6, No. 1, pp. 
+45–53, 2015.
+[138]
+S. Mousavian, J. Valenzuela, J. Wang, A Probabilistic Risk Mitigation Model for Cyber-
+Attacks to PMU Networks, IEEE Transactions on Power Systems, Vol. 30, No. 1, pp. 156–165, 2015.
+[139]
+S. Mousavian, J. Valenzuela, J. Wang, A Two-phase Investment Model for Optimal 
+Allocation of Phasor Measurement Units Considering Transmission Switching, Electric Power Systems 
+Research, Vol. 119, pp. 492–498, February 2015.
+[140]
+Z. Hu, J. Kim, J. Wang, J. Byrne, Review of Dynamic Pricing Programs in the U.S. and 
+Europe: Status Quo and Policy Recommendations, Renewable and Sustainable Energy Reviews, Vol. 
+42, pp. 743–751, February 2015. 
+[141]
+Q. Wang, C. Zhang, Y. Ding, G. Xydis, J. Wang, J. Østergaard, Review of real-time 
+electricity markets for integrating Distributed Energy Resources and Demand Response, Applied 
+Energy, Vol. 138, pp. 695–706, January 2015. 
+[142]
+C. Li, H. Shi, Y. Cao, J. Wang, Y. Kuang, Y. Tan, J. Wei, Comprehensive review of 
+renewable energy curtailment and avoidance: a specific example in China, Renewable & Sustainable 
+Energy Reviews, Vol. 41, pp. 1067–1079, January 2015.
+[143]
+Y. Zheng, Z. Hu, J. Wang, Q. Wen, IRSP (integrated resource strategic planning) with 
+interconnected smart grids in integrating renewable energy and implementing DSM (demand side 
+management) in China, Energy, No. 76, pp. 863-874, 2014.
+[144]
+Y. Huang. Q. Zheng, J. Wang, Two-Stage Stochastic Unit Commitment Model Including 
+Non-Generation Resources with Conditional Value-at-Risk Constraints, Electric Power Systems 
+Research, No. 116, pp. 427–438, 2014.
+Page 11 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[145]
+Z. Wang, J. Wang, Analysis of Performance and Efficiency of Conservation Voltage 
+Optimization Considering Load Model Uncertainty, Journal of Energy Engineering, pp.1-10, 2014.
+[146]
+C.K. Woo, T. Ho, J. Zarnikau, A. Olson, R. Jones, M. Chait, I. Horowitz, J. Wang, 
+Electricity-market price and nuclear power plant shutdown: Evidence from California, Energy Policy, 
+Vol. 73, pp. 234–244, October 2014.
+[147]
+C. Zhao, Q. Wang, J. Wang, Y. Guan, Expected Value and Chance Constrained Stochastic 
+Unit Commitment Ensuring Wind Power Utilization, IEEE Transactions on Power Systems, Vol. 29, 
+No. 6, pp. 2696–2705, 2014.
+[148]
+Z. Li, Q. Guo, H. Sun, S. Xin, J. Wang, A New Real-time Smart-charging Method 
+Considering Expected Electric Vehicle Fleet Connections, IEEE Transactions on Power Systems, Vol. 
+29, No. 6, pp. 3114–3115, 2014.
+[149]
+Y. He, T. Xia, B. Wang, W. Xiong, J. Wang, Novel Cogeneration Cost-Sharing Mechanism 
+for Energy Savings and Emission Reduction in China, International Journal of Global Warming, Vol. 
+6, No. 1, pp. 58–78, 2014.
+[150]
+C.K. Woo, T. Ho, A. Shiu, Y.S. Cheng, I. Horowitz, J. Wang, Residential outage cost 
+estimation: Hong Kong, Energy Policy, Vol. 72, pp. 204–210, September 2014. 
+[151]
+Z. Wang, B. Chen, J. Wang, J. Kim, M. Begovic, Robust Optimization based Optimal DG 
+Placement in Microgrids, IEEE Transactions on Smart Grid, Vol. 5, No. 5, pp. 2173 - 2182, September 
+2014.
+[152]
+M. Golari, N. Fan, J. Wang, Two-stage Stochastic Optimal Islanding Operations under 
+1Severe Multiple Contingencies in Power Grids, Electric Power Systems Research, Vol. 114, pp. 68
+–77, September 2014.
+[153]
+Z. Wang, B. Chen, J. Wang, M. Begovic, D. Zhao, Y. He, MPC-based Voltage/Var 
+Optimization for Distribution Circuits with Distributed Generators and Exponential Load Models, IEEE 
+Transactions on Smart Grid, Vol. 5, No. 5, pp. 2412 – 2420, September 2014.
+[154]
+C. Chen, J. Wang, S. Kishore, A Distributed Direct Load Control Approach for Large-Scale 
+Residential Demand Response, IEEE Transactions on Power Systems, Vol. 29, No. 5, pp. 2219 - 2228, 
+September 2014.
+[155]
+L. Fan, J. Wang, R. Jiang, Y. Guan, Min-Max Regret Bidding Strategy for Thermal Generator 
+Considering Price Uncertainty, IEEE Transactions on Power Systems, Vol. 29, No. 5, pp. 2169 - 2179, 
+September 2014.
+[156]
+J. Donadee, J. Wang, AGC Signal Modeling for Energy Storage Operations, IEEE 
+Transactions on Power Systems, Vol. 29, No. 5, pp. 2567 – 2568, September 2014.
+[157]
+Z. Wang, J. Wang, Time-Varying Stochastic Assessment of Conservation Voltage Reduction 
+based on Load Modeling, IEEE Transactions on Power Systems, Vol. 29, No. 5, pp. 2321 – 2328, 
+September 2014.
+[158]
+W. Su, J. Wang, J. Roh, Stochastic Energy Scheduling in Microgrids with Intermittent 
+Renewable Energy Resources, IEEE Transactions on Smart Grid, Vol. 5, No. 4, pp. 1876 – 1883, July 
+2014.
+[159]
+J. Zhong, L. He, C. Li, Y. Cao, J. Wang, B. Fang, L. Zeng, G. Xiao, Coordinated Control for 
+Large-scale EV Charging Facilities and Energy Storage Devices Participating in Frequency Regulation, 
+Applied Energy, Vol. 123, pp. 253–262, June 2014.
+Page 12 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[160]
+C. Liu, J. Wang, Y. Fu, V. Koritarov, Multi-area Optimal Power Flow with Changeable 
+Transmission Topology, IET Generation, Transmission & Distribution, Vol. 8, No. 6, pp. 1082 – 1089, 
+June 2014.
+[161]
+B. Zeng, J. Zhang, X. Yang, J. Wang, J. Dong, Y. Zhang, Integrated Planning for Transition 
+to Low-carbon Distribution System with Renewable Energy Generation and Demand Response, IEEE 
+Transactions on Power Systems, Vol. 29, No. 3, pp. 1153-1165, May 2014.
+[162]
+Z. Wang, J. Wang, Review on Implementation and Assessment of Conservation Voltage 
+Reduction, IEEE Transactions on Power Systems, Vol. 29, No. 3, pp. 1306-1315, May 2014.
+[163]
+Y. Guan, J. Wang, Uncertainty Sets for Robust Unit Commitment, IEEE Transactions on 
+Power Systems, Vol. 29, No. 3, pp. 1439 – 1440, May 2014.
+[164]
+C.K. Woo, A. Shiu, Y.S. Cheng, R. Li, T. Ho, I. Horowitz, J. Wang, Residential Willingness-
+to-Pay for Reducing Coal-fired Generation's Emissions in Hong Kong, The Electricity Journal, Vol. 27, 
+No. 3, pp. 50–66, April 2014.
+[165]
+C. Zhang, J. Wang, Optimal Transmission Switching Considering Probabilistic Reliability, 
+IEEE Transactions on Power Systems, Vol. 29, No. 2, pp. 974 - 975, March 2014.
+[166]
+Y. He, Y. Liu, J. Wang, T. Xia, Y. Zhao, Low-carbon-oriented Dynamic Optimization of 
+Residential Energy Pricing in China, Energy Policy, Vol. 66, pp. 610–623, March 2014.
+[167]
+C.K. Woo, P. Sreedharan, J. Hargreaves, F. Kahrl, J. Wang, I. Horowitz, A Review of 
+Electricity Product Differentiation, Applied Energy, Vol.114, pp. 262–272, February 2014.
+[168]
+Z. Wang, M. Begovic, J. Wang, Analysis of Conservation Voltage Reduction Effect Based on 
+Multistage SVR and Stochastic Process, IEEE Transactions on Smart Grid, Vol. 5, No. 1, pp. 431 – 
+439, January 2014.
+[169]
+W. Su, J. Wang, K. Zhang, A. Huang, Model Predictive Control-based Power Dispatch for 
+Distribution System Considering Plug-in Electric Vehicle Uncertainty, Electric Power Systems 
+Research, Vol. 106, pp. 29-35, 2014.
+[170]
+S. Xu, D. Feng, Z. Yan, L. Zhang, N. Li, L. Jing, J. Wang. Ant-Based Swarm Algorithm for 
+Charging Coordination of Electric Vehicles, International Journal of Distributed Sensor Networks, 
+Vol. 2013, pp. 1–13, 2013.
+[171]
+C.K. Woo, J. Zarnikau, J. Kadish, I. Horowitz, J. Wang, A. Olson, The Impact of Wind 
+Generation on Wholesale Electricity Prices in the Hydro-Rich Pacific Northwest, IEEE Transactions on 
+Power Systems, Vol. 28, No. 4, pp. 4245 – 4253, November 2013.
+[172]
+J. Ruiz, J. Wang, C. Liu, G. Sun, An Outer-Approximation Method for Security Constrained 
+Unit Commitment, IET Generation, Transmission & Distribution, Vol. 7, No. 11, pp. 1210 – 1218, 
+November 2013.
+[173]
+Q. Zheng, J. Wang, P. Pardalos, Y. Guan, A New Decomposition Approach to Stochastic 
+Security-Constrained Unit Commitment in Electrical Power Generation, Annals of Operations 
+Research, Vol. 210, No. 4, pp. 387-410, November 2013.
+[174]
+F. He, Y. Yin, J. Wang, Y. Yang, Optimal Prices of Electricity at Public Charging Stations for 
+Plug-in Electric Vehicles, Network and Spatial Economics, October 2013.
+[175]
+Y. He, B. Wang, J. Wang, W. Xiong, T. Xia, Correlation between Chinese and International 
+Energy Prices Based on a HP Filter and Time Difference Analysis, Energy Policy, Vol.62, pp. 898-909, 
+2013.
+Page 13 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[176]
+C. Chen, J. Wang, Y. Heo, S. Kishore, MPC-based Appliance Scheduling for Residential 
+Building Energy Management Controller, IEEE Transactions on Smart Grid, Vol. 4, No. 3, pp. 1401-
+1410, 2013.
+[177]
+X. Yang, C. Liu, J. Wang, Large-scale Branch Contingency Analysis through Master/Slave 
+Parallel Computing, Journal of Modern Power Systems and Clean Energy, Vol. 1, No. 2, pp. 159-166, 
+2013.
+[178]
+R. Jiang, J. Wang, M. Zhang, Y. Guan, Two-Stage Minimax Regret Unit Commitment 
+Considering Wind Power Uncertainty, IEEE Transactions on Power Systems, Vol. 28, No. 3, pp. 2271-
+2282, 2013.
+[179]
+Y. He, T. Luo, J. Wang, B. Wang, W. Xiong, F.R. Li, Analysis of Reasonable Energy Price 
+Ratios in China, Journal of Energy Engineering, Vol. 139, No. 3, pp. 214-222, 2013.
+[180]
+C. Zhao, J. Wang, J.P. Watson, Y. Guan, Multi-Stage Robust Unit Commitment Considering 
+Wind and Demand Response Uncertainties, IEEE Transactions on Power Systems, Vol. 28, No. 3, pp. 
+2708-2717, 2013.
+[181]
+J. Wang, J. Wang, C. Liu, J. Ruiz, Stochastic Unit Commitment with Sub-hourly Dispatch 
+Constraints, Applied Energy, Vol. 105, pp. 418-422, 2013.
+[182]
+Q. Wang, J. Wang, Y. Guan, Price-Based Unit Commitment with Wind Power Utilization 
+Constraints, IEEE Transactions on Power Systems, Vol. 28, No. 3, pp. 2718-2726, 2013.
+[183]
+Y. Yang, J. Wang, A. Motter, Network Observability Transitions, Physical Review Letters, 
+Vol. 109, No. 25, pp. 258701 1-5, 2012.
+[184]
+J. Valenzuela, J. Wang, N. Bissinger, Real-time Intrusion Detection in Power System 
+Operations, IEEE Transactions on Power Systems, Vol. 28, No. 2, pp. 1052-1062, 2013.
+[185]
+Z. Zhou, A. Botterud, J. Wang, R.J. Bessa, H. Keko, J. Sumaili, V. Miranda, Application of 
+Probabilistic Wind Power Forecasting in Electricity Markets, Wind Energy, Vol. 16, No. 3, pp. 321-
+338, 2013.
+[186]
+S. Mousavian, J. Valenzuela, J. Wang, Real-time Data Reassurance in Electrical Power 
+Systems based on Artificial Neural Networks, Electric Power Systems Research, Vol. 96, pp. 285-295, 
+2013.
+[187]
+Z. Hu, J. Wang, J. Byrne, L. Kurdgelashvili, Review of Wind Power Tariff Policies in China, 
+Energy Policy, Vol. 53, pp. 41-50, 2013.
+[188]
+A. Botterud, Z. Zhou, J. Wang, J. Sumaili, H. Keko, J. Mendes, R.J. Bessa, V. Miranda, 
+Demand Dispatch and Probabilistic Wind Power Forecasting in Unit Commitment and Economic 
+Dispatch: A Case Study of Illinois, IEEE Transactions on Sustainable Energy, Vol. 4, No. 1, pp. 250-
+261, 2013.
+[189]
+Q. Wang, J. Wang, Y. Guan, Stochastic Unit Commitment with Uncertain Demand Response,
+IEEE Transactions on Power Systems, Vol. 28, No. 1, pp. 562-563, 2013.
+[190]
+Y. He, B. Wang, J. Wang, W. Xiong, T. Xia, Residential Demand Response Behavior 
+Analysis Based on Monte Carlo Simulation: The Case of Yinchuan in China, Energy – The 
+International Journal, Vol. 47, No. 1, pp. 230-236, 2012.
+[191]
+C. Liu, J. Wang, J. Ostrowski, Static Security in Multi-Period Transmission Switching, IEEE 
+Transactions on Power Systems, Vol. 27, No. 4, pp. 1850-1858, 2012.
+Page 14 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[192]
+C. Liu, J. Wang, J. Ostrowski, Heuristic Prescreening Switchable Branches in Optimal 
+Transmission Switching, IEEE Transactions on Power Systems, Vol. 27, No. 4, pp. 2289-2290, 2012.
+[193]
+L. Tang, P. Che, J. Wang, Corrective Unit Commitment to an Unforeseen Unit Breakdown, 
+IEEE Transactions on Power Systems, Vol. 27, No. 4, pp. 1729-1740, 2012.
+[194]
+J. Ostrowski, J. Wang, C. Liu, Exploiting Symmetry in Transmission Lines for Transmission 
+Switching, IEEE Transactions on Power Systems, Vol. 27, No. 3, pp. 1708-1709, 2012.
+[195]
+R. Bessa, V. Miranda, A. Botterud, J. Wang, E. Constantinescu, Time Adaptive Conditional 
+Kernel Density Estimation for Wind Power Forecasting, IEEE Transactions on Sustainable Energy, 
+Vol. 3, No. 4, pp. 660-669, 2012.
+[196]
+Z. Tan, H. Zhang, J. Xu, J. Wang, C. Yu, J. Zhang, Development Potential and the Energy 
+Conservation and Emission Reduction Benefits of Photovoltaic Power Generation in China, Journal of 
+Energy Engineering, Vol. 138, No. 2, pp. 73-86, 2012.
+[197]
+J. Ostrowski, J. Wang, Network Reduction in the Transmission Constrained Unit 
+Commitment Problem, Computers & Industrial Engineering, Vol. 63, No. 3, pp. 702-707, 2012.
+[198]
+Y. He, L. Wang, J. Wang, Cap-and-Trade vs. Carbon Taxes: A Quantitative Comparison from 
+a Generation Expansion Planning Perspective, Computers& Industrial Engineering, Vol. 63, No. 3, pp. 
+708-716, 2012.
+[199]
+C. Liu, J. Wang, A. Botterud, Y. Zhou, A. Vyas, Assessment of Impacts of PHEV Charging 
+patterns on Wind-thermal Scheduling by Stochastic Unit Commitment, IEEE Transactions on Smart 
+Grid, Vol. 3, No. 2, pp. 675-683, 2012.
+[200]
+N. Fan, D. Izraelevitz, F. Pan, P.M. Pardalos, J. Wang, A Mixed Integer Programming 
+Approach for Optimal Power Grid Intentional Islanding, Energy Systems, Vol. 3, No. 1 pp. 77-93, 
+2012.
+[201]
+S. Wang, W. Gao, J. Wang, J. Lin, Synchronized Sampling Technology-based Compensation 
+for Compensation for Network Effects in WAMS Communication, IEEE Transactions on Smart Grid, 
+Vol. 3, No. 2, pp. 837-845, 2012.
+[202]
+Y. Yang, J. Wang, Q. Zhai, X. Guan, Subhourly Unit Commitment with Feasible Energy 
+Delivery Constraints, Applied Energy, Vol. 89, No. 96, pp. 245-252, 2012. 
+[203]
+A. Botterud, Z. Zhou, J. Wang, R. Bessa, H. Keko, J. Sumaili, V. Miranda, Wind Power 
+Trading under Uncertainty in LMP Markets, IEEE Transactions on Power Systems, Vol. 27, No. 2, pp. 
+894-903, 2012.
+[204]
+R. Jiang, J. Wang, Y. Guan, Robust Unit Commitment with Wind Power and Pumped Storage 
+Hydro, IEEE Transactions on Power Systems, Vol. 27, No. 2, pp. 800-810, 2012.
+[205]
+R. Bessa, V. Miranda, A. Botterud, Z. Zhou, J. Wang, Time-Adaptive Quantile-Copula for 
+Wind Power Probabilistic Forecasting, Renewable Energy, Vol. 40, No. 1, pp. 29-39, 2012.
+[206]
+Q. Wang, Y. Guan, J. Wang, A Chance-constrained Two-stage Stochastic Program for Unit 
+Commitment with Uncertain Wind Power Output, IEEE Transactions on Power Systems, Vol. 27, No. 
+1, pp. 206-215, 2012.
+[207]
+Z. Zhou, F. Zhao, J. Wang, Agent-Based Electricity Market Simulation with Demand 
+Response from Commercial Buildings, IEEE Transactions on Smart Grid, Vol. 2, No. 4, pp. 580-588, 
+2011.
+Page 15 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[208]
+Z. Tan, L. Li, J. Wang, Examining the Driving Forces for Improving China’s CO2 Emission 
+Intensity Using the Decomposing Method, Applied Energy, Vol. 88, No. 12, pp. 4496-4504, 2011.
+[209]
+L. Li, Z. Tan, J. Wang, J. Xu, C. Cai, Y. Hou, Energy Conservation and Emission Reduction 
+Policies for the Electric Power Industry in China, Energy Policy, Vol. 39, No. 6, pp. 3669-3679, 2011.
+[210]
+J. Wang, A. Botterud, R. Bessa, H. Keko, L. Carvalho, D. Issicaba, J. Sumaili, V. Miranda, 
+Wind Power Forecasting Uncertainty and Unit Commitment, Applied Energy, Vol. 88, No. 11, pp. 
+4014-4023, 2011.
+[211]
+J. Wang, Z. Zhou, A. Botterud, An Evolutionary Game Approach To Analyzing Bidding 
+Strategies in Electricity Markets With Elastic Demand, Energy - The International Journal, Vol. 36, 
+No. 5, pp. 3459-3467, 2011.
+[212]
+J. Hou, Z. Tan, J. Wang, P. Xie, Government Policy and Future Projection for Nuclear Power 
+in China, Journal of Energy Engineering, Vol. 137, No. 3, pp. 1-8, 2011.
+[213]
+J. Valenzuela, J. Wang, A Probabilistic Model for Assessing the Long-Term Economics of 
+Wind Energy, Electric Power Systems Research, Vol. 81, No. 4, pp. 853-861, 2011.
+[214]
+J. Ning, J. Wang, W. Gao, C. Liu, A Wavelet-based Data Compression Technique for Smart 
+Grid, IEEE Transactions on Smart Grid, Vol. 2, No. 1, pp. 212-218, 2011.
+[215]
+R. Bessa, V. Miranda, A. Botterud, J. Wang, “Good” or “Bad” Wind Power Forecasts: A 
+Relative Concept, Wind Energy, Vol. 14, No. 5, pp. 625-636, 2011.
+[216]
+Z. Tan, L. Li, J. Wang, Y. Chen, Examining Economic and Environmental Impacts of 
+Differentiated Pricing on the Energy-intensive Industries in China: An Input-Output Approach, Journal 
+of Energy Engineering, Vol. 137, No. 3, pp. 1-8, 2011.
+[217]
+Z. Tan, J. Zhang, J. Wang, Day-ahead Electricity Price Forecasting Using Wavelet Transform 
+Combined with GARCH and ARIMA, Applied Energy, Vol. 87, No. 11, pp. 3606-3610, 2010.
+[218]
+C. Liu, M. Shahidehpour, J. Wang, Application of Augmented Lagrangian Relaxation to 
+Coordinated Scheduling of Interdependent Hydrothermal Power and Natural Gas Systems, IET 
+Generation, Transmission & Distribution, Vol. 4, No. 12, pp. 1314-1325, 2010.
+[219]
+F. Li , W. Qiao, H. Sun, H. Wan, J. Wang, Y. Xia, Z. Xu, P. Zhang, Smart Transmission 
+Grid: Vision and Framework, IEEE Transactions on Smart Grid, Vol. 1, No. 2, pp. 168-177, Sept. 
+2010.
+[220]
+Z. Hu, Q. Wen, J. Wang, X. Tan, H. Nezhad, B. Shan, X. Han, Integrated Resource Strategic 
+Planning in China, Energy Policy, Vol. 38, No. 8, pp. 4635-4642, 2010.
+[221]
+A. Botterud, J. Wang, V. Miranda, R. Bessa, Wind Power Forecasting in U.S. Electricity 
+Markets, The Electricity Journal, Vol. 23 No. 3, pp. 71-82, April 2010.
+[222]
+J. Wang, M. Shahidehpour, Z. Li, Contingency- Constrained Reserve Requirements in Joint 
+Energy and Ancillary Services Auction, IEEE Transactions on Power Systems, Vol. 24, No. 3, pp. 
+1457-1468, Aug. 2009.
+[223]
+J. Wang, A. Botterud, G. Conzelmann, V. Koritarov, Multi - Agent System for Short and 
+Long -Term Power Market Simulations, International Journal of Innovations in Energy System and 
+Power, Vol. 4, No. 1, pp. 1-8, April 2009.
+Page 16 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[224]
+J. Wang, M. Shahidehpour, Z. Li, A. Botterud, Strategic Generation Capacity Expansion 
+Planning with Incomplete Information, IEEE Transactions on Power Systems, Vol. 24, No. 2, pp. 1002 
+-1010, 2009.
+[225]
+J. Wang, M. Shahidehpour, Z. Li, Security-Constrained Unit Commitment with Volatile 
+Wind Power Generation, IEEE Transactions on Power Systems, Vol. 23, No. 3, pp. 1319-1327, August 
+2008.
+[226]
+W. Liu, J. Wang, J. Xie, C. Song, Electricity Securitization in China, Energy- The 
+International Journal, Vol. 32, No. 10, pp. 1886-1895, 2007.
+[227]
+J. Wang, H.W. Ngan, W. Engriwan and K.L. Lo, Performance Based Regulation of the 
+Electricity Supply Industry in Hong Kong: an Empirical Efficiency Analysis Approach, Energy Policy, 
+Vol. 35, No. 1, pp. 609-615, 2007.
+[228]
+H.W. Ngan, J. Wang, W. Engriwan and K.L. Lo, A Feasible Reform for the Electricity 
+Supply Industry in Hong Kong, Energy Policy, Vol. 34, No. 17, pp. 2881-2890, 2006.
+[229]
+J. Zhang, X. Wu, Y. Chen, F. Xiao, J. Wang, F. Zhang, Optimal Scheduling and Dispatching 
+Modeling for Electric Utility Mobile Workforce and its Algorithm, Automation of Electric Power 
+Systems, Vol. 37, No. 14, pp. 81-88, 2013 [in Chinese].
+[230]
+H. Jiang, L. Li, Z. Tan, M. Wang, C. Yu, J. Wang, An Optimization Model for Inter-Regional 
+Economic Exchange of Generated Power Under Emission Reduction and Transmission Constraints, 
+Power System Technology, Vol. 34, No. 6, pp. 64-70, 2010 [in Chinese].
+[231]
+J. Wang, T. Tan, J. Qi, Risk Management of Power Grid Enterprise under Power Market 
+Environment, Electric Power Technologic Economics, Vol. 17, No. 1, pp. 44-48, 2005 [in Chinese].
+[232]
+J. Wang, Analysis on Risk Model of Power Purchase in Electricity Markets, Power System 
+Technology, Vol. 29, No. 9 pp. 46-49, 2005[in Chinese].
+[233]
+J. Wang, L. Wang, Study on Some Important Issues in Transmission and Distribution Pricing, 
+Electric Power Technologic Economics, Vol. 17, No. 5 pp. 11-15, 2005 [in Chinese].
+[234]
+J. Wang, Z. Tan, Risk Analysis during Price Quotation of Power Generating Owner, East 
+China Electric Power, Vol. 32, No. 3 pp. 1-4, 2004 [in Chinese].
+[235]
+J. Wang, M. Shahidehpour, Electricity Transaction Tagging Management in American 
+Electricity Market, Automation of Electric Power Systems, Vol. 28, No. 2, pp. 8-12, 2004 [in Chinese].
+[236]
+J. Wang, W. Liu, L. Wang, Study on Market Power and Surveillance in Power Markets, 
+Relay, Vol. 32, No. 5 pp. 1-6, 2004 [in Chinese].
+[237]
+J. Wang, Z. Tan, Study on Price Quotation Strategy of Power Generator with Consideration 
+of Cost Coefficient Variation, East China Electric Power, Vol. 32, No. 11, pp. 1-3, 2004 [in Chinese].
+[238]
+J. Wang, H. Pang, Z. Tan, Incomplete Information Static Game Theory in Application of 
+Power Producers’ Bidding strategy, Modern Electric Power, Vol. 21, No. 2, pp. 91-94, 2004 [in 
+Chinese].
+[239]
+J. Wang, Renovation of Investment and Financing System for Power Grid Construction under 
+Power Market, Electric Power Construction, Vol. 25, No. 12, pp. 64-66, 2004 [in Chinese].
+[240]
+L. Wang, J. Wang, C. Xie, Research on Trans-regional Power Transmission Prices, North 
+China Electric Power, No. 10, pp. 17-20, 2003 [in Chinese]
+ TECHNICAL REPORTS
+ TECHNICAL REPORTS
+Page 17 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[1] J. Wang, N. Kang, R. Singh, X. Lu, J. Reilly, A. Maitra, S. Martino, T, Hubert, Integrated 
+Distribution Management Systems - Monitoring and Control of Distributed Energy Resources and 
+Microgrid Energy Management Systems, Argonne National Laboratory Technical Report, June 2017.
+[2] J. Wang, X. Lu, C. Chen, Guidelines for Implementing Advanced Distribution Management 
+Systems – Requirements for DMS Integration with DERMS and Microgrids, Argonne National 
+Laboratory Technical Report, August 2015.
+[3] V. Koritarov et al, Modeling and Analysis of Value of Advanced Pumped Storage Hydropower 
+Technologies in the United States, Argonne National Laboratory Technical Report, June 2014.
+[4] J. Mendes, R. Bessa, H. Keko, J. Sumaili, V. Miranda, C. Ferreira, J. Gama, A. Botterud, Z. Zhou, 
+J. Wang, Development and Testing of Improved Statistical Methods for Wind Power Forecasting,
+Argonne National Laboratory Technical Report, Sept. 2011, available at 
+http://www.dis.anl.gov/pubs/71390.pdf.
+[5] A. Botterud, Z. Zhou, J. Wang, R. Bessa, H. Keko, J. Mendes, J. Sumaili, V. Miranda, Use of 
+Wind Power Forecasting in Operational Decisions, Argonne National Laboratory Technical Report, 
+Sept. 2011, available at http://www.dis.anl.gov/pubs/71389.pdf. 
+[6] C. Ferreira, J. Gama, L. Matias, A. Botterud, J. Wang, A Survey on Wind Power Ramp 
+Forecasting, Argonne National Laboratory Technical Report, Sept. 2011, available at 
+http://www.dis.anl.gov/pubs/69166.pdf. 
+[7] MC Kintner-Meyer, K. Subbarao, N. Prakash Kumar, C. Finley, V. Koritarov, JC Molburg, J. 
+Wang, F. Zhao, L. Brackney, AR Florita, The Role of Energy Storage in Commercial Buildings, 
+Pacific Northwest National Laboratory Technical Report, 2010.
+[8] JC Molburg, MC Kintner-Meyer, VS Koritarov, K Subbarao, J Wang, C Finley, L Brackney, A 
+Emery, AR Florita, Literature Review in Support of the Project: Commercial Buildings, Local Energy 
+Storage, and the Electric Power Grid, Pacific Northwest National Laboratory Technical Report, 2010.
+[9] C. Monteiro, R. Bessa, V. Miranda, A. Botterud, J. Wang, G. Conzelmann, A Quick Guide to 
+Wind Power Forecasting: State-of-the-Art 2009, Argonne National Laboratory Technical Report, Nov. 
+2009, available at http://www.dis.anl.gov/pubs/65614.pdf.
+[10]
+C. Monteiro, R. Bessa, V. Miranda, A. Botterud, J. Wang, G. Conzelmann, Wind Power 
+Forecasting: State-of-the-Art 2009, Argonne National Laboratory Technical Report, Nov. 2009, 
+available at http://www.dis.anl.gov/pubs/65613.pdf.
+[11]
+G. Conzelmann, V. Koritarov, M. Mahalik, L. Poch, T. Veselka, J. Wang, WECC Electricity 
+Price Projections 2020–2060, Argonne National Laboratory Technical Report, August 2008.
+CONFERENCE PAPERS AND PRESENTATIONS
+[1] W. Su, J. Wang, K. Zhang, M.-Y. Chow, Framework for Investigating the Impact of PHEV 
+Charging on Power Distribution System and Transportation Network, Proceedings of the 38th Annual 
+Conference of the IEEE Industrial Electronics Society, Montreal, Canada, Oct. 25-28, 2012. 
+[2] M. Biviji, M. Wang, J. Ostrowski, J. Wang, Price elasticity of electricity demand for various 
+dynamic rate programs, Proceedings of 2012 IEEE PES Innovative Smart Grid Technologies (ISGT), 
+Washington D.C., 2012.
+[3] J. Sumaili, H. Keko, V. Miranda, Z. Zhou, A. Botterud, J. Wang, Finding Representative Wind 
+Power Scenarios and their Probabilities for Stochastic Models, Proceedings of 16th Int. Conference on 
+Intelligent System Application to Power Systems, Hersonissos, Greece, 2011.
+[4] A. Botterud, Z. Zhou, J. Wang, R. Bessa, H. Keko, J. Sumaili, V. Miranda, Wind Power 
+Forecasting, Unit Commitment, and Electricity Market Operations, IEEE PES general meetings, 
+Detroit, Michigan, 2011.
+[5] Z. Gao, P. Wang, L. Bertling, J. Wang, Sizing of Energy Storage for Power Systems with Wind 
+Farms Based on Reliability Cost and Worth Analysis, IEEE PES general meetings, Detroit, Michigan, 
+2011.
+Page 18 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[6] Z. Zhou, J. Wang, A. Botterud, Agent-based Electricity Market Simulation with Plug-in Hybrid 
+Electric Vehicle Penetration, IEEE PES general meetings, Detroit, Michigan, 2011.
+[7] Q. Wang, J. Wang, Y. Guan, Wind Power Bidding Based on Chance-constrained Optimization, 
+IEEE PES general meetings, Detroit, Michigan, 2011.
+[8] J. Sumaili, H. Keko, V. Miranda, A. Botterud, J. Wang, A Clustering-Based Wind Power Scenario 
+Reduction Technique, 17th Power System Computation Conference (PSCC.11), Stockholm, Sweden, 
+Aug. 2011.
+[9] R. Bessa, J. Sumaili, V. Miranda, A. Botterud, J. Wang, E. Constantinescu, Time-Adaptive Kernel 
+Density Forecast: A New Method for Wind Power Uncertainty Modeling, 17th Power System 
+Computation Conference (PSCC.11), Stockholm, Sweden, Aug. 2011.
+[10]
+A. Botterud, Z. Zhou, J. Wang, J. Valenzuela, J. Sumaili, R. Bessa, H. Keko, V. Miranda, 
+Unit Commitment and Operating Reserves with Probabilistic Wind Power Forecasts,  IEEE Trondheim 
+PowerTech 2011, Trondheim, Norway, June 2011.
+[11]
+R. Bessa, J. Mendes, V. Miranda, A. Botterud, J. Wang, Z. Zhou, Quantile-Copula Density 
+Forecast for Wind Power Uncertainty Modeling, IEEE Trondheim PowerTech 2011, Trondheim, 
+Norway, June 2011.
+[12]
+A. Botterud, J. Wang, Z. Zhou, R. Bessa, H. Keko, V. Miranda, Application of Probabilistic 
+Wind Power Forecasting in Electricity Markets, Windpower 2011, Anaheim, CA, May 2011.
+[13]
+R. Bessa, V. Miranda, J. Sumaili, A. Botterud, J. Wang, Z. Zhou, Wind Power Forecast with 
+Probability Density Estimation: A Tool for the Business, Windpower 2011, Anaheim, CA, May 2011.
+[14]
+J. Wang, A. Botterud, J. Akilimali, V. Miranda, Wind Power Forecasting Uncertainty 
+Modeling in Unit Commitment, INFORMS Annual Meeting 2010, Austin, TX, 2010.
+[15]
+J. Wang, A. Vyas, A. Botterud, C. Liu, Unit Commitment with Plug-in Hybrid Vehicles, 
+INFORMS Annual Meeting 2010, Austin, TX, 2010.
+[16]
+L. Wang, Y. He, J. Wang, Comparing the Cap-and-trade and Carbon Taxes Policies in 
+Generation Expansion Planning, INFORMS Annual Meeting 2010, Austin, TX, 2010.
+[17]
+Q. Wang, Y. Guan, J. Wang, A Chance-constrained Two-stage Stochastic Program for Unit 
+Commitment with Uncertain Wind Generation, INFORMS Annual Meeting 2010, Austin, TX, 2010.
+[18]
+C. Liu, Z. Li, M. Shahidehpour, J. Wang, Midterm Coordination of Natural Gas Storage and 
+Power Generation, INFORMS Annual Meeting 2010, Austin, TX, 2010.
+[19]
+A. Botterud, R. Bessa, V. Miranda, J. Wang, Improved Statistical Methods for Wind Power 
+Forecasting, INFORMS Annual Meeting 2010, Austin, TX, 2010.
+[20]
+A. Botterud, R. Bessa, H. Keko, J. Wang, Optimal Wind Power Bidding in Electricity 
+Markets, INFORMS Annual Meeting 2010, Austin, TX, 2010.
+[21]
+Q. Zheng, P. Pardalos, J. Wang, Stochastic Security Constrained Unit Commitment Models 
+and Solution Algorithm, INFORMS Annual Meeting 2010, Austin, TX, 2010.
+[22]
+F. Zhao, J. Wang, V. Koritarov, G. Augenbroe, Agent-based Modeling of Interaction 
+between Commercial Building Stocks and Power Grid, 2010 IEEE Conference on Innovative 
+Technologies for an Efficient and Reliable Electricity Supply, Boston, Massachusetts , 2010 (Third 
+place in student paper contest).
+[23]
+V. Zavala, A. Botterud, E. Constantinescu, and J. Wang, Computational and Economic 
+Limitations of Dispatch Operations in the Next-Generation Power Grid, 2010 IEEE Conference on 
+Innovative Technologies for an Efficient and Reliable Electricity Supply, Boston, Massachusetts, 2010.
+[24]
+V. Zavala, J. Wang, S. Leyffer, E. Constantinescu, M. Anitescu, and G. Conzelmann, 
+Proactive Energy Management for Next-Generation Building Systems, SimBuild, 2010. 
+[25]
+J. Wang, A. Botterud, G. Conzelmann, V. Miranda, C. Monteiro, G. Sheble, Impacts of 
+Different Wind Power Forecasts on Power System Operations, Windpower 2010, Dallas, Texas, 2010.
+Page 19 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[26]
+A. Botterud, J. Wang, G. Conzelmann, V. Miranda, C. Monteiro, G. Sheble, Designing 
+Electricity Markets with Large Shares of Wind Power, Windpower 2010, Dallas, Texas, 2010.
+[27]
+R. Bessa, V. Miranda, A. Botterud, J. Wang, Good or Bad Wind Power Forecasts, a Relative 
+Concept, Windpower 2010, Dallas, Texas, 2010.
+[28]
+R. Bessa, V. Miranda, J. Principe, A. Botterud, and J. Wang, Information Theoretic 
+Learning Applied to Wind Power Modeling, 2010 IEEE World Congress on Computational 
+Intelligence, Barcelona, Spain, 2010.
+[29]
+Z. Gao, P. Wang, J. Wang, Impacts of Energy Storage on Reliability of Power Systems with 
+WTGs, PMAPS 2010, Singapore, 2010.
+[30]
+L. Poch, M. Mahalik, J. Wang. A. Vyas, Impacts of Plug-In Hybrid Electric Vehicles on the 
+Electric Power System in the Western United States, IEEE PES General Meetings, Minneapolis, 
+Minnesota, USA, 2010.
+[31]
+A. Botterud, J. Wang, R. Bessa, V. Miranda, Risk Management and Optimal Bidding for a 
+Wind Power Producer, IEEE PES General Meetings, Minneapolis, Minnesota, USA, 2010.
+[32]
+A. Botterud, J. Wang, C. Monteiro, V. Miranda, Wind Power Forecasting and Electricity 
+Market Operations, The 32nd IAEE International Conference, San Francisco, California, June 21-24, 
+2009.
+[33]
+J. Wang, A. Botterud, V. Koritarov, T. D. Veselka, Renewable Energy in Generation 
+Expansion Planning Models, INFORMS Annual Meeting, San Diego, 2009.
+[34]
+Z.X. Jing, H.W. Ngan, Y.P. Wang, Y. Zhang, J. Wang, Study on the Convergence Property 
+of Reinforcement Learning Models in Electricity Market Simulation, The 8th IET International 
+Conference on Advances in Power System Control, Operation and Management, Hong Kong, 8-11 
+November,2009.
+[35]
+J. Wang, A. Botterud, G. Conzelmann, V. Miranda, C. Monteiro, G. Sheble, Impact of Wind 
+Power Forecasting on Unit Commitment and Dispatch, The 8th International Workshop on Large-scale 
+Integration of Wind Power into Power Systems, pp.1-8, Oct. 14-15, Bremen, Germany, 2009. 
+[36]
+J. Wang, Transmission-Constrained Unit Commitment with Uncertain Wind Power 
+Generation, WINDPOWER 2009, Chicago, IL, May 2009. 
+[37]
+A. Botterud, J. Wang, C. Monteiro, V. Miranda, Advanced Wind Forecasting for Improved 
+Power System Operations, WINDPOWER 2009, Chicago, IL, May 2009.
+[38]
+J. Wang, M. Shahidehpour, Z. Li, Security-Constrained Unit Commitment with Volatile 
+Wind Power Generation, IEEE PES General Meetings, pp.1-8, Calgary, Canada, 2009.
+[39]
+J. Wang, V. Koritarov, J. Kim, An Agent-Based Approach to Modeling Interactions between 
+Emission Market and Electricity Market, IEEE PES General Meetings, pp.1-8, Calgary, Canada, 2009.
+[40]
+G. Conzelmann, A. Botterud, J. Wang, P. Thimmapuram, Using Multi-Agent Simulation to 
+Test European Electricity Markets, IEEE PES General Meetings, pp. 1-2, Calgary, Canada, 2009.
+[41]
+Z. Jiang, F. Li ,W. Qiao, H. Sun, H. Wan, J. Wang, Y. Xia, Z. Xu, P. Zhang, F. Wu, A 
+Vision of Smart Transmission Grids, IEEE PES General Meetings, pp.1-10, Calgary, Canada, 2009.
+[42]
+Z. Jing, H. Chen, H.W. Ngan, J. Wang, Effect of Agent’s Action Domain Representation 
+Method in Agent-based Electricity Market Simulation, Asia-Pacific Power and Energy Engineering 
+Conference, Wuhan, China, March28-31,2009.
+[43]
+J. Wang, Conjectural Variation-Based Bidding Strategies with Q-Learning in Electricity 
+Markets, Proceedings of the 42nd Annual Hawaii International Conference on System Sciences (HICSS 
+2009), pp, 1-8, 2009.
+[44]
+J. Wang, P. R. Thimmapuram, A. Botterud, Identifying Market Power in the EEX Electricity 
+Market, 2008 Argonne National Laboratory postdoctoral symposium,2008.
+Page 20 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[45]
+J. Wang, A. Botterud, G. Conzelmann, and V. Koritarov, Market Power Analysis in the 
+EEX Electricity Market: An Agent-Based Simulation Approach, IEEE PES General Meetings, pp.1 - 8, 
+Pittsburg, Pennsylvania, 2008. 
+[46]
+J. Wang, A. Botterud, G. Conzelmann, and V. Koritarov, Multi-agent System for Short and 
+Long-term Power Market Simulations, The 16th Power System Computation Conference (PSCC), pp.1 
+- 7, July 14-18, 2008.
+[47]
+J. Wang, Risk-Constrained Generation Asset Scheduling for Price-Takers in the Electricity 
+Markets, hicss, p. 92, Proceedings of the 41st Annual Hawaii International Conference on System 
+Sciences (HICSS 2008), pp. 1-8, 2008.
+[48]
+T. Veselka, A. Botterud, G. Conzelmann, V. Koritarov, L. Poch, J. Wang, Climate Change 
+Impacts on the Electric Power System in the Western United States, American Geophysical Union 
+(AGU) fall meeting, San Francisco, December 2007. 
+[49]
+J. Wang, AC Security Constrained Dispatch with Uncertain Wind Power Generation, The 
+22nd International Conference on Advanced Science and Technology (ICAST), Chicago, November 
+2007.
+[50]
+J. Wang, W. Liu and H.W. Ngan, The Reliability Modeling in Performance Based 
+Regulation of the Electricity Supply Industry in Hong Kong, IEEE Region 10 Conference (TENCON), 
+Hong Kong, PO1.614-17, November 2006.
+[51]
+J. Wang and H.W. Ngan, Index Scheme for Performance Evaluation in Open Electricity 
+Market Environment, IEEE Region 10 Conference (TENCON), Hong Kong, PO6.3, 14-17 November 
+2006.
+[52]
+H.W. Ngan, J. Wang and W. Engriwan, Analysis of Risks Perceived in Reformed Electricity 
+Supply Industry, The International Conference on Electrical Engineering 2005, Kunming, China, Paper 
+PM2-06, ICEE-F0484, pp. A-72, Jul 2005.
+[53]
+H.W. Ngan, J. Wang and W. Engriwan, Governance Framework for Sustainable 
+Development in Reformed Electricity Industry, 2005 IEEE/PES Transmission and Distribution 
+Conference: Asia and Pacific, Dalian, China, Paper PM2-07 T&D-F0346, pp. A110, Aug 2005.
+TEACHING EXPERIENCE
+2017             EE2450 – Circuit Analysis I (Fall 2017), Southern Methodist University 
+2016             EE3352 - Fundamental of Electric Power Engineering (Fall 2016), Southern Methodist 
+University 
+2014              “Energy Economics” (Summer Term 2013-2014), Hong Kong Baptist University
+2007–             Short-course instructor, Argonne National Laboratory
+2005–2007     Teaching assistant for “Fundamentals of Power Engineering” and “Power System Analysis,” 
+                         Illinois Institute of Technology 
+2003–2004      Instructor for “E-commerce,” Beijing City College, Beijing, China
+HONORS
+2016                Midwest Energy News 40 Under 40 award
+2016                IEEE PES General Meetings Best Conference Paper Award
+2015                IEEE PES Power System Operation Committee Prize Paper Award 
+2014                Argonne Director’s Award
+2014                Argonne National Laboratory Pacesetter Award
+2014                IEEE PES Distinguished Lecturer
+Page 21 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+2012                IEEE Chicago Section 2012 Outstanding Young Engineer Award 
+2012                Applied Energy Editor’s 2011 Best Reviewers Award
+2011                Marquis Who’s Who in Science and Engineering
+2010               The Inaugural Northwestern-Argonne Early Career Investigator Award for Energy    
+                       Research (Co-investigator with Adilson Motter from Northwestern University)
+2009                IEEE Chicago section outstanding member award
+2008                IEEE Chicago section annual service award
+2006                Marquis Who’s Who among Students in American Universities and Colleges
+2003             “Sifang Relay Co.” Excellent Graduate Fellowship, first-class, North China Electric  
+                       Power University
+2001                Outstanding Graduate Honor, North China Electric Power University
+1998–2000     North China Electric Power University Scholarship, North China Electric Power 
+                       University
+1997–1998    Award for Excellent Community Volunteer Work, North China Electric Power 
+                      University
+EDITORIAL ACTIVITIES
+[1] Editor-in-Chief, IEEE Transactions on Smart Grid (2015–present)
+[2] Guest Editor, Proceedings of the IEEE (2016)
+[3] Member of the Steering Committee, IEEE Transactions on Cloud Computing (2017–present)
+[4] Editorial Board Member, IEEE Power and Energy Magazine (2016–present)
+[5] Editor, IEEE Transactions on Power Systems (2013–2014)
+[6] Editor, Artech House Publishers Power Engineering Book Series (2012–2014)
+[7] Editor, IEEE Transactions on Smart Grid (2010–2014)
+[8] Editor, IEEE PES Letters (2010–2014)
+[9] Editor, IEEE ComSoc Technology News (2014)
+[10]
+Member of Steering Committee, IEEE Transactions on Transportation Electrification (2012
+–present)
+[11]
+Member of Editorial Board, Applied Energy (2012–present)
+[12]
+Associate Editor, Journal of Energy Engineering (2012–present)
+[13]
+Editor, CSEE Journal of Power and Energy Systems (2016–present)
+[14]
+Editor, Power System Technology (2016–present)
+[15]
+Member of International Editorial Board, Journal of Modern Power Systems and Clean 
+Energy (2013–present)
+[16]
+Member of International Editorial Board, Electric Power of China (中国电力) (2013
+–present)
+[17]
+Associate Editor, International Journal of Renewable Energy Technology (2009–2011)
+[18]
+Guest editor, IEEE Transactions on Smart Grid, Special issue on High Performance 
+Computing (HPC) Applications for a More Resilient and Efficient Power Grid (2014)
+[19]
+Guest editor, IEEE Transactions on Smart Grid, Special issue on Big Data Analytics for Grid 
+Modernization (2014)
+[20]
+Guest editor, IEEE Transactions on Sustainable Energy, Special section on Reserve and 
+Flexibility for Handling Variability and Uncertainty ofRenewable Generation (2013)
+[21]
+Guest editor, IEEE Transactions on Power Systems, Special section on Power System 
+Planning and Operation Towards a Low-Carbon Economy (2013)
+Page 22 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[22]
+Guest editor-in-chief, IEEE Transactions on Smart Grid, Special issue on Smart Grid 
+Technologies and Development in China (2013)
+[23]
+Guest editor, IEEE Transactions on Smart Grid, Special issue on Distributed Energy 
+Management Systems (2014)
+[24]
+Guest editor, IEEE Transactions on Smart Grid, Special issue on Smart Grid Communication 
+Systems: Reliability, Dependability& Performance (2012)
+[25]
+Guest editor, IEEE Transactions on Smart Grid, Special issue on Analytics for Energy 
+Forecasting with Applications to Smart Grid (2012)
+[26]
+Guest editor, IEEE Transactions on Smart Grid, Special issue on Energy Storage 
+Applications for Smart Grid (2012)
+[27]
+Guest editor, IEEE Transactions on Smart Grid, Special issue on Real-Time Demand 
+Response (2012)
+[28]
+Guest editor, Applied Energy, Special issue on Smart Grids, Renewable Energy Integration, 
+and Climate Change Mitigation — Future Electric Energy Systems (2011)
+[29] Guest editor, IEEE Power and Energy Magazine, Special issue on Electrification of Transportation 
+(2011)
+TECHNICAL REVIEW ACTIVITIES
+(31 Journals and 13 Conferences)
+IEEE Systems Journal, Proceedings of IEEE, Energy Policy, IEEE Transactions on Smart Grid, IEEE 
+Transactions on Sustainable Energy, International Journal of Computational Intelligence Systems, IEEE 
+Transactions on Systems, Man, and Cybernetics--Part A: Systems and Humans, IEEE Power Engineering 
+Letters, IET-Generation, Transmission and Distribution, IET - Renewable Power Generation, Applied 
+Energy, The Energy Journal, IEEE Transactions on Power Systems, IEEE Transactions on Power Delivery, 
+Energy- The International Journal, Environmental Science & Technology, International Journal of Digital 
+Multimedia Broadcasting, International Journal of Electrical Power and Energy Systems, Computers & 
+Industrial Engineering, Journal of Energy Engineering, International Journal of Green Energy, European 
+Transactions on Electrical Power, IEEE Transactions on Parallel and Distributed Systems, Journal of 
+Critical Infrastructures, Wiley Encyclopedia of Electrical and Electronics Engineering, Simulation: 
+Transactions of the Society for Modeling and Simulation International, International Journal of Energy 
+Research, Energy Economics, Energy Conversion and Management, Transportation Research Part C, The 
+2012 IEEE PES Transmission and Distribution Conference and Exposition, The 41st Hawaii International 
+Conference on System Sciences, 2009 ACEEE Summer Study on Energy Efficiency in Industry, IEEE 
+Power Engineering Society General Meeting (2008~),  2011 IEEE PES Power Systems Conference & 
+Exhibition (PSCE), PMAPS2010, IEEE ISGT 2010, 2012, IEEE ISGT - Europe 2010, Power System 
+Computation Conference (PSCC) 2011, Judge for the student poster session at the IEEE PES general 
+meetings (2008), IECON 12, ISGT 2013, IEEESmartGridComm 2013, IEEE Instrumentation & 
+Measurement Magazine.
+PROFESSIONAL MEMBERSHIPS AND ACTIVITIES
+[1] Keynote, Fall Banquet, Center for Power Systems Studies of the Jerome J. Lohr College of 
+Engineering South Dakota State University, October, 2017. 
+[2] Co-chair of the Technical Committee, The Technical Symposium, Solar Power International, Las 
+Vegas, Nevada, September 10-13, 2017.
+[3] Co-chair, The 1st IEEE Conference on Energy Internet and Energy System Integration, Beijing, 
+China, Nov. 26-28, 2017.
+[4] Keynote, 2017 IEEE PES Innovative Smart Grid Technologies (ISGT) – Europe, Torino, Italy, 
+September 26-29, 2017. 
+Page 23 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[5] Keynote, 2016 IEEE PES Asia-Pacific Power & Energy Engineering Conference (APPEEC), 
+Xi’an, China, October 25-28, 2016.
+[6] Keynote, SmartEnergy2016, Cappadocia, Turkey, October 5-7, 2016.
+[7] Keynote, The 11th International Green Energy Conference (IGEC-XI), Alaska, USA, May 8-11, 
+2016.
+[8] Keynote, The 4th IEEE International conference on Smart Energy Grid Engineering, Oshawa, 
+Canada, August 21-24, 2016.
+[9] IEEE PES Distinguished Lecture, IEEE PES Toronto Section, August 2016.
+[10]
+IEEE PES Distinguished Lecture, IEEE PES Milwaukee Section, July 2016.
+[11]
+IEEE PES Distinguished Lecture, IEEE PES Chicago Section, July 2016.
+[12]
+Keynote, The 2nd IEEE International Conference on High Performance and Smart 
+Computing (IEEE HPSC 2016), New York City, April 9-10, 2016
+[13]
+Keynote, The 16th International Scientific Conference on Electric Power Engineering (EPE), 
+Czech Republic, May 20-22, 2015.
+[14]
+Tutorial on Cybersecurity Aspects of Smart Grid Systems, IEEE SmartGridComm, 2015.
+[15]
+Tutorial on Using Microgrids to Enhance Energy Security and Resilience, NATO Advances 
+Study Institute on Energy Security, 2015.
+[16]
+Member of EE Doctoral Program Committee, Southern Methodist University (2017 – 
+Present)
+[17]
+Member of Program Committee, The 1st IEEE International Conference on Energy Internet 
+(IEEE ICEI 2017), Beijing, China, April 17-21, 2017
+[18]
+Member of Advisory Committee, 2017 IEEE PES Innovative Smart Grid Technologies 
+(ISGT) – Asia, New Zealand, December 4-7, 2017.
+[19]
+Member of Technical Program Committee, 2017 IEEE ASET International Conference on 
+Advanced Systems and Electrical Technologies, Tunisia, 2017.
+[20]
+Member of Technical Committee, 2017 ISAP (Intelligent System Applications to Power 
+Systems), San Antonio, Texas, USA, September 17-21, 2017.
+[21]
+Member, P2030.7 Working Group on Distribution Resources Integration 
+[22]
+Member, IEC TC 8 WG 7 Guidelines for the General Planning and Design of the Microgrid
+[23]
+Secretary, IEEE PES Power System Operations Committee (2014- present)
+[24]
+Panel chair, 2nd National Microgrid Conference
+[25]
+Member of Technical Program Committee, IEEE Green Computing Conference - Workshop 
+on “Computation in Smart Grid”, 2014.
+[26]
+Symposium co-chair, IEEE Smart Grid Comm 2014 Symposium — Data Management and 
+Grid Analytics, Venice, Italy, 2014.
+[27]
+Member of Technical Committee, IEEE Smart Grid Comm 2013 Symposium — Demand 
+Side Management, Demand Response, Dynamic Pricing Symposium, Vancouver, British Columbia, 
+Canada, 2013.
+[28]
+Member of Technical Program Committee, 1st AIChE Workshop on Smart Grid for the 
+Chemical Process Industry, Chicago, Illinois, United States of America, 2013.
+[29]
+Member of Technical Committee, IEEE PES Conference on Innovative Smart Grid 
+Technologies, Washington, D.C., United States of America, 2013.
+[30]
+Co-chair of Power System Track, The 38th Annual Conference of the IEEE Industrial 
+Electronics Society (IECON), Québec City, Québec, Canada, 2012.
+[31]
+Member of Organizing Committee, 2012 Great Lakes Symposium on Smart Grid and the 
+New Energy Economy, Chicago, Illinois, United States of America, 2012.
+[32]
+Member of Advisory Committee, Iowa State University- NSF IGERT center.
+Page 24 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+[33]
+Member of the International Advisory Committee, EuroPES 2012, Napoli, Italy, 2012.
+[34]
+Chair of technical paper track on EV Systems Modeling, Simulation and Testing, The 
+International IEEE Conference on Electrical Vehicles - IEVC 2012, Greenville, South Carolina, United 
+States of America, 2012.
+[35]
+Member of Technical Committee, ECI Conference on Modeling, Simulation, and 
+Optimization for the 21st Century Electric Power Grid, Geneva, Wisconsin, United States of America, 
+2012.
+[36]
+Technical Program Chair, IEEE PES Conference on Innovative Smart Grid Technologies, 
+Washington, D.C., United States of America, 2012.
+[37]
+Member of Planning Advisory Committee, ISO – New England.
+[38]
+Member of Advisory Committee, First IEEE PES Innovative Smart Grid Technologies 
+Europe conference, Sweden, 2010.
+[39]
+Member of Organizing Committee, First IEEE PES Conference on Innovative Smart Grid 
+Technologies, Washington, D.C., United States of America, 2010.
+[40]
+Chair, IEEE PES Power System Operation Methods Subcommittee (2009–2014)
+[41]
+Co-chair, IEEE PES Task Force on Integration of Wind and Solar Power into Power System 
+Operations (2009–present)
+[42]
+Panel Session Chair at IEEE PES General Meetings (2009–present)
+[43]
+IEEE Chicago Section Awards Chair (2008–2010)
+[44]
+Senior Member of IEEE
+[45]
+Member of IEEE Power Engineering Society
+[46]
+Full member of Sigma Xi
+[47]
+Member of INFORMS
+ INVITED PRESENTATIONS
+ INVITED PRESENTATIONS
+07/2017        Harbin Institute of Technology
+06/2017        Xi’an Jiaotong University 
+06/2017        Shanghai Jiaotong University
+06/2017        Shanghai University of Electric Power
+06/2017        Hangzhou Dianzi University
+02/2017        University of Miami
+02/2017        Syracuse University
+01/2017        University of Michigan
+01/2017        Auburn University
+01/2017        University of Washington
+12/2016        Louisiana State University
+07/2016        Shanghai University of Electric Power
+07/2016        Southeast University
+06/2016        Zhejiang University
+06/2016    Tsinghua University
+Page 25 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+05/2016        Binghamton University
+02/2016        University of Louisville 
+09/2015        Tianjin University
+06/2015        Technical University of Denmark
+03/2015        Stanford University
+02/2015        University of Texas at San Antonio
+01/2015        Texas Tech University
+10/2014        University of North Carolina – Charlotte
+10/2014        Tsinghua University
+10/2014        University of Notre Dame
+10/2014        North China Electric Power University
+09/2014        University of Illinois at Chicago
+07/2014        City University of Hong Kong
+05/2014        Chinese University of Hong Kong
+03/2014        University of Sydney
+03/2014        University of New South Wales
+12/2013        Northwestern University
+09/2013        Rutgers University
+05/2013        Hong Kong University
+05/2013        Hong Kong Polytechnic University
+04/2013        University at Buffalo
+04/2013        Iowa State University
+02/2013        North Carolina State University
+02/2013        ABB
+04/2012        University of Pittsburgh
+02/2012        University of Florida
+10/2011        Auburn University
+06/2011        Federal Energy Regulatory Commission (FERC)
+09/2010        Northwestern University
+06/2010        Federal Energy Regulatory Commission (FERC)
+04/2010        IBM 
+Page 26 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+03/2010        Sandia National Labs
+06/2009        Mathematics and Computer Sciences division, Argonne National Laboratory, Argonne
+05/2009        Midwest Independent System Operator
+04/2009        Rockwell Collins
+04/2009        University of Iowa
+11/2008        Session chairperson: 19th Annual Argonne Symposium for Undergraduates in Science,
+                      Engineering and Mathematics, Argonne
+09/2008        Educational Programs division, Argonne National Laboratory, Argonne
+05/2008        State Power Economic Research Institute, China
+11/2007         University of Illinois at Urbana-Champaign, Urbana
+11/2007         Invited speaker at The 22nd International Conference on Advanced Science and 
+Technology (ICAST), Chicago
+11/2007        Session chairperson: 18th Annual Argonne Symposium for Undergraduates in Science, 
+Engineering and Mathematics, Argonne
+02/2007        Decision and Information Sciences division, Argonne National Laboratory, Argonne
+RESEARCH SUPERVISION AND OTHER TECHNICAL REVIEW ACTIVITIES
+2017                   NSF 
+2017                   University of Wisconsin-Milwaukee
+2017                   Member of PhD committee, University of Illinois at Chicago 
+2016                   University of Denver
+2016                   M.J. Murdock Charitable Trust
+2015                   University of Wisconsin - Milwaukee
+2014                   NSF – Energy, Power, Control and Networks (EPCN)
+2014                   Killam Fellowship Program, Canada Council for the Arts
+2014                   The Hong Kong Institute of Education (HKIEd)
+2014                   Netherlands Foundation for Fundamental Research on Matter (FOM)
+2014                   Kansas NSF EPSCoR
+2014                   Elsevier
+2014                   Iowa Energy Center
+2014                   University of Notre Dame
+2014                   The Danish Council for Independent Research 
+2014                   Member of PhD committee, Carnegie Mellon University
+2014, 2016        Swiss National Science Foundation (SNSF) 
+Page 27 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+2013                   National Commission for Scientific and Technological Research (CONICYT) - Chile
+2013                   Member of PhD committee, University of Delaware
+2013                   The Netherlands Organisation for Scientific Research (NWO)
+2013                   Deutsche Forschungsgemeinschaft (German Research Foundation)
+2013                   BPA
+2013                   Kentucky Science & Engineering Foundation 
+2013                   German-Jordanian University 
+2013                   Wiley
+2012                   North Dakota State University
+2012                   Elsevier
+2012                   Portuguese Foundation for Science and Technology (FCT)
+2012                   Member of PhD committee, University of Florida
+2012                   Member of PhD committee, Auburn University 
+2011                   Power Systems Engineering Research Center (PSERC)
+2011                   Wiley-IEEE Press
+2011                   The Danish Council for Independent Research
+2010               International Panel on Climate Change (IPCC)-Special Report on Renewable Energy 
+Sources and Climate Change Mitigation 
+2010–Present U.S. Department of Energy
+2010                   West Virginia University
+2010                   PhD thesis reviewer, Ben-Gurion University, Israel
+2010                   PhD thesis reviewer, Illinois Institute of Technology
+2009                   Lawrence Berkley National Laboratory
+2008                   External research project supervisor for the Hong Kong Polytechnic University
+CONSULTING ACTIVITIES
+2013   U.S. Agency for International Development (USAID)
+2012   U.S. Trade and Development Agency (USTDA)
+2007~  ADICA Consulting, LLC.
+VISITING FACULTY, POSTDOC AND STUDENTS
+Bo Chen, Postdoc, Texas A&M University (2017- Present)
+Rakesh Kumar Misra, Indian Institute of Technology (BHU) Varanasi (2017)
+Bo Zeng, Visiting Professor, North China Electric Power University (2016-2017)
+Page 28 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+Yang Li, Visiting Professor, Northeast Dianli University (2016-2018)
+Laijun Chen, Visiting Professor, Tsinghua University (2016-2017)
+Jiayong Li, Visiting Student, Hong Kong Polytechnic University (2017)
+Jiahua Hu, Visiting Student, Zhejiang University (2017)
+Yanfei Pan, Visiting Student, Tsinghua University (2017)
+Jinpeng Guo, Visiting Student, Tsinghua University (2017)
+Zhiwen Wang, Visiting Student, Tsinghua University (2017)
+Rui Li, Visiting Student, Tsinghua University (2017)
+Basel Alnajjab, Visiting Student, Lehigh University (2017)
+Huadong Chen, Visiting Student, Tsinghua University (2017)
+Songli Fan, Visiting Student, Shanghai Jiaotong University (2016-2017)
+Geng Wu, Visiting Student, North China Electric Power University (2016-2017)
+Guannan Lou, Southeast University (2017)
+Jie Mei, Visiting Student, Massachusetts Institute of Technology (2017)
+Bo Chen, Visiting Student, Texas A&M University (2016)
+Noemi González Cobos, Visiting Student, University of Castilla-La Mancha (2016)
+Darwin Alexis Quijano Rodezno, Visiting Student, Sao Paulo State University (2016)
+Jian Zhao, Visiting Student, Hong Kong Polytechnic University (2016)
+Yongjin Kim, Postdoc, Massachusetts Institute of Technology (2015-2016)
+Gang Huang, Visiting Student, Zhejiang University (2015)
+Bo Zou, Visiting Student, Zhejiang University (2015)
+Shuobo Lei, Visiting Student, University of Hong Kong (2015)
+Ming Yang, Visiting Professor, Shandong University (2015)
+Shujun Xin, Visiting Student, Tsinghua University (2015)
+Cheng Wang, Visiting Student, Tsinghua University (2015)
+Peijie Li, Visiting Professor, Guangxi University (2015)
+Xiaonan Lu, Postdoc, Tsinghua University (2015-2017)
+Junjian Qi, Postdoc, Tsinghua University (2015-2017)
+Runze Chen, Visiting Student, Tsinghua University (2016)
+Zeyu Wang, Visiting Student, University of Washington (2015)
+Yushi Tan, Visiting Student, University of Washington (2015)
+Page 29 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+Zhan Qin, Visiting Student, University at Buffalo (2015)
+Hui Lin, Visiting Student, University of Illinois – Urbana Champaign (2015)
+Hongxing Ye, Visiting Student, Illinois Institute of Technology (2015)
+Yanlong Sun, Visiting Student, Tsinghua University (2015)
+Hui Liu, Visiting Professor, Jiangsu University (2015)
+Chunyu Zhang, Visiting Student, Technical University of Denmark (2015)
+Liping Guo, Visiting Professor, Northern Illinois University (2015)
+Zhigang Li, Visiting Student, Tsinghua University (2015)
+Wei Yuan, Visiting Student, University of South Florida (2015)
+Ahmad Taha, Visiting Student, Purdue University (2015)
+Honghao Zheng, Visiting Student, University of Wisconsin at Madison (2015)
+Jana Heckenbergerova, Visiting Scholar, University of Pardubice (2014-2015)
+Emil Larsen, Visiting Student, Technical University of Denmark (2014)
+Xiaozhe Wang, Visiting Student, Cornell University (2014)
+Yezhou Wang, Visiting Student, University of Texas at Austin (2014)
+Mohammad Haj-ahmed, Visiting Student, Ohio State University (2014)
+Christine Chen, Visiting Student, University of Illinois (2014)
+Liangyi Sun, Visiting Student, Georgia Institute of Technology (2014)
+Ping Liu, Visiting Student, Mississippi State University (2014)
+Zhengshuo Li, Visiting Student, Tsinghua University (2014)
+Wann-Jiun Ma, Visiting Student, University of Notre Dame (2014)
+Feng Qiu, Postdoc, Georgia Institute of Technology (2013–2016)
+Chen Chen, Postdoc, Leigh University (2013–2016)
+Bokan Chen, Visiting Student, Iowa State University (2013)
+Daniel Alvarez, Visiting Student, Cornell University (2013)
+Jon Donadee, Visiting Student, Carnegie Mellon University (2013)
+Zhaoyu Wang, Visiting Student, Georgia Institute of Technology (2013)
+Duehee Lee, Visiting Student, University of Texas at Austin (2013)
+Chen Chen, Visiting Student, Lehigh University (2012)
+Gengyang Sun, Visiting Student, Lehigh University (2012)
+Zheng Hu, Visiting Student, University of Delaware (2012)
+Page 30 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+Chi Zhang, Visiting Student, Steven Institute of Technology (2012)
+Wencong Su, Visiting Student, North Carolina State University (2012)
+Yang Yang, Visiting Student, Northwestern University (2011–2012)
+Xi Yang, Visiting Student, Illinois Institute of Technology (2011–2012)
+Juan Ruiz, Visiting Student, Carnegie Mellon University (2011)
+Jorge Valenzuela, Visiting Professor, Auburn University (2010)
+Cong Liu, Postdoc, Illinois Institute of Technology (2010–2012)
+Zhi Zhou, Postdoc, Rensselaer Polytechnic Institute (2010–2012)
+James Ostrowski, Postdoc, Lehigh University (2010–2011)
+Qianfan Wang, Visiting Student, University of Florida (2010–2011)
+Jiaxin Ning, Visiting Student, Tennessee Tech University (2010)
+Fei Zhao, Visiting Student, Georgia Institute of Technology (2010)
+TECHNICAL SESSIONS CHAIRED AT INTERNATIONAL CONFERENCES
+TECHNICAL SESSIONS CHAIRED AT INTERNATIONAL CONFERENCES
+[1] Grid Resilience: Modernization Strategies and Advanced Power System Operations, IEEE PES 
+General Meetings, Washington DC, USA, 2014.
+[2] Flexible Infrastructure — A Necessary Ingredient for the Renewable Energy Future, IEEE PES 
+General Meetings, Vancouver, British Columbia, Canada, 2013.
+[3] Operational and Market Challenges in Markets with High Penetration of Renewable Energy 
+Sources, IEEE PES General Meetings, San Diego, California, 2012.
+[4] Advancements in Power Systems Operations with Variable Generation, IEEE PES General 
+Meetings, Detroit, Michigan, 2011.
+[5] Smart Grid Reliability, IEEE PES General Meetings, Detroit, Michigan, 2011.
+[6] Power System Planning, Industrial Engineering Research Conference (IERC), Reno, Nevada, 2011.
+[7] Renewables, Emissions Trading and Climate Change, INFORMS Annual meetings, Austin, Texas, 
+2010.
+[8] Improved Power System Operations with High Penetration of Wind Power: A Dialog Between 
+Academia and Industry, IEEE PES General Meetings, Minneapolis, Minnesota, 2010.
+[9] Advanced Power System Operations with Smart Grid Technologies, IEEE PES General Meetings, 
+Minneapolis, Minnesota, 2010.
+[10]
+Future Electric Power Systems — Vision, Challenges and Solutions, IEEE PES General 
+Meetings, Minneapolis, Minnesota, 2010.
+[11]
+Impact of High Penetration of Wind Power on Power System Operations, IEEE PES General 
+Meetings, Calgary, Alberta, Canada, 2009.
+[12]
+Interaction between Emission Market and Electricity Market, IEEE PES General Meetings, 
+Calgary, Alberta, Canada, 2009.
+Page 31 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----
+Sign in
+Sign in | Recent Site Activity
+Recent Site Activity | Report Abuse
+Report Abuse | Print Page
+Print Page | Powered By
+Powered By Google Sites
+Google Sites
+Page 32 of 32
+Jianhui Wang - Southern Methodist University/Argonne National Laboratory
+1/22/2018
+https://sites.google.com/site/eejhwang/
+
+-----

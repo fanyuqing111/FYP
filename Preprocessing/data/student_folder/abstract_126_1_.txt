@@ -1,0 +1,45 @@
+1 
+ 
+ 
+ABSTRACT 
+Among the various sensing techniques to measure current, current transformers (CTs) 
+are still widely used in most of the applications. The output current of a CT is inversely 
+proportional to the turn-ratio of secondary and primary windings; and therefore higher 
+number of secondary turns is preferred for better current sensing sensitivity. The maximum 
+induced output voltage across the burden resistor in the secondary circuit is directly 
+proportional to operating frequency, maximum flux density of the magnetic core, cross 
+section area of the magnetic core and the number of turns in the secondary winding. Besides 
+transforming primary current to secondary current, the CT itself consumes a portion of the 
+primary current for magnetizing current, eddy current loss and hysteresis loss. These currents 
+cause magnitude and phase errors in the measurement.  Magnetic cores with larger cross 
+sectional area are preferred to prevent saturation of the core and obtaining higher secondary 
+induced voltage. Commercially available CTs are usually bulky, rigid and heavy. The 
+motivation of this thesis is to explore the use of thin and highly flexible magnetic core for CT 
+design.   
+The major contribution of this thesis describes a comprehensive design guide, from 
+analysis to fabrication of an ultra-thin and highly flexible CT. The proposed CT is flexible 
+enough to wrap around an electrical cable for current sensing without taking much space.  
+The circuit model of the CT takes into consideration of the nonlinearity of the flexible 
+magnetic core based on the Jiles-Atherton (JA) hysteresis model, which is validated 
+experimentally. A combined errors compensation method for the current sensing 
+measurement is also proposed so that the CT can also be used for high current measurement.  
+ 
+Also, wireless senor network (WSN) forms the backbone to realize Internet of Things 
+(IoT). Autonomous devices with energy harvester are in demands. Among the available types 
+of energy, magnetic field arounds a power cable can be tapped for such purposes. Flexible 
+CT can also double up as an electromagnetic energy harvester to energize wireless 
+transceivers or any other low power sensor actuator device. Since priority is given on 
+harvesting maximum possible power, flexible magnetic material with higher saturation flux 
+density is required to optimize design analysis. The harvested alternating current is rectified 
+and voltage level is converted to drive a Bluetooth low energy (BLE) transceiver directly. 
+
+-----
+2 
+ 
+ 
+Excess energy is stored in a coin-cell Li-ion battery to use when primary energy source is 
+unavailable. This thesis presents an overall development of autonomous online-condition 
+monitoring systems to monitor current flow in power cables for energy management, safety 
+and protection by integrating flexible CTs for sensing and energy harvesting. 
+
+-----

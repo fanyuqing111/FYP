@@ -1,0 +1,65 @@
+ABSTRACT 
+Flow cytometry is an indispensable tool for identification, classification and enumeration 
+of single cells/particles in biomedical applications like pathology, immunology, gene sequencing, 
+chromosome sorting, biodefence and disease diagnosis. Flow cytometers represent a classic 
+example of multidisciplinary instrumentation involving integrated optical, mechanical and 
+electronic modules in synchronous operation, and are indeed a gold standard for chronic disease 
+diagnosis. However, the bulkiness and high cost limit their use in state-of-the-art research 
+laboratories and high-end clinical settings by skilled personnel. Recent advances in solid-state 
+optics and durable micro-fabrication techniques have inspired scientists and engineers to design 
+micro-flow cytometers that are portable, easy-to-operate and cost effective. A conventional flow 
+cytometer comprises of a nozzle system that aligns the input sample cells/particles into a focused 
+stream of single-cells/particles surrounded by a stream of sheath fluid. Sample focusing by this 
+method occurs as a result of differential pressure between the sample and the sheath stream. This 
+pressure-driven particle focusing technique is termed as sheath flow-assisted hydrodynamic 
+focusing. Most miniature flow cytometers also incorporate the same technique for focusing of 
+cells/particles in a microfluidic channel wherein the sample is directed through the main channel 
+and the surrounding sheath fluids are directed into the main channel through inlets on either side 
+of the main channel. This method narrows down the sample stream width, but it requires additional 
+modifications such as changes in the microfluidic channel geometry or active sources, for 
+achieving a single-line focused stream of cells in the outlet channel. Thus, multiple inlet and outlet 
+ports add complexity to the microfluidic set-up and limits reproducibility. Moreover, the presence 
+of sheath fluid results in sample dilution and reduction of the overall throughput of the lab-on-a-
+chip flow cytometer. The second hydrodynamic focusing technique used for particle focusing in 
+microfluidic channels is based on inertial forces. This sheathless particle focusing technique 
+usually employs a single inlet and single outlet microfluidic channel design. Nevertheless, it 
+requires hybrid channel geometries to reduce multiple equilibrium positions to a single position in 
+three dimensions. Thus, the first objective of the work presented in this thesis is to design a novel 
+microfluidic channel that is able to focus randomly distributed cells/particles at the inlet to a single 
+equilibrium position at the outlet using the sheathless, inertial forces-based hydrodynamic focusing 
+technique.  The proposed microfluidic channel geometry is a uniform square cross-section, single 
+
+-----
+inlet and single outlet microchannel, comprising a series of radially increasing semi-arcs 
+interleaved by linear sections, which is used to focus randomly fed cells/particles at the inlet to a 
+single equilibrium position at the outlet. The entire geometry is symmetric from the midline of the 
+microchannel. To our knowledge, this is the first sheathless microfluidic chip with a uniform cross-
+section throughout the microchannel length to achieve a stable single position focusing for 
+spherical particles/cells with diameters from 10 µm to 30 µm at fast flow rates (up to 700 µl/min). 
+Single position focusing for spherical particles/cells that satisfy the condition 0.1875 < a/w < 0.9 
+(where, a – diameter of the spherical particle/cell and w – width of the proposed microchannel) for 
+10 < Re < 150 is achieved. We present a lab-on-a-chip based miniature flow cytometer that 
+incorporates our proposed microfluidic chip integrated with tapered optical fibers for interrogating 
+the focused cells/particles. 
+Nanaoassays are imperative to extract any morphological or biological information from 
+flow cytometers. In the context of disease diagnosis, nanoassays are extensively used for providing 
+and enhancing the signals from biomolecules. Drug delivery, disease progression and prognosis is 
+studied using nanoassays designed using fluorescent beads, organic dyes, quantum dots, variable 
+sized-colored beads, etc. However, these assays cannot be used as simultaneous carrier 
+(biomolecules/drug/gene delivery) and signal providers (output/fluorescence signal). Thus, the 
+second objective of this work is to develop alternative non-toxic, stable and biocompatible 
+nanoassays that can be used for both biomolecule carriers and signals analysis for cancer diagnosis 
+and therapy. We have investigated the feasibility of using gold nanorods (AuNRs) and 
+biodegradable charged polyester-based vectors (BCPVs) as gene delivery nanovehicles and signal 
+providers in pancreatic cancer cells and chronic myeloid leukemia (CML) cells, respectively. 
+Following this, flow cytometer has been used to the measure the performance indicators- gene 
+transfection efficiency and cell apoptosis, and evaluate the effectiveness of the proposed 
+nanoassay. The excellent gene knockdown performance (over 81%) of the proposed model 
+support in vivo trials for RNAi-based cancer theranostics. Post transfection with AuNRs-siRNA 
+nanoprobes, the 14-16 µm pancreatic cancer cells can be readily focused in our engineered portable 
+flow cytometry set-up, and the transfection efficiency can be determined by measuring the output 
+fluorescent signal. The lab-on-a-chip flow cytometer offers distinct advantages when compared 
+with the conventional bulky flow cytometer: lower volume of samples is needed, fewer sample 
+preparation steps, cartridge-type one-off use chip, easier handling and operation, and low cost.  
+
+-----

@@ -1,0 +1,80 @@
+Abstract
+Data center storage architectures face rapidly increasing demands for data volume and
+Quality of Service (QoS) requirements today. Hybrid storage systems have turned out to
+be one of the most popular choices in fulfilling these demands. A mixture of various types
+of storage devices and structures enables architects to address performance and capacity
+concerns of users within one storage infrastructure. Nowadays, the hybrid storage system
+that utilizes SSD as the performance tier or cache and HDD as the main storage is still
+the main stream in data center system. With the performance and price gaps between
+different storage devices, the hybrid storage architecture will continue to be important in
+the future storage system design. There are lots of architectures, such as tiered storage,
+cache storage, etc. and policies, such as cache policy, replacement policy, etc. in the
+hybrid storage system, it is difficult to use a general mathematical model to capture
+all the features of the storage architecture. Therefore, we combine the simulation and
+modeling with cross verification to design an intelligent storage system with suitable
+caching algorithm.
+In the hybrid storage system, besides the performance requirement, the size of ca-
+pacity the storage system can provide is also important. Shingled Magnetic Recording
+(SMR) drives have unique features different from conventional disk drives, e.g., append-
+only (sequential) write, indirect address mapping and garbage collection. Batch process
+is also designed to fully utilize the sequential write property to improve the SMR drive
+performance. The selection of different system parameters and policies affects the sys-
+tem performance and capacity efficiency. However, there is no dedicated analytical tool
+available so far to guide the parameter and policy selection. Thus, an analytical model
+of SMR drive is built based on queuing model to fill the gap, and simulation is further
+ii
+
+-----
+conducted to validate the model and check the effects of different drive parameters. We
+illustrate the similarity of the analytical and simulation results, and show that our tool
+can be utilized as the guide of the SMR drive design
+In an SMR drive, due to its append-only write property, the data update is usually
+handled through a log-structured manner, which causes old data to become invalid and
+dirty. Garbage collection (GC) methods are therefore introduced to clean the dirty data
+to release the disk space. However, the necessity of GC process performed remains an
+issue, as the process may increase the power consumption and downgrade the perfor-
+mance. Thus our emphasis in this paper is placed on the decision of the process under
+different workload conditions and system settings for overall power consumption reduc-
+tion and disk space saving. An analytical model is built to study various scenarios, and
+a simulator is further developed to verify the correctness of the model.
+The SMR drive plays an important role in the hybrid storage system. To evaluate and
+compare the performance of different types of hybrid storage systems, a flexible hybrid
+storage system simulator is designed and developed to simulate various kinds of hybrid
+storage architectures and algorithms. The architectures include SSD tiering method, SSD
+caching method and SSD hybrid method, and the algorithms include different types of
+cache policies, such as read-only and write-back, and different kinds of hot data identifica-
+tion and data migration policies. The performance of these architectures and algorithms
+are evaluated and compared under different types of workload environment, and the re-
+sults can be utilized as a guide for future hybrid storage system design, and a benchmark
+for analyzing the other types of hybrid storage systems, which are the extension of these
+basic storage architectures.
+In a hybrid storage system, the caching policies, such as hot/cold identification and
+data migration flow controlling, play an important role that affects the system perfor-
+mance. Based on the storage system simulator, we can easily design and improve the
+caching policies inside a hybrid storage system to improve the system performance. In
+particular, the migration size is one of the key factors. Fixed size of data migration gener-
+ally cannot provide good performance when the workload properties change significantly.
+We design a hybrid caching algorithm based on fuzzy control and decision tree which
+iii
+
+-----
+can adaptively adjust the data migration policies according to the workload properties.
+The fuzzy rules can be automatically generated through the training process of decision
+tree classification and regression. From the simulation, we show that the hybrid disk
+performance can be improved up to 20% for dynamically changed workload.
+Meanwhile, traditional hybrid storage system only combines the performance tier
+with faster access speed and higher cost and the capacity tier with larger capacity and
+lower cost becomes popular to meet the increasing requirements of data volume and QoS.
+However, these storage systems do not fully utilize the sequential access properties and
+the non-limited write cycles of HDDs. This paper reveals a new approach to configure
+HDD and SSD in a novel hybrid structure such that the advantages of both sides can be
+fully utilized, i.e., the fast IO access of SSD (in particular for random access) and the
+non-limitation of write cycles of HDD. By carefully designing the disk data stripes, the
+(sequential) performance requirement for HDDs and SDDs can be matched in a certain
+degree. Therefore, they can be used in the same array/pool without considering the
+high/low tiers or fast/slow cache. Due to the performance match of sequential access in
+general, this design is more suitable for SMR drives (or CMR with MBC). This structure
+can then be further applied to RAID and EC schemes.
+iv
+
+-----

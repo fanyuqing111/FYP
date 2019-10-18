@@ -1,0 +1,84 @@
+ 
+ 
+Abstract
+Abstract 
+ 
+Gallium Nitride (GaN) with its large bandgap, high electron saturation velocity, and 
+critical electric field has been widely applied in the fabrication of illumination, high 
+frequency, and high-power devices. In addition, GaN has also been used for various 
+sensing applications such as UV and gas detectors, etc.  Another sensing application 
+for GaN is in radiation sensing.  This is because the Displacement Energy (ED) of GaN 
+is 20 eV which is much higher as compared to other semiconductors such as GaAs 
+and Si. Up till now, different research groups have successfully fabricated GaN 
+Schottky Barrier Diodes (SBD) and tested them for alpha particle detection. While 
+SBDs with thin epitaxial layers (<12 μm) could only detect low energy alpha particles 
+(<4.5 MeV) at -120 V, SBDs on bulk GaN substrate required very high voltage (-550V) 
+to detect higher energies (5.48 MeV). However, both bulk GaN SBDs and SBDs with 
+thin epitaxial layers show extremely poor performance at low voltages. The poor 
+performance of GaN-based radiation detector is due to the high Threading 
+Dislocation Density (TDD) and limited Depletion Width (DW). While high TDD 
+increases leakage current (IR), thus reducing the sensitivity of the detector, thin DW 
+restricts the maximum energy which can be detected by a GaN detector.   
+
+-----
+ 
+ 
+In this thesis, the focus is to reduce IR and increase DW by reducing TDD, Charge 
+Carrier Density (CCD), and increasing Drift Layer Thickness (DLT). While TDD was 
+successfully reduced (~3 orders) by employing a GaN-on-GaN structure, CCD was 
+reduced by compensating the un-intentionally doped n-type (Si) dopants with p-
+type (Mg) dopants. In addition, multiple Drift Layers (DL) of different thicknesses 
+were grown to improve the SBD performance further. Finally, the fabricated SBDs 
+were then tested as radiation detectors to detect higher energy (5.48 MeV) alpha 
+particles. 
+In this study, SBDs were fabricated on GaN-on-GaN wafers with 15 µm 
+compensated DL. Compensation of DL reduced CCD by ~2 orders resulting in 3-
+order reduction of IR (3 pA) and ~3 times improvement in Breakdown Voltage (VBD) 
+(1480 V) while having minimal impact on the forward current characteristics. To 
+further increase DW and understand the effect of change in DW on diode 
+characteristics, multiple SBDs were fabricated on GaN-on-GaN wafers with different 
+Drift Layer Thicknesses (DLT) (2 μm, 5 μm, 15 μm, and 30 μm). Increase in DLT 
+increases DW resulting in 1-order reduction in IR.  A linear increase in VBD from 560 
+V to 2400 V was observed with an increase in DLT. The measured VBD of 2400 V on 
+SBDs with 30 μm DLT is the highest reported value to date.  
+
+-----
+ 
+ 
+To further enhance the understanding of the physical causes for the reduction in IR 
+and increase in VBD, Conduction Mechanism (CM) and Activation energy (Ea) was 
+extracted from the IVT characteristics of the SBDs. It was found that the CM 
+changed from barrier modified Thermionic Field Emission (TFE) in conventional 
+SBDs to regular TFE in compensated SBDs with 15 µm DL due to lower CCD and 
+increased DW. Similarly, increasing DLT of SBD changed the CM from TFE to TE due 
+to the reduced probability of electron tunneling through thicker DW. Ea of ~0.4 eV 
+was extracted from IVT characteristics, which corresponds to activation of Mg-ions 
+used to compensate the n-type (Si) dopants. CM and Ea together provide a clear 
+understanding of the effect of compensation and change in DLT on the DW, thereby 
+IR and VBD.    
+Finally, SBDs with compensated DLT of 15 µm and 30 µm were tested for radiation 
+sensing applications by exposing them to Am-241 alpha particle source, which 
+releases a 5.48 MeV alpha particle. These SBDs exhibited a near-ideal Charge 
+Collection Efficiency (CCE) at 96.7% at -300 V (in 15 µm SBDs) and at -750 V (in 30 
+µm SBDs). The detectors with 15 µm DL also exhibited a CCE of 65% at a low biasing 
+voltage of -20V.  The measured CCE is 30% higher in comparison with other reported 
+GaN radiation detectors.  Furthermore, they exhibit 5 times lower variation of CCE 
+with a change in applied voltages from -20V to -80V. The dramatic reduction in CCE 
+variation with applied voltage and improvement in CCE is a result of the reduced 
+
+-----
+ 
+ 
+CCD due to the compensation by Mg in the grown GaN DL, which resulted in the 
+increased of DW for the fabricated GaN SBDs. 
+In summary, high energy detection at low voltages have been realized by reducing 
+TDD, CCD, and increasing DW. The designed GaN detectors function with high 
+efficiency even at low voltages.  These enhanced performances will help to realize 
+a radiation detector with high efficiency, smaller form factor, and increased 
+portability.  
+ 
+ 
+ 
+ 
+
+-----

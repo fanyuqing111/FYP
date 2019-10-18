@@ -1,0 +1,295 @@
+Search
+Sources
+Alerts
+Lists
+Help
+SciVal ↗
+Author details
+Hinton, Geoffrey E. 
+Google Inc., Mountain View, United States 
+Author ID: 7006699573
+Other name formats: Hinton, Geoffery E.
+Hinton, G.
+Hinton, G. E.
+View More
+About Scopus Author Identifier | View potential author matches 
+Documents:
+Analyze author output
+Citations:
+View citation overview
+h-index: 
+View h-graph
+Co-authors:
+Subject area:
+View docum
+View docum
+View docum
+Follow this Author
+Receive emails when this author 
+publishes new articles
+Get citation alerts 
+Add to ORCID
+Request author detail corrections
+Author History 
+Publication range: 1979 - Present 
+References: 2733
+Source history:
+Proceedings of the International Joint Conference on Neu
+Networks
+Computer Journal
+ICML 2010 - Proceedings, 27th International Conference 
+Machine Learning  
+View More 
+Show Related Affiliations
+Print |
+E-mail 
+200 
+43269 total citations by 29425 documents 
+73 
+140
+Computer Science ,  Engineering View More
+200 documents
+Export all |
+Add all to list
+|
+Set document alert |
+Set document feed 
+200 Documents | Cited by 29425 documents | 140 co-authors
+View all in search results format 
+Sort on: Date Cited by
+...
+ImageNet classification with deep convolutional neural 
+networks
+Krizhevsky, A., 
+Sutskever, I., Hinton, 
+G.E. 
+2017 Communications of the 
+ACM 
+View at Publisher
+Using fast weights to attend to the recent past
+Ba, J., Hinton, G., 
+Mnih, V., Leibo, J.Z., 
+Ionescu, C. 
+2016 Advances in Neural 
+Information Processing 
+Systems 
+Attend, infer, repeat: Fast scene understanding with 
+generative models
+Ali Eslami, S.M., 
+Heess, N., Weber, T., 
+(...), Kavukcuoglu, K., 
+Hinton, G.E. 
+2016 Advances in Neural 
+Information Processing 
+Systems 
+Deep learning
+Lecun, Y., Bengio, Y., 
+Hinton, G. 
+2015 Nature 
+View at Publisher
+Guest Editorial: Deep Learning
+Ranzato, M.’A., Hinton, 
+G., LeCun, Y. 
+2015 International Journal of 
+Computer Vision 
+View at Publisher
+Grammar as a foreign language
+Vinyals, O., Kaiser, L., 
+Koo, T., (...), 
+Sutskever, I., Hinton, 
+G. 
+2015 Advances in Neural 
+Information Processing 
+Systems 
+Application of deep belief networks for natural language 
+understanding
+Sarikaya, R., Hinton, 
+G.E., Deoras, A. 
+2014 IEEE Transactions on 
+Audio, Speech and 
+Language Processing 
+View at Publisher
+Where do features come from?
+Hinton, G. 
+2014 Cognitive Science 
+View at Publisher
+Autoregressive product of multi-frame predictions can 
+improve the accuracy of hybrid models
+Jaitly, N., Vanhoucke, 
+V., Hinton, G. 
+2014 Proceedings of the 
+Annual Conference of 
+the International Speech 
+Communication 
+Association, 
+INTERSPEECH 
+Dropout: A simple way to prevent neural networks from 
+overfitting
+Srivastava, N., Hinton, 
+G., Krizhevsky, A., 
+Sutskever, I., 
+Salakhutdinov, R. 
+2014 Journal of Machine 
+Learning Research 
+Open Access
+View at Publisher
+0
+0
+2
+1503
+5
+42
+66
+21
+10
+1242
+Years
+Documents
+Documents
+Citations
+Citations
+2007
+2018
+0
+20
+Register
+Login
+Page 1 of 3
+Scopus - Author details (Hinton, Geoffrey E.)
+22/8/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7006699573
+
+-----
+The data displayed above is compiled exclusively from articles published in the Scopus database. To request corrections to any inaccuracies or provide any further feedback, please contact us (registration required). 
+The data displayed above is subject to the privacy conditions contained in the privacy policy . 
+Top of page 
+Display: 
+results per page
+Page 1
+Modeling documents with a Deep Boltzmann Machine
+Srivastava, N., 
+Salakhutdinov, R., 
+Hinton, G. 
+2013 Uncertainty in Artificial 
+Intelligence - 
+Proceedings of the 29th 
+Conference, UAI 2013 
+Improving deep neural networks for LVCSR using 
+rectified linear units and dropout
+Dahl, G.E., Sainath, 
+T.N., Hinton, G.E. 
+2013 ICASSP, IEEE 
+International Conference 
+on Acoustics, Speech 
+and Signal Processing - 
+Proceedings 
+View at Publisher
+New types of deep neural network learning for speech 
+recognition and related applications: An overview
+Deng, L., Hinton, G., 
+Kingsbury, B. 
+2013 ICASSP, IEEE 
+International Conference 
+on Acoustics, Speech 
+and Signal Processing - 
+Proceedings 
+View at Publisher
+Speech recognition with deep recurrent neural networks
+Graves, A., Mohamed, 
+A.-R., Hinton, G. 
+2013 ICASSP, IEEE 
+International Conference 
+on Acoustics, Speech 
+and Signal Processing - 
+Proceedings 
+View at Publisher
+On rectified linear units for speech processing
+Zeiler, M.D., Ranzato, 
+M., Monga, R., (...), 
+Dean, J., Hinton, G.E. 
+2013 ICASSP, IEEE 
+International Conference 
+on Acoustics, Speech 
+and Signal Processing - 
+Proceedings 
+View at Publisher
+Modeling natural images using gated MRFs
+Ranzato, M., Mnih, V., 
+Susskind, J.M., Hinton, 
+G.E. 
+2013 IEEE Transactions on 
+Pattern Analysis and 
+Machine Intelligence 
+View at Publisher
+Using an autoencoder with deformable templates to 
+discover features for automated speech recognition
+Jaitly, N., Hinton, G.E. 
+2013 Proceedings of the 
+Annual Conference of 
+the International Speech 
+Communication 
+Association, 
+INTERSPEECH 
+Tensor analyzers
+Tang, Y., 
+Salakhutdinov, R., 
+Hinton, G. 
+2013 30th International 
+Conference on Machine 
+Learning, ICML 2013 
+On the importance of initialization and momentum in 
+deep learning
+Sutskever, I., Martens, 
+J., Dahl, G., Hinton, G. 
+2013 30th International 
+Conference on Machine 
+Learning, ICML 2013 
+A practical guide to training restricted boltzmann 
+machines
+Hinton, G.E. 
+2012 Lecture Notes in 
+Computer Science 
+(including subseries 
+Lecture Notes in 
+Artificial Intelligence and 
+Lecture Notes in 
+Bioinformatics) 
+View at Publisher
+34
+234
+119
+622
+129
+20
+9
+14
+237
+161
+20
+Page 2 of 3
+Scopus - Author details (Hinton, Geoffrey E.)
+22/8/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7006699573
+
+-----
+What is Scopus
+Content coverage
+Scopus blog
+Scopus API
+Privacy matters
+日本語に切り替える
+切换到简体中文
+切換到繁體中文
+Русский язык
+Help
+Contact us
+Terms and conditions
+Privacy policy
+Copyright © 2017 Elsevier B.V. All rights reserved. Scopus® is a registered trademark of Elsevier B.V.
+Cookies are set by this site. To decline them or learn more, visit our Cookies page.
+Page 3 of 3
+Scopus - Author details (Hinton, Geoffrey E.)
+22/8/2017
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7006699573
+
+-----
