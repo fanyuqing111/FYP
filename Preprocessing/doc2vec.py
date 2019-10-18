@@ -16,9 +16,10 @@ def generate_vector(model, doc):
 
 if __name__ == "__main__":
     DATA_FOLDER = "/Users/pangyujin/Development/FYP_project/Preprocessing/data"
+
     # train model from common_texts
     documents = [TaggedDocument(doc, [i]) for i, doc in enumerate(common_texts)]
-    model = Doc2Vec(documents, vector_size=128, min_count=1, workers=4)
+    model = Doc2Vec(documents, vector_size=128, min_count=1, dm=1, window=10, workers=4)
     model.delete_temporary_training_data(keep_doctags_vectors=True, keep_inference=True)
 
     result = parse_csv()
@@ -32,10 +33,6 @@ if __name__ == "__main__":
             with open(DATA_FOLDER + "/student_folder/" + filename, "r") as f:
                 input_string = normalize_string(f.read())
                 doc_list = input_string.split()
-                res = generate_vector(model, doc_list)
-                # print(i, ': ', res)
-                writer.writerow({"index": i, "vector": res.tolist()})
-            # except:
-            #     print("cannot find file: ", result[i])
-            #     break
+                vec = generate_vector(model, doc_list)
+                writer.writerow({"index": i, "vector": vec.tolist()})
         print("Result has been written to file")
