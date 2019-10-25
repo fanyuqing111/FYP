@@ -5,7 +5,7 @@ import numpy as np
 import sys
 sys.path.insert(1, '/Users/pangyujin/Development/FYP_project')
 from Preprocessing.preprocess import normalize_string
-from Preprocessing.read_csv import parse_csv
+from Preprocessing.read_csv import parse_csv, parse_label
 
 
 def generate_vector(model, doc):
@@ -23,8 +23,9 @@ if __name__ == "__main__":
     model.delete_temporary_training_data(keep_doctags_vectors=True, keep_inference=True)
 
     result = parse_csv()
+    labels = parse_label()
     with open("text_embedding_student.csv", "w") as csv_file:
-        fieldnames = ["index", "vector"]
+        fieldnames = ["index", "label", "vector"]
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
         for i in range(len(result)):
@@ -34,5 +35,5 @@ if __name__ == "__main__":
                 input_string = normalize_string(f.read())
                 doc_list = input_string.split()
                 vec = generate_vector(model, doc_list)
-                writer.writerow({"index": i, "vector": vec.tolist()})
+                writer.writerow({"index": i, "label": labels[i], "vector": vec.tolist()})
         print("Result has been written to file")
