@@ -1,14 +1,15 @@
 import csv
 import numpy as np
+import matplotlib.pyplot as plt
 import ast
 import sklearn
 from sklearn import svm
 from sklearn.metrics import accuracy_score
-from sklearn.model_selection import KFold
+from sklearn.model_selection import KFold, cross_val_score
 
 
 def converter(label_str):
-    labels = ['', 'antenna', 'battery', 'circuit', 'communications', 'control', 'data mining', 'electromagnetic', 'energy', 'fiber', 'image processing', 'laser', 'localization', 'machine learning', 'materials', 'math', 'network', 'nmr', 'optical', 'optoacoustic', 'optoelectronic', 'photonics', 'plasmonics', 'power', 'quantum', 'remote sensing', 'security', 'signal', 'solar']
+    labels = ['battery', 'communications', 'others', 'power', 'signal', 'circuit', 'optical', 'control', 'materials', 'machine learning']
     label_map = dict()
     for i, item in enumerate(labels):
         label_map[item] = i
@@ -38,7 +39,7 @@ def read_csv():
 if __name__ == "__main__":
     X, Y = read_csv()
 
-    classifier=svm.SVC(C=2,kernel='rbf',gamma=10,decision_function_shape='ovr') # ovr:一对多策略
+    classifier=svm.SVC(C=2,kernel='poly',gamma=10,decision_function_shape='ovr') # ovr:一对多策略
 
     kf = KFold(n_splits=5)
     kf.get_n_splits(X)
@@ -53,8 +54,10 @@ if __name__ == "__main__":
         print("Test Accuarcy: ",classifier.score(X_test,Y_test))
         i += 1
 
-    labels = ['', 'antenna', 'battery', 'circuit', 'communications', 'control', 'data mining', 'electromagnetic', 'energy', 'fiber', 'image processing', 'laser', 'localization', 'machine learning', 'materials', 'math', 'network', 'nmr', 'optical', 'optoacoustic', 'optoelectronic', 'photonics', 'plasmonics', 'power', 'quantum', 'remote sensing', 'security', 'signal', 'solar']
+    labels = ['battery', 'communications', 'others', 'power', 'signal', 'circuit', 'optical', 'control', 'materials', 'machine learning']
     for i, x in enumerate(X):
         inp = np.array([x])
-        # print(inp)
         print(i, "\tdata:", labels[Y[i]], "\t\tpredict:", labels[classifier.predict(inp)[0]])
+
+    scores = cross_val_score(classifier, X, Y, cv=4)
+    print("Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))

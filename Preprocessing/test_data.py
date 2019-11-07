@@ -49,7 +49,7 @@ if __name__ == "__main__":
     ax.set_ylabel('Principal Component 2', fontsize = 15)
     ax.set_title('2 component PCA', fontsize = 20)
 
-    labels = ['', 'antenna', 'battery', 'circuit', 'communications', 'control', 'data mining', 'electromagnetic', 'energy', 'fiber', 'image processing', 'laser', 'localization', 'machine learning', 'materials', 'math', 'network', 'nmr', 'optical', 'optoacoustic', 'optoelectronic', 'photonics', 'plasmonics', 'power', 'quantum', 'remote sensing', 'security', 'signal', 'solar']
+    labels = ['battery', 'communications', 'others', 'power', 'signal', 'circuit', 'optical', 'control', 'materials', 'machine learning']
     colors = cm.rainbow(np.linspace(0, 1, len(labels)))
 
     for label, color in zip(labels, colors):
