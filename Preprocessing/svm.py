@@ -1,15 +1,10 @@
 import csv
+import numpy as np
+import ast
 import sklearn
 from sklearn import svm
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import KFold
-import numpy as np
-import ast
-import pandas as pd
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import PCA
-import matplotlib.pyplot as plt
-import matplotlib.cm as cm
 
 
 def converter(label_str):
@@ -58,12 +53,8 @@ if __name__ == "__main__":
         print("Test Accuarcy: ",classifier.score(X_test,Y_test))
         i += 1
 
-
-    
-    # train_data,test_data,train_label,test_label =sklearn.model_selection.train_test_split(x,y, random_state=1, train_size=0.6,test_size=0.4)
-
-    # classifier=svm.SVC(C=2,kernel='rbf',gamma=10,decision_function_shape='ovr') # ovr:一对多策略
-    # classifier.fit(train_data,train_label)
-
-    # print("Train Accuracy: ",classifier.score(train_data,train_label))
-    # print("Test Accuarcy: ",classifier.score(test_data,test_label))
+    labels = ['', 'antenna', 'battery', 'circuit', 'communications', 'control', 'data mining', 'electromagnetic', 'energy', 'fiber', 'image processing', 'laser', 'localization', 'machine learning', 'materials', 'math', 'network', 'nmr', 'optical', 'optoacoustic', 'optoelectronic', 'photonics', 'plasmonics', 'power', 'quantum', 'remote sensing', 'security', 'signal', 'solar']
+    for i, x in enumerate(X):
+        inp = np.array([x])
+        # print(inp)
+        print(i, "\tdata:", labels[Y[i]], "\t\tpredict:", labels[classifier.predict(inp)[0]])
