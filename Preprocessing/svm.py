@@ -39,7 +39,7 @@ def read_csv():
 if __name__ == "__main__":
     X, Y = read_csv()
 
-    classifier=svm.SVC(C=2,kernel='poly',gamma=10,decision_function_shape='ovr') # ovr:一对多策略
+    classifier=svm.SVC(C=2,kernel='linear',gamma=10,decision_function_shape='ovr') # ovr:一对多策略
 
     kf = KFold(n_splits=5)
     kf.get_n_splits(X)
@@ -59,5 +59,5 @@ if __name__ == "__main__":
         inp = np.array([x])
         print(i, "\tdata:", labels[Y[i]], "\t\tpredict:", labels[classifier.predict(inp)[0]])
 
-    scores = cross_val_score(classifier, X, Y, cv=4)
-    print("Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))
+    # scores = cross_val_score(classifier, X, Y, cv=5)
+    # print("Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))

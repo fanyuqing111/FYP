@@ -1,4 +1,3 @@
-from gensim.test.utils import common_texts
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 import csv
 import numpy as np
@@ -18,7 +17,7 @@ def generate_vector(model, doc):
 if __name__ == "__main__":
     DATA_FOLDER = "/Users/pangyujin/Development/FYP_project/Preprocessing/data"
 
-    # train model from common_texts
+    # train model from own dataset
     my_corpus = load_corpus()
     documents = [TaggedDocument(doc, [i]) for i, doc in enumerate(my_corpus)]
     model = Doc2Vec(documents, vector_size=128, min_count=1, dm=1, window=10, workers=4)
